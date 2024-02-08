@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The very best new alternative tracks\. Cover: Dehd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,111,377 likes - 128 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,111,479 likes - 128 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 27 | [Nothing To Declare](https://open.spotify.com/track/5FbdXtJfcXb2UB8KJNAcQM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Nothing To Declare](https://open.spotify.com/album/7E9wJ7yAAw5UszQT80PuZ8) | 3:33 |
 | 28 | [When The Devil Speaks…](https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [When The Devil Speaks…](https://open.spotify.com/album/3sQh8PifUrBSJCg0x5YZLG) | 3:02 |
 | 29 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 |
-| 30 | [Even When The Sun is Dead](https://open.spotify.com/track/7zH3Qm6lu296i2owAENBLk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn) | 2:16 |
+| 30 | [Even When The Sun is Dead](https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/0aIrTtrBqrEHggWVEtErqb) | 2:16 |
 | 31 | [Dumbstruck Dumbf\*\*k](https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 2:58 |
 | 32 | [LUVsick! \(feat\. ThxSoMch\)](https://open.spotify.com/track/25Jrtcdo9UXZU5WkQmCZBx) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [LUVsick! \(feat\. ThxSoMch\)](https://open.spotify.com/album/1vEvFrtPycQbyVVqKtxUUb) | 2:32 |
 | 33 | [Pipe Down](https://open.spotify.com/track/688zECd3rFRSFq3i5EDf5w) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Pipe Down](https://open.spotify.com/album/5FgmQh0UVoKBqC3tnoBzTz) | 2:55 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 37 | [run away girl](https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [run away girl](https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2) | 3:50 |
 | 38 | [Pink Skies](https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:21 |
 | 39 | [Heaven In Your Hands](https://open.spotify.com/track/0Bfu8xiBLLtNk66S0CWnPY) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Heaven In Your Hands](https://open.spotify.com/album/57ZBVLIHtcXfBdicj7K1Tr) | 2:58 |
-| 40 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
+| 40 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 |
 | 41 | [My Condition](https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [My Condition](https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH) | 3:27 |
 | 42 | [Wish You Were Dead](https://open.spotify.com/track/6qFnjQ4ULgV9YU5ukUDdwE) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Wish You Were Dead](https://open.spotify.com/album/2hjnP74xPNWyC2PoS7eqJF) | 3:14 |
 | 43 | [Love To Walk Away](https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:07 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 127 | [Burton St.](https://open.spotify.com/track/3rDqVSKIclW1yVsnTVikcZ) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Burton St.](https://open.spotify.com/album/4VEZamvG17yncSjEaKvarZ) | 3:16 |
 | 128 | [Impressively Average](https://open.spotify.com/track/1sL6n9kMtrlAvPokQKlZGP) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Impressively Average](https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv) | 3:18 |
 
-Snapshot ID: `MCw3MDhkYzkwMDg0NTY1ODdlNmVmMjY0ZTZhMjFmNjc1ODQ4NWY5Njcy`
+Snapshot ID: `MCw0YTBlZmMwOGRkYTZlMjhhZWIzNTM5NGMzNzNiZDIyZmJkMzM3ZDM5`

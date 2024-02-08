@@ -4,7 +4,7 @@
 
 > your rock/alt cheat sheet feat\. the 2024 Rock Artists to Watch  \| Cover: Softcult
 
-2,129 songs - 4 day 16 hr 15 min
+2,130 songs - 4 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,7 +614,8 @@
 | [fetišh](https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [KLEPTO](https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT) | 2:13 | 2023-07-21 | 2023-09-09 |
 | [Fever Dream](https://open.spotify.com/track/56nQ0EwaDX0X1TFGrDVC0b) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/69QGJEAqtvEQ9hjwCCaPQk) | 5:06 | 2022-07-15 | 2022-09-03 |
 | [Fight 4 luv](https://open.spotify.com/track/2uP2DSCbBr8vXo5PWeYHNO) | [Dimitri Miller](https://open.spotify.com/artist/2ZKmcBDtaUAUMnNbCvNdhC) | [Bro...it's not that deep](https://open.spotify.com/album/4CDRjB3gXtisl1KinHU7f9) | 2:54 | 2023-10-27 | 2023-11-25 |
-| [Fight Club](https://open.spotify.com/track/0FEFxWAXIdiOmoYUunbvmM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Fight Club](https://open.spotify.com/album/4Iz5KATqaPjcE8HxlwsHB6) | 3:37 | 2023-12-08 |  |
+| [Fight Club](https://open.spotify.com/track/0FEFxWAXIdiOmoYUunbvmM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Fight Club](https://open.spotify.com/album/4Iz5KATqaPjcE8HxlwsHB6) | 3:37 | 2023-12-08 | 2024-02-08 |
+| [Fight Club](https://open.spotify.com/track/5UupaLxMiJS0dk06AldUGH) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:37 | 2024-02-02 |  |
 | [Final Summer](https://open.spotify.com/track/1Vl9uXkXwSCEit0hafWtFd) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Final Summer](https://open.spotify.com/album/1QXeBl2ZJ382SCUs2uqJK5) | 2:36 | 2023-11-03 | 2024-01-11 |
 | [Find It](https://open.spotify.com/track/6G4uzIFnML71nkshvWVX5L) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Find It](https://open.spotify.com/album/4iAzaDwYhQqqeAiy5rA0O9) | 2:45 | 2022-10-21 | 2023-03-11 |
 | [Fingernails](https://open.spotify.com/track/5spwALkCxee9CstWeKG7gF) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Fingernails](https://open.spotify.com/album/3V00aSV8gcalGAwjOkauKN) | 4:05 | 2022-04-29 | 2022-07-02 |

@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-984 songs - 2 day 11 hr 55 min
+985 songs - 2 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Como una Estrella \- En Casa](https://open.spotify.com/track/7woXUqx3Cn7h49HgIU5X7w) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Versiones Desde Casa](https://open.spotify.com/album/1PQNVCOEmfrrXD78NpT86n) | 3:10 | 2022-01-07 | 2022-07-18 |
 | [Compañera](https://open.spotify.com/track/7AuI0vUN6EPOa0YtEOCWcu) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Renacer](https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR) | 4:06 | 2022-04-13 | 2022-04-21 |
 | [Complicado y Aturdido / Mulher de Fases](https://open.spotify.com/track/1EkrLhI0P5Iml6qYHHKk30) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:54 | 2022-04-01 | 2022-04-16 |
-| [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 | 2023-07-28 |  |
+| [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 | 2023-07-28 | 2024-02-08 |
 | [Confesiones de Invierno](https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Confesiones De Invierno](https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx) | 4:05 | 2022-03-24 | 2022-04-21 |
 | [Confundido](https://open.spotify.com/track/01kWL1mMqJ7yGxv9dHg4xB) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ), [Daniel Melingo](https://open.spotify.com/artist/08X5fKnU2tkjH4IeLnl8vt), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Los Auténticos Reggaementes](https://open.spotify.com/album/3A4mYFF7YY2mZsucLHdEzr) | 4:05 | 2022-04-01 | 2022-04-08 |
 | [Corazón Delator](https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Corazón Delator](https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6) | 4:21 | 2023-05-15 | 2023-09-02 |
@@ -315,6 +315,7 @@
 | [El Perfume de Tu Amor](https://open.spotify.com/track/6XkFq1h2zBgeI98hkUknR6) | [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA) | [El Perfume de Tu Amor](https://open.spotify.com/album/3fBeBApxFBkxShzQj4MDUs) | 3:31 | 2022-04-13 | 2022-04-16 |
 | [El pescador de Barú](https://open.spotify.com/track/7ir6arYkzJsXsAkY9goF24) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn), [Istituto italiano di Cumbia](https://open.spotify.com/artist/6eS04mgMDaeQ3zx0e8fuW1) | [Antigua](https://open.spotify.com/album/7ycO0ov3bClBN6fWtdHiQQ) | 3:48 | 2022-03-28 | 2022-04-19 |
 | [El Pibe de los Astilleros](https://open.spotify.com/track/02ZtIbjdZKpvdeUNmY0LWp) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 3:32 | 2022-03-24 | 2024-01-04 |
+| [El Pibe de los Astilleros](https://open.spotify.com/track/2aWd3hLrewRnRA9gYcl9WS) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj) | 3:32 | 2024-01-12 |  |
 | [El Próximo Viernes](https://open.spotify.com/track/4DuOAJZhVrzH1mrIePb2tO) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [El Próximo Viernes](https://open.spotify.com/album/2nZfBiQN0iuWmUvsyRMpfA) | 4:19 | 2022-01-28 | 2022-07-29 |
 | [El Regalo \(feat\. Natalie Perez\)](https://open.spotify.com/track/4S6xZnnSy1gdUI2sOKW6LH) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [El Regalo \(feat\. Natalie Perez\)](https://open.spotify.com/album/6EpbvpUGQhhapliINC24Vm) | 2:46 | 2022-01-28 | 2022-04-13 |
 | [El Surco](https://open.spotify.com/track/1B2MXrs8aZSWYnEjWIddeO) | [Hermano Hormiga](https://open.spotify.com/artist/60bawIS0g1l1tRMhT5dIO3) | [Hermano Hormiga](https://open.spotify.com/album/6aIdPjtFKCllGsb7Y00CkN) | 3:01 | 2022-03-24 | 2022-04-12 |

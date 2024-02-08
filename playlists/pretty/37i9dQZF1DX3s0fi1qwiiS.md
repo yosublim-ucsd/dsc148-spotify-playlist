@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 
 > Who order Azul?
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,138 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,141 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 | 41 | [Otoolege](https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 6:40 |
 | 42 | [Chalice](https://open.spotify.com/track/189NJ59FgEoGzBnyKZzreG) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp), [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Chalice](https://open.spotify.com/album/2rSg6SEnAxqaokg6egTGU6) | 3:54 |
 | 43 | [Turn On The Lights](https://open.spotify.com/track/6RstYH2vOXeXnz5hj3Ppnv) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Turn On The Lights](https://open.spotify.com/album/7J1jyEOZjy5DJwPk3bXuou) | 2:50 |
-| 44 | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d) | 3:00 |
-| 45 | [AKWAABA](https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Patapaa](https://open.spotify.com/artist/2IiQaWRKteXMGLUcdHLBO9), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [AKWAABA](https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj) | 3:26 |
+| 44 | [AKWAABA](https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Patapaa](https://open.spotify.com/artist/2IiQaWRKteXMGLUcdHLBO9), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [AKWAABA](https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj) | 3:26 |
+| 45 | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d) | 3:00 |
 | 46 | [Wiase \(Y3d3 Remix\)](https://open.spotify.com/track/4eGieXDwiQ1RL980VAcQ5p) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Yung C](https://open.spotify.com/artist/4AmyHrK5ftoTr4qYrFGTlW) | [Wiase \(Y3d3 Remix\)](https://open.spotify.com/album/5iKIckXV57WUQ3LC6Ejd5x) | 4:36 |
 | 47 | [Omo Ada \(Dem Sleep\)](https://open.spotify.com/track/5Bj2UfTbE1NI3ZSpYl8Wbh) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Omo Ada \(Dem Sleep\)](https://open.spotify.com/album/16m64JfCcW9cgPVXsIkM1f) | 2:46 |
-| 48 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 |
+| 48 | [Mahama Paper](https://open.spotify.com/track/5vA0BlTP16GqJsieTaPRzp) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [After the Storm](https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6) | 3:55 |
 | 49 | [Happy Day](https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Happy Day](https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk) | 3:32 |
-| 50 | [Mahama Paper](https://open.spotify.com/track/5vA0BlTP16GqJsieTaPRzp) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [After the Storm](https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6) | 3:55 |
+| 50 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 |
 | 51 | [Angela](https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE) | 3:07 |
 | 52 | [Don't Keep Me Waiting](https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Don't Keep Me Waiting](https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR) | 3:47 |
 | 53 | [Odo](https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Odo](https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 | 59 | [Grind](https://open.spotify.com/track/2wN5MOqC1C9UeUjw4Z4DPo) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Grind](https://open.spotify.com/album/59IqtbSMonpFQaM1WngQig) | 3:47 |
 | 60 | [Killin Dem \(feat\. Zlatan\)](https://open.spotify.com/track/3a7ziOOO3Cbuv6BMXrj0wU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:41 |
 
-Snapshot ID: `MCxmZWM2NGQxZDI3ODAwNmNlMmZhOWE3NTUxZDMzYTFhMzlmMDA3Mzk2`
+Snapshot ID: `MCw5MDAxNTEzZWM1NmIxMzU4YWU5NmQ2OWU4ZWRhMTYyMDJmNDQwZmEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,059 likes - 69 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,099 likes - 69 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 37 | [Todos Um](https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Todos Um](https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF) | 3:31 |
 | 38 | [Eu, Poema: Releitura](https://open.spotify.com/track/16Bum18plc6ET7bEvEOq3Z) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS) | [Releituras](https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT) | 4:39 |
 | 39 | [Jesus At The Center \(Bonus Track\) \- Acoustic](https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Julia Vitória \- Acústico \(Ao Vivo\)](https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8) | 4:56 |
-| 40 | [Incrivelmente](https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS) | [Projeto Norte](https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe) | [Experimente a Jornada](https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0) | 4:27 |
-| 41 | [Tua Presença Vale Mais](https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Tua Presença Vale Mais](https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq) | 6:00 |
+| 40 | [Tua Presença Vale Mais](https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Tua Presença Vale Mais](https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq) | 6:00 |
+| 41 | [Incrivelmente](https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS) | [Projeto Norte](https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe) | [Experimente a Jornada](https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0) | 4:27 |
 | 42 | [Infinito Amor](https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL) | [Infinito Amor](https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv) | 4:03 |
 | 43 | [Mais Perto Quero Estar](https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [Mais Perto Quero Estar](https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC) | 3:21 |
-| 44 | [Raridade \(Releitura\)](https://open.spotify.com/track/7ChILVLENXtNdAGyavc9th) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Raridade \(Releitura\)](https://open.spotify.com/album/2iVGtuWpmNtP5Az2SUXAcj) | 4:16 |
-| 45 | [Só Penso Em Você \- Acústico](https://open.spotify.com/track/1Om4yaJpnDkrH6L3sA70D2) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Só Penso Em Você \(Acústico\)](https://open.spotify.com/album/1Zhps2KL1tFWr17ognMDJ1) | 6:00 |
+| 44 | [Só Penso Em Você \- Acústico](https://open.spotify.com/track/1Om4yaJpnDkrH6L3sA70D2) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Só Penso Em Você \(Acústico\)](https://open.spotify.com/album/1Zhps2KL1tFWr17ognMDJ1) | 6:00 |
+| 45 | [Raridade \(Releitura\)](https://open.spotify.com/track/7ChILVLENXtNdAGyavc9th) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Raridade \(Releitura\)](https://open.spotify.com/album/2iVGtuWpmNtP5Az2SUXAcj) | 4:16 |
 | 46 | [Sonhadora \(Versão Alternativa\) \- Acústico](https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Sonhadora \(Acústico\)](https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7) | 3:56 |
 | 47 | [Abençoada](https://open.spotify.com/track/0aVX67dzetn3Wz5OQ0G7o2) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Abençoada](https://open.spotify.com/album/2Px3s6xmp09u79C7JHfWYW) | 3:09 |
 | 48 | [Simples Oração](https://open.spotify.com/track/0H0lcJhH4r7XcBDm33ygaF) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Simples Oração](https://open.spotify.com/album/5aVCOOT4mtOb7vurfxiQJC) | 4:02 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 68 | [Visita](https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6) | [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Visita](https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr) | 4:47 |
 | 69 | [Meu Grande Amor \- Versão Cordas](https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i) | [Giselle Knevitz](https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM), [Brasa Church Music](https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A) | [Meu Grande Amor \(Versão Cordas\)](https://open.spotify.com/album/2B1yYnuXCiZQ5GCDUHEdIe) | 7:22 |
 
-Snapshot ID: `MCwyOTIzYzlhNTYwMDNkYTEzZWI0YWY0ZTMzYTkzZDA0NDY1YzU2OWQ1`
+Snapshot ID: `MCw0ZGU2YWM1ZDBkZDY0YTM5NTNhODZlM2I1NTBhZjY0ZGUyZmY3M2Jk`

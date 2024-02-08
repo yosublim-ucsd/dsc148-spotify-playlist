@@ -1,13 +1,29 @@
 {
-  "description": "\ud83d\udcbf The Tortured Poets Department \ud83d\udcbf",
-  "num_followers": 236408,
+  "description": "simmer down mami",
+  "num_followers": 236422,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWVhYTZjMWNiMTMyZDZkOWZjYjgxYWZiYmUyM2YyYzcyYWU0YjE1",
+  "snapshot_id": "MCxhZjEwM2ZlNzQxOTM2MWM2YzYwNzgyZTQzNzg3YjNhYjUwNjA5NTYz",
   "tracks": [
+    {
+      "added_at": "2024-01-26 07:16:21",
+      "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        }
+      ],
+      "duration_ms": 169051,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+    },
     {
       "added_at": "2024-02-02 12:41:19",
       "album": {
@@ -372,7 +388,7 @@
           "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
         }
       ],
-      "duration_ms": 161250,
+      "duration_ms": 161271,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
     },
@@ -461,22 +477,6 @@
       "url": "https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw"
     },
     {
-      "added_at": "2024-01-26 07:16:21",
-      "album": {
-        "name": "Grey",
-        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
-      },
-      "artists": [
-        {
-          "name": "Yung Filly",
-          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
-        }
-      ],
-      "duration_ms": 169051,
-      "name": "Grey",
-      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
-    },
-    {
       "added_at": "2024-01-24 17:24:02",
       "album": {
         "name": "act ii: date @ 8",
@@ -496,7 +496,7 @@
       "added_at": "2024-01-24 09:05:01",
       "album": {
         "name": "Home",
-        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
       },
       "artists": [
         {
@@ -506,7 +506,7 @@
       ],
       "duration_ms": 157485,
       "name": "Home",
-      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
       "added_at": "2024-01-24 09:05:01",
@@ -7349,7 +7349,7 @@
       "artists": [
         {
           "name": "Zai",
-          "url": "https://open.spotify.com/artist/0oDMyhCWLlDqEZkdE2p6xn"
+          "url": "https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII"
         }
       ],
       "duration_ms": 149587,
@@ -14409,7 +14409,7 @@
         }
       ],
       "duration_ms": 202093,
-      "name": "Lost in the Fire",
+      "name": "Lost in the Fire (feat. The Weeknd)",
       "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
     },
     {

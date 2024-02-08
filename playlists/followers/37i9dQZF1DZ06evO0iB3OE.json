@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 8478,
+  "2024-02-08": 8485,
   "date_first_scraped": "2022-06-02",
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
   "name": "This Is El Potro De Sinaloa",
@@ -133,7 +133,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 210626,
       "name": "Cien Por Uno",
       "url": "https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 181720,
       "name": "El Bar\u00f3n De Babonica",
       "url": "https://open.spotify.com/track/1SSGZ3in0ATCOkmp9r8iKy"

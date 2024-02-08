@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 
 > This is imase\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,913 likes - 18 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,937 likes - 19 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 | 13 | [逃避行](https://open.spotify.com/track/05qprPlYZoqBvtVKmSAXHT) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:12 |
 | 14 | [ピリオド](https://open.spotify.com/track/2W8JpBzB3rVus7hAdkQ4rx) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ピリオド](https://open.spotify.com/album/1JFVYi8DTfg8huBRXNTRsP) | 3:34 |
 | 15 | [Pale Rain](https://open.spotify.com/track/6YYC9PEH4T4rLTo5EcHgyF) | [imase with PUNPEE & Toby Fox](https://open.spotify.com/artist/0yiiGLiANIkpsBL3gvtqcC), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [Pale Rain](https://open.spotify.com/album/1LtevBef4ZzFe4wYMpRHBm) | 3:41 |
-| 16 | [アナログライフ](https://open.spotify.com/track/6iYr7CUH6RckGSB3yGOm81) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:13 |
-| 17 | [あべこべ](https://open.spotify.com/track/0q45T1ketsZRdCSwGOqgyW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:20 |
-| 18 | [Holy Light](https://open.spotify.com/track/3tv7UdosUc9mFML6crORV7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:17 |
+| 16 | [恋衣](https://open.spotify.com/track/3ky5XuA51Lz48YfCCcPsZg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [恋衣](https://open.spotify.com/album/1jbhSPkyBeQwhNfTamimKu) | 3:32 |
+| 17 | [アナログライフ](https://open.spotify.com/track/6iYr7CUH6RckGSB3yGOm81) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:13 |
+| 18 | [あべこべ](https://open.spotify.com/track/0q45T1ketsZRdCSwGOqgyW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:20 |
+| 19 | [Holy Light](https://open.spotify.com/track/3tv7UdosUc9mFML6crORV7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:17 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDBjODMwNjc0ZGM4YjJiMmVhM2JhMDNhZTFiZjgwNjY5YQ==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDBiY2Y5OGFiN2I1ZDQwMTAzNzBjNWU4OTg2Mjc5ZWRkOA==`

@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47752,
+  "num_followers": 47751,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTk0NyxlY2E4OTEyYzg5YWNmNDRhZjY0M2VkN2U1NWNhZWRiZGE2MDI4MDA2",
+  "snapshot_id": "MTk0OCxlNjU5MGQwOTI2ZDRmMzcxYTUxYjk5NGEyNzc3YzZmYjY4MzhlNmNl",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1493,22 +1493,6 @@
       "url": "https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg"
     },
     {
-      "added_at": "2023-10-11 09:45:03",
-      "album": {
-        "name": "Addicted To You",
-        "url": "https://open.spotify.com/album/7I8N13tWDwsbN0eHeqDhe8"
-      },
-      "artists": [
-        {
-          "name": "Dj Aaron Kennedy",
-          "url": "https://open.spotify.com/artist/0fqmjkXQOzhBaAQD5z7fYA"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Addicted To You",
-      "url": "https://open.spotify.com/track/4ryBTpSO8C7IvvG5pIWv5b"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "New Wave",
@@ -1573,6 +1557,26 @@
       "url": "https://open.spotify.com/track/7aAWrDRy3T52A95bDNfdlO"
     },
     {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Tell It To My Heart",
+        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 165524,
+      "name": "Tell It To My Heart",
+      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
+    },
+    {
       "added_at": "2023-09-08 10:17:34",
       "album": {
         "name": "Apologize (Andrew Lampa Remix)",
@@ -1595,26 +1599,6 @@
       "duration_ms": 120500,
       "name": "Apologize - Andrew Lampa Remix",
       "url": "https://open.spotify.com/track/1o6NVYOfLKS3IPvUUOdWQp"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "Tell It To My Heart",
-        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 165524,
-      "name": "Tell It To My Heart",
-      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1733,6 +1717,26 @@
       "url": "https://open.spotify.com/track/6pCXsuImno3nrSrop3BPMd"
     },
     {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "All That Really Matters",
+        "url": "https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 244235,
+      "name": "All That Really Matters",
+      "url": "https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv"
+    },
+    {
       "added_at": "2023-09-15 09:54:03",
       "album": {
         "name": "About You",
@@ -1755,26 +1759,6 @@
       "duration_ms": 152903,
       "name": "About You",
       "url": "https://open.spotify.com/track/08Du5O1UvnRDjlNvAnszkU"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "All That Really Matters",
-        "url": "https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 244235,
-      "name": "All That Really Matters",
-      "url": "https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -2063,6 +2047,26 @@
       "duration_ms": 170510,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/25qhCdtNV7jCiAbcxFxZgx"
+    },
+    {
+      "added_at": "2024-02-07 11:28:03",
+      "album": {
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 140698,
+      "name": "More Than Friends",
+      "url": "https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD"
     }
   ],
   "unique_name": "EDM Top 100",

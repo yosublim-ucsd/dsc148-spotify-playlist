@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 3481823,
+  "2024-02-08": 3482102,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Brazil.",
   "name": "Top 50 - Brazil",
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 136800,
       "name": "Amor Livre - Ao Vivo",
       "url": "https://open.spotify.com/track/3PGg3V56krasXrPKNvVLQU"
@@ -3095,7 +3095,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 209520,
       "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim (Counting My Blessings)",
       "url": "https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1"
@@ -5491,7 +5491,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 196988,
       "name": "Ela - Ao Vivo",
       "url": "https://open.spotify.com/track/1kWcd9h9HoeXsKaDVhSOtj"
@@ -6107,7 +6107,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 139616,
       "name": "Espuma Gelada - Ao Vivo",
       "url": "https://open.spotify.com/track/1LnGVaVSD2a4nKRL3kcIvu"
@@ -6477,7 +6477,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 169559,
       "name": "Eu N\u00e3o Dou Conta - Ao Vivo",
       "url": "https://open.spotify.com/track/0MHA5BjCqtYL3T0yZ138mz"
@@ -9363,7 +9363,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 166774,
       "name": "Le\u00e3o",
       "url": "https://open.spotify.com/track/53PpijFATt35Zxfl6LTxoK"
@@ -12297,7 +12297,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 132247,
       "name": "Nuuu Que Trem B\u00e3o - Ao vivo",
       "url": "https://open.spotify.com/track/4j43glFTBnFmFCiiV9CHoy"
@@ -12847,7 +12847,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 159158,
       "name": "Oi Balde - Ao Vivo",
       "url": "https://open.spotify.com/track/4xAGuRRKOgoaZbMGdmTD3N"
@@ -14209,6 +14209,24 @@
       "duration_ms": 187562,
       "name": "Posturado E Calmo",
       "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
+    },
+    {
+      "album": {
+        "name": "Praise Jah In The Moonlight",
+        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
       "album": {
@@ -17579,7 +17597,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 167551,
       "name": "Torce o Olho - Ao Vivo",
       "url": "https://open.spotify.com/track/4ykvcYpoXid0u9rvzZzNy8"
@@ -18665,7 +18683,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 151976,
       "name": "Vestido Curto - Ao Vivo",
       "url": "https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My"
@@ -19389,7 +19407,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "zumzumzum",
       "url": "https://open.spotify.com/track/6cRyy0XvzIdbSNzjYAOoFf"

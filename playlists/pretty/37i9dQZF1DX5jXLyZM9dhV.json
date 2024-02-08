@@ -1,12 +1,12 @@
 {
   "description": "Revive la \u00e9poca de los pantalones acampanados en compa\u00f1\u00eda de mam\u00e1.",
-  "num_followers": 41539,
+  "num_followers": 41548,
   "original_name": "Mam\u00e1 70era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTFiZDU2NjMzZDhhZDhkMjhhNWIwZDc2MTFjMjI1YjI0ZTk4NThj",
+  "snapshot_id": "MCxlOTRiYWJkZmUzMDdlODRiNjRmZmVlZTBmYTMxNGMxMTRmZDViMzAz",
   "tracks": [
     {
       "added_at": "2021-04-28 05:02:55",
@@ -783,6 +783,22 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 354240,
       "name": "Silly Love Songs - 2014 Remaster",
       "url": "https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF"
     },
     {
       "added_at": "2021-04-28 05:02:55",

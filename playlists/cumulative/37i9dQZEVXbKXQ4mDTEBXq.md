@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-392 songs - 1 day 0 hr 42 min
+393 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-11-19 | 2023-04-12 |
 | [Shiroi Koibitotachi \[2022 Remaster\]](https://open.spotify.com/track/3lVj9Znb5F2BpHMZmp1Id2) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Itsumo Dokokade](https://open.spotify.com/album/2nFXYmfqJ6f5YnQAX5227e) | 4:42 | 2023-12-24 | 2023-12-30 |
 | [SHOOTING STAR](https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:23 | 2023-02-04 | 2023-03-11 |
-| [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-09-08 |  |
+| [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-09-08 | 2024-02-08 |
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-18 | 2022-10-28 |
 | [silent](https://open.spotify.com/track/6c5k0VC9TBzlcKwtjpzFW2) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [silent](https://open.spotify.com/album/1zL4fVzGjGVuX6tMCUXUyg) | 5:08 | 2021-03-27\* | 2021-05-05 |
 | [silent](https://open.spotify.com/track/7LsVUX6kePVHSohmWmAwaO) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [scent of memory](https://open.spotify.com/album/4itk7c0pByLsMzpwsajyW3) | 5:10 | 2022-12-25 | 2022-12-29 |
@@ -309,6 +309,7 @@
 | [君に夢中](https://open.spotify.com/track/0oxWaHk4e669g5VHbQCflA) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [BADモード](https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij) | 4:17 | 2022-01-20 | 2022-03-23 |
 | [君に夢中](https://open.spotify.com/track/3mRNkUTu4ItqQ6GXy7L7KF) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [君に夢中](https://open.spotify.com/album/1FcGt8wyGckJfp7PlLPNdA) | 4:17 | 2021-11-28 | 2022-01-21 |
 | [君のまま](https://open.spotify.com/track/78NUnAsLzE6azxvuPDy9M7) | [百足](https://open.spotify.com/artist/4WgGn0neagCUyjQExpUBX7), [韻マン](https://open.spotify.com/artist/5KUOSKYLz09CFEp79nLJW5) | [君のまま](https://open.spotify.com/album/41CLZRQnCpvzfvi13Gl6EU) | 2:57 | 2023-02-26 | 2023-06-07 |
+| [唱](https://open.spotify.com/track/7o0TPSw494RG2Q4iWmd1v6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:09 | 2024-02-07 |  |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-04-09 | 2022-04-17 |
 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-07-18 | 2023-12-03 |
 | [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:18 | 2021-03-27\* | 2022-10-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,213 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 38 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 |
 | 39 | [falco](https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [road 2 neverland](https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8) | 3:29 |
 | 40 | [CEO of the friendship group](https://open.spotify.com/track/0LBvqSkfl9FgOuKYg04l1s) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [CEO of the friendship group](https://open.spotify.com/album/1s7zUfyNtrsXXoKvRGrNV1) | 1:48 |
-| 41 | [Familiar](https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Familiar](https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP) | 3:10 |
-| 42 | [multiverse](https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN) | [Maya Manuela](https://open.spotify.com/artist/12bvlSCl69py9uRW9vMJyw), [PEMBROKE](https://open.spotify.com/artist/1WSqNCME0xEyefXll8SWkE) | [multiverse](https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC) | 2:59 |
+| 41 | [multiverse](https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN) | [Maya Manuela](https://open.spotify.com/artist/12bvlSCl69py9uRW9vMJyw), [PEMBROKE](https://open.spotify.com/artist/1WSqNCME0xEyefXll8SWkE) | [multiverse](https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC) | 2:59 |
+| 42 | [Familiar](https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Familiar](https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP) | 3:10 |
 | 43 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 |
 | 44 | [Wana](https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [Wana](https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm) | 3:39 |
 | 45 | [Weird](https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Weird](https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk) | 3:36 |
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 56 | [Tinka](https://open.spotify.com/track/3qaRvg6ycuTAQKgTnlhpjn) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Tinka](https://open.spotify.com/album/6nklrGCdQRC5NUuYoM9DMP) | 3:19 |
 | 57 | [Cheapshot](https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Cheapshot](https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH) | 1:40 |
 | 58 | [Have I Ever Been](https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Same Streets But I Don't See You Around](https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg) | 2:53 |
-| 59 | [Daddy](https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Erotic Probiotic 2](https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI) | 4:06 |
-| 60 | [Can't Fake What You Feel](https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Can't Fake What You Feel](https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG) | 2:51 |
-| 61 | [Times It By Two](https://open.spotify.com/track/2PG64K0mmStEaVEARRurQm) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/296rlA2qhO9UrAxy7u9MNk) | 3:25 |
+| 59 | [Times It By Two](https://open.spotify.com/track/2PG64K0mmStEaVEARRurQm) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/296rlA2qhO9UrAxy7u9MNk) | 3:25 |
+| 60 | [Daddy](https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Erotic Probiotic 2](https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI) | 4:06 |
+| 61 | [Can't Fake What You Feel](https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Can't Fake What You Feel](https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG) | 2:51 |
 | 62 | [As Days Go By](https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge) | [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [As Days Go By](https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx) | 3:42 |
-| 63 | [let me go\*](https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [let me go\*](https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK) | 2:19 |
-| 64 | [Penthouse in The Sky](https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:35 |
-| 65 | [Anyway](https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Anyway](https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC) | 3:43 |
+| 63 | [Penthouse in The Sky](https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:35 |
+| 64 | [Anyway](https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Anyway](https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC) | 3:43 |
+| 65 | [let me go\*](https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [let me go\*](https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK) | 2:19 |
 | 66 | [My Future](https://open.spotify.com/track/0RRxs3flR3IsEYcaqXXpoe) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [My Future](https://open.spotify.com/album/4BKCOeBgzagiMFZxYA5buw) | 2:35 |
 | 67 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 |
 | 68 | [Sophie](https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [Sophie](https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I) | 3:14 |
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 79 | [Glowin 4 Me](https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Glowin 4 Me](https://open.spotify.com/album/6aziyhUkY3zHrW8ZVL9uds) | 2:25 |
 | 80 | [Blak Britney](https://open.spotify.com/track/2rg7VE22RwEfvFkLYJwfeY) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [Blak Britney](https://open.spotify.com/album/53qFc9lbBsEXdSdMbcxQsc) | 2:33 |
 | 81 | [Talk to Me](https://open.spotify.com/track/1x5vRfDFUZX8DV8OxV8GHb) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/05wLs4epCt9e5RKsmDJ8Zo) | 2:53 |
-| 82 | [Black Sheep](https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Black Sheep](https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w) | 3:30 |
-| 83 | [Muốn Bên Anh Thật Không](https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6) | [Muốn Bên Anh Thật Không](https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML) | 4:45 |
+| 82 | [Muốn Bên Anh Thật Không](https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6) | [Muốn Bên Anh Thật Không](https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML) | 4:45 |
+| 83 | [Black Sheep](https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Black Sheep](https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w) | 3:30 |
 | 84 | [After The Day Party](https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Outside](https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy) | 2:27 |
-| 85 | [Talk of the Town \- acoustic](https://open.spotify.com/track/15XKG1dgXflgyD5QhgX8XU) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Talk of the Town \(acoustic\)](https://open.spotify.com/album/3fdQxtSJHCwmliupnLFNlG) | 3:30 |
-| 86 | [Don Lemon](https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Don Lemon](https://open.spotify.com/album/10llpGOIEohzO6V2awCypr) | 3:41 |
+| 85 | [Don Lemon](https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Don Lemon](https://open.spotify.com/album/10llpGOIEohzO6V2awCypr) | 3:41 |
+| 86 | [Talk of the Town \- acoustic](https://open.spotify.com/track/15XKG1dgXflgyD5QhgX8XU) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Talk of the Town \(acoustic\)](https://open.spotify.com/album/3fdQxtSJHCwmliupnLFNlG) | 3:30 |
 | 87 | [Raining Tomorrow](https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Raining Tomorrow](https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY) | 3:48 |
 | 88 | [FROM YOUR EYES](https://open.spotify.com/track/4oLTnJoOgNRDHDhqDQVSC9) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [FROM YOUR EYES](https://open.spotify.com/album/2kYaOfiAbeYfYUBEaEBJXX) | 2:30 |
 | 89 | [Lonely](https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:11 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 91 | [Lemon Water](https://open.spotify.com/track/3GzSUcBazsbwPptbhP40dm) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Lemon Water](https://open.spotify.com/album/0xmNvYo6N9kBq9gjm25QT2) | 4:03 |
 | 92 | [styrofoam](https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [styrofoam](https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML) | 3:04 |
 | 93 | [Colder in June](https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Colder in June](https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn) | 3:51 |
-| 94 | [When i'm blue](https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [When i'm blue](https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC) | 4:41 |
-| 95 | [Bad B\*tch](https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Eurostar](https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m) | 1:31 |
+| 94 | [Bad B\*tch](https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Eurostar](https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m) | 1:31 |
+| 95 | [When i'm blue](https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [When i'm blue](https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC) | 4:41 |
 | 96 | [Better Than Him](https://open.spotify.com/track/6vucaejrSd21jHkXo3tHUu) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Before We Crash](https://open.spotify.com/album/2c8uHecoqDsOG1Exs7W9TC) | 3:49 |
 | 97 | [Lose You \- A COLORS SHOW](https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Lose You \- A COLORS SHOW](https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md) | 3:19 |
 | 98 | [Best Case Girl](https://open.spotify.com/track/7keAG1RvGg0pd3CExIVwu0) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [Best Case Girl](https://open.spotify.com/album/4xPgs4mLTECXBQEjEkq5mu) | 2:51 |
 | 99 | [choose u everytime](https://open.spotify.com/track/3OcFT2KkQ8xWEPl1mFyvTZ) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [choose u everytime](https://open.spotify.com/album/6M5xJWRZwxY6zbZSMqi7RV) | 3:36 |
 | 100 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 |
 
-Snapshot ID: `MCw4NDllMWY2NzQ5ZTMyOGEyMTcyOTc3OTc3NTUzNTI4MDQ4MWYxNmY0`
+Snapshot ID: `MCwzYzZhMTdiMmQyOTM5NGUxYWYxYjczNjc4OTI0OGZiNjdiZjAzNjQ2`

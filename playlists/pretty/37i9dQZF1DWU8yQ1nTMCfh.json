@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Isla Mujeres",
-  "num_followers": 279920,
+  "num_followers": 279935,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjk0YTE4OGEwZGE5ZDg0NjMwNTZkM2VhZTlkZGQ2NWJiNjY1ZGFi",
+  "snapshot_id": "MCwyY2QxMmUyZDdjMDcxODViNDk1ZDIwNDMwNzI5MDkzZDQ1YmZjMWQx",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "La \u00daltima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/1hPosK94j6gE80FZzEkgMy"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Obreg\u00f3n",
-          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
-        }
-      ],
-      "duration_ms": 157144,
-      "name": "La \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/3js8DzXWWL7hfRMumQRAAQ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Cama Vac\u00eda",
         "url": "https://open.spotify.com/album/5KX799gIKfPUtvGJP9t3DW"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 239974,
       "name": "Cama Vac\u00eda",
       "url": "https://open.spotify.com/track/5K8Exvm7PPo426jozW4m2q"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "La \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1hPosK94j6gE80FZzEkgMy"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Obreg\u00f3n",
+          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
+        }
+      ],
+      "duration_ms": 157144,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/3js8DzXWWL7hfRMumQRAAQ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 258573,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Sin Rencor Ni Mal De Amores",
         "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 198591,
       "name": "Sin Rencor Ni Mal De Amores",
       "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Greta Garbo",
-        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Nuestros mundos no obedecen a tus mapas",
-      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Greta Garbo",
+        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Nuestros mundos no obedecen a tus mapas",
+      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "S\u00f3lo D\u2019Lira",
         "url": "https://open.spotify.com/album/7oFmC5ecd2mIZt27j04eJ9"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Divergencia",
-        "url": "https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Divergencia",
-      "url": "https://open.spotify.com/track/0uA76b98PXOa8dtkjdqor8"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "santos inocentes",
         "url": "https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 172114,
       "name": "santos inocentes",
       "url": "https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Divergencia",
+        "url": "https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "Divergencia",
+      "url": "https://open.spotify.com/track/0uA76b98PXOa8dtkjdqor8"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Abismo",
+        "url": "https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 173499,
+      "name": "Abismo",
+      "url": "https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Su\u00e9ltate el pelo",
         "url": "https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 171904,
       "name": "Su\u00e9ltate el pelo",
       "url": "https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Abismo",
-        "url": "https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 173499,
-      "name": "Abismo",
-      "url": "https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
-        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
+        "name": "FLASHBACKS",
+        "url": "https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
         }
       ],
-      "duration_ms": 154070,
-      "name": "Eutanasia",
-      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
+      "duration_ms": 173000,
+      "name": "FLASHBACKS",
+      "url": "https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS"
     }
   ],
   "unique_name": "Rock Total",

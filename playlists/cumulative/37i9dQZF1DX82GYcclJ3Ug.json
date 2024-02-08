@@ -8260,7 +8260,7 @@
     {
       "album": {
         "name": "Even When The Sun is Dead",
-        "url": "https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn"
+        "url": "https://open.spotify.com/album/0aIrTtrBqrEHggWVEtErqb"
       },
       "artists": [
         {
@@ -8271,6 +8271,24 @@
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 136771,
+      "name": "Even When The Sun is Dead",
+      "url": "https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30"
+    },
+    {
+      "album": {
+        "name": "Even When The Sun is Dead",
+        "url": "https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-08",
       "duration_ms": 136771,
       "name": "Even When The Sun is Dead",
       "url": "https://open.spotify.com/track/7zH3Qm6lu296i2owAENBLk"
@@ -11990,10 +12008,28 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Peces Raros
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,664 likes - 65 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,667 likes - 65 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 64 | [Not Need It](https://open.spotify.com/track/3JpR5yPvDNApZeLojtnDR8) | [Josefina Muñoz](https://open.spotify.com/artist/4Sgool8oQXvdpcjQIrS0RO) | [Parasol Palm](https://open.spotify.com/album/1sotqkFkgrgXkspn2Xqrzi) | 7:15 |
 | 65 | [Serenade Of](https://open.spotify.com/track/6W4MGvqou0stPjsGDRmFEC) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Serenade Of](https://open.spotify.com/album/172jmC3FkDUT0O3Q4s8YuB) | 4:01 |
 
-Snapshot ID: `MCw4MjJhNTM1ZDgyZjBmMjU2MzkxOWM1N2EzODUzMDBkZmFmZGZiMjM1`
+Snapshot ID: `MCw3MGUwZjE3MGU0NWE4OGY3MWY1ODExNmJhNWQ5OTcyNjQ3ZGNiMzc4`

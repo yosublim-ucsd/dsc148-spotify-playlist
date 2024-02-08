@@ -1,12 +1,12 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 16479,
+  "num_followers": 16537,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDE3MDAzNTUwOWQ4NzgwNDYwY2YxNmIzODc2ZjQzNTc1YWMzN2E0",
+  "snapshot_id": "MCxiNzc3YzEyNzQ0ZWM5YWI5YTBmMTk1ZTI2ZDRlYjQwZjlmNzQzM2Fk",
   "tracks": [
     {
       "added_at": "2023-11-09 00:38:36",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
-        "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
       "artists": [
         {
-          "name": "Grupo Ensamble",
-          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
         }
       ],
-      "duration_ms": 226346,
-      "name": "Tus Jefes No Me Quieren",
-      "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
+      "duration_ms": 267226,
+      "name": "Kumbala",
+      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+        "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
+        "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
       },
       "artists": [
         {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+          "name": "Grupo Ensamble",
+          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
         }
       ],
-      "duration_ms": 267226,
-      "name": "Kumbala",
-      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
+      "duration_ms": 226346,
+      "name": "Tus Jefes No Me Quieren",
+      "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 307200,
-      "name": "Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "House Of Pleasure",
         "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 220133,
       "name": "Si No Le Contesto",
       "url": "https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Hansel & Raul 33",
-        "url": "https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0"
-      },
-      "artists": [
-        {
-          "name": "Hansel Y Raul",
-          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
-        }
-      ],
-      "duration_ms": 348600,
-      "name": "Ella Feat. Luis Enrique",
-      "url": "https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 359226,
       "name": "Nuestro Sue\u00f1o",
       "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Hansel & Raul 33",
+        "url": "https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0"
+      },
+      "artists": [
+        {
+          "name": "Hansel Y Raul",
+          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
+        }
+      ],
+      "duration_ms": 348600,
+      "name": "Ella Feat. Luis Enrique",
+      "url": "https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Un Sue\u00f1o Y Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0"
-      },
-      "artists": [
-        {
-          "name": "Grupo Polo Monta\u00f1es",
-          "url": "https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC"
-        }
-      ],
-      "duration_ms": 278613,
-      "name": "Un Sue\u00f1o Y Nada Mas",
-      "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Valedores Juveniles",
         "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 181394,
       "name": "No Estoy Muerto",
       "url": "https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Un Sue\u00f1o Y Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0"
+      },
+      "artists": [
+        {
+          "name": "Grupo Polo Monta\u00f1es",
+          "url": "https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC"
+        }
+      ],
+      "duration_ms": 278613,
+      "name": "Un Sue\u00f1o Y Nada Mas",
+      "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Donde Estas?",
-        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
-      },
-      "artists": [
-        {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
-        }
-      ],
-      "duration_ms": 290089,
-      "name": "Donde Estas?",
-      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Lo M\u00e1s Prendido de Rockdrigo Gonz\u00e1lez",
         "url": "https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 265589,
       "name": "No Tengo Tiempo",
       "url": "https://open.spotify.com/track/5xOW6mtZzHEtnLfekkg5fO"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Donde Estas?",
+        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "duration_ms": 290089,
+      "name": "Donde Estas?",
+      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Hasta El Cielo Lloro",
-        "url": "https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "Vuelvo A Sentir",
-      "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Sin Escencia",
         "url": "https://open.spotify.com/album/3G4proiHOSagEvS94X2txr"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 195960,
       "name": "Sin Escencia",
       "url": "https://open.spotify.com/track/3rIFRsEwKXVZCZBvGgMwLq"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Hasta El Cielo Lloro",
+        "url": "https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Vuelvo A Sentir",
+      "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "40 A\u00f1os Vol. 1",
-        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 294586,
-      "name": "A.D.O.",
-      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Mar\u00eda (Remastered)",
         "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 264289,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/0GMNzFmH1JTNBbA09az4Vw"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "40 A\u00f1os Vol. 1",
+        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 294586,
+      "name": "A.D.O.",
+      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Mi Cuerpo No Esta Hecho de Metal",
-        "url": "https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0"
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
       "artists": [
         {
-          "name": "Los Titanes de la Salsa",
-          "url": "https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi"
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 279591,
-      "name": "Mi Cuerpo No Esta Hecho de Metal",
-      "url": "https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6"
+      "duration_ms": 335621,
+      "name": "A Esa Gran Velocidad",
+      "url": "https://open.spotify.com/track/5dXKQ5MzrOPjFwtJEJZYuu"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1947,18 +1947,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Valedores Juveniles",
-        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+        "name": "Mi Cuerpo No Esta Hecho de Metal",
+        "url": "https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0"
       },
       "artists": [
         {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+          "name": "Los Titanes de la Salsa",
+          "url": "https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi"
         }
       ],
-      "duration_ms": 335621,
-      "name": "A Esa Gran Velocidad",
-      "url": "https://open.spotify.com/track/5dXKQ5MzrOPjFwtJEJZYuu"
+      "duration_ms": 279591,
+      "name": "Mi Cuerpo No Esta Hecho de Metal",
+      "url": "https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2147,22 +2147,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Suena Perreo",
-        "url": "https://open.spotify.com/album/3TwLgYFKn6hC7nHqjxi3Kj"
+        "name": "El cantante",
+        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
       },
       "artists": [
         {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "Michael G",
-          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 205408,
-      "name": "Suena Perreo",
-      "url": "https://open.spotify.com/track/0SCknxoIsIIzn6hhrwwg39"
+      "duration_ms": 217973,
+      "name": "Estadio Azteca",
+      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2183,18 +2179,22 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "El cantante",
-        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
+        "name": "Suena Perreo",
+        "url": "https://open.spotify.com/album/3TwLgYFKn6hC7nHqjxi3Kj"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
         }
       ],
-      "duration_ms": 217973,
-      "name": "Estadio Azteca",
-      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
+      "duration_ms": 205408,
+      "name": "Suena Perreo",
+      "url": "https://open.spotify.com/track/0SCknxoIsIIzn6hhrwwg39"
     },
     {
       "added_at": "2023-11-09 00:38:36",

@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 567991,
+  "num_followers": 568341,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTQ0MzAyYTkxMjEyNTI1ZDhmNWI4YjY1MzQxY2NiMDdhYjY0ZDgw",
+  "snapshot_id": "MCwyOWQ0NGY5MTkyZDYwNTIzNGY5ZGUxZjk0ZGUzMWE2MTUzYTIwM2Jh",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -363,26 +363,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/17LI3Izac2jjx89l1hqLST"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/2kNhZ57JHXkZPZH2rknRyu"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -971,6 +971,26 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Never Be Alone",
+        "url": "https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        }
+      ],
+      "duration_ms": 189087,
+      "name": "Never Be Alone",
+      "url": "https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX"
       },
@@ -991,22 +1011,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Never Be Alone",
-        "url": "https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM"
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
         }
       ],
-      "duration_ms": 189087,
-      "name": "Never Be Alone",
-      "url": "https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe"
+      "duration_ms": 173437,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1031,22 +1047,6 @@
       "duration_ms": 157205,
       "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
       "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "BELLYDANCING",
-        "url": "https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 122520,
-      "name": "BELLYDANCING",
-      "url": "https://open.spotify.com/track/74HBdKMibHlpW312HTFReN"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Heute Nacht",
         "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 204444,
       "name": "Heute Nacht",
       "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "BELLYDANCING",
+        "url": "https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 122520,
+      "name": "BELLYDANCING",
+      "url": "https://open.spotify.com/track/74HBdKMibHlpW312HTFReN"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "It's That Time",
         "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 240250,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1367,30 +1367,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "If Only I (feat. Bebe Rexha)",
-        "url": "https://open.spotify.com/album/2zpbQGsg44a9BahMS8EwIy"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 142756,
-      "name": "If Only I (feat. Bebe Rexha)",
-      "url": "https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Quest For Fire",
         "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
       },
@@ -1411,6 +1387,30 @@
       "duration_ms": 126774,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "If Only I (feat. Bebe Rexha)",
+        "url": "https://open.spotify.com/album/2zpbQGsg44a9BahMS8EwIy"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 142756,
+      "name": "If Only I (feat. Bebe Rexha)",
+      "url": "https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Gimme That Bounce",
+        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 217410,
+      "name": "Gimme That Bounce",
+      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 160714,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Gimme That Bounce",
-        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 217410,
-      "name": "Gimme That Bounce",
-      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Feel It (Club Edit)",
-        "url": "https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 124462,
-      "name": "Feel It - Club Edit",
-      "url": "https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Hey DJ",
         "url": "https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 157001,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Feel It (Club Edit)",
+        "url": "https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 124462,
+      "name": "Feel It - Club Edit",
+      "url": "https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "duration_ms": 179528,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Million Dollar Bill",
         "url": "https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 128024,
       "name": "Million Dollar Bill",
       "url": "https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        }
-      ],
-      "duration_ms": 179528,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
     },
     {
       "added_at": "2024-01-19 05:00:00",

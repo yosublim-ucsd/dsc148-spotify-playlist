@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Death Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,643 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,694 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 58 | [Dark Skies](https://open.spotify.com/track/72mLqLvPHY8RU0noE9CpKs) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Dark Skies](https://open.spotify.com/album/5NodXs8mlXnrAA0P6yu8n4) | 3:27 |
 | 59 | [Cardinals](https://open.spotify.com/track/723vVxxNycnmucEWfpvarT) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Cardinals](https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW) | 3:11 |
 | 60 | [Done Digging the Grave \(feat\. Andrew Neufeld\)](https://open.spotify.com/track/3kGj4YDFP58Umxf0uqmIpp) | [Ignite](https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr), [Andrew Neufeld](https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq) | [Done Digging the Grave \(feat\. Andrew Neufeld\)](https://open.spotify.com/album/474D8u6DPvfRn9jmyl6ggR) | 3:19 |
-| 61 | [Pressure Pad](https://open.spotify.com/track/57IFMHwEFTAtHYMfYDLozQ) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Pressure Pad](https://open.spotify.com/album/17nPf4Ob5eTHvi22wumDDo) | 3:28 |
+| 61 | [Pressure Pad](https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Down There!](https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi) | 3:28 |
 | 62 | [Stuck in a Dream](https://open.spotify.com/track/5DN4UT7DeL7CDkkqgrKKBZ) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Stuck in a Dream](https://open.spotify.com/album/4UiowcedUnLore1tPSqkM2) | 2:40 |
 | 63 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
 | 64 | [Parasites](https://open.spotify.com/track/2PvPwvinXuMcF82qkR9DqG) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Parasites](https://open.spotify.com/album/02Tb76LOod9iowVjS8r9sF) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Don't Tempt Me Baby...](https://open.spotify.com/track/1qWdq5lpytNveivQlgs1fq) | [First and Forever](https://open.spotify.com/artist/4yoepOpyKCDc3xDj0fX21r), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Joshua Roberts](https://open.spotify.com/artist/5KrUtVY5gE9p9U52TT42rR) | [Don't Tempt Me Baby...](https://open.spotify.com/album/6y5G5DVYchSEwlFui34a4N) | 2:36 |
 | 100 | [Bad Time](https://open.spotify.com/track/3ybguBEEMkpKz07SBefKW3) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Bad Time](https://open.spotify.com/album/3QgyHF06SLRbdwjk1cBxty) | 2:55 |
 
-Snapshot ID: `MCxiZTMwZTExMDE1OTdhYTA3ZDc3NTcyNjQwMWM5ODZkNWIyOGRkNGFj`
+Snapshot ID: `MCxiNjIxYTgyNDVjN2I0NzlkZGViOGYzYzAwM2M3N2IzN2YzNTc3MjYw`

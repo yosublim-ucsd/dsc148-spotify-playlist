@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/5qd5jaq5RmAtYWKdD6IXF8"
+      },
+      "artists": [
+        {
+          "name": "vowl.",
+          "url": "https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL"
+        },
+        {
+          "name": "Sace",
+          "url": "https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99823,
+      "name": "2000",
+      "url": "https://open.spotify.com/track/3vUMN9hezWjBac9UE8xkVd"
+    },
+    {
+      "album": {
         "name": "5% Tint X Creature",
         "url": "https://open.spotify.com/album/4ZUIKfKaAWiH9hFa8RXkAC"
       },
@@ -4500,6 +4522,24 @@
       "duration_ms": 192000,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
+    },
+    {
+      "album": {
+        "name": "Kerosene (Slowed)",
+        "url": "https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf"
+      },
+      "artists": [
+        {
+          "name": "fam0uz",
+          "url": "https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "Kerosene - Slowed",
+      "url": "https://open.spotify.com/track/2weO22kObPnyX1jKQStb40"
     },
     {
       "album": {

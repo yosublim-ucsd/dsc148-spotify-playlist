@@ -8887,6 +8887,24 @@
     },
     {
       "album": {
+        "name": "Goodbye to the Valley Low",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181130,
+      "name": "Stolen Seasons",
+      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+    },
+    {
+      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Bersuit Vergarabat en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,620 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,635 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 51 | [El Club Internacional de Astronautas Fracasados](https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Y Si un Día Explota el Planeta Quiero Tenerte Cerca](https://open.spotify.com/album/2QMRKiGFJXe93CzuQaxvZy) | 3:54 |
 | 52 | [Lunedad](https://open.spotify.com/track/48fTQdTObHQn1NjY4ftQk0) | [Hueso Colorado](https://open.spotify.com/artist/2xdzVFCqT6qAaKObPiH59W), [Caro Valenzuela](https://open.spotify.com/artist/1FnofQUJuuKmigKaan0XT3) | [Eva](https://open.spotify.com/album/2zb3I1hIU1kUHfoejnKOB6) | 3:08 |
 | 53 | [Por Siempre](https://open.spotify.com/track/6FLSb8CJwrcfXfzfD4ySji) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Por Encima](https://open.spotify.com/album/5zlSFpoGVWyxGBc76ye0L0) | 3:37 |
-| 54 | [Sabinal](https://open.spotify.com/track/6GdjcejLIYstjDTS111tKR) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/2VW2Arzox2JddtDvguuUU1) | 2:16 |
+| 54 | [Sabinal](https://open.spotify.com/track/7paWGmYSmpkjG8WL7uQtjt) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/0b0mXtRM4QGRVvnpJO4FoA) | 2:16 |
 | 55 | [Todo Cuenta](https://open.spotify.com/track/25ayfrtkcSJfE93B8mnhRT) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Primario](https://open.spotify.com/album/2ATnlNdhTGBHX9SYn3UoL0) | 3:52 |
 | 56 | [Quisiera Saber \(with Natalia Lafourcade\)](https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [A Casa](https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll) | 3:29 |
 | 57 | [Dulce Soledad](https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [Tantas Cosas Buenas](https://open.spotify.com/track/5FNvmP6LSxwbyQM3Dc7PkK) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:58 |
 | 100 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 |
 
-Snapshot ID: `MCxiNWMzYmVlMGY0YWZmNGVkZWE1OTBkYjE2NjkyMDNhOTIwNDQ4ZjQ0`
+Snapshot ID: `MCxiY2I3NmVhYjExMjhjZWUzMzJiNGNjYjIwOTA3YTcxYTE2NTIyNGQ0`

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,213 songs - 1 day 2 hr 55 min
+1,216 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1123,6 +1123,9 @@
 | [Upwards](https://open.spotify.com/track/47L8WONrTBph3ZUNTVKgvG) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Stillness](https://open.spotify.com/album/7eegP3dh7y7zGSuvwCOTFv) | 1:27 | 2024-01-29 |  |
 | [Uranus](https://open.spotify.com/track/5qtCt2wsn2uCbtHKP4dECE) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [The Planets](https://open.spotify.com/album/7ljRCBTVAkXyyDmZ2qNOgT) | 1:20 | 2022-01-15 |  |
 | [Valley](https://open.spotify.com/track/4ormDrl0tKJZ5A8qZFIWRg) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Nightfall](https://open.spotify.com/album/2ZqMA0BErQjA4p7pjJsCYJ) | 1:12 | 2022-01-12 |  |
+| [Valley](https://open.spotify.com/track/67bscEIDDCg7egHuyz4PLi) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Valley](https://open.spotify.com/album/7KZeTBaEsfFgVzAQHHhQki) | 1:00 | 2024-02-07 |  |
+| [Valley \- Cello Version](https://open.spotify.com/track/1Ulq1FPvO0ii2lXdURz8CA) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Valley \(Cello Version\)](https://open.spotify.com/album/1zToBJ7j6h0FYRmV618WnV) | 1:00 | 2024-02-07 |  |
+| [Valley \- Violin Version](https://open.spotify.com/track/61L0WBNGA0rFVmhY0d2gBK) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Valley \(Violin Version\)](https://open.spotify.com/album/07Aa6DIZi5ZhOQgKt3cDR2) | 1:00 | 2024-02-07 |  |
 | [Valley View](https://open.spotify.com/track/6uo58PfvauQnCxag52Vxch) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Three Lines](https://open.spotify.com/album/7aY2g4RCd4JQKCSSOkDqhx) | 1:13 | 2024-01-29 |  |
 | [Vanilla \- Cello Version](https://open.spotify.com/track/3DMMJDxdLWtZZGH32hZ57r) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Vanilla](https://open.spotify.com/album/0xctcVhf68ZLHnA7jJgY2t) | 1:01 | 2023-04-08 | 2024-01-30 |
 | [Velvet Melody](https://open.spotify.com/track/5h3VE6nX6foQpEEjMn6z9C) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Distant Lands](https://open.spotify.com/album/0AoKBXSnhjaWSlg07h6RBC) | 1:01 | 2022-08-25 | 2024-01-30 |

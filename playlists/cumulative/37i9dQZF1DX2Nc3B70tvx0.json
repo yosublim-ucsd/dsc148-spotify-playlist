@@ -1742,7 +1742,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 226133,
       "name": "All We Ever Do Is Talk",
       "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
@@ -4200,7 +4200,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 124504,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB"
@@ -5020,6 +5020,28 @@
       "duration_ms": 176480,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/3qOcLXQaamgc5R7pDQKQQp"
+    },
+    {
+      "album": {
+        "name": "Butterfly Net (feat. Weyes Blood)",
+        "url": "https://open.spotify.com/album/3rxjw1Di3SRicz2Z4eE4Pb"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333166,
+      "name": "Butterfly Net (feat. Weyes Blood)",
+      "url": "https://open.spotify.com/track/0NL61fJiDf07EAd2HzsNCW"
     },
     {
       "album": {
@@ -14084,10 +14106,28 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
       "album": {
@@ -24780,7 +24820,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 165413,
       "name": "Pet Rock",
       "url": "https://open.spotify.com/track/6WEsHmNIZIza01qGJNvjc3"

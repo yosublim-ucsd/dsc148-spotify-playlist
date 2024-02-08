@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,666 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,733 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 41 | [Everyday Life](https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 4:18 |
 | 42 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
 | 43 | [You Are My Sunshine](https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [You Are My Sunshine](https://open.spotify.com/album/5ueNN8xbGK6BMFnLjeiXUM) | 2:37 |
-| 44 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W) | 3:39 |
-| 45 | [Olalla](https://open.spotify.com/track/1z75CRovSzKUOpYbrV4Fuo) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC) | 4:08 |
+| 44 | [Olalla](https://open.spotify.com/track/1z75CRovSzKUOpYbrV4Fuo) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC) | 4:08 |
+| 45 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W) | 3:39 |
 | 46 | [Northern Sky](https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 3:44 |
 | 47 | [Ink](https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 3:48 |
 | 48 | [I'm Like A Bird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Spotify Singles](https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j) | 3:39 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 57 | [In Your Hands \- Single Version](https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [In Your Hands](https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA) | 3:50 |
 | 58 | [Fix You](https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu) | 4:21 |
 | 59 | [Paper Aeroplane](https://open.spotify.com/track/3XcvrvOCfSvK0mm6nOTw6d) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [A Book Like This](https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU) | 3:43 |
-| 60 | [Song For You](https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:58 |
-| 61 | [Every Breath You Take](https://open.spotify.com/track/5xvAGovFqj41SyAinwvwVV) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take](https://open.spotify.com/album/4RkkQtMpaSid30o3fieIlH) | 3:43 |
+| 60 | [Every Breath You Take](https://open.spotify.com/track/5xvAGovFqj41SyAinwvwVV) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take](https://open.spotify.com/album/4RkkQtMpaSid30o3fieIlH) | 3:43 |
+| 61 | [Song For You](https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:58 |
 | 62 | [Bad](https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 3:45 |
 | 63 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
 | 64 | [Dirty Old Town](https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [Goodnight \(Go Home\)](https://open.spotify.com/album/4VWuOzRhYZQ2Qo2upiTcbd) | 4:06 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 93 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
 | 94 | [una luz](https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:56 |
 | 95 | [A Song With No Name](https://open.spotify.com/track/3Ulj4AXe7s1gUZ7iByb9Jy) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 4:03 |
-| 96 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
-| 97 | [All of Me](https://open.spotify.com/track/0Ddm2WaOg8B1OCa6zamy4K) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 3:37 |
+| 96 | [All of Me](https://open.spotify.com/track/0Ddm2WaOg8B1OCa6zamy4K) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 3:37 |
+| 97 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 | 98 | [Moving in Slow Motion](https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x) | [The Sweet Remains](https://open.spotify.com/artist/35HoDSeQMKnwC1f4sng0eK) | [Laurel & Sunset](https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4) | 3:57 |
 | 99 | [Delicate](https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:12 |
 | 100 | [In Your Arms](https://open.spotify.com/track/2TC2RvlE8Op9aTQzhdYAx5) | [Felix Riebl](https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Paper Doors](https://open.spotify.com/album/39OhC1jSFTS9wIBQQRfuvY) | 3:28 |
 
-Snapshot ID: `MCw4MTViZTYzNjYwODZhMzU3NWJjNGQ0ZjAwZGE4NGEzY2U4ZDJmNTk1`
+Snapshot ID: `MCwxYTcwODBiMzg3NzgyOTUyN2Q4NmRmYWJmZTVlYWRlZDA4ZjgxM2Qz`

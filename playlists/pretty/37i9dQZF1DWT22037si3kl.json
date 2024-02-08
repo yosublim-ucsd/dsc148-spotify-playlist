@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: MC Caverinha",
-  "num_followers": 136514,
+  "num_followers": 136518,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2QwZTdmMDEyMWJiOGRmZDZkNGYwZTk0NmJjYTE3ODg2YzBiMTk2",
+  "snapshot_id": "MCwzY2E4YTQwODE4ODBkYWY5ZDBiZTM3M2RiZDQ5ZDUyM2RjYWQ3ZTQ2",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -95,6 +95,26 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Bonjour",
+        "url": "https://open.spotify.com/album/0Baa9kQydueBXW6jcAE6Tq"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 131927,
+      "name": "Bonjour",
+      "url": "https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 160000,
       "name": "Desfile na Favela",
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Bonjour",
-        "url": "https://open.spotify.com/album/0Baa9kQydueBXW6jcAE6Tq"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 131927,
-      "name": "Bonjour",
-      "url": "https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -287,30 +287,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Maturidade",
-        "url": "https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 142026,
-      "name": "Maturidade",
-      "url": "https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -339,6 +315,30 @@
       "duration_ms": 162506,
       "name": "Celine",
       "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Maturidade",
+        "url": "https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 142026,
+      "name": "Maturidade",
+      "url": "https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -459,8 +459,8 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9"
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
       "artists": [
         {
@@ -468,17 +468,17 @@
           "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
         },
         {
           "name": "C\u00fapula",
           "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Alma",
-      "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
+      "duration_ms": 148525,
+      "name": "Cheiro de Sexo",
+      "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -507,6 +507,34 @@
       "duration_ms": 245987,
       "name": "INEF\u00c1VEL (feat. Leviano)",
       "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "Yokame",
+          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
+        }
+      ],
+      "duration_ms": 136464,
+      "name": "Superficial",
+      "url": "https://open.spotify.com/track/6EOLDQz2rjwpZ2M5rApgH4"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -551,34 +579,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Contradi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "Yokame",
-          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
-        }
-      ],
-      "duration_ms": 136464,
-      "name": "Superficial",
-      "url": "https://open.spotify.com/track/6EOLDQz2rjwpZ2M5rApgH4"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "O Bagulho \u00c9 Trap II",
         "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
       },
@@ -599,8 +599,8 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9"
       },
       "artists": [
         {
@@ -608,17 +608,17 @@
           "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
         },
         {
           "name": "C\u00fapula",
           "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
         }
       ],
-      "duration_ms": 148525,
-      "name": "Cheiro de Sexo",
-      "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
+      "duration_ms": 216000,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
     },
     {
       "added_at": "2024-02-02 03:01:00",

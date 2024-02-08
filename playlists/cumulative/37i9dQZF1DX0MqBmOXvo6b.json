@@ -2799,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Felt Improvisations",
+        "url": "https://open.spotify.com/album/4hjtToG3IRrxVpfo6BiQaX"
+      },
+      "artists": [
+        {
+          "name": "Elias Kiefer",
+          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163812,
+      "name": "Felt Improv No. 10",
+      "url": "https://open.spotify.com/track/67821VRXVngHwGDcs2IKy3"
+    },
+    {
+      "album": {
         "name": "Fidelity",
         "url": "https://open.spotify.com/album/0NVSJ5RYhkcS30b9VKTsLh"
       },
@@ -4438,7 +4456,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 167030,
       "name": "Laurel Tree (Whispers)",
       "url": "https://open.spotify.com/track/2n1LkGURXqH7lP3J7vhcJr"
@@ -7156,7 +7174,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 136591,
       "name": "Rianmarsi",
       "url": "https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn"
@@ -9386,6 +9404,24 @@
       "duration_ms": 142625,
       "name": "The Scent Of New Days",
       "url": "https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT"
+    },
+    {
+      "album": {
+        "name": "The Seventh Wave",
+        "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
+      },
+      "artists": [
+        {
+          "name": "Colias Fieldii",
+          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128088,
+      "name": "The Seventh Wave",
+      "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
     },
     {
       "album": {

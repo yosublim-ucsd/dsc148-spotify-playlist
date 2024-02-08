@@ -4,7 +4,7 @@
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-209 songs - 11 hr 44 min
+210 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Roll On \(Eighteen Wheeler\)](https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Roll On](https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb) | 4:22 | 2021-10-28 |  |
 | [Same Ole Me](https://open.spotify.com/track/4yXvztnOOlSspO4W3MIsdd) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Still The Same Ole Me](https://open.spotify.com/album/37SDFDUGI4DBZt1YssNSNE) | 2:50 | 2021-10-28 |  |
 | [Seven Spanish Angels \(with Ray Charles\)](https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Friendship](https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g) | 3:51 | 2021-10-28 |  |
-| [Seven Year Ache](https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:14 | 2021-10-28 |  |
+| [Seven Year Ache](https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:14 | 2021-10-28 | 2024-02-08 |
+| [Seven Year Ache](https://open.spotify.com/track/4CLijHDH7Bd287Pv52BRb1) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Seven Year Ache](https://open.spotify.com/album/1nLAeFogJgO9s6Mb6ShASn) | 3:15 | 2023-08-21 |  |
 | [She Got the Goldmine \(I Got the Shaft\)](https://open.spotify.com/track/0AbYscoIblUGiNqn2Iw6fq) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 3:16 | 2021-10-28 |  |
 | [Simple Man](https://open.spotify.com/track/4O7sDupv5V7qEBk96qOZyi) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [Simple Man](https://open.spotify.com/album/3ntl3KgaLDbSnnuai9AusB) | 3:22 | 2022-07-25 |  |
 | [Slow Hand](https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Southern Comfort](https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9) | 2:54 | 2021-10-28 |  |

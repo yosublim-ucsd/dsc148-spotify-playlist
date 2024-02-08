@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,241 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,285 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 38 | [For Someone](https://open.spotify.com/track/4u42LckHYKddjPpUySqHnJ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Can Summer Love Last Forever?](https://open.spotify.com/album/409EdmKQVMvhRHpJSHBnJ3) | 4:43 |
 | 39 | [Both Sides Now](https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities 2](https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH) | 3:52 |
 | 40 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
-| 41 | [Malory](https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Malory](https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7) | 2:58 |
-| 42 | [Svarteboka](https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524), [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Svarteboka](https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC) | 4:00 |
+| 41 | [Svarteboka](https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524), [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Svarteboka](https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC) | 4:00 |
+| 42 | [Malory](https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Malory](https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7) | 2:58 |
 | 43 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
 | 44 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
 | 45 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Halsmandlar](https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Jag är sen igen](https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d) | 2:50 |
 | 60 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 |
 
-Snapshot ID: `MCwwMWVmOGRhMDk4NjU4OTE3MTljOWQwMGMyOTI0YWFiOThmZTI4OTVl`
+Snapshot ID: `MCwxZWM1ZjA3MzQwNDU2ZWZlYTgyYTRjMDI5NmU3Nzk0YjNlNjFhNjE0`

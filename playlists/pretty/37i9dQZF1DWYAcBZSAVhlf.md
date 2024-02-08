@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 
 > The best feel\-good songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,045 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,214 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 47 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 |
 | 48 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
 | 49 | [Don't Worry Be Happy](https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [Simple Pleasures](https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b) | 4:54 |
-| 50 | [You're My Heart, You're My Soul](https://open.spotify.com/track/0Zn63G0XTiqXwr1KSmARWz) | [Modern Talking](https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7) | [The First & Second Album \(30th Anniversary Edition\)](https://open.spotify.com/album/15JQStE0eqKcRp2tYzDoRD) | 5:34 |
-| 51 | [Dancing On The Ceiling](https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:30 |
+| 50 | [Dancing On The Ceiling](https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:30 |
+| 51 | [You're My Heart, You're My Soul](https://open.spotify.com/track/0Zn63G0XTiqXwr1KSmARWz) | [Modern Talking](https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7) | [The First & Second Album \(30th Anniversary Edition\)](https://open.spotify.com/album/15JQStE0eqKcRp2tYzDoRD) | 5:34 |
 | 52 | [\(I've Had\) The Time Of My Life](https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Best Of Bill Medley](https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr) | 4:49 |
 | 53 | [Live Is Life \(Digitally Remastered\) \(Single Version\)](https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4) | [Opus](https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47) | [Live Is Life](https://open.spotify.com/album/6QFG7oroyUrjT0LeXHt7CD) | 4:09 |
 | 54 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 76 | [Straight Up](https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso) | [Paula Abdul](https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j) | [Forever Your Girl](https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu) | 4:11 |
 | 77 | [Love Changes \(Everything\)](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Everything](https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C) | 4:28 |
 | 78 | [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:51 |
-| 79 | [Faith \- Remastered](https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6) | 3:13 |
-| 80 | [Beautiful Boy \(Darling Boy\) \- 2010 Remastered](https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Beautiful Boy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4rbWJkt4gXZI2UYvpNR0mD) | 4:02 |
+| 79 | [Beautiful Boy \(Darling Boy\) \- 2010 Remastered](https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Beautiful Boy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4rbWJkt4gXZI2UYvpNR0mD) | 4:02 |
+| 80 | [Faith \- Remastered](https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6) | 3:13 |
 | 81 | [The Loco\-Motion](https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv) | 3:13 |
 | 82 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv) | [Jermaine Stewart](https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3) | [Frantic Romantic](https://open.spotify.com/album/3OCmVGmewrfW3eZmLhRAIX) | 4:53 |
 | 83 | [Our House](https://open.spotify.com/track/1qV6e4ITnfGmA6m6Vklvbi) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 99 | [Hot In The City](https://open.spotify.com/track/5LeDMHIZ5YDZ2b1VOcYVcG) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k) | 3:39 |
 | 100 | [I'm Your Man](https://open.spotify.com/track/2gG7E5OZi5D5QLRIctv63z) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 4:03 |
 
-Snapshot ID: `MCw5MTg0ZjA5NjVkZmZlZjY1ZTNlYzg4YTMwNjIyMTYyZWM0ZDM3YTA0`
+Snapshot ID: `MCwxNjhlMGQ2MmE4YTBlNDczNzc2YTNhNGI1MGU1OGMyYTQ3Njc1ZWYy`

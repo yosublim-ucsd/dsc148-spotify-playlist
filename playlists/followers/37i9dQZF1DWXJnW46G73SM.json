@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 122106,
+  "2024-02-08": 122271,
   "date_first_scraped": "2021-12-28",
   "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0623\u0635\u0627\u0644\u0629\n",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
@@ -3596,6 +3596,24 @@
     },
     {
       "album": {
+        "name": "Lehqt Nafsy - Part 2",
+        "url": "https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290796,
+      "name": "Esheq El Rooh",
+      "url": "https://open.spotify.com/track/0qwdAX3DeYDfu8MvjtWAux"
+    },
+    {
+      "album": {
         "name": "Eshra W Meshwar",
         "url": "https://open.spotify.com/album/4xwt1kPZIqD7zAeICkVWWg"
       },
@@ -5585,7 +5603,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 178088,
       "name": "Kolo Falso",
       "url": "https://open.spotify.com/track/1il1wNIj3ful9IlWgxLRmX"
@@ -7908,6 +7926,28 @@
     },
     {
       "album": {
+        "name": "Red Bull Sika",
+        "url": "https://open.spotify.com/album/4C2MYpwVnY9eI16REXuX66"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        },
+        {
+          "name": "Malak",
+          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180599,
+      "name": "Nerga3 Le Awel Yom",
+      "url": "https://open.spotify.com/track/4vvC2mzVHEpN5sif3H3uk5"
+    },
+    {
+      "album": {
         "name": "Nos Banat Baldak",
         "url": "https://open.spotify.com/album/2k7h0V2XiWoHIEz0TercUZ"
       },
@@ -8631,7 +8671,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 178666,
       "name": "Salma Ya Salama",
       "url": "https://open.spotify.com/track/6iwHluwxrl5TU2cCin91ei"

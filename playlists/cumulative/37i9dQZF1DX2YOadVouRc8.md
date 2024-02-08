@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-366 songs - 18 hr 10 min
+367 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2022-06-09 | 2023-12-02 |
 | [Diamonds](https://open.spotify.com/track/0UEct6UTSjqEex8AHOUf5z) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 2:29 | 2024-01-15 |  |
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2022-06-09 | 2023-12-08 |
-| [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 | 2023-11-03 |  |
+| [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 | 2023-11-03 | 2024-02-08 |
 | [Do You Mind?](https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Do You Mind?](https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw) | 2:27 | 2023-05-26 | 2023-09-29 |
 | [Don't Let Me Down](https://open.spotify.com/track/2mEnZ17oGA7nPcBTRG2jLG) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Don't Let Me Down](https://open.spotify.com/album/45ZnWV7qkh537T4XsAjGOh) | 3:04 | 2023-10-13 |  |
 | [Dutty Love](https://open.spotify.com/track/6k7TGPkAitlkUamq2maMNT) | [Ojahbee](https://open.spotify.com/artist/0PssYXDV1kjmSuUVkxEQkY), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Dutty Love](https://open.spotify.com/album/5PJtsGGSWAP8qDTVu0zXJ4) | 2:51 | 2022-06-09 | 2023-05-12 |
@@ -145,6 +145,7 @@
 | [House Party](https://open.spotify.com/track/1Fi9F34fYmhJOwBqM1lUk8) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Patient Zero](https://open.spotify.com/album/7f1jBF06DtXBmFcPz1wIDo) | 2:32 | 2023-07-14 | 2023-09-29 |
 | [Hustler](https://open.spotify.com/track/7JPweWVt1wDEu7EFwvupCo) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Chequemate](https://open.spotify.com/album/2EPnjTlC52Hr4LPIHNjcjt) | 2:43 | 2023-07-28 | 2023-09-29 |
 | [Hypnotic](https://open.spotify.com/track/34JhQbb9lUXklugrGxG5d4) | [Lifesize Teddy](https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR) | [Lifesize Teddy](https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe) | 3:07 | 2023-08-10 | 2023-09-29 |
+| [I Dey Slide](https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [I Dey Slide](https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo) | 3:22 | 2024-02-02 |  |
 | [I Made It \(feat\. Bobby Shmurda & Bien\)](https://open.spotify.com/track/2xCAYXRU26CeRNchBUs91p) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [I Made It \(feat\. Bobby Shmurda & Bien\)](https://open.spotify.com/album/7yJk5o612tCEOe2mEaCX7t) | 4:28 | 2024-02-02 |  |
 | [I Saw An Angel On The Roof & Wept](https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 2:13 | 2022-11-25 | 2023-05-09 |
 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 | 2022-06-09 | 2022-10-01 |

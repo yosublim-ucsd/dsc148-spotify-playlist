@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 761245,
+  "num_followers": 761319,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmFhYWQ1NTIxZGM1ZTAxNjQyYzUzMDRlZDI1NDc1YzMzNThhM2Qx",
+  "snapshot_id": "MCw1NTBkZTI2NDllMWM5NDNlZGI1ODllNzYyYTgzMzM5NWUzMDM4OGFm",
   "tracks": [
     {
       "added_at": "2024-02-05 18:31:34",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-02-05 18:31:34",
       "album": {
-        "name": "Modern Primitive",
-        "url": "https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88"
-      },
-      "artists": [
-        {
-          "name": "Septicflesh",
-          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
-        }
-      ],
-      "duration_ms": 258838,
-      "name": "A Desert Throne",
-      "url": "https://open.spotify.com/track/3m3xlb2rdYGX5CZj0A8DBX"
-    },
-    {
-      "added_at": "2024-02-05 18:31:34",
-      "album": {
         "name": "Daughters Of The Night",
         "url": "https://open.spotify.com/album/2jtvxz7ihLYzIVjnaomd5J"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 265373,
       "name": "New Evil",
       "url": "https://open.spotify.com/track/2rDkRLPyZoeUz0Z5nLz4Lr"
+    },
+    {
+      "added_at": "2024-02-05 18:31:34",
+      "album": {
+        "name": "Modern Primitive",
+        "url": "https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88"
+      },
+      "artists": [
+        {
+          "name": "Septicflesh",
+          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
+        }
+      ],
+      "duration_ms": 258838,
+      "name": "A Desert Throne",
+      "url": "https://open.spotify.com/track/3m3xlb2rdYGX5CZj0A8DBX"
     },
     {
       "added_at": "2024-02-05 18:31:34",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-02-05 18:31:34",
       "album": {
-        "name": "Glory for Salvation",
-        "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
-      },
-      "artists": [
-        {
-          "name": "Rhapsody Of Fire",
-          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
-        }
-      ],
-      "duration_ms": 346053,
-      "name": "Son of Vengeance",
-      "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
-    },
-    {
-      "added_at": "2024-02-05 18:31:34",
-      "album": {
         "name": "Chapter III - Downfall",
         "url": "https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 234346,
       "name": "Eternal Rains",
       "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
+    },
+    {
+      "added_at": "2024-02-05 18:31:34",
+      "album": {
+        "name": "Glory for Salvation",
+        "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
+      },
+      "artists": [
+        {
+          "name": "Rhapsody Of Fire",
+          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
+        }
+      ],
+      "duration_ms": 346053,
+      "name": "Son of Vengeance",
+      "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
     },
     {
       "added_at": "2024-02-05 18:31:34",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-02-05 18:31:34",
       "album": {
+        "name": "Power of Will",
+        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Power of Will",
+      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
+    },
+    {
+      "added_at": "2024-02-05 18:31:34",
+      "album": {
         "name": "The Wicked Rule The Night",
         "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 264946,
       "name": "The Wicked Rule The Night",
       "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
-    },
-    {
-      "added_at": "2024-02-05 18:31:34",
-      "album": {
-        "name": "Power of Will",
-        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Power of Will",
-      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
     },
     {
       "added_at": "2024-02-05 18:31:34",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-02-05 18:31:34",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX"
-      },
-      "artists": [
-        {
-          "name": "Floor Jansen",
-          "url": "https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ"
-        }
-      ],
-      "duration_ms": 208859,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl"
-    },
-    {
-      "added_at": "2024-02-05 18:31:34",
-      "album": {
         "name": "Interrogativa Cantilena",
         "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
       },
@@ -807,6 +791,42 @@
       "duration_ms": 228000,
       "name": "Interrogativa Cantilena",
       "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
+    },
+    {
+      "added_at": "2024-02-05 18:31:34",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX"
+      },
+      "artists": [
+        {
+          "name": "Floor Jansen",
+          "url": "https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ"
+        }
+      ],
+      "duration_ms": 208859,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl"
+    },
+    {
+      "added_at": "2024-02-05 18:31:34",
+      "album": {
+        "name": "Femmes Fatales",
+        "url": "https://open.spotify.com/album/3fFk32pP90tlCnDvDhdY85"
+      },
+      "artists": [
+        {
+          "name": "Exit Eden",
+          "url": "https://open.spotify.com/artist/3h9p6ezLoqYJ0viEfqGE4j"
+        },
+        {
+          "name": "Marko Hietala",
+          "url": "https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00"
+        }
+      ],
+      "duration_ms": 292120,
+      "name": "Run! (feat. Marko Hietala)",
+      "url": "https://open.spotify.com/track/3Qu4tRvLzaN13fFkuAMlPg"
     },
     {
       "added_at": "2024-02-05 18:31:34",
@@ -843,26 +863,6 @@
     {
       "added_at": "2024-02-05 18:31:34",
       "album": {
-        "name": "Femmes Fatales",
-        "url": "https://open.spotify.com/album/3fFk32pP90tlCnDvDhdY85"
-      },
-      "artists": [
-        {
-          "name": "Exit Eden",
-          "url": "https://open.spotify.com/artist/3h9p6ezLoqYJ0viEfqGE4j"
-        },
-        {
-          "name": "Marko Hietala",
-          "url": "https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00"
-        }
-      ],
-      "duration_ms": 292120,
-      "name": "Run! (feat. Marko Hietala)",
-      "url": "https://open.spotify.com/track/3Qu4tRvLzaN13fFkuAMlPg"
-    },
-    {
-      "added_at": "2024-02-05 18:31:34",
-      "album": {
         "name": "Take My Hand (Bonus Track)",
         "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-02-05 18:31:34",
       "album": {
-        "name": "Seventh Rum of a Seventh Rum",
-        "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
-      },
-      "artists": [
-        {
-          "name": "Alestorm",
-          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
-        }
-      ],
-      "duration_ms": 201114,
-      "name": "Seventh Rum of a Seventh Rum",
-      "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
-    },
-    {
-      "added_at": "2024-02-05 18:31:34",
-      "album": {
         "name": "Nekonomicon",
         "url": "https://open.spotify.com/album/56dhYX1QaCsX3Kz3FgBOrJ"
       },
@@ -927,6 +911,38 @@
       "duration_ms": 237031,
       "name": "Dismantled",
       "url": "https://open.spotify.com/track/1JETidOlBrs1QsLHPdMUFP"
+    },
+    {
+      "added_at": "2024-02-05 18:31:34",
+      "album": {
+        "name": "Seventh Rum of a Seventh Rum",
+        "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        }
+      ],
+      "duration_ms": 201114,
+      "name": "Seventh Rum of a Seventh Rum",
+      "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
+    },
+    {
+      "added_at": "2024-02-05 18:31:34",
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/3vXgzqeNQPIT9RDgShcKun"
+      },
+      "artists": [
+        {
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
+        }
+      ],
+      "duration_ms": 275146,
+      "name": "The Gates of Time",
+      "url": "https://open.spotify.com/track/0s1mKQbBg91ig5E613Zhuz"
     },
     {
       "added_at": "2024-02-05 18:31:34",
@@ -967,6 +983,22 @@
     {
       "added_at": "2024-02-05 18:31:34",
       "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 314414,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
+    },
+    {
+      "added_at": "2024-02-05 18:31:34",
+      "album": {
         "name": "Queen of Shadow",
         "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
       },
@@ -987,34 +1019,18 @@
     {
       "added_at": "2024-02-05 18:31:34",
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/3vXgzqeNQPIT9RDgShcKun"
+        "name": "Krigsherren",
+        "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
       },
       "artists": [
         {
-          "name": "The Dark Side of the Moon",
-          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
+          "name": "Hulkoff",
+          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
         }
       ],
-      "duration_ms": 275146,
-      "name": "The Gates of Time",
-      "url": "https://open.spotify.com/track/0s1mKQbBg91ig5E613Zhuz"
-    },
-    {
-      "added_at": "2024-02-05 18:31:34",
-      "album": {
-        "name": "Experience",
-        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 314414,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
+      "duration_ms": 209440,
+      "name": "Krigsherren",
+      "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
     },
     {
       "added_at": "2024-02-05 18:31:34",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2024-02-05 18:31:34",
       "album": {
-        "name": "Krigsherren",
-        "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
-      },
-      "artists": [
-        {
-          "name": "Hulkoff",
-          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Krigsherren",
-      "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
-    },
-    {
-      "added_at": "2024-02-05 18:31:34",
-      "album": {
         "name": "Dragonwings",
         "url": "https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0"
       },
@@ -1071,22 +1071,6 @@
       "duration_ms": 243529,
       "name": "Dragonwings",
       "url": "https://open.spotify.com/track/4LNkBt5ErMrbXHeCPoDhzZ"
-    },
-    {
-      "added_at": "2024-02-05 18:31:34",
-      "album": {
-        "name": "Invaders",
-        "url": "https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4"
-      },
-      "artists": [
-        {
-          "name": "Civil War",
-          "url": "https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T"
-        }
-      ],
-      "duration_ms": 338000,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE"
     },
     {
       "added_at": "2024-02-05 18:31:34",
@@ -1111,6 +1095,22 @@
       "duration_ms": 271486,
       "name": "The Bell",
       "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
+    },
+    {
+      "added_at": "2024-02-05 18:31:34",
+      "album": {
+        "name": "Invaders",
+        "url": "https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4"
+      },
+      "artists": [
+        {
+          "name": "Civil War",
+          "url": "https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE"
     },
     {
       "added_at": "2024-02-05 18:31:34",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2024-02-05 18:31:34",
       "album": {
-        "name": "My Father's Son",
-        "url": "https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr"
-      },
-      "artists": [
-        {
-          "name": "Jani Liimatainen",
-          "url": "https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9"
-        },
-        {
-          "name": "Bjorn \"Speed\" Strid",
-          "url": "https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN"
-        }
-      ],
-      "duration_ms": 303253,
-      "name": "Breathing Divinity",
-      "url": "https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8"
-    },
-    {
-      "added_at": "2024-02-05 18:31:34",
-      "album": {
         "name": "Juokse Sin\u00e4 Humma",
         "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 259068,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
+    },
+    {
+      "added_at": "2024-02-05 18:31:34",
+      "album": {
+        "name": "My Father's Son",
+        "url": "https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr"
+      },
+      "artists": [
+        {
+          "name": "Jani Liimatainen",
+          "url": "https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9"
+        },
+        {
+          "name": "Bjorn \"Speed\" Strid",
+          "url": "https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN"
+        }
+      ],
+      "duration_ms": 303253,
+      "name": "Breathing Divinity",
+      "url": "https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8"
     },
     {
       "added_at": "2024-02-05 18:31:34",

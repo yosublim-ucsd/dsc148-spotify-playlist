@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,234 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,242 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 79 | [Faz Assim Mozão](https://open.spotify.com/track/5Y9Ovmryvd6AAxRo20UWR3) | [PTK](https://open.spotify.com/artist/4M7XfX7J0sw520nrZXkbpL), [Bero Costa DJ](https://open.spotify.com/artist/4m3zOv7q3RCCDkEI506vxD), [Signobeat](https://open.spotify.com/artist/2oyDLcP8d7oXp4rWHNIXol) | [Faz Assim Mozão](https://open.spotify.com/album/5CcgaUjR3LI7WSnwARqJCw) | 2:59 |
 | 80 | [Moderada](https://open.spotify.com/track/6ZIjjfDP7ztfZAT8s1cvXF) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe) | 1:32 |
 
-Snapshot ID: `MCxhYjljZGYzNjAyMjIwZTJiZmU5ZmU2ZTQwNjE3ZjAwOWY5MGZiMTFh`
+Snapshot ID: `MCw2OTkxMWRjNDdkMGVkNWY4YjQ5NDZhNzFlMzZjMTg3NjM1YzNjZDRh`

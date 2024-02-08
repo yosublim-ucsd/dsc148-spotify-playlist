@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 
 > Música ideal para tomar el té y relajar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,528 likes - 90 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,565 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 13 | [Te Para 3 \- MTV Unplugged](https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:07 |
 | 14 | [Cactus](https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:54 |
 | 15 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 |
-| 16 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
+| 16 | [Je ne t'aime plus](https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Clandestino](https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq) | 2:02 |
 | 17 | [Hablar de Ti](https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 3:25 |
-| 18 | [Je ne t'aime plus](https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Clandestino](https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq) | 2:02 |
+| 18 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
 | 19 | [A Las Nueve](https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:22 |
 | 20 | [Beso de Luna](https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:03 |
 | 21 | [She Will Be Loved \- Acoustic](https://open.spotify.com/track/2sLS4tVaEoMYrNS67PVz0V) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu) | 4:36 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 47 | [Tinta y Tiempo](https://open.spotify.com/track/3sNmeMXgzDw5887ClDLfXH) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Tinta y Tiempo](https://open.spotify.com/album/7drLytofGXezhYswIuCGHu) | 4:09 |
 | 48 | [Primavera](https://open.spotify.com/track/5Fganr8l64dNUWpk2622uD) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [MILLONES](https://open.spotify.com/album/0LuHp5vuF8zABveZHjoGgH) | 3:52 |
 | 49 | [Dulcito e Coco \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3hQR682FLOBZg22eYjPA6L) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 3:02 |
-| 50 | [A Primera Vista](https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [A Roar Of Southern Clouds](https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz) | 3:05 |
+| 50 | [Años Luz](https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:13 |
 | 51 | [Cure For Me \(feat\. Silvana Estrada\) \- Live](https://open.spotify.com/track/6PzoioDNJ88Vpgd9ZmyOVG) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cure For Me \(feat\. Silvana Estrada\) \[Live\]](https://open.spotify.com/album/4DDaWo4xz93U8e9BTTaLGI) | 3:51 |
-| 52 | [Años Luz](https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:13 |
+| 52 | [A Primera Vista](https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [A Roar Of Southern Clouds](https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz) | 3:05 |
 | 53 | [Te Encontré \(Acústico\)](https://open.spotify.com/track/1yB0GiaDvlGfLDJlaHSJyl) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 3:14 |
 | 54 | [Bailar Contigo](https://open.spotify.com/track/29iNhnoFkQBvOlUKn2io14) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bailar Contigo](https://open.spotify.com/album/5zi55pxYWY1hsKLZk4XWAf) | 3:40 |
 | 55 | [Algo Es Mejor](https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Algo Es Mejor](https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r) | 4:01 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 89 | [Mírenla \(Acústico\)](https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 4:25 |
 | 90 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 |
 
-Snapshot ID: `MCwyYTY3ZmQ0ZjhkOWU4ZjM0MTM0MDU5MTNhN2FmY2VmZTIxNGE2YjFh`
+Snapshot ID: `MCw5NzdiNDA1N2VjYzFmMGYyYjZlYjAxNzU3ZDg5ZTU0MDcxM2FmY2M4`

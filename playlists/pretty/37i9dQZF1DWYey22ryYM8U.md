@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: Juan Luis Guerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,807 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,787 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 99 | [Llego El Real Remix](https://open.spotify.com/track/0vwDHIuKLryWpMjh1XsOsF) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Llego El Real Remix](https://open.spotify.com/album/0Fmk6OWP7ZPgLQNHXWSJV8) | 3:41 |
 | 100 | [Sopita](https://open.spotify.com/track/4eXzQyAZ4jow5Hh41vqfgb) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Sopita](https://open.spotify.com/album/7aeqawsfMYRteFQJ3Srl5I) | 3:26 |
 
-Snapshot ID: `MCxkMjk0NjUwZTVjMWJhMTUwNTRhZTUyNDc3ZDVlYmVhMTA5YmNlZWNi`
+Snapshot ID: `MCxkNDk3ZmJhZDY1ZDU0OTk4YTY1ZTk4YmU1ZjkxYmJkMjY5NzcxYmQ2`

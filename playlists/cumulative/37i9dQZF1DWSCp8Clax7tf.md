@@ -4,7 +4,7 @@
 
 > The Women who put Country Music on the map\. Cover: Loretta Lynn
 
-125 songs - 7 hr 0 min
+126 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Paper Roses](https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1) | [Marie Osmond](https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj) | [20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond](https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM) | 2:38 | 2021-10-22 |  |
 | [Passionate Kisses](https://open.spotify.com/track/46d72HjfyfN18PpRNzIRqY) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [Come On Come On](https://open.spotify.com/album/1PLDejXS69FJQ19iwzEPvY) | 3:21 | 2021-10-22 |  |
 | [Rose Garden](https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af) | 2:55 | 2021-10-22 |  |
-| [Seven Year Ache](https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:14 | 2021-10-22 |  |
+| [Seven Year Ache](https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:14 | 2021-10-22 | 2024-02-08 |
+| [Seven Year Ache](https://open.spotify.com/track/4CLijHDH7Bd287Pv52BRb1) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Seven Year Ache](https://open.spotify.com/album/1nLAeFogJgO9s6Mb6ShASn) | 3:15 | 2023-02-13 |  |
 | [She's In Love With The Boy \- Single Version](https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Trisha Yearwood](https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI) | 4:08 | 2021-10-22 |  |
 | [Shut Up And Drive](https://open.spotify.com/track/59aKpxi49wtCe9a1CscDTc) | [Chely Wright](https://open.spotify.com/artist/1aSIXmBKKrEVIbGLwhedIe) | [Let Me In](https://open.spotify.com/album/07eW2eBZwtpfDkSWOAB3jv) | 3:49 | 2021-10-22 |  |
 | [Shut Up and Kiss Me](https://open.spotify.com/track/2JdhhL0CzxiAKCvEg9EeLf) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [The Essential Mary Chapin Carpenter](https://open.spotify.com/album/5XZgZAIHcrnQwcAWq4Tbn9) | 3:41 | 2022-03-01 |  |

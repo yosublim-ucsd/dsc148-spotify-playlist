@@ -4,7 +4,7 @@
 
 > The official playlist for 365 Days trilogy\. Watch now on Netflix!
 
-81 songs - 3 hr 57 min
+83 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Angels](https://open.spotify.com/track/4PgdSZS720ErmKQDzjnvua) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Angels](https://open.spotify.com/album/012pAQ6ldAM27cdVKIOAXK) | 2:26 | 2022-08-19 |  |
 | [Another Day](https://open.spotify.com/track/1s6hnnmUZtMFTHO0gJvcNZ) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Another Day](https://open.spotify.com/album/3RZrWTzG26JucuyLCR78c4) | 3:09 | 2022-08-19 |  |
 | [Another Wave](https://open.spotify.com/track/5d3KvWvuu5qpYCbpZX163x) | [Raphael Lake](https://open.spotify.com/artist/1jHQI26XkjY8BHwvDnh9Jw) | [Disco Pop](https://open.spotify.com/album/1fqRT8C9oIioQRyanc7Teq) | 3:12 | 2022-08-19 |  |
-| [Barbara Wants](https://open.spotify.com/track/0fx5TUxwrHlz6hKjNZfQpp) | [The Sometimes Island](https://open.spotify.com/artist/3SqtHH9uGzfm9UIc7veyuK) | [Beverly & Barbara](https://open.spotify.com/album/7xjC8FefVplGzNy7bTENm4) | 5:08 | 2022-08-19 |  |
+| [Barbara Wants](https://open.spotify.com/track/0fx5TUxwrHlz6hKjNZfQpp) | [The Sometimes Island](https://open.spotify.com/artist/3SqtHH9uGzfm9UIc7veyuK) | [Beverly & Barbara](https://open.spotify.com/album/7xjC8FefVplGzNy7bTENm4) | 5:08 | 2022-08-19 | 2024-02-08 |
+| [Barbara Wants](https://open.spotify.com/track/2fEmm2oaywnpyVSRdsVI6W) | [The Sometimes Island](https://open.spotify.com/artist/3SqtHH9uGzfm9UIc7veyuK) | [Beverly & Barbara](https://open.spotify.com/album/3mYNeSrhzU9qpDE1gdqWmZ) | 5:08 | 2023-03-13 |  |
 | [Beautiful](https://open.spotify.com/track/2ABn2RTVRRxPcMXWsFCXaF) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Beautiful](https://open.spotify.com/album/5I5gyUDPaOh2RVrvUdLz0W) | 2:43 | 2022-08-19 |  |
 | [Better Alone](https://open.spotify.com/track/6FOhiUB3CT6dOMqUdi50ZU) | [Brayden Dunbar](https://open.spotify.com/artist/718jt24mHnTl76rE6T5sSp) | [Better Alone](https://open.spotify.com/album/0wp6uBXIs0IQc6IdOCbAeA) | 3:04 | 2022-08-19 |  |
 | [By Your Side](https://open.spotify.com/track/6TNV8hRNraJeMO14sPpXGR) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Stranger](https://open.spotify.com/album/0pYOYlG5oTgvs77V6W094U) | 2:38 | 2022-08-19 |  |
@@ -75,7 +76,8 @@
 | [The End](https://open.spotify.com/track/0tv26DoZJX92mCpzWG5MRq) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [The End](https://open.spotify.com/album/5R5kiCnJdVignWKvEqNnw9) | 2:32 | 2022-08-19 |  |
 | [The Hunted](https://open.spotify.com/track/069iEWjBk09wzpAxsEv8rF) | [The Rigs](https://open.spotify.com/artist/4QrBV4OBjd798x3Aov1Yjy) | [World on Fire](https://open.spotify.com/album/7552oTDbCvFPlBNpngSrIR) | 2:53 | 2022-08-19 |  |
 | [The Time of Our Lives](https://open.spotify.com/track/1c8IKTdo1k7O7FO9LVZ4OE) | [The Venice Connection](https://open.spotify.com/artist/6kq82aeoNb3BSbxUx5Si91) | [The Time of Our Lives](https://open.spotify.com/album/1usH8OTBwAD2JEXmicYF0k) | 2:57 | 2022-08-19 |  |
-| [The Worst](https://open.spotify.com/track/2iZfLHceRaPLsVLNgp0b5o) | [The Sometimes Island](https://open.spotify.com/artist/3SqtHH9uGzfm9UIc7veyuK) | [Beverly & Barbara](https://open.spotify.com/album/7xjC8FefVplGzNy7bTENm4) | 2:36 | 2022-08-19 |  |
+| [The Worst](https://open.spotify.com/track/2CCVbsCzLDnTL2CMXxmF86) | [The Sometimes Island](https://open.spotify.com/artist/3SqtHH9uGzfm9UIc7veyuK) | [Beverly & Barbara](https://open.spotify.com/album/3mYNeSrhzU9qpDE1gdqWmZ) | 2:36 | 2023-03-13 |  |
+| [The Worst](https://open.spotify.com/track/2iZfLHceRaPLsVLNgp0b5o) | [The Sometimes Island](https://open.spotify.com/artist/3SqtHH9uGzfm9UIc7veyuK) | [Beverly & Barbara](https://open.spotify.com/album/7xjC8FefVplGzNy7bTENm4) | 2:36 | 2022-08-19 | 2024-02-08 |
 | [Threnody \(Bombs Away Remix\)](https://open.spotify.com/track/3mLLlN1ZdHmlJHkvNON7ou) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Threnody](https://open.spotify.com/album/2CUUZuC9EhMcnU7zdNWWrI) | 4:07 | 2022-08-19 |  |
 | [Toca Toca](https://open.spotify.com/track/2fDByLUAC1YsxbhgHGBqdg) | [Fly Project](https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa) | [Toca\-Toca](https://open.spotify.com/album/7vCFA4aWu4HJQeGcbuOwpl) | 2:45 | 2022-08-19 |  |
 | [Trouble Maker](https://open.spotify.com/track/0HkwR89jBwgrwrzg6TbfCw) | [Marien](https://open.spotify.com/artist/3OJV0xQWTH0mrMRmfNxqGk) | [Trouble Maker](https://open.spotify.com/album/69Hs869oAKVsJyGn5TUwFI) | 2:31 | 2022-08-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,567 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,567 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 22 | [Self Defense](https://open.spotify.com/track/7LU42REV9PNkZfnivCckZb) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:40 |
 | 23 | [Blank Space](https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:21 |
 | 24 | [New York, New York](https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:46 |
-| 25 | [Memory Lane](https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:49 |
-| 26 | [Tomorrow Never Comes](https://open.spotify.com/track/0On3jM7uFiphkDSQpjbJM9) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:24 |
+| 25 | [Never Run](https://open.spotify.com/track/5yBCZUGiLBa1juMts6aLPW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:52 |
+| 26 | [So Lost](https://open.spotify.com/track/3onoAfOvc9c2FrmvWb9shy) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:41 |
 | 27 | [Chin Up, Cheer Up](https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 2:58 |
 | 28 | [Shake It Off](https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 4:06 |
-| 29 | [Never Run](https://open.spotify.com/track/5yBCZUGiLBa1juMts6aLPW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:52 |
-| 30 | [So Lost](https://open.spotify.com/track/3onoAfOvc9c2FrmvWb9shy) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:41 |
+| 29 | [Memory Lane](https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:49 |
+| 30 | [Tomorrow Never Comes](https://open.spotify.com/track/0On3jM7uFiphkDSQpjbJM9) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:24 |
 | 31 | [Haunted House \(Live\)](https://open.spotify.com/track/5wm5pRktQR2Vlvxh8WzDma) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 2:28 |
 | 32 | [Bad Blood](https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:55 |
 | 33 | [Blizzard in the Room](https://open.spotify.com/track/6KRklFhhniHx1FOSqGl3lZ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 3:25 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 44 | [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 |
 | 45 | [Amy](https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:46 |
 | 46 | [Mercy](https://open.spotify.com/track/51cT1IVnSSyeO0Q9aoJrx5) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heatwave](https://open.spotify.com/album/7rHobpFFOUBekYAMIxbfsg) | 2:24 |
-| 47 | [Broken Anyway \(Live\)](https://open.spotify.com/track/70dHBmG5GLYvPyZVtIKmpH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 2:49 |
+| 47 | [Outbound Train \(Live\)](https://open.spotify.com/track/1rzRw9ldxDDUsSVALuhpX7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 3:54 |
 | 48 | [So Alive](https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 3:58 |
 | 49 | [How Much Light](https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I Do Not Feel Like Being Good](https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD) | 3:15 |
 | 50 | [True Love](https://open.spotify.com/track/1stB2WWLzp7QIeT82T7ytU) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heatwave](https://open.spotify.com/album/7rHobpFFOUBekYAMIxbfsg) | 2:48 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA1NWZlYWMyYmRhYzVlZTFlMTA2NDI2ODdiYjgxYTAxNQ==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDAzYTM5MDc3NjE0MWNjNjkxYWZlYTNhZjI5YzkxMDdiNA==`

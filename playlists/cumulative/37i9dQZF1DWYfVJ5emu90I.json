@@ -1380,10 +1380,28 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 137806,
       "name": "New Balance",
       "url": "https://open.spotify.com/track/1WqTLTA1e1oeAMkPq6bqgg"
+    },
+    {
+      "album": {
+        "name": "New Balance",
+        "url": "https://open.spotify.com/album/0sOlU9sNpco1MqShnwHaWo"
+      },
+      "artists": [
+        {
+          "name": "18scott",
+          "url": "https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137806,
+      "name": "New Balance",
+      "url": "https://open.spotify.com/track/2ZH6YXI0oN0cY2PmT5uKru"
     },
     {
       "album": {

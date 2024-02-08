@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Spiritbox on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,472,808 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,472,999 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Year of the Goat](https://open.spotify.com/track/7D0wXdVm5aMwOgArdzBMcQ) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Year of the Goat](https://open.spotify.com/album/3vcSAW1Y7YNi9isFfRCWyb) | 3:26 |
 | 75 | [Two Alive Amongst The Dead](https://open.spotify.com/track/4CjxnxOt8coAxh51QZEHkI) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [Two Alive Amongst The Dead](https://open.spotify.com/album/4Kwjj9SUOtSG80euLteDsS) | 2:47 |
 
-Snapshot ID: `MCw0YzEzZTUxMmUzNzNjMWNjYjJkZmRhOTY1YjhmZWI0YmRlMDRjYTNh`
+Snapshot ID: `MCwyNGRmMTRhODFiYzBjNGYyZGUwNTY5YmExMTg4OGM1NWU0OTM2OWEx`

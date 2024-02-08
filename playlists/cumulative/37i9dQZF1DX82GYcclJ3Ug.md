@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The very best new alternative tracks\. Cover: Dehd
 
-1,612 songs - 3 day 14 hr 27 min
+1,614 songs - 3 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,7 +451,8 @@
 | [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 | 2023-09-01 | 2023-09-30 |
 | [Eulogy](https://open.spotify.com/track/4JfMlJsDGIu1bVOYUnUYYH) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Eulogy](https://open.spotify.com/album/1yoLIxqTVxN9O5U5KmwIIj) | 2:21 | 2023-03-03 | 2023-04-09 |
 | [Even When I’m Not With You](https://open.spotify.com/track/6yJmxPGazR55GAQdyHPf6q) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 2:54 | 2023-02-24 | 2023-03-25 |
-| [Even When The Sun is Dead](https://open.spotify.com/track/7zH3Qm6lu296i2owAENBLk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn) | 2:16 | 2024-02-02 |  |
+| [Even When The Sun is Dead](https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/0aIrTtrBqrEHggWVEtErqb) | 2:16 | 2024-02-02 |  |
+| [Even When The Sun is Dead](https://open.spotify.com/track/7zH3Qm6lu296i2owAENBLk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn) | 2:16 | 2024-02-02 | 2024-02-08 |
 | [Everest \(with Yung Gravy\)](https://open.spotify.com/track/3uFyGFedpjU3wspnWFPQte) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Everest](https://open.spotify.com/album/2SPfhQZkaYFiRaLk2EG0dK) | 2:21 | 2023-07-28 | 2023-09-30 |
 | [Everknown](https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Everknown](https://open.spotify.com/album/1Y7aDjyMGak66mefhptdXx) | 4:25 | 2023-06-23 | 2023-10-14 |
 | [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/album/3rmzLWCXi8PNt5kVKf9O7D) | 4:08 | 2023-07-14 | 2023-09-02 |
@@ -653,7 +654,8 @@
 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-02-17 | 2023-04-22 |
 | [Hollywood Hillbilly](https://open.spotify.com/track/0Xr4W3sOlaLU2yZJ28lQRn) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Hollywood Hillbilly](https://open.spotify.com/album/4YSVTP1mfval5BPo6qygLf) | 2:35 | 2022-08-19 | 2022-11-12 |
 | [Holy Smokes](https://open.spotify.com/track/0SACHSO3zWyljwcPkLOWOd) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [Holy Smokes](https://open.spotify.com/album/59n0gSGETWB3cvjHxVHPNu) | 3:14 | 2023-10-20 | 2024-01-27 |
-| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-19 |  |
+| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-19 | 2024-02-08 |
+| [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-02 |  |
 | [Homebody](https://open.spotify.com/track/3DopZVBcDtQeZkbVF8Odcv) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Homebody](https://open.spotify.com/album/5QxN2n76RFYhOAO3ebbfCG) | 2:49 | 2023-01-20 | 2023-02-18 |
 | [Homesick](https://open.spotify.com/track/19oBJOOS9fHtN8TRDBX6Os) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv) | 3:13 | 2022-07-22 | 2022-09-24 |
 | [Homesick \(with Sam Fender\)](https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Homesick \(with Sam Fender\)](https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I) | 3:14 | 2024-01-19 |  |

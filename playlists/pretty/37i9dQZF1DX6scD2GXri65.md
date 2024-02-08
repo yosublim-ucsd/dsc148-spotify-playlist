@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,816 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,900 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Another Love \- Hardstyle \- Sped Up](https://open.spotify.com/track/5VhPhDGiJrc2rd7GbToA7z) | [BAKI](https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW), [ZYZZ](https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM), [GYM HARDSTYLE](https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH) | [Another Love \(Hardstyle \- Sped Up\)](https://open.spotify.com/album/0oZRwlLZJqGWRyLMS72RQ9) | 2:09 |
 | 2 | [DOWN DOWN](https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [WELCOME TO THE GANG VOL\. 2](https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ) | 3:26 |
-| 3 | [Rave Superstar](https://open.spotify.com/track/26dZqv39K4kE2kFXAI5dH5) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Rave Superstar](https://open.spotify.com/album/1qXEVMoSphad9CrO7Zwdsi) | 2:39 |
-| 4 | [I Like To Party](https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [I Like To Party](https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ) | 2:39 |
+| 3 | [I Like To Party](https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [I Like To Party](https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ) | 2:39 |
+| 4 | [Rave Superstar](https://open.spotify.com/track/26dZqv39K4kE2kFXAI5dH5) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Rave Superstar](https://open.spotify.com/album/1qXEVMoSphad9CrO7Zwdsi) | 2:39 |
 | 5 | [Halo](https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Halo](https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X) | 2:50 |
 | 6 | [Team No Sleep](https://open.spotify.com/track/3khsjS0d0qOwB3x8k5gVca) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Team No Sleep](https://open.spotify.com/album/2e7vCfR5fupyZR9REwk00X) | 2:48 |
 | 7 | [Bloody Mary](https://open.spotify.com/track/00NbtCjGk8CqdB8ukjxCT4) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt) | [Bloody Mary](https://open.spotify.com/album/4seVM4HKphKWbuVPL0q8k9) | 2:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [Nightmare Nirvana](https://open.spotify.com/track/0X89hVtXc6V04eRMCjB1Vj) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Nightmare Nirvana](https://open.spotify.com/album/7jPDK7qtsjA010J5fXR9w1) | 4:30 |
 | 80 | [Deep In My Soul](https://open.spotify.com/track/7nziCzPuyKub9Ra5o5OSEy) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Deep In My Soul](https://open.spotify.com/album/4i23NCktx67U67gbmNfxuL) | 4:01 |
 
-Snapshot ID: `MCw3MGY5NjIxZmJlYzFhNmQ4Y2U0YmRhZTk5NWYwOTU1ZTIwMDE1MDAz`
+Snapshot ID: `MCxjZjc0ZjIxMzMxZGQyM2EzOThhYmNkY2YzNzc4M2JmNjYzZDdhOTQ2`

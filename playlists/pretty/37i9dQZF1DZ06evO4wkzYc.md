@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,455 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,585 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 13 | [Todo Cambio](https://open.spotify.com/track/4h1wUdRi2lcJP3JSwQrW4j) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 4:45 |
 | 14 | [Sólo Tú \- En Vivo](https://open.spotify.com/track/5dCVcwNmuSIP6eTyArSc3S) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Sólo Tú \(En Vivo\)](https://open.spotify.com/album/51YYGt4Dbu8lRv3Tyv2hAf) | 3:07 |
 | 15 | [La Fea](https://open.spotify.com/track/6qYIKvPdRn7tIyCv19nFLm) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Fea](https://open.spotify.com/album/0GqDAplr6kDDLQeqoajRNY) | 4:05 |
-| 16 | [Culpables](https://open.spotify.com/track/7KZZUsnWVHbpZ4nv82ixI5) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Culpables](https://open.spotify.com/album/7MeaPhPWxdF4GqDCoEkrEV) | 4:12 |
-| 17 | [Don \(En Vivo\)](https://open.spotify.com/track/3Zwq6Ih1Ojjrgx9rhkakp0) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Don \(En Vivo\)](https://open.spotify.com/album/7vhzZZ4h4s2wxPkatBqgWD) | 3:30 |
+| 16 | [Don \(En Vivo\)](https://open.spotify.com/track/3Zwq6Ih1Ojjrgx9rhkakp0) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Don \(En Vivo\)](https://open.spotify.com/album/7vhzZZ4h4s2wxPkatBqgWD) | 3:30 |
+| 17 | [Culpables](https://open.spotify.com/track/7KZZUsnWVHbpZ4nv82ixI5) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Culpables](https://open.spotify.com/album/7MeaPhPWxdF4GqDCoEkrEV) | 4:12 |
 | 18 | [Que Lloro](https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Que Lloro](https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8) | 4:19 |
 | 19 | [El Mago](https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:57 |
 | 20 | [El Pocho 43](https://open.spotify.com/track/6GpUIhRCjIwKBLVt4pvcZo) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho 43](https://open.spotify.com/album/7pZlwL9vBGDR5sMDXHrvSh) | 3:47 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 26 | [Zutano](https://open.spotify.com/track/4g3Y1nH454CQO6DINjb7qm) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Zutano](https://open.spotify.com/album/6eBwuCa1Sn6Akd8B4K3MVk) | 3:01 |
 | 27 | [Amarte](https://open.spotify.com/track/5STnRqz3RMTnMXQVUunkHf) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 2:40 |
 | 28 | [No Me Quiero Enamorar](https://open.spotify.com/track/2gElMedQqwBruHVfmIPcuV) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [No Me Quiero Enamorar](https://open.spotify.com/album/5dTyit7m5HJ2q5S0zFKhyP) | 2:39 |
-| 29 | [El Cuadros \- Live](https://open.spotify.com/track/5nYKgIWaO0z42UjrBaet5x) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Cuadros \(Live\)](https://open.spotify.com/album/20eftZvtNJDJXXal1uDTCe) | 4:06 |
-| 30 | [La Pareja Ideal \- Live](https://open.spotify.com/track/3tf2lQgJvyMrx8Rcv2SmPZ) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Pareja Ideal \(Live\)](https://open.spotify.com/album/7yBA24q5Agy3K1fo1CUyUR) | 4:09 |
+| 29 | [La Pareja Ideal \- Live](https://open.spotify.com/track/3tf2lQgJvyMrx8Rcv2SmPZ) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Pareja Ideal \(Live\)](https://open.spotify.com/album/7yBA24q5Agy3K1fo1CUyUR) | 4:09 |
+| 30 | [El Cuadros \- Live](https://open.spotify.com/track/5nYKgIWaO0z42UjrBaet5x) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Cuadros \(Live\)](https://open.spotify.com/album/20eftZvtNJDJXXal1uDTCe) | 4:06 |
 | 31 | [Hoy Ya Me Voy](https://open.spotify.com/track/5oBed9LF8gyRsVVKZsnwSp) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Hoy Ya Me Voy](https://open.spotify.com/album/5DRB5hx7fVDzXUGoc4YffJ) | 4:19 |
 | 32 | [Nunca Se Imaginó](https://open.spotify.com/track/6at5CSe9grrC30rQwdI0bQ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 3:38 |
 | 33 | [Nestor \(El Nini\)](https://open.spotify.com/track/2whI3QJ3Slu3lv1Xnm5V3H) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 49 | [El Mandado](https://open.spotify.com/track/64kqJ2pSMRLGdBcnNbeNpw) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 2:41 |
 | 50 | [Serafín](https://open.spotify.com/track/0iZyo2AttarFOrslWbJTiU) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Serafín](https://open.spotify.com/album/6d6lprZdfdYRoyy1aOtNLU) | 4:00 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDBkOTM4ODc5YTA5ODM5Nzk3ZWY2NjdjZjlmZmQwMmM4NQ==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDBhNmU0MWE5NTdkNDAwMjU0YzljZTcwZmQ2ODMzODU4NQ==`

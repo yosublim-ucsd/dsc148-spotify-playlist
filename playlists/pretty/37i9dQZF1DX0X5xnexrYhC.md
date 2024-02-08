@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: EMELINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,739 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,743 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 29 | [Sobriety](https://open.spotify.com/track/0UOb1XYYj9iByVnCgLazcX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sobriety](https://open.spotify.com/album/74Q7pNFVMRZRgLf256Uewk) | 2:06 |
 | 30 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 |
 | 31 | [Yuck](https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:18 |
-| 32 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:25 |
-| 33 | [Trust Issues](https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk) | 2:20 |
+| 32 | [Trust Issues](https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk) | 2:20 |
+| 33 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:25 |
 | 34 | [Halloweenie IV: Innards](https://open.spotify.com/track/2hwUHHqLSEue41V952MtD2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie IV: Innards](https://open.spotify.com/album/2AWdSvqkBNvj9eeM48KQTJ) | 2:50 |
-| 35 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 |
-| 36 | [FMRN](https://open.spotify.com/track/6k6egroLMoShmt63RwaK4S) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [FMRN](https://open.spotify.com/album/1n9zpxunDB1ZTHdBIMgpRK) | 2:02 |
+| 35 | [FMRN](https://open.spotify.com/track/6k6egroLMoShmt63RwaK4S) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [FMRN](https://open.spotify.com/album/1n9zpxunDB1ZTHdBIMgpRK) | 2:02 |
+| 36 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 |
 | 37 | [what it means to be a girl](https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [what it means to be a girl / this is how i learn to say no](https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA) | 2:48 |
 | 38 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 |
 | 39 | [F U Anthem](https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [What Just Happened?](https://open.spotify.com/album/257QBCiFw8K0YFITOhKv2J) | 2:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 79 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 |
 | 80 | [Baby](https://open.spotify.com/track/4KNk5VS4bR4nUVvnJwVmUE) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Baby](https://open.spotify.com/album/7guVedOngStKyoYMzMdWzj) | 2:39 |
 
-Snapshot ID: `MCxkOWRiZDBkZGMzYWQwYzBmNGI3M2YwZWIwZjQ4ZWNiYTc1ZmU3YjA1`
+Snapshot ID: `MCxhMDg1YjJlMWM1Y2U0YTYzY2E5MDg1YjczODljMzZjMTY5Y2FiNTFh`

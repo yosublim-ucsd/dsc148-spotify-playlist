@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 818982,
+  "2024-02-08": 819055,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Turkey.",
   "name": "Top 50 - Turkey",
@@ -685,7 +685,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 171382,
       "name": "Al Aram\u0131zdan",
       "url": "https://open.spotify.com/track/44UZWruF4P4uMZ10fd1eMK"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 149642,
       "name": "Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
       "url": "https://open.spotify.com/track/2uZ7RwAWJiLQUkupslGAVZ"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 162354,
       "name": "An\u0131lar\u0131 Yak",
       "url": "https://open.spotify.com/track/46f5m73YzI227nseI9LquF"
@@ -10936,6 +10936,24 @@
     },
     {
       "album": {
+        "name": "Nerdesin",
+        "url": "https://open.spotify.com/album/5CLxL72LeuNhfE9ijddWaP"
+      },
+      "artists": [
+        {
+          "name": "Lotusx",
+          "url": "https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205473,
+      "name": "Nerdesin",
+      "url": "https://open.spotify.com/track/333y41DcVB1R1Ly1vPNFKO"
+    },
+    {
+      "album": {
         "name": "DIPSOMANIA",
         "url": "https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu"
       },
@@ -12693,7 +12711,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 73441,
       "name": "RXCKSTAR",
       "url": "https://open.spotify.com/track/5PdGvW7w6Xf2tKZ8lKjJWd"
@@ -15907,6 +15925,28 @@
       "duration_ms": 177447,
       "name": "Yoksa Yasak",
       "url": "https://open.spotify.com/track/1jkCgqZdN8zEtMFwj8NnTa"
+    },
+    {
+      "album": {
+        "name": "Yoksun",
+        "url": "https://open.spotify.com/album/5l3AhfIKrcdqJiYUMySwNb"
+      },
+      "artists": [
+        {
+          "name": "Ebru Ya\u015far",
+          "url": "https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN"
+        },
+        {
+          "name": "Siyam",
+          "url": "https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136941,
+      "name": "Yoksun",
+      "url": "https://open.spotify.com/track/0Rb3Zf4wemUX45NNoo5H0L"
     },
     {
       "album": {

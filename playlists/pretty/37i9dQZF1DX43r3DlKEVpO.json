@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 64708,
+  "num_followers": 64707,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDA5ODUyNTIyZjc4MjQ5YjEyM2VjZmY4ZWY0NmQ3NWM5MDk0MjY3",
+  "snapshot_id": "MCw0YzRjNTIzYTUxYTk2NWI4OWIyZWZkMTlmZDg1YmE1OThjYTEyYTU3",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 270690,
+      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "No Pagode",
         "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 185706,
       "name": "Here Comes The Sun - 2019 Mix",
       "url": "https://open.spotify.com/track/3CPFHaVEHkkH26hAEPgMMp"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 270690,
-      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
     },
     {
       "added_at": "2021-08-18 22:14:03",

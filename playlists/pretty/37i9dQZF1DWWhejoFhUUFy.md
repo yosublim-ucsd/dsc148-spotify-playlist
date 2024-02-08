@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,514 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,741 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 71 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 |
 | 72 | [Main Bola Hey!](https://open.spotify.com/track/0PKEQjnGn0LmPjozJ3t4MF) | [Karthik Rao](https://open.spotify.com/artist/3aAy6jFZLqqDUlMGSZcyaZ) | [Kota Factory: Season 1 \(Music from Tvf Original Series\)](https://open.spotify.com/album/6mOfUlKhx0AROUKdxA7v6Z) | 2:33 |
 | 73 | [Qareeb](https://open.spotify.com/track/4x8yhZPbOuqJ2PLg4QmrL0) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Shayan Rashid](https://open.spotify.com/artist/1ikVRNcb5keuzlwiP8mJbb) | [Qareeb](https://open.spotify.com/album/6mcoV5gev8Ol1wHu6mDO1o) | 2:30 |
-| 74 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 |
+| 74 | [Nindiya Re \- Studio Version](https://open.spotify.com/track/0NsYZt7iTFoLMw3pZTQEDQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Nindiya Re \(Studio Version\)](https://open.spotify.com/album/1vgKFdjExQyCqcHmYap5cT) | 3:45 |
 | 75 | [Aao Chalein](https://open.spotify.com/track/7ADt3F5qdx8qPYdy6ODCar) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/5Y7esCvRwUxwEKFEJ6EUdU) | 3:05 |
 
-Snapshot ID: `MCxjNDZmNzVlMTg0MzZiYTFmYjRiNmU5ZDNkNTVjMGU3ZjFlZDE4YjRh`
+Snapshot ID: `MCw0ZDgyY2VlMjFiZmI2OThkYzRjM2Y0YzNmZDlhOGZhYmZiNGQ5N2Ni`

@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 1,
+  "2024-02-08": 1,
   "date_first_scraped": "2023-03-31",
   "description": "albums i plan to listen to eventually",
   "name": "Zacklog",
@@ -7691,6 +7691,24 @@
       "duration_ms": 373853,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/4GIHwigKlA5TweoUppHRxk"
+    },
+    {
+      "album": {
+        "name": "Welcome to Sillycone Valley",
+        "url": "https://open.spotify.com/album/0Z1hMwSO1ejYo4MnJCbPVv"
+      },
+      "artists": [
+        {
+          "name": "Lene Alexandra",
+          "url": "https://open.spotify.com/artist/1g3WGig4QyMUUl6Iq9Euex"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181013,
+      "name": "Sillycone Valley",
+      "url": "https://open.spotify.com/track/23R59LUKKvATvII3orFxCS"
     },
     {
       "album": {

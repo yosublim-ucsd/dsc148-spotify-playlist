@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=O\-\_f\-EQ6SSCbRJgQvk6egQ">Ayra Starr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,059 likes - 63 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,132 likes - 63 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 2 | [Thula Mabota](https://open.spotify.com/track/1tOQzfKaKiFE7IFEefBT4y) | [Ntate Stunna](https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL), [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma), [DeejayZaca](https://open.spotify.com/artist/382p7ufbSEYVnxZFMvY0Px), [Scutum](https://open.spotify.com/artist/7cYghO3y1W3Lx76TXRj55i) | [Thula Mabota](https://open.spotify.com/album/6mXkQRENMp1lpFie1RM6Qr) | 5:52 |
 | 3 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 |
 | 4 | [SWave Freestyle](https://open.spotify.com/track/3LSK3r8VEje8lp39vstWw3) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [SWave Freestyle](https://open.spotify.com/album/67nL76aXqlNhIFvCsBUjVk) | 3:54 |
-| 5 | [Deeper](https://open.spotify.com/track/2X1hVQS2qoUKpiHVkM7rH8) | [Lady Zamar](https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI), [Mega Drumz](https://open.spotify.com/artist/45sLLhIA2tf9bQntmya634) | [Deeper](https://open.spotify.com/album/5Lrw3qd3915YYwUYdOxZE4) | 6:21 |
+| 5 | [Deeper](https://open.spotify.com/track/2X1hVQS2qoUKpiHVkM7rH8) | [Lady Zamar](https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI), [Megadrumz](https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX) | [Deeper](https://open.spotify.com/album/5Lrw3qd3915YYwUYdOxZE4) | 6:21 |
 | 6 | [Big Foot](https://open.spotify.com/track/587Ks4sb6Wd2qRVS5i9fdW) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Big Foot](https://open.spotify.com/album/3b80v2noU4EEZmCefjinoO) | 4:22 |
 | 7 | [Bandit](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
 | 8 | [There's Music in the Air \(Fka Mash Remix\)](https://open.spotify.com/track/4uFhNunbrBa3FRbSHPmLhq) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq) | [There's Music in the Air \(Fka Mash Remix\)](https://open.spotify.com/album/2PDkvcTn7a4oZsaJ55qaMQ) | 3:51 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 62 | [Shona Khona \(feat\. TNK MusiQ, W4DE\)](https://open.spotify.com/track/4FjZ1wKbE03AXSVXkuHi16) | [Philharmonic](https://open.spotify.com/artist/5OLi7K8O3aYSV3GQRXdYmb), [TNK MusiQ](https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN), [W4DE](https://open.spotify.com/artist/0rkl0hmiFT3sfcRFm7gzHi) | [Big Fish](https://open.spotify.com/album/7H9iFcb6bPXc97IXojjZz5) | 5:51 |
 | 63 | [Tsotsi](https://open.spotify.com/track/0pkGttjbYWle2tn5RldOIt) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Tsotsi](https://open.spotify.com/album/6wXHDIz1HJ3uKy4jxzUOCe) | 3:05 |
 
-Snapshot ID: `MCw4OWZjNmQ2YzU3MmUzYmQ1OWU5MmZjNjgxZTczZjU5YWY0NWFmYzhj`
+Snapshot ID: `MCwyNDNiMTQ4ODEwNzI4Y2QxMjQ2YTk1ZGZlMTFjMzc4MDg4MDkxNTRi`

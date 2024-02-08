@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312 likes - 140 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 313 likes - 140 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 47 | [Joshua Tree](https://open.spotify.com/track/3iExRKI7vV9RrzvAuXmMTY) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Bad Together](https://open.spotify.com/album/4haA1dy0wMx6EthzDgsGRb) | 3:51 |
 | 48 | [Into The Wild](https://open.spotify.com/track/4g2T3FUjXH6XuboKw60hHX) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Sideways](https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA) | 3:30 |
 | 49 | [Water](https://open.spotify.com/track/0gwR22fn1mk9XLm6mpJnk8) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Church Of Scars](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) | 3:21 |
-| 50 | [Kiss Kiss](https://open.spotify.com/track/1YIpn8wM7Zbq7sZr9AeI7I) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:44 |
-| 51 | [High Road](https://open.spotify.com/track/113vSUnh7fsCbSRNgEH0to) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:19 |
+| 50 | [High Road](https://open.spotify.com/track/113vSUnh7fsCbSRNgEH0to) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:19 |
+| 51 | [Kiss Kiss](https://open.spotify.com/track/1YIpn8wM7Zbq7sZr9AeI7I) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:44 |
 | 52 | [Lost Cause](https://open.spotify.com/track/72cW36itoiN4orlNQtJgGE) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:38 |
 | 53 | [Written in the Scars \(feat\. Wrabel\)](https://open.spotify.com/track/0W68dlJ9e4OcVWbECODJDM) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:23 |
 | 54 | [All the Feels](https://open.spotify.com/track/3scYtw10wODPatwKBGTwB6) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 3:16 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 77 | [Chasing Thunder](https://open.spotify.com/track/0mjSwNInyGTpiEcEaz1qqI) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:43 |
 | 78 | [\(it wouldn't be\) christmas without you](https://open.spotify.com/track/5NLIV0WyV9gkgCnakiG19L) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [\(it wouldn't be\) christmas without you](https://open.spotify.com/album/6MSgdNZM56vwflTVYcOdrO) | 3:25 |
 | 79 | [love to love u](https://open.spotify.com/track/74o9qZ2H16sN1xHpfrfhkf) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [love to love u](https://open.spotify.com/album/4fqBuL5Lw8mepsiZUyWugY) | 3:58 |
-| 80 | [i want you](https://open.spotify.com/track/3k8s9SgL9HJvUbKKKOdtwy) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [i want you](https://open.spotify.com/album/1GkdIe9m5cwcXx8ophbqqD) | 3:21 |
-| 81 | [we all could use some help](https://open.spotify.com/track/1soUBTe2GUzPzgPNOQH8aX) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 2:23 |
+| 80 | [we all could use some help](https://open.spotify.com/track/1soUBTe2GUzPzgPNOQH8aX) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 2:23 |
+| 81 | [i want you](https://open.spotify.com/track/3k8s9SgL9HJvUbKKKOdtwy) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [i want you](https://open.spotify.com/album/1GkdIe9m5cwcXx8ophbqqD) | 3:21 |
 | 82 | [don't pick up the phone](https://open.spotify.com/track/5j610MhjMLhyT2pPNy9Zj9) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 2:34 |
 | 83 | [Side](https://open.spotify.com/track/4gs5Xv10fgdkSO9Jrjq0rk) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Lucky Ones](https://open.spotify.com/album/6doKrVnhuZB7ajkdvCDvyC) | 3:27 |
 | 84 | [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/track/7x9BbeXnB9ehDjit1EVzwj) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Ten Years](https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD) | 3:00 |
@@ -117,10 +117,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 107 | [feel it now \(alive\)](https://open.spotify.com/track/3cZfqQuyUip9nVzkcYB9l5) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 3:31 |
 | 108 | [Close](https://open.spotify.com/track/4BkfHpktD9uGNEU6Mu0gd0) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Close](https://open.spotify.com/album/0R5KWzMS55YDSGsRKGGqSd) | 3:14 |
 | 109 | [Cold](https://open.spotify.com/track/0a14F5kFcz5GCWX10KK6SM) | [Citizen Four](https://open.spotify.com/artist/0bp5rkeCxghGGOsHKWwmUC) | [Cold](https://open.spotify.com/album/59SzZY51q1IcO81ffmExpR) | 3:25 |
-| 110 | [abstract art](https://open.spotify.com/track/1flQVimCtHgp6zblwZAcfm) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 3:16 |
-| 111 | [that's what i'd do \- live](https://open.spotify.com/track/0DIhbi6IbA2o4m5sXQ4vDb) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [that's what i'd do \(live\)](https://open.spotify.com/album/2pUvlqckRhn3gsdgUPr3Hi) | 6:36 |
-| 112 | [Everybody Knows](https://open.spotify.com/track/7KYMs4Y5WwhspkMLApgfCk) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [idina.](https://open.spotify.com/album/3jXpXBlvGdt0LHZ2CqBg3K) | 3:25 |
-| 113 | [I Hope You Know](https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [I Hope You Know](https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo) | 3:19 |
+| 110 | [I Hope You Know](https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [I Hope You Know](https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo) | 3:19 |
+| 111 | [abstract art](https://open.spotify.com/track/1flQVimCtHgp6zblwZAcfm) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 3:16 |
+| 112 | [that's what i'd do \- live](https://open.spotify.com/track/0DIhbi6IbA2o4m5sXQ4vDb) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [that's what i'd do \(live\)](https://open.spotify.com/album/2pUvlqckRhn3gsdgUPr3Hi) | 6:36 |
+| 113 | [Everybody Knows](https://open.spotify.com/track/7KYMs4Y5WwhspkMLApgfCk) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [idina.](https://open.spotify.com/album/3jXpXBlvGdt0LHZ2CqBg3K) | 3:25 |
 | 114 | [Turn Up the Love](https://open.spotify.com/track/6y8zl9Cb5YXAKlgdIKAEWF) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Turn Up the Love](https://open.spotify.com/album/4SrRqoPeBlp8DuLk5iHKSl) | 3:38 |
 | 115 | [one drink away](https://open.spotify.com/track/4TJVd5nC27kOCwPyCo6zEb) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 3:10 |
 | 116 | [jupiter \- live at the troubadour](https://open.spotify.com/track/4ghLHm6s3mFtPX1QCrtVKw) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [piano](https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA) | 4:11 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 139 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 140 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `Mjg0NTQ1NDAsMDAwMDAwMDA2ZDIyNjY1ZmE2MWViZWM2MzM4M2JhYWZkMTA1NTYxZQ==`
+Snapshot ID: `Mjg0NTU5ODAsMDAwMDAwMDAwNTY4M2UxOGQ4MzgyOTFkODg2YTgzMWMwMjNlOTk0Yw==`

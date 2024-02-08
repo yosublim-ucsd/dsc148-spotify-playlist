@@ -2,7 +2,7 @@
 
 ### [mid:nite storm ](https://open.spotify.com/playlist/37i9dQZF1DWYiatDTQvsFP)
 
-> You just had to be there\. Discover more Black artists and their contributions <a href="spotify:genre:0JQ5DAqbMKFF9bY76LXmfI">here.</a> Cover: <a href="spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ">Mariah Carey</a>
+> You just had to be there\. Discover more Black artists and their contributions <a href="spotify:genre:0JQ5DAqbMKFF9bY76LXmfI">here</a>\. Cover: <a href="spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ">Mariah Carey</a>
 
 277 songs - 18 hr 43 min
 

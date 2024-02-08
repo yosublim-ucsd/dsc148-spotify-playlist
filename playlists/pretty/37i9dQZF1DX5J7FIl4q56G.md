@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: ERRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,661 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,709 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cure](https://open.spotify.com/track/5zV1FnszuSKBo7EdUEQx3G) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Cure](https://open.spotify.com/album/6Ab9ahxlOgEur1mr1EpZH0) | 3:45 |
 | 2 | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6) | 3:10 |
 | 3 | [Better Before](https://open.spotify.com/track/0VGj4p37gFb8UJNOGtpT13) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Better Before](https://open.spotify.com/album/7zIzmDLpew0751nFNaJnEV) | 3:39 |
-| 4 | [Emerald Dragon](https://open.spotify.com/track/0I07BcifgosVW75c9jTMGP) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF), [Jake Luhrs](https://open.spotify.com/artist/6htXyTdNQiuQCUZqxZDG2Y), [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Emerald Dragon](https://open.spotify.com/album/0weiSKnI7wKtBOfS9ANQi3) | 3:57 |
+| 4 | [Emerald Dragon](https://open.spotify.com/track/0I07BcifgosVW75c9jTMGP) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF), [Jake Luhrs](https://open.spotify.com/artist/6htXyTdNQiuQCUZqxZDG2Y) | [Emerald Dragon](https://open.spotify.com/album/0weiSKnI7wKtBOfS9ANQi3) | 3:57 |
 | 5 | [Rise](https://open.spotify.com/track/6pxbcXuvW2GoEjPZP1c84Q) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [Rise](https://open.spotify.com/album/3NbCKhETrahjJfyaZdwJQq) | 3:05 |
 | 6 | [Endless Hollow](https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Endless Hollow](https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp) | 3:50 |
 | 7 | [Gloom](https://open.spotify.com/track/4NwISGLeyudBk2tItStCHc) | [Being As An Ocean](https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP) | [Death Can Wait](https://open.spotify.com/album/36j7WUk3kHiDL4oeIieCuA) | 4:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [Kaygı](https://open.spotify.com/track/3f5ey1XR6CyQK1I1BxEwtF) | [Bipolar Architecture](https://open.spotify.com/artist/7nyzs8lB1RPo3grVKQjjly) | [Metaphysicize](https://open.spotify.com/album/16Zwgfek20P1B9EmuvxTyY) | 6:55 |
 | 50 | [Ikaath the Seven Horned](https://open.spotify.com/track/5vMydcJeGRDIWBzJCGsrwJ) | [Hasturian Vigil](https://open.spotify.com/artist/37h7JkfkSn8DoyZ7iSXoW4) | [Unveiling the Brac'thal](https://open.spotify.com/album/3k2PGWKUfLkwLjXFwO7z7t) | 10:07 |
 
-Snapshot ID: `MCw2NjU4YThmMmM2YTIwNzA0YzkyZDY3MmZmZGI1MTJlMTZhMGJhMzdl`
+Snapshot ID: `MCwwNDA2YmYwZWZjYjk2ZWU4Y2E4MjFkMWMzMWNjNjgyMDE2Y2ZiMWQ1`

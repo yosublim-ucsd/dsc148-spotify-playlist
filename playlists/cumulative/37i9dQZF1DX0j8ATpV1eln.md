@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-156 songs - 10 hr 9 min
+157 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Circle of Seasons](https://open.spotify.com/track/6ykOsKAoSXcxywikdIY1zt) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv) | [Circle of Seasons](https://open.spotify.com/album/5ha7l4jh7vHgOrVRFGwpvz) | 3:27 | 2022-07-26 |  |
 | [Eiyu no Uta](https://open.spotify.com/track/3V3r7CtwCmrnRCeGa4V1rw) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 4:03 | 2022-07-26 |  |
 | [Eiyu no Uta](https://open.spotify.com/track/0TDfyz6NnZaUiW5f3S29eS) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda / Eiyu no Uta](https://open.spotify.com/album/2NH1SQE6jRoYQqS71bnGM2) | 4:06 | 2022-08-16 | 2022-11-14 |
+| [Electric Parade](https://open.spotify.com/track/1VUNtkVmTtizP8o5i4IqYb) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Universe](https://open.spotify.com/album/1B3lid4l1KnRSu8FUXKqWs) | 3:13 | 2024-02-06 |  |
 | [Entertainer](https://open.spotify.com/track/1KnMXx9uPBAml5LsUmyA6e) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 4:09 | 2022-07-26 |  |
 | [Ever☆Blooming! \- 夏組Ver.](https://open.spotify.com/track/636zg2vDarHUZAqOpvxwy7) | [Natsugumi](https://open.spotify.com/artist/5vSLCuXUSt00blwLrLSGLJ), [向坂椋\(CV:山谷祥生\)](https://open.spotify.com/artist/37NA2NbkP7FJFDIEwu4Szz), [斑鳩三角\(CV:廣瀬大介\)](https://open.spotify.com/artist/7qJ9f6SgueSyyqwEwOV07R), [皇天馬\(CV:江口拓也\)](https://open.spotify.com/artist/5W3qMhWABumuWMdkg9tHH5), [瑠璃川幸\(CV:土岐隼一\)](https://open.spotify.com/artist/1X4NDy8KcpAa13JIIKwY1U), [三好一成\(CV:小澤廉\)](https://open.spotify.com/artist/0xPuqrpsdMOBbYZ67xDNw6), [兵頭九門\(CV:畠中祐\)](https://open.spotify.com/artist/1pjEl5QsnV2SHCkZzMP013) | [A3! BRIGHT SUMMER EP](https://open.spotify.com/album/09BOEZdtfc7Ddacz29f51t) | 3:54 | 2022-04-26 |  |
 | [Fukashin Ryoiki Destroyer](https://open.spotify.com/track/3kAZSfG4Y5NUxdlg1QpDYY) | [Rib](https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f) | [MYLIST](https://open.spotify.com/album/6kHpapyshMJa3KcKA7KuZa) | 3:55 | 2022-07-26 |  |
@@ -105,7 +106,7 @@
 | [アンサー](https://open.spotify.com/track/0h77eDK5doDdvFKRP9GgRG) | [Sound Schedule](https://open.spotify.com/artist/6HORUWB9z2qb1Bm0q510Ww) | [Sound Schedule Live Tour “PLACE2019” LIQUIDROOM](https://open.spotify.com/album/5ZKL7tnZPYK9by71TBIOXq) | 6:26 | 2022-07-26 |  |
 | [アンサー](https://open.spotify.com/track/5m1zdht1btC8rezRu2qQ1T) | [Sound Schedule](https://open.spotify.com/artist/6HORUWB9z2qb1Bm0q510Ww) | [Sound Schedule Live Tour “PLACE2019” LIQUIDROOM](https://open.spotify.com/album/2Cl3zwN0Bfzgzw1662zIXa) | 6:26 | 2022-04-26 | 2022-07-29 |
 | [インパーフェクト](https://open.spotify.com/track/5mqvPARzMkKIO06ZBvq0wu) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [インパーフェクト](https://open.spotify.com/album/458ubOzK10el0DaV1Ud7Qp) | 3:47 | 2022-04-26 | 2022-07-29 |
-| [エレクトリックパレード](https://open.spotify.com/track/19yBABt2127wYg1bZYJSko) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [ユニバース](https://open.spotify.com/album/1ymib1eTYnGj0meS6iQrNr) | 3:13 | 2024-02-06 |  |
+| [エレクトリックパレード](https://open.spotify.com/track/19yBABt2127wYg1bZYJSko) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [ユニバース](https://open.spotify.com/album/1ymib1eTYnGj0meS6iQrNr) | 3:13 | 2024-02-06 | 2024-02-08 |
 | [エンターテイナー](https://open.spotify.com/track/4ZGrWIbaPWP64VLUhYMmSO) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [エンターテイナー](https://open.spotify.com/album/6XMrBkrdKu7DaBuDQpm3bi) | 4:09 | 2022-04-26 | 2022-07-29 |
 | [オトモダチフィルム \- LIVE](https://open.spotify.com/track/2mDicvEvRUrjPnXsCX5T1t) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [オトモダチフィルム\(LIVE\)](https://open.spotify.com/album/2x5IUxXHtck6qHWxAZfV0Z) | 3:33 | 2022-04-26 | 2022-07-29 |
 | [キンカンのうた2020](https://open.spotify.com/track/0qUUWlwJBOWj6XexBS55Vg) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [キンカンのうた2020](https://open.spotify.com/album/3QhKS21nEhH2kSG0BUe1Yz) | 3:28 | 2022-04-26 | 2022-07-29 |

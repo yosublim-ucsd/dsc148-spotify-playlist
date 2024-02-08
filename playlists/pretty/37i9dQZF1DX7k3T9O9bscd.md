@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. Melody's Echo Chamber on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,149 likes - 100 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,272 likes - 100 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 44 | [The Blue Marble](https://open.spotify.com/track/4qvPp0Lt3MWWwHVb72Taox) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [The Underdog](https://open.spotify.com/album/3t24SFsyPmgC5K20d3aOof) | 4:45 |
 | 45 | [you\\me\\everyone](https://open.spotify.com/track/47Da4bjJRnEFSEDhUoptC7) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic) | 3:39 |
 | 46 | [Strange Secrets Worth Knowing](https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W) | [Improvement Movement](https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ) | [Don't Delay, Join Today!](https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi) | 2:08 |
-| 47 | [Joe Frazier](https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Joe Frazier](https://open.spotify.com/album/76AK76pEsL7gMB65cBNFR6) | 5:38 |
-| 48 | [Bulls](https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Sleeping Through The War](https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw) | 6:40 |
+| 47 | [Bulls](https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Sleeping Through The War](https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw) | 6:40 |
+| 48 | [Joe Frazier](https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Joe Frazier](https://open.spotify.com/album/76AK76pEsL7gMB65cBNFR6) | 5:38 |
 | 49 | [It's You](https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Fase Luna](https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd) | 4:45 |
 | 50 | [Without a Trace](https://open.spotify.com/track/2TRsNuwI2hkWRgYcBoRkrb) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Wilderness of Mirrors](https://open.spotify.com/album/0ggygybxG3Il8OWZoelu6B) | 4:07 |
 | 51 | [Rivers of Mind](https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL) | [Rose City Band](https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK) | [Rose City Band](https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs) | 6:34 |
@@ -72,19 +72,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 62 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
 | 63 | [Egypt](https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy) | [KYANOS](https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD) | [Egypt](https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc) | 4:21 |
 | 64 | [Spin](https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf) | 3:32 |
-| 65 | [Los Estimados](https://open.spotify.com/track/6AvC278qiJnaF5jj7ariso) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Los Estimados](https://open.spotify.com/album/3B98l6muwFWFXI9BkcR34N) | 4:37 |
-| 66 | [Plea From The Soul](https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F) | [Phafner](https://open.spotify.com/artist/4DfFBzcBgZvLafLxiLhHci) | [Overdrive](https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5) | 5:29 |
-| 67 | [Boudicaaa](https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU) | [MEMORIALS](https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP) | [Music For Film: Tramps!](https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk) | 2:05 |
-| 68 | [Zionic Mud](https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [Zionic Mud](https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l) | 5:21 |
-| 69 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
+| 65 | [Plea From The Soul](https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F) | [Phafner](https://open.spotify.com/artist/4DfFBzcBgZvLafLxiLhHci) | [Overdrive](https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5) | 5:29 |
+| 66 | [Boudicaaa](https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU) | [MEMORIALS](https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP) | [Music For Film: Tramps!](https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk) | 2:05 |
+| 67 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
+| 68 | [Los Estimados](https://open.spotify.com/track/6AvC278qiJnaF5jj7ariso) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Los Estimados](https://open.spotify.com/album/3B98l6muwFWFXI9BkcR34N) | 4:37 |
+| 69 | [Zionic Mud](https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [Zionic Mud](https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l) | 5:21 |
 | 70 | [Todo Bien](https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Sancocho Stereo](https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq) | 4:33 |
 | 71 | [Secrets](https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A Dream of Lasting Peace](https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw) | 3:38 |
 | 72 | [Time Bazaar](https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Time Bazaar](https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR) | 3:56 |
 | 73 | [A Shaman's Hand is Infinite](https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A) | [Sacred Drugs](https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST) | 3:06 |
 | 74 | [Black Kite](https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V) | [Yawning Man](https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe) | [The Revolt Against Tired Noises](https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa) | 5:21 |
 | 75 | [Trash](https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr) | [Fuckin Whatever](https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe) | [Fuckin Whatever](https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI) | 3:33 |
-| 76 | [Silbury Sands](https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Steeple](https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY) | 5:18 |
-| 77 | [Black Acid](https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE) | [Death Hawks](https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1) | [Death Hawks](https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv) | 9:06 |
+| 76 | [Black Acid](https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE) | [Death Hawks](https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1) | [Death Hawks](https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv) | 9:06 |
+| 77 | [Silbury Sands](https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Steeple](https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY) | 5:18 |
 | 78 | [Red Sun](https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:52 |
 | 79 | [The Rat Catcher](https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ) | [Wucan](https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO) | [Reap the Storm](https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS) | 5:25 |
 | 80 | [Rasayana](https://open.spotify.com/track/2WTKsltOhi7DtLPPvfSC8J) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A New Day Dawning](https://open.spotify.com/album/3efSeqmN9bPRMnGWbyYySh) | 9:00 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 87 | [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 |
 | 88 | [Christopher Robbins](https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u) | [Paul Jacobs](https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2) | [Pink Dogs on the Green Grass](https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx) | 3:45 |
 | 89 | [Hit It and Quit It](https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Fudge Sandwich](https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw) | 4:00 |
-| 90 | [Marihuana](https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Guayabo de Agua Ardiente](https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9) | 3:40 |
+| 90 | [Asteroid Witch](https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
 | 91 | [Lady Rachel](https://open.spotify.com/track/0Sx7vYgpMShPW7obwHjt1a) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Aquarium Drunkard's Lagniappe Session](https://open.spotify.com/album/4IM6Ut2jf9cHvgnLSgJWzV) | 5:10 |
-| 92 | [Hey Boy Hey Girl \- Cover Version](https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Bud Spencer Blues Explosion](https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL) | 3:15 |
-| 93 | [Asteroid Witch](https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
+| 92 | [Marihuana](https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Guayabo de Agua Ardiente](https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9) | 3:40 |
+| 93 | [Hey Boy Hey Girl \- Cover Version](https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Bud Spencer Blues Explosion](https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL) | 3:15 |
 | 94 | [Meme City](https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Tripiando Al Infinito En Mi Recámara](https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic) | 4:10 |
 | 95 | [Space Camel](https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Transporter](https://open.spotify.com/album/6GSwsFG6B9fT0Ue7nnWuxe) | 6:37 |
 | 96 | [Cap.4: El Sabbath de las Brujas](https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ) | [Yo Diablo](https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W) | [Häxan](https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW) | 4:07 |
-| 97 | [attention](https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:05 |
-| 98 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 |
-| 99 | [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 |
-| 100 | [EL ELIXIR DE TUS LABIOS](https://open.spotify.com/track/6F1bYqnUYqkPEozNbERZQf) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [EL ELIXIR DE TUS LABIOS](https://open.spotify.com/album/3IoZMNSHUsK6kSE80DLOZ4) | 4:02 |
+| 97 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 |
+| 98 | [attention](https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:05 |
+| 99 | [In The Eve](https://open.spotify.com/track/5VQq8M6cGARgFSLnialsvJ) | [Stonefield](https://open.spotify.com/artist/2xhrgovPiJBMN8cyW2iflu) | [Far From Earth](https://open.spotify.com/album/0Q8ULMJnNCjkLErAEgysO6) | 3:56 |
+| 100 | [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 |
 
-Snapshot ID: `MCwwMjZmMTUzYzU4MzYyY2Y0MDRkZDk1MjNmMDkzZjMzZTE3MjI3MDdm`
+Snapshot ID: `MCxmYTEwN2M0NGE4MjExNGIwNjgzZjA0MDZiMWY1N2U4MTg0M2FlY2Zm`

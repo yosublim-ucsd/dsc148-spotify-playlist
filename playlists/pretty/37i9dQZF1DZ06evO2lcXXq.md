@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,751 likes - 39 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,779 likes - 39 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 38 | [Close \- Live](https://open.spotify.com/track/1PaTAWlv998QLFhfc4HuJ2) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 5:08 |
 | 39 | [Rescata](https://open.spotify.com/track/1pnxPNMoofeCPhXvukMtHo) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 3:35 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA2NzBmYTM3NjYxNGFlYmUxNTI2ZTlkMWVjMzNkMTQ5NA==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDBkODQ4NGYzMWE0MTAwMjdjY2IwMjFjZjZjZDIzYTU2OA==`

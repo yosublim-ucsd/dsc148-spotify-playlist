@@ -4,7 +4,7 @@
 
 > 
 
-142 songs - 8 hr 24 min
+143 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Bibitaw, aasa](https://open.spotify.com/track/3oXmrotNyqtSs6ehaXES3N) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Bibitaw, aasa](https://open.spotify.com/album/0AUHjqyBobZYVJwBucRhRG) | 3:53 | 2022-04-04 | 2022-06-28 |
 | [Black And White](https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:13 | 2022-06-27 | 2023-05-18 |
 | [Blanko](https://open.spotify.com/track/7y9ps21wLaKtpDbEPruqIc) | [Janella Salvador](https://open.spotify.com/artist/5TNuvf8y7Y3QLXsNaIYCYX) | [Blanko](https://open.spotify.com/album/148oTpJ8CmN0o0Rxl0aYAq) | 3:30 | 2022-04-04 | 2022-07-29 |
-| [BUTTERFLIES](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [BUTTERFLIES](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 | 2022-04-04 |  |
+| [BUTTERFLIES](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [BUTTERFLIES](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 | 2022-04-04 | 2024-02-08 |
 | [castle](https://open.spotify.com/track/27iZAhkSm6AHLf65pxvQBz) | [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [castle](https://open.spotify.com/album/4Ezj9rf825Qgnr7mheGVsR) | 2:48 | 2023-06-28 | 2023-07-27 |
 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 | 2022-04-04 |  |
 | [COMING HOME \(feat\. NIKI\)](https://open.spotify.com/track/27Mp1HAFIhnLBsGXdFcGXG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [COMING HOME \(feat\. NIKI\)](https://open.spotify.com/album/1BLMrCc9WNdafvEVXxdOab) | 3:30 | 2022-04-04 | 2022-07-29 |
@@ -97,6 +97,7 @@
 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 | 2022-06-27 |  |
 | [Make You Mine](https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Make You Mine](https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214) | 3:52 | 2022-06-27 |  |
 | [MARIA CLARA](https://open.spotify.com/track/5dOsNjqGBo6bPrqtpOrewZ) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [MARIA CLARA](https://open.spotify.com/album/0cTuZSRmuaKKLiwQWbZ0zW) | 3:48 | 2022-09-05 | 2022-11-12 |
+| [Mariposa](https://open.spotify.com/track/3WD2cic9S2VrGIb6h114MM) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/03lwJBajNLNBIq4jrWo1YK) | 3:30 | 2024-01-10 |  |
 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 | 2022-06-27 | 2023-10-25 |
 | [May Sasabihin Lang](https://open.spotify.com/track/0Su5BcYFPevcGUZY9CHEiM) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [May Sasabihin Lang](https://open.spotify.com/album/4YCbCdDj4wbLRyivrqTX5U) | 3:02 | 2022-11-24 | 2023-02-23 |
 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 | 2022-04-04 | 2022-07-29 |

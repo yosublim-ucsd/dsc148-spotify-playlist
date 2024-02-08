@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-590 songs - 1 day 11 hr 9 min
+591 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Outlaws and Mustangs](https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Outlaws and Mustangs](https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs) | 4:00 | 2023-10-20 |  |
 | [Outta Dirt](https://open.spotify.com/track/0iUAgtPIBPFzAXqdy9sDb5) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky), [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Outta Dirt](https://open.spotify.com/album/16CEupIepvrJlX6ay6NM9n) | 2:44 | 2023-09-01 | 2024-01-05 |
 | [Outta the Country](https://open.spotify.com/track/7K4yuNVRCq5sAzXvAwwFdN) | [Cian Pedersen](https://open.spotify.com/artist/55iTDt1OrQMIHMNKHUPAaQ) | [Outta the Country](https://open.spotify.com/album/7l1wjpNRumuHLvNrIMdzQ6) | 3:12 | 2022-05-27 | 2022-07-09 |
+| [Over](https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [The Droptines](https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl) | 3:02 | 2024-02-02 |  |
 | [Pancho and Lefty](https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ), [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Pancho and Lefty](https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX) | 5:09 | 2023-08-18 | 2024-01-25 |
 | [Peace and Quiet](https://open.spotify.com/track/5gyC7qx0Cc6SF98AmchcoT) | [Drew Kennedy](https://open.spotify.com/artist/6nxLsUCzEsyK6B4nIqZFmT) | [Peace and Quiet](https://open.spotify.com/album/6SiiVm6Fp8U8onjRUtR2mT) | 3:50 | 2022-05-20 | 2022-07-09 |
 | [Pedal Steel](https://open.spotify.com/track/6cwZuax4oVUxdOMudUo2dQ) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Pedal Steel](https://open.spotify.com/album/3C2sVGBUwQKqRlY6QCC7Rs) | 3:40 | 2023-03-10 | 2023-07-01 |
@@ -416,7 +417,7 @@
 | [Saturday Night Comes Once A Week](https://open.spotify.com/track/4wRjg54YqSBl1MN3gEGbkc) | [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Border Radio](https://open.spotify.com/album/0dXxHFUV0SNhMjvCEBaUfG) | 4:04 | 2023-10-06 |  |
 | [Screw You, We're From Texas](https://open.spotify.com/track/6lcw6bpx9iPX98HKenz1qK) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Larry Joe Taylor](https://open.spotify.com/artist/5Hy4kF8dEUyCtXPozSzbHz) | [Josh Abbott Band and Friends: , Vol\. 2](https://open.spotify.com/album/6ChJQZB1aW5kOM6A3tJ2wT) | 4:08 | 2023-02-20 | 2023-05-13 |
 | [See You Again](https://open.spotify.com/track/4Rr95j82AomVqqbAOewgex) | [Mario Flores](https://open.spotify.com/artist/2xUSUDfwQAxQq9WEal8sId) | [See You Again](https://open.spotify.com/album/7MmU8U3Vkjrl2ZAHZ5qvni) | 3:35 | 2023-07-28 | 2023-08-26 |
-| [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep) | 2:54 | 2021-12-17 |  |
+| [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep) | 2:54 | 2021-12-17 | 2024-02-08 |
 | [Seven Year Ache \(feat\. Jenna Paulette\)](https://open.spotify.com/track/3y2zTwvJpEJ0pYi6JdbkQU) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [9 To 5](https://open.spotify.com/album/5kicg2H6THrgsSoW3SAA4v) | 3:21 | 2023-09-01 | 2023-10-21 |
 | [Seven Year Ache \(feat\. Jenna Paulette\)](https://open.spotify.com/track/63Z6AAHPSbNm0S6f5XuXe5) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Cover Girl](https://open.spotify.com/album/4tbA2NrQQetM0NUqszgn52) | 3:21 | 2023-11-24 | 2024-01-24 |
 | [She Can't Be Found](https://open.spotify.com/track/0S7JGv7sbJlrr6BBMfRKye) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 4:27 | 2023-08-11 | 2023-09-11 |

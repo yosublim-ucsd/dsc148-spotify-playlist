@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 164537,
+  "num_followers": 164753,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjRmMDdjMWEwYmJlMzUxMTE3N2YyNjZmZDg0NTI0N2M5MTVkMzcx",
+  "snapshot_id": "MCw4YWY3NWI2OWQ0NmIzMjQyOGQzNjMwMjI0ZjBmZjdlZGM5ZjA4ODg2",
   "tracks": [
     {
       "added_at": "2023-09-22 12:14:33",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
       },
       "artists": [
         {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 376000,
-      "name": "I'm Going to Do It",
-      "url": "https://open.spotify.com/track/6pS0PVQYaBYGkKPRxT5PEl"
+      "duration_ms": 206340,
+      "name": "Shoulders",
+      "url": "https://open.spotify.com/track/2Ef5PbCqzsxCzwvbWXGVgm"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
       },
       "artists": [
         {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
         }
       ],
-      "duration_ms": 206340,
-      "name": "Shoulders",
-      "url": "https://open.spotify.com/track/2Ef5PbCqzsxCzwvbWXGVgm"
+      "duration_ms": 376000,
+      "name": "I'm Going to Do It",
+      "url": "https://open.spotify.com/track/6pS0PVQYaBYGkKPRxT5PEl"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
       "artists": [
         {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
         }
       ],
-      "duration_ms": 486277,
-      "name": "No One Is Ever Going to Want Me",
-      "url": "https://open.spotify.com/track/4McullpiOd45TwEHlOISgs"
+      "duration_ms": 150299,
+      "name": "(Something)",
+      "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -491,22 +491,6 @@
       "duration_ms": 348800,
       "name": "Words",
       "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 150299,
-      "name": "(Something)",
-      "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -575,6 +559,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "Warmth of You",
+      "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "Giles Corey",
         "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
       },
@@ -584,25 +584,9 @@
           "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
         }
       ],
-      "duration_ms": 477000,
-      "name": "The Haunting Presence",
-      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Green Wall",
-        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
-      },
-      "artists": [
-        {
-          "name": "Wreath",
-          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Waiting for Your Train",
-      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
+      "duration_ms": 486277,
+      "name": "No One Is Ever Going to Want Me",
+      "url": "https://open.spotify.com/track/4McullpiOd45TwEHlOISgs"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -623,6 +607,22 @@
       "duration_ms": 187863,
       "name": "Fantas Morbida",
       "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Green Wall",
+        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
+      },
+      "artists": [
+        {
+          "name": "Wreath",
+          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Waiting for Your Train",
+      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
       },
       "artists": [
         {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
         }
       ],
-      "duration_ms": 213426,
-      "name": "Warmth of You",
-      "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
+      "duration_ms": 477000,
+      "name": "The Haunting Presence",
+      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "And They Will Fall",
-        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
-      },
-      "artists": [
-        {
-          "name": "Nik Sudan",
-          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "And They Will Fall",
-      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "4AM ambient version",
         "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 112826,
       "name": "4AM ambient version",
       "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "And They Will Fall",
+        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+      },
+      "artists": [
+        {
+          "name": "Nik Sudan",
+          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "And They Will Fall",
+      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "where is life?",
-        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
-      },
-      "artists": [
-        {
-          "name": "Sibewest",
-          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "where is life?",
-      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "skies",
         "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 129998,
       "name": "skies",
       "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "where is life?",
+        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
+      },
+      "artists": [
+        {
+          "name": "Sibewest",
+          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "where is life?",
+      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "Together Is The New Alone (2021 Remaster)",
+        "url": "https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U"
+      },
+      "artists": [
+        {
+          "name": "Donnacha Costello",
+          "url": "https://open.spotify.com/artist/4E4E7r2hvqQjmNVaHnKXiz"
+        }
+      ],
+      "duration_ms": 645000,
+      "name": "Dry Retch - 2021 Remaster",
+      "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "haunted (remixes)",
         "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
       },
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Together Is The New Alone (2021 Remaster)",
-        "url": "https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U"
-      },
-      "artists": [
-        {
-          "name": "Donnacha Costello",
-          "url": "https://open.spotify.com/artist/4E4E7r2hvqQjmNVaHnKXiz"
-        }
-      ],
-      "duration_ms": 645000,
-      "name": "Dry Retch - 2021 Remaster",
-      "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Lie Beneath the Stars",
         "url": "https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj"
       },
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 417142,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Slow Bloom",
         "url": "https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 285312,
       "name": "Slow Bloom",
       "url": "https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
       "added_at": "2023-09-22 12:14:33",

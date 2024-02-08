@@ -1,12 +1,12 @@
 {
   "description": "Listen to all the tracks you've been missing. Cover: Katy Perry",
-  "num_followers": 6188684,
+  "num_followers": 6188725,
   "original_name": "Hit Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTQyNzMyYzc3ZDY3YWM3YzUwNmQwNzdjYTBlNmVkYTkzZGRjMTRl",
+  "snapshot_id": "MCxiZmUzOGQ2NmZjODZkMTQwMmE3ZGEwYjk5MDMwOGU4MTBjZDAwYzlj",
   "tracks": [
     {
       "added_at": "2023-11-07 15:22:31",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Skyfall",
-        "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 286480,
-      "name": "Skyfall",
-      "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "FOUR (Deluxe)",
         "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "Skyfall",
+        "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 286480,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Lukas Graham",
-        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 237300,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 258986,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "Lukas Graham",
+        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 237300,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 278719,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
+      "duration_ms": 233720,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 233720,
-      "name": "Love Yourself",
-      "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
+      "duration_ms": 278719,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "A Head Full of Dreams",
-        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 258266,
-      "name": "Hymn for the Weekend",
-      "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 200786,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 258266,
+      "name": "Hymn for the Weekend",
+      "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -919,6 +919,26 @@
       "duration_ms": 197266,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "See You Again (feat. Charlie Puth)",
+        "url": "https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 229525,
+      "name": "See You Again (feat. Charlie Puth)",
+      "url": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -959,26 +979,6 @@
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
-        "name": "See You Again (feat. Charlie Puth)",
-        "url": "https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 229525,
-      "name": "See You Again (feat. Charlie Puth)",
-      "url": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1027,26 +1027,6 @@
       "duration_ms": 340706,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Outside (feat. Ellie Goulding)",
-      "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1139,18 +1119,22 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
       "artists": [
         {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 213306,
-      "name": "I Want It That Way",
-      "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
+      "duration_ms": 227266,
+      "name": "Outside (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1171,6 +1155,22 @@
       "duration_ms": 242733,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 229360,
+      "name": "Time of Our Lives",
+      "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
         "name": "Don't You Worry Child",
         "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 182706,
       "name": "XO Tour Llif3",
       "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 229360,
-      "name": "Time of Our Lives",
-      "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 188453,
       "name": "Love You Like A Love Song",
       "url": "https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Heathens",
-        "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 195920,
-      "name": "Heathens",
-      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
+      "duration_ms": 263786,
+      "name": "Adventure of a Lifetime",
+      "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1467,22 +1467,6 @@
       "duration_ms": 222533,
       "name": "Summer",
       "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
-        "name": "A Head Full of Dreams",
-        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 263786,
-      "name": "Adventure of a Lifetime",
-      "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
+        "name": "Heathens",
+        "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Heathens",
+      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Levels",
-        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Levels - Radio Edit",
-      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "MKTO",
         "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 175426,
       "name": "Classic",
       "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Levels - Radio Edit",
+      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
+        "name": "In A Perfect World (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 305746,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
         "name": "Wanted on Voyage (Expanded Edition)",
         "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 200733,
       "name": "Budapest",
       "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
-        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
-        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
-      },
-      "artists": [
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "Only Love Can Hurt Like This",
-      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "In A Perfect World (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
+        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
       },
       "artists": [
         {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
         }
       ],
-      "duration_ms": 305746,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
+      "duration_ms": 232893,
+      "name": "Only Love Can Hurt Like This",
+      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
     },
     {
       "added_at": "2023-11-07 15:22:31",

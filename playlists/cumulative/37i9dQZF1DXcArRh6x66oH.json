@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "A Cigarette",
+        "url": "https://open.spotify.com/album/6e4TRkJXdQCdj8x5Oj0v9u"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179882,
+      "name": "A Cigarette",
+      "url": "https://open.spotify.com/track/7kpCMD8iv4RC971CJRPZ3U"
+    },
+    {
+      "album": {
         "name": "Girl Going Nowhere",
         "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
       },

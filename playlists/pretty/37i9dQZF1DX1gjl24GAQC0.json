@@ -1,12 +1,12 @@
 {
   "description": "Is it your favorite oppa or dongsaeng? (Cover: P1Harmony) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
-  "num_followers": 821051,
+  "num_followers": 821057,
   "original_name": "Hallyu Boy Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWU1NmZhOWE1Y2UwYWQ1MjIyMTY2MjlhZDQ0ZGY1NjBmY2RjMGY0",
+  "snapshot_id": "MCwzNTYyZDg3YzFlMDkwMTY1NWRiOWE0Yzk2OGIxNzAxNzVmNjk5NDk3",
   "tracks": [
     {
       "added_at": "2024-02-05 11:12:54",
@@ -639,22 +639,18 @@
     {
       "added_at": "2024-02-05 11:12:54",
       "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+        "name": "SPIN OFF : FROM THE WITNESS",
+        "url": "https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm"
       },
       "artists": [
         {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 175775,
-      "name": "VIBE (feat. Jimin of BTS)",
-      "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
+      "duration_ms": 197025,
+      "name": "HALAZIA",
+      "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
     },
     {
       "added_at": "2024-02-05 11:12:54",
@@ -707,18 +703,22 @@
     {
       "added_at": "2024-02-05 11:12:54",
       "album": {
-        "name": "SPIN OFF : FROM THE WITNESS",
-        "url": "https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm"
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
       },
       "artists": [
         {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 197025,
-      "name": "HALAZIA",
-      "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
     },
     {
       "added_at": "2024-02-05 11:12:54",
@@ -735,26 +735,6 @@
       "duration_ms": 178453,
       "name": "_WORLD",
       "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
-    },
-    {
-      "added_at": "2024-02-05 11:12:54",
-      "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 205101,
-      "name": "Shoong! (feat. LISA of BLACKPINK)",
-      "url": "https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt"
     },
     {
       "added_at": "2024-02-05 11:12:54",
@@ -823,8 +803,24 @@
     {
       "added_at": "2024-02-05 11:12:54",
       "album": {
-        "name": "minisode 2: Thursday's Child",
-        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
+        "name": "Talk Saxy",
+        "url": "https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 190941,
+      "name": "Talk Saxy",
+      "url": "https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND"
+    },
+    {
+      "added_at": "2024-02-05 11:12:54",
+      "album": {
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
       "artists": [
         {
@@ -832,9 +828,9 @@
           "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 191038,
-      "name": "Good Boy Gone Bad",
-      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
+      "duration_ms": 209105,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
     }
   ],
   "unique_name": "Hallyu Boy Bands",

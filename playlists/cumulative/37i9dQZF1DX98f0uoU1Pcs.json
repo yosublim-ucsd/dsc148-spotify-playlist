@@ -1447,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "What Do We Do Now",
+        "url": "https://open.spotify.com/album/5zXKvifRMlKDijAwCOnHWZ"
+      },
+      "artists": [
+        {
+          "name": "J Mascis",
+          "url": "https://open.spotify.com/artist/1PokjXeIq2zVosXbTEaNlx"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238213,
+      "name": "Can\u2019t Believe We're Here",
+      "url": "https://open.spotify.com/track/5rZCwYjBZ1UX40Ussx8Jkg"
+    },
+    {
+      "album": {
         "name": "Can't Believe We're Here",
         "url": "https://open.spotify.com/album/21kuC8CVlZkz9UoquPEOXJ"
       },
@@ -1458,7 +1476,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 238213,
       "name": "Can\u2019t Believe We're Here",
       "url": "https://open.spotify.com/track/6EwGSVvfTqgykrkExXCsQG"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "a gente s\u00f3 pensa numa coisa....Foto: Ivete Sangalo",
+  "description": "a gente s\u00f3 pensa numa coisa....Foto: Lu\u00edsa Sonza, Kevin O Chris",
   "name": "Hot Hits Brasil",
   "tracks": [
     {
@@ -3010,20 +3010,12 @@
         {
           "name": "Mc Gw",
           "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Magrinho",
-          "url": "https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI"
-        },
-        {
-          "name": "Mc Pikachu",
-          "url": "https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5"
         }
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 201230,
+      "duration_ms": 206769,
       "name": "MAGR\u00c3O SUPREMO",
       "url": "https://open.spotify.com/track/7eZE5ob4uWJkAZYQyAIFdP"
     },
@@ -4368,6 +4360,28 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "album": {
+        "name": "recadin no espelho",
+        "url": "https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124312,
+      "name": "recadin no espelho",
+      "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
     },
     {
       "album": {

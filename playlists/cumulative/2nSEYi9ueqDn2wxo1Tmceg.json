@@ -1459,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "Big Love",
+        "url": "https://open.spotify.com/album/4fgwPlwnatn7LfaMiziOJh"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Big Love",
+      "url": "https://open.spotify.com/track/5TlQaUReZtviIA3AWrAazB"
+    },
+    {
+      "album": {
         "name": "Big Pharma",
         "url": "https://open.spotify.com/album/6gMqX1TJ4KrWzHpiRa6RYp"
       },
@@ -4401,6 +4419,24 @@
     },
     {
       "album": {
+        "name": "Floating On A Moment",
+        "url": "https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY"
+      },
+      "artists": [
+        {
+          "name": "Beth Gibbons",
+          "url": "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326080,
+      "name": "Floating On A Moment",
+      "url": "https://open.spotify.com/track/5ZBjVFfYDwj3TeIfDHLWLN"
+    },
+    {
+      "album": {
         "name": "(Herman\u2019s) House / Follow Me",
         "url": "https://open.spotify.com/album/06WAdZd3Ty6SpqW6NPepJW"
       },
@@ -4980,6 +5016,32 @@
     {
       "album": {
         "name": "Gloria",
+        "url": "https://open.spotify.com/album/3O5MObls3U28AQQmmEXAYe"
+      },
+      "artists": [
+        {
+          "name": "Joseph Shabason",
+          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
+        },
+        {
+          "name": "Nicholas Krgovich",
+          "url": "https://open.spotify.com/artist/68QhSfYuqyiT1KPoHlCvSv"
+        },
+        {
+          "name": "M. Sage",
+          "url": "https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/1h41blh3AI74vHoPJ1KhZX"
+    },
+    {
+      "album": {
+        "name": "Gloria",
         "url": "https://open.spotify.com/album/2Da8ulu48GwmJHChDmX04L"
       },
       "artists": [
@@ -5324,7 +5386,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 305034,
       "name": "Hands Of Man",
       "url": "https://open.spotify.com/track/6FrW7htz75AtmZJZk59BEv"
@@ -6354,7 +6416,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 186266,
       "name": "If Tomorrow Starts Without Me",
       "url": "https://open.spotify.com/track/5PH9ltMSmTtgnfTNCfuDao"
@@ -7138,7 +7200,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 170674,
       "name": "Jurgita\u2019s Theme",
       "url": "https://open.spotify.com/track/7n8IOvKlfpcd7yakNTnSPN"
@@ -7908,6 +7970,24 @@
       "duration_ms": 518320,
       "name": "Lord Abore and Mary Flynn",
       "url": "https://open.spotify.com/track/0I45pciMC6VuczIknGsl0i"
+    },
+    {
+      "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP"
+      },
+      "artists": [
+        {
+          "name": "Boeckner",
+          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291037,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/729EJVbWkITU4vAc690cFE"
     },
     {
       "album": {
@@ -8927,6 +9007,24 @@
     },
     {
       "album": {
+        "name": "Never Mind",
+        "url": "https://open.spotify.com/album/1Me5DsIM8drS8VbTQ3lGGH"
+      },
+      "artists": [
+        {
+          "name": "Moonpools",
+          "url": "https://open.spotify.com/artist/1eD5LHUXByotygvcu8axHn"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288864,
+      "name": "Never Mind",
+      "url": "https://open.spotify.com/track/0CaP3GykIuDrMitzOTtkJr"
+    },
+    {
+      "album": {
         "name": "New York",
         "url": "https://open.spotify.com/album/782f4OR6lKLwAdad0p4tAc"
       },
@@ -8978,7 +9076,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 352709,
       "name": "Nietzsche on the Beach - Raf Rundell Remix",
       "url": "https://open.spotify.com/track/1yMkWzGdFnyyL4We4Vqbvu"
@@ -14554,7 +14652,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 283274,
       "name": "Working Class Hero",
       "url": "https://open.spotify.com/track/4E0dnwU0VhvJydUOEiq6IB"

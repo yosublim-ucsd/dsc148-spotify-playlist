@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 
 > A celebration of Norway's dance scene!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,767 likes - 50 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,774 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 29 | [Love in the Night](https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [CDIII](https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF) | 8:13 |
 | 30 | [Hard Trafikk](https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Trøbbel](https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU) | 4:42 |
 | 31 | [Formanta](https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 4:09 |
-| 32 | [A City So Convenient](https://open.spotify.com/track/6Tlxp0jf4hOmSeOiuhnM5v) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [A City So Convenient](https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J) | 6:26 |
-| 33 | [The Walk](https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN) | [Frede](https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56) | [The Walk](https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG) | 4:24 |
+| 32 | [The Walk](https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN) | [Frede](https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56) | [The Walk](https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG) | 4:24 |
+| 33 | [A City So Convenient](https://open.spotify.com/track/6Tlxp0jf4hOmSeOiuhnM5v) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [A City So Convenient](https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J) | 6:26 |
 | 34 | [Staying In](https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP) | 3:54 |
 | 35 | [Kosmetisk](https://open.spotify.com/track/5Lx3mPW7NV7MCw31OofvV4) | [Magnus International](https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE) | [Kosmetisk](https://open.spotify.com/album/5Tsih38nrHZzQPHaLkwjc7) | 5:42 |
 | 36 | [Bommelom](https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Ramma EP](https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG) | 7:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 49 | [Low](https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Tilla](https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:07 |
 | 50 | [Zephyr \- Robert Solheim Solaris Remix](https://open.spotify.com/track/1psXs0ni8IySbY3AxcEeMG) | [Stereolynk](https://open.spotify.com/artist/6W2V2WS3Kr36kZjd2YjFOn), [Robert Solheim](https://open.spotify.com/artist/5Ewl7o6HfXIj36cP4zXkyn) | [Zephyr \(Unreleased Remixes\)](https://open.spotify.com/album/68GKYd7hqm3DLlYjsD4KgR) | 9:55 |
 
-Snapshot ID: `MCw1YmQ1NDM1OWRjNjA3MjhmNjNmM2I5ZTg3ZjI5NDJjYmQ0OGNmOWE4`
+Snapshot ID: `MCw2M2JlMWQzZDg4ZjY2ZmRlYWZlMDQ1YWZlNDhhZjk3MzZmNjQ4ZWQ0`

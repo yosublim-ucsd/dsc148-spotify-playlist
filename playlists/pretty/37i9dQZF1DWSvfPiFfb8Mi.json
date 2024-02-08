@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 549721,
+  "num_followers": 549789,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTY1NmJjZjQ1NjdkOTBlYTI2YTZjY2Y0ZmFmMTA2MGJiODYyZWY1",
+  "snapshot_id": "MCwwMDJkN2MxMzBjYzc4NWJhMDgzMmJiZTQ4Yjk0MzgzOTc5MGJlZDlh",
   "tracks": [
     {
       "added_at": "2024-02-02 17:03:26",
@@ -783,6 +783,26 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8"
+      },
+      "artists": [
+        {
+          "name": "Darius",
+          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        }
+      ],
+      "duration_ms": 237368,
+      "name": "EASE YOUR MIND",
+      "url": "https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM"
+    },
+    {
+      "added_at": "2024-02-02 17:03:26",
+      "album": {
         "name": "Club Future Nostalgia (DJ Mix)",
         "url": "https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 180040,
       "name": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
       "url": "https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj"
-    },
-    {
-      "added_at": "2024-02-02 17:03:26",
-      "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8"
-      },
-      "artists": [
-        {
-          "name": "Darius",
-          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        }
-      ],
-      "duration_ms": 237368,
-      "name": "EASE YOUR MIND",
-      "url": "https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM"
     },
     {
       "added_at": "2024-02-02 17:03:26",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
+    },
+    {
+      "added_at": "2024-02-02 17:03:26",
+      "album": {
         "name": "Giodisco",
         "url": "https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD"
       },
@@ -915,18 +931,18 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
-        "name": "Lucas",
-        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
+        "name": "Everyday People",
+        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
       },
       "artists": [
         {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
         }
       ],
-      "duration_ms": 198173,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
+      "duration_ms": 165494,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
     },
     {
       "added_at": "2024-02-02 17:03:26",
@@ -951,22 +967,6 @@
       "duration_ms": 190012,
       "name": "Flawless",
       "url": "https://open.spotify.com/track/5nPPgxXTXhVdxJbe5jZLYQ"
-    },
-    {
-      "added_at": "2024-02-02 17:03:26",
-      "album": {
-        "name": "Everyday People",
-        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
-      },
-      "artists": [
-        {
-          "name": "Prok & Fitch",
-          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
-        }
-      ],
-      "duration_ms": 165494,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
     },
     {
       "added_at": "2024-02-02 17:03:26",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
+        "name": "Best Of My Love",
+        "url": "https://open.spotify.com/album/5MmHGtK6mKVpyVNYVdXf48"
+      },
+      "artists": [
+        {
+          "name": "Revival",
+          "url": "https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk"
+        },
+        {
+          "name": "Imaani",
+          "url": "https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Best Of My Love",
+      "url": "https://open.spotify.com/track/6xUNDUAOBovyRz1MnvMKAU"
+    },
+    {
+      "added_at": "2024-02-02 17:03:26",
+      "album": {
         "name": "A Mixtape by Anish Kumar",
         "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
       },
@@ -1343,26 +1363,6 @@
       "duration_ms": 172160,
       "name": "CAN'T GO HOME",
       "url": "https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR"
-    },
-    {
-      "added_at": "2024-02-02 17:03:26",
-      "album": {
-        "name": "Best Of My Love",
-        "url": "https://open.spotify.com/album/5MmHGtK6mKVpyVNYVdXf48"
-      },
-      "artists": [
-        {
-          "name": "Revival",
-          "url": "https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk"
-        },
-        {
-          "name": "Imaani",
-          "url": "https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Best Of My Love",
-      "url": "https://open.spotify.com/track/6xUNDUAOBovyRz1MnvMKAU"
     },
     {
       "added_at": "2024-02-02 17:03:26",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
-        "name": "Dunston (Bellaire Remix)",
-        "url": "https://open.spotify.com/album/6ZyTc9CIeuHsPSgg0ypxAI"
-      },
-      "artists": [
-        {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
-        },
-        {
-          "name": "Bellaire",
-          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
-        }
-      ],
-      "duration_ms": 213243,
-      "name": "Dunston (Bellaire Remix)",
-      "url": "https://open.spotify.com/track/1un3tgix0qXdcAAT7VYiDx"
-    },
-    {
-      "added_at": "2024-02-02 17:03:26",
-      "album": {
         "name": "Fool For Love",
         "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 239220,
       "name": "Fool For Love - Chris Lake Edit",
       "url": "https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu"
+    },
+    {
+      "added_at": "2024-02-02 17:03:26",
+      "album": {
+        "name": "Dunston (Bellaire Remix)",
+        "url": "https://open.spotify.com/album/6ZyTc9CIeuHsPSgg0ypxAI"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        },
+        {
+          "name": "Bellaire",
+          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
+        }
+      ],
+      "duration_ms": 213243,
+      "name": "Dunston (Bellaire Remix)",
+      "url": "https://open.spotify.com/track/1un3tgix0qXdcAAT7VYiDx"
     },
     {
       "added_at": "2024-02-02 17:03:26",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Please - Single Edit",
-      "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
-    },
-    {
-      "added_at": "2024-02-02 17:03:26",
-      "album": {
         "name": "To the Stars and Back",
         "url": "https://open.spotify.com/album/5aYIRYfTHseCyXvhGGQHF9"
       },
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Please - Single Edit",
+      "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
+    },
+    {
+      "added_at": "2024-02-02 17:03:26",
+      "album": {
         "name": "Move Me",
         "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
       },
@@ -1603,22 +1603,6 @@
       "duration_ms": 231733,
       "name": "Move Me",
       "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
-    },
-    {
-      "added_at": "2024-02-02 17:03:26",
-      "album": {
-        "name": "Motions",
-        "url": "https://open.spotify.com/album/5STBzJGEIATKtZQDf2t94W"
-      },
-      "artists": [
-        {
-          "name": "Midnight Pool Party",
-          "url": "https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z"
-        }
-      ],
-      "duration_ms": 232794,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/2ceeWOjkhDVZfBTCcTD5d9"
     },
     {
       "added_at": "2024-02-02 17:03:26",
@@ -1703,26 +1687,22 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
-        "name": "Beggin' You (Leftwing : Kody Remix)",
-        "url": "https://open.spotify.com/album/1TtWMY6skAo4XVB6Jf6LAf"
+        "name": "Maintain (Jafunk Remix)",
+        "url": "https://open.spotify.com/album/4s3XM6cFpopwRnit42eBGq"
       },
       "artists": [
         {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
         },
         {
-          "name": "SAYGRACE",
-          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
-        },
-        {
-          "name": "Leftwing : Kody",
-          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
         }
       ],
-      "duration_ms": 216101,
-      "name": "Beggin' You (Leftwing : Kody Remix)",
-      "url": "https://open.spotify.com/track/4ZpFJCzEFnXRtxRW4FBB5R"
+      "duration_ms": 193946,
+      "name": "Maintain - Jafunk Remix",
+      "url": "https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2"
     },
     {
       "added_at": "2024-02-02 17:03:26",
@@ -1743,22 +1723,26 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
-        "name": "Maintain (Jafunk Remix)",
-        "url": "https://open.spotify.com/album/4s3XM6cFpopwRnit42eBGq"
+        "name": "Beggin' You (Leftwing : Kody Remix)",
+        "url": "https://open.spotify.com/album/1TtWMY6skAo4XVB6Jf6LAf"
       },
       "artists": [
         {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
         },
         {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+          "name": "SAYGRACE",
+          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
+        },
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
         }
       ],
-      "duration_ms": 193946,
-      "name": "Maintain - Jafunk Remix",
-      "url": "https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2"
+      "duration_ms": 216101,
+      "name": "Beggin' You (Leftwing : Kody Remix)",
+      "url": "https://open.spotify.com/track/4ZpFJCzEFnXRtxRW4FBB5R"
     },
     {
       "added_at": "2024-02-02 17:03:26",
@@ -1867,6 +1851,22 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
+        "name": "Waiting 4 You",
+        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
+      },
+      "artists": [
+        {
+          "name": "Ekkah",
+          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
+        }
+      ],
+      "duration_ms": 220299,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
+    },
+    {
+      "added_at": "2024-02-02 17:03:26",
+      "album": {
         "name": "Skipping Like A Stone (feat. Beck) [Gerd Janson Remix]",
         "url": "https://open.spotify.com/album/1sTGjuVWoBksS49T9pOp4b"
       },
@@ -1911,18 +1911,26 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
-        "name": "Waiting 4 You",
-        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
+        "name": "CAPYAC FOREVER",
+        "url": "https://open.spotify.com/album/63jCHRp1OODxxUM5vm6sw3"
       },
       "artists": [
         {
-          "name": "Ekkah",
-          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
+          "name": "CAPYAC",
+          "url": "https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5"
+        },
+        {
+          "name": "Slim Jeff",
+          "url": "https://open.spotify.com/artist/16S5i3Q31EGZAB1v593hhk"
+        },
+        {
+          "name": "Annabelle Freedman",
+          "url": "https://open.spotify.com/artist/0NoKAkvLzKucjNCZ0y62SW"
         }
       ],
-      "duration_ms": 220299,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
+      "duration_ms": 206896,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/5AEYzNoMrEgoEf7pDXiyD3"
     }
   ],
   "unique_name": "Poolside Disco",

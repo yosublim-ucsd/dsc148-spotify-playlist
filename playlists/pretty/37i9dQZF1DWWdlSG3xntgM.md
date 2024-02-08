@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,234 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,250 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 44 | [Chỉ Hai Đứa Mình](https://open.spotify.com/track/4IduE5TDLuPvg0YxmrRNAV) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Nhạc Vàng](https://open.spotify.com/album/3k1SXNvYsRQ5Nb4Q4hBb7E) | 7:10 |
 | 45 | [Chuyến Tàu Hoàng Hôn](https://open.spotify.com/track/0Lk9vVQXX2lgzUHQUorp2T) | [Nghệ sĩ Thụy Mười](https://open.spotify.com/artist/3HmGUdPh4IOzv9WXoFkHgJ) | [Chuyến Tàu Hoàng Hôn](https://open.spotify.com/album/18x2bES32ZumNCvQQnssB8) | 6:17 |
 | 46 | [Trả Lại Thời Gian](https://open.spotify.com/track/5FBZTuXD8VEc3TUdkcW02G) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Trả Lại Thời Gian](https://open.spotify.com/album/3anrtl0M6qcB22rTHH9JNy) | 5:47 |
-| 47 | [Nó](https://open.spotify.com/track/0yMCviDfGzIM1BGYm7loWk) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Chuyện Giàn Thiên Lý \(Tình Khúc Anh Bằng và Trần Thiện Thanh\)](https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv) | 5:08 |
+| 47 | [Sài Gòn Niềm Nhớ Không Tên](https://open.spotify.com/track/2dpdXnhU0eFshwdNc9gxYv) | [Thanh Thúy](https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS) | [Tiếng Ca U Hoài](https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi) | 3:50 |
 | 48 | [Những ngày xưa thân ái](https://open.spotify.com/track/065m5SgiXmlREci47MZaLG) | [Duy Khanh](https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O) | [Tiếng Hát Duy Khánh](https://open.spotify.com/album/5h5DvRFhU1YZugPRDNBawY) | 5:26 |
 | 49 | [Đồi Thông Hai Mộ](https://open.spotify.com/track/3LoljxIq6GmMQ4hx2VDz0Q) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Nhà Anh Nhà Em](https://open.spotify.com/album/0FoAmSrGZkXWsAfrBnka5c) | 6:11 |
 | 50 | [Ba tháng tạ từ](https://open.spotify.com/track/2z7DxMbDCN6hvQDc7CiTKa) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Đêm buồn tỉnh lẻ](https://open.spotify.com/album/27rvjSE9KjUEKj3nqI50fA) | 4:33 |
 
-Snapshot ID: `MCxlYjMxMTNjNDM5ODNlMWQ4MjhiNmZjZDNiOTk4YzlmYWUwYmZjYjdh`
+Snapshot ID: `MCxiMzVhYmY2NDA4NTI2YmJhODYyYTg1ZjgzYWZkNmQwOTQ1YjU1OTAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 740 likes - 99 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 741 likes - 99 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 98 | [Last Girl on Earth](https://open.spotify.com/track/6PPxnLwM1Bzyyo0K2Kf5zK) | [Tristan](https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv) | [Last Girl on Earth](https://open.spotify.com/album/6MUJP0mwWCuUeG9TgAMm2M) | 3:21 |
 | 99 | [Lose Myself](https://open.spotify.com/track/5GiQpCHV469WHEbhef3EVB) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:50 |
 
-Snapshot ID: `Mjg0NTQ1NDAsMDAwMDAwMDAyMzI5Y2I4ZjU3NDkwNTE3NjcwNWY3MWQyMzMzMWFmYg==`
+Snapshot ID: `Mjg0NTU5ODAsMDAwMDAwMDA2ZDRlZTcxMDRkYTExYWFjYzk0OTNkMzY1MGMxMmU1OQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,093 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,072 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 53 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 |
 | 54 | [Dystopia](https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:59 |
 | 55 | [Sham Pain](https://open.spotify.com/track/3MnYJuv8ogYrBkBb3XWdTQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/7BXbyT2VJgiD6eYLPJrsJp) | 3:29 |
-| 56 | [The Black](https://open.spotify.com/track/6GoHTm0vZGTcs7I87HUIdX) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [The Black](https://open.spotify.com/album/0IH8nMaCZC4A7DcGR7fW0V) | 4:41 |
-| 57 | [Rotoscope](https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW) | 3:35 |
+| 56 | [Rotoscope](https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW) | 3:35 |
+| 57 | [The Black](https://open.spotify.com/track/6GoHTm0vZGTcs7I87HUIdX) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [The Black](https://open.spotify.com/album/0IH8nMaCZC4A7DcGR7fW0V) | 4:41 |
 | 58 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 |
 | 59 | [Chelsea Smile](https://open.spotify.com/track/3eSnqrgqm1R0mkgz80Cpzq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/1prhMiPHHEEzK5ueEx2vWB) | 5:02 |
 | 60 | [Death](https://open.spotify.com/track/2e9HC16cEYxDnj4QAmsYi4) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Lost in the Waves \(The Complete Edition\)](https://open.spotify.com/album/6N1zjfchsRYKmiqyQZSudl) | 3:43 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 69 | [STFU](https://open.spotify.com/track/0X6WHH6WvXFTMmwWrsFeob) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Aurora](https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX) | 3:30 |
 | 70 | [Cutthroat](https://open.spotify.com/track/4kCUavIIL9zaAPE9fRnl88) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Hard Feelings](https://open.spotify.com/album/4bUiEIZLN53j0zIXcxHzRR) | 3:18 |
 
-Snapshot ID: `MCxjMzc0NjhmMjg4MjI1NDQ0YmVmOWZkM2I2YmU1MDk3NWFiYTFiMzUw`
+Snapshot ID: `MCxiZmFmZjI5MDU3YmYwZTllMmU2MzBmNTU1NDljZGM0ZGI3Y2E0NDUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,842 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,845 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 20 | [Do It \(Let Me See You Shake\)](https://open.spotify.com/track/5QIPJPkYq0QwhDSD0hA4of) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [The Best Of The Bar\-Kays \(Vol\. 2\)](https://open.spotify.com/album/59ZStF17nEWBFrbfGH2gOI) | 4:11 |
 | 21 | [Erotic City \- Make Love Not War Erotic City Come Alive; Extended Version; 2017 Remaster](https://open.spotify.com/track/14TRnDQpggU8mpAzQ4Y3GL) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 7:23 |
 | 22 | [Walking on Sunshine '82](https://open.spotify.com/track/6VmVHkHZuM5JYXZQyeZoki) | [Rocker's Revenge](https://open.spotify.com/artist/4HQUFZUKjXhvh9rS23DYzG), [Donnie Calvin](https://open.spotify.com/artist/6vb6yJIgcrCFlpWKnspCS6) | [The Streetwise Sessions](https://open.spotify.com/album/2Aelx6YvpowzbEL9OdTsYq) | 9:32 |
-| 23 | [Freaks Come Out at Night](https://open.spotify.com/track/1JKJZLqLUh0vlemaD3IfLe) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Escape \(Expanded Edition\)](https://open.spotify.com/album/0wXylkn9taeEjiiac1S2zU) | 4:44 |
-| 24 | [Computer Age \(Push the Button\)](https://open.spotify.com/track/4GoIiZIrZ4t2IzfAYFSHSC) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 7:40 |
+| 23 | [Computer Age \(Push the Button\)](https://open.spotify.com/track/4GoIiZIrZ4t2IzfAYFSHSC) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 7:40 |
+| 24 | [Freaks Come Out at Night](https://open.spotify.com/track/1JKJZLqLUh0vlemaD3IfLe) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Escape \(Expanded Edition\)](https://open.spotify.com/album/0wXylkn9taeEjiiac1S2zU) | 4:44 |
 | 25 | [Beat the Street](https://open.spotify.com/track/41F97acqBc7aMzwD224kRR) | [Sharon Redd](https://open.spotify.com/artist/2kUUaHnVe0rRarZqRZgHEY) | [Beat the Street: The Very Best of Sharon Redd](https://open.spotify.com/album/3EOCA2DlYoeTIYjQauWDXM) | 6:15 |
 | 26 | [Renegades of Funk \- 12" Vocal Version](https://open.spotify.com/track/7iPXWodYIIDwXcbDTbLup5) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Looking for the Perfect Beat 1980 \-1985](https://open.spotify.com/album/2UrZ3obnsIpILX1x86hCfu) | 6:43 |
 | 27 | [Play That Beat Mr\. D.J\. \- 12" Full Length](https://open.spotify.com/track/3kWGNtHAzBgrgDxPLnQq2j) | [G.L.O.B.E.](https://open.spotify.com/artist/5GDs0v4x9bGA9XTiOtb19k), [Whiz Kid](https://open.spotify.com/artist/2AHK3SwBG25XRxsNGVp5aw) | [Play That Beat Mr\. D.J.](https://open.spotify.com/album/4k6IzdXEKMiQ8LiJUmsiDU) | 6:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 49 | [Let The Music Play](https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64) | [Shannon](https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB) | [The Best Is Yet To Come](https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV) | 3:36 |
 | 50 | [Wildstyle](https://open.spotify.com/track/0N5nQNz1qpi9b9OypLB1rj) | [Time Zone](https://open.spotify.com/artist/1LueZf9jSHrdmMJjZTLowI) | [Change The Beat \- The Celluloid Records Story 1979 \- 1987](https://open.spotify.com/album/25Kag9cU21zj5HtxLfDVyF) | 8:18 |
 
-Snapshot ID: `MCw1Y2ZmM2ViYzRjNDliMmI3NjNiMjQwNjA0ODk3ODhjMjdlZWViMjgx`
+Snapshot ID: `MCxjYmIzODNjNWUyOTFiZDFlMjYzNGVkZDk5ZTA5NzQ0MmQxNGY3NDY2`

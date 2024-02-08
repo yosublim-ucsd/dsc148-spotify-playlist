@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ya huele a sopita! Buen provecho. ",
-  "num_followers": 107332,
+  "num_followers": 107359,
   "original_name": "M\u00fasica de Fonda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWVjNDczNjJiYmJiYzJiNWQxMmQxZWRiODQ5NTJjMzRiMjg1YmMz",
+  "snapshot_id": "MCxlNmM1NmUxYWFmYzNmZTA5NTRjNWZlOGZkNzAxMTZlODM0N2M5MGUy",
   "tracks": [
     {
       "added_at": "2023-08-25 06:00:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Pong\u00e1monos De Acuerdo",
+      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
         "name": "El T\u00f3xico",
         "url": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
       },
@@ -147,22 +163,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "El Aferrado",
-        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Pong\u00e1monos De Acuerdo",
-      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
       },
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "La Mejor Versi\u00f3n De M\u00ed",
-        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "El Color de Tus Ojos",
-      "url": "https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "A Coraz\u00f3n Abierto",
         "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 231773,
       "name": "Me Dediqu\u00e9 a Perderte",
       "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
+        "name": "Por Las Damas",
+        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 183946,
+      "name": "Belleza De Cantina",
+      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
-        "name": "Por Las Damas",
-        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Belleza De Cantina",
-      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -559,22 +559,18 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
-        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 240456,
-      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+      "duration_ms": 186280,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -599,18 +595,22 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
+        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
       "artists": [
         {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 186280,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "Camino del Amor",
         "url": "https://open.spotify.com/album/1fvaT1qOl0H0gAHk5RHbts"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 200666,
       "name": "Ah\u00ed Estar\u00e9 Yo",
       "url": "https://open.spotify.com/track/54gaPLcsCWmPUmrgpib9mS"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
+        "name": "Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
         "name": "T\u00fa Me Gustas",
         "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 206956,
       "name": "T\u00fa Me Gustas",
       "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
-        "name": "Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU"
-      },
-      "artists": [
-        {
-          "name": "Los Dinnosaurios",
-          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "El Taxista",
-      "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 212186,
       "name": "Que Dar\u00eda",
       "url": "https://open.spotify.com/track/6gNBwxKKovpw87Tt2ihzCY"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU"
+      },
+      "artists": [
+        {
+          "name": "Los Dinnosaurios",
+          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "El Taxista",
+      "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 217521,
-      "name": "Feliz Feliz",
-      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "Por Puro Amor",
         "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 187400,
       "name": "Te Aprovechas",
       "url": "https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 217521,
+      "name": "Feliz Feliz",
+      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1415,22 +1415,18 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
-        "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
+        "name": "Pideme (En Vivo)",
+        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
       },
       "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        },
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 258355,
-      "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
-      "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
+      "duration_ms": 256170,
+      "name": "Pideme - En Vivo",
+      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1451,18 +1447,22 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Pideme (En Vivo)",
-        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
+        "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+        "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
       },
       "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 256170,
-      "name": "Pideme - En Vivo",
-      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
+      "duration_ms": 258355,
+      "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+      "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "Na Na Na (Dulce Ni\u00f1a)",
-      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "Corazoncito Pum Pum",
         "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 207516,
       "name": "Como Decirte Adios",
       "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 207693,
+      "name": "Na Na Na (Dulce Ni\u00f1a)",
+      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
     },
     {
       "added_at": "2023-08-25 06:00:00",

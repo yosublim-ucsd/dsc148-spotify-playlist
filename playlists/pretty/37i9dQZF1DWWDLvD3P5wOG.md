@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,274 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,564 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 61 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0fz2jINcCa4iD7j4dmioCa) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/5kOOn0ChRFeAohElEPTqkz) | 3:06 |
 | 62 | [Needle Eye](https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Needle Eye \- Single](https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv) | 3:05 |
 | 63 | [Likes](https://open.spotify.com/track/0L7ByJIFyro93nWs7wwioM) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:18 |
-| 64 | [Bad Man Forward](https://open.spotify.com/track/1KW6PVabkLbthK4y0sPX5a) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Bad Man Forward, Bad Man Pull Up](https://open.spotify.com/album/4pWeMGhrk1bvKE3Od3jePT) | 3:15 |
-| 65 | [Things Mi Love](https://open.spotify.com/track/0ANTPHMeOjPIyfGHiKDGU9) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [Things Mi Love](https://open.spotify.com/album/2Ultkk4UOH342Elt4y1dDT) | 3:27 |
+| 64 | [Things Mi Love](https://open.spotify.com/track/0ANTPHMeOjPIyfGHiKDGU9) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [Things Mi Love](https://open.spotify.com/album/2Ultkk4UOH342Elt4y1dDT) | 3:27 |
+| 65 | [Bad Man Forward](https://open.spotify.com/track/1KW6PVabkLbthK4y0sPX5a) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Bad Man Forward, Bad Man Pull Up](https://open.spotify.com/album/4pWeMGhrk1bvKE3Od3jePT) | 3:15 |
 | 66 | [Bend Ova](https://open.spotify.com/track/6ajqSWogEt8ngg7ErtEaVa) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch EP](https://open.spotify.com/album/0xXIL4sAD2GXXjUk1NFV2y) | 3:09 |
 | 67 | [One Man / Moving On \- Raw](https://open.spotify.com/track/4zmzJgtsV1oPnp1a7Ryi6L) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [One Man / Moving On](https://open.spotify.com/album/5fSvT6n4ZP4AK401c5xq7b) | 2:56 |
 | 68 | [Nuh Linga](https://open.spotify.com/track/1XDu72IZMRTO2gDPaMydXE) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Dance & Sweep! \- Adventures Of The Energy God](https://open.spotify.com/album/1h6idb5MNxRtSz4EWsMe84) | 2:08 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 76 | [Call Mi A Yardie](https://open.spotify.com/track/4ninC0OKV9UjFLurjw2ASR) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Ragga Ragga Ragga 2012](https://open.spotify.com/album/4Sbct6JwWOmeuItClJ3aw6) | 3:05 |
 | 77 | [One Drop](https://open.spotify.com/track/54GRkvaa7ZUA6OtrPl3VUc) | [QQ](https://open.spotify.com/artist/06SIuEAp0Cqena9c2bZfgq), [Venomus](https://open.spotify.com/artist/15ebKuZun256dB6EBr8HUB) | [Kingston 20](https://open.spotify.com/album/4kD72g4mw4e97K5BAcY494) | 2:54 |
 | 78 | [Wine and Jiggle](https://open.spotify.com/track/1eeKTJd1LvONWC8WTV5KF8) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Wine and Jiggle](https://open.spotify.com/album/0KxLXkWpZwKTLfLl9QabMV) | 2:31 |
-| 79 | [Hot Fuk / Hot Wuk](https://open.spotify.com/track/1aoq8ZJBdrqdM1FSzciy4G) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 2:47 |
-| 80 | [Unknown Number](https://open.spotify.com/track/1cAFDCGAqqzJCxmgto5qxF) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Loaded](https://open.spotify.com/album/2tpA1IQ99v1OVIOkowexHy) | 3:34 |
+| 79 | [Unknown Number](https://open.spotify.com/track/1cAFDCGAqqzJCxmgto5qxF) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Loaded](https://open.spotify.com/album/2tpA1IQ99v1OVIOkowexHy) | 3:34 |
+| 80 | [Hot Fuk / Hot Wuk](https://open.spotify.com/track/1aoq8ZJBdrqdM1FSzciy4G) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 2:47 |
 
-Snapshot ID: `MCw1YTYwZWQwMGYzYzFiNzk4MTFkNzA2MDFiMWI0MjBjMWY5OTEzZDZi`
+Snapshot ID: `MCwyNjA1MTdmZDJmNmNmMzE1NWFkN2E0YWM5NzQ1NWI1YTVmMzY3M2Fm`

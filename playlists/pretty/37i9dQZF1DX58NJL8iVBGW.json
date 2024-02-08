@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 593743,
+  "num_followers": 593848,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTU5NzdhYmM1MTQwZmYxYjUyZjU1NzhjMTUyY2EzZjkwYzFkNWQw",
+  "snapshot_id": "MCxkZDg2MTQ4MTc0OWNiNmU2MTE2ZGY3MGUzNTliM2RlZjU3ODZiYjAw",
   "tracks": [
     {
       "added_at": "2023-12-12 21:56:13",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "Common Faults",
-        "url": "https://open.spotify.com/album/74McnqPMPwUWBBHZvhaEmr"
-      },
-      "artists": [
-        {
-          "name": "The Silent Comedy",
-          "url": "https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY"
-        }
-      ],
-      "duration_ms": 187558,
-      "name": "Bartholomew",
-      "url": "https://open.spotify.com/track/4WDEbyUuc701Yn9jQ9srgR"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
         "name": "An Honest Man",
         "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 246177,
       "name": "An Honest Man",
       "url": "https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
+        "name": "Common Faults",
+        "url": "https://open.spotify.com/album/74McnqPMPwUWBBHZvhaEmr"
+      },
+      "artists": [
+        {
+          "name": "The Silent Comedy",
+          "url": "https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY"
+        }
+      ],
+      "duration_ms": 187558,
+      "name": "Bartholomew",
+      "url": "https://open.spotify.com/track/4WDEbyUuc701Yn9jQ9srgR"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "False Lankum",
-        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 518745,
-      "name": "Go Dig My Grave",
-      "url": "https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
         "name": "Shaken By A Low Sound",
         "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 201506,
       "name": "Ain't No Grave",
       "url": "https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
+        "name": "False Lankum",
+        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 518745,
+      "name": "Go Dig My Grave",
+      "url": "https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "Unsung Passage",
-        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
-      },
-      "artists": [
-        {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Ebb and Flow",
-      "url": "https://open.spotify.com/track/699xuBhcbpIoXHzMRQbI8j"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
         "name": "I'll Never Get out of This World Alive",
         "url": "https://open.spotify.com/album/4TpbQA23m33nGTWzWBkuZy"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 265760,
       "name": "Meet Me in the Alleyway",
       "url": "https://open.spotify.com/track/1m4E3gYFqZ0RTxGlZWxP7k"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
+        "name": "Unsung Passage",
+        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
+      },
+      "artists": [
+        {
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Ebb and Flow",
+      "url": "https://open.spotify.com/track/699xuBhcbpIoXHzMRQbI8j"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
+        "name": "Nobody knows.",
+        "url": "https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2"
+      },
+      "artists": [
+        {
+          "name": "Willis Earl Beal",
+          "url": "https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC"
+        }
+      ],
+      "duration_ms": 279733,
+      "name": "Too Dry To Cry",
+      "url": "https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
         "name": "Hawk",
         "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "Nobody knows.",
-        "url": "https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2"
-      },
-      "artists": [
-        {
-          "name": "Willis Earl Beal",
-          "url": "https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC"
-        }
-      ],
-      "duration_ms": 279733,
-      "name": "Too Dry To Cry",
-      "url": "https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
         "name": "Blacklisted",
         "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 180077,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
         "name": "Real Gone (Remastered)",
         "url": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 290680,
       "name": "How's It Gonna End",
       "url": "https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
         "name": "Micah P. Hinson and the Opera Circuit",
         "url": "https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 125493,
       "name": "Diggin A Grave",
       "url": "https://open.spotify.com/track/5uR72lBzHxcf2YlbK8iRp1"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "William Crighton",
-        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
-      },
-      "artists": [
-        {
-          "name": "William Crighton",
-          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
-        }
-      ],
-      "duration_ms": 264937,
-      "name": "Priest",
-      "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
         "name": "Another Man\u02bcs Grave",
         "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 188677,
       "name": "Another Man\u02bcs Grave",
       "url": "https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
+        "name": "William Crighton",
+        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
+      },
+      "artists": [
+        {
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+        }
+      ],
+      "duration_ms": 264937,
+      "name": "Priest",
+      "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
+        "name": "Lions And Lambs",
+        "url": "https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ"
+      },
+      "artists": [
+        {
+          "name": "Cary Ann Hearst",
+          "url": "https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "Hell's Bells",
+      "url": "https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
         "name": "Billy Jack",
         "url": "https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 233493,
       "name": "In Our Talons",
       "url": "https://open.spotify.com/track/32MfLc3XuxExc5XOgim5LB"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
-        "name": "Lions And Lambs",
-        "url": "https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ"
-      },
-      "artists": [
-        {
-          "name": "Cary Ann Hearst",
-          "url": "https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "Hell's Bells",
-      "url": "https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "Quiet Flame",
-        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
+        "name": "Heaven Help Me",
+        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
       },
       "artists": [
         {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
         }
       ],
-      "duration_ms": 242153,
-      "name": "Pull the Moon",
-      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
+      "duration_ms": 184733,
+      "name": "Heaven Help Me",
+      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "Heaven Help Me",
-        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
+        "name": "Quiet Flame",
+        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
       },
       "artists": [
         {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
         }
       ],
-      "duration_ms": 184733,
-      "name": "Heaven Help Me",
-      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
+      "duration_ms": 242153,
+      "name": "Pull the Moon",
+      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
+        "name": "Bless Your Soul",
+        "url": "https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 212504,
+      "name": "Bless Your Soul",
+      "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
         "name": "Ribbon",
         "url": "https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 158533,
       "name": "Boy Got It Bad",
       "url": "https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
-        "name": "Elizabeth",
-        "url": "https://open.spotify.com/album/3SiCJvdGlxuWbmTsbOVqCU"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
-        }
-      ],
-      "duration_ms": 241225,
-      "name": "Elizabeth",
-      "url": "https://open.spotify.com/track/2j8wfpQL2zw7oTSVU9kQT9"
     },
     {
       "added_at": "2023-12-12 21:56:13",

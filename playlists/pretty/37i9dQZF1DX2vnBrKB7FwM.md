@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Luis7Lunes & Sison Beats/Nemesis
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,962 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,973 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 10 | [Soulmate](https://open.spotify.com/track/2Q6wN4JGESquKaJn3lnAix) | [The Negro Tapes](https://open.spotify.com/artist/40xzVnQCJdpsXjcNZRoAi4) | [Soulmate](https://open.spotify.com/album/34qyqrDSwLu4Z1xtPu7vtU) | 3:19 |
 | 11 | [Foráneos](https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Foráneos](https://open.spotify.com/album/0M5qXlASVuTQd6qu7tf0Fq) | 3:06 |
 | 12 | [Sin Hogar](https://open.spotify.com/track/2Ev2GsHMEuGRB6LKBWEc2e) | [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Bopscat](https://open.spotify.com/artist/5j8fwOSWeTEzo9n6Puma0v), [Hakim Al\-Khaliq](https://open.spotify.com/artist/1M3Z285dD2sZgSkrLlLQKD), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [Medellín Jazz Panorama](https://open.spotify.com/album/20p1Oe6fvwsSX1ZHn6iJeB) | 2:02 |
-| 13 | [Pulsaciones](https://open.spotify.com/track/0OZW4Dn1N4boisg8eJ3cOT) | [Rocca](https://open.spotify.com/artist/7yz7tVF8i1Jr6roiq5CUuD), [DJ Duke](https://open.spotify.com/artist/7qdvmZOJvj3209H1aLBWn4) | [Pulsaciones](https://open.spotify.com/album/31zy3v53VGZlfGPefHkSI7) | 3:29 |
+| 13 | [Pulsaciones \(Español\)](https://open.spotify.com/track/0OZW4Dn1N4boisg8eJ3cOT) | [Rocca](https://open.spotify.com/artist/7yz7tVF8i1Jr6roiq5CUuD), [DJ Duke](https://open.spotify.com/artist/7qdvmZOJvj3209H1aLBWn4) | [Pulsaciones \(Español\)](https://open.spotify.com/album/31zy3v53VGZlfGPefHkSI7) | 3:29 |
 | 14 | [Todo en Juego](https://open.spotify.com/track/1ZIuXvgwn67yvzfOubDITd) | [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa), [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [Todo en Juego](https://open.spotify.com/album/6pRmD5WdctwIcv3qJJRgsO) | 2:38 |
 | 15 | [Listen Up](https://open.spotify.com/track/7KAkj1lp5elDoWvENK7pcc) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Listen Up](https://open.spotify.com/album/4PwTjGhgDJLfpTENMjxy76) | 2:29 |
 | 16 | [De Todo Un Poco](https://open.spotify.com/track/19ucvAFRVyPIf093e7ArrR) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [De Todo Un Poco](https://open.spotify.com/album/6IMPQbEBdoWF3xzKfd2NFC) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 74 | [Deja](https://open.spotify.com/track/6Kc4xRgbOxNqoVoXIP6h4e) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:31 |
 | 75 | [Horas Extras](https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [DJ Dmoe](https://open.spotify.com/artist/0UO7aldjXU5OjHiYKXUwrK) | [Todos Tienen Que Comer](https://open.spotify.com/album/6vPnYHNVtdT9V76xUy3e2d) | 3:52 |
 
-Snapshot ID: `MCw1NThkM2QzNmQyZGZhYzEyZWYyMjAyMTQxNTY3NzhmZTM0N2Q3M2U4`
+Snapshot ID: `MCwzZDU3MjEzOWZjOGZkN2Q4N2MzZTE5NGZjZjFlMjY4ODU4OWZjOTZi`

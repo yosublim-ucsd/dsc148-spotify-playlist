@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Itzza Primera
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,561 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,570 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 46 | [La del Tik Tok](https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [La del Tik Tok](https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC) | 4:17 |
 | 47 | [Morena Cachetona](https://open.spotify.com/track/7er0ansHqESONRdGQGnDwk) | [JOSEPE EL DEMENTE](https://open.spotify.com/artist/6t90cfIUQ39eOTksTUE0zc), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj) | [Morena Cachetona](https://open.spotify.com/album/6UPwgTTQembPg88PGOPls3) | 3:20 |
 | 48 | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80) | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 |
-| 49 | [Baby Schai \- Remix](https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Baby Schai \(Remix\)](https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7) | 5:28 |
-| 50 | [Wapo y Mamón](https://open.spotify.com/track/25wf4gnbICnaetfEAFguu8) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Wapo y Mamón](https://open.spotify.com/album/3W7MWJVkuX7CWc7QT3Wr2A) | 2:16 |
+| 49 | [Wapo y Mamón](https://open.spotify.com/track/25wf4gnbICnaetfEAFguu8) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Wapo y Mamón](https://open.spotify.com/album/3W7MWJVkuX7CWc7QT3Wr2A) | 2:16 |
+| 50 | [Baby Schai \- Remix](https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Baby Schai \(Remix\)](https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7) | 5:28 |
 | 51 | [Tussi Code Mari](https://open.spotify.com/track/5z3ALMdeF0rZSNQVzNrENw) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Crismj](https://open.spotify.com/artist/73085QUq0HermcHl8fg65T) | [Tussi Code Mari](https://open.spotify.com/album/7aCyMeAhpphWSU828YBp9K) | 2:52 |
 | 52 | [Bendición](https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bendición](https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N) | 3:05 |
 | 53 | [HORÓSCOPO](https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [HORÓSCOPO](https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS) | 4:08 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [COMO TE VEO](https://open.spotify.com/track/0UhTJB22OyfSp4sbYz0MSa) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [COMO TE VEO](https://open.spotify.com/album/7JdT4amYapsoKhOvZYT2tE) | 3:26 |
 | 60 | [¿Por Qué Te Enojái?](https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [¿Por Qué Te Enojái?](https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc) | 3:37 |
 
-Snapshot ID: `MCw1ODc3YWU0ZDM0ODMxNzE0YWFkZDdjMTVmZmY1MWIyZjUzZGYzZjI3`
+Snapshot ID: `MCw4ZmI4ODZlNTg5ZjRmZmUyOWQxMzhkMDU2YzU0MmRkMzlmNDc3ODMx`

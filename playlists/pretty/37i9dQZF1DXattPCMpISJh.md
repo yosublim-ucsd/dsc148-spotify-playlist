@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,516 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,831 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 25 | [Body Talk](https://open.spotify.com/track/3PQ9quodpMV1tUrr1J7box) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Body Talk](https://open.spotify.com/album/42nElQaDNdhBRVdx8amCqd) | 2:30 |
 | 26 | [Disco Save My Life](https://open.spotify.com/track/0Rh5XomjOtIYabPhtZ1TyV) | [Babert](https://open.spotify.com/artist/2WyIaamOi8lW7R7nhGMDoe) | [Disco Save My Life](https://open.spotify.com/album/6uuicoy9ap6PS9vR8qpHBF) | 5:26 |
 | 27 | [Everything](https://open.spotify.com/track/7tZzYmYevSj9wVFS8rb6kT) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Everything](https://open.spotify.com/album/5bIjntlZiR3Zj36rLw2H27) | 2:58 |
-| 28 | [Feel This](https://open.spotify.com/track/6Dca0REtMaazrwoI5YS0ib) | [Martin Eigenberg](https://open.spotify.com/artist/23J5hZ2N7m0UpmdziiYAc2), [Ryan Shade](https://open.spotify.com/artist/73lC9QGob3QCyXallwiSWl) | [Feel This](https://open.spotify.com/album/16mrraWea47jlXf8nPwNyu) | 3:26 |
+| 28 | [Feel This](https://open.spotify.com/track/34gwWYhg66Zw6hcQlfvDPp) | [Martin Eigenberg](https://open.spotify.com/artist/23J5hZ2N7m0UpmdziiYAc2), [Ryan Shade](https://open.spotify.com/artist/73lC9QGob3QCyXallwiSWl) | [Feel This](https://open.spotify.com/album/3eBDDlG2zu5llGGPBJ0JYG) | 3:26 |
 | 29 | [HOT](https://open.spotify.com/track/1UVRdZRAiW3GomKSg81PLE) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [HOT](https://open.spotify.com/album/1KmisFnVTIct9oBmATe41I) | 3:38 |
 | 30 | [Let’s Keep On Dancing](https://open.spotify.com/track/2MTES4OZUVqTCmE99Rk7HR) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Let’s Keep On Dancing](https://open.spotify.com/album/1vWSakTvo1YOgWLiShwpdr) | 3:19 |
 | 31 | [Freak Me Now](https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Make That Change](https://open.spotify.com/track/176TfrKxalkOzOcSG1Mhyw) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Saucy Lady](https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2) | [Make That Change](https://open.spotify.com/album/2MjTzcFBoxPTWKrIB3iQAW) | 4:40 |
 | 100 | [why don't you come on over?](https://open.spotify.com/track/6t5uDwqa7AalPzQY1fDivT) | [Sita](https://open.spotify.com/artist/3xaMeif5BSoyYAqHneI2T2) | [why don't you come on over?](https://open.spotify.com/album/2slwiCDPuD1wFhsqmA5hKX) | 2:36 |
 
-Snapshot ID: `MCxhOTk4ZTdmN2NkYWE3NTAwZDU2MTAwMTNhMTk4NGFiOWM4YWRmYzQ0`
+Snapshot ID: `MCw4NWIzMWM3MjNiNzhkZTQ3MzJmNWNkMjhkMzE4NWZkMDc3MDk5NzEy`

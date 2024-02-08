@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Mau P",
-  "num_followers": 606802,
+  "num_followers": 606944,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWQxNTMxZDkyM2NkYzEyOTlkYzAyMGRkMjRjNmE5ZTEzMDBjNjI5",
+  "snapshot_id": "MCxkMjllNjgyZTc0OTkyMTQ5MzhiY2M3NjI2NDAyOWM4OTFkNTM1NmYw",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "The Function",
         "url": "https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 192848,
       "name": "The Function",
       "url": "https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1301,6 +1301,26 @@
       "url": "https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa"
     },
     {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        }
+      ],
+      "duration_ms": 337000,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Chakachaka",
@@ -1329,46 +1349,6 @@
       "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        },
-        {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
-        }
-      ],
-      "duration_ms": 337000,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Dancing At The Disco",
-        "url": "https://open.spotify.com/album/2zRVSA2HEm7bVR5R9EjJgt"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Cherry Tooth",
-          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
-        }
-      ],
-      "duration_ms": 194423,
-      "name": "Dancing At The Disco",
-      "url": "https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Spring Girl (Vintage Culture Remix)",
@@ -1393,6 +1373,26 @@
       "url": "https://open.spotify.com/track/2SCkpXTuQOvXySjlz9O1JH"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Dancing At The Disco",
+        "url": "https://open.spotify.com/album/2zRVSA2HEm7bVR5R9EjJgt"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Cherry Tooth",
+          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
+        }
+      ],
+      "duration_ms": 194423,
+      "name": "Dancing At The Disco",
+      "url": "https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN"
+    },
+    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Better Recognize",
@@ -1411,6 +1411,30 @@
       "duration_ms": 211586,
       "name": "Better Recognize",
       "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Cruel Intentions",
+        "url": "https://open.spotify.com/album/6jNQGxYOPEJTUaL3BA8Vro"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+        },
+        {
+          "name": "Sam Divine",
+          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 222273,
+      "name": "Cruel Intentions",
+      "url": "https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1447,30 +1471,6 @@
       "duration_ms": 181875,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Cruel Intentions",
-        "url": "https://open.spotify.com/album/6jNQGxYOPEJTUaL3BA8Vro"
-      },
-      "artists": [
-        {
-          "name": "Hannah Wants",
-          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
-        },
-        {
-          "name": "Sam Divine",
-          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 222273,
-      "name": "Cruel Intentions",
-      "url": "https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1757,6 +1757,22 @@
       "url": "https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Drug Loop",
+        "url": "https://open.spotify.com/album/04GTNpzHseEOyXNZG2gSDq"
+      },
+      "artists": [
+        {
+          "name": "Phil Harris",
+          "url": "https://open.spotify.com/artist/06icPsYb2sw6FlJKYhwsv0"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Drug Loop",
+      "url": "https://open.spotify.com/track/3Jc7DQJL8qb2ShoAMzY7oZ"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Selecta",
@@ -1825,22 +1841,6 @@
       "url": "https://open.spotify.com/track/1ygoSdSGNwK3PIWxizJRnm"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Drug Loop",
-        "url": "https://open.spotify.com/album/04GTNpzHseEOyXNZG2gSDq"
-      },
-      "artists": [
-        {
-          "name": "Phil Harris",
-          "url": "https://open.spotify.com/artist/06icPsYb2sw6FlJKYhwsv0"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Drug Loop",
-      "url": "https://open.spotify.com/track/3Jc7DQJL8qb2ShoAMzY7oZ"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Worship Technology",
@@ -1905,22 +1905,6 @@
       "url": "https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Intergalactic",
-        "url": "https://open.spotify.com/album/3m0nVk1a0sMRKQnpVuRh5e"
-      },
-      "artists": [
-        {
-          "name": "Black V Neck",
-          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Intergalactic",
-      "url": "https://open.spotify.com/track/7ffgc891MkZ8ZN6vLzYX8J"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "More Baby",
@@ -1943,18 +1927,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Vibration",
-        "url": "https://open.spotify.com/album/4uP2wlxxOJzYDFGvEovyCV"
+        "name": "Intergalactic",
+        "url": "https://open.spotify.com/album/3m0nVk1a0sMRKQnpVuRh5e"
       },
       "artists": [
         {
-          "name": "Jenn Getz & Alfie",
-          "url": "https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH"
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
         }
       ],
-      "duration_ms": 177261,
-      "name": "Vibration",
-      "url": "https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2"
+      "duration_ms": 184761,
+      "name": "Intergalactic",
+      "url": "https://open.spotify.com/track/7ffgc891MkZ8ZN6vLzYX8J"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1979,6 +1963,22 @@
       "duration_ms": 198469,
       "name": "Drums (Feat. Kim Petras) - Wh0 Remix",
       "url": "https://open.spotify.com/track/6MMWo7QxyXXmwT39mmLhVJ"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/4uP2wlxxOJzYDFGvEovyCV"
+      },
+      "artists": [
+        {
+          "name": "Jenn Getz & Alfie",
+          "url": "https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH"
+        }
+      ],
+      "duration_ms": 177261,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2153,6 +2153,22 @@
       "url": "https://open.spotify.com/track/27sxAuxRyXYwhwjPA5L0af"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Tighten Up",
+        "url": "https://open.spotify.com/album/7B0HytuKozCrtOQ9PxSTsp"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/1k8tGEqjmXqjkYW9sMTd8V"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Ooh LALA",
@@ -2173,22 +2189,6 @@
       "url": "https://open.spotify.com/track/41LNU3imoWigrWUGkHKzLH"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Tighten Up",
-        "url": "https://open.spotify.com/album/7B0HytuKozCrtOQ9PxSTsp"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/1k8tGEqjmXqjkYW9sMTd8V"
-    },
-    {
       "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Break Me",
@@ -2203,6 +2203,26 @@
       "duration_ms": 204875,
       "name": "Break Me",
       "url": "https://open.spotify.com/track/3dyVoiP0ILIhXX2M7vLbb4"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Give Me A Sign",
+        "url": "https://open.spotify.com/album/6ZiDFr9Ouak1wdsOSkWvIs"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Give Me A Sign",
+      "url": "https://open.spotify.com/track/66Q1xT5uKtmC4cFh6o4uL6"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2241,26 +2261,6 @@
       "url": "https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Give Me A Sign",
-        "url": "https://open.spotify.com/album/6ZiDFr9Ouak1wdsOSkWvIs"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Give Me A Sign",
-      "url": "https://open.spotify.com/track/66Q1xT5uKtmC4cFh6o4uL6"
-    },
-    {
       "added_at": "2023-12-15 05:00:00",
       "album": {
         "name": "Bad Bassline",
@@ -2281,22 +2281,6 @@
       "url": "https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "In The Air",
-        "url": "https://open.spotify.com/album/3tQ1xtLmqmc1llutbiCOyn"
-      },
-      "artists": [
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        }
-      ],
-      "duration_ms": 215433,
-      "name": "In The Air",
-      "url": "https://open.spotify.com/track/7aasXv1PUt4t0DLo2nGzMV"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Feel The Need",
@@ -2311,6 +2295,22 @@
       "duration_ms": 215646,
       "name": "Feel The Need",
       "url": "https://open.spotify.com/track/2wa4S5WSyATZVQUN7fL4L0"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "In The Air",
+        "url": "https://open.spotify.com/album/3tQ1xtLmqmc1llutbiCOyn"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        }
+      ],
+      "duration_ms": 215433,
+      "name": "In The Air",
+      "url": "https://open.spotify.com/track/7aasXv1PUt4t0DLo2nGzMV"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2347,26 +2347,6 @@
       "duration_ms": 149280,
       "name": "Good God (Sunnery James & Ryan Marciano Remix)",
       "url": "https://open.spotify.com/track/1aXf9GykmY5jprsRYAlrL6"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Que Pasa",
-        "url": "https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        },
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Que Pasa",
-      "url": "https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2415,6 +2395,26 @@
       "duration_ms": 179527,
       "name": "Pa Lante",
       "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Que Pasa",
+        "url": "https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Que Pasa",
+      "url": "https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv"
     }
   ],
   "unique_name": "Tech House Operator",

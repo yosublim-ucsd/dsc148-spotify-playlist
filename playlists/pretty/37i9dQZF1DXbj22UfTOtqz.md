@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj22UfTOtqz.md) - [plain]
 
 > Clásicos del Hip Hop para toda la familia a disfrutar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,619 likes - 43 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,632 likes - 43 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj22UfTOtqz.md) - [plain]
 | 21 | [Mo Money Mo Problems \(feat\. Puff Daddy & Mase\) \- 2014 Remaster](https://open.spotify.com/track/7xykwR6UJ4XNND931IsDLW) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Life After Death \(2014 Remaster\)](https://open.spotify.com/album/6uMVAiciTpTyrQn5QJDPJM) | 4:17 |
 | 22 | [Bring The Noise](https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 3:46 |
 | 23 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
-| 24 | [It's a Shame \(My Sister\)](https://open.spotify.com/track/6ir6C7AHGMVLGQN7hv7gTA) | [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu), [True Image](https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj) | [Down to Earth](https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT) | 3:42 |
-| 25 | [I Know You Got Soul](https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 4:44 |
+| 24 | [I Know You Got Soul](https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 4:44 |
+| 25 | [It's a Shame \(My Sister\)](https://open.spotify.com/track/6ir6C7AHGMVLGQN7hv7gTA) | [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu), [True Image](https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj) | [Down to Earth](https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT) | 3:42 |
 | 26 | [The Breaks](https://open.spotify.com/track/5TvcggVu3s2P1fMAS8BupX) | [Kurtis Blow](https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9) | [Kurtis Blow](https://open.spotify.com/album/1ZcUKK3nnmuYVGEUBxXSXt) | 7:43 |
 | 27 | [Tennessee](https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [3 Years, 5 Months And 2 Days In The Life Of...](https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh) | 4:32 |
 | 28 | [I Can't Live Without My Radio](https://open.spotify.com/track/2qfTGzETefwtBWKDThZjnU) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 5:27 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj22UfTOtqz.md) - [plain]
 | 42 | [My Adidas](https://open.spotify.com/track/64UQLXFp7Gs189kF3myYiq) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Greatest Hits](https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF) | 2:48 |
 | 43 | [Human Beat Box \(Re\-Recorded Version\)](https://open.spotify.com/track/4tYMaJMiv8DMRnP9tfCpR5) | [Fat Boys](https://open.spotify.com/artist/3537Phr9t8GWkY2GtxDpnt) | [Wipeout \(Re\-Recorded Versions\)](https://open.spotify.com/album/11r8tYGEUCtMwliUxFljCv) | 2:18 |
 
-Snapshot ID: `MCw1NGU3Yzk1ZDFlZDQ3Yzc1YzdiODgxN2Q2MjNhZGQ2YmQyYWEyODU5`
+Snapshot ID: `MCxhNmUzNzNlM2Y5MzlkZDI1NGFmY2ExNjBjOWVhOTBhNzI1MGFkNzE5`

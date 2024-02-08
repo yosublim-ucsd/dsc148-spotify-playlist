@@ -1,12 +1,12 @@
 {
   "description": "El cancionero que retrata las batalles y personajes que dejaron huella en M\u00e9xico.",
-  "num_followers": 21753,
+  "num_followers": 21760,
   "original_name": "Corridos de la Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTE3MmVmNmEzNjg3ZDliNGRkYWYwNTZkNGE0YzJkNTI1NGVmNjdj",
+  "snapshot_id": "MCxiNDUyZmY5OGQ1ZTJkYzI0ODVhMmMwNGE4Njg3MzU5YzdiZmNkYmQ3",
   "tracks": [
     {
       "added_at": "2022-08-02 23:07:07",
@@ -427,22 +427,18 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
-        "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
+        "name": "Corridos De La Revolucion",
+        "url": "https://open.spotify.com/album/3ZhQxx4Ls2u4XSci0KgHGH"
       },
       "artists": [
         {
           "name": "Antonio Aguilar",
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        },
-        {
-          "name": "Mariachi M\u00e9xico de Pepe Villa",
-          "url": "https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz"
         }
       ],
-      "duration_ms": 203626,
-      "name": "Bala Perdida",
-      "url": "https://open.spotify.com/track/4YWYoicyAYZjMrIDsAStTt"
+      "duration_ms": 181730,
+      "name": "Corrido De Chihuahua",
+      "url": "https://open.spotify.com/track/2EWQwZp3PvBKFeX4uNmqjQ"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -527,18 +523,22 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Corridos De La Revolucion",
-        "url": "https://open.spotify.com/album/3ZhQxx4Ls2u4XSci0KgHGH"
+        "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
       },
       "artists": [
         {
           "name": "Antonio Aguilar",
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        },
+        {
+          "name": "Mariachi M\u00e9xico de Pepe Villa",
+          "url": "https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz"
         }
       ],
-      "duration_ms": 181730,
-      "name": "Corrido De Chihuahua",
-      "url": "https://open.spotify.com/track/2EWQwZp3PvBKFeX4uNmqjQ"
+      "duration_ms": 203626,
+      "name": "Bala Perdida",
+      "url": "https://open.spotify.com/track/4YWYoicyAYZjMrIDsAStTt"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
         }
       ],
-      "duration_ms": 247360,
-      "name": "Heraclio Bernal",
-      "url": "https://open.spotify.com/track/6DVzTR29873M8sS24PMASu"
+      "duration_ms": 139333,
+      "name": "Joaquinita",
+      "url": "https://open.spotify.com/track/5dRUNcK1XiUl5tH7fkOg90"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
+        "name": "Los Corridos de la Revolucion",
+        "url": "https://open.spotify.com/album/3MH3L1ihhbIbseblDpqIaP"
+      },
+      "artists": [
+        {
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
+        }
+      ],
+      "duration_ms": 168809,
+      "name": "Jacinto Trevi\u00f1o",
+      "url": "https://open.spotify.com/track/7Iq8o1mtT0RidYLNw3nMzW"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
         "name": "Canciones de la Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/5AIynt1Sq2vs6tw8Y21jYb"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 128986,
       "name": "Ciudad Victoria",
       "url": "https://open.spotify.com/track/13hYo4tWuDp7Zb6fMC3cWg"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
-        "name": "Los Corridos de la Revolucion",
-        "url": "https://open.spotify.com/album/3MH3L1ihhbIbseblDpqIaP"
-      },
-      "artists": [
-        {
-          "name": "Chayito Valdez",
-          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
-        }
-      ],
-      "duration_ms": 168809,
-      "name": "Jacinto Trevi\u00f1o",
-      "url": "https://open.spotify.com/track/7Iq8o1mtT0RidYLNw3nMzW"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Canciones de la Revoluci\u00f3n Mexicana",
-        "url": "https://open.spotify.com/album/1MB9BxG32VA63pJooqsIFh"
-      },
-      "artists": [
-        {
-          "name": "Los Gavilanes Norte\u00f1os",
-          "url": "https://open.spotify.com/artist/2iVOFm094pqnZKLSQHV8V3"
-        }
-      ],
-      "duration_ms": 112036,
-      "name": "La Norte\u00f1a",
-      "url": "https://open.spotify.com/track/1jsL0EnzE18ba3NSvHm9rx"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
         "name": "Canciones de la Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/5AIynt1Sq2vs6tw8Y21jYb"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 209733,
       "name": "El Mayor de los Dorados",
       "url": "https://open.spotify.com/track/6NJVsy7jJUcSuzdEIWwP64"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "Canciones de la Revoluci\u00f3n Mexicana",
+        "url": "https://open.spotify.com/album/1MB9BxG32VA63pJooqsIFh"
+      },
+      "artists": [
+        {
+          "name": "Los Gavilanes Norte\u00f1os",
+          "url": "https://open.spotify.com/artist/2iVOFm094pqnZKLSQHV8V3"
+        }
+      ],
+      "duration_ms": 112036,
+      "name": "La Norte\u00f1a",
+      "url": "https://open.spotify.com/track/1jsL0EnzE18ba3NSvHm9rx"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1192,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 154319,
-      "name": "Corrido Villista",
-      "url": "https://open.spotify.com/track/2uzVGE2nCKOWodQmbIj0Hz"
+      "duration_ms": 149304,
+      "name": "Estoy Presente General",
+      "url": "https://open.spotify.com/track/5kYyxKIeGQ3Fm7ASYtNbq5"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 149304,
-      "name": "Estoy Presente General",
-      "url": "https://open.spotify.com/track/5kYyxKIeGQ3Fm7ASYtNbq5"
+      "duration_ms": 154319,
+      "name": "Corrido Villista",
+      "url": "https://open.spotify.com/track/2uzVGE2nCKOWodQmbIj0Hz"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1288,9 +1288,9 @@
           "url": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
         }
       ],
-      "duration_ms": 139333,
-      "name": "Joaquinita",
-      "url": "https://open.spotify.com/track/5dRUNcK1XiUl5tH7fkOg90"
+      "duration_ms": 247360,
+      "name": "Heraclio Bernal",
+      "url": "https://open.spotify.com/track/6DVzTR29873M8sS24PMASu"
     },
     {
       "added_at": "2022-08-02 23:07:07",

@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Ozuna",
-  "num_followers": 11108,
+  "num_followers": 11149,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzY0YmZlZjc3MWJhYzNmYTU0MTY1NTMyMzFlODJkZDA2MDk2MGI2",
+  "snapshot_id": "MCw2NmNiYmU5NGIwZGE0MWE0NTU5OGZkYTBjMTRjNGQ2N2VkYTI1NjBk",
   "tracks": [
     {
       "added_at": "2024-02-01 05:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-02-01 05:00:00",
       "album": {
-        "name": "NI\u00d1XS ROTXS",
-        "url": "https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm"
-      },
-      "artists": [
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
-        }
-      ],
-      "duration_ms": 163840,
-      "name": "NI\u00d1XS ROTXS",
-      "url": "https://open.spotify.com/track/6MccctjUYdUgPPEbpqgRrw"
-    },
-    {
-      "added_at": "2024-02-01 05:00:00",
-      "album": {
         "name": "EN LA MA\u00d1ANA",
         "url": "https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 153391,
       "name": "EN LA MA\u00d1ANA",
       "url": "https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv"
+    },
+    {
+      "added_at": "2024-02-01 05:00:00",
+      "album": {
+        "name": "NI\u00d1XS ROTXS",
+        "url": "https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm"
+      },
+      "artists": [
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 163840,
+      "name": "NI\u00d1XS ROTXS",
+      "url": "https://open.spotify.com/track/6MccctjUYdUgPPEbpqgRrw"
     },
     {
       "added_at": "2024-02-01 05:00:00",

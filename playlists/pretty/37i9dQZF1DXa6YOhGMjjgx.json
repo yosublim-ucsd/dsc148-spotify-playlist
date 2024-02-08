@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: Teenage Wrist",
-  "num_followers": 471998,
+  "num_followers": 472003,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTM2YjcwZWEwODhlZTlkNWEwMTJlNDM2Njk0ZDhjMDhhOGIzOGMw",
+  "snapshot_id": "MCxjNDBiNzFjNWE0ODVkYTAwZDg3YzgzYmEyM2Q5ZmI5NDFlYWM2YmM3",
   "tracks": [
     {
       "added_at": "2023-09-08 20:23:35",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "We Are Between",
-        "url": "https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU"
-      },
-      "artists": [
-        {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "We Are Between",
-      "url": "https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Don't Hate Me",
         "url": "https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 251010,
       "name": "Don't Hate Me",
       "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "We Are Between",
+        "url": "https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "We Are Between",
+      "url": "https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf"
     },
     {
-      "added_at": "2023-10-05 15:20:21",
-      "album": {
-        "name": "KILLJOY",
-        "url": "https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN"
-      },
-      "artists": [
-        {
-          "name": "Coach Party",
-          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
-        }
-      ],
-      "duration_ms": 138944,
-      "name": "What's The Point In Life",
-      "url": "https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T"
-    },
-    {
       "added_at": "2023-09-08 20:23:35",
       "album": {
         "name": "Gaslight",
@@ -787,6 +771,22 @@
       "duration_ms": 173314,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
+    },
+    {
+      "added_at": "2023-10-05 15:20:21",
+      "album": {
+        "name": "KILLJOY",
+        "url": "https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN"
+      },
+      "artists": [
+        {
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+        }
+      ],
+      "duration_ms": 138944,
+      "name": "What's The Point In Life",
+      "url": "https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Hung Up",
-        "url": "https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN"
-      },
-      "artists": [
-        {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
-        }
-      ],
-      "duration_ms": 204560,
-      "name": "Hung Up",
-      "url": "https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 196800,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Hung Up",
+        "url": "https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN"
+      },
+      "artists": [
+        {
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+        }
+      ],
+      "duration_ms": 204560,
+      "name": "Hung Up",
+      "url": "https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "I Feel Like I'm Falling",
-        "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
-      },
-      "artists": [
-        {
-          "name": "HOKO",
-          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
-        }
-      ],
-      "duration_ms": 144240,
-      "name": "I Feel Like I'm Falling",
-      "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Broken Equipment",
         "url": "https://open.spotify.com/album/3jtVIaacztzx3QPwwb1WU4"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 197853,
       "name": "Pillar on the Bridge of You",
       "url": "https://open.spotify.com/track/3LLKiv5QJGmYN80xVGq1qg"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "I Feel Like I'm Falling",
+        "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
+      },
+      "artists": [
+        {
+          "name": "HOKO",
+          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
+        }
+      ],
+      "duration_ms": 144240,
+      "name": "I Feel Like I'm Falling",
+      "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "In A Dream",
+        "url": "https://open.spotify.com/album/2GiheTjdh8zSxAWkt28qcT"
+      },
+      "artists": [
+        {
+          "name": "Suntitle",
+          "url": "https://open.spotify.com/artist/7zx6ErpT1biAkFwPqGJJXS"
+        }
+      ],
+      "duration_ms": 178404,
+      "name": "Burning Down a Denny's",
+      "url": "https://open.spotify.com/track/6ekiSQMJqi8bEyZmMvpC2R"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "Boy",
         "url": "https://open.spotify.com/album/0QbdLXY2Y1uROAxsautWnI"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp"
-      },
-      "artists": [
-        {
-          "name": "Dead Sara",
-          "url": "https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j"
-        }
-      ],
-      "duration_ms": 196457,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "A New Breed",
         "url": "https://open.spotify.com/album/5wvYWow2IFdXSdXQty500e"
       },
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "In A Dream",
-        "url": "https://open.spotify.com/album/2GiheTjdh8zSxAWkt28qcT"
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp"
       },
       "artists": [
         {
-          "name": "Suntitle",
-          "url": "https://open.spotify.com/artist/7zx6ErpT1biAkFwPqGJJXS"
+          "name": "Dead Sara",
+          "url": "https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j"
         }
       ],
-      "duration_ms": 178404,
-      "name": "Burning Down a Denny's",
-      "url": "https://open.spotify.com/track/6ekiSQMJqi8bEyZmMvpC2R"
+      "duration_ms": 196457,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK"
     },
     {
       "added_at": "2023-09-08 20:23:35",

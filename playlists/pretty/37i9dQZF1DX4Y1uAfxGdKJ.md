@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 
 > Driving electronic grooves for improved motivation and performance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,951 likes - 113 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,998 likes - 113 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Crispy](https://open.spotify.com/track/5B6twCLP2ufIy2Mc4L1rS0) | [Phlowsum](https://open.spotify.com/artist/71p3dUDaqo6EyfzQm8zCCo) | [Crispy](https://open.spotify.com/album/5xISlOqT0KGHfwbW0NOtij) | 2:28 |
-| 2 | [Harmonic Science](https://open.spotify.com/track/5L51jltonR4PoeuaU9XnrF) | [Dowling](https://open.spotify.com/artist/0neKNhlcWSaKjxbRNRGczb) | [Harmonic Science](https://open.spotify.com/album/0cmCnqDEIZ6XamJnrqvz2U) | 4:00 |
-| 3 | [Saltwater Dreams](https://open.spotify.com/track/6pRocudXtLnKRd61gtotIk) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Saltwater Dreams / Vague Sunset](https://open.spotify.com/album/6XIUklaqCksEasrYoQizZQ) | 2:47 |
+| 2 | [Saltwater Dreams](https://open.spotify.com/track/6pRocudXtLnKRd61gtotIk) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Saltwater Dreams / Vague Sunset](https://open.spotify.com/album/6XIUklaqCksEasrYoQizZQ) | 2:47 |
+| 3 | [Harmonic Science](https://open.spotify.com/track/5L51jltonR4PoeuaU9XnrF) | [Dowling](https://open.spotify.com/artist/0neKNhlcWSaKjxbRNRGczb) | [Harmonic Science](https://open.spotify.com/album/0cmCnqDEIZ6XamJnrqvz2U) | 4:00 |
 | 4 | [Francisco](https://open.spotify.com/track/0H3e2aKIJo154hMg1fcTE2) | [Ocean Grape](https://open.spotify.com/artist/6jVI2QqhcksiDyvkBPAgtR) | [Francisco](https://open.spotify.com/album/609Yhbf9SQvk7pFEQWqU4H) | 2:27 |
 | 5 | [Relinquish](https://open.spotify.com/track/6zb7b21yPSuZlUXkMP8gyy) | [Daryl Dane](https://open.spotify.com/artist/2lJXvLJvKX2n2TSgLoIsl3) | [Relinquish](https://open.spotify.com/album/3oF2fUFYl6QQCGif3ttzT1) | 2:58 |
 | 6 | [Figures](https://open.spotify.com/track/3gW3k4nrod4POzhmV742rt) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Figures](https://open.spotify.com/album/0NAtQR6It2XhpFsD8DNgJg) | 2:48 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 | 112 | [Eridani](https://open.spotify.com/track/5QkMlAxHmZG33OGA81oWSa) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Eridani](https://open.spotify.com/album/6UVuoIa23nsZimsHnTFzxZ) | 3:48 |
 | 113 | [canggu \- Edit](https://open.spotify.com/track/0jy4TqKxOwZoraKJkle0dC) | [wet n salty](https://open.spotify.com/artist/2Ai8jQFx9LfNmToEgFjDbn) | [canggu \(Edit\)](https://open.spotify.com/album/6X8rpYiAaelLkwZK9Vx32k) | 2:23 |
 
-Snapshot ID: `MCxiNTU1MTZhZTFmYjA5MDViNGUyYTM0NGRiNjZkYzkwODMzMjY3MTk2`
+Snapshot ID: `MCxlNTE3NTRiZjYyNjdhYjVlODQxMGFkYjY4MzAxZmNhMjRlYTdlMTMw`

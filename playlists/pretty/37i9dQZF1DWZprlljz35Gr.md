@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,359 likes - 69 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,358 likes - 69 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 7 | [A Blues Thang](https://open.spotify.com/track/1xuBWp4HuSE6Yast5lmVPv) | [Basement Freaks](https://open.spotify.com/artist/77OQMkKBvHUwYyRCv6ossJ) | [Funk from the Trunk](https://open.spotify.com/album/3HA988sMUDSHmW0i7L5Wzl) | 3:23 |
 | 8 | [Seeing Red](https://open.spotify.com/track/27CSMEytwIjbQJG0118q4a) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Shamanaid](https://open.spotify.com/album/2Itmzzv39Z7w6mL8WVeU3x) | 4:56 |
 | 9 | [Joshua Tree](https://open.spotify.com/track/3I0CQt2MQx6jKygLKTdmde) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Joshua Tree](https://open.spotify.com/album/1YnzjJJCICcYqynOL6GiCJ) | 3:57 |
-| 10 | [We'r Gonna Have \(a Good Time\)](https://open.spotify.com/track/3AbawelgHpuAm3VTz7vAgF) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [We'r Gonna Have \(a Good Time\)](https://open.spotify.com/album/0itpRa7RxoZXXhuOYJALqS) | 3:11 |
+| 10 | [We'r Gonna Have \(a Good Time\)](https://open.spotify.com/track/3fxmPJD9uAhBmQLPqxsW3g) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [We'r Gonna Have \(A Good Time\)](https://open.spotify.com/album/5ppQwO8UwO15NrEpDlVg88) | 3:11 |
 | 11 | [Crossroads](https://open.spotify.com/track/6i5tylayRLCg5LrgUFqg4Z) | [Mason Murphy](https://open.spotify.com/artist/0iGR1dPENdfzoZbpsFlYug) | [Crossroads](https://open.spotify.com/album/7pPTrDwqzewb4h6cqJjl3w) | 2:21 |
 | 12 | [Good & Gone \- Original Mix](https://open.spotify.com/track/4HYfEF1lvUPH9IsXrY30Kj) | [K Theory](https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt) | [Good & Gone / The Observer](https://open.spotify.com/album/4kx8HQlzVqfPDZNIbk5F87) | 4:12 |
 | 13 | [Roy's Toy](https://open.spotify.com/track/1kwHwsKwvZJugHc9rqBeaC) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [You Had It Coming](https://open.spotify.com/album/2VKdeHabc3wTmiQBd8yGft) | 3:35 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 68 | [A Blues Malfunktion](https://open.spotify.com/track/5Ce88giAKr6fK4wj5wztGw) | [Beat Fatigue](https://open.spotify.com/artist/02m3zUZ22DsQCXQsjjSCwQ) | [Malfunktionality Part One](https://open.spotify.com/album/0kwv8HIDkVZ5yXaUhtiMh2) | 4:18 |
 | 69 | [Reasons](https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT) | [PARTY SHIRT](https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA) | [Reasons](https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ) | 5:00 |
 
-Snapshot ID: `MCw3YzliNWUzZTk4Y2IzZjVhM2FhNjVjNjgzMTNjNDQxYjk2Mzg2Mzc3`
+Snapshot ID: `MCwyNzE5NWQ0YWY0NDQ1YWVkNzEzMjg5ZDQ0MTcyNjk3NGFlOWI4MDFi`

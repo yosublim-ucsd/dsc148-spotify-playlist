@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,832 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,865 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 58 | [Small Steps](https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Small Steps](https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce) | 2:46 |
 | 59 | [Boys & Girls](https://open.spotify.com/track/0m28KN9Y8srHVJvutwJj5v) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [A Producer From Vienna](https://open.spotify.com/album/7AX7iptabwUqOi4rFekYgp) | 3:31 |
 | 60 | [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 |
-| 61 | [Thrill Of It All](https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Thrill Of It All](https://open.spotify.com/album/23tZRrcxog6733FrjhknAi) | 3:23 |
-| 62 | [Leap Of Faith](https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Leap Of Faith](https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX) | 3:37 |
+| 61 | [Leap Of Faith](https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Leap Of Faith](https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX) | 3:37 |
+| 62 | [Thrill Of It All](https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Thrill Of It All](https://open.spotify.com/album/23tZRrcxog6733FrjhknAi) | 3:23 |
 | 63 | [Faded Love](https://open.spotify.com/track/5JQrj18Cgein2F1uJ60tUt) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv) | 2:28 |
 | 64 | [Wishing Girl](https://open.spotify.com/track/2iawlVRHk4Q9aPg0OgG20D) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Remember Roses](https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z) | 3:12 |
 | 65 | [Best You Ever Had](https://open.spotify.com/track/2NwttTTC9PXdnIOXggpzEk) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Best You Ever Had](https://open.spotify.com/album/0vL34mO5klplb791wYYGbK) | 2:47 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 69 | [How Many Moons](https://open.spotify.com/track/6iF73wEQMGzFeSh8hob5so) | [LUI HILL](https://open.spotify.com/artist/3fuo46vtxoWxN4jo0irBTS) | [How Many Moons](https://open.spotify.com/album/52UTuP81SsIORoHYbDjWc9) | 3:03 |
 | 70 | [White Noise](https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [White Noise](https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R) | 2:51 |
 
-Snapshot ID: `MCwzZDE5ZmZlOGNkOGMyMDkxODk3OTIyMmI3MmQzZTUxNTgzYzgyZTUz`
+Snapshot ID: `MCw0NGFlMmIzY2FmZTliMDBhYzVlNjEwNDRmZDZhYjAxZDJmMzU2MDNi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 
 > Your favourite party hits to kick off the weekend\. Can you taste it?
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,568 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,566 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 | 36 | [Lose You](https://open.spotify.com/track/7sFk2PA3NsrrSsGa4CM3rs) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [The London Sessions](https://open.spotify.com/album/6CIslPQSknp875cigkhKJC) | 2:28 |
 | 37 | [Walking with Elephants](https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Walking With Elephants](https://open.spotify.com/album/7etzwfYztvvEQqqx9ryWxj) | 5:25 |
 | 38 | [One Kiss \(with Dua Lipa\) \- Oliver Heldens Remix](https://open.spotify.com/track/7b4vbqgzMhbFa0wdjfftQJ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [One Kiss \(with Dua Lipa\) \[Remixes\]](https://open.spotify.com/album/5vH3ugictBcayQWRWgfvpN) | 4:41 |
-| 39 | [BALENCIAGA](https://open.spotify.com/track/17NCOO2YdoHdtziSV9AoJo) | [FILV](https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0) | [BALENCIAGA](https://open.spotify.com/album/0c2qecYSSiW9ibtBlFyRWI) | 2:34 |
-| 40 | [SAD \- Imanbek xxx Remix](https://open.spotify.com/track/4x5ymi4akay9Fq5Xm1PW3E) | [Rasster](https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg), [Erin Bloomer](https://open.spotify.com/artist/5vPqlDBYNZiF5SrHGS6Cyt), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [SAD \(Imanbek xxx Remix\)](https://open.spotify.com/album/0MoT8k5F7qoeCcP2DfW8GF) | 2:54 |
+| 39 | [SAD \- Imanbek xxx Remix](https://open.spotify.com/track/4x5ymi4akay9Fq5Xm1PW3E) | [Rasster](https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg), [Erin Bloomer](https://open.spotify.com/artist/5vPqlDBYNZiF5SrHGS6Cyt), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [SAD \(Imanbek xxx Remix\)](https://open.spotify.com/album/0MoT8k5F7qoeCcP2DfW8GF) | 2:54 |
+| 40 | [BALENCIAGA](https://open.spotify.com/track/17NCOO2YdoHdtziSV9AoJo) | [FILV](https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0) | [BALENCIAGA](https://open.spotify.com/album/0c2qecYSSiW9ibtBlFyRWI) | 2:34 |
 | 41 | [Best Be Believing \- Shadow Child Remix](https://open.spotify.com/track/4ZOuB9nVbvyeEIYKbm55O4) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Body Music \(Remixed\)](https://open.spotify.com/album/02ia0xYRyujnMk3AuCUqoR) | 5:51 |
 | 42 | [Move All Night \(feat\. Kole\)](https://open.spotify.com/track/6kNx6oySNfaqH3P4CGiKVL) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8) | [Move All Night \(feat\. Kole\)](https://open.spotify.com/album/5U2Vw8rl0lLAV69R5Lf9en) | 3:17 |
 | 43 | [Home \(feat\. Bonn\)](https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Home \(feat\. Bonn\)](https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 | 49 | [Fibonacci](https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Fibonacci](https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY) | 3:08 |
 | 50 | [Old Friend](https://open.spotify.com/track/7l1NMHXBISVLarwGyfgmFP) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Old Friend](https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj) | 3:19 |
 
-Snapshot ID: `MCxhZDZhZjNjNDcwNmNhYjRhNjI5OTNkMWVkZTVlOTc2YTk2Y2RkZWQ5`
+Snapshot ID: `MCxmNjRlNWI1NTY4OTMyMDc2MGRjYzVmYWRmNjIxN2NlNjkyNWE0NjM4`

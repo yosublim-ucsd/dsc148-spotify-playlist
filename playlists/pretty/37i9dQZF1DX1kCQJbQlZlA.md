@@ -81,6 +81,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 71 | [Tát Nước Đầu Đình](https://open.spotify.com/track/4lW0zwt8ldnR6Y6cDLNihS) | [Sơn Tuyền](https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q) | [Tình Là Gì](https://open.spotify.com/album/79pLdkBrst1icsDhBCBNqV) | 5:02 |
 | 72 | [Mối Duyên Quê](https://open.spotify.com/track/0M2QYF6tMSl9Nl2T1kUHd5) | [Le Thuy](https://open.spotify.com/artist/6zMihGRYdCoCgBFBgPO7aQ) | [Mối Duyên Quê](https://open.spotify.com/album/67uEDbx30JNBOs5BIsbATT) | 3:46 |
 | 73 | [Mùa Xuân Quê Nhà](https://open.spotify.com/track/6qXSffGhxTwZu7liWKxmyi) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V), [Công Bằng](https://open.spotify.com/artist/3Vqf1sIpRPEhBtEHojm4Bm) | [Tết Xưa](https://open.spotify.com/album/21gWQ1KpAyWWN07AqOCdF0) | 4:37 |
-| 74 | [Người Em Vỹ Dạ](https://open.spotify.com/track/24s2jhwZLfPAP1ZP8RFiqO) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Chuyện Tình Hoa 10 Giờ](https://open.spotify.com/album/0huTCpWAp5Ibqhb80DwUVR) | 4:34 |
+| 74 | [Người Em Vỹ Dạ](https://open.spotify.com/track/2PEx4noRPrnRTRNjwYg7Er) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Tình Đẹp Hậu Giang](https://open.spotify.com/album/1akqLcjS1PEOJU5mseD8lQ) | 4:32 |
 
-Snapshot ID: `MCw4NmNjMzMyZWNjZmFhMTI5ZjEzNjE5OGQxZDM1ZDFmNjk0MmIyMmQ2`
+Snapshot ID: `MCw1OTUyODkxMDU5MWE5MDdkMTY2N2I0MDA4N2QxYzQ2NWYzYWU4ZDFk`

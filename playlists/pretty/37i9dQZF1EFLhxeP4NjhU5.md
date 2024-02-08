@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,044 likes - 176 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043 likes - 176 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 175 | [24 Horas](https://open.spotify.com/track/0r10aAQk6Em9NEYhMXaNDZ) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 3:00 |
 | 176 | [El Problema](https://open.spotify.com/track/5dXTVrRz1VXQgs51b8Jftf) | [Ralph Armon](https://open.spotify.com/artist/4PygBCAS3Wkmodf5ANSkmB), [Erick Elera](https://open.spotify.com/artist/0W8XvI6GtKZf52COOfXxLW) | [El Problema](https://open.spotify.com/album/3BPunIg44Toi7BxHpllZAy) | 2:57 |
 
-Snapshot ID: `Mjg0NTQ1MzAsMDAwMDAwMDBiZTE3Y2I3YTQyMGUzNTI2MmUyNGIyZmE0MTk0NjZiMw==`
+Snapshot ID: `Mjg0NTU5NzAsMDAwMDAwMDBmZWYxMmI4NWE5MzYzMmE2MDM0NGNjYWU4OGE4NjI5ZA==`

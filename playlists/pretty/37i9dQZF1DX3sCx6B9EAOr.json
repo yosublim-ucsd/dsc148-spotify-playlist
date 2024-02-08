@@ -1,12 +1,12 @@
 {
   "description": "\uc2dc\uc6d0\ud55c \uad6d\ub0b4\uc74c\uc545\ub4e4\uacfc \ub4dc\ub77c\uc774\ube59\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Tap your feet to the K-Pop beats on your way through the driving moments.)",
-  "num_followers": 118391,
+  "num_followers": 118411,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \ub304\uc2a4+ (K-Pop Dance Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDAyNTZjNmNmYjQ1N2Q5ZTQ0ZDFmMzliZmE1YzQ0YTM1OGRjZDRj",
+  "snapshot_id": "MCwzYTYyYmYxYjE1YzJjMmE4NDg2NDY0ODViZDI1ZjhmYTIzNjk2OTVm",
   "tracks": [
     {
       "added_at": "2023-12-13 03:36:14",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-12-13 03:36:14",
       "album": {
+        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
+        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "Rock with you",
+      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
+    },
+    {
+      "added_at": "2023-12-13 03:36:14",
+      "album": {
         "name": "POP/STARS",
         "url": "https://open.spotify.com/album/0UnBZ8laFgLUq5Ty5vbikQ"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 191100,
       "name": "POP/STARS",
       "url": "https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ"
-    },
-    {
-      "added_at": "2023-12-13 03:36:14",
-      "album": {
-        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
-        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Rock with you",
-      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
     },
     {
       "added_at": "2023-12-13 03:36:14",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-12-13 03:36:14",
       "album": {
-        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
-        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "_WORLD",
-      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
-    },
-    {
-      "added_at": "2023-12-13 03:36:14",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 214253,
       "name": "LILAC",
       "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+    },
+    {
+      "added_at": "2023-12-13 03:36:14",
+      "album": {
+        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
+        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "_WORLD",
+      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
     },
     {
       "added_at": "2023-12-13 03:36:14",
@@ -1303,8 +1303,8 @@
     {
       "added_at": "2023-12-13 03:36:14",
       "album": {
-        "name": "minisode 2: Thursday's Child",
-        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
       "artists": [
         {
@@ -1312,9 +1312,9 @@
           "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 191038,
-      "name": "Good Boy Gone Bad",
-      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
+      "duration_ms": 209105,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
     },
     {
       "added_at": "2023-12-13 03:36:14",
@@ -1399,8 +1399,8 @@
     {
       "added_at": "2023-12-13 03:36:14",
       "album": {
-        "name": "minisode1 : Blue Hour",
-        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+        "name": "minisode 2: Thursday's Child",
+        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
       },
       "artists": [
         {
@@ -1408,9 +1408,9 @@
           "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 209105,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
+      "duration_ms": 191038,
+      "name": "Good Boy Gone Bad",
+      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
     },
     {
       "added_at": "2023-12-13 03:36:14",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-12-13 03:36:14",
       "album": {
-        "name": "Chili",
-        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 135428,
-      "name": "Chili",
-      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
-    },
-    {
-      "added_at": "2023-12-13 03:36:14",
-      "album": {
         "name": "CHESHIRE",
         "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 182453,
       "name": "Cheshire",
       "url": "https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha"
+    },
+    {
+      "added_at": "2023-12-13 03:36:14",
+      "album": {
+        "name": "Chili",
+        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 135428,
+      "name": "Chili",
+      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
     },
     {
       "added_at": "2023-12-13 03:36:14",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-12-13 03:36:14",
       "album": {
-        "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
-        "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
+        "name": "Heng:gar\u00e6",
+        "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 210253,
-      "name": "Feel My Rhythm",
-      "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
+      "duration_ms": 192893,
+      "name": "Kidult",
+      "url": "https://open.spotify.com/track/1kmmKv3L4kGmoPu8aDFOmk"
     },
     {
       "added_at": "2023-12-13 03:36:14",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-12-13 03:36:14",
       "album": {
+        "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
+        "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Feel My Rhythm",
+      "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
+    },
+    {
+      "added_at": "2023-12-13 03:36:14",
+      "album": {
         "name": "GUESS WHO",
         "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 172373,
       "name": "In the morning",
       "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
-    },
-    {
-      "added_at": "2023-12-13 03:36:14",
-      "album": {
-        "name": "Heng:gar\u00e6",
-        "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Kidult",
-      "url": "https://open.spotify.com/track/1kmmKv3L4kGmoPu8aDFOmk"
     },
     {
       "added_at": "2023-12-13 03:36:14",
@@ -1919,18 +1919,18 @@
     {
       "added_at": "2023-12-13 03:36:14",
       "album": {
-        "name": "Paint Me Naked - SM STATION",
-        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
       },
       "artists": [
         {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
         }
       ],
-      "duration_ms": 180560,
-      "name": "Paint Me Naked",
-      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
+      "duration_ms": 179453,
+      "name": "SNEAKERS",
+      "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
     },
     {
       "added_at": "2023-12-13 03:36:14",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2023-12-13 03:36:14",
       "album": {
-        "name": "CHECKMATE",
-        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 179453,
-      "name": "SNEAKERS",
-      "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
-    },
-    {
-      "added_at": "2023-12-13 03:36:14",
-      "album": {
         "name": "WHY..",
         "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 175106,
       "name": "But Sometimes",
       "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
+    },
+    {
+      "added_at": "2023-12-13 03:36:14",
+      "album": {
+        "name": "Paint Me Naked - SM STATION",
+        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Paint Me Naked",
+      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
     },
     {
       "added_at": "2023-12-13 03:36:14",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2023-12-13 03:36:14",
       "album": {
-        "name": "MIC ON",
-        "url": "https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "ILLELLA",
-      "url": "https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4"
-    },
-    {
-      "added_at": "2023-12-13 03:36:14",
-      "album": {
         "name": "START-UP (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/6S327htVJnBi9GGZjUInui"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 209946,
       "name": "Running",
       "url": "https://open.spotify.com/track/6IcVM9iHTsX4sm0Xj54MBF"
+    },
+    {
+      "added_at": "2023-12-13 03:36:14",
+      "album": {
+        "name": "MIC ON",
+        "url": "https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "ILLELLA",
+      "url": "https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4"
     },
     {
       "added_at": "2023-12-13 03:36:14",

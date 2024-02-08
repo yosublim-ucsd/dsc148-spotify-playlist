@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 527540,
+  "num_followers": 527616,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmMwMmFiNTIzYzMzMzgyYzZjZTFmNzkyZjE4MWVhOWM0ZGFhMTc5",
+  "snapshot_id": "MCxiMTNjZjdmNjRjZTVmYzJkMWRjMjAzNzNiYWJjZjdjM2FlNmIzOTQ5",
   "tracks": [
     {
       "added_at": "2023-12-08 06:46:59",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-12-08 06:46:59",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 292760,
-      "name": "Te Llor\u00e9 Un R\u00edo",
-      "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
-    },
-    {
-      "added_at": "2023-12-08 06:46:59",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 307866,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+    },
+    {
+      "added_at": "2023-12-08 06:46:59",
+      "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 292760,
+      "name": "Te Llor\u00e9 Un R\u00edo",
+      "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
     },
     {
       "added_at": "2023-12-08 06:46:59",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2023-12-08 06:46:59",
       "album": {
+        "name": "Te Llor\u00e9 Un R\u00edo",
+        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 230811,
+      "name": "Te Llor\u00e9 Un R\u00edo",
+      "url": "https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY"
+    },
+    {
+      "added_at": "2023-12-08 06:46:59",
+      "album": {
         "name": "Yo Creo",
         "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
       },
@@ -1183,42 +1203,6 @@
     {
       "added_at": "2023-12-08 06:46:59",
       "album": {
-        "name": "Una Lady Como T\u00fa",
-        "url": "https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Una Lady Como T\u00fa",
-      "url": "https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF"
-    },
-    {
-      "added_at": "2023-12-08 06:46:59",
-      "album": {
-        "name": "Te Llor\u00e9 Un R\u00edo",
-        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 230811,
-      "name": "Te Llor\u00e9 Un R\u00edo",
-      "url": "https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY"
-    },
-    {
-      "added_at": "2023-12-08 06:46:59",
-      "album": {
         "name": "MTV Unplugged (En Vivo)",
         "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2023-12-08 06:46:59",
       "album": {
-        "name": "ADMV",
-        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
+        "name": "Una Lady Como T\u00fa",
+        "url": "https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 193699,
-      "name": "ADMV",
-      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
+      "duration_ms": 213026,
+      "name": "Una Lady Como T\u00fa",
+      "url": "https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF"
     },
     {
       "added_at": "2023-12-08 06:46:59",
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2023-12-08 06:46:59",
       "album": {
+        "name": "ADMV",
+        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 193699,
+      "name": "ADMV",
+      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
+    },
+    {
+      "added_at": "2023-12-08 06:46:59",
+      "album": {
         "name": "Intimamente",
         "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
       },
@@ -1291,38 +1291,6 @@
       "duration_ms": 217866,
       "name": "Insoportablemente Bella",
       "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
-    },
-    {
-      "added_at": "2023-12-08 06:46:59",
-      "album": {
-        "name": "Lo Que Siempre So\u00f1amos Ser",
-        "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
-      },
-      "artists": [
-        {
-          "name": "Sandoval",
-          "url": "https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "A quien t\u00fa decidiste amar",
-      "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
-    },
-    {
-      "added_at": "2023-12-08 06:46:59",
-      "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
     },
     {
       "added_at": "2023-12-08 06:46:59",
@@ -1367,22 +1335,34 @@
     {
       "added_at": "2023-12-08 06:46:59",
       "album": {
-        "name": "30 de Febrero",
-        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
+        "name": "Lo Que Siempre So\u00f1amos Ser",
+        "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Sandoval",
+          "url": "https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW"
         }
       ],
-      "duration_ms": 185573,
-      "name": "100 A\u00f1os",
-      "url": "https://open.spotify.com/track/4gJzpOMYyOpVnbDXlT5aWL"
+      "duration_ms": 229760,
+      "name": "A quien t\u00fa decidiste amar",
+      "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
+    },
+    {
+      "added_at": "2023-12-08 06:46:59",
+      "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
     },
     {
       "added_at": "2023-12-08 06:46:59",
@@ -1403,6 +1383,26 @@
       "duration_ms": 185038,
       "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+    },
+    {
+      "added_at": "2023-12-08 06:46:59",
+      "album": {
+        "name": "30 de Febrero",
+        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "100 A\u00f1os",
+      "url": "https://open.spotify.com/track/4gJzpOMYyOpVnbDXlT5aWL"
     },
     {
       "added_at": "2023-12-08 06:46:59",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-12-08 06:46:59",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 263600,
-      "name": "Heroe",
-      "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
-    },
-    {
-      "added_at": "2023-12-08 06:46:59",
-      "album": {
         "name": "Lo Que Ten\u00edas Conmigo",
         "url": "https://open.spotify.com/album/2KjUNxCfZw6xJGxEuEGACb"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 186832,
       "name": "No Se Acaba Hasta Que Acabe",
       "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
+    },
+    {
+      "added_at": "2023-12-08 06:46:59",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "Heroe",
+      "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
     },
     {
       "added_at": "2023-12-08 06:46:59",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-12-08 06:46:59",
       "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Te Equivocaste",
+      "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
+    },
+    {
+      "added_at": "2023-12-08 06:46:59",
+      "album": {
         "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
         "url": "https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba"
       },
@@ -1751,26 +1767,6 @@
       "duration_ms": 257379,
       "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
       "url": "https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS"
-    },
-    {
-      "added_at": "2023-12-08 06:46:59",
-      "album": {
-        "name": "Que Triste",
-        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 226339,
-      "name": "Que Triste",
-      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
     }
   ],
   "unique_name": "Radio Coraz\u00f3n",

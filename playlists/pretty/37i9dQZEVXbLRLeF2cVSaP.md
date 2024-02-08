@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,816 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,831 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [СЕЙЧАС](https://open.spotify.com/track/6HVQNzaVnJdreqdaezdD39) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [IN MY DNA](https://open.spotify.com/album/1iccPHXLRk2mRsdqf2dfke) | 1:39 |
 | 50 | [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 |
 
-Snapshot ID: `NzYwNTg0MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzYwNjcwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

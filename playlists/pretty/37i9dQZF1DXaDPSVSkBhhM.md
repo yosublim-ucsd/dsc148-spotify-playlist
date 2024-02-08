@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,984 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,003 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 16 | [Confesión](https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Gran Blanco](https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf) | 3:23 |
 | 17 | [La Búsqueda del Tiempo Perdido](https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG) | [Andrés Canalla](https://open.spotify.com/artist/1X0yOvDnVkVi33vLB5tBwB), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Búsqueda del Tiempo Perdido](https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob) | 3:43 |
 | 18 | [Apariencia](https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Corazón D' Roto](https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC) | 3:37 |
-| 19 | [Cállate La Boca](https://open.spotify.com/track/4ck93bVIVf9yMwjs8CjSve) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Cállate La Boca](https://open.spotify.com/album/3s9LUzvbeqfQWeNKZ3TTut) | 3:37 |
-| 20 | [Para Ti](https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh) | [Masappan](https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC) | [Masappan](https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e) | 2:44 |
+| 19 | [Para Ti](https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh) | [Masappan](https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC) | [Masappan](https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e) | 2:44 |
+| 20 | [Cállate La Boca](https://open.spotify.com/track/4ck93bVIVf9yMwjs8CjSve) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Cállate La Boca](https://open.spotify.com/album/3s9LUzvbeqfQWeNKZ3TTut) | 3:37 |
 | 21 | [Mientras quede aliento](https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw) | [Mientras quede aliento](https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG) | 3:13 |
 | 22 | [Ay Equis, Nada Que Ver..\. \(Pinche Raza Igualada\)](https://open.spotify.com/track/4gXv8ukCY5oIpzVMMfSFAi) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL), [Barney Gombo](https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc) | [Ay Equis, Nada Que Ver..\. \(Pinche Raza Igualada\)](https://open.spotify.com/album/09sex9lgVpZBDbkaQCp2ot) | 3:33 |
 | 23 | [Vamos Otra Vez](https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [120 Km/Hr.](https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 49 | [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 |
 | 50 | [Miedo A Caer \(Opening 3 Latino Sub.amv\)](https://open.spotify.com/track/7JVkWGxZo44Jmrb9hbDIpA) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss) | [CRISIS](https://open.spotify.com/album/1KkuK9uYHUFAgTLFjTpG0R) | 2:54 |
 
-Snapshot ID: `MCxkMzMxOWFlZmZhOWQ2NTFlNWUzNTlmMjdhNzg1NzIzYzJkMzVjOGZm`
+Snapshot ID: `MCxlNDI1MmM4ZjljYjRiYzMwNWM0ZDA2MjFmN2NlMjA2NGE5YjIyMjU4`

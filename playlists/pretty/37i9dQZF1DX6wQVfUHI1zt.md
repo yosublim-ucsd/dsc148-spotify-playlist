@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,021 likes - 120 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,078 likes - 120 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 34 | [Enséñame](https://open.spotify.com/track/0IHrQNuGVj2c3dBwyw2lNC) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:09 |
 | 35 | [Besitos](https://open.spotify.com/track/164h2ksJh1l27JoQH0W9kl) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:23 |
 | 36 | [Como Te Extrano](https://open.spotify.com/track/1FAubvFODC0G1hRfBGMqp1) | [Pete Astudillo](https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 4:38 |
-| 37 | [Todavía](https://open.spotify.com/track/4CSwCfn6qCuXvnhxvarnG7) | [Elsa Garcia](https://open.spotify.com/artist/1ueN9z9M3Xyk27jcjn8tLE) | [Pasion](https://open.spotify.com/album/3ySyGfsLT8Y4naB0iKo7PS) | 3:37 |
-| 38 | [Lágrimas](https://open.spotify.com/track/6iKnCeOWsfBTZxLAtqm2xn) | [La Tropa F](https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1) | [Esto Es Lo Nuestro \- 20 Exitos](https://open.spotify.com/album/3phdl28dDCj4AFDgfhKxHw) | 3:42 |
+| 37 | [Lágrimas](https://open.spotify.com/track/6iKnCeOWsfBTZxLAtqm2xn) | [La Tropa F](https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1) | [Esto Es Lo Nuestro \- 20 Exitos](https://open.spotify.com/album/3phdl28dDCj4AFDgfhKxHw) | 3:42 |
+| 38 | [Todavía](https://open.spotify.com/track/4CSwCfn6qCuXvnhxvarnG7) | [Elsa Garcia](https://open.spotify.com/artist/1ueN9z9M3Xyk27jcjn8tLE) | [Pasion](https://open.spotify.com/album/3ySyGfsLT8Y4naB0iKo7PS) | 3:37 |
 | 39 | [Tonta](https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Puro Tejano Gold](https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7) | 3:06 |
 | 40 | [Déjame Amarte](https://open.spotify.com/track/59WAVCfF8Emeoo7Re7Hl89) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:30 |
 | 41 | [Estúpido Romántico](https://open.spotify.com/track/5DGCz0pG9SrJpIps43xyod) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 4:34 |
@@ -116,11 +116,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 106 | [Soy Un Novato](https://open.spotify.com/track/5akdgRJMR9kwrrpOY2KUHg) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:15 |
 | 107 | [Di Algo featuring Edgar Ramirez of Zeri](https://open.spotify.com/track/65othLo1tpzoD8LUT16GTu) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Iconic \(Remastered\)](https://open.spotify.com/album/04QjiAjGtDlaGITJRecZRj) | 3:44 |
 | 108 | [Con Mis Alas Rotas](https://open.spotify.com/track/6uOuVy1yGf70OJFk0RBbh5) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:36 |
-| 109 | [Yo No Tengo La Culpa](https://open.spotify.com/track/6IY64svdCGr1QWFTD4Gkoy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:37 |
-| 110 | [Las Cadenas](https://open.spotify.com/track/6VJYwVo6MDV4h8mNfTb61Q) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:10 |
+| 109 | [Las Cadenas](https://open.spotify.com/track/6VJYwVo6MDV4h8mNfTb61Q) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:10 |
+| 110 | [Yo No Tengo La Culpa](https://open.spotify.com/track/6IY64svdCGr1QWFTD4Gkoy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:37 |
 | 111 | [Vuelve](https://open.spotify.com/track/2wWq8OrM7L0zUqvZvexwGV) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:47 |
-| 112 | [Perdoname](https://open.spotify.com/track/6nUD8Q392IavYezY3OhZdk) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [FOREVER MAZZ](https://open.spotify.com/album/30G4uBTGgFGkn0Pq3YQxUA) | 4:38 |
-| 113 | [Dias de Ayer](https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:26 |
+| 112 | [Dias de Ayer](https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:26 |
+| 113 | [Perdoname](https://open.spotify.com/track/6nUD8Q392IavYezY3OhZdk) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [FOREVER MAZZ](https://open.spotify.com/album/30G4uBTGgFGkn0Pq3YQxUA) | 4:38 |
 | 114 | [Que Me Lleven Canciones](https://open.spotify.com/track/3qi5CS04DKtP5eIzQZ5gI7) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:56 |
 | 115 | [Cindy Don't Know](https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:38 |
 | 116 | [Ven Conmigo](https://open.spotify.com/track/5neqwbGxk0u6OgiTqXmd57) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:26 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 119 | [Te Sigo Amando](https://open.spotify.com/track/6141FXNkDLkERK3HcaCgYN) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:34 |
 | 120 | [Vuelvo](https://open.spotify.com/track/0oj2y6H2rneQ1QV4lLkTyG) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [Lo Basico](https://open.spotify.com/album/2hruqNk86ciCeHpUv0tggC) | 4:15 |
 
-Snapshot ID: `MCxiMmM4ZTNiMDA4ZDZmN2E1YWE0MzA3Yzk4Y2ZmNWQ4NDQyZWY2MTBl`
+Snapshot ID: `MCxjYjFjMzk3MDRhYjAyNGMxMzFkYTAzYjk2YWNiNjNlMzA1YWJiN2Ez`

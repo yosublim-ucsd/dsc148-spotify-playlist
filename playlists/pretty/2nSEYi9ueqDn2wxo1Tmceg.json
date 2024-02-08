@@ -1,15 +1,63 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 70612,
+  "num_followers": 70597,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "Mzg1Nyw5ZDU0MWQ5NjI1ZjA4ZGIwODQ2OTk1NjBiNjg1YTQzNjljY2RkNTEx",
+  "snapshot_id": "Mzg3MCw4ZWZhOWVhYjU5Mzg3MjU1NTczY2FmYzBlYTAyNWE5MGFjMDY2ZWZj",
   "tracks": [
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
+      "album": {
+        "name": "Floating On A Moment",
+        "url": "https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY"
+      },
+      "artists": [
+        {
+          "name": "Beth Gibbons",
+          "url": "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
+        }
+      ],
+      "duration_ms": 326080,
+      "name": "Floating On A Moment",
+      "url": "https://open.spotify.com/track/5ZBjVFfYDwj3TeIfDHLWLN"
+    },
+    {
+      "added_at": "2024-02-07 15:34:06",
+      "album": {
+        "name": "Big Love",
+        "url": "https://open.spotify.com/album/4fgwPlwnatn7LfaMiziOJh"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Big Love",
+      "url": "https://open.spotify.com/track/5TlQaUReZtviIA3AWrAazB"
+    },
+    {
+      "added_at": "2024-02-07 15:34:06",
+      "album": {
+        "name": "Gleams",
+        "url": "https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 293133,
+      "name": "Gleams",
+      "url": "https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1"
+    },
+    {
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Palace In My Head (Fred Falke Remix)",
         "url": "https://open.spotify.com/album/0KmmDNX9lSTwfCoR5ahkvU"
@@ -33,23 +81,63 @@
       "url": "https://open.spotify.com/track/1rIgvGq96hPE24YXIeIGpU"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
-        "name": "Gleams",
-        "url": "https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo"
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3O5MObls3U28AQQmmEXAYe"
       },
       "artists": [
         {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+          "name": "Joseph Shabason",
+          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
+        },
+        {
+          "name": "Nicholas Krgovich",
+          "url": "https://open.spotify.com/artist/68QhSfYuqyiT1KPoHlCvSv"
+        },
+        {
+          "name": "M. Sage",
+          "url": "https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR"
         }
       ],
-      "duration_ms": 293133,
-      "name": "Gleams",
-      "url": "https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1"
+      "duration_ms": 384000,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/1h41blh3AI74vHoPJ1KhZX"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
+      "album": {
+        "name": "Never Mind",
+        "url": "https://open.spotify.com/album/1Me5DsIM8drS8VbTQ3lGGH"
+      },
+      "artists": [
+        {
+          "name": "Moonpools",
+          "url": "https://open.spotify.com/artist/1eD5LHUXByotygvcu8axHn"
+        }
+      ],
+      "duration_ms": 288864,
+      "name": "Never Mind",
+      "url": "https://open.spotify.com/track/0CaP3GykIuDrMitzOTtkJr"
+    },
+    {
+      "added_at": "2024-02-07 15:34:06",
+      "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP"
+      },
+      "artists": [
+        {
+          "name": "Boeckner",
+          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
+        }
+      ],
+      "duration_ms": 291037,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/729EJVbWkITU4vAc690cFE"
+    },
+    {
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Come On Baby, Dig!",
         "url": "https://open.spotify.com/album/7j9nknHlYjFovpiEBXKPla"
@@ -65,7 +153,7 @@
       "url": "https://open.spotify.com/track/1cH5V204hnjVfsfJgUJP8B"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Great Doubt",
         "url": "https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP"
@@ -81,7 +169,7 @@
       "url": "https://open.spotify.com/track/6zlAetX5aprkyBGdUu0sKd"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Bullet of Dignity",
         "url": "https://open.spotify.com/album/40gq5eFnNQbQ7EEvO6V2ja"
@@ -97,7 +185,7 @@
       "url": "https://open.spotify.com/track/0bd1oHZdvi2DHUGPVhdOAI"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1"
@@ -117,7 +205,7 @@
       "url": "https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "The Path Less Travelled",
         "url": "https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq"
@@ -133,7 +221,7 @@
       "url": "https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Haunted World",
         "url": "https://open.spotify.com/album/6U7yDiUXMXITMyaCeqTf5n"
@@ -149,7 +237,7 @@
       "url": "https://open.spotify.com/track/0mhRq6ZwGkt6wJigeFHZ90"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/0wVe8xEptVO6v12vsMcDQa"
@@ -165,7 +253,7 @@
       "url": "https://open.spotify.com/track/5pzKnfOfgMNaoynKHqOWHT"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Nico Paulo",
         "url": "https://open.spotify.com/album/4hxJYEOKb1NGphLaJb0QuN"
@@ -181,7 +269,7 @@
       "url": "https://open.spotify.com/track/6h3eqlgYSMVbxQvNsfIwN3"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "A Friend By The Lake",
         "url": "https://open.spotify.com/album/1yxpwsUCeQGVoyZE4Ww9j8"
@@ -197,7 +285,7 @@
       "url": "https://open.spotify.com/track/368lk9d9kZ7eXp6gU6WCnE"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "What an enormous room",
         "url": "https://open.spotify.com/album/2NdMVSjrgxqhELnvW1Odje"
@@ -213,7 +301,7 @@
       "url": "https://open.spotify.com/track/4qrtb8xstngeZdrNjXV7fV"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Shirl's Ghost",
         "url": "https://open.spotify.com/album/6xi6ytd4uaTAREdZI6repe"
@@ -229,7 +317,7 @@
       "url": "https://open.spotify.com/track/4XTmVXeU3OxSQPeVVbd8K7"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Miquelon",
         "url": "https://open.spotify.com/album/6dzheUJaRJxrA9tkkmO1uG"
@@ -249,7 +337,7 @@
       "url": "https://open.spotify.com/track/5JSqCpiltF0Hu3UdgLrAVf"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Casino",
         "url": "https://open.spotify.com/album/7wCgrhVApyEX3uaskrdpLY"
@@ -265,7 +353,7 @@
       "url": "https://open.spotify.com/track/6ClLZM12itEFkx1J5x8Cy3"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Fugue (Bin Song)",
         "url": "https://open.spotify.com/album/5jQUB8BUJk3LdtLt626xyL"
@@ -281,7 +369,7 @@
       "url": "https://open.spotify.com/track/3SLy3jHtaGsaGqpGaqtYGc"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Iechyd Da",
         "url": "https://open.spotify.com/album/6ucqrUvJaIMZTdPnvW4fxQ"
@@ -297,7 +385,7 @@
       "url": "https://open.spotify.com/track/1rrbYRonZM7XZAAjcY8rWp"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "That Golden Time",
         "url": "https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6"
@@ -313,7 +401,7 @@
       "url": "https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Magda",
         "url": "https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl"
@@ -329,7 +417,7 @@
       "url": "https://open.spotify.com/track/7u4q3iObormjOmQmxdLtce"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/6jGBMVoIICGhkRbPeSfr7b"
@@ -345,7 +433,7 @@
       "url": "https://open.spotify.com/track/3j0KY1cmc7mh86F94dOqFU"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Jona",
         "url": "https://open.spotify.com/album/2DVNB1JixiCfPYV5UCMFdb"
@@ -361,7 +449,7 @@
       "url": "https://open.spotify.com/track/7dJ4WXrjst71fFyaAysbD5"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "BYE BYE",
         "url": "https://open.spotify.com/album/5zve9HuTTyhYyDW5gnjpi7"
@@ -377,7 +465,7 @@
       "url": "https://open.spotify.com/track/4K2hu1I4tuRpgDLiNTTEi2"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1"
@@ -397,7 +485,7 @@
       "url": "https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Stranger Than Fiction",
         "url": "https://open.spotify.com/album/09pZ7OS5XbNjZzqsGF5pqw"
@@ -417,7 +505,7 @@
       "url": "https://open.spotify.com/track/2QjO1iDxh78l7ogVCzWU4w"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/5a9UFfBfHCdeNNsDVtEOfm"
@@ -433,7 +521,7 @@
       "url": "https://open.spotify.com/track/4cE5VRcJURYP6hIyFF29N4"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Be My Best",
         "url": "https://open.spotify.com/album/1M5lIx2zlIDbkRYtT2XUNB"
@@ -449,7 +537,7 @@
       "url": "https://open.spotify.com/track/4lOzsIKfOxu4yLwwoeDqEE"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Iechyd Da",
         "url": "https://open.spotify.com/album/6ucqrUvJaIMZTdPnvW4fxQ"
@@ -465,7 +553,7 @@
       "url": "https://open.spotify.com/track/2berFinu7WImpR2fHLO8YV"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Spinning",
         "url": "https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA"
@@ -481,7 +569,7 @@
       "url": "https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Tear Gas (feat. Tyler Cryde)",
         "url": "https://open.spotify.com/album/3dr2QOBPShCo49di8WnPvA"
@@ -501,7 +589,7 @@
       "url": "https://open.spotify.com/track/1hiVYjWEA0DMHYHBy61pHC"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Down There!",
         "url": "https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi"
@@ -517,7 +605,7 @@
       "url": "https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "All The Same",
         "url": "https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt"
@@ -533,7 +621,7 @@
       "url": "https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Helmet",
         "url": "https://open.spotify.com/album/2WzabkM8jhirXrC76r84mj"
@@ -549,7 +637,7 @@
       "url": "https://open.spotify.com/track/62oTXp4z6RWJoW8vr778R7"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "The King",
         "url": "https://open.spotify.com/album/2tADev9pJEwyWxjqE5TAxA"
@@ -565,7 +653,7 @@
       "url": "https://open.spotify.com/track/4F0Mkl0B3C9CGLvEuNAsPA"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Please Come Back I Will Listen, I Will Behave, I Will Toe The Line",
         "url": "https://open.spotify.com/album/6YVqgvnHv46K7XY5EJvdmg"
@@ -581,7 +669,7 @@
       "url": "https://open.spotify.com/track/2p4E4YCEB2M1je05odoiQ6"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "CPR",
         "url": "https://open.spotify.com/album/6Lv6KtVqoeeNIsZQYvizcN"
@@ -597,7 +685,7 @@
       "url": "https://open.spotify.com/track/6RynBkCtUFER2ll7fLyt9M"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Isn\u2019t It Now? (Moor Mother Collage)",
         "url": "https://open.spotify.com/album/2RNEPaznO7aQ0zbs0PYym2"
@@ -617,7 +705,7 @@
       "url": "https://open.spotify.com/track/6GRzvC5GwwDAJM8jeI2M11"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "My Best Friend",
         "url": "https://open.spotify.com/album/5eZNZwivm3Ux6EHvLfK3ba"
@@ -633,7 +721,7 @@
       "url": "https://open.spotify.com/track/2vYAKGRyybrFQL1rdHXxM2"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Cartwheel",
         "url": "https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz"
@@ -649,7 +737,7 @@
       "url": "https://open.spotify.com/track/1DOyj5c8aV1cgmlEjSjSBU"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "I Love My Television",
         "url": "https://open.spotify.com/album/07Lhk1bZQmPK8JV1aV2eCk"
@@ -665,7 +753,7 @@
       "url": "https://open.spotify.com/track/4AIoNJl3gKgNmcI0UpzeRX"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Plastic Pyramid",
         "url": "https://open.spotify.com/album/6EwBOdpvB0ElEPN3Sbpgbv"
@@ -685,7 +773,7 @@
       "url": "https://open.spotify.com/track/06SgGRLn7xmwCz8wIxIx8U"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Lush Life",
         "url": "https://open.spotify.com/album/4gFAFDnZ0ggEDAPpLHYPFp"
@@ -701,7 +789,7 @@
       "url": "https://open.spotify.com/track/5uZHEf7f6cYBaU01EXULQh"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Silver Thread Golden Needle",
         "url": "https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1"
@@ -717,7 +805,7 @@
       "url": "https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "My Soft Machine (Deluxe)",
         "url": "https://open.spotify.com/album/3grTaYSw0sYx5HEaR2m8Tt"
@@ -733,7 +821,7 @@
       "url": "https://open.spotify.com/track/2xPNUGEsEkMa4yTkgB0dMZ"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Who\u2019s A Good Boy",
         "url": "https://open.spotify.com/album/5ssHFrvw7PkNu9TVBWZAAV"
@@ -749,7 +837,7 @@
       "url": "https://open.spotify.com/track/0Nnz1y7sIBlpLCBmQepvtd"
     },
     {
-      "added_at": "2024-01-31 12:41:44",
+      "added_at": "2024-02-07 15:34:06",
       "album": {
         "name": "Religion for One",
         "url": "https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl"
@@ -763,98 +851,6 @@
       "duration_ms": 199727,
       "name": "Religion for One",
       "url": "https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7"
-    },
-    {
-      "added_at": "2024-01-31 12:41:44",
-      "album": {
-        "name": "Working Class Hero",
-        "url": "https://open.spotify.com/album/4yKyXtKhmN6izhfnpPNlqg"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 283274,
-      "name": "Working Class Hero",
-      "url": "https://open.spotify.com/track/4E0dnwU0VhvJydUOEiq6IB"
-    },
-    {
-      "added_at": "2024-01-31 12:41:44",
-      "album": {
-        "name": "All These Things (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1m4JpY8QSuyeLk5L0ypRD1"
-      },
-      "artists": [
-        {
-          "name": "DC Gore",
-          "url": "https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6"
-        },
-        {
-          "name": "Raf Rundell",
-          "url": "https://open.spotify.com/artist/3ndq9cOqNc3DEQOBsO10DG"
-        }
-      ],
-      "duration_ms": 352709,
-      "name": "Nietzsche on the Beach - Raf Rundell Remix",
-      "url": "https://open.spotify.com/track/1yMkWzGdFnyyL4We4Vqbvu"
-    },
-    {
-      "added_at": "2024-01-31 12:41:44",
-      "album": {
-        "name": "Swan Song (Original Score)",
-        "url": "https://open.spotify.com/album/1MqdekNvsg1MCVV6QSKUhw"
-      },
-      "artists": [
-        {
-          "name": "Austra",
-          "url": "https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g"
-        },
-        {
-          "name": "Katie Austra Stelmanis",
-          "url": "https://open.spotify.com/artist/1YGbmqX8wyAWaFHe2c4rLi"
-        }
-      ],
-      "duration_ms": 170674,
-      "name": "Jurgita\u2019s Theme",
-      "url": "https://open.spotify.com/track/7n8IOvKlfpcd7yakNTnSPN"
-    },
-    {
-      "added_at": "2024-01-31 12:41:44",
-      "album": {
-        "name": "Hands Of Man",
-        "url": "https://open.spotify.com/album/3LzI2gXTQQ96VtaC2NYXF2"
-      },
-      "artists": [
-        {
-          "name": "Ugly (UK)",
-          "url": "https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf"
-        }
-      ],
-      "duration_ms": 305034,
-      "name": "Hands Of Man",
-      "url": "https://open.spotify.com/track/6FrW7htz75AtmZJZk59BEv"
-    },
-    {
-      "added_at": "2024-01-31 12:41:44",
-      "album": {
-        "name": "If Tomorrow Starts Without Me",
-        "url": "https://open.spotify.com/album/5r46cTa9GikApU5wqudbgi"
-      },
-      "artists": [
-        {
-          "name": "Bill Ryder-Jones",
-          "url": "https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4"
-        }
-      ],
-      "duration_ms": 186266,
-      "name": "If Tomorrow Starts Without Me",
-      "url": "https://open.spotify.com/track/5PH9ltMSmTtgnfTNCfuDao"
     }
   ],
   "unique_name": "Domino Sound System",

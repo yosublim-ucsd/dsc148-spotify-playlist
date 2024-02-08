@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 12765,
+  "num_followers": 12778,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmQxMjcxOGJmMWQxZTljYTAwYzg3ZTZkYjhjOGFlNTkxMDJlYjgy",
+  "snapshot_id": "MCw1ZjFhNDY5NTg0OWFhOTMyNDAwNWFkZmY0NTdhYjNhYWY2N2YyOGZl",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Love Is the Voice",
+        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
+      },
+      "artists": [
+        {
+          "name": "The Taylors",
+          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
+        }
+      ],
+      "duration_ms": 165613,
+      "name": "God, Do it Again",
+      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "You Are More",
         "url": "https://open.spotify.com/album/0HpHgwxC0aBokDhE018SUO"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 208893,
       "name": "Matchless (feat. Point Of Grace)",
       "url": "https://open.spotify.com/track/1iiheCt1EQk8br6NV3f7Y1"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Love Is the Voice",
-        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
-      },
-      "artists": [
-        {
-          "name": "The Taylors",
-          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
-        }
-      ],
-      "duration_ms": 165613,
-      "name": "God, Do it Again",
-      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Thief In The Night",
-        "url": "https://open.spotify.com/album/7AfTSlpi35PwEvxGY0otef"
+        "name": "He Touched Me",
+        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
       },
       "artists": [
         {
-          "name": "Joseph Habedank",
-          "url": "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
+          "name": "The Singing Contractors",
+          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
         }
       ],
-      "duration_ms": 247066,
-      "name": "Thief in the Night",
-      "url": "https://open.spotify.com/track/4oScvPoK3ryJ1uzpt4Giw7"
+      "duration_ms": 207440,
+      "name": "He Touched Me",
+      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -891,34 +891,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "He Touched Me",
-        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
+        "name": "Thief In The Night",
+        "url": "https://open.spotify.com/album/7AfTSlpi35PwEvxGY0otef"
       },
       "artists": [
         {
-          "name": "The Singing Contractors",
-          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
+          "name": "Joseph Habedank",
+          "url": "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
         }
       ],
-      "duration_ms": 207440,
-      "name": "He Touched Me",
-      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "I Have God to Thank for Everything",
-        "url": "https://open.spotify.com/album/2GCDQ5nQ3FIhaQnGfzlpgJ"
-      },
-      "artists": [
-        {
-          "name": "The Inspirations",
-          "url": "https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3"
-        }
-      ],
-      "duration_ms": 168058,
-      "name": "I Have God to Thank for Everything",
-      "url": "https://open.spotify.com/track/0ecJwqxF2KxcYHiwzi23Tk"
+      "duration_ms": 247066,
+      "name": "Thief in the Night",
+      "url": "https://open.spotify.com/track/4oScvPoK3ryJ1uzpt4Giw7"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -935,6 +919,22 @@
       "duration_ms": 178546,
       "name": "King of Kings",
       "url": "https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "I Have God to Thank for Everything",
+        "url": "https://open.spotify.com/album/2GCDQ5nQ3FIhaQnGfzlpgJ"
+      },
+      "artists": [
+        {
+          "name": "The Inspirations",
+          "url": "https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3"
+        }
+      ],
+      "duration_ms": 168058,
+      "name": "I Have God to Thank for Everything",
+      "url": "https://open.spotify.com/track/0ecJwqxF2KxcYHiwzi23Tk"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6"
-      },
-      "artists": [
-        {
-          "name": "Kingsmen",
-          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
-        }
-      ],
-      "duration_ms": 198099,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Give Me Jesus",
         "url": "https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 231066,
       "name": "Cast My Care",
       "url": "https://open.spotify.com/track/5DFuyhTAYErvppuImjKHvo"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6"
+      },
+      "artists": [
+        {
+          "name": "Kingsmen",
+          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
+        }
+      ],
+      "duration_ms": 198099,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y"
     },
     {
       "added_at": "2023-04-14 06:27:38",

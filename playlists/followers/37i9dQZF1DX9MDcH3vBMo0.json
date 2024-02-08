@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 247587,
+  "2024-02-08": 247810,
   "date_first_scraped": "2022-07-19",
   "description": "Una bella banda sonora que acompa\u00f1ar\u00e1 tu tiempo de lectura.",
   "name": "M\u00fasica para Leer",
@@ -1799,7 +1799,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 213904,
       "name": "Crystal Depths",
       "url": "https://open.spotify.com/track/1Yyi70Exy9YlfKn6o0ciSO"
@@ -6336,6 +6336,24 @@
     },
     {
       "album": {
+        "name": "Mellow Moonlit Melody",
+        "url": "https://open.spotify.com/album/66C59BnUX617aAMbRux3Nu"
+      },
+      "artists": [
+        {
+          "name": "Giovanna Petrini",
+          "url": "https://open.spotify.com/artist/25Bpq4sqHbHT853VsYM9wb"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161391,
+      "name": "Mellow Moonlit Melody",
+      "url": "https://open.spotify.com/track/3f0kAErxdkQiZpXmTufdLd"
+    },
+    {
+      "album": {
         "name": "Melody For Myself",
         "url": "https://open.spotify.com/album/57UJoke1p1S026JCo6eOPx"
       },
@@ -7323,7 +7341,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 159705,
       "name": "Once",
       "url": "https://open.spotify.com/track/5GaveEKpBohYBe6liGnTpT"
@@ -8515,6 +8533,24 @@
       "duration_ms": 179500,
       "name": "Refraction",
       "url": "https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8"
+    },
+    {
+      "album": {
+        "name": "Regarde les flammes danser",
+        "url": "https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131960,
+      "name": "Regarde les flammes danser",
+      "url": "https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi"
     },
     {
       "album": {

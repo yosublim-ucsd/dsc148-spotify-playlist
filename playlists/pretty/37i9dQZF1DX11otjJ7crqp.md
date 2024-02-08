@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Camilyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,329 likes - 135 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,377 likes - 135 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 20 | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo) | 3:01 |
 | 21 | [Enough of Me](https://open.spotify.com/track/5ypUyCDoZp66D7TagjnJhq) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Enough of Me](https://open.spotify.com/album/0M9JDqqqxKkFyd2WWRsd8C) | 2:28 |
 | 22 | [Die Hard](https://open.spotify.com/track/6JvTYy9oatptCA55YVy5Po) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Die Hard](https://open.spotify.com/album/19DsnNT2VSWjO09YEnhzdC) | 2:59 |
-| 23 | [IT GIRL \(Fan Remix\) \(feat\. Ve'ondre\)](https://open.spotify.com/track/2HonL5dY8y40KNoj1lnWTq) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545), [Ve'Ondre](https://open.spotify.com/artist/6AGiiymc14KiMOVzn0RBn6) | [IT GIRL \(Fan Remix\) \(feat\. Ve'ondre\)](https://open.spotify.com/album/0TKw3hsXMgdr7t2pe0M8we) | 2:34 |
+| 23 | [IT GIRL \(Fan Remix\) \(feat\. Ve'ondre\)](https://open.spotify.com/track/2HonL5dY8y40KNoj1lnWTq) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545), [Ve'ondre](https://open.spotify.com/artist/6AGiiymc14KiMOVzn0RBn6) | [IT GIRL \(Fan Remix\) \(feat\. Ve'ondre\)](https://open.spotify.com/album/0TKw3hsXMgdr7t2pe0M8we) | 2:34 |
 | 24 | [Last Man Standing](https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Last Man Standing](https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP) | 3:03 |
 | 25 | [The Day The World Blows Up](https://open.spotify.com/track/77Udo57rOy0NMI6mpHY54p) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [The Day The World Blows Up](https://open.spotify.com/album/1dzMVPZCoyJcbzjVJUI11y) | 4:01 |
 | 26 | [like i used to](https://open.spotify.com/track/1RoBUQ0gt9T4cff4xQflq3) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [unfamiliar, like i used to](https://open.spotify.com/album/4suJEX0wCdoExjzxVZFkso) | 2:35 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 134 | [ADHD](https://open.spotify.com/track/3i3yFaIwk9ATfh20Jq9UX0) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [ADHD](https://open.spotify.com/album/0AEsYY4W8qjXwLpyd8SmAM) | 2:55 |
 | 135 | [Skin](https://open.spotify.com/track/3Jeo5LzCcMBtdFlp1FqpsN) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Skin](https://open.spotify.com/album/3l3z8fcI2FMAcCMq1wcd3E) | 3:35 |
 
-Snapshot ID: `MCwwZWM5ZmViYjJmNTI2ZWM1ODFjNzUzZmU0YmNkMmEwOTc2ODY5NzRi`
+Snapshot ID: `MCxmYzNmMGFmYTk4ZmVjMmI0OTU0ZjNiMzFkNzdkZTEzNWNmNmU4ZDc4`

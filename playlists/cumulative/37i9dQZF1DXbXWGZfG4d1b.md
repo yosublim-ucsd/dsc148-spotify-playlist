@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 | 2022-07-01 |  |
+| [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 | 2022-07-01 | 2024-02-08 |
 | [5.50](https://open.spotify.com/track/5Qzd02IfWH9afRgik7N5pa) | [Ciudad Mansa](https://open.spotify.com/artist/095uXu0mnumMlq9upurkX2) | [5.50 / Esto es todo](https://open.spotify.com/album/4dlkaPMJVi1S9PhJaunyXT) | 3:45 | 2022-07-01 | 2022-07-29 |
 | [5A](https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Comprensión1](https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut) | 2:25 | 2022-07-01 |  |
 | [800 Vueltas Envolventes](https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7) | [Juan Mango](https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I) | [Ochocientos Envolventes al Sol](https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po) | 4:10 | 2022-07-01 |  |
@@ -245,7 +245,7 @@
 | [Julia](https://open.spotify.com/track/5t7sGOswn980bSMcXw4YTv) | [Salvador García](https://open.spotify.com/artist/2b3MB5Eq02nH2iCvNU88wT) | [Julia](https://open.spotify.com/album/6NtzL5k6Ao2GmSaKXTci6H) | 2:26 | 2022-07-01 | 2022-07-08 |
 | [Junto Boludeces](https://open.spotify.com/track/2i1PztLepuClGgWaNH3wec) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:25 | 2023-07-28 |  |
 | [L'ultimo Gesto Di Liberazzione](https://open.spotify.com/track/7L2wpUGXwANKyfloRG1Uen) | [She Devils](https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7) | [La Piel Dura](https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG) | 2:01 | 2022-07-15 | 2022-07-20 |
-| [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-01 | 2024-02-06 |
+| [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-01 |  |
 | [La Bruma](https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [La Bruma](https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp) | 2:53 | 2023-03-03 | 2023-08-26 |
 | [La Cascada de Tu Pelo Enredado](https://open.spotify.com/track/0WatuYSspFciyN3u60zJ76) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [Copia Viva](https://open.spotify.com/album/16Ds6fYMwSXXOlSEKHl8fg) | 3:16 | 2022-06-03 | 2023-06-10 |
 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 | 2022-06-03 |  |

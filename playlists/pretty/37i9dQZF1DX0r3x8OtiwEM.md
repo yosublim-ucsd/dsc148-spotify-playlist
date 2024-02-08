@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,081 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,241 likes - 60 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Home \- Mind Against Remix](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Home \(Mind Against Remix\)](https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3) | 7:17 |
 | 60 | [The Future](https://open.spotify.com/track/1e806Bcl0zWAr4Q3YhaMJD) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Goatchy](https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh), [Frank Sonic](https://open.spotify.com/artist/3VyBzVPO0uq9bqgVeDyPmR) | [The Future](https://open.spotify.com/album/0j9b4LarSNfTyScEtGwyAF) | 3:31 |
 
-Snapshot ID: `MCxhOTZlN2E0OTBjNmUwMjEwMzg5MDU0NDRkMWU2MTVmMjVmNzAyODJj`
+Snapshot ID: `MCxlY2VkNGNkNWJkMDQwMDMzNjIzYzhiOTAxZGFkMGU3MTI5NDQ3YWFi`

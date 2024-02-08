@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,290 likes - 51 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,286 likes - 51 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 43 | [A Culpa É das Igrejas / Sinais](https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Culpa É das Igrejas / Sinais](https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W) | 4:07 |
 | 44 | [Hey Boy](https://open.spotify.com/track/7opmuePHHDBml8hNvrza4R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Do Caos ao Nirvana](https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43) | 3:05 |
 | 45 | [Tiffany](https://open.spotify.com/track/6ee2iBWXIUgfzQrSbk1mwk) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Tiffany](https://open.spotify.com/album/4ksjeDtwyGRzn8xvBeabae) | 2:59 |
-| 46 | [Regai](https://open.spotify.com/track/4S3Ek7UvV9rMEaR6Xo5m9a) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Sol](https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo) | 3:33 |
+| 46 | [Lambada](https://open.spotify.com/track/0mVt6wggA6Y9XuGpCVfVzE) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Sol](https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo) | 3:47 |
 | 47 | [Chão de Vidro](https://open.spotify.com/track/3TkVm1xeOfmc0M7ZAkXeT7) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Chão de Vidro](https://open.spotify.com/album/6rOgL3alQJ2UQj8BkfZW4r) | 2:15 |
 | 48 | [Me Deixa](https://open.spotify.com/track/7nmPP9MYKOhDZa8eQP4pMY) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Me Deixa](https://open.spotify.com/album/1rnBqFFqGQz5rJn0sIGDPk) | 3:56 |
-| 49 | [Não Vou Insistir](https://open.spotify.com/track/382CvsTyFK8MemBGng0k66) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:22 |
-| 50 | [Lambada](https://open.spotify.com/track/0mVt6wggA6Y9XuGpCVfVzE) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Sol](https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo) | 3:47 |
-| 51 | [A Cura Tá no Coração](https://open.spotify.com/track/35ZFS434PZDDofT9AXK62y) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Cura Tá no Coração](https://open.spotify.com/album/2kbAHf5ae9v2LWfWup43QH) | 3:48 |
+| 49 | [A Cura Tá no Coração](https://open.spotify.com/track/35ZFS434PZDDofT9AXK62y) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Cura Tá no Coração](https://open.spotify.com/album/2kbAHf5ae9v2LWfWup43QH) | 3:48 |
+| 50 | [Regai](https://open.spotify.com/track/4S3Ek7UvV9rMEaR6Xo5m9a) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Sol](https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo) | 3:33 |
+| 51 | [Não Vou Insistir](https://open.spotify.com/track/382CvsTyFK8MemBGng0k66) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:22 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA5YzlkMWRiMTZlY2JjZjk5OWM3Mjc4ZDY1NzkxMGEyYg==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDA5NTc2NGY3OTYxMThjZGIwMGNhNWQ5NjU1ZjY0YTFhMw==`

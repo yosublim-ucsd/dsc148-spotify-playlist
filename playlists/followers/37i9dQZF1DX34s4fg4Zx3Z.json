@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 21544,
+  "2024-02-08": 21545,
   "date_first_scraped": "2022-01-09",
   "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: Puppy",
   "name": "Fresh Finds Vietnam",
@@ -24665,10 +24665,28 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 249600,
       "name": "Tr\u01b0\u1edbc Hi\u00ean Nh\u00e0",
       "url": "https://open.spotify.com/track/7G4ObIxqxACqtfcL5x7lCB"
+    },
+    {
+      "album": {
+        "name": "Tr\u01b0\u1edbc Hi\u00ean Nh\u00e0",
+        "url": "https://open.spotify.com/album/0AqMln9QULVgM9oPIotT7W"
+      },
+      "artists": [
+        {
+          "name": "NamKun",
+          "url": "https://open.spotify.com/artist/4j8ovS4KtDcGGvVq0dd51G"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249614,
+      "name": "Tr\u01b0\u1edbc Hi\u00ean Nh\u00e0",
+      "url": "https://open.spotify.com/track/7cbXysgGp09gHKKdUdnedW"
     },
     {
       "album": {

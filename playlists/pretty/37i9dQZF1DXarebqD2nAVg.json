@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 445605,
+  "num_followers": 445644,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDYzZmViY2Q3Yjk1OTY1ZjJhN2I2MzY0NmQ4MmJjNjM2MWVkNGQ2",
+  "snapshot_id": "MCwzNWRjMmI2MTlhMDRhYjVkOWZkOTM1MjIzMGE3OWE3ZTc3ZTA2YWQ4",
   "tracks": [
     {
       "added_at": "2024-02-01 14:34:43",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-02-01 14:34:43",
       "album": {
-        "name": "Distant",
-        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
-      },
-      "artists": [
-        {
-          "name": "w00ds",
-          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
-        }
-      ],
-      "duration_ms": 144892,
-      "name": "Distant",
-      "url": "https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0"
-    },
-    {
-      "added_at": "2024-02-01 14:34:43",
-      "album": {
         "name": "nobody else",
         "url": "https://open.spotify.com/album/3aHZpDjLZLWpGD9qJyFPAW"
       },
@@ -1087,22 +1071,6 @@
       "duration_ms": 90201,
       "name": "Woozy",
       "url": "https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey"
-    },
-    {
-      "added_at": "2024-02-01 14:34:43",
-      "album": {
-        "name": "Distant",
-        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
-      },
-      "artists": [
-        {
-          "name": "w00ds",
-          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
-        }
-      ],
-      "duration_ms": 121672,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ"
     },
     {
       "added_at": "2024-02-01 14:34:43",
@@ -1243,6 +1211,38 @@
       "duration_ms": 116428,
       "name": "memories of u",
       "url": "https://open.spotify.com/track/64VWsh5helyoWopibmzXmf"
+    },
+    {
+      "added_at": "2024-02-01 14:34:43",
+      "album": {
+        "name": "Distant",
+        "url": "https://open.spotify.com/album/75jB03qghdIosSpN3z8QSF"
+      },
+      "artists": [
+        {
+          "name": "w00ds",
+          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
+        }
+      ],
+      "duration_ms": 121672,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/2e8imHlD10TXnYsL72zEe0"
+    },
+    {
+      "added_at": "2024-02-01 14:34:43",
+      "album": {
+        "name": "Distant",
+        "url": "https://open.spotify.com/album/75jB03qghdIosSpN3z8QSF"
+      },
+      "artists": [
+        {
+          "name": "w00ds",
+          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
+        }
+      ],
+      "duration_ms": 144892,
+      "name": "Distant",
+      "url": "https://open.spotify.com/track/0sUh3Wq1Gf8K47d1E7BrtG"
     }
   ],
   "unique_name": "sad lofi",

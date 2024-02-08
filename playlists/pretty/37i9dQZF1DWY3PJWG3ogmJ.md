@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,800 likes - 120 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,054 likes - 120 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 32 | [Visions in My Head](https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Inked in Blood \(Deluxe Version\)](https://open.spotify.com/album/4t3LpnsYsu1RBOwHkmwh8k) | 4:14 |
 | 33 | [To the Threshold](https://open.spotify.com/track/3y2p2XXpgw5QHxKmokQEHQ) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Supremacy](https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky) | 2:49 |
 | 34 | [The Truest Love](https://open.spotify.com/track/0bQQFw0ODv0XVqrquk0CDQ) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Absolute](https://open.spotify.com/album/38mLnAiZLCLqUjs4DzOZdG) | 3:51 |
-| 35 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 |
-| 36 | [Pressure Point](https://open.spotify.com/track/1ZlOfxQ36tb3fYHU8DYbDv) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [The Ghost Inside](https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z) | 3:50 |
+| 35 | [Pressure Point](https://open.spotify.com/track/1ZlOfxQ36tb3fYHU8DYbDv) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [The Ghost Inside](https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z) | 3:50 |
+| 36 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 |
 | 37 | [Earth Scar](https://open.spotify.com/track/6ELePWpAnvr6YueTV3JlIu) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc) | [Anticult](https://open.spotify.com/album/0hW5Ys2f00hVcetT2aQdnJ) | 5:09 |
 | 38 | [Hornet's Nest](https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Hornet's Nest](https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB) | 4:39 |
 | 39 | [Underneath the Scars](https://open.spotify.com/track/08YwIGFDmY2FjeY05kgUmX) | [Kataklysm](https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM) | [Unconquered](https://open.spotify.com/album/5akcoD7tDHbQMQXEbyxD1U) | 3:46 |
@@ -100,10 +100,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 90 | [Demon King](https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Demon King](https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC) | 3:55 |
 | 91 | [Smile Now Pay Later](https://open.spotify.com/track/2qubO22BwvgFwR0Rw5G0be) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [For the Cause](https://open.spotify.com/album/4LBgCtcdVp8hBBRDdwJaZk) | 3:31 |
 | 92 | [Remnants in Time](https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Days Before the World Wept](https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms) | 4:53 |
-| 93 | [Playing the Victim](https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b) | [Blood Youth](https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb) | [Playing the Victim](https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe) | 3:46 |
-| 94 | [Collapse](https://open.spotify.com/track/6aleU9GhOnPe1HG9AJatiO) | [Heart Of A Coward](https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ) | [Collapse](https://open.spotify.com/album/4FcLJo4ZoD6oq9vg5gZJmO) | 4:40 |
-| 95 | [At War with Love](https://open.spotify.com/track/5FQWkrXcQjbmTVgVWnP0Ed) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [Realigion](https://open.spotify.com/album/4afXSzVyWCZMHFAuJdwG4R) | 3:33 |
-| 96 | [Ultimate Annihilation](https://open.spotify.com/track/6BLUdAwlEmU5sfwfacFtYr) | [Suburban Scum](https://open.spotify.com/artist/4PX5P76qLDOsy7XcouV7gy) | [Ultimate Annihilation](https://open.spotify.com/album/0c52tQwYwDQh3dbmx4teFV) | 2:21 |
+| 93 | [Ultimate Annihilation](https://open.spotify.com/track/6BLUdAwlEmU5sfwfacFtYr) | [Suburban Scum](https://open.spotify.com/artist/4PX5P76qLDOsy7XcouV7gy) | [Ultimate Annihilation](https://open.spotify.com/album/0c52tQwYwDQh3dbmx4teFV) | 2:21 |
+| 94 | [Playing the Victim](https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b) | [Blood Youth](https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb) | [Playing the Victim](https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe) | 3:46 |
+| 95 | [Collapse](https://open.spotify.com/track/6aleU9GhOnPe1HG9AJatiO) | [Heart Of A Coward](https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ) | [Collapse](https://open.spotify.com/album/4FcLJo4ZoD6oq9vg5gZJmO) | 4:40 |
+| 96 | [At War with Love](https://open.spotify.com/track/5FQWkrXcQjbmTVgVWnP0Ed) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [Realigion](https://open.spotify.com/album/4afXSzVyWCZMHFAuJdwG4R) | 3:33 |
 | 97 | [The American Dream](https://open.spotify.com/track/0cJBr06QAVjv65hwrK90AU) | [Walls of Jericho](https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU) | [The American Dream](https://open.spotify.com/album/0rtM1oLaYxWaDw3UMVaiL4) | 3:16 |
 | 98 | [Decompose](https://open.spotify.com/track/4xsSWQqdMLBRUoZny0yroT) | [Cruel Hand](https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV) | [Your World Won't Listen](https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh) | 2:27 |
 | 99 | [Born Strong](https://open.spotify.com/track/16wLPRzPx8ONlpcWXhfaDa) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf), [Candace Puopolo](https://open.spotify.com/artist/3BOP0fc3lpqgh98UmbFgUD) | [Hardcore Lives](https://open.spotify.com/album/2R3IsS5NZeuzJLArHioMDl) | 2:13 |
@@ -124,9 +124,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 114 | [Poverty of Self](https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Poverty of Self](https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU) | 3:25 |
 | 115 | [Verminous](https://open.spotify.com/track/5L00SssgkYwcf0kpeTglvW) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Verminous](https://open.spotify.com/album/1oETXGGo51UKqOW4huyJjd) | 3:49 |
 | 116 | [Apostle](https://open.spotify.com/track/77j8ymzT23ZT1hnclyp5Xh) | [Reign Supreme](https://open.spotify.com/artist/69JlpHslR9eFL9k4Ze403e) | [Testing the Limits of Infinite](https://open.spotify.com/album/3vSYllgoXST4Tee5QbGiOw) | 3:13 |
-| 117 | [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 |
-| 118 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 |
+| 117 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 |
+| 118 | [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 |
 | 119 | [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 |
 | 120 | [Title Fight](https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA) | [We Are The Flesh](https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q) | [Title Fight](https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg) | 3:56 |
 
-Snapshot ID: `MCw5NDVlYzBhMDA4Mzg2ZjNmYzMxOGUzMzg5ZDNhNWE1Yjk2NzY0MWEz`
+Snapshot ID: `MCwxZjU5NWY3YzAwM2IxMjI5NDliYzIxNWUwOGMzOGQwM2MyNWFhNzA1`

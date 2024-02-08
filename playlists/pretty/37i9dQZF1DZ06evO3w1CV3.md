@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 
 > This is Joy Crookes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,814 likes - 28 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,822 likes - 28 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 | 27 | [Lover Don't](https://open.spotify.com/track/4cbumWU9TeBFWkeqK7i8hy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:37 |
 | 28 | [Wild Jasmine](https://open.spotify.com/track/02AtJRkWiLd5rl0oFjSxhR) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:35 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDBjZmU3YzY3MmRmN2I4NTkxNDA0MjVmNTkyY2NmOGZjOQ==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDA2YzlkMGM1ZmU2NTMwMTM1M2YzZGIzNzc3NjIwYWQ2MQ==`

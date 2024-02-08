@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 29,148 likes - 40 songs - 2 hr 39 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 29,156 likes - 41 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 38 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 |
 | 39 | [Vast Oceans, Empty Skies](https://open.spotify.com/track/6Vxm5h0BxHdwM5oBMhTi3E) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW) | [Vast Oceans, Empty Skies](https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI) | 4:20 |
 | 40 | [24 hours](https://open.spotify.com/track/3S8woPykjDBaUhmi2o0Ti0) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [24 hours](https://open.spotify.com/album/6YEXnjflOIF7g0PghPnuAe) | 3:38 |
+| 41 | [Real Hot n Naughty](https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Felix Mufti](https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN) | [Real Hot n Naughty](https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa) | 3:34 |
 
-Snapshot ID: `MzYyMixkYjUwY2ExNzBhNTU4NjcxMDgzZjQ4OWYyYWNiM2UzYWU0YzRlYjEx`
+Snapshot ID: `MzYyMywyMDlkN2MwNmQwNWNhMzFjZmYwMGJmMjYwOGNmNzFmNzExMjc2NjQ0`

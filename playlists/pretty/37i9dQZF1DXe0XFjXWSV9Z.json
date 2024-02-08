@@ -1,12 +1,12 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 42140,
+  "num_followers": 42148,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTM1Nzg4MDkyYjIzNTc5NzgxNDNmNTdjZGY5MWI1YTllNmVmOGJj",
+  "snapshot_id": "MCxjODExYjE3NTJlOWFkMzY4OWViNjkwMjdhNmFlOTJkMTQ2YzQ4MTFk",
   "tracks": [
     {
       "added_at": "2023-12-12 18:56:56",
@@ -141,20 +141,20 @@
       "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
+      "added_at": "2023-01-02 20:03:21",
       "album": {
-        "name": "Safe Passage",
-        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
+        "name": "Let the Festivities Begin!",
+        "url": "https://open.spotify.com/album/4R3BesBG4MgLth7TwqzHmO"
       },
       "artists": [
         {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
         }
       ],
-      "duration_ms": 214553,
-      "name": "Chicha Nola - Alternative Version",
-      "url": "https://open.spotify.com/track/66IrwRUKnmMPiYpBfEGYCm"
+      "duration_ms": 202133,
+      "name": "Pista (Fresh Start)",
+      "url": "https://open.spotify.com/track/36GzQOUolkwjdrMyHGRNkR"
     },
     {
       "added_at": "2023-10-23 23:52:16",
@@ -175,6 +175,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 214553,
+      "name": "Chicha Nola - Alternative Version",
+      "url": "https://open.spotify.com/track/66IrwRUKnmMPiYpBfEGYCm"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Cumbia del Monte Fuji",
         "url": "https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 264842,
       "name": "Cumbia del Monte Fuji",
       "url": "https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT"
-    },
-    {
-      "added_at": "2023-01-02 20:03:21",
-      "album": {
-        "name": "Let the Festivities Begin!",
-        "url": "https://open.spotify.com/album/4R3BesBG4MgLth7TwqzHmO"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "Pista (Fresh Start)",
-      "url": "https://open.spotify.com/track/36GzQOUolkwjdrMyHGRNkR"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -353,22 +353,6 @@
       "url": "https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Los Orientales de Paramonga",
-        "url": "https://open.spotify.com/album/5vKNkmVM7uDQzx1C99I0Vy"
-      },
-      "artists": [
-        {
-          "name": "Los Orientales de Paramonga",
-          "url": "https://open.spotify.com/artist/6XpyhLSGgaliI2y0nYcD1c"
-        }
-      ],
-      "duration_ms": 151365,
-      "name": "Lobos al Escape",
-      "url": "https://open.spotify.com/track/2UMTGUu66hP2dW3rvQJIgL"
-    },
-    {
       "added_at": "2022-02-15 01:43:41",
       "album": {
         "name": "Let the Festivities Begin!",
@@ -383,6 +367,22 @@
       "duration_ms": 228360,
       "name": "The Link Is About to Die",
       "url": "https://open.spotify.com/track/4IZYR8grCH5snauh6rQFbV"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Los Orientales de Paramonga",
+        "url": "https://open.spotify.com/album/5vKNkmVM7uDQzx1C99I0Vy"
+      },
+      "artists": [
+        {
+          "name": "Los Orientales de Paramonga",
+          "url": "https://open.spotify.com/artist/6XpyhLSGgaliI2y0nYcD1c"
+        }
+      ],
+      "duration_ms": 151365,
+      "name": "Lobos al Escape",
+      "url": "https://open.spotify.com/track/2UMTGUu66hP2dW3rvQJIgL"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Arroz con coco (Remastered)",
+        "url": "https://open.spotify.com/album/211Z7MBXhzAw6xyITuUIj2"
+      },
+      "artists": [
+        {
+          "name": "Lucho Berm\u00fadez",
+          "url": "https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0"
+        }
+      ],
+      "duration_ms": 147097,
+      "name": "Arroz con coco - Remastered",
+      "url": "https://open.spotify.com/track/5oRqpLr600Qy8rMypM7foD"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Canoga Madness",
         "url": "https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Arroz con coco (Remastered)",
-        "url": "https://open.spotify.com/album/211Z7MBXhzAw6xyITuUIj2"
-      },
-      "artists": [
-        {
-          "name": "Lucho Berm\u00fadez",
-          "url": "https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0"
-        }
-      ],
-      "duration_ms": 147097,
-      "name": "Arroz con coco - Remastered",
-      "url": "https://open.spotify.com/track/5oRqpLr600Qy8rMypM7foD"
     },
     {
       "added_at": "2022-01-14 04:25:25",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Je pense \u00e0 toi",
-        "url": "https://open.spotify.com/album/5fpZTDvA6fsMMJLhEauucz"
+        "name": "Echoes of Japan (\u30a8\u30b3\u30fc\u30ba\u30fb\u30aa\u30d6\u30fb\u30b8\u30e3\u30d1\u30f3)",
+        "url": "https://open.spotify.com/album/31P3YJyfhO17lDcfVXWCZm"
       },
       "artists": [
         {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+          "name": "Minyo Crusaders",
+          "url": "https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG"
         }
       ],
-      "duration_ms": 272590,
-      "name": "Je Pense \u00e0 Toi",
-      "url": "https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy"
+      "duration_ms": 304173,
+      "name": "Kushimoto Bushi - Cumbia",
+      "url": "https://open.spotify.com/track/1pKIAVQB87sNjHtC4oLexv"
     },
     {
       "added_at": "2022-11-18 17:45:57",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Echoes of Japan (\u30a8\u30b3\u30fc\u30ba\u30fb\u30aa\u30d6\u30fb\u30b8\u30e3\u30d1\u30f3)",
-        "url": "https://open.spotify.com/album/31P3YJyfhO17lDcfVXWCZm"
+        "name": "Je pense \u00e0 toi",
+        "url": "https://open.spotify.com/album/5fpZTDvA6fsMMJLhEauucz"
       },
       "artists": [
         {
-          "name": "Minyo Crusaders",
-          "url": "https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG"
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
         }
       ],
-      "duration_ms": 304173,
-      "name": "Kushimoto Bushi - Cumbia",
-      "url": "https://open.spotify.com/track/1pKIAVQB87sNjHtC4oLexv"
+      "duration_ms": 272590,
+      "name": "Je Pense \u00e0 Toi",
+      "url": "https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy"
     },
     {
       "added_at": "2023-02-28 04:34:35",
@@ -1573,22 +1573,6 @@
       "url": "https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt"
     },
     {
-      "added_at": "2022-09-30 03:44:30",
-      "album": {
-        "name": "Formose\u00f1a",
-        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Ag\u00fcita de Manantial",
-      "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Guadalupe",
@@ -1603,6 +1587,22 @@
       "duration_ms": 204705,
       "name": "Guadalupe",
       "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
+    },
+    {
+      "added_at": "2022-09-30 03:44:30",
+      "album": {
+        "name": "Formose\u00f1a",
+        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Ag\u00fcita de Manantial",
+      "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "De La Canci\u00f3n",
-        "url": "https://open.spotify.com/album/34uQVGKZI1DNPvBYiwHbch"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 186675,
-      "name": "Canci\u00f3n De Aplauso",
-      "url": "https://open.spotify.com/track/2w0cKLP7robukceZPSV2Ji"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "The Roots of Chicha 2",
         "url": "https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI"
       },
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Churro Vs. Crow",
-        "url": "https://open.spotify.com/album/2NoB2gHEQ3w0eqPhk9w16B"
+        "name": "De La Canci\u00f3n",
+        "url": "https://open.spotify.com/album/34uQVGKZI1DNPvBYiwHbch"
       },
       "artists": [
         {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
         }
       ],
-      "duration_ms": 202293,
-      "name": "Churro Vs. Crow",
-      "url": "https://open.spotify.com/track/3heeKBALUEBIlOBO6JZIWt"
+      "duration_ms": 186675,
+      "name": "Canci\u00f3n De Aplauso",
+      "url": "https://open.spotify.com/track/2w0cKLP7robukceZPSV2Ji"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1683,6 +1667,22 @@
       "duration_ms": 253909,
       "name": "Fantasmagor\u00eda",
       "url": "https://open.spotify.com/track/1UKdzeFMgUECS6bYGR1Jv6"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Churro Vs. Crow",
+        "url": "https://open.spotify.com/album/2NoB2gHEQ3w0eqPhk9w16B"
+      },
+      "artists": [
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        }
+      ],
+      "duration_ms": 202293,
+      "name": "Churro Vs. Crow",
+      "url": "https://open.spotify.com/track/3heeKBALUEBIlOBO6JZIWt"
     }
   ],
   "unique_name": "TROPILOCO",

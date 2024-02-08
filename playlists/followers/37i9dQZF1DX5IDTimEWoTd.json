@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 2581487,
+  "2024-02-08": 2581918,
   "date_first_scraped": "2019-07-29",
   "description": "Beautiful songs to give you that warm, fuzzy feeling.",
   "name": "Warm Fuzzy Feeling",
@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 209200,
       "name": "AMAZING",
       "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 173174,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2019-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 212720,
       "name": "Falling Like The Stars",
       "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
@@ -2144,7 +2144,7 @@
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 173427,
+      "duration_ms": 173426,
       "name": "IT'S YOU (feat. keshi)",
       "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
     },
@@ -2805,6 +2805,24 @@
       "duration_ms": 189613,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8"
+    },
+    {
+      "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
       "album": {

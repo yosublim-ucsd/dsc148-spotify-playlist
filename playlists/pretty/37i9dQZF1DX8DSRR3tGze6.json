@@ -1,12 +1,12 @@
 {
   "description": "Let these Latin hits guide you through your daily commute!",
-  "num_followers": 217905,
+  "num_followers": 217954,
   "original_name": "Latin Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjM5OWNlZmJlNzcyNzI3NGUzOTU4NjRjNTQ3MDRiOGRkMTI2NGVm",
+  "snapshot_id": "MCxmNmIyZDdlOWNjOTJjYWRhY2I4OWJhOTZmZWMxNDY2MWQxYjc5NjA3",
   "tracks": [
     {
       "added_at": "2024-02-04 07:34:15",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "un x100to",
-        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 194563,
-      "name": "un x100to",
-      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
         "name": "El Cielo",
         "url": "https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 191320,
       "name": "El Cielo",
       "url": "https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
+        "name": "un x100to",
+        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 194563,
+      "name": "un x100to",
+      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 164386,
+      "name": "MIENTRAS ME CURO DEL CORA",
+      "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 211879,
       "name": "REINA",
       "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 164386,
-      "name": "MIENTRAS ME CURO DEL CORA",
-      "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -1051,18 +1051,38 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "ESTRELLA",
-        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+        "name": "ASI ES LA VIDA",
+        "url": "https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5"
       },
       "artists": [
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 144427,
-      "name": "DONDE SE APRENDE A QUERER?",
-      "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
+      "duration_ms": 172095,
+      "name": "ASI ES LA VIDA",
+      "url": "https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
+        "name": "CORAZ\u00d3N VAC\u00cdO",
+        "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 160535,
+      "name": "CORAZ\u00d3N VAC\u00cdO",
+      "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -1087,22 +1107,6 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "CORAZ\u00d3N VAC\u00cdO",
-        "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 160535,
-      "name": "CORAZ\u00d3N VAC\u00cdO",
-      "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
         "name": "TQM",
         "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
       },
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "ASI ES LA VIDA",
-        "url": "https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5"
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
-      "duration_ms": 172095,
-      "name": "ASI ES LA VIDA",
-      "url": "https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn"
+      "duration_ms": 144427,
+      "name": "DONDE SE APRENDE A QUERER?",
+      "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "El Jefe",
-        "url": "https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 170297,
-      "name": "El Jefe",
-      "url": "https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
+        "name": "El Jefe",
+        "url": "https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 170297,
+      "name": "El Jefe",
+      "url": "https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -1303,22 +1303,22 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         },
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 231848,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -1343,22 +1343,22 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "Por el Resto de Tu Vida",
-        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         },
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         }
       ],
-      "duration_ms": 197476,
-      "name": "Por el Resto de Tu Vida",
-      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
+      "duration_ms": 231848,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "Mil Veces",
-        "url": "https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 154023,
-      "name": "Mil Veces",
-      "url": "https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
         "name": "Arranca (feat. Omega)",
         "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
+        "name": "Mil Veces",
+        "url": "https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 154023,
+      "name": "Mil Veces",
+      "url": "https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2024-02-04 07:34:15",

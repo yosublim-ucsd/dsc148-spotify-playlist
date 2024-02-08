@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNyI34Mf6r2.md) - [plain]
 
 > El toque que le faltaba a tu café.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,726 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,740 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNyI34Mf6r2.md) - [plain]
 | 11 | [Feeling Good](https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:54 |
 | 12 | [L\-O\-V\-E](https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:35 |
 | 13 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
-| 14 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 |
+| 14 | [Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [The Papas & The Mamas](https://open.spotify.com/album/0JJMI060q086v9ul5gHdey) | 3:14 |
 | 15 | [Time After Time \- Spotify Singles](https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Time After Time \(Spotify Singles\)](https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop) | 3:39 |
-| 16 | [Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [The Papas & The Mamas](https://open.spotify.com/album/0JJMI060q086v9ul5gHdey) | 3:14 |
+| 16 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 |
 | 17 | [Smokin Out The Window](https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:17 |
 | 18 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 |
 | 19 | [Turn Me On](https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 2:34 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNyI34Mf6r2.md) - [plain]
 | 64 | [Know How](https://open.spotify.com/track/6yIyrlTO06MAWqzSAEfjMh) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:58 |
 | 65 | [Corcovado](https://open.spotify.com/track/3ZhOHtPZ1JhDVFz4YaFqBn) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Composer Of Desafinado, Plays](https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A) | 2:25 |
 | 66 | [Bittersweet \- Radio Edit](https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Bittersweet \(Radio Edit\)](https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST) | 3:56 |
-| 67 | [Thinking Of You](https://open.spotify.com/track/5uWLuFDmMs1r44KFfUwWiA) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Lisa Tomlins](https://open.spotify.com/artist/6SisxwZsa3yQ3VTNGJ8AXR) | [Melodies](https://open.spotify.com/album/5gtaS4I65T2W5bIyFD2SEU) | 7:00 |
-| 68 | [La Vie en rose](https://open.spotify.com/track/6RKuyWarJu8SMrflntmyXx) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Eternelle](https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za) | 3:07 |
+| 67 | [La Vie en rose](https://open.spotify.com/track/6RKuyWarJu8SMrflntmyXx) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Eternelle](https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za) | 3:07 |
+| 68 | [Thinking Of You](https://open.spotify.com/track/5uWLuFDmMs1r44KFfUwWiA) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Lisa Tomlins](https://open.spotify.com/artist/6SisxwZsa3yQ3VTNGJ8AXR) | [Melodies](https://open.spotify.com/album/5gtaS4I65T2W5bIyFD2SEU) | 7:00 |
 | 69 | [Souled Out On You](https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:33 |
 | 70 | [Strange Fruit](https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:12 |
 | 71 | [Stella By Starlight \(feat\. John Coltrane & Bill Evans\)](https://open.spotify.com/track/4zxd4tiXPlWMqoJltbVTbE) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 4:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNyI34Mf6r2.md) - [plain]
 | 74 | [Can't We Be Friends?](https://open.spotify.com/track/22MsyWQ5WFGv8GXP7qmzDP) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE) | 3:47 |
 | 75 | [Everything Happens to Me](https://open.spotify.com/track/4Y5fyQ5fBysC32Na5sZT3J) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 5:05 |
 
-Snapshot ID: `MCxmNzdkODZmYjMyMGFkYzkxMGY3YmIwNGEwZTM1Mzg5MGEzOTliZjZh`
+Snapshot ID: `MCw3MTgwYmFjYzYwOGQwNWI4YzYyYjdjOTQ2M2U3ZDA1NzI5MjNmNDFm`

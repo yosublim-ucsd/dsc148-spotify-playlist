@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,965 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,971 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 3 | [Uy que miedo](https://open.spotify.com/track/1PsMejyv5k5cS24FNDuYy2) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [El Ritmo De Chico Che Y La Crisis](https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU) | 2:52 |
 | 4 | [Fiesta](https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Ni Juana la Cubana](https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw) | 2:51 |
 | 5 | [El Pipiripau](https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk) | [Los Plebeyos](https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a) | [Exitos Para Amanecer Bailando](https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz) | 2:04 |
-| 6 | [El Año Viejo](https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 3:02 |
-| 7 | [La Boa](https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 2:51 |
+| 6 | [La Boa](https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 2:51 |
+| 7 | [El Año Viejo](https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 3:02 |
 | 8 | [Quiéreme Sempre](https://open.spotify.com/track/2UkKWdjByMLTsxQDiP3XAc) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [Me Voy Para La Luna](https://open.spotify.com/album/37kARifCI57YAygnMjcyAZ) | 3:02 |
-| 9 | [Cumbia Caletera](https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Exitos De Billo's Caracas Boys](https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n) | 3:03 |
-| 10 | [Total](https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:54 |
+| 9 | [Total](https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:54 |
+| 10 | [Cumbia Caletera](https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Exitos De Billo's Caracas Boys](https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n) | 3:03 |
 | 11 | [Mambo No 5](https://open.spotify.com/track/6fJnlY8rYqC37J2u2OeEMf) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambo No 5](https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi) | 2:42 |
 | 12 | [Agüita De Melón](https://open.spotify.com/track/67RNKBsqRiyMOtor2RxfWR) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Se Nos Paso La Mano En Sabor](https://open.spotify.com/album/6oL9RVp9PRaVi7ldTgMErs) | 3:05 |
 | 13 | [Pollito Con Papas](https://open.spotify.com/track/6k8s5icx0itCEkcFOaZUuB) | [El Super Show De Los Vaskez](https://open.spotify.com/artist/5RN0qzNnwv5WsXSNiDjuio) | [3 En 1 Super Show De Los Vaskez](https://open.spotify.com/album/5sFWeLEilmm41a93FXouql) | 2:52 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 43 | [Que Rico Mambo](https://open.spotify.com/track/65KQTYQiwd2kZSmGxpfZs0) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Que Rico Mambo](https://open.spotify.com/album/3rzBUm3IuhOIYHHKAJtu9l) | 3:56 |
 | 44 | [Vereda Tropical](https://open.spotify.com/track/6lno3T1Mgtr2Xt28nWVmUP) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:11 |
 | 45 | [El Cha Cha Cha de los Borrachitos](https://open.spotify.com/track/3TGYtWgHY0KjnrUiHGcvYC) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:01 |
-| 46 | [Campanario](https://open.spotify.com/track/2zPOyiVqfcMmTyG3hi5Sen) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Algo Nuevo en Danzon](https://open.spotify.com/album/7ACakhlXywfd8Uvv2HAOEP) | 3:42 |
-| 47 | [Corazón De Melón](https://open.spotify.com/track/3xKuJ7DZeu7CwMIqjGakgx) | [Ramon Marquez](https://open.spotify.com/artist/7MBfHtO5xhuBx6qK0mWb4m) | [Corazón De Melón](https://open.spotify.com/album/4UvgmY4FJnJNVBF2165wR6) | 2:57 |
+| 46 | [Corazón De Melón](https://open.spotify.com/track/3xKuJ7DZeu7CwMIqjGakgx) | [Ramon Marquez](https://open.spotify.com/artist/7MBfHtO5xhuBx6qK0mWb4m) | [Corazón De Melón](https://open.spotify.com/album/4UvgmY4FJnJNVBF2165wR6) | 2:57 |
+| 47 | [Campanario](https://open.spotify.com/track/2zPOyiVqfcMmTyG3hi5Sen) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Algo Nuevo en Danzon](https://open.spotify.com/album/7ACakhlXywfd8Uvv2HAOEP) | 3:42 |
 | 48 | [Popurri De Cumbias](https://open.spotify.com/track/2Gm648VRiqOG6kp0tmN6Ka) | [Marimba Chiapas](https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5) | [Popurries Tropicales Con Las Mejores](https://open.spotify.com/album/2ZUWvcCfxghvKHugtjL1nH) | 6:34 |
 | 49 | [Mucha Muchacha](https://open.spotify.com/track/1OjPNeudZAsKgMvuw04due) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Cabaret Manana](https://open.spotify.com/album/4iusuKgQWQPNAWsIX7r5wJ) | 2:18 |
 | 50 | [Pancha Baila en Turcos](https://open.spotify.com/track/5PIPXjmhd1sApWvtnS4bKP) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 99 | [Mambo Universitario](https://open.spotify.com/track/32xH84FLeD1lEuePV242FO) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed) | 2:27 |
 | 100 | [Botecito de Vela](https://open.spotify.com/track/40Ji4lCHW8hBRjT8VPtzSw) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa) | 3:04 |
 
-Snapshot ID: `MCxlMzI0YWY0MThlY2Q1ZmVlOTZkNWU0MjQ1YTM5MjU4ZDFhODI0NTAw`
+Snapshot ID: `MCxiYmEyYmY1YjgyNDMxNmY3ZDYwYzY3YjU3YjdkNTBhMmU2ZmMyY2Uw`

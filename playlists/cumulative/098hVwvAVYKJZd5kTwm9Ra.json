@@ -2295,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208106,
+      "name": "My Maria",
+      "url": "https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT"
+    },
+    {
+      "album": {
         "name": "American Woman",
         "url": "https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV"
       },

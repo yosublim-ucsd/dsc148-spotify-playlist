@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 136280,
       "name": "2003",
       "url": "https://open.spotify.com/track/4yNWhBYneGn8Gvr7Y3ciqf"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 142613,
       "name": "Angels in Tibet",
       "url": "https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 190813,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/4OrzZjZHVfayEVfZPE1uhk"
@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 173480,
       "name": "Familia (feat. Morad)",
       "url": "https://open.spotify.com/track/5jGcOhXpPE07vrSe23198B"
@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169051,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+    },
+    {
+      "album": {
         "name": "Grind Pon Mi",
         "url": "https://open.spotify.com/album/6VuVN2OeiULk7uhV8wmRGQ"
       },
@@ -1587,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "I Am Armando - Armando Reloaded",
+        "url": "https://open.spotify.com/album/0kv3Rm7PODqJBQaVJiezuB"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205186,
+      "name": "Guantanamera (She's Hot)",
+      "url": "https://open.spotify.com/track/7CijDWxEEbKq76O5rpyCEN"
+    },
+    {
+      "album": {
         "name": "Highs & Lows",
         "url": "https://open.spotify.com/album/3SNsgXJZISh5mWsElUjRZ6"
       },
@@ -1602,7 +1638,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 124791,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/1jrjUPWrfMw8RBbZ9PlX0W"
@@ -1718,7 +1754,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 208106,
       "name": "If It's Lovin' That You Want",
       "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
@@ -2079,6 +2115,28 @@
     },
     {
       "album": {
+        "name": "leavemealone",
+        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+    },
+    {
+      "album": {
         "name": "Lej",
         "url": "https://open.spotify.com/album/0CL8ncsbJ70jkEsP167NPa"
       },
@@ -2210,10 +2268,28 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 165172,
       "name": "L\u00e9gende",
       "url": "https://open.spotify.com/track/0emGnnTL0TQrGY5r6Agbhj"
+    },
+    {
+      "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
       "album": {
@@ -2736,7 +2812,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 170528,
       "name": "Not My Fault (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M"
@@ -2790,10 +2866,28 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 186678,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
+    },
+    {
+      "album": {
+        "name": "ONE CALL",
+        "url": "https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug"
     },
     {
       "album": {
@@ -2954,6 +3048,28 @@
       "duration_ms": 204695,
       "name": "Paro",
       "url": "https://open.spotify.com/track/6zvHwijlnwqjS6d46yAffi"
+    },
+    {
+      "album": {
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224835,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
     },
     {
       "album": {
@@ -3322,6 +3438,28 @@
       "duration_ms": 245959,
       "name": "Rodeo (Remix)",
       "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"
+    },
+    {
+      "album": {
+        "name": "Ruin",
+        "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181646,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,745 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,774 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 17 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 |
 | 18 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 |
 | 19 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
-| 20 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 |
-| 21 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
+| 20 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
+| 21 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 |
 | 22 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |
 | 23 | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/track/70eFcWOvlMObDhURTqT4Fv) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:17 |
 | 24 | [Takeaway](https://open.spotify.com/track/3g0mEQx3NTanacLseoP0Gw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:29 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 54 | [Too Blessed To Be Stressed](https://open.spotify.com/track/6lXOFYka4axi7LezCcuQSo) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Mathew Gold](https://open.spotify.com/artist/7yTW9faBAA3MHZ9oeWwJRN) | [Too Blessed To Be Stressed](https://open.spotify.com/album/0JWVf25ijtjI41fPf0Nso5) | 3:32 |
 | 55 | [Pluto \- Live](https://open.spotify.com/track/59oBTOQ2aidtB5RRbfLdRz) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [The Hanging Gardens Of Beatenberg](https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ) | 5:52 |
 | 56 | [Life Without Fantasies \- Radio Edit](https://open.spotify.com/track/2Q9QrDU4LUDot1mpYcntiC) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT), [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd) | [Life Without Fantasies \(Radio Edit\)](https://open.spotify.com/album/2CbKkBdhAHKiKkZ8MrkdGf) | 2:41 |
-| 57 | [Two High \- Acoustic](https://open.spotify.com/track/2Wk1vF8VbiPKrNZI7g2hb8) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Two High \(Acoustic\)](https://open.spotify.com/album/0mpk26zd130uSjS2yFpF8K) | 3:32 |
-| 58 | [Oh My Soul \(Bloukaas Remix\)](https://open.spotify.com/track/6MpScQlifniy57CFLOxOCC) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Oh My Soul \(Bloukaas Remix\)](https://open.spotify.com/album/0lLLTsyd0ix7BXFJYuhDrs) | 4:20 |
-| 59 | [Say You Will Remember Me](https://open.spotify.com/track/3cVbwXyr9oZdeNfISdeS7F) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Say You Will Remember Me](https://open.spotify.com/album/39wcKYCki3w61JhTzUM8be) | 3:22 |
+| 57 | [Say You Will Remember Me \- Remix](https://open.spotify.com/track/4r4vKPPrhM8leqcpjnT9QC) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP), [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI) | [Say You Will Remember Me \(Remix\)](https://open.spotify.com/album/3R6zzWT8hdZhGQ3XTUTmuQ) | 2:54 |
+| 58 | [Two High \- Acoustic](https://open.spotify.com/track/2Wk1vF8VbiPKrNZI7g2hb8) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Two High \(Acoustic\)](https://open.spotify.com/album/0mpk26zd130uSjS2yFpF8K) | 3:32 |
+| 59 | [Oh My Soul \(Bloukaas Remix\)](https://open.spotify.com/track/6MpScQlifniy57CFLOxOCC) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Oh My Soul \(Bloukaas Remix\)](https://open.spotify.com/album/0lLLTsyd0ix7BXFJYuhDrs) | 4:20 |
 | 60 | [The Woods \- Evida Remix](https://open.spotify.com/track/0MmNZy7ziTgINtA5CSOkGE) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt), [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN) | [The Woods \(Evida Remix\)](https://open.spotify.com/album/16Im37aeKNeMDeTxWb5OYc) | 3:11 |
 
-Snapshot ID: `MCwzNjA5ZmZjNjVmZDAwYjcwNmIyZGMxNWNhOWZlYWM2MmVlNjYyNTQ4`
+Snapshot ID: `MCw0Y2Y3M2JlNDk2ZjVmNGU5MWE1NGJjNDEzOTZjMjBkNTBjMjYyMjJj`

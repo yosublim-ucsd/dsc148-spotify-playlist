@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 96339,
+  "2024-02-08": 96361,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Panama.",
   "name": "Top 50 - Panama",
@@ -6995,6 +6995,28 @@
       "duration_ms": 248622,
       "name": "Friends - Remix",
       "url": "https://open.spotify.com/track/54iyLNmcnLWNdCqX5pdtuL"
+    },
+    {
+      "album": {
+        "name": "Frio",
+        "url": "https://open.spotify.com/album/6TKl4Aits34170shR8LHFS"
+      },
+      "artists": [
+        {
+          "name": "Souryn",
+          "url": "https://open.spotify.com/artist/31wtY2T6lHi77pV9RsVTqm"
+        },
+        {
+          "name": "William Gochez",
+          "url": "https://open.spotify.com/artist/2ESRQ3wCj4UNVRtNfebcNQ"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138628,
+      "name": "Frio",
+      "url": "https://open.spotify.com/track/3d4x0xWALIAHpasiBV7oGc"
     },
     {
       "album": {
@@ -15711,7 +15733,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"

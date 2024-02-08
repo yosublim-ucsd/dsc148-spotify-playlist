@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,218 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,225 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 33 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 |
 | 34 | [Best Friend](https://open.spotify.com/track/7mABSSPLVFF6HGlVLhmSsZ) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Best Friend](https://open.spotify.com/album/7AF8UxAKHt77J9j8ZBpH7J) | 3:09 |
 | 35 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
-| 36 | [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 |
-| 37 | [Be The One \(with Khalid\)](https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be The One \(with Khalid\)](https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf) | 3:20 |
+| 36 | [Be The One \(with Khalid\)](https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be The One \(with Khalid\)](https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf) | 3:20 |
+| 37 | [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 |
 | 38 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 |
 | 39 | [Crown Your Love](https://open.spotify.com/track/64jnWr7d0fgtycXQfyGBo7) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 3:04 |
 | 40 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 54 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
 | 55 | [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 |
 | 56 | [pink dress](https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [pink dress](https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s) | 2:53 |
-| 57 | [1,000,000 X Better](https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [1,000,000 X Better](https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ) | 3:11 |
-| 58 | [Wish You Loved You](https://open.spotify.com/track/0yDDmW5M34iwPa2ifQ1zul) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Wish You Loved You](https://open.spotify.com/album/7xq93PnXerft7cpEREyca5) | 2:39 |
+| 57 | [Wish You Loved You](https://open.spotify.com/track/0yDDmW5M34iwPa2ifQ1zul) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Wish You Loved You](https://open.spotify.com/album/7xq93PnXerft7cpEREyca5) | 2:39 |
+| 58 | [1,000,000 X Better](https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [1,000,000 X Better](https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ) | 3:11 |
 | 59 | [Paradise Calling](https://open.spotify.com/track/2whqLIu4VLqZLfzfqs3AZa) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Portraits](https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO) | 3:06 |
 | 60 | [Can I Jump?](https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Can I Jump?](https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3) | 3:43 |
 | 61 | [Look Mom I Made It](https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Look Mom I Made It](https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns) | 2:59 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 71 | [wish you would](https://open.spotify.com/track/1LFrlYjezwFadKoL6UESMd) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [wish you would](https://open.spotify.com/album/0M1Oz5d6jsNjAGcAATbWNk) | 3:14 |
 | 72 | [Hope](https://open.spotify.com/track/2Yu76lZYP18wgBw7hmlW9U) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [A Little Lost, A Little Found](https://open.spotify.com/album/7yxmuuj0a8Ha2yhjA6Ovq2) | 3:02 |
 | 73 | [It’s Euphoric](https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [It's Euphoric](https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69) | 3:41 |
-| 74 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
-| 75 | [Crash](https://open.spotify.com/track/5zZ0Nn7XsH0lxmGMxLsagd) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Crash](https://open.spotify.com/album/0g0SrJn8HSEyvMSH9HKcwt) | 2:39 |
+| 74 | [Crash](https://open.spotify.com/track/5zZ0Nn7XsH0lxmGMxLsagd) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Crash](https://open.spotify.com/album/0g0SrJn8HSEyvMSH9HKcwt) | 2:39 |
+| 75 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
 | 76 | [East End Coast](https://open.spotify.com/track/1ZKDUdvbYRMEhmKIiYuPIr) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:46 |
 | 77 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 |
-| 78 | [More to me](https://open.spotify.com/track/0J1qkBgPKmgAY3M3BPe1QR) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [More to me](https://open.spotify.com/album/5feSG8uVsqlDWrMrzIrInL) | 2:15 |
-| 79 | [if you called me today, i would come back tomorrow](https://open.spotify.com/track/0ZhcTOA3jY10bgme6qpptW) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [if you called me today, i would come back tomorrow](https://open.spotify.com/album/7860oA85u1By2IkqmpXiAi) | 4:02 |
+| 78 | [if you called me today, i would come back tomorrow](https://open.spotify.com/track/0ZhcTOA3jY10bgme6qpptW) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [if you called me today, i would come back tomorrow](https://open.spotify.com/album/7860oA85u1By2IkqmpXiAi) | 4:02 |
+| 79 | [More to me](https://open.spotify.com/track/0J1qkBgPKmgAY3M3BPe1QR) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [More to me](https://open.spotify.com/album/5feSG8uVsqlDWrMrzIrInL) | 2:15 |
 | 80 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 |
 
-Snapshot ID: `MCxlMDU0NTZmNTA3Y2Q1ZmZjMmI5OWJkOTY1NTkzZjNkMzM5MzdkY2Q3`
+Snapshot ID: `MCxkOTJhMDQyMTM1YWMwNTU4YjZiNDczYWUxZjQ5MWU3MjU4ZDQ3Njc3`

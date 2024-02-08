@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,728 likes - 110 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,038 likes - 110 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 109 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 |
 | 110 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
 
-Snapshot ID: `MCxhMGIzMzFiMjVlNDZiYzk2ZjMxYWRkYWM3Y2RmNjE3YWRkMjE2YzZl`
+Snapshot ID: `MCw0Y2U2ZTI5NzY3NWRkNjhjN2Y2ODlmNjcyMDA4OGU1NTZkZmRhNzYy`

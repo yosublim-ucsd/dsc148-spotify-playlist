@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,882 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,907 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 6 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |
 | 7 | [close with desires \(right person wrong timing\)](https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [close with desires \(right person wrong timing\)](https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM) | 3:23 |
 | 8 | [Angel Numbers / Ten Toes](https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 5:06 |
-| 9 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 |
+| 9 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 4:11 |
 | 10 | [Feelin'](https://open.spotify.com/track/7dbNxYPYILE3MNxh9ND12K) | [1STVIRGINIA](https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW), [SRNO](https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5) | [majestic exclusives](https://open.spotify.com/album/7uOqjUeVTPctM8NINdY4Cn) | 2:32 |
-| 11 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 4:11 |
+| 11 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 |
 | 12 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 |
 | 13 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 |
 | 14 | [No One Else \(feat\. Fridayy\)](https://open.spotify.com/track/1lYqI9WKBPsL6Hf93yT9bB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 3:43 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 61 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 |
 | 62 | [SOLO](https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [SOLO](https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce) | 3:02 |
 | 63 | [Bag \(with Lucky Daye\)](https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Bag \(with Lucky Daye\)](https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY) | 3:31 |
-| 64 | [Out of Touch](https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Out of Touch](https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr) | 3:32 |
-| 65 | [On Mine](https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [On Mine](https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5) | 2:23 |
+| 64 | [On Mine](https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [On Mine](https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5) | 2:23 |
+| 65 | [Out of Touch](https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Out of Touch](https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr) | 3:32 |
 | 66 | [Say Yes \(Turquoise\) \(feat\. Joshua J\)](https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG), [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:41 |
 | 67 | [Emotionally Unavailable](https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4) | [Emotionally Unavailable](https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws) | 2:22 |
 | 68 | [Stars](https://open.spotify.com/track/0rUmvpKfigC5jL0jnIcYTB) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl) | [Stars](https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [Fierce](https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Fierce](https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY) | 2:22 |
 | 100 | [Don’t Mind](https://open.spotify.com/track/4yq7RXjF9M5nmkYPiVo0oV) | [Shadi](https://open.spotify.com/artist/6KRiktIvEommt5qfwLOxBz) | [Freak Pack](https://open.spotify.com/album/2VaXsrVlaa1JTCmskan7Yk) | 2:59 |
 
-Snapshot ID: `MCxlZmE4OTA1ZDg2NmZmZDg1Njc2NGE2ZjFmNWEwOGM4Y2ZiN2U1ZDM0`
+Snapshot ID: `MCwxYjcyNzk2ODM5NTk2ZWEwMjhjMDM5MGYxNDA1NDdjZGI4YTg0NGUz`

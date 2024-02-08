@@ -4,7 +4,7 @@
 
 > Diese Songs zaubern dir ein Grinsen ins Gesicht.
 
-127 songs - 7 hr 9 min
+128 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Around The Sun](https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Around The Sun](https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB) | 3:54 | 2023-07-20 |  |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-08-29 |  |
 | [beautiful day](https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ) | [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [beautiful day](https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq) | 3:03 | 2023-07-20 |  |
-| [Bedroom Exile](https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY) | 3:18 | 2023-07-20 |  |
+| [Bedroom Exile](https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY) | 3:18 | 2023-07-20 | 2024-02-08 |
+| [Bedroom Exile](https://open.spotify.com/track/4qCgx9aDj13P06lgDDhUmk) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:18 | 2024-02-05 |  |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-07-20 |  |
 | [Bleach](https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Bleach](https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L) | 3:29 | 2023-07-20 |  |
 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 | 2023-07-20 |  |

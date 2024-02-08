@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Molly Tuttle & Bronwyn Keith-Hynes of Molly Tuttle & Golden Highway",
-  "num_followers": 131525,
+  "num_followers": 131559,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2Y2NGYxYWJkNzk5NmY0ZDBhYWFmYmYwNjc3MTQzZGRlZjgyYWQ2",
+  "snapshot_id": "MCxiYWQ2OGVhNDRhMzVlNjZjNmY3NTQ4ZjY3MTc3YjA1ZTkxN2EzMjUx",
   "tracks": [
     {
       "added_at": "2024-02-05 18:11:11",
@@ -595,18 +595,38 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "We Were Cowboys",
-        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
+        "name": "Mighty Poplar",
+        "url": "https://open.spotify.com/album/7gtQTBomZ4zTjPPLQwKKc6"
       },
       "artists": [
         {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+          "name": "Mighty Poplar",
+          "url": "https://open.spotify.com/artist/4cMlQtVLzOm9cr200ALzSD"
+        },
+        {
+          "name": "Andrew Marlin",
+          "url": "https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL"
+        },
+        {
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+        },
+        {
+          "name": "Chris Eldridge",
+          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
+        },
+        {
+          "name": "Alex Hargreaves",
+          "url": "https://open.spotify.com/artist/6Qs9gY94XdjfCCTL8dRQ3P"
+        },
+        {
+          "name": "Greg Garrison",
+          "url": "https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ"
         }
       ],
-      "duration_ms": 210266,
-      "name": "Granny's Got a Garden - For G'maw Jan",
-      "url": "https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy"
+      "duration_ms": 153015,
+      "name": "A Distant Land to Roam",
+      "url": "https://open.spotify.com/track/1uQzdxrc2evBl01u1C51xz"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -675,38 +695,18 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "Mighty Poplar",
-        "url": "https://open.spotify.com/album/7gtQTBomZ4zTjPPLQwKKc6"
+        "name": "We Were Cowboys",
+        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
       },
       "artists": [
         {
-          "name": "Mighty Poplar",
-          "url": "https://open.spotify.com/artist/4cMlQtVLzOm9cr200ALzSD"
-        },
-        {
-          "name": "Andrew Marlin",
-          "url": "https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL"
-        },
-        {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
-        },
-        {
-          "name": "Chris Eldridge",
-          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
-        },
-        {
-          "name": "Alex Hargreaves",
-          "url": "https://open.spotify.com/artist/6Qs9gY94XdjfCCTL8dRQ3P"
-        },
-        {
-          "name": "Greg Garrison",
-          "url": "https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ"
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
         }
       ],
-      "duration_ms": 153015,
-      "name": "A Distant Land to Roam",
-      "url": "https://open.spotify.com/track/1uQzdxrc2evBl01u1C51xz"
+      "duration_ms": 210266,
+      "name": "Granny's Got a Garden - For G'maw Jan",
+      "url": "https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -775,18 +775,22 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "Narrow Line",
-        "url": "https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm"
+        "name": "Almost Proud",
+        "url": "https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP"
       },
       "artists": [
         {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 199840,
-      "name": "How It Ends",
-      "url": "https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf"
+      "duration_ms": 152786,
+      "name": "Honky Tonk Nights",
+      "url": "https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -811,22 +815,18 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "Almost Proud",
-        "url": "https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP"
+        "name": "Narrow Line",
+        "url": "https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm"
       },
       "artists": [
         {
-          "name": "The Del McCoury Band",
-          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
         }
       ],
-      "duration_ms": 152786,
-      "name": "Honky Tonk Nights",
-      "url": "https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp"
+      "duration_ms": 199840,
+      "name": "How It Ends",
+      "url": "https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -883,26 +883,18 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "For Your Love",
-        "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
+        "name": "Twisted Pine",
+        "url": "https://open.spotify.com/album/0Wqmu0yvCdbcd9Vgsq3G3i"
       },
       "artists": [
         {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Jeff White",
-          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
+          "name": "Twisted Pine",
+          "url": "https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps"
         }
       ],
-      "duration_ms": 306440,
-      "name": "For Your Love",
-      "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
+      "duration_ms": 252428,
+      "name": "When I Called Your Name",
+      "url": "https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -975,18 +967,26 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "Twisted Pine",
-        "url": "https://open.spotify.com/album/0Wqmu0yvCdbcd9Vgsq3G3i"
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
       },
       "artists": [
         {
-          "name": "Twisted Pine",
-          "url": "https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps"
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Jeff White",
+          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
         }
       ],
-      "duration_ms": 252428,
-      "name": "When I Called Your Name",
-      "url": "https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq"
+      "duration_ms": 306440,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "Well",
-        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
+        "name": "Down the Road",
+        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
       },
       "artists": [
         {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Well",
-      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
+      "duration_ms": 195573,
+      "name": "Down the Road",
+      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "Down the Road",
-        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
+        "name": "Well",
+        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
         }
       ],
-      "duration_ms": 195573,
-      "name": "Down the Road",
-      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
+      "duration_ms": 176000,
+      "name": "Well",
+      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "The Whole of the Moon",
-        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 282794,
-      "name": "The Whole of the Moon",
-      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
-    },
-    {
-      "added_at": "2024-02-05 18:11:11",
-      "album": {
         "name": "Muscle Car",
         "url": "https://open.spotify.com/album/4BfxrawQAJaRWmhQkYBOSY"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 328560,
       "name": "Muscle Car",
       "url": "https://open.spotify.com/track/6mfeARNWhTrYAt0nDc3l9f"
+    },
+    {
+      "added_at": "2024-02-05 18:11:11",
+      "album": {
+        "name": "The Whole of the Moon",
+        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "The Whole of the Moon",
+      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "Blues Are Close at Hand",
-        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
-      },
-      "artists": [
-        {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
-        }
-      ],
-      "duration_ms": 159427,
-      "name": "Blues Are Close at Hand",
-      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
-    },
-    {
-      "added_at": "2024-02-05 18:11:11",
-      "album": {
         "name": "I'll Blame It on the Rain",
         "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 223586,
       "name": "I'll Blame It on the Rain",
       "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
+    },
+    {
+      "added_at": "2024-02-05 18:11:11",
+      "album": {
+        "name": "Blues Are Close at Hand",
+        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
+      },
+      "artists": [
+        {
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+        }
+      ],
+      "duration_ms": 159427,
+      "name": "Blues Are Close at Hand",
+      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -1735,6 +1735,30 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
+        "name": "Trapper's Attic",
+        "url": "https://open.spotify.com/album/1nepXC3JRZ1OfdoTByMKqJ"
+      },
+      "artists": [
+        {
+          "name": "Connor Jay Liess",
+          "url": "https://open.spotify.com/artist/2sZuJVwjC40tfKKD1Zf0bm"
+        },
+        {
+          "name": "Jolie Blue",
+          "url": "https://open.spotify.com/artist/66Xro82631Vw5PkxTASsxO"
+        },
+        {
+          "name": "The Aldape Bootstompers",
+          "url": "https://open.spotify.com/artist/0hSOP0IyyURB2DkgomtHwD"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Idaho Mountain Song",
+      "url": "https://open.spotify.com/track/1mj8ViehGEsL6qR385CD0W"
+    },
+    {
+      "added_at": "2024-02-05 18:11:11",
+      "album": {
         "name": "These Ole Blues",
         "url": "https://open.spotify.com/album/7pOUqo4VhWgWlHCGCzGoaS"
       },
@@ -1767,30 +1791,6 @@
       "duration_ms": 255178,
       "name": "These Ole Blues",
       "url": "https://open.spotify.com/track/7v773znNvjE1Gx6cIgcmYA"
-    },
-    {
-      "added_at": "2024-02-05 18:11:11",
-      "album": {
-        "name": "Trapper's Attic",
-        "url": "https://open.spotify.com/album/1nepXC3JRZ1OfdoTByMKqJ"
-      },
-      "artists": [
-        {
-          "name": "Connor Jay Liess",
-          "url": "https://open.spotify.com/artist/2sZuJVwjC40tfKKD1Zf0bm"
-        },
-        {
-          "name": "Jolie Blue",
-          "url": "https://open.spotify.com/artist/66Xro82631Vw5PkxTASsxO"
-        },
-        {
-          "name": "The Aldape Bootstompers",
-          "url": "https://open.spotify.com/artist/0hSOP0IyyURB2DkgomtHwD"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Idaho Mountain Song",
-      "url": "https://open.spotify.com/track/1mj8ViehGEsL6qR385CD0W"
     },
     {
       "added_at": "2024-02-05 18:11:11",

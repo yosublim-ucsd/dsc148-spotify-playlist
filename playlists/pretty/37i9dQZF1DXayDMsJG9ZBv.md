@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 
 > 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: Creepy Nuts
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,001 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,050 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 | 49 | [J CHRIST](https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [J CHRIST](https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J) | 2:33 |
 | 50 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 |
 
-Snapshot ID: `MCxhYWIwMjljZTRlZjRmMTk5MmQ5MjEyOTY1NDJjNzdiNjZmYjVkZWU2`
+Snapshot ID: `MCxiNTEyYzQxOTU0OWUwZjM5NWIxNGUwMmQ2MTQ2NDQ1N2Y3ZGU1NTBk`

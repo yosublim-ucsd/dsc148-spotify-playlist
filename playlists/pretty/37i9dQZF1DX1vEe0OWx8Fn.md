@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,479 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,507 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 36 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 |
 | 37 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 |
 | 38 | [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 |
-| 39 | [She Likes My Tattoos](https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [I Left You In Minnesota](https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP) | 2:44 |
-| 40 | [CASUALTY](https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN) | 2:38 |
+| 39 | [CASUALTY](https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN) | 2:38 |
+| 40 | [She Likes My Tattoos](https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [I Left You In Minnesota](https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP) | 2:44 |
 | 41 | [i want to be by your side](https://open.spotify.com/track/5ZfMb1vgKdvG9Mr2iRXXN2) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [herhexx](https://open.spotify.com/artist/7AI9yB4mqXc2h9fONnHgqA) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:37 |
 | 42 | [Real Life Sux](https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg) | 2:23 |
 | 43 | [Her](https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 49 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 |
 | 50 | [{ The Dreamer's Hotel }](https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 2:53 |
 
-Snapshot ID: `MCw1ZmVlMjkxYjM1ZGY1MzFiNTk1ZDliMWNiNTIwOTY5ZmQ0MDc4YzEw`
+Snapshot ID: `MCw2NjExMDUyZjg1NTQxYmIzZmE4NmY1ZGI0MjExNTBkZWFhNWY5NGE5`

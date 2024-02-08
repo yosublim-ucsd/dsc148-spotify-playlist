@@ -1,12 +1,12 @@
 {
   "description": "\u00bfA vuelta de rueda? Con esta playlist el camino ser\u00e1 m\u00e1s ligero. ",
-  "num_followers": 289546,
+  "num_followers": 289625,
   "original_name": "Pa'l Tr\u00e1fico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzQ4NDM2MTU4Njk2ZGI0MzM0MWFhNGI3OWJjMGU3NTI0M2ExZjBm",
+  "snapshot_id": "MCwyY2ZjNzFmNDZkMGJlMzY3YTMzOTgxYmI2Yzk4YjE0YjM4NDI2Mzhj",
   "tracks": [
     {
       "added_at": "2023-11-24 06:17:50",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-11-24 06:17:50",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
-    },
-    {
-      "added_at": "2023-11-24 06:17:50",
-      "album": {
         "name": "Something To Give Each Other",
         "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 156391,
       "name": "Rush",
       "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+    },
+    {
+      "added_at": "2023-11-24 06:17:50",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "added_at": "2023-11-24 06:17:50",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-11-24 06:17:50",
       "album": {
-        "name": "SABOR FRESA",
-        "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "SABOR FRESA",
-      "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
-    },
-    {
-      "added_at": "2023-11-24 06:17:50",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 164386,
       "name": "MIENTRAS ME CURO DEL CORA",
       "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
+    },
+    {
+      "added_at": "2023-11-24 06:17:50",
+      "album": {
+        "name": "SABOR FRESA",
+        "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "SABOR FRESA",
+      "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
     },
     {
       "added_at": "2023-11-24 06:17:50",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-11-24 06:17:50",
       "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 167692,
+      "name": "No Es Por Ac\u00e1",
+      "url": "https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF"
+    },
+    {
+      "added_at": "2023-11-24 06:17:50",
+      "album": {
         "name": "Labios Mordidos (with KAROL G)",
         "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 195373,
       "name": "Labios Mordidos (with KAROL G)",
       "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
-    },
-    {
-      "added_at": "2023-11-24 06:17:50",
-      "album": {
-        "name": "Colmillo De Leche",
-        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 167692,
-      "name": "No Es Por Ac\u00e1",
-      "url": "https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF"
     },
     {
       "added_at": "2023-11-24 06:17:50",
@@ -955,22 +955,22 @@
     {
       "added_at": "2023-11-24 06:17:50",
       "album": {
-        "name": "Sigan Hablando",
-        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+        "name": "Botella Tras Botella",
+        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         },
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 271861,
-      "name": "Bebe Dame",
-      "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
+      "duration_ms": 197333,
+      "name": "Botella Tras Botella",
+      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
     },
     {
       "added_at": "2023-11-24 06:17:50",
@@ -995,42 +995,22 @@
     {
       "added_at": "2023-11-24 06:17:50",
       "album": {
-        "name": "Botella Tras Botella",
-        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
+        "name": "Sigan Hablando",
+        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         },
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 197333,
-      "name": "Botella Tras Botella",
-      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2023-11-24 06:17:50",
-      "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 231848,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
     },
     {
       "added_at": "2023-11-24 06:17:50",
@@ -1051,6 +1031,26 @@
       "duration_ms": 197476,
       "name": "Por el Resto de Tu Vida",
       "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
+    },
+    {
+      "added_at": "2023-11-24 06:17:50",
+      "album": {
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 231848,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
     },
     {
       "added_at": "2023-11-24 06:17:50",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2023-11-24 06:17:50",
       "album": {
-        "name": "Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 192313,
-      "name": "M\u00f3naco",
-      "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
-    },
-    {
-      "added_at": "2023-11-24 06:17:50",
-      "album": {
         "name": "Shorty Party",
         "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 265000,
       "name": "Shorty Party",
       "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
+    },
+    {
+      "added_at": "2023-11-24 06:17:50",
+      "album": {
+        "name": "Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 192313,
+      "name": "M\u00f3naco",
+      "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
     },
     {
       "added_at": "2023-11-24 06:17:50",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-11-24 06:17:50",
       "album": {
+        "name": "SI AYER FUERA HOY",
+        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 144631,
+      "name": "Deb\u00ed Suponerlo",
+      "url": "https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa"
+    },
+    {
+      "added_at": "2023-11-24 06:17:50",
+      "album": {
         "name": "La Jumpa",
         "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
       },
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2023-11-24 06:17:50",
       "album": {
-        "name": "SI AYER FUERA HOY",
-        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
+        "name": "Cuatro Caminos",
+        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 144631,
-      "name": "Deb\u00ed Suponerlo",
-      "url": "https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa"
+      "duration_ms": 267600,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
     },
     {
       "added_at": "2023-11-24 06:17:50",
@@ -1351,22 +1367,6 @@
       "duration_ms": 167373,
       "name": "De Los Besos Que Te Di",
       "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
-    },
-    {
-      "added_at": "2023-11-24 06:17:50",
-      "album": {
-        "name": "Cuatro Caminos",
-        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
     },
     {
       "added_at": "2023-11-24 06:17:50",

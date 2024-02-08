@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,383 likes - 50 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,428 likes - 50 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 13 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 |
 | 14 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 |
 | 15 | [Imela](https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [You are Great](https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum) | 5:19 |
-| 16 | [Excess Love \(feat\. JJ Hairston & Youthful Praise\) \- Remix](https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 8:27 |
-| 17 | [Ko Ma Si/ Nobody Like You](https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Lara George](https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8) | 4:29 |
+| 16 | [Ko Ma Si/ Nobody Like You](https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Lara George](https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8) | 4:29 |
+| 17 | [Excess Love \(feat\. JJ Hairston & Youthful Praise\) \- Remix](https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 8:27 |
 | 18 | [Kumama](https://open.spotify.com/track/3DhC1to2LhIihmWtufsGIA) | [ABOSEDE](https://open.spotify.com/artist/6gzSZLr4GiPCcW4WWWcXoS) | [Kumama](https://open.spotify.com/album/1roldFx55pNuxcmyy1o3U6) | 1:32 |
 | 19 | [Miracle Worker \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 4:50 |
 | 20 | [More Than Gold](https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 49 | [Hallelujah](https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Xperience with Love](https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi) | 9:46 |
 | 50 | [Baba](https://open.spotify.com/track/0H5lLW8qybOadIxSO730jY) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Lost in His Glory](https://open.spotify.com/album/5OcrjI1YzaqXYwLe3Eo9T5) | 5:55 |
 
-Snapshot ID: `MCwxOWU3MjQ3ODdjMzQyYzg3YWI3NWExODlmNjIzYTZlODM3Y2YzYjk5`
+Snapshot ID: `MCwwNjM3YTNkMWQ3ZTQ0OWJlNmYyNmMxNTQ2ZDY5OTRlYmMxNzFlZDkz`

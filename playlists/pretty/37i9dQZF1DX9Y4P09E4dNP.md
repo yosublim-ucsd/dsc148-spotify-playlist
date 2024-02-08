@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,607 likes - 40 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,630 likes - 40 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 34 | [Love You](https://open.spotify.com/track/23RRPvbF7A5o0Rosnw95nj) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Love You](https://open.spotify.com/album/4wyKFCKsJZCXzcr00nl9EE) | 3:06 |
 | 35 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 |
 | 36 | [Sure Banker](https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:16 |
-| 37 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
-| 38 | [Medo \(feat\. Swanzy B\)](https://open.spotify.com/track/4LQoZgv1Gpt4tXGiVpCena) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP) | [Yeesom Sika](https://open.spotify.com/album/0qqHxYMFjCe0ZpPc3chJsb) | 4:52 |
+| 37 | [Wish Me Well](https://open.spotify.com/track/7prLktT8hh87SJLGneo4ri) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE) | 3:24 |
+| 38 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
 | 39 | [Mercy](https://open.spotify.com/track/7y5LAzG8epnHrXjh3jN7ol) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Mercy](https://open.spotify.com/album/4eoXF9sYckKQAajJCzUngn) | 3:14 |
-| 40 | [Deeba](https://open.spotify.com/track/6xvQweMHBKFVxgZtmQy7va) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Welcome To Ghana](https://open.spotify.com/album/0WTr5rNM9QFV4Qi3s4B5nA) | 5:06 |
+| 40 | [Medo \(feat\. Swanzy B\)](https://open.spotify.com/track/4LQoZgv1Gpt4tXGiVpCena) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP) | [Yeesom Sika](https://open.spotify.com/album/0qqHxYMFjCe0ZpPc3chJsb) | 4:52 |
 
-Snapshot ID: `MCxlZGMxNDk1NzRhZjkwMDFkNTczODcyOWY4ZDM0NTlhZDk5ODExNDhi`
+Snapshot ID: `MCw0NDI5OGVhY2ZiN2I2Mzk1OTBkYzhkMDk3OTdlY2I1NjI3ZWZkNjIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Wavedash, Madeon and Toro y Moi
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,387 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,367 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 |
 | 100 | [Si Te Portas Bonito \- Edit](https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 1:57 |
 
-Snapshot ID: `MCxjYjIxYmE4ZTgxZTc0NmZlZmE0NjFmYjQyMGVkMTUxNTYyZGFhMTAy`
+Snapshot ID: `MCxmMTBjMTU4ZDg3YzFhMTIwMDJkYTk2M2I1ZWY5YmZlZDU4NTI0MDVm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,867 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,894 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,20 +16,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 6 | [Cairo, IL](https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 2:59 |
 | 7 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 |
 | 8 | [Two Story House](https://open.spotify.com/track/2poxiFKQTbULSdjWagcb3g) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Two Story House](https://open.spotify.com/album/2UBvZ8c8E5LVMKf6ZZMcfj) | 3:19 |
-| 9 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
+| 9 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
 | 10 | [Front Porch](https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:51 |
 | 11 | [Autumn Town Leaves](https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3) | 3:15 |
 | 12 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 |
 | 13 | [Whiskey And You](https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:56 |
-| 14 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
+| 14 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
 | 15 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
 | 16 | [Something In The Orange \- Live From Spotify Studios](https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 4:02 |
 | 17 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 |
 | 18 | [The Only Boy Awake](https://open.spotify.com/track/4tRt91OQSbE9eFA3RwgqSd) | [Meadows](https://open.spotify.com/artist/5jN2q5MCOQJaBAYIF7Os4J) | [The Only Boy Awake](https://open.spotify.com/album/0SCTqWnQqJFtgOewaNW062) | 2:43 |
 | 19 | [Lost in Your Love](https://open.spotify.com/track/6rNQl7PtVwGEEF0PuauOAr) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Originals](https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C) | 2:45 |
 | 20 | [Where You Are \- Acoustic](https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Living Room Worktapes](https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3) | 4:03 |
-| 21 | [The Time I've Wasted](https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:33 |
-| 22 | [Louise](https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Dark Holler Pop](https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm) | 4:24 |
+| 21 | [Louise](https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Dark Holler Pop](https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm) | 4:24 |
+| 22 | [The Time I've Wasted](https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:33 |
 | 23 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 |
 | 24 | [Wait Up For Me](https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:45 |
 | 25 | [Sunday Drive](https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:53 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 40 | [Pack My Hometown](https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK) | [Eli Winders](https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w) | [Pack My Hometown](https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i) | 3:11 |
 | 41 | [Coming Down the Mountain](https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Coming Down the Mountain](https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g) | 4:33 |
 | 42 | [Asking For A Friend](https://open.spotify.com/track/5mXOdtyPOL6GEuZdCyHSsb) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:59 |
-| 43 | [Love You To Death](https://open.spotify.com/track/5xQTEPjGsLuvwnnvyK3fAA) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Love You To Death](https://open.spotify.com/album/4vP2ZDfafpuIZoAI9rofKv) | 3:19 |
-| 44 | [hookup scene](https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:21 |
+| 43 | [hookup scene](https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:21 |
+| 44 | [Love You To Death](https://open.spotify.com/track/5xQTEPjGsLuvwnnvyK3fAA) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Love You To Death](https://open.spotify.com/album/4vP2ZDfafpuIZoAI9rofKv) | 3:19 |
 | 45 | [Think About It](https://open.spotify.com/track/3ypWiuw7W7XUj5qDZrRFFI) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Think About It](https://open.spotify.com/album/3i8tWI30TAqLDO7FLpqRTq) | 2:53 |
 | 46 | [Pretty Hands](https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:20 |
 | 47 | [Dancing Shoes](https://open.spotify.com/track/3Y6BuzQCg9p4yH347Nn8OW) | [Green River Ordinance](https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7) | [Under Fire](https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m) | 3:52 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 65 | [Wild Honey](https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey](https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc) | 3:33 |
 | 66 | [Miles Away](https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG) | [Krysta Nick](https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol) | [Miles Away](https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv) | 3:40 |
 | 67 | [Sunday Best \- Acoustic](https://open.spotify.com/track/05MAs5o6TxAmADc3JJmkv9) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Sunday Best \(Acoustic\)](https://open.spotify.com/album/59oCat0Wfu0qZyUV1AqcA4) | 2:47 |
-| 68 | [Cowgirl](https://open.spotify.com/track/2KeIYazn8x4IobcS1aXram) | [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [Cowgirl](https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg) | 3:39 |
-| 69 | [what do i](https://open.spotify.com/track/2RdcyZsOisQLRE8L2K456O) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Moments that mattered](https://open.spotify.com/album/3CGcBdJM6QwDHzFiJqGYpC) | 3:43 |
-| 70 | [Carolina In My Mind](https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Carolina In My Mind](https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np) | 3:53 |
-| 71 | [half of my hometown \- ballerini album version](https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [ballerini](https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk) | 3:56 |
+| 68 | [what do i](https://open.spotify.com/track/2RdcyZsOisQLRE8L2K456O) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Moments that mattered](https://open.spotify.com/album/3CGcBdJM6QwDHzFiJqGYpC) | 3:43 |
+| 69 | [Cowgirl](https://open.spotify.com/track/2KeIYazn8x4IobcS1aXram) | [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [Cowgirl](https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg) | 3:39 |
+| 70 | [half of my hometown \- ballerini album version](https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [ballerini](https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk) | 3:56 |
+| 71 | [Carolina In My Mind](https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Carolina In My Mind](https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np) | 3:53 |
 | 72 | [Without A Word](https://open.spotify.com/track/4e6dpHanuFVUxou9bKkLDN) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Without A Word](https://open.spotify.com/album/1rzbmMngXvWTlfm2FyMFbr) | 3:58 |
 | 73 | [Suitcase Heart](https://open.spotify.com/track/4GpT0HK2Gwuu4qiNlWW78L) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [This Is All There Is, Vol\. 1](https://open.spotify.com/album/5kgGb6g5RjjB3n1F04eOvq) | 2:44 |
 | 74 | [Heartland](https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:31 |
 | 75 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
 
-Snapshot ID: `MCw4NWVmMmJhMTk4OTUyOTM4NmE4MzhmZGVjODgzZWY4YmMwOTIyZTUx`
+Snapshot ID: `MCw5OTk4NGJjMzU0ZTRkNTQyNTNiOTk3ZDg1NzU1Yjg4MzRkN2U1ODUy`

@@ -1,12 +1,12 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: SZA and Lizzo ",
-  "num_followers": 527067,
+  "num_followers": 527228,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDU2NWIzNDIzM2NhNDFmNzZjMzExMWEwYjc5YWQ1YWE1NzAzYzMy",
+  "snapshot_id": "MCwwZDRmYjU1NjQ4OTE1MmQ5OWYwYjRjNDY5YzYyZDBjMmUzODg5YWUy",
   "tracks": [
     {
       "added_at": "2024-02-05 04:09:08",
@@ -25,24 +25,20 @@
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
-      "added_at": "2024-02-05 04:09:08",
+      "added_at": "2024-02-07 18:14:04",
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
       "artists": [
         {
           "name": "Rihanna",
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 275986,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
+      "duration_ms": 191600,
+      "name": "Needed Me",
+      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
     },
     {
       "added_at": "2024-02-05 04:09:08",
@@ -65,6 +61,90 @@
       "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
     },
     {
+      "added_at": "2024-02-07 18:14:04",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 184258,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
+    },
+    {
+      "added_at": "2024-02-07 18:14:04",
+      "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
+      "added_at": "2024-02-07 18:14:04",
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
+      "added_at": "2024-02-05 04:09:08",
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 275080,
+      "name": "Love Galore (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
+    },
+    {
+      "added_at": "2024-02-05 04:09:08",
+      "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 241624,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
+    },
+    {
       "added_at": "2024-02-05 04:09:08",
       "album": {
         "name": "At Last!",
@@ -83,38 +163,6 @@
     {
       "added_at": "2024-02-05 04:09:08",
       "album": {
-        "name": "I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",
-        "url": "https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292108,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/0Rkq46Qo069QwWDdrVur8f"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
-        "name": "Good Days",
-        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 279204,
-      "name": "Good Days",
-      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
         "name": "I Never Loved a Man the Way I Love You",
         "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
@@ -127,6 +175,22 @@
       "duration_ms": 147600,
       "name": "Respect",
       "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+    },
+    {
+      "added_at": "2024-02-07 18:14:04",
+      "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
       "added_at": "2024-02-05 04:09:08",
@@ -177,6 +241,22 @@
       "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
+      "added_at": "2024-02-07 18:14:04",
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Like a Tattoo",
+      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
+    },
+    {
       "added_at": "2024-02-05 04:09:08",
       "album": {
         "name": "Killing Me Softly",
@@ -191,6 +271,22 @@
       "duration_ms": 286920,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+    },
+    {
+      "added_at": "2024-02-07 18:14:04",
+      "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 247578,
+      "name": "Free Mind",
+      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
     },
     {
       "added_at": "2024-02-05 04:09:08",
@@ -209,6 +305,22 @@
       "url": "https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf"
     },
     {
+      "added_at": "2024-02-07 18:14:04",
+      "album": {
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
+    },
+    {
       "added_at": "2024-02-05 04:09:08",
       "album": {
         "name": "Fantasia",
@@ -223,26 +335,6 @@
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 275080,
-      "name": "Love Galore (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
     },
     {
       "added_at": "2024-02-05 04:09:08",
@@ -331,38 +423,6 @@
     {
       "added_at": "2024-02-05 04:09:08",
       "album": {
-        "name": "What's Love Got to Do with It?",
-        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 226880,
-      "name": "What's Love Got to Do with It",
-      "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 440466,
-      "name": "No Ordinary Love",
-      "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
         "name": "I Hate U",
         "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
       },
@@ -379,34 +439,18 @@
     {
       "added_at": "2024-02-05 04:09:08",
       "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
+        "name": "What's Love Got to Do with It?",
+        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
       },
       "artists": [
         {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
         }
       ],
-      "duration_ms": 241624,
-      "name": "ICU",
-      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
+      "duration_ms": 226880,
+      "name": "What's Love Got to Do with It",
+      "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
     },
     {
       "added_at": "2024-02-05 04:09:08",
@@ -423,6 +467,22 @@
       "duration_ms": 189462,
       "name": "DO 4 LOVE",
       "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
+    },
+    {
+      "added_at": "2024-02-05 04:09:08",
+      "album": {
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
     },
     {
       "added_at": "2024-02-05 04:09:08",
@@ -459,26 +519,6 @@
     {
       "added_at": "2024-02-05 04:09:08",
       "album": {
-        "name": "Stompin' At The Savoy",
-        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
-      },
-      "artists": [
-        {
-          "name": "Rufus",
-          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 285253,
-      "name": "Ain't Nobody",
-      "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
         "name": "Wild Side (feat. Cardi B)",
         "url": "https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV"
       },
@@ -499,6 +539,26 @@
     {
       "added_at": "2024-02-05 04:09:08",
       "album": {
+        "name": "Stompin' At The Savoy",
+        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
+      },
+      "artists": [
+        {
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 285253,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
+    },
+    {
+      "added_at": "2024-02-05 04:09:08",
+      "album": {
         "name": "Janet",
         "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
       },
@@ -511,22 +571,6 @@
       "duration_ms": 265106,
       "name": "That's The Way Love Goes",
       "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
-        "name": "Mr. Big Stuff",
-        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
-      },
-      "artists": [
-        {
-          "name": "Jean Knight",
-          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "Mr. Big Stuff",
-      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
     },
     {
       "added_at": "2024-02-05 04:09:08",
@@ -545,6 +589,22 @@
       "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
     },
     {
+      "added_at": "2024-02-07 18:14:04",
+      "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
+    },
+    {
       "added_at": "2024-02-05 04:09:08",
       "album": {
         "name": "Age Ain't Nothing But A Number",
@@ -559,6 +619,22 @@
       "duration_ms": 291400,
       "name": "At Your Best (You Are Love)",
       "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
+    },
+    {
+      "added_at": "2024-02-07 18:14:04",
+      "album": {
+        "name": "Release Some Tension",
+        "url": "https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 264506,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC"
     },
     {
       "added_at": "2024-02-05 04:09:08",
@@ -591,6 +667,22 @@
       "duration_ms": 197520,
       "name": "DFMU",
       "url": "https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd"
+    },
+    {
+      "added_at": "2024-02-07 18:14:04",
+      "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 329933,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH"
     },
     {
       "added_at": "2024-02-05 04:09:08",
@@ -663,26 +755,6 @@
     {
       "added_at": "2024-02-05 04:09:08",
       "album": {
-        "name": "Persuasive (with SZA)",
-        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Persuasive (with SZA)",
-      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
         "name": "Feel Like Makin' Love",
         "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
       },
@@ -731,22 +803,6 @@
     {
       "added_at": "2024-02-05 04:09:08",
       "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 201609,
-      "name": "Shot Clock",
-      "url": "https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
         "name": "blue water road",
         "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
       },
@@ -775,78 +831,6 @@
       "duration_ms": 278333,
       "name": "I'm So Into You",
       "url": "https://open.spotify.com/track/5A0aUvnfAEcmUx3hoXjI8R"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
-        "name": "I Feel for You",
-        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 343400,
-      "name": "I Feel for You",
-      "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
-        }
-      ],
-      "duration_ms": 245480,
-      "name": "Party (feat. Andr\u00e9 3000)",
-      "url": "https://open.spotify.com/track/42qh86p7TLXyumxSHn65kc"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
-        "name": "You're All I Need",
-        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "You're All I Need To Get By",
-      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
-        "name": "Crazy Tings",
-        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Crazy Tings",
-      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     }
   ],
   "unique_name": "Women of R&B",

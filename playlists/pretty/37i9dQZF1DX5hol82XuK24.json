@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 425535,
+  "num_followers": 425620,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWQ1NmMzZjYzYmFlZGRlMTA1MzQ5ZTA4Y2M4MGY2ZTdiOTZmNGY3",
+  "snapshot_id": "MCwxMzUwYjQ5N2ZkMDYzNDUyYmM1YzM1OTA1OTQyNGQ4NTUyNDkwM2Y4",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "The Moon and the Melodies",
         "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 189040,
       "name": "Sea, Swallow Me",
       "url": "https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Space Heavy",
-        "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 127150,
-      "name": "Empty Stomach Space Cadet",
-      "url": "https://open.spotify.com/track/0cwE12SmWNLi8YNkoxmfGp"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Spit It Out",
         "url": "https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 187396,
       "name": "Spit It Out",
       "url": "https://open.spotify.com/track/44la56EZdE2fw9r963o5E2"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Space Heavy",
+        "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 127150,
+      "name": "Empty Stomach Space Cadet",
+      "url": "https://open.spotify.com/track/0cwE12SmWNLi8YNkoxmfGp"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY"
     },
     {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Flower of Devotion",
-        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 177316,
-      "name": "Flood",
-      "url": "https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H"
-    },
-    {
       "added_at": "2024-02-05 23:33:58",
       "album": {
         "name": "Contently Miserable",
@@ -1115,6 +1099,22 @@
       "duration_ms": 215000,
       "name": "Contently Miserable",
       "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Flower of Devotion",
+        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 177316,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Hard Candy",
-        "url": "https://open.spotify.com/album/0G92mUSxbHxB804ldhPOru"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 113454,
-      "name": "Hard Candy",
-      "url": "https://open.spotify.com/track/4eEvoOiMlEaE2jbEPbYN7b"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Debonair",
         "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 265879,
       "name": "Wharf (ii)",
       "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/0G92mUSxbHxB804ldhPOru"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 113454,
+      "name": "Hard Candy",
+      "url": "https://open.spotify.com/track/4eEvoOiMlEaE2jbEPbYN7b"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Spelling",
-        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
-      },
-      "artists": [
-        {
-          "name": "Lolahol",
-          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
-        }
-      ],
-      "duration_ms": 241133,
-      "name": "Spelling",
-      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 491180,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Spelling",
+        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
+      },
+      "artists": [
+        {
+          "name": "Lolahol",
+          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
+        }
+      ],
+      "duration_ms": 241133,
+      "name": "Spelling",
+      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Miracle of Life",
-        "url": "https://open.spotify.com/album/2zhLqLBVarC5FcaYC3CfZx"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 216584,
-      "name": "Miracle of Life",
-      "url": "https://open.spotify.com/track/7ypqr1r0iQSrkF9eP21wjh"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Covered In Hether",
         "url": "https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 191860,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Miracle of Life",
+        "url": "https://open.spotify.com/album/2zhLqLBVarC5FcaYC3CfZx"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 216584,
+      "name": "Miracle of Life",
+      "url": "https://open.spotify.com/track/7ypqr1r0iQSrkF9eP21wjh"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "The Wetlands",
-        "url": "https://open.spotify.com/album/1f9aZDpwbuGpridBmTHi8h"
-      },
-      "artists": [
-        {
-          "name": "Aoife Wolf",
-          "url": "https://open.spotify.com/artist/0UjP3boKokgDROjh9HzfYg"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "The Wetlands",
-      "url": "https://open.spotify.com/track/4bA08mTRGaTbyAdZedkgaX"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "They Moved In Shadow All Together",
         "url": "https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "The Wetlands",
+        "url": "https://open.spotify.com/album/1f9aZDpwbuGpridBmTHi8h"
+      },
+      "artists": [
+        {
+          "name": "Aoife Wolf",
+          "url": "https://open.spotify.com/artist/0UjP3boKokgDROjh9HzfYg"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "The Wetlands",
+      "url": "https://open.spotify.com/track/4bA08mTRGaTbyAdZedkgaX"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Tape V",
         "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
       },
@@ -1571,6 +1571,22 @@
       "duration_ms": 177801,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Less",
+        "url": "https://open.spotify.com/album/7H0jxA1HMTBK1IbvqJEPuk"
+      },
+      "artists": [
+        {
+          "name": "deathcrash",
+          "url": "https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Duffy's",
+      "url": "https://open.spotify.com/track/4lcamfRMk5t5fC2OQ3QfXZ"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1603,22 +1619,6 @@
       "duration_ms": 182002,
       "name": "Used To It",
       "url": "https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Less",
-        "url": "https://open.spotify.com/album/7H0jxA1HMTBK1IbvqJEPuk"
-      },
-      "artists": [
-        {
-          "name": "deathcrash",
-          "url": "https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Duffy's",
-      "url": "https://open.spotify.com/track/4lcamfRMk5t5fC2OQ3QfXZ"
     },
     {
       "added_at": "2023-11-03 23:08:22",

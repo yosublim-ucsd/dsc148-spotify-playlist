@@ -1,12 +1,12 @@
 {
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
-  "num_followers": 217026,
+  "num_followers": 217044,
   "original_name": "Foco no Estudo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWE5ODBhODU4ZTE4YjJjM2M4NzFhMGY0NTc1Y2IwNGUxZTEwZjZm",
+  "snapshot_id": "MCw4NGEwMWYzOTcxOTg1MDUwYzg1MjQyY2RlMWY2MWM3MWE3OTgyMmMz",
   "tracks": [
     {
       "added_at": "2024-01-29 15:47:34",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "In the clouds",
-        "url": "https://open.spotify.com/album/5LXcMPLisz4OwQgaAkuwSD"
-      },
-      "artists": [
-        {
-          "name": "Lydia Barnes",
-          "url": "https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN"
-        }
-      ],
-      "duration_ms": 123645,
-      "name": "In the clouds",
-      "url": "https://open.spotify.com/track/3hnm4zvIqFhz6FsWK2O6HM"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
         "name": "Ignis",
         "url": "https://open.spotify.com/album/6Z0Zu6OiJYKJ4FXGl9rpXO"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 212250,
       "name": "Ignis",
       "url": "https://open.spotify.com/track/0kDuotZ7G61nk9rQNcHBbK"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "In the clouds",
+        "url": "https://open.spotify.com/album/5LXcMPLisz4OwQgaAkuwSD"
+      },
+      "artists": [
+        {
+          "name": "Lydia Barnes",
+          "url": "https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN"
+        }
+      ],
+      "duration_ms": 123645,
+      "name": "In the clouds",
+      "url": "https://open.spotify.com/track/3hnm4zvIqFhz6FsWK2O6HM"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Then I Saw You",
-        "url": "https://open.spotify.com/album/11e0Rf3uYRPR4nQUOqKpOQ"
-      },
-      "artists": [
-        {
-          "name": "Theordor Wessman",
-          "url": "https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA"
-        }
-      ],
-      "duration_ms": 186708,
-      "name": "Then I Saw You",
-      "url": "https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
         "name": "Dreamscape",
         "url": "https://open.spotify.com/album/6NATzdC2BiLCImkdKA16jM"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 146142,
       "name": "Dreamscape",
       "url": "https://open.spotify.com/track/2NBflxsb2XJnTEBrFXy5XF"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "Then I Saw You",
+        "url": "https://open.spotify.com/album/11e0Rf3uYRPR4nQUOqKpOQ"
+      },
+      "artists": [
+        {
+          "name": "Theordor Wessman",
+          "url": "https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA"
+        }
+      ],
+      "duration_ms": 186708,
+      "name": "Then I Saw You",
+      "url": "https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Zephyr",
-        "url": "https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4"
-      },
-      "artists": [
-        {
-          "name": "Con Alma",
-          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
-        }
-      ],
-      "duration_ms": 160694,
-      "name": "Zephyr",
-      "url": "https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
         "name": "Fading Embers",
         "url": "https://open.spotify.com/album/67QrN8t6R2s5wydrWNg62g"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 162136,
       "name": "Fading Embers",
       "url": "https://open.spotify.com/track/2zlwHdQh0b72gUeMhkRwkR"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "Zephyr",
+        "url": "https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4"
+      },
+      "artists": [
+        {
+          "name": "Con Alma",
+          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
+        }
+      ],
+      "duration_ms": 160694,
+      "name": "Zephyr",
+      "url": "https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -927,8 +927,8 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Flickering Flame",
-        "url": "https://open.spotify.com/album/3ndLiNJW5n7J0oFshWnThj"
+        "name": "Whatever is left",
+        "url": "https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
         }
       ],
-      "duration_ms": 162437,
-      "name": "Flickering Flame",
-      "url": "https://open.spotify.com/track/67g2IwGrHQW0MXnZ1Gr8Km"
+      "duration_ms": 123628,
+      "name": "Whatever is left",
+      "url": "https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -955,6 +955,22 @@
       "duration_ms": 131551,
       "name": "Ripples of Moonlight",
       "url": "https://open.spotify.com/track/7bpquLnlXXBPG7VsR0QKM1"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "The hills",
+        "url": "https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "duration_ms": 172264,
+      "name": "The hills",
+      "url": "https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -991,18 +1007,34 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "The hills",
-        "url": "https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid"
+        "name": "Sailing Away",
+        "url": "https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7"
       },
       "artists": [
         {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+          "name": "Anthony Jacobus",
+          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
         }
       ],
-      "duration_ms": 172264,
-      "name": "The hills",
-      "url": "https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u"
+      "duration_ms": 143879,
+      "name": "Sailing Away",
+      "url": "https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "Flickering Flame",
+        "url": "https://open.spotify.com/album/3ndLiNJW5n7J0oFshWnThj"
+      },
+      "artists": [
+        {
+          "name": "Noemi Lucas",
+          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+        }
+      ],
+      "duration_ms": 162437,
+      "name": "Flickering Flame",
+      "url": "https://open.spotify.com/track/67g2IwGrHQW0MXnZ1Gr8Km"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -1019,38 +1051,6 @@
       "duration_ms": 141500,
       "name": "Pneuma",
       "url": "https://open.spotify.com/track/66AEotuooy840dzHKyW9Ks"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
-        "name": "Whatever is left",
-        "url": "https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q"
-      },
-      "artists": [
-        {
-          "name": "Noemi Lucas",
-          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
-        }
-      ],
-      "duration_ms": 123628,
-      "name": "Whatever is left",
-      "url": "https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
-        "name": "Sailing Away",
-        "url": "https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7"
-      },
-      "artists": [
-        {
-          "name": "Anthony Jacobus",
-          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
-        }
-      ],
-      "duration_ms": 143879,
-      "name": "Sailing Away",
-      "url": "https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Lugn",
-        "url": "https://open.spotify.com/album/32Di3Yyg05ysztLJV02oYh"
+        "name": "Littoral",
+        "url": "https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC"
       },
       "artists": [
         {
-          "name": "Ole-Bj\u00f8rn Talstad",
-          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
         }
       ],
-      "duration_ms": 138187,
-      "name": "Lugn",
-      "url": "https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB"
+      "duration_ms": 141216,
+      "name": "Littoral",
+      "url": "https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Return To Le Berry",
-        "url": "https://open.spotify.com/album/6NSObXFjmErUsJ4FA5kGqM"
+        "name": "Lugn",
+        "url": "https://open.spotify.com/album/32Di3Yyg05ysztLJV02oYh"
       },
       "artists": [
         {
-          "name": "Jordi Forni\u00e9s",
-          "url": "https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x"
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
         }
       ],
-      "duration_ms": 165826,
-      "name": "Return To Le Berry",
-      "url": "https://open.spotify.com/track/5CLTDDnoA0QbcKKIwpEDDa"
+      "duration_ms": 138187,
+      "name": "Lugn",
+      "url": "https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -1259,6 +1259,22 @@
       "duration_ms": 157626,
       "name": "Fallen Leaves",
       "url": "https://open.spotify.com/track/7sLmX8Xykhu6LXWHU3Srpe"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "Return To Le Berry",
+        "url": "https://open.spotify.com/album/6NSObXFjmErUsJ4FA5kGqM"
+      },
+      "artists": [
+        {
+          "name": "Jordi Forni\u00e9s",
+          "url": "https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x"
+        }
+      ],
+      "duration_ms": 165826,
+      "name": "Return To Le Berry",
+      "url": "https://open.spotify.com/track/5CLTDDnoA0QbcKKIwpEDDa"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Morning-Star",
-        "url": "https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo"
-      },
-      "artists": [
-        {
-          "name": "Avi Mehta",
-          "url": "https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi"
-        }
-      ],
-      "duration_ms": 180308,
-      "name": "Morning-Star",
-      "url": "https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
         "name": "Metanoia",
         "url": "https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl"
       },
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Littoral",
-        "url": "https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC"
+        "name": "Morning-Star",
+        "url": "https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo"
       },
       "artists": [
         {
-          "name": "Jozef De Schutter",
-          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+          "name": "Avi Mehta",
+          "url": "https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi"
         }
       ],
-      "duration_ms": 141216,
-      "name": "Littoral",
-      "url": "https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd"
+      "duration_ms": 180308,
+      "name": "Morning-Star",
+      "url": "https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI"
     },
     {
       "added_at": "2024-01-29 15:47:34",

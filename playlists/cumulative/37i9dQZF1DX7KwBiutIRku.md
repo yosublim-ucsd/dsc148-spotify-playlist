@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [7 O'Clock \- 30th Anniversary Version](https://open.spotify.com/track/22JtENh4WNZxFll7qVG5rY) | [The Quireboys](https://open.spotify.com/artist/0d49iRrp4iVZggKbcpxnqI) | [7 O'Clock \(30th Anniversary Version\)](https://open.spotify.com/album/4U4Y79UjbLeePgMRIpNKAt) | 3:43 | 2021-07-30 |  |
 | [Blue Moanin'](https://open.spotify.com/track/33DnCxTMS3xPD3Xr8tEva5) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Not Fragile](https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1) | 3:43 | 2020-12-01 |  |
-| [Born To Boogie](https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx](https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG) | 2:04 | 2020-12-01 |  |
+| [Born To Boogie](https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx](https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG) | 2:04 | 2020-12-01 | 2024-02-08 |
 | [Borstal Boys](https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 2:53 | 2020-12-01 |  |
 | [Bourbon](https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Jinx \(Remastered 2017\)](https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS) | 3:54 | 2020-12-01 |  |
 | [California Man](https://open.spotify.com/track/5e4kUj91oLjKxxiT8akiQV) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Heaven Tonight](https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN) | 3:44 | 2020-12-01 |  |
@@ -63,6 +63,6 @@
 | [True Blue](https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Never A Dull Moment](https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ) | 3:31 | 2020-12-01 |  |
 | [Tush \- 2006 Remaster](https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 2:17 | 2020-12-01 |  |
 | [Whatever You Want](https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Quotable Quo](https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj) | 4:02 | 2020-12-01 |  |
-| [Worry No More](https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [Gimme Some Neck](https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9) | 2:33 | 2020-12-01 | 2024-02-07 |
+| [Worry No More](https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [Gimme Some Neck](https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9) | 2:33 | 2020-12-01 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

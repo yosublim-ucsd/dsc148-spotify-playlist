@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,097 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,182 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 6 | [Never Give Your Heart Away](https://open.spotify.com/track/00NZUSWCUszqs2MFEfReTj) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/29SbydyD69yI0qs7Ma3xMs) | 3:05 |
 | 7 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 |
 | 8 | [Addis Ababa](https://open.spotify.com/track/7BpfGzM57fK5fIw7Pt0yBO) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/6OuYm1xpB29dhuVXOXT58v) | 2:24 |
-| 9 | [People Make the World Go Round](https://open.spotify.com/track/1XMBtQ6S7DJoj1FDLpFBgq) | [Hortense Ellis](https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2) | [Alton & Hortense Ellis](https://open.spotify.com/album/2Q8BPKtSNcI3YHc0gHtW0q) | 3:18 |
-| 10 | [Jah Jah Go Before Us](https://open.spotify.com/track/0zUagLtFMJJWhXtTBp5OLT) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Presenting The Gladiators](https://open.spotify.com/album/2k0QrDX5MJCGHp0XyHyOBg) | 2:41 |
-| 11 | [Mad World](https://open.spotify.com/track/6oZymvG8LsXxMzDFPwBqRf) | [Hugh Godfrey](https://open.spotify.com/artist/1z66MA7rp4Rm0tvBIjaM0r) | [This Girl Loves Reggae](https://open.spotify.com/album/1TuWq3VmQSEC18DBlED4BD) | 1:48 |
+| 9 | [Mad World](https://open.spotify.com/track/6oZymvG8LsXxMzDFPwBqRf) | [Hugh Godfrey](https://open.spotify.com/artist/1z66MA7rp4Rm0tvBIjaM0r) | [This Girl Loves Reggae](https://open.spotify.com/album/1TuWq3VmQSEC18DBlED4BD) | 1:48 |
+| 10 | [People Make the World Go Round](https://open.spotify.com/track/1XMBtQ6S7DJoj1FDLpFBgq) | [Hortense Ellis](https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2) | [Alton & Hortense Ellis](https://open.spotify.com/album/2Q8BPKtSNcI3YHc0gHtW0q) | 3:18 |
+| 11 | [Jah Jah Go Before Us](https://open.spotify.com/track/0zUagLtFMJJWhXtTBp5OLT) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Presenting The Gladiators](https://open.spotify.com/album/2k0QrDX5MJCGHp0XyHyOBg) | 2:41 |
 | 12 | [Gumma](https://open.spotify.com/track/48lJI0zX6WopGcgmwv22kv) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Fat Back Ska, Vol\. 2](https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw) | 1:51 |
 | 13 | [Declaration of Rights](https://open.spotify.com/track/3nZY7IAd5VJ9O2E5vHynx6) | [The Abyssinians](https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj) | [The Best of Studio One, Vol\. 1](https://open.spotify.com/album/4I8Brkbsd0auuU1R3dsws7) | 3:19 |
 | 14 | [Waiting In Vain](https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 4:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Nanny’s Corner](https://open.spotify.com/track/5xUjLG37Qk3YR2CYpGHgKR) | [Don Drummond](https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:35 |
 | 60 | [Pick Up The Pieces](https://open.spotify.com/track/63OEtoCA6gPrkeqe68xsN7) | [The Royals](https://open.spotify.com/artist/3wbKJbdbAOOAvNyJQjGfNn) | [Studio One Groups](https://open.spotify.com/album/3vFEdqMMbJas3yRrxcBtUo) | 3:09 |
 
-Snapshot ID: `MCw4NWNmZjlmYWM0ZTc0NDNlZDg3ODY5ZWViOWQzYTcwODcyZWJmOTc0`
+Snapshot ID: `MCw4Y2NhMzJkYjE0YmE1ZDVlYWNjNjA3NTI4MGNhMWNiNDg2MTgwOTRl`

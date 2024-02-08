@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,991 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,105 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 75 | [I'm Glad There Is You](https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:30 |
 | 76 | [One for My Baby](https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN) | [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c) | [Meet Me Around Midnight](https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO) | 3:49 |
 | 77 | [Night And Day](https://open.spotify.com/track/6MbV4d7n6EGqq7wuGazsUw) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Complete Great American Songbook](https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j) | 3:06 |
-| 78 | [A Time For Love \- Remastered](https://open.spotify.com/track/6TDHACSGU6EW26p8kYXGs6) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic \(Remastered\)](https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3) | 5:06 |
-| 79 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/5JXIXRW1vXBgWvBqyUEHZg) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Love Is The Thing](https://open.spotify.com/album/3ofmbu4psYknhfw89Sh6T0) | 3:26 |
+| 78 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/5JXIXRW1vXBgWvBqyUEHZg) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Love Is The Thing](https://open.spotify.com/album/3ofmbu4psYknhfw89Sh6T0) | 3:26 |
+| 79 | [A Time For Love \- Remastered](https://open.spotify.com/track/6TDHACSGU6EW26p8kYXGs6) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic \(Remastered\)](https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3) | 5:06 |
 | 80 | [I Love You](https://open.spotify.com/track/25uHdsKbJ51ovqUODbz00P) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita O'Day Swings Cole Porter With Billy May](https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO) | 1:59 |
 | 81 | [Sunny](https://open.spotify.com/track/35jMzVgRFxGkSg7N0ZMVTw) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Jeff Rach](https://open.spotify.com/artist/6YAlFgtCMJB9VKgKncFlTN) | [Lush Life](https://open.spotify.com/album/29hewcqIIQfEFYlghRWYD2) | 3:59 |
 | 82 | [That's All](https://open.spotify.com/track/6QQZ902yIsQOHCusbHb3g9) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Vaughan And Violins](https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl) | 3:31 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 85 | [The Song Is You](https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:12 |
 | 86 | [Isn't It Romantic](https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:21 |
 | 87 | [You Leave Me Breathless](https://open.spotify.com/track/61G1SRmkZ99bVo9LbwQ4Tk) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé: It's a Blue World](https://open.spotify.com/album/5IOuMdNEEdJjJY7n7yad4H) | 3:23 |
-| 88 | [I Can't Give You Anything But Love](https://open.spotify.com/track/0QpIXiEeziy7SYf85KH0z6) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [The Lost Tapes](https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi) | 3:14 |
-| 89 | [Let's Call The Whole Thing Off](https://open.spotify.com/track/0K4EFVqPaD9cpx7h42YycE) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 4:24 |
+| 88 | [Let's Call The Whole Thing Off](https://open.spotify.com/track/0K4EFVqPaD9cpx7h42YycE) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 4:24 |
+| 89 | [I Can't Give You Anything But Love](https://open.spotify.com/track/0QpIXiEeziy7SYf85KH0z6) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [The Lost Tapes](https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi) | 3:14 |
 | 90 | [If You Were Mine](https://open.spotify.com/track/1sMb1VoCi31FQiC435Rocn) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [So Warm](https://open.spotify.com/album/6gnhgowSVTcOXuP9v3Jcr0) | 2:42 |
 | 91 | [My Foolish Heart](https://open.spotify.com/track/6gEIFDwEixJQy6DbxToS77) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Blue Moon](https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX) | 3:09 |
 | 92 | [Baby, What Else Can I Do?](https://open.spotify.com/track/4ThZ5kjaWK29G7EcRJbVAr) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [Presenting Ethel Waters](https://open.spotify.com/album/1JrSOh4OcBNytK0rpZLh0Z) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 99 | [Have You Met Miss Jones](https://open.spotify.com/track/597IFswsQ0TaWnNn2S9wYh) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [You Are Free](https://open.spotify.com/album/6AFnZ1lljnYwntxC8YHSy7) | 2:05 |
 | 100 | [Dedicated to You \- Remastered 2003](https://open.spotify.com/track/2Ako7iEOscH89vNTr14djH) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj), [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Sarah \- Dedicated to You](https://open.spotify.com/album/6J959QPUPIq5apPFovaoiJ) | 6:02 |
 
-Snapshot ID: `MCwxMWI2NGMyN2QyYTg4OWQwZmFiZWI4NWM4MDYzMmUxYmMwYWY2ZjAz`
+Snapshot ID: `MCxiOGE2MDYxOTU1MjI4MTY4N2Q1MjA0MWJjYzA3NjJjMjM5ZTc0ZTNi`

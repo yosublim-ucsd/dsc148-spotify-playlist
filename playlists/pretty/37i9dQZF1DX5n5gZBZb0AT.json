@@ -1,29 +1,13 @@
 {
   "description": "all gains",
-  "num_followers": 366103,
+  "num_followers": 366759,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjUyYzI0NDk4Y2JmMzYxZDkxY2U0OTdjOWVhZmYzYWU5N2Q5NjVj",
+  "snapshot_id": "MCxhM2MyYWI5MTgxMjY3NGM1M2NhZTdmNjAzOGRiMGQ1MDI5MjQ2ZmRi",
   "tracks": [
-    {
-      "added_at": "2024-01-31 16:04:54",
-      "album": {
-        "name": "METAMORPHOSIS",
-        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
-      },
-      "artists": [
-        {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
-        }
-      ],
-      "duration_ms": 142839,
-      "name": "METAMORPHOSIS",
-      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
-    },
     {
       "added_at": "2024-01-31 16:04:54",
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 61673,
       "name": "MONTAGEM - PR FUNK",
       "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
+    },
+    {
+      "added_at": "2024-01-31 16:04:54",
+      "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "duration_ms": 142839,
+      "name": "METAMORPHOSIS",
+      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
       "added_at": "2024-01-31 16:04:54",
@@ -140,7 +140,7 @@
           "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
         }
       ],
-      "duration_ms": 161250,
+      "duration_ms": 161271,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
     },
@@ -275,6 +275,26 @@
     {
       "added_at": "2024-01-31 16:04:54",
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj"
+    },
+    {
+      "added_at": "2024-01-31 16:04:54",
+      "album": {
         "name": "Agudo M\u00e1gico 4",
         "url": "https://open.spotify.com/album/5A6i6FT6QjGhTUQaXk2TAb"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 190100,
       "name": "Agudo M\u00e1gico 4",
       "url": "https://open.spotify.com/track/4wjDiZGsZYQqKkXyPcQGF6"
-    },
-    {
-      "added_at": "2024-01-31 16:04:54",
-      "album": {
-        "name": "USB",
-        "url": "https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 222784,
-      "name": "leavemealone",
-      "url": "https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj"
     },
     {
       "added_at": "2024-01-31 16:04:54",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-01-31 16:04:54",
       "album": {
-        "name": "GHOST!",
-        "url": "https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3"
-      },
-      "artists": [
-        {
-          "name": "phonk.me",
-          "url": "https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A"
-        },
-        {
-          "name": "KIIXSHI",
-          "url": "https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh"
-        }
-      ],
-      "duration_ms": 231704,
-      "name": "GHOST!",
-      "url": "https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ"
-    },
-    {
-      "added_at": "2024-01-31 16:04:54",
-      "album": {
         "name": "WORTH NOTHING (feat. Oliver Tree) [Fast & Furious: Drift Tape/Phonk Vol 1]",
         "url": "https://open.spotify.com/album/1nyfZlIOe109tZTrpR3z8h"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 164629,
       "name": "WORTH NOTHING (feat. Oliver Tree) - Fast & Furious: Drift Tape/Phonk Vol 1",
       "url": "https://open.spotify.com/track/3PjbA0O5olhampPMdaB0V1"
+    },
+    {
+      "added_at": "2024-01-31 16:04:54",
+      "album": {
+        "name": "GHOST!",
+        "url": "https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3"
+      },
+      "artists": [
+        {
+          "name": "phonk.me",
+          "url": "https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A"
+        },
+        {
+          "name": "KIIXSHI",
+          "url": "https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh"
+        }
+      ],
+      "duration_ms": 231704,
+      "name": "GHOST!",
+      "url": "https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ"
     },
     {
       "added_at": "2024-01-31 16:04:54",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-01-31 16:04:54",
       "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
-      },
-      "artists": [
-        {
-          "name": "Isolate.exe",
-          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
-    },
-    {
-      "added_at": "2024-01-31 16:04:54",
-      "album": {
         "name": "BRODYAGA FUNK",
         "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 134785,
       "name": "BRODYAGA FUNK",
       "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
+    },
+    {
+      "added_at": "2024-01-31 16:04:54",
+      "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
+      },
+      "artists": [
+        {
+          "name": "Isolate.exe",
+          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
     },
     {
       "added_at": "2024-01-31 16:04:54",

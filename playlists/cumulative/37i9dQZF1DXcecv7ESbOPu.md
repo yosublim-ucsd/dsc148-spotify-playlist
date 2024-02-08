@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-11,693 songs - 25 day 5 hr 59 min
+11,695 songs - 25 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2101,7 +2101,8 @@
 | [Crowded Roomz](https://open.spotify.com/track/2bnatDQSIhiZBVfVUT0PUe) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Crowded Roomz](https://open.spotify.com/album/6noU224rd5kmYt0KPBhtgG) | 2:52 | 2024-01-18 | 2024-01-26 |
 | [Cruel and Unusual](https://open.spotify.com/track/106ctYErVQpDqvIFGTtOjR) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Cruel and Unusual](https://open.spotify.com/album/5MG2GwzVa5KifUDokyBNM4) | 4:00 | 2021-12-30 | 2022-01-07 |
 | [Cruise Control](https://open.spotify.com/track/53NLq6SSyKSkLBdWkoYrE7) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 3:26 | 2022-07-21 | 2022-07-29 |
-| [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 | 2024-02-01 |  |
+| [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 | 2024-02-02 |  |
+| [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 | 2024-02-01 | 2024-02-08 |
 | [Crush](https://open.spotify.com/track/00Apys6jYrWA0Bse9Yon6O) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Crush](https://open.spotify.com/album/4zhSWdHOuYGS7EoJiY6PaE) | 2:55 | 2023-09-14 | 2023-09-22 |
 | [Crush](https://open.spotify.com/track/7cV58Bvu5K4WzbIBg6hX6t) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Crush](https://open.spotify.com/album/1CWq7PQ64ramfG01Tsocb8) | 3:00 | 2023-02-02 | 2023-02-10 |
 | [Crush](https://open.spotify.com/track/3GldXbSFOqFbLVsluOkm4M) | [Nardeccs](https://open.spotify.com/artist/74nG9D3t3DVqtGjkCBc5cR) | [Crush](https://open.spotify.com/album/1YfQe8ZDLXXlwBWQp9RzO6) | 3:43 | 2022-02-11 | 2022-02-18 |
@@ -2435,7 +2436,8 @@
 | [Die Die](https://open.spotify.com/track/5V8GhharPOaSDtPFIDUDpD) | [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Die Die](https://open.spotify.com/album/7j3HfHLEfbzCPkpil5UfuC) | 2:43 | 2023-07-20 | 2023-07-28 |
 | [die first](https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first](https://open.spotify.com/album/56raLTkxER12w8xejGTpSG) | 2:57 | 2022-06-23 | 2022-07-01 |
 | [DIE FOR](https://open.spotify.com/track/6DZEDsL4uGAUoMTEMKEwNf) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [SECRETS, Pt\. 2](https://open.spotify.com/album/4t2C2ImWCATs3s9U44b3So) | 2:51 | 2023-10-12 | 2023-10-24 |
-| [Die For Me](https://open.spotify.com/track/67gYpZ9Kl4EwuQa3hZX6wR) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me](https://open.spotify.com/album/5Spe5tAY7QIn04uSBiGYt9) | 2:43 | 2024-02-01 |  |
+| [Die For Me](https://open.spotify.com/track/67gYpZ9Kl4EwuQa3hZX6wR) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me](https://open.spotify.com/album/5Spe5tAY7QIn04uSBiGYt9) | 2:43 | 2024-02-01 | 2024-02-08 |
+| [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/track/5YUsCI2mTieO4KJbLeQFR7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/album/21QcWrXk821IkKiL73BZre) | 2:43 | 2024-02-02 |  |
 | [Die For You](https://open.spotify.com/track/0KE7XSrflptF3TZdlIZxhV) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Die For You](https://open.spotify.com/album/1zUa1I1Y00qqOq58mjatgX) | 2:47 | 2023-04-27 | 2023-05-05 |
 | [Die for You](https://open.spotify.com/track/1p1LTkLWCG2DznGbIcd17w) | [Alex Skrindo](https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P), [Hazel](https://open.spotify.com/artist/4rkgDx09bDtVCllN0MJR1J) | [Die for You](https://open.spotify.com/album/00kmY1b83iA2wD6H4c1rZX) | 2:48 | 2022-08-18 | 2022-08-26 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-03 | 2022-11-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,976 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,040 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 47 | [Ne Me Quitte Pas \(Don't Leave Me\)](https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Hold Space For Me](https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB) | 2:48 |
 | 48 | [When the Night is Over](https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Vide Noir](https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv) | 5:11 |
 | 49 | [Cigarettes and Coffee](https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Soul Album](https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg) | 4:00 |
-| 50 | [When I Get My Hands On You](https://open.spotify.com/track/4Fs6KJzg4d0xrGZt7wrC0M) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River](https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq) | 3:10 |
-| 51 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
+| 50 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
+| 51 | [When I Get My Hands On You](https://open.spotify.com/track/4Fs6KJzg4d0xrGZt7wrC0M) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River](https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq) | 3:10 |
 | 52 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 |
 | 53 | [Rearrange Us](https://open.spotify.com/track/1uZIL52W5zXEF55fCh5lqP) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9) | 3:08 |
 | 54 | [Is It Any Wonder?](https://open.spotify.com/track/6kle4XS7gyiUIb0tmsyCf4) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 4:36 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 78 | [Used To Be Friends](https://open.spotify.com/track/1KhSRq5A95Pj3yseW6uK7P) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Guard Dog](https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58) | 5:35 |
 | 79 | [I Live for You \(2014 Remaster\)](https://open.spotify.com/track/6YU1CWbu43zkv21W0FyN10) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 3:37 |
 | 80 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
-| 81 | [Lay Down](https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:48 |
-| 82 | [Cottage Roads](https://open.spotify.com/track/1LEK0kOPQrWihpzZO4rMkN) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Young Men](https://open.spotify.com/album/5ADia0t4o7pA8dyi8jRA4E) | 3:01 |
+| 81 | [Cottage Roads](https://open.spotify.com/track/1LEK0kOPQrWihpzZO4rMkN) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Young Men](https://open.spotify.com/album/5ADia0t4o7pA8dyi8jRA4E) | 3:01 |
+| 82 | [Lay Down](https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:48 |
 | 83 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 |
 | 84 | [iFeel](https://open.spotify.com/track/5sOft06wJLNSza2YwnE2MO) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 4:29 |
 | 85 | [Change](https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Change](https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C) | 1:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 99 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
 | 100 | [Great Big Bundle Of Love](https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Brenton Wood's 18 Best](https://open.spotify.com/album/7vCgqJfW4lFgMUFBPPcefa) | 2:18 |
 
-Snapshot ID: `MCw3YzVlNmI3MDFjMjkxMTZhMDFlYTFlY2RhZDU0MDBmMTU3N2UyYmM1`
+Snapshot ID: `MCwzMDJhZmY1YWI4OGE4ZTRhMWY0OTBlZmU5N2EyMzMzNmZhMTg0MjFj`

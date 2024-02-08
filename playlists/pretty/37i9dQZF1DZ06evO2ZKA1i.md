@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,818 likes - 51 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,847 likes - 51 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 13 | [Woman From Tokyo \- Remastered 2000](https://open.spotify.com/track/6hzu1SR1YbSRIzfSFSsGhh) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Who Do We Think We Are \(Remastered\)](https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y) | 5:51 |
 | 14 | [Space Truckin' \- Remastered 2012](https://open.spotify.com/track/5S126DaCBZ8z6yh7B1Lszr) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 4:32 |
 | 15 | [Love Conquers All](https://open.spotify.com/track/0Q7sFMIqfp3eMtjF3w3S6F) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Slaves and Masters \(Bonus Track Version\)](https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR) | 3:44 |
-| 16 | [A Gypsy's Kiss](https://open.spotify.com/track/2Uh9e3fTZRPBzxqNPaY7zr) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 5:12 |
+| 16 | [Wasted Sunsets](https://open.spotify.com/track/07W9HcJyjXPnKQSMbUcWZU) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 3:55 |
 | 17 | [Sometimes I Feel Like Screaming](https://open.spotify.com/track/5coxHUKzWOdMXunt7EGDDX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Purpendicular](https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v) | 7:29 |
 | 18 | [Pictures Of Home \- Remastered 2012](https://open.spotify.com/track/5cXKhFw5kjRSfifazrnPbp) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 5:03 |
 | 19 | [Fireball \- 1996 Remaster](https://open.spotify.com/track/3bLfteEOjNnH7Gpa2NgSlF) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Fireball \(25th Anniversary Edition\)](https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6) | 3:24 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 50 | [Fault Line \- 2000 Remaster](https://open.spotify.com/track/2f51DOVhCVWo1FU1IJYYsf) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple](https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc) | 1:46 |
 | 51 | [Vavoom: Ted The Mechanic](https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Purpendicular](https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v) | 4:16 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA2M2QzYmE1NTdlYzFkNGQxY2Y4YzQ5NGU3OWJmNTdjOQ==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDBiMTdkOWQzMDEzNDk2MGMxNDAyYTQxMmZiZDY0NzQ4ZA==`

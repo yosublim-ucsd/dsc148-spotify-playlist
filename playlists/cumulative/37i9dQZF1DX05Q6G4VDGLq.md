@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-824 songs - 2 day 1 hr 27 min
+825 songs - 2 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [After You've Gone](https://open.spotify.com/track/7If1cSPSy5zpDFxNTYzHRs) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [After You've Gone](https://open.spotify.com/album/2xWwdUCyFng2oWhP6MeuUy) | 2:42 | 2023-04-27 |  |
 | [Ahead Of Us](https://open.spotify.com/track/19Cs9hnUVylVexTgnqvA6C) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Ahead Of Us](https://open.spotify.com/album/6k2n4F9pnvnOWU7gAS7TRm) | 3:26 | 2023-06-15 |  |
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2022-06-28 |  |
-| [Alfie](https://open.spotify.com/track/5YTYCMTxcvM29aTYRp99gm) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Born in July](https://open.spotify.com/album/4IJTErkPQ9dSsEt2FyPuzt) | 3:37 | 2022-06-28 |  |
+| [Alfie](https://open.spotify.com/track/5YTYCMTxcvM29aTYRp99gm) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Born in July](https://open.spotify.com/album/4IJTErkPQ9dSsEt2FyPuzt) | 3:37 | 2022-06-28 | 2024-02-08 |
 | [Alice In Wonderland](https://open.spotify.com/track/3I7ITtodK56QgpwLT7bMd2) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Alice In Wonderland](https://open.spotify.com/album/3HSDUYPQA61e3cMP6msC8l) | 4:04 | 2022-10-13 |  |
 | [Alive](https://open.spotify.com/track/2sHJ4oiPb8XWveU2aqOw4m) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Alive](https://open.spotify.com/album/2aXlJtP2pqXUcm8d7WwMWJ) | 3:20 | 2023-08-10 |  |
 | [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 | 2023-08-25 |  |
@@ -408,6 +408,7 @@
 | [Last Time We Kissed](https://open.spotify.com/track/2VKyHhj7QFTyxqOwyde1rS) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 4:14 | 2022-12-08 |  |
 | [Late At Night](https://open.spotify.com/track/6pv7UGD1CNFS7Lzm6ro7aK) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [Late At Night](https://open.spotify.com/album/5TuHXCf4FxpKGBtrdibi9m) | 3:50 | 2023-08-10 |  |
 | [Late Bagatelle](https://open.spotify.com/track/7BfOE71MK4usBrYmArJt5M) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Late Bagatelle](https://open.spotify.com/album/1rn3qFrQqF1w4uKBU0mnhW) | 3:59 | 2023-08-17 |  |
+| [Late Nocturne](https://open.spotify.com/track/3aIvfacaZq4AUlXcebMnrp) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [Late Nocturne](https://open.spotify.com/album/6LJBIF7JqtPzQFAgVN6bTK) | 3:55 | 2024-02-02 |  |
 | [Late Reflections](https://open.spotify.com/track/76RWGx3zZ46aIY4WPjsLuo) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Late Reflections](https://open.spotify.com/album/2iJH0ujIwbtlQ41b3CBcaO) | 3:41 | 2023-04-20 |  |
 | [Later And Later](https://open.spotify.com/track/2odZfZZd36vPy5nfuaLCmw) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Later And Later](https://open.spotify.com/album/1jfvvjvxU4HCh2UCTAt7i8) | 6:48 | 2023-12-08 |  |
 | [Laura](https://open.spotify.com/track/5c6uQOFSUzRGOiEVdDB6Zx) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Laura](https://open.spotify.com/album/53Vz2jcWzo7abWsSzjBWrj) | 4:04 | 2022-08-30 |  |

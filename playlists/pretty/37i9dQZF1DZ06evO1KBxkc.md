@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,134 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,228 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 28 | [Last Time \(feat\. G Herbo\)](https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 2:59 |
 | 29 | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG) | 2:53 |
 | 30 | [Booby Trap](https://open.spotify.com/track/4DaPOR4NVoIR8QOlWBn0r7) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Booby Trap](https://open.spotify.com/album/0hgNcobdiPWSRYZMuBlJph) | 2:16 |
-| 31 | [Fall in Love](https://open.spotify.com/track/1sXJ0TZDdYBIV4mlzQFi4j) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 3:34 |
-| 32 | [It's Crazy \(feat\. Melody\)](https://open.spotify.com/track/43KDvvVHjDBtx8qD5hs5qH) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Melody](https://open.spotify.com/artist/6RTLnOk36W68I78qjRi0XB) | [Artist 2.0 \(Deluxe\)](https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d) | 2:15 |
+| 31 | [It's Crazy \(feat\. Melody\)](https://open.spotify.com/track/43KDvvVHjDBtx8qD5hs5qH) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Melody](https://open.spotify.com/artist/6RTLnOk36W68I78qjRi0XB) | [Artist 2.0 \(Deluxe\)](https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d) | 2:15 |
+| 32 | [Fall in Love](https://open.spotify.com/track/1sXJ0TZDdYBIV4mlzQFi4j) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 3:34 |
 | 33 | [Somebody](https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 The Storm \(Expanded Edition\)](https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY) | 2:54 |
 | 34 | [February](https://open.spotify.com/track/6nCV2ldwVNe7xjRDgXO7ZC) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 2:34 |
 | 35 | [Timeless \(feat\. DJ SPINKING\)](https://open.spotify.com/track/0q5DrtpnnGpOvBy5nnPMbe) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [DJ SpinKing](https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM) | [TBA](https://open.spotify.com/album/2apbRBAafIKmcWwESmLHJi) | 3:04 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 51 | [Her Birthday](https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:34 |
 | 52 | [Tip Toe \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6ztvsy3C6hPjVg9j4x1XKJ) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:05 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA2ZmVkN2ZkODE3YTgxZmQ1YTVkMmY5OGQ5YjMyNGI4Zg==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDA0YmNkMDA4ZDI1NDM3ZDE4OTFjOWYyODc4YTkzYzM4Yw==`

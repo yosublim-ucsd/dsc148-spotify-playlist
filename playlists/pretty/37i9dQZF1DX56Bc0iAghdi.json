@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 29341,
+  "num_followers": 29377,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTk2NGI5YzFiYjgyYWExNzNjZTcyMjk1MmNhZDE5MjFlNDE1NzE2",
+  "snapshot_id": "MCw4Nzk4YjI3ZWY1YmVlY2ViYjc3NDQzZDE2ZDA1OWFkY2E0ZDUzZGZl",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
+        "name": "She Waits",
+        "url": "https://open.spotify.com/album/6htuk1jWdUa9s9egIHnWrb"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 246445,
+      "name": "Storehouse",
+      "url": "https://open.spotify.com/track/3Kf9UApNiDkWXHNtOThNkB"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/6zDrYIeQaD7KS3HAZst1PJ"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 154624,
       "name": "Radical",
       "url": "https://open.spotify.com/track/1Y9JQO7FizZV8zLuy509I8"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
-        "name": "She Waits",
-        "url": "https://open.spotify.com/album/6htuk1jWdUa9s9egIHnWrb"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 246445,
-      "name": "Storehouse",
-      "url": "https://open.spotify.com/track/3Kf9UApNiDkWXHNtOThNkB"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/4wYLab6GuVVnzVPno2a1wt"
+      },
+      "artists": [
+        {
+          "name": "Tori Harper",
+          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+        }
+      ],
+      "duration_ms": 205556,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/5rUnjEX9nsCSHaXYMvQZQr"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
         "name": "NOT BY CHANCE",
         "url": "https://open.spotify.com/album/3b8v7puIRYD29jbCAlWWUP"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 230574,
       "name": "MAYBE",
       "url": "https://open.spotify.com/track/1jV1Y8adI8byyeBimWankc"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/4wYLab6GuVVnzVPno2a1wt"
-      },
-      "artists": [
-        {
-          "name": "Tori Harper",
-          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
-        }
-      ],
-      "duration_ms": 205556,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/5rUnjEX9nsCSHaXYMvQZQr"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "The Great Migration",
-        "url": "https://open.spotify.com/album/3f2KvqW6BlbFsE4sAC4Az0"
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/5p4J0GlaNKf5Ti8P3YjNYw"
       },
       "artists": [
         {
-          "name": "Sean Curran",
-          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
         }
       ],
-      "duration_ms": 297573,
-      "name": "The Great Migration",
-      "url": "https://open.spotify.com/track/64GSNWih2teT6tLgKOv0DR"
+      "duration_ms": 178878,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/7qN4u1nehLLf702kG6j1QJ"
     }
   ],
   "unique_name": "Spirit",

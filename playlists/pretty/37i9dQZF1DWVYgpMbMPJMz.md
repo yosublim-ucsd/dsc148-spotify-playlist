@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="spotify:artist:1XnyRY1hSHsZxiIEX8Nzl5">The Belonging Co.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,393 likes - 90 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,553 likes - 90 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 89 | [Jesus Now \- Live](https://open.spotify.com/track/6wnxaVE6g2kEnDmjmlKYZL) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Metro Collective Worship](https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn) | [Jesus Now](https://open.spotify.com/album/0qLUPWE9SikEjGsvSEDQ5W) | 5:16 |
 | 90 | [Now To God \- Live](https://open.spotify.com/track/3VFfyjdeL14YNC6RgOWBhe) | [Stockholm Worship](https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH) | [Other Side](https://open.spotify.com/album/0wRQo1pAoe3b4mNdiQnbV4) | 4:46 |
 
-Snapshot ID: `MCwxMTlhZGFkN2IzMGZmNmI4OWRhY2VmNjFmZDhiNjcyYzJjNjM4ZTBh`
+Snapshot ID: `MCw5NGRjNzU1YTIyODFkM2FlMTc5ZDZjNWExZTM3YjE5YTdkNjYwNzNm`

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 56984,
+  "num_followers": 56993,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzY1ZTUyOTA3MGI5YmEzMjc2MGNjNzc2MzAzNDRlZTU2ZDU4MWI5",
+  "snapshot_id": "MCwzMjdlMmE2MDMzMDJhNzQ5Njg1OGU0ZjAwNjUyOGVhZjg0NmY2NjVj",
   "tracks": [
     {
       "added_at": "2024-01-30 12:16:19",
@@ -101,6 +101,26 @@
       "url": "https://open.spotify.com/track/6oFI179OLqJuxLqazHQquI"
     },
     {
+      "added_at": "2024-02-07 09:50:29",
+      "album": {
+        "name": "Cheluvaada Cheluvane Neenu (From \"Muktha Manasu\")",
+        "url": "https://open.spotify.com/album/4Vwmjj8UI5tqUF11bwBJGb"
+      },
+      "artists": [
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        },
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        }
+      ],
+      "duration_ms": 294923,
+      "name": "Cheluvaada Cheluvane Neenu - From \"Muktha Manasu\"",
+      "url": "https://open.spotify.com/track/3tj6MbaamHJsIB33aKjYkk"
+    },
+    {
       "added_at": "2024-02-05 12:37:27",
       "album": {
         "name": "Dhairyam Sarvatra Sadhanam \"Theme Music\" (From \"Dhairyam Sarvatra Sadhanam\")",
@@ -115,6 +135,82 @@
       "duration_ms": 61375,
       "name": "Dhairyam Sarvatra Sadhanam \"Theme Music\" - From \"Dhairyam Sarvatra Sadhanam\"",
       "url": "https://open.spotify.com/track/3ip6B4XdPufrwgHx76NVj2"
+    },
+    {
+      "added_at": "2024-02-07 03:23:27",
+      "album": {
+        "name": "Nannaliye Na Marethe (From \"Ravanapura\")",
+        "url": "https://open.spotify.com/album/5DwbmFW0XQkSsJ34VtzM07"
+      },
+      "artists": [
+        {
+          "name": "Dhanraj Tumkur",
+          "url": "https://open.spotify.com/artist/1qGNWuBByQ0QTNFU5irvbb"
+        },
+        {
+          "name": "Suprith Sharma S",
+          "url": "https://open.spotify.com/artist/51B2gBGLKXNrKomRj8HKjz"
+        },
+        {
+          "name": "Deepthi Harish",
+          "url": "https://open.spotify.com/artist/6PRdbcvDnc4BYmmeRYdsEi"
+        },
+        {
+          "name": "Prabhu",
+          "url": "https://open.spotify.com/artist/7jUNEfILBWG0rBGjNOUSGT"
+        }
+      ],
+      "duration_ms": 207098,
+      "name": "Nannaliye Na Marethe (From \"Ravanapura\")",
+      "url": "https://open.spotify.com/track/77IbwLsIwbL7CTQHoNXiPj"
+    },
+    {
+      "added_at": "2024-02-07 03:24:14",
+      "album": {
+        "name": "Matte Matte Midiyade (from \"Sanju\")",
+        "url": "https://open.spotify.com/album/5ekOfNQmiPXkj26VIQi97R"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Vijay Haritsa",
+          "url": "https://open.spotify.com/artist/0zHeoXE0bKsMEw3cWV4z6B"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "Matte Matte Midiyade (from \"Sanju\")",
+      "url": "https://open.spotify.com/track/6nrpuS8gewqFv8yA4eVvF1"
+    },
+    {
+      "added_at": "2024-02-07 03:22:35",
+      "album": {
+        "name": "Ayyayyo (From \"Abbabba\")",
+        "url": "https://open.spotify.com/album/0FkuAAQh3BtUjmYmO3oK2d"
+      },
+      "artists": [
+        {
+          "name": "Deepak Alexander",
+          "url": "https://open.spotify.com/artist/3rVHsuJNUQG8lcCkDt7uxa"
+        },
+        {
+          "name": "Kaviraj",
+          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
+        },
+        {
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
+        }
+      ],
+      "duration_ms": 181028,
+      "name": "Ayyayyo (From \"Abbabba\")",
+      "url": "https://open.spotify.com/track/60NdozvPsh8BwHKgrrr6cd"
     },
     {
       "added_at": "2024-02-01 10:48:57",
@@ -1473,26 +1569,6 @@
       "url": "https://open.spotify.com/track/3FTIz33oSuRWxiAdVKw9ue"
     },
     {
-      "added_at": "2023-12-29 06:00:37",
-      "album": {
-        "name": "Maaye and Company",
-        "url": "https://open.spotify.com/album/1StSx08pHgQQhxI5OC8PZv"
-      },
-      "artists": [
-        {
-          "name": "Vidwan Shankar Shanbog",
-          "url": "https://open.spotify.com/artist/6NhTdAlKjOVEa5K2PjG5ur"
-        },
-        {
-          "name": "Siddarth",
-          "url": "https://open.spotify.com/artist/5FBO9WNnoLsMVhJjLSpKE4"
-        }
-      ],
-      "duration_ms": 220148,
-      "name": "Bangara Jinke Inde",
-      "url": "https://open.spotify.com/track/46TCLkszjStp1FOkvZr6KH"
-    },
-    {
       "added_at": "2023-12-12 05:37:45",
       "album": {
         "name": "Yava Janumada Gelathi (from \"Kaatera\")",
@@ -1617,30 +1693,6 @@
       "url": "https://open.spotify.com/track/2EGXdYmnQhda9VD8iPWJSa"
     },
     {
-      "added_at": "2023-12-18 09:42:21",
-      "album": {
-        "name": "Friendship Dostandre Dostine (From \"Kuchuku\")",
-        "url": "https://open.spotify.com/album/5j6kgN7AiEYHEEoOpZfgx8"
-      },
-      "artists": [
-        {
-          "name": "A T Ravish",
-          "url": "https://open.spotify.com/artist/7KbOjeMXqQhBrGrFq71Yvq"
-        },
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        },
-        {
-          "name": "Nagarjuna Sharma",
-          "url": "https://open.spotify.com/artist/5afoIXDDGpV9nDsc4OHVxL"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "Friendship Dostandre Dostine (From \"Kuchuku\")",
-      "url": "https://open.spotify.com/track/5keqfRsTEjkJ8eS8RaTAsn"
-    },
-    {
       "added_at": "2023-12-13 13:03:56",
       "album": {
         "name": "Aakaasha Gadiya (From \"Salaar Cease Fire - Kannada\")",
@@ -1663,46 +1715,6 @@
       "duration_ms": 198000,
       "name": "Aakaasha Gadiya (From \"Salaar Cease Fire - Kannada\")",
       "url": "https://open.spotify.com/track/3xiIegrnJHAfte9IzO8hfc"
-    },
-    {
-      "added_at": "2023-12-08 09:07:00",
-      "album": {
-        "name": "Back Bencherz Title Track (from \"Back Bencherz\")",
-        "url": "https://open.spotify.com/album/0RtSYQUKEe5eVLOrGxyuz1"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Nakul Abhyankar",
-          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
-        }
-      ],
-      "duration_ms": 287792,
-      "name": "Back Bencherz Title Track (from \"Back Bencherz\")",
-      "url": "https://open.spotify.com/track/5hca6fiZAZgd7rkSIwsA8Q"
-    },
-    {
-      "added_at": "2023-12-08 09:06:02",
-      "album": {
-        "name": "Gaju Koodide (From \"Sapta Sagaradaache Ello - Side B\")",
-        "url": "https://open.spotify.com/album/32MqwlD8QVUiAUF1uWzq97"
-      },
-      "artists": [
-        {
-          "name": "Charanraj MR",
-          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
-        },
-        {
-          "name": "Dhananjay Ranjan",
-          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "Gaju Koodide (From \"Sapta Sagaradaache Ello - Side B\")",
-      "url": "https://open.spotify.com/track/4IETWOXTRt5tT7J0eZxUj0"
     }
   ],
   "unique_name": "Latest Kannada",

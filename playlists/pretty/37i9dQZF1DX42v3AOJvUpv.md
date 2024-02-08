@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 
 > Entre peinados, maquillajes y vestimentas exóticas, la estética dominó la escena musical de los años ’80\. Foto:<a href="spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL"> Soda Stereo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,071 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,082 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 12 | [Pronta Entrega](https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 4:33 |
 | 13 | [Polaroid De Locura Ordinaria](https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Ey!](https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0) | 3:29 |
 | 14 | [Los Viejos Vinagres](https://open.spotify.com/track/587HW7legSOEetkhw2RoO2) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Llegando Los Monos](https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4) | 3:17 |
-| 15 | [El Extraño del Pelo Largo](https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:53 |
+| 15 | [El Genio del Dub \- Remasterizado 2008](https://open.spotify.com/track/3hWZ9vTXIEUffGVD73qIAb) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Yo Te Avisé](https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu) | 5:21 |
 | 16 | [No Me Dejan Salir](https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 4:23 |
-| 17 | [El Genio del Dub \- Remasterizado 2008](https://open.spotify.com/track/3hWZ9vTXIEUffGVD73qIAb) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Yo Te Avisé](https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu) | 5:21 |
+| 17 | [El Extraño del Pelo Largo](https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:53 |
 | 18 | [Bailando en las Veredas](https://open.spotify.com/track/2q4WF7KqM5yvVoQNCyHHZd) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 4:16 |
 | 19 | [Juegos De Seducción \- Remasterizado 2007](https://open.spotify.com/track/39YibHWQJLIgjQ0xWKlq6t) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:18 |
 | 20 | [Ella Vendrá \- Remastered](https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg) | [Don Cornelio Y La Zona](https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe) | [Don Cornelio y La Zona](https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz) | 4:11 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 40 | [El Ritual De La Banana](https://open.spotify.com/track/1LeGL6sChxxaQbFhKknOcG) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 3:39 |
 | 41 | [Sin Gamulán](https://open.spotify.com/track/3UrNJH307Ij2jarZxijcbc) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [1982\-1987 \- Himnos Del Corazón](https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w) | 3:14 |
 | 42 | [Héroes](https://open.spotify.com/track/0tj6CJdNcyU7L8hc61KXAE) | [Friccion](https://open.spotify.com/artist/5MoGn6jc9GHCMiWzccjWRD) | [Heroes / Antologia 1986 \- 1988](https://open.spotify.com/album/5hTIPpvzJIy2Os07sMSWP5) | 6:19 |
-| 43 | [Conexión París](https://open.spotify.com/track/24X9r3zeRgB4VTLz75TRw9) | [Sobrecarga](https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD) | [Sentidos Congelados](https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ) | 5:01 |
-| 44 | [Hu Na Na](https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69) | [Cosméticos](https://open.spotify.com/artist/4YlmyiU4Olst2QprHp6kon) | [Cosméticos](https://open.spotify.com/album/3Ki7ckiDv5Zap63EzE9Rgm) | 4:13 |
-| 45 | [El Sueño De La Gitana](https://open.spotify.com/track/1TPMt9f5xiS3PhEh3UvEtz) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rata Blanca](https://open.spotify.com/album/5eVKSdr3maSDTlGmToRreg) | 7:12 |
+| 43 | [El Sueño De La Gitana](https://open.spotify.com/track/1TPMt9f5xiS3PhEh3UvEtz) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rata Blanca](https://open.spotify.com/album/5eVKSdr3maSDTlGmToRreg) | 7:12 |
+| 44 | [Conexión París](https://open.spotify.com/track/24X9r3zeRgB4VTLz75TRw9) | [Sobrecarga](https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD) | [Sentidos Congelados](https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ) | 5:01 |
+| 45 | [Hu Na Na](https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69) | [Cosméticos](https://open.spotify.com/artist/4YlmyiU4Olst2QprHp6kon) | [Cosméticos](https://open.spotify.com/album/3Ki7ckiDv5Zap63EzE9Rgm) | 4:13 |
 | 46 | [Corazones Muertos](https://open.spotify.com/track/4UgtuMtQBOHTSJktZgwQvV) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 3:46 |
 | 47 | [Ricardo Ruben](https://open.spotify.com/track/5cVj2BJzyg29FstVdSDaGS) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [Cataratas Musicales](https://open.spotify.com/album/2f3g5aLQ7f02ZhMZniS7oq) | 3:23 |
 | 48 | [Nada que perder](https://open.spotify.com/track/67RABWmvqhxgRt2shdCOrr) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Serie De Oro](https://open.spotify.com/album/1SdOnqeKXxOKAU6rVbS0z5) | 3:28 |
 | 49 | [Vía México](https://open.spotify.com/track/2F1vbTtyEC531VQhqh2LlK) | [Suéter](https://open.spotify.com/artist/6YbPwijYI1KH2v4aPzAORT) | [20 Caras Bonitas](https://open.spotify.com/album/7jNFPw0fZoJVM4DoOfi8Lg) | 3:30 |
 | 50 | [Varias Horas Soñando](https://open.spotify.com/track/3ZPt1cQUUdaplow6lqXirs) | [Identikit](https://open.spotify.com/artist/5v4okqoEFb82y0x5WnJg5i) | [Identikit](https://open.spotify.com/album/4QW2T17PbPWQUAG6A2vMjy) | 4:35 |
 
-Snapshot ID: `MCxkNjM1NWM3ZWEyOWU0MTI4ZjM3NTIxYzBlYzJjNmQ1NzU1OWQ1ODE2`
+Snapshot ID: `MCw4OTA5YWM4YTY0NTg2ZjIyMzU4NGQxOTVhNGYyZjVkYWFhZGEyMzRj`

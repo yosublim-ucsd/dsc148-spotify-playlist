@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 
 > Spain without the S
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,706 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,857 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 81 | [My Friends Over You](https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:40 |
 | 82 | [Twin Size Mattress](https://open.spotify.com/track/4LKp7Whi6HvHCsBlftJr9m) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Talon Of The Hawk](https://open.spotify.com/album/0PDvD9PL4X7KSczUKmdV8x) | 4:24 |
 | 83 | [Beachboy](https://open.spotify.com/track/70uQzsAyJ1vmloywhrO0ss) | [McCafferty](https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8) | [Beachboy](https://open.spotify.com/album/5HYTNHcx16osD8MCWucKxu) | 3:19 |
-| 84 | [The Great Escape](https://open.spotify.com/track/56Tl3UgyZTqfZtvFNS31wm) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Boys Like Girls](https://open.spotify.com/album/47ttGApwQx3iAWz8tFFnNj) | 3:26 |
-| 85 | [Girl All the Bad Guys Want](https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 3:17 |
-| 86 | [I Threw Glass at My Friend's Eyes and Now I'm on Probation](https://open.spotify.com/track/5ot500QigZaa1tH5tQoR1C) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Sorry, Mom](https://open.spotify.com/album/2S2SJWfVZ7KWjz8tfrYSvh) | 2:37 |
+| 84 | [I Threw Glass at My Friend's Eyes and Now I'm on Probation](https://open.spotify.com/track/5ot500QigZaa1tH5tQoR1C) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Sorry, Mom](https://open.spotify.com/album/2S2SJWfVZ7KWjz8tfrYSvh) | 2:37 |
+| 85 | [The Great Escape](https://open.spotify.com/track/56Tl3UgyZTqfZtvFNS31wm) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Boys Like Girls](https://open.spotify.com/album/47ttGApwQx3iAWz8tFFnNj) | 3:26 |
+| 86 | [Girl All the Bad Guys Want](https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 3:17 |
 | 87 | [You Stupid Bitch](https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:15 |
 | 88 | [Tonight \(demo\)](https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag) | 3:14 |
 | 89 | [ANGELS & DEMONS](https://open.spotify.com/track/3mkz6eI4Sram8UhO3teU76) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 99 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 |
 | 100 | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/track/2FnrUcdLWId0F13GT32ugT) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/album/0f4hb7W851uRRZ1GJDlGGN) | 3:35 |
 
-Snapshot ID: `MCxlZmZjOGYzNjBlMDQ4MDlmYjI1YTczMzE5MzExNjU4MzZiYjBkNjBi`
+Snapshot ID: `MCxhNmZkMzVkZTM0OGJiMmQ4NzQ5YzY0YWE1Mjc2YTAxMzY0NzU0ODg2`

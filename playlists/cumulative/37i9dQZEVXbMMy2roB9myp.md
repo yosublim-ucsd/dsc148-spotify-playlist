@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-718 songs - 1 day 14 hr 41 min
+719 songs - 1 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [La Cola](https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tiempo De Bailar](https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM) | 2:49 | 2021-12-26 | 2022-01-04 |
 | [La Corriente](https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:18 | 2022-05-07 | 2022-05-15 |
 | [La Cumbia De Los Trapos](https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 4:11 | 2022-12-20 | 2022-12-22 |
+| [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 | 2024-02-07 |  |
 | [LA JOAQUI \| Mission 08](https://open.spotify.com/track/3ZkUgtNi45G8qdmya5UTgV) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [LA JOAQUI \| Mission 08](https://open.spotify.com/album/3iB7L3jdv63EAi4TnI59cz) | 2:29 | 2022-11-10 | 2022-11-13 |
 | [LA JOAQUI \| Mission 08](https://open.spotify.com/track/5eYVvHN75qLlpD0DC6R8Pl) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [LA JOAQUI \| Mission 08](https://open.spotify.com/album/0qfrHlxPYfcLmTY2MlBzLX) | 2:29 | 2022-10-24 | 2022-11-11 |
 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 | 2022-12-02 | 2022-12-04 |
@@ -563,7 +564,7 @@
 | [Sabe](https://open.spotify.com/track/0XYZhJIcwKNjd0tjbSXwaQ) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 2:57 | 2021-10-31 | 2022-02-16 |
 | [Sabe](https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sabe](https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0) | 2:57 | 2021-10-29 | 2021-10-31 |
 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 | 2021-05-19 | 2021-07-27 |
-| [Salgo a Bailar](https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Salgo a Bailar](https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs) | 2:37 | 2023-07-20 |  |
+| [Salgo a Bailar](https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Salgo a Bailar](https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs) | 2:37 | 2023-07-20 | 2024-02-08 |
 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 | 2021-10-23 | 2022-06-04 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2022-05-21 | 2022-05-23 |
 | [SEDA](https://open.spotify.com/track/1YnChEM51BVZ5dRhbVFEMl) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:10 | 2023-10-14 | 2023-10-16 |

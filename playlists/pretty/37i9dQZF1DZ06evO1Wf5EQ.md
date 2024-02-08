@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403 likes - 20 songs - 31 min 22 sec
+[Spotify](https://open.spotify.com/user/spotify) - 403 likes - 20 songs - 32 min 3 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,6 +27,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 17 | [Calvin](https://open.spotify.com/track/2GNgQFDxgVamyS8D2LL7wg) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:23 |
 | 18 | [First Day At School](https://open.spotify.com/track/1qBXkDmnMZXaumaaxwmdYu) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:12 |
 | 19 | [LaBelle Opera](https://open.spotify.com/track/4aE6lKn6mPTRF2DDqUPAuS) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:23 |
-| 20 | [Saint Luke's](https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:43 |
+| 20 | [The Remsen](https://open.spotify.com/track/51qQvPxeHMUvHaMnwZxU3b) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 2:24 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA5YTBmNzViZWFmMzc3Njc4ZGEwY2JkMGY5OTY1NmY4ZQ==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDBmNGY3OGRjMzI4ZTU5MjI2Y2UzZmNmNTliMjQwNDg2YQ==`

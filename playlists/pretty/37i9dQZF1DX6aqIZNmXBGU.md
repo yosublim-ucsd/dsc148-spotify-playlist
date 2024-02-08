@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 20 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
 | 21 | [The Heinrich Maneuver](https://open.spotify.com/track/4CKuOiUPeGbDsHkT3fmALJ) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/1gsoIHeBan6QywhysNgApK) | 3:28 |
 | 22 | [Catamaran](https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:32 |
-| 23 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 |
-| 24 | [DVP](https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:28 |
+| 23 | [DVP](https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:28 |
+| 24 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 |
 | 25 | [Hello Operator](https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 2:36 |
 | 26 | [Tourette's](https://open.spotify.com/track/6ZXGdStfF4q5jnyK76uG4a) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 1:35 |
 | 27 | [I'm Not Making out With You](https://open.spotify.com/track/7k7LglMYwTTM6P7Bnqlu1N) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sad Boys](https://open.spotify.com/album/3BxuW4fI9ScjP9dr5BMd8C) | 2:39 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 46 | [King of the Beach](https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [King of the Beach](https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d) | 2:38 |
 | 47 | [Badillac](https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Badillac](https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz) | 2:27 |
 | 48 | [Golden Dawn](https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:50 |
-| 49 | [Ride A White Swan](https://open.spotify.com/track/4JzqDlNhjxxZ3oQcfXhS6q) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Get It On: The Collection](https://open.spotify.com/album/6EtPzgRUvsv5L0kL0dn4kx) | 2:11 |
-| 50 | [Blood Under My Belt](https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Abysmal Thoughts](https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw) | 3:48 |
+| 49 | [Blood Under My Belt](https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Abysmal Thoughts](https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw) | 3:48 |
+| 50 | [Ride A White Swan](https://open.spotify.com/track/4JzqDlNhjxxZ3oQcfXhS6q) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Get It On: The Collection](https://open.spotify.com/album/6EtPzgRUvsv5L0kL0dn4kx) | 2:11 |
 | 51 | [Space Cadet](https://open.spotify.com/track/0GHu2NmkPSq5xqbSSD1tZ0) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Loopholes](https://open.spotify.com/album/7u501T7f4RfLPuRQCXEcDe) | 3:10 |
 | 52 | [Girlfriend](https://open.spotify.com/track/5vEE1d5gkv3pgfZyppLeX8) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Melted](https://open.spotify.com/album/5P0LN9xrnLY1By7mlkKtkx) | 2:12 |
 | 53 | [Reservoir Dawgs](https://open.spotify.com/track/2Yx0xNVsysG47yR19qvaKw) | [Beach Goons](https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3) | [Boisad](https://open.spotify.com/album/7JQ5JhmtlKabSCmHSFET3K) | 3:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 59 | [Lick the Bag](https://open.spotify.com/track/7ct0y8Itq93G2qrRJewVUp) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3) | 3:18 |
 | 60 | [Glazin'](https://open.spotify.com/track/0oFkLSChaQpPTrgnCIHc4g) | [Jacuzzi Boys](https://open.spotify.com/artist/6Jy8DN56YeZwPFUjdPa0QB) | [Glazin'](https://open.spotify.com/album/2oWXOBpzJ3DWwZqD2RII69) | 3:23 |
 
-Snapshot ID: `MCwzNGJmMjkwMDFlYzA5MzMxYTQ5NmI3MmYyMWU5OGY0OTY5MzMyN2Fk`
+Snapshot ID: `MCw5Yzc4MGE1YjNjM2E4OTAwMjY2Yzc3YjJmYmU4NDFmNzc0MjI3Zjc3`

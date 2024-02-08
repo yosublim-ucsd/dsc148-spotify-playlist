@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 348340,
+  "num_followers": 348401,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTI2NmIzZTY5NjI1Zjc0OTYxMTYzMjk3MDI2OTcxYmE4NTQ2ZTU0",
+  "snapshot_id": "MCw5N2JhYzkxYWRlMDg0NGE0ZDBmNzFlYmIxM2YxZjcyN2RjZDIzNTgw",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:02",
@@ -79,6 +79,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 293440,
+      "name": "No One Ever Cared for Me Like Jesus",
+      "url": "https://open.spotify.com/track/2oIFaafMda5ATaMr2b9pK8"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Yahweh Elyon",
         "url": "https://open.spotify.com/album/2dHsxvO9y5w2sVJezQd1Qu"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 194753,
       "name": "Yahweh Elyon",
       "url": "https://open.spotify.com/track/6ac4RGv1zUsmklvuMlzH50"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Forever Amen",
-        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
-      },
-      "artists": [
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 293440,
-      "name": "No One Ever Cared for Me Like Jesus",
-      "url": "https://open.spotify.com/track/2oIFaafMda5ATaMr2b9pK8"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -167,18 +167,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
       },
       "artists": [
         {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
         }
       ],
-      "duration_ms": 242432,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA"
+      "duration_ms": 237179,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -199,18 +199,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
       },
       "artists": [
         {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
         }
       ],
-      "duration_ms": 237179,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
+      "duration_ms": 242432,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Graves Into Gardens (Acoustic)",
-        "url": "https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 278035,
-      "name": "Graves Into Gardens - Acoustic",
-      "url": "https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Lydia Laird",
         "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 194102,
       "name": "Meet Me There",
       "url": "https://open.spotify.com/track/7js5yI5wAbDheUWCs1VFJy"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Graves Into Gardens (Acoustic)",
+        "url": "https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 278035,
+      "name": "Graves Into Gardens - Acoustic",
+      "url": "https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Ever Closer",
-        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
+        "name": "Shalom",
+        "url": "https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M"
       },
       "artists": [
         {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+          "name": "Laura Hackett Park",
+          "url": "https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV"
         }
       ],
-      "duration_ms": 232687,
-      "name": "Ever Closer",
-      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
+      "duration_ms": 239500,
+      "name": "Shalom",
+      "url": "https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Shalom",
-        "url": "https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M"
+        "name": "Ever Closer",
+        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
       },
       "artists": [
         {
-          "name": "Laura Hackett Park",
-          "url": "https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV"
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
         }
       ],
-      "duration_ms": 239500,
-      "name": "Shalom",
-      "url": "https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy"
+      "duration_ms": 232687,
+      "name": "Ever Closer",
+      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
     },
     {
       "added_at": "2023-02-07 17:43:02",

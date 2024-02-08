@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: IVE, Saweetie\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,333 likes - 98 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,395 likes - 98 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 40 | [BTBT](https://open.spotify.com/track/4XcxgZSriCYamtIA7BgT7V) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT](https://open.spotify.com/album/6z2Ij8op0iB16BnmrCy0vH) | 3:39 |
 | 41 | [Super Chic](https://open.spotify.com/track/39K97j8UZKiQWXDTrUybCL) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez), [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Super Chic](https://open.spotify.com/album/5kGyJT8HMcHvhd3TXdmyyu) | 2:47 |
 | 42 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 |
-| 43 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 |
+| 43 | [The Weekend](https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd) | 2:47 |
 | 44 | [Expectations](https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Expectations](https://open.spotify.com/album/3T6Xy6iJPpYmawK2LmJWFF) | 3:09 |
 | 45 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 |
 | 46 | [NIGHT DANCER \- Korean Ver.](https://open.spotify.com/track/19V8IRXP5XdFs1SVL58ZSA) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER \(BIG Naughty Remix\)](https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu) | 3:29 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 97 | [Under the Full Moon \- Alok Remix](https://open.spotify.com/track/2P7EG5won3VGHTzqimR9N5) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B), [Kim Jun Su](https://open.spotify.com/artist/7CUcK2meST31pjD3V14khI) | [Under the Full Moon \(Alok Remix\)](https://open.spotify.com/album/1AGVgb3cJdeyAjm1WAQxIk) | 2:45 |
 | 98 | [SCAR \(Prod\. BOYCOLD\)](https://open.spotify.com/track/4JwtEBtS1pAc9oTFzm5bFY) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [SCAR \(Prod\. BOYCOLD\)](https://open.spotify.com/album/5jrxT95JeyqMD7RzEU0qh1) | 2:38 |
 
-Snapshot ID: `MCxlYTVkZWNiNDM4NDQ4YTY3YmNkZmJlZTI3YWNkMmE4NDFkMzZmMmRm`
+Snapshot ID: `MCw2NjZlODYyZTIwNmViN2I5NGQyNzYwMWIzMDUyODNkNDJkZmZmYjI0`

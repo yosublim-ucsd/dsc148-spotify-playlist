@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Milena Pina",
-  "num_followers": 118996,
+  "num_followers": 119026,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDljNzdjY2UxNWQzMmNkNmFjNTNmMTk4MDk1OThjZmZmODU1M2U0",
+  "snapshot_id": "MCxkOTdiMzY5YmM2NzBkMzY4MzJjNjlmM2I1NGJkOWRiMjMxYTY5YWRj",
   "tracks": [
     {
       "added_at": "2023-12-21 22:17:17",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
+        "name": "Primeiro Amor",
+        "url": "https://open.spotify.com/album/3g0N4fo9QqXCS50IuUZe4J"
+      },
+      "artists": [
+        {
+          "name": "Patricia Romania",
+          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
+        }
+      ],
+      "duration_ms": 236828,
+      "name": "Primeiro Amor",
+      "url": "https://open.spotify.com/track/53QAehrU0CmcYdozhxiWhQ"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
         "name": "Vai Adorando (Ao Vivo)",
         "url": "https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 330409,
       "name": "Vai Adorando (Ao Vivo)",
       "url": "https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
-        "name": "Primeiro Amor",
-        "url": "https://open.spotify.com/album/3g0N4fo9QqXCS50IuUZe4J"
-      },
-      "artists": [
-        {
-          "name": "Patricia Romania",
-          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
-        }
-      ],
-      "duration_ms": 236828,
-      "name": "Primeiro Amor",
-      "url": "https://open.spotify.com/track/53QAehrU0CmcYdozhxiWhQ"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "N\u00e3o Serei o Mesmo",
-        "url": "https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN"
-      },
-      "artists": [
-        {
-          "name": "Renata Reis",
-          "url": "https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS"
-        }
-      ],
-      "duration_ms": 397096,
-      "name": "N\u00e3o Serei o Mesmo - Ao Vivo",
-      "url": "https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Em Nome de Jesus",
         "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
       },
@@ -911,22 +895,18 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Descansa em Mim",
-        "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
+        "name": "N\u00e3o Serei o Mesmo",
+        "url": "https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN"
       },
       "artists": [
         {
-          "name": "Pablo Canalis",
-          "url": "https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm"
-        },
-        {
-          "name": "Do Nosso Canto",
-          "url": "https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk"
+          "name": "Renata Reis",
+          "url": "https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS"
         }
       ],
-      "duration_ms": 305000,
-      "name": "Descansa em Mim",
-      "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
+      "duration_ms": 397096,
+      "name": "N\u00e3o Serei o Mesmo - Ao Vivo",
+      "url": "https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -943,6 +923,26 @@
       "duration_ms": 366222,
       "name": "Em uma s\u00f3 voz",
       "url": "https://open.spotify.com/track/7t10vTBBTfdELqVlawK6vY"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Descansa em Mim",
+        "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
+      },
+      "artists": [
+        {
+          "name": "Pablo Canalis",
+          "url": "https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm"
+        },
+        {
+          "name": "Do Nosso Canto",
+          "url": "https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Descansa em Mim",
+      "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
     },
     {
       "added_at": "2023-12-21 22:17:17",

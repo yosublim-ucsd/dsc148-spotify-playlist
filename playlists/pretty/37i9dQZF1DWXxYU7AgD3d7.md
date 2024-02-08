@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,678 likes - 66 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,696 likes - 66 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 | 65 | [I Can't Help but Love](https://open.spotify.com/track/2svuSVmTq5WdHHVDBlobVS) | [David R\. Trask](https://open.spotify.com/artist/7G37dqQpR4pzSxS553aBJG) | [I Can't Help but Love](https://open.spotify.com/album/0IqxR7phNjVfHArCG7LEMR) | 3:39 |
 | 66 | [Thinking Of U](https://open.spotify.com/track/0ObFG6JadCEfirwmFRBPFY) | [Attic Beats](https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi) | [Thinking Of U](https://open.spotify.com/album/5RPeU8jJYrIrLqLl0zduvl) | 2:00 |
 
-Snapshot ID: `MCw1MDNiYjMwYjQ5Y2MxNmVmYzM3MDJlOWY3NmVhYjRlZDY0MWY5MjAy`
+Snapshot ID: `MCw3ZGMxZDdmNDg2ZjU5NzJjMWFiNmE2ZDAwZGNmMTkxNzRiMjBiMzE4`

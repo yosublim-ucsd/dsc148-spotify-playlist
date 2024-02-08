@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: 24kGoldn\)
 
-1,810 songs - 3 day 19 hr 49 min
+1,811 songs - 3 day 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1158,7 +1158,8 @@
 | [OVERTIME](https://open.spotify.com/track/08fiGtF2aFcSJcT9qC8Y24) | [FRSHOFF](https://open.spotify.com/artist/0VKBybevJOKSIZD9mwVDnU), [The J](https://open.spotify.com/artist/1MnDwIcSaSdnCgPt3bNRLu), [HOWE.](https://open.spotify.com/artist/6NGEHIaioxYc0RVWGv6U8q), [B.LEO](https://open.spotify.com/artist/7xSziEKgpFtmY9a2S18nxL) | [OVERTIME](https://open.spotify.com/album/1V6zV5qRHRpcaWMuno22aK) | 2:53 | 2022-08-25 | 2022-09-30 |
 | [P Fiction](https://open.spotify.com/track/3xLdrEayToxw9iPP45dl5t) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Paisley Dreams](https://open.spotify.com/album/5U8WARPHV0d1VlCBVD50zS) | 3:25 | 2024-01-05 |  |
 | [Pagdali](https://open.spotify.com/track/7fMR5ryCo3m38yyj1PCym4) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Pagdali](https://open.spotify.com/album/185zJ1UyWQn80NFdOCjIPJ) | 3:33 | 2024-02-01 |  |
-| [Paidnfull](https://open.spotify.com/track/60XgS89eNaLvK5rUfYD4Jh) | [Unlucki](https://open.spotify.com/artist/0Gbf7PFhgkdaNiUw2pAJ9T) | [Fullypaid](https://open.spotify.com/album/053HzmIMhZRYsevJICHjvd) | 1:59 | 2024-01-25 |  |
+| [PAIDNFULL](https://open.spotify.com/track/7I3qbhPnoesyyqQdFJjjDb) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2 Faced](https://open.spotify.com/album/3v7vNJp4YPbuZM9L5eLf4M) | 1:59 | 2024-02-02 |  |
+| [Paidnfull](https://open.spotify.com/track/60XgS89eNaLvK5rUfYD4Jh) | [Unlucki](https://open.spotify.com/artist/0Gbf7PFhgkdaNiUw2pAJ9T) | [Fullypaid](https://open.spotify.com/album/053HzmIMhZRYsevJICHjvd) | 1:59 | 2024-01-25 | 2024-02-08 |
 | [Pain Talk \(feat\. Lil Tjay\)](https://open.spotify.com/track/7soBkLenwWM7kB92cuyl04) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Pain Talk \(feat\. Lil Tjay\)](https://open.spotify.com/album/5Adus949FUrddWzqZ5SFxZ) | 2:36 | 2023-05-25 | 2023-07-07 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-04 | 2024-01-05 |
 | [Paisley Dreams](https://open.spotify.com/track/49duYdF4SdqvooOhKHUP3t) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll) | [Paisley Dreams](https://open.spotify.com/album/5U8WARPHV0d1VlCBVD50zS) | 2:51 | 2024-01-05 |  |

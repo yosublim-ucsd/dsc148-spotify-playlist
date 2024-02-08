@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 67716,
+  "num_followers": 67772,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzc3NTcyZTU3ZTQ4ZGQ4ZWFhZjM5ZDY3MDE1ZjFiODczNTUxMmJk",
+  "snapshot_id": "MCxmOTQ4NjE4OTUyYTc1YjBmMDg1NTliNTA0ZWI3ZmI4ZTc5OTg4Yzhk",
   "tracks": [
     {
       "added_at": "2024-01-30 18:27:53",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "Seneca Rise",
-        "url": "https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO"
-      },
-      "artists": [
-        {
-          "name": "Sky Wishes",
-          "url": "https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Seneca Rise",
-      "url": "https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
         "name": "Breath of Life",
         "url": "https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 154069,
       "name": "Breath Of Life",
       "url": "https://open.spotify.com/track/5CHoemwnNzdSTwtNhimg3N"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
+        "name": "Seneca Rise",
+        "url": "https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO"
+      },
+      "artists": [
+        {
+          "name": "Sky Wishes",
+          "url": "https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Seneca Rise",
+      "url": "https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "Unawareness",
-        "url": "https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i"
-      },
-      "artists": [
-        {
-          "name": "Enika Moerani",
-          "url": "https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh"
-        }
-      ],
-      "duration_ms": 162028,
-      "name": "Unawareness",
-      "url": "https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
         "name": "Paracosm",
         "url": "https://open.spotify.com/album/4nQQetCS5JZ4wOYgdsT9Bv"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 193043,
       "name": "Paracosm",
       "url": "https://open.spotify.com/track/6pkMeMeBHzcw7pp722OMfk"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
+        "name": "Unawareness",
+        "url": "https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i"
+      },
+      "artists": [
+        {
+          "name": "Enika Moerani",
+          "url": "https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh"
+        }
+      ],
+      "duration_ms": 162028,
+      "name": "Unawareness",
+      "url": "https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "Theta Sleep",
-        "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
-      },
-      "artists": [
-        {
-          "name": "Zonyoh",
-          "url": "https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Clear-Headed",
-      "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
         "name": "Sleepy Eyes",
         "url": "https://open.spotify.com/album/5XDgcCLTTeLRtQiC0H6ooQ"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 224791,
       "name": "Sleepy Eyes",
       "url": "https://open.spotify.com/track/6yh2v1ESQ0gOqU8d1Cyexm"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
+        "name": "Theta Sleep",
+        "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
+      },
+      "artists": [
+        {
+          "name": "Zonyoh",
+          "url": "https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Clear-Headed",
+      "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "Quiet Hours",
-        "url": "https://open.spotify.com/album/45anDTXW4ebJ5bkVNxEh7v"
-      },
-      "artists": [
-        {
-          "name": "Scandinavian Nights",
-          "url": "https://open.spotify.com/artist/4UrhClOtVbcbsiCZYDMoWL"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/4PW8tiBzQcEutmPndIZagA"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
         "name": "Hush",
         "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 161012,
       "name": "Hush",
       "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
+        "name": "Quiet Hours",
+        "url": "https://open.spotify.com/album/45anDTXW4ebJ5bkVNxEh7v"
+      },
+      "artists": [
+        {
+          "name": "Scandinavian Nights",
+          "url": "https://open.spotify.com/artist/4UrhClOtVbcbsiCZYDMoWL"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/4PW8tiBzQcEutmPndIZagA"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/2BElhJUiYFx4bLB0D8BYTt"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3n Einarsson",
-          "url": "https://open.spotify.com/artist/2ZfWjatqQycbK1Lg1TYrt7"
-        }
-      ],
-      "duration_ms": 141724,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/1MfkuRzoYgwSNFntMCDvYd"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 160000,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/2BElhJUiYFx4bLB0D8BYTt"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3n Einarsson",
+          "url": "https://open.spotify.com/artist/2ZfWjatqQycbK1Lg1TYrt7"
+        }
+      ],
+      "duration_ms": 141724,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/1MfkuRzoYgwSNFntMCDvYd"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "Soft Meadow",
-        "url": "https://open.spotify.com/album/5lJOCP12LEhMcGPkUsuK4C"
+        "name": "Evening Calm",
+        "url": "https://open.spotify.com/album/1lYuL6PrtYfCWlk26xn0Kj"
       },
       "artists": [
         {
-          "name": "Escape Gravity",
-          "url": "https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js"
+          "name": "Nimbus Skies",
+          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
         }
       ],
-      "duration_ms": 179366,
-      "name": "Soft Meadow",
-      "url": "https://open.spotify.com/track/0Y4S0WFDJQdIV8VveeRdKF"
+      "duration_ms": 158961,
+      "name": "Evening Calm",
+      "url": "https://open.spotify.com/track/23gmdJgMk6hgkrwUsvNjG3"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
+        "name": "Soft Meadow",
+        "url": "https://open.spotify.com/album/5lJOCP12LEhMcGPkUsuK4C"
+      },
+      "artists": [
+        {
+          "name": "Escape Gravity",
+          "url": "https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js"
+        }
+      ],
+      "duration_ms": 179366,
+      "name": "Soft Meadow",
+      "url": "https://open.spotify.com/track/0Y4S0WFDJQdIV8VveeRdKF"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
         "name": "Dogma of Sleep",
         "url": "https://open.spotify.com/album/7E9G74qdVBpjKwFoJMAv1d"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 378250,
       "name": "The Sleep",
       "url": "https://open.spotify.com/track/7nwY6NWAgKc5ugYWLMZtc4"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
-        "name": "Evening Calm",
-        "url": "https://open.spotify.com/album/1lYuL6PrtYfCWlk26xn0Kj"
-      },
-      "artists": [
-        {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
-        }
-      ],
-      "duration_ms": 158961,
-      "name": "Evening Calm",
-      "url": "https://open.spotify.com/track/23gmdJgMk6hgkrwUsvNjG3"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
+        "name": "Sleep Drifting",
+        "url": "https://open.spotify.com/album/3baXMgcjcVR8e2sujbNbXN"
+      },
+      "artists": [
+        {
+          "name": "Golden Slumber",
+          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Sleep Drifting",
+      "url": "https://open.spotify.com/track/1PTo6XB9bsMpJq0bCxvVEv"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
         "name": "Capella",
         "url": "https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE"
       },
@@ -1519,18 +1535,18 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "Sleep Drifting",
-        "url": "https://open.spotify.com/album/3baXMgcjcVR8e2sujbNbXN"
+        "name": "A Space Within a Space",
+        "url": "https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp"
       },
       "artists": [
         {
-          "name": "Golden Slumber",
-          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
+          "name": "Escape Gravity",
+          "url": "https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js"
         }
       ],
-      "duration_ms": 171666,
-      "name": "Sleep Drifting",
-      "url": "https://open.spotify.com/track/1PTo6XB9bsMpJq0bCxvVEv"
+      "duration_ms": 191111,
+      "name": "A Space Within a Space",
+      "url": "https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "A Space Within a Space",
-        "url": "https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
       },
       "artists": [
         {
-          "name": "Escape Gravity",
-          "url": "https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js"
+          "name": "Sleeping Clouds",
+          "url": "https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K"
         }
       ],
-      "duration_ms": 191111,
-      "name": "A Space Within a Space",
-      "url": "https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM"
+      "duration_ms": 170958,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1595,22 +1611,6 @@
       "duration_ms": 238192,
       "name": "Monument",
       "url": "https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
-      },
-      "artists": [
-        {
-          "name": "Sleeping Clouds",
-          "url": "https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K"
-        }
-      ],
-      "duration_ms": 170958,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "Dreamstate",
-        "url": "https://open.spotify.com/album/37DwKVq9tG6vzYVhORPRmL"
-      },
-      "artists": [
-        {
-          "name": "Studio Tranquilo",
-          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Dreamstate",
-      "url": "https://open.spotify.com/track/61HSo5TNO6zcd1zjsjO4o5"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
         "name": "Tensions",
         "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 156428,
       "name": "Tensions",
       "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
+        "name": "Dreamstate",
+        "url": "https://open.spotify.com/album/37DwKVq9tG6vzYVhORPRmL"
+      },
+      "artists": [
+        {
+          "name": "Studio Tranquilo",
+          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Dreamstate",
+      "url": "https://open.spotify.com/track/61HSo5TNO6zcd1zjsjO4o5"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "Soft Meadow",
-        "url": "https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8"
-      },
-      "artists": [
-        {
-          "name": "Aloen",
-          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
-        }
-      ],
-      "duration_ms": 193492,
-      "name": "Soft Meadow",
-      "url": "https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
         "name": "Mesmerize",
         "url": "https://open.spotify.com/album/0d7WNCggIX0H9oX8jGrNaL"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 163636,
       "name": "Mesmerize",
       "url": "https://open.spotify.com/track/2E1ZqBkFXyp7ZND2e5RGAq"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
+        "name": "Soft Meadow",
+        "url": "https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8"
+      },
+      "artists": [
+        {
+          "name": "Aloen",
+          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
+        }
+      ],
+      "duration_ms": 193492,
+      "name": "Soft Meadow",
+      "url": "https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1759,38 +1759,6 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "Somnolent",
-        "url": "https://open.spotify.com/album/0g7Ole1o31s5RhWYCIZqoy"
-      },
-      "artists": [
-        {
-          "name": "Golden Slumber",
-          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
-        }
-      ],
-      "duration_ms": 236521,
-      "name": "Somnolent",
-      "url": "https://open.spotify.com/track/0NQmxDWx3thsepS1TcO8bR"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
-        "name": "Quiet Stars",
-        "url": "https://open.spotify.com/album/4kY0CmaPvEq48UR8W8NTt6"
-      },
-      "artists": [
-        {
-          "name": "Language of Lyrics",
-          "url": "https://open.spotify.com/artist/7l76D4b9qcmJjIO5Me5tlC"
-        }
-      ],
-      "duration_ms": 190147,
-      "name": "Quiet Stars",
-      "url": "https://open.spotify.com/track/2NcRLIAKxwFPCdI8NoffL5"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
         "name": "Blissful",
         "url": "https://open.spotify.com/album/7GCBYS9ubuzTUDiXu0ioWN"
       },
@@ -1819,6 +1787,38 @@
       "duration_ms": 156000,
       "name": "A New Day",
       "url": "https://open.spotify.com/track/4hI39WJTJdxfLZIxw1P4xZ"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
+        "name": "Somnolent",
+        "url": "https://open.spotify.com/album/0g7Ole1o31s5RhWYCIZqoy"
+      },
+      "artists": [
+        {
+          "name": "Golden Slumber",
+          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
+        }
+      ],
+      "duration_ms": 236521,
+      "name": "Somnolent",
+      "url": "https://open.spotify.com/track/0NQmxDWx3thsepS1TcO8bR"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
+        "name": "Quiet Stars",
+        "url": "https://open.spotify.com/album/4kY0CmaPvEq48UR8W8NTt6"
+      },
+      "artists": [
+        {
+          "name": "Language of Lyrics",
+          "url": "https://open.spotify.com/artist/7l76D4b9qcmJjIO5Me5tlC"
+        }
+      ],
+      "duration_ms": 190147,
+      "name": "Quiet Stars",
+      "url": "https://open.spotify.com/track/2NcRLIAKxwFPCdI8NoffL5"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/3CFYJa1udVKWy01ukbh3WB"
+      },
+      "artists": [
+        {
+          "name": "Studio Tranquilo",
+          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
+        }
+      ],
+      "duration_ms": 187272,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/3s2tSpZUZntZAJU7FCgQUd"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
         "name": "Psybient (Psychedelic Ambient Music)",
         "url": "https://open.spotify.com/album/0hXQHpXhx1EupvlaZC7tvM"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 220540,
       "name": "Sapphire Dunes",
       "url": "https://open.spotify.com/track/435Lqck9Gjmn6s5K49wfgJ"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
-        "name": "Everlasting",
-        "url": "https://open.spotify.com/album/3CFYJa1udVKWy01ukbh3WB"
-      },
-      "artists": [
-        {
-          "name": "Studio Tranquilo",
-          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
-        }
-      ],
-      "duration_ms": 187272,
-      "name": "Everlasting",
-      "url": "https://open.spotify.com/track/3s2tSpZUZntZAJU7FCgQUd"
     },
     {
       "added_at": "2024-01-30 18:27:53",

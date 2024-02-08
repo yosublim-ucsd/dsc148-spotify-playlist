@@ -4,7 +4,7 @@
 
 > This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 34 min
+52 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [La Greñita](https://open.spotify.com/track/40P38t8Q2JYgngn5xke2Mm) | [La Nueva C](https://open.spotify.com/artist/1tl27rwbbTb7px4vcga4R3), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [La Greñita](https://open.spotify.com/album/11gHCZZq5kRtQvpN0D1dVz) | 2:37 | 2024-01-29 |  |
 | [La Querian Facil](https://open.spotify.com/track/0CGpWyDPr89T453kMb638E) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 3:39 | 2024-01-29 |  |
 | [La Querian Facil](https://open.spotify.com/track/4JlwxYmewZay9BAbLsBHK6) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [La Querian Facil](https://open.spotify.com/album/4tp7hs9DwBnKmFtrTUjflY) | 3:45 | 2024-01-29 |  |
-| [Le Pegue a lo Grande](https://open.spotify.com/track/0JMNj5ZXQK74Nyfq05O88Y) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:57 | 2024-01-30 |  |
+| [Le Pegue a lo Grande](https://open.spotify.com/track/0JMNj5ZXQK74Nyfq05O88Y) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:57 | 2024-01-30 | 2024-02-08 |
 | [Loco Malandro](https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:41 | 2024-01-29 |  |
 | [Los 3 Del NM](https://open.spotify.com/track/3zufohszplV5IN3S7j6bTI) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 1:50 | 2024-01-29 |  |
 | [Lujos De La Vida](https://open.spotify.com/track/465CNemByQDps6aOI24859) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:50 | 2024-01-29 |  |
@@ -48,6 +48,7 @@
 | [Mujer Paseada \- En Vivo](https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 3:03 | 2024-01-29 |  |
 | [Mundo Desgraciado](https://open.spotify.com/track/3hiximGfpxNy8fgsbWm4hm) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:36 | 2024-01-29 |  |
 | [Niveles](https://open.spotify.com/track/3jPympWdTjXK59qcJ83kpZ) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Niveles](https://open.spotify.com/album/4t4tkSCl2kGVNuX5funZSM) | 2:31 | 2024-01-29 |  |
+| [Otra Pregunta](https://open.spotify.com/track/3vdJO25DdQ9dT3qYRyoTQy) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Historia Personal](https://open.spotify.com/album/4L6pnNGvsAOaku8qqJaIlA) | 2:44 | 2024-02-07 |  |
 | [Por Buen Camino](https://open.spotify.com/track/7s3erZkEkuTJ29qB2d0MDX) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:15 | 2024-01-29 |  |
 | [Power](https://open.spotify.com/track/4l1d34SW8r4yD4klZZj8oC) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Jaimito Morales](https://open.spotify.com/artist/1dpLkjxULQu1OJDED7cjs9) | [Power](https://open.spotify.com/album/2W0a475HJ51N4lLX0czxQG) | 3:09 | 2024-01-29 |  |
 | [Quisiste Tú Volver](https://open.spotify.com/track/6sXr9EGXkIkWtSMU74VBDM) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Quisiste Tú Volver](https://open.spotify.com/album/4wBviDB8A3WuLU9PRFNDSR) | 3:16 | 2024-01-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,339 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,374 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 3 | [Sh\-Boom](https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA) | [The Chords](https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T) | [Life Could Be a Dream: The Sh\-Boom Sound of The Chords](https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE) | 2:24 |
 | 4 | [The Lion Sleeps Tonight \(Wimoweh\)](https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi) | [The Tokens](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) | [Wimoweh!!! \- The Best Of The Tokens](https://open.spotify.com/album/6NBox81OQox7U4I0hZB9t0) | 2:42 |
 | 5 | [Earth Angel](https://open.spotify.com/track/7GnMzVWOHLBPcfco4L1GtE) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [Earth Angel](https://open.spotify.com/album/42uu50W2ko5aQriXh7naAd) | 2:51 |
-| 6 | [Mama Said](https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:04 |
-| 7 | [Short Fat Fannie](https://open.spotify.com/track/5xAkEg9CI3rxXFV8mdbSyp) | [Larry Williams](https://open.spotify.com/artist/5NBY8xM51dP3UGR7bwjLD6) | [Here's Larry Williams](https://open.spotify.com/album/0IezgTiPL0BoQuujiGQvVZ) | 2:26 |
+| 6 | [Short Fat Fannie](https://open.spotify.com/track/5xAkEg9CI3rxXFV8mdbSyp) | [Larry Williams](https://open.spotify.com/artist/5NBY8xM51dP3UGR7bwjLD6) | [Here's Larry Williams](https://open.spotify.com/album/0IezgTiPL0BoQuujiGQvVZ) | 2:26 |
+| 7 | [Mama Said](https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:04 |
 | 8 | [Yakety Yak \- 2007 Remaster](https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 1:56 |
 | 9 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 |
 | 10 | [Stay](https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct) | [Maurice Williams](https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D), [The Zodiacs](https://open.spotify.com/artist/1HCE0pbqGLSvWaz5q4TeDd) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 1:34 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 25 | [Charlie Brown \- 2007 Remaster Stereo Single Version; Remastered](https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 2:21 |
 | 26 | [Get a Job](https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN) | [The Silhouettes](https://open.spotify.com/artist/39fE9541sKuRBOsf7UOifd) | [Get a Job](https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9) | 2:49 |
 | 27 | [Up on the Roof](https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Up on the Roof: The Best of the Drifters](https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3) | 2:35 |
-| 28 | [I Wonder Why \- Remastered](https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [The Best Of Dion & The Belmonts](https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu) | 2:18 |
-| 29 | [Silhouettes](https://open.spotify.com/track/4YSdo81Wt11kR7M1zc94vD) | [The Rays](https://open.spotify.com/artist/3owdLGoMpuTwee9KIh1Ibv) | [Presenting The Rays](https://open.spotify.com/album/32Jl14rurUEKvm8iRuDqoS) | 2:46 |
+| 28 | [Silhouettes](https://open.spotify.com/track/4YSdo81Wt11kR7M1zc94vD) | [The Rays](https://open.spotify.com/artist/3owdLGoMpuTwee9KIh1Ibv) | [Presenting The Rays](https://open.spotify.com/album/32Jl14rurUEKvm8iRuDqoS) | 2:46 |
+| 29 | [I Wonder Why \- Remastered](https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [The Best Of Dion & The Belmonts](https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu) | 2:18 |
 | 30 | [Whispering Bells](https://open.spotify.com/track/146DRoVAxV5jNjv04Pw6XJ) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [The Pennsylvania Vikings](https://open.spotify.com/album/3AEbuPJtClS1zNd8oTJLSD) | 2:23 |
 | 31 | [Goin' Out Of My Head](https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Goin' Out Of My Head](https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK) | 2:29 |
 | 32 | [Heart And Soul](https://open.spotify.com/track/6UVPuIgNTVNpqyX3YGoj1T) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy), [Al Alberts](https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq) | [The Four Aces' Greatest Hits](https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 49 | [Crying in the Chapel \- Remastered](https://open.spotify.com/track/53AD8JznNIb0jUZvwFY6MB) | [Sonny Til & The Orioles](https://open.spotify.com/artist/0xu2ZjoR7pUPjMIDcJ67dW) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/5GuwHCtGYe062YWhAyc0jF) | 3:01 |
 | 50 | [Maybe](https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN) | [The Chantels](https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:50 |
 
-Snapshot ID: `MCwwYjk3OGZjNjVhODU5NmI1ODRiZTVkMGMwNjU1MmU3OWRjMjk4ODA4`
+Snapshot ID: `MCwwYjFiYTIxN2Q0YTU3MDY5ODBmYmRiM2Q5YTYwMjNmZTZlNjBhOWM0`

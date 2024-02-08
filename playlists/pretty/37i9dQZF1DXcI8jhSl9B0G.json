@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 74988,
+  "num_followers": 74998,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTY4Y2VjNTUzMjJmMzc3MDc4YTFiZGZkN2ViNjg4YTA0YmYwYTNm",
+  "snapshot_id": "MCxmOWMwZmZiYTFiNGNhOGFhMzc1ZTk1YmUxY2MzZmYzNDM3MGRlN2Zl",
   "tracks": [
     {
       "added_at": "2023-11-30 13:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/00qsnkOHVr38BOpUOTmmCN"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 231200,
-      "name": "Milk & Honey",
-      "url": "https://open.spotify.com/track/0LbRbiN6RTRzxTvmmjfeCg"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Quiet Moon, Wild Sea",
         "url": "https://open.spotify.com/album/0TRwHdBtNJyI7d2Pfboc2b"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 248858,
       "name": "Quiet Moon, Wild Sea",
       "url": "https://open.spotify.com/track/4fOMpHPfJB3v65iVNSBkxy"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/00qsnkOHVr38BOpUOTmmCN"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 231200,
+      "name": "Milk & Honey",
+      "url": "https://open.spotify.com/track/0LbRbiN6RTRzxTvmmjfeCg"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -487,18 +487,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "All Over Again",
-        "url": "https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz"
+        "name": "Lonely Nights",
+        "url": "https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm"
       },
       "artists": [
         {
-          "name": "Miller Roberts",
-          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        },
+        {
+          "name": "Priscilla Ahn",
+          "url": "https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy"
         }
       ],
-      "duration_ms": 223445,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM"
+      "duration_ms": 219533,
+      "name": "Lonely Nights",
+      "url": "https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -519,22 +523,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Lonely Nights",
-        "url": "https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm"
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz"
       },
       "artists": [
         {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        },
-        {
-          "name": "Priscilla Ahn",
-          "url": "https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy"
+          "name": "Miller Roberts",
+          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
         }
       ],
-      "duration_ms": 219533,
-      "name": "Lonely Nights",
-      "url": "https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq"
+      "duration_ms": 223445,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Inappropriate Behaviour",
+        "url": "https://open.spotify.com/album/7BQwIrJWEtIkiYPEGV1XQY"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 196772,
+      "name": "Inappropriate Behaviour",
+      "url": "https://open.spotify.com/track/1dvthmMza4Qi6F4pQQBqbS"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Mid Sentence",
         "url": "https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 184342,
       "name": "Mid Sentence",
       "url": "https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Inappropriate Behaviour",
-        "url": "https://open.spotify.com/album/7BQwIrJWEtIkiYPEGV1XQY"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 196772,
-      "name": "Inappropriate Behaviour",
-      "url": "https://open.spotify.com/track/1dvthmMza4Qi6F4pQQBqbS"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 218999,
+      "name": "don\u2019t get caught up",
+      "url": "https://open.spotify.com/track/2k8gVOolKZ7FIHNkoVRVcu"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "5am Paradise (Acoustic) [Sunrise Version]",
         "url": "https://open.spotify.com/album/4dquJ7BPyzZ0XiGH2eDVd4"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "She Came Back with Rainbows",
-        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 230189,
-      "name": "She Came Back with Rainbows",
-      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Hold You Tapes",
         "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
       },
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
+        "name": "She Came Back with Rainbows",
+        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
         }
       ],
-      "duration_ms": 218999,
-      "name": "don\u2019t get caught up",
-      "url": "https://open.spotify.com/track/2k8gVOolKZ7FIHNkoVRVcu"
+      "duration_ms": 230189,
+      "name": "She Came Back with Rainbows",
+      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Where'd You Go",
-        "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 219479,
-      "name": "Where'd You Go",
-      "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Changing",
         "url": "https://open.spotify.com/album/3LeIFDuIgOxZv3NIlhlplP"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 163560,
       "name": "Changing",
       "url": "https://open.spotify.com/track/2RYVsSQNpUV0d7KOmb3lAr"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "The Water & The Rough",
+        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
+      },
+      "artists": [
+        {
+          "name": "Riley Pearce",
+          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+        }
+      ],
+      "duration_ms": 216476,
+      "name": "8 Hour Drive",
+      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -939,18 +939,34 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "The Water & The Rough",
-        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
       },
       "artists": [
         {
-          "name": "Riley Pearce",
-          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 216476,
-      "name": "8 Hour Drive",
-      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
+      "duration_ms": 271999,
+      "name": "heartbeat",
+      "url": "https://open.spotify.com/track/7vAG5pwx3isF20fa3uuDXC"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Where'd You Go",
+        "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 219479,
+      "name": "Where'd You Go",
+      "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -967,22 +983,6 @@
       "duration_ms": 188149,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 271999,
-      "name": "heartbeat",
-      "url": "https://open.spotify.com/track/7vAG5pwx3isF20fa3uuDXC"
     },
     {
       "added_at": "2023-11-30 13:00:00",

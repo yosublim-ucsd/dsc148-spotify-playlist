@@ -4,7 +4,7 @@
 
 > A deep and concise look at the music that made Country Music what is is today\. Covers eras <br/>1930's \- 1990.
 
-128 songs - 6 hr 28 min
+129 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Streets of Bakersfield \(with Buck Owens\) \- 2006 Remaster](https://open.spotify.com/track/3pYZlqrcvbWnw2FWnZtUrI) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW), [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [Rhino Hi\-Five: Dwight Yoakam](https://open.spotify.com/album/1riOmyzZwqxByj20hBMD3J) | 2:49 | 2020-10-14 | 2022-09-02 |
 | [Sunday Morning Coming Down](https://open.spotify.com/track/0gSc5Vo4tczXkHb2V208jz) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Austin Sessions](https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA) | 5:19 | 2020-10-14 |  |
 | [Take Me Back To Tulsa](https://open.spotify.com/track/74zBjPCZ1juar6yeglInYv) | [Bob Wills & Tommy Duncan with The Texas Playboys](https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE) | [Together Again](https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX) | 2:34 | 2020-10-14 |  |
-| [Tennessee Flat Top Box](https://open.spotify.com/track/00viUMvYR4Smwuw6l1W4el) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Hits 1979 \- 1989](https://open.spotify.com/album/3Bn77PH5xZ2QedRQM6DJPP) | 3:09 | 2020-10-14 |  |
+| [Tennessee Flat Top Box](https://open.spotify.com/track/2m25daTa9vh2G3kR4ZnSSS) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [King's Record Shop](https://open.spotify.com/album/2UKzyeTTIPTmhgMawl3iag) | 3:09 | 2023-01-13 |  |
+| [Tennessee Flat Top Box](https://open.spotify.com/track/00viUMvYR4Smwuw6l1W4el) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Hits 1979 \- 1989](https://open.spotify.com/album/3Bn77PH5xZ2QedRQM6DJPP) | 3:09 | 2020-10-14 | 2024-02-08 |
 | [Texas Cookin'](https://open.spotify.com/track/6uhBxmlfzIbxpIBRteQUQL) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Texas Cookin](https://open.spotify.com/album/2NPT5jU2CNKwU1f8IdaAMF) | 3:48 | 2020-10-14 |  |
 | [The Great Speckled Bird](https://open.spotify.com/track/1fPynWV3ANbzISOdT8gi1h) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [Country Music \- A Film by Ken Burns \(The Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC) | 2:40 | 2022-05-06 | 2022-11-13 |
 | [The Great Speckled Bird](https://open.spotify.com/track/0SyItgjx7nI4uOb3a3Esh7) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [Greatest Hits](https://open.spotify.com/album/0wRceJqjya1BV4iV1dmHwF) | 2:43 | 2022-05-06 |  |

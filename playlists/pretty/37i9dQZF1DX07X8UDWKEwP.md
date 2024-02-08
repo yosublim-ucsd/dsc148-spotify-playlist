@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Tiago PZK & Ke Personajes
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,230 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,245 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 19 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 |
 | 20 | [Clavaito](https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Clavaito](https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0) | 2:42 |
 | 21 | [ADIÓS \(Live Version\)](https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [ADIÓS \(Live Version\)](https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282) | 2:44 |
-| 22 | [ELLA TIENE](https://open.spotify.com/track/31YHWv22Lyv9iKBepk3guM) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [ELLA TIENE](https://open.spotify.com/album/0VSnZVbjbufIZYKwy3Rafu) | 3:16 |
-| 23 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 |
-| 24 | [UNA BACHATA](https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:37 |
+| 22 | [UNA BACHATA](https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:37 |
+| 23 | [ELLA TIENE](https://open.spotify.com/track/31YHWv22Lyv9iKBepk3guM) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [ELLA TIENE](https://open.spotify.com/album/0VSnZVbjbufIZYKwy3Rafu) | 3:16 |
+| 24 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 |
 | 25 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 |
 | 26 | [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 |
 | 27 | [Procura](https://open.spotify.com/track/2RXrX4BuyEPmmRCNzIJsYQ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 49 | [Amor Sincero](https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:34 |
 | 50 | [MI HOGAR \(with maye\)](https://open.spotify.com/track/19MC63Kwcy5eETHclYnXhe) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:55 |
 
-Snapshot ID: `MCwzNWEyOGQ1YWE5Yjk2NDFlNDg5Nzk2ZmE1NTg1YWM5ZDgxZTgxOTk5`
+Snapshot ID: `MCwwMzAzMzM3ZThjMDNjM2Y4MTgwYzdlNjNjMjU2MGM2Njk1NzJkM2U1`

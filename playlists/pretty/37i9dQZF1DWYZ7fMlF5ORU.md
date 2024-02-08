@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,697 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,781 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 3 | [Deus Está No Controle](https://open.spotify.com/track/6ycM0D2SAlyxwl40Y10AlZ) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 2:52 |
 | 4 | [Te Agradeço](https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Cânticos I](https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm) | 4:26 |
 | 5 | [Estado De Graça \- Ao Vivo](https://open.spotify.com/track/5lDcuC16NaVZkjWRvAtTIe) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Preto No Branco 3 \(Ao Vivo\)](https://open.spotify.com/album/17f5CLg1zIf55tqhEjCV41) | 4:45 |
-| 6 | [Avante](https://open.spotify.com/track/3z9SRMvGQ0mr25ocM2LovO) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Avante](https://open.spotify.com/album/6UKKAW3dSSxUiegAUfRLqG) | 3:23 |
+| 6 | [provérbios 16](https://open.spotify.com/track/4Te7CWux7EKyXmhBUZbpCU) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [o Dono do tempo](https://open.spotify.com/album/0d9lKsIyRHmeOhYisKGUGu) | 4:07 |
 | 7 | [Os Anjos Te Louvam \- Ao Vivo](https://open.spotify.com/track/4tOew5u9pgzElc0RcH3bgy) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Luz Do Mundo \(Ao Vivo\)](https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj) | 4:13 |
-| 8 | [provérbios 16](https://open.spotify.com/track/4Te7CWux7EKyXmhBUZbpCU) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [o Dono do tempo](https://open.spotify.com/album/0d9lKsIyRHmeOhYisKGUGu) | 4:07 |
+| 8 | [Avante](https://open.spotify.com/track/3z9SRMvGQ0mr25ocM2LovO) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Avante](https://open.spotify.com/album/6UKKAW3dSSxUiegAUfRLqG) | 3:23 |
 | 9 | [Não Pare de Crer](https://open.spotify.com/track/5c9H63Ch7zPugB36knsHmc) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 2:46 |
 | 10 | [Betel \- Ao Vivo](https://open.spotify.com/track/7eFlDGti9RtnzJ9OaWybjo) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Betel \(Ao Vivo\)](https://open.spotify.com/album/13DnNshXTWvEXoXpAeC9IE) | 4:24 |
 | 11 | [Um Pouco do Que Deus Fez](https://open.spotify.com/track/1F2NsHxUk1qDckkHfPtEzp) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Essência](https://open.spotify.com/album/6gh1cKg6cQvjSSmJMKVPhm) | 3:22 |
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 47 | [Brighter Day \- Kirk's Mix](https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [A Season Of Remixes](https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV) | 4:11 |
 | 48 | [Cântico Novo](https://open.spotify.com/track/2JwayPaEZNwn8qY3LoSotg) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Cântico Novo](https://open.spotify.com/album/4QdKBokUDI0dnm3nJ2FKPK) | 2:54 |
 | 49 | [A Noiva \- Ao Vivo](https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [A Noiva \(Ao Vivo\)](https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o) | 5:43 |
-| 50 | [Me Curou \- Ao Vivo](https://open.spotify.com/track/5vyjMaNbC8i6csgcw7l6cQ) | [Leandro Luz](https://open.spotify.com/artist/0L90J59rtSPOYx77qqpYtr) | [Na Praia \(Ao Vivo\)](https://open.spotify.com/album/24T5mM5aO372Izb2kHxxat) | 4:43 |
-| 51 | [Tudo Posso](https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP), [Lucas Augusto](https://open.spotify.com/artist/7LSUgNEsBUVmqHBXeQQ2VR) | [Tudo Posso](https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ) | 6:37 |
+| 50 | [Tudo Posso](https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP), [Lucas Augusto](https://open.spotify.com/artist/7LSUgNEsBUVmqHBXeQQ2VR) | [Tudo Posso](https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ) | 6:37 |
+| 51 | [Me Curou \- Ao Vivo](https://open.spotify.com/track/5vyjMaNbC8i6csgcw7l6cQ) | [Leandro Luz](https://open.spotify.com/artist/0L90J59rtSPOYx77qqpYtr) | [Na Praia \(Ao Vivo\)](https://open.spotify.com/album/24T5mM5aO372Izb2kHxxat) | 4:43 |
 | 52 | [Cante Louvor: Legado 40 Conexões](https://open.spotify.com/track/7ce5qOUmxru6SaolIhiryx) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Cante Louvor: Legado 40 Conexões](https://open.spotify.com/album/245T8eQMUyf53Sx85tCZ4O) | 4:07 |
 | 53 | [O Que Há Por Dentro](https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi) | [Rafa Blauth](https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU) | [Sobre Deixar](https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt) | 3:40 |
 | 54 | [Tu És Bom](https://open.spotify.com/track/2C2tYTdAUNcLXLqWQh48qj) | [Ministério Sintonia](https://open.spotify.com/artist/0fxmvIw8Q07mUd3WWeWRov), [Léo Moreno](https://open.spotify.com/artist/7aL8gEvgW9buUDMXHdkqAP) | [Tu És Bom](https://open.spotify.com/album/2weuTPGZTac19nolO4fZHf) | 4:08 |
-| 55 | [Livre Sou](https://open.spotify.com/track/2p09iTN64FK0K10V1eMKv6) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Haja Luz](https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2) | 3:29 |
-| 56 | [Ele Me Amou](https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l) | [Wellington Caetano](https://open.spotify.com/artist/2sjxlztngIj8gPo1NDFp1V), [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F), [Rodney Graciano](https://open.spotify.com/artist/3eAqzvv41VPIqYgiYSqZDh) | [Ele Me Amou](https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA) | 4:29 |
+| 55 | [Ele Me Amou](https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l) | [Wellington Caetano](https://open.spotify.com/artist/2sjxlztngIj8gPo1NDFp1V), [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F), [Rodney Graciano](https://open.spotify.com/artist/3eAqzvv41VPIqYgiYSqZDh) | [Ele Me Amou](https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA) | 4:29 |
+| 56 | [Livre Sou](https://open.spotify.com/track/2p09iTN64FK0K10V1eMKv6) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Haja Luz](https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2) | 3:29 |
 | 57 | [Nunca Vou Parar \- Live](https://open.spotify.com/track/7dXI0bmuBoPjTuhBLGyZlS) | [Daniel Araujo](https://open.spotify.com/artist/4Jq7MWwjAEjcBI7TdTtCYg) | [Nunca Vou Parar \(Live\)](https://open.spotify.com/album/3eFgwOT6PBsfIeHPCgS7QF) | 3:45 |
 | 58 | [Medley: Dom Supremo](https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu) | [Por Amor a Ti](https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx) | 2:43 |
 | 59 | [Instrumento Teu](https://open.spotify.com/track/6dABpJNsCkaR0ivYFuf7OL) | [Música Legionária](https://open.spotify.com/artist/1K8m2SYdmpAHFe54dt5nZB), [Carlos Eduardo](https://open.spotify.com/artist/7KuXPiV6eFvXjyseedTPxp), [Aléxia França](https://open.spotify.com/artist/4Mf8eq3vKfsKTNANngaZIT) | [Espetáculo Música Legionária: Os Mortos Não Morrem!](https://open.spotify.com/album/3tc1IR9Rvhe6JEPMkBBwfh) | 4:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 79 | [Viver O Amor \- Ao Vivo](https://open.spotify.com/track/1jKezE2CPZGiaywCIDFlpD) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Viver O Amor \(Ao Vivo\)](https://open.spotify.com/album/10DzETP5qOEaaDf98uuB39) | 3:50 |
 | 80 | [Todos São Iguais \- Ao Vivo](https://open.spotify.com/track/1nvQzQaL7lEOtyGz3W3jgi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [João Alexandre](https://open.spotify.com/artist/5kgQN9xPuWYGxVzsJb86Hx) | [Todos São Iguais \(Ao Vivo\)](https://open.spotify.com/album/7ejMECw1J8l2h7vv08H1JA) | 4:16 |
 
-Snapshot ID: `MCxhZjg0YWUyNDU1ZjE3YWMzNDllN2IxNmRmMDE0YmY0OWMxM2U4NjNk`
+Snapshot ID: `MCxkMjYyN2EwNWRmNmU5MzE1MjM0NmQ2NmQ5YzRhZDIyMWQ4MTk2NzAy`

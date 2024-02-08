@@ -600,7 +600,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 237166,
       "name": "Le Pegue a lo Grande",
       "url": "https://open.spotify.com/track/0JMNj5ZXQK74Nyfq05O88Y"
@@ -778,6 +778,24 @@
       "duration_ms": 151578,
       "name": "Niveles",
       "url": "https://open.spotify.com/track/3jPympWdTjXK59qcJ83kpZ"
+    },
+    {
+      "album": {
+        "name": "Historia Personal",
+        "url": "https://open.spotify.com/album/4L6pnNGvsAOaku8qqJaIlA"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164101,
+      "name": "Otra Pregunta",
+      "url": "https://open.spotify.com/track/3vdJO25DdQ9dT3qYRyoTQy"
     },
     {
       "album": {

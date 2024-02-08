@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 
 > Soft electronic music for your dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,627 likes - 141 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,661 likes - 141 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 | 140 | [Summer Haze](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Summer Haze](https://open.spotify.com/album/7lZSOlmlbo5nfmXaNtZSzw) | 3:15 |
 | 141 | [Numberless](https://open.spotify.com/track/5ZDSl9sx8sDxzrrcAddsJm) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Numberless](https://open.spotify.com/album/4u2RN3NRm5qXEkI7eE0E24) | 2:46 |
 
-Snapshot ID: `MCw1MWM4OTQxOTcyZTMzZjc5M2IzYTUwMTUzZjJmOGY3ZGMyYTdiZDM5`
+Snapshot ID: `MCw1ZWFjMzM3MzE5MDUwMjM2OWJhNWI4MmMxMWI2ZWUyNjYyZWYzYjcz`

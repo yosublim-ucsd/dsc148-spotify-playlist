@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 120944,
+  "num_followers": 120979,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWU5NWZiMzIxM2ZjOTRhNzkzM2M0Y2VmZDZkY2ZjNzA2MzdlZmEy",
+  "snapshot_id": "MCxkZjZmNTY2NGE5Yjk2MjE1NTk4OGE4ZTEwMTM2ZTRlZWQ5ZTM5ZDgx",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Oxigeno",
-        "url": "https://open.spotify.com/album/0tAVNYIxC7TpHEdkmZRtHE"
-      },
-      "artists": [
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 321554,
-      "name": "Ganarlos a Todos",
-      "url": "https://open.spotify.com/track/0lbtoROQFkkyBda4nWE5vl"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Values",
         "url": "https://open.spotify.com/album/6IXTSDUaSGqqqA8eCzaQ4H"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 190511,
       "name": "Dios Nunca Falla",
       "url": "https://open.spotify.com/track/3mBlNX9LKkJU8BM9B3k23Y"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Oxigeno",
+        "url": "https://open.spotify.com/album/0tAVNYIxC7TpHEdkmZRtHE"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 321554,
+      "name": "Ganarlos a Todos",
+      "url": "https://open.spotify.com/track/0lbtoROQFkkyBda4nWE5vl"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "De Todo Un Poco",
-        "url": "https://open.spotify.com/album/0HpcxLjTaZ65MM7auMqwdb"
-      },
-      "artists": [
-        {
-          "name": "Jose \"Papo\" Rivera",
-          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
-        }
-      ],
-      "duration_ms": 210053,
-      "name": "Rumbarengue",
-      "url": "https://open.spotify.com/track/4h689d9SNdQ5WbrYcsGtG4"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Nonstop",
         "url": "https://open.spotify.com/album/2hIXO8X9iQA1XhFQZWrHdA"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 194018,
       "name": "Fue Por Ti",
       "url": "https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "De Todo Un Poco",
+        "url": "https://open.spotify.com/album/0HpcxLjTaZ65MM7auMqwdb"
+      },
+      "artists": [
+        {
+          "name": "Jose \"Papo\" Rivera",
+          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+        }
+      ],
+      "duration_ms": 210053,
+      "name": "Rumbarengue",
+      "url": "https://open.spotify.com/track/4h689d9SNdQ5WbrYcsGtG4"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Soy Sonero",
-        "url": "https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS"
-      },
-      "artists": [
-        {
-          "name": "Jose \"Papo\" Rivera",
-          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
-        }
-      ],
-      "duration_ms": 255242,
-      "name": "Salsa del Cielo",
-      "url": "https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Deluxe",
         "url": "https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I"
       },
@@ -567,22 +551,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
-      },
-      "artists": [
-        {
-          "name": "Robert Felix",
-          "url": "https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Por Un Minuto Tu Presencia",
-      "url": "https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Hoy Ver\u00e9 Su Gloria",
         "url": "https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv"
       },
@@ -595,6 +563,38 @@
       "duration_ms": 274130,
       "name": "Hoy Ver\u00e9 Su Gloria",
       "url": "https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Soy Sonero",
+        "url": "https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS"
+      },
+      "artists": [
+        {
+          "name": "Jose \"Papo\" Rivera",
+          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+        }
+      ],
+      "duration_ms": 255242,
+      "name": "Salsa del Cielo",
+      "url": "https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
+      },
+      "artists": [
+        {
+          "name": "Robert Felix",
+          "url": "https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "Por Un Minuto Tu Presencia",
+      "url": "https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8"
     },
     {
       "added_at": "2020-09-18 05:02:00",

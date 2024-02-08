@@ -4,7 +4,7 @@
 
 > To: You, From: Anna <3
 
-54 songs - 3 hr 1 min
+55 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Boys Like You](https://open.spotify.com/track/3MZeBZsYFViZ5OchHkv7NM) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Boys Like You](https://open.spotify.com/album/4lze7H8TQqIqnrRT9Sc351) | 3:27 | 2023-07-26 |  |
 | [CHICKEN TENDIES](https://open.spotify.com/track/4hNjjRYpkftbChRMkRlDeg) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MAYBE SOMEDAY IT'LL ALL BE OK](https://open.spotify.com/album/4PgSvMUqxOsCTXqR1GPij3) | 3:16 | 2023-07-26 |  |
 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 | 2023-07-26 |  |
-| [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 | 2023-07-26 |  |
+| [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 | 2023-07-26 | 2024-02-08 |
+| [Cosmos](https://open.spotify.com/track/0iwgldb9jw0O9HOj1FUWgH) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/4fP8xQzp2kRs4Nr24ntJaN) | 3:03 | 2023-07-26 |  |
 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 | 2023-07-26 |  |
 | [Daylight](https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:44 | 2023-07-26 |  |
 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 | 2023-07-26 |  |

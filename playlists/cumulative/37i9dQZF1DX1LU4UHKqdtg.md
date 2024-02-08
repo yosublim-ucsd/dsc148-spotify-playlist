@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: TWICE
 
-903 songs - 2 day 1 hr 14 min
+904 songs - 2 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,8 @@
 | [Do It Like This \- English Version](https://open.spotify.com/track/5Z0k8KRK0Xy0metItGplGo) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Do It Like This \(English Version\)](https://open.spotify.com/album/4L12vI7rtyBFmYOWZYtOi6) | 3:12 | 2022-03-10 | 2022-05-11 |
 | [Do not touch](https://open.spotify.com/track/1w6b63TmaXFk1jhPOY0FkY) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Do not touch](https://open.spotify.com/album/2A7JiOErRUS6Sw9YneA6Hq) | 3:05 | 2023-07-13 |  |
 | [Do or Die](https://open.spotify.com/track/21ewxM3YvcdTj7cC0XwznO) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Do or Die](https://open.spotify.com/album/0vZCxyaV5c4lcHqds3xfts) | 3:25 | 2023-10-12 | 2023-11-08 |
-| [DOMINO \~ butterfly effect \- Japanese ver\. \-](https://open.spotify.com/track/6wVjnSrZvJubZcz1cbFrfF) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Knock\-on Effect](https://open.spotify.com/album/0EKa8nv4JNlFQnPJYPHCg6) | 2:59 | 2024-02-06 |  |
+| [DOMINO \~ butterfly effect \- Japanese ver\. \-](https://open.spotify.com/track/67zYH1gIIX4tQHhJyOMhlo) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Knock\-on Effect](https://open.spotify.com/album/1bklyCTtSDF0jdIaRcJCEi) | 2:59 | 2024-02-06 |  |
+| [DOMINO \~ butterfly effect \- Japanese ver\. \-](https://open.spotify.com/track/6wVjnSrZvJubZcz1cbFrfF) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Knock\-on Effect](https://open.spotify.com/album/0EKa8nv4JNlFQnPJYPHCg6) | 2:59 | 2024-02-06 | 2024-02-08 |
 | [Don't](https://open.spotify.com/track/54XEKEtqGf1id0Dj0yVNyX) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Feelin' Like](https://open.spotify.com/album/6aHqtqYMafUMboxW0xMhdM) | 2:45 | 2022-09-16 | 2022-11-29 |
 | [DON'T DANCE](https://open.spotify.com/track/27Xr5Ty5TCABfJg01wGcJh) | [Amber Liu](https://open.spotify.com/artist/4ZpzgTOUAznSK70KdPbJHf) | [DON'T DANCE](https://open.spotify.com/album/25VBcFAuHR0NXGYXNcP1wc) | 2:32 | 2021-12-23 | 2022-01-19 |
 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 | 2023-10-06 | 2023-10-28 |

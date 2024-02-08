@@ -1,15 +1,15 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain](/playlists/plain/37i9dQZF1DXdTb8AG95jne) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdTb8AG95jne)
 
-### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
+### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: AQUINAS\(강민수\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: LIM KIM\(김예림\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,581 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,587 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [내일이 오기 전까지 Until tomorrow comes \(feat\. P.RAO\)](https://open.spotify.com/track/20CiPSS7cby4JLhwzPC2JB) | [AQUINAS](https://open.spotify.com/artist/6icWxBzgVFQXsLJN8uIzCR), [P.RAO](https://open.spotify.com/artist/6iGM3mRu8Dgv0vraQmsocz) | [내일이 오기 전까지 Until tomorrow comes \(feat\. P.RAO\)](https://open.spotify.com/album/3PrBuHgC7Dpgtw3T1Ny2uS) | 3:38 |
-| 2 | [Happy Ending](https://open.spotify.com/track/3BgEBMpkiYoWQtWT9AAdft) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Happy Ending](https://open.spotify.com/album/0SgKOEUQhYZXOkiRDRnmCZ) | 3:36 |
+| 1 | [ULT](https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [ULT](https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu) | 2:26 |
+| 2 | [What Can I Say? \(Feat\. SHIRT, g0nny\)](https://open.spotify.com/track/35LCy2za77nFY0kIXrSJsd) | [SOQI](https://open.spotify.com/artist/2zvEoTxRST15pPUcMVWw0K), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [What Can I Say? \(Feat\. SHIRT, g0nny\)](https://open.spotify.com/album/6SoRYuB2wOtpPaqPTjKjCq) | 3:22 |
 | 3 | [Maybe We Could Be a Thing](https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Maybe We Could Be a Thing](https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI) | 2:56 |
 | 4 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
 | 5 | [Wings](https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Wings](https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC) | 3:15 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 16 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
 | 17 | [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 |
 | 18 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:08 |
-| 19 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
-| 20 | [Lovers in the Night](https://open.spotify.com/track/3JtVOqRMgfMNDL7r2NFkYz) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Lovers in the Night](https://open.spotify.com/album/0HJcwB2w5BHsZFFFrs2QGs) | 3:30 |
+| 19 | [Lovers in the Night](https://open.spotify.com/track/3JtVOqRMgfMNDL7r2NFkYz) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Lovers in the Night](https://open.spotify.com/album/0HJcwB2w5BHsZFFFrs2QGs) | 3:30 |
+| 20 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
 | 21 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 |
 | 22 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
 | 23 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 36 | [You are special](https://open.spotify.com/track/2CNG54Mbrfw5EvmXE0370Y) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [You are special](https://open.spotify.com/album/2vtpyCgI3m6igo2dKJQqTV) | 3:24 |
 | 37 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 |
 | 38 | [Lighthouse](https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Calibrate](https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y) | 3:45 |
-| 39 | [Lustre](https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 3:34 |
-| 40 | [RAL 9002 \(Feat\. Heize\)](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 |
+| 39 | [RAL 9002 \(Feat\. Heize\)](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 |
+| 40 | [Lustre](https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 3:34 |
 | 41 | [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 |
 | 42 | [naps!](https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [naps!](https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq) | 3:25 |
 | 43 | [Youth](https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE) | 6:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 |
 | 50 | [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 |
 
-Snapshot ID: `MCxhYjdmZDVjZmZmMDQ1ODEyNWJlMjhhNDE3OTVmY2JmMjI4OTUzNTQ1`
+Snapshot ID: `MCwyMjYyNzU4YmI5YWFjNWFkMjYwY2RjODg5MTdlODBiZDg3NDEwYTZi`

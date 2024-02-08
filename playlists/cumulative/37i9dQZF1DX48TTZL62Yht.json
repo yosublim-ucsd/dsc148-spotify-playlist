@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The tracks you just keep pulling up. Discover more Black artists and their contributions <a href=\"spotify:genre:0JQ5DAqbMKFF9bY76LXmfI\">here.</a> Cover: <a href=\"spotify:artist:1URnnhqYAYcrqrcwql10ft\">21 Savage</a>",
+  "description": "The tracks you just keep pulling up. Cover: <a href=\"spotify:artist:1URnnhqYAYcrqrcwql10ft\">21 Savage</a>",
   "name": "Hip-Hop Favourites",
   "tracks": [
     {
@@ -6079,6 +6079,28 @@
     },
     {
       "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260111,
+      "name": "IDGAF (feat. Yeat)",
+      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
+    },
+    {
+      "album": {
         "name": "IDWK",
         "url": "https://open.spotify.com/album/6s7fnQZkQ6ZqmRxpJ22OjF"
       },
@@ -6724,7 +6746,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 242965,
       "name": "Knife Talk (with 21 Savage ft. Project Pat)",
       "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"

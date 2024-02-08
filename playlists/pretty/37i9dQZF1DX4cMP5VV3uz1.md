@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,256 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,311 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 35 | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv) | 2:39 |
 | 36 | [Elemental](https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Elemental](https://open.spotify.com/album/44J6yWMGZ8gdPTF9VniGkb) | 3:17 |
 | 37 | [Free](https://open.spotify.com/track/2C0IvokSio8N7UyHwuB638) | [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9), [Nasser UK](https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD), [Valor](https://open.spotify.com/artist/2hdUuoqJUD7RXiGBNhEeUL) | [Free](https://open.spotify.com/album/0TU1txO73cwnDnDc2a9twG) | 3:07 |
-| 38 | [FOUND LOVE \(feat\. Carrie Baxter\)](https://open.spotify.com/track/5Ndsdhx3jKxjQmHw7QkHmi) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [OUTSIDER](https://open.spotify.com/album/0gAyGESgFfil520X4zmk1v) | 2:16 |
+| 38 | [Move Your Body \- Hedex Remix](https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Move Your Body \(Hedex Remix\)](https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo) | 3:20 |
 | 39 | [Stars On The Roof \(feat\. MOMO\)](https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [MoMo](https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ) | [Stars On The Roof \(feat\. MOMO\)](https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99) | 4:02 |
-| 40 | [Move Your Body \- Hedex Remix](https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Move Your Body \(Hedex Remix\)](https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo) | 3:20 |
+| 40 | [FOUND LOVE \(feat\. Carrie Baxter\)](https://open.spotify.com/track/5Ndsdhx3jKxjQmHw7QkHmi) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [OUTSIDER](https://open.spotify.com/album/0gAyGESgFfil520X4zmk1v) | 2:16 |
 | 41 | [Freedom](https://open.spotify.com/track/1kP8aDUnowfDgH1y1xLNVf) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Freedom](https://open.spotify.com/album/2Xh1gUIGFHqensYqIf96Cz) | 3:12 |
 | 42 | [Ready To Fly \- Sub Focus & Dimension](https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Ready To Fly \(Sub Focus & Dimension\)](https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc) | 3:24 |
 | 43 | [Infinity \(feat\. ILIRA, iiola & Tom Cane\)](https://open.spotify.com/track/0CkmD2L3xMeZTXOwlOCsVm) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [iiola](https://open.spotify.com/artist/3YSLjtLPCULe41kgElVrWj), [Tom Cane](https://open.spotify.com/artist/5iFDzfBI6aebgrb9ljJhme) | [Infinity \(feat\. ILIRA, iiola & Tom Cane\)](https://open.spotify.com/album/4X2i68rMNDVwGMTeXW5bek) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [Pictures In My Head \- High Contrast Remix](https://open.spotify.com/track/4nTWlJcs3S1cxnXTTnWu2n) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Pictures In My Head](https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm) | 4:18 |
 | 75 | [Getting Started \- Chase & Status Remix](https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Getting Started \(Chase & Status Remix\)](https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1) | 3:10 |
 
-Snapshot ID: `MCxjYjNhZTc2ZThkYzIwODkyZjQwOThmODJlMDJiOTUyMjBiZjY2ZDYz`
+Snapshot ID: `MCxjOGRkNWYyYzRmNDQwYzA1MzQ1YzkwYjE0NzMxY2IxY2M2NDBjOThm`

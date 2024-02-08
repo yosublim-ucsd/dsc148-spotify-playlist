@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 58253,
+  "num_followers": 58265,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmUzODI5N2FkMTNiYTEzZDE4YmY1NThiZjhlOTk5MmI2NjI5Mzcy",
+  "snapshot_id": "MCxhNmJiZGJiNTgwNDYwNDgyYTNiNjU4NjZkOTA1NzllY2I1MWE1OWZk",
   "tracks": [
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "BURBERRY",
-        "url": "https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 281218,
-      "name": "BURBERRY",
-      "url": "https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 202720,
       "name": "Second Emotion (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/1PnAx788sAvcI3ZxTlEyX8"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "BURBERRY",
+        "url": "https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 281218,
+      "name": "BURBERRY",
+      "url": "https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP"
     },
     {
       "added_at": "2023-09-01 14:43:51",

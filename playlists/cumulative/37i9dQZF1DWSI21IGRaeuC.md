@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-270 songs - 22 hr 3 min
+271 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 | 2023-02-10 |  |
 | [Collide](https://open.spotify.com/track/1sZw1rvxMeIacX91qTRYzr) | [Maxinne](https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq), [Shyam P](https://open.spotify.com/artist/6MEz9NMqBseGCPes6zV3cj) | [Collide](https://open.spotify.com/album/70YMLqoTKFcaa6NwHrIvAp) | 4:15 | 2022-07-22 | 2022-11-17 |
 | [Connect the Dots \- Oliver Schories & Gorge Remix](https://open.spotify.com/track/3FWy6mQGJt44v0YmLU6ieG) | [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36), [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Connect the Dots](https://open.spotify.com/album/2h2On3mD6WD2TTgeVjJxSj) | 6:43 | 2022-08-26 | 2024-01-12 |
+| [Control](https://open.spotify.com/track/4H40HAa5y5N7mLPZreuojF) | [John Tejada](https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq), [Silent Servant](https://open.spotify.com/artist/1QwvlTkLsKbaB3JT1AV245) | [The Monitors \(Redux\)](https://open.spotify.com/album/2D7Xh2KYbW6PVQLe2whkD3) | 8:28 | 2024-02-02 |  |
 | [Crayzee](https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Crayzee](https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM) | 2:53 | 2022-07-29 | 2023-03-19 |
 | [Creepin in the Shadow \- Original Mix](https://open.spotify.com/track/01lpiNuE2762wUx4IImGV3) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Creepin in the Shadow](https://open.spotify.com/album/1t0dcAbDxYfH9r0Zzg5ewY) | 6:13 | 2023-03-10 |  |
 | [D.N.C.](https://open.spotify.com/track/1eoPkDYe6hRTE0jLP2SITo) | [Miguel Lobo](https://open.spotify.com/artist/6PWQ9tAq0UNhzf68T1zYUZ) | [Janette](https://open.spotify.com/album/4ax3ouk91c4VdY1WXxytoP) | 5:57 | 2022-06-03 | 2022-07-28 |
@@ -124,7 +125,7 @@
 | [Like It Is](https://open.spotify.com/track/3O9ed5dnmz1T3O2o0OtnJp) | [Elliot Adamson](https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz) | [Kids Love Acid House](https://open.spotify.com/album/4ETe9T1phkZPjTMCQDn4Cb) | 7:00 | 2022-06-03 | 2022-07-27 |
 | [Likkle Drop \(feat\. Kwame\)](https://open.spotify.com/track/7fP89DrqJcr5cmvWBdkBBP) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY), [Kwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [Likkle Drop \(feat\. Kwame\)](https://open.spotify.com/album/4ERrzPJu5Yh3QluUblMids) | 2:56 | 2023-08-11 | 2023-09-29 |
 | [Lipid](https://open.spotify.com/track/3073MbpcoDvWkBe3xZXkio) | [MADVILLA](https://open.spotify.com/artist/63zifEaDmILf5PAGyW0piG) | [Lipid](https://open.spotify.com/album/650mCjH1OTX40TgmzzkOP7) | 6:18 | 2022-06-03 | 2022-07-29 |
-| [LOL](https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [LOL](https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX) | 5:21 | 2022-06-03 |  |
+| [LOL](https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [LOL](https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX) | 5:21 | 2022-06-03 | 2024-02-08 |
 | [Love No Limit \- ReFreak](https://open.spotify.com/track/23L2ACZRwd2ayCUH2DJra1) | [Brandon Lucas](https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Love No Limit \- ReFreak](https://open.spotify.com/album/7yOIRhmL6SFqPycQsNFBxw) | 4:42 | 2022-06-03 | 2022-07-29 |
 | [Love The Way You](https://open.spotify.com/track/2phBDqpIBoQOZ8W3pfIhet) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5) | [Love The Way You](https://open.spotify.com/album/1ooQcg0fUojEzoY9QIFNFL) | 4:36 | 2022-06-03 | 2022-07-28 |
 | [Lovelee Dae](https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [Blaze \(Kevin Hedge\)](https://open.spotify.com/artist/5ALxJ1yIzIRB3NcmMftPOy) | [Lovelee Dae](https://open.spotify.com/album/4GUOfZ9RjMWnOjzRkkTZeg) | 6:22 | 2022-06-03 |  |

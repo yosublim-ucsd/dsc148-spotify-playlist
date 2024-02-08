@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > The biggest Japanese rock hits right now\.  Cover: CVLTE　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,586 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,694 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 3 | [Shake](https://open.spotify.com/track/10sPBoUKctG07bmRmhgcr6) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Shake](https://open.spotify.com/album/1SfH4Io6Q518rAV3rmqoU1) | 3:59 |
 | 4 | [冬と春](https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [冬と春](https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN) | 4:16 |
 | 5 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
-| 6 | [スーパーソニックガール](https://open.spotify.com/track/7rwKeQuNEAvVGXhWthB0Wq) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [スーパーソニックガール](https://open.spotify.com/album/7oIk2e89EVOFFeKqtsz1IX) | 3:01 |
+| 6 | [Super Sonic Girl](https://open.spotify.com/track/2Hiiy3oTMeqQg5hLQLw4bJ) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Super Sonic Girl](https://open.spotify.com/album/2riAHViLvNHM09LsZuYyFl) | 3:01 |
 | 7 | [SF東京](https://open.spotify.com/track/4PfVeeAi7n8eOt8CbW8tfy) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SF東京](https://open.spotify.com/album/3tFtbRkAUERFNH9qlM5CZT) | 3:14 |
 | 8 | [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 |
 | 9 | [正解](https://open.spotify.com/track/0BxLFTINwKifg5szsaON6F) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/7AEGXvatrqwbvTKJh5J7VR) | 5:58 |
 | 10 | [todayyyyy](https://open.spotify.com/track/15ZEkb83IYYal4xsbhHE03) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [todayyyyy](https://open.spotify.com/album/7Fnokrva48vBdYrFOMXO7c) | 3:48 |
-| 11 | [エール](https://open.spotify.com/track/1EdXeXyIU56YKBP3kfmHB9) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [エール](https://open.spotify.com/album/0022F7J96TQCIISAtDgdxC) | 3:23 |
+| 11 | [Yell](https://open.spotify.com/track/6jbW0l3nlZ3uh26p8vsC1K) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Yell](https://open.spotify.com/album/60y9C21RHhHnMMdWXunkav) | 3:23 |
 | 12 | [Sweet sweet candy time](https://open.spotify.com/track/7KIYIwWDNssdv7tsw90Z8V) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [Sweet sweet candy time](https://open.spotify.com/album/57YQjhQNWCkmpt0OTUG9d6) | 5:21 |
 | 13 | [私が明日死ぬなら](https://open.spotify.com/track/29KOSOrduu8U6Pz6ZZtuEj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ROUNDABOUT](https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay) | 4:13 |
 | 14 | [Unlucky!!](https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Unlucky!!](https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV) | 3:35 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 21 | [宝者](https://open.spotify.com/track/1htuhBLEvnY2s2k9juFQJG) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [宝者](https://open.spotify.com/album/4urlo8qlVk7bwSKlwcDIc2) | 4:17 |
 | 22 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 |
 | 23 | [rhythm 64](https://open.spotify.com/track/4KWMnXGQ4wCiDU1vP8uGVb) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [rhythm 64](https://open.spotify.com/album/0dqofszfjI1qN76jWqFiyp) | 4:28 |
-| 24 | [番外編](https://open.spotify.com/track/5f6WHaRAKc8kQXiWB5YNkU) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [波打つ心を持ちながら](https://open.spotify.com/album/4gINtRCG56pnyFd60pRNPp) | 3:20 |
+| 24 | [Bangai Hen](https://open.spotify.com/track/2oFpPPGoIMwpo76ksUH8h1) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Namiutsu Kokoro o Mochinagara](https://open.spotify.com/album/2AqgPeRgCAYar0Yh6pVedu) | 3:20 |
 | 25 | [\):阿修羅:\(](https://open.spotify.com/track/0jSHwhowInP7AgP9BkWudl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 2:31 |
 | 26 | [Sesame](https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Sesame](https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH) | 3:32 |
 | 27 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 61 | [Hold You Again](https://open.spotify.com/track/0yIURdQDYHRZLQWJV30dUq) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Hold You Again](https://open.spotify.com/album/7xS5YfJ1KFEMuYmon2ziX3) | 3:40 |
 | 62 | [花束が似合う君へ \- fantastic ver.](https://open.spotify.com/track/2vVaTLbzFN5TPIayqJDxv7) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [花束が似合う君へ \(fantastic ver.\)](https://open.spotify.com/album/3BVTAz0ufqnsdPBuvQk6tx) | 4:54 |
 | 63 | [Spring Chance](https://open.spotify.com/track/2L08HGsbSgTWkIWDEm8h12) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [Spring Chance](https://open.spotify.com/album/3Je448Q8acg4ROISszu7il) | 2:37 |
-| 64 | [Oh Baby](https://open.spotify.com/track/0NutSBugy23p6qZrqFzx6P) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Oh Baby](https://open.spotify.com/album/6a3sfW2toT55Z7N67b6GWI) | 4:13 |
+| 64 | [Oh Baby](https://open.spotify.com/track/07u3NefB8uoyXaodhkIaEH) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Oh Baby](https://open.spotify.com/album/4mEjkhOzS5pRCjOlaiyQVj) | 4:13 |
 | 65 | [Lonely star](https://open.spotify.com/track/0Cwn9uG2MvqkZ7tQ9uk4yd) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Lonely star](https://open.spotify.com/album/5pE7WbMog2Ask6PG54qvAc) | 3:47 |
 | 66 | [ABRAKADABRA](https://open.spotify.com/track/1QGPGnYDQhjC1sjfcxefUz) | [Yoru no Honki Dance](https://open.spotify.com/artist/5gDlbvRoryrIwpovz6jhua) | [dip](https://open.spotify.com/album/0UWQZnG0mXuklojsP7DYGr) | 2:31 |
 | 67 | [I miss your fire](https://open.spotify.com/track/5OHdAb159rhgots5cZuwV8) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [I miss your fire](https://open.spotify.com/album/21vZJWbVbvjBjAqVvIvY7g) | 5:42 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 83 | [Love melts into the marble ocean](https://open.spotify.com/track/2XHZBO4WZFfPiy4tpeOndd) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [A melody that flies beyond time](https://open.spotify.com/album/5jxccF7FKF9shTKQAd5MdI) | 3:02 |
 | 84 | [ヒカリ](https://open.spotify.com/track/0Xf7lckHz3jvpSurbgbrFf) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [ヒカリ](https://open.spotify.com/album/6ZkIrRQFB5BeXrDO8T52KC) | 4:10 |
 | 85 | [トロイメライ](https://open.spotify.com/track/1rRxrmH2wtziYvJXDJMoi1) | [pachae](https://open.spotify.com/artist/7lqLvJ6yvMDwu307APLILI) | [トロイメライ](https://open.spotify.com/album/7fog8kTHEyyPMbCPdFuFoh) | 3:18 |
-| 86 | [DAWN](https://open.spotify.com/track/7qu2sVmtyhtUZIwh607B9w) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [DAWN](https://open.spotify.com/album/728AONhuNSuYDoo6AH4q6E) | 4:27 |
+| 86 | [Dawn](https://open.spotify.com/track/3xFka9Fj3vn299vIBqFUVu) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Dawn](https://open.spotify.com/album/16a4yEozxkuenTZ2EZ9fkw) | 4:27 |
 | 87 | [命の容量](https://open.spotify.com/track/0Pd5HvGFrJUPOQRt2988JZ) | [yourness](https://open.spotify.com/artist/1u1NJZJgYCF6BVsjSYf2BM) | [Ⅶ](https://open.spotify.com/album/6Q716A6pSJDGlIn9MGgKXV) | 4:05 |
-| 88 | [コインロッカーベイビー](https://open.spotify.com/track/1a6jyQuEy0amXIVqDwxdKM) | [ミセカイ](https://open.spotify.com/artist/0CPZbUqRC7ZymVB0SKsMIi), [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Artrium](https://open.spotify.com/album/6rTAilfev2rKJsxrmxBQVb) | 2:57 |
+| 88 | [Coin Locker Baby](https://open.spotify.com/track/0InJuzRUOdeTuNpzercjwf) | [ミセカイ](https://open.spotify.com/artist/0CPZbUqRC7ZymVB0SKsMIi), [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Artrium](https://open.spotify.com/album/4gyRP96bZMd1l3NaQINpir) | 2:57 |
 | 89 | [ハイウェイ](https://open.spotify.com/track/5wHYhnEjPyqlsHuzW6vCeK) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [ハイウェイ](https://open.spotify.com/album/1uG3yhVOQ21x9wAqBuPR9d) | 4:00 |
 | 90 | [Yellow Gold](https://open.spotify.com/track/2hUgCEMOgIrY0bnvdrbSnX) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [Yellow Gold](https://open.spotify.com/album/3aStGfmcRvCzYL1PPnTfdK) | 3:02 |
 | 91 | [STRAIGHT SONG](https://open.spotify.com/track/6ZIVfpwf3NRtZonP0DtHGc) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [STRAIGHT SONG](https://open.spotify.com/album/0LUXK9j0YHc8gIzgPbmhq0) | 2:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [ねむれよ、ねむれ](https://open.spotify.com/track/3RBUmq6QZ4Zq9pdLFgz36M) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [異\(上\)](https://open.spotify.com/album/0HwI44aaeZf4RXcCuvL3oW) | 2:37 |
 | 100 | [もっと](https://open.spotify.com/track/14scjle0gHsjlujD10AliV) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [もっと](https://open.spotify.com/album/6cNBLzQoV9126uS2B0sPRB) | 4:09 |
 
-Snapshot ID: `MCxjYTc4N2RhM2RjNjY4NTZmZWE0OTg5NTQyMjRhYTY2ZjFlODBkN2I0`
+Snapshot ID: `MCw3YmZjMjVjOTMyNDgwZDNiMTY3YTY4ZTFkYWVkYTMwZmQ2NGZlNmJk`

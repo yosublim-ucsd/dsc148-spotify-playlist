@@ -4,7 +4,7 @@
 
 > This is Banda Los Recoditos\. The essential tracks, all in one playlist.
 
-76 songs - 3 hr 42 min
+77 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,10 +42,11 @@
 | [La Escuelita](https://open.spotify.com/track/1TiPjfuaAbA3KgxzzweqIn) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:05 | 2022-06-01 |  |
 | [La Peda](https://open.spotify.com/track/56zRgQeUeM1xRwEHtGStTy) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 2:26 | 2022-06-01 | 2023-02-16 |
 | [Llorando En Un Carro Del Año](https://open.spotify.com/track/4OfIidHHKBPT32ZJpN8m6T) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Llorando En Un Carro Del Año](https://open.spotify.com/album/18XHmgKEQKh4EwxqHDAJNM) | 2:28 | 2022-06-01 |  |
+| [Lo Que Hacemos En Tu Cama](https://open.spotify.com/track/6Wg40tUtPPacPNVgY22xRH) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Lo Mejor De...](https://open.spotify.com/album/6niDeCvPYEWqC8SlfbzhDC) | 2:25 | 2024-02-07 |  |
 | [Los Gustos Que Me Doy](https://open.spotify.com/track/7dtCtvl6mHA42cCPowTYTB) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:48 | 2022-06-01 |  |
 | [Me Está Gustando](https://open.spotify.com/track/1PPswVdqYYvfBIk5MdB4Lo) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 3:00 | 2022-06-01 |  |
 | [Me Está Tirando El Rollo](https://open.spotify.com/track/5v9LZ5q4vX0ybNUgSJtMin) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 2:37 | 2022-06-01 |  |
-| [Me Siento A Todo Dar](https://open.spotify.com/track/4UkEbKZ1YbtDnrLGWXp0LJ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Siento A Todo Dar](https://open.spotify.com/album/54uGnanbGdJIINnc3U3Clx) | 2:13 | 2022-06-01 |  |
+| [Me Siento A Todo Dar](https://open.spotify.com/track/4UkEbKZ1YbtDnrLGWXp0LJ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Siento A Todo Dar](https://open.spotify.com/album/54uGnanbGdJIINnc3U3Clx) | 2:13 | 2022-06-01 | 2024-02-08 |
 | [Me Sobrabas Tú](https://open.spotify.com/track/33XISWpHJRbAvFSMW1y44A) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 3:01 | 2022-06-01 |  |
 | [Me Tocó Perder](https://open.spotify.com/track/2bKxgwhHmjvqan4LQ4GXHZ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 3:03 | 2022-06-01 |  |
 | [Me Va A Perder](https://open.spotify.com/track/0irNPJFAn4CjaNE6JRapMT) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Va A Perder](https://open.spotify.com/album/4oZ0ozTz16miAPCbzeJc6g) | 2:55 | 2024-01-20 |  |

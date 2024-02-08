@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 
 > This is Aline Barros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,926 likes - 51 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,942 likes - 51 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,15 +27,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 17 | [Recomeçar \- Ao Vivo](https://open.spotify.com/track/0Thc7almZ2P5sHtx2AeImo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 4:12 |
 | 18 | [Jehová Jireh](https://open.spotify.com/track/45KWondblrT7ERIR2q3wiO) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jehová Jireh](https://open.spotify.com/album/52HfewNw5eXdITVHfj2bHK) | 5:36 |
 | 19 | [Jesus Cristo Basta \(Jesucristo Basta\) \- Ao Vivo](https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jesus Cristo Basta \(Jesucristo Basta\) \[Ao Vivo\]](https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw) | 4:47 |
-| 20 | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m) | 3:29 |
-| 21 | [Autor da Vida](https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Reino](https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi) | 4:55 |
+| 20 | [Autor da Vida](https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Reino](https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi) | 4:55 |
+| 21 | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m) | 3:29 |
 | 22 | [Ao Único](https://open.spotify.com/track/4ILBvXzE1hHidS46q6i7zO) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [O Poder do Teu Amor](https://open.spotify.com/album/2L2bJBB02c1Lfe18VLwGsL) | 4:10 |
 | 23 | [Primeira Essência \(Jardim Particular\)](https://open.spotify.com/track/4jWePuDwi4Mho9u5kpoYrj) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 4:16 |
 | 24 | [Redención \(Redenção\)](https://open.spotify.com/track/7xICC4cuIDw6p8fMk4ltdo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Redención](https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5) | 4:33 |
 | 25 | [Bem Mais Que Tudo](https://open.spotify.com/track/0LR9dbA72J4eYW8UZSrujK) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 4:46 |
 | 26 | [Rompendo em Fé](https://open.spotify.com/track/1KRamNG1BZ192vALVBasZU) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Comunidade Evangélica Internacional da Zona Sul](https://open.spotify.com/artist/1NuQ2vlJpm8ZS9HfEOmB4j) | [Rompendo em Fé](https://open.spotify.com/album/3LLEfGjWnKolXnYC0SfiNR) | 4:49 |
-| 27 | [Vitória no Deserto](https://open.spotify.com/track/442A0IdJTDkRP0M4CM0pPb) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 3:45 |
-| 28 | [Pai Presente](https://open.spotify.com/track/17A6kCom591jICydbChxCk) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Pai Presente](https://open.spotify.com/album/682eYG75UszY1zmE0yHhys) | 4:53 |
+| 27 | [Pai Presente](https://open.spotify.com/track/17A6kCom591jICydbChxCk) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Pai Presente](https://open.spotify.com/album/682eYG75UszY1zmE0yHhys) | 4:53 |
+| 28 | [Vitória no Deserto](https://open.spotify.com/track/442A0IdJTDkRP0M4CM0pPb) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 3:45 |
 | 29 | [Ele Se Move](https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Ele Se Move](https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ) | 5:41 |
 | 30 | [Caminho de Milagres \(Ao Vivo Nos Lençóis Maranhenses\)](https://open.spotify.com/track/7sRranCzXO259L6YTbk9bm) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Caminho de Milagres \(Ao Vivo Nos Lençóis Maranhenses\)](https://open.spotify.com/album/2l6DuNvk8jwDVsw9J0AXfb) | 3:45 |
 | 31 | [Dança do Canguru](https://open.spotify.com/track/1U4Vl0LRSvWtfBtRI6bnBN) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 2:53 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 50 | [A Dança do Quaquito](https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 2:58 |
 | 51 | [Arca de Noé](https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 3:21 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA0Y2FhMjRjMWY4NDQxMmY3MGE4MzNhODZlOTFjNDRiMg==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDA4ZGRiYzE0YmYwZDAwMzRlY2UwOGFhM2VjYmIxMTJhMA==`

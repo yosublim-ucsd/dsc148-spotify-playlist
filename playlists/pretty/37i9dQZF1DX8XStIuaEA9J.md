@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: マルシィ
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,485 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,541 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [幽霊と作家](https://open.spotify.com/track/3zESg1rg07bQfeCygpwXLt) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [幽霊と作家](https://open.spotify.com/album/18315yz2JsF0gHi5FGkDO6) | 4:08 |
-| 2 | [エール](https://open.spotify.com/track/1EdXeXyIU56YKBP3kfmHB9) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [エール](https://open.spotify.com/album/0022F7J96TQCIISAtDgdxC) | 3:23 |
+| 2 | [Yell](https://open.spotify.com/track/6jbW0l3nlZ3uh26p8vsC1K) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Yell](https://open.spotify.com/album/60y9C21RHhHnMMdWXunkav) | 3:23 |
 | 3 | [Party!!](https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Party!!](https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ) | 4:18 |
 | 4 | [rhythm 64](https://open.spotify.com/track/4KWMnXGQ4wCiDU1vP8uGVb) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [rhythm 64](https://open.spotify.com/album/0dqofszfjI1qN76jWqFiyp) | 4:28 |
 | 5 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 21 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
 | 22 | [utatane](https://open.spotify.com/track/1h5ehmENTsi5d8P7bzI4t6) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Holy Night](https://open.spotify.com/album/0pE8RdY5oe6qtnd3guQSam) | 3:01 |
 | 23 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
-| 24 | [あやふや](https://open.spotify.com/track/1UvCeSlHieprSfrjlREJdS) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [あやふや](https://open.spotify.com/album/5fDfPVGJ6uv8AwIV1F3jCU) | 3:40 |
+| 24 | [Ambiguous](https://open.spotify.com/track/36Kj0vrp2MnYICExdK1lN9) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Ambiguous](https://open.spotify.com/album/3ny9YuGHA0QNn4F9zWC7Bz) | 3:40 |
 | 25 | [恋をしているみたいなの](https://open.spotify.com/track/1FAAimaATfHm0tXomtOgDs) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [恋をしているみたいなの](https://open.spotify.com/album/7uj8cKKSL8uPVJqDLHhJ6S) | 3:32 |
 | 26 | [雪の音](https://open.spotify.com/track/2Wahb8YS7s2zPFRVK3l5gT) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [雪の音](https://open.spotify.com/album/670M5F2SQLZYmTgWLUzSZY) | 3:48 |
 | 27 | [Unlucky!!](https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Unlucky!!](https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV) | 3:35 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 53 | [Pray](https://open.spotify.com/track/2qHW7U1LRU9F9HPUnJ6ffk) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Pray](https://open.spotify.com/album/0oxb7UtZLAmpBjHZ0mM1PD) | 3:04 |
 | 54 | [さらまっぽ](https://open.spotify.com/track/6f9Fl22sy1UhH788M7BkH3) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [さらまっぽ](https://open.spotify.com/album/0eWUONdRJ4WYpwcoh3D3hA) | 3:19 |
 | 55 | [SF東京](https://open.spotify.com/track/4PfVeeAi7n8eOt8CbW8tfy) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SF東京](https://open.spotify.com/album/3tFtbRkAUERFNH9qlM5CZT) | 3:14 |
-| 56 | [Nightmare feat\. キズナ](https://open.spotify.com/track/3PHvvjuFOyZbZoCG8LI6CS) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH), [キズナ](https://open.spotify.com/artist/4mh6qAZm0UIM7Ojv2EGCVw) | [Nightmare feat\. キズナ](https://open.spotify.com/album/4HpgkhANOkLIveYc5hsuAj) | 3:13 |
-| 57 | [DAWN](https://open.spotify.com/track/7qu2sVmtyhtUZIwh607B9w) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [DAWN](https://open.spotify.com/album/728AONhuNSuYDoo6AH4q6E) | 4:27 |
-| 58 | [Oh Baby](https://open.spotify.com/track/0NutSBugy23p6qZrqFzx6P) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Oh Baby](https://open.spotify.com/album/6a3sfW2toT55Z7N67b6GWI) | 4:13 |
+| 56 | [Nightmare feat\. Kizuna](https://open.spotify.com/track/3a6bh9lIlWQrbepwggW6kq) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH), [Kizuna](https://open.spotify.com/artist/3IGTT411rHs9RcGiGho3nd) | [Nightmare feat\. Kizuna](https://open.spotify.com/album/1DEkyCkFvd2kT3DKPhXT6M) | 3:13 |
+| 57 | [Dawn](https://open.spotify.com/track/3xFka9Fj3vn299vIBqFUVu) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Dawn](https://open.spotify.com/album/16a4yEozxkuenTZ2EZ9fkw) | 4:27 |
+| 58 | [Oh Baby](https://open.spotify.com/track/07u3NefB8uoyXaodhkIaEH) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Oh Baby](https://open.spotify.com/album/4mEjkhOzS5pRCjOlaiyQVj) | 4:13 |
 | 59 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 |
 | 60 | [Naiya](https://open.spotify.com/track/1wcJpJWF1aK1WHyl7vjTR2) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Naiya](https://open.spotify.com/album/3ifbPgar0fxH4qyznObkn9) | 2:16 |
 
-Snapshot ID: `MCwzZjQ0MjU4NDM4OWNiMDcxZGQwODZiYzdlMzM2NmY1OTlkZWI1MTJm`
+Snapshot ID: `MCxiYjZiZTg2YjZiMTRjNmM2Y2UxYmVkMTUwMDY4NDY5YTllNGUwYWM0`

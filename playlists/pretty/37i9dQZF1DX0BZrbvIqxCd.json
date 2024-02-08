@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 543849,
+  "num_followers": 543872,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWM4YjhmY2FiNjNhOGFmMmQ2MWVlNmJhYTY3MTBjNmYxMzVlMzg5",
+  "snapshot_id": "MCxhZDA3ZWY2MTYzMThmOWQxMWZjYTRmMmMzYzRmZmZkMTRlOTVkZGM3",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -323,22 +323,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "What Separates Me From You",
-        "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "All Signs Point To Lauderdale",
-      "url": "https://open.spotify.com/track/0T8P86fvSK8kCUJFYPZbIH"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Does This Look Infected?",
         "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 158733,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "What Separates Me From You",
+        "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "All Signs Point To Lauderdale",
+      "url": "https://open.spotify.com/track/0T8P86fvSK8kCUJFYPZbIH"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Everything Is Temporary",
-        "url": "https://open.spotify.com/album/2bzmOZh7UD4cNiI9oEqHDb"
-      },
-      "artists": [
-        {
-          "name": "Between You & Me",
-          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
-        }
-      ],
-      "duration_ms": 183495,
-      "name": "Dakota",
-      "url": "https://open.spotify.com/track/0PW18AbooKhtFzZ5LUuMsW"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Nowhere Generation",
         "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 233280,
       "name": "Broken Dreams, Inc.",
       "url": "https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Everything Is Temporary",
+        "url": "https://open.spotify.com/album/2bzmOZh7UD4cNiI9oEqHDb"
+      },
+      "artists": [
+        {
+          "name": "Between You & Me",
+          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
+        }
+      ],
+      "duration_ms": 183495,
+      "name": "Dakota",
+      "url": "https://open.spotify.com/track/0PW18AbooKhtFzZ5LUuMsW"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 146436,
-      "name": "Jurassic Park",
-      "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Great Heights & Nosedives",
         "url": "https://open.spotify.com/album/37i1BfSo4FQMHtR7zzQpBx"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 160831,
       "name": "Playing Fiction",
       "url": "https://open.spotify.com/track/2aG7MPedIAt6k66Q2BBaHT"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 146436,
+      "name": "Jurassic Park",
+      "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Lost Touch",
-        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
-      },
-      "artists": [
-        {
-          "name": "We Were Sharks",
-          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
-        }
-      ],
-      "duration_ms": 154971,
-      "name": "Hotel Beds",
-      "url": "https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Strange Love",
         "url": "https://open.spotify.com/album/0mz5vJ1DeMqGlafBGuqUPE"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 151631,
       "name": "Strange Love",
       "url": "https://open.spotify.com/track/2OuxIf5TyuQfvZ95c1Rzji"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Lost Touch",
+        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
+      },
+      "artists": [
+        {
+          "name": "We Were Sharks",
+          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
+        }
+      ],
+      "duration_ms": 154971,
+      "name": "Hotel Beds",
+      "url": "https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03"
     },
     {
       "added_at": "2020-11-20 21:27:18",

@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 9189,
+  "num_followers": 9226,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODg5ZjUzNDU4NWMzM2U4NTc2MGI5YjU3NzUwZWI2Zjc5YjYxNDA1",
+  "snapshot_id": "MCwyOTAzYzE2MGZhMTYxYjM0MGE2ZmIwZWY2NzllZjRkZjNkYjc2ZmU5",
   "tracks": [
     {
       "added_at": "2024-02-01 23:00:00",
@@ -483,30 +483,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Dientes",
-        "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 166426,
-      "name": "Dientes",
-      "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 156960,
       "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/2RRpaU7jFVcwo23pthdnBv"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Dientes",
+        "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "duration_ms": 166426,
+      "name": "Dientes",
+      "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Run Free (Countdown)",
-        "url": "https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 152380,
-      "name": "Run Free (Countdown)",
-      "url": "https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Run Free (Countdown)",
+        "url": "https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Run Free (Countdown)",
+      "url": "https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Fugazi (Robin Schulz Presents KOPPY)",
-        "url": "https://open.spotify.com/album/07g9RO7MnP7rV6K0vXBoTc"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "KOPPY",
-          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
-        }
-      ],
-      "duration_ms": 151279,
-      "name": "Fugazi (Robin Schulz Presents KOPPY)",
-      "url": "https://open.spotify.com/track/1As70eMQbPuG2cABqKZvq2"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "22 (Deluxe)",
         "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
       },
@@ -1327,26 +1307,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Let It Happen (Techno)",
-        "url": "https://open.spotify.com/album/0Ux1YVKtFJb3QfC0RLV1mt"
+        "name": "Fugazi (Robin Schulz Presents KOPPY)",
+        "url": "https://open.spotify.com/album/07g9RO7MnP7rV6K0vXBoTc"
       },
       "artists": [
         {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         },
         {
-          "name": "CLMD",
-          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
-        },
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+          "name": "KOPPY",
+          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
         }
       ],
-      "duration_ms": 122571,
-      "name": "Let It Happen (Techno)",
-      "url": "https://open.spotify.com/track/6tnCxKCoZWzRKiDiInhKfq"
+      "duration_ms": 151279,
+      "name": "Fugazi (Robin Schulz Presents KOPPY)",
+      "url": "https://open.spotify.com/track/1As70eMQbPuG2cABqKZvq2"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1371,6 +1347,30 @@
       "duration_ms": 163228,
       "name": "Sweet & Sour (feat. Lauv & Tyga)",
       "url": "https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Let It Happen (Techno)",
+        "url": "https://open.spotify.com/album/0Ux1YVKtFJb3QfC0RLV1mt"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        },
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        }
+      ],
+      "duration_ms": 122571,
+      "name": "Let It Happen (Techno)",
+      "url": "https://open.spotify.com/track/6tnCxKCoZWzRKiDiInhKfq"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Hello (Call All My Friends)",
-        "url": "https://open.spotify.com/album/2OlzZDJPCpBeH0zElBaisI"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Zombic",
-          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
-        }
-      ],
-      "duration_ms": 138880,
-      "name": "Hello (Call All My Friends)",
-      "url": "https://open.spotify.com/track/3TXgvBsDfEdSfJXXHRprCx"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 145591,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/1n2zcm9jlZA5g82K6rE9cB"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Hello (Call All My Friends)",
+        "url": "https://open.spotify.com/album/2OlzZDJPCpBeH0zElBaisI"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        }
+      ],
+      "duration_ms": 138880,
+      "name": "Hello (Call All My Friends)",
+      "url": "https://open.spotify.com/track/3TXgvBsDfEdSfJXXHRprCx"
     },
     {
       "added_at": "2024-02-01 23:00:00",

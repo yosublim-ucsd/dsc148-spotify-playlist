@@ -1,12 +1,12 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 13417,
+  "num_followers": 13428,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTEzZjMwMDU0N2YyYzQyNDRlNjg3MDM2NjUzNzA2NTAyNGU2NzAy",
+  "snapshot_id": "MCw1MTZjOTk1MmZjZTcyYzc3M2FlYjA0MGM2M2E3NjQ2NTA3NWI4NDJm",
   "tracks": [
     {
       "added_at": "2024-02-02 06:01:59",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-02-02 06:01:59",
       "album": {
+        "name": "LOVE AND CHAOS",
+        "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
+    },
+    {
+      "added_at": "2024-02-02 06:01:59",
+      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 146000,
       "name": "ROAD RUNNERS (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
-    },
-    {
-      "added_at": "2024-02-02 06:01:59",
-      "album": {
-        "name": "LOVE AND CHAOS",
-        "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
     },
     {
       "added_at": "2024-02-02 06:01:59",
@@ -1259,46 +1259,6 @@
     {
       "added_at": "2024-02-02 06:01:59",
       "album": {
-        "name": "Patek",
-        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "DJ Tarico",
-          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
-        }
-      ],
-      "duration_ms": 218230,
-      "name": "Patek",
-      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
-    },
-    {
-      "added_at": "2024-02-02 06:01:59",
-      "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
-      "added_at": "2024-02-02 06:01:59",
-      "album": {
         "name": "SCAR",
         "url": "https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5"
       },
@@ -1319,6 +1279,46 @@
       "duration_ms": 203333,
       "name": "SCAR",
       "url": "https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy"
+    },
+    {
+      "added_at": "2024-02-02 06:01:59",
+      "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
+      "added_at": "2024-02-02 06:01:59",
+      "album": {
+        "name": "Patek",
+        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
+        }
+      ],
+      "duration_ms": 218230,
+      "name": "Patek",
+      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
     },
     {
       "added_at": "2024-02-02 06:01:59",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-02-02 06:01:59",
       "album": {
-        "name": "Hypertension / Things I Need",
-        "url": "https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q"
-      },
-      "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 197894,
-      "name": "Hypertension",
-      "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
-    },
-    {
-      "added_at": "2024-02-02 06:01:59",
-      "album": {
         "name": "Philo (Remix)",
         "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 166556,
       "name": "Philo - Remix",
       "url": "https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN"
+    },
+    {
+      "added_at": "2024-02-02 06:01:59",
+      "album": {
+        "name": "Hypertension / Things I Need",
+        "url": "https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "Hypertension",
+      "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
     }
   ],
   "unique_name": "Troski Rhythms",

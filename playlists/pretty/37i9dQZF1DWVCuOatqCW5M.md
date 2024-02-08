@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Shekhar Ravjiani , Sunidhi Chauhan
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,172 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,239 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Door Aa Gaye](https://open.spotify.com/track/47IzfVVQs2orvksB1CGRvO) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW) | [Door Aa Gaye](https://open.spotify.com/album/7iQX4kragcaOI5gXsooG25) | 3:31 |
 | 50 | [Baarish Ke Aane Se](https://open.spotify.com/track/7zkdhpXOGATPZDelzXE7ae) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Prince Dubey](https://open.spotify.com/artist/3bs0mT7GMaduAPHu1oWJwq) | [Baarish Ke Aane Se](https://open.spotify.com/album/5Qjv9KUc0QP4HwCtie4oc7) | 4:00 |
 
-Snapshot ID: `MCw3MmVlYzg2NWUwN2E5MjQ3ZTE4OTAyMWVlNmNmYTdiMzEwY2MwZjQz`
+Snapshot ID: `MCxkMjQ0YmZhNzliZGM4ZjYxOTIzMzkwMTM1MzExYmRjZTIwMTEwMGRi`

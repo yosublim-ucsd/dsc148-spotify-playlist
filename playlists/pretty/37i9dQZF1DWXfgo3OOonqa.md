@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,212 likes - 95 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,222 likes - 95 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 94 | [Arrivederci](https://open.spotify.com/track/23DgKXYe3BBCJHgaIykukx) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [Arrivederci](https://open.spotify.com/album/70y1lE0gkbXWnoQGLaWXvX) | 2:41 |
 | 95 | [FIRST PICK](https://open.spotify.com/track/0VLAg7TZY2v6Y8GlJx1gdq) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [FIRST PICK](https://open.spotify.com/album/3iD7enLyHRPGOXEl9ljJv6) | 2:01 |
 
-Snapshot ID: `MCxkZjAzYzhhNGE1OTVhY2VkMmJjMDJjNmRiZDk2MzYxZTc4Yzc3ZmRi`
+Snapshot ID: `MCw1NDdmM2UwMmU2OTJkODQyOTE1ZGU4MjkxNDBiYmFkZWJiNDY0ZjAx`

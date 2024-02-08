@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,983 likes - 100 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,022 likes - 100 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 17 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
 | 18 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 8:36 |
 | 19 | [I Feel Love \- 12" Version](https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 8:15 |
-| 20 | [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 |
-| 21 | [You and I](https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [The Best of Delegation](https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc) | 5:16 |
+| 20 | [You and I](https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [The Best of Delegation](https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc) | 5:16 |
+| 21 | [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 |
 | 22 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
 | 23 | [I.G.Y.](https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3) | [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [The Nightfly](https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8) | 6:03 |
 | 24 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [The Collection](https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1) | 5:41 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 59 | [Is It All over My Face? \(Female Version\) \(2012 \- Remaster\)](https://open.spotify.com/track/7lwTSaPgRxgnlkmFCSKtIw) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/4G6WjvXgMQQFskCBBQFi7N) | 7:07 |
 | 60 | [Disco Hi \- Life](https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Disco Hi\-Life](https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx) | 9:00 |
 | 61 | [Number One \- 12" Version](https://open.spotify.com/track/3vSgRQYNEUEjcFOGMiSTw3) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO) | 6:48 |
-| 62 | [Mysteries of the World](https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv) | [Mysteries of the World](https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN) | 5:30 |
-| 63 | [Exotica Dance Club](https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [World](https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80) | 5:27 |
+| 62 | [Exotica Dance Club](https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [World](https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80) | 5:27 |
+| 63 | [Mysteries of the World](https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv) | [Mysteries of the World](https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN) | 5:30 |
 | 64 | [Don't Go Lose It Baby](https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Pure Sounds of Africa](https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab) | 6:53 |
 | 65 | [Enjoy Your Life](https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:16 |
 | 66 | [Watchin' Out](https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ) | [Split Decision Band](https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf) | [Watchin' Out](https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Dancing in Outer Space](https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH) | [Atmosfear](https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF) | [Dancing in Outer Space](https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r) | 9:37 |
 | 100 | [Lypso Illusion](https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 4:44 |
 
-Snapshot ID: `MCw0MzNhMGVkMGNiYTNhODEwNjQzMDgyMmIxYTI5Mzc4MzUwZDljY2Uy`
+Snapshot ID: `MCxmNzY4ZDcwZGQ0ZTFmOWI5M2JlMTFmZjZiNmI4MDAzMGY5OTRhNTkw`

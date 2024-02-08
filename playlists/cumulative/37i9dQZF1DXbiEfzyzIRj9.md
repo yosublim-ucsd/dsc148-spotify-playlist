@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Bicep
 
-584 songs - 1 day 19 hr 56 min
+585 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Feels Like My Hands Are On Fire](https://open.spotify.com/track/4WUYv43gJtAAIaeSBml8ow) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Shield](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr) | 3:28 | 2023-05-04 | 2023-09-01 |
 | [Feels like..\. \- Short Edit](https://open.spotify.com/track/1Zi36yKrXvX5O1EjSJUF6M) | [Sakura Tsuruta](https://open.spotify.com/artist/79OBZx6sPHvnUqeIpooOcZ) | [C/O](https://open.spotify.com/album/7quy2UPFmb4p5k7lLx1a59) | 5:45 | 2023-06-09 | 2023-07-28 |
 | [Final Rule](https://open.spotify.com/track/7mQtkS5leqTFbgMa4qUAtJ) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Final Rule](https://open.spotify.com/album/7MrIIb4CB9ogySK3GKZRuE) | 4:27 | 2023-12-15 |  |
-| [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 | 2023-07-07 |  |
+| [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 | 2023-07-07 | 2024-02-08 |
 | [finish line](https://open.spotify.com/track/0kRFW9RsJa47yjr9ZNLpwT) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [finish line](https://open.spotify.com/album/5eBI8MKTlqeHGmHLevQ0ZP) | 2:21 | 2023-03-20 | 2023-05-12 |
 | [Fire Of Mercy \- yunè pinku remix](https://open.spotify.com/track/6ITWROA9slWos6GjdlryE5) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Fire Of Mercy \(yunè pinku remix\)](https://open.spotify.com/album/5ZmBR9NMbuBycE92C5b0Wy) | 4:14 | 2023-10-05 | 2024-01-29 |
 | [Firebreak \- Edit](https://open.spotify.com/track/3gjz9ut5aKi3quFgb4c2EU) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Firebreak \(Edit\)](https://open.spotify.com/album/7F42un9slW1Gqfziv3jlsX) | 2:27 | 2023-11-17 | 2023-12-09 |
@@ -232,6 +232,7 @@
 | [Groovin'](https://open.spotify.com/track/6K0gMnFO7HgrKGJKmGL1Wm) | [KTTK](https://open.spotify.com/artist/6twl7VzHH1aK1FFkOgaIyJ), [VEATZ](https://open.spotify.com/artist/6Dwa6UQghnEAJegF1v6wrl) | [Groovin'](https://open.spotify.com/album/4YdSc00ZUmKc0GibiyMxhm) | 3:44 | 2023-03-16 | 2023-05-12 |
 | [Grown On Me](https://open.spotify.com/track/77EwsTh7jz9khxVQK7gFBW) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Grown On Me](https://open.spotify.com/album/6MPLE8JVSX61qji1B6vocH) | 3:56 | 2023-09-28 | 2023-12-16 |
 | [Guidance to the Sennou](https://open.spotify.com/track/01SwRZAyvvT9SkLUaBKxlL) | [Mayurashka](https://open.spotify.com/artist/6gdSugS8T7jCKcMA1B4Zcf) | [Guidance to the Sennou](https://open.spotify.com/album/7xFlTctnZVdqNEvDBuKXSW) | 5:10 | 2023-12-07 |  |
+| [Gymnastic](https://open.spotify.com/track/2TZSIn3zYWoMTmrpqPQcMx) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Action](https://open.spotify.com/album/2aVa4urDElgXnx3SuGXfqw) | 5:10 | 2024-02-07 |  |
 | [Habla Con Ella](https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:24 | 2023-10-26 |  |
 | [Hands \- Edit](https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Hands \(DJ\-Kicks\)](https://open.spotify.com/album/7cdtA63N0AxdTjubtX6h38) | 4:01 | 2023-03-23 | 2023-06-17 |
 | [Hawthorn](https://open.spotify.com/track/6qCAzYKHTO6GwNiuT9qlyn) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Life Signs Vol\. 3](https://open.spotify.com/album/7owJoi3DP5T6buqX7jBiX8) | 3:23 | 2023-10-12 | 2023-12-15 |

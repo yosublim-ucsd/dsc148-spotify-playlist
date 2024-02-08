@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,646 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,671 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [Ámame](https://open.spotify.com/track/5908gatfcY7nK2xJt75zGx) | [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ámame](https://open.spotify.com/album/0U36RN0P9awTfozisaj49A) | 3:19 |
 | 50 | [Vas a Volver](https://open.spotify.com/track/5A6ALVribfvYq8yUv97mlp) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Vas a Volver](https://open.spotify.com/album/7Dc3OsO2OyxVWcG0G6YdQF) | 3:23 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDBhYzk2YzVhNzc2YTI5N2Y3NzZlOTUyMzJkODY4M2MxOQ==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDAwNTkxNjdmNDM0MjRlZTMzNTY4YjdlNThmZTE0YmJiZA==`

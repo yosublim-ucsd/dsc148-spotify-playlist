@@ -1,12 +1,12 @@
 {
   "description": "All 90s, all ballads. Cover: Mariah Carey",
-  "num_followers": 343412,
+  "num_followers": 343590,
   "original_name": "90s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDIxMzE3MGQ3Y2Q0NDJlYmI2ZGU0NTY4ZTVhNTg5MWVhMTEyMzM3",
+  "snapshot_id": "MCw5ZmEwMjIzMjM5MzllNzk0NGYwMjcwZTk5YjQyYWZjZjA3ZjQ0ZDBi",
   "tracks": [
     {
       "added_at": "2023-09-07 22:07:21",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-11-10 16:45:53",
       "album": {
-        "name": "Time, Love & Tenderness",
-        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
+        "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+        "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
       },
       "artists": [
         {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 231066,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl"
+      "duration_ms": 345600,
+      "name": "You Are Not Alone",
+      "url": "https://open.spotify.com/track/3AoeaZs8dFemFJr3JdzOL0"
     },
     {
       "added_at": "2022-11-10 16:45:53",
@@ -479,18 +479,18 @@
     {
       "added_at": "2022-11-10 16:45:53",
       "album": {
-        "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
-        "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
+        "name": "Time, Love & Tenderness",
+        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
         }
       ],
-      "duration_ms": 345600,
-      "name": "You Are Not Alone",
-      "url": "https://open.spotify.com/track/3AoeaZs8dFemFJr3JdzOL0"
+      "duration_ms": 231066,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl"
     },
     {
       "added_at": "2022-11-10 16:45:53",

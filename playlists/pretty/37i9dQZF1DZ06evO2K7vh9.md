@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,662 likes - 48 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,742 likes - 48 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 21 | [When You Down \(with Polo G feat\. Lil Durk\)](https://open.spotify.com/track/5kTn07V96U8LyoQgz6DZzX) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 3:13 |
 | 22 | [Amigo](https://open.spotify.com/track/2BULAwmRpScmZE7YOF07e5) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:30 |
 | 23 | [Yves](https://open.spotify.com/track/7DRM6aQqMhVMweZ8H7UBei) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:17 |
-| 24 | [Faster](https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Faster](https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V) | 2:09 |
-| 25 | [SHOW ME UP](https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2 \(Deluxe\)](https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9) | 2:46 |
+| 24 | [SHOW ME UP](https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2 \(Deluxe\)](https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9) | 2:46 |
+| 25 | [Faster](https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Faster](https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V) | 2:09 |
 | 26 | [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 |
 | 27 | [TEC](https://open.spotify.com/track/14QI6pBFZ9UtMqze2QdJhm) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:11 |
 | 28 | [JETSKI](https://open.spotify.com/track/4gtZjfZN7FBrF562pv0K4f) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [JETSKI](https://open.spotify.com/album/0E3nVyJnesYyyr9GQAJqZl) | 2:45 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 47 | [SHOOTERS](https://open.spotify.com/track/5Pm5aqS8l2fytzhix5Pucu) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:05 |
 | 48 | [She Want Some More \(feat\. Ken Carson\)](https://open.spotify.com/track/6MXlAZuSUsbKAN68ErtWj5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/6BURJsrwD35kYYZlpMw2Xs) | [She Want Some More \(feat\. Ken Carson\)](https://open.spotify.com/album/2MNgdTVRIyedTK7n3Ej46C) | 3:04 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA5NzM5YWI3ODljN2NhNmQ3MmUyNjdkYWZkZDNhNjc0MA==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDAxZWIzNTkyMWM0YWQyMzQ1YmE0ZWNjMWE0ZDcxY2Q1Ng==`

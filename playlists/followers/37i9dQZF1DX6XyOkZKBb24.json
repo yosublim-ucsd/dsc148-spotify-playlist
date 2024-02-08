@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 161513,
+  "2024-02-08": 162216,
   "date_first_scraped": "2022-05-26",
   "description": "Snuggling in for the evening with a nice soundtrack",
   "name": "Mellow Evening",
@@ -743,7 +743,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 173174,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
@@ -2047,6 +2047,24 @@
       "duration_ms": 271600,
       "name": "Lua",
       "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
+    },
+    {
+      "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
       "album": {

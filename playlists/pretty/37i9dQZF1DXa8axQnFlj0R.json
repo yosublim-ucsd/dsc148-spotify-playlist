@@ -1,12 +1,12 @@
 {
   "description": "The playlist version of a warm hug",
-  "num_followers": 83726,
+  "num_followers": 83712,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTZiM2M3MDg1M2YzY2RkOWFlYzZjODBjZTgxYzEzY2Q3NzhiMTVh",
+  "snapshot_id": "MCw0ZjE4MGYzNWUwZTVlNGMzYmZiODFhZGJlYzk3NzYyOTZjYjdlZDJh",
   "tracks": [
     {
       "added_at": "2023-12-01 16:37:09",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "The Recordings of the Middle East",
-        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
-      },
-      "artists": [
-        {
-          "name": "The Middle East",
-          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
-        }
-      ],
-      "duration_ms": 326920,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Sunset Traveler",
         "url": "https://open.spotify.com/album/6mRDTbYQi7iQEbrCtAHibh"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 104260,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/1ru2yZCJsLgHuiFJr506BV"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "The Recordings of the Middle East",
+        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
+      },
+      "artists": [
+        {
+          "name": "The Middle East",
+          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
+        }
+      ],
+      "duration_ms": 326920,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp"
-      },
-      "artists": [
-        {
-          "name": "Morgan Harper-Jones",
-          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "I Wanna Dance With Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Simply the Best (From \"Schitt's Creek\")",
         "url": "https://open.spotify.com/album/3by1f21NPpyV2sxW4PkzRp"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Nothing's Gonna Happen (Demo)",
-        "url": "https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U"
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Morgan Harper-Jones",
+          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
         }
       ],
-      "duration_ms": 236450,
-      "name": "Nothing's Gonna Happen (Demo)",
-      "url": "https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7"
+      "duration_ms": 182240,
+      "name": "I Wanna Dance With Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1147,6 +1131,22 @@
       "duration_ms": 216000,
       "name": "Real Estate",
       "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Nothing's Gonna Happen (Demo)",
+        "url": "https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 236450,
+      "name": "Nothing's Gonna Happen (Demo)",
+      "url": "https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "False Floors",
-        "url": "https://open.spotify.com/album/520kCQ9Z5WEWih341YHcmT"
-      },
-      "artists": [
-        {
-          "name": "Rogue Valley",
-          "url": "https://open.spotify.com/artist/1EbGAjTV50qpZ53jXTvmV7"
-        }
-      ],
-      "duration_ms": 256535,
-      "name": "The Wolves and the Ravens",
-      "url": "https://open.spotify.com/track/7M7e3u2MjbOVTkQMW6XqL6"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Look Mom I Made It",
         "url": "https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 179213,
       "name": "Look Mom I Made It",
       "url": "https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "False Floors",
+        "url": "https://open.spotify.com/album/520kCQ9Z5WEWih341YHcmT"
+      },
+      "artists": [
+        {
+          "name": "Rogue Valley",
+          "url": "https://open.spotify.com/artist/1EbGAjTV50qpZ53jXTvmV7"
+        }
+      ],
+      "duration_ms": 256535,
+      "name": "The Wolves and the Ravens",
+      "url": "https://open.spotify.com/track/7M7e3u2MjbOVTkQMW6XqL6"
     },
     {
       "added_at": "2023-12-01 16:37:09",

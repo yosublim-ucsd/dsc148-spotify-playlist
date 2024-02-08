@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Zoe Gotusso",
-  "num_followers": 282842,
+  "num_followers": 282864,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzBmMTE3Yjg1ZTExMGE1MmZkMDdjMTU1YmYwNTk2MGJiMzQ3NTJi",
+  "snapshot_id": "MCxlMWIwNWUzMGQ5ODQ0ZWY5OWI2MDI2ZWUxMGQ2MWNhYzAxNzAwNTE1",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Te Juro No Te Miento",
-        "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
-      },
-      "artists": [
-        {
-          "name": "Sofia Castro",
-          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Te Juro No Te Miento",
-      "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Fr\u00eda",
         "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 176606,
       "name": "Fr\u00eda",
       "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Te Juro No Te Miento",
+        "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
+      },
+      "artists": [
+        {
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Te Juro No Te Miento",
+      "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Aqu\u00ed Sigo (Remix)",
-        "url": "https://open.spotify.com/album/0k111CK5XkSEH9hFObcrYu"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 208167,
-      "name": "Aqu\u00ed Sigo (Remix)",
-      "url": "https://open.spotify.com/track/6eUx5EQY61BFNHafU1Ow8s"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "MALVAS",
         "url": "https://open.spotify.com/album/6kUKwicaYia3sYbgQyEtb2"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 183760,
       "name": "MALVAS",
       "url": "https://open.spotify.com/track/1MtxOSpyeHEQEUV2NtkK1H"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Aqu\u00ed Sigo (Remix)",
+        "url": "https://open.spotify.com/album/0k111CK5XkSEH9hFObcrYu"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 208167,
+      "name": "Aqu\u00ed Sigo (Remix)",
+      "url": "https://open.spotify.com/track/6eUx5EQY61BFNHafU1Ow8s"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -535,6 +535,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "rompo esquemas",
+        "url": "https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 199421,
+      "name": "rompo esquemas",
+      "url": "https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "tiroteAo",
         "url": "https://open.spotify.com/album/79shU5fy5HE8MJp05fYeOh"
       },
@@ -583,6 +603,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "PAENAMORAR",
+        "url": "https://open.spotify.com/album/4690a9jilzn3yfvvtKdqMj"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        }
+      ],
+      "duration_ms": 178701,
+      "name": "PAENAMORAR",
+      "url": "https://open.spotify.com/track/6N9hiZx8ZvZznXjaWoiPJ1"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Que La Detengan",
         "url": "https://open.spotify.com/album/4Ojro0SE46qoa50JqvpOj8"
       },
@@ -595,26 +631,6 @@
       "duration_ms": 143265,
       "name": "Que La Detengan",
       "url": "https://open.spotify.com/track/26SAg6zRb3JpoyEXmcXxe0"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "rompo esquemas",
-        "url": "https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 199421,
-      "name": "rompo esquemas",
-      "url": "https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -671,22 +687,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "PAENAMORAR",
-        "url": "https://open.spotify.com/album/4690a9jilzn3yfvvtKdqMj"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        }
-      ],
-      "duration_ms": 178701,
-      "name": "PAENAMORAR",
-      "url": "https://open.spotify.com/track/6N9hiZx8ZvZznXjaWoiPJ1"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Anoche",
         "url": "https://open.spotify.com/album/4f5F0rs3ENsaJP3QGcVaQb"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "quise quererte",
-        "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "quise quererte",
-      "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "El Disfraz",
         "url": "https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 168426,
       "name": "El Disfraz",
       "url": "https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "quise quererte",
+        "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "quise quererte",
+      "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 188405,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Triste (Arial 1)",
         "url": "https://open.spotify.com/album/6MfUhAGiZ9FizmSn0F8KQj"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 177727,
       "name": "Triste (Arial 1)",
       "url": "https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 188405,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "DEKKOLETERA 3",
-        "url": "https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 132788,
-      "name": "La Que Yo Amo",
-      "url": "https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "COLIBR\u00cd",
         "url": "https://open.spotify.com/album/7vt8WLdwLRU2dEfuoa0hBZ"
       },
@@ -903,22 +887,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Que Alguien Me Saque De Este Mood",
-        "url": "https://open.spotify.com/album/7A3ydblddkJBrKAwyXBGqd"
+        "name": "DEKKOLETERA 3",
+        "url": "https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X"
       },
       "artists": [
         {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
-        },
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/1rGCJdI1tiJS0RRo5OToeM"
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
         }
       ],
-      "duration_ms": 167920,
-      "name": "Que Alguien Me Saque De Este Mood",
-      "url": "https://open.spotify.com/track/51CEK6LaFSbCyGjliYPNBd"
+      "duration_ms": 132788,
+      "name": "La Que Yo Amo",
+      "url": "https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -939,6 +919,26 @@
       "duration_ms": 186209,
       "name": "Como Si Nada",
       "url": "https://open.spotify.com/track/0WOZZpdj3HKxYKtZlLjdJg"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Que Alguien Me Saque De Este Mood",
+        "url": "https://open.spotify.com/album/7A3ydblddkJBrKAwyXBGqd"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        },
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/1rGCJdI1tiJS0RRo5OToeM"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Que Alguien Me Saque De Este Mood",
+      "url": "https://open.spotify.com/track/51CEK6LaFSbCyGjliYPNBd"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1075,22 +1075,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "La Terminal",
-        "url": "https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o"
+        "name": "el afortunado",
+        "url": "https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2"
       },
       "artists": [
         {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
         }
       ],
-      "duration_ms": 178561,
-      "name": "La Terminal",
-      "url": "https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3"
+      "duration_ms": 200597,
+      "name": "el afortunado",
+      "url": "https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1107,6 +1103,26 @@
       "duration_ms": 136761,
       "name": "Que Chimbo",
       "url": "https://open.spotify.com/track/3NtJcM9WHnxLlD0stGJmmm"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "La Terminal",
+        "url": "https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 178561,
+      "name": "La Terminal",
+      "url": "https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1195,18 +1211,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "el afortunado",
-        "url": "https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2"
+        "name": "FIKSION",
+        "url": "https://open.spotify.com/album/5Iwojy7kNFRvrwEZ5vBOYc"
       },
       "artists": [
         {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
         }
       ],
-      "duration_ms": 200597,
-      "name": "el afortunado",
-      "url": "https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd"
+      "duration_ms": 178756,
+      "name": "FIKSION",
+      "url": "https://open.spotify.com/track/5W1imJxOa2bnPo30yBFyjD"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 169307,
       "name": "Cuadriculado",
       "url": "https://open.spotify.com/track/2DCUiwZcxvT5VrpUyCITAh"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "FIKSION",
-        "url": "https://open.spotify.com/album/5Iwojy7kNFRvrwEZ5vBOYc"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 178756,
-      "name": "FIKSION",
-      "url": "https://open.spotify.com/track/5W1imJxOa2bnPo30yBFyjD"
     },
     {
       "added_at": "2024-02-02 05:00:00",

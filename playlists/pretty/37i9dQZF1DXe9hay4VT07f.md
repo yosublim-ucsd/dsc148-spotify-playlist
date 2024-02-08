@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Valiant
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,843 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,920 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 36 | [Nuttin Nuh Go So](https://open.spotify.com/track/5bfrLQFw6AB3Be3fzvY5ER) | [Notch](https://open.spotify.com/artist/5djTjSYAitkfuLplSN60gZ) | [Buy out Riddim](https://open.spotify.com/album/3fUkJjlmkgOwtBZ7a7nPIy) | 4:02 |
 | 37 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 |
 | 38 | [Foreplay](https://open.spotify.com/track/3QFOdlIjY2EyjLij20OjdB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Foreplay](https://open.spotify.com/album/7fMMeGFAPp2upuxTKqofYp) | 2:46 |
-| 39 | [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 |
-| 40 | [Wild n Rich](https://open.spotify.com/track/2ZLcrPOWX3wTnj2h4NdEWx) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Wild n Rich](https://open.spotify.com/album/4F8cagn4gHpHk8tPA8SPfR) | 2:47 |
-| 41 | [Toast \- Remix](https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU) | [J Star](https://open.spotify.com/artist/4XoVFXRNNMzxuEpxRt2lqp) | [Toast \(Remix\)](https://open.spotify.com/album/24oZPmdzVJ7X5agJbGpK8d) | 3:07 |
+| 39 | [Toast \- Remix](https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU) | [J Star](https://open.spotify.com/artist/4XoVFXRNNMzxuEpxRt2lqp) | [Toast \(Remix\)](https://open.spotify.com/album/24oZPmdzVJ7X5agJbGpK8d) | 3:07 |
+| 40 | [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 |
+| 41 | [Wild n Rich](https://open.spotify.com/track/2ZLcrPOWX3wTnj2h4NdEWx) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Wild n Rich](https://open.spotify.com/album/4F8cagn4gHpHk8tPA8SPfR) | 2:47 |
 | 42 | [So Mi Like It](https://open.spotify.com/track/6rgSSesTJGyjQuvx06l3jU) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [10](https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP) | 2:34 |
 | 43 | [My Type](https://open.spotify.com/track/6oBtzGQSirafwnRDNlloMl) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [My Type \- Single](https://open.spotify.com/album/1IbrNSS9aKgY9M0k1wBJC7) | 3:05 |
 | 44 | [Wild Out](https://open.spotify.com/track/6UkGl2XEw0zticxJugwkq5) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Wild Out](https://open.spotify.com/album/5hNuLKXmBAhBH3ViWK6c6D) | 2:33 |
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 69 | [Call Me If](https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [VENT](https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0) | 4:00 |
 | 70 | [Bam Bam](https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:04 |
 | 71 | [Romping Shop \(feat\. Spice\)](https://open.spotify.com/track/6D7jtD4GbpX1ujF1KqPr7Y) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Pon Di Gaza 2.0](https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT) | 3:33 |
-| 72 | [Tempted To Touch](https://open.spotify.com/track/7khLgMuA7m4SA6aaDv1QSv) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Asafa Powell: Train For Speed](https://open.spotify.com/album/7eXV1e30GKjzEOFSttyn0D) | 3:27 |
+| 72 | [Tun Di Ada Way](https://open.spotify.com/track/24TFLvaGCWr9dLaEQHjmhy) | [IWaata](https://open.spotify.com/artist/2xtVXoJRIMnX1UAmOCrHrB), [DethWrld](https://open.spotify.com/artist/5CKjN61fO5PS1OxO2besVu) | [Tun Di Ada Way](https://open.spotify.com/album/4pXA95FW7Rzo9UEdsEBvSw) | 2:35 |
 | 73 | [Sha La La \(Sunday Mawnin\)](https://open.spotify.com/track/4O4Qe2u31BEqwggZBwYxmw) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Sha La La \(Sunday Mawnin\)](https://open.spotify.com/album/3L0dENcGOMZcR67uhWwPNq) | 2:36 |
 | 74 | [Romie](https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Maestro](https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1) | 3:51 |
-| 75 | [Tun Di Ada Way](https://open.spotify.com/track/24TFLvaGCWr9dLaEQHjmhy) | [IWaata](https://open.spotify.com/artist/2xtVXoJRIMnX1UAmOCrHrB), [DethWrld](https://open.spotify.com/artist/5CKjN61fO5PS1OxO2besVu) | [Tun Di Ada Way](https://open.spotify.com/album/4pXA95FW7Rzo9UEdsEBvSw) | 2:35 |
+| 75 | [Tempted To Touch](https://open.spotify.com/track/7khLgMuA7m4SA6aaDv1QSv) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Asafa Powell: Train For Speed](https://open.spotify.com/album/7eXV1e30GKjzEOFSttyn0D) | 3:27 |
 | 76 | [Journey](https://open.spotify.com/track/4a7McmduzNphrhwcExeKI3) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [Journey](https://open.spotify.com/album/38TguhcOXn3BLj8NRUSdLs) | 3:08 |
 | 77 | [Breaking News](https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [VENT](https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0) | 3:27 |
 | 78 | [Brik Pan Brik](https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Brik Pan Brik](https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 99 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
 | 100 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 |
 
-Snapshot ID: `MCxjNjNhZTdiNDk3ZmRjYmE3NTBiYTE2YWNlNzU0OTdjZWVjOThhOWI3`
+Snapshot ID: `MCwwNzA1MGY1Zjg0NDE0MWNjMzUyY2QwMjM5ZGY1ODhjNDhhMWM0ZWU4`

@@ -4,7 +4,7 @@
 
 > You are a mood, so is this playlist\. ✨ Cover \- Kayan
 
-60 songs - 3 hr 10 min
+61 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Dil Mere](https://open.spotify.com/track/0XF0D8HL9gk2sr9tlFOee3) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/5xOkxpVDHdpWkI9mNfYXab) | 3:31 | 2023-12-14 |  |
 | [Dil Mere](https://open.spotify.com/track/6ZmtxXUXRVjxOhugKkmerC) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:31 | 2023-05-02 | 2023-12-16 |
 | [Din Aur Raatein](https://open.spotify.com/track/1LPFOv0AHJVBVNbIuUsDud) | [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Din Aur Raatein](https://open.spotify.com/album/2r2monYev1upiDcHc5hVan) | 2:32 | 2023-05-02 |  |
-| [Dreaming In My Mind](https://open.spotify.com/track/5d0vzUSG3l87BRtGR726RN) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Dreaming In My Mind](https://open.spotify.com/album/1pCyN5L4pRaw7l0ouq9AFF) | 3:14 | 2023-05-02 |  |
+| [Dreaming In My Mind](https://open.spotify.com/track/5d0vzUSG3l87BRtGR726RN) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Dreaming In My Mind](https://open.spotify.com/album/1pCyN5L4pRaw7l0ouq9AFF) | 3:14 | 2023-05-02 | 2024-02-08 |
+| [Dreaming In My Mind](https://open.spotify.com/track/7c6CIO6AcuxKeeWasffOxO) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Dreaming In My Mind](https://open.spotify.com/album/6gZ98UMX5CCibRMf1tvrdo) | 3:14 | 2024-01-10 |  |
 | [Five Miles](https://open.spotify.com/track/6n1C8jCTYbNI6JD04uTP56) | [ASHWYN](https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd), [Tyler Simmons](https://open.spotify.com/artist/2NbM6Y4bH6Rbno16f3QB7a) | [Five Miles](https://open.spotify.com/album/5tMYgZjb95ZkZpkjCvF8mv) | 2:37 | 2023-05-02 |  |
 | [intezaar](https://open.spotify.com/track/1Wm35uHkiDlb3YKPJeh5Oh) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:32 | 2023-05-02 |  |
 | [Jhoom \- R&B Mix](https://open.spotify.com/track/6zAvNLJkdyRApUHnlJjKfO) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Jhoom](https://open.spotify.com/album/7gITB9pwcGy6027YxnAHsM) | 4:58 | 2023-05-02 |  |

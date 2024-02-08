@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,840 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,888 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 34 | [Tóxico](https://open.spotify.com/track/6I8eZgiw5o84fI3eA0vqVG) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Tóxico](https://open.spotify.com/album/6SDbcVYvCEx7tBMzpMJLyf) | 2:25 |
 | 35 | [Asi Es La Vida](https://open.spotify.com/track/3ppRhFagqz5sGQMLOQkhwJ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Asi Es La Vida](https://open.spotify.com/album/4LqqM5mgFRSzNo7iLXvcBj) | 2:50 |
 | 36 | [Siempre Es Lo Mismo](https://open.spotify.com/track/2dbH2TKWAKoJxG1W0SZxmM) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 4:06 |
-| 37 | [La Paleta \(feat\. C\-Kan\)](https://open.spotify.com/track/5Mhx3qKwMZdgDWhRvY6V7m) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 2:55 |
+| 37 | [Mujer](https://open.spotify.com/track/6S8ZsnBFjG5roenrxeArNv) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 3:14 |
 | 38 | [Round 4 \(feat\. C\-Kan\)](https://open.spotify.com/track/1I6aiLIGgrx7uEqausJgx5) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Round 4 \(feat\. C\-Kan\)](https://open.spotify.com/album/3DAo1WHerGAEI29u14o8dD) | 4:00 |
 | 39 | [\#LQMQ](https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP) | 3:31 |
 | 40 | [Ya no hay nada](https://open.spotify.com/track/2fSItqlm3Lcqgn9P0CVZvc) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:23 |
-| 41 | [Mujer](https://open.spotify.com/track/6S8ZsnBFjG5roenrxeArNv) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 3:14 |
+| 41 | [La Paleta \(feat\. C\-Kan\)](https://open.spotify.com/track/5Mhx3qKwMZdgDWhRvY6V7m) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 2:55 |
 | 42 | [Round 3 \(feat\. C\-Kan\)](https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Las 2 Caras](https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK) | 3:25 |
 | 43 | [Cuernú \- Remix](https://open.spotify.com/track/54vHQsmoNbitu4ghpbC00x) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Galindo Again](https://open.spotify.com/artist/3e3y36WvzuMeXpTf282KKW), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Maicke Casiano](https://open.spotify.com/artist/1s1kprQ0YxAfGStUKtO3n7) | [Cuernú \(Remix\)](https://open.spotify.com/album/5pdGU20ApbWD65z17UM7aJ) | 7:39 |
 | 44 | [Round 5 \(feat\. MC Davo\)](https://open.spotify.com/track/6OydVhuksIoJcKztWssPKe) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [The Take Over, Vol\. 3](https://open.spotify.com/album/4JTxI5uDDK11MT6fuqF1ax) | 3:56 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 50 | [La Historia De Un Olvido](https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis](https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p) | 2:59 |
 | 51 | [Invencible](https://open.spotify.com/track/5pakuQIl6IqFHdh7WgTQx8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Invencible](https://open.spotify.com/album/1h4Z8hvxf9BIlEysjDv6Bv) | 3:01 |
 
-Snapshot ID: `Mjg0NTM2OTEsMDAwMDAwMDAyOGVlZTgzOWExYWYxNjVhZWZkM2Q3NjZlNDM4OTY5MQ==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDA2OWRiMWE0NmYwNTFmZGQzNDJhMzQ2YmFiY2E0M2JmOA==`

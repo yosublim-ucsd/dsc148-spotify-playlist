@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,476 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,477 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 49 | [Carola \- En Vivo](https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 6:54 |
 | 50 | [Miel Amarga / Amigo \- En Vivo](https://open.spotify.com/track/1XFm3pC9ppFaQJUG663K8k) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Desde Pico Rivera!](https://open.spotify.com/album/757G9Xm99Wt6DrdgTusxhU) | 4:46 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA0YzM5MDU1NTA5N2QwM2IyMjc4NTQ3YjBhNDA4Y2Y3Zg==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDBiNWFjMDRmMTc2N2U2Njg5YjJjYTM5YmJmNjQwZDJkZg==`

@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Jack Antonoff
 
-1,993 songs - 4 day 23 hr 45 min
+1,995 songs - 4 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [All The Good Times](https://open.spotify.com/track/1muz3TRXxuub3ERDZbNvQE) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All The Good Times](https://open.spotify.com/album/1UjZW6c0fdVo5dYMbeuyq3) | 4:36 | 2022-04-08 | 2022-07-06 |
 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 | 2022-07-15 | 2022-08-12 |
 | [All the Good Times Never Die](https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [All the Good Times Never Die](https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL) | 3:08 | 2023-07-28 | 2023-08-26 |
-| [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 | 2023-07-07 |  |
+| [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 | 2023-07-07 | 2024-02-08 |
 | [All We've Ever Wanted](https://open.spotify.com/track/3dKzgSWLkbPmPnsWf8BYxs) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [All We've Ever Wanted](https://open.spotify.com/album/1wX5h4ML7Yiz2SDaWHx2B4) | 3:03 | 2023-02-28 | 2023-07-03 |
 | [Alma Mater](https://open.spotify.com/track/0XJ5H4jtFNrlywhYkhjCcb) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Alma Mater](https://open.spotify.com/album/33ZsoPlzcb0TXIdZQlSqHH) | 3:30 | 2023-11-17 |  |
 | [Alone](https://open.spotify.com/track/4k4mhm30I8pOn2k7O19pms) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Alone](https://open.spotify.com/album/4j8ZiT9TBNTylP578zuJRn) | 2:15 | 2020-12-04 | 2021-05-21 |
@@ -232,7 +232,7 @@
 | [Blouse](https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Blouse](https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo) | 3:15 | 2021-06-22 | 2022-04-06 |
 | [Blue Spirits](https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/7fKKW6npF1UzqRXre0Y39n) | 3:08 | 2022-06-03 | 2022-07-01 |
 | [BNR](https://open.spotify.com/track/54uXC93r53jOJFuhMueold) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [BNR & Balloon](https://open.spotify.com/album/5xAIgRLvUIVd0SgVBAlpFl) | 3:01 | 2021-05-08 | 2021-05-28 |
-| [Bodies](https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:04 | 2023-10-06 |  |
+| [Bodies](https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:04 | 2023-10-06 | 2024-02-08 |
 | [Body](https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Body](https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3) | 3:20 | 2023-05-26 | 2023-12-09 |
 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/7IE6uE2NqL9SI5gOSeNi3r) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/album/0nmhxFpBG8CgdjeoomP4go) | 2:30 | 2021-03-10 | 2021-05-28 |
 | [Body And Mind](https://open.spotify.com/track/2dAHKe37uyUrB0v0PJrDDj) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp) | 3:06 | 2021-05-08 | 2022-04-07 |
@@ -277,6 +277,7 @@
 | [Burning](https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:05 | 2022-10-20 | 2022-12-06 |
 | [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 | 2023-06-22 | 2023-11-25 |
 | [Butterflies](https://open.spotify.com/track/3qOcLXQaamgc5R7pDQKQQp) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Butterflies](https://open.spotify.com/album/1LbZK7uYkOT7V4Ru6wguCq) | 2:56 | 2020-05-15 | 2020-09-04 |
+| [Butterfly Net \(feat\. Weyes Blood\)](https://open.spotify.com/track/0NL61fJiDf07EAd2HzsNCW) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Butterfly Net \(feat\. Weyes Blood\)](https://open.spotify.com/album/3rxjw1Di3SRicz2Z4eE4Pb) | 5:33 | 2024-02-07 |  |
 | [Buttons](https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:04 | 2022-07-20 | 2022-08-16 |
 | [Buzzed](https://open.spotify.com/track/125DSBjIfOOCkmyRukprZT) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Buzzed](https://open.spotify.com/album/4JGWwlyl97ylcdcuU8IVS9) | 2:39 | 2021-06-23 | 2022-01-04 |
 | [By Your Side](https://open.spotify.com/track/0gEl3OkfuBT0GpNbRitxgo) | [ISLAND](https://open.spotify.com/artist/1UqvcbBmsHw8rjIZe1WiZl) | [Yesterday Park](https://open.spotify.com/album/58IaRbT0b0LjYj0EIODPT2) | 3:32 | 2021-07-19 | 2022-01-27 |
@@ -762,7 +763,8 @@
 | [Holly Holly](https://open.spotify.com/track/609PjstZKFBH2ryWbJFzev) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Holly Holly](https://open.spotify.com/album/0g7Pwo6QefrUgvPNhJLFR7) | 2:42 | 2021-10-04 | 2022-04-09 |
 | [Hollywood Forever Cemetery](https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Shaking Hands With Elvis](https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3) | 3:29 | 2022-06-17 | 2022-07-29 |
 | [Home](https://open.spotify.com/track/711gGx1GpUv9YW9KTSfJfH) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Home](https://open.spotify.com/album/00sZIJm0igl6aBYNktEuSy) | 2:36 | 2019-10-19 | 2020-02-28 |
-| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-24 |  |
+| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-24 | 2024-02-08 |
+| [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-01-24 |  |
 | [Home \(From Barbie The Album\)](https://open.spotify.com/track/1GPrL6feCYodRiYlZkXs5I) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Home \(From Barbie The Album\)](https://open.spotify.com/album/1sNwCxUQOJNIPiWhXu6YBF) | 3:46 | 2023-08-01 | 2023-09-17 |
 | [Home By Now](https://open.spotify.com/track/5nnPrQFYUQijEz4lwMX4dC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Home By Now](https://open.spotify.com/album/6ua077NQRY18YA0Yhk5rVt) | 4:28 | 2022-06-03 | 2022-07-21 |
 | [Home By Now](https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:28 | 2022-09-16 | 2023-01-14 |
@@ -1336,7 +1338,7 @@
 | [Perfume](https://open.spotify.com/track/3wJAk2rKEEoYlXSLpLVrkU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Perfume](https://open.spotify.com/album/1vDtewM5wjw6WzUHS3aZqz) | 3:52 | 2021-09-02 | 2022-04-08 |
 | [Personal Lies](https://open.spotify.com/track/3BjQX42wrf1Ie1AopSnUGV) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:59 | 2019-09-21 | 2020-03-06 |
 | [Perspective](https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Perspective](https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4) | 2:43 | 2023-04-13 | 2023-05-06 |
-| [Pet Rock](https://open.spotify.com/track/6WEsHmNIZIza01qGJNvjc3) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 2:45 | 2023-12-08 |  |
+| [Pet Rock](https://open.spotify.com/track/6WEsHmNIZIza01qGJNvjc3) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 2:45 | 2023-12-08 | 2024-02-08 |
 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-04-08 | 2022-05-19 |
 | [Pharmacist](https://open.spotify.com/track/1LWXIQyreuswhaIqKabxAD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/10umg2aCAjXa8HPvPKuFw0) | 2:04 | 2022-07-06 | 2022-07-09 |
 | [Pharmacist](https://open.spotify.com/track/2Ccis7gEx0Obkn5rniQdIj) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/64JNhi1z2dWvcvKY37z2BQ) | 2:04 | 2022-07-15 | 2022-07-29 |

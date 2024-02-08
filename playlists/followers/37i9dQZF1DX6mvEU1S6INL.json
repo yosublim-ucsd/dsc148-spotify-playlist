@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 1127604,
+  "2024-02-08": 1127672,
   "date_first_scraped": "2019-05-26",
   "description": "It's just us\u2014and this awesome alt soundtrack.",
   "name": "You & Me",
@@ -3792,6 +3792,28 @@
     },
     {
       "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151792,
+      "name": "Superbloodmoon (feat. D4vd)",
+      "url": "https://open.spotify.com/track/2yBiwYEX680zQLrHwdV1aT"
+    },
+    {
+      "album": {
         "name": "Conditions",
         "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
       },
@@ -3839,7 +3861,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 182973,
       "name": "Swing",
       "url": "https://open.spotify.com/track/3UKIiR93VUGPRcrAmCHU2Y"

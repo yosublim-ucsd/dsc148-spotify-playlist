@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 
 > Nothing but classic blues tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,220,696 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,180 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 | 47 | [Stone Crazy](https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Was Walking Through The Woods \(Expanded Edition\)](https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk) | 7:11 |
 | 48 | [Boogie Chillen'](https://open.spotify.com/track/4Ra0IrmzAPudI6QMvNF8cg) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:10 |
 | 49 | [Part Time Love](https://open.spotify.com/track/7p5Xpx7dd9wSPJF4Q4Nfbu) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [This Is Clarence Carter](https://open.spotify.com/album/7IWPPkijopGVrwWXRbmQKx) | 2:41 |
-| 50 | [I'm A Woman \- Remastered](https://open.spotify.com/track/01noJYGB8kT65mi8Pc2Ola) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 4:34 |
-| 51 | [Big Chief \- Remastered](https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 3:14 |
+| 50 | [Big Chief \- Remastered](https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 3:14 |
+| 51 | [I'm A Woman \- Remastered](https://open.spotify.com/track/01noJYGB8kT65mi8Pc2Ola) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 4:34 |
 | 52 | [She's A Sweet One](https://open.spotify.com/track/2Cg3GUkhjX96nO4p2WRlIa) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Calling All Blues \- The Chief, Profile & USA Recordings 1957\-1963](https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ) | 3:01 |
 | 53 | [All Your Love](https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Essential Magic Sam: The Cobra and Chief Recordings 1957\-1961](https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv) | 2:56 |
 | 54 | [Call It Stormy Monday](https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:07 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 | 69 | [Little Angel Child](https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Fast Fingers](https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l) | 3:59 |
 | 70 | [Texas Flood](https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9) | [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [The Best Of Duke\-Peacock Blues](https://open.spotify.com/album/5h1La90cicQpR7bSjnbq3Q) | 2:43 |
 
-Snapshot ID: `MCwwNDcyNTRkZWVmZTkxMTM3MDQ0MjcwYjgwMzY0NWU4ZWE5NjAyYjNk`
+Snapshot ID: `MCxiNTI2YmQ2ZmM3MTRlMWZjZmU4YThiNDhmNjY0MWNiYmE0NTU3MmVl`

@@ -4,7 +4,7 @@
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-263 songs - 16 hr 45 min
+264 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Death Wish](https://open.spotify.com/track/7u16KXOttsLNh7U8FQx2G1) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Death Wish](https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7) | 4:30 | 2023-02-24 |  |
 | [Desert Queen](https://open.spotify.com/track/4g1bRcq02BlS4iDckImXcl) | [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Desert Queen](https://open.spotify.com/album/0tNctr3388dHq7f1iZYwHI) | 4:42 | 2021-12-09 | 2022-01-19 |
 | [Devil and the Sea](https://open.spotify.com/track/4MvLYfOKCq2iFfANg0WNxR) | [Streets of Laredo](https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t) | [Devil and the Sea](https://open.spotify.com/album/5XkuCSfJsRRNsBJTfpfLEs) | 3:38 | 2022-01-05 | 2022-01-16 |
-| [Didn't He Ramble](https://open.spotify.com/track/0PcyGgEAKYaVpND2efXlar) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [A Season On The Line](https://open.spotify.com/album/3WUZZCDyqL7k7TyOb2At4x) | 4:52 | 2022-02-17 |  |
+| [Didn't He Ramble](https://open.spotify.com/track/0PcyGgEAKYaVpND2efXlar) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [A Season On The Line](https://open.spotify.com/album/3WUZZCDyqL7k7TyOb2At4x) | 4:52 | 2022-02-17 | 2024-02-08 |
 | [Didn't He Ramble](https://open.spotify.com/track/6PDB3R8PZRZGnASz1E9BHE) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Didn't He Ramble](https://open.spotify.com/album/30s2OvVdzyanq9Z0kHh6Uj) | 4:52 | 2021-12-09 | 2022-06-01 |
 | [Disarm](https://open.spotify.com/track/7MGcxsfMJrHnqOZ4ZaThRf) | [Fossil Collective](https://open.spotify.com/artist/0PhKXBGcwWwVcXCETFd92y) | [Flux](https://open.spotify.com/album/353sWANJIgsRD3vSpICwGJ) | 5:21 | 2022-01-05 | 2022-01-09 |
 | [Do You](https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd) | 4:08 | 2023-10-20 | 2023-10-30 |
@@ -206,6 +206,7 @@
 | [Soul In Mind](https://open.spotify.com/track/3tTroIOjnFUeohJqPeb4QB) | [Jared & The Mill](https://open.spotify.com/artist/0GklSybv01PPje5GlXFq2i) | [Soul In Mind](https://open.spotify.com/album/77hh6fk09R9oh9OFGAeCrS) | 3:36 | 2021-12-09 | 2022-07-27 |
 | [Spirit Cold](https://open.spotify.com/track/4RCJhOe7FgR25W1npdn3YG) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/3bvnrracdMUT8W80YAtf4s) | 3:38 | 2021-12-09 | 2022-01-31 |
 | [Spirit Cold](https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR) | 3:38 | 2022-02-17 |  |
+| [Sprinter](https://open.spotify.com/track/0Z68g80dKNa2Nrpa4Ir5yw) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sprinter](https://open.spotify.com/album/1wxCJeQNOoNiZmaN6Ma4js) | 4:44 | 2023-10-20 |  |
 | [Stand For Myself](https://open.spotify.com/track/1S8NRzYfxtEDce2hEI80af) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/0cQJAAGTwnKJCz4FKLmooz) | 4:13 | 2021-12-09 | 2022-07-29 |
 | [Stand For Myself](https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:13 | 2022-02-17 |  |
 | [Starting from Scratch](https://open.spotify.com/track/3pM19Q0sIoPc3SLLAaJrcs) | [Carl Broemel](https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR) | [Starting from Scratch](https://open.spotify.com/album/3ajBFaN4FRuRgmzLrvUFVk) | 3:09 | 2021-12-09 | 2022-07-29 |

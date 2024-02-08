@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover: Dot.
 
-276 songs - 16 hr 0 min
+277 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Have You Been Told](https://open.spotify.com/track/5Lz6NqjGEBDNsDDxnygkUJ) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [Have You Been Told](https://open.spotify.com/album/5pHcP8GHanM9jb6k9sDris) | 3:01 | 2022-04-11 | 2023-08-18 |
 | [Headrush](https://open.spotify.com/track/7oLdorBxa3NvbkOyoHi7Kf) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [adL](https://open.spotify.com/artist/4ERBh5R40XpUy1uk9aZzag) | [Headrush](https://open.spotify.com/album/0MExe2bXS8GwfAWLKAJPce) | 2:59 | 2022-09-26 | 2023-02-08 |
 | [Hello and Goodbye](https://open.spotify.com/track/1UXQnieFGCBAeiWM173eMX) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Hello and Goodbye](https://open.spotify.com/album/3LpTSaMHbu8oo0CBxjgMJt) | 3:09 | 2022-08-05 | 2023-01-13 |
-| [Hey Aries](https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Hey Aries](https://open.spotify.com/album/6YscTA7rMIXvhbqHKufQBz) | 4:17 | 2023-05-19 |  |
+| [Hey Aries](https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Hey Aries](https://open.spotify.com/album/6YscTA7rMIXvhbqHKufQBz) | 4:17 | 2023-05-19 | 2024-02-08 |
 | [High Horse](https://open.spotify.com/track/57TCZJvvp9aR2gc6NTD4OB) | [Viv & Shaz](https://open.spotify.com/artist/0HcVwSFeNSlLHDaIbod2xf), [Vivienne Pocha](https://open.spotify.com/artist/2fUE5kssQWjZs704BulUUI), [Shazneen Arethna](https://open.spotify.com/artist/7sCO08Lf7f0FHy2KEEZ5lk) | [High Horse](https://open.spotify.com/album/1BuuweRpEy3kExoCcPhZzV) | 3:39 | 2022-05-25 | 2023-01-13 |
 | [Hold Me](https://open.spotify.com/track/0Ln54jTpgtQL7R1FeK70fP) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Hold Me](https://open.spotify.com/album/0Eg6kYUGniNTOb59oTofPO) | 4:41 | 2023-10-27 | 2023-12-10 |
 | [Hold Me](https://open.spotify.com/track/3EnsM1Y8cEb6OLDloYhss6) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Swing](https://open.spotify.com/album/08w80ZQxYfFGVrT5p7F8xU) | 2:43 | 2023-05-24 |  |
@@ -185,6 +185,7 @@
 | [Oceans](https://open.spotify.com/track/48IEgZ2qIuMXY8XTpGvlEK) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Oceans](https://open.spotify.com/album/62Sk2TEDaiPB7B45FIQCmw) | 3:45 | 2022-09-30 | 2023-01-13 |
 | [OH HI!](https://open.spotify.com/track/3A52BQhCsK3jpf9TvhnXoL) | [AB!](https://open.spotify.com/artist/2yphmQ5UUwp5IUCssQe9z5), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [OH HI!](https://open.spotify.com/album/1QJKVfRNGYi1O4XWdqNaWR) | 2:38 | 2023-09-29 | 2023-11-09 |
 | [On My Own](https://open.spotify.com/track/12jHntVUvHSFiXiLW1eaVy) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [On My Own](https://open.spotify.com/album/3IpkOKy7xlKRyJ8TNZGOz0) | 2:36 | 2022-03-25 | 2023-08-26 |
+| [On My Own](https://open.spotify.com/track/6Do6DWWS4l8HzgjP4bqasJ) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [On My Own](https://open.spotify.com/album/4KBYKAF0EO5tGfoARYB3BU) | 2:36 | 2023-12-15 |  |
 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 | 2023-05-19 |  |
 | [One Day I Might Have A Say](https://open.spotify.com/track/1HlT3pKWWPPWriV2E44oEB) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [One Day I Might Have A Say](https://open.spotify.com/album/1cRFDmJbaxC3nxWmqU84TI) | 3:40 | 2023-05-19 |  |
 | [One Night](https://open.spotify.com/track/2DGCtqlQ5jL69b6Dlxzhgt) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [One Night](https://open.spotify.com/album/2zsAKrSY6xul6yx0nL09k9) | 3:04 | 2023-06-23 | 2023-07-11 |

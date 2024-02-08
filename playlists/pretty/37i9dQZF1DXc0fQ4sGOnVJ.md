@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,882 likes - 74 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,877 likes - 74 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 55 | [If You're Gonna Be Dumb, You Gotta Be Tough \(From "Jackass Forever"\)](https://open.spotify.com/track/4nGSexnowpuB3BZ0Zxotru) | [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [If You're Gonna Be Dumb, You Gotta Be Tough \(From "Jackass Forever"\)](https://open.spotify.com/album/3FAccrJLTeHLmi87LWMPCd) | 3:30 |
 | 56 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 |
 | 57 | [STICKS](https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [STICKS](https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S) | 2:37 |
-| 58 | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/track/0xJ1DE4mn3hvsUnwkz2rs8) | [Avila Brothers](https://open.spotify.com/artist/0rK0A2f8enfBGIQghyAOmV), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/album/6X0C99LUzWygqeylOdwvRD) | 2:47 |
+| 58 | [Way Down South \(feat\. Kyle Cook, Danny Boone, and Demun Jones\)](https://open.spotify.com/track/7CCLJ1kMUU4Z6sPywAU7iU) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Kyle Cook](https://open.spotify.com/artist/3VbprQmATEsilJkF5SH4dL), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Made On McCosh Mill Road](https://open.spotify.com/album/1iiEEawc2NE4vPk8brAItV) | 3:38 |
 | 59 | [Yeah](https://open.spotify.com/track/2jACYdJzSd2VWwGX5DLqLb) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Yeah](https://open.spotify.com/album/0McuDEqJtphpfw6hgEk5JN) | 3:17 |
-| 60 | [Way Down South \(feat\. Kyle Cook, Danny Boone, and Demun Jones\)](https://open.spotify.com/track/7CCLJ1kMUU4Z6sPywAU7iU) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Kyle Cook](https://open.spotify.com/artist/3VbprQmATEsilJkF5SH4dL), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Made On McCosh Mill Road](https://open.spotify.com/album/1iiEEawc2NE4vPk8brAItV) | 3:38 |
+| 60 | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/track/0xJ1DE4mn3hvsUnwkz2rs8) | [Avila Brothers](https://open.spotify.com/artist/0rK0A2f8enfBGIQghyAOmV), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/album/6X0C99LUzWygqeylOdwvRD) | 2:47 |
 | 61 | [Southern](https://open.spotify.com/track/60TduAd1s7rhsqmzXQxk9m) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Southern](https://open.spotify.com/album/0MyKGDeK3cGq2J2fkSMfhd) | 3:03 |
 | 62 | [The Dream](https://open.spotify.com/track/7LjenQM99kDj7iwTHdjBg8) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [The Dream](https://open.spotify.com/album/045KdMFUDzWbFjxwwPmwnn) | 3:12 |
 | 63 | [Goin' Back Down](https://open.spotify.com/track/5sN36xav9dZXX5qUB3aVYD) | [Redneck Social Club](https://open.spotify.com/artist/4nPrlCWAm20yBoiyE5vpr1), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Goin' Back Down](https://open.spotify.com/album/72SXoGRMGpqVDZSdErzIU6) | 3:45 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 |
 | 74 | [Keep It Redneck \- Remix](https://open.spotify.com/track/2pgGU4HYnD2Q0gUAgRjWuQ) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [Keep It Redneck \(Deluxe\)](https://open.spotify.com/album/4WJtMtbkzawLZtiK8pGvUx) | 4:34 |
 
-Snapshot ID: `MCxjNmFiNzY1OTdiNDhkZWY5MWMyZDhlY2VkNGNlZmU5ZmZmYzZhZTY2`
+Snapshot ID: `MCw4ZThjOTIzNjE1ZWFjZDczYmYxMjZhYzAxNzY3MTE2N2U5MTQ4YWEx`

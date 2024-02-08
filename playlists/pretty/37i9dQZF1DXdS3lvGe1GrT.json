@@ -1,44 +1,60 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Sarah Julia | Visual Artist: Bailey Elder",
-  "num_followers": 60694,
+  "num_followers": 60974,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDA3NjgwM2JkMTI1YWMwYzcyMWFkZGRhZGJmZTEzNTA5MzM1YzY1",
+  "snapshot_id": "MCwxMzkxZTA1NTY1ZGNmZDQ5MTY1ZGFkYjllMjBlMWIxNjEwODY3MzNl",
   "tracks": [
     {
-      "added_at": "2024-01-31 05:00:00",
+      "added_at": "2024-02-07 05:00:00",
       "album": {
-        "name": "Let Your Love Run Cold",
-        "url": "https://open.spotify.com/album/02qqL9B8uYPcrA7yCmMjdS"
+        "name": "Brusco",
+        "url": "https://open.spotify.com/album/3CYGeefAutX7xZVBPhX4uc"
       },
       "artists": [
         {
-          "name": "Jessie Reid",
-          "url": "https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV"
+          "name": "Juno Willo",
+          "url": "https://open.spotify.com/artist/6nPeloQYD2WuhzUJawHZke"
         }
       ],
-      "duration_ms": 223942,
-      "name": "Let Your Love Run Cold",
-      "url": "https://open.spotify.com/track/4lDviyx50ZMALSovCHFo61"
+      "duration_ms": 197333,
+      "name": "Brusco",
+      "url": "https://open.spotify.com/track/5KOPS6Q50l66RgQR8MjSh2"
     },
     {
-      "added_at": "2024-01-31 05:00:00",
+      "added_at": "2024-02-07 05:00:00",
       "album": {
-        "name": "Do You Feel Free Now?",
-        "url": "https://open.spotify.com/album/52ih5KkcgK2DUjvb2E5Q2k"
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/6QRqgdMGCxABXCTFmjDlSg"
       },
       "artists": [
         {
-          "name": "Sam Tudor",
-          "url": "https://open.spotify.com/artist/4s7wRrRsAQMuLQlkRo2Khk"
+          "name": "h. pruz",
+          "url": "https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN"
         }
       ],
-      "duration_ms": 199765,
-      "name": "Do You Feel Free Now?",
-      "url": "https://open.spotify.com/track/1G5Q59cV1UNU0AOiWtODGS"
+      "duration_ms": 333333,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/73hivFjCugq75ohbZiPlob"
+    },
+    {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "endless questions",
+        "url": "https://open.spotify.com/album/4l1sZQPpcXhZUWonaH9lfD"
+      },
+      "artists": [
+        {
+          "name": "Noah Pope",
+          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
+        }
+      ],
+      "duration_ms": 167178,
+      "name": "endless questions",
+      "url": "https://open.spotify.com/track/6K0xzSgP4YOTBL6kZIhuwM"
     },
     {
       "added_at": "2024-01-24 05:00:00",
@@ -57,6 +73,54 @@
       "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
     },
     {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "Meet Me In The Middle",
+        "url": "https://open.spotify.com/album/5ITmYXwPwbgWllhVFQMtGh"
+      },
+      "artists": [
+        {
+          "name": "Wezn",
+          "url": "https://open.spotify.com/artist/4m3BkdzgdpL8lkC5PfZdXf"
+        }
+      ],
+      "duration_ms": 256105,
+      "name": "Meet Me In The Middle",
+      "url": "https://open.spotify.com/track/3YzBYRceMfEMjKavekA6Lv"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Do You Feel Free Now?",
+        "url": "https://open.spotify.com/album/52ih5KkcgK2DUjvb2E5Q2k"
+      },
+      "artists": [
+        {
+          "name": "Sam Tudor",
+          "url": "https://open.spotify.com/artist/4s7wRrRsAQMuLQlkRo2Khk"
+        }
+      ],
+      "duration_ms": 199765,
+      "name": "Do You Feel Free Now?",
+      "url": "https://open.spotify.com/track/1G5Q59cV1UNU0AOiWtODGS"
+    },
+    {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "Starwave",
+        "url": "https://open.spotify.com/album/7sNMLlqNxqB1ypwVHOrtsj"
+      },
+      "artists": [
+        {
+          "name": "Warmshine Room",
+          "url": "https://open.spotify.com/artist/6lLcqGmrwbLNDKKKaIK5VW"
+        }
+      ],
+      "duration_ms": 108880,
+      "name": "Starwave",
+      "url": "https://open.spotify.com/track/6W4GHSjOU6POEQMFJaCpv3"
+    },
+    {
       "added_at": "2024-01-11 21:07:41",
       "album": {
         "name": "Anytime",
@@ -73,6 +137,102 @@
       "url": "https://open.spotify.com/track/52yPZ3t6X2ZbY8m818Roxe"
     },
     {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "Made To Love Someone",
+        "url": "https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 186845,
+      "name": "Made To Love Someone",
+      "url": "https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40"
+    },
+    {
+      "added_at": "2024-01-10 17:00:00",
+      "album": {
+        "name": "violet",
+        "url": "https://open.spotify.com/album/4vRjnRTAH2w8Xy17CegJWN"
+      },
+      "artists": [
+        {
+          "name": "Marianne Ross",
+          "url": "https://open.spotify.com/artist/3N8pECzlNdVgozhW0SEp9j"
+        }
+      ],
+      "duration_ms": 110322,
+      "name": "violet",
+      "url": "https://open.spotify.com/track/33Qa5hM4hSlJY3bbpoFl9G"
+    },
+    {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/48OsHFJTCcwLrfu5nuxQaR"
+      },
+      "artists": [
+        {
+          "name": "The Takes",
+          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
+        }
+      ],
+      "duration_ms": 266693,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/4ZS8IOU9EFq9GlgC4cOrbx"
+    },
+    {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/7cFllNFxYu9aNErrov1T3Y"
+      },
+      "artists": [
+        {
+          "name": "Zoe Boekbinder",
+          "url": "https://open.spotify.com/artist/5WDhdWVcgfQkhgxka9j119"
+        }
+      ],
+      "duration_ms": 168560,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/1Nom7EvTgdkMeLZCszJ5Ft"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Let Your Love Run Cold",
+        "url": "https://open.spotify.com/album/02qqL9B8uYPcrA7yCmMjdS"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reid",
+          "url": "https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV"
+        }
+      ],
+      "duration_ms": 223942,
+      "name": "Let Your Love Run Cold",
+      "url": "https://open.spotify.com/track/4lDviyx50ZMALSovCHFo61"
+    },
+    {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "to god, to us",
+        "url": "https://open.spotify.com/album/1O4GhqpaQaSWGxEwnsVr7c"
+      },
+      "artists": [
+        {
+          "name": "Izzie Burton",
+          "url": "https://open.spotify.com/artist/5USPz1G7jEwvH6TzlD0Grm"
+        }
+      ],
+      "duration_ms": 274528,
+      "name": "to god, to us",
+      "url": "https://open.spotify.com/track/4i0vEZuGiIRfP7ZQQRFNSQ"
+    },
+    {
       "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Stones & Waves",
@@ -87,6 +247,22 @@
       "duration_ms": 190714,
       "name": "Stones & Waves",
       "url": "https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "what happens if I cross the line",
+        "url": "https://open.spotify.com/album/3RTKYrNMmAKYrAU7SdBB04"
+      },
+      "artists": [
+        {
+          "name": "Celine Hess",
+          "url": "https://open.spotify.com/artist/7ArYmzvy6W6KwBxnJ1IqEv"
+        }
+      ],
+      "duration_ms": 196271,
+      "name": "what happens if I cross the line",
+      "url": "https://open.spotify.com/track/71IrFbRpoTRQSCAoSOfjV9"
     },
     {
       "added_at": "2024-01-31 05:00:00",
@@ -199,22 +375,6 @@
       "duration_ms": 153250,
       "name": "Half of forever",
       "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "what happens if I cross the line",
-        "url": "https://open.spotify.com/album/3RTKYrNMmAKYrAU7SdBB04"
-      },
-      "artists": [
-        {
-          "name": "Celine Hess",
-          "url": "https://open.spotify.com/artist/7ArYmzvy6W6KwBxnJ1IqEv"
-        }
-      ],
-      "duration_ms": 196271,
-      "name": "what happens if I cross the line",
-      "url": "https://open.spotify.com/track/71IrFbRpoTRQSCAoSOfjV9"
     },
     {
       "added_at": "2024-02-02 00:54:03",
@@ -407,22 +567,6 @@
       "duration_ms": 274106,
       "name": "For The Both of Us",
       "url": "https://open.spotify.com/track/6CLfnHnMwLfAtd1rqJsbCs"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "violet",
-        "url": "https://open.spotify.com/album/4vRjnRTAH2w8Xy17CegJWN"
-      },
-      "artists": [
-        {
-          "name": "Marianne Ross",
-          "url": "https://open.spotify.com/artist/3N8pECzlNdVgozhW0SEp9j"
-        }
-      ],
-      "duration_ms": 110322,
-      "name": "violet",
-      "url": "https://open.spotify.com/track/33Qa5hM4hSlJY3bbpoFl9G"
     },
     {
       "added_at": "2024-01-24 05:00:00",
@@ -1483,178 +1627,6 @@
       "duration_ms": 213357,
       "name": "To Be Myself Again",
       "url": "https://open.spotify.com/track/4AADiAUJhMYC0BC7reh12Z"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Islands",
-        "url": "https://open.spotify.com/album/3qUtotKz3qP2QehYjnKmS3"
-      },
-      "artists": [
-        {
-          "name": "Blonds",
-          "url": "https://open.spotify.com/artist/2ZsLZ7HyeKAAGpBISlG4A5"
-        }
-      ],
-      "duration_ms": 190967,
-      "name": "Islands",
-      "url": "https://open.spotify.com/track/7Gxqbty6LFkCLpdWo8aSSd"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "After You",
-        "url": "https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL"
-      },
-      "artists": [
-        {
-          "name": "Julius Black",
-          "url": "https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj"
-        }
-      ],
-      "duration_ms": 203058,
-      "name": "After You",
-      "url": "https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Apolonia",
-        "url": "https://open.spotify.com/album/6ZC1wMuBNet3j9SBqs9B1R"
-      },
-      "artists": [
-        {
-          "name": "Emory Duncan",
-          "url": "https://open.spotify.com/artist/1dCRBgIMLRGUkAxZBfCeQ6"
-        }
-      ],
-      "duration_ms": 218373,
-      "name": "Apolonia",
-      "url": "https://open.spotify.com/track/20wMcauSiz1X7n5L3Nnu7h"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "I Don't Kill",
-        "url": "https://open.spotify.com/album/7B8d3W0dFMHfmYag0apOxs"
-      },
-      "artists": [
-        {
-          "name": "GUS",
-          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
-        }
-      ],
-      "duration_ms": 238557,
-      "name": "I Don't Kill",
-      "url": "https://open.spotify.com/track/1kCX2JtO3UNip664y11cYG"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Tomato",
-        "url": "https://open.spotify.com/album/3Ug1Eqoj27MVxPm9XflhsP"
-      },
-      "artists": [
-        {
-          "name": "Katy Pinke",
-          "url": "https://open.spotify.com/artist/4HjpmUM8nl5tPeY1xmN4fQ"
-        }
-      ],
-      "duration_ms": 227471,
-      "name": "Tomato",
-      "url": "https://open.spotify.com/track/6ta9JHGvLVZZP4w1GPVsZP"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Company",
-        "url": "https://open.spotify.com/album/1LPDFRZJQ3f3jmhSZF5bKB"
-      },
-      "artists": [
-        {
-          "name": "Darryl Rahn",
-          "url": "https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA"
-        },
-        {
-          "name": "Free Range",
-          "url": "https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/2wCxoJSKeCRRf9K9Qo65N6"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Too Autistic for Prom",
-        "url": "https://open.spotify.com/album/1KetzcSVPMMOYiwu0mvvdz"
-      },
-      "artists": [
-        {
-          "name": "David Allred",
-          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
-        },
-        {
-          "name": "Gentle Millennials",
-          "url": "https://open.spotify.com/artist/3OlaO238BrZB7fZSVvnXCK"
-        },
-        {
-          "name": "Fay Funk",
-          "url": "https://open.spotify.com/artist/6mj7MG08uhdgK9zvG0nyI6"
-        }
-      ],
-      "duration_ms": 114253,
-      "name": "Too Autistic for Prom",
-      "url": "https://open.spotify.com/track/4uEnbKR0tIIpcSltNhYdHZ"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "initials",
-        "url": "https://open.spotify.com/album/3z9JLrflfa35l3rSk9FGOd"
-      },
-      "artists": [
-        {
-          "name": "Thalia Nicolalde",
-          "url": "https://open.spotify.com/artist/4FyjzM0zqk48asEhIXDmCw"
-        }
-      ],
-      "duration_ms": 309947,
-      "name": "initials",
-      "url": "https://open.spotify.com/track/4zjGk5MgITToxrspc1NXN4"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "HRE",
-        "url": "https://open.spotify.com/album/040UB5WeZJnUW3B1JQtrtJ"
-      },
-      "artists": [
-        {
-          "name": "Julian Spector",
-          "url": "https://open.spotify.com/artist/0Cd6wbzFm53orgr0tNXNXC"
-        }
-      ],
-      "duration_ms": 171102,
-      "name": "HRE",
-      "url": "https://open.spotify.com/track/6SNcR6J5f6YGyfeJ74twKm"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Camping in Canada",
-        "url": "https://open.spotify.com/album/5x3avDyigV5CxMsycG4cyg"
-      },
-      "artists": [
-        {
-          "name": "Yuat",
-          "url": "https://open.spotify.com/artist/41ImyihZPU5MUeIZWnNIdh"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Camping in Canada",
-      "url": "https://open.spotify.com/track/1xQ8CMtomK5r8KpqfzvFRi"
     }
   ],
   "unique_name": "Fresh Finds Folk ",

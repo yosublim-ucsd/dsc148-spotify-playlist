@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 21640,
+  "2024-02-08": 21666,
   "date_first_scraped": "2022-08-06",
   "description": "afrobeats: best served chill",
   "name": "Afro Chill",
@@ -543,7 +543,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 167355,
       "name": "Anticipate",
       "url": "https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA"
@@ -2793,8 +2793,8 @@
           "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         },
         {
-          "name": "Bien-aime Baraza",
-          "url": "https://open.spotify.com/artist/3MNSiKXQ08jmcwzhQD5JFv"
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
         },
         {
           "name": "Bobby Shmurda",
@@ -3105,6 +3105,24 @@
       "duration_ms": 163467,
       "name": "Joo",
       "url": "https://open.spotify.com/track/0gsUEvfyck7i7cZknquaD6"
+    },
+    {
+      "album": {
+        "name": "Jowo",
+        "url": "https://open.spotify.com/album/7FB85ZQoIIlVUIQH7UaFJL"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Jowo",
+      "url": "https://open.spotify.com/track/1prMFxghLt3N68CVOtiYK2"
     },
     {
       "album": {

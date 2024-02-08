@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Marisa Monte",
-  "num_followers": 345458,
+  "num_followers": 345511,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWJlNDcxZDYwNGI3NDg3YjQ0YmFhNWRlOTVkMzFmMzZmMWFmMjdj",
+  "snapshot_id": "MCw3NjhiMGNiMGM0MjJiMDc1MWJiZTY0ZDYxNzM1MmRmZjM2YWFlZmUx",
   "tracks": [
     {
       "added_at": "2024-01-19 03:01:00",
@@ -227,26 +227,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Baby (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5Tk4wmf1IgEPPq36yD4G7Z"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 187178,
-      "name": "Baby - Ao Vivo",
-      "url": "https://open.spotify.com/track/5YctcwZCRMxlIHDpTuqKOE"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Cinco",
         "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 302706,
       "name": "Soprou",
       "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Baby (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Tk4wmf1IgEPPq36yD4G7Z"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 187178,
+      "name": "Baby - Ao Vivo",
+      "url": "https://open.spotify.com/track/5YctcwZCRMxlIHDpTuqKOE"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -387,6 +387,26 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "Preciso Dizer Que Te Amo",
+        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 233990,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "Maria Maria - Spotify Singles",
         "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
       },
@@ -439,26 +459,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Preciso Dizer Que Te Amo",
-        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 233990,
-      "name": "Preciso Dizer Que Te Amo",
-      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -495,6 +495,26 @@
       "duration_ms": 166006,
       "name": "A Palo Seco",
       "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Bloco Do Silva #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Sozinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -559,26 +579,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "B\u00e9di Beat (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        },
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 275750,
-      "name": "B\u00e9di Beat (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/2T8p68OOvJJ5IL0zaHKF9P"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Quero Voc\u00ea",
         "url": "https://open.spotify.com/album/1onNskM0PFFZS0cbZftnYp"
       },
@@ -599,22 +599,22 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Bloco Do Silva #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
+        "name": "B\u00e9di Beat (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         },
         {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
         }
       ],
-      "duration_ms": 235640,
-      "name": "Sozinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
+      "duration_ms": 275750,
+      "name": "B\u00e9di Beat (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2T8p68OOvJJ5IL0zaHKF9P"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -655,6 +655,22 @@
       "duration_ms": 162000,
       "name": "O Caderno",
       "url": "https://open.spotify.com/track/6d9kLmczO7tjudF3zMCyb1"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Ao Vivo Em Lisboa",
+        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 256155,
+      "name": "Bem Que Se Quis - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -779,22 +795,6 @@
       "duration_ms": 225119,
       "name": "A Loba/Ou Ela ou Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/6mEjmheFPc7L7n57YbwKfH"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Ao Vivo Em Lisboa",
-        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 256155,
-      "name": "Bem Que Se Quis - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Nu Com a Minha M\u00fasica",
-        "url": "https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Quase um Segundo",
-      "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Ana Ca\u00f1as Canta Belchior",
         "url": "https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 322543,
       "name": "Cora\u00e7\u00e3o Selvagem",
       "url": "https://open.spotify.com/track/1CJ2c62JnJK3Ax7O2C11vw"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Nu Com a Minha M\u00fasica",
+        "url": "https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Quase um Segundo",
+      "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "Se O Meu Peito Fosse O Mundo (Lado A)",
+        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 177099,
+      "name": "Um, Dois, Tr\u00eas",
+      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "Novo Samba Sempre Novo",
         "url": "https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 237234,
       "name": "Retalhos De Cetim",
       "url": "https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Se O Meu Peito Fosse O Mundo (Lado A)",
-        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 177099,
-      "name": "Um, Dois, Tr\u00eas",
-      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "A M\u00fasica de Tom",
-        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
-      },
-      "artists": [
-        {
-          "name": "Ayrton Montarroyos",
-          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
-        },
-        {
-          "name": "Cain\u00e3 Cavalcante",
-          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
-        }
-      ],
-      "duration_ms": 185691,
-      "name": "Eu Sei Que Vou Te Amar",
-      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Lua e Estrela",
         "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
       },
@@ -1367,6 +1347,26 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "A M\u00fasica de Tom",
+        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Montarroyos",
+          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
+        },
+        {
+          "name": "Cain\u00e3 Cavalcante",
+          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
+        }
+      ],
+      "duration_ms": 185691,
+      "name": "Eu Sei Que Vou Te Amar",
+      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "Grand' Hotel",
         "url": "https://open.spotify.com/album/0Qb5Hrxo4ALD7SkUQlTRmj"
       },
@@ -1379,26 +1379,6 @@
       "duration_ms": 203434,
       "name": "Grand' Hotel",
       "url": "https://open.spotify.com/track/3z0d0L04jSDRHxWItUy0cP"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "desculpe o au\u00ea",
-        "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00e1via Felicio",
-          "url": "https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf"
-        },
-        {
-          "name": "Belle Lune",
-          "url": "https://open.spotify.com/artist/37kiKpzwo3ERmon9VTN86h"
-        }
-      ],
-      "duration_ms": 178867,
-      "name": "desculpe o au\u00ea",
-      "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1419,6 +1399,26 @@
       "duration_ms": 163268,
       "name": "Preciso Me Encontrar (Cita\u00e7\u00e3o: Deixe Me Ir)",
       "url": "https://open.spotify.com/track/3AyvCLfKJx3hvzKPLaM1TP"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "desculpe o au\u00ea",
+        "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e1via Felicio",
+          "url": "https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf"
+        },
+        {
+          "name": "Belle Lune",
+          "url": "https://open.spotify.com/artist/37kiKpzwo3ERmon9VTN86h"
+        }
+      ],
+      "duration_ms": 178867,
+      "name": "desculpe o au\u00ea",
+      "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
     },
     {
       "added_at": "2024-01-19 03:01:00",

@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 130430,
+  "2024-02-08": 130461,
   "date_first_scraped": "2023-05-19",
   "description": "Magic of acoustic poured into your Chai. Cover - Anuv Jain",
   "name": "Chai & Acoustic",
@@ -1056,6 +1056,28 @@
     },
     {
       "album": {
+        "name": "Chupke Se",
+        "url": "https://open.spotify.com/album/4HtzchXd1UF5p6v8qZe2k2"
+      },
+      "artists": [
+        {
+          "name": "Apurva Krishna",
+          "url": "https://open.spotify.com/artist/4Mv4apQaWzG4FtYA5XsJch"
+        },
+        {
+          "name": "Manya Narang",
+          "url": "https://open.spotify.com/artist/2WZl1N4qrNuqiLpX74fcQY"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181997,
+      "name": "Chupke Se",
+      "url": "https://open.spotify.com/track/5L0MhrWySbzU5qgo0Zjhvo"
+    },
+    {
+      "album": {
         "name": "DARMIYAN",
         "url": "https://open.spotify.com/album/0L4oUESTyLktM4tm7uzOur"
       },
@@ -1495,8 +1517,8 @@
           "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
         },
         {
-          "name": "Maara...",
-          "url": "https://open.spotify.com/artist/5BJIYkah1s9lnE1a0OO2Vn"
+          "name": "Ashish Zachariah",
+          "url": "https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT"
         }
       ],
       "date_added": "2023-08-18",
@@ -1935,7 +1957,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 122883,
       "name": "Jaani Pehchani Si",
       "url": "https://open.spotify.com/track/7zjTFjPj5s5n83YLfDfJVB"
@@ -4116,7 +4138,7 @@
         },
         {
           "name": "Venoz",
-          "url": "https://open.spotify.com/artist/30Wm0iPHGZNRTFl5ZbCgzx"
+          "url": "https://open.spotify.com/artist/6Iz3kCYTtL1cfBdwMo8gIm"
         },
         {
           "name": "Mark Bhatia",

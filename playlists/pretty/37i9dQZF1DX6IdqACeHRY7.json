@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152424,
+  "num_followers": 152434,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjcxOWUxNTE1OGRkN2RiYzVmMGFhNTU0ZDhlNzM2YTFiNDAzN2Mw",
+  "snapshot_id": "MCw1Zjc2OWU2NWVhMjU4ZjM0OGQ4MWJmYjc3MjAzMmE3YzQ2MTBhNjc4",
   "tracks": [
     {
       "added_at": "2024-01-12 09:52:44",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "These Two Windows",
-        "url": "https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 177805,
-      "name": "Must Have Been The Wind",
-      "url": "https://open.spotify.com/track/6lERHAmBCZmgODv3OYENXi"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Stop All the World Now (Special Edition)",
         "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 277000,
       "name": "Collide - Acoustic Version",
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "These Two Windows",
+        "url": "https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 177805,
+      "name": "Must Have Been The Wind",
+      "url": "https://open.spotify.com/track/6lERHAmBCZmgODv3OYENXi"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 246053,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "English Rain",
         "url": "https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 181400,
       "name": "Please Don't Say You Love Me",
       "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 246053,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Wild Enough",
-        "url": "https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 186658,
-      "name": "Wild Enough",
-      "url": "https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Rockabye (Acoustic)",
         "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Wild Enough",
+        "url": "https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 186658,
+      "name": "Wild Enough",
+      "url": "https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 215320,
-      "name": "Suitcase",
-      "url": "https://open.spotify.com/track/6dQ1FEt4FByE6tU0dvQNmr"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "The Sun Will Come up, The Seasons Will Change",
         "url": "https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 232800,
       "name": "Is It Really Me You're Missing",
       "url": "https://open.spotify.com/track/2lgyZWQSJWmswrLJyM27kB"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 215320,
+      "name": "Suitcase",
+      "url": "https://open.spotify.com/track/6dQ1FEt4FByE6tU0dvQNmr"
     },
     {
       "added_at": "2024-01-12 09:52:44",

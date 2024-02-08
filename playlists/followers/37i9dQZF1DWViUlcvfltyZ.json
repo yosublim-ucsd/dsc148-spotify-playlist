@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 84063,
+  "2024-02-08": 84066,
   "date_first_scraped": "2022-05-11",
   "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: I Segreti",
   "name": "Rock Italia",
@@ -5313,7 +5313,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 167276,
       "name": "HONEY (ARE U COMING?)",
       "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
@@ -9067,6 +9067,24 @@
       "duration_ms": 230711,
       "name": "Pavlov",
       "url": "https://open.spotify.com/track/1SowNdMmeZqbvkYdR142Zt"
+    },
+    {
+      "album": {
+        "name": "Pazza",
+        "url": "https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv"
+      },
+      "artists": [
+        {
+          "name": "Loredana Bert\u00e8",
+          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168166,
+      "name": "Pazza",
+      "url": "https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe"
     },
     {
       "album": {

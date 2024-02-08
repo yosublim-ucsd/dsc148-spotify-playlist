@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The greatest Alternative Rock songs through the decades. Cover: The Killers",
+  "description": "The greatest Alternative Rock songs through the decades. Cover: Gorillaz",
   "name": "Essential Alternative",
   "tracks": [
     {
@@ -236,6 +236,24 @@
       "duration_ms": 235053,
       "name": "Aerials",
       "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
+    },
+    {
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296520,
+      "name": "Ain't It Fun",
+      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
     },
     {
       "album": {
@@ -1798,7 +1816,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 186506,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/6ilylHfblTVdDvJtaAiE8U"
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 251946,
       "name": "Fire",
       "url": "https://open.spotify.com/track/7K2vo9oSUzFgmtIXNYegzP"
@@ -2292,6 +2310,24 @@
       "duration_ms": 193253,
       "name": "HandClap",
       "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
+    },
+    {
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182693,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
     },
     {
       "album": {
@@ -3314,7 +3350,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 295533,
       "name": "Killed By An Angel",
       "url": "https://open.spotify.com/track/5QxsyWK3UfLgEPTaAb5Xgq"
@@ -5878,6 +5914,24 @@
       "duration_ms": 168253,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/3mcG2NI5G5vhrQtRda1YnA"
+    },
+    {
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
       "album": {

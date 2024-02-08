@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: FZMZ feat\. icy
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,616 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,971 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [スキスキ星人](https://open.spotify.com/track/217opy2ZZMNRyJauNHk3rH) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Strawberry Prince](https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM) | 3:56 |
 | 75 | [ブライダルドリーム](https://open.spotify.com/track/6gtqm6Hpuyq133BvPG4oBu) | [兎田ぺこら](https://open.spotify.com/artist/4JlcSp9i5LcilRSMqaVimt), [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk) | [ブライダルドリーム](https://open.spotify.com/album/3fkZh6fm03KR3njtLJNG4T) | 3:11 |
 
-Snapshot ID: `MCw2MWNjOWE5MTUxZTJjZDJjMjZjNWNlZTg3YjEyYTIyNWRhYjM4ODdj`
+Snapshot ID: `MCxlNTQyODBmZjU2ZjA4ODRhZDM3NTk2YTQ5MGNkM2YzNDcwODA3YmNj`

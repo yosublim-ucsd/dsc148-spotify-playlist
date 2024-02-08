@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 171851,
+  "num_followers": 172001,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDZmYTE3MDQxMWE5ZmE1NDMzZjQyNmM3YTNmMTg1YmViNzc3ZWE5",
+  "snapshot_id": "MCxlNzk2MjM5NWIwNjZiMmJjYjMxNmVmYjQyYzZhZDFjNTUxNjZkMDI3",
   "tracks": [
     {
       "added_at": "2023-10-13 04:59:00",
@@ -711,6 +711,26 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "M\u00fasica en el Desierto",
+        "url": "https://open.spotify.com/album/0XJjgo6rIW6kp9O8qLnord"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 271419,
+      "name": "Eterna luz",
+      "url": "https://open.spotify.com/track/5aJL7N6W2oXcZsMB9njrYH"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "Colecci\u00f3n de Danilo Montero",
         "url": "https://open.spotify.com/album/7pmvlz6QfePhtw0PdAfXh7"
       },
@@ -723,22 +743,6 @@
       "duration_ms": 360071,
       "name": "Cantar\u00e9 de Tu Amor",
       "url": "https://open.spotify.com/track/7kzqc0u8SNQAU5Wca0WNKo"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Jes\u00fas en el Centro (En Vivo)",
-        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 510586,
-      "name": "Tu presencia es el Cielo",
-      "url": "https://open.spotify.com/track/2iBDNtyifH3CtG7Y5VDeAz"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -783,22 +787,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "M\u00fasica en el Desierto",
-        "url": "https://open.spotify.com/album/0XJjgo6rIW6kp9O8qLnord"
+        "name": "Jes\u00fas en el Centro (En Vivo)",
+        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
       },
       "artists": [
         {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
         }
       ],
-      "duration_ms": 271419,
-      "name": "Eterna luz",
-      "url": "https://open.spotify.com/track/5aJL7N6W2oXcZsMB9njrYH"
+      "duration_ms": 510586,
+      "name": "Tu presencia es el Cielo",
+      "url": "https://open.spotify.com/track/2iBDNtyifH3CtG7Y5VDeAz"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Muerte Por Vida",
-        "url": "https://open.spotify.com/album/0gTUTqQo7JdXl9yaj5wUcg"
-      },
-      "artists": [
-        {
-          "name": "Belen Losa",
-          "url": "https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw"
-        }
-      ],
-      "duration_ms": 368683,
-      "name": "Muerte Por Vida",
-      "url": "https://open.spotify.com/track/68rCrBWih9O3ctD7NbXUUH"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Mi Jes\u00fas",
         "url": "https://open.spotify.com/album/7ac4ykr2GHuMYc29l6QzHx"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 260649,
       "name": "Mi Jes\u00fas",
       "url": "https://open.spotify.com/track/2w84WTatORJJTPLFqeTIlO"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Muerte Por Vida",
+        "url": "https://open.spotify.com/album/0gTUTqQo7JdXl9yaj5wUcg"
+      },
+      "artists": [
+        {
+          "name": "Belen Losa",
+          "url": "https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw"
+        }
+      ],
+      "duration_ms": 368683,
+      "name": "Muerte Por Vida",
+      "url": "https://open.spotify.com/track/68rCrBWih9O3ctD7NbXUUH"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "El Poder De Tu Amor",
-        "url": "https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 269640,
-      "name": "Por Amor",
-      "url": "https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "El Eco De Su Voz",
         "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 385066,
       "name": "Mateo 17",
       "url": "https://open.spotify.com/track/6phOeAec12tnILyQPwNmej"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "El Poder De Tu Amor",
+        "url": "https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 269640,
+      "name": "Por Amor",
+      "url": "https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Encontr\u00e9 Mi Lugar",
-        "url": "https://open.spotify.com/album/46CxJyWkehHBkPUFNV2Tkf"
+        "name": "Mi Coraz\u00f3n Te Anhela",
+        "url": "https://open.spotify.com/album/1IoMVo2hPhfuDWKvcCxBfE"
       },
       "artists": [
         {
-          "name": "Kairy Marquez",
-          "url": "https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8"
+          "name": "Andrea Bernal",
+          "url": "https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6"
         }
       ],
-      "duration_ms": 296316,
-      "name": "Encontr\u00e9 Mi Lugar",
-      "url": "https://open.spotify.com/track/4TpvT0B2oAonwQvBN1Qwsu"
+      "duration_ms": 295692,
+      "name": "Mi Coraz\u00f3n Te Anhela",
+      "url": "https://open.spotify.com/track/2v6tJGan59otCNvwSWD19y"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Mi Coraz\u00f3n Te Anhela",
-        "url": "https://open.spotify.com/album/1IoMVo2hPhfuDWKvcCxBfE"
+        "name": "Encontr\u00e9 Mi Lugar",
+        "url": "https://open.spotify.com/album/46CxJyWkehHBkPUFNV2Tkf"
       },
       "artists": [
         {
-          "name": "Andrea Bernal",
-          "url": "https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6"
+          "name": "Kairy Marquez",
+          "url": "https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8"
         }
       ],
-      "duration_ms": 295692,
-      "name": "Mi Coraz\u00f3n Te Anhela",
-      "url": "https://open.spotify.com/track/2v6tJGan59otCNvwSWD19y"
+      "duration_ms": 296316,
+      "name": "Encontr\u00e9 Mi Lugar",
+      "url": "https://open.spotify.com/track/4TpvT0B2oAonwQvBN1Qwsu"
     },
     {
       "added_at": "2023-10-13 04:59:00",

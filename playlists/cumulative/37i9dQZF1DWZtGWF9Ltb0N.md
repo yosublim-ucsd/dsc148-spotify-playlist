@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-522 songs - 1 day 13 hr 56 min
+523 songs - 1 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Fryst \- Original Mix](https://open.spotify.com/track/4koiKX3qu8B1ENF1mICkak) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD), [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [Positive Energy](https://open.spotify.com/album/0Syi76rGMdgXiHzzYUfkcO) | 6:53 | 2022-02-17 | 2023-01-14 |
 | [Fuck 'em](https://open.spotify.com/track/46y1L481OwLpWAg222Dzvi) | [Chad Dubz](https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd) | [Wrath of God](https://open.spotify.com/album/2SYwkpBdH7qfUde6PCA0EU) | 4:21 | 2022-02-17 | 2022-07-30 |
 | [Fully Grim](https://open.spotify.com/track/62aX62MCSXTnvVSfzjBqlB) | [Amadeo](https://open.spotify.com/artist/0LddJRRCtATsL6MDEySqhv), [Grim Sickers](https://open.spotify.com/artist/1pNDEbhb6K2TLS3vftZ3Y2) | [Fully Grim](https://open.spotify.com/album/1Q5s5veuTCKIUorbGPRIWc) | 3:39 | 2023-03-10 | 2023-04-25 |
+| [Furia Electronica](https://open.spotify.com/track/5cHjMM0sX3nOME4JHIJfJq) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Furia Electronica](https://open.spotify.com/album/29AEcGabeudmQqN03ReQcs) | 4:50 | 2024-02-07 |  |
 | [G Shit](https://open.spotify.com/track/0KE0pJOq71sJWqsO1FGfmH) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [XXIV Bit EP](https://open.spotify.com/album/44zt80xY9vVrpdBIS4cc9I) | 4:15 | 2022-07-08 |  |
 | [G Shit](https://open.spotify.com/track/2S4MJ7mQM725upW6egRBwo) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [XXIV Bit EP](https://open.spotify.com/album/74E6fh2JCcfzCq0B7i1i07) | 4:15 | 2022-02-17 | 2022-07-29 |
 | [Gassed Up \- IMANU Remix](https://open.spotify.com/track/4ewD29TNuL4ph7gCp2xdKP) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [ANTIFRACTALS](https://open.spotify.com/album/0XDUYwgZnjw3SdlxsVXl5S) | 2:58 | 2023-01-20 |  |
@@ -374,7 +375,7 @@
 | [Revival](https://open.spotify.com/track/0B71eleP2fI8erz2AccjRx) | [Cimm](https://open.spotify.com/artist/5X4hjk9hibUXzbSn3jq6ZK), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6) | [Revival](https://open.spotify.com/album/36yJ0HBPXOBOv1HEjyLE0b) | 4:50 | 2022-04-08 |  |
 | [Rhubarb Crumble](https://open.spotify.com/track/1Cm7THvhhuBMZVuP08nkpb) | [Jakes](https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7) | [Rhubarb Crumble EP](https://open.spotify.com/album/4ByklHL90cfvBGLBbbyel1) | 5:33 | 2022-02-17 | 2022-07-27 |
 | [Ricky Rosé](https://open.spotify.com/track/3OvMUt6wjhyiIp0WDLsPx9) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn), [Biome](https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud) | [Ricky Rosé](https://open.spotify.com/album/7bSufwWURYfWb2cu0CeuF5) | 3:48 | 2022-10-21 | 2023-04-16 |
-| [Ride Out](https://open.spotify.com/track/5NjFTKQe08qkzfYIYg2hMf) | [ColtCuts](https://open.spotify.com/artist/7B7K7clWpHy7DkuIX7d9xd), [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Ride Out](https://open.spotify.com/album/0g6JAuSxiBOAYvCsjTEG0m) | 4:20 | 2022-02-17 |  |
+| [Ride Out](https://open.spotify.com/track/5NjFTKQe08qkzfYIYg2hMf) | [ColtCuts](https://open.spotify.com/artist/7B7K7clWpHy7DkuIX7d9xd), [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Ride Out](https://open.spotify.com/album/0g6JAuSxiBOAYvCsjTEG0m) | 4:20 | 2022-02-17 | 2024-02-08 |
 | [Righteous](https://open.spotify.com/track/6vLVc8UKfHm5HFbprTee4T) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ) | [Righteous](https://open.spotify.com/album/3hZqvmxuYCPFnm7dz0uDIM) | 4:45 | 2022-02-17 | 2023-05-26 |
 | [Ripper](https://open.spotify.com/track/1PsWZXdjF9Wprodd5u4F6n) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC) | [Ripper](https://open.spotify.com/album/5D5kHZyrBy45ryggx31az3) | 3:30 | 2022-08-19 |  |
 | [Roots Dub](https://open.spotify.com/track/0yrcb1cwkgheJ7jEcTMwsh) | [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Roots \- EP](https://open.spotify.com/album/1wLirC220sMgkHxPrwN3M2) | 4:20 | 2022-02-17 |  |

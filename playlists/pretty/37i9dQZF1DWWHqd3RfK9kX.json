@@ -1,12 +1,12 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 23064,
+  "num_followers": 23063,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjMwMTU5OTRmYmIzNzhiN2FiNmYzNmJmMTc3MWE4ODJjNTBiYjIx",
+  "snapshot_id": "MCxkYWJkMmM0MGY2NzgwZTkzMjEyOWI2YjdiNjM4NDgzN2JkYjUzZjFm",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Curanderas",
-        "url": "https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF"
-      },
-      "artists": [
-        {
-          "name": "Kelvis Ochoa",
-          "url": "https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Una De Mambo",
-      "url": "https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Bonfa Burrows Brazil",
         "url": "https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 234200,
       "name": "The Shade of the Mango Tree",
       "url": "https://open.spotify.com/track/6gdTVZdQcVN54ynCk38l5U"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
+        "url": "https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
     }
   ],
   "unique_name": "Musica per Cucinare",

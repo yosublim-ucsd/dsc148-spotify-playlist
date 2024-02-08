@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Warren Zeiders
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,827 likes - 85 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,016 likes - 85 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 84 | [This Town](https://open.spotify.com/track/0UaE4ZxrfU5TGpe4Luzf7W) | [Brittany Maggs](https://open.spotify.com/artist/7nhHQaEhJJWxz51Eey1hQ0) | [This Town](https://open.spotify.com/album/0JujBFz9ERfluY6AFqVkI9) | 3:05 |
 | 85 | [Somewhere In Mexico](https://open.spotify.com/track/6V1Lz4fHzpeQPkyA1OAVXs) | [Tori Darke](https://open.spotify.com/artist/2HzkV2TeZkSlipQVSHbzAj) | [Somewhere In Mexico](https://open.spotify.com/album/6epWsRvTYtr8LouzE0CLck) | 2:32 |
 
-Snapshot ID: `MCw5ZGI1NTFhODJmNmYwYTg3OWM4Y2QwNGUwOGQyODRlODJlNzQ3MzZk`
+Snapshot ID: `MCwyODBkYWI2NGU1Yjk4ZWQ0MmMzZTBmZDYyNmNiZWQ4NGFiYzdjMDZk`

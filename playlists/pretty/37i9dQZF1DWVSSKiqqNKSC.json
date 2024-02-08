@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 236139,
+  "num_followers": 236231,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWNlNDY4YjMzOGYzYTFkNzg2MDg0NGEyNTZjY2JjYjExMjIwNDgz",
+  "snapshot_id": "MCxhNzgwNGE2MGFmMzczNTU3Njk2MjEzMGExMTNlMzI4ZmIwNjk2Y2Uz",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Reina de la Canci\u00f3n Latina",
-        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "De Vuelta al Barrio",
         "url": "https://open.spotify.com/album/0gVY0zm89oBzVfWSpAPUu8"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "Reina de la Canci\u00f3n Latina",
+        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
+      },
+      "artists": [
+        {
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Contra Todos los Pron\u00f3sticos",
         "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
       },
@@ -711,26 +711,6 @@
       "duration_ms": 387973,
       "name": "El Aguila",
       "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Los Amigos",
-        "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Hector Casanova",
-          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
-        }
-      ],
-      "duration_ms": 382360,
-      "name": "Agua De Clavelito",
-      "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -775,6 +755,42 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "Los Amigos",
+        "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Hector Casanova",
+          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+        }
+      ],
+      "duration_ms": 382360,
+      "name": "Agua De Clavelito",
+      "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Lleg\u00f3 La Verdad (Remasterizado)",
+        "url": "https://open.spotify.com/album/0fVo66HW2xP2IiJ7Z5kRAe"
+      },
+      "artists": [
+        {
+          "name": "El Ni\u00f1o y la Verdad",
+          "url": "https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n"
+        }
+      ],
+      "duration_ms": 315520,
+      "name": "Dime Cu\u00e1nto - Remasterizado",
+      "url": "https://open.spotify.com/track/31Pwa4vxNUEtxYQIhZfc3B"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "A Lo Cubano",
         "url": "https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv"
       },
@@ -807,26 +823,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Latin Trumpets - Bolero",
-        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
-      },
-      "artists": [
-        {
-          "name": "Leo Marini",
-          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Grandes Exitos Vol. 1",
         "url": "https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9"
       },
@@ -843,18 +839,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Lleg\u00f3 La Verdad (Remasterizado)",
-        "url": "https://open.spotify.com/album/0fVo66HW2xP2IiJ7Z5kRAe"
+        "name": "Latin Trumpets - Bolero",
+        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
       "artists": [
         {
-          "name": "El Ni\u00f1o y la Verdad",
-          "url": "https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n"
+          "name": "Leo Marini",
+          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 315520,
-      "name": "Dime Cu\u00e1nto - Remasterizado",
-      "url": "https://open.spotify.com/track/31Pwa4vxNUEtxYQIhZfc3B"
+      "duration_ms": 168866,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
     }
   ],
   "unique_name": "Salsa Cubana",

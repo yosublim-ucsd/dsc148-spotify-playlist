@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: LIL LEAGUE from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,734 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,736 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 41 | [FIREWORK](https://open.spotify.com/track/5FWZ9epRluqJTzOnsayeo2) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : WE](https://open.spotify.com/album/0ouqxqCo93ccmKOXhMz3RC) | 3:08 |
 | 42 | [HANA\_花](https://open.spotify.com/track/4mTWo6hbs8SMgI4Bo2jWFl) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [TAG ME](https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau) | 3:23 |
 | 43 | [I Got It](https://open.spotify.com/track/5yHvX9AFnONMXwBhDGwJ5R) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [I Got It](https://open.spotify.com/album/1OwQ3QCxyB8QwkSPzfo4sI) | 3:20 |
-| 44 | [SOS](https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 2:56 |
-| 45 | [Vivid](https://open.spotify.com/track/3nXzWBaH6lhOksp1wu8hnL) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Vivid](https://open.spotify.com/album/326p2F8FWYrvdoVgSjLDdB) | 3:24 |
+| 44 | [Vivid](https://open.spotify.com/track/3nXzWBaH6lhOksp1wu8hnL) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Vivid](https://open.spotify.com/album/326p2F8FWYrvdoVgSjLDdB) | 3:24 |
+| 45 | [SOS](https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 2:56 |
 | 46 | [Under the skin](https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Under the skin](https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K) | 3:11 |
 | 47 | [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 |
 | 48 | [HIDEOUT](https://open.spotify.com/track/4baByqPPKuXqZqi4bim7Po) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [HIDEOUT](https://open.spotify.com/album/1nVuARtkfIuX55ZiVrlkJY) | 2:59 |
 | 49 | [Melody](https://open.spotify.com/track/495GBEvMX06OrwhCCZ7H0y) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [Melody](https://open.spotify.com/album/7C22dOSEgyvDKkVKxiSkGV) | 3:14 |
 | 50 | [コトノハ](https://open.spotify.com/track/0jNEPqWXbouIlDCEhghFXZ) | [LAST FIRST](https://open.spotify.com/artist/55KR3eoKZN5BiquvkzHl6m) | [コトノハ \(Type\-B\)](https://open.spotify.com/album/0wPo0S4BOzf72jK5BCEJoF) | 4:43 |
 
-Snapshot ID: `MCw2NzBhNTk1Nzk4NWI3NTRhMDdjOGViZjI4Yjk3MjAxZWFjNTZjYjYx`
+Snapshot ID: `MCxkYTgxYjljMzI3ZWEzNWZiNzljZDBiOWM3YjY0MTUzYmNiZWJlYTc3`

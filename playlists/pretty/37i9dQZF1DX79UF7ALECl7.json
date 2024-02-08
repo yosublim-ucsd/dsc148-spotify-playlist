@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121100,
+  "num_followers": 121107,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGYwNDJmMWM3ZjEyMzc5OWVlYmE5MThlYzcyNGI3ZWMwZGUxYzU0",
+  "snapshot_id": "MCw0YjliYzIwNjNmNjU3ZTA4YWI4MjAyZmJmMWE2YmFiZGQwMzlmZjQ3",
   "tracks": [
     {
       "added_at": "2024-02-01 23:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Stained Teeth",
-        "url": "https://open.spotify.com/album/1uMVz2UZV5zbRYuPMVcTAA"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 165610,
-      "name": "Stained Teeth",
-      "url": "https://open.spotify.com/track/0Bcvsr304OHC9ZpBJIuFY1"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Eladio",
         "url": "https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 138100,
       "name": "Eladio",
       "url": "https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Stained Teeth",
+        "url": "https://open.spotify.com/album/1uMVz2UZV5zbRYuPMVcTAA"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 165610,
+      "name": "Stained Teeth",
+      "url": "https://open.spotify.com/track/0Bcvsr304OHC9ZpBJIuFY1"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -283,6 +283,26 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Another Place",
+        "url": "https://open.spotify.com/album/6YvKLZvsYRrByFzav0tlii"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "\u00c9milie Rachel",
+          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
+        }
+      ],
+      "duration_ms": 147879,
+      "name": "Another Place",
+      "url": "https://open.spotify.com/track/1eLHMmz57mVUI3ntLjO0yW"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Storm in a Teacup",
         "url": "https://open.spotify.com/album/7I0uNZXs5RK3FGDUefK2S0"
       },
@@ -343,22 +363,18 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Another Place",
-        "url": "https://open.spotify.com/album/6YvKLZvsYRrByFzav0tlii"
+        "name": "Reconnect",
+        "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
       },
       "artists": [
         {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        },
-        {
-          "name": "\u00c9milie Rachel",
-          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
         }
       ],
-      "duration_ms": 147879,
-      "name": "Another Place",
-      "url": "https://open.spotify.com/track/1eLHMmz57mVUI3ntLjO0yW"
+      "duration_ms": 193377,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -375,22 +391,6 @@
       "duration_ms": 542983,
       "name": "Let Love Find Itself",
       "url": "https://open.spotify.com/track/6NLzOMEhcY7jBTHMxZf1Pn"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Reconnect",
-        "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 193377,
-      "name": "Elsewhere",
-      "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
+        "name": "Parrot Fever",
+        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
       },
       "artists": [
         {
-          "name": "Aydin Genchsoy",
-          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+          "name": "Kazam",
+          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
+      "duration_ms": 268474,
+      "name": "Parrot Fever",
+      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Parrot Fever",
-        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
       },
       "artists": [
         {
-          "name": "Kazam",
-          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
+          "name": "Aydin Genchsoy",
+          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
         }
       ],
-      "duration_ms": 268474,
-      "name": "Parrot Fever",
-      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
+      "duration_ms": 264000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -955,6 +955,26 @@
       "duration_ms": 210000,
       "name": "Cherry Skies",
       "url": "https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
+      },
+      "artists": [
+        {
+          "name": "Swann Decamme",
+          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
+        },
+        {
+          "name": "Oktave",
+          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
+        }
+      ],
+      "duration_ms": 415903,
+      "name": "Resilience",
+      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -983,26 +1003,6 @@
       "duration_ms": 213611,
       "name": "Don't Stop the Dance - Kraak & Smaak Radio Edit",
       "url": "https://open.spotify.com/track/1zoI4kALck0KVXw8wYJEfY"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
-      },
-      "artists": [
-        {
-          "name": "Swann Decamme",
-          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
-        },
-        {
-          "name": "Oktave",
-          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
-        }
-      ],
-      "duration_ms": 415903,
-      "name": "Resilience",
-      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Infinity (The Remixes)",
+        "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
+      },
+      "artists": [
+        {
+          "name": "Bluma Petersen",
+          "url": "https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h"
+        },
+        {
+          "name": "SLCT",
+          "url": "https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM"
+        }
+      ],
+      "duration_ms": 176356,
+      "name": "Infinity (SLCT Remix) (Instrumental Version)",
+      "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Messin' Around (Mogul Remix)",
         "url": "https://open.spotify.com/album/29hveGpUSeZEDiYOw78PdX"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 233626,
       "name": "Messin' Around - Mogul Remix",
       "url": "https://open.spotify.com/track/2MuVffmR9wAEFbXFyd75W8"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Infinity (The Remixes)",
-        "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
-      },
-      "artists": [
-        {
-          "name": "Bluma Petersen",
-          "url": "https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h"
-        },
-        {
-          "name": "SLCT",
-          "url": "https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM"
-        }
-      ],
-      "duration_ms": 176356,
-      "name": "Infinity (SLCT Remix) (Instrumental Version)",
-      "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Such It Goes",
+        "url": "https://open.spotify.com/album/4u2ZlIFMiHYmrAqF4QLEvn"
+      },
+      "artists": [
+        {
+          "name": "Deeparture",
+          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
+        }
+      ],
+      "duration_ms": 482595,
+      "name": "Such It Goes",
+      "url": "https://open.spotify.com/track/4wrGyMDAvCNoLSxqUZnrsl"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Astro Reescrituras",
         "url": "https://open.spotify.com/album/29sunXe011nEVfz7Yzo7zN"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 257183,
       "name": "Religar - Chancha Via Circuito Remix",
       "url": "https://open.spotify.com/track/0jlscRIgKn35uudF8MP17p"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Such It Goes",
-        "url": "https://open.spotify.com/album/4u2ZlIFMiHYmrAqF4QLEvn"
-      },
-      "artists": [
-        {
-          "name": "Deeparture",
-          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
-        }
-      ],
-      "duration_ms": 482595,
-      "name": "Such It Goes",
-      "url": "https://open.spotify.com/track/4wrGyMDAvCNoLSxqUZnrsl"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "small talk",
-        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 325680,
-      "name": "small talk",
-      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/08SC4H56dAvQNwqhbOo18k"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 191005,
       "name": "Always",
       "url": "https://open.spotify.com/track/2PXDK2k7QSjGLfzBjuZ1hw"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "small talk",
+        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 325680,
+      "name": "small talk",
+      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Natural Movement",
+        "url": "https://open.spotify.com/album/0941GANXhb8APHznuCcs2A"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 317288,
+      "name": "Back 2 It",
+      "url": "https://open.spotify.com/track/40Gj3bu6XqTM6dm6qrVMgy"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "No More / You Like Me",
         "url": "https://open.spotify.com/album/2J3FizlVKqLcGKYCYP3KNc"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 158563,
       "name": "No More",
       "url": "https://open.spotify.com/track/1XHCxvbJuVLd6n8Tj9oiCy"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Natural Movement",
-        "url": "https://open.spotify.com/album/0941GANXhb8APHznuCcs2A"
-      },
-      "artists": [
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 317288,
-      "name": "Back 2 It",
-      "url": "https://open.spotify.com/track/40Gj3bu6XqTM6dm6qrVMgy"
     },
     {
       "added_at": "2024-02-01 23:00:00",

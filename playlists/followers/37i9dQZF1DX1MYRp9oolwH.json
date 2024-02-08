@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 117891,
+  "2024-02-08": 117946,
   "date_first_scraped": "2023-02-14",
   "description": "Bringing out the best of latest love tracks\nCover : Eagle",
   "name": "Latest Romance Telugu",
@@ -1091,6 +1091,32 @@
       "duration_ms": 279711,
       "name": "Gaalullona",
       "url": "https://open.spotify.com/track/7m6QxmoYOjxyVQyLcIC3gX"
+    },
+    {
+      "album": {
+        "name": "Gaganaala-Love is in the Air (From \"Operation Valentine\") (Telugu)",
+        "url": "https://open.spotify.com/album/4ZoE4BJJndX6iXdJSNOpar"
+      },
+      "artists": [
+        {
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230425,
+      "name": "Gaganaala-Love is in the Air (From \"Operation Valentine\") (Telugu)",
+      "url": "https://open.spotify.com/track/3laPdjIsdYtkilT6c5N1dn"
     },
     {
       "album": {
@@ -3103,7 +3129,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 305130,
       "name": "Ninnu Vadhali (From \"Narakasura\")",
       "url": "https://open.spotify.com/track/76nwh50rEAPTg4I2KYLwiY"

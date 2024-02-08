@@ -1,12 +1,12 @@
 {
   "description": "When you know, you know. Eclectic love songs with delicate lyrics that say it best.",
-  "num_followers": 250132,
+  "num_followers": 250211,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjJjOTA2ZTkwNDE4MWUzYmRkZjNhNzY4ZWIzZjEwZTY4MzZhYjUy",
+  "snapshot_id": "MCwyYmJhMGZmMzk0MWU3MzkwMTQ0MTgxNzM4ZmI0YWE4OTY0OTZkNDcx",
   "tracks": [
     {
       "added_at": "2024-02-05 20:18:45",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-02-05 20:18:45",
       "album": {
-        "name": "So Tonight That I Might See",
-        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
-      },
-      "artists": [
-        {
-          "name": "Mazzy Star",
-          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
-        }
-      ],
-      "duration_ms": 295600,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
-    },
-    {
-      "added_at": "2024-02-05 20:18:45",
-      "album": {
         "name": "Good Looking",
         "url": "https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 214800,
       "name": "Good Looking",
       "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
+    },
+    {
+      "added_at": "2024-02-05 20:18:45",
+      "album": {
+        "name": "So Tonight That I Might See",
+        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
+      },
+      "artists": [
+        {
+          "name": "Mazzy Star",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+        }
+      ],
+      "duration_ms": 295600,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
     },
     {
       "added_at": "2024-02-05 20:18:45",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-02-05 20:18:45",
       "album": {
-        "name": "I'm Wide Awake, It's Morning",
-        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
+        "name": "Tiny Moves",
+        "url": "https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6"
       },
       "artists": [
         {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 188877,
-      "name": "First Day of My Life",
-      "url": "https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd"
+      "duration_ms": 228381,
+      "name": "Tiny Moves",
+      "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"
     },
     {
       "added_at": "2024-02-05 20:18:45",
@@ -567,34 +567,18 @@
     {
       "added_at": "2024-02-05 20:18:45",
       "album": {
-        "name": "Tiny Moves",
-        "url": "https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6"
+        "name": "I'm Wide Awake, It's Morning",
+        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
         }
       ],
-      "duration_ms": 228381,
-      "name": "Tiny Moves",
-      "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"
-    },
-    {
-      "added_at": "2024-02-05 20:18:45",
-      "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
+      "duration_ms": 188877,
+      "name": "First Day of My Life",
+      "url": "https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd"
     },
     {
       "added_at": "2024-02-05 20:18:45",
@@ -611,6 +595,22 @@
       "duration_ms": 229325,
       "name": "Love song",
       "url": "https://open.spotify.com/track/5tyMJlMqaggzvuX7TtlrTe"
+    },
+    {
+      "added_at": "2024-02-05 20:18:45",
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
     },
     {
       "added_at": "2024-02-05 20:18:45",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-02-05 20:18:45",
       "album": {
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
+    },
+    {
+      "added_at": "2024-02-05 20:18:45",
+      "album": {
         "name": "Overgrown",
         "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 223600,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
-    },
-    {
-      "added_at": "2024-02-05 20:18:45",
-      "album": {
-        "name": "Yoshimi Battles the Pink Robots",
-        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Do You Realize??",
-      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
     },
     {
       "added_at": "2024-02-05 20:18:45",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-02-05 20:18:45",
       "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+        "name": "Yoshimi Battles the Pink Robots",
+        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
       },
       "artists": [
         {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
         }
       ],
-      "duration_ms": 152613,
-      "name": "Naked as We Came",
-      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
+      "duration_ms": 213173,
+      "name": "Do You Realize??",
+      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
     },
     {
       "added_at": "2024-02-05 20:18:45",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-02-05 20:18:45",
       "album": {
-        "name": "I Just Wanna Feel Your Love Again",
-        "url": "https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 241166,
-      "name": "I Just Wanna Feel Your Love Again",
-      "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
-    },
-    {
-      "added_at": "2024-02-05 20:18:45",
-      "album": {
         "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
         "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 248964,
       "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
       "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
+    },
+    {
+      "added_at": "2024-02-05 20:18:45",
+      "album": {
+        "name": "I Just Wanna Feel Your Love Again",
+        "url": "https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 241166,
+      "name": "I Just Wanna Feel Your Love Again",
+      "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
     },
     {
       "added_at": "2024-02-05 20:18:45",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-02-05 20:18:45",
       "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 155083,
-      "name": "Love Between...",
-      "url": "https://open.spotify.com/track/128I36bDgYHU9l2QcgEGcd"
-    },
-    {
-      "added_at": "2024-02-05 20:18:45",
-      "album": {
         "name": "So My Darling (Acoustic)",
         "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 228922,
       "name": "So My Darling - Acoustic",
       "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
+    },
+    {
+      "added_at": "2024-02-05 20:18:45",
+      "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 155083,
+      "name": "Love Between...",
+      "url": "https://open.spotify.com/track/128I36bDgYHU9l2QcgEGcd"
     },
     {
       "added_at": "2024-02-05 20:18:45",
@@ -1091,6 +1091,22 @@
       "duration_ms": 139466,
       "name": "Sea of Love",
       "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+    },
+    {
+      "added_at": "2024-02-05 20:18:45",
+      "album": {
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "To Be Alone With You",
+      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
     },
     {
       "added_at": "2024-02-05 20:18:45",
@@ -1147,18 +1163,30 @@
     {
       "added_at": "2024-02-05 20:18:45",
       "album": {
-        "name": "Seven Swans",
-        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 168040,
-      "name": "To Be Alone With You",
-      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
+      "duration_ms": 294626,
+      "name": "We're In Love",
+      "url": "https://open.spotify.com/track/5eoy62yFNJAli6AyKK5qnH"
     },
     {
       "added_at": "2024-02-05 20:18:45",
@@ -1191,34 +1219,6 @@
       "duration_ms": 173266,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
-    },
-    {
-      "added_at": "2024-02-05 20:18:45",
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 294626,
-      "name": "We're In Love",
-      "url": "https://open.spotify.com/track/5eoy62yFNJAli6AyKK5qnH"
     },
     {
       "added_at": "2024-02-05 20:18:45",

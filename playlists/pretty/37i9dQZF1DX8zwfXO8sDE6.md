@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,975 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,006 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 49 | [冥想](https://open.spotify.com/track/19eBNpSJYXIs1aaS7wKHxQ) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [夏夜のドライブソング](https://open.spotify.com/album/3w5fOCqpLezqbdAmlzM2jn) | 4:08 |
 | 50 | [キッシング・フィッシュ \- 2017 リマスター](https://open.spotify.com/track/1z5DFbLuxGIyGZ475T2L7v) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Kissing Fish \(2017 リマスター\)](https://open.spotify.com/album/0lYuIvIxDgtshJa2CUjMTQ) | 4:39 |
 
-Snapshot ID: `MCw5NzhmM2RiMTdiY2ZhMDMwYjE1NDQ3NTQ0ZDA2NmIzYjc5YjZmNTFm`
+Snapshot ID: `MCxiYmQ4NzA2Y2MzYjE3MGE5MzI5MDc4ZTY4YWMyYTI4ZDBmZDI0NWUx`

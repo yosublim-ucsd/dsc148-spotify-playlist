@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,605 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,644 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,23 +65,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 55 | [Melatonin](https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Soft Life](https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV) | 2:12 |
 | 56 | [Stay In Bed](https://open.spotify.com/track/1ZRiNz4OJFI1oJ8A5EBA7k) | [Zap Strap](https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN) | [Stay In Bed](https://open.spotify.com/album/3US880QWOU3JqaIOguUilz) | 2:04 |
 | 57 | [Home Soon](https://open.spotify.com/track/0plIIWDys4UBGmura01RpY) | [yuzu blur](https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R) | [Home Soon](https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k) | 2:24 |
-| 58 | [Distant](https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:24 |
-| 59 | [cold door handles](https://open.spotify.com/track/6JMR13j2R0YAVReTSMzryz) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [nobody else](https://open.spotify.com/album/3aHZpDjLZLWpGD9qJyFPAW) | 2:26 |
-| 60 | [We Are Safe Here](https://open.spotify.com/track/54hB5NjjtjCMkfY7yaF9dR) | [fantompower](https://open.spotify.com/artist/6psQOFgr41pQ2CiL2CCi47) | [Summertime and the Livings Easier.](https://open.spotify.com/album/54jpEU6GWZmrbmicr1JYCP) | 2:11 |
-| 61 | [Timeless](https://open.spotify.com/track/0ggWXuDQjK8EoQAFWQkJHX) | [Floreyyyy](https://open.spotify.com/artist/2fMMmMEc0ZPVLNggWnomXv) | [Timeless](https://open.spotify.com/album/6myBiEX4iPLOWQpGOVqXZm) | 2:28 |
-| 62 | [same stars](https://open.spotify.com/track/0XFp0z42T0x3s3qxidqvTE) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js) | [if you're reading this ily](https://open.spotify.com/album/5WZFEyUjIgJL8iV04b9pwp) | 1:56 |
-| 63 | [Keep On Going](https://open.spotify.com/track/1t2o9QX8hlJGEQ4DA1oLNw) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Keep On Going](https://open.spotify.com/album/66bMNbYRV8vuMEbELg1UpD) | 2:40 |
-| 64 | [But of All We Did Together, Was It Worth It?](https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Prelude to the Dawn](https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS) | 2:34 |
-| 65 | [Frostthrone](https://open.spotify.com/track/50wKmfNUZppZJsAunClnYF) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Madson Project.](https://open.spotify.com/artist/7dEFLdpxjmqhnv5ePvCTP7) | [Frostthrone](https://open.spotify.com/album/3WvdfonSJ1Rjz7hxHUcxcl) | 3:48 |
-| 66 | [Woozy](https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Adomania](https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D) | 1:30 |
-| 67 | [Bloom](https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:01 |
-| 68 | [dreary](https://open.spotify.com/track/1vepEjDDLAY1bNyxupZ4Ae) | [Gnavis](https://open.spotify.com/artist/5GArPXRmy5WUjYkkc0KVbp) | [diary 2018](https://open.spotify.com/album/4G6jljdW4ExppmD5dxfGHA) | 2:04 |
-| 69 | [mangos](https://open.spotify.com/track/2d2ZOEYuXYnvdW7ZA3ZyRS) | [mindbody&beats](https://open.spotify.com/artist/09ziI4OFiSlExXt4CE3NLB) | [sundays.](https://open.spotify.com/album/5RqAijRRjT6vk53rvV3jTh) | 2:00 |
-| 70 | [Stella's Story](https://open.spotify.com/track/5mKWuGgnZDnpl9wGKpwMDY) | [Dream Easy Collective](https://open.spotify.com/artist/2bRzONoPyFw0BNqra5Focz), [Kendall Miles](https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2) | [Palettes](https://open.spotify.com/album/1uP9SkTbdd8TCugL6cVbAz) | 1:32 |
-| 71 | [Memories Fade](https://open.spotify.com/track/25EgaBai9ozYbPtHVbsu8M) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Memories Fade](https://open.spotify.com/album/2nR1dUZXdvlBkcYzkRuloW) | 2:27 |
-| 72 | [Gone](https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS) | [Cinemotional, Vol\. 2](https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf) | 2:03 |
-| 73 | [Don't Give Up](https://open.spotify.com/track/4ng1XfVomFP5xGYna6FLpR) | [Madson Project.](https://open.spotify.com/artist/7dEFLdpxjmqhnv5ePvCTP7), [Jack Cates](https://open.spotify.com/artist/555ddcMCcd9HAWnP5HuklH) | [If You Want Me](https://open.spotify.com/album/6QCAulBTfwAfkXbJYkTf2D) | 2:51 |
-| 74 | [talk it out](https://open.spotify.com/track/2KCqN5JT7Q0acXwUj13UFP) | [Rob Smyles](https://open.spotify.com/artist/6KIclyZuF2o55kSUaiRe5P) | [Babymakers](https://open.spotify.com/album/3hFsnrRLJcA7a3uT0DaTip) | 3:31 |
-| 75 | [memories of u](https://open.spotify.com/track/64VWsh5helyoWopibmzXmf) | [drrreems](https://open.spotify.com/artist/5JaZBeFp8gpQZVR20WYQhc) | [memories of u](https://open.spotify.com/album/6rI3ZkZYNY8Sn2l0HL06c9) | 1:56 |
+| 58 | [cold door handles](https://open.spotify.com/track/6JMR13j2R0YAVReTSMzryz) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [nobody else](https://open.spotify.com/album/3aHZpDjLZLWpGD9qJyFPAW) | 2:26 |
+| 59 | [We Are Safe Here](https://open.spotify.com/track/54hB5NjjtjCMkfY7yaF9dR) | [fantompower](https://open.spotify.com/artist/6psQOFgr41pQ2CiL2CCi47) | [Summertime and the Livings Easier.](https://open.spotify.com/album/54jpEU6GWZmrbmicr1JYCP) | 2:11 |
+| 60 | [Timeless](https://open.spotify.com/track/0ggWXuDQjK8EoQAFWQkJHX) | [Floreyyyy](https://open.spotify.com/artist/2fMMmMEc0ZPVLNggWnomXv) | [Timeless](https://open.spotify.com/album/6myBiEX4iPLOWQpGOVqXZm) | 2:28 |
+| 61 | [same stars](https://open.spotify.com/track/0XFp0z42T0x3s3qxidqvTE) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js) | [if you're reading this ily](https://open.spotify.com/album/5WZFEyUjIgJL8iV04b9pwp) | 1:56 |
+| 62 | [Keep On Going](https://open.spotify.com/track/1t2o9QX8hlJGEQ4DA1oLNw) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Keep On Going](https://open.spotify.com/album/66bMNbYRV8vuMEbELg1UpD) | 2:40 |
+| 63 | [But of All We Did Together, Was It Worth It?](https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Prelude to the Dawn](https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS) | 2:34 |
+| 64 | [Frostthrone](https://open.spotify.com/track/50wKmfNUZppZJsAunClnYF) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Madson Project.](https://open.spotify.com/artist/7dEFLdpxjmqhnv5ePvCTP7) | [Frostthrone](https://open.spotify.com/album/3WvdfonSJ1Rjz7hxHUcxcl) | 3:48 |
+| 65 | [Woozy](https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Adomania](https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D) | 1:30 |
+| 66 | [dreary](https://open.spotify.com/track/1vepEjDDLAY1bNyxupZ4Ae) | [Gnavis](https://open.spotify.com/artist/5GArPXRmy5WUjYkkc0KVbp) | [diary 2018](https://open.spotify.com/album/4G6jljdW4ExppmD5dxfGHA) | 2:04 |
+| 67 | [mangos](https://open.spotify.com/track/2d2ZOEYuXYnvdW7ZA3ZyRS) | [mindbody&beats](https://open.spotify.com/artist/09ziI4OFiSlExXt4CE3NLB) | [sundays.](https://open.spotify.com/album/5RqAijRRjT6vk53rvV3jTh) | 2:00 |
+| 68 | [Stella's Story](https://open.spotify.com/track/5mKWuGgnZDnpl9wGKpwMDY) | [Dream Easy Collective](https://open.spotify.com/artist/2bRzONoPyFw0BNqra5Focz), [Kendall Miles](https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2) | [Palettes](https://open.spotify.com/album/1uP9SkTbdd8TCugL6cVbAz) | 1:32 |
+| 69 | [Memories Fade](https://open.spotify.com/track/25EgaBai9ozYbPtHVbsu8M) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Memories Fade](https://open.spotify.com/album/2nR1dUZXdvlBkcYzkRuloW) | 2:27 |
+| 70 | [Gone](https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS) | [Cinemotional, Vol\. 2](https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf) | 2:03 |
+| 71 | [Don't Give Up](https://open.spotify.com/track/4ng1XfVomFP5xGYna6FLpR) | [Madson Project.](https://open.spotify.com/artist/7dEFLdpxjmqhnv5ePvCTP7), [Jack Cates](https://open.spotify.com/artist/555ddcMCcd9HAWnP5HuklH) | [If You Want Me](https://open.spotify.com/album/6QCAulBTfwAfkXbJYkTf2D) | 2:51 |
+| 72 | [talk it out](https://open.spotify.com/track/2KCqN5JT7Q0acXwUj13UFP) | [Rob Smyles](https://open.spotify.com/artist/6KIclyZuF2o55kSUaiRe5P) | [Babymakers](https://open.spotify.com/album/3hFsnrRLJcA7a3uT0DaTip) | 3:31 |
+| 73 | [memories of u](https://open.spotify.com/track/64VWsh5helyoWopibmzXmf) | [drrreems](https://open.spotify.com/artist/5JaZBeFp8gpQZVR20WYQhc) | [memories of u](https://open.spotify.com/album/6rI3ZkZYNY8Sn2l0HL06c9) | 1:56 |
+| 74 | [Bloom](https://open.spotify.com/track/2e8imHlD10TXnYsL72zEe0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/75jB03qghdIosSpN3z8QSF) | 2:01 |
+| 75 | [Distant](https://open.spotify.com/track/0sUh3Wq1Gf8K47d1E7BrtG) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/75jB03qghdIosSpN3z8QSF) | 2:24 |
 
-Snapshot ID: `MCwyZDYzZmViY2Q3Yjk1OTY1ZjJhN2I2MzY0NmQ4MmJjNjM2MWVkNGQ2`
+Snapshot ID: `MCwzNWRjMmI2MTlhMDRhYjVkOWZkOTM1MjIzMGE3OWE3ZTc3ZTA2YWQ4`

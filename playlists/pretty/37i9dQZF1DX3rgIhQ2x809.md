@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,329 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,345 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 61 | [Miko](https://open.spotify.com/track/0ITEio7vNOlNQrGv0eTaRH) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Miko](https://open.spotify.com/album/2WbddxAsbB0puaya03zbpo) | 2:15 |
 | 62 | [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 |
 | 63 | [Después Del Party](https://open.spotify.com/track/4AanOfVKkQKYRe4nbcaVaG) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:42 |
-| 64 | [TRAPPHONE](https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [TRAPPHONE](https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk) | 1:47 |
-| 65 | [La Familia](https://open.spotify.com/track/52ANZNLGCbf8IKin6sQYIk) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [La Exce](https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj) | [La Familia](https://open.spotify.com/album/3A35XT91xoDYsujfeGQFou) | 3:17 |
+| 64 | [La Familia](https://open.spotify.com/track/52ANZNLGCbf8IKin6sQYIk) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [La Exce](https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj) | [La Familia](https://open.spotify.com/album/3A35XT91xoDYsujfeGQFou) | 3:17 |
+| 65 | [TRAPPHONE](https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [TRAPPHONE](https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk) | 1:47 |
 | 66 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 |
 | 67 | [Ronca](https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Ronca](https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw) | 2:25 |
 | 68 | [Toma](https://open.spotify.com/track/48iWXYdWMFNenABULLtopW) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Toma](https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF) | 2:42 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 79 | [MARTINI](https://open.spotify.com/track/6gsAVrXRQvry6mzcobdULV) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MARTINI](https://open.spotify.com/album/7m5EsYbaRK4g6DQvmidbd5) | 3:05 |
 | 80 | [Tesoro Mío](https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK) | [Yan Collazo](https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tesoro Mío](https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD) | 4:02 |
 | 81 | [TAYYA](https://open.spotify.com/track/0PmACpKJ9LCTSC9jWnMqen) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [TAYYA](https://open.spotify.com/album/2LuYJPF8X45qRlUJb5vfGv) | 2:40 |
-| 82 | [Labios](https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP) | [Joonti](https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj) | [Labios](https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82) | 2:46 |
-| 83 | [Problema](https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Problema](https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR) | 3:45 |
+| 82 | [Problema](https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Problema](https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR) | 3:45 |
+| 83 | [Labios](https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP) | [Joonti](https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj) | [Labios](https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82) | 2:46 |
 | 84 | [Billete](https://open.spotify.com/track/1V8dcvEweRwM8vKnYCM9Ib) | [Chen](https://open.spotify.com/artist/7423k6QcqqvAjsxVn0wlQu) | [Billete](https://open.spotify.com/album/5NFXVrsAd6Mm5TT6ubMQCJ) | 2:43 |
 | 85 | [Amiga](https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:45 |
 | 86 | [Arte](https://open.spotify.com/track/4rAqN1N4r2tn6ixEgJP7Q7) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Arte](https://open.spotify.com/album/531LZb17gcTf6iu8wIc7kt) | 3:12 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 97 | [La Bebecita](https://open.spotify.com/track/1ixrtbkdlkVQnYusBAsIBQ) | [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc) | [Las Criaturas: El Regreso](https://open.spotify.com/album/3dDKCvYJNViQvZTLMcNank) | 3:51 |
 | 98 | [En Mis Sueños](https://open.spotify.com/track/0CyBQFxnc2OQIZ2AVxDxLy) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 3:36 |
 | 99 | [Nena Buena](https://open.spotify.com/track/1LipU0DjCXaCK8yBfmglm6) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Nena Buena](https://open.spotify.com/album/6H0y2FOaj4tPcZTQ1VRTUU) | 3:28 |
-| 100 | [Por Amor](https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn) | [TIVGO Cruz](https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW) | [Por Amor](https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2) | 3:04 |
+| 100 | [For You](https://open.spotify.com/track/0Bvaux1uoiR3ID2C9rMzxB) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [For You](https://open.spotify.com/album/7mwjFFFHrC2r2oCpnoMHR4) | 2:30 |
 
-Snapshot ID: `MCwyYzhlMmIyNzEzMDAxNDU3NDhlZTQxNGMwZDY4NTVjNTEwMTVjZGMy`
+Snapshot ID: `MCxlNTI3OGUxODFiNjUxMzExZTU1OWQ1YmQ3NTE3YjgxZmU5YTBiOGE3`

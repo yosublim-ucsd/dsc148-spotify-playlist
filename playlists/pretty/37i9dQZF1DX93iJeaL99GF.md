@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,145 likes - 40 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,185 likes - 40 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 | 39 | [Lokada Kalaji](https://open.spotify.com/track/2HHnW1zEozzxU9spZVGO5I) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc) | [Jag Changa](https://open.spotify.com/album/6zeb7EfUZzNJ6YJTmeIL0V) | 4:53 |
 | 40 | [Teri Meri Zindagi](https://open.spotify.com/track/3jHP1XTax79oBQN2WB2Zsv) | [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV), [Kavya Jones](https://open.spotify.com/artist/1lydwiD3rVjbuurDYXpbXi) | [Teri Meri Zindagi](https://open.spotify.com/album/2AMpMNsHdraGYj1wigyZIm) | 3:28 |
 
-Snapshot ID: `MCwwNDVlMDdmOWYzNzcxYWZiYjUzOTM0MGRkN2E4NjlhZWFiNmFhNmE5`
+Snapshot ID: `MCw5Zjc2YzBmMTNkYzJkY2RkOWQwZGUyYmIxYjZkYTA5Mzc2MTdiOWUz`

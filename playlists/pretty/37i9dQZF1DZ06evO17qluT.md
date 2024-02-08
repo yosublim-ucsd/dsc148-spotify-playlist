@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,912 likes - 42 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,959 likes - 42 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 41 | [Lance Criminoso \(feat\. BK\)](https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Lance Criminoso \(feat\. BK\)](https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy) | 3:54 |
 | 42 | [Julius](https://open.spotify.com/track/525iKRpCJuNRyA5OTUNzla) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 4:11 |
 
-Snapshot ID: `Mjg0NTM2OTEsMDAwMDAwMDBmYzUzNzE5OTJjZDJhYjE3OGVjN2ZmNDRjZjQ0ZGExNg==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDAyMjc1MDA3MmVjMTdlNzBhMjVjZTBkY2M5OGJmMWUyYw==`

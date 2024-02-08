@@ -1,12 +1,12 @@
 {
   "description": "New indie driving the current. Cover: hemlocke springs",
-  "num_followers": 41923,
+  "num_followers": 42082,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWYxNWM1YTBlZjU3ZTFiMGMxZDk4ODlhNzliZWVlODZlNDE0OWEy",
+  "snapshot_id": "MCw1MjgyM2IzYzM3ZmRlYmViM2IzZmE1NDEzYzI5N2RhZjJmNzAzNmU4",
   "tracks": [
     {
       "added_at": "2024-01-19 16:56:42",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-01-19 16:56:42",
       "album": {
-        "name": "shutting me out / goo lagoon",
-        "url": "https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 146080,
-      "name": "shutting me out",
-      "url": "https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi"
-    },
-    {
-      "added_at": "2024-01-19 16:56:42",
-      "album": {
         "name": "killer",
         "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 176876,
       "name": "killer",
       "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
+    },
+    {
+      "added_at": "2024-01-19 16:56:42",
+      "album": {
+        "name": "shutting me out / goo lagoon",
+        "url": "https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 146080,
+      "name": "shutting me out",
+      "url": "https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi"
     },
     {
       "added_at": "2024-01-19 16:56:42",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-01-19 16:56:42",
       "album": {
+        "name": "Maybe I\u2019m Lonely",
+        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 152141,
+      "name": "Maybe I\u2019m Lonely",
+      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
+    },
+    {
+      "added_at": "2024-01-19 16:56:42",
+      "album": {
         "name": "no way out",
         "url": "https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 113624,
       "name": "no way out",
       "url": "https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX"
-    },
-    {
-      "added_at": "2024-01-19 16:56:42",
-      "album": {
-        "name": "coogie",
-        "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 189514,
-      "name": "coogie",
-      "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
     }
   ],
   "unique_name": "Indie Frequency",

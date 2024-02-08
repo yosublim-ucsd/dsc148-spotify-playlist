@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 
 > This is Ana Bárbara\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,937 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,952 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 49 | [Y Siempre](https://open.spotify.com/track/3N3G4GKbHlkRfktCuNV5Ul) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ay, Amor](https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz) | 3:50 |
 | 50 | [Ven a Cantar](https://open.spotify.com/track/5mldPrwCyzAlq9fNsi5aYg) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ven a Cantar](https://open.spotify.com/album/3HzOOi5kJxfrCpbX96L82F) | 4:21 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDBlZDQ2N2U3ZDZmMjA5OGE2NWJiMmMwYzU3NTZjYWQ3Nw==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDBhM2U1NWQ3YjJmNDA5NTg2MmRmOTU2NWUwY2Q1YjQ5Mg==`

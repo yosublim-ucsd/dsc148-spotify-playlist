@@ -2,9 +2,9 @@
 
 ### [Frecuencia Pop](https://open.spotify.com/playlist/37i9dQZF1DXbDPWblNlzy4)
 
-> Los éxitos más POPulares en español los encuentras aquí\. Foto: Greeicy
+> Los éxitos más POPulares en español los encuentras aquí\. Foto: Camilo & Evaluna Montaner
 
-239 songs - 12 hr 31 min
+241 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Ella](https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [ÁNGEL](https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N) | 3:07 | 2023-11-10 |  |
 | [en el pasado](https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [en el pasado](https://open.spotify.com/album/78EFQKhgET0w845QMun4na) | 3:43 | 2023-09-01 | 2023-10-01 |
 | [En Qué Planeta](https://open.spotify.com/track/4oEfPKL5ccBOR0wQhhpNX0) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [En Qué Planeta](https://open.spotify.com/album/5aCkxf8INZurAEDGBDk6Ur) | 2:52 | 2023-03-17 | 2023-04-29 |
-| [Enemigos](https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Enemigos](https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv) | 2:37 | 2023-11-10 |  |
+| [Enemigos](https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Enemigos](https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv) | 2:37 | 2023-11-10 | 2024-02-08 |
 | [ENERO](https://open.spotify.com/track/6bhGPHYdiNKUTSl7ASxJ67) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [ENERO](https://open.spotify.com/album/65VDilXxBlKu1DZE94rYsx) | 3:09 | 2023-03-17 | 2023-04-22 |
 | [Enfocado](https://open.spotify.com/track/0FvENwVY1jcqwyVjM367Mo) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:36 | 2023-04-28 | 2023-11-25 |
 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 | 2023-03-17 | 2023-03-25 |
@@ -100,7 +100,7 @@
 | [Fría](https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Fría](https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ) | 2:56 | 2024-02-02 |  |
 | [Fuego de Noche, Nieve de Día](https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Fuego de Noche, Nieve de Día](https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos) | 4:42 | 2023-09-22 |  |
 | [Fórmula 1](https://open.spotify.com/track/0LxCc5e6eYqCytwaiXDTXB) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Fórmula 1](https://open.spotify.com/album/03AqKstdfmHhXioC73KQ3B) | 2:37 | 2023-04-21 | 2023-05-27 |
-| [Golpes Contra Las Paredes](https://open.spotify.com/track/4pbOoaHqU4xaxqgjNZQunP) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Golpes Contra Las Paredes](https://open.spotify.com/album/7dz4YX7KleW1rR5YQInKog) | 3:10 | 2023-11-24 |  |
+| [Golpes Contra Las Paredes](https://open.spotify.com/track/4pbOoaHqU4xaxqgjNZQunP) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Golpes Contra Las Paredes](https://open.spotify.com/album/7dz4YX7KleW1rR5YQInKog) | 3:10 | 2023-11-24 | 2024-02-08 |
 | [Guaro](https://open.spotify.com/track/57sG0muDy6txXqYFBlcA6y) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Guaro](https://open.spotify.com/album/1D8eQxCxhoMcNB7XwNl468) | 1:58 | 2023-03-17 | 2023-10-30 |
 | [Hasta Por La Mañana](https://open.spotify.com/track/2XTcif4p4qS5oXWtcnBzhK) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Hasta Por La Mañana](https://open.spotify.com/album/268Ka9r2r5AQInpvhNQgcQ) | 2:51 | 2023-07-21 | 2023-10-07 |
 | [Hora Loca](https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:11 | 2023-09-22 | 2023-11-06 |
@@ -187,6 +187,8 @@
 | [Pasa](https://open.spotify.com/track/7GiOdC9H2U4jxp4qcNp5nA) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [VIAJANTE](https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h) | 3:13 | 2023-03-17 | 2023-08-19 |
 | [Pasa\_je\_ro](https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pasa\_je\_ro](https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI) | 4:07 | 2023-06-23 | 2023-09-23 |
 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 | 2023-11-24 |  |
+| [Perra Melancólica](https://open.spotify.com/track/1oz56HcDz9gNaN659hDg3Z) | [LA GURÚ](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [GURUNDANGA](https://open.spotify.com/album/6w2Fmjyrv5Vhs6ll216FQA) | 4:00 | 2024-02-08 |  |
+| [PLIS](https://open.spotify.com/track/1regh1ryWna3MRTKu401uD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:42 | 2024-02-08 |  |
 | [Plástico](https://open.spotify.com/track/7IdpZfT9vIWTEEA1pFGJNN) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Plástico](https://open.spotify.com/album/7L8mnNljgSj1MDAKnww7S9) | 2:49 | 2023-03-17 | 2023-03-25 |
 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2023-03-17 |  |
 | [Por La Forma En Que Me Miras](https://open.spotify.com/track/4UfehNZcYmHX8ctXwiOB89) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Por La Forma En Que Me Miras](https://open.spotify.com/album/7y3u55UCDkR0Naaq2A0Xir) | 3:13 | 2023-09-01 | 2023-10-01 |

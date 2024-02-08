@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 136875,
+  "num_followers": 137173,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzk3NWI0MjE5ODkzYzVjMGVjNzA5MWZlMzgyZjk0NjA0OWZkOGE2",
+  "snapshot_id": "MCxmODIzOGE1NGI1ZjZlMWRhNzBmNGQ5YmI1NTdkMWQ1MTUwYTRhOWZh",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:16",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "This Is Not A Test",
+        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Love Broke Thru",
+      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "All Things Work Together",
         "url": "https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 217506,
       "name": "I'll Find You (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/6m60IwLIkZ2Fmz4J9FsQ1o"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "This Is Not A Test",
-        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Love Broke Thru",
-      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "The Elements",
-        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 223946,
-      "name": "I just need U.",
-      "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 251714,
       "name": "Love Theory",
       "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "The Elements",
+        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 223946,
+      "name": "I just need U.",
+      "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
     },
     {
       "added_at": "2023-02-07 17:43:16",

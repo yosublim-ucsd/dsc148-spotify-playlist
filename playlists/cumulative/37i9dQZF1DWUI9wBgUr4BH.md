@@ -4,7 +4,7 @@
 
 > Les hits de demain sont déjà ici\. Photo : P!nk
 
-249 songs - 12 hr 23 min
+250 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 | 2024-01-25 |  |
 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 | 2023-08-21 | 2023-10-21 |
 | [Celular](https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Celular](https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd) | 2:56 | 2023-07-27 | 2023-09-29 |
+| [Ceux qu'on était](https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy), [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD) | 2:54 | 2024-02-07 |  |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-07-27 | 2023-10-06 |
 | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6) | 3:27 | 2023-08-31 | 2023-09-29 |
 | [Choose Your Fighter](https://open.spotify.com/track/7lcuUkp4LjPflvzPjemDzw) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:17 | 2023-07-27 | 2023-09-29 |
@@ -77,7 +78,7 @@
 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R) | 2:44 | 2024-01-04 | 2024-01-12 |
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-27 | 2023-09-01 |
 | [Dreaming](https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Dreaming](https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK) | 2:50 | 2023-11-09 |  |
-| [Drifté](https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW) | 2:40 | 2023-11-23 |  |
+| [Drifté](https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW) | 2:40 | 2023-11-23 | 2024-02-08 |
 | [El Jefe](https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Jefe](https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X) | 2:50 | 2023-10-05 | 2023-10-21 |
 | [Ensemble](https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:02 | 2023-12-07 | 2023-12-22 |
 | [Everybody \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:00 | 2023-12-14 |  |

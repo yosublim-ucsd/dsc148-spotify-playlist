@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Hovvdy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,270,301 likes - 175 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,270,335 likes - 175 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 82 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
 | 83 | [BYE BYE](https://open.spotify.com/track/4K2hu1I4tuRpgDLiNTTEi2) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [BYE BYE](https://open.spotify.com/album/5zve9HuTTyhYyDW5gnjpi7) | 4:14 |
 | 84 | [Millionaires](https://open.spotify.com/track/6ZKOPiVB7POP9XZBya1Gm5) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millionaires](https://open.spotify.com/album/68XR6FyZCuE20QBkQUvVFL) | 3:00 |
-| 85 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
+| 85 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 |
 | 86 | [The Racket](https://open.spotify.com/track/2oKDFJS7HFnA44JrzoGMA4) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [The Racket](https://open.spotify.com/album/5ebIWQEPNxe4fPhwAqZVvw) | 3:18 |
 | 87 | [The Conflict of the Mind](https://open.spotify.com/track/4BFYRUjuuesHjLTJdvo1XR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Conflict of the Mind](https://open.spotify.com/album/7bGzvyccrDzn32gieBu3tE) | 4:15 |
 | 88 | [Real Power](https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE) | 4:15 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [don't let me take my time](https://open.spotify.com/track/0d0BCIa1gWViE3jZLNaMmq) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [don't let me take my time](https://open.spotify.com/album/6p013AhVt4sEjwz98LA6in) | 2:40 |
 | 175 | [I Saw You](https://open.spotify.com/track/1q0xqMfpiJlMgnvM0o95tz) | [Sonya](https://open.spotify.com/artist/1sxq3PHS2sb0jQhAQRv3TA) | [I Saw You](https://open.spotify.com/album/48rgxq8beswwmYtJIM2Zh8) | 2:21 |
 
-Snapshot ID: `MCwzMGE5N2IxNWE2MzBiODFiMWVkNzMzZGU0MGEyYzUxMjFiMmE0MjQ0`
+Snapshot ID: `MCwyNTBhOWMzZTU4YTllYjM0YzZjZDJjN2VjYjNmMGM4ZmEwMjU2MWUw`

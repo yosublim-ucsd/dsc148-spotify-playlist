@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK & Ireland\. Cover: brand new legs\. Artwork: Isu Kim
 
-1,573 songs - 3 day 11 hr 59 min
+1,574 songs - 3 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -857,6 +857,7 @@
 | [Long Way Down](https://open.spotify.com/track/17jkfndQt2O6jPGRp5cg8e) | [Ellie Soufi](https://open.spotify.com/artist/6VX8TQGFGfCfNqbl0WVNel) | [Long Way Down](https://open.spotify.com/album/6qT2rjKYcO5efhB0CszBut) | 3:16 | 2023-01-25 | 2023-03-02 |
 | [Longtime](https://open.spotify.com/track/5a6cHRJSiOesfByK46HPyp) | [Cilla Raie](https://open.spotify.com/artist/4yKOZR4NFIQDJa4q9AFWNf) | [Longtime](https://open.spotify.com/album/3DEiSBV6U4lB60Izo2ilBt) | 2:28 | 2022-08-31 | 2022-09-28 |
 | [Looking Back](https://open.spotify.com/track/3wYNNnKGi1pFinuEOjcVFy) | [Vorsen](https://open.spotify.com/artist/3pQdbwqCwjMfqlGah58wEK) | [Looking Back](https://open.spotify.com/album/1ikkIcmza5UxmktgeP9c5v) | 3:06 | 2023-09-12 | 2023-10-11 |
+| [Lorelei](https://open.spotify.com/track/0ZmzyGzZwofhjqNRPr9bLj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Lorelei](https://open.spotify.com/album/2Xs0Q5Wg7g2zidwzo9Q2Ez) | 4:24 | 2024-02-07 |  |
 | [Lose My Cool](https://open.spotify.com/track/1drSfeOdONNYjMiqHxFo0M) | [CJ Run](https://open.spotify.com/artist/17g2kHe1KbJjcO3VUDSwVl) | [Lose My Cool](https://open.spotify.com/album/38JDB1i7v5W2eba1E2Jt1E) | 2:11 | 2022-05-11 | 2022-05-26 |
 | [Lose My Mind](https://open.spotify.com/track/0gdsXYdwHiLhD9uDBJbJ8S) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Lose My Mind](https://open.spotify.com/album/3ZChhFSjqMwj3AkKYRTcKV) | 3:49 | 2022-03-30 | 2022-04-28 |
 | [LOSE U 2 HIM](https://open.spotify.com/track/2TEqet5WZVv6MMmeekEsiO) | [Dylon Jack](https://open.spotify.com/artist/4w2XbK1zFmXTMEKBjSu7ZG) | [LOSE U 2 HIM](https://open.spotify.com/album/3KzLBXNz9Z8XYbLnLfFc09) | 2:32 | 2023-02-01 | 2023-03-08 |
@@ -1244,7 +1245,7 @@
 | [Seran's Harp](https://open.spotify.com/track/0FU3cNMUISYdzNrzZTKC5V) | [Affelaye](https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ) | [Seran's Harp](https://open.spotify.com/album/3LIgUgTag5FzdcvBAFX1t8) | 5:20 | 2022-10-19 | 2022-11-24 |
 | [Seven Nights](https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Undertones](https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL) | 2:50 | 2022-03-08 | 2022-03-09 |
 | [Shadow Dance](https://open.spotify.com/track/1bGdTjoqC98LU32QA01moW) | [Gigi Moss](https://open.spotify.com/artist/38NVCgrJsx212T9Tk3yMv6) | [Shadow Dance](https://open.spotify.com/album/2nEpp9Vf3tvFGceGUxfNkL) | 3:07 | 2023-09-05 | 2023-09-27 |
-| [Shake It Down](https://open.spotify.com/track/4LFFchgwzyadtENCt863Xz) | [C Turtle](https://open.spotify.com/artist/4JoZT9uT2cj9DQ7i23pn4h) | [Shake It Down](https://open.spotify.com/album/39CPEbF2tw1Db9WpffaS9L) | 2:11 | 2024-01-10 |  |
+| [Shake It Down](https://open.spotify.com/track/4LFFchgwzyadtENCt863Xz) | [C Turtle](https://open.spotify.com/artist/4JoZT9uT2cj9DQ7i23pn4h) | [Shake It Down](https://open.spotify.com/album/39CPEbF2tw1Db9WpffaS9L) | 2:11 | 2024-01-10 | 2024-02-08 |
 | [SHAME](https://open.spotify.com/track/4gi18kH1qeOCNKYLIt5en9) | [Mercy's Cartel](https://open.spotify.com/artist/40zUW1LtekgXK3fjG6jHJv) | [SHAME](https://open.spotify.com/album/5G4yY5nC6A1IgjoTJAfuIW) | 3:29 | 2023-09-26 | 2023-10-25 |
 | [She](https://open.spotify.com/track/3IahZVph6tc4q8ubzEhZvh) | [Martha Jean](https://open.spotify.com/artist/34fBjfUXCfeiXH1ZDbdT41) | [She](https://open.spotify.com/album/4W1eQTe35z50CToMThopST) | 2:58 | 2022-08-31 | 2022-10-07 |
 | [She Gives U](https://open.spotify.com/track/4O0ZhoIxA7xovHZ9RSbI9E) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [She Gives U](https://open.spotify.com/album/0QYsPD9bqPwoIvQ5KdpFRf) | 5:31 | 2022-01-19 | 2022-02-10 |

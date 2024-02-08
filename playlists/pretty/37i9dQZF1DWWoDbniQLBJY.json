@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed viven las canciones ac\u00fasticas. Cover: Maria Becerra",
-  "num_followers": 1940535,
+  "num_followers": 1940508,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTI1ZTZmZDRhZDVjYzY0ZDk2YWMyZTM4MWViNzQ1ZWFmYTFiMTRj",
+  "snapshot_id": "MCxkZmI2NTkxM2Y2MjZmYTg5NmJhNzhhOTI0ZTE0N2U3YWFjMjc0MzE3",
   "tracks": [
     {
       "added_at": "2024-01-24 17:00:09",
@@ -187,18 +187,22 @@
     {
       "added_at": "2024-01-24 17:00:09",
       "album": {
-        "name": "Estrella",
-        "url": "https://open.spotify.com/album/2ODmW3LBiS3zX8Plhodpoz"
+        "name": "Dharma",
+        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
       "artists": [
         {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         }
       ],
-      "duration_ms": 134637,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/4RshAnDX9hgShBo4wKwKu3"
+      "duration_ms": 271893,
+      "name": "Quererte Bonito",
+      "url": "https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb"
     },
     {
       "added_at": "2024-01-24 17:00:09",
@@ -223,22 +227,18 @@
     {
       "added_at": "2024-01-24 17:00:09",
       "album": {
-        "name": "Dharma",
-        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/2ODmW3LBiS3zX8Plhodpoz"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
         }
       ],
-      "duration_ms": 271893,
-      "name": "Quererte Bonito",
-      "url": "https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb"
+      "duration_ms": 134637,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/4RshAnDX9hgShBo4wKwKu3"
     },
     {
       "added_at": "2024-01-24 17:00:09",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-01-24 17:00:09",
       "album": {
-        "name": "El Color de Tus Ojos (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/0oPqmNycT3rm72Qp6KcvLU"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "El Color de Tus Ojos - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/5vqKT1wBUAxlFq57ymoOeJ"
-    },
-    {
-      "added_at": "2024-01-24 17:00:09",
-      "album": {
         "name": "Verano, por siempre",
         "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 176000,
       "name": "una luz",
       "url": "https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH"
+    },
+    {
+      "added_at": "2024-01-24 17:00:09",
+      "album": {
+        "name": "El Color de Tus Ojos (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/0oPqmNycT3rm72Qp6KcvLU"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "El Color de Tus Ojos - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/5vqKT1wBUAxlFq57ymoOeJ"
     },
     {
       "added_at": "2024-01-24 17:00:09",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-01-24 17:00:09",
       "album": {
-        "name": "Para Ti (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/2A4NWAmKm275rN9tycg6K3"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Para Ti - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/3wO71n44x8JqR1lLgsOU6v"
-    },
-    {
-      "added_at": "2024-01-24 17:00:09",
-      "album": {
         "name": "Parece Mentira",
         "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 213958,
       "name": "Parece Mentira",
       "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
+    },
+    {
+      "added_at": "2024-01-24 17:00:09",
+      "album": {
+        "name": "Para Ti (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2A4NWAmKm275rN9tycg6K3"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Para Ti - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/3wO71n44x8JqR1lLgsOU6v"
     },
     {
       "added_at": "2024-01-24 17:00:09",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-01-24 17:00:09",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
-    },
-    {
-      "added_at": "2024-01-24 17:00:09",
-      "album": {
         "name": "Natalia Lafourcade (Spotify Session)",
         "url": "https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2024-01-24 17:00:09",
       "album": {
-        "name": "Everything Was For Love (from the movie \u201cWith This Light\")",
-        "url": "https://open.spotify.com/album/7svWXeyE07A5uDMa2gCkS2"
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 226481,
-      "name": "Everything Was For Love (from the movie \u201cWith This Light\")",
-      "url": "https://open.spotify.com/track/717UO8qmZhhgr8nz9psfss"
+      "duration_ms": 186000,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
     },
     {
       "added_at": "2024-01-24 17:00:09",
@@ -943,6 +927,22 @@
       "duration_ms": 148370,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
+    },
+    {
+      "added_at": "2024-01-24 17:00:09",
+      "album": {
+        "name": "Everything Was For Love (from the movie \u201cWith This Light\")",
+        "url": "https://open.spotify.com/album/7svWXeyE07A5uDMa2gCkS2"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 226481,
+      "name": "Everything Was For Love (from the movie \u201cWith This Light\")",
+      "url": "https://open.spotify.com/track/717UO8qmZhhgr8nz9psfss"
     },
     {
       "added_at": "2024-01-24 17:00:09",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-01-24 17:00:09",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 258412,
-      "name": "Volv\u00ed a Nacer - Live from Spotify",
-      "url": "https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm"
-    },
-    {
-      "added_at": "2024-01-24 17:00:09",
-      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 163213,
       "name": "\u00bfTe Ha Pasado?",
       "url": "https://open.spotify.com/track/6MPmTzi1FdDKu3yhfhVd1Y"
+    },
+    {
+      "added_at": "2024-01-24 17:00:09",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 258412,
+      "name": "Volv\u00ed a Nacer - Live from Spotify",
+      "url": "https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm"
     },
     {
       "added_at": "2024-01-24 17:00:09",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-01-24 17:00:09",
       "album": {
+        "name": "Despacito (Acoustic)",
+        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 218108,
+      "name": "Despacito - Acoustic",
+      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
+    },
+    {
+      "added_at": "2024-01-24 17:00:09",
+      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/3pwczzHwIn3RthlqHGum2V"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 185186,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/3ogdUxCZqn5JikojnmsdKZ"
-    },
-    {
-      "added_at": "2024-01-24 17:00:09",
-      "album": {
-        "name": "Despacito (Acoustic)",
-        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "Despacito - Acoustic",
-      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
     },
     {
       "added_at": "2024-01-24 17:00:09",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-01-24 17:00:09",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 185975,
-      "name": "Veneno - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
-    },
-    {
-      "added_at": "2024-01-24 17:00:09",
-      "album": {
         "name": "SUBEME LA RADIO",
         "url": "https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 209826,
       "name": "SUBEME LA RADIO",
       "url": "https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d"
+    },
+    {
+      "added_at": "2024-01-24 17:00:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 185975,
+      "name": "Veneno - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
     },
     {
       "added_at": "2024-01-24 17:00:09",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-01-24 17:00:09",
       "album": {
-        "name": "Amiga Cruel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 217031,
-      "name": "Amiga Cruel (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
-    },
-    {
-      "added_at": "2024-01-24 17:00:09",
-      "album": {
         "name": "Souvenir (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 198213,
       "name": "Souvenir - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If"
+    },
+    {
+      "added_at": "2024-01-24 17:00:09",
+      "album": {
+        "name": "Amiga Cruel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 217031,
+      "name": "Amiga Cruel (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
     },
     {
       "added_at": "2024-01-24 17:00:09",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-01-24 17:00:09",
       "album": {
-        "name": "Flotando (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 256708,
-      "name": "Flotando (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
-    },
-    {
-      "added_at": "2024-01-24 17:00:09",
-      "album": {
         "name": "triste pero siempre mami (ac\u00fastico)",
         "url": "https://open.spotify.com/album/6yDHqulmVo9qIkkjJCpfc7"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 186966,
       "name": "Ojos Chiquitos",
       "url": "https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi"
+    },
+    {
+      "added_at": "2024-01-24 17:00:09",
+      "album": {
+        "name": "Mp3",
+        "url": "https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "duration_ms": 181368,
+      "name": "Mp3",
+      "url": "https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6"
     }
   ],
   "unique_name": "Ac\u00fasticas",

@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 55036,
+  "2024-02-08": 55039,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - El Salvador.",
   "name": "Top 50 - El Salvador",
@@ -1849,6 +1849,28 @@
       "duration_ms": 186087,
       "name": "Baila Conmigo (with Rauw Alejandro)",
       "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
+    },
+    {
+      "album": {
+        "name": "Bailame",
+        "url": "https://open.spotify.com/album/7LlKXAKHnlL6d9k5lg4c8s"
+      },
+      "artists": [
+        {
+          "name": "Alexis Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6Cd52eLg4kdKCNGdxX5dLl"
+        },
+        {
+          "name": "Isa Ache",
+          "url": "https://open.spotify.com/artist/0mNvv68ryBdEbLdKRKkQA8"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179667,
+      "name": "Bailame",
+      "url": "https://open.spotify.com/track/0KT7iSh8SgfV3sFsJumIHX"
     },
     {
       "album": {
@@ -6096,6 +6118,28 @@
     },
     {
       "album": {
+        "name": "Frio",
+        "url": "https://open.spotify.com/album/6TKl4Aits34170shR8LHFS"
+      },
+      "artists": [
+        {
+          "name": "Souryn",
+          "url": "https://open.spotify.com/artist/31wtY2T6lHi77pV9RsVTqm"
+        },
+        {
+          "name": "William Gochez",
+          "url": "https://open.spotify.com/artist/2ESRQ3wCj4UNVRtNfebcNQ"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138628,
+      "name": "Frio",
+      "url": "https://open.spotify.com/track/3d4x0xWALIAHpasiBV7oGc"
+    },
+    {
+      "album": {
         "name": "en dormir sin Madrid",
         "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
       },
@@ -7541,7 +7585,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
@@ -10855,7 +10899,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 225654,
       "name": "NO ME QUIERO CASAR",
       "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"

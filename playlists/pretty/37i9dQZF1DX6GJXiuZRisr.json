@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1537845,
+  "num_followers": 1538013,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzFjN2VjNjgyNWRhNTNkZGYzY2Q0MWI0MTI3ZWYwNzQ0ODYzODg2",
+  "snapshot_id": "MCw4NGI3NjEwNGE4NTU0Y2Y4ZTJlNjhmMDAyNDM2MzM2MGFmMmJiNTRm",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -559,22 +559,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Fade Out (with MKLA)",
-        "url": "https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE"
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
         }
       ],
-      "duration_ms": 230909,
-      "name": "Fade Out (with MKLA)",
-      "url": "https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB"
+      "duration_ms": 194160,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -599,18 +595,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
+        "name": "Fade Out (with MKLA)",
+        "url": "https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE"
       },
       "artists": [
         {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
         }
       ],
-      "duration_ms": 194160,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
+      "duration_ms": 230909,
+      "name": "Fade Out (with MKLA)",
+      "url": "https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -967,26 +967,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Friend Of Mine",
-        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        },
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Friend Of Mine",
-      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Dance Is The Answer (feat. Raja Ram)",
         "url": "https://open.spotify.com/album/0mdXH0pJA8KKW8abGrS3o8"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 329165,
       "name": "Dance Is The Answer (feat. Raja Ram)",
       "url": "https://open.spotify.com/track/56rqKeuhAVv2E6RK5BifIS"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Friend Of Mine",
+        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Friend Of Mine",
+      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "The World You See",
-        "url": "https://open.spotify.com/album/0V9gdn8ZnhvkpRAvdnkT7I"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "Artche",
-          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
-        }
-      ],
-      "duration_ms": 217515,
-      "name": "The World You See",
-      "url": "https://open.spotify.com/track/4TQgbkv9CF1Qy4GIfpZeSO"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Ready For More",
         "url": "https://open.spotify.com/album/1aD03TBrJrER1RFJQsO1Pm"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 247991,
       "name": "Ready For More",
       "url": "https://open.spotify.com/track/0OQF6YgMW5gOe8k4wfvLRJ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "The World You See",
+        "url": "https://open.spotify.com/album/0V9gdn8ZnhvkpRAvdnkT7I"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Artche",
+          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
+        }
+      ],
+      "duration_ms": 217515,
+      "name": "The World You See",
+      "url": "https://open.spotify.com/track/4TQgbkv9CF1Qy4GIfpZeSO"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1207,42 +1207,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Turning Away",
-        "url": "https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 244543,
-      "name": "Turning Away",
-      "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Twisted Reality (Edit)",
-        "url": "https://open.spotify.com/album/2be6MuI6wAu5tB4HrYmUfJ"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Twisted Reality - Edit",
-      "url": "https://open.spotify.com/track/3KtWJZlt5tPT8E5akHUpVZ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
       },
@@ -1263,6 +1227,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Twisted Reality (Edit)",
+        "url": "https://open.spotify.com/album/2be6MuI6wAu5tB4HrYmUfJ"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Twisted Reality - Edit",
+      "url": "https://open.spotify.com/track/3KtWJZlt5tPT8E5akHUpVZ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 216795,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Turning Away",
+        "url": "https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 244543,
+      "name": "Turning Away",
+      "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1531,22 +1531,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Growth",
-        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
       },
       "artists": [
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
         },
         {
-          "name": "Lost Boy",
-          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
         }
       ],
-      "duration_ms": 214578,
-      "name": "Just The Kinda Feeling",
-      "url": "https://open.spotify.com/track/1EkArBpT5yzmpQmQohGoqV"
+      "duration_ms": 205440,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1571,22 +1571,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
       },
       "artists": [
         {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         },
         {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+          "name": "Lost Boy",
+          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
+      "duration_ms": 214578,
+      "name": "Just The Kinda Feeling",
+      "url": "https://open.spotify.com/track/1EkArBpT5yzmpQmQohGoqV"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1851,6 +1851,30 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Out Of Reach",
+        "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Sansa",
+          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
+        }
+      ],
+      "duration_ms": 255991,
+      "name": "Out Of Reach",
+      "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Nightvision EP",
         "url": "https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ"
       },
@@ -1891,30 +1915,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Out Of Reach",
-        "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Sansa",
-          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
-        }
-      ],
-      "duration_ms": 255991,
-      "name": "Out Of Reach",
-      "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Midnight / Equal",
         "url": "https://open.spotify.com/album/0d0qkrl074gj4TT2uj35iU"
       },
@@ -1931,22 +1931,6 @@
       "duration_ms": 480000,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "REDUX 006",
-        "url": "https://open.spotify.com/album/4urA6v3u3Of4y0snurlHmE"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 255238,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/4DHMD8JzIBOoAXAqHOl3qd"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1971,6 +1955,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "REDUX 006",
+        "url": "https://open.spotify.com/album/4urA6v3u3Of4y0snurlHmE"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 255238,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/4DHMD8JzIBOoAXAqHOl3qd"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Sweet Surrender",
         "url": "https://open.spotify.com/album/3oeckQ2isCZKg9GD1dk98W"
       },
@@ -1987,22 +1987,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "You Take My Hand",
-        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
+        "name": "Yumi (edit)",
+        "url": "https://open.spotify.com/album/6Or1qZMDfcuXZyq0qceqsX"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Jamie Irrepressible",
-          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
         }
       ],
-      "duration_ms": 315861,
-      "name": "You Take My Hand",
-      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
+      "duration_ms": 197213,
+      "name": "Yumi - edit",
+      "url": "https://open.spotify.com/track/6PK96Y20GrGeiU8yptYGfl"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2031,18 +2027,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Yumi (edit)",
-        "url": "https://open.spotify.com/album/6Or1qZMDfcuXZyq0qceqsX"
+        "name": "You Take My Hand",
+        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
       },
       "artists": [
         {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Jamie Irrepressible",
+          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
         }
       ],
-      "duration_ms": 197213,
-      "name": "Yumi - edit",
-      "url": "https://open.spotify.com/track/6PK96Y20GrGeiU8yptYGfl"
+      "duration_ms": 315861,
+      "name": "You Take My Hand",
+      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
     },
     {
       "added_at": "2024-01-26 05:00:00",

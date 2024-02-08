@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: The Black Crowes
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,859 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,873 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 22 | [Creeps](https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Creeps](https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB) | 3:46 |
 | 23 | [Mighty Beast](https://open.spotify.com/track/4tyP3hJbZSD26PTo3K5PW5) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Mighty Beast / All the Wars from Now On](https://open.spotify.com/album/2H053931olSuzHhdvxpfcm) | 4:31 |
 | 24 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 |
-| 25 | [Change Of Heart](https://open.spotify.com/track/68DSsSVGCUwfEMeZI6xhxW) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Change Of Heart](https://open.spotify.com/album/35XgdqqbXM9OBWuApaiPJ3) | 4:03 |
+| 25 | [Change Of Heart](https://open.spotify.com/track/7xagVKfjYQTAdzvtJHPdVc) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Strays](https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj) | 4:03 |
 | 26 | [Alabama](https://open.spotify.com/track/4cudpEOpvt73zMfJSBoNut) | [Bishop Gunn](https://open.spotify.com/artist/78FpcvFFNC1ZTrUvWb0tlm) | [Natchez](https://open.spotify.com/album/5HK2nH0jtNPhdKaLAgaJMG) | 3:34 |
 | 27 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 |
 | 28 | [Edge Of Darkness](https://open.spotify.com/track/4rhUBIlzi7zgV7TryhVujl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 4:28 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 73 | [Sober](https://open.spotify.com/track/0fYEckNsTfncGvfwafcsEx) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 2:36 |
 | 74 | [Ain’t Lookin’](https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Ain’t Lookin’](https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL) | 3:22 |
 | 75 | [Stare at the Sun](https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x) | [Duane Betts](https://open.spotify.com/artist/0Hd5wMyas6F2k5kBNeBmnB), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Stare At The Sun](https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa) | 4:32 |
-| 76 | [The Way I Am](https://open.spotify.com/track/4IWbCGhs0jqdts7HyqWtyM) | [The Weathered Souls](https://open.spotify.com/artist/0zJN9JGIfTEIiL8E58NDtI) | [The Way I Am](https://open.spotify.com/album/2GQ9yHFndyliRHDm8yri8v) | 4:08 |
+| 76 | [The Way I Am](https://open.spotify.com/track/07Qr4JIqeMrjy4dnjn3cRE) | [The Weathered Souls](https://open.spotify.com/artist/0zJN9JGIfTEIiL8E58NDtI) | [The Way I Am](https://open.spotify.com/album/6l6XKRUp0RrjxR4jtNGfYH) | 4:08 |
 | 77 | [Revival](https://open.spotify.com/track/7aBTTnmPNOnxns4zUqKFbl) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/2KYRGdnQoz7pkCMY2Ot9RM) | 3:49 |
 | 78 | [Midnight Train To Memphis](https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:42 |
 | 79 | [Rock and Roll \(Ain't No Simple Thing\)](https://open.spotify.com/track/76kfV1gUWJ4wskDtiMfK36) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [No Simple Thing](https://open.spotify.com/album/7m23UIStg6wDZJpjGRzQQV) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 99 | [In Stride](https://open.spotify.com/track/3O6GPcdbS3cyT2MpHwm9pP) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [In Stride](https://open.spotify.com/album/1f9Z6ZUYbrjR10j1bwPL3u) | 3:47 |
 | 100 | [Let It Ride](https://open.spotify.com/track/4NupFKd1TTR5PsembiLD4X) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Hidden Gems](https://open.spotify.com/album/5xQEeIrALM66vXokyP5ik2) | 3:37 |
 
-Snapshot ID: `MCwyYTExYmM0NGI1NWVlYjk3YThiNjg5ZjE2NjY1NzEzMjE1MjY0Mzc0`
+Snapshot ID: `MCw4ZmVlM2U3MzUwYTcwYzE3ZDZjODMxYjAzZDI2OThkZjVhNjRlNDk5`

@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 6893,
+  "2024-02-08": 6896,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Bulgaria.",
   "name": "Viral 50 - Bulgaria",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 306847,
       "name": "Angel Numbers / Ten Toes",
       "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
@@ -57,6 +57,24 @@
       "duration_ms": 133754,
       "name": "Bad Feeling (Oompa Loompa)",
       "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
+    },
+    {
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
       "album": {
@@ -93,7 +111,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 162000,
       "name": "Bez Ruce",
       "url": "https://open.spotify.com/track/1Qj9Ie3xfeEl8tllis7QZp"
@@ -129,7 +147,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 182440,
       "name": "B\u00e9cane - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
@@ -191,6 +209,24 @@
       "duration_ms": 126481,
       "name": "CLEARED - Remix",
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
+    },
+    {
+      "album": {
+        "name": "Dance You Outta My Head",
+        "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
+      },
+      "artists": [
+        {
+          "name": "Cat Janice",
+          "url": "https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202508,
+      "name": "Dance You Outta My Head",
+      "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
     },
     {
       "album": {
@@ -282,6 +318,28 @@
     },
     {
       "album": {
+        "name": "FUNKED UP",
+        "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        },
+        {
+          "name": "isq",
+          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115348,
+      "name": "FUNKED UP - SLOWED",
+      "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
+    },
+    {
+      "album": {
         "name": "Happy Nation",
         "url": "https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k"
       },
@@ -297,6 +355,36 @@
       "duration_ms": 255413,
       "name": "Happy Nation",
       "url": "https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 1)",
+        "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Alex Brightman",
+          "url": "https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140653,
+      "name": "Hell Is Forever",
+      "url": "https://open.spotify.com/track/4mXGc27x5d6uzStIiIohGX"
     },
     {
       "album": {
@@ -351,7 +439,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
@@ -438,6 +526,36 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 1)",
+        "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Keith David",
+          "url": "https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY"
+        },
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175113,
+      "name": "Loser, Baby",
+      "url": "https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb"
+    },
+    {
+      "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
@@ -449,7 +567,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -485,10 +603,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 172199,
       "name": "Meet you at the Graveyard",
       "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
+    },
+    {
+      "album": {
+        "name": "Mnogo qka",
+        "url": "https://open.spotify.com/album/3qJcZskv4tI36WIbpJD7bO"
+      },
+      "artists": [
+        {
+          "name": "Ihito",
+          "url": "https://open.spotify.com/artist/1AQrZg3cwGHqwdg12SIWt5"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207899,
+      "name": "Mnogo qka",
+      "url": "https://open.spotify.com/track/7aHZ5O3FTEt98SgyOEARv3"
     },
     {
       "album": {
@@ -627,7 +763,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 143718,
       "name": "n.h.i.e.",
       "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
@@ -685,7 +821,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 170528,
       "name": "Not My Fault (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
@@ -721,7 +857,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 182623,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk"
@@ -781,7 +917,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 195668,
       "name": "OAED - Remix",
       "url": "https://open.spotify.com/track/0DRBuH0O3Uh6YqJWMAjHLl"
@@ -930,6 +1066,40 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 1)",
+        "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Daphne Rubin-Vega",
+          "url": "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        {
+          "name": "Lilli Cooper",
+          "url": "https://open.spotify.com/artist/61Im27379GhfbMD5LVDmlp"
+        },
+        {
+          "name": "James Monroe Iglehart",
+          "url": "https://open.spotify.com/artist/1RHbG28m5gaCOeIgaxEgLb"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95682,
+      "name": "Respectless",
+      "url": "https://open.spotify.com/track/6UTPUfrTvKzD7GhLAhi1x7"
+    },
+    {
+      "album": {
         "name": "SONY",
         "url": "https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp"
       },
@@ -949,7 +1119,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 130136,
       "name": "RICK OWENS (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
@@ -974,6 +1144,54 @@
     },
     {
       "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "album": {
+        "name": "MICHAEL",
+        "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253663,
+      "name": "SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E"
+    },
+    {
+      "album": {
         "name": "She Likes a Boy",
         "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
       },
@@ -989,6 +1207,24 @@
       "duration_ms": 129056,
       "name": "She Likes a Boy",
       "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
+    },
+    {
+      "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214632,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
     },
     {
       "album": {
@@ -1010,6 +1246,40 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 1)",
+        "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Christian Borle",
+          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
+        },
+        {
+          "name": "Amir Talai",
+          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
+        },
+        {
+          "name": "Joel Perez",
+          "url": "https://open.spotify.com/artist/2W9W8wwOXJCux8sfyptX2p"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180475,
+      "name": "Stayed Gone",
+      "url": "https://open.spotify.com/track/2Evk4YMwD4zjjha2k3dbV7"
+    },
+    {
+      "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
       },
@@ -1021,7 +1291,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -1149,7 +1419,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 154029,
       "name": "Top Model",
       "url": "https://open.spotify.com/track/4iQVYZGE9KyUZJyIn0wEr6"
@@ -1192,6 +1462,42 @@
     },
     {
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121226,
+      "name": "Wife",
+      "url": "https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ"
+    },
+    {
+      "album": {
+        "name": "Yat\u0131ya",
+        "url": "https://open.spotify.com/album/2YjYHiGyyAxgX41SsmLEGl"
+      },
+      "artists": [
+        {
+          "name": "Melis Kar",
+          "url": "https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199047,
+      "name": "Yat\u0131ya",
+      "url": "https://open.spotify.com/track/51yVTZAAXjMuOCiBvN980F"
+    },
+    {
+      "album": {
         "name": "yes, and?",
         "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
       },
@@ -1229,7 +1535,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 208524,
       "name": "You & Me - Rivo Remix",
       "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
@@ -1283,7 +1589,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 184890,
       "name": "\u0422\u0410\u041a\u0410 \u0422\u0410\u041a\u0410",
       "url": "https://open.spotify.com/track/2mA1BVYwzbhRqqkkkFQx83"

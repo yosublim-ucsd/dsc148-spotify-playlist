@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,344 likes - 30 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,358 likes - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 3 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 |
 | 4 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
 | 5 | [CRAZYZ](https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:24 |
-| 6 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 |
-| 7 | [La Intención](https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Intención](https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2) | 4:09 |
+| 6 | [La Intención](https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Intención](https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2) | 4:09 |
+| 7 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 |
 | 8 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 |
 | 9 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 |
 | 10 | [Pa Ti Estoy](https://open.spotify.com/track/3j5zNcb0aSk7dx3W3mAKzw) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:26 |
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 12 | [Gafas Negras](https://open.spotify.com/track/4s7hIsoRpnmaSvdETaIOSe) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Gafas Negras](https://open.spotify.com/album/3nfeL4QZ0GZfkJbr8FHyHn) | 3:06 |
 | 13 | [Perdió Este Culo](https://open.spotify.com/track/1bmIRafMOhUKsnZE7haw2u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Joia](https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd) | 2:39 |
 | 14 | [Salitre](https://open.spotify.com/track/6NXPhNtKgDn7OJaLaELuSH) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Salitre](https://open.spotify.com/album/4gFK3UVU00iqHcMQdHocv8) | 3:40 |
-| 15 | [Amigos](https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Amigos](https://open.spotify.com/album/3DkbgLj1xLcDI5aCDnajVQ) | 3:15 |
-| 16 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS) | 2:41 |
+| 15 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS) | 2:41 |
+| 16 | [Amigos](https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Amigos](https://open.spotify.com/album/3DkbgLj1xLcDI5aCDnajVQ) | 3:15 |
 | 17 | [No te enamores de él](https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [No te enamores de él](https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z) | 3:17 |
-| 18 | [Uff](https://open.spotify.com/track/37Em5gY1LOTbjXYrpD7cdp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Uff](https://open.spotify.com/album/4suyPerfUCXOFF2EGCDzsU) | 2:32 |
-| 19 | [Ese Kbrn](https://open.spotify.com/track/3XaeszX6Kk4l40pKzK2oy6) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [El Principe 2](https://open.spotify.com/album/5U3A4CCnKzp3vtWbIqAzNO) | 3:59 |
+| 18 | [Ese Kbrn](https://open.spotify.com/track/3XaeszX6Kk4l40pKzK2oy6) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [El Principe 2](https://open.spotify.com/album/5U3A4CCnKzp3vtWbIqAzNO) | 3:59 |
+| 19 | [Uff](https://open.spotify.com/track/37Em5gY1LOTbjXYrpD7cdp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Uff](https://open.spotify.com/album/4suyPerfUCXOFF2EGCDzsU) | 2:32 |
 | 20 | [Vas a Destrozarme \- Versión Eden Muñoz](https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Vas a Destrozarme \(Versión Eden Muñoz\)](https://open.spotify.com/album/1Beic6eSv6o8vl2UxU0WZo) | 2:57 |
 | 21 | [Give Me](https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Give Me](https://open.spotify.com/album/2HWlrn5BF5QknrGcJVBp1Z) | 2:45 |
 | 22 | [Ron En El Piso](https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Ron En El Piso](https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z) | 5:35 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 29 | [En Las Buenas y En Las Malas](https://open.spotify.com/track/5gWkxqIv20eagfDWUeok2N) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [En Las Buenas y En Las Malas](https://open.spotify.com/album/0Ekx1GipeSlqP0T4Gn1Q1h) | 2:37 |
 | 30 | [Exclusive](https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Exclusive](https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O) | 2:50 |
 
-Snapshot ID: `MCxiYTZlNWEwYjg4MDZhNzhiOTBjZDEyNzU4NTZjYTRlMGRjNGM0NGU1`
+Snapshot ID: `MCxmNzc5NWI2ZjJjNDUyN2QyNDFhYmU2NDBkNmE2NzI5OGY3OGUzYzhi`

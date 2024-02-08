@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 
 > 理由のない焦り、苛立ち。わけもなく叫びたくなる。思春期を過ごす全てのティーンに贈る、帰り道の応援歌。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,014 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,068 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,19 +25,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 15 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 |
 | 16 | [Headliner](https://open.spotify.com/track/5wYXXFzzelTMEbVOGoZ3Q0) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Headliner](https://open.spotify.com/album/209bUB4Yw8SiUB5F3t252c) | 3:54 |
 | 17 | [Itsuka](https://open.spotify.com/track/37ZddqLVyF23NIg5I17SBd) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Country Road](https://open.spotify.com/album/6ZtpnrvdBqke77cOazRblq) | 4:34 |
-| 18 | [スーパーソニックガール](https://open.spotify.com/track/7rwKeQuNEAvVGXhWthB0Wq) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [スーパーソニックガール](https://open.spotify.com/album/7oIk2e89EVOFFeKqtsz1IX) | 3:01 |
+| 18 | [Super Sonic Girl](https://open.spotify.com/track/2Hiiy3oTMeqQg5hLQLw4bJ) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Super Sonic Girl](https://open.spotify.com/album/2riAHViLvNHM09LsZuYyFl) | 3:01 |
 | 19 | [Baaka!](https://open.spotify.com/track/30hCaxH7w9nmm5OvJFBe4N) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Takaramono](https://open.spotify.com/album/19KMuhlGVX3PTQPM1iqKFe) | 1:11 |
 | 20 | [Itsuwarisetsunaina](https://open.spotify.com/track/6EzXmInCWy9ccCJmemvgIk) | [Nekoze no Navysaison](https://open.spotify.com/artist/4V8r1M7rNsde2hKEbE94ZJ) | [PHANTOM MOMENT](https://open.spotify.com/album/75hPtw9b1dzHh7LBJprWWI) | 4:09 |
 | 21 | [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 |
-| 22 | [番外編](https://open.spotify.com/track/5f6WHaRAKc8kQXiWB5YNkU) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [波打つ心を持ちながら](https://open.spotify.com/album/4gINtRCG56pnyFd60pRNPp) | 3:20 |
+| 22 | [Bangai Hen](https://open.spotify.com/track/2oFpPPGoIMwpo76ksUH8h1) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Namiutsu Kokoro o Mochinagara](https://open.spotify.com/album/2AqgPeRgCAYar0Yh6pVedu) | 3:20 |
 | 23 | [もっと](https://open.spotify.com/track/14scjle0gHsjlujD10AliV) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [もっと](https://open.spotify.com/album/6cNBLzQoV9126uS2B0sPRB) | 4:09 |
 | 24 | [Shake](https://open.spotify.com/track/10sPBoUKctG07bmRmhgcr6) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Shake](https://open.spotify.com/album/1SfH4Io6Q518rAV3rmqoU1) | 3:59 |
 | 25 | [夕方ジェネレーション](https://open.spotify.com/track/2zrkwF6k8fv6BzW5Pg5BS8) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [夕方ジェネレーション](https://open.spotify.com/album/5wRH839yau15M0iWjD8Lsw) | 5:00 |
 | 26 | [Love Song](https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 4:18 |
 | 27 | [最終電車に乗って](https://open.spotify.com/track/0NaCuBNx3LwfCtTb7PQJoL) | [ヨナツメ](https://open.spotify.com/artist/0NOWHctcACMuBrnx9ziTnn) | [bouquet](https://open.spotify.com/album/4nQA6uey4uF8myiVAnsotO) | 4:27 |
 | 28 | [ケセラセラ](https://open.spotify.com/track/406ZlqOP9nLQxJFBY7d9S4) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ケセラセラ](https://open.spotify.com/album/2Qo9j2bmgZlGOkismqdPpN) | 4:32 |
-| 29 | [DAWN](https://open.spotify.com/track/7qu2sVmtyhtUZIwh607B9w) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [DAWN](https://open.spotify.com/album/728AONhuNSuYDoo6AH4q6E) | 4:27 |
-| 30 | [Oh Baby](https://open.spotify.com/track/0NutSBugy23p6qZrqFzx6P) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Oh Baby](https://open.spotify.com/album/6a3sfW2toT55Z7N67b6GWI) | 4:13 |
+| 29 | [Dawn](https://open.spotify.com/track/3xFka9Fj3vn299vIBqFUVu) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Dawn](https://open.spotify.com/album/16a4yEozxkuenTZ2EZ9fkw) | 4:27 |
+| 30 | [Oh Baby](https://open.spotify.com/track/07u3NefB8uoyXaodhkIaEH) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Oh Baby](https://open.spotify.com/album/4mEjkhOzS5pRCjOlaiyQVj) | 4:13 |
 | 31 | [Super Express](https://open.spotify.com/track/3GlRLcA7sxJu6HtGH9CrAE) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [Empire](https://open.spotify.com/album/3eOZSTk2k4cT874YBeanry) | 3:51 |
 | 32 | [言って。](https://open.spotify.com/track/6z1TvLTR0oOsWSJfDrERmj) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [夏草が邪魔をする](https://open.spotify.com/album/3o5yzVy1ZXMfyATfj9OjbV) | 4:02 |
 | 33 | [Magic hour](https://open.spotify.com/track/7DJbEA0ADXdBwnJhs0ofHD) | [Hello Hello](https://open.spotify.com/artist/0VHtkjMrNXTTDNE9Ej96og) | [address](https://open.spotify.com/album/3nA3sTQ8Hq3KnZOtGmHQi4) | 3:36 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 37 | [HERO](https://open.spotify.com/track/420VV3WsaUzKuo9I9C7yxo) | [Fish and Lips](https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J) | [HERO](https://open.spotify.com/album/3nHFbR7VqRGAFj7g8iLqX1) | 3:47 |
 | 38 | [19歳](https://open.spotify.com/track/4PGO1WN2PBktU8BamRo80z) | [ポンツクピーヤ](https://open.spotify.com/artist/0j56Vr9S3Iq3Inp8pLX02Q) | [19歳/シット・バイアス・ミュージック](https://open.spotify.com/album/5Sntp3QM3VhnDAJDD56eki) | 3:15 |
 | 39 | [Nichijo no Sukosi Saki e](https://open.spotify.com/track/6LrTTxLb6XVWfSxWzzYB1o) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [onsei](https://open.spotify.com/album/17JswaRY80Z0aoRiBz3V2N) | 3:21 |
-| 40 | [青春透過](https://open.spotify.com/track/17LjbP2CsQQ4Yis8jpnuPy) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [思春期と時間旅行 \- EP](https://open.spotify.com/album/6WDwDfpq61114k0VM5SjNk) | 3:38 |
+| 40 | [Seishun Touka](https://open.spotify.com/track/52tOlDhtWqrO16wbV4E2Sc) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [Shishunki To Jikanryokou \- EP](https://open.spotify.com/album/5aRS9azmh6MYHK7AYwwQRz) | 3:38 |
 | 41 | [Whale](https://open.spotify.com/track/2jFMypz1HlsluktUDnySCN) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [Whale](https://open.spotify.com/album/4Cq3EXmq52JVKsiFZ71jX3) | 3:41 |
 | 42 | [だって](https://open.spotify.com/track/175C4JA6zfA4kaId3GWmft) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [だって](https://open.spotify.com/album/38IPKWm6SoIzlLTJXxD5p4) | 4:03 |
 | 43 | [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 49 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 |
 | 50 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 |
 
-Snapshot ID: `MCwwZWFlZjZjMzA3MTRlNDE4MGU5NGU4ZWY0OTVlNjE2YTRjMWNhZDY0`
+Snapshot ID: `MCxmMTViODE1MTBhM2NhZmMyMjBkOTcyZjIwMTcwMjJlNDIzNGMxYWFj`

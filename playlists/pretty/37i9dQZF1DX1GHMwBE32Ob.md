@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Zlatan & Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,236 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,357 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 44 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
 | 45 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 |
 | 46 | [Tiff](https://open.spotify.com/track/5jdJ6Flvi1ep0mpnWKa04R) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Tiff](https://open.spotify.com/album/1KeUFIH7fYkSCWByLwCiAO) | 2:12 |
-| 47 | [Don Perignon](https://open.spotify.com/track/2EBVq3gCCEtRUGDx5oOGiC) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ghetto Vibrations](https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch) | 2:09 |
-| 48 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 |
+| 47 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 |
+| 48 | [Don Perignon](https://open.spotify.com/track/2EBVq3gCCEtRUGDx5oOGiC) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ghetto Vibrations](https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch) | 2:09 |
 | 49 | [Wale \(Remix\) \[feat\. Simi\]](https://open.spotify.com/track/0CetiWNK7oVzF5H0M2dGTS) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Wale \(Remix\) \[feat\. Simi\]](https://open.spotify.com/album/4Gnum64pHtsMvBIqRUKzrP) | 3:08 |
-| 50 | [Egopiano](https://open.spotify.com/track/26YBTrjCLaPr5avB5N5z8n) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Egopiano](https://open.spotify.com/album/3iZ46zFRy42LAYtMP6yL0A) | 2:31 |
-| 51 | [Feel Better](https://open.spotify.com/track/2d3hsKUez4aoqs5E0uPyS0) | [Anonymous Music](https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Better](https://open.spotify.com/album/6PXWungbDlNlNvfZJe42GD) | 2:23 |
+| 50 | [Feel Better](https://open.spotify.com/track/2d3hsKUez4aoqs5E0uPyS0) | [Anonymous Music](https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Better](https://open.spotify.com/album/6PXWungbDlNlNvfZJe42GD) | 2:23 |
+| 51 | [Egopiano](https://open.spotify.com/track/26YBTrjCLaPr5avB5N5z8n) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Egopiano](https://open.spotify.com/album/3iZ46zFRy42LAYtMP6yL0A) | 2:31 |
 | 52 | [PARIWO](https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [PARIWO](https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8) | 2:00 |
 | 53 | [Feeling Funny](https://open.spotify.com/track/73MwJHhrrDbOlzWTCziVJr) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Feeling Funny](https://open.spotify.com/album/21kuDsl3msFKcs3I2q3D1j) | 3:18 |
 | 54 | [Cash App](https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Lincoln](https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu) | [Cash App](https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT) | 3:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 59 | [KPK \(Ko Por Ke\)](https://open.spotify.com/track/17q1F7gvBjI5aizepORyYG) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [A True Champion](https://open.spotify.com/album/6cqaFME7zznZclEDFE6bUk) | 3:11 |
 | 60 | [Good Bad Boy](https://open.spotify.com/track/3ZRee35yTrQLeck0yWBYep) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Good Bad Boy](https://open.spotify.com/album/6aneMaptAsMI6EwKwQva1E) | 2:43 |
 
-Snapshot ID: `MCwyYWY3OThmOGYxMDMyMTZjZDBmOWI5MTk4MjZlYTI3MzRiYTliMzkz`
+Snapshot ID: `MCxkYTU3M2IzODc0ODIyM2E5ZGEwMzk3MTk5ZTg0MDc5MDYyOGFkZGI5`

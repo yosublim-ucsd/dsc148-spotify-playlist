@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 
 > This is Mc Poze do Rodo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,020 likes - 46 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,068 likes - 46 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 | 36 | [Vida de Chefe](https://open.spotify.com/track/6tMrKuPeS4WXORZf8pASCr) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Vida de Chefe](https://open.spotify.com/album/1AXdA0ag7FPITUgyXsbW8T) | 2:48 |
 | 37 | [Novinha Gostosa](https://open.spotify.com/track/48IZMU43BfTfdT8KijmYk5) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Novinha Gostosa](https://open.spotify.com/album/5Ud3mT8253HW0NfeVheEjG) | 2:29 |
 | 38 | [Os Coringas do Flamengo](https://open.spotify.com/track/4rXfZWzgv6L4IoZ23bdkal) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Os Coringas do Flamengo](https://open.spotify.com/album/0YvThXdoFZVq3K435DQ2HM) | 2:52 |
-| 39 | [Do Crime ao Funk](https://open.spotify.com/track/2RTYc5fDW0QyiqtxeR6Ajz) | [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Do Crime ao Funk](https://open.spotify.com/album/3TDDFPraQaLpjLV3ZHFM9J) | 3:05 |
-| 40 | [Vai Chegar](https://open.spotify.com/track/3hNm8sXtMbSehcrI4zdecG) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Adrenalina](https://open.spotify.com/album/1TqRe6Z2nz1Lv2IbudwM0g) | 2:53 |
+| 39 | [Vai Chegar](https://open.spotify.com/track/3hNm8sXtMbSehcrI4zdecG) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Adrenalina](https://open.spotify.com/album/1TqRe6Z2nz1Lv2IbudwM0g) | 2:53 |
+| 40 | [Do Crime ao Funk](https://open.spotify.com/track/2RTYc5fDW0QyiqtxeR6Ajz) | [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Do Crime ao Funk](https://open.spotify.com/album/3TDDFPraQaLpjLV3ZHFM9J) | 3:05 |
 | 41 | [Salve A Favela](https://open.spotify.com/track/63HYpMDcQo0Fryhmje08Bl) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Salve A Favela](https://open.spotify.com/album/6voO4re2hvr5NQVG7ho0Qs) | 5:00 |
 | 42 | [Mc Não É Bandido](https://open.spotify.com/track/6zLPHsrzyyrhkgENYhWdO5) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [DJ Will22](https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn) | [Mc Não É Bandido](https://open.spotify.com/album/7iiwUZJylFMoKaXSQ3rMS2) | 4:15 |
 | 43 | [A Cara do Crime \- Remix](https://open.spotify.com/track/1gW5XDbjG3TFOcmjAirKNI) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [A Cara do Crime \(Remix\)](https://open.spotify.com/album/295jaj4kZbKaytU5cgbp7m) | 3:00 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 | 45 | [Safadinha](https://open.spotify.com/track/1vuRoYIGP57PR4Vf5erTqP) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Safadinha](https://open.spotify.com/album/7qLJZYDUWFY4JhwSkhqazr) | 2:21 |
 | 46 | [Vida Louca \- Remix](https://open.spotify.com/track/48ni2OjDvFMl71tNU0Rc95) | [Malik Mustache](https://open.spotify.com/artist/5FcXaC6DLXy2s4HFGqERWU), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Vida Louca \(Remix\)](https://open.spotify.com/album/7suNFGCjsqqm31d6azA8I5) | 3:00 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA0ZDI1MDMwYWFlMWY3MWYzNzI1NTc0Y2U5ZmFiNTFhNg==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDBiMTJkZTdhZjRkZGNkZmQwY2Y2MmQ4YzMwMDc5ZjMzZA==`

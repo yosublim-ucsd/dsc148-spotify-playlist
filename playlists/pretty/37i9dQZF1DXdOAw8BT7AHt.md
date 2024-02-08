@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in modern punk rock music\. Cover: SOAPBOX
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,858 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,920 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 22 | [FTS \(KYS\)](https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:19 |
 | 23 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
 | 24 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 |
-| 25 | [Cry To Heaven](https://open.spotify.com/track/1iNKQ8LIG4OVFK3o9vmmUY) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Sanguivore](https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2) | 4:27 |
-| 26 | [UK GRIM](https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [UK GRIM](https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0) | 3:18 |
-| 27 | [Toneblerone](https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI), [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [The Four Before](https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi) | 3:47 |
+| 25 | [USA](https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [USA](https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG) | 1:38 |
+| 26 | [Cry To Heaven](https://open.spotify.com/track/1iNKQ8LIG4OVFK3o9vmmUY) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Sanguivore](https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2) | 4:27 |
+| 27 | [UK GRIM](https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [UK GRIM](https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0) | 3:18 |
 | 28 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
 | 29 | [Facedown](https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:31 |
-| 30 | [USA](https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [USA](https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG) | 1:38 |
+| 30 | [Toneblerone](https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI), [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [The Four Before](https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi) | 3:47 |
 | 31 | [feel something \(feat\. Izzy Spears\)](https://open.spotify.com/track/4br7MnQcFs0b22YBvDAVZC) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [feel something \(feat\. Izzy Spears\)](https://open.spotify.com/album/44bpmgQrpyXxTCR8ZWtRcH) | 2:13 |
 | 32 | [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 |
 | 33 | [How To Live With Yourself](https://open.spotify.com/track/2MfVLc5DOoOYxPhlvd7afG) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen](https://open.spotify.com/album/2IvgPVP1I1BDZwsWe8EaZU) | 2:45 |
@@ -54,23 +54,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 44 | [It Ain't Enough](https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Cave World \(Deluxe\)](https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8) | 4:43 |
 | 45 | [I Gotta Feeling](https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Gotta Feeling](https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ) | 3:17 |
 | 46 | [Claw](https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Claw](https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ) | 3:15 |
-| 47 | [Hiccup](https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Hiccup](https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR) | 1:45 |
-| 48 | [Stop Living & Don't Dream](https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story](https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU) | 2:22 |
-| 49 | [No Guilt](https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [No Guilt](https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9) | 2:04 |
+| 47 | [No Guilt](https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [No Guilt](https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9) | 2:04 |
+| 48 | [Hiccup](https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Hiccup](https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR) | 1:45 |
+| 49 | [Stop Living & Don't Dream](https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story](https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU) | 2:22 |
 | 50 | [Those Days](https://open.spotify.com/track/4L7f6oFx9U2UmqRgQRPgJL) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Those Days](https://open.spotify.com/album/78hW2ZaZlq3XYQXYcUvaJN) | 2:26 |
 | 51 | [Phone Machine](https://open.spotify.com/track/5zTi9uSGOjdjN5N9bB56tI) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Phone Machine](https://open.spotify.com/album/7gP0mw9vv2bouxi3a5pgI5) | 2:37 |
 | 52 | [Pressure Pad](https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Down There!](https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi) | 3:28 |
-| 53 | [Gonna Get Better](https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Gonna Get Better](https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN) | 3:15 |
-| 54 | [Lads Lads Lads](https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Lads Lads Lads](https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o) | 3:11 |
-| 55 | [my little tony](https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [my little tony](https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX) | 2:59 |
-| 56 | [Tequila](https://open.spotify.com/track/1PzliOzk22FS6GOOLQF9Sy) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Pah!](https://open.spotify.com/album/04E7cqmIEyxjJRpWrTPS1R) | 1:45 |
-| 57 | [Sink Or Swim](https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Sink Or Swim](https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx) | 3:12 |
+| 53 | [Lads Lads Lads](https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Lads Lads Lads](https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o) | 3:11 |
+| 54 | [Gonna Get Better](https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Gonna Get Better](https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN) | 3:15 |
+| 55 | [Tequila](https://open.spotify.com/track/1PzliOzk22FS6GOOLQF9Sy) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Pah!](https://open.spotify.com/album/04E7cqmIEyxjJRpWrTPS1R) | 1:45 |
+| 56 | [my little tony](https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [my little tony](https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX) | 2:59 |
+| 57 | [Phone Lines Down](https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Nah, That Ain't It / Phone Lines Down](https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P) | 2:03 |
 | 58 | [Cry Your Eyes Out](https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Cry Your Eyes Out](https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti) | 2:27 |
-| 59 | [Phone Lines Down](https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Nah, That Ain't It / Phone Lines Down](https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P) | 2:03 |
+| 59 | [Sink Or Swim](https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Sink Or Swim](https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx) | 3:12 |
 | 60 | [catastrophe](https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [catastrophe](https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven) | 2:36 |
 | 61 | [Treasure](https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Treasure](https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO) | 3:11 |
-| 62 | [Under The Rules](https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [MORE UK GRIM](https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F) | 3:33 |
-| 63 | [Ferrari](https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK) | [Phoneboy](https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR) | [Ferrari](https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht) | 2:42 |
+| 62 | [Ferrari](https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK) | [Phoneboy](https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR) | [Ferrari](https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht) | 2:42 |
+| 63 | [Under The Rules](https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [MORE UK GRIM](https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F) | 3:33 |
 | 64 | [Imposter](https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Imposter](https://open.spotify.com/album/1NIHzCmCg3oYs602XSj9o8) | 3:03 |
 | 65 | [Madman](https://open.spotify.com/track/7MGDxr4uUDqOV70Uy3iPom) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [EP ii](https://open.spotify.com/album/557ntJoopjoyMhkeX40y9s) | 3:52 |
 | 66 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 79 | [Nausea](https://open.spotify.com/track/6pGgfqZndbyUbVFHTCn9SO) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Nausea](https://open.spotify.com/album/6Kuo3MOAM3eOdSttY25Op3) | 3:21 |
 | 80 | [BIG HIT SINGLE](https://open.spotify.com/track/3reN0NjIAde5yu4xhCo6fD) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [BIG HIT SINGLE](https://open.spotify.com/album/63heAOtxjx6cQtNnRPKR5D) | 3:09 |
 
-Snapshot ID: `MCw2NGM0NWVmMjI1N2I3N2I2MzgzYTIzYmUzZWZhODViMzI3MzBhNzM3`
+Snapshot ID: `MCwyNWYxZDdjODkzMzA5ZDA0YTBmODRiNDZmOGM5MTgxMmU0YWE1NGZm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Thalles Roberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,193 likes - 70 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,242 likes - 70 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 27 | [ATEU](https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [ATEU](https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb) | 4:05 |
 | 28 | [Te Seguirei](https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5) | [Te Seguirei](https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E) | 4:50 |
 | 29 | [Yeshua](https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Yeshua](https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20) | 5:46 |
-| 30 | [O Que Me Espera](https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [O Que Me Espera](https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs) | 3:41 |
-| 31 | [João 1 \- VEC](https://open.spotify.com/track/7fY0cpQJpJkvMfN7st6PyG) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/15aPsEilVLOZ4lF5JWg6be) | 4:18 |
+| 30 | [João 1 \- VEC](https://open.spotify.com/track/7fY0cpQJpJkvMfN7st6PyG) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/15aPsEilVLOZ4lF5JWg6be) | 4:18 |
+| 31 | [O Que Me Espera](https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [O Que Me Espera](https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs) | 3:41 |
 | 32 | [Descanso](https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Descanso](https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH) | 6:43 |
 | 33 | [ELE É EXALTADO](https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [ELE É EXALTADO](https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ) | 4:58 |
 | 34 | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4) | 5:04 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 47 | [A Carta](https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [A Carta](https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba) | 4:56 |
 | 48 | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f) | 4:01 |
 | 49 | [Palavra Antiga \- Ao Vivo](https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 3\)](https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH) | 4:10 |
-| 50 | [Vestido Azul](https://open.spotify.com/track/5hLjEIr4NmAsGarqTwm0mA) | [Catarina Von Bora](https://open.spotify.com/artist/3DxQewmz2PoRvVVpWEv5iH), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Daniel Alves](https://open.spotify.com/artist/3eW6cEr5fLxtSXZDBTJNSK) | [Columbário](https://open.spotify.com/album/4o6BATvOsC4vbHJySc5avV) | 3:35 |
+| 50 | [Simplesmente](https://open.spotify.com/track/3Jtq6KBwX0TL2GypkiwZl6) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Profundo](https://open.spotify.com/album/0QeJIqPsEV96bdsjMFprON) | 5:23 |
 | 51 | [É Tempo de Abrir o Coração \- Ao Vivo](https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [É Tempo de Abrir o Coração / Santo \(Ao Vivo\)](https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX) | 4:34 |
-| 52 | [Simplesmente](https://open.spotify.com/track/3Jtq6KBwX0TL2GypkiwZl6) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Profundo](https://open.spotify.com/album/0QeJIqPsEV96bdsjMFprON) | 5:23 |
+| 52 | [Vestido Azul](https://open.spotify.com/track/5hLjEIr4NmAsGarqTwm0mA) | [Catarina Von Bora](https://open.spotify.com/artist/3DxQewmz2PoRvVVpWEv5iH), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Daniel Alves](https://open.spotify.com/artist/3eW6cEr5fLxtSXZDBTJNSK) | [Columbário](https://open.spotify.com/album/4o6BATvOsC4vbHJySc5avV) | 3:35 |
 | 53 | [Louco \(feat\. PG\)](https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Louco \(feat\. PG\)](https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg) | 5:09 |
 | 54 | [Dia De Milagres](https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Ramiro Garcia](https://open.spotify.com/artist/5XsYk2KMZlUPlr2GhELgZx), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Dia De Milagres](https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ) | 4:22 |
 | 55 | [O que o céu começa o céu termina \- Ao Vivo](https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [O que o céu começa o céu termina \(Ao Vivo\)](https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9) | 4:11 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 57 | [Quem Disse Que O Amor Pode Acabar](https://open.spotify.com/track/6cqobMBwfdZddO4GxOQrI3) | [Catedral](https://open.spotify.com/artist/0SJRRI0eT6oeymfwyWsImX) | [Eletroacústica](https://open.spotify.com/album/3aYjifiAsVAUmGDsJHcHKl) | 4:24 |
 | 58 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 |
 | 59 | [Falhas \- Ao Vivo](https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn) | [Daniel Juan](https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH) | [Falhas \(Ao Vivo\)](https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714) | 6:19 |
-| 60 | [Fui Encontrado](https://open.spotify.com/track/0U4A3mLKbj59c8WxUFdhZ9) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [KINTSUGI](https://open.spotify.com/album/0bVQ9jChKnNeRkIkXlsomK) | 3:13 |
-| 61 | [Trindade](https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3) | [Luzlive](https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa), [Arthur Lemos](https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz) | [Trindade](https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK) | 12:49 |
+| 60 | [Trindade](https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3) | [Luzlive](https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa), [Arthur Lemos](https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz) | [Trindade](https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK) | 12:49 |
+| 61 | [Fui Encontrado](https://open.spotify.com/track/0U4A3mLKbj59c8WxUFdhZ9) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [KINTSUGI](https://open.spotify.com/album/0bVQ9jChKnNeRkIkXlsomK) | 3:13 |
 | 62 | [Me Ensina a Seguir](https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr) | [Além do Mar](https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3) | [Me Ensina a Seguir](https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq) | 4:06 |
 | 63 | [Sobre as Águas](https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d) | [Hugo Santos](https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb) | [Exílio](https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed) | 4:39 |
 | 64 | [Agora Eu Vivo Teu Amor](https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Agora Eu Vivo Teu Amor](https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO) | 3:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 69 | [Espelhos Mágicos / Naves Imperiais](https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 90's](https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS) | 4:25 |
 | 70 | [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 |
 
-Snapshot ID: `MCxlNjUwYjg3NWNlM2MxNzRhNWEzMzUwNTIwMmVkYmFjNzQzOWVmZTMx`
+Snapshot ID: `MCw1ZjU1MGE1ZDdjNmJlMGU1NDUxMjg3ZGZkNmEzMmRiZThkZmI5YTlj`

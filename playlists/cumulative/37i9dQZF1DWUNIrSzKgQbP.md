@@ -4,7 +4,7 @@
 
 > Snowy days, cozy nights\. Soak up the spirit of the season with lush, intricate acoustics.
 
-627 songs - 1 day 15 hr 25 min
+628 songs - 1 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,6 +487,7 @@
 | [Stanley Park \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3EIRyXhoQP8zglbqDif1NX) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 2:29 | 2022-06-07 | 2022-07-29 |
 | [Stay \(ft\. Gary Clark Jr.\)](https://open.spotify.com/track/33tVKYG73t7pCmafa3Yn9f) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Stay \(ft\. Gary Clark Jr.\)](https://open.spotify.com/album/5ykzMuRih48Mm81Uf0kxRQ) | 3:51 | 2023-03-15 | 2023-06-22 |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-09-06 | 2023-12-16 |
+| [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2024-02-07 |  |
 | [Stop This Train](https://open.spotify.com/track/3E6iea9uEmB7gRru4lyP6h) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:45 | 2023-03-15 | 2023-06-22 |
 | [Strawberry](https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Strawberry](https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy) | 3:09 | 2023-06-21 | 2023-08-31 |
 | [Stream](https://open.spotify.com/track/2tJNgleqR52uYmZJmv3DO2) | [August and After](https://open.spotify.com/artist/7AuXlDJhnWt4NKtEwaabif) | [Stream](https://open.spotify.com/album/2TFlxeVUNVk08ViLCHuGek) | 4:11 | 2022-03-21 | 2022-06-08 |

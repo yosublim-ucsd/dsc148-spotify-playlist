@@ -1,12 +1,12 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 95278,
+  "num_followers": 95280,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzZkMTQ1YzVlZDMxMDkxMTMwZWIzNWFkMmZiM2QzYWZhYTk1ODY2",
+  "snapshot_id": "MCxlYzljNmVmMzFiY2U5MDA1MDI4MzBmZmM1YjFmMzM4MmQ1OGZiODli",
   "tracks": [
     {
       "added_at": "2024-01-03 09:30:00",
@@ -511,30 +511,6 @@
     {
       "added_at": "2024-01-03 09:30:00",
       "album": {
-        "name": "K-POP",
-        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 185220,
-      "name": "K-POP",
-      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
-    },
-    {
-      "added_at": "2024-01-03 09:30:00",
-      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -555,6 +531,30 @@
       "duration_ms": 228759,
       "name": "ZEZE (feat. Travis Scott & Offset)",
       "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
+    },
+    {
+      "added_at": "2024-01-03 09:30:00",
+      "album": {
+        "name": "K-POP",
+        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 185220,
+      "name": "K-POP",
+      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
     },
     {
       "added_at": "2024-01-03 09:30:00",
@@ -1343,26 +1343,18 @@
     {
       "added_at": "2024-01-03 09:30:00",
       "album": {
-        "name": "TAXI DRIVER",
-        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
+        "name": "Tyler Herro",
+        "url": "https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe"
       },
       "artists": [
         {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Junior K",
-          "url": "https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 176772,
-      "name": "NUOVO RANGE (con SFERA EBBASTA)",
-      "url": "https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu"
+      "duration_ms": 156497,
+      "name": "Tyler Herro",
+      "url": "https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB"
     },
     {
       "added_at": "2024-01-03 09:30:00",
@@ -1383,18 +1375,26 @@
     {
       "added_at": "2024-01-03 09:30:00",
       "album": {
-        "name": "Tyler Herro",
-        "url": "https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe"
+        "name": "TAXI DRIVER",
+        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Junior K",
+          "url": "https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ"
         }
       ],
-      "duration_ms": 156497,
-      "name": "Tyler Herro",
-      "url": "https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB"
+      "duration_ms": 176772,
+      "name": "NUOVO RANGE (con SFERA EBBASTA)",
+      "url": "https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu"
     },
     {
       "added_at": "2024-01-03 09:30:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-01-03 09:30:00",
       "album": {
+        "name": "PLAZA",
+        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Non Fare Cos\u00ec",
+      "url": "https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa"
+    },
+    {
+      "added_at": "2024-01-03 09:30:00",
+      "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 218367,
       "name": "\u221e LOVE (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199"
-    },
-    {
-      "added_at": "2024-01-03 09:30:00",
-      "album": {
-        "name": "PLAZA",
-        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Non Fare Cos\u00ec",
-      "url": "https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa"
     },
     {
       "added_at": "2024-01-03 09:30:00",

@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Hiatus Kaiyote
 
-1,074 songs - 2 day 9 hr 13 min
+1,076 songs - 2 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 | 2023-04-14 |  |
 | [advantages](https://open.spotify.com/track/67GD5DfgXGSGfnUaOOjd6u) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [LACUNA in The House Of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 3:08 | 2023-04-28 | 2023-09-02 |
 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 | 2023-10-27 |  |
+| [Again & Again](https://open.spotify.com/track/0RCKbNrpRjfqCRtOmxXJiO) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Again & Again](https://open.spotify.com/album/7J4GDSmpZkGPvXoQXPdjz1) | 2:36 | 2024-01-19 |  |
 | [Again?](https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Again?](https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj) | 2:52 | 2023-09-22 |  |
 | [Alien Coast](https://open.spotify.com/track/3iDBTqpV5GwxE9a5G4PGxC) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Alien Coast](https://open.spotify.com/album/5WhgDWJBLKg4pf1OJgoxZm) | 3:58 | 2022-04-01 | 2022-04-10 |
 | [All About You](https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [All About You](https://open.spotify.com/album/36Lr1Ipl7w3gn0NdZbRcge) | 3:00 | 2021-03-19 | 2022-01-25 |
@@ -135,7 +136,7 @@
 | [Bloodline](https://open.spotify.com/track/6E2xSghivZVmTTy3m0NNHS) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/0sw9A3w2cRMHywBMmMUD3h) | 3:49 | 2022-04-01 | 2022-04-16 |
 | [Blossom](https://open.spotify.com/track/57u4qXUFPo9MtMPTjQXv8Y) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Blossom](https://open.spotify.com/album/6Iv9EOdA8QZEugV2V5X0yd) | 1:54 | 2022-04-01 | 2022-04-11 |
 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 | 2021-03-19 | 2022-06-12 |
-| [Blue Days](https://open.spotify.com/track/3qKI07m2ve50BhRux11Z82) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Blue Days](https://open.spotify.com/album/3E2RSGxBOGzh9bAqWMmqJG) | 2:41 | 2023-12-22 |  |
+| [Blue Days](https://open.spotify.com/track/3qKI07m2ve50BhRux11Z82) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Blue Days](https://open.spotify.com/album/3E2RSGxBOGzh9bAqWMmqJG) | 2:41 | 2023-12-22 | 2024-02-08 |
 | [Blue Hundreds](https://open.spotify.com/track/4DHupq2NA0tvJXNOmwHZJi) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:44 | 2023-08-18 |  |
 | [BLUFF](https://open.spotify.com/track/5SYBSJ4iUdXVvtfindDscN) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [BLUFF](https://open.spotify.com/album/1rAeBE0z81SIMPdUJMTMwP) | 3:36 | 2023-05-26 | 2023-10-07 |
 | [Body](https://open.spotify.com/track/45jFhmLaKBWOT0lvFsezaC) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Body](https://open.spotify.com/album/0MKbgbnqz8YcDCl4uvSSWk) | 3:30 | 2022-05-20 | 2022-07-16 |
@@ -158,6 +159,7 @@
 | [Bruises](https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/3nS5kN4xG8OhNbR7xmdfX0) | 4:26 | 2022-04-01 | 2022-10-08 |
 | [Bruises](https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:15 | 2023-02-17 |  |
 | [Build Me A House](https://open.spotify.com/track/3Sb3Md9qVCRwu470IZ4XIp) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Build Me A House](https://open.spotify.com/album/1NsNO9pDwGPVlOkqgzro17) | 3:01 | 2022-12-16 |  |
+| [BULLSEYE](https://open.spotify.com/track/3OatXXexrQMaW6Hr3iQU4k) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [BULLSEYE](https://open.spotify.com/album/1BgDxKB8upXtUxGlNoUp57) | 3:36 | 2024-02-02 |  |
 | [Burning Up Slow](https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Burning Up Slow](https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73) | 2:04 | 2022-09-30 | 2022-10-08 |
 | [Bus Stop \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2k3IJR9hf34ZfEnTdlcoSK) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:56 | 2023-02-24 | 2023-03-25 |
 | [Buttons](https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:04 | 2022-07-22 | 2022-08-06 |
@@ -337,7 +339,7 @@
 | [FML](https://open.spotify.com/track/7qPTGnMtJoUMNJzDPxA74k) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Pseudo](https://open.spotify.com/album/0wUIVK2RgEzIWgxmihbaiz) | 2:38 | 2023-04-28 | 2023-08-27 |
 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 | 2022-09-02 | 2022-12-03 |
 | [Foolish](https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Foolish](https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH) | 3:48 | 2022-07-29 | 2023-08-12 |
-| [For Sport](https://open.spotify.com/track/6ThZW4vNLnr0RxsNfNE3wa) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [For Sport](https://open.spotify.com/album/7dJsh48oFzbFGsyjCrMUm4) | 2:26 | 2023-07-28 |  |
+| [For Sport](https://open.spotify.com/track/6ThZW4vNLnr0RxsNfNE3wa) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [For Sport](https://open.spotify.com/album/7dJsh48oFzbFGsyjCrMUm4) | 2:26 | 2023-07-28 | 2024-02-08 |
 | [For You](https://open.spotify.com/track/1FF6Bb7hgRQWDEmn9iWQix) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [For You](https://open.spotify.com/album/0KcVrNao4EAsglSr9EZOLz) | 2:39 | 2022-04-01 | 2022-10-08 |
 | [Forbidden Fruit](https://open.spotify.com/track/7iaCPgRVRsp2gjBlLhG91s) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Forbidden Fruit](https://open.spotify.com/album/7lmHWiL2lAGtJ5z2KDfazD) | 3:27 | 2022-04-01 | 2022-10-15 |
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-04-01 | 2022-09-10 |

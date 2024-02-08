@@ -4,7 +4,7 @@
 
 > congrats to the boys! cover: boygenius, taylor swift, jack antonoff
 
-2,593 songs - 5 day 19 hr 42 min
+2,596 songs - 5 day 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,7 +714,8 @@
 | [Eternal](https://open.spotify.com/track/26d0somBZ0vPdfwUeqla2R) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:04 | 2022-09-02 | 2022-09-24 |
 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 | 2021-07-17 | 2021-07-23 |
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-15 |  |
-| [Even When The Sun is Dead](https://open.spotify.com/track/7zH3Qm6lu296i2owAENBLk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn) | 2:16 | 2024-02-02 |  |
+| [Even When The Sun is Dead](https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/0aIrTtrBqrEHggWVEtErqb) | 2:16 | 2024-02-02 |  |
+| [Even When The Sun is Dead](https://open.spotify.com/track/7zH3Qm6lu296i2owAENBLk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn) | 2:16 | 2024-02-02 | 2024-02-08 |
 | [Ever Again](https://open.spotify.com/track/2E5e4J3nm1LMHkqTS21Dlq) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk) | 4:24 | 2021-01-29 | 2021-02-06 |
 | [Ever Since New York](https://open.spotify.com/track/5LABCxgmP7DATATIJXOh6n) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 4:13 | 2019-07-30\* | 2020-11-27 |
 | [everest](https://open.spotify.com/track/375vzhCsYArHMzT4UG5FgJ) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [everest](https://open.spotify.com/album/46aPiWLHkwjsEHOnCyGoQ1) | 1:49 | 2024-02-02 |  |
@@ -1028,7 +1029,8 @@
 | [Holly Holly](https://open.spotify.com/track/609PjstZKFBH2ryWbJFzev) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Holly Holly](https://open.spotify.com/album/0g7Pwo6QefrUgvPNhJLFR7) | 2:42 | 2021-09-25 | 2021-12-02 |
 | [Holy](https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Make My Bed](https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5) | 2:54 | 2019-07-30\* | 2019-09-06 |
 | [Home](https://open.spotify.com/track/3XRALl9CNCnjjbCZid2L9w) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Home](https://open.spotify.com/album/1VsBid0LZVPoNokDiJqROg) | 4:29 | 2019-07-30\* | 2019-09-06 |
-| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-18 |  |
+| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-18 | 2024-02-08 |
+| [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-01-18 |  |
 | [homebody](https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [homebody](https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f) | 3:09 | 2020-03-06 | 2021-04-02 |
 | [Honestly](https://open.spotify.com/track/2XCcjOmTFZcbOxZLETa5Hw) | [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [Honestly](https://open.spotify.com/album/0qXfjAuzOgFGiEQcRGlG2A) | 3:37 | 2019-07-30\* | 2019-09-14 |
 | [honey](https://open.spotify.com/track/3MMLO6TUL07tze9IXud0Vc) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [honey](https://open.spotify.com/album/2cohgImotWDHJ3P1ZuVDpw) | 4:14 | 2020-07-18 | 2020-09-25 |
@@ -2003,6 +2005,7 @@
 | [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 | 2023-12-15 |  |
 | [Slow Amnesia](https://open.spotify.com/track/4F67cQkiqrZ5u8GuEhdNyH) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Slow Amnesia](https://open.spotify.com/album/5wt4VQ0dO0VAmNL0YkfAPd) | 3:26 | 2022-12-07 | 2023-02-22 |
 | [Slow Amnesia](https://open.spotify.com/track/4p0IASuyV6phpRHicEJMAb) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Glasshead](https://open.spotify.com/album/6noSfxwRPvApqPSIcL9uGz) | 3:26 | 2022-12-07 | 2023-04-15 |
+| [Slow Burn](https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 3:21 | 2024-02-07 |  |
 | [SLOW DOWN](https://open.spotify.com/track/6Lh3fG0DogMGBW5MTlnO7q) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [SLOW DOWN](https://open.spotify.com/album/6nr0gqbSGeWijV20Q5f2jZ) | 2:30 | 2023-09-29 | 2023-11-11 |
 | [Slow Drive](https://open.spotify.com/track/6PlUZo9MVghD6kv8QIbrnm) | [Julian Skiboat](https://open.spotify.com/artist/62okAGBMx05wl2Oh7JLbUi) | [Slow Drive](https://open.spotify.com/album/2djpEfVUTm8AfVhbbIsuEL) | 2:14 | 2021-08-28 | 2022-01-08 |
 | [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 | 2022-10-11 | 2022-11-17 |

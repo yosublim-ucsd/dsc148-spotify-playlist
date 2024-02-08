@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1236157,
+  "num_followers": 1236731,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjhmNWEyNmRiNDdjYmUwMDE3MmY5ZGU0YTEwNmE1ZDUyZWZlOGJl",
+  "snapshot_id": "MCxiZmRlZDhiNmI5NDkwZGNkMjljZGYzYmJlMWYxMTc5ODIyYjQzNTFk",
   "tracks": [
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Mellow My Man",
+      "url": "https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
         "name": "You Don\u2019t Know",
         "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 242346,
       "name": "What Do You Say (Move It Baby)",
       "url": "https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Mellow My Man",
-      "url": "https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
-        "name": "The LP",
-        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
-      },
-      "artists": [
-        {
-          "name": "Large Professor",
-          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "The LP",
-      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
         "name": "Train Of Thought",
         "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
       },
@@ -1319,22 +1303,38 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
-        "name": "It's Nice Outside",
-        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
+        "name": "The LP",
+        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
       "artists": [
         {
-          "name": "Anti Lilly",
-          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+          "name": "Large Professor",
+          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
         }
       ],
-      "duration_ms": 201011,
-      "name": "Nobody's Perfect",
-      "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
+      "duration_ms": 197066,
+      "name": "The LP",
+      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
+        "name": "IMMORTAL",
+        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
+      },
+      "artists": [
+        {
+          "name": "Ricki Monique",
+          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
+        },
+        {
+          "name": "yourbeautifulruin",
+          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
+        }
+      ],
+      "duration_ms": 185298,
+      "name": "IMMORTAL",
+      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1371,22 +1371,22 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
-        "name": "IMMORTAL",
-        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
+        "name": "It's Nice Outside",
+        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
       },
       "artists": [
         {
-          "name": "Ricki Monique",
-          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
+          "name": "Anti Lilly",
+          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
         },
         {
-          "name": "yourbeautifulruin",
-          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
         }
       ],
-      "duration_ms": 185298,
-      "name": "IMMORTAL",
-      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
+      "duration_ms": 201011,
+      "name": "Nobody's Perfect",
+      "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
+        "name": "Beloved! Paradise! Jazz!?",
+        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
+      },
+      "artists": [
+        {
+          "name": "McKinley Dixon",
+          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
+        },
+        {
+          "name": "Ms. Jaylin Brown",
+          "url": "https://open.spotify.com/artist/1ffnZupAfeFVxIBCtbiy0d"
+        }
+      ],
+      "duration_ms": 247698,
+      "name": "Beloved! Paradise! Jazz!?",
+      "url": "https://open.spotify.com/track/4DoFmJKTQsWqjVgoXC7zOs"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
         "name": "Fried",
         "url": "https://open.spotify.com/album/1K6Ea6TrQfBYpKNFRnpyHD"
       },
@@ -1803,26 +1823,6 @@
       "duration_ms": 199640,
       "name": "Laid Back",
       "url": "https://open.spotify.com/track/6Dc2JmMqBvSFsPaU6kWrya"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
-        "name": "Beloved! Paradise! Jazz!?",
-        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
-      },
-      "artists": [
-        {
-          "name": "McKinley Dixon",
-          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
-        },
-        {
-          "name": "Ms. Jaylin Brown",
-          "url": "https://open.spotify.com/artist/1ffnZupAfeFVxIBCtbiy0d"
-        }
-      ],
-      "duration_ms": 247698,
-      "name": "Beloved! Paradise! Jazz!?",
-      "url": "https://open.spotify.com/track/4DoFmJKTQsWqjVgoXC7zOs"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
-        "name": "Call You?",
-        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
-      },
-      "artists": [
-        {
-          "name": "ArmstrongWW",
-          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
-        }
-      ],
-      "duration_ms": 205865,
-      "name": "Call You?",
-      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
         "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
         "url": "https://open.spotify.com/album/6OQ6gN6iPAZHNpu8Z1p1Yv"
       },
@@ -1911,6 +1895,38 @@
       "duration_ms": 355720,
       "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
       "url": "https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
+        "name": "Call You?",
+        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
+      },
+      "artists": [
+        {
+          "name": "ArmstrongWW",
+          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
+        }
+      ],
+      "duration_ms": 205865,
+      "name": "Call You?",
+      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
+      },
+      "artists": [
+        {
+          "name": "RAIZA BIZA",
+          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
+        }
+      ],
+      "duration_ms": 243711,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1947,22 +1963,6 @@
       "duration_ms": 131000,
       "name": "Careful",
       "url": "https://open.spotify.com/track/63IDTb6NGCCQuLLsS3He3L"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
-      },
-      "artists": [
-        {
-          "name": "RAIZA BIZA",
-          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
-        }
-      ],
-      "duration_ms": 243711,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
     },
     {
       "added_at": "2024-01-24 08:57:25",

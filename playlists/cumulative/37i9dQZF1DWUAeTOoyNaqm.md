@@ -142,6 +142,6 @@
 | [Wiro ASMR](https://open.spotify.com/track/0gAyd9D0XsZT241m2k5Qs4) | [Ezequiel Calvo](https://open.spotify.com/artist/5WBRIgdYpUWKbQ1Hr4e07K) | [Disparador ASMR](https://open.spotify.com/album/4GJccfhFDa6BSuGVJmGIFa) | 2:00 | 2021-11-12 |  |
 | [Wooden Brush 1](https://open.spotify.com/track/0CP2PqqqxXZ04B63C7m6Gz) | [Moonlight Cottage ASMR](https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn) | [Cozy Hair Brushing \| ASMR](https://open.spotify.com/album/6TqRVUxmGMgrpGNUtMwV1z) | 6:19 | 2021-11-12 | 2023-09-09 |
 | [Wooden Brush 1](https://open.spotify.com/track/4yDH6sGPzeQBnGNSQUpcHZ) | [Moonlight Cottage ASMR](https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn) | [Cozy Hair Brushing \| ASMR](https://open.spotify.com/album/1etbX0P2iBS6Wf5Ey6igcf) | 6:19 | 2023-09-08 |  |
-| [Đốt Cháy Đôi Tai Của Bạn \- ASMR Random Triggers](https://open.spotify.com/track/6cm8JHAOCWlcx6jctM0NWU) | [Thiệu Rino](https://open.spotify.com/artist/6f2tNSxNSFty7kAaxhlFCf) | [24](https://open.spotify.com/album/5TEtxllWeaWoanaDQlTXSv) | 10:35 | 2023-09-08 |  |
+| [Đốt Cháy Đôi Tai Của Bạn](https://open.spotify.com/track/6cm8JHAOCWlcx6jctM0NWU) | [Thiệu Rino](https://open.spotify.com/artist/6f2tNSxNSFty7kAaxhlFCf) | [24](https://open.spotify.com/album/5TEtxllWeaWoanaDQlTXSv) | 10:35 | 2023-09-08 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

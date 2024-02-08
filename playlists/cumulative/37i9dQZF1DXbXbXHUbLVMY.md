@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨 feat\. Amara
 
-130 songs - 5 hr 36 min
+131 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Gata](https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Gata](https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs) | 2:35 | 2023-09-21 |  |
 | [Go](https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Go](https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA) | 2:34 | 2023-09-21 |  |
 | [Har Dig](https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 3:22 | 2023-09-21 |  |
-| [Har du glemt meg?](https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Har du glemt meg?](https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY) | 2:45 | 2023-09-21 |  |
+| [Har du glemt meg?](https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Har du glemt meg?](https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY) | 2:45 | 2023-09-21 | 2024-02-08 |
 | [Hjärta](https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Hjärta](https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH) | 2:38 | 2023-11-09 |  |
 | [Holy Father](https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Holy Father](https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu) | 2:38 | 2024-01-11 |  |
 | [Hoodrich](https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Hoodrich](https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9) | 2:24 | 2023-09-21 |  |
@@ -75,6 +75,7 @@
 | [Koppla Av](https://open.spotify.com/track/5x50GMyuhq1hDixrPzNs3S) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Koppla Av](https://open.spotify.com/album/2AbUZYMLbNr7PEQqKeWOXX) | 2:53 | 2023-09-21 | 2023-11-11 |
 | [Koppla Av](https://open.spotify.com/track/6TzmXkA7Y047fYtPjQLxug) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Koppla Av](https://open.spotify.com/album/3NUr1KOsJkDcK7x20aL0OR) | 2:53 | 2023-11-16 | 2024-02-02 |
 | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL) | 2:41 | 2023-12-14 | 2024-02-05 |
+| [Känslokall](https://open.spotify.com/track/0XYJmQjglYGEYTAipk9uVQ) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Bestämda Kliv](https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG) | 2:03 | 2024-02-01 |  |
 | [Känslokall](https://open.spotify.com/track/4eamNeQdsYOWCxqm6s4r8w) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Känslokall](https://open.spotify.com/album/0by3vmltZZetCzPLg90D1p) | 2:03 | 2023-09-21 | 2024-02-04 |
 | [Lean & $prite](https://open.spotify.com/track/1iW01MpA3PwLW97dq1hHEH) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Lean & $prite](https://open.spotify.com/album/7eEKWJ2EWUqDTHNQnyDwCW) | 2:34 | 2024-01-22 |  |
 | [Ledare](https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Ledare](https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA) | 2:41 | 2023-09-21 |  |

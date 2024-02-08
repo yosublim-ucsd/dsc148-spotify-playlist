@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Geisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,017 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,075 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 17 | [Kangen](https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The 2000's Greatest](https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN) | 5:00 |
 | 18 | [Tapi Bukan Aku](https://open.spotify.com/track/0BrH4b7su9uLELM1h5Xlzw) | [Kerispatih](https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ) | [Kenyataan Perasaan](https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00) | 4:30 |
 | 19 | [Angin Kencang](https://open.spotify.com/track/2GWzRdezjEFyYrwldE7iCl) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Angin Kencang](https://open.spotify.com/album/3YLxuvVaEjjWzk6ISlZPVf) | 3:57 |
-| 20 | [Aku Cinta Kau Dan Dia](https://open.spotify.com/track/3PHc0M7QXIwPUDnZ9dBVCu) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs), [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [Aku Cinta Kau Dan Dia](https://open.spotify.com/album/2gajnKEtcWmFQ03Al5qvpF) | 4:43 |
-| 21 | [Jikalau Kau Cinta](https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Judika](https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr) | 4:02 |
+| 20 | [Jikalau Kau Cinta](https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Judika](https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr) | 4:02 |
+| 21 | [Aku Cinta Kau Dan Dia](https://open.spotify.com/track/3PHc0M7QXIwPUDnZ9dBVCu) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs), [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [Aku Cinta Kau Dan Dia](https://open.spotify.com/album/2gajnKEtcWmFQ03Al5qvpF) | 4:43 |
 | 22 | [Melompat Lebih Tinggi](https://open.spotify.com/track/7Hun5YHQ5TEe9j97cU5XPg) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [OST\. 30 Hari Mencari Cinta](https://open.spotify.com/album/66ggR3LdVt8pjIaOeL7kNB) | 3:18 |
 | 23 | [Terima Kasih Cinta](https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Confession No.1](https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v) | 4:11 |
 | 24 | [Demi Cinta](https://open.spotify.com/track/2SscarnRY3zdkORvPu9JGZ) | [Kerispatih](https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ) | [Tak Lekang Oleh Waktu](https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d) | 4:42 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 42 | [Pencinta Wanita](https://open.spotify.com/track/0sMclGmddV8xeqBgI2k2yB) | [Irwansyah](https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 4:13 |
 | 43 | [Dealova](https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi) | [Once Mekel](https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE) | [Once](https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI) | 4:24 |
 | 44 | [Untitled](https://open.spotify.com/track/1i9iliTpiPLizleapSg37I) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st \(Special Edition\)](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 4:05 |
-| 45 | [Akhir Cerita Cinta](https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9) | 4:00 |
-| 46 | [Kamu Yang Kutunggu](https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Love, Life & Music](https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp) | 4:14 |
+| 45 | [Kamu Yang Kutunggu](https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Love, Life & Music](https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp) | 4:14 |
+| 46 | [Akhir Cerita Cinta](https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9) | 4:00 |
 | 47 | [Cinta Sejati \- From "Habibie & Ainun"](https://open.spotify.com/track/7zPiwqd1uxBkiHuk2OoBWJ) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Cinta Sejati \(From "Habibie & Ainun"\)](https://open.spotify.com/album/3cMuELN6TQ1pF5fkOcdhpv) | 5:00 |
 | 48 | [Tercipta Untukku](https://open.spotify.com/track/4CGpzrPjP0xaJfN9g9FN9A) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Melayang](https://open.spotify.com/album/6PxHRLYt5tTsX8xSoeRVAt) | 4:25 |
 | 49 | [Cinta Ini Membunuhku](https://open.spotify.com/track/53epbNYjH2elPuHjpqRSUk) | [D’MASIV](https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB) | [Hits Terbaik D'Masiv](https://open.spotify.com/album/4tjbcNWV8Je7yNBbYVObfX) | 4:03 |
 | 50 | [Perempuanku](https://open.spotify.com/track/7LPM7izo6bPUrvnI9EJ4em) | [Irwansyah](https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:55 |
 
-Snapshot ID: `MCxlNmIwZmRkM2MxNjYwYzAyY2ZhNGVkMThjMDkxZTI1Y2UxMzlhMDI3`
+Snapshot ID: `MCw2YzM4NjNhODQ0NTdlYzhiMWE2ZmQ2YzM0ZTE5YjlmN2Q5ZGY5NTQx`

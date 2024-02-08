@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Rezz",
-  "num_followers": 976086,
+  "num_followers": 976161,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmNjZDliYTIwMjUwYTRlNzQ5OTUwMjkzODJkNmIwZWI4MWY3NWRi",
+  "snapshot_id": "MCw0YTk2ZTIxNzk5OWQyNDM0NTM4NWNiOTMwMjMzNjU2MjI1NDVlZjYw",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1291,22 +1291,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "I Found You",
-        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
         },
         {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
         }
       ],
-      "duration_ms": 176548,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
+      "duration_ms": 243200,
+      "name": "Asteroid",
+      "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1327,22 +1327,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf"
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
       },
       "artists": [
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
         },
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 243200,
-      "name": "Asteroid",
-      "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
+      "duration_ms": 176548,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1481,6 +1481,38 @@
       "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
     },
     {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Tear Jerker",
+        "url": "https://open.spotify.com/album/5vqaFNDtNXDaXjM7MoCOeu"
+      },
+      "artists": [
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "Tear Jerker",
+      "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Omnidirectional",
+        "url": "https://open.spotify.com/album/1JffeD5SMNcg2DmFNkjrLF"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 222608,
+      "name": "Omnidirectional",
+      "url": "https://open.spotify.com/track/3Uadv5DQG3qXZ1jFYIQBVT"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Walk On Water (Wooli & Trivecta Remix)",
@@ -1513,22 +1545,6 @@
       "url": "https://open.spotify.com/track/50y6kX6Sd8wK5lZJcyAmX0"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Tear Jerker",
-        "url": "https://open.spotify.com/album/5vqaFNDtNXDaXjM7MoCOeu"
-      },
-      "artists": [
-        {
-          "name": "Cyclops",
-          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
-        }
-      ],
-      "duration_ms": 155538,
-      "name": "Tear Jerker",
-      "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "kidsgonemad!",
@@ -1543,22 +1559,6 @@
       "duration_ms": 221142,
       "name": "dontstopme!",
       "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Omnidirectional",
-        "url": "https://open.spotify.com/album/1JffeD5SMNcg2DmFNkjrLF"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 222608,
-      "name": "Omnidirectional",
-      "url": "https://open.spotify.com/track/3Uadv5DQG3qXZ1jFYIQBVT"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1805,6 +1805,26 @@
       "url": "https://open.spotify.com/track/27hGDu6VTcXy0sugTIsDvv"
     },
     {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "SHYPOP",
+      "url": "https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s"
+    },
+    {
       "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "ANGELS IN HELL",
@@ -1827,26 +1847,6 @@
       "duration_ms": 234350,
       "name": "ANGELS IN HELL",
       "url": "https://open.spotify.com/track/6g7dSKYqZTuaGSLsf4o0s5"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "kidsgonemad!",
-        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "SHYPOP",
-      "url": "https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s"
     },
     {
       "added_at": "2023-12-29 05:00:00",

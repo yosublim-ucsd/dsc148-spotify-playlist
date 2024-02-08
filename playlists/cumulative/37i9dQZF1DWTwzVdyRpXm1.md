@@ -2,7 +2,7 @@
 
 ### [Desi Hits](https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1)
 
-> Best of South Asian Music\. Cover: Shubh
+> Best of South Asian Music\. Cover: Anuv Jain
 
 277 songs - 15 hr 48 min
 

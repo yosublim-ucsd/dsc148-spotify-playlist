@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1130349,
+  "num_followers": 1130373,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2I5NjBhNzc0MDA1YWJjZjhiZmEwNGYxOWUxOWNhZTA5OGU0NGFi",
+  "snapshot_id": "MCw4ZmY4OTA1ODg1Mjk0MzQzYTc0OWVmZGFiMjk3NDJlOTBkNWYzNzZm",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Still The One",
-        "url": "https://open.spotify.com/album/2A7NsEN1bbpAROAOiRIGkC"
-      },
-      "artists": [
-        {
-          "name": "Andrew Galucki",
-          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
-        }
-      ],
-      "duration_ms": 211257,
-      "name": "Still The One",
-      "url": "https://open.spotify.com/track/1euXH7sEOodtVT7S4QNYRD"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Big Girls Don't Cry",
         "url": "https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 163636,
       "name": "Big Girls Don't Cry",
       "url": "https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Still The One",
+        "url": "https://open.spotify.com/album/2A7NsEN1bbpAROAOiRIGkC"
+      },
+      "artists": [
+        {
+          "name": "Andrew Galucki",
+          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
+        }
+      ],
+      "duration_ms": 211257,
+      "name": "Still The One",
+      "url": "https://open.spotify.com/track/1euXH7sEOodtVT7S4QNYRD"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 189650,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/6jI7yZWYt9xcmF5iDBJnHL"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn"
       },
@@ -635,18 +619,34 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x"
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M"
       },
       "artists": [
         {
-          "name": "Claire McCarty",
-          "url": "https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K"
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
         }
       ],
-      "duration_ms": 169437,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c"
+      "duration_ms": 189650,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/6jI7yZWYt9xcmF5iDBJnHL"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
+      },
+      "artists": [
+        {
+          "name": "Nora Levario",
+          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
+        }
+      ],
+      "duration_ms": 178966,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x"
       },
       "artists": [
         {
-          "name": "Nora Levario",
-          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
+          "name": "Claire McCarty",
+          "url": "https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K"
         }
       ],
-      "duration_ms": 178966,
-      "name": "In The Meantime",
-      "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
+      "duration_ms": 169437,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Here I Go Again - Acoustic EP",
-        "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 252307,
-      "name": "Here I Go Again - Acoustic",
-      "url": "https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Annie's Song",
         "url": "https://open.spotify.com/album/73j61rcmWeO9411zZkUQcX"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 167887,
       "name": "Annie's Song",
       "url": "https://open.spotify.com/track/4h9CzV7GXMnSHNixqohbRG"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Here I Go Again - Acoustic EP",
+        "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 252307,
+      "name": "Here I Go Again - Acoustic",
+      "url": "https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Ghost - acoustic",
-        "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 151374,
-      "name": "Ghost - Acoustic",
-      "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Good",
         "url": "https://open.spotify.com/album/0JfWY6oQJ8wrXnPGgsqWTe"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Too Good At Goodbyes",
-        "url": "https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ"
+        "name": "Ghost - acoustic",
+        "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
       },
       "artists": [
         {
-          "name": "Beatrice",
-          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
         }
       ],
-      "duration_ms": 170074,
-      "name": "Too Good At Goodbyes",
-      "url": "https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu"
+      "duration_ms": 151374,
+      "name": "Ghost - Acoustic",
+      "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -951,6 +935,22 @@
       "duration_ms": 179000,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Too Good At Goodbyes",
+        "url": "https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ"
+      },
+      "artists": [
+        {
+          "name": "Beatrice",
+          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
+        }
+      ],
+      "duration_ms": 170074,
+      "name": "Too Good At Goodbyes",
+      "url": "https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "all night long",
+        "url": "https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO"
+      },
+      "artists": [
+        {
+          "name": "Gracie Schram",
+          "url": "https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d"
+        }
+      ],
+      "duration_ms": 194018,
+      "name": "all night long",
+      "url": "https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Visiting Hours (Acoustic)",
         "url": "https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 164785,
       "name": "Kiss An Angel Good Mornin'",
       "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "all night long",
-        "url": "https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO"
-      },
-      "artists": [
-        {
-          "name": "Gracie Schram",
-          "url": "https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d"
-        }
-      ],
-      "duration_ms": 194018,
-      "name": "all night long",
-      "url": "https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 212624,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Nobody Gets Me",
         "url": "https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 158080,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 212624,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Barbie Girl",
-        "url": "https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD"
-      },
-      "artists": [
-        {
-          "name": "Jill & Jane",
-          "url": "https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG"
-        }
-      ],
-      "duration_ms": 170931,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/3D2orXAe3EPWBBB1hK0AHn"
       },
@@ -1407,22 +1391,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Sure Thing",
-        "url": "https://open.spotify.com/album/4gEJtympDfHPCd0I1Aft8c"
+        "name": "Barbie Girl",
+        "url": "https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD"
       },
       "artists": [
         {
-          "name": "since always",
-          "url": "https://open.spotify.com/artist/0Yht4tZIX0zd3RSrvDaZuV"
-        },
-        {
-          "name": "Cheyenne Mitchell",
-          "url": "https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs"
+          "name": "Jill & Jane",
+          "url": "https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG"
         }
       ],
-      "duration_ms": 239178,
-      "name": "Sure Thing",
-      "url": "https://open.spotify.com/track/0b8ZH4B3FM4HHDabjfZFTL"
+      "duration_ms": 170931,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1439,6 +1419,26 @@
       "duration_ms": 187286,
       "name": "I Don't Want To Miss A Thing",
       "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Sure Thing",
+        "url": "https://open.spotify.com/album/4gEJtympDfHPCd0I1Aft8c"
+      },
+      "artists": [
+        {
+          "name": "since always",
+          "url": "https://open.spotify.com/artist/0Yht4tZIX0zd3RSrvDaZuV"
+        },
+        {
+          "name": "Cheyenne Mitchell",
+          "url": "https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs"
+        }
+      ],
+      "duration_ms": 239178,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0b8ZH4B3FM4HHDabjfZFTL"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/5LFXHU0Ed4S71AN5baidDF"
+      },
+      "artists": [
+        {
+          "name": "Beatrice",
+          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
+        }
+      ],
+      "duration_ms": 206294,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/0uXKksgFQS0qgjpEKv82wA"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Sparks",
         "url": "https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 184402,
       "name": "Collide",
       "url": "https://open.spotify.com/track/0SA2U0sQmB52EJpCCtFxGi"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/5LFXHU0Ed4S71AN5baidDF"
-      },
-      "artists": [
-        {
-          "name": "Beatrice",
-          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
-        }
-      ],
-      "duration_ms": 206294,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/0uXKksgFQS0qgjpEKv82wA"
     },
     {
       "added_at": "2024-02-02 00:01:00",

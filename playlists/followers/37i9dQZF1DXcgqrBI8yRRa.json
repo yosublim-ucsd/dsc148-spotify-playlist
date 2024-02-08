@@ -1,7 +1,7 @@
 {
-  "2024-02-07": 23535,
+  "2024-02-08": 23578,
   "date_first_scraped": "2021-12-29",
-  "description": "\"Ice Spice looks so Igbo. Like her name is Chisom\" ",
+  "description": "And the winner is Tyla!!!! ",
   "name": "Internet Famous",
   "tracks": [
     {
@@ -713,7 +713,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 151048,
       "name": "Babypiano",
       "url": "https://open.spotify.com/track/1Ohnxph900OeLlXj78mNwh"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 147746,
       "name": "Bandit",
       "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
@@ -1429,7 +1429,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 140000,
       "name": "Cana",
       "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
@@ -4074,6 +4074,24 @@
     },
     {
       "album": {
+        "name": "Glockoma 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140106,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
+    },
+    {
+      "album": {
         "name": "Fela With Ginger Baker Live!",
         "url": "https://open.spotify.com/album/7fkwNiJJggsA4bFyDMzmSr"
       },
@@ -4313,6 +4331,24 @@
       "duration_ms": 188368,
       "name": "love nwantiti (feat. Dj Yo! & AX'EL) - Remix",
       "url": "https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU"
+    },
+    {
+      "album": {
+        "name": "Mad Out",
+        "url": "https://open.spotify.com/album/6nR7RCfNBtfEHNW7wRVP67"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153040,
+      "name": "Mad Out",
+      "url": "https://open.spotify.com/track/0bTlhD1l36iHX1SUiNa3nL"
     },
     {
       "album": {
@@ -6844,6 +6880,24 @@
     },
     {
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "album": {
         "name": "Tukay (2k)",
         "url": "https://open.spotify.com/album/25vAuFWSNwcdnVRstbtYDG"
       },
@@ -6855,7 +6909,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 107206,
       "name": "Tukay (2k)",
       "url": "https://open.spotify.com/track/4Z0eRmvm56Tn8XIIU52Yqo"
@@ -7131,6 +7185,24 @@
       "duration_ms": 180950,
       "name": "Vigilante Bop",
       "url": "https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "album": {

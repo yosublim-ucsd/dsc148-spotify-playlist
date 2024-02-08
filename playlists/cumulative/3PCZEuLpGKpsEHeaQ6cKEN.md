@@ -2,7 +2,7 @@
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and more! \| Updated weekly on Friday Cover: Will Clarke &amp; BURNS
+> The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and more! \| Updated weekly on Friday Cover: NIIKO &amp; SWAE and TRAIN
 
 917 songs - 2 day 1 hr 4 min
 
@@ -590,7 +590,7 @@
 | [Perfect \(Exceeder\)](https://open.spotify.com/track/082SdPhw4QP3JkdmLQX20R) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\) \[1991 Remix\]](https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob) | 2:41 | 2024-01-26 |  |
 | [Perfect \(Exceeder\)](https://open.spotify.com/track/10UPqK1hrfqQBEIvmlFpdB) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Armada Music \- 20 Years](https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m) | 2:41 | 2023-08-31 | 2024-01-27 |
 | [Perfect \(Exceeder\) \- 1991 Remix](https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Perfect \(Exceeder\) \[1991 Remix\]](https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob) | 3:20 | 2024-01-26 |  |
-| [Perfect \(Exceeder\) \[1234 – Let Me Hear You Scream\] – Sped Up](https://open.spotify.com/track/0JCibql9R5cuYLBFRMocPj) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\) \[1234 – Let Me Hear You Scream\] – Sped Up](https://open.spotify.com/album/3H2tjX6hu3F3vaLJPkry9D) | 2:27 | 2024-01-11 |  |
+| [Perfect \(Exceeder\) \- \[1234 – Let Me Hear You Scream\] \- Sped Up](https://open.spotify.com/track/0JCibql9R5cuYLBFRMocPj) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\) \[1234 – Let Me Hear You Scream\] – Sped Up](https://open.spotify.com/album/3H2tjX6hu3F3vaLJPkry9D) | 2:27 | 2024-01-11 |  |
 | [Phases](https://open.spotify.com/track/62dZwFD4glaESrFFPGrXAN) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Phases](https://open.spotify.com/album/608DP618oad2ENr4JzaYdT) | 3:09 | 2022-10-27 | 2022-12-09 |
 | [Pia Pia](https://open.spotify.com/track/6DQ6LUgtfHYgtGl5doSYJt) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Pia Pia](https://open.spotify.com/album/3bb45MCSfDYnmEs4NGLihW) | 3:33 | 2022-08-17 | 2022-09-09 |
 | [Piece Of Art](https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Piece Of Art](https://open.spotify.com/album/2FxV796hbaU52R033iD7s5) | 3:16 | 2022-06-09 | 2023-05-13 |

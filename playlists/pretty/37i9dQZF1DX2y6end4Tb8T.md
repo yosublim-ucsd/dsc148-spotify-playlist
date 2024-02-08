@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 
 > Rap de alta gama\. Foto: Juice WRLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,253 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,265 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 62 | [Chucky73: Bzrp Music Sessions, Vol\. 43](https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Chucky73: Bzrp Music Sessions, Vol\. 43](https://open.spotify.com/album/4MedBjnVoUYNtQy2rZpHw9) | 2:21 |
 | 63 | [My Window \(feat\. Lil Wayne\)](https://open.spotify.com/track/7IECs9d4Rrlpa7tiHOCE1w) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Top](https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW) | 3:12 |
 | 64 | [Errbody](https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Errbody](https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2) | 3:30 |
-| 65 | [BURBERRY](https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [BURBERRY](https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx) | 4:41 |
-| 66 | [Second Emotion \(feat\. Travis Scott\)](https://open.spotify.com/track/1PnAx788sAvcI3ZxTlEyX8) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:22 |
+| 65 | [Second Emotion \(feat\. Travis Scott\)](https://open.spotify.com/track/1PnAx788sAvcI3ZxTlEyX8) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:22 |
+| 66 | [BURBERRY](https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [BURBERRY](https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx) | 4:41 |
 | 67 | [B.B\. King Freestyle \(with Drake\)](https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [B.B\. King Freestyle](https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271) | 3:42 |
 | 68 | [Tata](https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:45 |
 | 69 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 99 | [POV \(feat\. Rubi Rose\)](https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [The Saga of Wiz Khalifa \(Deluxe\)](https://open.spotify.com/album/7GmwwE2wcNtyq7nlsrYVuD) | 2:05 |
 | 100 | [NFL \(feat\. Gudda Gudda & HoodyBaby\)](https://open.spotify.com/track/3D9G7MPDU48r91YRCYeVRI) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Gudda Gudda](https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa), [Hoodybaby](https://open.spotify.com/artist/13lxs5lLGCBMyGLfmtfLEK) | [NFL](https://open.spotify.com/album/7DBAcWoFguEGBzypRXbMyA) | 3:30 |
 
-Snapshot ID: `MCw3YmUzODI5N2FkMTNiYTEzZDE4YmY1NThiZjhlOTk5MmI2NjI5Mzcy`
+Snapshot ID: `MCxhNmJiZGJiNTgwNDYwNDgyYTNiNjU4NjZkOTA1NzllY2I1MWE1OWZk`

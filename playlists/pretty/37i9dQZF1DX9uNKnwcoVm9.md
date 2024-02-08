@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,740 likes - 100 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,826 likes - 100 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 46 | [El Gran Yo Soy](https://open.spotify.com/track/16YdGLnlR0Tj71dsVvNNGE) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Metamorfosis](https://open.spotify.com/album/03uDbnflTv0xXsuzFujD04) | 5:24 |
 | 47 | [Jehová Es Mi Guerrero/Le Llaman \(Reprise\)](https://open.spotify.com/track/5IsqUSeMnxmoEdX9Ooot0r) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Fuego](https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR) | 2:16 |
 | 48 | [Por el poder de tu amor \(The power of your Love\)](https://open.spotify.com/track/3euqm8P1Mye2BiCEtjwFbT) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Inquebrantable](https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u) | 5:29 |
-| 49 | [Viviré](https://open.spotify.com/track/7DWyJ2oYpAGq5B9qSc1jEx) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Pura Sal](https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV) | 3:58 |
-| 50 | [Iglesia](https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [La Compilación](https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe) | 4:05 |
+| 49 | [Iglesia](https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [La Compilación](https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe) | 4:05 |
+| 50 | [Viviré](https://open.spotify.com/track/7DWyJ2oYpAGq5B9qSc1jEx) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Pura Sal](https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV) | 3:58 |
 | 51 | [Anhelo Conocerte Espiritu Santo](https://open.spotify.com/track/7ylsvpGbWJNgXUbqEyrxtk) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Recopilación](https://open.spotify.com/album/35kq5uh3NFFICxAXouBNPl) | 5:13 |
 | 52 | [Revelacion](https://open.spotify.com/track/6qYidY706dT5LxQSmbTg94) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Devoción \(En Vivo\)](https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk) | 7:52 |
 | 53 | [Roca eterna](https://open.spotify.com/track/6XQmgFgA5ERwrgbmb7iUx3) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 4:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 99 | [Mi confianza está en ti \(remix\)](https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Mi confianza está en ti \(remix\)](https://open.spotify.com/album/4P70uBMLI7M22FKLIVZU96) | 5:33 |
 | 100 | [Donde Tu Estás](https://open.spotify.com/track/16jKWnXGPFPZzMkcwjXFl2) | [Banda Horizonte](https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ) | [No Hay Otro Dios](https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm) | 6:33 |
 
-Snapshot ID: `MCxjNzAxZDQzNTQyODhmNTI5ZGQ2MTMxN2RjZTFmMDU1ZjIzMDcxMzI0`
+Snapshot ID: `MCxiYzMyZmMzNGUxZjdkMmNmMWQwYjEzN2I1Mjg3N2Y4ZDgyNTE5NWJm`

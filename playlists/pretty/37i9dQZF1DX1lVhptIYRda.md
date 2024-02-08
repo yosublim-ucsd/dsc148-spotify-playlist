@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Gabby Barrett
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,448,898 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,449,898 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [Let Your Boys Be Country](https://open.spotify.com/track/23bEisUvcSmIELLy4CMhkN) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Highway Desperado](https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw) | 3:16 |
 | 50 | [Tell Me Tennessee](https://open.spotify.com/track/1TiAmIJNwfRmneV5iyTdMG) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Tell Me Tennessee](https://open.spotify.com/album/0xIsoU5AicBuIrbY5cOMke) | 3:30 |
 
-Snapshot ID: `MCxhYjc0NTI3MzU2MDNiNGM0ZGFlYTM2OTEwMzYyZTBmYjU0ZDJmMWYz`
+Snapshot ID: `MCw1OTVlYWEyZmRmOWZlMGY2NWY3NWI5YzI0ZDY5YWNkZDdiZTFiMTdj`

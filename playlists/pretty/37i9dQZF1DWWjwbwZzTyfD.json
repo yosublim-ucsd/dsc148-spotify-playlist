@@ -1,12 +1,12 @@
 {
   "description": "The official soundtrack of Nike's NYvsNY, curated by the players. We Outside!",
-  "num_followers": 11620,
+  "num_followers": 11618,
   "original_name": "NYvsNY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDU2Njg2NmVjNzZhZjg4N2JjYjhjMTkzZDgwMjMyZDc1OGZkNTg3",
+  "snapshot_id": "MCw4NTY0NzMxZGI1OGM3NjViZTM4YzNmOWQ0OTY4MDIzNWQ2YjkwNzM0",
   "tracks": [
     {
       "added_at": "2023-06-27 06:48:40",
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 256079,
-      "name": "Bed Peace",
-      "url": "https://open.spotify.com/track/5Ck3e6z1bcSCes5gdo0Ddt"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "SlimeBall 2",
         "url": "https://open.spotify.com/album/6PRXKEq952eaaJWMUGNx5t"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 227175,
       "name": "EA (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 256079,
+      "name": "Bed Peace",
+      "url": "https://open.spotify.com/track/5Ck3e6z1bcSCes5gdo0Ddt"
     },
     {
       "added_at": "2023-06-27 06:48:40",

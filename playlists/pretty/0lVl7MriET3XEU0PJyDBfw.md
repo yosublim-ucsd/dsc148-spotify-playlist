@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Houseium&\#x27;s BANGIN HOUSE is full of high energy house music! 📲 TikTok &amp; IG: @houseium \[dm for inquiries\]
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,123 likes - 59 songs - 3 hr 5 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,122 likes - 59 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 58 | [Twist It](https://open.spotify.com/track/3KBYGZk7GjlCu96zU8DG86) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [AYAREZ](https://open.spotify.com/artist/3eTTWCTlXDyGKwrGqDMsX0) | [Twist It](https://open.spotify.com/album/7CIab4fV9GFYnECCO4lDnU) | 3:02 |
 | 59 | [Shut It Down](https://open.spotify.com/track/7qwLBBmnYAIzygxRKgtIBM) | [Jay Dunham](https://open.spotify.com/artist/4JWZwoacJTvnATTK9BUE34) | [Shut It Down](https://open.spotify.com/album/15bu5n3pheWYEoc6YmEBLO) | 3:47 |
 
-Snapshot ID: `NjIyNCxlM2U0ZDU2Mzk1ZDM0ZWZmZjA4ZjI2MWFmZmUyYzhmNWI3NDMyZTQ5`
+Snapshot ID: `NjIyNiw1MGIyOWM1ZjkwNDIwOTU0YmJmNzhiZGU3NjI2NDY1NmY5MjJjOTgw`

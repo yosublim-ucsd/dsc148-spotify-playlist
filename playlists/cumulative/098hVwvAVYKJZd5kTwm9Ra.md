@@ -4,7 +4,7 @@
 
 > Summer Barbeque grilling essentials for your backyard party\. Featuring 80s Classic Rock, 70s Yacht Rock, and Country Music favorites from AC/DC, Kenny Loggins, Rick Springfield, Kansas, TOTO, Van Morrison + more!
 
-211 songs - 13 hr 54 min
+212 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [More Than a Feeling](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:45 | 2022-04-20 |  |
 | [Mr\. Blue Sky](https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 5:03 | 2022-04-20 |  |
 | [Must've Never Met You](https://open.spotify.com/track/6ojicjDYUUoeE1tdSvfFo4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:18 | 2022-04-20 |  |
+| [My Maria](https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:28 | 2024-02-07 |  |
 | [No Sugar Tonight / New Mother Nature](https://open.spotify.com/track/3beYmUcaXJZiSZMPbsMI7p) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [American Woman](https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV) | 4:53 | 2023-01-24 |  |
 | [Oh Sherrie](https://open.spotify.com/track/4zEi4tr3lEhiAvTRxEzbEz) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [Street Talk \(Expanded Edition\)](https://open.spotify.com/album/0laWXQxeNNyr3N6waUu4tw) | 3:49 | 2023-01-24 |  |
 | [Oh, Pretty Woman](https://open.spotify.com/track/52HAHV1j93s5B8GoTNI7DJ) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [The Essential Roy Orbison](https://open.spotify.com/album/48CvRZSBT0FbOHKLFfHy0n) | 2:56 | 2023-01-24 |  |

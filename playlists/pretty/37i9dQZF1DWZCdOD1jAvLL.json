@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Apashe",
-  "num_followers": 233221,
+  "num_followers": 233319,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGM1N2E2MjQ2YTNiMTM2ZTgxZGJhMDA1MTdjM2E2ZDg1ZTRhYzA1",
+  "snapshot_id": "MCw5YzRiNDU3ZmQyOTUzNWZlYTJjYTQ0MWM4YTllNjFhYWU3ZTRjZWNi",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Bel Mercy",
+        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "duration_ms": 169606,
+      "name": "Bel Mercy",
+      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Softly (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/3SE4pGhmsIgaElY5I1OOMa"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 137142,
       "name": "Softly - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/58X8RJOiEXA1bkgUMPScXz"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Bel Mercy",
-        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
-      },
-      "artists": [
-        {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
-        }
-      ],
-      "duration_ms": 169606,
-      "name": "Bel Mercy",
-      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1323,30 +1323,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Push It",
-        "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
       },
@@ -1367,6 +1343,30 @@
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "I Found You",
-        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 176548,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Mind Awake, Body Asleep",
         "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 150447,
       "name": "Mind Awake, Body Asleep",
       "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 176548,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -2011,6 +2011,26 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Fuck Your Sunshine (Adventure Club Remix)",
+        "url": "https://open.spotify.com/album/6icWyduCnRXtFYlEBPgavf"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        },
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        }
+      ],
+      "duration_ms": 224250,
+      "name": "Fuck Your Sunshine (Adventure Club Remix)",
+      "url": "https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "You Found Me",
         "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
       },
@@ -2031,26 +2051,6 @@
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Fuck Your Sunshine (Adventure Club Remix)",
-        "url": "https://open.spotify.com/album/6icWyduCnRXtFYlEBPgavf"
-      },
-      "artists": [
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        },
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        }
-      ],
-      "duration_ms": 224250,
-      "name": "Fuck Your Sunshine (Adventure Club Remix)",
-      "url": "https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "TEQUILA",
-        "url": "https://open.spotify.com/album/5g9iR0BMaHokdsxPERf5rB"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 183879,
-      "name": "TEQUILA",
-      "url": "https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Into U",
         "url": "https://open.spotify.com/album/5nSJWsxgo6XCBWyyperlwk"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 158139,
       "name": "Into U",
       "url": "https://open.spotify.com/track/7Esv32DsoH0GlAm42R4eXD"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "TEQUILA",
+        "url": "https://open.spotify.com/album/5g9iR0BMaHokdsxPERf5rB"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 183879,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -2215,26 +2215,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/3zgSMDDYMuWQJihpF9SFQX"
-      },
-      "artists": [
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "Going Insane",
-      "url": "https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Night In Milan",
         "url": "https://open.spotify.com/album/5mjEC5XuALfFLI7XlpnAXL"
       },
@@ -2251,6 +2231,26 @@
       "duration_ms": 154081,
       "name": "Night In Milan",
       "url": "https://open.spotify.com/track/5WZp98NX90Oqy2mAQcwleA"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/3zgSMDDYMuWQJihpF9SFQX"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 231529,
+      "name": "Going Insane",
+      "url": "https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -2275,26 +2275,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Bring It Back",
-        "url": "https://open.spotify.com/album/59nhRrYrcHzI5vs0obptvb"
-      },
-      "artists": [
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        },
-        {
-          "name": "Cakes da Killa",
-          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
-        }
-      ],
-      "duration_ms": 178242,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/1ZGiu67oe3wt3t6Lqoegqm"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "What You Got",
         "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
       },
@@ -2311,6 +2291,26 @@
       "duration_ms": 160000,
       "name": "What You Got",
       "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/59nhRrYrcHzI5vs0obptvb"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        }
+      ],
+      "duration_ms": 178242,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/1ZGiu67oe3wt3t6Lqoegqm"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -2403,26 +2403,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Gladiator",
-        "url": "https://open.spotify.com/album/1syBtYI0asFIInNYjw7bNI"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Def3",
-          "url": "https://open.spotify.com/artist/6kqN8RoL2VpRM8EgGwHiHG"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Gladiator",
-      "url": "https://open.spotify.com/track/6ecgqoYRp0sAu0WoWhctQb"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Shady Intentions (feat. Tori Levett) [VIP]",
         "url": "https://open.spotify.com/album/5JmKOq0STayo8YdKHLIs7B"
       },
@@ -2443,6 +2423,26 @@
       "duration_ms": 182278,
       "name": "Shady Intentions (feat. Tori Levett) - VIP",
       "url": "https://open.spotify.com/track/0H7ohNCf0NzJQdtm0045RR"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Gladiator",
+        "url": "https://open.spotify.com/album/1syBtYI0asFIInNYjw7bNI"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Def3",
+          "url": "https://open.spotify.com/artist/6kqN8RoL2VpRM8EgGwHiHG"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Gladiator",
+      "url": "https://open.spotify.com/track/6ecgqoYRp0sAu0WoWhctQb"
     },
     {
       "added_at": "2024-01-19 05:00:00",

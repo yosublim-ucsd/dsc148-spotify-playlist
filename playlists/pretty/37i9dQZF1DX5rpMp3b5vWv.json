@@ -1,12 +1,12 @@
 {
   "description": "Game time.",
-  "num_followers": 192826,
+  "num_followers": 193253,
   "original_name": "Laced Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzhmM2ZkZTZmNTM2YWJiYzA0YTE4MjY1OTg3MWQ5NGZmZGU2NjFj",
+  "snapshot_id": "MCwxNjUxNTk3MWEzY2FiMWJmM2QyNThlMjFjOGMzZjQ3NzBiZmZkMDhi",
   "tracks": [
     {
       "added_at": "2023-12-28 18:28:27",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-12-28 18:28:27",
       "album": {
-        "name": "Luv Is Rage 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 220586,
-      "name": "20 Min",
-      "url": "https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng"
-    },
-    {
-      "added_at": "2023-12-28 18:28:27",
-      "album": {
         "name": "DIE FOR MY BITCH",
         "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
       },
@@ -483,18 +467,18 @@
     {
       "added_at": "2023-12-28 18:28:27",
       "album": {
-        "name": "Lyf\u00eb",
-        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+        "name": "Luv Is Rage 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP"
       },
       "artists": [
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 150241,
-      "name": "Out th\u00eb way",
-      "url": "https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6"
+      "duration_ms": 220586,
+      "name": "20 Min",
+      "url": "https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng"
     },
     {
       "added_at": "2023-12-28 18:28:27",
@@ -511,6 +495,22 @@
       "duration_ms": 213593,
       "name": "MIDDLE CHILD",
       "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
+    },
+    {
+      "added_at": "2023-12-28 18:28:27",
+      "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 150241,
+      "name": "Out th\u00eb way",
+      "url": "https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6"
     },
     {
       "added_at": "2023-12-28 18:28:27",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-12-28 18:28:27",
       "album": {
+        "name": "DIE FOR MY BITCH",
+        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 172672,
+      "name": "HONEST",
+      "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
+    },
+    {
+      "added_at": "2023-12-28 18:28:27",
+      "album": {
         "name": "leavemealone",
         "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
-    },
-    {
-      "added_at": "2023-12-28 18:28:27",
-      "album": {
-        "name": "DIE FOR MY BITCH",
-        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 172672,
-      "name": "HONEST",
-      "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
     },
     {
       "added_at": "2023-12-28 18:28:27",

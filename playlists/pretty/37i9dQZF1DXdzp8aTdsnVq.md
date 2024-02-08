@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 > Novedades y clásicos del popular género colombiano\. Foto: La Banda del 5
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,520 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,547 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 37 | [Tierra Mala](https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU) | 4:49 |
 | 38 | [Te Lo Dije](https://open.spotify.com/track/0uWc7lXGIv3K3575AhP6Cp) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [El Rey Guajiro](https://open.spotify.com/album/6rWUTRk4HYaV3ExfbtPmkh) | 4:19 |
 | 39 | [Manantial De Amor](https://open.spotify.com/track/7Jj7xLUrsvHCiwOsNxzPPC) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Seguimos Por Lo Alto](https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0) | 4:21 |
-| 40 | [Me Gustas Mucho](https://open.spotify.com/track/5KsBV3bKtUtU64TmqCgVP7) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Sergio Luis Rodrí](https://open.spotify.com/artist/1ynyzPMXLuvZ3Of56x8i8A) | [Ni Un Paso Atrás](https://open.spotify.com/album/1p5Pm8Vqk932S2VFVUAoi4) | 3:28 |
+| 40 | [Me Gustas Mucho](https://open.spotify.com/track/5KsBV3bKtUtU64TmqCgVP7) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [Ni Un Paso Atrás](https://open.spotify.com/album/1p5Pm8Vqk932S2VFVUAoi4) | 3:28 |
 | 41 | [Obsesión \(feat\. Ramiro Better\)](https://open.spotify.com/track/4yc290Q5nIELODhKyntBhP) | [Estrellas Vallenatas](https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7), [Ramiro Better](https://open.spotify.com/artist/1zCl36J3uAuup64ADqK5Pw) | [Homenaje](https://open.spotify.com/album/4CCxY26bO2H9QJe0Y71l1u) | 3:34 |
 | 42 | [Sirena Encantada](https://open.spotify.com/track/3LhmbxCgjX7E7xYBEUn30Y) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Gracias Mi Gente](https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX) | 5:10 |
 | 43 | [Mi Ex](https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Imparables](https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO) | 4:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 59 | [Dificil de igualar](https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 5:03 |
 | 60 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
 
-Snapshot ID: `MCwzNDk0Zjk3NDUxNDQ5MWRiNzMzYzlhOWU5Y2QwOGFmNmRhYmIzNTc1`
+Snapshot ID: `MCw2ZjE0YzZhNTc0OGQ3NDlhZTMzNTI1NzdiZmMyNzg0MTg0ODEyNzM0`

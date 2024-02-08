@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 35700,
+  "2024-02-08": 35716,
   "date_first_scraped": "2023-11-11",
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
   "name": "This Is Lola Indigo",
@@ -471,7 +471,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 166426,
       "name": "El Humo - Canci\u00f3n Original De La Pel\u00edcula \"Lo Dejo Cuando Quiera\"",
       "url": "https://open.spotify.com/track/22umYdEW0MLHMPPFaZDlxE"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 181373,
       "name": "Problema",
       "url": "https://open.spotify.com/track/4qqKKWNXXPbRX2eEi1pP8i"

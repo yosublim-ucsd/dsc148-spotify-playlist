@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 68625,
+  "num_followers": 68627,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDZmNWViNWFjM2IxNDBlZTA5OTdlN2Q5YWQ1NGFlNWJjYTJkZWUw",
+  "snapshot_id": "MCxhYzUxNmVlZTJkYzI0MTEzMzJlYTNlNGY1ZDIxNDBkYjFjMWJmOTA0",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Som Salomos S\u00e5ng",
-        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
-      },
-      "artists": [
-        {
-          "name": "Governor Andy",
-          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "Bonus P\u00e5 Kortet",
-      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Mera tid",
         "url": "https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 189600,
       "name": "Mera tid",
       "url": "https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Som Salomos S\u00e5ng",
+        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
+      },
+      "artists": [
+        {
+          "name": "Governor Andy",
+          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
+        }
+      ],
+      "duration_ms": 223840,
+      "name": "Bonus P\u00e5 Kortet",
+      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
     },
     {
       "added_at": "2023-10-12 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,022 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,030 likes - 50 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 49 | [Enyi Me Mma](https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS) | [Ama Boahemaa](https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:31 |
 | 50 | [I Have a God](https://open.spotify.com/track/4lMleOHHpi7NOlDNzB2dvH) | [Francis Agyei](https://open.spotify.com/artist/3Hfa3UtgEZjW9pnYKSI5Q2) | [God You Are So Good](https://open.spotify.com/album/3NrW1Gz5zkKAHJGKQNcQZi) | 6:24 |
 
-Snapshot ID: `MCxkMWJjZTMyNTdkMjYxNjM2MWNkMDdkMjViNTA4M2NiNjcwOGNiODFi`
+Snapshot ID: `MCwyOWY5NTkyNWJmMWU0MzZjNjUzMDVkNDEzNDRkNzRiMzcwNDNlMTJk`

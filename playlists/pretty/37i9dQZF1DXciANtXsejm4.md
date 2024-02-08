@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,963 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,071 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,18 +75,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 65 | [Ella Dijo](https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Ritmo, Pasión y Sentimiento](https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd) | 3:57 |
 | 66 | [Me Dediqué a Perderte \- En Vivo](https://open.spotify.com/track/7JiYdbPQK2G4sDskpcrtC2) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg), [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Todo a Su Tiempo \(En Vivo\)](https://open.spotify.com/album/6ncnLdG9zt1XlpewOBSqJl) | 4:15 |
 | 67 | [Universo Paralelo](https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Universo Paralelo](https://open.spotify.com/album/2HYbtLvbsiMkRMCIWOIR3R) | 3:39 |
-| 68 | [Dígale](https://open.spotify.com/track/08c3uA4n8HcMMj8zgTqAZK) | [Chanchi y Los Autenticos](https://open.spotify.com/artist/137pHEZ9U76r4ouXTa6Bjc) | [Como un Caramelo](https://open.spotify.com/album/5AWeZMvbhQFe3c6XJ8DxA6) | 4:52 |
-| 69 | [Háblame de Ti](https://open.spotify.com/track/7KwtJYezYZoCM5bn9lJhI2) | [El Combo 10](https://open.spotify.com/artist/5eHmtjAF9bKZWmaP3GFQyf) | [Inconfundibles](https://open.spotify.com/album/5XS53CuiCnRIbG3gE49ZzS) | 3:31 |
+| 68 | [Háblame de Ti](https://open.spotify.com/track/7KwtJYezYZoCM5bn9lJhI2) | [El Combo 10](https://open.spotify.com/artist/5eHmtjAF9bKZWmaP3GFQyf) | [Inconfundibles](https://open.spotify.com/album/5XS53CuiCnRIbG3gE49ZzS) | 3:31 |
+| 69 | [Dígale](https://open.spotify.com/track/08c3uA4n8HcMMj8zgTqAZK) | [Chanchi y Los Autenticos](https://open.spotify.com/artist/137pHEZ9U76r4ouXTa6Bjc) | [Como un Caramelo](https://open.spotify.com/album/5AWeZMvbhQFe3c6XJ8DxA6) | 4:52 |
 | 70 | [Enganchados 2 \(Contigo me gusta / No me acostumbro\)](https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4) | [Leo Mattioli y Trinidad](https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH) | [Juntando Las Almas](https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To) | 3:20 |
 | 71 | [Qué Se Siente](https://open.spotify.com/track/0sL2C1WvJnmrvE9F3hTZaw) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [Una Eterna Pasión](https://open.spotify.com/album/6rYOGgU9UPgjVhmpbBFVfn) | 3:59 |
-| 72 | [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 |
-| 73 | [Imposible Olvidarte](https://open.spotify.com/track/5XwKOns3tv46E2CmhZFvED) | [Sergio Moran y su Banda](https://open.spotify.com/artist/7hSXBaGwB70P4kBDzqoTT2) | [Como Tú](https://open.spotify.com/album/6GU7qLROD5m1VWF12BD0m2) | 3:20 |
+| 72 | [Imposible Olvidarte](https://open.spotify.com/track/5XwKOns3tv46E2CmhZFvED) | [Sergio Moran y su Banda](https://open.spotify.com/artist/7hSXBaGwB70P4kBDzqoTT2) | [Como Tú](https://open.spotify.com/album/6GU7qLROD5m1VWF12BD0m2) | 3:20 |
+| 73 | [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 |
 | 74 | [Te Sorprenderás](https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS) | [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Sorprenderás](https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8) | 3:08 |
 | 75 | [Enganchado Homenaje a Leo Mattioli \- Cada vez te quiero más \- Te llevo dentro de mi \- Después de ti \- Te tengo que olvidar](https://open.spotify.com/track/4TLBCFkqq1OPNd3USWzL9y) | [Palmae](https://open.spotify.com/artist/6UnXebpVutLe2rgBz108JR), [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1) | [Enganchado Homenaje a Leo Mattioli \(Padres e Hijos\)](https://open.spotify.com/album/2zy5hs0VuLBjYwpVo5Pq7Y) | 5:11 |
 | 76 | [No Fue Culpa Mia](https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [No Fue Culpa Mia](https://open.spotify.com/album/2hwcGbBQKle8mt23Z3gy6p) | 3:48 |
 | 77 | [Flor Pálida](https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Mensajes del Corazon](https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW) | 4:22 |
 | 78 | [Entre el Odio y el Amor](https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Rico y Suave](https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP) | 3:38 |
-| 79 | [Se Enamoró de Mi la Soledad](https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Se Enamoró de Mi la Soledad](https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI) | 4:05 |
-| 80 | [Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo](https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Grupo Trinidad y Sus Cantantes](https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3) | 7:37 |
+| 79 | [Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo](https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Grupo Trinidad y Sus Cantantes](https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3) | 7:37 |
+| 80 | [Se Enamoró de Mi la Soledad](https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Se Enamoró de Mi la Soledad](https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI) | 4:05 |
 
-Snapshot ID: `MCxiODRlMGI4NWVhZTRlZjlkMjI0ODk0ODg3MDMyOTNiY2MyZWRlMTUz`
+Snapshot ID: `MCwyYWRkMDdkOWQ2YTAxYTllOTdiZTcxYjhlNjQ0ZjZmZjcyOTYwNTk5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 
 > This is Kanye West\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,815 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,223,082 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 | 41 | [Gorgeous](https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 5:57 |
 | 42 | [Erase Me \- Main](https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 3:12 |
 | 43 | [Gotta Have It](https://open.spotify.com/track/6JFLZH9vCzgqnUToBdiHQb) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne](https://open.spotify.com/album/7mCeLbChyegbRwwKK5shJs) | 2:20 |
-| 44 | [No More Parties In LA](https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 6:14 |
+| 44 | [Saint Pablo](https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 6:12 |
 | 45 | [Go2DaMoon \(feat\. Kanye West\)](https://open.spotify.com/track/0F13K9dwYH2zpTWiR8d628) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:59 |
 | 46 | [Dark Fantasy](https://open.spotify.com/track/7yNK27ZTpHew0c55VvIJgm) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:40 |
 | 47 | [Hurricane](https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:03 |
-| 48 | [Saint Pablo](https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 6:12 |
-| 49 | [God Is](https://open.spotify.com/track/6xRWoYwfwIKnT8bQGzKbxR) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:23 |
-| 50 | [Mixed Personalities \(feat\. Kanye West\)](https://open.spotify.com/track/6vWEAOUSxohKxhp0K1BsxL) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [We All Shine](https://open.spotify.com/album/09b9NC1oQbYaHcacgXn66k) | 3:50 |
+| 48 | [God Is](https://open.spotify.com/track/6xRWoYwfwIKnT8bQGzKbxR) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:23 |
+| 49 | [Mixed Personalities \(feat\. Kanye West\)](https://open.spotify.com/track/6vWEAOUSxohKxhp0K1BsxL) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [We All Shine](https://open.spotify.com/album/09b9NC1oQbYaHcacgXn66k) | 3:50 |
+| 50 | [Heard 'Em Say](https://open.spotify.com/track/6yIjtVtnOBeC8SwdVHzAuF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:23 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDBhODdkNmUyYjA3Y2JkOTgzOWRmMTZkNjkzYzYxMzhkZA==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDBkNGJhZDMyZDgwMWNjZDZkNmE5YzdmYzE4ZjcwNDkyOQ==`

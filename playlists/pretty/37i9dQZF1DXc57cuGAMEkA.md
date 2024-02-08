@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。あいみょん, USHER, Daniel Ceasar, Billy Joel and more! Cover: あいみょん
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,394 likes - 67 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,411 likes - 67 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 66 | [RED BEANIE](https://open.spotify.com/track/6I37Ah6683XO8YS69rcoXy) | [高岩 遼](https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd) | [RED BEANIE](https://open.spotify.com/album/2s5qxdJRT2nqikoCVTMGLw) | 2:41 |
 | 67 | [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 |
 
-Snapshot ID: `MCw0NzdlODhhMzY5YzM2MDcyMzAzOWZlZDZmN2ZjNGVlZjRjNDc1OTE5`
+Snapshot ID: `MCwyYTRmZjA5Y2FjZDk2ZTIzNWNmOGZiNTA2ODYzYzgzODM2NjM4MmQ0`

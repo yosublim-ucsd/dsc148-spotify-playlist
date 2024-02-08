@@ -4,7 +4,7 @@
 
 > This is Bob Marley & The Wailers\. The essential tracks, all in one playlist.
 
-49 songs - 3 hr 7 min
+50 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Kinky Reggae \- Jamaican Version](https://open.spotify.com/track/3nVveBWPxK3A65Wj6caJ1W) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 3:42 | 2024-02-01 |  |
 | [Lively Up Yourself](https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 5:10 | 2024-02-01 |  |
 | [Misty Morning](https://open.spotify.com/track/7e7kLujXF3G5IcHoskemSI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:33 | 2024-02-01 |  |
+| [Mr\. Chatterbox \- Extended Mix](https://open.spotify.com/track/33VGV7jjHbOHGsGHrhMhF7) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Mr\. Chatterbox \(Extended Mix\)](https://open.spotify.com/album/1HKSNPpEZfNiOHNuZxuayj) | 5:38 | 2024-02-07 |  |
 | [Natural Mystic](https://open.spotify.com/track/64xslN8DB3jG1tK2l3H1mA) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:27 | 2024-02-01 |  |
 | [No Woman, No Cry \- Live At The Lyceum, London/1975](https://open.spotify.com/track/423hwXFgoN8RYmqLoLuVvY) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Live!](https://open.spotify.com/album/5mvQHYARofQRsOE2cqBzik) | 7:07 | 2024-02-01 |  |
 | [One Drop](https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 3:51 | 2024-02-01 |  |
@@ -47,7 +48,7 @@
 | [So Much Things To Say](https://open.spotify.com/track/2RiOvJpzM1IsxZNLlCBqIM) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:08 | 2024-02-01 |  |
 | [So Much Trouble In The World](https://open.spotify.com/track/209SbubR5uKaVzj5SeN42w) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 4:00 | 2024-02-01 |  |
 | [Stiff Necked Fools](https://open.spotify.com/track/1eN3VT6F8JNkjF9b4AMhzd) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 3:25 | 2024-02-01 |  |
-| [Stir It Up](https://open.spotify.com/track/3sqZDdEO5viqNqMCNem5m5) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 5:32 | 2024-02-01 | 2024-02-07 |
+| [Stir It Up](https://open.spotify.com/track/3sqZDdEO5viqNqMCNem5m5) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 5:32 | 2024-02-01 |  |
 | [Sun Is Shining](https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 4:58 | 2024-02-01 |  |
 | [Them Belly Full \(But We Hungry\)](https://open.spotify.com/track/2Ezmm08Oy4772SkEoC18Kt) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 3:13 | 2024-02-01 |  |
 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2024-02-01 |  |

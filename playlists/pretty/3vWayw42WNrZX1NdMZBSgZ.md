@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Enrique Iglesias &amp; Yotuel &quot;Fría&quot;, Christian Nodal &amp; Peso Pluma &quot;La Intención&quot; Prince Royce &amp; Gabito Ballesteros &quot;Cosas de la Peda&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;, Maluma x Carin Leon &quot;Segun Quien&quot;
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 54,680 likes - 135 songs - 7 hr 10 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 54,679 likes - 135 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fría](https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Fría](https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ) | 2:56 |
 | 2 | [La Intención](https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Intención](https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2) | 4:09 |
 | 3 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS) | 2:41 |
-| 4 | [JET\_Set.mp3](https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [JET\_Set.mp3](https://open.spotify.com/album/3UQ9Yd5Rsz6McPImmr3jWW) | 2:25 |
-| 5 | [Vocation](https://open.spotify.com/track/70xKqgJOnicN4OsIB6hOXU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Vocation](https://open.spotify.com/album/2wxhtvRbDXBBHnGXQ8HCqa) | 3:04 |
-| 6 | [HOLA PERDIDA](https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA](https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl) | 2:46 |
+| 4 | [HOLA PERDIDA](https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA](https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl) | 2:46 |
+| 5 | [JET\_Set.mp3](https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [JET\_Set.mp3](https://open.spotify.com/album/3UQ9Yd5Rsz6McPImmr3jWW) | 2:25 |
+| 6 | [Vocation](https://open.spotify.com/track/70xKqgJOnicN4OsIB6hOXU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Vocation](https://open.spotify.com/album/2wxhtvRbDXBBHnGXQ8HCqa) | 3:04 |
 | 7 | [Cosita](https://open.spotify.com/track/0Y6LuNpPmmTie7EQumHxeC) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Cosita](https://open.spotify.com/album/4wcYdtQuHIXChUhwtRAaoy) | 2:00 |
 | 8 | [BARCELONA](https://open.spotify.com/track/10MB5BRNILT229BsnB2oRU) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [DE CAMINO A HERMES](https://open.spotify.com/album/5DLbv9HAIPWzqChpPxIAnc) | 4:03 |
 | 9 | [tu sonrisa](https://open.spotify.com/track/3F1ug6PMfRKnhL0ExVAvYq) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD), [NEON16](https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8) | [tu sonrisa](https://open.spotify.com/album/6LzWepLzOCbYWKM5aOlY4U) | 2:18 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 | 134 | [ULTRA SOLO REMIX](https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [ULTRA SOLO REMIX](https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm) | 5:22 |
 | 135 | [Gafas Negras](https://open.spotify.com/track/4s7hIsoRpnmaSvdETaIOSe) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Gafas Negras](https://open.spotify.com/album/3nfeL4QZ0GZfkJbr8FHyHn) | 3:06 |
 
-Snapshot ID: `NDMyNSw4NzNkZTYxN2Q3ZjMwNTFmMGYxM2Q5NjZiYjA4YWZjZWU4ZGY5OThi`
+Snapshot ID: `NDMyNiw0MGUwODNlYTExOWFlMWU0Zjc5ZDhiYzg2NWIzYzE5ZWY4Njk1MTcz`

@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 37430,
+  "2024-02-08": 37458,
   "date_first_scraped": "2022-07-17",
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
   "name": "Nordic Jazz",
@@ -1335,7 +1335,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 373899,
       "name": "Langsam",
       "url": "https://open.spotify.com/track/0NKRiAOYSRLh93LkStI71j"
@@ -2563,7 +2563,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 299333,
       "name": "Svevende",
       "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"

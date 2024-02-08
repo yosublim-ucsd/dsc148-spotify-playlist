@@ -900,7 +900,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 164825,
       "name": "88 degrees",
       "url": "https://open.spotify.com/track/5Hmh3t1lkGpVHNoGOHsyRZ"
@@ -3644,7 +3644,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 212210,
       "name": "Around & Around",
       "url": "https://open.spotify.com/track/5GIQmyA8aYBZV9rV5FyCue"
@@ -14010,7 +14010,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 295631,
       "name": "DREAMMAKER",
       "url": "https://open.spotify.com/track/6KSPEAoninw6hbxACLLoLh"
@@ -19194,6 +19194,24 @@
       "duration_ms": 216000,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/7kSM4ah3qZ5KhQUfuytqxu"
+    },
+    {
+      "album": {
+        "name": "7 Notas",
+        "url": "https://open.spotify.com/album/4K6IF9DBip5fiN9JTc5xgT"
+      },
+      "artists": [
+        {
+          "name": "Di Marson",
+          "url": "https://open.spotify.com/artist/6qz4K8nwNOg4UD0AgExxO5"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159059,
+      "name": "Girass\u00f3is",
+      "url": "https://open.spotify.com/track/4G46Hv1JViv71MgM6RGpuR"
     },
     {
       "album": {
@@ -41309,6 +41327,28 @@
     },
     {
       "album": {
+        "name": "Sali Bueno",
+        "url": "https://open.spotify.com/album/7HhoGWjtJNFOVGSDdxeDAl"
+      },
+      "artists": [
+        {
+          "name": "Alex Vizcaino",
+          "url": "https://open.spotify.com/artist/53leNquO8PxfUOmtXDQ7ZH"
+        },
+        {
+          "name": "Tony Leggs",
+          "url": "https://open.spotify.com/artist/6pHLojbzeaiEhyu1E4mJT4"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165184,
+      "name": "Sali Bueno",
+      "url": "https://open.spotify.com/track/0VzT6r2unzUhz2ZRajWxu7"
+    },
+    {
+      "album": {
         "name": "Salma (Anthem)",
         "url": "https://open.spotify.com/album/2W2pJtbD8aq6uqJOFMZxiW"
       },
@@ -43902,7 +43942,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 348500,
       "name": "Solitude Burns",
       "url": "https://open.spotify.com/track/1FQWkhlvCcjPsaqpMU9Yfn"
@@ -47562,6 +47602,24 @@
       "duration_ms": 138461,
       "name": "TERRIBLE THINGS",
       "url": "https://open.spotify.com/track/1uzlhLExxmQuNoI6vGXA45"
+    },
+    {
+      "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/65B1T635QV4s2fhGpIoT1H"
+      },
+      "artists": [
+        {
+          "name": "Cabela and Schmitt",
+          "url": "https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198709,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/4I7M8sEbqY1UPbrDtqTwwR"
     },
     {
       "album": {

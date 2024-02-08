@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: BAEKHO, Park Ji Won\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,410 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,440 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 22 | [Luv Luv Luv](https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [My Lovely Liar, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl) | 3:22 |
 | 23 | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g) | 3:05 |
 | 24 | [Ordinary Love](https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Ordinary Love](https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE) | 3:52 |
-| 25 | [See you](https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx) | 3:06 |
-| 26 | [PLAY \(feat\. Changmo\)](https://open.spotify.com/track/4gJLkQRcGRJRoHJAavP9iN) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:19 |
+| 25 | [PLAY \(feat\. Changmo\)](https://open.spotify.com/track/4gJLkQRcGRJRoHJAavP9iN) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:19 |
+| 26 | [See you](https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx) | 3:06 |
 | 27 | [Ghosting \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Ghosting](https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo) | 3:40 |
 | 28 | [A little bit more](https://open.spotify.com/track/7zQfolCu9NJF1M8rwPOERI) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0), [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Whats wrong with secretary kim OST Part.4](https://open.spotify.com/album/52fLYrQxllSI9fJOp0lS3I) | 3:24 |
 | 29 | [Mayday \(Feat\. Joy\)](https://open.spotify.com/track/37cXQzQaHR7zMk8G360Vke) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [homemade 1](https://open.spotify.com/album/1ki9IXpNliEpYmXqhPIJz6) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 49 | [Love\(Prod.Rocoberry\)](https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [LEE SUNG KYOUNG](https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP) | [Love\(Prod.Rocoberry\)](https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH) | 3:40 |
 | 50 | [Freesia](https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:49 |
 
-Snapshot ID: `MCwwZDI2MDJkYjYwOGYyZTdmYTA2YzYxMTExZTA4OWVjMGFhNTA2Mjli`
+Snapshot ID: `MCw1OWU3NWZkNDdiMGNlOTYzNzcxMjI2NWFkODUyYjgyNWI2NWJiMjIx`

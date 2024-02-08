@@ -4,7 +4,7 @@
 
 > A happy place.
 
-307 songs - 20 hr 7 min
+308 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,8 @@
 | [Say U Luv Me \- salute Remix](https://open.spotify.com/track/7uzMSnGDevJO66l5Y99OmJ) | [Karma Kid](https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Say U Luv Me](https://open.spotify.com/album/4PLYvCdeBDApCHZGiOfrQB) | 4:31 | 2022-01-14 | 2022-07-23 |
 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 | 2022-01-14 | 2023-11-04 |
 | [Seventies](https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb) | 3:16 | 2023-10-02 |  |
-| [She's a Lady \(Disco Mix\)](https://open.spotify.com/track/4PkyBwZolHSrkPiBB7418h) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [She's a Lady \(Disco Mix\)](https://open.spotify.com/album/0Hpu0hHFUjcGijSVZTR6Qw) | 3:22 | 2024-02-02 |  |
+| [She's a Lady \(Disco Mix\)](https://open.spotify.com/track/45eQUenvHhoTUVgRvt7Fai) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [She's a Lady \(Disco Mix\)](https://open.spotify.com/album/7IO47OClgjkDi6qbDUxmjs) | 3:22 | 2024-02-02 |  |
+| [She's a Lady \(Disco Mix\)](https://open.spotify.com/track/4PkyBwZolHSrkPiBB7418h) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [She's a Lady \(Disco Mix\)](https://open.spotify.com/album/0Hpu0hHFUjcGijSVZTR6Qw) | 3:22 | 2024-02-02 | 2024-02-08 |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-12-22 |  |
 | [Shit Cant Make Anything](https://open.spotify.com/track/39XdVtrOfiXIMqZ9YMJYLO) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ) | [Shit Cant Make Anything](https://open.spotify.com/album/52PiRAX8jw2CtkaEJSLZJr) | 3:13 | 2022-01-14 | 2022-07-29 |
 | [Silk Robe](https://open.spotify.com/track/1PLWMDuWR3gfsuBGMRUgY8) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06) | [Silk Robe](https://open.spotify.com/album/2cREL8DhgMw5f2VYC1I1Qv) | 3:38 | 2022-01-14 | 2022-07-28 |

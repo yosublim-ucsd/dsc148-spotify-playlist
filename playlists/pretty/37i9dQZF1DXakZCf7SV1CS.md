@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,907 likes - 75 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,967 likes - 75 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 53 | [LEGEND](https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb) | 2:37 |
 | 54 | [bad idea](https://open.spotify.com/track/7hXEc9Hk5MS2BVoSFx4H5X) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea](https://open.spotify.com/album/3uhiRR9njhC3ALTQrRksmK) | 1:09 |
 | 55 | [Man To Man](https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 3:17 |
-| 56 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 |
-| 57 | [Drama](https://open.spotify.com/track/515i7Vfw6yTAa0VN6LVopr) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Good Luck \(Deluxe\)](https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM) | 2:00 |
+| 56 | [Drama](https://open.spotify.com/track/515i7Vfw6yTAa0VN6LVopr) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Good Luck \(Deluxe\)](https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM) | 2:00 |
+| 57 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 |
 | 58 | [venus fly trap](https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [venus fly trap](https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge) | 4:55 |
 | 59 | [Whatuworried4?](https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [Whatuworried4?](https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp) | 2:35 |
 | 60 | [BIPP](https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [BIPP](https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU) | 3:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 74 | [Decay](https://open.spotify.com/track/0gcIejeOFsOjbxzU5m2BV1) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [Secrets](https://open.spotify.com/album/7B6Xgysqk6NCRcMe6RjCUT) | 2:02 |
 | 75 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 |
 
-Snapshot ID: `MCw2YTczNDMwNWYwNTlhM2Q4MzUxNTM0YzMyOGVmMTgzMjk1NzlkYmYw`
+Snapshot ID: `MCw1ODQ5ODc1ODJjMDk3ZjFhMjUxYzQ3MTEyMGQ3MzE3Y2E1YjQzZjhh`

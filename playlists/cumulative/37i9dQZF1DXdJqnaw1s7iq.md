@@ -4,19 +4,20 @@
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-131 songs - 9 hr 21 min
+132 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1998](https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i) | 3:44 | 2023-05-17 |  |
 | [A Walk](https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 5:16 | 2023-05-17 |  |
 | [Affection](https://open.spotify.com/track/3AFpIlNR4DEJ1WC7qyOHU8) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 2:36 | 2023-05-17 | 2023-05-30 |
-| [All I Want](https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [All In All](https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN) | 7:48 | 2023-05-17 |  |
+| [All I Want](https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [All In All](https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN) | 7:48 | 2023-05-17 | 2024-02-08 |
 | [All Night](https://open.spotify.com/track/04jqhpf3oV06HtlmthfcZZ) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Love Songs: Part Two](https://open.spotify.com/album/324LXtvXAeKBeDIN1NkGuG) | 4:54 | 2023-05-17 |  |
 | [Archangel](https://open.spotify.com/track/55gnBQAhU5rGzLsXTAx2MM) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK) | 3:58 | 2023-12-08 |  |
 | [As Far As I Can See](https://open.spotify.com/track/3S53KV0M2AXeUQgQ65GBcu) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Eyelid Movies](https://open.spotify.com/album/6smJTxDxrnxi6fPfFWYSQV) | 3:29 | 2023-05-17 |  |
 | [Automatic](https://open.spotify.com/track/1NB0VPwAw6Rx8b9qvDKB5M) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Genesis Series](https://open.spotify.com/album/1X4yodq8QzdlHOf2EgwhWU) | 3:50 | 2023-05-17 |  |
 | [Babe](https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA) | [Evenings](https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y) | [Yore](https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB) | 2:52 | 2023-05-17 |  |
+| [Be a Body](https://open.spotify.com/track/6U47ju8uwyUcQHRI9pid3G) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:20 | 2023-12-08 |  |
 | [Beginner's Luck](https://open.spotify.com/track/6adjXENHRzh4uyVziFlVGm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:28 | 2023-05-17 |  |
 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 | 2023-05-17 |  |
 | [Big Hammer](https://open.spotify.com/track/3tdxmSKTmtMLlohrIxZ2EG) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Big Hammer](https://open.spotify.com/album/7yT5OWUrzLWQQ5LTgGpZ36) | 4:00 | 2023-07-14 | 2023-10-01 |

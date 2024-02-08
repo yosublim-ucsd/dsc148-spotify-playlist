@@ -1,12 +1,12 @@
 {
   "description": "Saca la estrella que llevas dentro.",
-  "num_followers": 714671,
+  "num_followers": 714749,
   "original_name": "Karaoke en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjVmMmI1YTI1YWEwODBiN2RlMzZlZDY1MDEwYTljOTFlZWFiZTM5",
+  "snapshot_id": "MCw5MTZhNmVmOTY5M2Q3OTQ4ZmRkMjkyYzNiOGYzMmQyZThkM2RjOTY2",
   "tracks": [
     {
       "added_at": "2023-10-06 22:33:17",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Ahora Te Puedes Marchar",
-      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 278546,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
         "name": "Nuevas Metas",
         "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
       },
@@ -343,38 +359,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 252346,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Todo Cambio",
         "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 193826,
       "name": "Todo Cambi\u00f3",
       "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -455,38 +455,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Segundo Romance",
         "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
       },
@@ -503,6 +471,22 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "La flaca",
+      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
         "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
         "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 174946,
       "name": "Me Cuesta Tanto Olvidarte",
       "url": "https://open.spotify.com/track/5xsY1Bm1FItKFFoJ3b964t"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
-        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 288893,
-      "name": "\u00a1Corre!",
-      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
+      "duration_ms": 259853,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -587,34 +587,18 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
+        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
+        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 259853,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+      "duration_ms": 288893,
+      "name": "\u00a1Corre!",
+      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -631,6 +615,22 @@
       "duration_ms": 281000,
       "name": "Hasta Que Me Olvides",
       "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Destino Paraiso - 25th Anniversary Edition (Remastered)",
         "url": "https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 308880,
       "name": "Mi Historia Entre Tus Dedos - Remastered 2020",
       "url": "https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "La bikina - En vivo",
-      "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 217560,
       "name": "Volverte A Ver",
       "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "La bikina - En vivo",
+      "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Bella",
-        "url": "https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe"
-      },
-      "artists": [
-        {
-          "name": "Wolfine",
-          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
-        }
-      ],
-      "duration_ms": 197120,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Ay Mi Dios",
         "url": "https://open.spotify.com/album/1JCOUDiJmrVr6YmzLXMHkO"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 252003,
       "name": "Ay Mi Dios",
       "url": "https://open.spotify.com/track/4L4MttVsY1WaxSDzFiQefU"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe"
+      },
+      "artists": [
+        {
+          "name": "Wolfine",
+          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
+        }
+      ],
+      "duration_ms": 197120,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "4 Canciones",
-        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
+        "name": "Aerosoul",
+        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
       },
       "artists": [
         {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
         }
       ],
-      "duration_ms": 254840,
-      "name": "No Puedo Vivir Sin Ti",
-      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
+      "duration_ms": 246200,
+      "name": "Tocando Fondo",
+      "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1967,6 +1967,22 @@
       "duration_ms": 263600,
       "name": "Heroe",
       "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "4 Canciones",
+        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
+      },
+      "artists": [
+        {
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+        }
+      ],
+      "duration_ms": 254840,
+      "name": "No Puedo Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -2027,22 +2043,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Aerosoul",
-        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 246200,
-      "name": "Tocando Fondo",
-      "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Revoluci\u00f3n De Amor (2020 Remasterizado)",
         "url": "https://open.spotify.com/album/4bP1H8sP05Bvu4LB2RbyC2"
       },
@@ -2055,22 +2055,6 @@
       "duration_ms": 329155,
       "name": "Eres Mi Religi\u00f3n - 2020 Remasterizado",
       "url": "https://open.spotify.com/track/2H3kc8vwKWtgaDWs0Xw98Y"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
-        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 232880,
-      "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
-      "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -2091,18 +2075,34 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Un Segundo En El Tiempo",
-        "url": "https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw"
+        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
+        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
       },
       "artists": [
         {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 237866,
-      "name": "Es Mejor As\u00ed",
-      "url": "https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb"
+      "duration_ms": 232880,
+      "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
+      "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Recu\u00e9rdame Con Cartas Y Algo M\u00e1s... Los Exitos (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm"
+      },
+      "artists": [
+        {
+          "name": "La Quinta Estacion",
+          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
+        }
+      ],
+      "duration_ms": 228106,
+      "name": "El Sol No Regresa",
+      "url": "https://open.spotify.com/track/0c8f8b76ThPP2MInXEZyTY"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -2147,18 +2147,18 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Recu\u00e9rdame Con Cartas Y Algo M\u00e1s... Los Exitos (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm"
+        "name": "Un Segundo En El Tiempo",
+        "url": "https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw"
       },
       "artists": [
         {
-          "name": "La Quinta Estacion",
-          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 228106,
-      "name": "El Sol No Regresa",
-      "url": "https://open.spotify.com/track/0c8f8b76ThPP2MInXEZyTY"
+      "duration_ms": 237866,
+      "name": "Es Mejor As\u00ed",
+      "url": "https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Sin Bandera",
-        "url": "https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "Sirena",
-      "url": "https://open.spotify.com/track/1fjB9hdAjlHSS9oH5z63qt"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Paulina",
         "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 254773,
       "name": "Y Yo Sigo Aqui - Spanglish",
       "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Sin Bandera",
+        "url": "https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Sirena",
+      "url": "https://open.spotify.com/track/1fjB9hdAjlHSS9oH5z63qt"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Legal Alien - Top Secrets",
-        "url": "https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 414380,
-      "name": "El Gran Varon",
-      "url": "https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Los D\u00fao",
         "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 264146,
       "name": "El Doctorado",
       "url": "https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Legal Alien - Top Secrets",
+        "url": "https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 414380,
+      "name": "El Gran Varon",
+      "url": "https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP"
     },
     {
       "added_at": "2023-10-06 22:33:17",

@@ -4,7 +4,7 @@
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: FRIDAY
 
-352 songs - 20 hr 24 min
+353 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Hold You](https://open.spotify.com/track/3IBKRmiZRn3HlVTnIkUm3d) | [Cookhouse](https://open.spotify.com/artist/2WgdUdSR8xudGOXLzSMJ4g) | [Hold You](https://open.spotify.com/album/4JN5t0hCi1Lg1iFX7lLvoz) | 3:07 | 2023-06-22 | 2023-08-18 |
 | [Hold Your Head Up \(feat\. Jack Savoretti\)](https://open.spotify.com/track/5f81IBtp89HGHZ6qYoxwvd) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Hold Your Head Up \(feat\. Jack Savoretti\)](https://open.spotify.com/album/21SOe11JbPN5S3FosDDujh) | 3:07 | 2023-09-15 | 2024-01-30 |
 | [Hollywood Blvd](https://open.spotify.com/track/63NXZMNOKRfjzkhKQ5Ub2s) | [Loren Kramar](https://open.spotify.com/artist/3LDUvPQ97zYOzFliNk9GmV) | [Hollywood Blvd](https://open.spotify.com/album/6vUjjR7CrIvkGDUyae0Upq) | 4:55 | 2023-11-13 |  |
-| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-25 |  |
+| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-25 | 2024-02-08 |
+| [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-05 |  |
 | [Hot Stuff](https://open.spotify.com/track/3IP5E8pxMDhLSGtjwV2y8C) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Hot Stuff](https://open.spotify.com/album/31bKsiZ9ydgT6yhh2q5GfY) | 3:19 | 2023-03-24 | 2023-08-04 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2023-02-23 | 2023-04-14 |
 | [How I'm Feeling Now](https://open.spotify.com/track/5AGS8VxsLyHQOWz0ZTuwIN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:46 | 2023-05-18 | 2023-08-25 |

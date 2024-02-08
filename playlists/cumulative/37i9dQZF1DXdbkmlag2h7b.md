@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-167 songs - 8 hr 46 min
+168 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Entirely](https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:12 | 2022-10-14 |  |
 | [Epiphany](https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Epiphany](https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7) | 2:52 | 2021-12-22 |  |
 | [Even Silence](https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Even Silence](https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj) | 2:20 | 2023-05-05 |  |
+| [Eventide](https://open.spotify.com/track/2tp1DL2nULGfK6z93dUhGZ) | [Michael Hoppé](https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK) | [The Unforgetting Heart](https://open.spotify.com/album/5zNml5sSchBxnzAaWfbJVF) | 4:30 | 2024-01-31 |  |
 | [Eventide](https://open.spotify.com/track/5zCFuB2hlS85wzZGpdbM8H) | [Michael Hoppé](https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK) | [The Unforgetting Heart](https://open.spotify.com/album/0urqmPjvhqU7BqEDZ0C0Hs) | 4:31 | 2022-07-22 | 2022-12-01 |
 | [Eventide](https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm) | [Michael Hoppé](https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK) | [The Unforgetting Heart](https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG) | 4:31 | 2022-12-02 | 2024-02-03 |
 | [Eventide](https://open.spotify.com/track/7v2yfaJ1RcMIW6zI2bjJW3) | [Michael Hoppé](https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK) | [The Unforgetting Heart](https://open.spotify.com/album/0bXWZEmeWEIVGQZ420Jn8R) | 4:31 | 2021-12-09 | 2022-07-29 |
@@ -120,7 +121,7 @@
 | [Porto Fino](https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Porto Fino](https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM) | 4:07 | 2021-12-09 |  |
 | [Precious 432 hz](https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [432 hz Frequency of Universe](https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O) | 2:40 | 2022-10-12 |  |
 | [Prism](https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Amor Omnia](https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu) | [Prism](https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL) | 2:52 | 2021-12-09 |  |
-| [Purity 432hz](https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Purity 432hz](https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh) | 4:02 | 2021-12-09 |  |
+| [Purity 432hz](https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Purity 432hz](https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh) | 4:02 | 2021-12-09 | 2024-02-08 |
 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 | 2022-11-13 |  |
 | [Raising Life](https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA), [Max Schrammel](https://open.spotify.com/artist/02urVxAvr1s1zcKdVaGjpg) | [Elementaries](https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI) | 3:02 | 2021-12-09 |  |
 | [Renewing](https://open.spotify.com/track/7qRlRHuoa9Rh1lgm5exmkZ) | [Healing Echoes](https://open.spotify.com/artist/5oIYBXnlagVfSVIg2690cu) | [Renewing](https://open.spotify.com/album/4Dq0JNOmlEOjJNjsCGhqRY) | 3:22 | 2021-12-09 | 2022-07-29 |

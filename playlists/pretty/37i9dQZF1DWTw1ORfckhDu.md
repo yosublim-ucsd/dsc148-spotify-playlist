@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Jami Faltin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,016 likes - 63 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,030 likes - 63 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 62 | [Vaihan maisemaa](https://open.spotify.com/track/4kpFSNL9CeQFS2yT2z70uz) | [KähinäPate](https://open.spotify.com/artist/6rA8aAvLetQJNi8Dp8L01c) | [Vaihan maisemaa](https://open.spotify.com/album/0LVD22px9fZEuInxPF0jJ8) | 2:56 |
 | 63 | [Viimeinen ilta](https://open.spotify.com/track/1gAtV9FOe3LDju7KrQIEHn) | [Horse Attack Sqwad](https://open.spotify.com/artist/24LKxLWbV018hPbn5YQ34K) | [Viimeinen ilta](https://open.spotify.com/album/49aD6tSHjyoHEZwXGhale6) | 2:59 |
 
-Snapshot ID: `MCw1N2FhMzMyYmQ2YjQ5NzQxZTE2ZTg3ZDA2ODIzMzViYTA5YWUzMWY0`
+Snapshot ID: `MCxkMmJiOWNjMDU5NjMyN2U2NDU2N2EzMGNiNDg2OGNiMmUwNjY2NDBj`

@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 558286,
+  "num_followers": 558275,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmI5NTIzNmYyYWRmODhhZWY5ZDg5NmE0YzQ5NGVhYTA1Yzk1YzVi",
+  "snapshot_id": "MCwxMjVmNTkzYTZiNDc2NzRhMTBjYTYyNDNhNTFlZWQ0NzNmNjZhZDJi",
   "tracks": [
     {
       "added_at": "2022-09-12 17:32:54",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "La Cancion Mexicana, Vol. 1",
-        "url": "https://open.spotify.com/album/56mmo9BDi9ySuahrHgRtAZ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda de Lourdes",
-          "url": "https://open.spotify.com/artist/3jDbRC3mbW9SwWYDZatz5R"
-        }
-      ],
-      "duration_ms": 166556,
-      "name": "Cancion Mexicana",
-      "url": "https://open.spotify.com/track/1pg0HSVFiMq63vpFc2sO11"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Mariachi Sol: Viva Mexico",
         "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 120600,
       "name": "El Caballito",
       "url": "https://open.spotify.com/track/5kjGfKsHvI8zk0hd1NyJb5"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "La Cancion Mexicana, Vol. 1",
+        "url": "https://open.spotify.com/album/56mmo9BDi9ySuahrHgRtAZ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda de Lourdes",
+          "url": "https://open.spotify.com/artist/3jDbRC3mbW9SwWYDZatz5R"
+        }
+      ],
+      "duration_ms": 166556,
+      "name": "Cancion Mexicana",
+      "url": "https://open.spotify.com/track/1pg0HSVFiMq63vpFc2sO11"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "El polvorete",
-      "url": "https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Mariachi: Mi Nombre Es M\u00e9xico",
         "url": "https://open.spotify.com/album/6kdd6Z3nAvWbxPZVpZlBgV"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 173800,
       "name": "Mi Nombre Es M\u00e9xico",
       "url": "https://open.spotify.com/track/5TavsDOCbpycDklaALq2dH"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "El polvorete",
+      "url": "https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi",
-        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Arriba Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "La Charreada",
-      "url": "https://open.spotify.com/track/7BZr4iXCUXHLvIOcu2PvYv"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Ayer, Hoy y Siempre",
         "url": "https://open.spotify.com/album/394u6nlGrWXFGQQYZV1h66"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 169760,
       "name": "Un canto a Michoac\u00e1n",
       "url": "https://open.spotify.com/track/4CDPllMl3h3eseqNJscV4o"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Mariachi",
+        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Arriba Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "La Charreada",
+      "url": "https://open.spotify.com/track/7BZr4iXCUXHLvIOcu2PvYv"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi",
-        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
+        "name": "Cuando M\u00e9xico Canta",
+        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
       },
       "artists": [
         {
-          "name": "Mariachi Arriba Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
+          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
+          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
         }
       ],
-      "duration_ms": 178386,
-      "name": "Juan Colorado",
-      "url": "https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC"
+      "duration_ms": 322168,
+      "name": "Popurr\u00ed de Sones",
+      "url": "https://open.spotify.com/track/3M3fXgsaeOLSSq3lBq4ABT"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Cuando M\u00e9xico Canta",
-        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
+        "name": "Mariachi",
+        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
       },
       "artists": [
         {
-          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
-          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
+          "name": "Mariachi Arriba Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
         }
       ],
-      "duration_ms": 322168,
-      "name": "Popurr\u00ed de Sones",
-      "url": "https://open.spotify.com/track/3M3fXgsaeOLSSq3lBq4ABT"
+      "duration_ms": 178386,
+      "name": "Juan Colorado",
+      "url": "https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Aires de Mexico",
-        "url": "https://open.spotify.com/album/5fMXK7VoIGri38AtHiTzwi"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 167836,
-      "name": "All\u00e1 en el Rancho Grande",
-      "url": "https://open.spotify.com/track/7zPgDdoFF6hEaryYF5nokL"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Mariachi Azteca",
         "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 228160,
       "name": "La bamba",
       "url": "https://open.spotify.com/track/73TlRBB49YVKtrmlj7mERt"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Aires de Mexico",
+        "url": "https://open.spotify.com/album/5fMXK7VoIGri38AtHiTzwi"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 167836,
+      "name": "All\u00e1 en el Rancho Grande",
+      "url": "https://open.spotify.com/track/7zPgDdoFF6hEaryYF5nokL"
     },
     {
       "added_at": "2022-09-12 17:32:54",

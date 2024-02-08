@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: John Coltrane & Eric Dolphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,008 likes - 100 songs - 15 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,018 likes - 100 songs - 15 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 74 | [After Hours \- Live At Smalls' Paradise, Harlem, NYC, 1957 / Remastered 1999 / Rudy Van Gelder Edition](https://open.spotify.com/track/1zCsqCHvdc1uLFNO10Onsz) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Groovin' At Small's Paradise \(Remastered 1999 / Rudy Van Gelder Edition\)](https://open.spotify.com/album/2TbQOjAog0PlzTM20EmK1k) | 10:58 |
 | 75 | [But Not For Me \- Live](https://open.spotify.com/track/2YgzzUngwKJ193BuITI15o) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Up At Minton's](https://open.spotify.com/album/1G8ODQXuTjHPc0JXNHnT0m) | 11:29 |
 | 76 | [Take The A Train](https://open.spotify.com/track/10cg96POewnGipBTe4oM0j) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H), [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Cornell 1964](https://open.spotify.com/album/1x41adRv7tw6tr9LpbikRY) | 17:26 |
-| 77 | [Snowflakes And Sunshine \- Live At The Golden Circle, Stockholm, 1965 / Remastered 2002 / Rudy Van Gelder Edition](https://open.spotify.com/track/0vIj8yavF8QCq17FcidSZV) | [Ornette Coleman Trio](https://open.spotify.com/artist/0NRvpjoS4w3WdVSmkqSXgV) | [At The Golden Circle](https://open.spotify.com/album/48SGjYTh92QLwPHngKf3Bs) | 10:42 |
+| 77 | [Snowflakes And Sunshine \- Live At The Golden Circle, Stockholm/1965 / Remastered 1999](https://open.spotify.com/track/0vIj8yavF8QCq17FcidSZV) | [Ornette Coleman Trio](https://open.spotify.com/artist/0NRvpjoS4w3WdVSmkqSXgV) | [At The "Golden Circle" Stockholm Vol\. 2 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/48SGjYTh92QLwPHngKf3Bs) | 10:42 |
 | 78 | [Are You Going With Me? \- Live](https://open.spotify.com/track/3jKCwz2s4wm3djg7Mb2dMI) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Travels](https://open.spotify.com/album/2rxe6u2Pm52WtUbbgcof2c) | 9:18 |
 | 79 | [Autumn Leaves \- Live At Philharmonie, Munich / 1986](https://open.spotify.com/track/7tyDWNVuIKEDuZS33Fm9S4) | [Joseph Kosma](https://open.spotify.com/artist/0Fb7u2KBJ3anw54Qs7Oh0Y), [Jacques Enoch](https://open.spotify.com/artist/4mhblJOpL8srpTB3EdhuML), [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Still Live](https://open.spotify.com/album/5rQaZGSxnTBpFvj5V2fp7P) | 10:24 |
 | 80 | [Teach Me Tonight \- Original Edited Concert \- Live at Sunset School, Carmel\-by\-the\-Sea, CA, September 1955](https://open.spotify.com/track/32mkhw8UkqgsEiDhfz0r1n) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Concert By The Sea](https://open.spotify.com/album/6P8W18Qy0P2vreXHoEeVQL) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 99 | [The Drum Battle](https://open.spotify.com/track/6zZeaMoFeFBq6WU3l1lLex) | [Gene Krupa](https://open.spotify.com/artist/2YODXXiVE8ABc0TfihLOFj), [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [The Drum Battle](https://open.spotify.com/album/50xJcwBsAXiQ7qTJNyAebk) | 3:36 |
 | 100 | [Giant Steps \- Live \(Remastered\)](https://open.spotify.com/track/6OMjeAy4dTJ02R2QQ38XdW) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Now's The Time \[Live \(Remastered\)\]](https://open.spotify.com/album/5t0yHmctZiaGUPWX8YYOEL) | 7:11 |
 
-Snapshot ID: `MCxjZDY0ODM3ZWIzZTY1NzEyMTdhZmVlZGUzMTNmOWZlZWM4YTIxMzQw`
+Snapshot ID: `MCxkMmRjZWU5NzExNzk1MjBiMjU4NGYxZWFmNGNhMTk4ZTM2NjhmOGIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,826 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,914 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 16 | [Eulers Disc](https://open.spotify.com/track/6v5VhfFrjKs90ADdKfw5K1) | [Louf](https://open.spotify.com/artist/6FuiYA7qfyWvCzyWxepEjy) | [Our Intervals](https://open.spotify.com/album/4VaMZuSITaM8JVJn60HRow) | 5:52 |
 | 17 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
 | 18 | [Shapeless](https://open.spotify.com/track/1PDkQCBKrza8FSiAmmm7n7) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Caring EP](https://open.spotify.com/album/3pIUvgrnnoHYdTv0pts9wX) | 4:34 |
-| 19 | [Road](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:58 |
+| 19 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
 | 20 | [Spinning Heart](https://open.spotify.com/track/17nnRPp1cTVQ8XUacodl5c) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [WETLANDS](https://open.spotify.com/album/56l7sgYUPRc7kPX1DseBCv) | 5:14 |
-| 21 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
+| 21 | [Road](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:58 |
 | 22 | [Me \(heavy\)](https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:03 |
 | 23 | [On Hold](https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:44 |
 | 24 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 36 | [Alberto Balsalm](https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 5:10 |
 | 37 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 |
 | 38 | [Melt](https://open.spotify.com/track/4YXJZWRPQbrlA84IrQ7p07) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Blasé Boys Club \(Pt\. 1\)](https://open.spotify.com/album/270fFgaAL8AL1mmGK1bld7) | 4:37 |
-| 39 | [Bird Song](https://open.spotify.com/track/51Wao8QZ4Fv4zamKbRnKQd) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Old Friend](https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj) | 3:16 |
-| 40 | [Atlas](https://open.spotify.com/track/6YFRyll4isFUJrbHSeM1oJ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Little by Little](https://open.spotify.com/album/4nv9KsGfQvZwIOuzDnbWY8) | 5:50 |
+| 39 | [Atlas](https://open.spotify.com/track/6YFRyll4isFUJrbHSeM1oJ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Little by Little](https://open.spotify.com/album/4nv9KsGfQvZwIOuzDnbWY8) | 5:50 |
+| 40 | [Bird Song](https://open.spotify.com/track/51Wao8QZ4Fv4zamKbRnKQd) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Old Friend](https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj) | 3:16 |
 | 41 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me \(Remixes\)](https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV) | 2:38 |
 | 42 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 |
 | 43 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 49 | [Bamboo](https://open.spotify.com/track/1vZIfej2urUYkVkgwh0O7t) | [Elder Island](https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik) | [Seeds in Sand](https://open.spotify.com/album/4IZtfkdzACIDkdBXq6N5vH) | 4:22 |
 | 50 | [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 |
 
-Snapshot ID: `MCw1ZGFiZTI3YzFlY2NkNjk3N2I1NGY3NjA2ZmE1YTQ1YWQ0ZjU4ZjRm`
+Snapshot ID: `MCxhNzBjOTU3NGU2MzA4OTJhY2Q0OGU1ZWU5MGQyZmNiY2JjNzg3YzI5`

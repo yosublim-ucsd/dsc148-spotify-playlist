@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,341 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,377 likes - 65 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 21 | [Soul's on Fire](https://open.spotify.com/track/3Lj0mxiDfTDxr5ADKKlxJQ) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Soul's on Fire](https://open.spotify.com/album/6DcpeOj7clMeg7hD4ZPt33) | 3:29 |
 | 22 | [Closer Than a Brother](https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Closer Than a Brother](https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx) | 5:09 |
 | 23 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [I Could Sing Of Your Love Forever](https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd) | 3:32 |
-| 24 | [Radical](https://open.spotify.com/track/1Y9JQO7FizZV8zLuy509I8) | [Ecclesia](https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [Wake Up](https://open.spotify.com/album/6zDrYIeQaD7KS3HAZst1PJ) | 2:34 |
-| 25 | [Storehouse](https://open.spotify.com/track/3Kf9UApNiDkWXHNtOThNkB) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [She Waits](https://open.spotify.com/album/6htuk1jWdUa9s9egIHnWrb) | 4:06 |
+| 24 | [Storehouse](https://open.spotify.com/track/3Kf9UApNiDkWXHNtOThNkB) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [She Waits](https://open.spotify.com/album/6htuk1jWdUa9s9egIHnWrb) | 4:06 |
+| 25 | [Radical](https://open.spotify.com/track/1Y9JQO7FizZV8zLuy509I8) | [Ecclesia](https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [Wake Up](https://open.spotify.com/album/6zDrYIeQaD7KS3HAZst1PJ) | 2:34 |
 | 26 | [Dearly Loved](https://open.spotify.com/track/5ARJNdFbSj2yYpaAKPfIDo) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Dearly Loved](https://open.spotify.com/album/0HMkDsyQXtgF0sgMFpudvK) | 4:25 |
 | 27 | [Heaven \(All Around You\) \- Acoustic](https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:39 |
 | 28 | [Sweet Water](https://open.spotify.com/track/3f5VaDwwxGN1Q99t5RRH8W) | [Beach Chapel](https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5) | [Sweet Water](https://open.spotify.com/album/7eLXqkyWDOJRhEMNjaN5Be) | 4:09 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 44 | [Even in the Valley](https://open.spotify.com/track/4A7euppddfPjfKyHpBvh08) | [Kingly](https://open.spotify.com/artist/3K82LFHTTHMqrp1qXyEhpZ), [John Strandell](https://open.spotify.com/artist/03IKdQ4AUOq3YUPFoYJekd) | [Even in the Valley](https://open.spotify.com/album/1sF81pzpaD3ie1vNCtnKcg) | 3:23 |
 | 45 | [Celebrate Life](https://open.spotify.com/track/2o6xLYrfFz1eBC4ZuWKon7) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Celebrate Life](https://open.spotify.com/album/5wlSuYlEUkibKPZXbfJjc5) | 3:55 |
 | 46 | [Somebody](https://open.spotify.com/track/2s1fclqSpABaF3TpXWZyDC) | [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p), [Kristen Hicks](https://open.spotify.com/artist/5dQsQyRyYQAXhnbaCMDhOl) | [Somebody](https://open.spotify.com/album/62VCya3aXX842Or8W3ITLZ) | 3:44 |
-| 47 | [MAYBE](https://open.spotify.com/track/1jV1Y8adI8byyeBimWankc) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [NOT BY CHANCE](https://open.spotify.com/album/3b8v7puIRYD29jbCAlWWUP) | 3:50 |
-| 48 | [Revival](https://open.spotify.com/track/5rUnjEX9nsCSHaXYMvQZQr) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Revival](https://open.spotify.com/album/4wYLab6GuVVnzVPno2a1wt) | 3:25 |
+| 47 | [Revival](https://open.spotify.com/track/5rUnjEX9nsCSHaXYMvQZQr) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Revival](https://open.spotify.com/album/4wYLab6GuVVnzVPno2a1wt) | 3:25 |
+| 48 | [MAYBE](https://open.spotify.com/track/1jV1Y8adI8byyeBimWankc) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [NOT BY CHANCE](https://open.spotify.com/album/3b8v7puIRYD29jbCAlWWUP) | 3:50 |
 | 49 | [Like You](https://open.spotify.com/track/0iJimXkiYGGh9XuqSFPS9a) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Lyfe](https://open.spotify.com/album/6jikiA16rzQPxhWYDSNFc6) | 2:33 |
 | 50 | [Safe \(feat\. Chris Cron\)](https://open.spotify.com/track/1b5Fw9OGITGQQ6u46coPy9) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Chris Cron](https://open.spotify.com/artist/3KOEKMUxngxpCbKGBk8giH) | [Safe \(feat\. Chris Cron\)](https://open.spotify.com/album/66sEcqKPI4ue0VubvW29qH) | 3:33 |
 | 51 | [Butterfly](https://open.spotify.com/track/5kSWv4oxIoTE3LSh831GpU) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Butterfly](https://open.spotify.com/album/0bgRKFVFp5wiMnLfiM2WzB) | 4:12 |
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 62 | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/track/4dw5THeXY6ybMblZBzre9D) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [RUSLAN](https://open.spotify.com/artist/0Xdvr42oMLOrVWFhgM253P) | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/album/1sJdXcBBxSql0JxCX97bX3) | 3:08 |
 | 63 | [Battle](https://open.spotify.com/track/6IXJtvISqPxhe3wmm9iCWN) | [Miqueas Lopez](https://open.spotify.com/artist/3CtCrWU7itUfsXGE9cPwMn) | [Battle](https://open.spotify.com/album/3iIZE417H5P3jUhpS87rFp) | 3:07 |
 | 64 | [Lead the Way](https://open.spotify.com/track/4kOe0ZUSIlIjXsZSx4zFBz) | [Caleb Crino](https://open.spotify.com/artist/2H6txjI4kswHScMO8VYtkG) | [Caleb Crino](https://open.spotify.com/album/4uW1eDXAs4KollydvzHLJa) | 3:15 |
-| 65 | [The Great Migration](https://open.spotify.com/track/64GSNWih2teT6tLgKOv0DR) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [The Great Migration](https://open.spotify.com/album/3f2KvqW6BlbFsE4sAC4Az0) | 4:57 |
+| 65 | [Paranoia](https://open.spotify.com/track/7qN4u1nehLLf702kG6j1QJ) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Paranoia](https://open.spotify.com/album/5p4J0GlaNKf5Ti8P3YjNYw) | 2:58 |
 
-Snapshot ID: `MCw2NTk2NGI5YzFiYjgyYWExNzNjZTcyMjk1MmNhZDE5MjFlNDE1NzE2`
+Snapshot ID: `MCw4Nzk4YjI3ZWY1YmVlY2ViYjc3NDQzZDE2ZDA1OWFkY2E0ZDUzZGZl`

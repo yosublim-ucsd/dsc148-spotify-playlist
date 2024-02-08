@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,424 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,437 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 6 | [I don't know](https://open.spotify.com/track/1izlxYnH96m4nsGXiSUit6) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 4:08 |
 | 7 | [내가 니편이 되어 줄게 I Will Be on Your Side](https://open.spotify.com/track/15EEempFA9NjYGXhjxs9H7) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [세 번째 음악 로스팅 3rd Music Roasting](https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle) | 5:57 |
 | 8 | [Listen And Sleep](https://open.spotify.com/track/524zQBp9uyUs3e77GE5tZ8) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Would You Sleep?](https://open.spotify.com/album/5onylFvAu8WKvHvPGC46lF) | 4:37 |
-| 9 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
-| 10 | [영원회귀 Eternal return](https://open.spotify.com/track/7yORm0vTVACc8r2K7Z0G6w) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [영원회귀 Eternal return](https://open.spotify.com/album/2Ja2kwTKcN1ANA6qk0TVbt) | 3:43 |
+| 9 | [영원회귀 Eternal return](https://open.spotify.com/track/7yORm0vTVACc8r2K7Z0G6w) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [영원회귀 Eternal return](https://open.spotify.com/album/2Ja2kwTKcN1ANA6qk0TVbt) | 3:43 |
+| 10 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
 | 11 | [Lullaby](https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:21 |
 | 12 | [짝사랑 Crush](https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 3:59 |
 | 13 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 43 | [Excuse](https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:07 |
 | 44 | [Choose You](https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 4:05 |
 | 45 | [밤, 결 \(stripped\) The Night Time \(stripped\)](https://open.spotify.com/track/0wIwa4JZbljozgeIEcSxsT) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [옷장 Closet](https://open.spotify.com/album/0pguC5BCed8NAbhtHXTSOB) | 3:22 |
-| 46 | [In Your Mind](https://open.spotify.com/track/3NmZPizM240GOHwnyIMVJv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:07 |
-| 47 | [사랑이란 걸 우습게 As If Love Meant Nothing \(Feat\. Lee Young Hoon\)](https://open.spotify.com/track/1avc3G3fc9zXXnPIXkVMrs) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry), [Lee Young Hoon](https://open.spotify.com/artist/5kmzC58GPeIm7CEULNYjpm) | [영원의 순간 Eternal Moment](https://open.spotify.com/album/5DMyYZ4Q6THtNPM6gQckDr) | 3:53 |
-| 48 | [Do You Know My Heart \(Feat\. NUITNUIT\)](https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Do You Know My Heart](https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD) | 3:21 |
-| 49 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(Original Television Soundtrack\) \(O′PENing\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 |
-| 50 | [Goodbye](https://open.spotify.com/track/5hG9erX5epfASjh5ZNJZV1) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:13 |
+| 46 | [Goodbye](https://open.spotify.com/track/5hG9erX5epfASjh5ZNJZV1) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:13 |
+| 47 | [In Your Mind](https://open.spotify.com/track/3NmZPizM240GOHwnyIMVJv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:07 |
+| 48 | [사랑이란 걸 우습게 As If Love Meant Nothing \(Feat\. Lee Young Hoon\)](https://open.spotify.com/track/1avc3G3fc9zXXnPIXkVMrs) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry), [Lee Young Hoon](https://open.spotify.com/artist/5kmzC58GPeIm7CEULNYjpm) | [영원의 순간 Eternal Moment](https://open.spotify.com/album/5DMyYZ4Q6THtNPM6gQckDr) | 3:53 |
+| 49 | [Do You Know My Heart \(Feat\. NUITNUIT\)](https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Do You Know My Heart](https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD) | 3:21 |
+| 50 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(Original Television Soundtrack\) \(O′PENing\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 |
 
-Snapshot ID: `MCw5NDI2NTkxN2U2M2VjNWFkMjEzN2JkYTI2ODlkNzE4MGIwNWU5MjM0`
+Snapshot ID: `MCxjZTY4ZjQ2ODFhNjE1OTZhNWJlNTRmYWMwZGZiZmZhZTE5OWQ5MjVh`

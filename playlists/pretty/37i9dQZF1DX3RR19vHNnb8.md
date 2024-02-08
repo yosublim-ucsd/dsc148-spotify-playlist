@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,513 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,535 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 44 | [Hate Me](https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Hate Me](https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p) | 3:19 |
 | 45 | [Feel Good](https://open.spotify.com/track/2YDRLaRfmwdtwfcg0nVLeO) | [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Feel Good](https://open.spotify.com/album/5TrjLIYChGEUMbJIu4UVwk) | 2:33 |
 | 46 | [Oppress](https://open.spotify.com/track/0Xp3jkTLbquF9DVII3VDsT) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Oppress](https://open.spotify.com/album/4DS8vOME5sr3exIbiodfK4) | 3:42 |
-| 47 | [SHUT IT DOWN](https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Chocobantis](https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON) | [SHUT IT DOWN](https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM) | 2:30 |
-| 48 | [Assignment](https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y) | [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DJ FortuneDJ](https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9) | [Assignment](https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D) | 2:17 |
+| 47 | [Assignment](https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y) | [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DJ FortuneDJ](https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9) | [Assignment](https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D) | 2:17 |
+| 48 | [SHUT IT DOWN](https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Chocobantis](https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON) | [SHUT IT DOWN](https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM) | 2:30 |
 | 49 | [The Views](https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [031 To The World 2.0](https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH) | 3:06 |
 | 50 | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/album/4REcDrYHUkwAsyFH51SbOi) | 2:53 |
 
-Snapshot ID: `MCxkZGJlODJjYzAwMTJjOWJkYWQyMTY4YWVmN2FmZjA5MzkwYTMwNDk4`
+Snapshot ID: `MCw1MmY2NTBhNWJmMjg4ZGRmZDRhN2I0ZTRjYTYzYWIyOTQ2ZDA2Mjkx`

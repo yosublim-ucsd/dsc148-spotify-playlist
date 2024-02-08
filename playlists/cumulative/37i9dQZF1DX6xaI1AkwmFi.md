@@ -4,7 +4,7 @@
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-139 songs - 8 hr 11 min
+140 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2023-11-23 |  |
 | [Love Song](https://open.spotify.com/track/0nokJDMZpEnGbC09v5Fn6T) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Love Song](https://open.spotify.com/album/2mR7pRFpeDSEWbd0jj05hm) | 4:16 | 2023-11-23 | 2023-12-02 |
 | [Love Song](https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 4:18 | 2023-11-30 | 2024-01-19 |
+| [LOVELY](https://open.spotify.com/track/2p6mMrccBiWuwtpWCyVPbq) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [LOVELY](https://open.spotify.com/album/4TrfWYsP8LRU10Rw6usFJL) | 3:38 | 2024-02-06 |  |
 | [Magic](https://open.spotify.com/track/0csHMdBheTvp9Oay1hM1WF) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Magic](https://open.spotify.com/album/6YiIRjTqbhaWpNG5WpgB85) | 4:23 | 2024-01-09 | 2024-01-11 |
 | [Mama's Pie](https://open.spotify.com/track/6ykodFke0uF1y6RLQt0zzr) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Mama's Pie](https://open.spotify.com/album/0OKTVjdBXcxBkksj2tlztZ) | 3:45 | 2024-01-10 | 2024-01-28 |
 | [Mela!](https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Mela!](https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG) | 4:02 | 2023-12-05 |  |
@@ -116,7 +117,7 @@
 | [ミッドナイトガール](https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ミッドナイトガール](https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw) | 3:22 | 2024-01-16 | 2024-02-07 |
 | [ユナイテッドパンケーキ](https://open.spotify.com/track/35wXqoRa5J448Mi4EcRzWM) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [ユナイテッドパンケーキ](https://open.spotify.com/album/0ws17q0T3CgE9l4KBx4sTW) | 2:41 | 2023-12-14 | 2024-01-10 |
 | [ラジオネーム オフトゥン大好き](https://open.spotify.com/track/1EVIZJsk07MQsb7lgep3Dq) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF), [Hidefumi Kenmochi](https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg) | [ラジオネーム オフトゥン大好き](https://open.spotify.com/album/1cML3PWxFJxOkjnmBbt9Hg) | 3:16 | 2024-01-30 | 2024-02-07 |
-| [ラブリー](https://open.spotify.com/track/4wTeVlzNPyvTwxdJ52AI6D) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [ラブリー](https://open.spotify.com/album/1bqWRNEezTMkh25svE3JDx) | 3:38 | 2024-02-06 |  |
+| [ラブリー](https://open.spotify.com/track/4wTeVlzNPyvTwxdJ52AI6D) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [ラブリー](https://open.spotify.com/album/1bqWRNEezTMkh25svE3JDx) | 3:38 | 2024-02-06 | 2024-02-08 |
 | [リズム64](https://open.spotify.com/track/74GJbmNHys47ZfdoQCySpM) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [リズム64](https://open.spotify.com/album/5ItDzD0v8osJxkUrUCPLJs) | 4:28 | 2024-02-01 | 2024-02-03 |
 | [ルビー](https://open.spotify.com/track/61dKPB7KS5K0ydinagQy4U) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [ルビー](https://open.spotify.com/album/4XH4mGDiIMfSsr0peqj5F0) | 4:30 | 2023-11-30 | 2023-12-22 |
 | [ロックオン](https://open.spotify.com/track/6Ypn0bd1K7IFWPEWHUPk75) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [巡巡](https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl) | [ロックオン](https://open.spotify.com/album/0J8A7J3iEm0umNxT38O7lx) | 2:47 | 2024-01-11 | 2024-02-07 |

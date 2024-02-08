@@ -4,7 +4,7 @@
 
 > Retro favorites from 2023\. Cover: Teddy Swims
 
-100 songs - 5 hr 39 min
+101 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Circles](https://open.spotify.com/track/2wThXy2VoKMjKK8GeV4XHe) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [Circles](https://open.spotify.com/album/0sFP5ZqmdCGwNUstW9oGIR) | 3:14 | 2023-12-05 |  |
 | [Come Back Home](https://open.spotify.com/track/755XOeQGLAEknUSCBFvwtI) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Beautiful Dreams](https://open.spotify.com/album/1eOToL1BMJjcG6sR8gzUPT) | 4:17 | 2023-12-05 |  |
 | [Communion in My Cup \(feat\. The Ton3s\)](https://open.spotify.com/track/0gLL2o5wEDK9lpy10nT7Fb) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [The Ton3s](https://open.spotify.com/artist/0UIXG93KWmNPwPbiJF9ds7) | [Red Balloon](https://open.spotify.com/album/3W6zrS9uUbsDtX26ZzsHvE) | 3:28 | 2022-11-30 | 2023-12-06 |
-| [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 | 2023-12-05 |  |
+| [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 | 2023-12-05 | 2024-02-08 |
+| [Cosmos](https://open.spotify.com/track/0iwgldb9jw0O9HOj1FUWgH) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/4fP8xQzp2kRs4Nr24ntJaN) | 3:03 | 2023-12-05 |  |
 | [Dancing Slow](https://open.spotify.com/track/1en09AnmYzVyIp4su1cnGK) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Freewheelin' Woman](https://open.spotify.com/album/2evFHBABBhgV5OtDqHPomo) | 3:20 | 2022-11-30 | 2023-12-06 |
 | [Darling](https://open.spotify.com/track/442CrII1BuI3Q9OmzAAwTq) | [BRIDGE](https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8) | [Cry Baby](https://open.spotify.com/album/4BvzVMX9CAVDfP12AIXu53) | 3:01 | 2023-12-05 |  |
 | [Deja Vu](https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Deja Vu](https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9) | 2:42 | 2023-12-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Holympo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 101 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [TERRA DO NUNCA](https://open.spotify.com/track/1zRfFIkeNhH6UpqAT0r0uK) | [pedronumb](https://open.spotify.com/artist/4nsEPbfz1hPttOFeew8bvH) | [OKAY OKAY](https://open.spotify.com/album/6iefuQOEzgoYh3UHbHpkQN) | 2:13 |
 | 100 | [TOP!AN](https://open.spotify.com/track/7HS2rF70uFwJn9fgM5G8hD) | [Floraby](https://open.spotify.com/artist/4tAsolL2PXyAM31wuVCC85) | [TOP!AN](https://open.spotify.com/album/31a9nXSPEAtaU1hTMSO6vg) | 3:41 |
 
-Snapshot ID: `MCwxMDFhYjAzMWI2OTVhZGI1NDQ3YjA2ZmQ5OTUyMzM3OTFmMTJlMTgy`
+Snapshot ID: `MCw4ZGU1NzFlMmI5MzlkNWYxMzc3N2E5MDBkZWM3Nzk0NjkwOWE1MzNl`

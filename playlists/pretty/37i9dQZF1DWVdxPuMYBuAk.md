@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > A new story begins...Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,367 likes - 71 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,413 likes - 71 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 25 | [cocoa](https://open.spotify.com/track/4oNc2Dhe42VE7d9QAZtxYF) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [cocoa](https://open.spotify.com/album/0j6gcWSUVtfcHvF4l56kLo) | 3:07 |
 | 26 | [B\[OO\]M\-BOXX](https://open.spotify.com/track/2RMQFfyDZEyF6Bm8lCdEYu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:13 |
 | 27 | [Pink Sky Complex](https://open.spotify.com/track/7IdsGTLGAkeLt6kgEdxzc6) | [Edge of Silence](https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW), [Zuddi](https://open.spotify.com/artist/1jxFm3RtD7AaZ3PnR5ht8M) | [Pink Sky Complex](https://open.spotify.com/album/0rvKh2q2apZo7LF2IHI6jU) | 3:36 |
-| 28 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 |
+| 28 | [The Weekend](https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd) | 2:47 |
 | 29 | [Own It](https://open.spotify.com/track/1bnq2C6Xeb9ztr5QjfsFBM) | [Kali J](https://open.spotify.com/artist/7dh0MW1TLdsA3ABq3UAjzR) | [Own It](https://open.spotify.com/album/1CkQPtPvm0VwMFKcj81PIK) | 2:47 |
 | 30 | [Smoke Signals](https://open.spotify.com/track/1UxrIe4ZmoebVnRGkBJEPj) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv) | [Between Broken](https://open.spotify.com/album/3SWONDSeoQ0UTsRyXSlL5g) | 3:16 |
 | 31 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 70 | [Beginning Middle End \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/1BOhfgNrX3vKKrzyTKhsPE) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:15 |
 | 71 | [If The World Ended Tonight \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/7m26R0lPWq6OaDuL6o3aRr) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:56 |
 
-Snapshot ID: `MCwyMjhkYmZiNGMzNjIxMzc2Yjc3N2UwMjUzYzdmNGZiZmNlMTE5MzY0`
+Snapshot ID: `MCw0Y2UwYTU2MmY1N2I5MTg1YzRhNTVmOGQ3ZjEyYWQ5YmMzYTQ3ZjJh`

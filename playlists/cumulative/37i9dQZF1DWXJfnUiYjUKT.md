@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Don Toliver
 
-10,755 songs - 23 day 14 hr 19 min
+10,756 songs - 23 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2895,7 +2895,8 @@
 | [Eve Gene](https://open.spotify.com/track/0B5RsEt6AbLQJhgJxWfN9O) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Eve Gene](https://open.spotify.com/album/2hb1EQDUBqVOaKwJCwW44X) | 3:18 | 2023-05-05 | 2023-05-13 |
 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-10 | 2023-03-18 |
 | [Even When I’m Not With You](https://open.spotify.com/track/4FUT5585FDMRFq7z5ZprHC) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Even When I’m Not With You](https://open.spotify.com/album/38nUbLUn1QQvxiYOSezqJU) | 2:54 | 2023-01-13 | 2023-01-21 |
-| [Even When The Sun is Dead](https://open.spotify.com/track/7zH3Qm6lu296i2owAENBLk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn) | 2:16 | 2024-02-02 |  |
+| [Even When The Sun is Dead](https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/0aIrTtrBqrEHggWVEtErqb) | 2:16 | 2024-02-02 |  |
+| [Even When The Sun is Dead](https://open.spotify.com/track/7zH3Qm6lu296i2owAENBLk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn) | 2:16 | 2024-02-02 | 2024-02-08 |
 | [EVER AGAIN](https://open.spotify.com/track/6bVFrhyMHTWzRe5v5RTnSA) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [EVER AGAIN](https://open.spotify.com/album/02BP8qD2EHtYpi77uyG3PJ) | 2:36 | 2022-04-28 | 2022-05-06 |
 | [Ever Since You Left](https://open.spotify.com/track/3miEfV2k8EEbn64jYaEq9m) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Welcome To The Block Party](https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p) | 2:44 | 2022-02-11 | 2022-02-18 |
 | [Everest \(with Yung Gravy\)](https://open.spotify.com/track/3uFyGFedpjU3wspnWFPQte) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Everest](https://open.spotify.com/album/2SPfhQZkaYFiRaLk2EG0dK) | 2:21 | 2023-07-28 | 2023-08-05 |

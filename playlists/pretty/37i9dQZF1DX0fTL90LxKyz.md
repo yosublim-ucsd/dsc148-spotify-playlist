@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,677 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,679 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 35 | [Bringing It Back](https://open.spotify.com/track/3inbZcvbbcwJFgEzZgANwE) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Bringing It Back](https://open.spotify.com/album/51NcaYxQV6atdnmrCtQoc7) | 3:10 |
 | 36 | [M24 x Fumez the Engineer \- Plugged In](https://open.spotify.com/track/6mZ1eBLOPHltSDFZn4SfwU) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [M24 x Fumez the Engineer \- Plugged In](https://open.spotify.com/album/4XVOMAV4svBJPsSYI3SE5u) | 2:32 |
 | 37 | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/track/6BERzZBkuvnjuf7dUYOL3R) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/album/3dVDMKUj4X35IMG63SCbwe) | 2:34 |
-| 38 | [Pisces](https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Pisces](https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j) | 2:40 |
-| 39 | [Spin This Coupe](https://open.spotify.com/track/7CSjrlKu2HI9qNpzCWWYer) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Spin This Coupe](https://open.spotify.com/album/14f53xLUSSKlpAuvgc6smC) | 2:41 |
-| 40 | [Wasteman](https://open.spotify.com/track/3jKFt4kXB8EjY9beWwdvOv) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:31 |
-| 41 | [Know Better \(feat\. Rv\)](https://open.spotify.com/track/0IX9PL2dUVCHp6L4JQ9Rzq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o) | [The One](https://open.spotify.com/album/1y37t6X1wmEVbCke5Luugd) | 3:30 |
+| 38 | [Spin This Coupe](https://open.spotify.com/track/7CSjrlKu2HI9qNpzCWWYer) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Spin This Coupe](https://open.spotify.com/album/14f53xLUSSKlpAuvgc6smC) | 2:41 |
+| 39 | [Pisces](https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Pisces](https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j) | 2:40 |
+| 40 | [Know Better \(feat\. Rv\)](https://open.spotify.com/track/0IX9PL2dUVCHp6L4JQ9Rzq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o) | [The One](https://open.spotify.com/album/1y37t6X1wmEVbCke5Luugd) | 3:30 |
+| 41 | [Wasteman](https://open.spotify.com/track/3jKFt4kXB8EjY9beWwdvOv) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:31 |
 | 42 | [WW2](https://open.spotify.com/track/51ryhYwXfP7vv3A9RORmQ9) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [WW2](https://open.spotify.com/album/3dvyDylacbSogoCzyIJn52) | 3:21 |
 | 43 | [Call Me A Spartan](https://open.spotify.com/track/3tvtBZEkBPhrusKwj0Bhft) | [Harlem Spartans](https://open.spotify.com/artist/2tdPAMw1puUwZNvRo3Rq4g) | [Call Me A Spartan](https://open.spotify.com/album/0L3E3Q7E8vGe64qn30FuUN) | 3:40 |
 | 44 | [Extra Sleeve](https://open.spotify.com/track/4m9JJpWpijDvgVWcRrkgSB) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [The Last Whip II](https://open.spotify.com/album/4UpMoWftmk0UuuBeQhNxfQ) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Bad One](https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Bad One](https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR) | 2:14 |
 | 50 | [Step Out.](https://open.spotify.com/track/2oLgGxj5Hk9LqZggVDg1VW) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [YPB: The Archive](https://open.spotify.com/album/3E5DWj3A0oXBTwdrrBcKHu) | 3:57 |
 
-Snapshot ID: `MCw3NmQ2YjUwNTk2ZWIyNTk0YjEzZjVmNTU2OThmYTI4M2I4YTNhMDU2`
+Snapshot ID: `MCxlNDRhMWMxMGI1YjJlN2ZmOWU0NzUwM2NmYWQxODE3NzUxODRiYmFl`

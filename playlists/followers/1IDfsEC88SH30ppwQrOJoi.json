@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 14599,
+  "2024-02-08": 14598,
   "date_first_scraped": "2023-11-08",
   "description": "High energy, club songs from around the world! Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
   "name": "Ultra Club Hits",
@@ -3861,6 +3861,24 @@
       "duration_ms": 193075,
       "name": "Stop Time",
       "url": "https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ"
+    },
+    {
+      "album": {
+        "name": "Sun & Moon",
+        "url": "https://open.spotify.com/album/2PxAkJmFTzrTdPikkEbBiB"
+      },
+      "artists": [
+        {
+          "name": "Moji",
+          "url": "https://open.spotify.com/artist/6xVsW7h4SzGxh6iIgaJQm7"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221560,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/1z4VDapoHOL41k8bjo6rnk"
     },
     {
       "album": {

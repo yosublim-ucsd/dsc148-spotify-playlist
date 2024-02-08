@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bluay e Julinho Ksd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,022 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,033 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 44 | [Agradeço](https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:29 |
 | 45 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 46 | [Carta](https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Carta](https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav) | 2:33 |
-| 47 | [Lidar](https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Caixa Azul](https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI) | 3:12 |
+| 47 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 |
 | 48 | [So Flawless](https://open.spotify.com/track/1plyo1KCOcXS92FItfyXMx) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:15 |
-| 49 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 |
+| 49 | [Lidar](https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Caixa Azul](https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI) | 3:12 |
 | 50 | [VOLTA](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [VOLTA](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 |
 | 51 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
 | 52 | [.Sais e Minerais](https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:17 |
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 64 | [Tão Perto](https://open.spotify.com/track/0aBb0ba87IscklgtAkk6wO) | [nastyfactor](https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1) | [Tão Perto](https://open.spotify.com/album/2nu3SwyyAdtxLzIUmywury) | 2:24 |
 | 65 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 |
 | 66 | [Filho do Vento](https://open.spotify.com/track/1we7vOaZVUh0LAyNFZd7fL) | [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Filho do Vento](https://open.spotify.com/album/2vjFAk5sCGaHidNUV3FsSX) | 2:27 |
-| 67 | [Tequila \- Studio Version](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
-| 68 | [Espirito](https://open.spotify.com/track/1qRFaUg4Lr8suJArLQajv1) | [Young Max](https://open.spotify.com/artist/1t6x0n25bBUkI4re1wQqKu), [Apollo G](https://open.spotify.com/artist/4spmzPX02Jg0rnuyIWFngi) | [Espirito](https://open.spotify.com/album/43ELmi4Ak9u9vhEHUszb0I) | 2:55 |
+| 67 | [Espirito](https://open.spotify.com/track/1qRFaUg4Lr8suJArLQajv1) | [Young Max](https://open.spotify.com/artist/1t6x0n25bBUkI4re1wQqKu), [Apollo G](https://open.spotify.com/artist/4spmzPX02Jg0rnuyIWFngi) | [Espirito](https://open.spotify.com/album/43ELmi4Ak9u9vhEHUszb0I) | 2:55 |
+| 68 | [Tequila \- Studio Version](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
 | 69 | [Replay](https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Erick Lobato](https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64), [Vittau](https://open.spotify.com/artist/4fz3smvxYWXvGdLyFDOHv8), [TOCS](https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx) | [Replay](https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt) | 3:37 |
-| 70 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
-| 71 | [Stay True](https://open.spotify.com/track/51Pa0Kou3atuQNQNVwufHE) | [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL), [Balrook](https://open.spotify.com/artist/29SPeuUhgygvAW2tii5u5P) | [Stay True](https://open.spotify.com/album/5Sy11xHYriz6bJwG4u3leY) | 3:05 |
+| 70 | [Stay True](https://open.spotify.com/track/51Pa0Kou3atuQNQNVwufHE) | [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL), [Balrook](https://open.spotify.com/artist/29SPeuUhgygvAW2tii5u5P) | [Stay True](https://open.spotify.com/album/5Sy11xHYriz6bJwG4u3leY) | 3:05 |
+| 71 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
 | 72 | [Herança](https://open.spotify.com/track/59Emm4uPCpHLJLVhQ4LtNg) | [Silly](https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx) | [Herança](https://open.spotify.com/album/7Dd0Z2LMADxho6oXPFpK1n) | 3:00 |
 | 73 | [Mar de Rosas](https://open.spotify.com/track/7xPkzDlimUKWdr3Gf7JdPN) | [fontayne](https://open.spotify.com/artist/5LqAHoa04Mi9HtTtskh2GF) | [Mar de Rosas](https://open.spotify.com/album/492Q0hPgKBp529dQpdHvPZ) | 2:46 |
 | 74 | [Agora Naw](https://open.spotify.com/track/1PgAHn4rhXbsGNkFK8A8HN) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF) | [Camadas](https://open.spotify.com/album/2sdk6kCoIXXJUf0v67Ig2x) | 3:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 79 | [Baby 3x](https://open.spotify.com/track/4FSWmY6tbpTXoeb4hqO5pn) | [Flepa](https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB) | [Baby 3x](https://open.spotify.com/album/7sNeiqO9arYjxRUIIqzBub) | 1:57 |
 | 80 | [Dreams](https://open.spotify.com/track/1DjRGwFuokMU6T8gH7JmL6) | [Indian Man](https://open.spotify.com/artist/1f902507emsB4UREPPHHOn) | [Dreams](https://open.spotify.com/album/1fJxerDvyH6b1Qn8kYDd0B) | 2:17 |
 
-Snapshot ID: `MCwwZTZhNmUxNWQwNzc3YzhiMmZkNGY3NzA1NGVkNDUxNDA2MWUxZDk4`
+Snapshot ID: `MCwxZDQ5OGZhOWZiMzY1NGQ2MmZjYTIyOTgzYTVmOWFjZGE5MjY2MWU4`

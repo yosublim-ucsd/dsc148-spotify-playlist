@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy rock & alt songs for your workout.",
-  "num_followers": 612785,
+  "num_followers": 612796,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTMwYzRiNTM5ZTc5ZTE1MjdiZGFhN2RmMjVjN2ZlM2Q3YWE5MTU4",
+  "snapshot_id": "MCxiNzQ5NDk2YzYyZTgxYzlkOTM5NGZlYTg1MTJiNGM0ZjlhZjFmY2Yy",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Costello Music",
-        "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
-      },
-      "artists": [
-        {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Chelsea Dagger",
-      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Crooked Teeth",
         "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 227847,
       "name": "Born For Greatness",
       "url": "https://open.spotify.com/track/5NFXaR31k0gmII07w6OJIt"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Costello Music",
+        "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Chelsea Dagger",
+      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Here\u2019s To Us",
+        "url": "https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 198022,
+      "name": "Not The 1975",
+      "url": "https://open.spotify.com/track/4FjcgEhcOTostSAHQ0YYHj"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Back To The Water Below",
         "url": "https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 164138,
       "name": "FUNERAL GREY",
       "url": "https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Here\u2019s To Us",
-        "url": "https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 198022,
-      "name": "Not The 1975",
-      "url": "https://open.spotify.com/track/4FjcgEhcOTostSAHQ0YYHj"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "We Need More Bricks",
         "url": "https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 236933,
       "name": "Typhoons",
       "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Down Here Waiting",
-        "url": "https://open.spotify.com/album/7JqkfkMLQj4HWrrqhh2CUz"
+        "name": "Pop Evil",
+        "url": "https://open.spotify.com/album/3qytVWeUzpO3PkxPWurIfY"
       },
       "artists": [
         {
-          "name": "Blue October",
-          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
         }
       ],
-      "duration_ms": 215495,
-      "name": "Down Here Waiting",
-      "url": "https://open.spotify.com/track/5yqS1eBrDMx7bbcGilON0N"
+      "duration_ms": 203273,
+      "name": "Be Legendary",
+      "url": "https://open.spotify.com/track/1K48Rz8fb7x6zdJkyVoQoq"
     }
   ],
   "unique_name": "Rock Me Up",

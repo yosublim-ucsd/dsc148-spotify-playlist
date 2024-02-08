@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Abby Sage",
-  "num_followers": 89858,
+  "num_followers": 89936,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmQ4Mzc2Y2U1NDg1OTE5MjAxOGVjNmRmZjFiNGQzNTEzZmY5ZDkz",
+  "snapshot_id": "MCxkNGI5ZWRiZGFiYzI3ZTQxYTBhYTM5YTViYjBkZmI1NzBhNTRjNTMx",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/2b7zdV4i5vEaRlZAkiIAR5"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Lovers to Strangers",
-        "url": "https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 174086,
-      "name": "Lovers to Strangers",
-      "url": "https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Spotify Singles",
@@ -379,6 +363,22 @@
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Lovers to Strangers",
+        "url": "https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 174086,
+      "name": "Lovers to Strangers",
+      "url": "https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "The Ballad of Betty and Barney Hill",
         "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 184869,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "Ribbons",
-      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 159453,
       "name": "Juniper",
       "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Is There Something in the Movies?",
-      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Soup Song",
         "url": "https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 150142,
       "name": "Soup Song",
       "url": "https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Is There Something in the Movies?",
+      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "my house is warm",
+        "url": "https://open.spotify.com/album/75EFextiYNP5Xd1AE1aMHp"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "my house is warm",
+      "url": "https://open.spotify.com/track/5szktaZo20RhrFUfRp4Res"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Forever Turned Around",
         "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
       },
@@ -1235,18 +1251,34 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "my house is warm",
-        "url": "https://open.spotify.com/album/75EFextiYNP5Xd1AE1aMHp"
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
         }
       ],
-      "duration_ms": 215586,
-      "name": "my house is warm",
-      "url": "https://open.spotify.com/track/5szktaZo20RhrFUfRp4Res"
+      "duration_ms": 275560,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 300586,
+      "name": "Cool Dry Place",
+      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1267,22 +1299,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "This Is A Photograph",
         "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 210333,
       "name": "This Is A Photograph",
       "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 300586,
-      "name": "Cool Dry Place",
-      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "As You Are",
-        "url": "https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 141946,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Live at Electric Lady",
         "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 193666,
       "name": "Blouse - Recorded At Electric Lady Studios",
       "url": "https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "As You Are",
+        "url": "https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 141946,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Bindi in the Dirt",
-        "url": "https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Pasterfield",
-          "url": "https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Bindi in the Dirt",
-      "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "unposted letters",
         "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 205230,
       "name": "unposted letters",
       "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Bindi in the Dirt",
+        "url": "https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Pasterfield",
+          "url": "https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Bindi in the Dirt",
+      "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Bad girl",
-      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Lightning",
         "url": "https://open.spotify.com/album/6tDh0PENW9b8hS7lsZfhCk"
       },
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Bad girl",
+      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Sundowner",
         "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
       },
@@ -1715,22 +1715,6 @@
       "duration_ms": 319053,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
-      },
-      "artists": [
-        {
-          "name": "Jana Horn",
-          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
-        }
-      ],
-      "duration_ms": 119372,
-      "name": "Optimism",
-      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1751,6 +1735,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "duration_ms": 119372,
+      "name": "Optimism",
+      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Norm",
         "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
       },
@@ -1763,6 +1763,26 @@
       "duration_ms": 222800,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/6kmeI9upOHk6TRSi2StNlr"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Blue Moon (with paris jackson)",
+        "url": "https://open.spotify.com/album/1kNrj1GRY8WziMDBaruSnU"
+      },
+      "artists": [
+        {
+          "name": "Steinza",
+          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
+        },
+        {
+          "name": "paris jackson",
+          "url": "https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e"
+        }
+      ],
+      "duration_ms": 149680,
+      "name": "Blue Moon (with paris jackson)",
+      "url": "https://open.spotify.com/track/4u49em2HjO33qX3CkGCzNZ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1815,26 +1835,6 @@
       "duration_ms": 140145,
       "name": "Shell",
       "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Blue Moon (with paris jackson)",
-        "url": "https://open.spotify.com/album/1kNrj1GRY8WziMDBaruSnU"
-      },
-      "artists": [
-        {
-          "name": "Steinza",
-          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
-        },
-        {
-          "name": "paris jackson",
-          "url": "https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e"
-        }
-      ],
-      "duration_ms": 149680,
-      "name": "Blue Moon (with paris jackson)",
-      "url": "https://open.spotify.com/track/4u49em2HjO33qX3CkGCzNZ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Sorceress",
+        "url": "https://open.spotify.com/album/0CGHgo9imbQfU2n8LdbVDO"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "duration_ms": 186509,
+      "name": "Wind On Tin",
+      "url": "https://open.spotify.com/track/49TYOtiNamKbN1xGIaNOgV"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Crispy Crunchy Nothing",
         "url": "https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 260721,
       "name": "Salt Circle",
       "url": "https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Sorceress",
-        "url": "https://open.spotify.com/album/0CGHgo9imbQfU2n8LdbVDO"
-      },
-      "artists": [
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 186509,
-      "name": "Wind On Tin",
-      "url": "https://open.spotify.com/track/49TYOtiNamKbN1xGIaNOgV"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2015,18 +2015,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Alone With You",
-        "url": "https://open.spotify.com/album/2HkPoPfr3EynrPWKamNn8j"
+        "name": "in another life",
+        "url": "https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R"
       },
       "artists": [
         {
-          "name": "Morgan Harper-Jones",
-          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 229306,
-      "name": "Alone With You",
-      "url": "https://open.spotify.com/track/4QrqR0jGwhhnGi8IPyyvnV"
+      "duration_ms": 231560,
+      "name": "burner phone",
+      "url": "https://open.spotify.com/track/1vB0pKXnvQaeqSGkoeNJ9t"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2051,18 +2051,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "in another life",
-        "url": "https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R"
+        "name": "Alone With You",
+        "url": "https://open.spotify.com/album/2HkPoPfr3EynrPWKamNn8j"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Morgan Harper-Jones",
+          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
         }
       ],
-      "duration_ms": 231560,
-      "name": "burner phone",
-      "url": "https://open.spotify.com/track/1vB0pKXnvQaeqSGkoeNJ9t"
+      "duration_ms": 229306,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/4QrqR0jGwhhnGi8IPyyvnV"
     },
     {
       "added_at": "2024-01-26 05:00:00",

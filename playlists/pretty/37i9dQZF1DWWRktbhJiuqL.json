@@ -1,12 +1,12 @@
 {
   "description": "Various sounds, various decades, but with one thing in common: pure rock & roll.",
-  "num_followers": 1566432,
+  "num_followers": 1566518,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDRlOTgyYmUwNzQzNGQ0MjYzZjE4NzM5ZmExNzcxZTE0YjU1ZjQw",
+  "snapshot_id": "MCw0NzI4MjJmNGZiZWNiNWQyOWIwZGQyNjRlMDc5ZmE4ODZmZjA4YTIw",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 161560,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 300400,
       "name": "Baba O'Riley",
       "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 161560,
-      "name": "Johnny B. Goode",
-      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 274088,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Willy And The Poor Boys (Expanded Edition)",
         "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 285200,
       "name": "Man in the Box",
       "url": "https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 274088,
-      "name": "Sweet Emotion",
-      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Kinks (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "You Really Got Me",
-      "url": "https://open.spotify.com/track/6tZdL3Zp8JgrfDbsSeSV1S"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Everybody Wants",
         "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 187653,
       "name": "Could Have Been Me",
       "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Kinks (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 133933,
+      "name": "You Really Got Me",
+      "url": "https://open.spotify.com/track/6tZdL3Zp8JgrfDbsSeSV1S"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
-        "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 261812,
-      "name": "Runnin' Down A Dream",
-      "url": "https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Moving Pictures (2011 Remaster)",
         "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 276880,
       "name": "Tom Sawyer",
       "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
+        "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 261812,
+      "name": "Runnin' Down A Dream",
+      "url": "https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Wheels Of Fire",
-        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
       "artists": [
         {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 298333,
-      "name": "White Room",
-      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
+      "duration_ms": 191800,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
         }
       ],
-      "duration_ms": 191800,
-      "name": "Howlin' for You",
-      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+      "duration_ms": 298333,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Refugee",
-      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Songs For The Deaf",
         "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 154200,
       "name": "A Hard Day's Night - Remastered 2009",
       "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 145746,
+      "name": "I Want To Hold Your Hand - Remastered 2015",
+      "url": "https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Lunatic",
         "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "1 (Remastered)",
-        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 145746,
-      "name": "I Want To Hold Your Hand - Remastered 2015",
-      "url": "https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s"
     },
     {
       "added_at": "2024-01-12 05:00:00",

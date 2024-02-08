@@ -1,7 +1,7 @@
 {
-  "2024-02-07": 1847,
+  "2024-02-08": 1854,
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: \u7092\u7092",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Kohjiya",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -337,7 +337,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 139636,
       "name": "Arakawa",
       "url": "https://open.spotify.com/track/3Izy5tIrFbZ0id57pdBUDN"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 204878,
       "name": "BABY",
       "url": "https://open.spotify.com/track/02RHIQevyuwh4w77WmE8VX"
@@ -909,6 +909,28 @@
       "duration_ms": 135711,
       "name": "day n night",
       "url": "https://open.spotify.com/track/4UTNTQTKdcUzxCO1xZjHuf"
+    },
+    {
+      "album": {
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/7hxrB01zm8NgOnCrLpSPqn"
+      },
+      "artists": [
+        {
+          "name": "Yatt",
+          "url": "https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken"
+        },
+        {
+          "name": "Ry-lax",
+          "url": "https://open.spotify.com/artist/6BpKACmMhqNkkSSihR8cDI"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/3RMlPlFIBtplMhm1r3Yp5z"
     },
     {
       "album": {
@@ -1852,6 +1874,24 @@
     },
     {
       "album": {
+        "name": "Jazzy&Me",
+        "url": "https://open.spotify.com/album/3fE836KnAbE7cPSb0VXtm7"
+      },
+      "artists": [
+        {
+          "name": "S Carti",
+          "url": "https://open.spotify.com/artist/4fSjc5gtf1H43hnZVZIpWK"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120833,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5LrWEVkWY3N09bt5zCj0gx"
+    },
+    {
+      "album": {
         "name": "Hot Rodder",
         "url": "https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85"
       },
@@ -2158,6 +2198,24 @@
     },
     {
       "album": {
+        "name": "JUNK",
+        "url": "https://open.spotify.com/album/3JneRTGSdDpKrQWhID2ZWw"
+      },
+      "artists": [
+        {
+          "name": "eco skinny",
+          "url": "https://open.spotify.com/artist/5XAY6FqqxqPclsCmTVaqkb"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "JUNK",
+      "url": "https://open.spotify.com/track/1duIv70E5FCf9JA4vcqXBI"
+    },
+    {
+      "album": {
         "name": "junkie",
         "url": "https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw"
       },
@@ -2187,7 +2245,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 133953,
       "name": "Kick Back",
       "url": "https://open.spotify.com/track/0R3cKyL7lSmV1AIMf5IvGC"
@@ -2905,7 +2963,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 232475,
       "name": "Orgel",
       "url": "https://open.spotify.com/track/30pCccYXXbwAE5zylYDqeW"
@@ -3101,6 +3159,32 @@
       "duration_ms": 146813,
       "name": "RANDO",
       "url": "https://open.spotify.com/track/7zzkmw6rUNfccb8GypmTzY"
+    },
+    {
+      "album": {
+        "name": "KJ SEASON",
+        "url": "https://open.spotify.com/album/28Tb83FZurUuUbiv17V0zE"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        },
+        {
+          "name": "lj",
+          "url": "https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez"
+        },
+        {
+          "name": "Only U",
+          "url": "https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186181,
+      "name": "Rarri",
+      "url": "https://open.spotify.com/track/6tiguQlJ1ZYIfBFGPkJ0GL"
     },
     {
       "album": {
@@ -3736,6 +3820,24 @@
     },
     {
       "album": {
+        "name": "Travel case",
+        "url": "https://open.spotify.com/album/3uRbCc8PXPc4QgjYuw8POq"
+      },
+      "artists": [
+        {
+          "name": "sou",
+          "url": "https://open.spotify.com/artist/1Wx4kInxSku2hoO33t9c57"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140998,
+      "name": "Travel case",
+      "url": "https://open.spotify.com/track/7zxFJ61jULg6IDOlfc2tPl"
+    },
+    {
+      "album": {
         "name": "Try & Error",
         "url": "https://open.spotify.com/album/6kouP6OtkeyHwuxkFWrDtB"
       },
@@ -4155,7 +4257,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 146883,
       "name": "YARUDAKE - BONUS",
       "url": "https://open.spotify.com/track/2I7K5iDQa1CRGk4UCn45ev"

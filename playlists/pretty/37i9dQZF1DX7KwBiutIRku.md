@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,891 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,984 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 29 | [Silver Dollar](https://open.spotify.com/track/6FI74cRYyrYgDC51ZYtVt3) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Fighting](https://open.spotify.com/album/4XGIy3KPZ0zjl5dhhvQtFQ) | 3:26 |
 | 30 | [Maggie's Farm \- Remastered](https://open.spotify.com/track/2TsY408zarh6FNtc7YsMGf) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [The Blues Band \- Ready \(Remastered\)](https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs) | 3:17 |
 | 31 | [Whatever You Want](https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Quotable Quo](https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj) | 4:02 |
-| 32 | [True Blue](https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Never A Dull Moment](https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ) | 3:31 |
+| 32 | [Lower On Your List Of Priorities](https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [Raisin' A Ruckus](https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo) | 3:20 |
 | 33 | [Floyd's Hotel](https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [The Morning After](https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8) | 3:09 |
-| 34 | [Lower On Your List Of Priorities](https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [Raisin' A Ruckus](https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo) | 3:20 |
+| 34 | [True Blue](https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Never A Dull Moment](https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ) | 3:31 |
 | 35 | [Borstal Boys](https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 2:53 |
 | 36 | [Hell Cat](https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Top Priority \(Remastered 2017\)](https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy) | 4:50 |
 | 37 | [The Golden Age of Rock 'n' Roll](https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [The Hoople](https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am) | 3:24 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 39 | [It's All Over Now](https://open.spotify.com/track/78H0GpZn9EXwEI6gr2FZUA) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Gasoline Alley](https://open.spotify.com/album/6FaMpsO2fif34ToEu1wLqf) | 6:26 |
 | 40 | [Leave This House](https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Leave This House](https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi) | 3:29 |
 | 41 | [I'm A Rocker](https://open.spotify.com/track/1HDnpYpxx5QksiWFs7DGzv) | [Raspberries](https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5) | [Side 3](https://open.spotify.com/album/70HzypoC6XLvXEUWAutTRc) | 5:10 |
-| 42 | [Tars Of India \- Deluxe Edition](https://open.spotify.com/track/2yQTF2kyJayBzLUMBdbDQm) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky \(Deluxe Edition\)](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 3:05 |
-| 43 | [Outlaws](https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [1234](https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF) | 4:02 |
+| 42 | [Outlaws](https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [1234](https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF) | 4:02 |
+| 43 | [Tars Of India \- Deluxe Edition](https://open.spotify.com/track/2yQTF2kyJayBzLUMBdbDQm) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky \(Deluxe Edition\)](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 3:05 |
 | 44 | [Find Yourself Another Fool \- Remastered](https://open.spotify.com/track/5CH51fbCNKlPdFOJs1F7g2) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [The Blues Band \- Ready \(Remastered\)](https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs) | 2:35 |
 | 45 | [7 O'Clock \- 30th Anniversary Version](https://open.spotify.com/track/22JtENh4WNZxFll7qVG5rY) | [The Quireboys](https://open.spotify.com/artist/0d49iRrp4iVZggKbcpxnqI) | [7 O'Clock \(30th Anniversary Version\)](https://open.spotify.com/album/4U4Y79UjbLeePgMRIpNKAt) | 3:43 |
 | 46 | [Jerkin' Crocus](https://open.spotify.com/track/1xKF80cHD0H6VydMJqK4st) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [All The Young Dudes \(Expanded Edition\)](https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa) | 4:00 |
 | 47 | [Bourbon](https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Jinx \(Remastered 2017\)](https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS) | 3:54 |
-| 48 | [Keep Playin' That Rock 'n' Roll](https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1) | [Edgar Winter's White Trash](https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL) | [The Essential Edgar Winter](https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW) | 3:44 |
-| 49 | [Rockout, Whatever You Feel Like](https://open.spotify.com/track/2F2bTEfEFPaq1GoY2pQIyx) | [Cactus](https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj) | [One Way...Or Another](https://open.spotify.com/album/1enFOK5mMWdC4VQoO4H9Ly) | 4:00 |
-| 50 | [Born To Boogie](https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx](https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG) | 2:04 |
+| 48 | [Rockout, Whatever You Feel Like](https://open.spotify.com/track/2F2bTEfEFPaq1GoY2pQIyx) | [Cactus](https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj) | [One Way...Or Another](https://open.spotify.com/album/1enFOK5mMWdC4VQoO4H9Ly) | 4:00 |
+| 49 | [Worry No More](https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [Gimme Some Neck](https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9) | 2:33 |
+| 50 | [Keep Playin' That Rock 'n' Roll](https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1) | [Edgar Winter's White Trash](https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL) | [The Essential Edgar Winter](https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW) | 3:44 |
 
-Snapshot ID: `MCw2OWQ0NjNhY2FjMjkyOTEyMzg1YTA4NzZjZTVhYWZhOTY1MGFmN2Fk`
+Snapshot ID: `MCwzYTAzMjc4ZGY3MGQyYWI3MDAyYzc2Nzg0NzE1N2U2NDhjMWQxYTRh`

@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 19513,
+  "num_followers": 19535,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGJlODJjYzAwMTJjOWJkYWQyMTY4YWVmN2FmZjA5MzkwYTMwNDk4",
+  "snapshot_id": "MCw1MmY2NTBhNWJmMjg4ZGRmZDRhN2I0ZTRjYTYzYWIyOTQ2ZDA2Mjkx",
   "tracks": [
     {
       "added_at": "2024-02-02 06:02:24",
@@ -939,26 +939,6 @@
     {
       "added_at": "2024-02-02 06:02:24",
       "album": {
-        "name": "SHUT IT DOWN",
-        "url": "https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Chocobantis",
-          "url": "https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "SHUT IT DOWN",
-      "url": "https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX"
-    },
-    {
-      "added_at": "2024-02-02 06:02:24",
-      "album": {
         "name": "Assignment",
         "url": "https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 137472,
       "name": "Assignment",
       "url": "https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y"
+    },
+    {
+      "added_at": "2024-02-02 06:02:24",
+      "album": {
+        "name": "SHUT IT DOWN",
+        "url": "https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Chocobantis",
+          "url": "https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "SHUT IT DOWN",
+      "url": "https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX"
     },
     {
       "added_at": "2024-02-02 06:02:24",

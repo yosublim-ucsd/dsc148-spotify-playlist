@@ -4,7 +4,7 @@
 
 > Dope, Asian, and Femme\. Cover: REI AMI
 
-211 songs - 10 hr 50 min
+212 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [résumé](https://open.spotify.com/track/4ueRLPY3K49X8hKrd2CDFN) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [résumé](https://open.spotify.com/album/29ibhzG3YXJMgqWqFfM3iQ) | 2:46 | 2022-05-06 | 2023-06-08 |
 | [sardines](https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [chump change](https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE) | 2:12 | 2022-06-03 | 2023-08-26 |
 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2021-12-03 |  |
+| [Selfish](https://open.spotify.com/track/3cDcYJUR4vJ6KBLjjBTqsw) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Selfish](https://open.spotify.com/album/2HdxbJNhnwNzT0FiDvCPAY) | 2:26 | 2023-11-24 |  |
 | [Selfish](https://open.spotify.com/track/4U8z0N3ELIhn9gys3u4ahp) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Selfish](https://open.spotify.com/album/4fGjZLAfNlFz5hoUFuvyil) | 2:26 | 2021-12-03 | 2024-01-25 |
 | [Seoul](https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ) | [Sofia Kay](https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q) | [Seoul](https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv) | 3:33 | 2021-12-03 |  |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-01-28 |  |
@@ -192,7 +193,7 @@
 | [The Feels](https://open.spotify.com/track/6pgqZ7Iw4LfHlfgWWaRFSY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Feels](https://open.spotify.com/album/744iq6HcpYJixN85Egbvt9) | 3:18 | 2021-12-03 | 2022-07-29 |
 | [The King](https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m) | 3:26 | 2022-09-02 |  |
 | [The King](https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM) | 3:26 | 2021-12-03 | 2022-10-14 |
-| [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2021-12-03 |  |
+| [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2021-12-03 | 2024-02-08 |
 | [Tonight](https://open.spotify.com/track/61DbgSlQBqGY21NmBgJQUh) | [Jihae](https://open.spotify.com/artist/1GCXAhDPlXCcj8Os4lUjhf) | [Tonight](https://open.spotify.com/album/5FGkBeQg0rS6W60sBOiMq8) | 4:37 | 2022-01-07 | 2022-04-21 |
 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 | 2023-04-28 |  |
 | [TRIGGER HAPPY](https://open.spotify.com/track/0Xl7RPKEaAM2fyh1pXNAt2) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [TRIGGER HAPPY](https://open.spotify.com/album/16Bgi95HqT33ldu0ZQWttU) | 3:39 | 2022-04-15 | 2022-07-24 |

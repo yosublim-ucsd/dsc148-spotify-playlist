@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,020 likes - 52 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,016 likes - 52 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 40 | [Gesu Bambino](https://open.spotify.com/track/70TUCXbpF7SqtZOwqq6phF) | [Stan Whitmire](https://open.spotify.com/artist/3Be0FxZRoCJ8UPrkwe6Xuw) | [Christmas Around The Piano](https://open.spotify.com/album/2YZZf9NIZnoUurtJdHVp2N) | 4:40 |
 | 41 | [The Wexford Carol](https://open.spotify.com/track/2DUq09XWvzX2QRXKs3ZMUH) | [Carducci String Quartet](https://open.spotify.com/artist/4cKOYjPLQGb79166NxfeyI) | [The Wexford Carol](https://open.spotify.com/album/2avlZClfTbrRCAMttmcPuE) | 2:37 |
 | 42 | [The Holly & The Ivy](https://open.spotify.com/track/1xDE4ZqjA6Oi8yxIRn8goX) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Romance](https://open.spotify.com/album/5iSA8cwqAeL2Ep7RcnT62N) | 4:19 |
-| 43 | [How Great Our Joy](https://open.spotify.com/track/7y1j9j23BVQxvpBfI5PC5C) | [Christmas Music Holiday Trio](https://open.spotify.com/artist/4XWZxmAaLdsJlJvUjlowZF) | [Relaxing Christmas Music, Vol\. 1](https://open.spotify.com/album/3TsPUuASpxKagXwi12SSmx) | 2:05 |
+| 43 | [How Great Our Joy](https://open.spotify.com/track/5F0foLmvoD2hzu7Thl9RKC) | [Christmas Music Holiday Trio](https://open.spotify.com/artist/4XWZxmAaLdsJlJvUjlowZF) | [Relaxing Christmas Music, Vol\. 1](https://open.spotify.com/album/4YDsJ5F6JkYH1GzE6byio0) | 2:05 |
 | 44 | [I Saw Three Ships](https://open.spotify.com/track/012kxyu91sy0GV2cDHU8M4) | [Louis Landon](https://open.spotify.com/artist/43Ybg5x9TrGovf70jSMzah) | [Peaceful Solo Piano Christmas 2](https://open.spotify.com/album/1HM8IfS4L23ezwo6mV5u2x) | 2:31 |
 | 45 | [Angels from the Realms of Glory \(Instrumental Version\)](https://open.spotify.com/track/62hAUuevuzKsElvDCoYZxK) | [The O'Neill Brothers](https://open.spotify.com/artist/2szp9EHFXhBSuS3PmZwqvg) | [Most Memorable Christmas on Piano: Best of The O'Neill Brothers](https://open.spotify.com/album/6u3EBI80MtYdsiODnZgzzu) | 4:25 |
 | 46 | [Il Est Ne, Le Divin Enfant \(He Is Born\)](https://open.spotify.com/track/7Abl4nhpTicAlcbHmUGVv3) | [Brad Jacobsen](https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s) | [Winter \- Solo Piano Christmas](https://open.spotify.com/album/5rKmeg1OjlUA5IwbtdRiLL) | 4:48 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 51 | [Silent Night \- Piano/Strings](https://open.spotify.com/track/0rUUKPi2d2riJQZzVfEoit) | [Adam Zampino](https://open.spotify.com/artist/4eLX2lDIcpLrgNzB2eHyBm) | [Christmas Piano \- Solo Piano and Strings](https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl) | 2:57 |
 | 52 | [Veni, veni Emmanuel \(arr\. A\. Delmoni\)](https://open.spotify.com/track/2kMIPXDydaTNVdQFcWzYEF) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:22 |
 
-Snapshot ID: `MCwxN2NlMjg3NzhmZTkxOTIwYTVjYmVkMjUyMjE2ZmQ5YjZkYWUxMTQx`
+Snapshot ID: `MCwzODlkNDhjM2M5ZDc0YTg5ZDhlMjk0MmQ1Y2UzYWQxNjZiYmY3MzFl`

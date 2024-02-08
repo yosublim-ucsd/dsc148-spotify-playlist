@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Matmatah
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,550 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,577 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 28 | [Elle m'a dit](https://open.spotify.com/track/631aobaJggPYE0nIh3mo2t) | [Cali](https://open.spotify.com/artist/1ULXG4gd6YSvdjuFBJ6sAA) | [L'amour Parfait](https://open.spotify.com/album/1wDIEUmo5UDNuC7TkgCMCX) | 3:33 |
 | 29 | [Jeunesse lève\-toi](https://open.spotify.com/track/1In0XrrtTPQUXTTbJ1dz6r) | [Saez](https://open.spotify.com/artist/2yQBgACksUJgNKh1JWPWPe) | [Varsovie, L'Alhambra, Paris](https://open.spotify.com/album/43Noaz2o2re0gEJf1Ib0Ia) | 4:45 |
 | 30 | [Ça me vexe](https://open.spotify.com/track/5LKdAzDeMyMXezSTIHkXcE) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Ça me vexe](https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0) | 3:27 |
-| 31 | [Matador](https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Matador](https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7) | 3:06 |
-| 32 | [Toy Boy](https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Nevermind the Living Dead](https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW) | 4:25 |
+| 31 | [Toy Boy](https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Nevermind the Living Dead](https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW) | 4:25 |
+| 32 | [Matador](https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Matador](https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7) | 3:06 |
 | 33 | [Le retour à la terre](https://open.spotify.com/track/715zIQcEj658KTFby8MJYp) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Coming Out \(Standard\)](https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm) | 3:52 |
 | 34 | [Mon époque](https://open.spotify.com/track/0PUVRaTOBUfwWNsX9l8NIY) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [La part des lions](https://open.spotify.com/album/3bEmZFZ2V6ls0vMPfviqw3) | 2:19 |
 | 35 | [Va y avoir du sport](https://open.spotify.com/track/1oE5WEHiHjbS4VKOCF6O2F) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH), [Mario Caltado Jr](https://open.spotify.com/artist/5EAlrYI7AwfWNEveCBpwf5) | [Vegas 76](https://open.spotify.com/album/6RMd6TThidQTzQVe2JicLG) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 49 | [Je me souviens, je me rappelle](https://open.spotify.com/track/3vgmRlBi986YeWV95UNgJ6) | [Daniel Darc](https://open.spotify.com/artist/7iMdjNroWSI5FqRxeu2G5t) | [Crèvecoeur \(2019 remastered\)](https://open.spotify.com/album/5brOhiGaSGy404g0CaY3Yf) | 3:19 |
 | 50 | [Anomalie](https://open.spotify.com/track/4lzxPainD9ovAzAAAeXoqs) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Anomalie](https://open.spotify.com/album/7BpAbYt9NzfXUOUlniH9Qf) | 3:09 |
 
-Snapshot ID: `MCxkZmE3OThmZjgyZDhkMmE2ZmYzNTFkYzA3NTFmZTNiNDBiMGZjNWVm`
+Snapshot ID: `MCw2OGFmYWFlN2JmNDZlMmQzYWEyMDdjZjRkNGQ0MDI0Y2E0MmRhMTlh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The shape of noise to come.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,438 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,499 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [Medication](https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Right After I Smoke This...](https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB) | 2:22 |
 | 60 | [Life's a Pill](https://open.spotify.com/track/4XvNALxzCzwFymLvN9Daes) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Life's a Pill](https://open.spotify.com/album/3vH68KoocrWeWtYoQsL60s) | 3:37 |
 
-Snapshot ID: `MCxiNjc2MWZhNTk1YzNlNzQwYTlkYmY4ZWE5ZTkwMzM4MTQ3ZjMwNTI2`
+Snapshot ID: `MCw3M2FhY2IzMzNhZTBlYjkwNWE0YWI4YmQ4ZmUyYmZjYTJiYzA2Mzc2`

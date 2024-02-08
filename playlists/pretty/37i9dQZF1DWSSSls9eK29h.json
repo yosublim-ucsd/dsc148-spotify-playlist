@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 132535,
+  "num_followers": 132591,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTBhMWNjZmM4ZTlmMWNjMzY3ZTQ5Yjc0NDBlNzczODkxZjUwNTdk",
+  "snapshot_id": "MCxlMmNiYjMwNTJiZTMyZTcwYmNlZjUzYWQwZjc2ZGYwZWIyZWM3M2M3",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Just Between Us",
-        "url": "https://open.spotify.com/album/6bwAkYAEZ8eA9rskEYtPoN"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 289040,
-      "name": "So Amazing",
-      "url": "https://open.spotify.com/track/6vRfKcVF63Chfd63VQyqhT"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 314080,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/4qOSCREAKK2OnuDqzyTMzr"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Just Between Us",
+        "url": "https://open.spotify.com/album/6bwAkYAEZ8eA9rskEYtPoN"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 289040,
+      "name": "So Amazing",
+      "url": "https://open.spotify.com/track/6vRfKcVF63Chfd63VQyqhT"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -475,22 +475,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Touchdown",
-        "url": "https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6"
-      },
-      "artists": [
-        {
-          "name": "Bob James",
-          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
-        }
-      ],
-      "duration_ms": 344773,
-      "name": "Touchdown",
-      "url": "https://open.spotify.com/track/01liKzGQmuq4BRFR19YaeI"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 220773,
       "name": "Creepin'",
       "url": "https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Touchdown",
+        "url": "https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6"
+      },
+      "artists": [
+        {
+          "name": "Bob James",
+          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
+        }
+      ],
+      "duration_ms": 344773,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/01liKzGQmuq4BRFR19YaeI"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -635,22 +635,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        }
-      ],
-      "duration_ms": 221640,
-      "name": "Charisma",
-      "url": "https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Backbone",
         "url": "https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 289866,
       "name": "Just Between Us",
       "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "Charisma",
+      "url": "https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -907,22 +907,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Undercover",
-        "url": "https://open.spotify.com/album/1CSrrFRXhHIPUKJY5zvfOp"
-      },
-      "artists": [
-        {
-          "name": "Art Porter",
-          "url": "https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu"
-        }
-      ],
-      "duration_ms": 309466,
-      "name": "There's Only You",
-      "url": "https://open.spotify.com/track/4PujvqHuv3ECCVJXdMazGW"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/2pqZnilWdNRtwv5Se30hA4"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 329826,
       "name": "I Want You For Myself",
       "url": "https://open.spotify.com/track/5rkVq7MwaVJHS9ZFt3uOjo"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/1CSrrFRXhHIPUKJY5zvfOp"
+      },
+      "artists": [
+        {
+          "name": "Art Porter",
+          "url": "https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu"
+        }
+      ],
+      "duration_ms": 309466,
+      "name": "There's Only You",
+      "url": "https://open.spotify.com/track/4PujvqHuv3ECCVJXdMazGW"
     },
     {
       "added_at": "2020-08-19 00:00:21",

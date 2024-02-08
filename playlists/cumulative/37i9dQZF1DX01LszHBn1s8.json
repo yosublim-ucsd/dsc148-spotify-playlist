@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-05",
-  "description": "\ud83d\udcbf The Tortured Poets Department \ud83d\udcbf",
+  "description": "simmer down mami",
   "name": "pov (2)",
   "tracks": [
     {
@@ -5979,7 +5979,7 @@
       "artists": [
         {
           "name": "Zai",
-          "url": "https://open.spotify.com/artist/0oDMyhCWLlDqEZkdE2p6xn"
+          "url": "https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII"
         }
       ],
       "date_added": "2022-11-03",
@@ -9302,10 +9302,28 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
       "album": {
@@ -13144,7 +13162,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202093,
-      "name": "Lost in the Fire",
+      "name": "Lost in the Fire (feat. The Weeknd)",
       "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
     },
     {
@@ -17969,7 +17987,7 @@
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 161250,
+      "duration_ms": 161271,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
     },

@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-674 songs - 1 day 17 hr 24 min
+675 songs - 1 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Can't Get You out of My Head](https://open.spotify.com/track/3b3c2r2sga1NJWjSLbFk74) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Covers, Ch\. 1](https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8) | 2:36 | 2022-06-10 | 2023-03-13 |
 | [Can't Get You Out Of My Head \- Acoustic](https://open.spotify.com/track/2A37BYWvwoV1ayixGNE5Xs) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Can't Get You Out Of My Head \(Acoustic\)](https://open.spotify.com/album/7Had5sJWicH46VSu0dwZo7) | 3:53 | 2021-10-20 | 2022-01-12 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/2rU70oQ4Ioun0sujdlHlkV) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Resistance Radio: The Man in the High Castle Album](https://open.spotify.com/album/3kkGQZCcJAW0W0sURDT0gQ) | 3:13 | 2021-10-20 | 2022-07-29 |
+| [Can't Help Falling in Love](https://open.spotify.com/track/3dqUv6E7L24BDImpGJWYGL) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/3Q2vDJ86mDQYcvOcd5sWwn) | 2:53 | 2023-10-23 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 | 2022-06-10 | 2024-02-07 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Can't Help Falling in Love](https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L) | 2:53 | 2021-10-20 | 2022-07-29 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/44hsrDcsbZwtAV1ENGthOu) | [Jesse Daniel Smith](https://open.spotify.com/artist/2ciKXsw2J3JHto2f38qc0W) | [Jesse Daniel Smith Is Playing Other People's Music](https://open.spotify.com/album/3IF4D1sqHjDbQJ4RDRfhb2) | 2:57 | 2021-10-20 | 2022-07-29 |
@@ -341,7 +342,7 @@
 | [In My Life](https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 2:57 | 2021-10-20 |  |
 | [In My Life](https://open.spotify.com/track/3QGTAH2zBXS0EgLdrouSgF) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, Em Qualquer Lugar](https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN) | 2:23 | 2023-02-24 | 2023-06-17 |
 | [In My Life](https://open.spotify.com/track/6IZOM0mpvqxtHXngtLdwJ7) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, em Qualquer Lugar](https://open.spotify.com/album/25gF6m29zFfS7NRTZ9SMq6) | 2:23 | 2021-10-20 | 2022-07-29 |
-| [In My Life](https://open.spotify.com/track/625ZpDbngDHqNgjoGiCgBp) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [Architect \(Deluxe\)](https://open.spotify.com/album/4tKIQtoOiJDj2mRonGNOcv) | 2:40 | 2021-10-20 |  |
+| [In My Life](https://open.spotify.com/track/625ZpDbngDHqNgjoGiCgBp) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [Architect \(Deluxe\)](https://open.spotify.com/album/4tKIQtoOiJDj2mRonGNOcv) | 2:40 | 2021-10-20 | 2024-02-08 |
 | [In The Aeroplane Over The Sea](https://open.spotify.com/track/1uR8YDxSxeo8BkbR6MUdvg) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [In The Aeroplane Over The Sea](https://open.spotify.com/album/3QSWBOJ6C8nEI35vhOkZ4u) | 3:41 | 2021-10-20 | 2022-07-29 |
 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 | 2021-10-20 |  |
 | [Into The Black](https://open.spotify.com/track/7MXlRIl901aXfJ2oSGn0E2) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Kill For Love](https://open.spotify.com/album/2Fp5KBgyC0ac2oitVlsJhY) | 5:22 | 2022-06-10 |  |
@@ -589,7 +590,7 @@
 | [Torn](https://open.spotify.com/track/3Uu8nwa9xA9bxCur5g3oJU) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Torn](https://open.spotify.com/album/00loS4Xy7s2oRHhisLGLXm) | 3:16 | 2021-10-20 | 2022-07-29 |
 | [Torn \- Bonus Track](https://open.spotify.com/track/5511Aj0mYSejKP6fplsoRk) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z) | 3:16 | 2022-06-10 |  |
 | [Total Eclipse of the Heart](https://open.spotify.com/track/6ZpTBpbC4PIUjWEHS59Wmu) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Total Eclipse of the Heart](https://open.spotify.com/album/0IgI0e8Fucm66AbSZtdNYN) | 5:22 | 2022-06-10 | 2022-11-13 |
-| [True Colors](https://open.spotify.com/track/4AvvHmGzjW8Y7JZlq51NAQ) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Changing Of The Seasons](https://open.spotify.com/album/3lDLnElZehSq7Vbs9T2hSR) | 2:20 | 2022-06-10 |  |
+| [True Colors](https://open.spotify.com/track/4AvvHmGzjW8Y7JZlq51NAQ) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Changing Of The Seasons](https://open.spotify.com/album/3lDLnElZehSq7Vbs9T2hSR) | 2:20 | 2022-06-10 | 2024-02-08 |
 | [True Love Waits](https://open.spotify.com/track/5FtwEZzxzF6RcPJlDRFYub) | [Camille O'Sullivan](https://open.spotify.com/artist/3wZAiOGETNLlxeRVYpZCUA) | [Changeling](https://open.spotify.com/album/2UcHEiTy77rYu0B5mPQSrS) | 5:39 | 2021-10-20 | 2022-07-05 |
 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 3:10 | 2022-06-10 |  |
 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH) | 3:10 | 2021-10-20 | 2022-07-29 |
@@ -615,7 +616,7 @@
 | [We Can't Stop](https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:42 | 2022-06-10 |  |
 | [What a Feeling \(Flashdance\)](https://open.spotify.com/track/11OAeshF0YfaeckhW3iKpk) | [Caroline Costa](https://open.spotify.com/artist/5eNiS9wM6kOqVhShYB7x7d) | [What a Feeling \(Flashdance\)](https://open.spotify.com/album/1s7mjfWDJYGB9tBIzKGv8r) | 3:06 | 2021-10-20 | 2022-06-24 |
 | [What Goes On](https://open.spotify.com/track/0y8puJfvNglV8fnWll7YgP) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [This Bird Has Flown \(A 40th Anniversary Tribute To The Beatles' Rubber Soul\)](https://open.spotify.com/album/1rnxUEAVhuI7K5W7lD0XlD) | 5:46 | 2023-10-23 |  |
-| [What I Am \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK) | 3:55 | 2022-06-10 | 2023-11-11 |
+| [What I Am \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK) | 3:55 | 2022-06-10 |  |
 | [What Would You Do](https://open.spotify.com/track/2WwzQJt4hG7YC6x16ZTYFM) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:03 | 2022-06-10 |  |
 | [What's Going On \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:35 | 2021-10-20 | 2022-07-29 |
 | [What's Going On \- Sun Session](https://open.spotify.com/track/1bWgq9Cup4vc55PVTDTSE8) | [Dylan Rockoff](https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5) | [What's Going On \(Sun Session\)](https://open.spotify.com/album/0rdIwm88NHgGvyQ8HcuEAo) | 3:36 | 2021-10-20 | 2022-07-29 |

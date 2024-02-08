@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: KIM MINSEOK\(김민석\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Seo Ja Yeong\(서자영\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-474 songs - 1 day 6 hr 52 min
+476 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,9 +92,9 @@
 | [Delete](https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Delete](https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9) | 4:09 | 2022-07-13 | 2022-10-21 |
 | [Diamond](https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Diamond](https://open.spotify.com/album/58T3Mkgs37IjcximP129MP) | 2:59 | 2023-05-31 | 2023-09-27 |
 | [Diaspora](https://open.spotify.com/track/4LxjliHXyosD6sqDp9vMjU) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Diaspora](https://open.spotify.com/album/424WFw7apETzYjkgOsyOs5) | 5:03 | 2022-05-03 | 2022-05-12 |
-| [didn't know me](https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:58 | 2021-12-20 |  |
+| [didn't know me](https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:58 | 2021-12-20 | 2024-02-08 |
 | [Diving \(Piano by Seokwon Lee\)](https://open.spotify.com/track/76BHfwrmbjxqHiUFdJS4zL) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 3:32 | 2023-02-13 | 2023-02-25 |
-| [Do](https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Do](https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX) | 2:45 | 2023-10-29 |  |
+| [Do](https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Do](https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX) | 2:45 | 2023-10-29 | 2024-02-08 |
 | [dolphin](https://open.spotify.com/track/4GM3fJA0hhvLK654hg5fXO) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [dolphin](https://open.spotify.com/album/14hlDO2H1pMIUVovoMpaQ8) | 3:04 | 2022-03-29 | 2022-04-21 |
 | [Don't forget me](https://open.spotify.com/track/0wvsRYNOtR3c2aPw38LJSR) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Don't forget me](https://open.spotify.com/album/6R9g1gN8dkbfzQIVzsw1pr) | 3:58 | 2024-01-01 | 2024-01-18 |
 | [Don't treat me well](https://open.spotify.com/track/6gf5ELYMwGOYvihbp6NA0s) | [yeo eun](https://open.spotify.com/artist/00hyJ4Om3BEqgLwfqHSFxv) | [Don't treat me well](https://open.spotify.com/album/2FqhiCBwlQAuNW87paj41N) | 3:38 | 2022-02-10 | 2022-04-09 |
@@ -281,7 +281,7 @@
 | [Myung\-tae](https://open.spotify.com/track/2OeBMGiX9c316HhSY1Xskt) | [Kang San\-Eh](https://open.spotify.com/artist/7pzL12Pd5NdHCjHzp5bh5h) | [KANG YOUNG GUL](https://open.spotify.com/album/1rkGy79hIgRktu5XogFzfg) | 4:34 | 2023-12-01 | 2023-12-14 |
 | [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2021-12-20 |  |
 | [Need You \(Outro\)](https://open.spotify.com/track/1cezqft1vwwPCmHlkydESz) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Need You \(Outro\)](https://open.spotify.com/album/0MrrGoUO9vibHBfeVGD5Aw) | 4:05 | 2022-02-10 | 2022-04-21 |
-| [Need you \(With Sung Si Kyung\)](https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL) | 4:00 | 2023-04-18 |  |
+| [Need you \(With Sung Si Kyung\)](https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL) | 4:00 | 2023-04-18 | 2024-02-08 |
 | [Nights Into Days \(Prod\. by Naul\)](https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ) | 4:20 | 2023-02-02 |  |
 | [No love](https://open.spotify.com/track/02r3fCsVlcFWgMZG9lGTz6) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [No love](https://open.spotify.com/album/4bgDVPwibaY66Ej45yzkyr) | 3:58 | 2023-03-27 | 2023-04-01 |
 | [No place to hide](https://open.spotify.com/track/60zGjGZpEd4EA5EJ6t1Zui) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [No place to hide](https://open.spotify.com/album/6lmLTu9uqEIE7RdS2bWgSz) | 3:39 | 2021-12-27 | 2022-07-17 |
@@ -391,6 +391,7 @@
 | [TIME](https://open.spotify.com/track/0OtneDXQUyQeYyaCJNwcQi) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Now On, Showtime! \(Original Television Soundtrack\) \- 'TIME'](https://open.spotify.com/album/3DVBKjlaEM1nYLh6h3Uz6X) | 3:36 | 2022-05-03 | 2022-05-12 |
 | [Time Spent Walking Through Memories \(Feat\. 10CM\)](https://open.spotify.com/track/484dgUyawknLkNyQfXoDkh) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Memories](https://open.spotify.com/album/38BploYaSSuEFrk7974uX1) | 3:34 | 2023-09-11 | 2023-12-02 |
 | [Time Will Tell](https://open.spotify.com/track/6tW1aWmAspjwqkdBKOn9uV) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Circular](https://open.spotify.com/album/4lRCZxpFrnsWWdeT0T0qVn) | 4:23 | 2022-04-01 | 2022-04-16 |
+| [to me](https://open.spotify.com/track/3KfVyCqjdX0DhTqB3dGli5) | [Seo Ja Yeong](https://open.spotify.com/artist/21MtEORMs0VrLY1Gy4JXIN) | [to me](https://open.spotify.com/album/5QBielZ1cgM5NVg1WXDeBK) | 3:55 | 2024-02-07 |  |
 | [To You](https://open.spotify.com/track/4s7luL81oRUzvnpTN3XFEJ) | [WSG WANNBE \(Gaya\-G\)](https://open.spotify.com/artist/75IVzR4O5AZ0Zd8HWoNWO2) | [To You](https://open.spotify.com/album/25eApxLg3RfcpJ4xLsz53f) | 3:27 | 2023-03-18 | 2023-05-27 |
 | [To You \(Prod\. JUNGKEY\)](https://open.spotify.com/track/3YkFgoeeZJct03iDrBkbLv) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [To You](https://open.spotify.com/album/0pG9gwHtsTNrLsJARuJnER) | 4:37 | 2022-01-27 | 2022-05-12 |
 | [To You My Light \(2022\)](https://open.spotify.com/track/6RbocDE51e5OkEFIagJmQs) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [To You My Light](https://open.spotify.com/album/5YKiY8AKXdRP5vgTqEWccv) | 4:18 | 2022-03-09 | 2022-07-29 |
@@ -468,11 +469,12 @@
 | [보여줄게](https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Invitation](https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd) | 3:53 | 2023-12-01 |  |
 | [비상 \- 2021 Remaster Version](https://open.spotify.com/track/4ymit9zQwlWNR35jEBdk6p) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Memories...속으로 Pt\. 3](https://open.spotify.com/album/0WCdB90PesVFkun2JoNVnV) | 4:21 | 2022-10-24 | 2022-11-24 |
 | [빌려줄게](https://open.spotify.com/track/0uAW2Jb7ZjI5xUzaC0fhqT) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [EMPATHY](https://open.spotify.com/album/0qZUGtDGH0QjnqXD1zvQym) | 3:32 | 2021-12-20 | 2022-07-29 |
+| [사랑보다 깊은 상처](https://open.spotify.com/track/0cnx6iVwTUVLLnaTJKsZy2) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [그 사람, 그 사랑](https://open.spotify.com/album/3s0zdlcbovF0Yp2JJ3x1VA) | 4:30 | 2024-02-07 |  |
 | [사랑을 알게 해주는 너](https://open.spotify.com/track/6gGDtuzP69eYTIek33nQtN) | [Woo Yi Kyung](https://open.spotify.com/artist/2cxVq9Bv0QGLHBuk59LpZY) | [사랑을 알게 해주는 너](https://open.spotify.com/album/4XkuX2msqeOSWeilOMuj7C) | 3:02 | 2022-07-04 | 2022-07-23 |
 | [살아야지](https://open.spotify.com/track/5yEz0gBNSuK6QM0N5PIBmq) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Coexistance](https://open.spotify.com/album/1ec5SZCtrIankVsKaLHx5Q) | 3:59 | 2022-10-24 | 2022-11-24 |
 | [아버지 사진](https://open.spotify.com/track/1cG3HzvpUVegXwpEG9pYG7) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,\(세븐 콤마\) <기억을 정리하며...>](https://open.spotify.com/album/6BKm7oswqYqeshbi9bpBwL) | 4:19 | 2022-09-21 | 2022-11-24 |
 | [안아줄게요](https://open.spotify.com/track/6lXNvkpJpWJSKH5ivYuGFM) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [수상한 작업실 Episode 1](https://open.spotify.com/album/4Q0qgHpfQUUHZ4XxfWDpgp) | 3:03 | 2023-01-13 | 2023-01-25 |
-| [여행자](https://open.spotify.com/track/1uN6oKBP57ZtfOULIiYrir) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven, <집을 나서며...>](https://open.spotify.com/album/7DbmjsRXzvRuw5wDRSiOAy) | 4:02 | 2022-08-03 | 2022-11-24 |
+| [여행자](https://open.spotify.com/track/1uN6oKBP57ZtfOULIiYrir) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven, <집을 나서며...>](https://open.spotify.com/album/7DbmjsRXzvRuw5wDRSiOAy) | 4:02 | 2022-08-03 |  |
 | [우주의 전설](https://open.spotify.com/track/6ABWK6E3RDzCJS7X8wdvIP) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,\(세븐 콤마\) <빛을 따라서...>](https://open.spotify.com/album/7lqABGolJepJu86N1WRo9T) | 3:58 | 2022-08-12 | 2022-10-06 |
 | [이 또한 지나가리라](https://open.spotify.com/track/5xpJOKLD5Zsm8ihVxpeK1N) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [TO...](https://open.spotify.com/album/2kpy6VCOSDfuus42rg7Ic6) | 3:45 | 2022-10-24 | 2022-11-24 |
 | [잊어버리지마 Don't Forget \(feat\. 태연 Taeyeon\)](https://open.spotify.com/track/2HC6c1d7SiznMV4rkmmxBB) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [잊어버리지마 Don't Forget \(feat\. 태연 Taeyeon\) \- Single](https://open.spotify.com/album/4laMaViU0DAsIz0iNdXxcI) | 3:39 | 2021-12-20 | 2022-07-24 |

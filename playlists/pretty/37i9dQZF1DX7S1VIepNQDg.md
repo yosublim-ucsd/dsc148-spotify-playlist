@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 
 > Got that summertime feeling 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,915 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,932 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 27 | [Still Have Room](https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Still Have Room](https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1) | 2:22 |
 | 28 | [Bounce](https://open.spotify.com/track/4Qqo5j7w4l717LM6oa9B3l) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:46 |
 | 29 | [Alive!](https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Alive!](https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn) | 3:52 |
-| 30 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
-| 31 | [Kimosabè](https://open.spotify.com/track/6ThLeHskGmgionXRoqGyYS) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC) | 4:36 |
+| 30 | [Kimosabè](https://open.spotify.com/track/6ThLeHskGmgionXRoqGyYS) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC) | 4:36 |
+| 31 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
 | 32 | [Good Enough](https://open.spotify.com/track/4ip14QnIGPERqjdiDqU6a0) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:02 |
 | 33 | [Green Honda](https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Green Honda](https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq) | 2:46 |
 | 34 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 61 | [Chez Moi \(Waiting For You\) \- Edit](https://open.spotify.com/track/1VwmC2Sw9b9EztWkRvC07M) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 4:27 |
 | 62 | [Tied Up!](https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Tied Up!](https://open.spotify.com/album/4n3Z6bRWaewBbgKOjx8NZD) | 3:09 |
 | 63 | [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 |
-| 64 | [Radiohead](https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H) | [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Darling](https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW) | 2:43 |
-| 65 | [Hot Sauce](https://open.spotify.com/track/7hyb9nt5CLD1PzTEm8riBo) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B) | [Hot Sauce](https://open.spotify.com/album/5ue0WkGZRaNZ3LlguPyzqy) | 3:10 |
+| 64 | [Hot Sauce](https://open.spotify.com/track/7hyb9nt5CLD1PzTEm8riBo) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B) | [Hot Sauce](https://open.spotify.com/album/5ue0WkGZRaNZ3LlguPyzqy) | 3:10 |
+| 65 | [Radiohead](https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H) | [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Darling](https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW) | 2:43 |
 | 66 | [Cry](https://open.spotify.com/track/2HhhhHfVEmz09NAb0FxgDW) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Cry](https://open.spotify.com/album/5qEGkaG2wMcn787eEwGkhK) | 3:50 |
 | 67 | [Moth Love](https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Moth Love](https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr) | 3:22 |
-| 68 | [Shining](https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Morning Light](https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6) | 3:23 |
-| 69 | [Hurt This Bad](https://open.spotify.com/track/4yLLisoMs9LKTWIcAsUn96) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Hurt This Bad](https://open.spotify.com/album/0S87KAjBtCfieA9T5KlFKv) | 2:52 |
+| 68 | [Hurt This Bad](https://open.spotify.com/track/4yLLisoMs9LKTWIcAsUn96) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Hurt This Bad](https://open.spotify.com/album/0S87KAjBtCfieA9T5KlFKv) | 2:52 |
+| 69 | [Shining](https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Morning Light](https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6) | 3:23 |
 | 70 | [Nostalgia \(feat\. Little Green\)](https://open.spotify.com/track/3VP9aycULSUnBqGN5ThCXT) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [Nostalgia \(feat\. Little Green\)](https://open.spotify.com/album/2XvL2rUofsY9xaXN2D4VwW) | 2:43 |
 | 71 | [Good Mood](https://open.spotify.com/track/2KGrjW9a45QpuBpjIiyPhT) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Good Mood](https://open.spotify.com/album/3rTINDQ7FOcyfFx6LQs8bA) | 2:59 |
 | 72 | [Too Much Fun](https://open.spotify.com/track/37UG9jRXurN9Yr6sx9cq8l) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 2:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 74 | [Sour Berry](https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Mosquito Love](https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V) | 3:15 |
 | 75 | [Coup De Grâce](https://open.spotify.com/track/49taD9wqpnNwqy3dNab8m7) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [IJALE](https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo) | [Coup De Grâce](https://open.spotify.com/album/4GvPcGCszmbP3xzIx0ENcx) | 3:43 |
 
-Snapshot ID: `MCwxY2YwZWYwOGFhZWI1ZWU3YWMyODU3ODdhMGVkMDUwODI1OWYyYjZi`
+Snapshot ID: `MCw4Y2JmNGYyNTM3MzA4OGUyZDk2MTRlY2VlODE5NDI1MTE1ZDZhMmM5`

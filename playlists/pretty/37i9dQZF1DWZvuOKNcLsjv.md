@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: TWICE
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,928 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,966 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 |
 | 100 | [Head Underwater](https://open.spotify.com/track/6aVuhf1DaTNoFgpDgIQku0) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Head Underwater](https://open.spotify.com/album/52IA9m2bwmNyVWdf1QypOz) | 3:15 |
 
-Snapshot ID: `MCwwZTQ4NWVhMWY2MGNlMjU2MmU2NGM5YzcyYmVkNDlkNDBiNmM5Yjgw`
+Snapshot ID: `MCwyNGEzODdhMzQ5MGUyNjZjYWU3MDZjYzkxYmVmMTk3Yjc5NmY1NzA3`

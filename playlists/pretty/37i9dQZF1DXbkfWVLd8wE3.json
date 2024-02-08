@@ -1,12 +1,12 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 204587,
+  "num_followers": 204706,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTVjM2FmYTY0N2ZkNTNiNWU2Y2Y1NDA3ODAyODQ1MmRkM2QzNDNi",
+  "snapshot_id": "MCxjYjlkZGI1YjYxMzRmZjNiNjFlYTY2YTY1Y2FiZTA3YTYyMjgwMTRh",
   "tracks": [
     {
       "added_at": "2023-08-21 04:00:00",
@@ -415,26 +415,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Regulate\u2026 G Funk Era",
-        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
-      },
-      "artists": [
-        {
-          "name": "Warren G",
-          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "Regulate",
-      "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Regulate\u2026 G Funk Era",
+        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
+      },
+      "artists": [
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "Regulate",
+      "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Country Grammar",
-        "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
       },
       "artists": [
         {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 287000,
-      "name": "Country Grammar (Hot Shit)",
-      "url": "https://open.spotify.com/track/3wMUvT6eIw2L5cZFG1yH9j"
+      "duration_ms": 231240,
+      "name": "Break Ya Neck",
+      "url": "https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
+        "name": "Country Grammar",
+        "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
         }
       ],
-      "duration_ms": 231240,
-      "name": "Break Ya Neck",
-      "url": "https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf"
+      "duration_ms": 287000,
+      "name": "Country Grammar (Hot Shit)",
+      "url": "https://open.spotify.com/track/3wMUvT6eIw2L5cZFG1yH9j"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "If I Can't",
-      "url": "https://open.spotify.com/track/7JeKXMQKm6GoLGTkNy2jZ0"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Internal Affairs",
         "url": "https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 173373,
       "name": "Simon Says",
       "url": "https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "If I Can't",
+      "url": "https://open.spotify.com/track/7JeKXMQKm6GoLGTkNy2jZ0"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Amplified",
-        "url": "https://open.spotify.com/album/2SGHbXwTsuIOoAdBPsnIDW"
-      },
-      "artists": [
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "Breathe And Stop",
-      "url": "https://open.spotify.com/track/7nDtDxsKJ3fho8xEmU65JJ"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Anthem Inc.",
         "url": "https://open.spotify.com/album/04fLLFoOvXyGxahRneBUJD"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 250173,
       "name": "O.P.P. (Re-Recorded)",
       "url": "https://open.spotify.com/track/4olPjhmLorTREwFO8YvHDk"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Amplified",
+        "url": "https://open.spotify.com/album/2SGHbXwTsuIOoAdBPsnIDW"
+      },
+      "artists": [
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "Breathe And Stop",
+      "url": "https://open.spotify.com/track/7nDtDxsKJ3fho8xEmU65JJ"
     },
     {
       "added_at": "2023-03-07 08:01:20",

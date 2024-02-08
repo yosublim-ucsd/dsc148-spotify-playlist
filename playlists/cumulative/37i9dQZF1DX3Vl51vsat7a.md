@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: ÄTNA
 
-282 songs - 15 hr 8 min
+283 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [FANTASIZE](https://open.spotify.com/track/155OwUtXixaS773beh6FBD) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FANTASIZE](https://open.spotify.com/album/0V9G9Hpr3BehgRxg7yuCsv) | 6:32 | 2023-06-15 | 2023-08-18 |
 | [Feel Good](https://open.spotify.com/track/3Qhb33VQRVAfCVEa1oga05) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Feel Good](https://open.spotify.com/album/6p4rt48ywuUFCaQtbicjUy) | 3:17 | 2021-12-16 | 2022-10-28 |
 | [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 | 2023-06-01 | 2023-07-28 |
-| [Fight Club](https://open.spotify.com/track/0FEFxWAXIdiOmoYUunbvmM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Fight Club](https://open.spotify.com/album/4Iz5KATqaPjcE8HxlwsHB6) | 3:37 | 2023-12-08 |  |
+| [Fight Club](https://open.spotify.com/track/0FEFxWAXIdiOmoYUunbvmM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Fight Club](https://open.spotify.com/album/4Iz5KATqaPjcE8HxlwsHB6) | 3:37 | 2023-12-08 | 2024-02-08 |
+| [Fight Club](https://open.spotify.com/track/5UupaLxMiJS0dk06AldUGH) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:37 | 2024-01-25 |  |
 | [Fluss](https://open.spotify.com/track/2QuyGidLrET8KlD8fN2bPc) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Fluss](https://open.spotify.com/album/4TEfhnre2612yM3UCM93Bx) | 3:17 | 2021-12-16 | 2022-02-25 |
 | [For your safety](https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [For your safety](https://open.spotify.com/album/3L1YegCnsVaikVxsL4Fypv) | 2:33 | 2022-01-06 | 2022-06-03 |
 | [Forest Mystery](https://open.spotify.com/track/1UfzVF3KVgc05I8HvPtJ6Y) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Forest Mystery](https://open.spotify.com/album/6VtN92LHbDON4S8KV6wPYL) | 6:27 | 2023-08-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 2010s. Cover: Flo Rida",
-  "num_followers": 944544,
+  "num_followers": 945098,
   "original_name": "Party Hits 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzU0MTM5Mjg2YzRkZTljZjEzZjEzMGVmNDE1YjU5YzcwZDYyZTBm",
+  "snapshot_id": "MCw5MDE5MDBlYjJhYzYyOTQ4MDY2NmYyNWJkZTRiMzdjMWY5MDAwNTBk",
   "tracks": [
     {
       "added_at": "2022-07-02 11:07:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
-        "name": "One Kiss (with Dua Lipa)",
-        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 214846,
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
         "name": "Planet Pit (Deluxe Version)",
         "url": "https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 252306,
       "name": "Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",
       "url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
-        "name": "This Is What You Came For",
-        "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 222160,
-      "name": "This Is What You Came For",
-      "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
         "name": "Uptown Special",
         "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
+        "name": "This Is What You Came For",
+        "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 222160,
+      "name": "This Is What You Came For",
+      "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -599,6 +599,26 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 229360,
+      "name": "Time of Our Lives",
+      "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
         "name": "Don't You Worry Child",
         "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 227266,
       "name": "Outside (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 229360,
-      "name": "Time of Our Lives",
-      "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn"
     },
     {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
-        "name": "Pink Friday (Complete Edition)",
-        "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "Super Bass",
-      "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
-    },
-    {
       "added_at": "2023-12-20 12:09:52",
       "album": {
         "name": "Pray for the Wicked",
@@ -763,18 +747,34 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+        "name": "Pink Friday (Complete Edition)",
+        "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+      "duration_ms": 200013,
+      "name": "Super Bass",
+      "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Feel So Close - Radio Edit",
+      "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
-        "name": "18 Months",
-        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 206413,
-      "name": "Feel So Close - Radio Edit",
-      "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -857,6 +857,22 @@
       "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
     },
     {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
+    },
+    {
       "added_at": "2023-12-05 13:18:55",
       "album": {
         "name": "So Good",
@@ -887,22 +903,6 @@
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
+        "name": "Battleground (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
+      },
+      "artists": [
+        {
+          "name": "The Wanted",
+          "url": "https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1"
+        }
+      ],
+      "duration_ms": 197935,
+      "name": "Glad You Came",
+      "url": "https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
         "name": "boyfriend",
         "url": "https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 186106,
       "name": "boyfriend (with Social House)",
       "url": "https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
-        "name": "Battleground (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
-      },
-      "artists": [
-        {
-          "name": "The Wanted",
-          "url": "https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1"
-        }
-      ],
-      "duration_ms": 197935,
-      "name": "Glad You Came",
-      "url": "https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 231848,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
         "name": "Con Calma",
         "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 188080,
       "name": "Se Prepar\u00f3",
       "url": "https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 231848,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
+        "name": "Pharmacy",
+        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 227073,
+      "name": "Runaway (U & I)",
+      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
         "name": "X 100PRE",
         "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
@@ -1603,18 +1619,26 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
-        "name": "Pharmacy",
-        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
+        "name": "Peace Is The Mission",
+        "url": "https://open.spotify.com/album/2rqjmynngV4AmGoL1ZEuwM"
       },
       "artists": [
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
         }
       ],
-      "duration_ms": 227073,
-      "name": "Runaway (U & I)",
-      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
+      "duration_ms": 176561,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -1643,30 +1667,6 @@
       "duration_ms": 233786,
       "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
-        "name": "Peace Is The Mission",
-        "url": "https://open.spotify.com/album/2rqjmynngV4AmGoL1ZEuwM"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 176561,
-      "name": "Lean On",
-      "url": "https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
-        "name": "Rolling Papers",
-        "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Black and Yellow",
-      "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
         "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)",
         "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 214912,
       "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
       "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
+        "name": "Rolling Papers",
+        "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Black and Yellow",
+      "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/1nZzRJbFvCEct3uzu04ZoL"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
         "name": "X (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 264946,
       "name": "Loyal (feat. Lil Wayne & Tyga)",
       "url": "https://open.spotify.com/track/5BrTUo0xP1wKXLJWUaGFtk"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/1nZzRJbFvCEct3uzu04ZoL"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227741,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 216408,
       "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227741,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 164009,
       "name": "Dancing In The Moonlight (feat. NEIMY)",
       "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -2619,6 +2619,26 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
+        "name": "I'm an Albatraoz",
+        "url": "https://open.spotify.com/album/1qHVYbxQ6IS8YRviorKDJI"
+      },
+      "artists": [
+        {
+          "name": "AronChupa",
+          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
+        },
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 166848,
+      "name": "I'm an Albatraoz",
+      "url": "https://open.spotify.com/track/5MhsZlmKJG6X5kTHkdwC4B"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -2639,26 +2659,6 @@
       "duration_ms": 185194,
       "name": "Loco Contigo (feat. J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
-        "name": "I'm an Albatraoz",
-        "url": "https://open.spotify.com/album/1qHVYbxQ6IS8YRviorKDJI"
-      },
-      "artists": [
-        {
-          "name": "AronChupa",
-          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
-        },
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 166848,
-      "name": "I'm an Albatraoz",
-      "url": "https://open.spotify.com/track/5MhsZlmKJG6X5kTHkdwC4B"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -2803,30 +2803,6 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
-        "name": "Con Altura",
-        "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "El Guincho",
-          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
-        }
-      ],
-      "duration_ms": 161626,
-      "name": "Con Altura",
-      "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -2863,26 +2839,46 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
-        "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
-        "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
+        "name": "Con Altura",
+        "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         },
         {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "El Guincho",
+          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
         }
       ],
-      "duration_ms": 163804,
-      "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
-      "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
+      "duration_ms": 161626,
+      "name": "Con Altura",
+      "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
+        "name": "Fan of A Fan The Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Ayo",
+      "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
     }
   ],
   "unique_name": "Party Hits 2010s",

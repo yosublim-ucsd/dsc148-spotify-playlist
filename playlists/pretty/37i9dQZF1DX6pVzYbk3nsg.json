@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 5033,
+  "num_followers": 5040,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmIzYTVhOTViZWMzYTgxODAzZGE5M2M0NmQyZTJmNDg4ODAxZGYz",
+  "snapshot_id": "MCxmNWFiMTk2MTQ3NzJkMGY3MTRiNjlkZmQyZTRiODUzMDM0OTVkMWU4",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Distinto Y Diferente",
-        "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
       "artists": [
         {
-          "name": "Plenealo",
-          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
         }
       ],
-      "duration_ms": 331102,
-      "name": "Plenazo Callejero 1",
-      "url": "https://open.spotify.com/track/2sKuQbRejG9hxdDfPXVJ0Y"
+      "duration_ms": 135706,
+      "name": "El Conde De Loiza",
+      "url": "https://open.spotify.com/track/6pxmZBFQntoPBGc7CV0Nxv"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Bomba De Loiza",
-        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+        "name": "Distinto Y Diferente",
+        "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
       },
       "artists": [
         {
-          "name": "Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+          "name": "Plenealo",
+          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
         }
       ],
-      "duration_ms": 135706,
-      "name": "El Conde De Loiza",
-      "url": "https://open.spotify.com/track/6pxmZBFQntoPBGc7CV0Nxv"
+      "duration_ms": 331102,
+      "name": "Plenazo Callejero 1",
+      "url": "https://open.spotify.com/track/2sKuQbRejG9hxdDfPXVJ0Y"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+        }
+      ],
+      "duration_ms": 125493,
+      "name": "Rule Sonda",
+      "url": "https://open.spotify.com/track/5VcZnqmPU8KetpEi0ypoH3"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Zona de Bomba",
         "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 163120,
       "name": "Candela",
       "url": "https://open.spotify.com/track/7MSYsu14IUjgJ555rKPoTv"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Distinto Y Diferente",
-        "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
-      },
-      "artists": [
-        {
-          "name": "Plenealo",
-          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
-        }
-      ],
-      "duration_ms": 451500,
-      "name": "Plenazo Callejero 2",
-      "url": "https://open.spotify.com/track/5WIC5dyHF3rJwsa2UhdElr"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Bomba De Loiza",
-        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+        "name": "Distinto Y Diferente",
+        "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
       },
       "artists": [
         {
-          "name": "Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+          "name": "Plenealo",
+          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
         }
       ],
-      "duration_ms": 125493,
-      "name": "Rule Sonda",
-      "url": "https://open.spotify.com/track/5VcZnqmPU8KetpEi0ypoH3"
+      "duration_ms": 451500,
+      "name": "Plenazo Callejero 2",
+      "url": "https://open.spotify.com/track/5WIC5dyHF3rJwsa2UhdElr"
     },
     {
       "added_at": "2023-06-13 22:15:19",

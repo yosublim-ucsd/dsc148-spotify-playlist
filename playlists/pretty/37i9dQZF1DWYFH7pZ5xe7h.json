@@ -1,12 +1,12 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 47938,
+  "num_followers": 47950,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2M5YWU2MTFkMWM5MzVmYTg4M2E5NWI5ODlmZGYwN2YxOGQxNjFh",
+  "snapshot_id": "MCxhZWRlOTNiYjdlYzU2YjYxYWJmZjEwZGNjNjRkMGY5Y2FiNGY1OTA3",
   "tracks": [
     {
       "added_at": "2022-06-27 09:16:34",
@@ -391,30 +391,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 9",
-        "url": "https://open.spotify.com/album/7bt4myU47pfLm7HVFHiuJI"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        }
-      ],
-      "duration_ms": 1562085,
-      "name": "Mahler: Symphony No. 9 in D Major: IV. Adagio. Sehr langsam und noch zur\u00fcckhaltend",
-      "url": "https://open.spotify.com/track/2Om6056obklMVh7a0gnKkN"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Symphony No.10",
         "url": "https://open.spotify.com/album/4jiU4En8NZgwPX3aIZjRsB"
       },
@@ -435,6 +411,30 @@
       "duration_ms": 1550440,
       "name": "Symphony No. 10 in F sharp (unfinished) - Ed. Deryck Cooke: 1. Adagio",
       "url": "https://open.spotify.com/track/3lOAX3KoPxPgNiFezXUZhk"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 9",
+        "url": "https://open.spotify.com/album/7bt4myU47pfLm7HVFHiuJI"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "duration_ms": 1562085,
+      "name": "Mahler: Symphony No. 9 in D Major: IV. Adagio. Sehr langsam und noch zur\u00fcckhaltend",
+      "url": "https://open.spotify.com/track/2Om6056obklMVh7a0gnKkN"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -571,30 +571,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 3 in D Minor",
-        "url": "https://open.spotify.com/album/71fpVhVaGMhR99T89QumK4"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Esa-Pekka Salonen",
-          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
-        },
-        {
-          "name": "Los Angeles Philharmonic",
-          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
-        }
-      ],
-      "duration_ms": 361400,
-      "name": "Symphony No. 3 in D Minor: Part 1, I. Kr\u00e4ftig. Entschieden",
-      "url": "https://open.spotify.com/track/5D3PQQaRcSxVHrmIvoE3gj"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler, G.: Symphony No. 8, \"Symphony of a Thousand\"",
         "url": "https://open.spotify.com/album/27tv3ht9zh1vEimrzmN3FF"
       },
@@ -659,6 +635,30 @@
       "duration_ms": 84213,
       "name": "Symphony No. 8 in E-Flat Major, \"Symphony of a Thousand\": Veni, Creator Spiritus -",
       "url": "https://open.spotify.com/track/2RGtWy0QKjMeAYQhbjUNGu"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 3 in D Minor",
+        "url": "https://open.spotify.com/album/71fpVhVaGMhR99T89QumK4"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        }
+      ],
+      "duration_ms": 361400,
+      "name": "Symphony No. 3 in D Minor: Part 1, I. Kr\u00e4ftig. Entschieden",
+      "url": "https://open.spotify.com/track/5D3PQQaRcSxVHrmIvoE3gj"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1203,6 +1203,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Mahler: Symphony No. 3 in D Minor",
+        "url": "https://open.spotify.com/album/71fpVhVaGMhR99T89QumK4"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        }
+      ],
+      "duration_ms": 317266,
+      "name": "Symphony No. 3 in D Minor: Part 1, I. A tempo",
+      "url": "https://open.spotify.com/track/47cNw2dW7SviIV0UsCmUiw"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler: Orchestral Songs",
         "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
       },
@@ -1227,30 +1251,6 @@
       "duration_ms": 225720,
       "name": "Lieder eines fahrenden Gesellen: Gieng heut' Morgen \u00fcber's Feld",
       "url": "https://open.spotify.com/track/14IEaSAVPyMd1l2CNSw4At"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Mahler: Symphony No. 3 in D Minor",
-        "url": "https://open.spotify.com/album/71fpVhVaGMhR99T89QumK4"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Esa-Pekka Salonen",
-          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
-        },
-        {
-          "name": "Los Angeles Philharmonic",
-          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
-        }
-      ],
-      "duration_ms": 317266,
-      "name": "Symphony No. 3 in D Minor: Part 1, I. A tempo",
-      "url": "https://open.spotify.com/track/47cNw2dW7SviIV0UsCmUiw"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1492,9 +1492,9 @@
           "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
         }
       ],
-      "duration_ms": 1009173,
-      "name": "Mahler: Symphony No. 3 in D Minor: III. Comodo, Scherzando. Ohne Hast",
-      "url": "https://open.spotify.com/track/2orh65w2YtrAgTZHVtBEf9"
+      "duration_ms": 627306,
+      "name": "Mahler: Symphony No. 3 in D Minor: II. Tempo di menuetto. Sehr m\u00e4ssig",
+      "url": "https://open.spotify.com/track/2rXA32fOuctoPtFk5DngwZ"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1516,9 +1516,9 @@
           "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
         }
       ],
-      "duration_ms": 627306,
-      "name": "Mahler: Symphony No. 3 in D Minor: II. Tempo di menuetto. Sehr m\u00e4ssig",
-      "url": "https://open.spotify.com/track/2rXA32fOuctoPtFk5DngwZ"
+      "duration_ms": 1009173,
+      "name": "Mahler: Symphony No. 3 in D Minor: III. Comodo, Scherzando. Ohne Hast",
+      "url": "https://open.spotify.com/track/2orh65w2YtrAgTZHVtBEf9"
     },
     {
       "added_at": "2022-06-27 09:16:34",

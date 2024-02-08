@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Paris Paloma
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,200 likes - 99 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,212 likes - 99 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 27 | [call me when it's over](https://open.spotify.com/track/4YqGr9fUbGRPix3uxzuyga) | [Jetta](https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96) | [relax, the house is on fire](https://open.spotify.com/album/1NlRo4Sxcn5JF4WqAYEN7l) | 3:11 |
 | 28 | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5) | 3:07 |
 | 29 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
-| 30 | [Pressure Pad](https://open.spotify.com/track/57IFMHwEFTAtHYMfYDLozQ) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Pressure Pad](https://open.spotify.com/album/17nPf4Ob5eTHvi22wumDDo) | 3:28 |
+| 30 | [Pressure Pad](https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Down There!](https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi) | 3:28 |
 | 31 | [Apollo](https://open.spotify.com/track/6NMUkluQ4ZI6XwGuqH2Z2n) | [Slow Fiction](https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW) | [Apollo](https://open.spotify.com/album/4x11dM49Sq4awkswFoJfoR) | 3:19 |
 | 32 | [Better Way To Live](https://open.spotify.com/track/1ifVrAQPH2DZ3FBFu48rFw) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Better Way To Live](https://open.spotify.com/album/5gXiWUFAEycihknbHFFRUM) | 3:01 |
 | 33 | [All The Same](https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [All The Same](https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt) | 2:55 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 98 | [Dugout](https://open.spotify.com/track/1PIBttOCpRWSYCeJc3cdhc) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m) | [Mythomania](https://open.spotify.com/album/3qxzjhDwn0MTFeZmGwjAYV) | 2:00 |
 | 99 | [TREES](https://open.spotify.com/track/1ncnbhT16pKyQV73MK9wHY) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [TREES](https://open.spotify.com/album/6vZAJX21PTGk70FR4IZ7De) | 2:53 |
 
-Snapshot ID: `MCw4YzEzNmNjYTM3ZTA1NWMwNmU3MTc4MTg4OGQ5ZWU0MzNjZDE0NGNh`
+Snapshot ID: `MCw3ZTQxNjViNjZjOGVjNDBlZDVmNWNiZTA3YTgwZjlmYWQ5NzUyMGU3`

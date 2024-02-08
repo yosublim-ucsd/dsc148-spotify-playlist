@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Giant Rooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,522 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,611 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 13 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
 | 14 | [tell me](https://open.spotify.com/track/6CI16mxAWyzW1pMpCV4Qfw) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [tell me](https://open.spotify.com/album/2R3RQcOjyKQQUBb91Qv0bR) | 2:42 |
 | 15 | [Bad Energy](https://open.spotify.com/track/2UMVbRelfHf7n9AZc8xu0u) | [Little Kid](https://open.spotify.com/artist/3GLx1rqsRp2jtViyRo3Qvz) | [Bad Energy](https://open.spotify.com/album/4RQm2H0GT74idQJTiQEokO) | 7:29 |
-| 16 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
+| 16 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 |
 | 17 | [Wish You Were Dead](https://open.spotify.com/track/6qFnjQ4ULgV9YU5ukUDdwE) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Wish You Were Dead](https://open.spotify.com/album/2hjnP74xPNWyC2PoS7eqJF) | 3:14 |
 | 18 | [take yr time](https://open.spotify.com/track/7lQbnpAD7WJj6MaPowEcwx) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [take yr time](https://open.spotify.com/album/1VH9FaS0iG8QiB5cE475b0) | 3:55 |
 | 19 | [Baby I Love You](https://open.spotify.com/track/0OZUOHveCKcJ0QDDA5NAfP) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Baby I Love You](https://open.spotify.com/album/0x1A7vjuUSkQUqMd0ziPrr) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [RUNNIN'](https://open.spotify.com/track/28Wbfb0Q80jaks0CEDxsuZ) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu) | [RUNNIN'](https://open.spotify.com/album/29sYxtDUuuEED675lb60io) | 3:26 |
 | 100 | [Chang’e](https://open.spotify.com/track/3yyagteXLaWUhXcyLWQNGY) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [The Silver Cord](https://open.spotify.com/album/7iY6PA1ftgY8OKOzc2vBdo) | 3:46 |
 
-Snapshot ID: `MCw3ZDE0ZTQyZWNjZTIxNzcwMGYxOWU1YjAzZDgwMzM5YWE0NzZlYjIx`
+Snapshot ID: `MCxkMjcwOGI2MGEyMDkzODU2YjQ0NmQ5YTRlMGZhYmI4NzgyMDI1ZmY5`

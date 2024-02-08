@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 
 > Punjabi superstar’s biggest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,709 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,802 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 45 | [Stars](https://open.spotify.com/track/1fvzAz230Q0Uzl5k3plxYg) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:04 |
 | 46 | [Icon](https://open.spotify.com/track/4OmhUrKAKTBxdvscSfx1gp) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:28 |
 | 47 | [Jugni](https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Jugni](https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v) | 3:13 |
-| 48 | [Welcome to My Hood](https://open.spotify.com/track/1T5mAjBkpuczG5H6yUcSB4) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Welcome to My Hood](https://open.spotify.com/album/1eIdNQUDw6dlSpMBoRXzIK) | 4:00 |
-| 49 | [El Sueño \(feat\. Tru\-Skool\)](https://open.spotify.com/track/4xxLLbEcA3mMwpzvBWjVTR) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [El Sueño \(feat\. Tru\-Skool\)](https://open.spotify.com/album/0O6WVv0kgaPZdKTMap1DhY) | 3:54 |
+| 48 | [El Sueño \(feat\. Tru\-Skool\)](https://open.spotify.com/track/4xxLLbEcA3mMwpzvBWjVTR) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [El Sueño \(feat\. Tru\-Skool\)](https://open.spotify.com/album/0O6WVv0kgaPZdKTMap1DhY) | 3:54 |
+| 49 | [Welcome to My Hood](https://open.spotify.com/track/1T5mAjBkpuczG5H6yUcSB4) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Welcome to My Hood](https://open.spotify.com/album/1eIdNQUDw6dlSpMBoRXzIK) | 4:00 |
 | 50 | [Taare](https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:23 |
 
-Snapshot ID: `MCxiY2U0ZTMwZjk2ZmNmZTVlNzYxYjVjZTM2OGRjYjY1YjAzNzQ2Zjcy`
+Snapshot ID: `MCxmMjE5OTY4MGQzNDM3ZGQ5Y2U3N2NhMjU4N2Y4ZmI2MWU3YzM1YjI0`

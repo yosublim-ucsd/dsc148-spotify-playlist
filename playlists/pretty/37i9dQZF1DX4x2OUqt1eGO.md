@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,619 likes - 75 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,633 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,19 +31,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 21 | [Shiva Medicine](https://open.spotify.com/track/5e1m5IOaefA2QOzl9ADGEm) | [Namaste Music](https://open.spotify.com/artist/3Y7yaPgysXZCuMpe4JjyQX) | [Shiva Medicine](https://open.spotify.com/album/47FfjcwJOPkJa59P9IgwZe) | 2:59 |
 | 22 | [Bhoop](https://open.spotify.com/track/5VUFIDfke3h6uPVCiFKXDW) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 2](https://open.spotify.com/album/6Z0jzXiQFhTwGAjd7IWVNe) | 2:33 |
 | 23 | [Light of Night](https://open.spotify.com/track/7rjWPpOeQPWtan08othxfi) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Light of Night](https://open.spotify.com/album/4hxC0op0FiyhjcMHWwHGvb) | 3:17 |
-| 24 | [Abhogi](https://open.spotify.com/track/2NuqtLrg6LUwSWs2UVJQlx) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 3:02 |
-| 25 | [Indian Nights](https://open.spotify.com/track/0tqngYytTrZi44CRIWnVz7) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [OM Yoga Mix](https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P) | 11:26 |
+| 24 | [Indian Nights](https://open.spotify.com/track/0tqngYytTrZi44CRIWnVz7) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [OM Yoga Mix](https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P) | 11:26 |
+| 25 | [Abhogi](https://open.spotify.com/track/2NuqtLrg6LUwSWs2UVJQlx) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 3:02 |
 | 26 | [Grateful Mind](https://open.spotify.com/track/54crKFXpXRuqt8EXf79yeB) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Sleep Meditation](https://open.spotify.com/album/7C5Jj9bLdoC9ig586ZBdvM) | 2:21 |
 | 27 | [Naan Nee](https://open.spotify.com/track/6cbiAEy3OoREiXooWZ2cRQ) | [Flute Navin](https://open.spotify.com/artist/3apnz04XPisQ04dTfz2Gaw) | [Think Instrumental with Navin, Vol\. 1](https://open.spotify.com/album/0hBfWJXTVK1vBdlvEXfr95) | 3:37 |
 | 28 | [Inner Peace](https://open.spotify.com/track/2YMUsN8bE7GfGBxCdnT1ox) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Inner Peace](https://open.spotify.com/album/4FoTmbikEtF6Jj4mzvpWQD) | 6:40 |
-| 29 | [Flute Music \- Krishna flute](https://open.spotify.com/track/0yfD9XIMKAbySuM7cmsEYc) | [Jeetu Bhowmik](https://open.spotify.com/artist/0cvOk0AMDkgfNwDMjEWiAV), [Subham jossi](https://open.spotify.com/artist/2AyLAsSZ03yoOx92gMD30U) | [Flute Music \(Krishna flute\)](https://open.spotify.com/album/58gnufbwqLbNE0OZQbUfDT) | 1:21 |
-| 30 | [Foreign Mists](https://open.spotify.com/track/020AoP6FK7YgDMMj3JFOtJ) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Foreign Mists](https://open.spotify.com/album/6EY0XdNwe6Br36lkhg7lKc) | 4:38 |
+| 29 | [Foreign Mists](https://open.spotify.com/track/020AoP6FK7YgDMMj3JFOtJ) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Foreign Mists](https://open.spotify.com/album/6EY0XdNwe6Br36lkhg7lKc) | 4:38 |
+| 30 | [Flute Music \- Krishna flute](https://open.spotify.com/track/0yfD9XIMKAbySuM7cmsEYc) | [Jeetu Bhowmik](https://open.spotify.com/artist/0cvOk0AMDkgfNwDMjEWiAV), [Subham jossi](https://open.spotify.com/artist/2AyLAsSZ03yoOx92gMD30U) | [Flute Music \(Krishna flute\)](https://open.spotify.com/album/58gnufbwqLbNE0OZQbUfDT) | 1:21 |
 | 31 | [Pugli](https://open.spotify.com/track/6bbaDHnK68EBKSQ3r7zFKZ) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Mtargashti](https://open.spotify.com/album/1LSHwRDQnJlDG4YRLStcQN) | 3:15 |
 | 32 | [Love Is My Cure](https://open.spotify.com/track/4kqekA8aWuYbvbn2WGecPW) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY), [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Love Is My Cure](https://open.spotify.com/album/3CQJtBcKv6o2yz7UrYLoV8) | 5:08 |
 | 33 | [Flute Puriya Dhanashri](https://open.spotify.com/track/25m6wScMul9ga6xH7eo9Md) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:08 |
 | 34 | [Peaceful Escape \(Raga Bhimpalasi\)](https://open.spotify.com/track/1iOJROLXHdQM4eOyFutqKw) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Whisper](https://open.spotify.com/album/5JbHzXUfSQuVXabVdaEuNr) | 5:03 |
-| 35 | [Rag Jainjhoti \- Alap & Gat in Teental](https://open.spotify.com/track/06b1A7Hm76A8v2wirNWdEN) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Abhijit Banerjee](https://open.spotify.com/artist/25meY1P3KyepIBDfWuEmz4) | [Lady Astride the Tiger](https://open.spotify.com/album/60L5IrIJBtz9G6OoVkuqNV) | 9:08 |
-| 36 | [Bliss](https://open.spotify.com/track/3x8EfCWsbO4R6B0IaNWqO1) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Breathing Space](https://open.spotify.com/album/5j0fIAtAQab4JZr3uxr7Fi) | 7:25 |
+| 35 | [Bliss](https://open.spotify.com/track/3x8EfCWsbO4R6B0IaNWqO1) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Breathing Space](https://open.spotify.com/album/5j0fIAtAQab4JZr3uxr7Fi) | 7:25 |
+| 36 | [Rag Jainjhoti \- Alap & Gat in Teental](https://open.spotify.com/track/06b1A7Hm76A8v2wirNWdEN) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Abhijit Banerjee](https://open.spotify.com/artist/25meY1P3KyepIBDfWuEmz4) | [Lady Astride the Tiger](https://open.spotify.com/album/60L5IrIJBtz9G6OoVkuqNV) | 9:08 |
 | 37 | [Noble Courtship](https://open.spotify.com/track/1V8W6vKHeGDPRfrZwfqDDA) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Noble Courtship](https://open.spotify.com/album/335EBUdXTN0I03fNwNldDB) | 3:19 |
 | 38 | [Taaja Shaanti](https://open.spotify.com/track/1ilZEo94ZDPvU7Yj1tocRO) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Taaja Shaanti](https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm) | 4:22 |
 | 39 | [Krishna Bansuri](https://open.spotify.com/track/4rFZgG0MTumGJBadcF66G6) | [Subham jossi](https://open.spotify.com/artist/2AyLAsSZ03yoOx92gMD30U), [Jeetu Bhowmik](https://open.spotify.com/artist/0cvOk0AMDkgfNwDMjEWiAV) | [Krishna Bansuri](https://open.spotify.com/album/1rA8kzZkghg5OI4AzwCQ4j) | 1:31 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 72 | [Raag Puriya Kalyan](https://open.spotify.com/track/3Bk90fdNMkhkN6EMjbj16X) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Suchismita](https://open.spotify.com/artist/228XjAjxsgRuOwO0zaZHcT), [Debopriya Chatterjee](https://open.spotify.com/artist/4tR5TyljrXvbbKY14uwB2v) | [Ananta\-The Wonder of the Indian Flute](https://open.spotify.com/album/6QwWZtgUoNYhPpi1sNpspn) | 9:34 |
 | 73 | [Varanasi My Soul \- Banarasi Kajri \- Raga Pilu](https://open.spotify.com/track/0S9Uklvmnxs5uUSt8UQikf) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Bansuri: The Indian Flute](https://open.spotify.com/album/431hmllyP1obMhA2ssxxXw) | 7:26 |
 | 74 | [Chintan Ke Saaz](https://open.spotify.com/track/4saUYeD0vL8DyHfJnUN1Qi) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Prema Ke Sur](https://open.spotify.com/album/0WQpqSKcn8XAggsTRDd0nC) | 4:30 |
-| 75 | [Fantasy Flute](https://open.spotify.com/track/1765MCzs77plUXfAPThmtb) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Cafe Fluid](https://open.spotify.com/album/2XyN2O2uJMXULnqJYDtDhm) | 4:56 |
+| 75 | [Bansuri Bgm](https://open.spotify.com/track/4ij8HJsDyEcDG1fVoF70TD) | [Anjan Roy](https://open.spotify.com/artist/7HPchTb6N01giKeLztkPpZ) | [Bansuri Shri Krishna Ki](https://open.spotify.com/album/1pFIjJaIEarHq5tVVWCrWl) | 4:43 |
 
-Snapshot ID: `MCw3MmE5YWRkYzkwM2JiNWYyN2YyYTNhY2RlN2NjZDQ3MjRjZjkzNDBj`
+Snapshot ID: `MCxlODUzYTljYzkzZWM5ZWIyZDY5N2MzOGZkNTZlZGQ0NzZiZGZlZmY2`

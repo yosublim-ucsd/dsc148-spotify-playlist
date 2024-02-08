@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,007 songs - 2 day 9 hr 26 min
+1,008 songs - 2 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Lost](https://open.spotify.com/track/4nkVAZETVn1GVaJ7EEc8GN) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Lost](https://open.spotify.com/album/3pkvUedqMjZPjbUgYrbsiq) | 4:05 | 2022-08-16 | 2022-10-14 |
 | [LOVE is](https://open.spotify.com/track/2Xrbmkla4NvUgJoubBGkLl) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [LOVE is](https://open.spotify.com/album/4BLLl09Rqmp3EK8Or5a6vn) | 3:26 | 2023-01-17 | 2023-03-25 |
 | [Love you raltutaltutata](https://open.spotify.com/track/34F9lAAkt1bTJVidBf6m9V) | [Yui Nijiki \[Super Yui\]](https://open.spotify.com/artist/2FwP3PFN8Znz44vNUAtlC7) | [Love you raltutaltutata](https://open.spotify.com/album/7xp7cghgpEIjEDlTJpiCr7) | 3:34 | 2023-01-05 | 2023-01-18 |
+| [LOVELY](https://open.spotify.com/track/2p6mMrccBiWuwtpWCyVPbq) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [LOVELY](https://open.spotify.com/album/4TrfWYsP8LRU10Rw6usFJL) | 3:38 | 2024-02-06 |  |
 | [Luck in me](https://open.spotify.com/track/7Cc2wTxZ2ZaglTu1wVCZUZ) | [來\-Ray\-](https://open.spotify.com/artist/2ZBJuQnv8Gmj0fIgvcgxhi) | [Luck in me](https://open.spotify.com/album/2SqQaZKFWtGqbb4UtnfSSx) | 3:17 | 2023-04-18 | 2023-04-26 |
 | [Lullaby](https://open.spotify.com/track/2aKlVurHnMwaeF4vJADyE2) | [Yuyu](https://open.spotify.com/artist/4OTSiRMbLZrza8dQsoTUBy) | [Lullaby](https://open.spotify.com/album/1rcTGibD8vsMI7pHB0K3dI) | 3:14 | 2023-09-26 | 2023-10-06 |
 | [Lullaby](https://open.spotify.com/track/2ggV2CZgdulUzjNDS4qKK3) | [遊遊](https://open.spotify.com/artist/0xcDdlgQye7CQJa1fdJrPj) | [Lullaby](https://open.spotify.com/album/1NXZyQ7OF9Ct6pLi7E39UQ) | 3:14 | 2023-09-26 | 2023-09-28 |
@@ -668,7 +669,7 @@
 | [ライムライト](https://open.spotify.com/track/6dRVLa81jfp37EkKrv0trK) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ライムライト](https://open.spotify.com/album/0wVmz8nodc9IW0NFb8SP1L) | 3:12 | 2022-06-30 | 2022-07-27 |
 | [ラブの逃走](https://open.spotify.com/track/0qeOMkMqcCEWEU2cy9qLSS) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ラブの逃走](https://open.spotify.com/album/4Okc2drrejRZsZtKOPHv8D) | 3:08 | 2022-06-30 | 2022-07-25 |
 | [ラブシック](https://open.spotify.com/track/2WL59zsWjW7VhGS6WVakZr) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [Ghost Pop](https://open.spotify.com/album/6feQsJm7NRqr2ICMO4SDmB) | 3:12 | 2023-05-23 | 2023-09-13 |
-| [ラブリー](https://open.spotify.com/track/4wTeVlzNPyvTwxdJ52AI6D) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [ラブリー](https://open.spotify.com/album/1bqWRNEezTMkh25svE3JDx) | 3:38 | 2024-02-06 |  |
+| [ラブリー](https://open.spotify.com/track/4wTeVlzNPyvTwxdJ52AI6D) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [ラブリー](https://open.spotify.com/album/1bqWRNEezTMkh25svE3JDx) | 3:38 | 2024-02-06 | 2024-02-08 |
 | [ラリー、ラリー](https://open.spotify.com/track/2pYVj8iCqwY1H8blVcecEW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH), [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [ラリー、ラリー](https://open.spotify.com/album/6NBNe7n3iMb1q86rTl2LKU) | 2:36 | 2022-06-09 | 2022-07-29 |
 | [ランデブー](https://open.spotify.com/track/5lacv3oHw1HtbCW87uCZqx) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [ランデブー](https://open.spotify.com/album/6sSdvm5IwggRQyFrbC4ZjV) | 3:00 | 2022-06-09 | 2022-06-14 |
 | [ラヴィ \- すりぃ ver.](https://open.spotify.com/track/4KFPgXmv9DaAOud3uEp9bJ) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [ラヴィ \(すりぃ Ver.\)](https://open.spotify.com/album/3ZFcnCHeDpf7W65zhyuGBM) | 3:00 | 2023-01-03 | 2023-01-18 |

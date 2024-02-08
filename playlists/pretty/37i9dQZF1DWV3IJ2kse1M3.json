@@ -1,12 +1,12 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u5225\u5047\u88dd \u5728\u7d55\u671b\u7684\u76e1\u982d\u5c31\u662f\u5e0c\u671b\u3002",
-  "num_followers": 188284,
+  "num_followers": 188285,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWZiNDNmODkwMzA0ODY1NDJkMWJlMDI3ZGIyYjU4MmMyMWY3ZDg2",
+  "snapshot_id": "MCxmNDFjNDk0YzVmYjc1N2ViZjUzMmU0ZjBjOTY1MjdiZTgxZTY3YTA1",
   "tracks": [
     {
       "added_at": "2023-12-06 14:40:44",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-12-06 14:40:44",
       "album": {
-        "name": "\u5f90\u4f73\u7469LaLa\u9996\u5f35\u5275\u4f5c\u5c08\u8f2f",
-        "url": "https://open.spotify.com/album/5j3PCRtHQABiQLCgiRIsAk"
+        "name": "\u5d07\u62dc",
+        "url": "https://open.spotify.com/album/75wQXImqEikrSo5Uon4Pxr"
       },
       "artists": [
         {
-          "name": "LaLa Hsu",
-          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
         }
       ],
-      "duration_ms": 299346,
-      "name": "\u5931\u843d\u6c99\u6d32",
-      "url": "https://open.spotify.com/track/4vBoopG4WzohMju1GUmwoi"
+      "duration_ms": 272973,
+      "name": "\u6703\u547c\u5438\u7684\u75db",
+      "url": "https://open.spotify.com/track/5IgElbSREzVyqgf1OCuKJd"
     },
     {
       "added_at": "2023-12-06 14:40:44",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-12-06 14:40:44",
       "album": {
-        "name": "\u5d07\u62dc",
-        "url": "https://open.spotify.com/album/75wQXImqEikrSo5Uon4Pxr"
+        "name": "\u5f90\u4f73\u7469LaLa\u9996\u5f35\u5275\u4f5c\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/5j3PCRtHQABiQLCgiRIsAk"
       },
       "artists": [
         {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+          "name": "LaLa Hsu",
+          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
         }
       ],
-      "duration_ms": 272973,
-      "name": "\u6703\u547c\u5438\u7684\u75db",
-      "url": "https://open.spotify.com/track/5IgElbSREzVyqgf1OCuKJd"
+      "duration_ms": 299346,
+      "name": "\u5931\u843d\u6c99\u6d32",
+      "url": "https://open.spotify.com/track/4vBoopG4WzohMju1GUmwoi"
     },
     {
       "added_at": "2023-12-06 14:40:44",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-12-06 14:40:44",
       "album": {
-        "name": "\u5b78\u4e0d\u6703",
-        "url": "https://open.spotify.com/album/5nAilSc60xebtjFfRr6m2V"
-      },
-      "artists": [
-        {
-          "name": "JJ Lin",
-          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
-        }
-      ],
-      "duration_ms": 219511,
-      "name": "Love U U",
-      "url": "https://open.spotify.com/track/3tWKKraMbuwTcU3YZzoJnq"
-    },
-    {
-      "added_at": "2023-12-06 14:40:44",
-      "album": {
         "name": "\u50cf\u9b5a",
         "url": "https://open.spotify.com/album/6Bnxko0NpYp7NOUt3YIk6v"
       },
@@ -711,38 +695,6 @@
       "duration_ms": 285271,
       "name": "\u50cf\u9b5a",
       "url": "https://open.spotify.com/track/1MRRjWwqBUyoD9dC11sZ4S"
-    },
-    {
-      "added_at": "2023-12-06 14:40:44",
-      "album": {
-        "name": "\u610f\u5916",
-        "url": "https://open.spotify.com/album/6fdVEfGvTcT7TgipOorHD5"
-      },
-      "artists": [
-        {
-          "name": "Joker Xue",
-          "url": "https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN"
-        }
-      ],
-      "duration_ms": 310295,
-      "name": "\u4f60\u8fd8\u8981\u6211\u600e\u6837",
-      "url": "https://open.spotify.com/track/0kuKQQMx6L3efJuRVTgWQb"
-    },
-    {
-      "added_at": "2023-12-06 14:40:44",
-      "album": {
-        "name": "\u6211\u5f88\u5fd9",
-        "url": "https://open.spotify.com/album/5JNrPPT60TzrqBxsY3hn0A"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 235840,
-      "name": "\u6700\u9577\u7684\u96fb\u5f71",
-      "url": "https://open.spotify.com/track/4J1vA4sgG6FJ1j21UugbtH"
     },
     {
       "added_at": "2023-12-06 14:40:44",
@@ -763,6 +715,54 @@
       "duration_ms": 327228,
       "name": "\u5c0d\u7b49\u95dc\u4fc2 (feat. \u5f35\u60e0\u59b9)",
       "url": "https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc"
+    },
+    {
+      "added_at": "2023-12-06 14:40:44",
+      "album": {
+        "name": "\u5b78\u4e0d\u6703",
+        "url": "https://open.spotify.com/album/5nAilSc60xebtjFfRr6m2V"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "duration_ms": 219511,
+      "name": "Love U U",
+      "url": "https://open.spotify.com/track/3tWKKraMbuwTcU3YZzoJnq"
+    },
+    {
+      "added_at": "2023-12-06 14:40:44",
+      "album": {
+        "name": "\u6211\u5f88\u5fd9",
+        "url": "https://open.spotify.com/album/5JNrPPT60TzrqBxsY3hn0A"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 235840,
+      "name": "\u6700\u9577\u7684\u96fb\u5f71",
+      "url": "https://open.spotify.com/track/4J1vA4sgG6FJ1j21UugbtH"
+    },
+    {
+      "added_at": "2023-12-06 14:40:44",
+      "album": {
+        "name": "\u610f\u5916",
+        "url": "https://open.spotify.com/album/6fdVEfGvTcT7TgipOorHD5"
+      },
+      "artists": [
+        {
+          "name": "Joker Xue",
+          "url": "https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN"
+        }
+      ],
+      "duration_ms": 310295,
+      "name": "\u4f60\u8fd8\u8981\u6211\u600e\u6837",
+      "url": "https://open.spotify.com/track/0kuKQQMx6L3efJuRVTgWQb"
     },
     {
       "added_at": "2023-12-06 14:40:44",

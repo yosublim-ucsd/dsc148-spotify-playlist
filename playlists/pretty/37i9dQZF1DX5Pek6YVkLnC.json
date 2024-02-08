@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: ROA",
-  "num_followers": 230859,
+  "num_followers": 230866,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmUyZmZlOTNiOTc0Mjg0OTlkZjBmZjQ4YzkyYTNhMjMyZTVhNWEx",
+  "snapshot_id": "MCw1NDFhNWMwMzhiMGZhNWNhNTgyZDk2Yzc1MjllNzg5M2EzMjM3ODBh",
   "tracks": [
     {
       "added_at": "2024-01-30 23:09:29",
@@ -439,6 +439,26 @@
     {
       "added_at": "2024-01-30 23:09:29",
       "album": {
+        "name": "WYA",
+        "url": "https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O"
+      },
+      "artists": [
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "WYA",
+      "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
+    },
+    {
+      "added_at": "2024-01-30 23:09:29",
+      "album": {
         "name": "UuU 2",
         "url": "https://open.spotify.com/album/0Q0tPst1r7QwrFGzhj2XwO"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 308666,
       "name": "UuU 2",
       "url": "https://open.spotify.com/track/63ix3pSwtXbR2IBwpNwPv5"
-    },
-    {
-      "added_at": "2024-01-30 23:09:29",
-      "album": {
-        "name": "WYA",
-        "url": "https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O"
-      },
-      "artists": [
-        {
-          "name": "J Abdiel",
-          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "WYA",
-      "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
     },
     {
       "added_at": "2024-01-30 23:09:29",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-01-30 23:09:29",
       "album": {
+        "name": "Bellakita",
+        "url": "https://open.spotify.com/album/0xnUNAewtVl83rVHz9b8RS"
+      },
+      "artists": [
+        {
+          "name": "C Dobleta",
+          "url": "https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE"
+        }
+      ],
+      "duration_ms": 182474,
+      "name": "Bellakita",
+      "url": "https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ"
+    },
+    {
+      "added_at": "2024-01-30 23:09:29",
+      "album": {
         "name": "Kyoto",
         "url": "https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa"
       },
@@ -543,26 +559,6 @@
     {
       "added_at": "2024-01-30 23:09:29",
       "album": {
-        "name": "Baja y Sube",
-        "url": "https://open.spotify.com/album/1JSmYKbA5QmaerpftwdFe4"
-      },
-      "artists": [
-        {
-          "name": "Rokero",
-          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 170422,
-      "name": "Baja y Sube",
-      "url": "https://open.spotify.com/track/19HdxwjuhFbN3trAA6EHYJ"
-    },
-    {
-      "added_at": "2024-01-30 23:09:29",
-      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -583,6 +579,26 @@
     {
       "added_at": "2024-01-30 23:09:29",
       "album": {
+        "name": "Baja y Sube",
+        "url": "https://open.spotify.com/album/1JSmYKbA5QmaerpftwdFe4"
+      },
+      "artists": [
+        {
+          "name": "Rokero",
+          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 170422,
+      "name": "Baja y Sube",
+      "url": "https://open.spotify.com/track/19HdxwjuhFbN3trAA6EHYJ"
+    },
+    {
+      "added_at": "2024-01-30 23:09:29",
+      "album": {
         "name": "WLGS",
         "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 260415,
       "name": "Bandida Fina (with Ozuna)",
       "url": "https://open.spotify.com/track/0L6Zw2BaYITtCMn63Yggh1"
-    },
-    {
-      "added_at": "2024-01-30 23:09:29",
-      "album": {
-        "name": "Bellakita",
-        "url": "https://open.spotify.com/album/0xnUNAewtVl83rVHz9b8RS"
-      },
-      "artists": [
-        {
-          "name": "C Dobleta",
-          "url": "https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE"
-        }
-      ],
-      "duration_ms": 182474,
-      "name": "Bellakita",
-      "url": "https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ"
     },
     {
       "added_at": "2024-01-30 23:09:29",
@@ -659,18 +659,22 @@
     {
       "added_at": "2024-01-30 23:09:29",
       "album": {
-        "name": "UNA NOTi",
-        "url": "https://open.spotify.com/album/3lxVIFq3Bv8oMoLwyFKbwG"
+        "name": "en guerra",
+        "url": "https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1"
       },
       "artists": [
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         }
       ],
-      "duration_ms": 200000,
-      "name": "UNA NOTi",
-      "url": "https://open.spotify.com/track/3siASmLFyTye8QbGkZQOlz"
+      "duration_ms": 191232,
+      "name": "en guerra",
+      "url": "https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx"
     },
     {
       "added_at": "2024-01-30 23:09:29",
@@ -707,26 +711,6 @@
     {
       "added_at": "2024-01-30 23:09:29",
       "album": {
-        "name": "en guerra",
-        "url": "https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 191232,
-      "name": "en guerra",
-      "url": "https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx"
-    },
-    {
-      "added_at": "2024-01-30 23:09:29",
-      "album": {
         "name": "TRAPPii",
         "url": "https://open.spotify.com/album/1EcwiKaYxKwOWsnju1rwHT"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 177613,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/49Br4XqYMOBlwM2YRGPQYy"
+    },
+    {
+      "added_at": "2024-01-30 23:09:29",
+      "album": {
+        "name": "UNA NOTi",
+        "url": "https://open.spotify.com/album/3lxVIFq3Bv8oMoLwyFKbwG"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "UNA NOTi",
+      "url": "https://open.spotify.com/track/3siASmLFyTye8QbGkZQOlz"
     },
     {
       "added_at": "2024-01-30 23:09:29",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-01-30 23:09:29",
       "album": {
+        "name": "estrella$ en el techo",
+        "url": "https://open.spotify.com/album/77BE6SvUOdy6ICjDpBKGqK"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 140916,
+      "name": "estrella$ en el techo",
+      "url": "https://open.spotify.com/track/09RdJb9LlrVyNDyaSr2yF8"
+    },
+    {
+      "added_at": "2024-01-30 23:09:29",
+      "album": {
         "name": "Hola Cookie",
         "url": "https://open.spotify.com/album/6U7Nz4boETlEdp7eK2XEmg"
       },
@@ -903,38 +919,6 @@
     {
       "added_at": "2024-01-30 23:09:29",
       "album": {
-        "name": "estrella$ en el techo",
-        "url": "https://open.spotify.com/album/77BE6SvUOdy6ICjDpBKGqK"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 140916,
-      "name": "estrella$ en el techo",
-      "url": "https://open.spotify.com/track/09RdJb9LlrVyNDyaSr2yF8"
-    },
-    {
-      "added_at": "2024-01-30 23:09:29",
-      "album": {
-        "name": "UN TRATO",
-        "url": "https://open.spotify.com/album/5rJnrNKi5leQAFZUXh0f7P"
-      },
-      "artists": [
-        {
-          "name": "Izzy",
-          "url": "https://open.spotify.com/artist/3lx9s0PztiAJYkM0RLD8kC"
-        }
-      ],
-      "duration_ms": 130618,
-      "name": "UN TRATO",
-      "url": "https://open.spotify.com/track/4yZS80QhJzv3cWuHEOf4Ka"
-    },
-    {
-      "added_at": "2024-01-30 23:09:29",
-      "album": {
         "name": "Real Trap",
         "url": "https://open.spotify.com/album/2tWW4EVZXMjBQ9wcrLjeKH"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 181363,
       "name": "Real Trap",
       "url": "https://open.spotify.com/track/2yzGhfOMWbQTdU4sUJVIWk"
+    },
+    {
+      "added_at": "2024-01-30 23:09:29",
+      "album": {
+        "name": "UN TRATO",
+        "url": "https://open.spotify.com/album/5rJnrNKi5leQAFZUXh0f7P"
+      },
+      "artists": [
+        {
+          "name": "Izzy",
+          "url": "https://open.spotify.com/artist/3lx9s0PztiAJYkM0RLD8kC"
+        }
+      ],
+      "duration_ms": 130618,
+      "name": "UN TRATO",
+      "url": "https://open.spotify.com/track/4yZS80QhJzv3cWuHEOf4Ka"
     },
     {
       "added_at": "2024-01-30 23:09:29",

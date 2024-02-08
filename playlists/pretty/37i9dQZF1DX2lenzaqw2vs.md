@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Adrian Bello
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,191 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,192 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 23 | [Piña](https://open.spotify.com/track/6Fdho6pm3GhNyA4TZajC2X) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:24 |
 | 24 | [AMEIANOITE](https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:46 |
 | 25 | [Mística](https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Mística](https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub) | 3:52 |
-| 26 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
-| 27 | [Imagina](https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9) | 3:44 |
+| 26 | [Imagina](https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9) | 3:44 |
+| 27 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
 | 28 | [Quítate La Ropa](https://open.spotify.com/track/2uHSh5ZPsVGDTL7rfPRL1R) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [Quítate La Ropa](https://open.spotify.com/album/56kdE5SKjM1TYN7nEBkbG7) | 2:19 |
 | 29 | [PERREO FURIOSO](https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:32 |
 | 30 | [I Like 2 Be](https://open.spotify.com/track/7ilN3oN8goL5nJF6aA48zc) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 99 | [lo que queda después del amor](https://open.spotify.com/track/1CceTFtIgX7vPVco9Fub6t) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO: Antología de una flor marchita \(Deluxe\)](https://open.spotify.com/album/0L9ebZXy9sK9W846lkYAMm) | 4:04 |
 | 100 | [Pollo Frito](https://open.spotify.com/track/4cIDGn1x13O1Zva3TUu4TM) | [Diamante Merybrown](https://open.spotify.com/artist/4LRatXcWgcxuM1fLsn0eF9), [Choriza May](https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j) | [Pollo Frito](https://open.spotify.com/album/4wBHZdKOUiy9QBck34QdL2) | 2:45 |
 
-Snapshot ID: `MCw2NThlMzliNTRiMzkzOTIwMjM1MTQ1NDNmMTVjODI3MjhhZDk2OWI3`
+Snapshot ID: `MCwxMTI1Mjk2MWY1ZmQyZjFjMjYyMjUwMzZmNDMwZGVjNDBlYzg2N2I2`

@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: DI\-RECT
 
-4,739 songs - 10 day 8 hr 56 min
+4,741 songs - 10 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -866,7 +866,8 @@
 | [Crew Thang](https://open.spotify.com/track/5a8brwyxP2Ga832uYrY2lQ) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish) | [Crew Thang](https://open.spotify.com/album/0eFZm20GN8fAvSG1sAsFw2) | 2:41 | 2023-05-25 | 2023-06-02 |
 | [Crow Without Caws](https://open.spotify.com/track/1bh0cWQrxJuiZvb9SQysV8) | [Tusky](https://open.spotify.com/artist/6XbZ8G0cFqSgUL4FmtiSPr) | [Crow Without Caws](https://open.spotify.com/album/5tB6BGjJdEyvYlIepJYKz6) | 2:53 | 2023-11-09 | 2023-11-17 |
 | [crown](https://open.spotify.com/track/4YmvERdqtzwCauPpZnPJNm) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE) | [crown](https://open.spotify.com/album/2O2q9CCrqfkFm923KXGxsd) | 5:44 | 2023-05-11 | 2023-05-19 |
-| [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 | 2024-02-01 |  |
+| [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 | 2024-02-02 |  |
+| [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 | 2024-02-01 | 2024-02-08 |
 | [Crush](https://open.spotify.com/track/00Apys6jYrWA0Bse9Yon6O) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Crush](https://open.spotify.com/album/4zhSWdHOuYGS7EoJiY6PaE) | 2:55 | 2023-09-14 | 2023-09-22 |
 | [Crush feat\. Erika de Casier](https://open.spotify.com/track/4F3Xx2vBcZ0jq2JD8Bv9ZQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Nymph\_o](https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k) | 2:53 | 2023-04-13 | 2023-04-21 |
 | [Crying](https://open.spotify.com/track/3lpLpwUF7KTJVj9yoySNwM) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Crying](https://open.spotify.com/album/5wvfwEFmnrUsbmVi9mRT9N) | 2:53 | 2024-01-25 | 2024-02-02 |
@@ -1053,7 +1054,8 @@
 | [did U notice me?](https://open.spotify.com/track/7IKiUEp4SSrYraFboNwrQC) | [Anna\-Rose Clayton](https://open.spotify.com/artist/12QHr622V8nZ38fZ34dENS) | [did U notice me?](https://open.spotify.com/album/4SyR6bxbbvoQYBuRopkukd) | 2:35 | 2024-01-18 | 2024-01-26 |
 | [DIE](https://open.spotify.com/track/3UJ1s9BOljmLXe9E7QpTkw) | [4B2M](https://open.spotify.com/artist/6Evnxf4Als5zI3yYgtnoBV) | [DIE](https://open.spotify.com/album/52qgKl72EuTFzFP60LwxFW) | 2:48 | 2023-11-09 | 2023-11-17 |
 | [Die 4 Me](https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Die 4 Me](https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz) | 3:35 | 2023-02-24 | 2023-03-03 |
-| [Die For Me](https://open.spotify.com/track/67gYpZ9Kl4EwuQa3hZX6wR) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me](https://open.spotify.com/album/5Spe5tAY7QIn04uSBiGYt9) | 2:43 | 2024-02-01 |  |
+| [Die For Me](https://open.spotify.com/track/67gYpZ9Kl4EwuQa3hZX6wR) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me](https://open.spotify.com/album/5Spe5tAY7QIn04uSBiGYt9) | 2:43 | 2024-02-01 | 2024-02-08 |
+| [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/track/5YUsCI2mTieO4KJbLeQFR7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/album/21QcWrXk821IkKiL73BZre) | 2:43 | 2024-02-02 |  |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-24 | 2023-03-03 |
 | [die young](https://open.spotify.com/track/0ohtsxNylBu2zu6hlopn1X) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [die young](https://open.spotify.com/album/0Syusfm1V3UKmEwK7ZB4HP) | 2:44 | 2023-06-22 | 2023-06-30 |
 | [DIE ZONA](https://open.spotify.com/track/5tafJmErKsdZKFtPWnCL82) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [YOUNGSTA](https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q) | 2:25 | 2023-11-24 | 2023-12-02 |

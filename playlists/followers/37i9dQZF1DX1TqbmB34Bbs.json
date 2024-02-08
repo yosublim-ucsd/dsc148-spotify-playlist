@@ -1,7 +1,7 @@
 {
-  "2024-02-07": 18083,
+  "2024-02-08": 18139,
   "date_first_scraped": "2022-05-30",
-  "description": "Illest hardcore K-hip hop tracks are here. (Cover: viceversa(\ubc14\uc774\uc2a4\ubc8c\uc0ac)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Illest hardcore K-hip hop tracks are here. (Cover: Sik-K, HAON, Leellamarz) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
   "tracks": [
     {
@@ -10235,7 +10235,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 138096,
       "name": "Heu ! - Full Version",
       "url": "https://open.spotify.com/track/3CHHW06gWZIZcrdYMaiNPb"
@@ -12337,6 +12337,32 @@
       "duration_ms": 192883,
       "name": "Karma (feat. \ub9b4\uc0f4)",
       "url": "https://open.spotify.com/track/0HMVND01SvxgzEphNmm7PX"
+    },
+    {
+      "album": {
+        "name": "KC (BUST IT DOWN) (feat. Leellamarz)",
+        "url": "https://open.spotify.com/album/7kWJmTh6RHCueZmCJM5mvl"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161946,
+      "name": "KC (BUST IT DOWN) (feat. Leellamarz)",
+      "url": "https://open.spotify.com/track/1S7JmOOTfu7Wzf7EfnxFyd"
     },
     {
       "album": {
@@ -15055,7 +15081,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 162853,
       "name": "N!kes (Prod. Justy)",
       "url": "https://open.spotify.com/track/4vbb1kJJVDqZreoL24fQ5M"
@@ -22701,7 +22727,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 251297,
       "name": "The Arrival",
       "url": "https://open.spotify.com/track/7ASnRoq5kwTYggVHBHyTVe"
@@ -25555,7 +25581,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 173866,
       "name": "WING (feat. CK)",
       "url": "https://open.spotify.com/track/4j2mNJUDvI4CMkOoxIs3qA"
@@ -26419,6 +26445,36 @@
       "duration_ms": 363627,
       "name": "Young Muthafuckas (Prod. Nochang)",
       "url": "https://open.spotify.com/track/4JEKkn4drM8DdnpiaatUk9"
+    },
+    {
+      "album": {
+        "name": "YOUNG POSSE UP (feat.Verbal Jint, NSW yoon, Token)",
+        "url": "https://open.spotify.com/album/4bROg1lfsWUDyNtzmsMywC"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+        },
+        {
+          "name": "Token",
+          "url": "https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200815,
+      "name": "YOUNG POSSE UP (feat.Verbal Jint, NSW yoon, Token)",
+      "url": "https://open.spotify.com/track/19rwdftkfTj3oqqhRevov7"
     },
     {
       "album": {

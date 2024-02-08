@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,091,331 likes - 138 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,091,509 likes - 138 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 | 108 | [Hate The Way You Love Me](https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Beulah](https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI) | 4:03 |
 | 109 | [Love Farewell](https://open.spotify.com/track/6cvKWfzh1NTJMWXaAIVt63) | [Jake Xerxes Fussell](https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33) | [Good and Green Again](https://open.spotify.com/album/0Yak3Y7E8UjlUGSEn4DUuM) | 3:58 |
 | 110 | [Down by the Water](https://open.spotify.com/track/4c5npp9gnwBHHyKnaqK2mD) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Getaway](https://open.spotify.com/album/6SVeCBELPZSeSyO8RCbSOV) | 2:55 |
-| 111 | [Sweetest Thing](https://open.spotify.com/track/696vpg0aBvBxpZAuasmg15) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [Sweetest Thing](https://open.spotify.com/album/4YtmwrjMoeVCcVPMSadTsy) | 3:38 |
+| 111 | [Sweetest Thing](https://open.spotify.com/track/3SiRNvjdZGx9TGqabi2ywu) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [1000 Years](https://open.spotify.com/album/4uDA2LKlvyDvYdr3xp40ny) | 3:38 |
 | 112 | [Weekend](https://open.spotify.com/track/2TEZu0Rk7Rr6aEARBCMmhj) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ), [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Weekend](https://open.spotify.com/album/7CfX9MI3qgRHch1OgWL6mz) | 2:27 |
 | 113 | [Back to Autumn](https://open.spotify.com/track/3TdZbELsPLWYZAArGSfwyQ) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR) | 3:19 |
 | 114 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 | 137 | [Only Children](https://open.spotify.com/track/6BzU6BMqMd4qelkWTjLwKy) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:57 |
 | 138 | [Going In](https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK), [The Song Confessional](https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E) | [Going In](https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH) | 2:41 |
 
-Snapshot ID: `MCw5OGIyMDNjMDk5ZTE3NGMxZDVmMmNlMDIxMzM2ZjE2ZWIxYzc5ZjY3`
+Snapshot ID: `MCxiZWRjZmM2N2FiZDk3ZWE1NDVmYTZiNmY5ZTg2Y2U1YjVmZjA0NWM5`

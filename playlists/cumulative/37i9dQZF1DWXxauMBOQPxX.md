@@ -4,7 +4,7 @@
 
 > Heartbroken? These songs might just help.
 
-126 songs - 8 hr 2 min
+128 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Chasing Cars](https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp) | 4:27 | 2020-07-10 | 2022-08-26 |
 | [Chasing Cars](https://open.spotify.com/track/07753JNAvJgec2G9rlqtj7) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Breakup Songs](https://open.spotify.com/album/6ckrkQmWQZhc8dX80L9MGb) | 4:27 | 2022-01-18 | 2022-11-13 |
 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 | 2022-01-18 |  |
+| [Cherry Wine \- Live](https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:00 | 2024-02-07 |  |
 | [Clown](https://open.spotify.com/track/0tRbE57ldKxtHep2R9KQZF) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe) | 3:41 | 2020-07-10 | 2022-01-19 |
 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-12-07 |  |
 | [Consequences](https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 2:58 | 2020-07-10 | 2022-12-08 |
@@ -38,6 +39,7 @@
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2022-01-18 |  |
 | [drivers license](https://open.spotify.com/track/6xB99ltI6FjcqhKWYd1FcB) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [pov: he broke your heart](https://open.spotify.com/album/7q1bOea4TSOQ31pSRLswZr) | 4:02 | 2022-01-18 | 2022-11-14 |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2022-01-18 | 2022-07-29 |
+| [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2024-02-07 |  |
 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 | 2022-12-07 |  |
 | [Fingers Crossed](https://open.spotify.com/track/00vGldARjYnPv2LPGUQHSC) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Pure Acoustic 2022](https://open.spotify.com/album/4DCIc6AsRGKdKLh2bDfQr0) | 2:55 | 2022-01-18 | 2022-11-13 |
 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-01-18 | 2023-07-17 |
@@ -84,7 +86,7 @@
 | [Love Me or Leave Me](https://open.spotify.com/track/1n73Qe6oEprLsUNHXET2pb) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:26 | 2022-01-18 | 2022-12-08 |
 | [Love Me or Leave Me](https://open.spotify.com/track/2czTwBUyZHzWXS06IzED4N) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Deluxe\)](https://open.spotify.com/album/4bzVI1FElc13HQagFR7S1W) | 3:26 | 2020-07-10 | 2022-07-29 |
 | [Made to Love You](https://open.spotify.com/track/0TFGNGyFaIIdDoM2SXRida) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Made to Love You](https://open.spotify.com/album/4RC4u7w6CVLeNAA4Nb9iu0) | 3:27 | 2020-07-10 | 2022-07-29 |
-| [Made to Love You](https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Stay Awake with Me \(acoustic\)](https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ) | 3:27 | 2022-01-18 |  |
+| [Made to Love You](https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Stay Awake with Me \(acoustic\)](https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ) | 3:27 | 2022-01-18 | 2024-02-08 |
 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 | 2020-07-10 | 2022-12-08 |
 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 | 2020-07-10 | 2022-12-08 |
 | [Please Don't Go](https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy) | [Joel Adams](https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD) | [Please Don't Go](https://open.spotify.com/album/2SF8Wbc61u8hlQkZYGVCnx) | 3:30 | 2020-07-10 | 2022-12-08 |
@@ -122,7 +124,7 @@
 | [Unfaithful](https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:46 | 2022-01-18 | 2022-12-08 |
 | [Unsteady](https://open.spotify.com/track/3oqaVkOLsUQwpKOgXFMFjm) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Someone you loved](https://open.spotify.com/album/7gCphTtWHVCXYWfAQShFTQ) | 3:12 | 2022-01-18 | 2022-11-13 |
 | [Unsteady](https://open.spotify.com/track/1RGsZfUwt2a6yLzL2yoj1X) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/5MEgrjkStq0JsQGO64Xvlq) | 3:13 | 2020-07-10 | 2022-07-29 |
-| [Unsteady](https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:13 | 2022-01-18 |  |
+| [Unsteady](https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:13 | 2022-01-18 | 2024-02-08 |
 | [Waves](https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 4:00 | 2022-01-18 | 2022-12-08 |
 | [Waves](https://open.spotify.com/track/4WkgczfogdDo4XlEVqDLTZ) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Cry Out](https://open.spotify.com/album/1BsF3WTnMj05FbFYjCBRYb) | 4:01 | 2022-01-18 | 2022-11-13 |
 | [Waves](https://open.spotify.com/track/64xJ1MMFxxK6osZxJH857T) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Waves](https://open.spotify.com/album/0dcIrW5U3oco3GDCKiJ33I) | 4:01 | 2020-07-10 | 2022-07-29 |

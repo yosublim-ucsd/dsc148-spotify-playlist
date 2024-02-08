@@ -2571,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+    },
+    {
+      "album": {
         "name": "L3tra",
         "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
       },
@@ -3908,7 +3926,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 188411,
       "name": "DE LUNES A LUNES",
       "url": "https://open.spotify.com/track/49Zc3sEJHADPoVDM4jNKgs"
@@ -6358,6 +6376,24 @@
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
+    },
+    {
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
     },
     {
       "album": {
@@ -14508,7 +14544,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 152923,
       "name": "Qu\u00e9 Agon\u00eda",
       "url": "https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m"
@@ -19027,6 +19063,24 @@
     },
     {
       "album": {
+        "name": "VVS Switch",
+        "url": "https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168178,
+      "name": "VVS Switch",
+      "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"
+    },
+    {
+      "album": {
         "name": "WACHA",
         "url": "https://open.spotify.com/album/6DHfMP3XhSQYlxs5a9l7s4"
       },
@@ -19340,7 +19394,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 185722,
       "name": "Ya No Somos Ni Seremos",
       "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGJmMjkwMDFlYzA5MzMxYTQ5NmI3MmYyMWU5OGY0OTY5MzMyN2Fk",
+  "snapshot_id": "MCw5Yzc4MGE1YjNjM2E4OTAwMjY2Yzc3YjJmYmU4NDFmNzc0MjI3Zjc3",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Oshin",
-        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Doused",
-      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "The Dream Is Over",
         "url": "https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 148893,
       "name": "DVP",
       "url": "https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Oshin",
+        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Doused",
+      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Get It On: The Collection",
-        "url": "https://open.spotify.com/album/6EtPzgRUvsv5L0kL0dn4kx"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 131986,
-      "name": "Ride A White Swan",
-      "url": "https://open.spotify.com/track/4JzqDlNhjxxZ3oQcfXhS6q"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Abysmal Thoughts",
         "url": "https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 228146,
       "name": "Blood Under My Belt",
       "url": "https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Get It On: The Collection",
+        "url": "https://open.spotify.com/album/6EtPzgRUvsv5L0kL0dn4kx"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 131986,
+      "name": "Ride A White Swan",
+      "url": "https://open.spotify.com/track/4JzqDlNhjxxZ3oQcfXhS6q"
     },
     {
       "added_at": "2021-04-09 06:19:31",

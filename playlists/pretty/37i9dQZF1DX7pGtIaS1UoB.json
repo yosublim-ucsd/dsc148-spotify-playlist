@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 93923,
+  "num_followers": 93946,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDZjMzJmNDViNzkzYzUyOGYxNjdmNmIyZTM0MGFhYjMxYmFiZDE3",
+  "snapshot_id": "MCwxMjNjMjI2NjU0NWI4Y2Y1NGMyZGY5NDUwNzk0NzViMGQ5YWVlNDhk",
   "tracks": [
     {
       "added_at": "2024-02-05 04:44:24",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-02-05 04:44:24",
       "album": {
+        "name": "\u60f3\u8aaa",
+        "url": "https://open.spotify.com/album/4N3jk5k52Pql3QuZQv5n5T"
+      },
+      "artists": [
+        {
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "\u60f3\u8aaa",
+      "url": "https://open.spotify.com/track/5Wisct6F7PgfIyIsosbfhY"
+    },
+    {
+      "added_at": "2024-02-05 04:44:24",
+      "album": {
         "name": "\u4f60\u597d\u55ce?",
         "url": "https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 226317,
       "name": "\u8981\u600e\u9ebc\u544a\u8a34\u4f60\u6211\u591a\u559c\u6b61 (feat.\u7406\u60f3\u6df7\u86cb \u96de\u4e01)",
       "url": "https://open.spotify.com/track/3vfFrGe8h1VtO63Zku4KFk"
-    },
-    {
-      "added_at": "2024-02-05 04:44:24",
-      "album": {
-        "name": "\u60f3\u8aaa",
-        "url": "https://open.spotify.com/album/4N3jk5k52Pql3QuZQv5n5T"
-      },
-      "artists": [
-        {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "\u60f3\u8aaa",
-      "url": "https://open.spotify.com/track/5Wisct6F7PgfIyIsosbfhY"
     },
     {
       "added_at": "2024-02-05 04:44:24",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-02-05 04:44:24",
       "album": {
-        "name": "\u611b\u7684\u9996\u5e2d",
-        "url": "https://open.spotify.com/album/3q9vVzxUg1HwBylkLJKpS8"
-      },
-      "artists": [
-        {
-          "name": "TANK \u5442\u5efa\u5fe0",
-          "url": "https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "\u611b\u7684\u9996\u5e2d",
-      "url": "https://open.spotify.com/track/5LLF4td1wqhZ2fuxAulSWD"
-    },
-    {
-      "added_at": "2024-02-05 04:44:24",
-      "album": {
         "name": "\u6e10\u6696",
         "url": "https://open.spotify.com/album/1o2NQjq0Cux4JSwxhd4JQd"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 190390,
       "name": "\u6e10\u6696",
       "url": "https://open.spotify.com/track/3BR2pyEvbTwVhE0qpGEMaX"
+    },
+    {
+      "added_at": "2024-02-05 04:44:24",
+      "album": {
+        "name": "\u611b\u7684\u9996\u5e2d",
+        "url": "https://open.spotify.com/album/3q9vVzxUg1HwBylkLJKpS8"
+      },
+      "artists": [
+        {
+          "name": "TANK \u5442\u5efa\u5fe0",
+          "url": "https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "\u611b\u7684\u9996\u5e2d",
+      "url": "https://open.spotify.com/track/5LLF4td1wqhZ2fuxAulSWD"
     },
     {
       "added_at": "2024-02-05 04:44:24",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-02-05 04:44:24",
       "album": {
-        "name": "\u4e0d\u5b8c\u7f8e\u7684\u6211",
-        "url": "https://open.spotify.com/album/4Zvf8FWGGJdlu58nMkYIML"
-      },
-      "artists": [
-        {
-          "name": "Ruth Kueo",
-          "url": "https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb"
-        },
-        {
-          "name": "Marcus Lee",
-          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
-        }
-      ],
-      "duration_ms": 146860,
-      "name": "\u4e0d\u5b8c\u7f8e\u7684\u6211",
-      "url": "https://open.spotify.com/track/3p7UhRYIamaKwf92u5k78s"
-    },
-    {
-      "added_at": "2024-02-05 04:44:24",
-      "album": {
         "name": "Fahrenheit",
         "url": "https://open.spotify.com/album/4wGcUak2adE4WFF4E8k0DD"
       },
@@ -863,22 +843,22 @@
     {
       "added_at": "2024-02-05 04:44:24",
       "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/5wvfJhLN1Md0D9Ygu9c5ZY"
+        "name": "\u4e0d\u5b8c\u7f8e\u7684\u6211",
+        "url": "https://open.spotify.com/album/4Zvf8FWGGJdlu58nMkYIML"
       },
       "artists": [
         {
-          "name": "Kipes",
-          "url": "https://open.spotify.com/artist/3sQ4YHF0SRgQTNEswO8KTf"
+          "name": "Ruth Kueo",
+          "url": "https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb"
         },
         {
-          "name": "Ziv",
-          "url": "https://open.spotify.com/artist/3YURVpnxVzqFYUTIy5HqcO"
+          "name": "Marcus Lee",
+          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
         }
       ],
-      "duration_ms": 237473,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6GnvrHsBX77fnYTgJtMcti"
+      "duration_ms": 146860,
+      "name": "\u4e0d\u5b8c\u7f8e\u7684\u6211",
+      "url": "https://open.spotify.com/track/3p7UhRYIamaKwf92u5k78s"
     },
     {
       "added_at": "2024-02-05 04:44:24",
@@ -895,6 +875,26 @@
       "duration_ms": 208733,
       "name": "\u725b\u5976\u9eb5\u5305 (\u96fb\u8996\u5287\u300a\u89aa\u611b\u7684, \u71b1\u611b\u7684\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/43NcYYApDgwXliG1xWaG8h"
+    },
+    {
+      "added_at": "2024-02-05 04:44:24",
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/5wvfJhLN1Md0D9Ygu9c5ZY"
+      },
+      "artists": [
+        {
+          "name": "Kipes",
+          "url": "https://open.spotify.com/artist/3sQ4YHF0SRgQTNEswO8KTf"
+        },
+        {
+          "name": "Ziv",
+          "url": "https://open.spotify.com/artist/3YURVpnxVzqFYUTIy5HqcO"
+        }
+      ],
+      "duration_ms": 237473,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6GnvrHsBX77fnYTgJtMcti"
     },
     {
       "added_at": "2024-02-05 04:44:24",

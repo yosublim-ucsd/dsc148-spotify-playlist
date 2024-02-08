@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thiaguinho, Sorriso Maroto
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,136 likes - 75 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,258 likes - 75 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Pela Vida Inteira / Preciso De Amor / Nuance \- Ao Vivo](https://open.spotify.com/track/4PbAWFSP9A2s61f4aerHPq) | [Matheusinho](https://open.spotify.com/artist/5fFaxiwdqZlsazN9qMyQMB), [Vou Zuar](https://open.spotify.com/artist/5x2zeeLVXEDaMHRaRmH3FD) | [Rolezin Do Matheusinho \(Ao Vivo / Vol\. 2\)](https://open.spotify.com/album/1CBMT5KQIq9Sz5NUw6cDI7) | 4:36 |
 | 75 | [É no Pagode / Já Que Tá Gostoso Deixa \- Ao Vivo](https://open.spotify.com/track/2rQUkdMGz5kvc9l9zt2bdb) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Mensageiro do Amor, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/7jVb3Lcaakq6q2P8OwqlZx) | 4:47 |
 
-Snapshot ID: `MCxhOWRhODY3ZGZiMDQyZjhmNjY5Yzc1NTA5ZjM0YzliYWNiYTE1ZmZj`
+Snapshot ID: `MCwwOTQxNmY2ZTQzYWFiMDFkMzRjMTRhMDA4YWNlOTNhNmYzYTlkM2Qy`

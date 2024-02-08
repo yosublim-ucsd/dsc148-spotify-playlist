@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 393534,
+  "num_followers": 393605,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGNlOGRmOTZiZDk4MWMzNjE0MDg3OGQwNjM5OWUyYTFjYjk4YTIy",
+  "snapshot_id": "MCw5NjRkMzBlOWMxYjBhY2E0Y2MyZjY5ODZkMjJmZWNmNjc2OTE3NjQ2",
   "tracks": [
     {
       "added_at": "2023-08-21 00:02:44",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 198760,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Now And Then",
         "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 204333,
       "name": "Two Dozen Roses",
       "url": "https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "The Oak Ridge Boys Have Arrived",
-        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
+        "name": "Out Of Hand",
+        "url": "https://open.spotify.com/album/4vslpYaKUd2FnMGkZcq7vK"
       },
       "artists": [
         {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+          "name": "Gary Stewart",
+          "url": "https://open.spotify.com/artist/3KmQJ2e3T7Gn1UurVpReXs"
         }
       ],
-      "duration_ms": 179533,
-      "name": "Leaving Louisiana In The Broad Daylight",
-      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
+      "duration_ms": 168120,
+      "name": "She's Actin' Single (I'm Drinkin' Doubles)",
+      "url": "https://open.spotify.com/track/7dZgDd8LYriRdR2kDSQjxx"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Out Of Hand",
-        "url": "https://open.spotify.com/album/4vslpYaKUd2FnMGkZcq7vK"
+        "name": "The Oak Ridge Boys Have Arrived",
+        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
       },
       "artists": [
         {
-          "name": "Gary Stewart",
-          "url": "https://open.spotify.com/artist/3KmQJ2e3T7Gn1UurVpReXs"
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
         }
       ],
-      "duration_ms": 168120,
-      "name": "She's Actin' Single (I'm Drinkin' Doubles)",
-      "url": "https://open.spotify.com/track/7dZgDd8LYriRdR2kDSQjxx"
+      "duration_ms": 179533,
+      "name": "Leaving Louisiana In The Broad Daylight",
+      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Charley Pride's 10th Album",
-        "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
-      },
-      "artists": [
-        {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
-        }
-      ],
-      "duration_ms": 133880,
-      "name": "Is Anybody Goin' to San Antone",
-      "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Too Cold At Home",
         "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 184840,
       "name": "Brother Jukebox",
       "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Charley Pride's 10th Album",
+        "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 133880,
+      "name": "Is Anybody Goin' to San Antone",
+      "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0nFyIqvzHgoHPnIuDNbh0O"
+      },
+      "artists": [
+        {
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Fishin' in the Dark",
+      "url": "https://open.spotify.com/track/15jhnquhNS1IZMlM493UBW"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -1115,6 +1131,22 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
+        "name": "Back To The Barrooms",
+        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "I Think I'll Just Stay Here And Drink",
+      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
         "name": "I Will Stand By You - The Essential Collection",
         "url": "https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM"
       },
@@ -1131,18 +1163,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Back To The Barrooms",
-        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
+        "name": "When I Dream",
+        "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
         }
       ],
-      "duration_ms": 271160,
-      "name": "I Think I'll Just Stay Here And Drink",
-      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
+      "duration_ms": 174520,
+      "name": "Talking In Your Sleep",
+      "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1163,22 +1195,6 @@
       "duration_ms": 236626,
       "name": "Meet Me In Montana",
       "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
-        "name": "When I Dream",
-        "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "Talking In Your Sleep",
-      "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "He Stopped Loving Her Today",
-      "url": "https://open.spotify.com/track/6qMgx8ys4MNNxypaIvbG0i"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Connie Smith",
         "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 140120,
       "name": "Once a Day",
       "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "He Stopped Loving Her Today",
+      "url": "https://open.spotify.com/track/6qMgx8ys4MNNxypaIvbG0i"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Chiseled In Stone",
-        "url": "https://open.spotify.com/album/5uiVA8AloRMncawS0H1cJP"
-      },
-      "artists": [
-        {
-          "name": "Vern Gosdin",
-          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Set 'Em Up Joe",
-      "url": "https://open.spotify.com/track/3NK1S43wIXbYhWHCjQOrnM"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "The Essential Jim Reeves",
         "url": "https://open.spotify.com/album/2pU9doTVvJH0xeZQnzvsPU"
       },
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0nFyIqvzHgoHPnIuDNbh0O"
+        "name": "Chiseled In Stone",
+        "url": "https://open.spotify.com/album/5uiVA8AloRMncawS0H1cJP"
       },
       "artists": [
         {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+          "name": "Vern Gosdin",
+          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Fishin' in the Dark",
-      "url": "https://open.spotify.com/track/15jhnquhNS1IZMlM493UBW"
+      "duration_ms": 145200,
+      "name": "Set 'Em Up Joe",
+      "url": "https://open.spotify.com/track/3NK1S43wIXbYhWHCjQOrnM"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
-      },
-      "artists": [
-        {
-          "name": "Johnny Paycheck",
-          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "I'm the Only Hell (Mama Ever Raised)",
-      "url": "https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "What Am I Gonna Do About You",
         "url": "https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 205866,
       "name": "One Promise Too Late",
       "url": "https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
+      },
+      "artists": [
+        {
+          "name": "Johnny Paycheck",
+          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "I'm the Only Hell (Mama Ever Raised)",
+      "url": "https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
+        "name": "Baby Don't Get Hooked On Me",
+        "url": "https://open.spotify.com/album/2xFMzRc1yucPQIk8P0CcxM"
+      },
+      "artists": [
+        {
+          "name": "Mac Davis",
+          "url": "https://open.spotify.com/artist/6HX8AbXUFaYRtlqKb4CCo0"
+        }
+      ],
+      "duration_ms": 183933,
+      "name": "Baby Don't Get Hooked on Me",
+      "url": "https://open.spotify.com/track/4z51Gf7Ppt9Lmu5zmnUIz9"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 200640,
       "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/5pdKPY4O9CHuzDDp557j4N"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
-        "name": "Baby Don't Get Hooked On Me",
-        "url": "https://open.spotify.com/album/2xFMzRc1yucPQIk8P0CcxM"
-      },
-      "artists": [
-        {
-          "name": "Mac Davis",
-          "url": "https://open.spotify.com/artist/6HX8AbXUFaYRtlqKb4CCo0"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "Baby Don't Get Hooked on Me",
-      "url": "https://open.spotify.com/track/4z51Gf7Ppt9Lmu5zmnUIz9"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Please Help Me I'm Falling",
-        "url": "https://open.spotify.com/album/299DU5FSU2gDdwKjDXc1Pi"
+        "name": "All-American Cowboy",
+        "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
       },
       "artists": [
         {
-          "name": "Hank Locklin",
-          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
+          "name": "Henson Cargill",
+          "url": "https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv"
         }
       ],
-      "duration_ms": 144866,
-      "name": "Please Help Me I'm Falling",
-      "url": "https://open.spotify.com/track/3eTYeAOll7LaINGjv9Fnvi"
+      "duration_ms": 160784,
+      "name": "Skip a Rope",
+      "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
     }
   ],
   "unique_name": "Classic Country Drive",

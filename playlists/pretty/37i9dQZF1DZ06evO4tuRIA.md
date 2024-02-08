@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,163 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,221 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 40 | [El Compa Ángel](https://open.spotify.com/track/0x0EuFuoOISC3ge1C58wHn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 3:09 |
 | 41 | [Traketeando \- En Vivo](https://open.spotify.com/track/6hKJLUCgTWYt989CLMbxOW) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Juan De Ron](https://open.spotify.com/artist/3yrMnFLhmMGBW37Nse1VQl) | [Traketeando \(En Vivo\)](https://open.spotify.com/album/2L0MqXft3PsJGmM8kuOrTL) | 3:02 |
 | 42 | [En Guadalajara \(feat\. Regulo Caro\)](https://open.spotify.com/track/10DlJh9Rjh9WEJR9XsF12r) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [En Guadalajara \(feat\. Regulo Caro\)](https://open.spotify.com/album/6i227sRqKcAUgVVozEnkzt) | 2:47 |
-| 43 | [El Señoron](https://open.spotify.com/track/38vFTLhNQ2Yp3IbNFLSvO8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:10 |
-| 44 | [Jardin Verde \(feat\. Hijos de Garcia & Fuerza Regida\)](https://open.spotify.com/track/10Je5SzWya58a2eTc8hQa8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Hijos de Garcia](https://open.spotify.com/artist/2kxD3bWlLEPzkqvBJkuoAZ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:14 |
+| 43 | [Jardin Verde \(feat\. Hijos de Garcia & Fuerza Regida\)](https://open.spotify.com/track/10Je5SzWya58a2eTc8hQa8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Hijos de Garcia](https://open.spotify.com/artist/2kxD3bWlLEPzkqvBJkuoAZ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:14 |
+| 44 | [El Señoron](https://open.spotify.com/track/38vFTLhNQ2Yp3IbNFLSvO8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:10 |
 | 45 | [Yo](https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [4\-20\-20](https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD) | 2:04 |
 | 46 | [Bienvenidos a Mazatlán](https://open.spotify.com/track/0OudDZ8yAnA3jVpqidvQfM) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Bienvenidos a Mazatlán](https://open.spotify.com/album/6mhhkzqhbG4jOBZQxARqOH) | 3:07 |
-| 47 | [Sigo en la mia](https://open.spotify.com/track/2yPbt23ToMNy7uG1OoVFJ5) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Sigo en la mía](https://open.spotify.com/album/36VsQrd5sP46avPx5v1idi) | 2:32 |
-| 48 | [Los Recuerdos \(feat\. Arsenal Efectivo\)](https://open.spotify.com/track/7kunViZSovu0ZkOcgg9LS8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 3:49 |
+| 47 | [Los Recuerdos \(feat\. Arsenal Efectivo\)](https://open.spotify.com/track/7kunViZSovu0ZkOcgg9LS8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 3:49 |
+| 48 | [Sigo en la mia](https://open.spotify.com/track/2yPbt23ToMNy7uG1OoVFJ5) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Sigo en la mía](https://open.spotify.com/album/36VsQrd5sP46avPx5v1idi) | 2:32 |
 | 49 | [En El Calorón](https://open.spotify.com/track/6N7TWCgpK7kRfpnyQ6yt5B) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [En El Calorón](https://open.spotify.com/album/7gPpeOQQNtZn90O5YvA7Ai) | 2:39 |
 | 50 | [El Baja](https://open.spotify.com/track/7hse5f1liZTWhrwBhPDkQ9) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [El Baja](https://open.spotify.com/album/2inidiXYQC6mt5XVFMV4GP) | 2:27 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDBjNjM3ZjU1YTczNjA4NTM0NDUyYThiYTUyY2E1MDlhOQ==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDAxZTRiNWFhZDkxMTUxY2JmYWNkMmZlNzZkYzgyOGE0Nw==`

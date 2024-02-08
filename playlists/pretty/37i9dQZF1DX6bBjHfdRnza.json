@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: Nikita, the Wicked. Artwork by Rewina Beshue.",
-  "num_followers": 167976,
+  "num_followers": 168099,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzBmMGU4MjgxMzg0NjJmOGU4M2JkNDRiODg2MjVlMWEyMjlkZjRm",
+  "snapshot_id": "MCxjYjgxZmU1NTg4NDA3MDliNjRiMDU3NjIzMmE0NjQwNzY1Mzk4MGU1",
   "tracks": [
     {
       "added_at": "2024-01-26 22:15:12",
@@ -25,6 +25,90 @@
       "url": "https://open.spotify.com/track/0fyatRJCPPj2V6maXthHIu"
     },
     {
+      "added_at": "2024-02-07 17:19:54",
+      "album": {
+        "name": "Don't Leave",
+        "url": "https://open.spotify.com/album/1023h6LdMEZq4bN9Iwu8dt"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Drinks On Me",
+          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/3nOooNnW2KRVS7D4OUPJId"
+    },
+    {
+      "added_at": "2024-01-31 17:37:47",
+      "album": {
+        "name": "Fly Day Chinatown",
+        "url": "https://open.spotify.com/album/3lxHfNxN40eJTVYtqcB2ak"
+      },
+      "artists": [
+        {
+          "name": "Stonsterr",
+          "url": "https://open.spotify.com/artist/7Lb9TlN4fxCIbc0HwrYLWP"
+        }
+      ],
+      "duration_ms": 172928,
+      "name": "Fly Day Chinatown",
+      "url": "https://open.spotify.com/track/0aEl0TBH9Lq1NOBJm9DPV7"
+    },
+    {
+      "added_at": "2024-01-10 18:34:55",
+      "album": {
+        "name": "Love At First Bite",
+        "url": "https://open.spotify.com/album/6pXrT4ANTvAEZK8ghZ5DV0"
+      },
+      "artists": [
+        {
+          "name": "Vampire Sex",
+          "url": "https://open.spotify.com/artist/2qP2zz3K0jWe9OP7v7KLVV"
+        }
+      ],
+      "duration_ms": 189792,
+      "name": "Disco Party Baby - Original Mix",
+      "url": "https://open.spotify.com/track/5IAaxB9xyH0T4JwQY2fg3W"
+    },
+    {
+      "added_at": "2024-02-07 17:19:54",
+      "album": {
+        "name": "Back 2 Life 2024 (Original Mix)",
+        "url": "https://open.spotify.com/album/6sNsBsiFhUog6oEFToZ5ut"
+      },
+      "artists": [
+        {
+          "name": "ANATTA",
+          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
+        }
+      ],
+      "duration_ms": 303750,
+      "name": "Back 2 Life 2024 - Original Mix",
+      "url": "https://open.spotify.com/track/5qQBfekdhjry5dDRzlNlDQ"
+    },
+    {
+      "added_at": "2024-02-07 17:19:54",
+      "album": {
+        "name": "Secret Agent",
+        "url": "https://open.spotify.com/album/0fhaC3wVOhEkNzHGmHCWhL"
+      },
+      "artists": [
+        {
+          "name": "Mr.Diamond",
+          "url": "https://open.spotify.com/artist/7tZrVSJlj3BmTYpQJim4c6"
+        }
+      ],
+      "duration_ms": 160629,
+      "name": "Secret Agent",
+      "url": "https://open.spotify.com/track/67QqFdwxeN7uz4enselJQV"
+    },
+    {
       "added_at": "2024-01-24 18:00:00",
       "album": {
         "name": "FIRST ENCOUNTER",
@@ -39,6 +123,38 @@
       "duration_ms": 169354,
       "name": "Boy, Empty",
       "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
+    },
+    {
+      "added_at": "2024-01-31 17:37:47",
+      "album": {
+        "name": "That's My Shit",
+        "url": "https://open.spotify.com/album/15C7YUmMrXy00kJB4Rlp5V"
+      },
+      "artists": [
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+        }
+      ],
+      "duration_ms": 115963,
+      "name": "That's My Shit",
+      "url": "https://open.spotify.com/track/0V3mQisaCvNV2EOxn1N29C"
+    },
+    {
+      "added_at": "2024-02-07 17:19:54",
+      "album": {
+        "name": "Hip Hop",
+        "url": "https://open.spotify.com/album/3urlJ2BqyoCqWpbf0Z50UA"
+      },
+      "artists": [
+        {
+          "name": "ATTICUS",
+          "url": "https://open.spotify.com/artist/6HyXfF5iDIPmNNXbg6729J"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Hip Hop - Radio Edit",
+      "url": "https://open.spotify.com/track/3Cik8tw5FI1DvsxLm2U51k"
     },
     {
       "added_at": "2024-01-10 18:34:55",
@@ -57,40 +173,84 @@
       "url": "https://open.spotify.com/track/30X8IKWPfADK3jt47GMyzj"
     },
     {
-      "added_at": "2024-01-31 17:37:47",
+      "added_at": "2024-02-07 17:19:54",
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/3v991d9HB0a1CMHmFgSu7q"
+        "name": "Eros",
+        "url": "https://open.spotify.com/album/75QVJiDzOyz7Pjpp7Vi3Hg"
       },
       "artists": [
         {
-          "name": "Cent",
-          "url": "https://open.spotify.com/artist/19k9TrKzU0Jq8UF5ROVK7d"
-        },
-        {
-          "name": "Katia B",
-          "url": "https://open.spotify.com/artist/4WmvFchREyHZdwvDlffQaU"
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
         }
       ],
-      "duration_ms": 189473,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/6kgVM1XFTsKsGvyzaMgIi2"
+      "duration_ms": 159272,
+      "name": "Eros",
+      "url": "https://open.spotify.com/track/3D0EaeT9iyT1g9Bt75KgtM"
     },
     {
-      "added_at": "2024-01-10 18:34:55",
+      "added_at": "2024-01-24 18:00:00",
       "album": {
-        "name": "Love At First Bite",
-        "url": "https://open.spotify.com/album/6pXrT4ANTvAEZK8ghZ5DV0"
+        "name": "Undo U (4x4 Mix)",
+        "url": "https://open.spotify.com/album/1Pdd6xpnSzMlfUjDogMhgO"
       },
       "artists": [
         {
-          "name": "Vampire Sex",
-          "url": "https://open.spotify.com/artist/2qP2zz3K0jWe9OP7v7KLVV"
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
         }
       ],
-      "duration_ms": 189792,
-      "name": "Disco Party Baby - Original Mix",
-      "url": "https://open.spotify.com/track/5IAaxB9xyH0T4JwQY2fg3W"
+      "duration_ms": 184835,
+      "name": "Undo U - 4x4 Mix",
+      "url": "https://open.spotify.com/track/4Jwmw6mn6D3oUPfptF7Ng7"
+    },
+    {
+      "added_at": "2024-01-17 17:00:00",
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/0C2cGhj3VS3hATJX16ODbl"
+      },
+      "artists": [
+        {
+          "name": "KevTheVirgo",
+          "url": "https://open.spotify.com/artist/3bQMjTGXTq7898vbwYzG8s"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/31SApxAPQqs89HUrz0DVFi"
+    },
+    {
+      "added_at": "2024-01-24 18:00:00",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/0TmsFeOuj0db0Mi4plBxB2"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "duration_ms": 150117,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/73hu23f3N0BQkwQ4Kp5aiq"
+    },
+    {
+      "added_at": "2024-02-07 17:19:54",
+      "album": {
+        "name": "without ur love",
+        "url": "https://open.spotify.com/album/1pjViRBeb37JuriN8ukcfX"
+      },
+      "artists": [
+        {
+          "name": "Midnight Dance Party",
+          "url": "https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj"
+        }
+      ],
+      "duration_ms": 231176,
+      "name": "without ur love",
+      "url": "https://open.spotify.com/track/4EZWt3NPTOoY9LBk7GuFmC"
     },
     {
       "added_at": "2024-01-31 17:37:47",
@@ -113,36 +273,24 @@
       "url": "https://open.spotify.com/track/2VdFZZtTKxcBWPFct0WxiX"
     },
     {
-      "added_at": "2024-01-31 17:37:47",
+      "added_at": "2024-02-07 17:19:54",
       "album": {
-        "name": "That's My Shit",
-        "url": "https://open.spotify.com/album/15C7YUmMrXy00kJB4Rlp5V"
+        "name": "Moment (Just a Little Longer)",
+        "url": "https://open.spotify.com/album/7Ak6gIYbRd86ovbxaTylXx"
       },
       "artists": [
         {
-          "name": "Biicla",
-          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
-        }
-      ],
-      "duration_ms": 115963,
-      "name": "That's My Shit",
-      "url": "https://open.spotify.com/track/0V3mQisaCvNV2EOxn1N29C"
-    },
-    {
-      "added_at": "2024-01-24 18:00:00",
-      "album": {
-        "name": "Undo U (4x4 Mix)",
-        "url": "https://open.spotify.com/album/1Pdd6xpnSzMlfUjDogMhgO"
-      },
-      "artists": [
+          "name": "Flourish",
+          "url": "https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7"
+        },
         {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+          "name": "CHAR",
+          "url": "https://open.spotify.com/artist/2eoOPfVAXP5jraE3VEbWon"
         }
       ],
-      "duration_ms": 184835,
-      "name": "Undo U - 4x4 Mix",
-      "url": "https://open.spotify.com/track/4Jwmw6mn6D3oUPfptF7Ng7"
+      "duration_ms": 174624,
+      "name": "Moment (Just a Little Longer)",
+      "url": "https://open.spotify.com/track/2zOv8eprFsEOcXg9YXE2pN"
     },
     {
       "added_at": "2024-01-31 17:37:47",
@@ -221,22 +369,6 @@
       "url": "https://open.spotify.com/track/1MNSnH2vMRV12gDZTGwFNN"
     },
     {
-      "added_at": "2024-01-17 17:00:00",
-      "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/0C2cGhj3VS3hATJX16ODbl"
-      },
-      "artists": [
-        {
-          "name": "KevTheVirgo",
-          "url": "https://open.spotify.com/artist/3bQMjTGXTq7898vbwYzG8s"
-        }
-      ],
-      "duration_ms": 176307,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/31SApxAPQqs89HUrz0DVFi"
-    },
-    {
       "added_at": "2024-01-10 18:34:55",
       "album": {
         "name": "ok",
@@ -269,6 +401,22 @@
       "url": "https://open.spotify.com/track/6CbZAYh6bOfahHkptyvc59"
     },
     {
+      "added_at": "2024-02-07 17:19:54",
+      "album": {
+        "name": "We Are The Risers",
+        "url": "https://open.spotify.com/album/0ZZZhM9g4uJKc50ziSWwPm"
+      },
+      "artists": [
+        {
+          "name": "Eli Mich",
+          "url": "https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj"
+        }
+      ],
+      "duration_ms": 204750,
+      "name": "We Are The Risers",
+      "url": "https://open.spotify.com/track/4fmjMZProIFigMcvyOILs6"
+    },
+    {
       "added_at": "2024-01-24 18:00:00",
       "album": {
         "name": "BANANAS",
@@ -283,54 +431,6 @@
       "duration_ms": 196440,
       "name": "BANANAS",
       "url": "https://open.spotify.com/track/3u1n0tFjgVtUblCLjcmJ9N"
-    },
-    {
-      "added_at": "2024-01-31 17:37:47",
-      "album": {
-        "name": "Fly Day Chinatown",
-        "url": "https://open.spotify.com/album/3lxHfNxN40eJTVYtqcB2ak"
-      },
-      "artists": [
-        {
-          "name": "Stonsterr",
-          "url": "https://open.spotify.com/artist/7Lb9TlN4fxCIbc0HwrYLWP"
-        }
-      ],
-      "duration_ms": 172928,
-      "name": "Fly Day Chinatown",
-      "url": "https://open.spotify.com/track/0aEl0TBH9Lq1NOBJm9DPV7"
-    },
-    {
-      "added_at": "2024-01-24 18:00:00",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/0TmsFeOuj0db0Mi4plBxB2"
-      },
-      "artists": [
-        {
-          "name": "Harry Hayes",
-          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
-        }
-      ],
-      "duration_ms": 150117,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/73hu23f3N0BQkwQ4Kp5aiq"
-    },
-    {
-      "added_at": "2024-01-10 18:34:55",
-      "album": {
-        "name": "Penrose Steps",
-        "url": "https://open.spotify.com/album/1s64tw9uaJxzcb4NTV2V0N"
-      },
-      "artists": [
-        {
-          "name": "Kaval",
-          "url": "https://open.spotify.com/artist/4z9kBOGYrer7Os0BWnPoWF"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Penrose Steps",
-      "url": "https://open.spotify.com/track/31x2mJGYk9LnhX1odUGlo8"
     },
     {
       "added_at": "2024-01-25 15:40:50",
@@ -365,6 +465,42 @@
       "url": "https://open.spotify.com/track/34EeNUgJprYyYYwU8VK4tD"
     },
     {
+      "added_at": "2024-02-07 17:19:54",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6wieUA3T0qkdvYMuuJCNu5"
+      },
+      "artists": [
+        {
+          "name": "Tori Pepper",
+          "url": "https://open.spotify.com/artist/09u9fSAUSjEhFmzEAukWxF"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/5oQrnn1LHTwY9Pgu0hM8ur"
+    },
+    {
+      "added_at": "2024-01-31 17:37:47",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/3v991d9HB0a1CMHmFgSu7q"
+      },
+      "artists": [
+        {
+          "name": "Cent",
+          "url": "https://open.spotify.com/artist/19k9TrKzU0Jq8UF5ROVK7d"
+        },
+        {
+          "name": "Katia B",
+          "url": "https://open.spotify.com/artist/4WmvFchREyHZdwvDlffQaU"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/6kgVM1XFTsKsGvyzaMgIi2"
+    },
+    {
       "added_at": "2024-01-24 18:00:00",
       "album": {
         "name": "Closer To",
@@ -379,6 +515,22 @@
       "duration_ms": 291555,
       "name": "Closer To",
       "url": "https://open.spotify.com/track/0Qgf2ph6bYXC0qqrNBdySz"
+    },
+    {
+      "added_at": "2024-02-07 17:19:54",
+      "album": {
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/532uFV2HW42vCobn9cJAwl"
+      },
+      "artists": [
+        {
+          "name": "neezyboy",
+          "url": "https://open.spotify.com/artist/15vmwcb1NmeosE2GIZMEPv"
+        }
+      ],
+      "duration_ms": 199713,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/5w10WIBH50ZLJmBB5jaGFc"
     },
     {
       "added_at": "2024-01-17 17:00:00",
@@ -411,26 +563,6 @@
       "duration_ms": 229777,
       "name": "Fate",
       "url": "https://open.spotify.com/track/68g8XQCURAg8Dt6D10l2jN"
-    },
-    {
-      "added_at": "2024-01-17 17:00:00",
-      "album": {
-        "name": "Club Nasty",
-        "url": "https://open.spotify.com/album/4QHa0lBMXURyTVTGMWSS34"
-      },
-      "artists": [
-        {
-          "name": "Jade Elliott",
-          "url": "https://open.spotify.com/artist/6ttM0s7Iwbj2AoLMYn439s"
-        },
-        {
-          "name": "Nothingspecial",
-          "url": "https://open.spotify.com/artist/3dvrTBzjvaQuWU6g48H8L2"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Club Nasty",
-      "url": "https://open.spotify.com/track/6tJUthWO8ajNTWt5icshy1"
     },
     {
       "added_at": "2024-01-10 18:34:55",
@@ -991,22 +1123,6 @@
     {
       "added_at": "2024-01-17 17:00:00",
       "album": {
-        "name": "Built Like That",
-        "url": "https://open.spotify.com/album/5jCHg8cJ6PXOxrDMkiw7Iq"
-      },
-      "artists": [
-        {
-          "name": "Dance Maniacs",
-          "url": "https://open.spotify.com/artist/4h9qpU3F5wHU8jfVmfNFTU"
-        }
-      ],
-      "duration_ms": 224345,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/03OOCITiM8YkBTQ4EAnqsj"
-    },
-    {
-      "added_at": "2024-01-17 17:00:00",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/0Q5E5QJi0FgZ4CsDXI43wl"
       },
@@ -1043,22 +1159,6 @@
       "duration_ms": 311677,
       "name": "U + I",
       "url": "https://open.spotify.com/track/09FZ0LqlfRfexYYpFF28wB"
-    },
-    {
-      "added_at": "2024-01-10 18:34:55",
-      "album": {
-        "name": "I'M GLAD I LET SUMMER GO",
-        "url": "https://open.spotify.com/album/7780jYdAwvF5G3ln0c4koQ"
-      },
-      "artists": [
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 126065,
-      "name": "Tokyo Funhouse",
-      "url": "https://open.spotify.com/track/20eeXJ58HYsGl5lwFaO6Pf"
     },
     {
       "added_at": "2024-01-10 18:34:55",
@@ -1107,22 +1207,6 @@
       "duration_ms": 142608,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4FaZ87ysFGzan5sRi8wMpR"
-    },
-    {
-      "added_at": "2024-01-10 18:34:55",
-      "album": {
-        "name": "S&S",
-        "url": "https://open.spotify.com/album/0LQAGs9rxsd7ODUIFWvF88"
-      },
-      "artists": [
-        {
-          "name": "seencj",
-          "url": "https://open.spotify.com/artist/5q4FP4Jyc9Y8OL0OGxibO0"
-        }
-      ],
-      "duration_ms": 112419,
-      "name": "S&S",
-      "url": "https://open.spotify.com/track/5Ye8IExHHnhvej4e5MCq3T"
     },
     {
       "added_at": "2024-01-10 18:34:55",
@@ -1211,22 +1295,6 @@
       "duration_ms": 185386,
       "name": "FLOATING",
       "url": "https://open.spotify.com/track/6OHvc0GYHV60gShKKYw350"
-    },
-    {
-      "added_at": "2024-01-10 18:34:55",
-      "album": {
-        "name": "closer to u",
-        "url": "https://open.spotify.com/album/1ZXyz6qwgUbhWMvhUyTGvE"
-      },
-      "artists": [
-        {
-          "name": "Midnight Dance Party",
-          "url": "https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj"
-        }
-      ],
-      "duration_ms": 259849,
-      "name": "closer to u",
-      "url": "https://open.spotify.com/track/4YCVbp6suJ2Ayk9EtWQJuR"
     },
     {
       "added_at": "2024-01-17 17:00:00",
@@ -1345,42 +1413,6 @@
       "url": "https://open.spotify.com/track/4OzmkADqSbUFs6gUtcJp8l"
     },
     {
-      "added_at": "2024-01-17 17:00:00",
-      "album": {
-        "name": "Touch Me (DJ Flavours Remix)",
-        "url": "https://open.spotify.com/album/0XaJLD1qdU7mnKwAL5xfE0"
-      },
-      "artists": [
-        {
-          "name": "jxck.",
-          "url": "https://open.spotify.com/artist/0zATKDFLvAIYmpXaxIcVA9"
-        },
-        {
-          "name": "DJ Flavours",
-          "url": "https://open.spotify.com/artist/3bmtZ1j2P3oUglpNjCdalu"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Touch Me - DJ Flavours Remix",
-      "url": "https://open.spotify.com/track/6tZw5mMv2QimFCouwlwQSQ"
-    },
-    {
-      "added_at": "2024-01-10 18:34:55",
-      "album": {
-        "name": "me & you",
-        "url": "https://open.spotify.com/album/2zTCgC6BaUHxEv9qdCLFk4"
-      },
-      "artists": [
-        {
-          "name": "AshZone",
-          "url": "https://open.spotify.com/artist/1eExjNGIU4ZCqk9gH8o1Pb"
-        }
-      ],
-      "duration_ms": 175877,
-      "name": "me & you",
-      "url": "https://open.spotify.com/track/7A3shHyoi2xBj1qs2XSziG"
-    },
-    {
       "added_at": "2024-01-10 18:34:55",
       "album": {
         "name": "Mountain Snow",
@@ -1411,38 +1443,6 @@
       "duration_ms": 213953,
       "name": "Look The Other Way",
       "url": "https://open.spotify.com/track/5x9tTch2LsMNPReORReT7I"
-    },
-    {
-      "added_at": "2024-01-10 18:34:55",
-      "album": {
-        "name": "Hyperdream",
-        "url": "https://open.spotify.com/album/54yMMbi29Ta7xnouSuEs6J"
-      },
-      "artists": [
-        {
-          "name": "Zorza",
-          "url": "https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "Hyperdream",
-      "url": "https://open.spotify.com/track/4bL2exKkLpkKveLKnIltSQ"
-    },
-    {
-      "added_at": "2024-01-10 18:34:55",
-      "album": {
-        "name": "Forward Step",
-        "url": "https://open.spotify.com/album/6uto8zjUa1Ght3zklDnqDi"
-      },
-      "artists": [
-        {
-          "name": "Sam Alfred",
-          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
-        }
-      ],
-      "duration_ms": 407213,
-      "name": "Forward Step",
-      "url": "https://open.spotify.com/track/1ftMMNpvUuhFQhyptugUpo"
     }
   ],
   "unique_name": "Fresh Finds Dance",

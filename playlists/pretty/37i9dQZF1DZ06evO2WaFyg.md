@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 
 > This is Young Thug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,894 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,957 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 50 | [Best Friend](https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Best Friend](https://open.spotify.com/album/4YqXHbPtEXINS3CBtKfCyO) | 3:33 |
 | 51 | [Parade on Cleveland \(feat\. Drake\)](https://open.spotify.com/track/05CTjmZKjZoCKQvM1Ldq9M) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:48 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDAxYzc3YTYzMDM3MjU3ZDdjODRjNTBkYjVmODg0M2E5Mw==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDAwMTU5YTY5OGY3ZGIxYWYxZWVjYWU2YzY2ZDQ1Y2FiNw==`

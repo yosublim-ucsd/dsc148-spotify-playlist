@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Marama, DJ Tao, Lauty Gram & Roze Oficial.",
-  "num_followers": 1187107,
+  "num_followers": 1187157,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDhlNDcxNDk0OTRjMGMyYzBmN2MwNTViMzE3M2ZlMDQ4ZjUxMDg4",
+  "snapshot_id": "MCw1ZTg1MTExMWMwNGJlY2NhNTdjYjVlNzVhZGEyNzg2M2NlNDBhOTM4",
   "tracks": [
     {
       "added_at": "2024-02-02 13:49:54",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-02-02 13:49:54",
       "album": {
-        "name": "De Fiesta",
-        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 131004,
-      "name": "Locuras contigo",
-      "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
-    },
-    {
-      "added_at": "2024-02-02 13:49:54",
-      "album": {
         "name": "Vida de Rico",
         "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 187426,
       "name": "Vida de Rico",
       "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
+    },
+    {
+      "added_at": "2024-02-02 13:49:54",
+      "album": {
+        "name": "De Fiesta",
+        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 131004,
+      "name": "Locuras contigo",
+      "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
     },
     {
       "added_at": "2024-02-02 13:49:54",
@@ -995,26 +995,6 @@
     {
       "added_at": "2024-02-02 13:49:54",
       "album": {
-        "name": "Cumbia Cheta",
-        "url": "https://open.spotify.com/album/5AStnZOfpqxI4IsemDUdkn"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        },
-        {
-          "name": "Cami Raj",
-          "url": "https://open.spotify.com/artist/18Kdk0oWKMg7P4601cD4dZ"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Cumbia Cheta",
-      "url": "https://open.spotify.com/track/5KTSHYA5CetGTZuRYYJcHi"
-    },
-    {
-      "added_at": "2024-02-02 13:49:54",
-      "album": {
         "name": "Mal de Amores",
         "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
       },
@@ -1035,6 +1015,22 @@
     {
       "added_at": "2024-02-02 13:49:54",
       "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 160733,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
+    },
+    {
+      "added_at": "2024-02-02 13:49:54",
+      "album": {
         "name": "Cumbia Baby!",
         "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
       },
@@ -1051,18 +1047,22 @@
     {
       "added_at": "2024-02-02 13:49:54",
       "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
+        "name": "Cumbia Cheta",
+        "url": "https://open.spotify.com/album/5AStnZOfpqxI4IsemDUdkn"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Cami Raj",
+          "url": "https://open.spotify.com/artist/18Kdk0oWKMg7P4601cD4dZ"
         }
       ],
-      "duration_ms": 160733,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
+      "duration_ms": 151500,
+      "name": "Cumbia Cheta",
+      "url": "https://open.spotify.com/track/5KTSHYA5CetGTZuRYYJcHi"
     },
     {
       "added_at": "2024-02-02 13:49:54",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2024-02-02 13:49:54",
       "album": {
-        "name": "Pasatiempo",
-        "url": "https://open.spotify.com/album/79S3lGLNc5komX3DBpmleq"
-      },
-      "artists": [
-        {
-          "name": "La China",
-          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
-        },
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        }
-      ],
-      "duration_ms": 197161,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/0ZRswNoAS92a45NQjypAxL"
-    },
-    {
-      "added_at": "2024-02-02 13:49:54",
-      "album": {
         "name": "TIT\u00c1N RMX",
         "url": "https://open.spotify.com/album/2j4F4W3z0k2E0kx1gsQ1Fr"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 269662,
       "name": "TIT\u00c1N RMX",
       "url": "https://open.spotify.com/track/7uFaga9WKgJ9Mrkhyybbut"
+    },
+    {
+      "added_at": "2024-02-02 13:49:54",
+      "album": {
+        "name": "Pasatiempo",
+        "url": "https://open.spotify.com/album/79S3lGLNc5komX3DBpmleq"
+      },
+      "artists": [
+        {
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "duration_ms": 197161,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/0ZRswNoAS92a45NQjypAxL"
     },
     {
       "added_at": "2024-02-02 13:49:54",
@@ -1395,26 +1395,18 @@
     {
       "added_at": "2024-02-02 13:49:54",
       "album": {
-        "name": "Flasheaste Amor",
-        "url": "https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO"
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
       },
       "artists": [
         {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        },
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        },
-        {
-          "name": "Lauro",
-          "url": "https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ"
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
         }
       ],
-      "duration_ms": 175263,
-      "name": "Flasheaste Amor",
-      "url": "https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C"
+      "duration_ms": 178573,
+      "name": "Bailan Rochas y Chetas",
+      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
     },
     {
       "added_at": "2024-02-02 13:49:54",
@@ -1479,18 +1471,26 @@
     {
       "added_at": "2024-02-02 13:49:54",
       "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
+        "name": "Flasheaste Amor",
+        "url": "https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO"
       },
       "artists": [
         {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        },
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        },
+        {
+          "name": "Lauro",
+          "url": "https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ"
         }
       ],
-      "duration_ms": 178573,
-      "name": "Bailan Rochas y Chetas",
-      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
+      "duration_ms": 175263,
+      "name": "Flasheaste Amor",
+      "url": "https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C"
     },
     {
       "added_at": "2024-02-02 13:49:54",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-02-02 13:49:54",
       "album": {
+        "name": "Piel a Piel",
+        "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
+      },
+      "artists": [
+        {
+          "name": "Dame 5",
+          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
+        }
+      ],
+      "duration_ms": 155350,
+      "name": "Piel a Piel",
+      "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
+    },
+    {
+      "added_at": "2024-02-02 13:49:54",
+      "album": {
         "name": "Se Pic\u00f3",
         "url": "https://open.spotify.com/album/6ohNtR3J1yNw2Cs7zFYZfN"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 139430,
       "name": "Se Pic\u00f3",
       "url": "https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP"
-    },
-    {
-      "added_at": "2024-02-02 13:49:54",
-      "album": {
-        "name": "Piel a Piel",
-        "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
-      },
-      "artists": [
-        {
-          "name": "Dame 5",
-          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
-        }
-      ],
-      "duration_ms": 155350,
-      "name": "Piel a Piel",
-      "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
     },
     {
       "added_at": "2024-02-02 13:49:54",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-02-02 13:49:54",
       "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 156325,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
-    },
-    {
-      "added_at": "2024-02-02 13:49:54",
-      "album": {
         "name": "DIOS ME PERDONE",
         "url": "https://open.spotify.com/album/3FthtqxiqcpsNiypZhUtRY"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 173548,
       "name": "DIOS ME PERDONE",
       "url": "https://open.spotify.com/track/7g9a6lnFy87FnToiWluG6v"
+    },
+    {
+      "added_at": "2024-02-02 13:49:54",
+      "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 156325,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
     },
     {
       "added_at": "2024-02-02 13:49:54",
@@ -1963,18 +1963,18 @@
     {
       "added_at": "2024-02-02 13:49:54",
       "album": {
-        "name": "Cachorro",
-        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
+        "name": "Ya No M\u00e1s",
+        "url": "https://open.spotify.com/album/1SnDAxojz0thet0EtNwP7e"
       },
       "artists": [
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 175909,
-      "name": "Cachorro",
-      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
+      "duration_ms": 140426,
+      "name": "Ya No M\u00e1s",
+      "url": "https://open.spotify.com/track/1NMPzsPosYJD13wunBmEAH"
     },
     {
       "added_at": "2024-02-02 13:49:54",
@@ -1995,18 +1995,18 @@
     {
       "added_at": "2024-02-02 13:49:54",
       "album": {
-        "name": "Ya No M\u00e1s",
-        "url": "https://open.spotify.com/album/1SnDAxojz0thet0EtNwP7e"
+        "name": "Cachorro",
+        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
       },
       "artists": [
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         }
       ],
-      "duration_ms": 140426,
-      "name": "Ya No M\u00e1s",
-      "url": "https://open.spotify.com/track/1NMPzsPosYJD13wunBmEAH"
+      "duration_ms": 175909,
+      "name": "Cachorro",
+      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
     },
     {
       "added_at": "2024-02-02 13:49:54",

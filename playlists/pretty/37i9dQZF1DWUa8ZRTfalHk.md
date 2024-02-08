@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > Who's now and next in pop\. Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,166,553 likes - 101 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,166,901 likes - 101 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 18 | [Dreaming](https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs) | 3:28 |
 | 19 | [How Much Longer?](https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How Much Longer?](https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV) | 4:03 |
 | 20 | [he loves me, he loves me not](https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [petals](https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb) | 2:37 |
-| 21 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
+| 21 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 |
 | 22 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 |
 | 23 | [Clarity](https://open.spotify.com/track/54fIT6FB4H6z3BJXQai1hm) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Clarity](https://open.spotify.com/album/49WXECyPBx84Kw0E33sjCY) | 2:17 |
 | 24 | [jesus christ in a mini skirt](https://open.spotify.com/track/16wWEwPTnnBwCFmwSx3bwd) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [jesus christ in a mini skirt](https://open.spotify.com/album/5ft44XKk2lkY2JX95a7drT) | 3:00 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 100 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 |
 | 101 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
 
-Snapshot ID: `MCwyNGQyYWYxZmFjNDg1NzFiNjdhOTU5ZmMzN2ViNzJmMTc4NzY1MDAz`
+Snapshot ID: `MCw4M2RlNDkwMDExOGE2YjFhYzg0YTdjNTdkNWY5Mjg0YmFiMzk1ZTlm`

@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Natalia Lafourcade y Kevin Johansen.",
-  "num_followers": 120951,
+  "num_followers": 120976,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzkzZjE0ZjIwYTc0OGYwMTIxMjAzZTVjZmYyOWY5OWEwMDFjMjFk",
+  "snapshot_id": "MCw2NjI2NGQ4ZDgxZjFjYWRkYWQ2NTkyMjc3ZTA0N2QzNjc1NzAyOWM1",
   "tracks": [
     {
       "added_at": "2024-02-02 06:00:00",
@@ -131,18 +131,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Perot\u00e1 Ching\u00f3",
-        "url": "https://open.spotify.com/album/5XmjAhsZGqo1jyxickY36s"
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
       "artists": [
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
         }
       ],
-      "duration_ms": 309044,
-      "name": "Rie Chinito",
-      "url": "https://open.spotify.com/track/2xtOCbkXoyEXS06TPG1fWd"
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Perot\u00e1 Ching\u00f3",
+        "url": "https://open.spotify.com/album/5XmjAhsZGqo1jyxickY36s"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 309044,
+      "name": "Rie Chinito",
+      "url": "https://open.spotify.com/track/2xtOCbkXoyEXS06TPG1fWd"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Tocando tierra",
         "url": "https://open.spotify.com/album/6ZMzud0Gsx7zhe6CSCWDET"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 253813,
       "name": "Semillas (con Perota Chingo)",
       "url": "https://open.spotify.com/track/7jC9oz02D4KHAd85ej8lUe"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "M\u00e1s Normal De Lo N... (83%)",
+        "url": "https://open.spotify.com/album/6PC2b8OigqaVPbTZMMENQW"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 262593,
+      "name": "En Vez de Huir",
+      "url": "https://open.spotify.com/track/4mB1OMRN8CnaAmWoW1wjba"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Borneo",
         "url": "https://open.spotify.com/album/5LRDEs05vm8LTRV5U7g1xc"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 194826,
       "name": "La Mirada",
       "url": "https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "M\u00e1s Normal De Lo N... (83%)",
-        "url": "https://open.spotify.com/album/6PC2b8OigqaVPbTZMMENQW"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 262593,
-      "name": "En Vez de Huir",
-      "url": "https://open.spotify.com/track/4mB1OMRN8CnaAmWoW1wjba"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/01Xe3VW1jvJEv9rngI9YEI"
+      },
+      "artists": [
+        {
+          "name": "Carla Collado",
+          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
+        },
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "duration_ms": 217787,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/4q8zBK2tiTaVKgzroaITdH"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
         "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
       },
@@ -1103,22 +1123,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Tu Casa",
-        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Tu Casa",
-      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Algo Ritmos",
         "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
       },
@@ -1135,22 +1139,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/01Xe3VW1jvJEv9rngI9YEI"
+        "name": "Tu Casa",
+        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
       },
       "artists": [
         {
-          "name": "Carla Collado",
-          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
-        },
-        {
-          "name": "Luis Ferc\u00e1n",
-          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
         }
       ],
-      "duration_ms": 217787,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/4q8zBK2tiTaVKgzroaITdH"
+      "duration_ms": 200213,
+      "name": "Tu Casa",
+      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1211,38 +1211,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Me mudo de casa",
-        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 244636,
-      "name": "Me mudo de casa",
-      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "En Las Olas",
-      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Soy lo que Doy",
         "url": "https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X"
       },
@@ -1263,22 +1231,34 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Los versos s\u00e1ficos",
-        "url": "https://open.spotify.com/album/6gOgdemsUT1qHDVMlEDmNi"
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
       },
       "artists": [
         {
-          "name": "Christina Rosenvinge",
-          "url": "https://open.spotify.com/artist/7MignPwWd7ZxlPi54KtLpp"
-        },
-        {
-          "name": "Maria Arnal",
-          "url": "https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm"
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         }
       ],
-      "duration_ms": 214823,
-      "name": "Canci\u00f3n de boda",
-      "url": "https://open.spotify.com/track/2bAofGOs0dpLpOtnhk6bqd"
+      "duration_ms": 202680,
+      "name": "En Las Olas",
+      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Me mudo de casa",
+        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 244636,
+      "name": "Me mudo de casa",
+      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1295,6 +1275,26 @@
       "duration_ms": 290250,
       "name": "Tratar\u00e9",
       "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Los versos s\u00e1ficos",
+        "url": "https://open.spotify.com/album/6gOgdemsUT1qHDVMlEDmNi"
+      },
+      "artists": [
+        {
+          "name": "Christina Rosenvinge",
+          "url": "https://open.spotify.com/artist/7MignPwWd7ZxlPi54KtLpp"
+        },
+        {
+          "name": "Maria Arnal",
+          "url": "https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm"
+        }
+      ],
+      "duration_ms": 214823,
+      "name": "Canci\u00f3n de boda",
+      "url": "https://open.spotify.com/track/2bAofGOs0dpLpOtnhk6bqd"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Casi tierra",
-        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
       },
       "artists": [
         {
-          "name": "Vicente Navarro",
-          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
         }
       ],
-      "duration_ms": 188405,
-      "name": "En el r\u00edo",
-      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+        "name": "Casi tierra",
+        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
       },
       "artists": [
         {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+          "name": "Vicente Navarro",
+          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
         }
       ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
+      "duration_ms": 188405,
+      "name": "En el r\u00edo",
+      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "lo_divino",
-        "url": "https://open.spotify.com/album/2g6RJzn4rdlFwB3UgCX63A"
-      },
-      "artists": [
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 201919,
-      "name": "lo_divino",
-      "url": "https://open.spotify.com/track/3cINNpglikeD4NAuTFMOaX"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Noviembre",
         "url": "https://open.spotify.com/album/30vftzA8hNmdZ8ncLZ6mCq"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 245426,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/5Rns0JAdfVtIVPvBBvPbXF"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "lo_divino",
+        "url": "https://open.spotify.com/album/2g6RJzn4rdlFwB3UgCX63A"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 201919,
+      "name": "lo_divino",
+      "url": "https://open.spotify.com/track/3cINNpglikeD4NAuTFMOaX"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Tabaibas",
-        "url": "https://open.spotify.com/album/170tXRY7ZmWpbvpFyryLL3"
-      },
-      "artists": [
-        {
-          "name": "Marilia Monz\u00f3n",
-          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
-        }
-      ],
-      "duration_ms": 232357,
-      "name": "Tabaibas",
-      "url": "https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Palabra",
         "url": "https://open.spotify.com/album/2mvupK1yZloMAMd35WrNxB"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 205181,
       "name": "Tu y yo",
       "url": "https://open.spotify.com/track/666OthmuNXcPPkJVGfNbnq"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Tabaibas",
+        "url": "https://open.spotify.com/album/170tXRY7ZmWpbvpFyryLL3"
+      },
+      "artists": [
+        {
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        }
+      ],
+      "duration_ms": 232357,
+      "name": "Tabaibas",
+      "url": "https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ"
     },
     {
       "added_at": "2024-02-02 06:00:00",

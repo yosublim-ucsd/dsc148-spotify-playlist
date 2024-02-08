@@ -1,12 +1,12 @@
 {
   "description": "Hits e cl\u00e1ssicos para jogar sua energia l\u00e1 em cima! ",
-  "num_followers": 733439,
+  "num_followers": 733554,
   "original_name": "ALTO ASTRAL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzdiYzVkYTYzN2E3ZTc1NGQ4NDAzZDdhYmIxMmU3MjBmYmExYTI3",
+  "snapshot_id": "MCw5Yzc2NGYzNjUwOGYyZDJjNGFiNDAzYjY5NmYwNjFhZWFkYzczMzI0",
   "tracks": [
     {
       "added_at": "2024-01-12 00:27:59",
@@ -155,26 +155,6 @@
     {
       "added_at": "2024-01-12 00:27:59",
       "album": {
-        "name": "One Kiss (with Dua Lipa)",
-        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 214846,
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2024-01-12 00:27:59",
-      "album": {
         "name": "Planet Pit (Deluxe Version)",
         "url": "https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 252306,
       "name": "Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",
       "url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
+    },
+    {
+      "added_at": "2024-01-12 00:27:59",
+      "album": {
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
       "added_at": "2024-01-12 00:27:59",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-01-12 00:27:59",
       "album": {
-        "name": "Camila",
-        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 217306,
-      "name": "Havana (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
-    },
-    {
-      "added_at": "2024-01-12 00:27:59",
-      "album": {
         "name": "Global Warming: Meltdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 229506,
       "name": "Feel This Moment (feat. Christina Aguilera)",
       "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
+    },
+    {
+      "added_at": "2024-01-12 00:27:59",
+      "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "Havana (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
     },
     {
       "added_at": "2024-01-12 00:27:59",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-01-12 00:27:59",
       "album": {
-        "name": "Onka's Big Moka",
-        "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
-      },
-      "artists": [
-        {
-          "name": "Toploader",
-          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
-        }
-      ],
-      "duration_ms": 232693,
-      "name": "Dancing in the Moonlight",
-      "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
-    },
-    {
-      "added_at": "2024-01-12 00:27:59",
-      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/2H66HrVR1UeMlAoSXpxUnk"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 212506,
       "name": "Down",
       "url": "https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE"
+    },
+    {
+      "added_at": "2024-01-12 00:27:59",
+      "album": {
+        "name": "Onka's Big Moka",
+        "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
+      },
+      "artists": [
+        {
+          "name": "Toploader",
+          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+        }
+      ],
+      "duration_ms": 232693,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
     },
     {
       "added_at": "2024-01-12 00:27:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,433 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,499 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 32 | [Señora](https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Vida Loca](https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa) | 3:24 |
 | 33 | [Simplemente Tú](https://open.spotify.com/track/6n5bmDFKf6PNPfyMBxYdyA) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Dicen](https://open.spotify.com/album/4H1sa79MAZ1neRpTKa5Idz) | 3:46 |
 | 34 | [Nada Personal](https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT), [Lisset](https://open.spotify.com/artist/3Nhah9QnvO4zqIsuQ1H6aW) | [Te Amo Tv \- Exitos Originales de las Telenovelas](https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG) | 3:11 |
-| 35 | [Niña Amada Mía](https://open.spotify.com/track/7AKMsgK6JGV4KEA4n6Bh1k) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Niña Amada Mia](https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu) | 3:12 |
-| 36 | [El Amor Manda](https://open.spotify.com/track/2pJYqi7AXzGfw6Tl3G8rZq) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [María José..\. De Noche](https://open.spotify.com/album/0yAXAYtFvoAV3j5FsL1eg4) | 3:48 |
+| 35 | [El Amor Manda](https://open.spotify.com/track/2pJYqi7AXzGfw6Tl3G8rZq) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [María José..\. De Noche](https://open.spotify.com/album/0yAXAYtFvoAV3j5FsL1eg4) | 3:48 |
+| 36 | [Niña Amada Mía](https://open.spotify.com/track/7AKMsgK6JGV4KEA4n6Bh1k) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Niña Amada Mia](https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu) | 3:12 |
 | 37 | [Alucinado](https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX) | [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Yahir](https://open.spotify.com/album/744vGdkALQFC1WoKzSm9G6) | 5:04 |
 | 38 | [Otra Vez](https://open.spotify.com/track/68dyhT3QFybWKDSRBDgKof) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:41 |
 | 39 | [Fiesta](https://open.spotify.com/track/2xl5JXBEbGrIzDa0RUqlPI) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 3:17 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 69 | [Contra Viento Y Marea](https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Super \#1's](https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh) | 3:40 |
 | 70 | [Ámame Como Soy \(En Vivo\)](https://open.spotify.com/track/3tc8mJk3KTTiSmmAQiqKz1) | [DKDA](https://open.spotify.com/artist/0nMUgbsNVXEOVBTB5JBoxb) | [Sueños de Juventud](https://open.spotify.com/album/4cQY4cujpOI7UvLj34JBbk) | 5:35 |
 
-Snapshot ID: `MCw1OWI2NDNlMDYxNWI5MDM3ZDg1ZGNmMmIzNGY4ZmQwZGU5MjIxZmZl`
+Snapshot ID: `MCxjYjJjZTZjY2M0YWQyN2E3ODM3MDYxOWZhOWJhODQ4NTRmMGYxOTFl`

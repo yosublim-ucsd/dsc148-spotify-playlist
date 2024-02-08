@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your rock/alt cheat sheet feat\. the 2024 Rock Artists to Watch  \| Cover: Softcult
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,402 likes - 102 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,546 likes - 102 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 4 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 |
 | 5 | [My Condition](https://open.spotify.com/track/7fV1C3qo5OUVxDIJX5GY9b) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:27 |
 | 6 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
-| 7 | [Fight Club](https://open.spotify.com/track/0FEFxWAXIdiOmoYUunbvmM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Fight Club](https://open.spotify.com/album/4Iz5KATqaPjcE8HxlwsHB6) | 3:37 |
+| 7 | [Fight Club](https://open.spotify.com/track/5UupaLxMiJS0dk06AldUGH) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:37 |
 | 8 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
 | 9 | [Hide Your Kids](https://open.spotify.com/track/7nRuVjmhfYCraHEhfgNv1j) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hide Your Kids](https://open.spotify.com/album/7cM1dj0HtCAGN85Fr7a7yc) | 2:15 |
 | 10 | [A Dozen Roses](https://open.spotify.com/track/5zfSxKmqBSKTaZjVkvPkmA) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [A Dozen Roses](https://open.spotify.com/album/1NjGLb0DCKNn086xUgQtCd) | 2:36 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 101 | [BACKSTABBER](https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [BACKSTABBER](https://open.spotify.com/album/1RFijpHOUqGPZ3hdvcm8IM) | 3:08 |
 | 102 | [Apollo](https://open.spotify.com/track/6NMUkluQ4ZI6XwGuqH2Z2n) | [Slow Fiction](https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW) | [Apollo](https://open.spotify.com/album/4x11dM49Sq4awkswFoJfoR) | 3:19 |
 
-Snapshot ID: `MCwzYmU5ZTE1MWI0NGNhY2Q3NGEwMjgwMGZhMDcxMzAwMjUzMjZiYzVm`
+Snapshot ID: `MCwwMjVjNTczNTE0ZTdkZjg0OGNmNDZjMDQ3NjhjMGU0MjU3ZWUwMzM0`

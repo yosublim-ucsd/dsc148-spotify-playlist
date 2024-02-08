@@ -1,12 +1,12 @@
 {
   "description": "\u5728KTV\u91cc\uff0c\u8fd9\u4e9b\u90fd\u662f\u5fc5\u70b9\u5fc5\u5531\u7684\u534e\u8bedK\u6b4c\u3002\u4f60\u51c6\u5907\u597d\u4e86\u5417\uff1f",
-  "num_followers": 145103,
+  "num_followers": 145117,
   "original_name": "\u4eba\u6c14K\u6b4c\u699c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDgyZmFlOTUxMDhmNjU1MzYyYjM2ZWIzZmJhYWRiMzE1YjA5ZGFi",
+  "snapshot_id": "MCwxZmE5MDI0OTM3MGZkZTAwYzFjMDdlYjgxNGY1ZjQxODRjYTg2N2Jh",
   "tracks": [
     {
       "added_at": "2023-11-27 06:00:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-11-27 06:00:00",
       "album": {
-        "name": "Ren\u7136",
-        "url": "https://open.spotify.com/album/2eAqOiX0rfSelLMLDfz3RT"
+        "name": "\u8449\u60e0\u7f8e",
+        "url": "https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla"
       },
       "artists": [
         {
-          "name": "Ren Ran",
-          "url": "https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc"
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 296006,
-      "name": "\u98de\u9e1f\u548c\u8749",
-      "url": "https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V"
+      "duration_ms": 269746,
+      "name": "\u6674\u5929",
+      "url": "https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm"
     },
     {
       "added_at": "2023-11-27 06:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-11-27 06:00:00",
       "album": {
-        "name": "\u8449\u60e0\u7f8e",
-        "url": "https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla"
+        "name": "Ren\u7136",
+        "url": "https://open.spotify.com/album/2eAqOiX0rfSelLMLDfz3RT"
       },
       "artists": [
         {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+          "name": "Ren Ran",
+          "url": "https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc"
         }
       ],
-      "duration_ms": 269746,
-      "name": "\u6674\u5929",
-      "url": "https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm"
+      "duration_ms": 296006,
+      "name": "\u98de\u9e1f\u548c\u8749",
+      "url": "https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V"
     },
     {
       "added_at": "2023-11-27 06:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-11-27 06:00:00",
       "album": {
-        "name": "LINK",
-        "url": "https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 318938,
-      "name": "\u646f\u53cb",
-      "url": "https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0"
-    },
-    {
-      "added_at": "2023-11-27 06:00:00",
-      "album": {
         "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein)",
         "url": "https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 320165,
       "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein) - \u96fb\u5f71<\u523b\u5728\u4f60\u5fc3\u5e95\u7684\u540d\u5b57>\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i"
+    },
+    {
+      "added_at": "2023-11-27 06:00:00",
+      "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 318938,
+      "name": "\u646f\u53cb",
+      "url": "https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0"
     },
     {
       "added_at": "2023-11-27 06:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-11-27 06:00:00",
       "album": {
-        "name": "\u5e7e\u5206\u4e4b\u5e7e",
-        "url": "https://open.spotify.com/album/2yBLZVs24cFju6t8Jrnpbx"
+        "name": "\u98db\u5152\u6a02\u5718",
+        "url": "https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ"
       },
       "artists": [
         {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+          "name": "F.I.R.",
+          "url": "https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu"
         }
       ],
-      "duration_ms": 228570,
-      "name": "\u5e7e\u5206\u4e4b\u5e7e - \u96fb\u5f71<\u82b1\u7532\u5927\u4eba\u8f49\u7537\u5b69>\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/4F7ZAsndEIJXyFzJUHNlRu"
+      "duration_ms": 287026,
+      "name": "\u6211\u5011\u7684\u611b",
+      "url": "https://open.spotify.com/track/0Q4YuuiCuxIIKUw2fb1cmV"
     }
   ],
   "unique_name": "\u4eba\u6c14K\u6b4c\u699c",

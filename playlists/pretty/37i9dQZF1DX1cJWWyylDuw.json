@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: Humanity's Last Breath",
-  "num_followers": 185069,
+  "num_followers": 185276,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2Y3YjFmNzEzNWExYjMxODIzZjg1YWVhY2JjNjY4MTdkYzBhYjA4",
+  "snapshot_id": "MCwwMTEyOTE4ODk3MjA4MTkxNmU4MDY1MWMxYWI3Y2ZhYjVjMzM0YWZk",
   "tracks": [
     {
       "added_at": "2024-01-30 15:19:18",
@@ -839,30 +839,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "What Slept Beneath Tarvos",
-        "url": "https://open.spotify.com/album/3gKiMXLCkU1X6RCQWeDsDm"
-      },
-      "artists": [
-        {
-          "name": "The Wise Man's Fear",
-          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
-        },
-        {
-          "name": "Left to Suffer",
-          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
-        },
-        {
-          "name": "Hollow Front",
-          "url": "https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe"
-        }
-      ],
-      "duration_ms": 200243,
-      "name": "What Slept Beneath Tarvos",
-      "url": "https://open.spotify.com/track/7B7rFrceWYUlWd6sbOSfH4"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "Pain Remains I: Dancing Like Flames",
         "url": "https://open.spotify.com/album/2HRhcuqmyel4Zn92eeE3Cg"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 230390,
       "name": "Boy",
       "url": "https://open.spotify.com/track/1w0ZidtOTM9Jx5WNuPLE42"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "What Slept Beneath Tarvos",
+        "url": "https://open.spotify.com/album/3gKiMXLCkU1X6RCQWeDsDm"
+      },
+      "artists": [
+        {
+          "name": "The Wise Man's Fear",
+          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
+        },
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        },
+        {
+          "name": "Hollow Front",
+          "url": "https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe"
+        }
+      ],
+      "duration_ms": 200243,
+      "name": "What Slept Beneath Tarvos",
+      "url": "https://open.spotify.com/track/7B7rFrceWYUlWd6sbOSfH4"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
+        "name": "Zwielicht",
+        "url": "https://open.spotify.com/album/2KYHW0qffmoyIQe9JibNIu"
+      },
+      "artists": [
+        {
+          "name": "Mental Cruelty",
+          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
+        }
+      ],
+      "duration_ms": 307526,
+      "name": "Obsessis a Daemonio",
+      "url": "https://open.spotify.com/track/5Cfpkql6atqov7YHVG7Py7"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
         "name": "Forest of Lust",
         "url": "https://open.spotify.com/album/2t51pbixg76sMxiLnCgiCt"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 238222,
       "name": "Forest of Lust",
       "url": "https://open.spotify.com/track/2OioZqscBMwmPXMQ2eS4Nj"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "Zwielicht",
-        "url": "https://open.spotify.com/album/2KYHW0qffmoyIQe9JibNIu"
-      },
-      "artists": [
-        {
-          "name": "Mental Cruelty",
-          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
-        }
-      ],
-      "duration_ms": 307526,
-      "name": "Obsessis a Daemonio",
-      "url": "https://open.spotify.com/track/5Cfpkql6atqov7YHVG7Py7"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Aeons of Oblivion",
-        "url": "https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr"
-      },
-      "artists": [
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        },
-        {
-          "name": "Adam Warren",
-          "url": "https://open.spotify.com/artist/7COUdKrNnwWJGxif3XxLDr"
-        }
-      ],
-      "duration_ms": 221446,
-      "name": "Aeons of Oblivion",
-      "url": "https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "Psalm of Agony",
         "url": "https://open.spotify.com/album/43JuQ1NBCuGI8dviLEQaly"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 212813,
       "name": "D.N.R.",
       "url": "https://open.spotify.com/track/3vckmBdhTb0QdZQ1vZXgVr"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "Aeons of Oblivion",
+        "url": "https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        },
+        {
+          "name": "Adam Warren",
+          "url": "https://open.spotify.com/artist/7COUdKrNnwWJGxif3XxLDr"
+        }
+      ],
+      "duration_ms": 221446,
+      "name": "Aeons of Oblivion",
+      "url": "https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
+        "name": "Death: An Anthology",
+        "url": "https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd"
+      },
+      "artists": [
+        {
+          "name": "Enterprise Earth",
+          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
+        },
+        {
+          "name": "Ben Duerr",
+          "url": "https://open.spotify.com/artist/7a1cpOUMFElbFHwLsArfEp"
+        }
+      ],
+      "duration_ms": 326256,
+      "name": "King of Ruination",
+      "url": "https://open.spotify.com/track/376ef3KNngU3ltVoqGPKvG"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
         "name": "Empty Heaven",
         "url": "https://open.spotify.com/album/0rgqlUWqbfPrenCXaTeytf"
       },
@@ -1483,6 +1503,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
+        "name": "Hellmouth",
+        "url": "https://open.spotify.com/album/42xWOp9Wymj0Wh21YKLkqD"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        }
+      ],
+      "duration_ms": 221810,
+      "name": "Hellmouth",
+      "url": "https://open.spotify.com/track/1w73E5RFnn02GBW4iZHuD6"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
         "name": "A Bloodsoaked Symphony",
         "url": "https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X"
       },
@@ -1515,18 +1551,18 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Hellmouth",
-        "url": "https://open.spotify.com/album/42xWOp9Wymj0Wh21YKLkqD"
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/1ywnN4cbTEzEidQxfKAFTN"
       },
       "artists": [
         {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
         }
       ],
-      "duration_ms": 221810,
-      "name": "Hellmouth",
-      "url": "https://open.spotify.com/track/1w73E5RFnn02GBW4iZHuD6"
+      "duration_ms": 216400,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/013gFBH6Qqs79Zbj7WOdsu"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1547,18 +1583,18 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/1ywnN4cbTEzEidQxfKAFTN"
+        "name": "Death: An Anthology",
+        "url": "https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd"
       },
       "artists": [
         {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+          "name": "Enterprise Earth",
+          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
         }
       ],
-      "duration_ms": 216400,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/013gFBH6Qqs79Zbj7WOdsu"
+      "duration_ms": 424532,
+      "name": "Casket of Rust",
+      "url": "https://open.spotify.com/track/6Ih7n4B7GWNw6TSkcDOTCP"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1595,6 +1631,38 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
+        "name": "Satanic Panic",
+        "url": "https://open.spotify.com/album/5MtCtbhIdjgxJRbk9slWJl"
+      },
+      "artists": [
+        {
+          "name": "Impending Doom",
+          "url": "https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Satanic Panic",
+      "url": "https://open.spotify.com/track/57KZXPyLADbF6S6Q8izGcZ"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "Fury",
+        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
+      },
+      "artists": [
+        {
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+        }
+      ],
+      "duration_ms": 186358,
+      "name": "Code of Honor",
+      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
         "name": "Fathomless Maw",
         "url": "https://open.spotify.com/album/6RdK7lIglSnuA9xLqwTyMM"
       },
@@ -1623,58 +1691,6 @@
       "duration_ms": 284635,
       "name": "When a Demon Defiles a Witch",
       "url": "https://open.spotify.com/track/5TxPQCs5RQ1340581L36NX"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "Fury",
-        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
-      },
-      "artists": [
-        {
-          "name": "Upon A Burning Body",
-          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
-        }
-      ],
-      "duration_ms": 186358,
-      "name": "Code of Honor",
-      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "Satanic Panic",
-        "url": "https://open.spotify.com/album/5MtCtbhIdjgxJRbk9slWJl"
-      },
-      "artists": [
-        {
-          "name": "Impending Doom",
-          "url": "https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Satanic Panic",
-      "url": "https://open.spotify.com/track/57KZXPyLADbF6S6Q8izGcZ"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "Death: An Anthology",
-        "url": "https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd"
-      },
-      "artists": [
-        {
-          "name": "Enterprise Earth",
-          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
-        },
-        {
-          "name": "Ben Duerr",
-          "url": "https://open.spotify.com/artist/7a1cpOUMFElbFHwLsArfEp"
-        }
-      ],
-      "duration_ms": 326256,
-      "name": "King of Ruination",
-      "url": "https://open.spotify.com/track/376ef3KNngU3ltVoqGPKvG"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1767,38 +1783,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Cut Off The Head",
-        "url": "https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv"
-      },
-      "artists": [
-        {
-          "name": "To The Grave",
-          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
-        }
-      ],
-      "duration_ms": 210352,
-      "name": "Cut off the Head",
-      "url": "https://open.spotify.com/track/3Dvk2S4NL3KYU4S4QRW8P8"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "Death: An Anthology",
-        "url": "https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd"
-      },
-      "artists": [
-        {
-          "name": "Enterprise Earth",
-          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
-        }
-      ],
-      "duration_ms": 424532,
-      "name": "Casket of Rust",
-      "url": "https://open.spotify.com/track/6Ih7n4B7GWNw6TSkcDOTCP"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "Days Before the World Wept",
         "url": "https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms"
       },
@@ -1815,38 +1799,18 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "From Ruin... We Rise",
-        "url": "https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW"
+        "name": "Cut Off The Head",
+        "url": "https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv"
       },
       "artists": [
         {
-          "name": "Shadow of Intent",
-          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
         }
       ],
-      "duration_ms": 290844,
-      "name": "From Ruin... We Rise",
-      "url": "https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "Plague Bringer (Inhuman Rework)",
-        "url": "https://open.spotify.com/album/46j3fZ4N5WVSUZFeyEGquH"
-      },
-      "artists": [
-        {
-          "name": "CABAL",
-          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
-        },
-        {
-          "name": "INHUMAN",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
-        }
-      ],
-      "duration_ms": 205562,
-      "name": "Plague Bringer - Inhuman Rework",
-      "url": "https://open.spotify.com/track/38iDyu6u4bhga9HoufGxX8"
+      "duration_ms": 210352,
+      "name": "Cut off the Head",
+      "url": "https://open.spotify.com/track/3Dvk2S4NL3KYU4S4QRW8P8"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1867,6 +1831,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
+        "name": "From Ruin... We Rise",
+        "url": "https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW"
+      },
+      "artists": [
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        }
+      ],
+      "duration_ms": 290844,
+      "name": "From Ruin... We Rise",
+      "url": "https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
         "name": "Culling Culture",
         "url": "https://open.spotify.com/album/3ILJRDzXPGR8104VfpAz0U"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 254000,
       "name": "Hideous",
       "url": "https://open.spotify.com/track/7aJcCmELuZ3Tqd19oVQD7n"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "Plague Bringer (Inhuman Rework)",
+        "url": "https://open.spotify.com/album/46j3fZ4N5WVSUZFeyEGquH"
+      },
+      "artists": [
+        {
+          "name": "CABAL",
+          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
+        },
+        {
+          "name": "INHUMAN",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+        }
+      ],
+      "duration_ms": 205562,
+      "name": "Plague Bringer - Inhuman Rework",
+      "url": "https://open.spotify.com/track/38iDyu6u4bhga9HoufGxX8"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Rot With Me",
-        "url": "https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz"
-      },
-      "artists": [
-        {
-          "name": "For the Likes of You",
-          "url": "https://open.spotify.com/artist/1IeBTpaPY7xQtxqbxXa9qC"
-        }
-      ],
-      "duration_ms": 286735,
-      "name": "Rot With Me",
-      "url": "https://open.spotify.com/track/19yntuiQGoYkKvhPTEPDf1"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "Burn in the Flood",
         "url": "https://open.spotify.com/album/1qBh6vpLqGU19T3ICllOp2"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 210840,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/5JSpp4LKuqnaR3f5MZVWrc"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "Rot With Me",
+        "url": "https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz"
+      },
+      "artists": [
+        {
+          "name": "For the Likes of You",
+          "url": "https://open.spotify.com/artist/1IeBTpaPY7xQtxqbxXa9qC"
+        }
+      ],
+      "duration_ms": 286735,
+      "name": "Rot With Me",
+      "url": "https://open.spotify.com/track/19yntuiQGoYkKvhPTEPDf1"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "The Price of Grace",
-        "url": "https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd"
-      },
-      "artists": [
-        {
-          "name": "Convictions",
-          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
-        }
-      ],
-      "duration_ms": 247282,
-      "name": "The Price of Grace",
-      "url": "https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "A Hill to Die Upon",
         "url": "https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 229000,
       "name": "King Ov Fire",
       "url": "https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "The Price of Grace",
+        "url": "https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd"
+      },
+      "artists": [
+        {
+          "name": "Convictions",
+          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
+        }
+      ],
+      "duration_ms": 247282,
+      "name": "The Price of Grace",
+      "url": "https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB"
-      },
-      "artists": [
-        {
-          "name": "Tactosa",
-          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
-        }
-      ],
-      "duration_ms": 191909,
-      "name": "Dead Pacifist",
-      "url": "https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "Tower of Torsos",
         "url": "https://open.spotify.com/album/2bPi3VonAP6mtglL6iKtfX"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 209437,
       "name": "Tower of Torsos",
       "url": "https://open.spotify.com/track/6RCgSGMboHdokG852OILQm"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB"
+      },
+      "artists": [
+        {
+          "name": "Tactosa",
+          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
+        }
+      ],
+      "duration_ms": 191909,
+      "name": "Dead Pacifist",
+      "url": "https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -2211,6 +2211,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
+        "name": "Dying Life",
+        "url": "https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 200629,
+      "name": "Dying Life",
+      "url": "https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
         "name": "Bestial Devastation",
         "url": "https://open.spotify.com/album/7daofMPFpO2A5zfIfWWJo3"
       },
@@ -2227,18 +2243,18 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Dying Life",
-        "url": "https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX"
+        "name": "Barren and Breathless Macrocosm",
+        "url": "https://open.spotify.com/album/5yOlm4DL4IfxA1EJotKHZz"
       },
       "artists": [
         {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
         }
       ],
-      "duration_ms": 200629,
-      "name": "Dying Life",
-      "url": "https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph"
+      "duration_ms": 296327,
+      "name": "Barren and Breathless Macrocosm",
+      "url": "https://open.spotify.com/track/3FlPw9Js3uGZQ0eNqWKtS3"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -2259,22 +2275,6 @@
       "duration_ms": 238208,
       "name": "Reapers",
       "url": "https://open.spotify.com/track/1KtGs6R84lkQGWWDYI3jqz"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "Barren and Breathless Macrocosm",
-        "url": "https://open.spotify.com/album/5yOlm4DL4IfxA1EJotKHZz"
-      },
-      "artists": [
-        {
-          "name": "Shadow of Intent",
-          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
-        }
-      ],
-      "duration_ms": 296327,
-      "name": "Barren and Breathless Macrocosm",
-      "url": "https://open.spotify.com/track/3FlPw9Js3uGZQ0eNqWKtS3"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5"
-      },
-      "artists": [
-        {
-          "name": "Within Destruction",
-          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
-        }
-      ],
-      "duration_ms": 228304,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/16COWH18tMTErphM5E58XH"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "Death Whistle",
         "url": "https://open.spotify.com/album/71IhKehJidjr8Phqa4R3U8"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 353138,
       "name": "Death Whistle",
       "url": "https://open.spotify.com/track/6t5wPcC3CtQjzn5O7i4yVg"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5"
+      },
+      "artists": [
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "duration_ms": 228304,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/16COWH18tMTErphM5E58XH"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -2375,6 +2375,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
+        "name": "Of Fury",
+        "url": "https://open.spotify.com/album/5NcU0oTUBbLjgBGI5aVYKP"
+      },
+      "artists": [
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        }
+      ],
+      "duration_ms": 287532,
+      "name": "Of Fury",
+      "url": "https://open.spotify.com/track/3fXkk7saX1dqX0o1dSWnvg"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
         "name": "No One's Above",
         "url": "https://open.spotify.com/album/3KUNHE5rZUUSLnLIcudqbH"
       },
@@ -2403,22 +2419,6 @@
       "duration_ms": 158365,
       "name": "The Cycle Of Violence : Chapter 1",
       "url": "https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "Of Fury",
-        "url": "https://open.spotify.com/album/5NcU0oTUBbLjgBGI5aVYKP"
-      },
-      "artists": [
-        {
-          "name": "Shadow of Intent",
-          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
-        }
-      ],
-      "duration_ms": 287532,
-      "name": "Of Fury",
-      "url": "https://open.spotify.com/track/3fXkk7saX1dqX0o1dSWnvg"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -2475,6 +2475,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
+        "name": "Malediction",
+        "url": "https://open.spotify.com/album/5ebvrBFdm6sSF9YPs4vfvy"
+      },
+      "artists": [
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        }
+      ],
+      "duration_ms": 340409,
+      "name": "Malediction",
+      "url": "https://open.spotify.com/track/0uT6SSzA93yxuWZea8bmxk"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
         "name": "The Blvck Sun || the Blood Moon",
         "url": "https://open.spotify.com/album/2IFyHzwVS0KBoplhLh5Bq9"
       },
@@ -2519,22 +2535,6 @@
       "duration_ms": 266908,
       "name": "Necromanteum",
       "url": "https://open.spotify.com/track/4BsyVbO7MkrVTJzBOQHS1M"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "Malediction",
-        "url": "https://open.spotify.com/album/5ebvrBFdm6sSF9YPs4vfvy"
-      },
-      "artists": [
-        {
-          "name": "Shadow of Intent",
-          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
-        }
-      ],
-      "duration_ms": 340409,
-      "name": "Malediction",
-      "url": "https://open.spotify.com/track/0uT6SSzA93yxuWZea8bmxk"
     }
   ],
   "unique_name": "Deathcore",

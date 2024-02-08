@@ -1117,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3F6LzIUy8kBTnmM6sWAMdr"
+      },
+      "artists": [
+        {
+          "name": "Young Egypt",
+          "url": "https://open.spotify.com/artist/1SkSmIdJFSJuKNChsKLEYD"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275285,
+      "name": "Can't Believe",
+      "url": "https://open.spotify.com/track/3fFJxd7Y5idzuuJzL6ykm1"
+    },
+    {
+      "album": {
         "name": "Light Of Day",
         "url": "https://open.spotify.com/album/5jp7IiLD8lRVVmf8gfeHOV"
       },

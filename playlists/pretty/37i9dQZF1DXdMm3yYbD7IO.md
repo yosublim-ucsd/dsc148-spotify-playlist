@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 
 > Move your body with your favorite 90s songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,508 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,858 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 48 | [Macarena \- Bayside Boys Remix](https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:12 |
 | 49 | [You Got The Love \- New Voyager Radio Edit](https://open.spotify.com/track/1otmOO4ilwTSIUDBnR6wCF) | [The Source & Candi Staton](https://open.spotify.com/artist/2xkmkfqXFQHMk0zhFXMUq6), [The Source](https://open.spotify.com/artist/25EAVXsff9L7LHy7UIsPbR), [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et), [Now Voyager](https://open.spotify.com/artist/5xC2m2EMWiVEgnAToVZku0) | [You Got the Love](https://open.spotify.com/album/2FkSbzjwgmF6KvU2tQCOgs) | 3:13 |
 | 50 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
-| 51 | [Whoomp! There It Is \- Radio Edit](https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb) | [Tag Team](https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g) | [Whoomp! There It Is \(Radio Edit\)](https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw) | 3:45 |
-| 52 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 |
+| 51 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 |
+| 52 | [Whoomp! There It Is \- Radio Edit](https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb) | [Tag Team](https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g) | [Whoomp! There It Is \(Radio Edit\)](https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw) | 3:45 |
 | 53 | [Freedom! '90](https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 6:28 |
 | 54 | [Now That We Found Love](https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3), [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [Peaceful Journey](https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY) | 4:18 |
 | 55 | [Everybody \(Backstreet's Back\) \- Extended Version](https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 74 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
 | 75 | [100% Pure Love](https://open.spotify.com/track/66X03EIfE1zm99rd4SfL71) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Storyteller](https://open.spotify.com/album/2xDEMlTlGMbTjZgpIcSfs5) | 4:40 |
 
-Snapshot ID: `MCwxZWY0ZmY0YzBhN2U2ZWRhMDE0YmRmZmFkODU2YjMwOGFhNjllYTEz`
+Snapshot ID: `MCw5ZjdjZDE3YjdlYjQ3YTE2NDE3MTc1YzcyYmFmMTliZjdkNjgyM2E3`

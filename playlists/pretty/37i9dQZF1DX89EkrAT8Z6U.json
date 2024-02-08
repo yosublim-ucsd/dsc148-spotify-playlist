@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 957017,
+  "num_followers": 958570,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmI2YWY4NjdmNWQ3ZDZjOGYyNmZlMDk5OGQ1ZTgxZTA1YTIxMGE2",
+  "snapshot_id": "MCwxYTcwM2NhOWJmYjMzNTRlNDBmMTA4ZWQ2MTE3MGM3ZjAyNmRjYjIz",
   "tracks": [
     {
       "added_at": "2024-01-12 18:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "Bombs Away",
-        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
-      },
-      "artists": [
-        {
-          "name": "Shotgun Willy",
-          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Bombs Away",
-      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "vampire heart",
         "url": "https://open.spotify.com/album/778RLWDdeeU7mudGxRLyQV"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 144000,
       "name": "vampire heart",
       "url": "https://open.spotify.com/track/6Ql2mpc1EbGp0GI6CbaGT4"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Bombs Away",
+      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "50k",
-        "url": "https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe"
-      },
-      "artists": [
-        {
-          "name": "YNG Martyr",
-          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "50k",
-      "url": "https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "2077",
         "url": "https://open.spotify.com/album/4aGax9S99B53Pm8oxwzHR0"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 135074,
       "name": "2077",
       "url": "https://open.spotify.com/track/4Gr9pPieF9ZVUxBB8vF1gy"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "50k",
+        "url": "https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe"
+      },
+      "artists": [
+        {
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "50k",
+      "url": "https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh"
     },
     {
       "added_at": "2024-01-12 18:00:00",

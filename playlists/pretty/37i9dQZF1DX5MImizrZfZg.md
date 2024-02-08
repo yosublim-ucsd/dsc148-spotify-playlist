@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,575 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,592 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 44 | [Just Like The First Time](https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV) | [Kevin Toney](https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0) | [110 Degrees and Rising](https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU) | 4:39 |
 | 45 | [Tale of Two Cities](https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Talk of the Town](https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7) | 4:15 |
 | 46 | [Honey\-Dipped](https://open.spotify.com/track/4kpXER4nOWUIbqm4iYs6sr) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Saxophonic](https://open.spotify.com/album/1AXGtTurzbPDCyOftQdS7l) | 4:23 |
-| 47 | [So Divine](https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Both Sides](https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9) | 4:55 |
-| 48 | [4 On The Floor](https://open.spotify.com/track/1vYBGXVfENemD4GnAIR8JN) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Kickin' It Up](https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB) | 4:27 |
+| 47 | [4 On The Floor](https://open.spotify.com/track/1vYBGXVfENemD4GnAIR8JN) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Kickin' It Up](https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB) | 4:27 |
+| 48 | [So Divine](https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Both Sides](https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9) | 4:55 |
 | 49 | [Say Something](https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs) | [Shilts](https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2) | [HeadBoppin \(with bonus track\)](https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE) | 4:08 |
 | 50 | [Floor & More](https://open.spotify.com/track/1mivhcSDSj80huBoFP0Mtd) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9) | [Off The Record](https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo) | 5:04 |
 
-Snapshot ID: `MCxjMjgzYzhkYTdjZjMyNTUzZmFhZGM4OTI0ZTNlZDEyMjIwYjRkNmM4`
+Snapshot ID: `MCxlZjU2YmUxZDZkMDI2YTZlOGU4ZGEzMjc5ZjZhMGJmNWRlZDVlZDEz`

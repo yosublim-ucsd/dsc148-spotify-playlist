@@ -2,7 +2,7 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: YUGYEOM\(유겸\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: JMIN\)
 
 295 songs - 16 hr 27 min
 

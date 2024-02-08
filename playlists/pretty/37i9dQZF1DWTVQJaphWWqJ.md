@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 
 > Sólo clásicos tropicales.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,355 likes - 60 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,358 likes - 60 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 | 31 | [El Jardín Prohibido](https://open.spotify.com/track/5ucu31GZ6Sxw5K8OgrFTxI) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/6MCkKGtuyBZRfS1xvH3mvr) | 5:25 |
 | 32 | [La Tanga](https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Internacional](https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3) | 4:27 |
 | 33 | [Píntame](https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Pintame](https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB) | 4:19 |
-| 34 | [Era Mentira](https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sin Medir Distancia](https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq) | 4:39 |
-| 35 | [Obsesión \(feat\. Ramiro Better\)](https://open.spotify.com/track/4yc290Q5nIELODhKyntBhP) | [Estrellas Vallenatas](https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7), [Ramiro Better](https://open.spotify.com/artist/1zCl36J3uAuup64ADqK5Pw) | [Homenaje](https://open.spotify.com/album/4CCxY26bO2H9QJe0Y71l1u) | 3:34 |
+| 34 | [Obsesión \(feat\. Ramiro Better\)](https://open.spotify.com/track/4yc290Q5nIELODhKyntBhP) | [Estrellas Vallenatas](https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7), [Ramiro Better](https://open.spotify.com/artist/1zCl36J3uAuup64ADqK5Pw) | [Homenaje](https://open.spotify.com/album/4CCxY26bO2H9QJe0Y71l1u) | 3:34 |
+| 35 | [Era Mentira](https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sin Medir Distancia](https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq) | 4:39 |
 | 36 | [Nadie Se Muere](https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Los Reyes Del Ritmo](https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o) | 3:52 |
 | 37 | [Desnúdate Mujer](https://open.spotify.com/track/5gH9swPA4CDuuRrXeKkvPX) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Tú Me Vuelves Loco \(Baile Total\)](https://open.spotify.com/album/7kt8nJfzerlsCFzYyFiuz5) | 4:49 |
 | 38 | [Dime Que Me Quieres](https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw) | [Grupo Vallenato](https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE) | [Vallenato Fest](https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06) | 5:16 |
 | 39 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
-| 40 | [Volveré](https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 |
-| 41 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 |
+| 40 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 |
+| 41 | [Volveré](https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 |
 | 42 | [Pagina de Amor](https://open.spotify.com/track/1UaejyfrYuAdGMXCwwwMpg) | [Tito Gomez](https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2) | [Alma de Cantante Errante](https://open.spotify.com/album/79dxsQGu6nJoSWN5Tqyp4S) | 5:00 |
 | 43 | [Ni Tu Ni Yo](https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Mi Propuesta 1996](https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT) | 4:39 |
 | 44 | [Entre La Espada y La Pared](https://open.spotify.com/track/0342wDs42Efmi0BuaWO6zA) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Entre La Espada Y La Pared](https://open.spotify.com/album/6BfyCa897cBsKTTRqqnD1E) | 5:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 | 59 | [Pa Que No Me Anden Contando](https://open.spotify.com/track/1odaQJhkdgCSVOycO1GMG6) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Pa Que No Me Anden Contando](https://open.spotify.com/album/5LC1wJDkiZN0AIJFEtEPPO) | 2:09 |
 | 60 | [No Pude Quitarte las Espinas](https://open.spotify.com/track/0kboeujB0vMltPld2uhRPR) | [Erick Escobar Nayo Quintero Y La Decision Vallenata](https://open.spotify.com/artist/1fWDfU0nNn9izFAjKDaMWO) | [Vallenatos Bonitos Bonitos](https://open.spotify.com/album/3zwrFhwgWu2efe7YcS68zn) | 3:55 |
 
-Snapshot ID: `MCw4ZjRjMTRlMWRjYWRjODNlYjMxZDgxZTQ1OWRlZDk3NjVmNDE2MWYy`
+Snapshot ID: `MCxlYmZmZWY5Njg0MTc4YzIwZDk2MmMwZWNlZWY0OWM1Y2U3YTM5MmU1`

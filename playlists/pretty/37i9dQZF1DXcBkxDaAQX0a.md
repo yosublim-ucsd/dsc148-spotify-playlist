@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,700 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,733 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 41 | [Dammit \(Acoustic\)](https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Dammit \(Acoustic\)](https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC) | 4:01 |
 | 42 | [Fashion Forward \(Acoustic\)](https://open.spotify.com/track/3dat7ilaCtUw5uqHbZs8Vc) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Fashion Forward \(Acoustic\)](https://open.spotify.com/album/6N4FN2emskAPc2OVbErRnj) | 3:42 |
 | 43 | [Aquamarine \(Acoustic\)](https://open.spotify.com/track/0HU0bozP9c79zhdEvJw8ls) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [The Afterglow / Aquamarine](https://open.spotify.com/album/1mBqUWC3jWAzjOXcId04LN) | 3:52 |
-| 44 | [Transient \(acoustic\)](https://open.spotify.com/track/5tVtDLvrpsn4hhpMkipK1j) | [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Transient \(acoustic\)](https://open.spotify.com/album/6hArGQoERO4x7t1QLtUzXs) | 4:20 |
-| 45 | [Monsters \- Acoustic \- Live From Lockdown](https://open.spotify.com/track/141C5AoyVsKC7vrKtiILTV) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Monsters \(Acoustic \- Live From Lockdown\)](https://open.spotify.com/album/6dP9IbytNzRKcHJZXkjKis) | 3:03 |
+| 44 | [Monsters \- Acoustic \- Live From Lockdown](https://open.spotify.com/track/141C5AoyVsKC7vrKtiILTV) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Monsters \(Acoustic \- Live From Lockdown\)](https://open.spotify.com/album/6dP9IbytNzRKcHJZXkjKis) | 3:03 |
+| 45 | [Transient \(acoustic\)](https://open.spotify.com/track/5tVtDLvrpsn4hhpMkipK1j) | [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Transient \(acoustic\)](https://open.spotify.com/album/6hArGQoERO4x7t1QLtUzXs) | 4:20 |
 | 46 | [Crying out Loud](https://open.spotify.com/track/3b5xqoWMD6W0oW814guCqs) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Unplugged](https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV) | 3:43 |
 | 47 | [Patience](https://open.spotify.com/track/3Tdm0rR9xKlHDVr6QY1dYU) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv) | 3:45 |
 | 48 | [You Were The Letdown \(Chasing California\)](https://open.spotify.com/track/2NAbdrFwUnXIxBIcl86SZo) | [Oh, Weatherly](https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ) | [Lips Like Oxygen Reimagined](https://open.spotify.com/album/1v6ISjeumbCrVJ3FEOyOoX) | 3:11 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 62 | [Wax Poetic \(Acoustic\)](https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Haunted](https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC) | 3:29 |
 | 63 | [10 Am](https://open.spotify.com/track/104sjKzfCfEVL3ppGjOah2) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Unplugged](https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV) | 3:34 |
 | 64 | [Dakota \(Reimagined\)](https://open.spotify.com/track/3Rkpb1WRkkFD7AlFjNZf1i) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Reimagined](https://open.spotify.com/album/3VCobudBxR70a4fngXZFLe) | 3:19 |
-| 65 | [sleepwalking](https://open.spotify.com/track/4VLX1i52yOU3uDUz3xYNgz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt), [Mike Kinsella](https://open.spotify.com/artist/65MqFenJZqxNAPxnEATV8U) | [sleepwalking](https://open.spotify.com/album/7iNFE8xqEEOBl6gOwcDFoI) | 3:35 |
-| 66 | [Dial Tones \- Acoustic Version](https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Never Happy, Ever After \(Deluxe Edition\)](https://open.spotify.com/album/1yQpnfhLfNZTZi85osX4W4) | 3:24 |
+| 65 | [Dial Tones \- Acoustic Version](https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Never Happy, Ever After \(Deluxe Edition\)](https://open.spotify.com/album/1yQpnfhLfNZTZi85osX4W4) | 3:24 |
+| 66 | [sleepwalking](https://open.spotify.com/track/4VLX1i52yOU3uDUz3xYNgz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt), [Mike Kinsella](https://open.spotify.com/artist/65MqFenJZqxNAPxnEATV8U) | [sleepwalking](https://open.spotify.com/album/7iNFE8xqEEOBl6gOwcDFoI) | 3:35 |
 | 67 | [Smokestack](https://open.spotify.com/track/6uRRWR5s0vOofSzL7UPB8d) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 2:36 |
 | 68 | [Teeth](https://open.spotify.com/track/2MFsaQN0JMrAoQDmpIDv0C) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Teeth](https://open.spotify.com/album/5AxRjl0PvsKU9FTGuIZkDx) | 3:28 |
 | 69 | [In the End](https://open.spotify.com/track/5E6Gb7lBgkbtmK97EAL9OO) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [Daydreamer](https://open.spotify.com/album/4rWQEhE0VdEbwniGwhaazp) | 3:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [The Eulogy of You and Me \- Acoustic](https://open.spotify.com/track/4TiXtzotMUHwn8ylMowMNl) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [The Eulogy of You and Me \(Acoustic\)](https://open.spotify.com/album/7LkoDMiD7dXSQF6tyYt6OR) | 3:11 |
 | 75 | [Wolf In Sheep’s Clothing \- Acoustic](https://open.spotify.com/track/7k6wAmfKKU1HY09PO3dbtc) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 3:52 |
 
-Snapshot ID: `MCw3MTg5NThiMWVkODE1ZjRjMjMwNDBlOTQwNTVjZjYwMTJkYjQ1YjU0`
+Snapshot ID: `MCxjZjVhNDFjNDdjMjRkMjNjNTFlNmZiM2Y3ZTg3ZjQ5OTI5NThjNDE5`

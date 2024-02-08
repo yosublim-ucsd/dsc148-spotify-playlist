@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-710 songs - 1 day 7 hr 56 min
+711 songs - 1 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,6 +627,7 @@
 | [tears](https://open.spotify.com/track/4nencs47cFrR4MOTSx1OgK) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [DNAII](https://open.spotify.com/album/6rScN72pRIcQkYn9YJpHgF) | 2:24 | 2024-01-25 |  |
 | [temptation](https://open.spotify.com/track/4JPnlef6iWbmpmDoEXZcRe) | [4ten](https://open.spotify.com/artist/4eu1vzFHLQk5a5vV4omCe3) | [temptation](https://open.spotify.com/album/4dbGZLA8Q1WP4gkvqHB53N) | 3:38 | 2022-07-21 | 2023-03-04 |
 | [Tequila at midnight](https://open.spotify.com/track/6LybfPtenqFNvld1swgrKU) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Bar counter](https://open.spotify.com/album/6iwVxTLfB1mu2pSHt34STB) | 1:52 | 2022-02-03 | 2022-09-19 |
+| [thank you](https://open.spotify.com/track/2HC8XxoSzx8u1fy0F2sRtZ) | [TSUTCHIE](https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY) | [samurai champloo music record playlist](https://open.spotify.com/album/49mMypOEixRaJ26rZGbvnI) | 4:15 | 2024-02-06 |  |
 | [Thankful](https://open.spotify.com/track/4EedntG2oTsHGjDNVldyqj) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn) | [Wake Up](https://open.spotify.com/album/5QIRw20KA0LEOTVBhUm5VE) | 2:00 | 2022-03-31 | 2022-04-16 |
 | [The Answer \(from\)](https://open.spotify.com/track/2lrMcnt8NOLKyVvYgJIpd3) | [KOTARO SAITO](https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX) | [The Answer](https://open.spotify.com/album/4akg02EFGvrpQePOCgo6iO) | 2:24 | 2021-12-23 | 2022-01-27 |
 | [The Black Cat](https://open.spotify.com/track/2vsmgJtLMx0HiQX9JWzYDe) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [The Black Cat](https://open.spotify.com/album/7tEUtlosnY6o9TOpwXLo1H) | 1:52 | 2021-12-23 |  |
@@ -639,7 +640,7 @@
 | [timeless](https://open.spotify.com/track/5G0hroWVqRyvYt1vtdc2YU) | [Tokoyo](https://open.spotify.com/artist/1uRrPMRitqSxmERD5N5NWF), [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS) | [timeless](https://open.spotify.com/album/2jq6cl9x3iATAkHPLQG92K) | 2:52 | 2021-12-23 | 2022-07-25 |
 | [timmit \(HIRAKU YAMAMOTO tim←metro→mit REMIX\)](https://open.spotify.com/track/1GpnpwnjedpwMLmpnNx2VE) | [NABOWA](https://open.spotify.com/artist/2RoKrXDjKFkqCTtmIwtAha) | [timmit \(HIRAKU YAMAMOTO tim←metro→mit REMIX\)](https://open.spotify.com/album/3yr3bD3xk9IA8xwDkc7zZ2) | 3:53 | 2021-12-23 | 2022-07-29 |
 | [Tokyo Lounge](https://open.spotify.com/track/5zGVjMpbSAdMLgvYewOup5) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK), [Babouk](https://open.spotify.com/artist/2DX3vCsOZOQBwXlQPvpSYb) | [Tokyo Lounge](https://open.spotify.com/album/4gjvinjabrTIwxC3kiJv5b) | 3:50 | 2021-12-23 | 2022-02-11 |
-| [Tokyo Mornings](https://open.spotify.com/track/0vNjMAfi6DB5HahsQjo4D7) | [Akimitsu](https://open.spotify.com/artist/3Clf0gHl3UQ2r5rFlTrfku) | [Memories From Tokyo](https://open.spotify.com/album/2xDTXfIQ5s6693qNEdwohZ) | 1:32 | 2022-01-13 |  |
+| [Tokyo Mornings](https://open.spotify.com/track/0vNjMAfi6DB5HahsQjo4D7) | [Akimitsu](https://open.spotify.com/artist/3Clf0gHl3UQ2r5rFlTrfku) | [Memories From Tokyo](https://open.spotify.com/album/2xDTXfIQ5s6693qNEdwohZ) | 1:32 | 2022-01-13 | 2024-02-08 |
 | [Tokyo State of Mind \- Instrumental](https://open.spotify.com/track/4jRYRpw7YTLPrxrRqxnowU) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [Beats Only Part.Ⅰ](https://open.spotify.com/album/5S7d7U3lrxUS6tZwwSnn4P) | 2:13 | 2021-12-23 | 2022-07-27 |
 | [tombi](https://open.spotify.com/track/7D9fL5OnKFxUG9e5PMNBF1) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [tombi](https://open.spotify.com/album/4IF7VEO4FXEzQ8t04qI6xz) | 2:20 | 2023-11-09 | 2023-11-24 |
 | [tomoshibi](https://open.spotify.com/track/7H26mrFeD2oE8cJu0BroBy) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [tomoshibi](https://open.spotify.com/album/1OzUBhA1PotfdYvF4ED2LP) | 3:07 | 2022-08-11 | 2023-05-05 |

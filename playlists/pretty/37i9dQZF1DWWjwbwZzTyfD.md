@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 
 > The official soundtrack of Nike's NYvsNY, curated by the players\. We Outside!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,620 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,618 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 | 39 | [My Shit](https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 2:08 |
 | 40 | [Low Down](https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 2:24 |
 | 41 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 |
-| 42 | [Bed Peace](https://open.spotify.com/track/5Ck3e6z1bcSCes5gdo0Ddt) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:16 |
-| 43 | [EA \(feat\. 21 Savage\)](https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [SlimeBall 2](https://open.spotify.com/album/6PRXKEq952eaaJWMUGNx5t) | 3:47 |
+| 42 | [EA \(feat\. 21 Savage\)](https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [SlimeBall 2](https://open.spotify.com/album/6PRXKEq952eaaJWMUGNx5t) | 3:47 |
+| 43 | [Bed Peace](https://open.spotify.com/track/5Ck3e6z1bcSCes5gdo0Ddt) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:16 |
 | 44 | [Nice For What](https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:30 |
 | 45 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 |
 | 46 | [Love Yourz](https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 | 99 | [7AM](https://open.spotify.com/track/4v1P7JCjehbg5TmLQo2mFy) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage](https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX) | 3:39 |
 | 100 | [Leave Em Alone \(Layton Greene, Lil Baby feat\. City Girls, PnB Rock\)](https://open.spotify.com/track/6Vdyu21iT8qScU1haSjWUU) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:51 |
 
-Snapshot ID: `MCw0NDU2Njg2NmVjNzZhZjg4N2JjYjhjMTkzZDgwMjMyZDc1OGZkNTg3`
+Snapshot ID: `MCw4NTY0NzMxZGI1OGM3NjViZTM4YzNmOWQ0OTY4MDIzNWQ2YjkwNzM0`

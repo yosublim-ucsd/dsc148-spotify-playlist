@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf7lNeiy8sU.md) - [plain]
 
 > Ahora sí se pudieron alcanzar\. Escucha la Fusión entre José José y Gera MX.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,063 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,087 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf7lNeiy8sU.md) - [plain]
 | 49 | [Frente a una Copa de Vino](https://open.spotify.com/track/7kdqhh8wNhjnZT9TudxMZ7) | [Luisito Rey](https://open.spotify.com/artist/1bdgHvfW3oLuPbeHEJeAqR) | [Recordando a Luisito Rey](https://open.spotify.com/album/58uPvmLFttDExcycapIS03) | 3:27 |
 | 50 | [Camina siempre adelante](https://open.spotify.com/track/4mKvhjgr8RNElB89pQlYHc) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 3:24 |
 
-Snapshot ID: `MCwyMTczM2Y5MjA5MzZlYWFkNmNmZTQ1N2EwNTU2NzNhYzRiYzA2M2I2`
+Snapshot ID: `MCxkODdiNTU3ZjU4NzM0NDQxMTU0MzBhNmY2YzdhYzg0ZmI2N2NlYWUz`

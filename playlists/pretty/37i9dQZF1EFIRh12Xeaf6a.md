@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,601 likes - 271 songs - 14 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,603 likes - 271 songs - 14 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 26 | [Child of Mine](https://open.spotify.com/track/4A7oANUhxquUpTCuu6GmoD) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 4:02 |
 | 27 | [](https://open.spotify.com/track/5ewcbH8HRUcbDD0UsXa9by) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1RnHxju5IKBQchj1yQW3eu) | 0:00 |
 | 28 | [Take a Giant Step \- 1969 Version](https://open.spotify.com/track/6Nf71UnBJ89Y36vn0PwY8D) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Giant Steps/De Old Folks At Home](https://open.spotify.com/album/2K4jHu8XV4HrgWlmOGwJty) | 4:15 |
-| 29 | [Porpoise Song](https://open.spotify.com/track/02tiurLpJcKS0aFVsyvKz3) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Head](https://open.spotify.com/album/3xru9aQ0OwyBa4JxfziloH) | 2:40 |
-| 30 | [Been to Canaan](https://open.spotify.com/track/3fOJ99F9vgXuY0sBSf3PsG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:38 |
+| 29 | [Been to Canaan](https://open.spotify.com/track/3fOJ99F9vgXuY0sBSf3PsG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:38 |
+| 30 | [Porpoise Song](https://open.spotify.com/track/02tiurLpJcKS0aFVsyvKz3) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Head](https://open.spotify.com/album/3xru9aQ0OwyBa4JxfziloH) | 2:40 |
 | 31 | [He Hit Me](https://open.spotify.com/track/2W04ifQB9DPaUMTP47ADnW) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Friend](https://open.spotify.com/album/6V6UlLYj4jp7eaFCsmPY3s) | 4:23 |
 | 32 | [Don't Bring Me Down \(Bonus Track\)](https://open.spotify.com/track/15ZTgm66bORwVxRQySgMkN) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [Animalisms](https://open.spotify.com/album/5owTdQnJSxKgLgnz8ZgFmc) | 3:16 |
 | 33 | [Hard Rock Café](https://open.spotify.com/track/5oLObQcGpeEjrOHpPY80F5) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:43 |
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 111 | [I Can't Hear You No More](https://open.spotify.com/track/1b2XVfjc6MIJbfUKwqarjp) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO) | [Love Songs](https://open.spotify.com/album/0tgyeTIjag0u6wTtwoN4xA) | 2:48 |
 | 112 | [No One Ever Tells You](https://open.spotify.com/track/1Z4lNPJfSpbqN3V5j7YQEa) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:19 |
 | 113 | [One \(2018\)](https://open.spotify.com/track/2sHGdyw2CbhTdRfcw9vz2I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [One \(2018\)](https://open.spotify.com/album/1Ofd1TE3WvCUZ3BOG4M3aw) | 2:43 |
-| 114 | [Big Mouth \( Going Through Changes\)](https://open.spotify.com/track/1D4vY3qrFTeYjg8wsErED5) | [TV Themes](https://open.spotify.com/artist/0clhXvKQeY8xOFIXwePnyR) | [Gogglebox \- The 80 Greatest TV Shows Of All Time](https://open.spotify.com/album/0uLk96XBFeFv6h0pnh2mbs) | 3:02 |
-| 115 | [Walk On In](https://open.spotify.com/track/3LoBQGP7Aq7Pj2y1dNkgsr) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 2:44 |
+| 114 | [Walk On In](https://open.spotify.com/track/3LoBQGP7Aq7Pj2y1dNkgsr) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 2:44 |
+| 115 | [Big Mouth \( Going Through Changes\)](https://open.spotify.com/track/1D4vY3qrFTeYjg8wsErED5) | [TV Themes](https://open.spotify.com/artist/0clhXvKQeY8xOFIXwePnyR) | [Gogglebox \- The 80 Greatest TV Shows Of All Time](https://open.spotify.com/album/0uLk96XBFeFv6h0pnh2mbs) | 3:02 |
 | 116 | [So Goes Love \(Unissued Single\) \- Remastered](https://open.spotify.com/track/5iDDDtMSRepWfHWkej90k3) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [All the Singles](https://open.spotify.com/album/2jZH2KFGsgqfRg1XmJlVUY) | 2:35 |
 | 117 | [There's A Space Between Us](https://open.spotify.com/track/6AebtnBPxHNDfsPE21Qhxr) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:19 |
 | 118 | [Weekdays](https://open.spotify.com/track/1THJmXtLRufpuVWBdG8Rul) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 2:44 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 270 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 271 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Mjg0NTQ1MzAsMDAwMDAwMDA1M2M3NjQyNzkwMzY4ZDUwODVlNjJkMzUyYmFmZjc4MA==`
+Snapshot ID: `Mjg0NTU5NzAsMDAwMDAwMDAxZDUwMGJjYTE0ZDRjNWE5ZmExNmQ4NGRiY2QzYzVmNQ==`

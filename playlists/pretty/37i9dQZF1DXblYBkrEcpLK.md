@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒグチアイ \(Ai Higuchi\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,549 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,605 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 37 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 |
 | 38 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
 | 39 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
-| 40 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 |
+| 40 | [あのバンド](https://open.spotify.com/track/4Ji17AjAdjf83FsIDcXe0J) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:33 |
 | 41 | [世界は恋に落ちている](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はｉに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 |
 | 42 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 |
 | 43 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 47 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 |
 | 48 | [絶体絶命](https://open.spotify.com/track/0QMmoBAY9pr7nOYisYWuMj) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:28 |
 | 49 | [courage](https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 BEST SELECTION \-sunshine\-](https://open.spotify.com/album/3VxTL7TBs3IwXMqQNLX2lM) | 4:13 |
-| 50 | [あのバンド](https://open.spotify.com/track/4Ji17AjAdjf83FsIDcXe0J) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:33 |
+| 50 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 |
 
-Snapshot ID: `MCw1ZDhjYzhmNmQzZDFhZGY2ZGZhMTkyNmM4ZTc4MmU3OGRjMmE3ZGE5`
+Snapshot ID: `MCw3OTI5ZjAyMmY3MTVkMmUzMjNhZDBhZmE5YzhlMGM5ZGQzMWEzNDJi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwplEUR0E2h.md) - [plain]
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: El Bendito con FERXXO
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,597 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,648 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwplEUR0E2h.md) - [plain]
 | 59 | [Poblado](https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Poblado](https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR) | 3:21 |
 | 60 | [Monastery](https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Monastery](https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC) | 3:09 |
 
-Snapshot ID: `MCwwZDYzNGFhNmQ3MDA1YTU0MjQzNzU3YTMxODA5MTYzYWY5OTcwOGM3`
+Snapshot ID: `MCw1ODFlNGViN2UxNWU0MzkyMTRjN2ZkZGZjZmQ1YzA5YmUzMTNkNDFm`

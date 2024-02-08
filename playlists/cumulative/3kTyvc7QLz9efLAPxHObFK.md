@@ -4,7 +4,7 @@
 
 > 
 
-1,135 songs - 2 day 15 hr 37 min
+1,138 songs - 2 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,8 @@
 | [Feed Your Soul](https://open.spotify.com/track/6pMSQuswOIzpjrUlhxHgYs) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Feed Your Soul](https://open.spotify.com/album/0RR0KChzbW7cHTcTUcVF6W) | 4:01 | 2023-07-10 |  |
 | [Feel My NRG](https://open.spotify.com/track/06G0yb518lZckPJjENRcGJ) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x), [Kamikaze](https://open.spotify.com/artist/6QzshKdtq6NS0Jac1nMn6I) | [Supermax](https://open.spotify.com/album/35XgR3Tg1pZnu8SBEu3eVM) | 5:17 | 2022-08-11 |  |
 | [Feel So Good \- Creeds Remix](https://open.spotify.com/track/5e5LDEFKg598LsLDRkBo6Y) | [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Feel So Good \(Creeds Remix\)](https://open.spotify.com/album/7wt9VdVP81lPQVPq2Zp58f) | 3:57 | 2024-02-02 |  |
+| [Feel So Lucky \- Bounce Remix](https://open.spotify.com/track/4MIQhn388K7qETZfEZcAcF) | [SethroW](https://open.spotify.com/artist/5arxTnV31qhagUdKYYiLH8) | [Feel So Lucky \(Bounce Remix\)](https://open.spotify.com/album/2d0vqWv2CMxx35TvmkA4xE) | 4:48 | 2024-02-07 |  |
+| [Feel That Way](https://open.spotify.com/track/6veCZ5JcevKHSVcenPjnVt) | [Hartshorn](https://open.spotify.com/artist/26CaaT8FqbEIzi3hlD8MKc), [RAVE'N](https://open.spotify.com/artist/7iXQ2Om9F2qfFpnSELT2BJ) | [Feel That Way](https://open.spotify.com/album/5czVbSvLG8IlTCubPx6IXD) | 3:41 | 2024-02-07 |  |
 | [Feel That Way](https://open.spotify.com/track/1Tq3Gu4rmyytCzzvbnW5y2) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [No Hero](https://open.spotify.com/artist/2UgbdflH882huQw44mxzLY), [Ella](https://open.spotify.com/artist/39KMdc7nYwuqkKJuhQ0IA6) | [Feel That Way](https://open.spotify.com/album/0mlqahlXwLIYZCb5NLEOwX) | 3:12 | 2023-05-24 |  |
 | [Feel The Power](https://open.spotify.com/track/7ADBnEfAdZBI6RurXs1R7n) | [Brisk](https://open.spotify.com/artist/67es8ZtGIcV80XDLwlQkU3), [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x) | [Feel The Power](https://open.spotify.com/album/4HaAk27sV6oTNj6qQHD9UT) | 3:39 | 2023-05-06 |  |
 | [Feeling Blue](https://open.spotify.com/track/2Bf8OtPj8x6JK1xBysipWM) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4) | [Feeling Blue](https://open.spotify.com/album/3qjIYkatqTwTsMJzSjDQmK) | 3:07 | 2023-09-05 |  |
@@ -1137,6 +1139,7 @@
 | [You Can't See](https://open.spotify.com/track/5Tj5sDDsR87XVuaiikHW3q) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [You Can't See](https://open.spotify.com/album/2ZQTb4VFMoElqmzHbPLycj) | 4:01 | 2023-03-31 |  |
 | [You Can't Stop Me](https://open.spotify.com/track/04t2rESw6up8F0zPRKsD5t) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [Eclipse](https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8) | 3:19 | 2022-08-23 |  |
 | [You Got My Lovin' \- Extrended Mix](https://open.spotify.com/track/2nCnqncBb1UpTmmpS4Exng) | [Ryan Ganar](https://open.spotify.com/artist/4UXRCbEezbN48hApgmJond) | [You Got My Lovin'](https://open.spotify.com/album/5RdW0nG7JGDh1bUYDIQvHg) | 4:26 | 2022-02-17 |  |
+| [You Remind Me](https://open.spotify.com/track/2iOJy7OPFt37NwPW3eVIgs) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n), [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [You Remind Me](https://open.spotify.com/album/46KjtBkJWrva321fovmw7P) | 3:02 | 2024-02-07 |  |
 | [You Rock!](https://open.spotify.com/track/4N4p3fRbjCwrJhGcB5UH3e) | [P\*Light](https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J) | [You Rock!](https://open.spotify.com/album/377IgxpXlja6hMirxNA02i) | 3:02 | 2023-03-25 |  |
 | [Your Betrayal](https://open.spotify.com/track/0S8sprtAdgAdyEBahV2WFK) | [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu) | [Your Betrayal](https://open.spotify.com/album/1xIL1EQT68QZIPdn7FLrbD) | 2:22 | 2023-10-06 |  |
 | [Your Love](https://open.spotify.com/track/1vxZ0e3UKjCWcpGp5qBnE0) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym), [Menta](https://open.spotify.com/artist/49y1iHhXJKGVq8VF38xKGO) | [Your Love](https://open.spotify.com/album/3jmwcpikC2jx4d6occ2TyY) | 3:15 | 2022-09-28 |  |

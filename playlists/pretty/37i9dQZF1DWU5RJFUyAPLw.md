@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 
 > Island life vibes ✨ Relajados y disfrutando la vida con musiquita linda de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,470 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,491 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 27 | [Llévame](https://open.spotify.com/track/4mJYjmCeiuYarCtAc26VyS) | [Bruno Romano](https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k), [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi) | [Llévame](https://open.spotify.com/album/4CWhl8L32gMw3ShIjje1io) | 3:34 |
 | 28 | [La Mirada](https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [La Mirada](https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC) | 3:14 |
 | 29 | [Eucalipto](https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Un Día A La Vez](https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ) | 2:40 |
-| 30 | [Luna Llena](https://open.spotify.com/track/3SOaZGYymRd6SdQXioeenz) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 3:11 |
-| 31 | [Un Chingo](https://open.spotify.com/track/7nIMGS6kTXvlci76i6neKb) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Un Chingo](https://open.spotify.com/album/5JvTVY2AYNpX6g4KIXzkdT) | 2:57 |
+| 30 | [Un Chingo](https://open.spotify.com/track/7nIMGS6kTXvlci76i6neKb) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Un Chingo](https://open.spotify.com/album/5JvTVY2AYNpX6g4KIXzkdT) | 2:57 |
+| 31 | [Luna Llena](https://open.spotify.com/track/3SOaZGYymRd6SdQXioeenz) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 3:11 |
 | 32 | [Ojitos de Aceituna](https://open.spotify.com/track/0Gwk4OQjtkHFHqrSzMQXYb) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 2:47 |
 | 33 | [Un Día a la Vez](https://open.spotify.com/track/0ZwMPMDxqAzKJ4zaHzFI9H) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Un Koala En Una Palmera](https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM) | 4:06 |
 | 34 | [Saudade \- Acústica](https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Hermanos Naturales](https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Saudade \(Acústica\)](https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg) | 4:56 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 70 | [estamos bien](https://open.spotify.com/track/1VvnmpJBpaJ6LOObkwOg7C) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [estamos bien](https://open.spotify.com/album/1kCf3v2NqFFTmQwRwlRe3G) | 2:40 |
 | 71 | [Instantes y Aullidos](https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE) | [Tomás del Real](https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v) | [Instantes y Aullidos](https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q) | 5:00 |
 | 72 | [Suave y Pegao](https://open.spotify.com/track/4YKRvsBW0T6Db4Owvx6TNf) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Suave y Pegao](https://open.spotify.com/album/1HIbD7tva2Sp1wjkKEJZhJ) | 4:16 |
-| 73 | [La Burbuja](https://open.spotify.com/track/3YdqNKwtID5pip8QbnIHls) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [La Burbuja](https://open.spotify.com/album/3ZLG0zv8u8nKtHOoMpy0yW) | 3:50 |
-| 74 | [Quiero Enamorarte](https://open.spotify.com/track/1piCERW239XDrsdsyXxXwd) | [Grecia Vallejo](https://open.spotify.com/artist/4jdvzT28t4eW1bk61DqKPI) | [Quiero Enamorarte](https://open.spotify.com/album/0szu8Z1zY73sybd8CCyZdA) | 3:08 |
-| 75 | [Sin Yolanda](https://open.spotify.com/track/2P8lowDRQsyXnPryS7s20o) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch), [Gutinho](https://open.spotify.com/artist/5xneBcnKxnlHnspytUfcyE) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 3:50 |
+| 73 | [Quiero Enamorarte](https://open.spotify.com/track/1piCERW239XDrsdsyXxXwd) | [Grecia Vallejo](https://open.spotify.com/artist/4jdvzT28t4eW1bk61DqKPI) | [Quiero Enamorarte](https://open.spotify.com/album/0szu8Z1zY73sybd8CCyZdA) | 3:08 |
+| 74 | [Sin Yolanda](https://open.spotify.com/track/2P8lowDRQsyXnPryS7s20o) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch), [Gutinho](https://open.spotify.com/artist/5xneBcnKxnlHnspytUfcyE) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 3:50 |
+| 75 | [La Burbuja](https://open.spotify.com/track/3YdqNKwtID5pip8QbnIHls) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [La Burbuja](https://open.spotify.com/album/3ZLG0zv8u8nKtHOoMpy0yW) | 3:50 |
 
-Snapshot ID: `MCxiZmJjYzNlOWE0MGU3M2U4NmNmNzI4OWNhMjI0ZmQ1YmRlOWFlZDVj`
+Snapshot ID: `MCwwZDgwNWU0NjU3M2RiZmQzZWUzYzdhNjk3YjdhOWRiMmQ4NzViYzUy`

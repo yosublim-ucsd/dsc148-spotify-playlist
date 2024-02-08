@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Jungeli
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,182 likes - 86 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,183 likes - 86 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 8 | [Dreaming](https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs) | 3:28 |
 | 9 | [Under Your Wings](https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:51 |
 | 10 | [Head Underwater](https://open.spotify.com/track/6aVuhf1DaTNoFgpDgIQku0) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Head Underwater](https://open.spotify.com/album/52IA9m2bwmNyVWdf1QypOz) | 3:15 |
-| 11 | [Die For Me](https://open.spotify.com/track/67gYpZ9Kl4EwuQa3hZX6wR) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me](https://open.spotify.com/album/5Spe5tAY7QIn04uSBiGYt9) | 2:43 |
+| 11 | [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/track/5YUsCI2mTieO4KJbLeQFR7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/album/21QcWrXk821IkKiL73BZre) | 2:43 |
 | 12 | [Wo ist das Problem](https://open.spotify.com/track/6APH0LzxocmRkCrBRxqZVB) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Wo ist das Problem](https://open.spotify.com/album/5sVmBkyQnBDgcNQEHcdyQt) | 2:36 |
 | 13 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 |
 | 14 | [Clarity](https://open.spotify.com/track/54fIT6FB4H6z3BJXQai1hm) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Clarity](https://open.spotify.com/album/49WXECyPBx84Kw0E33sjCY) | 2:17 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 46 | [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 |
 | 47 | [Shooting Star](https://open.spotify.com/track/4xXJQUEc3lE3W8cgwgMBdW) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Shooting Star](https://open.spotify.com/album/3ULWzIkI8mL1ukNwoUagWl) | 2:25 |
 | 48 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 |
-| 49 | [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
+| 49 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 |
 | 50 | [find mich](https://open.spotify.com/track/03S9KJa8pBjjV7K71pNQgf) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD), [Whitey](https://open.spotify.com/artist/31HMcpiwcEdIUpPOQuqQfW) | [find mich](https://open.spotify.com/album/2Z8dDJt41rXa5xCET8mdn7) | 2:04 |
 | 51 | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo) | 3:01 |
 | 52 | [YGxOG \(feat\. Motis\)](https://open.spotify.com/track/5IS0vVGGJZ5VMeVPNRK49f) | [Midas](https://open.spotify.com/artist/6JaMzYQxHHPK8sF9AXizJd), [Motis](https://open.spotify.com/artist/5D5A1DJDHJJbRYHk2B9VIa) | [YGxOG \(feat\. Motis\)](https://open.spotify.com/album/3CYQRNQgwwLGIOd7vSBYI5) | 2:26 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 85 | [Gegen die Zeit](https://open.spotify.com/track/0UYvm3zOmSXcU7Bb490lTi) | [Bang Babsy](https://open.spotify.com/artist/3OKjSvEHXiqzpW4MXRBklt) | [Gegen die Zeit](https://open.spotify.com/album/3evpE9WpC4h6aOBICkC7Gw) | 2:05 |
 | 86 | [Alles erlaubt](https://open.spotify.com/track/7goSTmQz0ePkBY6RlGB6Ru) | [HILLA](https://open.spotify.com/artist/2XPKrrCwMa3wB1ML1g5Ywg) | [Alles erlaubt](https://open.spotify.com/album/48jxN0AOOYpd3Cbr8H1hSE) | 3:17 |
 
-Snapshot ID: `MCxiM2U5ZmQ5NTJkYmQ4Y2JkY2VkYzc3ODVkMGE0OTZmOGFkNWI0MDMx`
+Snapshot ID: `MCxmMDZjMDQyZGZjZWUxMTVkNmNiNzlkNDBjYmZkMGJhNTg1MmJkYzFl`

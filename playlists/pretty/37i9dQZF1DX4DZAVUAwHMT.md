@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Nothing But Thieves
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,479 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,281 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 49 | [Ceremonia](https://open.spotify.com/track/0Wh5hRYITjXnNsmfrcInyc) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Ceremonia](https://open.spotify.com/album/5HQvmkIIS9p9usaySiXESE) | 2:58 |
 | 50 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
 
-Snapshot ID: `MCxkYWU4YWIwNmFmYzRhMzUzMTU3NDQxYmIxYjVlZjMyZTgwYjlkNTIx`
+Snapshot ID: `MCw4ZGM3ZmViZWI5N2VmZGE2NWRmYTY1YWViZjQ2ZDk1NzYzMDY2ODQ0`

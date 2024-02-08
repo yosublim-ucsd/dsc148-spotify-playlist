@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 41162,
+  "2024-02-08": 41222,
   "date_first_scraped": "2022-06-09",
   "description": "Happy Pop-Rock Tunes to start your day. ",
   "name": "Morning Loud!!! ",
@@ -1468,6 +1468,28 @@
     },
     {
       "album": {
+        "name": "DIGITAL PARANOIA 2052",
+        "url": "https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO"
+      },
+      "artists": [
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        },
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165124,
+      "name": "girls lie.",
+      "url": "https://open.spotify.com/track/5AlpGLlLw51j1HvauS8KJt"
+    },
+    {
+      "album": {
         "name": "Battleground (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
       },
@@ -1879,7 +1901,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 161445,
       "name": "I Used To Be Fun",
       "url": "https://open.spotify.com/track/3cn3g1pvplVckm1vWtDMVf"

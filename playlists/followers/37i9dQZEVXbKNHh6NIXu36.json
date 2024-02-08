@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 117870,
+  "2024-02-08": 117870,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Austria.",
   "name": "Top 50 - Austria",
@@ -1151,7 +1151,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 131587,
       "name": "9 bis 9",
       "url": "https://open.spotify.com/track/5YWu6dt50Nieq8qi572RF8"
@@ -12211,7 +12211,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -14985,7 +14985,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 129705,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6zUYK0u0aZTrEadjNzuQXv"
@@ -15415,6 +15415,24 @@
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
     },
     {
       "album": {
@@ -19599,7 +19617,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 188520,
       "name": "LiEBE AUF DER R\u00dcCKBANK",
       "url": "https://open.spotify.com/track/2FiJGvN3fiXMwms9IftNV0"
@@ -22457,7 +22475,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -23495,7 +23513,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -32221,6 +32239,24 @@
       "duration_ms": 270586,
       "name": "Still D.R.E.",
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+    },
+    {
+      "album": {
+        "name": "Still Kicking (Radio Edit)",
+        "url": "https://open.spotify.com/album/0yCMY81SAIERhyQZePXySz"
+      },
+      "artists": [
+        {
+          "name": "Trickster",
+          "url": "https://open.spotify.com/artist/5qnUz9Hcq9SqYODLi4gy7E"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201142,
+      "name": "Still Kicking - Radio Edit",
+      "url": "https://open.spotify.com/track/4jAHEESCOgCrNbItFfhppq"
     },
     {
       "album": {

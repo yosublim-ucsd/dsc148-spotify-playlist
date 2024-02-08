@@ -4,7 +4,7 @@
 
 > Tones And I op de cover van Fresh Pop!
 
-466 songs - 23 hr 32 min
+467 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [I Can See You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:33 | 2023-07-07 | 2023-10-13 |
 | [I Can't Go Back To The Way It Was \(Intro\)](https://open.spotify.com/track/4gpfihcTO7NKPFsn3Vl4fq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I Can't Go Back To The Way It Was \(Intro\)](https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB) | 1:35 | 2023-02-24 | 2023-04-07 |
 | [I Do](https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Beste Zangers 2023 \(Duncan Laurence\)](https://open.spotify.com/album/7d9Z8E52D6So8lzxJQ67y3) | 2:51 | 2023-09-04 | 2024-01-05 |
-| [I Do](https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel \(Deluxe\)](https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf) | 2:39 | 2023-11-16 |  |
+| [I Do](https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel \(Deluxe\)](https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf) | 2:39 | 2023-11-16 | 2024-02-08 |
 | [I DON'T WANNA BE LIKE YOU](https://open.spotify.com/track/6kZs5onGsFyRkTTAW624u0) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I DON'T WANNA BE LIKE YOU](https://open.spotify.com/album/6q5C6TAynyMnt9vfiPAuPT) | 2:43 | 2023-03-02 | 2023-06-02 |
 | [I Got Out](https://open.spotify.com/track/1hwgM28NE9SnJ30RzjUOBg) | [Elle Hollis](https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn) | [I Got Out](https://open.spotify.com/album/4XQlwqLcTmeQbusmasghI6) | 3:08 | 2023-03-01 | 2023-04-28 |
 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 | 2023-10-20 | 2024-01-26 |
@@ -311,6 +311,7 @@
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2023-02-24 | 2023-03-31 |
 | [Nonsense \(with Coi Leray\) \- Remix](https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Nonsense \(Remix\)](https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL) | 2:55 | 2023-03-30 | 2023-06-23 |
 | [Nooit Meer Regen](https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Nooit Meer Regen](https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj) | 3:20 | 2023-05-18 | 2023-08-26 |
+| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 2:50 | 2024-02-07 |  |
 | [Not Scared Anymore](https://open.spotify.com/track/55dQwii8sIpOsZqktTfgYN) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Not Scared Anymore](https://open.spotify.com/album/0L5BvSVDRn4NQ2yDgQs4Sv) | 2:49 | 2023-09-20 | 2023-12-15 |
 | [Not You](https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:33 | 2023-06-08 | 2023-08-26 |
 | [Obsessed With Your Ex \- Single Edit](https://open.spotify.com/track/2Hf6UGTEoeVyzCLrcR8uSG) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Obsessed With Your Ex](https://open.spotify.com/album/1pCHoS6EvvWD9giAIZfVgf) | 3:05 | 2023-05-11 | 2023-08-26 |

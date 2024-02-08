@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from The Last Dinner Party, Tom Walker, Jazzy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,867 likes - 130 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,917 likes - 130 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 101 | [Mannequin](https://open.spotify.com/track/3MPdPrAI2rKY5uY9qbSOtm) | [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR) | [Mannequin](https://open.spotify.com/album/0A2YH0PzqR41SvYx7h7pem) | 2:25 |
 | 102 | [Faaji](https://open.spotify.com/track/1I1UC0ljqNUEHTfVsZNJCU) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Lazy Girl](https://open.spotify.com/album/79qFfx2Gmq4UAotRx6V0AW) | 2:32 |
 | 103 | [Ninja Bike](https://open.spotify.com/track/0BoPDihQptJKrwz6PSkUOh) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [CLSM](https://open.spotify.com/artist/4l2H79bDyhtxf87atRG8dk) | [Ninja Bike](https://open.spotify.com/album/7lozbB05OVPex60QL9lVyr) | 2:57 |
-| 104 | [Cold city](https://open.spotify.com/track/63ZIpQQxSPeAyYqSxY1v0J) | [Dide](https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4) | [Cold city](https://open.spotify.com/album/0L4rAoQci86u1OmgC2El9s) | 2:58 |
+| 104 | [](https://open.spotify.com/track/63ZIpQQxSPeAyYqSxY1v0J) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0L4rAoQci86u1OmgC2El9s) | 0:00 |
 | 105 | [Follow You](https://open.spotify.com/track/7M2rD1l5WwqMUXwioGehGD) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Follow You](https://open.spotify.com/album/0dtf2gFUJEFlouA5Yo4fj1) | 2:27 |
 | 106 | [Mardy](https://open.spotify.com/track/4s9KcTGJr5uzW2I9pjHZPI) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Mardy](https://open.spotify.com/album/4pyM8BFy9SAXGHmSrOEOqC) | 2:43 |
 | 107 | [Home](https://open.spotify.com/track/1PbOrUCJ0BbMYqraRg91hz) | [Alfie Sharp](https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P) | [Home](https://open.spotify.com/album/4J49iKl2W3amMRQqWugcZx) | 3:31 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 129 | [Spinning Sides](https://open.spotify.com/track/4azJjpjM9wzySL8Nz6aWgG) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Spinning Sides](https://open.spotify.com/album/1rs0wOw1XnxBU71oTpxP5g) | 3:57 |
 | 130 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 |
 
-Snapshot ID: `MCxkNmE3NzhmNGE1NTY4NmE1M2NiNjBhMmJmOThjN2E1ZTE4NjZlNmE4`
+Snapshot ID: `MCxiZjliNGZiNTE4YWZjMDg1MDBmY2Y1MDBlZmM3NjgyYzM5YjM2MjEy`

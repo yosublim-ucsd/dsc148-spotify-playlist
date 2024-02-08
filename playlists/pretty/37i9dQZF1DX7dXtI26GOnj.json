@@ -1,12 +1,12 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Kali Uchis, Peso Pluma",
-  "num_followers": 173829,
+  "num_followers": 173912,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGVjNzI0ZDI3MGRkNWUyOWU4ZjEyYmNhYWUzNGQwNDYyZjc3ZWFm",
+  "snapshot_id": "MCxlMDEwZTNkOGI1NTAxZDcwZDQ3MGJhNzhjYzk5NTA5Y2RjMDY2MGRm",
   "tracks": [
     {
       "added_at": "2024-02-02 18:50:48",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-02-02 18:50:48",
       "album": {
-        "name": "CORAZ\u00d3N VAC\u00cdO",
-        "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 160535,
-      "name": "CORAZ\u00d3N VAC\u00cdO",
-      "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
-    },
-    {
-      "added_at": "2024-02-02 18:50:48",
-      "album": {
         "name": "ASI ES LA VIDA",
         "url": "https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 172095,
       "name": "ASI ES LA VIDA",
       "url": "https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn"
+    },
+    {
+      "added_at": "2024-02-02 18:50:48",
+      "album": {
+        "name": "CORAZ\u00d3N VAC\u00cdO",
+        "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 160535,
+      "name": "CORAZ\u00d3N VAC\u00cdO",
+      "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
     },
     {
       "added_at": "2024-02-02 18:50:48",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-02-02 18:50:48",
       "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+    },
+    {
+      "added_at": "2024-02-02 18:50:48",
+      "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
       },
@@ -787,6 +803,26 @@
       "duration_ms": 210200,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "added_at": "2024-02-02 18:50:48",
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "LA NOCHE DE ANOCHE",
+      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
     },
     {
       "added_at": "2024-02-02 18:50:48",
@@ -815,26 +851,6 @@
     {
       "added_at": "2024-02-02 18:50:48",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "LA NOCHE DE ANOCHE",
-      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
-    },
-    {
-      "added_at": "2024-02-02 18:50:48",
-      "album": {
         "name": "COCO LOCO",
         "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
       },
@@ -851,18 +867,22 @@
     {
       "added_at": "2024-02-02 18:50:48",
       "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+        "name": "Arranca (feat. Omega)",
+        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
       },
       "artists": [
         {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
         }
       ],
-      "duration_ms": 183381,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+      "duration_ms": 166529,
+      "name": "Arranca (feat. Omega)",
+      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
     },
     {
       "added_at": "2024-02-02 18:50:48",
@@ -895,26 +915,6 @@
       "duration_ms": 154023,
       "name": "Mil Veces",
       "url": "https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf"
-    },
-    {
-      "added_at": "2024-02-02 18:50:48",
-      "album": {
-        "name": "Arranca (feat. Omega)",
-        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 166529,
-      "name": "Arranca (feat. Omega)",
-      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
     },
     {
       "added_at": "2024-02-02 18:50:48",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2024-02-02 18:50:48",
       "album": {
+        "name": "FERXXO 151",
+        "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "ICON",
+          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "FERXXO 151",
+      "url": "https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8"
+    },
+    {
+      "added_at": "2024-02-02 18:50:48",
+      "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
-    },
-    {
-      "added_at": "2024-02-02 18:50:48",
-      "album": {
-        "name": "FERXXO 151",
-        "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "ICON",
-          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "FERXXO 151",
-      "url": "https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8"
     },
     {
       "added_at": "2024-02-02 18:50:48",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2024-02-02 18:50:48",
       "album": {
+        "name": "GRX",
+        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 157846,
+      "name": "UNA BACHATA",
+      "url": "https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w"
+    },
+    {
+      "added_at": "2024-02-02 18:50:48",
+      "album": {
         "name": "Borracho y Loco",
         "url": "https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 171800,
       "name": "Borracho y Loco",
       "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
-    },
-    {
-      "added_at": "2024-02-02 18:50:48",
-      "album": {
-        "name": "Santorini",
-        "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "Santorini",
-      "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
     },
     {
       "added_at": "2024-02-02 18:50:48",
@@ -1383,6 +1383,46 @@
     {
       "added_at": "2024-02-02 18:50:48",
       "album": {
+        "name": "Santorini",
+        "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
+    },
+    {
+      "added_at": "2024-02-02 18:50:48",
+      "album": {
+        "name": "Fr\u00eda",
+        "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+        }
+      ],
+      "duration_ms": 176606,
+      "name": "Fr\u00eda",
+      "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
+    },
+    {
+      "added_at": "2024-02-02 18:50:48",
+      "album": {
         "name": "Me Gusta Tu Flow",
         "url": "https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W"
       },
@@ -1395,26 +1435,6 @@
       "duration_ms": 177500,
       "name": "Me Gusta Tu Flow",
       "url": "https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo"
-    },
-    {
-      "added_at": "2024-02-02 18:50:48",
-      "album": {
-        "name": "GRX",
-        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 157846,
-      "name": "UNA BACHATA",
-      "url": "https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w"
     },
     {
       "added_at": "2024-02-02 18:50:48",
@@ -1475,26 +1495,6 @@
       "duration_ms": 267016,
       "name": "La F\u00f3rmula",
       "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
-    },
-    {
-      "added_at": "2024-02-02 18:50:48",
-      "album": {
-        "name": "Fr\u00eda",
-        "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Yotuel",
-          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
-        }
-      ],
-      "duration_ms": 176606,
-      "name": "Fr\u00eda",
-      "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
     },
     {
       "added_at": "2024-02-02 18:50:48",

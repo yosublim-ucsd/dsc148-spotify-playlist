@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-241 songs - 15 hr 6 min
+242 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Feel Good Too](https://open.spotify.com/track/5bTWUSy1Xwm8bNwbc419wP) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/4HCUsZGlWSq1GrpgA9167A) | 3:59 | 2023-06-23 |  |
 | [Feel So Good](https://open.spotify.com/track/6Zoi8MTQJ5UZ28Xra0FAAn) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf) | [Feel So Good](https://open.spotify.com/album/4Y0TmKELuNPjdLFNAEC4An) | 3:27 | 2022-02-11 | 2023-01-06 |
 | [Feel The Groove](https://open.spotify.com/track/0wjJfVH7DCVSeOXxkpFNNE) | [Seb Skalski](https://open.spotify.com/artist/1TMuRToXVLIjYsYYg3jmp1), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Feel The Groove](https://open.spotify.com/album/7bOqJYBRGtDpx0NV5yuizR) | 4:43 | 2023-05-19 |  |
-| [Feel This](https://open.spotify.com/track/6Dca0REtMaazrwoI5YS0ib) | [Martin Eigenberg](https://open.spotify.com/artist/23J5hZ2N7m0UpmdziiYAc2), [Ryan Shade](https://open.spotify.com/artist/73lC9QGob3QCyXallwiSWl) | [Feel This](https://open.spotify.com/album/16mrraWea47jlXf8nPwNyu) | 3:26 | 2023-07-21 |  |
+| [Feel This](https://open.spotify.com/track/34gwWYhg66Zw6hcQlfvDPp) | [Martin Eigenberg](https://open.spotify.com/artist/23J5hZ2N7m0UpmdziiYAc2), [Ryan Shade](https://open.spotify.com/artist/73lC9QGob3QCyXallwiSWl) | [Feel This](https://open.spotify.com/album/3eBDDlG2zu5llGGPBJ0JYG) | 3:26 | 2023-07-21 |  |
+| [Feel This](https://open.spotify.com/track/6Dca0REtMaazrwoI5YS0ib) | [Martin Eigenberg](https://open.spotify.com/artist/23J5hZ2N7m0UpmdziiYAc2), [Ryan Shade](https://open.spotify.com/artist/73lC9QGob3QCyXallwiSWl) | [Feel This](https://open.spotify.com/album/16mrraWea47jlXf8nPwNyu) | 3:26 | 2023-07-21 | 2024-02-08 |
 | [Fight My Demons](https://open.spotify.com/track/6qmuDfuovbFjz6kMgiSokm) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [Groove Continental: Side B](https://open.spotify.com/album/6DJVP3L3EJcbOVYMHbAZyr) | 3:40 | 2023-10-06 |  |
 | [Fired Up](https://open.spotify.com/track/48zryrs6OiRWxFdwCItDG0) | [Archie Versace](https://open.spotify.com/artist/6S3CbwXLm1waxap3VZW24x), [Supermini](https://open.spotify.com/artist/0BLL6WY53tPnnVmCIy49uB) | [Fired Up](https://open.spotify.com/album/0AVxyhn8k58OuIK8xz4bsT) | 2:58 | 2023-01-13 |  |
 | [First Thing](https://open.spotify.com/track/6W3s4OcqdCN49QDzIVItzR) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [First Thing](https://open.spotify.com/album/1qrXPJPrjcri9XEocz9rQO) | 3:59 | 2022-08-12 | 2023-04-09 |

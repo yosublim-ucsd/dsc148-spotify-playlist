@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-876 songs - 1 day 10 hr 2 min
+877 songs - 1 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,7 +425,7 @@
 | [Melbourne Sunrise](https://open.spotify.com/track/5yoxmIJMQoYnUdB536vFtS) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Wonderful Times](https://open.spotify.com/album/6QxZonwGmPwndaqt0khNDB) | 1:19 | 2022-04-15 | 2022-07-08 |
 | [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 | 2023-10-06 |  |
 | [Melt](https://open.spotify.com/track/6p1N8bVALlHeDZDepblht2) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Melt](https://open.spotify.com/album/36z7ppKin2XyN9FYtwTsnZ) | 2:36 | 2022-12-16 |  |
-| [MELT YOURSELF DOWN](https://open.spotify.com/track/7gZsCJTQQfqBMraiyvazHn) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Float\-illa](https://open.spotify.com/album/5Itimgj6YYmcrjyPf5I0GJ) | 2:13 | 2022-12-09 |  |
+| [MELT YOURSELF DOWN](https://open.spotify.com/track/7gZsCJTQQfqBMraiyvazHn) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Float\-illa](https://open.spotify.com/album/5Itimgj6YYmcrjyPf5I0GJ) | 2:13 | 2022-12-09 | 2024-02-08 |
 | [Meltdown](https://open.spotify.com/track/4gLJWrqUpHLaiDH7K276l9) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Meltdown](https://open.spotify.com/album/3fedlhIrSKvzsgd8MV7sEg) | 3:24 | 2023-10-13 |  |
 | [Memories](https://open.spotify.com/track/22GM0cTeCmReAppLUQRN6N) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Memories](https://open.spotify.com/album/2Y9R59Hk5KdAPFtsOIik2G) | 1:42 | 2022-10-14 | 2023-09-22 |
 | [Meters](https://open.spotify.com/track/1NmkOuZKRyJ93N8CPN4cyM) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Cloudy & Meters](https://open.spotify.com/album/5NOZBMRvo8C9gj80D9Y8x1) | 2:31 | 2022-04-15 | 2022-05-20 |
@@ -653,6 +653,7 @@
 | [Shine with Me](https://open.spotify.com/track/35h2Ko0ci9Dt4RazCs46w5) | [james.lfo](https://open.spotify.com/artist/68x86W8SsxxJjDIT8SoWUa), [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Shine with Me](https://open.spotify.com/album/6rKFLUK5GjsoyhpW8JS35i) | 4:45 | 2024-02-02 |  |
 | [Shoreditch](https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Shoreditch](https://open.spotify.com/album/0swV7ZNwhh78Q6bqHVKJRc) | 2:33 | 2022-04-15 |  |
 | [Show Me Happiness](https://open.spotify.com/track/36IEUB6k3V3XmZpbdm2Jwk) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Show Me Happiness](https://open.spotify.com/album/0bfsCbaYNQFljzk2fJ92hF) | 2:11 | 2022-04-15 | 2022-08-12 |
+| [signals](https://open.spotify.com/track/3TE7g7pg2i1E5WLhmAVfcF) | [ex\-pansive](https://open.spotify.com/artist/4BZ2WJhxazwJCRGq3nzczV) | [signals](https://open.spotify.com/album/5Z5NNGYHiOFFDjEu6AmUcO) | 2:40 | 2024-02-02 |  |
 | [silly me](https://open.spotify.com/track/1Bl2RqLfN5V3uCTpcWl7Bn) | [titicon](https://open.spotify.com/artist/5v5Qkgl02bizOecA6OY7p3) | [silly me](https://open.spotify.com/album/68WtH1tl9o9QSmEH3q5WKt) | 1:30 | 2022-09-02 |  |
 | [silver sky](https://open.spotify.com/track/1Xof3gjWH8EGGwZo7hxJb1) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [silver sky](https://open.spotify.com/album/4WF2vO9nbL4OYv0XE63bOh) | 2:01 | 2023-10-27 |  |
 | [Simple](https://open.spotify.com/track/7rOXbaE7eR2EckA348ui2m) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Simple](https://open.spotify.com/album/5D3DbCzuUxS5QtbVi14YpZ) | 2:09 | 2023-09-04 | 2023-09-29 |

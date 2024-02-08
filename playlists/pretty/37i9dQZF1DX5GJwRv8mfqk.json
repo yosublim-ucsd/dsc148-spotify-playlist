@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A la antig\u00fcita, chiquitita! Las canciones escritas e interpretadas por Ed\u00e9n Mu\u00f1oz \ud83e\udd20",
-  "num_followers": 111464,
+  "num_followers": 111516,
   "original_name": "Cancionero Ed\u00e9n Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDRkNGZiMTc4Y2ZhMjA5N2E3MGRhZmE0MGNkN2M0OTI2OTJjZTQ5",
+  "snapshot_id": "MCxhM2RlNTFmNDkyMDc1YjIwZDc4OTAxOWY1Njg0YmQyZDEwYjRlNzYx",
   "tracks": [
     {
       "added_at": "2022-05-25 16:50:02",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Borracho de Cochera",
-        "url": "https://open.spotify.com/album/1q7DcJHh8ZPTGssEgjgLky"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 186408,
-      "name": "Borracho de Cochera",
-      "url": "https://open.spotify.com/track/1CSAJGvCFUh7jC1bj1oUbT"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Otra Vida",
         "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 214253,
       "name": "T\u00fa Me Ca\u00edste del Cielo",
       "url": "https://open.spotify.com/track/4mOWg68kBBDgyUqP0mgGh0"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Borracho de Cochera",
+        "url": "https://open.spotify.com/album/1q7DcJHh8ZPTGssEgjgLky"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 186408,
+      "name": "Borracho de Cochera",
+      "url": "https://open.spotify.com/track/1CSAJGvCFUh7jC1bj1oUbT"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -483,18 +483,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
+        "name": "As\u00ed Me Fue Contigo",
+        "url": "https://open.spotify.com/album/6yKo5OzeF8uKGPUfoFImQt"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Banda La Ejecutiva de Mazatlan Sinaloa",
+          "url": "https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Con Todo Incluido",
-      "url": "https://open.spotify.com/track/1Q3Jk5BWIQRrto0fMAthiD"
+      "duration_ms": 232093,
+      "name": "As\u00ed Me Fue Contigo",
+      "url": "https://open.spotify.com/track/2KYksJs5u6n4YOuxnG6X36"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "As\u00ed Me Fue Contigo",
-        "url": "https://open.spotify.com/album/6yKo5OzeF8uKGPUfoFImQt"
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
       },
       "artists": [
         {
-          "name": "Banda La Ejecutiva de Mazatlan Sinaloa",
-          "url": "https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 232093,
-      "name": "As\u00ed Me Fue Contigo",
-      "url": "https://open.spotify.com/track/2KYksJs5u6n4YOuxnG6X36"
+      "duration_ms": 139000,
+      "name": "Con Todo Incluido",
+      "url": "https://open.spotify.com/track/1Q3Jk5BWIQRrto0fMAthiD"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Queri\u00e9ndote M\u00e1s",
-        "url": "https://open.spotify.com/album/0QuH4KokzaCQO8QREhJ7y2"
-      },
-      "artists": [
-        {
-          "name": "Los Canarios De Michoacan",
-          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
-        }
-      ],
-      "duration_ms": 194253,
-      "name": "Pero Que Te Esta Pasando Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5Mjog2lFqO5BEFHjCPk8PN"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Con Ganas",
         "url": "https://open.spotify.com/album/7cmbCznHxkaTG8DdsXxmep"
       },
@@ -1139,18 +1123,34 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Ni Dios Lo Quiera",
-        "url": "https://open.spotify.com/album/36enprBr7gUm6TuQ50cK5B"
+        "name": "Queri\u00e9ndote M\u00e1s",
+        "url": "https://open.spotify.com/album/0QuH4KokzaCQO8QREhJ7y2"
       },
       "artists": [
         {
-          "name": "Luz Maria",
-          "url": "https://open.spotify.com/artist/4rLKybqVCIbuTaYVRbdaex"
+          "name": "Los Canarios De Michoacan",
+          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
         }
       ],
-      "duration_ms": 184386,
-      "name": "Ni Dios Lo Quiera",
-      "url": "https://open.spotify.com/track/39vwvN7Etjp8h5HimNEboV"
+      "duration_ms": 194253,
+      "name": "Pero Que Te Esta Pasando Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5Mjog2lFqO5BEFHjCPk8PN"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Gallo Fino",
+        "url": "https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 184021,
+      "name": "Al Cabo Ni Queria (Bonus Track)",
+      "url": "https://open.spotify.com/track/5RLxB5X53TuHRAYLtgNpoU"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "Ni Dios Lo Quiera",
+        "url": "https://open.spotify.com/album/36enprBr7gUm6TuQ50cK5B"
+      },
+      "artists": [
+        {
+          "name": "Luz Maria",
+          "url": "https://open.spotify.com/artist/4rLKybqVCIbuTaYVRbdaex"
+        }
+      ],
+      "duration_ms": 184386,
+      "name": "Ni Dios Lo Quiera",
+      "url": "https://open.spotify.com/track/39vwvN7Etjp8h5HimNEboV"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "Siendo Franco",
         "url": "https://open.spotify.com/album/08FstJ62XKEuL012P8jI6t"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 210573,
       "name": "D\u00edgale",
       "url": "https://open.spotify.com/track/1V2U6e2YEFRGPBhIErpUPp"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Gallo Fino",
-        "url": "https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 184021,
-      "name": "Al Cabo Ni Queria (Bonus Track)",
-      "url": "https://open.spotify.com/track/5RLxB5X53TuHRAYLtgNpoU"
     },
     {
       "added_at": "2022-05-25 16:50:02",

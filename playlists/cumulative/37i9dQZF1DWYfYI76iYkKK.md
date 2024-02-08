@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-383 songs - 1 day 1 hr 18 min
+384 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [悲傷的五個步驟 \- Live Session](https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [悲傷的五個步驟 \(Live Session\)](https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh) | 3:09 | 2022-08-11 |  |
 | [想和你一起](https://open.spotify.com/track/5fktrJ3Sds9nmhyVva2irU) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [如果你也愛我就好了](https://open.spotify.com/album/5s3lkz5pkdwPir6BwFqFDb) | 3:53 | 2022-06-02 | 2022-07-29 |
 | [想和你一起 \(feat\. 洪安妮\)](https://open.spotify.com/track/3m51Vc66fUIorBDsck4LwC) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [想和你一起 \(feat\. 洪安妮\)](https://open.spotify.com/album/79uriKWKqmAdmFaSed84rV) | 3:52 | 2022-06-23 | 2022-07-12 |
-| [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 | 2022-06-02 |  |
+| [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 | 2022-06-02 | 2024-02-08 |
 | [想把空白的日子留给你](https://open.spotify.com/track/4Mw26chMpfO6JvbFgFpKUF) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [想把空白的日子留给你](https://open.spotify.com/album/0yMMA9HWHFVFGkkOs8nxSI) | 4:19 | 2022-06-02 | 2022-07-29 |
 | [想見就能相見 \- Live 版](https://open.spotify.com/track/46hRFXILthnANbKUrbGWtb) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [想見就能相見 \(Live 版\)](https://open.spotify.com/album/7tKrxlXdVdep0w6dHibgMO) | 5:04 | 2023-02-16 | 2023-03-03 |
 | [愛你\-十周年版](https://open.spotify.com/track/4l6MkYf4FSw9kFQqSUktx5) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [愛你\-十周年版](https://open.spotify.com/album/6ZEYMuyw0GYjJg6GgjS31O) | 3:29 | 2022-07-21 | 2022-07-27 |
@@ -239,6 +239,7 @@
 | [斷捨離 \- Acoustic 哼唱版](https://open.spotify.com/track/6jQvJ9ks6v4496qkDnf7mo) | [The Freshman](https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y) | [斷捨離](https://open.spotify.com/album/4b2XXczwNuQYYxv9VRT0EB) | 1:05 | 2023-03-16 | 2023-03-31 |
 | [斷翼的鳥](https://open.spotify.com/track/0bxWaMCzYA7MrdV1F7HGLz) | [王以童](https://open.spotify.com/artist/1CKaCQ46AaqfVHz1r1Vqta) | [斷翼的鳥](https://open.spotify.com/album/2phgFUb3N5Cg1sY1jsaSrD) | 3:22 | 2023-05-11 | 2023-05-19 |
 | [旅行中忘記](https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [T.I.A.](https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi) | 3:54 | 2022-06-02 |  |
+| [日常](https://open.spotify.com/track/2LaBzrxSY0gxWDBXgfHFkT) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [卡通人物](https://open.spotify.com/album/7B2LguQ0x6S32wOkT7QgvD) | 4:03 | 2024-02-02 |  |
 | [日常](https://open.spotify.com/track/5os0kLggrm4cynK8RsOMVf) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [卡通人物](https://open.spotify.com/album/6i3axVa873MLBMkcYA5A3l) | 4:03 | 2022-06-02 | 2022-07-29 |
 | [日常](https://open.spotify.com/track/7MLTCVNXFz5SFN84HSqYVg) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [卡通人物](https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5) | 4:03 | 2022-07-28 | 2024-02-04 |
 | [明天再見](https://open.spotify.com/track/6B80NMNDIYyA1YbiefVsSE) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [明天再見](https://open.spotify.com/album/1qcnrw6fl5BkdSkd5MNfhx) | 3:22 | 2022-08-08 | 2022-10-15 |

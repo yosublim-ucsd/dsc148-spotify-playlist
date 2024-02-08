@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,483 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,547 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 43 | [Movement 6](https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa) | 8:50 |
 | 44 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
 | 45 | [Atlas](https://open.spotify.com/track/6i7i1fNug2GXwJXKbLTUDr) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Atlas](https://open.spotify.com/album/54yPuui7BKEJsys2JgMs7w) | 6:53 |
-| 46 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
-| 47 | [Space 8](https://open.spotify.com/track/6kpoN7Z1mahkMePKztQdHt) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 17:32 |
+| 46 | [Space 8](https://open.spotify.com/track/6kpoN7Z1mahkMePKztQdHt) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 17:32 |
+| 47 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
 | 48 | [Requiem for CS70 and Strings](https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 2:23 |
 | 49 | [No Step on Wing](https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 4:46 |
 | 50 | [Broken Hearted Kota](https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Broken Hearted Kota](https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv) | 5:11 |
 
-Snapshot ID: `MCxiODg3YjA2ZmRmZDVhNzUwYTc1M2I1NzlhOWEyMGFlMGQ1OTY2YzBk`
+Snapshot ID: `MCwxOTFjZDUzMDQwYjE4NWVhZGM0MzczMTNjZmI0MTJiMTFmNTQyMTky`

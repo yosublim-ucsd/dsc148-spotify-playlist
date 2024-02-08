@@ -4,7 +4,7 @@
 
 > Monsieur Dusse, ce qui ne va pas, c'est le planté de bâton.
 
-98 songs - 5 hr 38 min
+99 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Ellipse](https://open.spotify.com/track/5LcjnWOFuGhEX5saBAP85g) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Human disorder](https://open.spotify.com/album/7pqfT0igQtjHaDnYChZjCl) | 2:42 | 2023-09-28 | 2023-09-30 |
 | [Emergency Contact](https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:00 | 2023-09-28 |  |
 | [Everybody](https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Technology](https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw) | 3:20 | 2023-09-28 | 2024-01-21 |
+| [Fake It](https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Finding Beauty In Negative Spaces \(Bonus Track Version\)](https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo) | 3:13 | 2024-02-07 |  |
 | [Feeling](https://open.spotify.com/track/73tqtULumqSsGZ9wpTDTmK) | [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Feeling](https://open.spotify.com/album/61yAXlU5EH5wWHZYTBvHnB) | 3:38 | 2023-09-28 | 2023-09-30 |
 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 | 2023-09-29 |  |
 | [Figure.09](https://open.spotify.com/track/3yE7LC2ZyNWsLRSXHb0J06) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL) | 3:17 | 2023-09-28 |  |
@@ -98,7 +99,7 @@
 | [Underclass Hero](https://open.spotify.com/track/6dXizHF3KbmdvOgvMAhnQC) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:14 | 2023-09-29 |  |
 | [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 | 2023-09-28 | 2024-01-05 |
 | [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 | 2023-09-28 |  |
-| [Welcome to the DCC](https://open.spotify.com/track/1eivMnftGIAIeTDUfTssVX) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:17 | 2023-10-19 |  |
+| [Welcome to the DCC](https://open.spotify.com/track/1eivMnftGIAIeTDUfTssVX) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:17 | 2023-10-19 | 2024-02-08 |
 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 | 2023-09-29 |  |
 | [When The Angels Fall](https://open.spotify.com/track/4cZHlLwsZ6j4A8al64glUJ) | [Yvet Garden](https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7) | [When The Angels Fall](https://open.spotify.com/album/4hSJiVAqdwYnJfoEvYfYzn) | 3:50 | 2023-09-28 | 2023-09-30 |
 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 | 2023-09-29 |  |

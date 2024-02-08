@@ -4,10 +4,11 @@
 
 > Brand new music from The Last Dinner Party, Tom Walker, Jazzy and more!
 
-8,476 songs - 19 day 2 hr 49 min
+8,476 songs - 19 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/63ZIpQQxSPeAyYqSxY1v0J) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0L4rAoQci86u1OmgC2El9s) | 0:00 | 2024-02-02 |  |
 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2023-10-27 | 2023-11-03 |
 | [$outhside Story ft\. Common](https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Victor](https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH) | 3:16 | 2023-09-14 | 2023-09-22 |
 | [' Cello Song](https://open.spotify.com/track/7j8mW4Di9sY1HvkrcnYl7y) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [' Cello Song](https://open.spotify.com/album/0iZgwjeGPi1k2FWZTXBd7B) | 5:04 | 2023-03-03 | 2023-03-10 |
@@ -1419,7 +1420,6 @@
 | [Cold](https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Cold](https://open.spotify.com/album/1sdWZoa3udg3L1l3EuNk8j) | 3:57 | 2023-09-07 | 2023-09-15 |
 | [COLD](https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [COLD](https://open.spotify.com/album/0pQF3bDC9wGPa5QhhF1w0s) | 2:17 | 2023-07-13 | 2023-07-21 |
 | [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 | 2023-05-11 | 2023-05-19 |
-| [Cold city](https://open.spotify.com/track/63ZIpQQxSPeAyYqSxY1v0J) | [Dide](https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4) | [Cold city](https://open.spotify.com/album/0L4rAoQci86u1OmgC2El9s) | 2:58 | 2024-02-02 |  |
 | [Cold Reactor](https://open.spotify.com/track/4HoOTJ8tM7ikMkEkoJTisX) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Cold Reactor](https://open.spotify.com/album/12GsikxFayV36XYx0JuMqj) | 3:51 | 2023-10-26 | 2023-11-03 |
 | [Cold Shoulder](https://open.spotify.com/track/6dM03febxBftzkOcstPW8i) | [Benny Mails](https://open.spotify.com/artist/0XzjmqIqvTnie7suxhyFC1) | [Cold Shoulder](https://open.spotify.com/album/2cH3BO3e8MnsZxsw35796M) | 1:50 | 2023-07-27 | 2023-08-04 |
 | [Cold Showers](https://open.spotify.com/track/0xLIu53VONIKcPKcwtBBkd) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Cold Showers](https://open.spotify.com/album/6yKezCicZESF7XUSD4ubrg) | 3:20 | 2023-03-30 | 2023-04-07 |

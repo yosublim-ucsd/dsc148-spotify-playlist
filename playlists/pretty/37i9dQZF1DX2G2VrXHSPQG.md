@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 
 > New song and hits from your favorite Alternative artists\. Cover: Jack White
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,364 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,404 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 51 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 |
 | 52 | [Night Running](https://open.spotify.com/track/0wSmZykDgah7GfaUNZUZCb) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:28 |
 | 53 | [Black Holes \(Solid Ground\)](https://open.spotify.com/track/0qPLNGJhvrhuuayoKhTR3B) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/4umFE3UJjwqt7N57m6VyTf) | 3:05 |
-| 54 | [Favorite Liar](https://open.spotify.com/track/1scwknKtBQpreYy6MSoJqJ) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [We Are The Wrecks](https://open.spotify.com/album/0vQRfUULb3EpObpn28YOkH) | 4:02 |
-| 55 | [You Oughta Know](https://open.spotify.com/track/0Dw9z44gXhplDh5HCWZIxP) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) | 4:09 |
+| 54 | [You Oughta Know](https://open.spotify.com/track/0Dw9z44gXhplDh5HCWZIxP) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) | 4:09 |
+| 55 | [Favorite Liar](https://open.spotify.com/track/1scwknKtBQpreYy6MSoJqJ) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [We Are The Wrecks](https://open.spotify.com/album/0vQRfUULb3EpObpn28YOkH) | 4:02 |
 | 56 | [Guiding Light](https://open.spotify.com/track/7E6IL7WFO9ozoWramet7PE) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 3:37 |
 | 57 | [Bummerland](https://open.spotify.com/track/11CuPgsnoErQX18rH4gXLM) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/0KC9H4iFOOWiKEa5IzKKOE) | 3:09 |
 | 58 | [High](https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:51 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 63 | [The Runner](https://open.spotify.com/track/0AS03vnvXv9m0ZFxtuvOBW) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Everything Not Saved Will Be Lost Part II](https://open.spotify.com/album/3tXNwhv4GZQDHCOb4p5kcS) | 4:21 |
 | 64 | [You Will Never Work In Television Again](https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 2:48 |
 | 65 | [The Best](https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j) | 3:43 |
-| 66 | [Zen \(with K.Flay & grandson\)](https://open.spotify.com/track/2loEXJRB5ExGcUHYX365R5) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Zen \(with K.Flay & grandson\)](https://open.spotify.com/album/2JQbWWpYG6kKppiD6z2FwL) | 3:35 |
-| 67 | [Deleter](https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:54 |
+| 66 | [Deleter](https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:54 |
+| 67 | [Zen \(with K.Flay & grandson\)](https://open.spotify.com/track/2loEXJRB5ExGcUHYX365R5) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Zen \(with K.Flay & grandson\)](https://open.spotify.com/album/2JQbWWpYG6kKppiD6z2FwL) | 3:35 |
 | 68 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 |
 | 69 | [Up All Night](https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 3:10 |
 | 70 | [Preach](https://open.spotify.com/track/4wxTn03zuXvkQwNvI6oHyF) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [The Original Motion Picture Soundtrack](https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 74 | [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 |
 | 75 | [Survivor](https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:01 |
 
-Snapshot ID: `MCw2ZDYyNWRkOWY3ZDRiZmE0NzEzYWZhODUzMzUwNDk1YTVhMDA5MjIy`
+Snapshot ID: `MCw0OGNmODkzYjA1MTQwN2Q2N2ZmOGM2Mjc0ZWQ2MGJkZmNkNGE4NGVj`

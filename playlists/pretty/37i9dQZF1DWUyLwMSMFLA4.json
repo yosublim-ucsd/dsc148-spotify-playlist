@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 504447,
+  "num_followers": 504702,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWQxOTE3MjQxNGIyN2IwNWQzNTdiYzJlMmQ2NDE4NTYzZGY5NjUz",
+  "snapshot_id": "MCwxNGM3ZjllMmIyODc4MGNlMjM4MjE2ZmUwMjU0NGJhMzQ4ZWZmODg4",
   "tracks": [
     {
       "added_at": "2024-02-05 15:27:48",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-02-05 15:27:48",
       "album": {
-        "name": "Soy",
-        "url": "https://open.spotify.com/album/3GmKxxyzxNaBJlhmDm64Ac"
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
       "artists": [
         {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
         }
       ],
-      "duration_ms": 233560,
-      "name": "Intento",
-      "url": "https://open.spotify.com/track/4jycbkcVlL5P7W2zGYcau0"
+      "duration_ms": 251146,
+      "name": "La Cumbia De Los Trapos",
+      "url": "https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS"
     },
     {
       "added_at": "2024-02-05 15:27:48",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-02-05 15:27:48",
       "album": {
-        "name": "Cumbia Villera",
-        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/3GmKxxyzxNaBJlhmDm64Ac"
       },
       "artists": [
         {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
         }
       ],
-      "duration_ms": 251146,
-      "name": "La Cumbia De Los Trapos",
-      "url": "https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS"
+      "duration_ms": 233560,
+      "name": "Intento",
+      "url": "https://open.spotify.com/track/4jycbkcVlL5P7W2zGYcau0"
     },
     {
       "added_at": "2024-02-05 15:27:48",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-02-05 15:27:48",
       "album": {
-        "name": "Se Fue Viral",
-        "url": "https://open.spotify.com/album/6cqT7Fd0LInvlAbR4RyABv"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "Se Fue Viral",
-      "url": "https://open.spotify.com/track/71q4nNysHdBhXQJI9qnhNd"
-    },
-    {
-      "added_at": "2024-02-05 15:27:48",
-      "album": {
         "name": "Soy Cordobes",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 224352,
       "name": "Su Florcita",
       "url": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
+    },
+    {
+      "added_at": "2024-02-05 15:27:48",
+      "album": {
+        "name": "Se Fue Viral",
+        "url": "https://open.spotify.com/album/6cqT7Fd0LInvlAbR4RyABv"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "Se Fue Viral",
+      "url": "https://open.spotify.com/track/71q4nNysHdBhXQJI9qnhNd"
     },
     {
       "added_at": "2024-02-05 15:27:48",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-02-05 15:27:48",
       "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
-    },
-    {
-      "added_at": "2024-02-05 15:27:48",
-      "album": {
         "name": "Si Me Tomo una Cerveza (Remix)",
         "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 237521,
       "name": "Si Me Tomo una Cerveza - Remix",
       "url": "https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2"
+    },
+    {
+      "added_at": "2024-02-05 15:27:48",
+      "album": {
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2024-02-05 15:27:48",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-02-05 15:27:48",
       "album": {
-        "name": "Te Mentir\u00eda",
-        "url": "https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 218431,
-      "name": "Te Mentir\u00eda",
-      "url": "https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx"
-    },
-    {
-      "added_at": "2024-02-05 15:27:48",
-      "album": {
         "name": "Un Mont\u00f3n de Estrellas (En Vivo Gran Rex)",
         "url": "https://open.spotify.com/album/26n9BrsrguZZFxxLruIgNR"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 165326,
       "name": "Un Mont\u00f3n de Estrellas - En Vivo Gran Rex",
       "url": "https://open.spotify.com/track/555Op74S64KmntebD6O3wa"
+    },
+    {
+      "added_at": "2024-02-05 15:27:48",
+      "album": {
+        "name": "Te Mentir\u00eda",
+        "url": "https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 218431,
+      "name": "Te Mentir\u00eda",
+      "url": "https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx"
     },
     {
       "added_at": "2024-02-05 15:27:48",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-02-05 15:27:48",
       "album": {
+        "name": "Montevideo 418",
+        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
+    },
+    {
+      "added_at": "2024-02-05 15:27:48",
+      "album": {
         "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
         "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
@@ -1615,38 +1631,6 @@
     {
       "added_at": "2024-02-05 15:27:48",
       "album": {
-        "name": "Montevideo 418",
-        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
-    },
-    {
-      "added_at": "2024-02-05 15:27:48",
-      "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK"
-      },
-      "artists": [
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Te Pido Perdon",
-      "url": "https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn"
-    },
-    {
-      "added_at": "2024-02-05 15:27:48",
-      "album": {
         "name": "Aquellos Tiempos",
         "url": "https://open.spotify.com/album/7cq6fr12VRaq8kgbvX8oJV"
       },
@@ -1667,6 +1651,22 @@
     {
       "added_at": "2024-02-05 15:27:48",
       "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Te Pido Perdon",
+      "url": "https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn"
+    },
+    {
+      "added_at": "2024-02-05 15:27:48",
+      "album": {
         "name": "No Est\u00e1 en la Flecha Sino en el Indio",
         "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
       },
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-02-05 15:27:48",
       "album": {
-        "name": "El Mismo Aire",
-        "url": "https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 209414,
-      "name": "El Mismo Aire",
-      "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
-    },
-    {
-      "added_at": "2024-02-05 15:27:48",
-      "album": {
         "name": "Soy Cordobes",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 261066,
       "name": "Fuego y Pasion",
       "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
+    },
+    {
+      "added_at": "2024-02-05 15:27:48",
+      "album": {
+        "name": "El Mismo Aire",
+        "url": "https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 209414,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
     },
     {
       "added_at": "2024-02-05 15:27:48",

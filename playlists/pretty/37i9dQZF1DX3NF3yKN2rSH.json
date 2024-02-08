@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDU3YTA2MTVmMjg3MmFjNGRkNWU4NjRjYzkwOWZmNmE0ODFlODk4",
+  "snapshot_id": "MCw4NDA4MWM0ZGUwZWUwNjgxYzE4MjQ4OTE3N2Y1ZmVmNDIwMmY0MWFl",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "The Life Project",
-        "url": "https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 446666,
-      "name": "You're Bigger",
-      "url": "https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "A Worshipper's Heart (Live)",
         "url": "https://open.spotify.com/album/1jjOEtC7Kr6GjyWiyipYCB"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 418360,
       "name": "The Anthem (Live)",
       "url": "https://open.spotify.com/track/1uYAiD9bW3yNcQ7yInGRlv"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "The Life Project",
+        "url": "https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 446666,
+      "name": "You're Bigger",
+      "url": "https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Vickie Winans - Gospel Legacy",
-        "url": "https://open.spotify.com/album/5gsoX7WHEah2Z33h3g5wKG"
-      },
-      "artists": [
-        {
-          "name": "Vickie Winans",
-          "url": "https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR"
-        }
-      ],
-      "duration_ms": 421946,
-      "name": "Oh What Love",
-      "url": "https://open.spotify.com/track/3ZHvUDfMVPADlGtKc7Bc39"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Classics Vol. 1",
         "url": "https://open.spotify.com/album/6SxG3aGDLEYapq8THOTFHu"
       },
@@ -939,22 +923,18 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Revival Is In The Air (RIITA)",
-        "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
+        "name": "Vickie Winans - Gospel Legacy",
+        "url": "https://open.spotify.com/album/5gsoX7WHEah2Z33h3g5wKG"
       },
       "artists": [
         {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        },
-        {
-          "name": "Jo Deep",
-          "url": "https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o"
+          "name": "Vickie Winans",
+          "url": "https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
+      "duration_ms": 421946,
+      "name": "Oh What Love",
+      "url": "https://open.spotify.com/track/3ZHvUDfMVPADlGtKc7Bc39"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -975,6 +955,26 @@
       "duration_ms": 229800,
       "name": "He Got Up",
       "url": "https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Revival Is In The Air (RIITA)",
+        "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Jo Deep",
+          "url": "https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Psalms, Hymns & Spiritual Songs",
+        "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 341120,
+      "name": "Blood Medley (Part 3) - I Know It Was The Blood",
+      "url": "https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Verity Records: The First Decade, A Celebration Of Christmas",
         "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 290026,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Psalms, Hymns & Spiritual Songs",
-        "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 341120,
-      "name": "Blood Medley (Part 3) - I Know It Was The Blood",
-      "url": "https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "TIME (Truth Is My Energy)",
-        "url": "https://open.spotify.com/album/5NnwvpZHr79oiMZ2oEGhd8"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 230659,
-      "name": "He Carried The Cross For Me",
-      "url": "https://open.spotify.com/track/2XRDEjQCQeJsQMURLmcHRE"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Easter (feat. Todd Dulaney)",
         "url": "https://open.spotify.com/album/10mfB8u8N71xXGatlhkDdG"
       },
@@ -1435,6 +1419,58 @@
       "duration_ms": 427640,
       "name": "Easter (feat. Todd Dulaney)",
       "url": "https://open.spotify.com/track/5yUJMkUWsJmOfsP964tNtg"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "TIME (Truth Is My Energy)",
+        "url": "https://open.spotify.com/album/5NnwvpZHr79oiMZ2oEGhd8"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 230659,
+      "name": "He Carried The Cross For Me",
+      "url": "https://open.spotify.com/track/2XRDEjQCQeJsQMURLmcHRE"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "The Essential Fred Hammond",
+        "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Celebrate (He Lives)",
+      "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Common Hymnal (Live)",
+        "url": "https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Justin Gray",
+          "url": "https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR"
+        }
+      ],
+      "duration_ms": 471217,
+      "name": "The Cross Made the Change - Live",
+      "url": "https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1463,26 +1499,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Common Hymnal (Live)",
-        "url": "https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj"
-      },
-      "artists": [
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        },
-        {
-          "name": "Justin Gray",
-          "url": "https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR"
-        }
-      ],
-      "duration_ms": 471217,
-      "name": "The Cross Made the Change - Live",
-      "url": "https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Oh Happy Day",
         "url": "https://open.spotify.com/album/4T763g0k1j5WDKxfKO8235"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 127466,
       "name": "Oh Happy Day",
       "url": "https://open.spotify.com/track/4lUt7TEoHgt9zkCjhgzdnP"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "The Essential Fred Hammond",
-        "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "Celebrate (He Lives)",
-      "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "He Lives",
-        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
-      },
-      "artists": [
-        {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
-        }
-      ],
-      "duration_ms": 457000,
-      "name": "He Lives",
-      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Trip Down Memory Lane",
         "url": "https://open.spotify.com/album/1spELczvtbmaJoFpIiiyLU"
       },
@@ -1631,22 +1615,38 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Live At Azusa 3",
-        "url": "https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj"
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
       },
       "artists": [
         {
-          "name": "Carlton Pearson",
-          "url": "https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P"
-        },
-        {
-          "name": "Beverly Crawford",
-          "url": "https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M"
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
         }
       ],
-      "duration_ms": 436960,
-      "name": "He Lives - Live",
-      "url": "https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA"
+      "duration_ms": 457000,
+      "name": "He Lives",
+      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Healing - Live In Detroit (with Vision)",
+        "url": "https://open.spotify.com/album/2f5Pp3wWWYGGoO9EHqR70A"
+      },
+      "artists": [
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        },
+        {
+          "name": "Vision",
+          "url": "https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m"
+        }
+      ],
+      "duration_ms": 357226,
+      "name": "You Did It All (with Vision)",
+      "url": "https://open.spotify.com/track/43GrHq2HESNffQyauLdBRq"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1671,22 +1671,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Healing - Live In Detroit (with Vision)",
-        "url": "https://open.spotify.com/album/2f5Pp3wWWYGGoO9EHqR70A"
+        "name": "Live At Azusa 3",
+        "url": "https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj"
       },
       "artists": [
         {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+          "name": "Carlton Pearson",
+          "url": "https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P"
         },
         {
-          "name": "Vision",
-          "url": "https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m"
+          "name": "Beverly Crawford",
+          "url": "https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M"
         }
       ],
-      "duration_ms": 357226,
-      "name": "You Did It All (with Vision)",
-      "url": "https://open.spotify.com/track/43GrHq2HESNffQyauLdBRq"
+      "duration_ms": 436960,
+      "name": "He Lives - Live",
+      "url": "https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA"
     },
     {
       "added_at": "2023-04-09 08:49:39",

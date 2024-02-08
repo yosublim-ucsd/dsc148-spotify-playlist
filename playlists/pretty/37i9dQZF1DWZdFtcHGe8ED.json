@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 536038,
+  "num_followers": 536188,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2RlZTY5NTZlOGViZmRjY2MyOGJlMWNiMGIyMGM5YzY3YmM4MWUz",
+  "snapshot_id": "MCwzODE0YmU0Y2M0Yzg4MWVlZGNmZjZhMGQ3NWVmZTg2YjhhMDE1YjM5",
   "tracks": [
     {
       "added_at": "2024-01-12 15:30:29",
@@ -235,8 +235,8 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Suicidal Tendencies",
-        "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
+        "name": "Freedumb",
+        "url": "https://open.spotify.com/album/272uyFl2Z35T3MPtHTg92C"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
         }
       ],
-      "duration_ms": 229960,
-      "name": "Institutionalized",
-      "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
+      "duration_ms": 109306,
+      "name": "Cyco Vision",
+      "url": "https://open.spotify.com/track/3I9K8tSZRsAw7bRYfbhJEA"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -351,8 +351,8 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Freedumb",
-        "url": "https://open.spotify.com/album/272uyFl2Z35T3MPtHTg92C"
+        "name": "Suicidal Tendencies",
+        "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
         }
       ],
-      "duration_ms": 109306,
-      "name": "Cyco Vision",
-      "url": "https://open.spotify.com/track/3I9K8tSZRsAw7bRYfbhJEA"
+      "duration_ms": 229960,
+      "name": "Institutionalized",
+      "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Metal Church",
-        "url": "https://open.spotify.com/album/6LYQlKhDAXE9xMS3YzioNv"
-      },
-      "artists": [
-        {
-          "name": "Metal Church",
-          "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
-        }
-      ],
-      "duration_ms": 302360,
-      "name": "Metal Church",
-      "url": "https://open.spotify.com/track/34LXW73avo8xz0NLiVuiow"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "The Evil Divide",
         "url": "https://open.spotify.com/album/37BeDhGFfISfgrWxbv0MtW"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 278381,
       "name": "The Moth",
       "url": "https://open.spotify.com/track/1VAr5YFV3UF3eWmbhYQMqF"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Metal Church",
+        "url": "https://open.spotify.com/album/6LYQlKhDAXE9xMS3YzioNv"
+      },
+      "artists": [
+        {
+          "name": "Metal Church",
+          "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
+        }
+      ],
+      "duration_ms": 302360,
+      "name": "Metal Church",
+      "url": "https://open.spotify.com/track/34LXW73avo8xz0NLiVuiow"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Five Serpent's Teeth",
-        "url": "https://open.spotify.com/album/3VL9IPd5pYeOXJJcRSUXpK"
-      },
-      "artists": [
-        {
-          "name": "Evile",
-          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
-        }
-      ],
-      "duration_ms": 291960,
-      "name": "Cult",
-      "url": "https://open.spotify.com/track/7jkdjLkhSQRcVA3lsnTClQ"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "T\u016b",
         "url": "https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 274310,
       "name": "Holding My Breath",
       "url": "https://open.spotify.com/track/4JTbBZhYkqc8lcAC4DNawJ"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Five Serpent's Teeth",
+        "url": "https://open.spotify.com/album/3VL9IPd5pYeOXJJcRSUXpK"
+      },
+      "artists": [
+        {
+          "name": "Evile",
+          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "Cult",
+      "url": "https://open.spotify.com/track/7jkdjLkhSQRcVA3lsnTClQ"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
+        "name": "Mourn the Southern Skies",
+        "url": "https://open.spotify.com/album/6Zv7TZNO5LrJH9dRUjouom"
+      },
+      "artists": [
+        {
+          "name": "Exhorder",
+          "url": "https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl"
+        }
+      ],
+      "duration_ms": 233145,
+      "name": "My Time",
+      "url": "https://open.spotify.com/track/7455R3ZkleZUXIl4qUrsEu"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
         "name": "Born Of The Bomb",
         "url": "https://open.spotify.com/album/0zV6u0B6tozejS9ol4rfca"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 244026,
       "name": "Slaves of Pain",
       "url": "https://open.spotify.com/track/7lD9KnYOyQyoYIBHOWKrdz"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
-        "name": "Mourn the Southern Skies",
-        "url": "https://open.spotify.com/album/6Zv7TZNO5LrJH9dRUjouom"
-      },
-      "artists": [
-        {
-          "name": "Exhorder",
-          "url": "https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl"
-        }
-      ],
-      "duration_ms": 233145,
-      "name": "My Time",
-      "url": "https://open.spotify.com/track/7455R3ZkleZUXIl4qUrsEu"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Handle With Care",
-        "url": "https://open.spotify.com/album/79vmBrXaUaPS7LleUgP7HY"
-      },
-      "artists": [
-        {
-          "name": "Nuclear Assault",
-          "url": "https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Critical Mass",
-      "url": "https://open.spotify.com/track/4uOq76srFzt94o98QrCVRO"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Woe to the Vanquished",
         "url": "https://open.spotify.com/album/5cs1TbegYyGYlQyeN12ErL"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 204200,
       "name": "Remain Violent",
       "url": "https://open.spotify.com/track/2CXrH4eUWhusFmDk3PWpKX"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Handle With Care",
+        "url": "https://open.spotify.com/album/79vmBrXaUaPS7LleUgP7HY"
+      },
+      "artists": [
+        {
+          "name": "Nuclear Assault",
+          "url": "https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Critical Mass",
+      "url": "https://open.spotify.com/track/4uOq76srFzt94o98QrCVRO"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Pyh\u00e4 Vitutus",
-        "url": "https://open.spotify.com/album/7l48qUCRcUiNUyOD2zzkDT"
-      },
-      "artists": [
-        {
-          "name": "Mokoma",
-          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
-        }
-      ],
-      "duration_ms": 201223,
-      "name": "Pyh\u00e4 Vitutus",
-      "url": "https://open.spotify.com/track/3nn2BBMs1fwcUzvz3SsWBk"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "The Ultra-Violence",
         "url": "https://open.spotify.com/album/35flmem6J4bq04Kvib1ghA"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 633600,
       "name": "The Ultra-Violence",
       "url": "https://open.spotify.com/track/20bJTQOaoHqeCHBhqIgcTl"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Pyh\u00e4 Vitutus",
+        "url": "https://open.spotify.com/album/7l48qUCRcUiNUyOD2zzkDT"
+      },
+      "artists": [
+        {
+          "name": "Mokoma",
+          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
+        }
+      ],
+      "duration_ms": 201223,
+      "name": "Pyh\u00e4 Vitutus",
+      "url": "https://open.spotify.com/track/3nn2BBMs1fwcUzvz3SsWBk"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "If The Sky Came Down",
-        "url": "https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF"
-      },
-      "artists": [
-        {
-          "name": "Lost Society",
-          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "112",
-      "url": "https://open.spotify.com/track/2BXNFsE0wupk3RqkdPLg4K"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Conformicide",
         "url": "https://open.spotify.com/album/6GI3M1qTLgDNNcZCTzgWEQ"
       },
@@ -1371,22 +1355,6 @@
       "duration_ms": 289520,
       "name": "Hang 'Em High",
       "url": "https://open.spotify.com/track/5g2cylVMI57PM06exAtNnz"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
-        "name": "Ignorance & Surf Nicaragua",
-        "url": "https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0"
-      },
-      "artists": [
-        {
-          "name": "Sacred Reich",
-          "url": "https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "Surf Nicaragua",
-      "url": "https://open.spotify.com/track/0cjd7hXm53E1xAJsIYcSJN"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1407,18 +1375,18 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "The Wings of War",
-        "url": "https://open.spotify.com/album/2IUZN5c0AVdrnQKfxdMaPK"
+        "name": "If The Sky Came Down",
+        "url": "https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF"
       },
       "artists": [
         {
-          "name": "Overkill",
-          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+          "name": "Lost Society",
+          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
         }
       ],
-      "duration_ms": 349386,
-      "name": "Last Man Standing",
-      "url": "https://open.spotify.com/track/01zm9AlUjboMitrlL3oVAz"
+      "duration_ms": 229733,
+      "name": "112",
+      "url": "https://open.spotify.com/track/2BXNFsE0wupk3RqkdPLg4K"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1435,6 +1403,38 @@
       "duration_ms": 206653,
       "name": "Year of the Goat",
       "url": "https://open.spotify.com/track/7D0wXdVm5aMwOgArdzBMcQ"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "The Wings of War",
+        "url": "https://open.spotify.com/album/2IUZN5c0AVdrnQKfxdMaPK"
+      },
+      "artists": [
+        {
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+        }
+      ],
+      "duration_ms": 349386,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/01zm9AlUjboMitrlL3oVAz"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Ignorance & Surf Nicaragua",
+        "url": "https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0"
+      },
+      "artists": [
+        {
+          "name": "Sacred Reich",
+          "url": "https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "Surf Nicaragua",
+      "url": "https://open.spotify.com/track/0cjd7hXm53E1xAJsIYcSJN"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Darkness Descends",
-        "url": "https://open.spotify.com/album/1IRzwwevpNSdxERoRIKQrw"
-      },
-      "artists": [
-        {
-          "name": "Dark Angel",
-          "url": "https://open.spotify.com/artist/0RFQyVQGVcECxnuSLvEKxV"
-        }
-      ],
-      "duration_ms": 347093,
-      "name": "Darkness Descends",
-      "url": "https://open.spotify.com/track/1zI8yKFcmjtgdFbEoTHn94"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Slaughter In The Vatican",
         "url": "https://open.spotify.com/album/5YnKblRYZeLlm90M9xAIvT"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 368840,
       "name": "Desecrator",
       "url": "https://open.spotify.com/track/3Lao9WQ5YkN6P9YKE0ppVX"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Darkness Descends",
+        "url": "https://open.spotify.com/album/1IRzwwevpNSdxERoRIKQrw"
+      },
+      "artists": [
+        {
+          "name": "Dark Angel",
+          "url": "https://open.spotify.com/artist/0RFQyVQGVcECxnuSLvEKxV"
+        }
+      ],
+      "duration_ms": 347093,
+      "name": "Darkness Descends",
+      "url": "https://open.spotify.com/track/1zI8yKFcmjtgdFbEoTHn94"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
+        "name": "Eternal Nightmare",
+        "url": "https://open.spotify.com/album/2qB9lQZEfYOHEXGD2HhExH"
+      },
+      "artists": [
+        {
+          "name": "Vio-Lence",
+          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
+        }
+      ],
+      "duration_ms": 370400,
+      "name": "Eternal Nightmare",
+      "url": "https://open.spotify.com/track/0kJVVyz73lZau2zbr4kmIX"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
         "name": "Cabaret De La Guillotine",
         "url": "https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC"
       },
@@ -1663,22 +1679,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Eternal Nightmare",
-        "url": "https://open.spotify.com/album/2qB9lQZEfYOHEXGD2HhExH"
-      },
-      "artists": [
-        {
-          "name": "Vio-Lence",
-          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
-        }
-      ],
-      "duration_ms": 370400,
-      "name": "Eternal Nightmare",
-      "url": "https://open.spotify.com/track/0kJVVyz73lZau2zbr4kmIX"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Heavy Metal Maniac",
         "url": "https://open.spotify.com/album/4jV5DFEggX8yPy0CPQ42il"
       },
@@ -1691,22 +1691,6 @@
       "duration_ms": 227453,
       "name": "Heavy Metal Maniac",
       "url": "https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
-        "name": "Purified by Fire",
-        "url": "https://open.spotify.com/album/3X36qaXZS5brpKUg1LPfBw"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Angels",
-          "url": "https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2"
-        }
-      ],
-      "duration_ms": 285013,
-      "name": "Purified by Fire",
-      "url": "https://open.spotify.com/track/6zhXx6Shn5BgKjPjcvSXDU"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1727,6 +1711,22 @@
       "duration_ms": 218406,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Purified by Fire",
+        "url": "https://open.spotify.com/album/3X36qaXZS5brpKUg1LPfBw"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Angels",
+          "url": "https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2"
+        }
+      ],
+      "duration_ms": 285013,
+      "name": "Purified by Fire",
+      "url": "https://open.spotify.com/track/6zhXx6Shn5BgKjPjcvSXDU"
     },
     {
       "added_at": "2024-01-12 15:30:29",

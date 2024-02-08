@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Blind Channel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,802 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,983 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [Feed Them To The Wolves](https://open.spotify.com/track/67edfnqe1CBj0hk8Ya9wD4) | [Sicksense](https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc), [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ) | [Fools Tomorrow](https://open.spotify.com/album/1SzBtNNSVGA7qa010TFXTX) | 4:05 |
 | 50 | [Cut Loose](https://open.spotify.com/track/4Gv2T3L4aozxQqg0jCKSN4) | [Jynx](https://open.spotify.com/artist/3nthcaxiFmmeqZun308NSM) | [Cut Loose](https://open.spotify.com/album/6UpVFYuyMykPtwwE5ObuWr) | 3:15 |
 
-Snapshot ID: `MCxhNGU0NzAzNDYyMjFmYzFhMjU3ZWVkZWZjMmZlMDU3MTczMzM5YTVi`
+Snapshot ID: `MCwzOTRkNjBlMDA5OTlkODQ2MThhMTEzMzcwMmEyNzFhY2FkOGNmZTQ5`

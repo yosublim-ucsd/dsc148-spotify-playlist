@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,414 likes - 44 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,425 likes - 44 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 22 | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP) | 2:56 |
 | 23 | [Polaroid](https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:13 |
 | 24 | [Alien](https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Alien](https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u) | 2:54 |
-| 25 | [Finally](https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Finally](https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9) | 3:08 |
-| 26 | [MOONLIGHT SUNRISE \(Jonas Blue Remix\)](https://open.spotify.com/track/0H8vXZHYrbMfYJlojEjiS3) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 2:47 |
+| 25 | [MOONLIGHT SUNRISE \(Jonas Blue Remix\)](https://open.spotify.com/track/0H8vXZHYrbMfYJlojEjiS3) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 2:47 |
+| 26 | [Finally](https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Finally](https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9) | 3:08 |
 | 27 | [Younger](https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Younger](https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD) | 3:14 |
 | 28 | [I See Love \- From Hotel Transylvania 3](https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [I See Love \(From Hotel Transylvania 3\)](https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav) | 2:53 |
 | 29 | [Hearts Ain't Gonna Lie \- Eden Prince Remix](https://open.spotify.com/track/6B9cqNooxIyPfr3P5EB8LA) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Hearts Ain't Gonna Lie \(Remixes, Pt\. 1\)](https://open.spotify.com/album/00wIfIEWOqJ2RFrRazVl0i) | 3:58 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 43 | [Don't Call It Love](https://open.spotify.com/track/6NKOAdHTXONN0IZaekxifN) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Cyan](https://open.spotify.com/album/7hYzoKqAwWkfXQEZ8rXw4h) | 3:18 |
 | 44 | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/track/5nsJclFXUIQajs8WJIkds7) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/album/20SORgtgHYtIn2xjpjXres) | 3:02 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA5MDIwNmFkMTViMGMzYzJlMTgyOTU5ZWRiZWJhOTM1Mg==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDAxN2FmNThiYjZjZGU5NDViNzRlZTNjM2JmNmE2N2M1MQ==`

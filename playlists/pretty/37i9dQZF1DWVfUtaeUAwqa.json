@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7698,
+  "num_followers": 7699,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWQ5NzQwN2MxYmM3NTIzMmI5NDMwMTM5M2FiZjZjM2U3MjAyYzU4",
+  "snapshot_id": "MCwyOTQxMTQwNTU5ZTM5YmY4MTY1MTFkNGZjM2Q2ZDc0MDY0OWZmNTNi",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Jazz King Of New Orleans",
-        "url": "https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll Morton",
-          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "Black Bottom Stomp - 2002 Remastered",
-      "url": "https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Kid Ory New Orleans Jazz Man",
         "url": "https://open.spotify.com/album/4WDAhCf6ihX5PBZwpadK9Z"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 183600,
       "name": "Savoy Blues",
       "url": "https://open.spotify.com/track/5LmttN1s1QbpLBVVCInT1N"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Jazz King Of New Orleans",
+        "url": "https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll Morton",
+          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
+        }
+      ],
+      "duration_ms": 192426,
+      "name": "Black Bottom Stomp - 2002 Remastered",
+      "url": "https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Jazz Foundations Vol. 25",
-        "url": "https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn"
-      },
-      "artists": [
-        {
-          "name": "Edmond Hall",
-          "url": "https://open.spotify.com/artist/0ObFsHKsujQRFXqEL6Q0Jc"
-        }
-      ],
-      "duration_ms": 274808,
-      "name": "Walkin' The Dog",
-      "url": "https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Doctor Jazz",
         "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 208266,
       "name": "Doctor Jazz",
       "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Jazz Foundations Vol. 25",
+        "url": "https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn"
+      },
+      "artists": [
+        {
+          "name": "Edmond Hall",
+          "url": "https://open.spotify.com/artist/0ObFsHKsujQRFXqEL6Q0Jc"
+        }
+      ],
+      "duration_ms": 274808,
+      "name": "Walkin' The Dog",
+      "url": "https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Complete Set - 1923-1926",
-        "url": "https://open.spotify.com/album/2zkPkIqQvN9Br6jHpemVGR"
-      },
-      "artists": [
-        {
-          "name": "Freddie Keppard",
-          "url": "https://open.spotify.com/artist/0y247K7t0JULOQuGx17ZFJ"
-        }
-      ],
-      "duration_ms": 153506,
-      "name": "Stock Yards Strut",
-      "url": "https://open.spotify.com/track/5O7xHPPhdMtwEsOpn1cvu7"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "That's A Plenty",
         "url": "https://open.spotify.com/album/2QNvebWOK7Zie6rKYoEeEx"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 227026,
       "name": "Frankie & Johnny",
       "url": "https://open.spotify.com/track/7iYvxt7QPOdaH4TQ0IIVx2"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Complete Set - 1923-1926",
+        "url": "https://open.spotify.com/album/2zkPkIqQvN9Br6jHpemVGR"
+      },
+      "artists": [
+        {
+          "name": "Freddie Keppard",
+          "url": "https://open.spotify.com/artist/0y247K7t0JULOQuGx17ZFJ"
+        }
+      ],
+      "duration_ms": 153506,
+      "name": "Stock Yards Strut",
+      "url": "https://open.spotify.com/track/5O7xHPPhdMtwEsOpn1cvu7"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -583,22 +583,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Mardi Gras Parade Music from New Orleans",
-        "url": "https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o"
-      },
-      "artists": [
-        {
-          "name": "Sharkey Bonano",
-          "url": "https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM"
-        }
-      ],
-      "duration_ms": 285139,
-      "name": "While We Danced at Mardi Gras",
-      "url": "https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "George Girard's Band",
         "url": "https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Mardi Gras Parade Music from New Orleans",
+        "url": "https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o"
+      },
+      "artists": [
+        {
+          "name": "Sharkey Bonano",
+          "url": "https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM"
+        }
+      ],
+      "duration_ms": 285139,
+      "name": "While We Danced at Mardi Gras",
+      "url": "https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "More Best of the Dukes of Dixieland, Vol. 2",
         "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Paul Barbarin & His New Orleans Jazz Band",
-        "url": "https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx"
-      },
-      "artists": [
-        {
-          "name": "Paul Barbarin & His New Orleans Jazz Band",
-          "url": "https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS"
-        }
-      ],
-      "duration_ms": 315600,
-      "name": "Bugle Boy March",
-      "url": "https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "1939-1944",
         "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 181133,
       "name": "Livery Stable Blues (Barnyard Blues)",
       "url": "https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Paul Barbarin & His New Orleans Jazz Band",
+        "url": "https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx"
+      },
+      "artists": [
+        {
+          "name": "Paul Barbarin & His New Orleans Jazz Band",
+          "url": "https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS"
+        }
+      ],
+      "duration_ms": 315600,
+      "name": "Bugle Boy March",
+      "url": "https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -899,22 +899,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Pete Fountain Presents The Best Of Dixieland: Al Hirt",
-        "url": "https://open.spotify.com/album/1odJRiGEXJp290FYxI01vE"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Jazz Me Blues",
-      "url": "https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Roaring' 20's",
         "url": "https://open.spotify.com/album/6yGyFKhtYmeatToldl421e"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 182360,
       "name": "Dixie",
       "url": "https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "30 Classics: Dixieland Jazz for Mardi Gras",
+        "url": "https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 232489,
+      "name": "Carry Me Back to Old Virginia",
+      "url": "https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "30 Classics: Dixieland Jazz for Mardi Gras",
-        "url": "https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE"
+        "name": "4th of July Parade: 30 Patriotic Marches for Independence Day",
+        "url": "https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj"
       },
       "artists": [
         {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+          "name": "The Kings Of Dixieland",
+          "url": "https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg"
         }
       ],
-      "duration_ms": 232489,
-      "name": "Carry Me Back to Old Virginia",
-      "url": "https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5"
+      "duration_ms": 189074,
+      "name": "Semper Fidelis",
+      "url": "https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG"
     }
   ],
   "unique_name": "Hot-Jazz Classics",

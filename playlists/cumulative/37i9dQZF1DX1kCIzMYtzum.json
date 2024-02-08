@@ -2086,7 +2086,7 @@
     {
       "album": {
         "name": "Crusade",
-        "url": "https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz"
+        "url": "https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ"
       },
       "artists": [
         {
@@ -2097,6 +2097,24 @@
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Crusade - Club Edit",
+      "url": "https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo"
+    },
+    {
+      "album": {
+        "name": "Crusade",
+        "url": "https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-08",
       "duration_ms": 179400,
       "name": "Crusade - Club Edit",
       "url": "https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK"

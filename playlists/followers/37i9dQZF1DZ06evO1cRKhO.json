@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 560,
+  "2024-02-08": 561,
   "date_first_scraped": "2022-05-30",
   "description": "This is Pauline Oliveros. The essential tracks, all in one playlist.",
   "name": "This Is Pauline Oliveros",
@@ -291,7 +291,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 363520,
       "name": "Altamirage III",
       "url": "https://open.spotify.com/track/5ELBzwjfg5WfTWQ9zlZfQL"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 365568,
       "name": "Altamirage IV",
       "url": "https://open.spotify.com/track/01QDKF2LSDB9iDFZhvHQNK"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 199880,
       "name": "Duet",
       "url": "https://open.spotify.com/track/2DpRCugH6W4YelZWeprDNv"
@@ -1285,7 +1285,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 145040,
       "name": "Ghosting",
       "url": "https://open.spotify.com/track/4zpP00UCCZsYs9DkUHQkjx"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 811323,
       "name": "How We Got Here",
       "url": "https://open.spotify.com/track/0db0kwA4hfvlXVIBiXbIFK"
@@ -2419,7 +2419,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 208053,
       "name": "Pivot Point",
       "url": "https://open.spotify.com/track/3vmMPY1J7OBcoOYNUPSHz9"
@@ -2795,7 +2795,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 284673,
       "name": "Room At the Inn",
       "url": "https://open.spotify.com/track/6ngAUMaLLjcje2iU17j4Wp"
@@ -3269,7 +3269,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 885000,
       "name": "Striations",
       "url": "https://open.spotify.com/track/1lYAR84S7YGcxI8HGGDItr"
@@ -3373,7 +3373,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 1651080,
       "name": "Tara's Room",
       "url": "https://open.spotify.com/track/2BcRnZTZbFmvEBSDoBc8z4"
@@ -3843,7 +3843,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 545000,
       "name": "Traces",
       "url": "https://open.spotify.com/track/53lH61JaOTUJXX9fU6Fzns"
@@ -4307,7 +4307,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 427695,
       "name": "Vaccinium Myrtillus",
       "url": "https://open.spotify.com/track/04iUS6mYbmKESivrKn1HtD"
@@ -4389,7 +4389,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 443733,
       "name": "Vittoria",
       "url": "https://open.spotify.com/track/6vsMJbyrCpH7iM3dc7pFRh"

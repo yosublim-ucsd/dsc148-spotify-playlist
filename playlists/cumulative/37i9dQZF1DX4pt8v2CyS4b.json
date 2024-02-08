@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "A Small Light (Songs from the Limited Series)",
+        "url": "https://open.spotify.com/album/5OMNsSmLzeb3ZPpCBmw6SD"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323106,
+      "name": "Cheryl",
+      "url": "https://open.spotify.com/track/589hIHibkRNxbzQVQu7YEC"
+    },
+    {
+      "album": {
         "name": "Wild Life (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3d5NFBQKOA2tM2grdoj746"
       },
@@ -370,6 +388,24 @@
       "duration_ms": 225620,
       "name": "Humpback Whales II: The Great Feast",
       "url": "https://open.spotify.com/track/1JS8SQStfqPbrnfPGZUw4k"
+    },
+    {
+      "album": {
+        "name": "A Small Light (Songs from the Limited Series)",
+        "url": "https://open.spotify.com/album/5OMNsSmLzeb3ZPpCBmw6SD"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4KpstycaGprJn5CtRXiRQ9"
     },
     {
       "album": {

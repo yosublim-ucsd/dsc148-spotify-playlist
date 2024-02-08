@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Canção & Louvor
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,180 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,225 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 33 | [Esperança](https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Esperança](https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg) | 4:32 |
 | 34 | [Ovelha Rebelde](https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [O Meu Clamor, Vol\. 2](https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e) | 3:14 |
 | 35 | [Lugar Secreto](https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT) | [Lucélia Santos](https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV) | [Lugar Secreto](https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk) | 3:46 |
-| 36 | [A Esperança Que Restou](https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM) | [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT) | [A Esperança Que Restou](https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I) | 4:41 |
-| 37 | [Chuva de Poder](https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb) | [Gabriela Rodrigues](https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb) | [Chuva de Poder](https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr) | 3:16 |
+| 36 | [Chuva de Poder](https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb) | [Gabriela Rodrigues](https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb) | [Chuva de Poder](https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr) | 3:16 |
+| 37 | [A Esperança Que Restou](https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM) | [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT) | [A Esperança Que Restou](https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I) | 4:41 |
 | 38 | [Quem Foi Que Me Tocou](https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Quem Foi Que Me Tocou](https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX) | 4:41 |
-| 39 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 |
+| 39 | [Volta pra Casa](https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Volta pra Casa](https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC) | 4:49 |
 | 40 | [A Reforma](https://open.spotify.com/track/6kNQNhGAovsClhTxgQS1Rm) | [Jayana Moreira](https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH) | [A Reforma](https://open.spotify.com/album/1sP2MouMuWffJbewWHBUv2) | 4:47 |
-| 41 | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC) | 3:59 |
-| 42 | [Assim Como Deus Quer](https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Assim Como Deus Quer](https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD) | 2:43 |
+| 41 | [Assim Como Deus Quer](https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Assim Como Deus Quer](https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD) | 2:43 |
+| 42 | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC) | 3:59 |
 | 43 | [Quem Procura Acha](https://open.spotify.com/track/0t34g5rLBbVubjIzQdgCKn) | [Joy Camargo](https://open.spotify.com/artist/6fRHIW5YdnSr2eJorBBECK) | [Quem Procura Acha](https://open.spotify.com/album/30VFooHGuhOWOFMJkSKJZn) | 3:02 |
 | 44 | [Deus É Fiel \- Ao Vivo](https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Deus É Fiel \(Ao Vivo\)](https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48) | 4:29 |
 | 45 | [Eu Vou para o Céu](https://open.spotify.com/track/0qacmh2FDALRfili16U6wk) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Eu Vou para o Céu](https://open.spotify.com/album/79ystA3RcQXeTnJVRjqUpf) | 3:21 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 54 | [Tem Milagre Vindo Aí](https://open.spotify.com/track/2BLbkAosZfN5bmdOCLdwCv) | [Monique Grazielle](https://open.spotify.com/artist/2CdJLbNKlntgLM95IWuTWM) | [No Tempo Certo](https://open.spotify.com/album/59lcFTldjKDGy2w2mS8nj9) | 3:56 |
 | 55 | [Amar É Fácil](https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU) | [Lenno Maia](https://open.spotify.com/artist/7h4qSS1HJt6i1Fws0qInTx) | [Amar É Fácil](https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8) | 4:37 |
 | 56 | [Refém do Caminhão](https://open.spotify.com/track/3DHX5Ca4Vzest42XWIMhrc) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Refém do Caminhão](https://open.spotify.com/album/0TPZmILuwLS8LvijT4cLKy) | 4:36 |
-| 57 | [Além da Medicina](https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Além da Medicina](https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED) | 4:46 |
+| 57 | [A Resposta É Deus](https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [A Resposta É Deus](https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE) | 4:16 |
 | 58 | [Arma Forjada](https://open.spotify.com/track/3wgJ32iIfOTwFmd6zSL6dG) | [Ronaldo André](https://open.spotify.com/artist/4ncW0avyx3Z9dDloRttewh) | [Arma Forjada](https://open.spotify.com/album/6Ks3dxIO88IeFfLgqZHdFG) | 4:07 |
 | 59 | [Caminhão 11 13 \- Ao Vivo](https://open.spotify.com/track/3NubUCC2PTleNfZs2h9YDL) | [Lázaro e Eduardo](https://open.spotify.com/artist/6Hsz3V67jWpX7tqCNH0NQF) | [Caminhão 11 13 \(Ao Vivo\)](https://open.spotify.com/album/3gFgVmyBu9n3E0ulLTFHO7) | 3:00 |
-| 60 | [A Resposta É Deus](https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [A Resposta É Deus](https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE) | 4:16 |
+| 60 | [Além da Medicina](https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Além da Medicina](https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED) | 4:46 |
 
-Snapshot ID: `MCwyNTEyMjU1YTQ0Y2MzMGU4NGNmNTc1NTE5MzIzOGFiOWI1MDE1MTIy`
+Snapshot ID: `MCwyNTFkNzk0YmIxOTVjOGQwNjdiZmIyODRiOWRlMmViMjZmNmZlYWJh`

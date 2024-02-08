@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-694 songs - 2 day 6 hr 45 min
+695 songs - 2 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/4wGYHJ2Mcvb2QvHinDVGEC) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [I Just Dropped By To Say Hello](https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F) | 2:44 | 2022-10-27 |  |
 | [In Your Own Sweet Way](https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 4:52 | 2022-10-27 |  |
 | [Infant Eyes](https://open.spotify.com/track/6hz2ZQNQd98q5iQ4dvjSpX) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 7:37 | 2022-10-27 | 2023-12-24 |
+| [Infant Eyes](https://open.spotify.com/track/7v6mocwA0qrPLoyLYpxq1G) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1vxRTqxedJxRmg8J11ZCuF) | 7:37 | 2024-02-01 |  |
 | [Infant Eyes \- Remastered1998/Rudy Van Gelder Edition](https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Speak No Evil](https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU) | 6:54 | 2022-10-27 |  |
 | [Interlude No\. 3](https://open.spotify.com/track/0wvbb2MxlokwqSvbeoOOHv) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Mourning of a Star](https://open.spotify.com/album/1dcuNuUNZNe33aMywoaTuP) | 1:17 | 2023-10-19 |  |
 | [It Ain't Necessarily So](https://open.spotify.com/track/2qswPLZD9CbUoSidGNyxwm) | [Mary Lou Williams](https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR) | [Gilles Peterson \- Magic Peterson Sunshine](https://open.spotify.com/album/6VflpBTIdO5wvutZII2Grw) | 4:40 | 2022-10-27 |  |
@@ -356,7 +357,7 @@
 | [La vie en rose \- Single Version](https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Highlights From His Decca Years](https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS) | 3:26 | 2022-10-27 | 2023-04-30 |
 | [Largo](https://open.spotify.com/track/3AxQSzHc2vYjqMZLyPyy2H) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 4:22 | 2022-10-27 |  |
 | [Lazy Afternoon \- Remastered 2004](https://open.spotify.com/track/32AOu87ElnJJbRe3mCfp7T) | [Pete La Roca](https://open.spotify.com/artist/5HWSWx1uHCqorf70HByfjW) | [Basra \(Remastered\)](https://open.spotify.com/album/4h0bgUTeSQQ3zbwEikeEV7) | 5:32 | 2022-10-27 | 2023-09-13 |
-| [Le Coiffeur](https://open.spotify.com/track/2dk9zmPIOjVXhUgeLgfKNU) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 7:02 | 2022-10-27 |  |
+| [Le Coiffeur](https://open.spotify.com/track/2dk9zmPIOjVXhUgeLgfKNU) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 7:02 | 2022-10-27 | 2024-02-08 |
 | [Let There Be Love](https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 2:45 | 2022-10-27 |  |
 | [Let's Do It](https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:05 | 2022-10-27 |  |
 | [Let's Fall In Love](https://open.spotify.com/track/4IVyX0UJzGyUk0MLiz1jVJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [When I Look In Your Eyes](https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD) | 4:18 | 2022-10-27 |  |

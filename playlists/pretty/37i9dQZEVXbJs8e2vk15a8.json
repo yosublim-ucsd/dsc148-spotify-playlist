@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzYwNTg0MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYwNjcwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
+      "album": {
+        "name": "Dance You Outta My Head",
+        "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
+      },
+      "artists": [
+        {
+          "name": "Cat Janice",
+          "url": "https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz"
+        }
+      ],
+      "duration_ms": 202508,
+      "name": "Dance You Outta My Head",
+      "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
+    },
+    {
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Buscando Money",
         "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Bling-Bang-Bang-Born",
         "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
@@ -77,31 +93,7 @@
       "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
-      "album": {
-        "name": "Poison (Hazbin Hotel Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
-      },
-      "artists": [
-        {
-          "name": "Blake Roman",
-          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
-        },
-        {
-          "name": "Sam Haft",
-          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
-        },
-        {
-          "name": "Andrew Underberg",
-          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
-        }
-      ],
-      "duration_ms": 127689,
-      "name": "Poison - Hazbin Hotel Original Soundtrack",
-      "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
-    },
-    {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Hazbin Hotel Original Soundtrack (Part 1)",
         "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
@@ -129,7 +121,31 @@
       "url": "https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
+      "album": {
+        "name": "Poison (Hazbin Hotel Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
+      },
+      "artists": [
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "duration_ms": 127689,
+      "name": "Poison - Hazbin Hotel Original Soundtrack",
+      "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
+    },
+    {
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
@@ -145,23 +161,7 @@
       "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
-      "album": {
-        "name": "De Ti Soy Adicto",
-        "url": "https://open.spotify.com/album/6k8UX3eTnjyzHMJh46t0pL"
-      },
-      "artists": [
-        {
-          "name": "MJ La Banda",
-          "url": "https://open.spotify.com/artist/4MSFIARyrVVwioMVuQHaUd"
-        }
-      ],
-      "duration_ms": 208065,
-      "name": "De Ti Soy Adicto",
-      "url": "https://open.spotify.com/track/5nXeiCGedneY3Me90nYu1H"
-    },
-    {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "FIRST LOVE",
         "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
@@ -181,7 +181,23 @@
       "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
+      "album": {
+        "name": "De Ti Soy Adicto",
+        "url": "https://open.spotify.com/album/6k8UX3eTnjyzHMJh46t0pL"
+      },
+      "artists": [
+        {
+          "name": "MJ La Banda",
+          "url": "https://open.spotify.com/artist/4MSFIARyrVVwioMVuQHaUd"
+        }
+      ],
+      "duration_ms": 208065,
+      "name": "De Ti Soy Adicto",
+      "url": "https://open.spotify.com/track/5nXeiCGedneY3Me90nYu1H"
+    },
+    {
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Rojo 27",
         "url": "https://open.spotify.com/album/2Ri2C98V656dc2KbEfBECw"
@@ -205,23 +221,7 @@
       "url": "https://open.spotify.com/track/4Fyw8q3aLTteJj8TnQ77VX"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
-      "album": {
-        "name": "Amores Luiz",
-        "url": "https://open.spotify.com/album/7jFbu3PPnId79X8wTXNMfc"
-      },
-      "artists": [
-        {
-          "name": "Dj Luizito officially",
-          "url": "https://open.spotify.com/artist/4Bqbjn5wBP42VSTSji6e3a"
-        }
-      ],
-      "duration_ms": 146385,
-      "name": "Amores Luiz",
-      "url": "https://open.spotify.com/track/6XJjoKBih2vxo0wZNVWQDd"
-    },
-    {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Ese Guille",
         "url": "https://open.spotify.com/album/6Il031Qrsr1CNq32gPxr0W"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/6EKqBV3VqOjQEGNnSS0hzt"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "100 % Mexicano",
         "url": "https://open.spotify.com/album/1mlBiMy6nLtiqMsFdjD73K"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/2ooKgNKvmTKxqkQUdyX7Mz"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "La Diabla",
         "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
@@ -297,27 +297,7 @@
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
-      "album": {
-        "name": "Gata Only (Turreo Edit Remix)",
-        "url": "https://open.spotify.com/album/0obkuYdkZG0DKkYuWLdgrP"
-      },
-      "artists": [
-        {
-          "name": "Zato DJ",
-          "url": "https://open.spotify.com/artist/75VwO8amb6eCuE9gYagNZZ"
-        },
-        {
-          "name": "Franco Gomez",
-          "url": "https://open.spotify.com/artist/5d7CAuMy3shaRFS6eOGw8r"
-        }
-      ],
-      "duration_ms": 137568,
-      "name": "Gata Only (Turreo Edit) - Remix",
-      "url": "https://open.spotify.com/track/1GOboxgwxgyKv5hXadY6qi"
-    },
-    {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Que Bonitos Ojos Tienes",
         "url": "https://open.spotify.com/album/38SU5U8SP879gJZ18ySkFE"
@@ -333,23 +313,7 @@
       "url": "https://open.spotify.com/track/10LQWC6qAzmQ9nXplrMbKn"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
-      "album": {
-        "name": "VVS Switch",
-        "url": "https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg"
-      },
-      "artists": [
-        {
-          "name": "Pressure 9X19",
-          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
-        }
-      ],
-      "duration_ms": 168178,
-      "name": "VVS Switch",
-      "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"
-    },
-    {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -365,7 +329,7 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Hazbin Hotel Original Soundtrack (Part 1)",
         "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
@@ -397,71 +361,23 @@
       "url": "https://open.spotify.com/track/2Evk4YMwD4zjjha2k3dbV7"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+        "name": "VVS Switch",
+        "url": "https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg"
       },
       "artists": [
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
         }
       ],
-      "duration_ms": 270697,
-      "name": "redrum",
-      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+      "duration_ms": 168178,
+      "name": "VVS Switch",
+      "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
-      "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 124374,
-      "name": "Emociones",
-      "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
-    },
-    {
-      "added_at": "2024-02-06 15:15:14",
-      "album": {
-        "name": "Amores Como El Nuestro",
-        "url": "https://open.spotify.com/album/6eSa8HpdEziR7tGjHEx7iw"
-      },
-      "artists": [
-        {
-          "name": "Ararya",
-          "url": "https://open.spotify.com/artist/4mdmbYTm07t7WUrsk60aVW"
-        }
-      ],
-      "duration_ms": 228182,
-      "name": "Amores Como El Nuestro",
-      "url": "https://open.spotify.com/track/58DiRtepEpLtNwYchoazyi"
-    },
-    {
-      "added_at": "2024-02-06 15:15:14",
-      "album": {
-        "name": "Meet The Lilithz",
-        "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
-      },
-      "artists": [
-        {
-          "name": "Lilithzplug",
-          "url": "https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo"
-        }
-      ],
-      "duration_ms": 126481,
-      "name": "CLEARED - Remix",
-      "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
-    },
-    {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "act ii: date @ 8",
         "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
@@ -477,7 +393,91 @@
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
+      "album": {
+        "name": "Gata Only (Turreo Edit Remix)",
+        "url": "https://open.spotify.com/album/0obkuYdkZG0DKkYuWLdgrP"
+      },
+      "artists": [
+        {
+          "name": "Zato DJ",
+          "url": "https://open.spotify.com/artist/75VwO8amb6eCuE9gYagNZZ"
+        },
+        {
+          "name": "Franco Gomez",
+          "url": "https://open.spotify.com/artist/5d7CAuMy3shaRFS6eOGw8r"
+        }
+      ],
+      "duration_ms": 137568,
+      "name": "Gata Only (Turreo Edit) - Remix",
+      "url": "https://open.spotify.com/track/1GOboxgwxgyKv5hXadY6qi"
+    },
+    {
+      "added_at": "2024-02-07 14:55:58",
+      "album": {
+        "name": "Amores Luiz",
+        "url": "https://open.spotify.com/album/7jFbu3PPnId79X8wTXNMfc"
+      },
+      "artists": [
+        {
+          "name": "Dj Luizito officially",
+          "url": "https://open.spotify.com/artist/4Bqbjn5wBP42VSTSji6e3a"
+        }
+      ],
+      "duration_ms": 146385,
+      "name": "Amores Luiz",
+      "url": "https://open.spotify.com/track/6XJjoKBih2vxo0wZNVWQDd"
+    },
+    {
+      "added_at": "2024-02-07 14:55:58",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "added_at": "2024-02-07 14:55:58",
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 124374,
+      "name": "Emociones",
+      "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
+    },
+    {
+      "added_at": "2024-02-07 14:55:58",
+      "album": {
+        "name": "Meet The Lilithz",
+        "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
+      },
+      "artists": [
+        {
+          "name": "Lilithzplug",
+          "url": "https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo"
+        }
+      ],
+      "duration_ms": 126481,
+      "name": "CLEARED - Remix",
+      "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
+    },
+    {
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Christell",
         "url": "https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "ESA NENA REMIX",
         "url": "https://open.spotify.com/album/3XrEY7xDGiGa3XjsZ6TOAv"
@@ -513,55 +513,7 @@
       "url": "https://open.spotify.com/track/7Eu9DsHBldOztErSo7erCq"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
-      "album": {
-        "name": "Una Foto Remix (feat. Emilia)",
-        "url": "https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw"
-      },
-      "artists": [
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 243898,
-      "name": "Una Foto Remix (feat. Emilia)",
-      "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
-    },
-    {
-      "added_at": "2024-02-06 15:15:14",
-      "album": {
-        "name": "Se\u00f1orita (Remix)",
-        "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
-      },
-      "artists": [
-        {
-          "name": "Jean Pi",
-          "url": "https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK"
-        },
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 181591,
-      "name": "Se\u00f1orita - Remix",
-      "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
-    },
-    {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "A Mi <\\3",
         "url": "https://open.spotify.com/album/39gXEoLAWnngwBvpIiV4mL"
@@ -581,39 +533,7 @@
       "url": "https://open.spotify.com/track/6cYNjRPUPCToPyvRCOwd61"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
-      "album": {
-        "name": "Partyson",
-        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 173785,
-      "name": "Daytona",
-      "url": "https://open.spotify.com/track/2kvpHbQHp9QmcG9WhyLwco"
-    },
-    {
-      "added_at": "2024-02-06 15:15:14",
-      "album": {
-        "name": "Envidia",
-        "url": "https://open.spotify.com/album/3ppRhMnjl3OeFsniV5XEfY"
-      },
-      "artists": [
-        {
-          "name": "Flyxswn",
-          "url": "https://open.spotify.com/artist/31Kni4KBb3Iri2jzrcRrfF"
-        }
-      ],
-      "duration_ms": 93205,
-      "name": "Envidia",
-      "url": "https://open.spotify.com/track/1yRKuzREhM129Cz5tlVfwP"
-    },
-    {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Casi Angeles",
         "url": "https://open.spotify.com/album/6q1HM0kjnKUsyvEzSfrDsw"
@@ -641,27 +561,103 @@
       "url": "https://open.spotify.com/track/1tMG67mMQCsculYUqJR5RC"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
-        "name": "Confortas Pero Da\u00f1as",
-        "url": "https://open.spotify.com/album/0XnGw8WHcmD8E5PAec44ip"
+        "name": "Una Foto Remix (feat. Emilia)",
+        "url": "https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw"
       },
       "artists": [
         {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
         },
         {
-          "name": "Resonancia Et\u00e9rea",
-          "url": "https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 249502,
-      "name": "Confortas Pero Da\u00f1as",
-      "url": "https://open.spotify.com/track/1XhoqOuon1mUaZpDSjRiaD"
+      "duration_ms": 243898,
+      "name": "Una Foto Remix (feat. Emilia)",
+      "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
+      "album": {
+        "name": "Se\u00f1orita (Remix)",
+        "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
+      },
+      "artists": [
+        {
+          "name": "Jean Pi",
+          "url": "https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 181591,
+      "name": "Se\u00f1orita - Remix",
+      "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
+    },
+    {
+      "added_at": "2024-02-07 14:55:58",
+      "album": {
+        "name": "Partyson",
+        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 173785,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/2kvpHbQHp9QmcG9WhyLwco"
+    },
+    {
+      "added_at": "2024-02-07 14:55:58",
+      "album": {
+        "name": "Amores Como El Nuestro",
+        "url": "https://open.spotify.com/album/6eSa8HpdEziR7tGjHEx7iw"
+      },
+      "artists": [
+        {
+          "name": "Ararya",
+          "url": "https://open.spotify.com/artist/4mdmbYTm07t7WUrsk60aVW"
+        }
+      ],
+      "duration_ms": 228182,
+      "name": "Amores Como El Nuestro",
+      "url": "https://open.spotify.com/track/58DiRtepEpLtNwYchoazyi"
+    },
+    {
+      "added_at": "2024-02-07 14:55:58",
+      "album": {
+        "name": "Envidia",
+        "url": "https://open.spotify.com/album/3ppRhMnjl3OeFsniV5XEfY"
+      },
+      "artists": [
+        {
+          "name": "Flyxswn",
+          "url": "https://open.spotify.com/artist/31Kni4KBb3Iri2jzrcRrfF"
+        }
+      ],
+      "duration_ms": 93205,
+      "name": "Envidia",
+      "url": "https://open.spotify.com/track/1yRKuzREhM129Cz5tlVfwP"
+    },
+    {
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Del Hampa Pal Mundo",
         "url": "https://open.spotify.com/album/6ZdWC2vUfPCCtOWqPzc2NP"
@@ -685,7 +681,27 @@
       "url": "https://open.spotify.com/track/0ex09B5au6UHlujRSjAolE"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
+      "album": {
+        "name": "Confortas Pero Da\u00f1as",
+        "url": "https://open.spotify.com/album/0XnGw8WHcmD8E5PAec44ip"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Resonancia Et\u00e9rea",
+          "url": "https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB"
+        }
+      ],
+      "duration_ms": 249502,
+      "name": "Confortas Pero Da\u00f1as",
+      "url": "https://open.spotify.com/track/1XhoqOuon1mUaZpDSjRiaD"
+    },
+    {
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Minnie <3",
         "url": "https://open.spotify.com/album/4Uyu0NIsdhY3HUpteAKFIa"
@@ -705,23 +721,7 @@
       "url": "https://open.spotify.com/track/68uKmFCHsrjSpaCUCzVlqW"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 121226,
-      "name": "Wife",
-      "url": "https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ"
-    },
-    {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "PLANES DE MEDIANOCHE",
         "url": "https://open.spotify.com/album/5RWEssac5Dun4RvxolSjlX"
@@ -741,7 +741,23 @@
       "url": "https://open.spotify.com/track/5qXsWxtvl5SDkNuw6C7R9v"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 121226,
+      "name": "Wife",
+      "url": "https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ"
+    },
+    {
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "No Te Quieren Conmigo",
         "url": "https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -781,7 +797,23 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
+      "album": {
+        "name": "Ghetto Fabulous",
+        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+    },
+    {
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Never Lose Me",
         "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
@@ -797,27 +829,7 @@
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
-      "album": {
-        "name": "FERXXOCALIPSIS",
-        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "ATL Jacob",
-          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
-    },
-    {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Beso (Fruta Fresca)",
         "url": "https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV"
@@ -837,23 +849,7 @@
       "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
-      "album": {
-        "name": "Ghetto Fabulous",
-        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
-      },
-      "artists": [
-        {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
-        }
-      ],
-      "duration_ms": 121399,
-      "name": "ONE CALL",
-      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
-    },
-    {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "No Paro De Pensar",
         "url": "https://open.spotify.com/album/4qhJYga4cbKhVfg5tnTR6X"
@@ -869,7 +865,27 @@
       "url": "https://open.spotify.com/track/1TktG2NVvJRAE1ng8kcYHg"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
+      "album": {
+        "name": "FERXXOCALIPSIS",
+        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
+    },
+    {
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj"
@@ -889,23 +905,7 @@
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
-      "album": {
-        "name": "Te Juro No Te Miento",
-        "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
-      },
-      "artists": [
-        {
-          "name": "Sofia Castro",
-          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Te Juro No Te Miento",
-      "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
-    },
-    {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Felicidad (De la serie 'Berl\u00edn' de Netflix)",
         "url": "https://open.spotify.com/album/5YeZ6BoqHtO60NLH1R1pkQ"
@@ -925,27 +925,27 @@
       "url": "https://open.spotify.com/track/1oANTqqfbOVwOX59aAeQOO"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
       },
       "artists": [
         {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         },
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         }
       ],
-      "duration_ms": 170528,
-      "name": "Not My Fault (with Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
+      "duration_ms": 166536,
+      "name": "HOLA PERDIDA",
+      "url": "https://open.spotify.com/track/7JKptWv4YXmievid0HajID"
     },
     {
-      "added_at": "2024-02-06 15:15:14",
+      "added_at": "2024-02-07 14:55:58",
       "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar\. Conmemorando la vida de Diomedes Díaz este 22 de Diciembre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,486 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,597 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 29 | [Me Vas A Extrañar](https://open.spotify.com/track/012cYVnGDH4YYAyKhSdIus) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:47 |
 | 30 | [Loco Paranoico](https://open.spotify.com/track/6eyGmsEahNlvSUZBEa0rRw) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [La 9a Batalla](https://open.spotify.com/album/6AZfPn4isPsjmq9c6jnAMb) | 3:34 |
 | 31 | [Entregame Tu Amor](https://open.spotify.com/track/0KR2dfNLJJCmObaAc5r1f7) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 5:17 |
-| 32 | [A Besitos](https://open.spotify.com/track/7CnlBAOTtLrPoSslicvZM7) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/6CWpkd6nAKm2P3IHHOe7zO) | 4:27 |
+| 32 | [Que No Me Faltes Tu](https://open.spotify.com/track/03gTQmd2iDkbeZXxcjn9jZ) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Maxima Expresion](https://open.spotify.com/album/4wU1X1kncKz4XPDvvG5xPR) | 4:43 |
 | 33 | [Que Me Puedas Amar](https://open.spotify.com/track/2TCLtIBA192ntJ6TQzzIzn) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Avanzando](https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O) | 4:26 |
 | 34 | [Dime Que Me Quieres](https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw) | [Grupo Vallenato](https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE) | [Vallenato Fest](https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06) | 5:16 |
 | 35 | [Esa Mujer](https://open.spotify.com/track/4CELILzlKVURLFDPtG7bVW) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [No Me Compares Con Nadie](https://open.spotify.com/album/79GlGXtGZlOLBnxpKUap1h) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 49 | [Todo No Puede Llamarse Amor \(with Víctor Manuelle\)](https://open.spotify.com/track/6h6TfBUXiUBOvgwz2boo9r) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Son Para El Mundo](https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3) | 4:52 |
 | 50 | [Enseñame a olvidar](https://open.spotify.com/track/7KHOQuwXh9B82SCMN36HaK) | [Cristian y sus infieles](https://open.spotify.com/artist/2e4zJq3F0jFTLJZ3buzGIb) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 5:17 |
 
-Snapshot ID: `MCw5NmY3NjczYTEwNjY3NGE5NmVmZDg1YmZmMDg4M2FlOWZiZjdkNjcy`
+Snapshot ID: `MCw3NDExZjg3ZDIwMDM1ZDdmYmM0MzU1YTAzMjA0MTk2MzIwN2JmODgy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,486 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,553 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 11 | [Save My Life](https://open.spotify.com/track/1qlDfQfqMVgAIX3bGSr5EJ) | [Benny Mussa](https://open.spotify.com/artist/3JNbl0jPjCNLrZrCbqku6f) | [Save My Life](https://open.spotify.com/album/6YZT6tRvHJ6jGFSKVbg5tF) | 2:50 |
 | 12 | [All For You](https://open.spotify.com/track/0HMCP4nAPkUan3NQr6hSuT) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [All For You](https://open.spotify.com/album/1IvCA1tB8GNQ5KzAJ9pm60) | 3:33 |
 | 13 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
-| 14 | [She's a Lady \(Disco Mix\)](https://open.spotify.com/track/4PkyBwZolHSrkPiBB7418h) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [She's a Lady \(Disco Mix\)](https://open.spotify.com/album/0Hpu0hHFUjcGijSVZTR6Qw) | 3:22 |
+| 14 | [She's a Lady \(Disco Mix\)](https://open.spotify.com/track/45eQUenvHhoTUVgRvt7Fai) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [She's a Lady \(Disco Mix\)](https://open.spotify.com/album/7IO47OClgjkDi6qbDUxmjs) | 3:22 |
 | 15 | [Waking Up](https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Waking Up](https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H) | 2:34 |
 | 16 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 |
 | 17 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 74 | [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 |
 | 75 | [Moves](https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj) | 3:43 |
 
-Snapshot ID: `MCw5YmYzZTJlMTdlNGZmNWFhZjcwOTAxYTBmZDFhOGJjYjc3NjI3YmIz`
+Snapshot ID: `MCwzMWI1M2Y4MTJjN2YwMzljMGJiNzdkNmRlNThhYzQ5MGVjOTMwNTE5`

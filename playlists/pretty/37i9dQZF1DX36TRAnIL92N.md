@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,924 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,331 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 8 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 |
 | 9 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 |
 | 10 | [When I Rock \- A.D.H.S\. Remix](https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [When I Rock \(A.D.H.S\. Remix\)](https://open.spotify.com/album/3AUUUXLVRCj3nHbGHPT0ic) | 4:19 |
-| 11 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
-| 12 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
+| 11 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
+| 12 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
 | 13 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 |
 | 14 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 |
-| 15 | [Mercury](https://open.spotify.com/track/3NWMxXgzWvtO3j8o9eFkOi) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5PrEi7aLxDosgWfIa3eegg) | 3:45 |
+| 15 | [We Control](https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/60rhOCClApo0duvJbe2A18) | 3:26 |
 | 16 | [Intuition](https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Intuition](https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO) | 3:23 |
-| 17 | [We Control](https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/60rhOCClApo0duvJbe2A18) | 3:26 |
+| 17 | [Mercury](https://open.spotify.com/track/3NWMxXgzWvtO3j8o9eFkOi) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5PrEi7aLxDosgWfIa3eegg) | 3:45 |
 | 18 | [When I Push \- Edit](https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [When I Push \(Edit\)](https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy) | 3:33 |
 | 19 | [Machine Pulse](https://open.spotify.com/track/0BKfE3aTw6dy7im1IZldMG) | [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Machine Pulse](https://open.spotify.com/album/34I15SYM2dCpWDBvFddUor) | 3:41 |
 | 20 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 43 | [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 |
 | 44 | [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 |
 | 45 | [Deep Down](https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT) | 3:40 |
-| 46 | [Alle meine Raver](https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo) | [Alle meine Raver](https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4) | 5:14 |
-| 47 | [Bells of Notre Dame](https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Bells of Notre Dame](https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz) | 4:11 |
+| 46 | [Bells of Notre Dame](https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Bells of Notre Dame](https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz) | 4:11 |
+| 47 | [Alle meine Raver](https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo) | [Alle meine Raver](https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4) | 5:14 |
 | 48 | [Affection \- Radio Edit](https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Affection](https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP) | 4:31 |
 | 49 | [Black Unicorn](https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 05](https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf) | 8:05 |
 | 50 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 |
 
-Snapshot ID: `MCxiNjczYzI4M2Y5MmNkY2IyMDFiMDNiOGRkMTZhMWI2NDdlM2QyODJk`
+Snapshot ID: `MCw0MjBiZTA5MDdmOWFkYzhhZDU3Yjk5M2FmYzRmYjllZWQxMDJiNGM0`

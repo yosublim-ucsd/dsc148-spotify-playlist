@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 147135,
+  "num_followers": 147189,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2YxMjY3OTJhNDA0YjcwOTRiNjllNmUxM2FmOGZlZjAwMzA3ZDM1",
+  "snapshot_id": "MCw4NzMzYTNkNTI3Y2I4MDg2YmFmMWM3NjgyODJhNDY2YmJmMWFlNGRk",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/20oQkonM4XzSLK8ugla8BQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Soledade",
-          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
-        }
-      ],
-      "duration_ms": 200269,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/44HxkQjGVoF9USaO6suzJq"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "For Seasons to Come",
         "url": "https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 229965,
       "name": "Some Day",
       "url": "https://open.spotify.com/track/21bjp8uUBmejTKO4axhhL9"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/20oQkonM4XzSLK8ugla8BQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Soledade",
+          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
+        }
+      ],
+      "duration_ms": 200269,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/44HxkQjGVoF9USaO6suzJq"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "I Never Can Say Goodbye",
-        "url": "https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU"
-      },
-      "artists": [
-        {
-          "name": "Tiny Little Bigband",
-          "url": "https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ"
-        }
-      ],
-      "duration_ms": 253816,
-      "name": "I Never Can Say Goodbye",
-      "url": "https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "It's Complicated",
         "url": "https://open.spotify.com/album/2wakq28QTH960KEygvzPXl"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 208273,
       "name": "It's Complicated",
       "url": "https://open.spotify.com/track/6w9GAp3fgHFeDpYHDAaApX"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "I Never Can Say Goodbye",
+        "url": "https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU"
+      },
+      "artists": [
+        {
+          "name": "Tiny Little Bigband",
+          "url": "https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ"
+        }
+      ],
+      "duration_ms": 253816,
+      "name": "I Never Can Say Goodbye",
+      "url": "https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "This Too Shall Pass",
+        "url": "https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV"
+      },
+      "artists": [
+        {
+          "name": "Dennis van Aarssen",
+          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
+        }
+      ],
+      "duration_ms": 201979,
+      "name": "This Too Shall Pass",
+      "url": "https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Melodic Canvas",
         "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "This Too Shall Pass",
-        "url": "https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV"
+        "name": "Out Of The Shadows",
+        "url": "https://open.spotify.com/album/4lBEvDriPaU6Xn0pnSUYA8"
       },
       "artists": [
         {
-          "name": "Dennis van Aarssen",
-          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
+          "name": "Parry Ray",
+          "url": "https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN"
         }
       ],
-      "duration_ms": 201979,
-      "name": "This Too Shall Pass",
-      "url": "https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW"
+      "duration_ms": 264000,
+      "name": "She Used To Be Mine",
+      "url": "https://open.spotify.com/track/6PguX5ZYOUWsxuRIcAy4MI"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1251,22 +1267,6 @@
       "duration_ms": 286678,
       "name": "Much Rain",
       "url": "https://open.spotify.com/track/3R7Cy7vHabyoHeWey6n6Dn"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Out Of The Shadows",
-        "url": "https://open.spotify.com/album/4lBEvDriPaU6Xn0pnSUYA8"
-      },
-      "artists": [
-        {
-          "name": "Parry Ray",
-          "url": "https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "She Used To Be Mine",
-      "url": "https://open.spotify.com/track/6PguX5ZYOUWsxuRIcAy4MI"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Day by Day",
-        "url": "https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt"
-      },
-      "artists": [
-        {
-          "name": "Francesca Castro",
-          "url": "https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf"
-        }
-      ],
-      "duration_ms": 394997,
-      "name": "Cup of Tea",
-      "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "What Love Is For",
         "url": "https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 189884,
       "name": "What Love Is For",
       "url": "https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Day by Day",
+        "url": "https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt"
+      },
+      "artists": [
+        {
+          "name": "Francesca Castro",
+          "url": "https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf"
+        }
+      ],
+      "duration_ms": 394997,
+      "name": "Cup of Tea",
+      "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Free Afternoon",
-        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Cunha Ribeiro",
-          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "A Better One for You",
-      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 177680,
       "name": "River",
       "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Free Afternoon",
+        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Cunha Ribeiro",
+          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "A Better One for You",
+      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Can't Fight Love",
+        "url": "https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV"
+      },
+      "artists": [
+        {
+          "name": "Marif\u00e9",
+          "url": "https://open.spotify.com/artist/1NN1tNV02Nxhcw2c5YNj2X"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Can't Fight Love",
+      "url": "https://open.spotify.com/track/2ffjgH34upcSYa0dKnCxvW"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "A Little Love",
         "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
       },
@@ -1875,38 +1891,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Chamomile Tea",
-        "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
-      },
-      "artists": [
-        {
-          "name": "Andrew Farstar",
-          "url": "https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z"
-        }
-      ],
-      "duration_ms": 252261,
-      "name": "Chamomile Tea",
-      "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Can't Fight Love",
-        "url": "https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV"
-      },
-      "artists": [
-        {
-          "name": "Marif\u00e9",
-          "url": "https://open.spotify.com/artist/1NN1tNV02Nxhcw2c5YNj2X"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Can't Fight Love",
-      "url": "https://open.spotify.com/track/2ffjgH34upcSYa0dKnCxvW"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "This Is Not Jazz",
         "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 283106,
       "name": "The Very Thought Of You",
       "url": "https://open.spotify.com/track/5cEDAmOy6U1AF9CAU7FvAk"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Chamomile Tea",
+        "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
+      },
+      "artists": [
+        {
+          "name": "Andrew Farstar",
+          "url": "https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z"
+        }
+      ],
+      "duration_ms": 252261,
+      "name": "Chamomile Tea",
+      "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1975,46 +1975,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Snowflakes",
-        "url": "https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI"
-      },
-      "artists": [
-        {
-          "name": "Jorunn Westeraas",
-          "url": "https://open.spotify.com/artist/6h4qPRsCLMPKVrW7nbLn18"
-        },
-        {
-          "name": "Hege Saugstad",
-          "url": "https://open.spotify.com/artist/5qsnbEMK2eQMFSAyP6BsNT"
-        },
-        {
-          "name": "Monika Gellein Mathisen",
-          "url": "https://open.spotify.com/artist/4ItYdjOC69BL5Y6yETcTym"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Snowflakes",
-      "url": "https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Best Time Of The Year",
-        "url": "https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq"
-      },
-      "artists": [
-        {
-          "name": "Budbud",
-          "url": "https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF"
-        }
-      ],
-      "duration_ms": 189688,
-      "name": "Best Time Of The Year",
-      "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "All About You",
         "url": "https://open.spotify.com/album/2v2NobYKPTp4h3rjMDPYFA"
       },
@@ -2051,6 +2011,30 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Snowflakes",
+        "url": "https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI"
+      },
+      "artists": [
+        {
+          "name": "Jorunn Westeraas",
+          "url": "https://open.spotify.com/artist/6h4qPRsCLMPKVrW7nbLn18"
+        },
+        {
+          "name": "Hege Saugstad",
+          "url": "https://open.spotify.com/artist/5qsnbEMK2eQMFSAyP6BsNT"
+        },
+        {
+          "name": "Monika Gellein Mathisen",
+          "url": "https://open.spotify.com/artist/4ItYdjOC69BL5Y6yETcTym"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Snowflakes",
+      "url": "https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Featuring EP",
         "url": "https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC"
       },
@@ -2071,6 +2055,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Best Time Of The Year",
+        "url": "https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq"
+      },
+      "artists": [
+        {
+          "name": "Budbud",
+          "url": "https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF"
+        }
+      ],
+      "duration_ms": 189688,
+      "name": "Best Time Of The Year",
+      "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/14KfV7dED8JuA3C6NYnoTR"
       },
@@ -2083,6 +2083,22 @@
       "duration_ms": 180000,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/4dumLEql3QNZfwVK4sTojD"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/4qSzTvuhsYZ04AwjSBJkpt"
+      },
+      "artists": [
+        {
+          "name": "Untitled Band",
+          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
+        }
+      ],
+      "duration_ms": 229687,
+      "name": "If I'd Had Your Heart",
+      "url": "https://open.spotify.com/track/4L6ZAzBxxMbxu4uTVZCo6U"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -2103,22 +2119,6 @@
       "duration_ms": 178786,
       "name": "Same Way Home",
       "url": "https://open.spotify.com/track/5lYlBcimTYIywerAwZnyi0"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/4qSzTvuhsYZ04AwjSBJkpt"
-      },
-      "artists": [
-        {
-          "name": "Untitled Band",
-          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
-        }
-      ],
-      "duration_ms": 229687,
-      "name": "If I'd Had Your Heart",
-      "url": "https://open.spotify.com/track/4L6ZAzBxxMbxu4uTVZCo6U"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -2275,18 +2275,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Love Rushes Past",
-        "url": "https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0"
+        "name": "Fly Again",
+        "url": "https://open.spotify.com/album/1eGL7G4KSKQflLp3Ca8xSK"
       },
       "artists": [
         {
-          "name": "A Blue Flame",
-          "url": "https://open.spotify.com/artist/38HZpPrz1oAtH4g0pq1oUo"
+          "name": "Tom Petrone",
+          "url": "https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb"
         }
       ],
-      "duration_ms": 160629,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N"
+      "duration_ms": 201101,
+      "name": "Fly Again",
+      "url": "https://open.spotify.com/track/2Cm6dZn5E2iTe0HpkJjfM4"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -2307,18 +2307,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Fly Again",
-        "url": "https://open.spotify.com/album/1eGL7G4KSKQflLp3Ca8xSK"
+        "name": "Love Rushes Past",
+        "url": "https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0"
       },
       "artists": [
         {
-          "name": "Tom Petrone",
-          "url": "https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb"
+          "name": "A Blue Flame",
+          "url": "https://open.spotify.com/artist/38HZpPrz1oAtH4g0pq1oUo"
         }
       ],
-      "duration_ms": 201101,
-      "name": "Fly Again",
-      "url": "https://open.spotify.com/track/2Cm6dZn5E2iTe0HpkJjfM4"
+      "duration_ms": 160629,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/0qcy7sm9UaA9qKFSOHVlvD"
-      },
-      "artists": [
-        {
-          "name": "Ragnar H",
-          "url": "https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT"
-        }
-      ],
-      "duration_ms": 232350,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/17BdO3lx1ovJHyELPJxIYa"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Catwoman",
         "url": "https://open.spotify.com/album/6TvDKiV5Wd3D4NiF9oywoX"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 211343,
       "name": "Catwoman",
       "url": "https://open.spotify.com/track/1bOkcokcnMh8xwjwkIDfM6"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/0qcy7sm9UaA9qKFSOHVlvD"
+      },
+      "artists": [
+        {
+          "name": "Ragnar H",
+          "url": "https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT"
+        }
+      ],
+      "duration_ms": 232350,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/17BdO3lx1ovJHyELPJxIYa"
     },
     {
       "added_at": "2024-02-02 00:01:00",

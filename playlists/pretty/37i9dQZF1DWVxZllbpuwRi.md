@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 
 > Aqui o verão dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,912 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,880 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 7 | [DÁKITI](https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [DÁKITI](https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv) | 3:25 |
 | 8 | [Con Calma](https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [Con Calma](https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh) | 3:13 |
 | 9 | [Nevermind](https://open.spotify.com/track/63SevszngYpZOwf63o61K4) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Nevermind](https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch) | 2:36 |
-| 10 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
-| 11 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
+| 10 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
+| 11 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
 | 12 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
 | 13 | [Better Now](https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:51 |
 | 14 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 87 | [VERÃO DOS MEUS SONHOS](https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [REALVERSO: Lado A](https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ) | 3:09 |
 | 88 | [Balinha de Coração](https://open.spotify.com/track/265PFGoMLp50HHmtbKjvNW) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:16 |
 | 89 | [Ya Tú Me Conoces](https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya Tú Me Conoces](https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj) | 3:15 |
-| 90 | [Sube La Music](https://open.spotify.com/track/2CIJusVSWZKH4XIXxipD0I) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Los Chulitos](https://open.spotify.com/album/61OuBz5Vh5z1n8z6Yu8rlN) | 2:57 |
-| 91 | [Blue Sky](https://open.spotify.com/track/4uK2F0ZB7ac1C296tWxwu8) | [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Caelu](https://open.spotify.com/artist/6C5HWD1ssI0SC0LR2yhJ1V) | [Blue Sky](https://open.spotify.com/album/4LRZwEWDj6xdgFk8OBydmt) | 3:21 |
+| 90 | [Blue Sky](https://open.spotify.com/track/4uK2F0ZB7ac1C296tWxwu8) | [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Caelu](https://open.spotify.com/artist/6C5HWD1ssI0SC0LR2yhJ1V) | [Blue Sky](https://open.spotify.com/album/4LRZwEWDj6xdgFk8OBydmt) | 3:21 |
+| 91 | [Sube La Music](https://open.spotify.com/track/2CIJusVSWZKH4XIXxipD0I) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Los Chulitos](https://open.spotify.com/album/61OuBz5Vh5z1n8z6Yu8rlN) | 2:57 |
 | 92 | [Roses \- Imanbek Remix / Latino Gang Version](https://open.spotify.com/track/0IiO3BMMnQC14SGKfB3pZQ) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix / Latino Gang Version\)](https://open.spotify.com/album/3fzRzT5lbkYMUTZcC964qT) | 3:28 |
 | 93 | [Who We Are](https://open.spotify.com/track/1u0MAhOBrWIkAKOf8ssiaU) | [FTampa](https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO) | [Who We Are](https://open.spotify.com/album/1dhJH0kVx35B16EBuaDPSt) | 3:10 |
 | 94 | [POTINHO](https://open.spotify.com/track/7wYZrv7HWbscIMnJZ6hj03) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp), [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [POTINHO](https://open.spotify.com/album/2vhu177PuIf5IZQiuESQG7) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 99 | [FORASTEIRO](https://open.spotify.com/track/0Q42wrYlyvS9pBfBRuE5Dp) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 2:46 |
 | 100 | [Light Years Away](https://open.spotify.com/track/4Kq4Mn0NElRTqcrLxpKzH3) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Light Years Away](https://open.spotify.com/album/0fdGfbskip7l2MA5jWB3LF) | 3:43 |
 
-Snapshot ID: `MCxjM2FjMzlkOTA2YTJlY2NlY2YwZjg2MDNiZjczODZjNmJlMDM2ZWM4`
+Snapshot ID: `MCwwNjJkMmY0MGY0ZjkyMzJkYzExNTA4ZDg4MzEyMmZmYTVjYzU3ZDQx`

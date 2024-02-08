@@ -2,9 +2,9 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> a gente só pensa numa coisa....Foto: Ivete Sangalo
+> a gente só pensa numa coisa....Foto: Luísa Sonza, Kevin O Chris
 
-249 songs - 11 hr 55 min
+250 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Love, Love](https://open.spotify.com/track/3P2ubMyuL9NQOVU67TVCXA) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU), [Matheus Alves](https://open.spotify.com/artist/1WA2YgK6RudLFgrIIPfUeR) | [Love, Love](https://open.spotify.com/album/1P6rGeHgiZkqO4H0fF4UaS) | 2:13 | 2023-06-30 |  |
 | [Macetando](https://open.spotify.com/track/1T9dxi40GuNW3gNRHwk8P4) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Reivete\-se 3.0](https://open.spotify.com/album/4pTd3gXvJKxLClVdXVhi8G) | 2:47 | 2023-12-15 |  |
 | [Macetar](https://open.spotify.com/track/5UcQhx8ulCedDE43IQZNV3) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Macetar](https://open.spotify.com/album/5a1k4OWYmvWyaz1UvqLh2v) | 1:54 | 2022-12-01 | 2023-08-04 |
-| [MAGRÃO SUPREMO](https://open.spotify.com/track/7eZE5ob4uWJkAZYQyAIFdP) | [DJ Idk](https://open.spotify.com/artist/5zKrn256dtGXDCpOVlr22G), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI), [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5) | [MAGRÃO SUPREMO](https://open.spotify.com/album/6QxXpdAJWcNjwyFi9Xbewi) | 3:21 | 2023-11-16 |  |
+| [MAGRÃO SUPREMO](https://open.spotify.com/track/7eZE5ob4uWJkAZYQyAIFdP) | [DJ Idk](https://open.spotify.com/artist/5zKrn256dtGXDCpOVlr22G), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [MAGRÃO SUPREMO](https://open.spotify.com/album/6QxXpdAJWcNjwyFi9Xbewi) | 3:26 | 2023-11-16 |  |
 | [Mais Uma](https://open.spotify.com/track/1ttR4WB57ZZQqVBGiUZVis) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9), [Zain](https://open.spotify.com/artist/1OCu3xpRtpqgbk6aoxoxJp) | [Mais Uma](https://open.spotify.com/album/4dnZFRXRCa2ez2jLAUcNp1) | 2:07 | 2023-02-16 | 2023-12-02 |
 | [Maliciosa \- Ao Vivo](https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maliciosa \(Ao Vivo\)](https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E) | 2:47 | 2024-02-02 |  |
 | [Malvadão 3](https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Malvadão 3](https://open.spotify.com/album/1XrBVMRctpsTGw189yBIsl) | 2:21 | 2022-05-20 | 2023-03-16 |
@@ -203,6 +203,7 @@
 | [Que Rabão \(feat\. Mr\. Catra e YG\)](https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Mr\. Catra](https://open.spotify.com/artist/1mXaaMbQM3IYuhNWaZdFuE), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:56 | 2022-05-20 | 2022-11-08 |
 | [Que Se Vá](https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:24 | 2023-08-04 | 2023-09-28 |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-07-22 | 2022-07-30 |
+| [recadin no espelho](https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [recadin no espelho](https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT) | 2:04 | 2024-02-08 |  |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-30 | 2022-10-18 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-03 | 2022-07-29 |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-07-22 | 2022-11-11 |

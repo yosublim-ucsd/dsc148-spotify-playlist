@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,575 likes - 35 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,633 likes - 35 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 27 | [Love Is Stronger Than Pride](https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:52 |
 | 28 | [So Amazing](https://open.spotify.com/track/4dIlsObD9oacRCF9hJloyA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [So Amazing: An All\-Star Tribute To Luther Vandross](https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL) | 4:10 |
 | 29 | [Lately](https://open.spotify.com/track/5hIljtQ1fRvDRc1aHdhwWK) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Uptown MTV Unplugged](https://open.spotify.com/album/0CQcwTXgmXtXpMcORejZSM) | 6:13 |
-| 30 | [You And I](https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap) | [O'Bryan](https://open.spotify.com/artist/7ynDETvwFfaLOGPz143R31) | [The Best Of O'Bryan](https://open.spotify.com/album/1UXHujdClgEK6DdAUlzLH1) | 3:58 |
-| 31 | [Open Your Eyes](https://open.spotify.com/track/4l1CuxaEzk15o3g6bn7lZU) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Sketches Of A Man](https://open.spotify.com/album/5ExjqihhscTpMJa6Cj51E9) | 3:21 |
+| 30 | [Open Your Eyes](https://open.spotify.com/track/4l1CuxaEzk15o3g6bn7lZU) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Sketches Of A Man](https://open.spotify.com/album/5ExjqihhscTpMJa6Cj51E9) | 3:21 |
+| 31 | [You And I](https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap) | [O'Bryan](https://open.spotify.com/artist/7ynDETvwFfaLOGPz143R31) | [The Best Of O'Bryan](https://open.spotify.com/album/1UXHujdClgEK6DdAUlzLH1) | 3:58 |
 | 32 | [Let's Chill](https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 5:02 |
 | 33 | [Love Me in a Special Way](https://open.spotify.com/track/4tQXXFad6eReU2jDjE9UuP) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [A Nu Day](https://open.spotify.com/album/4cYOUdfGAj9E2IOCWTo3ZM) | 4:50 |
 | 34 | [Right And A Wrong Way](https://open.spotify.com/track/2bm9LWKQR8PwqveIBGTHpH) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 5:11 |
 | 35 | [Can't Hide Love \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/2gpTbzVPDMtxsDjLn2FrII) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 4:06 |
 
-Snapshot ID: `MCw4YmJiYWRhMTBiMTMyZTFkOTFkZmU0OGNkZDU2NmFjMmUyODUwNWJk`
+Snapshot ID: `MCxjMjg3OTY5YWI0NDYwNzlmOTZkNWYxY2E5MTc3OWMzZDNiZmE4YzIx`

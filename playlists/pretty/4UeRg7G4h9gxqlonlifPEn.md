@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 > Turnt mode means bangers only – Featuring Nardo Wick, Lil Tjay, Polo G &amp; more\. \| Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame HipHop \| Cover: 21 Lil Harold
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 39,324 likes - 207 songs - 9 hr 44 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 39,321 likes - 207 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 | 67 | [Cheeeeks!](https://open.spotify.com/track/5apRfd6GUxvql93R74dDux) | [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2), [Kenzo B](https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH) | [Cheeeeks!](https://open.spotify.com/album/587DhJBTkv14AzCKZgROF1) | 1:42 |
 | 68 | [CMFTZN](https://open.spotify.com/track/3LywxgRZlOOLF6mTAjSQyG) | [JUGGER](https://open.spotify.com/artist/1j3LdvJRNNsZCMcsBrC8mX) | [CMFTZN](https://open.spotify.com/album/0M7vliDuAoYz7yQkb0zIiE) | 2:42 |
 | 69 | [COOK UP](https://open.spotify.com/track/2yUAogxEgxEHBGG3zw57x9) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [COOK UP](https://open.spotify.com/album/1DiX91mf1oiNuLmtJWYYqi) | 2:09 |
-| 70 | [cruise ctrl](https://open.spotify.com/track/3ei2osQeOFnl3Kzsztbxvq) | [Zai](https://open.spotify.com/artist/0oDMyhCWLlDqEZkdE2p6xn), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [cruise ctrl](https://open.spotify.com/album/5A3IW1BCgWAcqRyooeymPi) | 1:39 |
+| 70 | [cruise ctrl](https://open.spotify.com/track/3ei2osQeOFnl3Kzsztbxvq) | [Zai](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [cruise ctrl](https://open.spotify.com/album/5A3IW1BCgWAcqRyooeymPi) | 1:39 |
 | 71 | [Damn \(feat\. G Herbo\)](https://open.spotify.com/track/7Dy1LrsEmooLc39o5bSk7k) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Damn \(feat\. G Herbo\)](https://open.spotify.com/album/6qlLwfmIfkvJjCiEiLiUgI) | 3:37 |
 | 72 | [Danger](https://open.spotify.com/track/471FWaPy9XscLiSggofiOp) | [FNF Chop](https://open.spotify.com/artist/2jg1MyFUxojR6GG4wfByU3) | [Danger](https://open.spotify.com/album/24ZUzBMda4Xpn3FdsM3V2G) | 2:03 |
 | 73 | [DRAMA QUEEN](https://open.spotify.com/track/51MaFLZUzEE2mU5F4pSIZh) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Denim](https://open.spotify.com/album/38r3tXAVmVr8MpbFWUWEnG) | 2:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 
 > 本格的な冬がようやく訪れました。そんな凍える日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,880 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,887 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 65 | [Tampopo](https://open.spotify.com/track/0ykZ3mzjgdnrTEzj2Q09L3) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [R&ME](https://open.spotify.com/album/73wIJr5w62OjFZhctd8lfh) | 4:13 |
 | 66 | [ai no uta](https://open.spotify.com/track/2nP5n43PEfVzIiRZAVGcPL) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [HOME EP](https://open.spotify.com/album/06wZxbyxypr1BVQEopXXtx) | 4:32 |
 | 67 | [スノードーム](https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [スノードーム](https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV) | 3:18 |
-| 68 | [白雪の王子様](https://open.spotify.com/track/072CGgPBvuShcATDbQRMuW) | [はせとも。](https://open.spotify.com/artist/78GY7TOWZWZcA660hCkVPb) | [白雪の王子様](https://open.spotify.com/album/4FlwnZjrssEiIG1uaf4GQe) | 4:37 |
+| 68 | [Shirayukinoojisama](https://open.spotify.com/track/0j8OaZoe6wjkAQxNSIfZPF) | [Hasetomo](https://open.spotify.com/artist/7mS4vBaBDQrPAFnuCNSrDk) | [Shirayukinoojisama](https://open.spotify.com/album/7hYwKzsZTHw7OFB96GaITR) | 4:37 |
 | 69 | [ロマンスの神様](https://open.spotify.com/track/3cgfoF5qwhcPKVUaMa8QvJ) | [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv) | [ロマンスの神様](https://open.spotify.com/album/122ZRlwkenkrIt1VAtHaDa) | 4:29 |
 | 70 | [WE ARE THE BORDERS](https://open.spotify.com/track/0SEjMo9VZxyf3h9ObPxCWx) | [Hideki Kaji](https://open.spotify.com/artist/3k4ycHN6hzulnvkSe5IOTf) | [WINTER SONGS FOR YOU!](https://open.spotify.com/album/7EFz4zyigKAMM2JOiJvGEn) | 3:12 |
 | 71 | [Winter Land](https://open.spotify.com/track/2gYrufmaPpk9M3kR1uctuK) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Winter Land](https://open.spotify.com/album/7CupjRrWsAHmvvz4Fowsm6) | 3:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 79 | [雪の降る夜溶けた恋](https://open.spotify.com/track/63047m8dV4WsmhQOU1dQ8I) | [Coraline](https://open.spotify.com/artist/05MH0jN9XFCnmmHCXkbkIv) | [雪の降る夜溶けた恋](https://open.spotify.com/album/48TWbuxIXcRizoU0fNO1qw) | 4:23 |
 | 80 | [ホログラム](https://open.spotify.com/track/62bud8rK9kWK4jF4Tdrcdc) | [crhug](https://open.spotify.com/artist/2YquAy5FoS3m5T1nvCpi3I) | [ホログラム](https://open.spotify.com/album/46ZXPu6sVtFcF9YUIuKa5x) | 3:08 |
 
-Snapshot ID: `MCxkYTM2ZjljYzEzNzQ5MzlmZWQyNGFjZTFjMTc5ZDgwNDcyNTRiZGQx`
+Snapshot ID: `MCw2MzZhMmJhNmRiMjM4MDliNjEwNTJlMmQxZTQxNTViNmM4NzQ2MDVk`

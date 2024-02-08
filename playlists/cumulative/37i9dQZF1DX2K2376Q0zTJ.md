@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。今月のアンバサダー: TOMOKO IDA
 
-1,096 songs - 2 day 17 hr 1 min
+1,097 songs - 2 day 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [PING PONG! feat\. YMCK \(Busy P Remix\)](https://open.spotify.com/track/1Gtd3JFNJGNFWUSpV5SQZn) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [YMCK](https://open.spotify.com/artist/7ByfNcFxztbyKLEIVKmFVc), [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [WINK TOGETHER](https://open.spotify.com/album/3Q8mZxklOqp47ib15s36If) | 2:49 | 2022-02-01 | 2022-03-08 |
 | [Pink Hair](https://open.spotify.com/track/62ZXOrUNBpa5DAiP3tE19s) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Pink Hair](https://open.spotify.com/album/2M6ubuh4ne6Vjvrx8MUs2t) | 2:57 | 2024-02-06 |  |
 | [PLACE](https://open.spotify.com/track/4yzQrgwI6hJ1joxRJeF6Qv) | [Monari Wakita](https://open.spotify.com/artist/2bE5hvtCWXT5F30rcbPI5u) | [PLACE](https://open.spotify.com/album/6HKOv6XbkInBGz1WMvkrkH) | 4:06 | 2022-05-31 | 2022-07-06 |
+| [Planet](https://open.spotify.com/track/2JBvAB9MRddsTnvKPxO1bk) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Planet](https://open.spotify.com/album/1Rz5hGKTRAn5NaBEoasR5U) | 3:36 | 2024-02-06 |  |
 | [Plastic Love](https://open.spotify.com/track/36xu6kwnOR7jb1XA2coeBF) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Palette](https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S) | 4:21 | 2023-02-01 | 2023-03-01 |
 | [PMS feat\. NENE](https://open.spotify.com/track/0B6X3qQ5mEmIGPeb17cKW7) | [G.RINA](https://open.spotify.com/artist/0r51Lcwiq3z84XVlXDFeWS), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [Tolerance](https://open.spotify.com/album/1ZJnqutcqEwMwxKspBP5NQ) | 4:09 | 2023-09-05 | 2024-01-10 |
 | [Poison \(feat\. NENE\)](https://open.spotify.com/track/3hDGNMsG7428l9vPQjN91a) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [孔雀](https://open.spotify.com/album/4A9MCW9aZ5ps7uGHhXGFPY) | 2:42 | 2023-06-06 | 2023-07-05 |
@@ -1015,7 +1016,7 @@
 | [息を吸う ここで吸う 生きてく](https://open.spotify.com/track/1fMvvep165vN1R3xyypqs5) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [うつくしい日々](https://open.spotify.com/album/51F50ysyDdAVJi4srOHxpc) | 3:11 | 2021-11-30 | 2022-01-05 |
 | [悲しい歌がある理由](https://open.spotify.com/track/1hwZGbnzy88q1FfHTQXHnv) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悲しい歌がある理由](https://open.spotify.com/album/4CoSqtuKmFrqf1orRFHjzP) | 4:45 | 2022-03-15 | 2022-04-06 |
 | [情緒](https://open.spotify.com/track/4M0Elelhe46I7PkrgafAMm) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ANTI BLUE](https://open.spotify.com/album/2GMgfddCOMg5kioJOUth2C) | 3:32 | 2022-02-01 | 2023-01-04 |
-| [惑星](https://open.spotify.com/track/2xifiMVguiMdv7b42sWFCN) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [惑星](https://open.spotify.com/album/5GPaYEIdlA6ozkFDrz34Zx) | 3:36 | 2024-02-06 |  |
+| [惑星](https://open.spotify.com/track/2xifiMVguiMdv7b42sWFCN) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [惑星](https://open.spotify.com/album/5GPaYEIdlA6ozkFDrz34Zx) | 3:36 | 2024-02-06 | 2024-02-08 |
 | [想うということ](https://open.spotify.com/track/3pLvPExrgEhThbhYH72plg) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [光みたいにすすみたい](https://open.spotify.com/album/4cOihG8VXY5yZ9j48okN5q) | 3:43 | 2022-09-06 | 2022-10-05 |
 | [愛のナンバー](https://open.spotify.com/track/3ppyp420FNoxy27oKJByaa) | [℃\-want you!](https://open.spotify.com/artist/1oePCCijpoxaCwJSzNahwa) | [℃\-want you!](https://open.spotify.com/album/6WT3BSC0vdtKLHsqKJQyER) | 4:48 | 2022-07-05 | 2022-08-03 |
 | [愛のレンタル \(Prod\. マカロニえんぴつ\)](https://open.spotify.com/track/6aGAhzJeQJr62F7MRAvXzx) | [Shiritsu Ebisu Chugaku](https://open.spotify.com/artist/0hWvpmIrUgyPKOYvEGcERp) | [playlist](https://open.spotify.com/album/3za0LZJcRl5Hfbvf4NYJeg) | 4:18 | 2023-04-04 | 2023-05-03 |

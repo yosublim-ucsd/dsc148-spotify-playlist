@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 197903,
       "name": "Don't Cry For Me - Mark Knight Remix",
       "url": "https://open.spotify.com/track/46UF5p8aihRkpFGISOa1ck"
@@ -2250,7 +2250,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 192000,
       "name": "Freeze - John Summit Remix",
       "url": "https://open.spotify.com/track/6N1UWEnnka2kl5g39UnoqI"
@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 192958,
       "name": "Good Times - Radio Edit",
       "url": "https://open.spotify.com/track/2oVeXlWPMaRxwZzcVwqTmv"
@@ -4328,7 +4328,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 285375,
       "name": "Marea (we\u2019ve lost dancing)",
       "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
@@ -5622,7 +5622,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 163200,
       "name": "Real Love - Kevin McKay Edit",
       "url": "https://open.spotify.com/track/5T16gJHTzaSfKrOdoQu6iQ"
@@ -7495,6 +7495,32 @@
     },
     {
       "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "Tom Breu",
+          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
+    },
+    {
+      "album": {
         "name": "What You Gonna Do",
         "url": "https://open.spotify.com/album/7vdyYBkfJqXmnUzXsxECJK"
       },
@@ -7936,7 +7962,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 253786,
       "name": "You've Got To Let Go If You Want To Be Free",
       "url": "https://open.spotify.com/track/5kVXjAxYDkN57tZQi0JKya"

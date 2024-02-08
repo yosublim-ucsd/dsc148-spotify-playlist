@@ -1,12 +1,12 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Fabiana Cantilo",
-  "num_followers": 115557,
+  "num_followers": 115745,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODM5MGZlODU4OGM2NGFkNTFmMDE2MWRmNTRiNmMyMzE2NTYxZWY2",
+  "snapshot_id": "MCw3YTY3YTM3Nzg4ZGFmYzlkZTFhNzI3N2IyOGFlMGUxODAwZTEwZmE0",
   "tracks": [
     {
       "added_at": "2024-02-01 19:36:01",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-02-01 19:36:01",
       "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "Diez a\u00f1os despu\u00e9s",
-      "url": "https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj"
-    },
-    {
-      "added_at": "2024-02-01 19:36:01",
-      "album": {
         "name": "El Amor Despu\u00e9s del Amor",
         "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 163280,
       "name": "P\u00e9talo de sal",
       "url": "https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4"
+    },
+    {
+      "added_at": "2024-02-01 19:36:01",
+      "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "Diez a\u00f1os despu\u00e9s",
+      "url": "https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj"
     },
     {
       "added_at": "2024-02-01 19:36:01",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-02-01 19:36:01",
       "album": {
-        "name": "Karmagedon",
-        "url": "https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv"
+        "name": "Hijos Del Culo",
+        "url": "https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o"
       },
       "artists": [
         {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
         }
       ],
-      "duration_ms": 328746,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y"
+      "duration_ms": 291493,
+      "name": "Desconexi\u00f3n Sideral",
+      "url": "https://open.spotify.com/track/2vAwpcT3V607tEib9booQZ"
     },
     {
       "added_at": "2024-02-01 19:36:01",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-02-01 19:36:01",
       "album": {
-        "name": "Hijos Del Culo",
-        "url": "https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o"
+        "name": "Karmagedon",
+        "url": "https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv"
       },
       "artists": [
         {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
         }
       ],
-      "duration_ms": 291493,
-      "name": "Desconexi\u00f3n Sideral",
-      "url": "https://open.spotify.com/track/2vAwpcT3V607tEib9booQZ"
+      "duration_ms": 328746,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y"
     },
     {
       "added_at": "2024-02-01 19:36:01",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-02-01 19:36:01",
       "album": {
-        "name": "El Regalo",
-        "url": "https://open.spotify.com/album/1XpoVhWP8TzsXDQWEtj0N8"
-      },
-      "artists": [
-        {
-          "name": "Javier Calamaro",
-          "url": "https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5"
-        }
-      ],
-      "duration_ms": 243391,
-      "name": "El Regalo",
-      "url": "https://open.spotify.com/track/47fOMQaJ6vELtlB7qDLnJX"
-    },
-    {
-      "added_at": "2024-02-01 19:36:01",
-      "album": {
         "name": "Arariyo",
         "url": "https://open.spotify.com/album/6r3fduiWdDrWIvjdpewheP"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 270007,
       "name": "Arariyo",
       "url": "https://open.spotify.com/track/14WX41twek7T3yKsLUA6JN"
+    },
+    {
+      "added_at": "2024-02-01 19:36:01",
+      "album": {
+        "name": "El Regalo",
+        "url": "https://open.spotify.com/album/1XpoVhWP8TzsXDQWEtj0N8"
+      },
+      "artists": [
+        {
+          "name": "Javier Calamaro",
+          "url": "https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5"
+        }
+      ],
+      "duration_ms": 243391,
+      "name": "El Regalo",
+      "url": "https://open.spotify.com/track/47fOMQaJ6vELtlB7qDLnJX"
     },
     {
       "added_at": "2024-02-01 19:36:01",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-02-01 19:36:01",
       "album": {
-        "name": "La Canci\u00f3n que Peg\u00f3 en el Palo",
-        "url": "https://open.spotify.com/album/3XzxczDjDX13dF9Jspa9OQ"
+        "name": "Magos, Espadas Y Rosas",
+        "url": "https://open.spotify.com/album/4ZVdhrTnRFM8OYwB9lp71x"
       },
       "artists": [
         {
-          "name": "Antonio Birabent",
-          "url": "https://open.spotify.com/artist/66DfDCITtbXcmQnQfOMPqZ"
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
         }
       ],
-      "duration_ms": 185590,
-      "name": "La Canci\u00f3n que Peg\u00f3 en el Palo",
-      "url": "https://open.spotify.com/track/22vZWcv2TDPn0qocJgbvVj"
+      "duration_ms": 365173,
+      "name": "Mujer Amante",
+      "url": "https://open.spotify.com/track/7xUw3j3VBUhbMmoo3re0cU"
     }
   ],
   "unique_name": "Baladas Rock",

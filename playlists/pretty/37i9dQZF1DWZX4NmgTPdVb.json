@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1970s that will make you dance all summer long!",
-  "num_followers": 195970,
+  "num_followers": 196136,
   "original_name": "Summer Hits of the 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDE2NjY5MzdiYzdjNDdlZTYxYTY1MDkwYTMxODg3MjU2ZWJhMmQ5",
+  "snapshot_id": "MCwwYTFkOWRjOTVjYjkwNGJiYjA2OTgzODUwZWIxZDU3NDM1NjcyOWVi",
   "tracks": [
     {
       "added_at": "2022-04-18 23:11:58",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Who Loves You",
-        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "December, 1963 (Oh What a Night!)",
-      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "The Joker",
         "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 264503,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Who Loves You",
+        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "December, 1963 (Oh What a Night!)",
+      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Cosmo's Factory",
         "url": "https://open.spotify.com/album/5w2X5ZmdE4u0XGkOU7BiLG"
       },
@@ -435,18 +419,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "The Gambler",
-        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 214880,
-      "name": "The Gambler",
-      "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
+      "duration_ms": 168960,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -463,6 +447,22 @@
       "duration_ms": 261933,
       "name": "Barracuda",
       "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "The Gambler",
+        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "The Gambler",
+      "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
-      },
-      "artists": [
-        {
-          "name": "Looking Glass",
-          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Brandy (You're a Fine Girl)",
-      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Poems, Prayers and Promises",
         "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 190160,
       "name": "Take Me Home, Country Roads - Original Version",
       "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
+      },
+      "artists": [
+        {
+          "name": "Looking Glass",
+          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Brandy (You're a Fine Girl)",
+      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Billy Ocean (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 179013,
-      "name": "Love Really Hurts Without You",
-      "url": "https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 216733,
       "name": "We Are Family - 1995 Remaster",
       "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Billy Ocean (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "Love Really Hurts Without You",
+      "url": "https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 365626,
-      "name": "Baker Street",
-      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Distant Light (1999 Remaster)",
         "url": "https://open.spotify.com/album/6b5osVLAcVTBvnqwDaPV4w"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 199200,
       "name": "Long Cool Woman (In a Black Dress) - 1999 Remaster",
       "url": "https://open.spotify.com/track/5UwbnHhjnbinJH8TefuQfN"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 365626,
+      "name": "Baker Street",
+      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Heaven Tonight",
-        "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Hooked On A Feeling - 40th Anniversary Collection",
         "url": "https://open.spotify.com/album/12UILuDVbIIjLZhcRBNcOJ"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 172866,
       "name": "Hooked On A Feeling",
       "url": "https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Heaven Tonight",
+        "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "I Feel the Earth Move",
-      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "In Color",
         "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 191226,
       "name": "I Want You to Want Me",
       "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "I Feel the Earth Move",
+      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
       "artists": [
         {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 250933,
-      "name": "Margaritaville",
-      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
+      "duration_ms": 298506,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ"
     }
   ],
   "unique_name": "Summer Hits of the 70s",

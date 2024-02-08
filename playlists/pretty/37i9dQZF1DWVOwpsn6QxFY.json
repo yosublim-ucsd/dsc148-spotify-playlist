@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked and nourishing.",
-  "num_followers": 131309,
+  "num_followers": 131347,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDQxMjRjMjhlNmQ2ZmI5YmM2OWRiYWM4ZDBhYWE1YzNhMjM2ZThk",
+  "snapshot_id": "MCw4N2JiYjYxYzFkZjE3M2FmNDgzOTBlYTUxYjhjYjk4NDI5NTQ1NDI4",
   "tracks": [
     {
       "added_at": "2023-08-04 20:15:09",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
         "name": "Daisy Chain",
         "url": "https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD"
       },
@@ -295,22 +311,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Big Fan of the Sesh, Vol. 1",
-        "url": "https://open.spotify.com/album/2oD72e7o7hvjaxRI75foFR"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "Perdida",
-      "url": "https://open.spotify.com/track/7dIlxKSQKC2ND5ortIfAxM"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Dragon New Warm Mountain I Believe In You",
         "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+        "name": "Big Fan of the Sesh, Vol. 1",
+        "url": "https://open.spotify.com/album/2oD72e7o7hvjaxRI75foFR"
       },
       "artists": [
         {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+      "duration_ms": 180949,
+      "name": "Perdida",
+      "url": "https://open.spotify.com/track/7dIlxKSQKC2ND5ortIfAxM"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Glitra",
-        "url": "https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b"
-      },
-      "artists": [
-        {
-          "name": "Brijs",
-          "url": "https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV"
-        }
-      ],
-      "duration_ms": 210360,
-      "name": "Mol y Sol",
-      "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Aperture",
         "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 196739,
       "name": "Lose",
       "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Glitra",
+        "url": "https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b"
+      },
+      "artists": [
+        {
+          "name": "Brijs",
+          "url": "https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "Mol y Sol",
+      "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Anyway",
-        "url": "https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 223231,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Drop Cherries",
         "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 206427,
       "name": "I Can't Get My Head Around You",
       "url": "https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Anyway",
+        "url": "https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 223231,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Up Granville",
-        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 230747,
-      "name": "Up Granville",
-      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Hide & Seek",
         "url": "https://open.spotify.com/album/7Bpblm74urUd8VLJlGubqU"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 221613,
       "name": "Hide & Seek",
       "url": "https://open.spotify.com/track/2t4tWVaCBykTHYG7Wx6AEB"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Up Granville",
+        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 230747,
+      "name": "Up Granville",
+      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Boonie Town",
-        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
-      },
-      "artists": [
-        {
-          "name": "Eli Smart",
-          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
-        }
-      ],
-      "duration_ms": 259795,
-      "name": "Highschool Steady",
-      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Look Out!",
         "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 176506,
       "name": "Look Out!",
       "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Boonie Town",
+        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
+      },
+      "artists": [
+        {
+          "name": "Eli Smart",
+          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
+        }
+      ],
+      "duration_ms": 259795,
+      "name": "Highschool Steady",
+      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "crumbs in my bed",
-        "url": "https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh"
-      },
-      "artists": [
-        {
-          "name": "Amie Blu",
-          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
-        }
-      ],
-      "duration_ms": 147400,
-      "name": "9 lives",
-      "url": "https://open.spotify.com/track/0v3qc1Q0LFX9jN7xQWasII"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "color theory",
         "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Song for Nick Drake",
-        "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
+        "name": "crumbs in my bed",
+        "url": "https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh"
       },
       "artists": [
         {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
         }
       ],
-      "duration_ms": 177387,
-      "name": "Song for Nick Drake",
-      "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
+      "duration_ms": 147400,
+      "name": "9 lives",
+      "url": "https://open.spotify.com/track/0v3qc1Q0LFX9jN7xQWasII"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -823,6 +807,22 @@
       "duration_ms": 202003,
       "name": "Southwark",
       "url": "https://open.spotify.com/track/1FSPgi8zlBB5Xh4qxrnvws"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Song for Nick Drake",
+        "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 177387,
+      "name": "Song for Nick Drake",
+      "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "cold water",
-        "url": "https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe"
-      },
-      "artists": [
-        {
-          "name": "Uly",
-          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
-        }
-      ],
-      "duration_ms": 233239,
-      "name": "cold water",
-      "url": "https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Every Side Of You",
         "url": "https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 204573,
       "name": "Every Side Of You",
       "url": "https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "cold water",
+        "url": "https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe"
+      },
+      "artists": [
+        {
+          "name": "Uly",
+          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
+        }
+      ],
+      "duration_ms": 233239,
+      "name": "cold water",
+      "url": "https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "0151",
-        "url": "https://open.spotify.com/album/1nCEkf3saNVR9irE8vwy9q"
-      },
-      "artists": [
-        {
-          "name": "The Night Caf\u00e9",
-          "url": "https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp"
-        }
-      ],
-      "duration_ms": 281594,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/0JvKn6XJ3vvoWHU6ahVdRt"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Day/Night",
         "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
+        "name": "0151",
+        "url": "https://open.spotify.com/album/1nCEkf3saNVR9irE8vwy9q"
+      },
+      "artists": [
+        {
+          "name": "The Night Caf\u00e9",
+          "url": "https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp"
+        }
+      ],
+      "duration_ms": 281594,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/0JvKn6XJ3vvoWHU6ahVdRt"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
         "name": "Roccastrada",
         "url": "https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 272933,
       "name": "Roccastrada",
       "url": "https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Carving Canyons",
+        "url": "https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 188619,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -1047,22 +1063,6 @@
       "duration_ms": 273693,
       "name": "Unconditional I (Lookout Kid)",
       "url": "https://open.spotify.com/track/0Zd9Nub5lwmzSBoWaVOWrP"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
-        "name": "Carving Canyons",
-        "url": "https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 188619,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Bad girl",
-      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "When the City Sleeps",
         "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 250794,
       "name": "Lover (Don't Let Me Down)",
       "url": "https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Bad girl",
+      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Sorry I Am",
-        "url": "https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 242801,
-      "name": "Sorry I Am",
-      "url": "https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Today We\u2019re The Greatest",
         "url": "https://open.spotify.com/album/5dK1qxuVTRmckVMtThjoGu"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 188346,
       "name": "Stacking Chairs",
       "url": "https://open.spotify.com/track/779oVM9a1jQAnKUMKQdVMd"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Sorry I Am",
+        "url": "https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 242801,
+      "name": "Sorry I Am",
+      "url": "https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y"
     },
     {
       "added_at": "2023-08-04 20:15:09",

@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, tenth sky)",
-  "num_followers": 43988,
+  "num_followers": 44002,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmI5OTZiZDVjZTA1N2NhNzlmMTBlMGY3OGQyYzVmNWVmNTExNDcz",
+  "snapshot_id": "MCwyZjQ4M2Y0NzBiNTcwNzhlMDRiZTQxZjM5YjU5NzNkZjhmNzc3NmYz",
   "tracks": [
     {
       "added_at": "2024-02-01 23:01:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
+        "name": "Due anni fa",
+        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
+      },
+      "artists": [
+        {
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+        }
+      ],
+      "duration_ms": 160247,
+      "name": "Due anni fa",
+      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
         "name": "PERCH\u00c9 NON TI CAPIVO",
         "url": "https://open.spotify.com/album/5e3Dy4cnbNIhXL45ETogGF"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 142725,
       "name": "PERCH\u00c9 NON TI CAPIVO",
       "url": "https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
-        "name": "Due anni fa",
-        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
-      },
-      "artists": [
-        {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
-        }
-      ],
-      "duration_ms": 160247,
-      "name": "Due anni fa",
-      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
+        "name": "Ci\u00f2 che amo scompare",
+        "url": "https://open.spotify.com/album/0GiTA6omGkGDWyEvuLyw9r"
+      },
+      "artists": [
+        {
+          "name": "Rayan Seventeen17",
+          "url": "https://open.spotify.com/artist/3nao1CmUhdK0OZ8XvT0X1S"
+        }
+      ],
+      "duration_ms": 183642,
+      "name": "Ci\u00f2 che amo scompare",
+      "url": "https://open.spotify.com/track/4LuNkSBfFtBeTIxTm5K574"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
         "name": "Incancellabili",
         "url": "https://open.spotify.com/album/4d9czstc4DH4gLOR40QCAt"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 92398,
       "name": "Incancellabili",
       "url": "https://open.spotify.com/track/4AeDoNfWfHsfXEu0j9J4Fs"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
-        "name": "Ci\u00f2 che amo scompare",
-        "url": "https://open.spotify.com/album/0GiTA6omGkGDWyEvuLyw9r"
-      },
-      "artists": [
-        {
-          "name": "Rayan Seventeen17",
-          "url": "https://open.spotify.com/artist/3nao1CmUhdK0OZ8XvT0X1S"
-        }
-      ],
-      "duration_ms": 183642,
-      "name": "Ci\u00f2 che amo scompare",
-      "url": "https://open.spotify.com/track/4LuNkSBfFtBeTIxTm5K574"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Hai fatto tardi",
-        "url": "https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m"
+        "name": "OSIRIDE",
+        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
       },
       "artists": [
         {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
         }
       ],
-      "duration_ms": 172923,
-      "name": "Hai fatto tardi",
-      "url": "https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2"
+      "duration_ms": 200571,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "OSIRIDE",
-        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
+        "name": "Hai fatto tardi",
+        "url": "https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m"
       },
       "artists": [
         {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
         }
       ],
-      "duration_ms": 200571,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
+      "duration_ms": 172923,
+      "name": "Hai fatto tardi",
+      "url": "https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Ceramica",
-        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        },
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Ceramica",
-      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
         "name": "Winston Blue",
         "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
       },
@@ -1511,6 +1491,26 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
+        "name": "Ceramica",
+        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        },
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Ceramica",
+      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
         "name": "LOVE?",
         "url": "https://open.spotify.com/album/0zNYn4shWIiTPfCporUCVm"
       },
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Semprerosa",
-        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
+        "name": "Attacco di Panico",
+        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
       },
       "artists": [
         {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
         }
       ],
-      "duration_ms": 200153,
-      "name": "Semprerosa",
-      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
+      "duration_ms": 145750,
+      "name": "Attacco di Panico",
+      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -1575,22 +1575,6 @@
       "duration_ms": 174250,
       "name": "L'effetto che mi fai",
       "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
-        "name": "Attacco di Panico",
-        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
-      },
-      "artists": [
-        {
-          "name": "Lost Kids",
-          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Attacco di Panico",
-      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -1651,6 +1635,38 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
+        "name": "setiva",
+        "url": "https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        }
+      ],
+      "duration_ms": 137137,
+      "name": "setiva",
+      "url": "https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
+        "name": "Semprerosa",
+        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 200153,
+      "name": "Semprerosa",
+      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
         "name": "MOVIMENTO + THE DAY AFTER",
         "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 139773,
       "name": "I CAN FLY",
       "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
-        "name": "setiva",
-        "url": "https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        }
-      ],
-      "duration_ms": 137137,
-      "name": "setiva",
-      "url": "https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W"
     },
     {
       "added_at": "2024-02-01 23:01:00",

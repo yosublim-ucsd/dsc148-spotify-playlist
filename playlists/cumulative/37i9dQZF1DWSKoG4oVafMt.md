@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
 
-816 songs - 1 day 20 hr 22 min
+817 songs - 1 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Bulleshah Warga](https://open.spotify.com/track/44sMnbzkIroONTHzX8GxZG) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y) | [Bulleshah Warga](https://open.spotify.com/album/3aqhzQfGsWkFrP7sfIzDme) | 3:59 | 2022-09-06 | 2022-09-16 |
 | [Bulleya \- Reprise](https://open.spotify.com/track/0FeJltV3BtqpyQZ0hv49oi) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 5:48 | 2023-05-26 |  |
 | [Bura Haal](https://open.spotify.com/track/2ciKJPKGL3vniRe8Wusx5Y) | [G Sangha](https://open.spotify.com/artist/7zre8eLPOlfXsW4SSQIj4Q) | [Bura Haal](https://open.spotify.com/album/76mOLcW3OQhsyXbSr0JcAG) | 3:02 | 2022-11-17 | 2022-12-16 |
-| [Bura Haal \("Carry On Jatta 3"\)](https://open.spotify.com/track/2fURDfplA6g5i7ET3q5DJZ) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Bura Haal \("Carry On Jatta 3"\)](https://open.spotify.com/album/2iNKppIzwl8uHhWYjFVirK) | 3:40 | 2023-06-21 |  |
+| [Bura Haal \("Carry On Jatta 3"\)](https://open.spotify.com/track/2fURDfplA6g5i7ET3q5DJZ) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Bura Haal \("Carry On Jatta 3"\)](https://open.spotify.com/album/2iNKppIzwl8uHhWYjFVirK) | 3:40 | 2023-06-21 | 2024-02-08 |
 | [Busy Jatt](https://open.spotify.com/track/4s82Rnb5fSVAdxE9v26JZc) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [High Five](https://open.spotify.com/album/7m5ojAK9XNWYdXTpsxyMm4) | 2:57 | 2022-07-18 | 2022-08-18 |
 | [Call](https://open.spotify.com/track/716L2mMFOYLI11YVso9L1Y) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Call](https://open.spotify.com/album/3mRBypKGWRi4zwDxvRZbVd) | 2:47 | 2022-06-27 | 2023-02-04 |
 | [Canada Gedi](https://open.spotify.com/track/5s3FYjSnHtDliFAHyxm5OJ) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Canada Gedi](https://open.spotify.com/album/6f3CNQimdTynLCqSTFhD9G) | 3:59 | 2022-06-13 | 2022-08-18 |
@@ -303,6 +303,7 @@
 | [Jaano Pyari](https://open.spotify.com/track/1mcKuC4EzNDmF9mGxaP4xe) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Blessed](https://open.spotify.com/album/15c0xFkzJnqo87cqR5sOyu) | 3:22 | 2022-08-23 | 2022-09-23 |
 | [Jaanu](https://open.spotify.com/track/00sshcz4IzgggX2r8bAZ89) | [Hardeep Grewal](https://open.spotify.com/artist/43H2bU3Tpcw29Ndd0J5P7B), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Jaanu](https://open.spotify.com/album/5hvXACaNTVp8WxDE7zhfc1) | 3:19 | 2022-01-18 | 2022-02-01 |
 | [Jadon Di Nazar \- From "My Way Main Te Mere Geet"](https://open.spotify.com/track/6nrhlyhAOlhReB6BwkPLMA) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf) | [Jadon Di Nazar \(From "My Way Main Te Mere Geet"\)](https://open.spotify.com/album/3YwvsKcLGH330kV3e7njGE) | 3:58 | 2022-12-01 | 2023-01-24 |
+| [Jahli Aashiq](https://open.spotify.com/track/6TRI2VjSv6T5MTYo0uhnqD) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Estrellas](https://open.spotify.com/album/56bKi3MtxXf4CzkkaDZ73s) | 2:36 | 2024-02-07 |  |
 | [Jatt Nu Sambhle](https://open.spotify.com/track/0wEQTiybvYfDmeH5ZhIlle) | [Deep Chahal](https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc), [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Jatt Nu Sambhle](https://open.spotify.com/album/2Bc962eVz57E5j187xp5HM) | 3:30 | 2023-01-03 | 2023-02-02 |
 | [Jatta](https://open.spotify.com/track/11lHthXPloRp8YMBx69ite) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 3:09 | 2022-02-03 | 2023-02-04 |
 | [JATTA IK TERE KARKE](https://open.spotify.com/track/4sFSXPcSjUwjmwlPGTWktU) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [JATTA IK TERE KARKE](https://open.spotify.com/album/5WI3fgyT2QgoFISwebIKLN) | 2:52 | 2022-02-09 | 2022-07-06 |

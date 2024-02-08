@@ -4,7 +4,7 @@
 
 > The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte
 
-208 songs - 10 hr 46 min
+209 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [El 24](https://open.spotify.com/track/0QNfCzXCgUsBrzzozAsUxW) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Los Corridos Mas Nuevos](https://open.spotify.com/album/3UKwX4p2xcfMQzrUCWjUdy) | 2:34 | 2022-10-17 | 2022-11-13 |
 | [El 24](https://open.spotify.com/track/3NonQgxZnkfpWDBdzHQf0k) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Lo Más Escuchado De](https://open.spotify.com/album/0Vp01LOGNIS2NXudZqhIwA) | 2:34 | 2022-01-01 | 2023-02-22 |
 | [El 24 De Junio](https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 2:42 | 2023-02-21 | 2024-02-06 |
+| [El Barzon](https://open.spotify.com/track/3QwBIH2IqujOVmZmnymHFa) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Sus Mas Grandes Exitos](https://open.spotify.com/album/4KKB85ZOmzv68N5UELFUpS) | 2:44 | 2023-08-21 |  |
 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 | 2023-02-21 | 2024-01-13 |
 | [El Bazucazo](https://open.spotify.com/track/4zShCKR8dEqLNMTlZkH6zJ) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Pistiando En La Sierra](https://open.spotify.com/album/38YQoxbWhfJHIz9o0VmcH6) | 3:39 | 2023-02-21 |  |
 | [El Buho](https://open.spotify.com/track/20b6XSI5iFhvmis8YwszrL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:57 | 2022-01-01 | 2023-02-22 |
@@ -214,7 +215,7 @@
 | [Todos Hablan, Nada Saben](https://open.spotify.com/track/4zpw2XwVLml02gTUVtlGY4) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Todos Hablan, Nada Saben](https://open.spotify.com/album/1sV7gFFQ6YbfMHrM4uOztN) | 2:43 | 2022-01-01 | 2022-07-29 |
 | [Todos Hablan, Nada Saben](https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Todos Hablan, Nada Saben](https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK) | 2:43 | 2022-01-01 | 2023-02-22 |
 | [Un Cruzado en Palestina](https://open.spotify.com/track/3HWKUvYb8H47YIKOghzPcR) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 3](https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL) | 5:38 | 2023-05-04 | 2023-07-13 |
-| [Valente Quintero](https://open.spotify.com/track/4de4ivYcmGbVwkyi8nPdZ8) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [10 Aniversario](https://open.spotify.com/album/2P3M1m7lG147D6T1KhRZEV) | 4:47 | 2023-02-21 |  |
+| [Valente Quintero](https://open.spotify.com/track/4de4ivYcmGbVwkyi8nPdZ8) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [10 Aniversario](https://open.spotify.com/album/2P3M1m7lG147D6T1KhRZEV) | 4:47 | 2023-02-21 | 2024-02-08 |
 | [Ya Me Voy](https://open.spotify.com/track/0JIvmxgwraNFHksIj81CFG) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Amor Y Lágrimas](https://open.spotify.com/album/1ofYSIU9pfhZy22WEL165p) | 2:51 | 2023-03-01 |  |
 
 \*This playlist was first scraped on 2022-05-23. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 
 > Usar la imaginación es la solución de un mundo ideal, ¡Vivan lxs niñxs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,924 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,947 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 20 | [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 |
 | 21 | [Try Everything \- From "Zootropolis"](https://open.spotify.com/track/3qrH2YFnbEiQeUe4wzgOuP) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Try Everything \(From "Zootropolis"\)](https://open.spotify.com/album/661EtVkZYuH41VXXuOMBbo) | 3:16 |
 | 22 | [Flores Amarillas](https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Floricienta](https://open.spotify.com/album/5vzRtE9SIJ6MVL0j6uFhW9) | 3:43 |
-| 23 | [Aram Sam Sam](https://open.spotify.com/track/2qQt0QeoBY2WR3N9C3aEew) | [Luli Pampín](https://open.spotify.com/artist/2s5oIH7jW68tUafw6zs2y6) | [Bienvenidos \(Juega, Aprende, Baila Canciones Infantiles Con Luli Pampín\)](https://open.spotify.com/album/09igXCXQKwsdYuT1uDPiv7) | 2:32 |
-| 24 | [Bluey Theme Tune \- Extended](https://open.spotify.com/track/5MEz0gsrxQ772PuDj0phQs) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Bluey the Album](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 1:05 |
+| 23 | [Bluey Theme Tune \- Extended](https://open.spotify.com/track/5MEz0gsrxQ772PuDj0phQs) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Bluey the Album](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 1:05 |
+| 24 | [Aram Sam Sam](https://open.spotify.com/track/2qQt0QeoBY2WR3N9C3aEew) | [Luli Pampín](https://open.spotify.com/artist/2s5oIH7jW68tUafw6zs2y6) | [Bienvenidos \(Juega, Aprende, Baila Canciones Infantiles Con Luli Pampín\)](https://open.spotify.com/album/09igXCXQKwsdYuT1uDPiv7) | 2:32 |
 | 25 | [No se habla de Bruno](https://open.spotify.com/track/5QKk5N5xJQGsWMhPM80Kfv) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I), [Daniela Sierra](https://open.spotify.com/artist/3nwgQnJvhaRxrpJ9o84t4f), [Juanse Diez](https://open.spotify.com/artist/2tZy2DfvQ3d8AkmNUZbxoK), [Isabel Garcés](https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY), [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22), [Encanto \- Elenco](https://open.spotify.com/artist/52l7jN5e0g2n3IVOHulkA6) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:36 |
 | 26 | [Hakuna Matata](https://open.spotify.com/track/2BFnHiGCfLy5Z96yMeO50g) | [Claudia Pizá](https://open.spotify.com/artist/6siLUAe0KmIQIAoBuihe5x), [Raúl Carballeda](https://open.spotify.com/artist/6GJcuvrFIs0ZZ9zz0l9L6e), [Francisco Colmenero](https://open.spotify.com/artist/7CUbYXaUdYaKhpzeGWwoBb) | [El Rey Leon \(Edición Especial\)](https://open.spotify.com/album/1DdGBTfcxge1ganY62TfpD) | 3:31 |
 | 27 | [El Cocodrilo y el Orangután](https://open.spotify.com/track/52kqFv5uzPoNTPPnbo7jYZ) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg) | [Abrazos, Besos y Apapachos](https://open.spotify.com/album/6yQ77MNa0YWbZJIcAPVoLS) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 49 | [Un Mundo Ideal](https://open.spotify.com/track/374W2LUkFHs3WIRoRaskWi) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 3:20 |
 | 50 | [Que Te Vaya Bonito](https://open.spotify.com/track/5H5tnAAoq5D3feuLB9dt6H) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 3:20 |
 
-Snapshot ID: `MCxmNDY1MmQ1YWQ1NzBlODYwY2Y5ZDc4NmE1ZDYxODU1ZGFhMmM4Yjgx`
+Snapshot ID: `MCwyMjE0OGU5OWRlMzRiNmJkMTZlZjI0YTQ0NjhmYWU3NzU0YzE3NGQ3`

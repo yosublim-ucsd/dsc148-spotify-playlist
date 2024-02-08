@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "\u604b\u8863",
+        "url": "https://open.spotify.com/album/1jbhSPkyBeQwhNfTamimKu"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212758,
+      "name": "\u604b\u8863",
+      "url": "https://open.spotify.com/track/3ky5XuA51Lz48YfCCcPsZg"
+    },
+    {
+      "album": {
         "name": "POP CUBE",
         "url": "https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX"
       },

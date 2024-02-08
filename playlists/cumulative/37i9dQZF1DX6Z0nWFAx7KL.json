@@ -764,7 +764,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 220000,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 135272,
       "name": "Don't Hide",
       "url": "https://open.spotify.com/track/51tISgVeWkKE3BhgGKQJ8w"
@@ -888,11 +888,15 @@
         {
           "name": "N\u00d8TALUVA",
           "url": "https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId"
+        },
+        {
+          "name": "CLGN",
+          "url": "https://open.spotify.com/artist/0i4UreWPyWBNpKCQd0dme9"
         }
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-26",
+      "date_removed": null,
       "duration_ms": 115297,
       "name": "Down from this High",
       "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
@@ -980,6 +984,24 @@
       "duration_ms": 164516,
       "name": "Drift",
       "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
+    },
+    {
+      "album": {
+        "name": "Eagle",
+        "url": "https://open.spotify.com/album/4Crz6njLs2cLjs3OTdpzKs"
+      },
+      "artists": [
+        {
+          "name": "Mats Westbroek",
+          "url": "https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184994,
+      "name": "Eagle",
+      "url": "https://open.spotify.com/track/5Hvj61IXD0Y4MBGossQ2Zk"
     },
     {
       "album": {
@@ -1996,7 +2018,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 446585,
       "name": "Juno Love",
       "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
@@ -2399,6 +2421,28 @@
     },
     {
       "album": {
+        "name": "MAGNETS",
+        "url": "https://open.spotify.com/album/57aR8JKeYr0zS1foTbAexP"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        },
+        {
+          "name": "Oscar Duke",
+          "url": "https://open.spotify.com/artist/5umWPuWy08G1yEugAzTxvh"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146129,
+      "name": "MAGNETS",
+      "url": "https://open.spotify.com/track/1DARVvN0RpBRhZpVal39VL"
+    },
+    {
+      "album": {
         "name": "Marco Polo",
         "url": "https://open.spotify.com/album/71iSMPw4ij9TcH8YWIpTux"
       },
@@ -2506,7 +2550,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 269679,
       "name": "Morning Glory",
       "url": "https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV"
@@ -2886,7 +2930,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 284563,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6"
@@ -3132,7 +3176,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 166693,
       "name": "Shatterproof - Sebastian Davidson Remix",
       "url": "https://open.spotify.com/track/3jkyGmk58RSeyTnhHDam7v"
@@ -3300,7 +3344,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -3344,7 +3388,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 150394,
       "name": "Summer Stars",
       "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
@@ -3984,7 +4028,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 174893,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 
 > This month: songs from an iconic era of Black film soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,473 likes - 39 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094,458 likes - 39 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 26 | [Gonna Give It To Ya](https://open.spotify.com/track/12LKTGOxhik5p08cIpaa6t) | [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3), [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:51 |
 | 27 | [Get It Up \- From The Columbia Motion Picture "Poetic Justice"](https://open.spotify.com/track/1zzmsLdx09eAIsB51QGkeJ) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 4:23 |
 | 28 | [Ain't No N\-G\-A](https://open.spotify.com/track/6t3Wg8rDoupH8mgEY4AIa0) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C) | [The Nutty Professor](https://open.spotify.com/album/0ijzuoEwsrAGg6vMHRXigc) | 4:27 |
-| 29 | [Keep It Real](https://open.spotify.com/track/2IbrFmKzCc7ojJ7USAOmu5) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Coko](https://open.spotify.com/artist/5tdfMErqfwoDib2Pq3n2z5), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [HAV PLENTY Music From The Motion Picture](https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc) | 4:41 |
-| 30 | [New Jack Hustler \(Nino's Theme\)](https://open.spotify.com/track/3kPFTuTu8rBgSoglYRBRiE) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [New Jack City \(Music from the Motion Picture\)](https://open.spotify.com/album/3N1GCkG6Z5Rs4Qy1iwnIEB) | 4:43 |
+| 29 | [New Jack Hustler \(Nino's Theme\)](https://open.spotify.com/track/3kPFTuTu8rBgSoglYRBRiE) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [New Jack City \(Music from the Motion Picture\)](https://open.spotify.com/album/3N1GCkG6Z5Rs4Qy1iwnIEB) | 4:43 |
+| 30 | [Keep It Real](https://open.spotify.com/track/2IbrFmKzCc7ojJ7USAOmu5) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Coko](https://open.spotify.com/artist/5tdfMErqfwoDib2Pq3n2z5), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [HAV PLENTY Music From The Motion Picture](https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc) | 4:41 |
 | 31 | [Renee](https://open.spotify.com/track/6oEatPhiu9HoijKnU4v7WJ) | [Lost Boyz](https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5) | [Don't Be A Menace To South Central While Drinking Your Juice In The Hood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5XhMjct5IBKfbl0N3NsRac) | 5:00 |
 | 32 | [We Haven't Finished Yet](https://open.spotify.com/track/1fDGra27Jnj1nF5xeUXRVS) | [The 5 Heartbeats](https://open.spotify.com/artist/08XJ8En6r470i5QJV4vzrG) | [The Five Heartbeats \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7yyzbiqpfv5lKM5m4u4Wta) | 5:00 |
 | 33 | [Fight The Power \- From "Do The Right Thing" Soundtrack](https://open.spotify.com/track/6lrs0IVK1i7SsVXxYW3IUG) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Do The Right Thing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39gQ1HiUS295YJs1NgRxkc) | 5:23 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 38 | [My Fantasy \- From "Do The Right Thing" Soundtrack](https://open.spotify.com/track/0f1uqm2rwQACn7mRbGQiOR) | [Teddy Riley](https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw), [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Do The Right Thing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39gQ1HiUS295YJs1NgRxkc) | 4:57 |
 | 39 | [Be One \- From The "School Daze" Soundtrack](https://open.spotify.com/track/1EF7lcwgxH3Np3fcE3v81t) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [School Daze \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT) | 4:36 |
 
-Snapshot ID: `MCwzYWZkZGYxZDFiN2Y1Mzc4ODJjZGM2MTg3MGMxY2VlMjhhZmZlMTFj`
+Snapshot ID: `MCw0NzI1YmU2ZmRhZDgxYzI3YjFjNmE2ZDAyYjFhN2EwOTcyNmU3Mzkx`

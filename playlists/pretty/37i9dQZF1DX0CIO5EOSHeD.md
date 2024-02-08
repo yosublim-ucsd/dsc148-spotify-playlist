@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Bnny
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,937 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,234 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 37 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
 | 38 | [Natural](https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:43 |
 | 39 | [so be it in my dreams](https://open.spotify.com/track/6vmRUL0ufQ7xRZoAt5bzzF) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [so be it in my dreams](https://open.spotify.com/album/6XLbi7HuzecyftkhuHVA0L) | 2:26 |
-| 40 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 |
-| 41 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 |
+| 40 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 |
+| 41 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 |
 | 42 | [Mystery](https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku) | 3:43 |
 | 43 | [Looking For Something](https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:09 |
 | 44 | [Dance In Room Song](https://open.spotify.com/track/32pdmizVCumVDYAXTqHFRh) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/1CfNEJDcCiHkBnuFsjuFK9) | 2:51 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 48 | [ALIEN LOVE CALL](https://open.spotify.com/track/5o5SdS2vu1PgKblBABGlER) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:56 |
 | 49 | [lavender blood](https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Luxury Beverage](https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu) | 2:38 |
 | 50 | [How Was Your Day?](https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 4:20 |
-| 51 | [A Sad Song About a Girl I No Longer Know](https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI) | [Bedside Kites](https://open.spotify.com/artist/5zKinanOH8komuiAx6fmvL) | [Bedside Kites](https://open.spotify.com/album/49LaVq4xveyPNmLU165QRi) | 5:28 |
-| 52 | [Forever](https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/5jDmPY9xD8BrPIm2RbBajB) | 4:09 |
+| 51 | [Forever](https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/5jDmPY9xD8BrPIm2RbBajB) | 4:09 |
+| 52 | [A Sad Song About a Girl I No Longer Know](https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI) | [Bedside Kites](https://open.spotify.com/artist/5zKinanOH8komuiAx6fmvL) | [Bedside Kites](https://open.spotify.com/album/49LaVq4xveyPNmLU165QRi) | 5:28 |
 | 53 | [i want to die in your arms](https://open.spotify.com/track/0qEPwjJHlNUSWf2Ghlxdqq) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:16 |
 | 54 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 |
 | 55 | [I Like You](https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:47 |
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 75 | [u dont kno me](https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:59 |
 | 76 | [Silence Kid](https://open.spotify.com/track/1CwQqhPYxz73UYKD7ybYGd) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Crooked Rain, Crooked Rain](https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP) | 3:00 |
 | 77 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 |
-| 78 | [Coming Home](https://open.spotify.com/track/4uXwTz4opiuvyyYU9FwFla) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Dawn Of The Freak](https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX) | 4:25 |
-| 79 | [Midnight on a Sunny Day](https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Bee Eyes](https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:43 |
-| 80 | [Not Alone](https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV) | [peach tinted](https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y) | [Peach Tinted](https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau) | 3:11 |
-| 81 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 |
+| 78 | [Midnight on a Sunny Day](https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Bee Eyes](https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:43 |
+| 79 | [Coming Home](https://open.spotify.com/track/4uXwTz4opiuvyyYU9FwFla) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Dawn Of The Freak](https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX) | 4:25 |
+| 80 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 |
+| 81 | [Not Alone](https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV) | [peach tinted](https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y) | [Peach Tinted](https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau) | 3:11 |
 | 82 | [I Want To Be With You](https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Want To Be With You](https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv) | 2:59 |
 | 83 | [Deaf](https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu) | 5:12 |
 | 84 | [running to find you](https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [Long Nights and Wasted Affairs](https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL) | 3:42 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 97 | [New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Forever at Last](https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7) | 3:26 |
 | 98 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 |
 | 99 | [AHH!!](https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [AHH!!](https://open.spotify.com/album/3DLP1NdK5qoxL5khIxYy0d) | 1:36 |
-| 100 | [Le feu](https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le feu](https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA) | 3:51 |
+| 100 | [buzzkill bummer](https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [i run like this](https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc) | 3:02 |
 
-Snapshot ID: `MCxhMzg1MTk4NGUyMTBmMDEwM2M2NjQ3Mzg5ZTA2MzEzYzQ2NTQ0MWI2`
+Snapshot ID: `MCxlZWY1NWU1MmQ2ZmM5MjAzNTk4YjI1YzcwMWYwNDI1NzljMDI3NTdi`

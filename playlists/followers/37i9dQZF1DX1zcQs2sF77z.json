@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 206782,
+  "2024-02-08": 206893,
   "date_first_scraped": "2023-09-29",
   "description": "La playlist des plus grands hits Electro & Dance.",
   "name": "Dancefloor Classics",
@@ -884,6 +884,28 @@
     },
     {
       "album": {
+        "name": "Hypnotica (Benny Benassi Presents The Biz)",
+        "url": "https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "The Biz",
+          "url": "https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285570,
+      "name": "Satisfaction - Isak Original Extended",
+      "url": "https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL"
+    },
+    {
+      "album": {
         "name": "Saturday Night Single",
         "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
       },
@@ -953,7 +975,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 230500,
       "name": "Sky and Sand",
       "url": "https://open.spotify.com/track/3ZSqMer9RLSglvi18bWXYV"

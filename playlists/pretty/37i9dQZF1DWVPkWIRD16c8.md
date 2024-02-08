@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Have a fantastic road trip with upbeat songs from your favorite Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,875 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,173 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,17 +25,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 15 | [The Man Comes Around](https://open.spotify.com/track/3Jq9rsqmRtqcVKtzP9dnxZ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 4:26 |
 | 16 | [Saved](https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Saved](https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi) | 2:54 |
 | 17 | [Hills and Valleys \(The Valleys Version\)](https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 4:09 |
-| 18 | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/track/6m60IwLIkZ2Fmz4J9FsQ1o) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [All Things Work Together](https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K) | 3:37 |
-| 19 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 |
+| 18 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 |
+| 19 | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/track/6m60IwLIkZ2Fmz4J9FsQ1o) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [All Things Work Together](https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K) | 3:37 |
 | 20 | [Thy Will](https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x) | [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Love Remains](https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ) | 3:56 |
 | 21 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 |
 | 22 | [Dead Man Walking](https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [The Story's Not Over](https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3) | 3:07 |
 | 23 | [Glory](https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Glory](https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu) | 4:41 |
-| 24 | [I just need U.](https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 3:43 |
-| 25 | [The God Who Stays](https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Brand New](https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi) | 3:56 |
-| 26 | [Great Are You Lord](https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [All Sons & Daughters](https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6) | 4:56 |
-| 27 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
-| 28 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
+| 24 | [The God Who Stays](https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Brand New](https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi) | 3:56 |
+| 25 | [Great Are You Lord](https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [All Sons & Daughters](https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6) | 4:56 |
+| 26 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
+| 27 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
+| 28 | [I just need U.](https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 3:43 |
 | 29 | [Almost Home](https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [inhale \(exhale\)](https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV) | 4:05 |
 | 30 | [Reason](https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS) | 3:19 |
 | 31 | [No Impossible with You](https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 74 | [Yes I Will \(Studio Version\)](https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Yes I Will \(Studio Version\)](https://open.spotify.com/album/13S5KXWwxesh4cNpPw2odi) | 3:36 |
 | 75 | [Oasis](https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Faultlines Vol\. I](https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC) | 2:52 |
 
-Snapshot ID: `MCxiNzk3NWI0MjE5ODkzYzVjMGVjNzA5MWZlMzgyZjk0NjA0OWZkOGE2`
+Snapshot ID: `MCxmODIzOGE1NGI1ZjZlMWRhNzBmNGQ5YmI1NTdkMWQ1MTUwYTRhOWZh`

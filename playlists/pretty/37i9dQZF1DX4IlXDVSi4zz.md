@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 
 > Dance the night away and just blame it on Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,615 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,790 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 74 | [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Klahr](https://open.spotify.com/artist/3OITAuZNhf2Z9DySHJsCKD) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:06 |
 | 75 | [You for Me](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You for Me](https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT) | 2:55 |
 
-Snapshot ID: `MCxjMzIwNTgyN2IwYjI3NDgzNTJkN2IxMzdmZmZmNmZkNGRiNzdmNjdl`
+Snapshot ID: `MCw5N2UwY2M0YTA3MDlmNmU2YzI2MjUzNjg5YzliZTNlZjg1ZWZmMDEx`

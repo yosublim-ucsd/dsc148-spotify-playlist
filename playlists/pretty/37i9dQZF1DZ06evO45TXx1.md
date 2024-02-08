@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,743 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,761 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 49 | [Copy](https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Kaylan Mary](https://open.spotify.com/artist/3ARExS7RN7MsIONPRMk9uD), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Copy](https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX) | 3:01 |
 | 50 | [Ela diz](https://open.spotify.com/track/2o7p1pK5AIQ3uYlpCyeFp1) | [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Ela diz](https://open.spotify.com/album/1w3PXAn9xkEhHMd4Xm80gO) | 3:20 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDBhZTM3NmM5MTE4MWI4MGE1ZDUzZjIwNWNjYmEzZjhiNg==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDAxYTEwYTFmZWQ4MjExYzhkYzJhOWNhMzVlZDM2YjIzNQ==`

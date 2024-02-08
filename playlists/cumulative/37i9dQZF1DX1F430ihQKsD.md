@@ -2,7 +2,7 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> Montréal’s music scene, front and centre\. Cover: Jane Penny
+> La scène musicale montréalaise au premier plan\. Photo: Jane Penny
 
 419 songs - 1 day 0 hr 21 min
 

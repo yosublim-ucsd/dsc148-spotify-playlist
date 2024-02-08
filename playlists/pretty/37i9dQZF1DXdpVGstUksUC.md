@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,703 likes - 100 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,735 likes - 100 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 83 | [So Come On](https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA) | [The Atomic Bitchwax](https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6) | [Boxriff](https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7) | 4:11 |
 | 84 | [Heavy Low](https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T) | [We Hunt Buffalo](https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU) | [Head Smashed In](https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5) | 4:50 |
 | 85 | [The Great American Death Rattle](https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR) | [Youngblood Supercult](https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7) | [The Great American Death Rattle](https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY) | 4:04 |
-| 86 | [Mortal Bones](https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ) | [The Well](https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t) | [Samsara](https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C) | 5:31 |
-| 87 | [Moonage Daydream](https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG) | [Zen Guerrilla](https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU) | [Trance States in Tongues](https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa) | 5:01 |
+| 86 | [Moonage Daydream](https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG) | [Zen Guerrilla](https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU) | [Trance States in Tongues](https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa) | 5:01 |
+| 87 | [Mortal Bones](https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ) | [The Well](https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t) | [Samsara](https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C) | 5:31 |
 | 88 | [Weavers' Weft](https://open.spotify.com/track/4Lk6fVeblBXJavnPPpwf1E) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [ILION](https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3) | 9:41 |
 | 89 | [Acid Roulette](https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt) | [Scorpion Child](https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys) | [Acid Roulette](https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn) | 5:49 |
 | 90 | [Megalomania](https://open.spotify.com/track/2nudyUXlURs5NS8nDNFb4K) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h), [Firestone](https://open.spotify.com/artist/0TEi1w5vnsyb25Kz1sObbp) | [Fuzzsplit of the Century](https://open.spotify.com/album/55VeJlf8DMBsp5X2br5d04) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [Superjudge](https://open.spotify.com/track/0YMwyd5XZzHZZuRFCj04Zs) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Superjudge](https://open.spotify.com/album/1JQ37QyKofGEp5UEz3Gay4) | 6:49 |
 | 100 | [Rollercoaster](https://open.spotify.com/track/1ffTuRRrqqiDG0T1CPJse8) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [Wilderness Heart](https://open.spotify.com/album/19zI1pAARSE3rV72vWX9Ak) | 5:15 |
 
-Snapshot ID: `MCxjZjA3MGQyZDA0MDYxZjU2ZDUxYWEzYzYwNGZhZjliZjM5YjE0ZjQy`
+Snapshot ID: `MCw3YmQzZmMzNmY2ODQ1NzE3ZGRiNjI2NzgyYTBjMjIyNDZiYmU1NjAz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists! Cover: Yeng Constantino
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,391,746 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,392,252 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 21 | [Musika](https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Musika](https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv) | 4:06 |
 | 22 | [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 |
 | 23 | [Ikaw Lamang](https://open.spotify.com/track/0bhzB5PBUVqZSux5Y7t5ED) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Fuchsiang Pag\-Ibig](https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3) | 5:06 |
-| 24 | [Sinta](https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Sinta](https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO) | 5:16 |
+| 24 | [Kung Wala Ka](https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk) | 4:02 |
 | 25 | [Leaves](https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Leaves](https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y) | 5:10 |
 | 26 | [Ngayong Gabi](https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Ngayong Gabi](https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot) | 4:27 |
-| 27 | [Kung Wala Ka](https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk) | 4:02 |
+| 27 | [Sinta](https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Sinta](https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO) | 5:16 |
 | 28 | [Your Song](https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Bigotilyo](https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f) | 2:48 |
 | 29 | [Dating Tayo](https://open.spotify.com/track/1l7TuyIge9siMw39a0dqXd) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [TJ Monterde](https://open.spotify.com/album/3BNVpFNizGDG0IxfsEYhXU) | 3:59 |
 | 30 | [Sa Susunod Na Lang](https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU) | [PDL](https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Sa Susunod Na Lang](https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 49 | [Sana \- Single Version](https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Sana](https://open.spotify.com/album/0ULmsFDDkOnwetCGrEvCSl) | 4:37 |
 | 50 | [panaginip](https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh) | [iluna](https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE) | [panaginip](https://open.spotify.com/album/1nDqiuWaIdg3553bRee5bA) | 5:32 |
 
-Snapshot ID: `MCxiYmE3YWNhNmJiZjNiYmExM2ZiZGQ2Yjg1YmZlMzE1NGVmNDM2MTUw`
+Snapshot ID: `MCxhMGJlNmVlOTQ1M2ZlYjc2ODVmMTQ3ODFhZmQyNThhYmY1M2ZkY2Rj`

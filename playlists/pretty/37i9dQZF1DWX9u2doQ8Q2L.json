@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 384624,
+  "num_followers": 384877,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTMzMTMwMGNlNTU3ZjgxYTg4NDUyYWQ3MmYxZDdlYzdlZDhiZWNh",
+  "snapshot_id": "MCw3ZDFiZjdiNmVkZDhiZDA2NmQxMWI3N2Y1ZGUyNDEzNjA2ZDBlZTVl",
   "tracks": [
     {
       "added_at": "2024-02-06 15:00:00",
@@ -48,7 +48,7 @@
       "added_at": "2024-02-06 15:00:00",
       "album": {
         "name": "NEO TOKYO METRO",
-        "url": "https://open.spotify.com/album/4LmbCDYzs3a6A1hY0oT6PL"
+        "url": "https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv"
       },
       "artists": [
         {
@@ -58,7 +58,7 @@
       ],
       "duration_ms": 185586,
       "name": "NTM",
-      "url": "https://open.spotify.com/track/5DW0lkwGpxynk7PoUkFlHO"
+      "url": "https://open.spotify.com/track/4219u7yEzPwkqYnA3XUW2e"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "\u3055\u3059\u3089\u3044",
-        "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
+        "name": "L7 Blues",
+        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
       },
       "artists": [
         {
-          "name": "Tamio Okuda",
-          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
         }
       ],
-      "duration_ms": 206200,
-      "name": "\u3055\u3059\u3089\u3044",
-      "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
+      "duration_ms": 141974,
+      "name": "L7 Blues",
+      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "L7 Blues",
-        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
+        "name": "\u3055\u3059\u3089\u3044",
+        "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
       },
       "artists": [
         {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+          "name": "Tamio Okuda",
+          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
         }
       ],
-      "duration_ms": 141974,
-      "name": "L7 Blues",
-      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+      "duration_ms": 206200,
+      "name": "\u3055\u3059\u3089\u3044",
+      "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
+        "name": "Sesame",
+        "url": "https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Sesame",
+      "url": "https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
         "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
         "url": "https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 272319,
       "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
       "url": "https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
-        "name": "Sesame",
-        "url": "https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH"
-      },
-      "artists": [
-        {
-          "name": "Kroi",
-          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "Sesame",
-      "url": "https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
+        "name": "Drink!",
+        "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        }
+      ],
+      "duration_ms": 187862,
+      "name": "Drink!",
+      "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
         "name": "ZERO",
         "url": "https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 242836,
       "name": "Twenty-Twenty",
       "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
-        "name": "Drink!",
-        "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        },
-        {
-          "name": "YonYon",
-          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
-        }
-      ],
-      "duration_ms": 187862,
-      "name": "Drink!",
-      "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Losing Game",
-        "url": "https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ"
+        "name": "My Plan",
+        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
       },
       "artists": [
         {
-          "name": "Gen Neo",
-          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
         }
       ],
-      "duration_ms": 151836,
-      "name": "Losing Game",
-      "url": "https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q"
+      "duration_ms": 223350,
+      "name": "My Plan",
+      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "snow love",
-        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
+        "name": "Losing Game",
+        "url": "https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
         }
       ],
-      "duration_ms": 206461,
-      "name": "snow love",
-      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
+      "duration_ms": 151836,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "My Plan",
-        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+        "name": "snow love",
+        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
         }
       ],
-      "duration_ms": 223350,
-      "name": "My Plan",
-      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+      "duration_ms": 206461,
+      "name": "snow love",
+      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "OKACHIMACHI FRIDAY NIGHT",
-        "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 198088,
-      "name": "OKACHIMACHI FRIDAY NIGHT",
-      "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "6 Years In The Game (feat. Awich)",
         "url": "https://open.spotify.com/album/1KvJrTQgijVXODRXF59v6K"
       },
@@ -1371,22 +1355,18 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Flashback feat. Daichi Yamamoto",
-        "url": "https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7"
+        "name": "OKACHIMACHI FRIDAY NIGHT",
+        "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
       },
       "artists": [
         {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        },
-        {
-          "name": "Daichi Yamamoto",
-          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
         }
       ],
-      "duration_ms": 284478,
-      "name": "Flashback feat. Daichi Yamamoto",
-      "url": "https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB"
+      "duration_ms": 198088,
+      "name": "OKACHIMACHI FRIDAY NIGHT",
+      "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1403,6 +1383,26 @@
       "duration_ms": 208133,
       "name": "Season",
       "url": "https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Flashback feat. Daichi Yamamoto",
+        "url": "https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        }
+      ],
+      "duration_ms": 284478,
+      "name": "Flashback feat. Daichi Yamamoto",
+      "url": "https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
-        "url": "https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
-      "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
         "url": "https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 303156,
       "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
       "url": "https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
+        "url": "https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
+        "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
+        "url": "https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 234288,
+      "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
+      "url": "https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
         "name": "WORLD DANCE",
         "url": "https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 221666,
       "name": "WORLD DANCE",
       "url": "https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
-        "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
-        "url": "https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 234288,
-      "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
-      "url": "https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1651,6 +1651,22 @@
       "duration_ms": 184760,
       "name": "Miss You feat. Vernon of SEVENTEEN",
       "url": "https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Departure : My New Me",
+        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Trickster",
+      "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1687,6 +1703,22 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
+        "name": "Them Us You Me",
+        "url": "https://open.spotify.com/album/2Hvm2ruIBqU7Hkc6NANCkC"
+      },
+      "artists": [
+        {
+          "name": "No Buses",
+          "url": "https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6"
+        }
+      ],
+      "duration_ms": 163043,
+      "name": "Them Us You Me",
+      "url": "https://open.spotify.com/track/3KHBNhUmAoyb3AEbWgVYjd"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
         "name": "Stateless feat. YonYon",
         "url": "https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2"
       },
@@ -1719,38 +1751,6 @@
       "duration_ms": 199867,
       "name": "\u3055\u3089\u307e\u3063\u307d",
       "url": "https://open.spotify.com/track/6f9Fl22sy1UhH788M7BkH3"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
-        "name": "Departure : My New Me",
-        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Trickster",
-      "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
-        "name": "Them Us You Me",
-        "url": "https://open.spotify.com/album/2Hvm2ruIBqU7Hkc6NANCkC"
-      },
-      "artists": [
-        {
-          "name": "No Buses",
-          "url": "https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6"
-        }
-      ],
-      "duration_ms": 163043,
-      "name": "Them Us You Me",
-      "url": "https://open.spotify.com/track/3KHBNhUmAoyb3AEbWgVYjd"
     }
   ],
   "unique_name": "Tokyo Rising",

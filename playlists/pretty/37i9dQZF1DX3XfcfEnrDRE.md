@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > The ever\-evolving sound of Alt! Cover: Gable Price and Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,115 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,162 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 36 | [Remember What It Cost](https://open.spotify.com/track/6uamWfgHsS72Axi8Gpb95p) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [7](https://open.spotify.com/album/2g1SAILgSY5GB70zgYarni) | 5:25 |
 | 37 | [You Are My Country](https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [The Field](https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu) | 2:39 |
 | 38 | [Leaving The 99 \- Remix](https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V) | [Billy Ballenger](https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN) | [Leaving The 99 \(Remix\)](https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze) | 4:02 |
-| 39 | [Run \- Twenty Version](https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Twenty](https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ) | 4:22 |
+| 39 | [First Love](https://open.spotify.com/track/3eOxPVgmYGVYPMnPK44Rm1) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [You Are Fullness](https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo) | 5:25 |
 | 40 | [My Heart Alone](https://open.spotify.com/track/62IMghHVMRqb8GsuVm5Hbc) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [My Heart Alone](https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB) | 3:21 |
-| 41 | [First Love](https://open.spotify.com/track/3eOxPVgmYGVYPMnPK44Rm1) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [You Are Fullness](https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo) | 5:25 |
-| 42 | [atlas](https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS) | [Paul Whitacre](https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO) | [hard to dream](https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq) | 3:52 |
-| 43 | [Hold On](https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Hold On](https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV) | 4:09 |
-| 44 | [Nothing To Buy](https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Nothing To Buy](https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl) | 4:27 |
+| 41 | [Run \- Twenty Version](https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Twenty](https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ) | 4:22 |
+| 42 | [Nothing To Buy](https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Nothing To Buy](https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl) | 4:27 |
+| 43 | [atlas](https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS) | [Paul Whitacre](https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO) | [hard to dream](https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq) | 3:52 |
+| 44 | [Hold On](https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Hold On](https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV) | 4:09 |
 | 45 | [Calm Before the Storm](https://open.spotify.com/track/7wsBA8293E5O4SMS1nH350) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Calm Before the Storm](https://open.spotify.com/album/3jWsaxV8HH7v4osDCriC6Q) | 3:55 |
 | 46 | [whisper](https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [whisper](https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6) | 2:31 |
 | 47 | [Stranger](https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [No Greater Love](https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg) | 3:19 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 71 | [High Calling](https://open.spotify.com/track/2XIfWKsjf0ufQNzYDCFV3m) | [The Shelter](https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC), [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [High Calling](https://open.spotify.com/album/3A3N6gYhQUFK48zRkg5o63) | 3:08 |
 | 72 | [OLDER](https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [OLDER](https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7) | 3:22 |
 | 73 | [Fighting Myself](https://open.spotify.com/track/3W2UszPJ6jF0OYE5FTtetQ) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Fighting Myself](https://open.spotify.com/album/22JJVIcCRz2yqjVH5WIZqx) | 3:38 |
-| 74 | [Pulp](https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi) | [Pulp](https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ) | 3:59 |
-| 75 | [Give My All](https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [Give My All](https://open.spotify.com/album/6Uv2XAIAwMLVun8cvzK0nh) | 3:19 |
+| 74 | [Give My All](https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [Give My All](https://open.spotify.com/album/6Uv2XAIAwMLVun8cvzK0nh) | 3:19 |
+| 75 | [Pulp](https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi) | [Pulp](https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ) | 3:59 |
 | 76 | [Mercy Shores](https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Mercy Shores](https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7) | 3:26 |
 | 77 | [King of Victory](https://open.spotify.com/track/6TWRgFPkaEQJrOSDissdhj) | [Watermark Music](https://open.spotify.com/artist/64qvuVnYwi5s48SyPNxJxS), [Jon Abel](https://open.spotify.com/artist/2nZHaqDpyx8Sr1UWjZeHcU) | [King of Victory](https://open.spotify.com/album/56V12Ppm9gzP0E4S8rFpY5) | 3:38 |
 | 78 | [Miracle of the Mind](https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Miracle of the Mind](https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6) | 4:29 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 89 | [Killer](https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5) | [Truslow](https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv) | [Natural Killer](https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV) | 3:44 |
 | 90 | [Angels vs Demons \- Piano Version](https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Angels vs Demons](https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL) | 3:20 |
 | 91 | [Coming Clean](https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Coming Clean](https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31) | 3:03 |
-| 92 | [Break Out \- Live](https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX) | [Woodlands Worship](https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls) | [Break Out \(Live\)](https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2) | 3:42 |
-| 93 | [Hurricane](https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7) | [Whitefield](https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP) | [Hurricane](https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW) | 4:29 |
+| 92 | [Hurricane](https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7) | [Whitefield](https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP) | [Hurricane](https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW) | 4:29 |
+| 93 | [Break Out \- Live](https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX) | [Woodlands Worship](https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls) | [Break Out \(Live\)](https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2) | 3:42 |
 | 94 | [Breathe Again](https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz) | [Our Future Glory](https://open.spotify.com/artist/455WReaTbCB1fEjWrV29x4), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [The Found](https://open.spotify.com/artist/0JpPD5tGtaQ6nPzzGqEG9u) | [Breathe Again](https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz) | 3:42 |
 | 95 | [Can't Stop My Heart From Singing](https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek) | [Mountaintops](https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW), [Beau and Mercy Perkins](https://open.spotify.com/artist/2aj3O6Rf4Kwm3AvAkVrIuE) | [Can't Stop My Heart From Singing](https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG) | 3:54 |
 | 96 | [Father](https://open.spotify.com/track/5IR5Bi1nL7h0C0BuEnuoLl) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Father](https://open.spotify.com/album/5LhlgmewVgxyWbYUfGxk9b) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 99 | [Hey Jesus](https://open.spotify.com/track/2Uo4QoDPsHkpUNSVJyJYts) | [Trey Pearson](https://open.spotify.com/artist/5pjtpHRdrbbw9zZWx83zCF), [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Somebody You Knew](https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E) | 3:18 |
 | 100 | [Here We Are](https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [Praise](https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY) | 3:52 |
 
-Snapshot ID: `MCw3MWNiNzZmZmI2Yzc4MzlmMDdjNmY0MWNmM2IwYmFlZDNjMmZkNjhk`
+Snapshot ID: `MCwzNDEyMDkyOGI5MzNhMWQzNjk3YmM4MTU2NGFlZjgzNGY2Y2UwOTU2`

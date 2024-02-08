@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498 likes - 67 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 501 likes - 67 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 66 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 |
 | 67 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 |
 
-Snapshot ID: `Mjg0NTQ1MzAsMDAwMDAwMDAxNjY4YzFmYWRkYjQ2MDYwMjkxNTVkYjIyZmYwZDUwZg==`
+Snapshot ID: `Mjg0NTU5NzAsMDAwMDAwMDA1YThiZjViNzE0NjUxYmMxYjJkZDVjYmFmYjE1NDhmNQ==`

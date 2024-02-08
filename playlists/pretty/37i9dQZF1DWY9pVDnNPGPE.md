@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,738 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,746 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 38 | [DA DA!](https://open.spotify.com/track/6vvoQKMci0NB7Zbo10t61N) | [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu) | 2:54 |
 | 39 | [Je N'aime Que Toi](https://open.spotify.com/track/2WW1ymvg1h7hXbYoLFNhz8) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [Je N'aime Que Toi](https://open.spotify.com/album/5yCszfyC8do90AeMrBa5dd) | 3:16 |
 | 40 | [Darling](https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Darling](https://open.spotify.com/album/0XVe9SlfGUzJeMfzODdKdm) | 3:02 |
-| 41 | [HOODIE E BANBAJI](https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [HOODIE E BANBAJI](https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ) | 3:09 |
-| 42 | [Alone](https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:41 |
+| 41 | [Alone](https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:41 |
+| 42 | [HOODIE E BANBAJI](https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [HOODIE E BANBAJI](https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ) | 3:09 |
 | 43 | [No More \(Prod\. Zion.T\)](https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [NO MORE](https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz) | 2:38 |
 | 44 | [SummerSweet](https://open.spotify.com/track/6eFTJraZWhyEmFa6Fx3MnZ) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [SummerSweet](https://open.spotify.com/album/3djCKvCgZmdaM7aB3QlbwU) | 2:30 |
 | 45 | [Picture of You](https://open.spotify.com/track/4k65QOnSekJUpGuV6dHUHU) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Hwang Moon Seob](https://open.spotify.com/artist/0a9CLtjf2oj3OooJA0ZbTr) | [Picture of you](https://open.spotify.com/album/3WLs3in6kQskYA2bKsYQa9) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 49 | [Baby I Love You](https://open.spotify.com/track/6QK081MDKmHExMa1zmCC1S) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:11 |
 | 50 | [Pink!](https://open.spotify.com/track/69q7FmDh1JXekNKOOxDmdM) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Pink!](https://open.spotify.com/album/1I5gyzHtCXanpYqRukAQGP) | 2:54 |
 
-Snapshot ID: `MCwzNmM5ZDc4NmYxOTA3Y2I4OTQ1N2YzNDA0YWEyZDc5YWI2MzY4OTIy`
+Snapshot ID: `MCw4Mzg2ZDY4NjExNmIyNDFkNTBkODkzNjZlZjliMTY3OTQwMjk5ZmIx`

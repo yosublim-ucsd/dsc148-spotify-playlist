@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-890 songs - 2 day 2 hr 4 min
+891 songs - 2 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [אלא בי](https://open.spotify.com/track/6GMedZwOyjw0OQM25vWixh) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [אלא בי](https://open.spotify.com/album/0jvZeMuAtbE416Py4xbb2V) | 5:00 | 2022-12-24 | 2023-01-09 |
 | [אלוף העולם](https://open.spotify.com/track/3Y4G4E7EVomTWTFSFS0Sn5) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [אלוף העולם](https://open.spotify.com/album/1FL8eqJMxg14Uhs4f4BVSe) | 3:35 | 2021-08-27 | 2023-04-29 |
 | [אלוף העולם](https://open.spotify.com/track/67dg9xeMIRXjcQbmbWtBFW) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [אלוף העולם](https://open.spotify.com/album/20TdSSpRgmPWOLszkEDqvh) | 3:35 | 2021-03-27\* | 2021-07-05 |
+| [אם אתה שלי](https://open.spotify.com/track/2foTZaysNY65xcTXlQKxg4) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אם אתה שלי](https://open.spotify.com/album/5iT3CN3wnrjdDLNuTkxKj8) | 3:00 | 2024-02-07 |  |
 | [אם הייתי צריכה](https://open.spotify.com/track/79h6P8bV0ENtq6Vmhkpewr) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אם הייתי צריכה](https://open.spotify.com/album/5B3xBhi3cYWXHcl8uFNDYm) | 3:24 | 2021-12-15 | 2023-01-14 |
 | [אם תרצי](https://open.spotify.com/track/04qYVjQ9bRRpJzz5sm7cEk) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [אם תרצי](https://open.spotify.com/album/4XaSb8YtqGiFOQjFujXx4k) | 2:56 | 2021-07-07 | 2022-05-08 |
 | [אם תרצי](https://open.spotify.com/track/3BRlBgX59CKqOa8PXI41qQ) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [אם תרצי](https://open.spotify.com/album/2ujav1l9MDJ0IdJ1HJ9Y8B) | 2:56 | 2021-03-27\* | 2021-07-07 |
@@ -598,7 +599,7 @@
 | [חורף קר](https://open.spotify.com/track/66LtwgGSD7SUoWrsVQPArr) | [אופיר חדד](https://open.spotify.com/artist/1yTNMO8we0z243hIyM6zG4) | [חורף קר](https://open.spotify.com/album/3H6EtJwBPkdCI6l7NEurX1) | 3:41 | 2024-01-25 | 2024-01-27 |
 | [חיים מאושרים](https://open.spotify.com/track/5bfyO9R6raJctlhVpXzPG4) | [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [חיים מאושרים](https://open.spotify.com/album/2FtWmySJ08u2O3lA6Xbm9C) | 3:23 | 2021-03-27\* | 2021-08-06 |
 | [חישגוזים](https://open.spotify.com/track/31cPrw1QeS642qgShdFYza) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [חישגוזים](https://open.spotify.com/album/32XFV7Wh93lpTGQnvZ3UoL) | 2:51 | 2023-06-25 | 2023-07-07 |
-| [חלק מהזמן](https://open.spotify.com/track/3hay408PSjTAxPn5TPxzyh) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [חלק מהזמן](https://open.spotify.com/album/2S2e0HzH9GpeLouWR1ctCB) | 3:43 | 2023-03-18 |  |
+| [חלק מהזמן](https://open.spotify.com/track/3hay408PSjTAxPn5TPxzyh) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [חלק מהזמן](https://open.spotify.com/album/2S2e0HzH9GpeLouWR1ctCB) | 3:43 | 2023-03-18 | 2024-02-08 |
 | [חמישי שישי](https://open.spotify.com/track/57BFhpG4Iq4Zgnoz2X6zbT) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [Nadav Navi Aharoni](https://open.spotify.com/artist/2KxKLkAYIg1MJyLCH0Pl8e) | [חמישי שישי](https://open.spotify.com/album/53nQ4JcS0sLdyI5F7t6yiZ) | 3:25 | 2022-05-19 | 2023-09-07 |
 | [חנוכה](https://open.spotify.com/track/4VDrcf17m0AE6CMekgvCAA) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [חנוכה](https://open.spotify.com/album/6teleymeiKKchMbvIKodcQ) | 3:01 | 2021-12-01 | 2021-12-08 |
 | [חנוכה חנוכה](https://open.spotify.com/track/7fT1m5zBUXcQhrQ8GY6zxH) | [Dalia Amihud](https://open.spotify.com/artist/4iZXZxiD3ZWOqaD4s1IHI3), [Kids Choir](https://open.spotify.com/artist/2rj7Su1MsQ6zRbSHnYqcJb) | [שירי החגים הגדולים בכל הזמנים](https://open.spotify.com/album/0pyNXUcowpgnknHQUoVVyW) | 1:41 | 2021-11-30 | 2021-12-01 |

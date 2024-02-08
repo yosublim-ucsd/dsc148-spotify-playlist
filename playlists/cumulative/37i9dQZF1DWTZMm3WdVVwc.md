@@ -4,7 +4,7 @@
 
 > 本格的な冬がようやく訪れました。そんな凍える日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-117 songs - 7 hr 58 min
+118 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Romance no Kamisama](https://open.spotify.com/track/1LBLFArddqDkgwig4vs1lk) | [広瀬香美 × Night Tempo](https://open.spotify.com/artist/5wRgqzIDq58eY9dglul3fQ), [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Romance no Kamisama](https://open.spotify.com/album/2BTbYSIJDNSVwbaQXS8u4P) | 3:27 | 2023-12-12 | 2024-01-17 |
 | [Room Service](https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:46 | 2023-12-12 |  |
 | [Shirayuki](https://open.spotify.com/track/1fcbAM10NJDMxShne4Vqjq) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Shirayuki](https://open.spotify.com/album/4CX8RRpkt9EXsC5yUptLHZ) | 3:41 | 2023-12-12 | 2024-01-31 |
+| [Shirayukinoojisama](https://open.spotify.com/track/0j8OaZoe6wjkAQxNSIfZPF) | [Hasetomo](https://open.spotify.com/artist/7mS4vBaBDQrPAFnuCNSrDk) | [Shirayukinoojisama](https://open.spotify.com/album/7hYwKzsZTHw7OFB96GaITR) | 4:37 | 2024-02-06 |  |
 | [silent](https://open.spotify.com/track/6c5k0VC9TBzlcKwtjpzFW2) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [silent](https://open.spotify.com/album/1zL4fVzGjGVuX6tMCUXUyg) | 5:08 | 2023-12-12 |  |
 | [snow love](https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [snow love](https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS) | 3:26 | 2023-12-12 |  |
 | [SNOW SOUND](https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SNOW SOUND / 今まで君が泣いた分取り戻そう](https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj) | 4:46 | 2024-01-30 |  |
@@ -116,7 +117,7 @@
 | [愛模様](https://open.spotify.com/track/0SGjAOOd55L6Swf74qynfa) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [愛模様](https://open.spotify.com/album/52ARhaxoG22r7PomX7ODTU) | 2:59 | 2024-01-23 |  |
 | [正解](https://open.spotify.com/track/0BxLFTINwKifg5szsaON6F) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/7AEGXvatrqwbvTKJh5J7VR) | 5:58 | 2024-01-23 |  |
 | [沫雪](https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [沫雪](https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q) | 3:04 | 2023-12-19 |  |
-| [白雪の王子様](https://open.spotify.com/track/072CGgPBvuShcATDbQRMuW) | [はせとも。](https://open.spotify.com/artist/78GY7TOWZWZcA660hCkVPb) | [白雪の王子様](https://open.spotify.com/album/4FlwnZjrssEiIG1uaf4GQe) | 4:37 | 2024-02-06 |  |
+| [白雪の王子様](https://open.spotify.com/track/072CGgPBvuShcATDbQRMuW) | [はせとも。](https://open.spotify.com/artist/78GY7TOWZWZcA660hCkVPb) | [白雪の王子様](https://open.spotify.com/album/4FlwnZjrssEiIG1uaf4GQe) | 4:37 | 2024-02-06 | 2024-02-08 |
 | [空、冬の曙 \- feat\. B.I.G.JOE](https://open.spotify.com/track/5u24JFPjw0JruDhYOj0NwG) | [SHO HENDRIX](https://open.spotify.com/artist/2lHnlMAxMtNovGYneMhyQh), [B.I.G\. JOE](https://open.spotify.com/artist/6MmLC4AtBTepgbIEv9n0GH) | [DOZEN ROSES](https://open.spotify.com/album/0ySLEnWBafEqbFuXaAwYTs) | 3:47 | 2023-12-12 | 2023-12-20 |
 | [粉雪](https://open.spotify.com/track/1Vimcaq6kgTq6xgHSnr4pS) | [Remioromen](https://open.spotify.com/artist/4Yz1LjHwgQ5DFWJrZL8bC8) | [HORIZON](https://open.spotify.com/album/3mMsgDoDSuT2oqdsmkSBr9) | 5:25 | 2023-12-12 |  |
 | [約束](https://open.spotify.com/track/0LzdpJriHOjjk5RZeMRgH5) | [Tomoyuki Nagasawa](https://open.spotify.com/artist/7mlYR5bDCOrTeiTN6J9rnk), [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj) | [約束](https://open.spotify.com/album/2aQSDuNshhigWbxMEpPIGU) | 6:04 | 2023-12-12 | 2024-01-17 |

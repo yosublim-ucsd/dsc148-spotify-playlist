@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Luciano & Niska
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,945 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,193 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 79 | [No Wahala](https://open.spotify.com/track/6DUVkJa50QyFebstc2AQpb) | [Groundworks](https://open.spotify.com/artist/56CfSlwdtBBEfzMuIDMhUc), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [The G Tape: Volume 3](https://open.spotify.com/album/47dTquqJGybvtfnV4I3x5q) | 2:31 |
 | 80 | [Paganini](https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Paganini](https://open.spotify.com/album/3kI8OpMHBcp6Fb56Z1uGeZ) | 2:54 |
 
-Snapshot ID: `MCwzNzIyOTcyMWQxZmUwOTVkOGM4NjAzNTNlMjgyNjFiNzUzOTFmMDRm`
+Snapshot ID: `MCw1YzczNTAzNmE2ZGI0NjNkNTM5OTUzOGRkN2E3NTVhMjNlZGIwZDQz`

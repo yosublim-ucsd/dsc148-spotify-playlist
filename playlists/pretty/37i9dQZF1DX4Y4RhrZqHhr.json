@@ -1,12 +1,12 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 788915,
+  "num_followers": 788919,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWIzYjE3YmZiMjRkYzY3NTU0MThiNGY2MjZmNjdjZDJhZTUwNjFm",
+  "snapshot_id": "MCxjOTMwNTc1OTE0NTY2MzcwYzlmNjE1MGJmNzcyNjYxZmZjZDdlYTc3",
   "tracks": [
     {
       "added_at": "2023-08-07 22:19:56",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Something To Give Each Other",
         "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 156391,
       "name": "Rush",
       "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "I",
-        "url": "https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 186146,
-      "name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
-      "url": "https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+      "url": "https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2375,22 +2375,22 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Side Effects",
-        "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
+        "name": "All Around The World (La La La)",
+        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         },
         {
-          "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+          "name": "A Touch Of Class",
+          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
         }
       ],
-      "duration_ms": 153742,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
+      "duration_ms": 147840,
+      "name": "All Around The World (La La La)",
+      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2439,22 +2439,22 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "All Around The World (La La La)",
-        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
+        "name": "Side Effects",
+        "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "A Touch Of Class",
-          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
         }
       ],
-      "duration_ms": 147840,
-      "name": "All Around The World (La La La)",
-      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
+      "duration_ms": 153742,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2495,26 +2495,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        },
-        {
-          "name": "Luca Schreiner",
-          "url": "https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9"
-        }
-      ],
-      "duration_ms": 148023,
-      "name": "SNAP - Luca Schreiner Remix",
-      "url": "https://open.spotify.com/track/4JGFQyEJXDLtB3kOL3M1F3"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "We Are The People (southstar Remix)",
         "url": "https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb"
       },
@@ -2535,6 +2515,26 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        },
+        {
+          "name": "Luca Schreiner",
+          "url": "https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9"
+        }
+      ],
+      "duration_ms": 148023,
+      "name": "SNAP - Luca Schreiner Remix",
+      "url": "https://open.spotify.com/track/4JGFQyEJXDLtB3kOL3M1F3"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "Stay the Night",
         "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
       },
@@ -2551,26 +2551,6 @@
       "duration_ms": 171954,
       "name": "Stay the Night",
       "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2651,6 +2631,26 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "Music & You",
         "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
       },
@@ -2711,26 +2711,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "F.A.M.E. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/0iSaO7CfL9NgXdM8Meu2ul"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Thank You [Not So Bad]",
         "url": "https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK"
       },
@@ -2747,6 +2727,26 @@
       "duration_ms": 197963,
       "name": "Thank You [Not So Bad]",
       "url": "https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "F.A.M.E. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/0iSaO7CfL9NgXdM8Meu2ul"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2771,6 +2771,26 @@
       "duration_ms": 167038,
       "name": "The Mack",
       "url": "https://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "World Hold On (Children of the Sky) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4nJFwHTd4JySzd5vRehPQG"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "duration_ms": 199194,
+      "name": "World Hold On (Children of the Sky) - Radio Edit",
+      "url": "https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2807,26 +2827,6 @@
       "duration_ms": 198774,
       "name": "Just Hold On",
       "url": "https://open.spotify.com/track/3EmmCZoqpWOTY1g2GBwJoR"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "World Hold On (Children of the Sky) [Radio Edit]",
-        "url": "https://open.spotify.com/album/4nJFwHTd4JySzd5vRehPQG"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 199194,
-      "name": "World Hold On (Children of the Sky) - Radio Edit",
-      "url": "https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti"
     },
     {
       "added_at": "2023-08-07 22:19:56",

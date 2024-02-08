@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,537 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,563 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 16 | [Polvo Y Nada](https://open.spotify.com/track/3hxmYDtf38nK7MLtbdaHFj) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Polvo Y Nada](https://open.spotify.com/album/0tsv50A3ZdXC5EeohYYHag) | 3:34 |
 | 17 | [Yo Estaba Solo](https://open.spotify.com/track/4XcPwUTY31I4atXFTVE6XB) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi) | 3:11 |
 | 18 | [Donde Andará](https://open.spotify.com/track/1AvJ3JBfma4kdkpY91rc4l) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Del Campo a la Ciudad](https://open.spotify.com/album/1YVcOrdEEN3xZSSRMI5288) | 3:47 |
-| 19 | [Mi Enemigo El Amor \- En Vivo](https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [En Vivo](https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It) | 3:54 |
-| 20 | [Adiós, Adiós](https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV) | 3:13 |
+| 19 | [Adiós, Adiós](https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV) | 3:13 |
+| 20 | [Mi Enemigo El Amor \- En Vivo](https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [En Vivo](https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It) | 3:54 |
 | 21 | [Andamos Borrachos Todos \- En Vivo](https://open.spotify.com/track/0OiBmdNifHrKDer8l1bUUJ) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Desde La Playa Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/5Cg2SJc24bmBeoTQZ3ulVt) | 3:14 |
 | 22 | [Al Final De Tu Camino](https://open.spotify.com/track/7rVKFsz6ZjweGb6zFIRVs4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F) | 3:27 |
-| 23 | [Los Amantes](https://open.spotify.com/track/0h43pLYpldnoNwESdxnoDI) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Lo Mejor De Mi Repertorio](https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR) | 3:28 |
-| 24 | [Mi Amor Sin Ella](https://open.spotify.com/track/4PPFkIR5X1DwVr2SC1ZZdq) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa) | 3:12 |
+| 23 | [Mi Amor Sin Ella](https://open.spotify.com/track/4PPFkIR5X1DwVr2SC1ZZdq) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa) | 3:12 |
+| 24 | [Los Amantes](https://open.spotify.com/track/0h43pLYpldnoNwESdxnoDI) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Lo Mejor De Mi Repertorio](https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR) | 3:28 |
 | 25 | [Vuelve Por Favor](https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Vuelve Por Favor](https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W) | 3:20 |
 | 26 | [Ojalá Sea Cierto](https://open.spotify.com/track/4m6NWuvSrcS7keLJAO1aGD) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F) | 2:36 |
 | 27 | [Lucharé Por Ti](https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Lucharé Por Ti](https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 49 | [Me Voy A Alejar](https://open.spotify.com/track/1zdPjLtWjmwRKKCMAK3Dpj) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Me Voy A Alejar](https://open.spotify.com/album/38rMvKBQVe0yHY5iDGX35E) | 3:19 |
 | 50 | [Con El Alma Marchita](https://open.spotify.com/track/0u0BI9iLG7JzCr0x4eXXWw) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Con El Alma Marchita](https://open.spotify.com/album/7sYFshjpDNY6M4Z1AGySqb) | 3:20 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA5Njc0ZTY2MzcxMjNkNDNjOTdjYmUyNWEzOWE2YTliOQ==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDAyYjEwNDQ1MWZhYjkxZjk0OWIyMDQ5NzQ5YWQ5MDBhYw==`

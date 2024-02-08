@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,701 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,708 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 | 30 | [Diamonds](https://open.spotify.com/track/1qzZUUlJsvDJ10QvzcO304) | [Roy Budd](https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Diamonds](https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez) | 2:31 |
 | 31 | [There's So Much Love All Around Me](https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Uplifting Soul Classics](https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd) | 2:39 |
 | 32 | [I Do Take You](https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:16 |
-| 33 | [Lonelier Are Fools](https://open.spotify.com/track/7LDmwfODaICK03XxOZri6L) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 |
-| 34 | [Who Is She and What Is She to You](https://open.spotify.com/track/5pzpxn3XvxtVeCNSBm8zys) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 3:17 |
-| 35 | [Drivin' Me Mad](https://open.spotify.com/track/6QrAi0u4yhK1Ew1Pi303DE) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Look in My Eyes](https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv) | 2:17 |
+| 33 | [Drivin' Me Mad](https://open.spotify.com/track/6QrAi0u4yhK1Ew1Pi303DE) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Look in My Eyes](https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv) | 2:17 |
+| 34 | [Lonelier Are Fools](https://open.spotify.com/track/7LDmwfODaICK03XxOZri6L) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 |
+| 35 | [Who Is She and What Is She to You](https://open.spotify.com/track/5pzpxn3XvxtVeCNSBm8zys) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 3:17 |
 | 36 | [The Magic Door](https://open.spotify.com/track/5B94YFQfQ42lnEoOn3tA7M) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:33 |
 | 37 | [Distant Lover](https://open.spotify.com/track/77IGjPxsNS0ZKBgtyrQ6mQ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:04 |
 | 38 | [Free Ride \- Live at Bailey's, London, England \- 1975](https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees Live](https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl) | 2:43 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 | 43 | [End Titles](https://open.spotify.com/track/37TKGTuBWeMfO1Nsy9lYqA) | [Roy Budd](https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Diamonds](https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez) | 2:17 |
 | 44 | [I Turn to You \- Mono Version](https://open.spotify.com/track/4WNofpNcxMXpnAPzu5c6Fz) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 3:16 |
 | 45 | [The Grass \(Will Sing for You\) \[Mono Version\]](https://open.spotify.com/track/5aBfIwwa1Vu2j625w4hYZ2) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:22 |
-| 46 | [You're the One](https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:24 |
-| 47 | [Gotta Draw the Line](https://open.spotify.com/track/7HNVtnLuq2lmKMPB9kFj1A) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Close Your Eyes / Gotta Draw the Line](https://open.spotify.com/album/4SkEdHeraLeqe5stv41pq9) | 3:02 |
-| 48 | [Sugar On Sunday](https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Sunday Music](https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl) | 3:22 |
-| 49 | [Another Heartache](https://open.spotify.com/track/5EBOybVHa8xRsFYqZtOfQU) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:11 |
+| 46 | [Gotta Draw the Line](https://open.spotify.com/track/7HNVtnLuq2lmKMPB9kFj1A) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Close Your Eyes / Gotta Draw the Line](https://open.spotify.com/album/4SkEdHeraLeqe5stv41pq9) | 3:02 |
+| 47 | [You're the One](https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:24 |
+| 48 | [Another Heartache](https://open.spotify.com/track/5EBOybVHa8xRsFYqZtOfQU) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:11 |
+| 49 | [Sugar On Sunday](https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Sunday Music](https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl) | 3:22 |
 | 50 | [Here I Am](https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:54 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDAxYmJjNGFkOWM3ODAxMGMzMDkwOTVlYjlmMjdkMTk1OQ==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDA0YjlhYzRhNDMxNWY0OGI0NzZmNjk1MzRlZmM5OTQwYg==`

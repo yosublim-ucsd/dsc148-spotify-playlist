@@ -1,12 +1,12 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 27752,
+  "num_followers": 27811,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjgwOTc5ZWMyNDNmMmRjOTg5ZDc0NGEyMzc4YWUzMWFkY2UwZDUz",
+  "snapshot_id": "MCw0MWQyZTc1M2Q2NTZjZWYyZDM4ZmU1ODQwZTk1MmVhNjQwZTFkYzZj",
   "tracks": [
     {
       "added_at": "2023-12-15 11:35:26",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Voices of Ether",
-        "url": "https://open.spotify.com/album/1c39z8X6g0z3dZmaf1AZKE"
+        "name": "Treetop Whisperer",
+        "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
       },
       "artists": [
         {
-          "name": "La Moci\u00f3n",
-          "url": "https://open.spotify.com/artist/5UQaOILr6zsKIuJ7OTLFrU"
+          "name": "Beyond Observable",
+          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
         }
       ],
-      "duration_ms": 147801,
-      "name": "Voices of Ether",
-      "url": "https://open.spotify.com/track/33w3Oi4WMbz8f03kOIfLbJ"
+      "duration_ms": 190687,
+      "name": "Soil",
+      "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Treetop Whisperer",
-        "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
+        "name": "Voices of Ether",
+        "url": "https://open.spotify.com/album/1c39z8X6g0z3dZmaf1AZKE"
       },
       "artists": [
         {
-          "name": "Beyond Observable",
-          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
+          "name": "La Moci\u00f3n",
+          "url": "https://open.spotify.com/artist/5UQaOILr6zsKIuJ7OTLFrU"
         }
       ],
-      "duration_ms": 190687,
-      "name": "Soil",
-      "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
+      "duration_ms": 147801,
+      "name": "Voices of Ether",
+      "url": "https://open.spotify.com/track/33w3Oi4WMbz8f03kOIfLbJ"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Cestrum Nocturnum",
-        "url": "https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ"
-      },
-      "artists": [
-        {
-          "name": "De Moi",
-          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
-        }
-      ],
-      "duration_ms": 195171,
-      "name": "Cestrum Nocturnum",
-      "url": "https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "In Everness",
         "url": "https://open.spotify.com/album/3askarTMsTIOOiFy338QD0"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 205500,
       "name": "In Everness",
       "url": "https://open.spotify.com/track/7LnvQlr3FHWlmiCqDDbXOh"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Cestrum Nocturnum",
+        "url": "https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "duration_ms": 195171,
+      "name": "Cestrum Nocturnum",
+      "url": "https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/5r4Jy8mDacGJHNOpxmPYgx"
+      },
+      "artists": [
+        {
+          "name": "Aasha",
+          "url": "https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/4GDND8Yo6fiuZyDLb3AZFc"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
         "name": "Perceive",
         "url": "https://open.spotify.com/album/5xC24lrQbOvO5Dq9WtB4qO"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 164302,
       "name": "Circle of Life",
       "url": "https://open.spotify.com/track/5ZES0TpHFfczYU6OgoBYA4"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/5r4Jy8mDacGJHNOpxmPYgx"
-      },
-      "artists": [
-        {
-          "name": "Aasha",
-          "url": "https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/4GDND8Yo6fiuZyDLb3AZFc"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "peaceful year calling",
-        "url": "https://open.spotify.com/album/0zoMuyHG3z5aMtCFzjeXsf"
-      },
-      "artists": [
-        {
-          "name": "our distant worlds",
-          "url": "https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "peaceful year calling",
-      "url": "https://open.spotify.com/track/2zyeQDY1Jg7DUHhmZyyUAn"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Chakra",
         "url": "https://open.spotify.com/album/4qdm2nundmbGV2g9ppryGD"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 130354,
       "name": "Chakra",
       "url": "https://open.spotify.com/track/0SfDJE8Q0RhjgriKxSEXSN"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "peaceful year calling",
+        "url": "https://open.spotify.com/album/0zoMuyHG3z5aMtCFzjeXsf"
+      },
+      "artists": [
+        {
+          "name": "our distant worlds",
+          "url": "https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "peaceful year calling",
+      "url": "https://open.spotify.com/track/2zyeQDY1Jg7DUHhmZyyUAn"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2"
-      },
-      "artists": [
-        {
-          "name": "Zoe Connelly",
-          "url": "https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO"
-        }
-      ],
-      "duration_ms": 136820,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Fond Memories",
         "url": "https://open.spotify.com/album/3QAXPjqvqrS1A3StFuOvn1"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 226206,
       "name": "Fond Memories",
       "url": "https://open.spotify.com/track/41pSl4mg6Xwb2bzC9M0WLl"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2"
+      },
+      "artists": [
+        {
+          "name": "Zoe Connelly",
+          "url": "https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO"
+        }
+      ],
+      "duration_ms": 136820,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Green Haven",
-        "url": "https://open.spotify.com/album/0ADw9zxE2cWSRk0HvkAZ2q"
-      },
-      "artists": [
-        {
-          "name": "Marolo Ocean",
-          "url": "https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ"
-        }
-      ],
-      "duration_ms": 163436,
-      "name": "Clearing Your Mind",
-      "url": "https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Jenna\u2019s Lullaby",
         "url": "https://open.spotify.com/album/6TBbV7K7FIbHG3w2cp79Fp"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 235875,
       "name": "Jenna\u2019s Lullaby",
       "url": "https://open.spotify.com/track/5JTwCoohusfE5CjptRqvHC"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Green Haven",
+        "url": "https://open.spotify.com/album/0ADw9zxE2cWSRk0HvkAZ2q"
+      },
+      "artists": [
+        {
+          "name": "Marolo Ocean",
+          "url": "https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ"
+        }
+      ],
+      "duration_ms": 163436,
+      "name": "Clearing Your Mind",
+      "url": "https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2267,38 +2267,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Convergence",
-        "url": "https://open.spotify.com/album/6T3aTAlvUxsgTqKoRhRLr9"
-      },
-      "artists": [
-        {
-          "name": "Logan Ronfeld",
-          "url": "https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9"
-        }
-      ],
-      "duration_ms": 198529,
-      "name": "Convergence",
-      "url": "https://open.spotify.com/track/1MJC0r9sxYQkFWpoZ1thTk"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "Let It Heal",
-        "url": "https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "432hz Let It Heal - Studio Edit",
-      "url": "https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Asha",
         "url": "https://open.spotify.com/album/45j2xwLqufgtoAkOIBna6p"
       },
@@ -2327,6 +2295,38 @@
       "duration_ms": 188571,
       "name": "Forgiving the Night",
       "url": "https://open.spotify.com/track/52pCSrRxEVGLhFo1aCX3Yv"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Let It Heal",
+        "url": "https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "432hz Let It Heal - Studio Edit",
+      "url": "https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Convergence",
+        "url": "https://open.spotify.com/album/6T3aTAlvUxsgTqKoRhRLr9"
+      },
+      "artists": [
+        {
+          "name": "Logan Ronfeld",
+          "url": "https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9"
+        }
+      ],
+      "duration_ms": 198529,
+      "name": "Convergence",
+      "url": "https://open.spotify.com/track/1MJC0r9sxYQkFWpoZ1thTk"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
-      },
-      "artists": [
-        {
-          "name": "Jenna Talenti",
-          "url": "https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo"
-        }
-      ],
-      "duration_ms": 144705,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Arrivals",
         "url": "https://open.spotify.com/album/2wzLZcooRdJ6LYtIGTSDA8"
       },
@@ -2459,18 +2443,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Undertow",
-        "url": "https://open.spotify.com/album/2Qmg5AdizdZqzcl8Y1kLN4"
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
       },
       "artists": [
         {
-          "name": "Gleework",
-          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
+          "name": "Jenna Talenti",
+          "url": "https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo"
         }
       ],
-      "duration_ms": 160800,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/16oGajuaXEQAWKmFqxVCCd"
+      "duration_ms": 144705,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2487,6 +2471,22 @@
       "duration_ms": 202409,
       "name": "Aeonian Hope",
       "url": "https://open.spotify.com/track/0sVpToGNlU7Y7KfuxCGP1J"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Undertow",
+        "url": "https://open.spotify.com/album/2Qmg5AdizdZqzcl8Y1kLN4"
+      },
+      "artists": [
+        {
+          "name": "Gleework",
+          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/16oGajuaXEQAWKmFqxVCCd"
     },
     {
       "added_at": "2023-12-15 11:35:26",

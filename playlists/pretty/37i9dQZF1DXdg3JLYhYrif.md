@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,694 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,755 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 34 | [Vingança \- Ao Vivo](https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Live\-Móvel \(Ao Vivo\)](https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2) | 3:01 |
 | 35 | [Pesadão](https://open.spotify.com/track/2nPYWC7Jtd3gsd1iMQT3Vs) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:19 |
 | 36 | [Deu Onda](https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Deu Onda](https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl) | 2:23 |
-| 37 | [Indomável \(Participação especial de Belo\)](https://open.spotify.com/track/4YbZBChhX5SkLhNJcvvhuD) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Indomável \(Participação especial de Belo\)](https://open.spotify.com/album/7tWXS9xw3xY37qiORxOV6t) | 3:33 |
-| 38 | [Meu Mundo](https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Hariel](https://open.spotify.com/artist/09bMYbg60r42iQsG8afMnA), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [18K](https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo) | 4:44 |
+| 37 | [Meu Mundo](https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Hariel](https://open.spotify.com/artist/09bMYbg60r42iQsG8afMnA), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [18K](https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo) | 4:44 |
+| 38 | [Indomável \(Participação especial de Belo\)](https://open.spotify.com/track/4YbZBChhX5SkLhNJcvvhuD) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Indomável \(Participação especial de Belo\)](https://open.spotify.com/album/7tWXS9xw3xY37qiORxOV6t) | 3:33 |
 | 39 | [Raspão \(feat\. Simone & Simaria\) \- Ao Vivo](https://open.spotify.com/track/6gquljDBW7rE6mCBzmTRxo) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [De Braços Abertos \(Ao Vivo\)](https://open.spotify.com/album/6plZQVlgm6HDExDtMcb4iC) | 3:12 |
 | 40 | [Pouca Pausa](https://open.spotify.com/track/2odzriVVZBwYOiYJEj30tm) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Cortesia Da Casa](https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6), [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Pouca Pausa](https://open.spotify.com/album/4uvWaZXSz2eMn7YZXXXcS1) | 4:39 |
 | 41 | [Ar Condicionado no 15 \- Ao Vivo](https://open.spotify.com/track/59iqQY09BBJD3cSvojPsh0) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [In Miami Beach \(Ao Vivo\)](https://open.spotify.com/album/20wBgOGIjSo3lWwgXfishN) | 2:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 59 | [Deixa Ela Beijar](https://open.spotify.com/track/2KxHe4qxNgeFcKpE2r2aBt) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Deixa Ela Beijar](https://open.spotify.com/album/0cRh2xyjTOdUSVBNk84nd4) | 2:46 |
 | 60 | [Aquele 1% \(feat\. Wesley Safadão\)](https://open.spotify.com/track/3m8Ndnhd8u1VuSlu75hy7D) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Acústico \- Tão Feliz \(Deluxe\)](https://open.spotify.com/album/5zIF8gOoLkPouCjxiJJS9O) | 2:56 |
 
-Snapshot ID: `MCw1YmI1ZDdjM2FlNWI1Mjc1MTM1YjE3ZGFmZjZiZGM5ZGZlZTAxZmVi`
+Snapshot ID: `MCxmY2U1MWVhZjBjZDE4NzZhMmNjYzgwMWQ4MjhlYWZjNzhiYmQ3MTc1`

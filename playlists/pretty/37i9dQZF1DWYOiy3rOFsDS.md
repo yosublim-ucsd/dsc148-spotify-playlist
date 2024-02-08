@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance antigüito en voz de tus artistas pop con Kali Uchis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,572 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,666 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 42 | [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 |
 | 43 | [Adoro](https://open.spotify.com/track/57HVjcV6s7ppmZJXhNHchy) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 3:27 |
 | 44 | [Cada Vez Te Extraño Menos](https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Cada Vez Te Extraño Menos](https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is) | 2:42 |
-| 45 | [Adoracion](https://open.spotify.com/track/6W9Q073oJTne3KQedw1f73) | [Los Tri\-O](https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC) | [Nuestro Primer Disco / Nuestro Amor](https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG) | 4:28 |
+| 45 | [Para No Romperme](https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Para No Romperme](https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh) | 2:51 |
 | 46 | [Somos Algo](https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Somos Algo](https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k) | 3:54 |
-| 47 | [Para No Romperme](https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Para No Romperme](https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh) | 2:51 |
+| 47 | [Adoracion](https://open.spotify.com/track/6W9Q073oJTne3KQedw1f73) | [Los Tri\-O](https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC) | [Nuestro Primer Disco / Nuestro Amor](https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG) | 4:28 |
 | 48 | [No Dejes de Quererme](https://open.spotify.com/track/7mAOonpkjMsDwUAuXmm4pj) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [Ome](https://open.spotify.com/album/69ecmGWs76wJyI23HLNfjh) | 2:57 |
 | 49 | [Be True to Me \- Sabor a Mi \- Versión Bilingüe](https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Be True to Me \- Sabor a Mi \(Versión Bilingüe\)](https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx) | 3:09 |
 | 50 | [Veinte Años](https://open.spotify.com/track/7idoiWKligF3jmM8FMf6c6) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 3:32 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 70 | [Bésame mucho](https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz) | [Edna Vazquez](https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bésame mucho](https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW) | 4:04 |
 | 71 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 |
 | 72 | [Tengo](https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP) | [Tania Matus](https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF) | [Tengo](https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8) | 4:08 |
-| 73 | [En la Orilla del Mar](https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Los Boleros de Oro de la Música Tropical](https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ) | 2:45 |
-| 74 | [Cuando Vuelva a Tu Lado](https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Solo Boleros](https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD) | 2:58 |
+| 73 | [Cuando Vuelva a Tu Lado](https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Solo Boleros](https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD) | 2:58 |
+| 74 | [En la Orilla del Mar](https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Los Boleros de Oro de la Música Tropical](https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ) | 2:45 |
 | 75 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 |
 | 76 | [Te matan los celos](https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [Orígenes: El Bolero Vol.3](https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t) | 3:30 |
 | 77 | [Este Terco Corazón \- En Vivo Los Estudios Churubusco México DF/2011](https://open.spotify.com/track/0zWa5MVujd2PUiqRnXxTmU) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Acústico En Vivo](https://open.spotify.com/album/21W89hohyAUqNiLMKGYiZn) | 4:32 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 93 | [Sabor a Mi \- En Vivo](https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Andrés Cepeda Big Band \(En Vivo\)](https://open.spotify.com/album/0Gpm0iuK5BKbrbX8FJKz1y) | 2:18 |
 | 94 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |
 | 95 | [Preso](https://open.spotify.com/track/1HbrJm8GebgXE24ixji0hR) | [Paco de María](https://open.spotify.com/artist/2mbskxBaHE1KFkmul4slY2) | [Una Buena Señal](https://open.spotify.com/album/7K4Skg7SyLMzLhgSXAcoYC) | 3:47 |
-| 96 | [Noche No Te Vayas](https://open.spotify.com/track/6qUvXLmgxFLxWpK4zitltx) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Éxitos de Manolo Muñoz](https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY) | 2:50 |
-| 97 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
+| 96 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
+| 97 | [Noche No Te Vayas](https://open.spotify.com/track/6qUvXLmgxFLxWpK4zitltx) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Éxitos de Manolo Muñoz](https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY) | 2:50 |
 | 98 | [Jacaranda](https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Triología](https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL) | 3:11 |
 | 99 | [Drume Negrita \- En Vivo Desde Fonobox](https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Drume Negrita \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r) | 2:44 |
 | 100 | [Tiempo al Tiempo](https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 4:24 |
 
-Snapshot ID: `MCw0ZTYwNjdhZTJhNjAxMzk2YzhiMWFiNTQ0ODBhYjYwMjRiZWYxYzhj`
+Snapshot ID: `MCxiOGQ3Yjk4OGJkMzI4ZGMxOGY3MjczNDhiM2FlZWE1YWY2NGQ0MjE3`

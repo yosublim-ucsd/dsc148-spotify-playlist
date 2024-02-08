@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Aashir Wajahat
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,641 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,644 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [Nayel](https://open.spotify.com/artist/1QfBA8CPtR8hOkqgHPzqL5), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 |
+| 1 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 |
 | 2 | [Bhanwray](https://open.spotify.com/track/7hd4hJvT4sRKt6ZODGIbRR) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9), [Joshua Savio](https://open.spotify.com/artist/0de1SZQ5sOAmgVK3vtfUt9) | [Bhanwray](https://open.spotify.com/album/7FLHPPyX759sAHlYblf8fw) | 4:10 |
 | 3 | [Dhanak](https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8) | 2:39 |
 | 4 | [Pagal](https://open.spotify.com/track/2whT2OoqFFn6rMi1KUohjF) | [Penah Ali](https://open.spotify.com/artist/4XyCGnP7BEs7rt7vh0bfOa), [Imtiazing](https://open.spotify.com/artist/4R4heykqGoFWo1WKHDyOdA) | [Pagal](https://open.spotify.com/album/1PhlkdHr58zBQmBQvrCZJB) | 2:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 79 | [Club Road](https://open.spotify.com/track/7LDHUzYbSe9B2a4bzFOxpV) | [RFB](https://open.spotify.com/artist/6xWVbaQjA2OO1ejFPyKhjp), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Club Road](https://open.spotify.com/album/22AdTIhTLsX18XBYnOQuMO) | 2:53 |
 | 80 | [CRYLOOP \#2](https://open.spotify.com/track/0vEfhFwwRrNw1R6cXEzPof) | [Sinan Rajput](https://open.spotify.com/artist/0avEinyUN34b2mxTo7YZLY), [Umar.](https://open.spotify.com/artist/4INRTjmbOR0tkPGC3ySXIm) | [CRYLOOP \#2](https://open.spotify.com/album/286iWmypvu6vXCVlwPgiF0) | 2:23 |
 
-Snapshot ID: `MCwxYTE4YWViZmQ2Njk1NjEzMmNmYTc2YzBmZjVmNzgzOTk0ZTAyZTc3`
+Snapshot ID: `MCxjNGMwYzdkNTM3NTIyYjFmMjlhM2M0MWJkMzcwYmU4NDk5N2JjZTJm`

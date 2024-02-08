@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,506 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,539 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 38 | [La Muerte del Palomo](https://open.spotify.com/track/2DS9ddKznwPNgG5Dt4w2ph) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:25 |
 | 39 | [Amor Eterno](https://open.spotify.com/track/4SWye3OAVUSJysWgPF89e6) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 4:33 |
 | 40 | [Costumbres](https://open.spotify.com/track/4DApBy8qaceW065vWHkh2k) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T) | 4:44 |
-| 41 | [Ya No Insistas Corazón](https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ya No Insistas Corazón](https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y) | 3:24 |
-| 42 | [Lo Pasado, Pasado](https://open.spotify.com/track/1HYPtBNR4kXNqBo3wfpW27) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:11 |
+| 41 | [Lo Pasado, Pasado](https://open.spotify.com/track/1HYPtBNR4kXNqBo3wfpW27) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:11 |
+| 42 | [Ya No Insistas Corazón](https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ya No Insistas Corazón](https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y) | 3:24 |
 | 43 | [He Venido a Pedirte Perdón](https://open.spotify.com/track/7IjVM9hrpMF7Qrn15ZJYxN) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 4:14 |
 | 44 | [Fue un Placer Conocerte](https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 3:00 |
 | 45 | [Costumbres](https://open.spotify.com/track/25cvmtRrMtNwUwxFc05ps8) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [CU4TRO](https://open.spotify.com/album/7tYKnQqP7OCQC8iV5hyCq1) | 4:41 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 70 | [Noa Noa](https://open.spotify.com/track/74b6K0AZr4tNKeA3gab9UU) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 4:40 |
 | 71 | [No Discutamos](https://open.spotify.com/track/0188QTNiBTbPuMagX7kuxG) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [No Discutamos](https://open.spotify.com/album/58C2v3TjmeUw5vT8uXix4f) | 3:40 |
 | 72 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/7KSfpTSRVBkoCZDJ0Rwtym) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [La Vargas Ritual Chavela](https://open.spotify.com/album/3AY4O7UYTMFKDwKc1WiQqw) | 3:08 |
-| 73 | [Debo Hacerlo / Caray / Querida / Me Nace del Corazón \(Popurri Juan Gabriel\)](https://open.spotify.com/track/4Qs25xEVE1V9R4gdROQjMQ) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [En Acustico](https://open.spotify.com/album/0dDs36Bq7YwLekfMWGGicw) | 5:19 |
-| 74 | [Amor Eterno](https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Amor Eterno](https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3) | 5:28 |
+| 73 | [Amor Eterno](https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Amor Eterno](https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3) | 5:28 |
+| 74 | [Debo Hacerlo / Caray / Querida / Me Nace del Corazón \(Popurri Juan Gabriel\)](https://open.spotify.com/track/4Qs25xEVE1V9R4gdROQjMQ) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [En Acustico](https://open.spotify.com/album/0dDs36Bq7YwLekfMWGGicw) | 5:19 |
 | 75 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/2eMkbfrDfi9cQB7TTZvlsI) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 2:34 |
 | 76 | [Quizás Mañana](https://open.spotify.com/track/7M1iJDm9sewaakBFcMHlT4) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 4:14 |
 | 77 | [Fue Un Placer Conocerte](https://open.spotify.com/track/3EcuE8L4CBYZUlDgb9GZXU) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Singles](https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 99 | [No Vale la Pena](https://open.spotify.com/track/61xsekswNv3eCOOwYGY6GH) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 2:36 |
 | 100 | [Me Gustas Mucho \- Con Amaia Montero](https://open.spotify.com/track/09WmDckPkEXGRlGH5Kyipy) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:00 |
 
-Snapshot ID: `MCwxMzZiYTNlZjkzMGY5OTRjNTI1OGNlMzk5ZjdiMzU0YTNjNWIwMWJl`
+Snapshot ID: `MCxjODM1YzY0MGQ1ODNjNDVkYWU2NmM4NDZhYTBmMDgzYTljNjg2MmNl`

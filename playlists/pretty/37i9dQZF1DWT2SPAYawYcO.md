@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Tones And I
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,577 likes - 77 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,620 likes - 77 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 51 | [Abracadabra \(Feat\. Craig David\)](https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra \(feat\. Craig David\)](https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5) | 2:35 |
 | 52 | [Wild For Change](https://open.spotify.com/track/1x7MgVfK7MP3aZkAuae3t8) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Wild For Change](https://open.spotify.com/album/0Y85muQmXgj15Os6GkC9Th) | 3:52 |
 | 53 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 |
-| 54 | [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
+| 54 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 |
 | 55 | [GEEKIN \(feat\. AJ Tracey\)](https://open.spotify.com/track/3R9AZOrnO20E5MVMBiofqH) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [GEEKIN \(feat\. AJ Tracey\)](https://open.spotify.com/album/4Aq9PhYsSQU4N6mUyXA2kV) | 2:45 |
 | 56 | [Wilder](https://open.spotify.com/track/3imsPlRKYmrKmhy5zQE12g) | [Pierce Brothers](https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB), [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Wilder](https://open.spotify.com/album/69ARZGaLbAs4Ay2rrVdh95) | 3:01 |
 | 57 | [7 Up](https://open.spotify.com/track/62hIVucnuhYuYKgfOpe6n4) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [7 Up](https://open.spotify.com/album/34L5h7uSglIHTkglRnC63H) | 3:07 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 76 | [Last Time](https://open.spotify.com/track/1CTqUN7HGNCiWQxjv8jzfZ) | [Cam Robertson](https://open.spotify.com/artist/52gYuftxzhODyZnKVxgPkW) | [Last Time](https://open.spotify.com/album/1FBXa8o8sYfO3IG1PZPVZy) | 2:59 |
 | 77 | [Do or Die \(ft\. DPR IAN\)](https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo) | [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ), [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [KINEMA](https://open.spotify.com/album/5bikiolrxKPQiFfPt7bdv8) | 3:34 |
 
-Snapshot ID: `MCw5OWQzZTM2ODgyMzk1ZGE3YmExZGI4ZGM4M2E0MDk4MzIzM2ZkOTIy`
+Snapshot ID: `MCw1NzZmN2M0MjRkNjBlOTMwNWQ3YWI4ZWE1NjYwZGM5ZDk5YmUzMjY3`

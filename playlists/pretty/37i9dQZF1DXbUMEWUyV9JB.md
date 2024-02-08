@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! De todas, Norteñas, Sonideras, con Banda y mas! Cover: Grupo Frontera & Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,799 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,829 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,16 +49,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 39 | [20 Rosas](https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:14 |
 | 40 | [Como Decirte Adios](https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5) | 3:27 |
 | 41 | [Bandido](https://open.spotify.com/track/5YH0im36TvDjT5CN2VsHHK) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Atraparé Bandido](https://open.spotify.com/album/5QJ3kG3mo6fISj1apYFke2) | 2:59 |
-| 42 | [Echarme Al Olvido](https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. 3](https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r) | 4:41 |
+| 42 | [Sangoloteadito](https://open.spotify.com/track/2s678Tz6mme5OV9DfTUUoD) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro, Vol\. 3: Con Tambora](https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2) | 3:00 |
 | 43 | [Agachadita](https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Agachadita](https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY) | 3:15 |
 | 44 | [Ya No Me Mires Así](https://open.spotify.com/track/300QUH7Q7FncaEo8Fcvwgp) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Acuérdate de Mi](https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY) | 3:04 |
-| 45 | [Sangoloteadito](https://open.spotify.com/track/2s678Tz6mme5OV9DfTUUoD) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro, Vol\. 3: Con Tambora](https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2) | 3:00 |
+| 45 | [Echarme Al Olvido](https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. 3](https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r) | 4:41 |
 | 46 | [Tan Bella y Tan Presumida \- En Vivo](https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Tan Bella y Tan Presumida \(En Vivo\)](https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn) | 3:01 |
 | 47 | [Gritaría](https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Muévete](https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1) | 3:45 |
 | 48 | [Vida No Te Vayas](https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5) | 3:48 |
 | 49 | [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 |
-| 50 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
-| 51 | [Soy Cómo Quiero Ser](https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Tambora, Vol\. 2](https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ) | 2:34 |
+| 50 | [Soy Cómo Quiero Ser](https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Tambora, Vol\. 2](https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ) | 2:34 |
+| 51 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
 | 52 | [Vienes y Te Vas](https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Con la Fuerza de un Volcán](https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y) | 3:48 |
 | 53 | [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 |
 | 54 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 66 | [El Amor de la Nena](https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw) | [Grupo Que Nota](https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv) | [20 Exitos Originales 20](https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA) | 4:37 |
 | 67 | [Te Vez Buena \- En Vivo](https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh) | 4:12 |
 | 68 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 |
-| 69 | [El Llanto de los Luceros / El Llanto de los Sapos](https://open.spotify.com/track/1kHLw4WQLHkIRpbI8ocvFR) | [Grupo Mijez](https://open.spotify.com/artist/6bnOv0WLGRT8DDzbhH3pWF) | [El Llanto de los Luceros / El Llanto de los Sapos](https://open.spotify.com/album/0ZXMdIJah9WqOw0UxI6Gyn) | 3:49 |
-| 70 | [Conga Y Timbal](https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Conga Y Timbal](https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO) | 3:39 |
+| 69 | [Conga Y Timbal](https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Conga Y Timbal](https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO) | 3:39 |
+| 70 | [El Llanto de los Luceros / El Llanto de los Sapos](https://open.spotify.com/track/1kHLw4WQLHkIRpbI8ocvFR) | [Grupo Mijez](https://open.spotify.com/artist/6bnOv0WLGRT8DDzbhH3pWF) | [El Llanto de los Luceros / El Llanto de los Sapos](https://open.spotify.com/album/0ZXMdIJah9WqOw0UxI6Gyn) | 3:49 |
 | 71 | [Amor De Tres](https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3) | [Aroma](https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX) | [Amor De 3](https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF) | 3:08 |
 | 72 | [El Baile de San Juan](https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [El Baile de San Juan](https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta) | 4:14 |
 | 73 | [La Muñequita Fea](https://open.spotify.com/track/3Ua9fZLumeONPtLnkkUHbI) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 99 | [Llorar](https://open.spotify.com/track/7JIVOkgktlJWxzzq5ANpN6) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [Hoy](https://open.spotify.com/album/24sGCfEJfvqNhHKIJhecsD) | 3:38 |
 | 100 | [Ojitos Mentirosos](https://open.spotify.com/track/1e1xg1VPnD0XQ1tRLZDdOj) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Baila para Mí](https://open.spotify.com/album/3oPF99WsqhHc1CujeiGTrj) | 3:37 |
 
-Snapshot ID: `MCw1YmQzNDk0MzcwZTdkYjQ2ZmEzMTZlY2Y5MTM1OGNiZjQxNDViOTU5`
+Snapshot ID: `MCw5NmJmMTAzYjRhNTJmMjIyNzQwOGYxODk5NzBmNmRkYzAzYjViYzcy`

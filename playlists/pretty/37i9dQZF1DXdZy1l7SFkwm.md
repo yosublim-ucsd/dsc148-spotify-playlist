@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 
 > El aderezo que te falta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,707 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,747 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 | 71 | [De Noite Na Cama](https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:17 |
 | 72 | [Toda una vida](https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Las 30 grandes de Chavela Vargas](https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2) | 2:35 |
 | 73 | [O Morro \(Não Tem Vez\)](https://open.spotify.com/track/5jMc7pAGFQ5lRqfaM7AsU5) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:56 |
-| 74 | [Una De Mambo](https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB) | [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm) | [Curanderas](https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF) | 3:36 |
-| 75 | [The Shade of the Mango Tree](https://open.spotify.com/track/6gdTVZdQcVN54ynCk38l5U) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Bonfa Burrows Brazil](https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq) | 3:54 |
-| 76 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 |
+| 74 | [The Shade of the Mango Tree](https://open.spotify.com/track/6gdTVZdQcVN54ynCk38l5U) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Bonfa Burrows Brazil](https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq) | 3:54 |
+| 75 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 |
+| 76 | [Una De Mambo](https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB) | [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm) | [Curanderas](https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF) | 3:36 |
 | 77 | [Silencio](https://open.spotify.com/track/7fEJ3BTR7OsNVeTylr3NsL) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI) | 4:38 |
 | 78 | [Quando você chegar](https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Dois Momentos](https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I) | 3:18 |
 | 79 | [Quizás, Quizás, Quizás](https://open.spotify.com/track/0gKj8QF7esmwphbJe2DZF5) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [El Trío Los Panchos / Por Siempre Boleros](https://open.spotify.com/album/4dJcbMoV2N10NKW9G0bXec) | 2:54 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 | 94 | [Lobo Bobo \(Foolish Wolf\)](https://open.spotify.com/track/5wjEUKBi5gkrrZ6lZxzC5Y) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS) | [Bossa Nova Carlos Lyra](https://open.spotify.com/album/6SkCc0AyioogFxwJwYZUZl) | 1:20 |
 | 95 | [Our Day Will Come](https://open.spotify.com/track/1juZY0JbbkkATQP9LSeOQH) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [The New Look](https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd) | 3:44 |
 | 96 | [Samba de Orfeu](https://open.spotify.com/track/1xZJP3lavEcMYq1eva8cce) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound of Brazil](https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU) | 2:41 |
-| 97 | [Canoeiro](https://open.spotify.com/track/5vGjcafbPf55xNWI5pP9cy) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Beach Samba](https://open.spotify.com/album/1nd8Xz8Zh7tZv5EdLbg5nF) | 1:32 |
-| 98 | [Maracangalha](https://open.spotify.com/track/2cP4EP3v6I5UYcmixnEroX) | [Dorival Caymmi](https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS) | [Para Sempre](https://open.spotify.com/album/5e2HXBdSKE8VtNUTSVzeWs) | 2:46 |
+| 97 | [Maracangalha](https://open.spotify.com/track/2cP4EP3v6I5UYcmixnEroX) | [Dorival Caymmi](https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS) | [Para Sempre](https://open.spotify.com/album/5e2HXBdSKE8VtNUTSVzeWs) | 2:46 |
+| 98 | [Canoeiro](https://open.spotify.com/track/5vGjcafbPf55xNWI5pP9cy) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Beach Samba](https://open.spotify.com/album/1nd8Xz8Zh7tZv5EdLbg5nF) | 1:32 |
 | 99 | [No Me Den Candela](https://open.spotify.com/track/1NKjjz8SHggPHXF6DnlabU) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Guisando: Doing A Job](https://open.spotify.com/album/5cIig3BrjPvDMpMRZR7a9G) | 7:09 |
 | 100 | [Tempo de Amor \(Samba do Veloso\)](https://open.spotify.com/track/2mbYdO4VRxK7AKQ2NtxOo1) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr), [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Os Afro\-Sambas](https://open.spotify.com/album/4zyGU4SFL8DEE9Ee9yAjnk) | 4:42 |
 
-Snapshot ID: `MCxjOTM0YTQ2MzBiZmNkNTg5NTBmYzE5Mzg1Y2U4ZjA1MWU4NmQzYjAy`
+Snapshot ID: `MCw1MzQ2OTk1MDE0NGQyY2NlZGUxODNmMWViZDQ2ZTZjYjMwNzg2OTg0`

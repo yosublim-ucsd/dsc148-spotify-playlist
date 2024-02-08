@@ -1,12 +1,12 @@
 {
   "description": "Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!",
-  "num_followers": 1066460,
+  "num_followers": 1066670,
   "original_name": "SIGMA MALE TIKTOK MUSIC",
   "owner": {
     "name": "CRD",
     "url": "https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u"
   },
-  "snapshot_id": "Mjc1NCw4OTRjYzdmMmNjNjA2MzJkMTA2OTBhZDY3MzY0YTdmNTIzMzE0Yzc1",
+  "snapshot_id": "Mjc1NyxkN2ZiNzYzOTc0ZjNjN2MwY2Y1MzQ1MGQ1YTRlMDJiMDc3ZTFmNzEz",
   "tracks": [
     {
       "added_at": "2024-01-31 15:13:20",
@@ -229,6 +229,22 @@
       "url": "https://open.spotify.com/track/7ewNJrUgS5C0nxAK1KB3fY"
     },
     {
+      "added_at": "2024-02-07 08:56:03",
+      "album": {
+        "name": "Kerosene (Slowed)",
+        "url": "https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf"
+      },
+      "artists": [
+        {
+          "name": "fam0uz",
+          "url": "https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo"
+        }
+      ],
+      "duration_ms": 142105,
+      "name": "Kerosene - Slowed",
+      "url": "https://open.spotify.com/track/2weO22kObPnyX1jKQStb40"
+    },
+    {
       "added_at": "2024-01-31 15:13:20",
       "album": {
         "name": "Satisfaction",
@@ -247,22 +263,6 @@
       "duration_ms": 93333,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/3SXPmgr5HhNxbsFtjLT4EG"
-    },
-    {
-      "added_at": "2024-01-31 15:13:20",
-      "album": {
-        "name": "(III)",
-        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
     },
     {
       "added_at": "2024-01-31 15:13:20",
@@ -323,6 +323,26 @@
       "duration_ms": 126786,
       "name": "lost my way.",
       "url": "https://open.spotify.com/track/3LDOh5ufbKc9RMu1eOzL5V"
+    },
+    {
+      "added_at": "2024-02-07 09:02:51",
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/5qd5jaq5RmAtYWKdD6IXF8"
+      },
+      "artists": [
+        {
+          "name": "vowl.",
+          "url": "https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL"
+        },
+        {
+          "name": "Sace",
+          "url": "https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA"
+        }
+      ],
+      "duration_ms": 99823,
+      "name": "2000",
+      "url": "https://open.spotify.com/track/3vUMN9hezWjBac9UE8xkVd"
     },
     {
       "added_at": "2024-02-02 16:01:36",
@@ -2179,6 +2199,22 @@
       "duration_ms": 125769,
       "name": "Love Game",
       "url": "https://open.spotify.com/track/4n81eNyWOkaxBIPrBQk0NJ"
+    },
+    {
+      "added_at": "2024-01-31 15:13:20",
+      "album": {
+        "name": "(III)",
+        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
     },
     {
       "added_at": "2024-01-31 15:13:20",

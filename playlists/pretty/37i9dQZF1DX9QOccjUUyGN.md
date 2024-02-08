@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Jamal KMG
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,665 likes - 83 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,660 likes - 83 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 82 | [Fora Da Lei](https://open.spotify.com/track/25BYiqy7bqjLGuZammSgo1) | [Tito JV](https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao), [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Fora Da Lei](https://open.spotify.com/album/3zSA2HaW5dkplmPfWoX0Zu) | 2:12 |
 | 83 | [Manga Rosa](https://open.spotify.com/track/1ebggv45NciH0NoULmBVQC) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Manga Rosa](https://open.spotify.com/album/2G7cF9AfONIGOsOus4TawG) | 2:13 |
 
-Snapshot ID: `MCxiZjg2ZjVkZDgzMjBmZWM5NjhkYTU0MjQxNDNjZTExMGZlZjI5MGUx`
+Snapshot ID: `MCxmYzIzNDUzNTZiYmM5ZjIyYmRjM2RiMWY4ZDNkZjhiMzllYThjYmNl`

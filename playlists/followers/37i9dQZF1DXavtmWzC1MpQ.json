@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 129461,
+  "2024-02-08": 129487,
   "date_first_scraped": "2023-10-23",
   "description": "",
   "name": "Sons da Natureza",
@@ -468,6 +468,24 @@
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179938,
+      "name": "Power and Meditation",
+      "url": "https://open.spotify.com/track/24XDOa1lefrRyMMoqEgmze"
+    },
+    {
+      "album": {
+        "name": "Terapheutic Thunder",
+        "url": "https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f9h\u00e9 \u6108\u5408",
+          "url": "https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
       "duration_ms": 134313,
       "name": "Presence of Thor",
       "url": "https://open.spotify.com/track/4WJQ1YkXPfcNZyg5jZbCCQ"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 165296,
       "name": "Zen Nature Sounds",
       "url": "https://open.spotify.com/track/5AltIifJScpUdJyQNxf3oj"

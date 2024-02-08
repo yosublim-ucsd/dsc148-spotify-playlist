@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : mademoiselle lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,527 likes - 39 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,542 likes - 39 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 38 | [SUR MOI](https://open.spotify.com/track/5Sgg3gfCdVxcDZGooilVYk) | [TLZ Clan](https://open.spotify.com/artist/6rl2UnIXbg1TcusvFlPzWp) | [WEARELOCKED](https://open.spotify.com/album/2cY3RGh1nN2yU4NtjTV6pn) | 2:53 |
 | 39 | [Loin](https://open.spotify.com/track/2QjuqvJRPxx4Bs6CNFi2Zz) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Karma \(Extended\)](https://open.spotify.com/album/5Rx2hiXG1JTKJFIhjkitd2) | 3:13 |
 
-Snapshot ID: `MCwwODg4NWVlNDY2MjYxNmE3YzE5NWJkZmU3YTlhMzQzYWJkYjBkYmRj`
+Snapshot ID: `MCxmMDkxZmQ3YTJhMmZjYTQ2MDdjYWU1YWRjMzViMGIxYWJhY2QwZjY1`

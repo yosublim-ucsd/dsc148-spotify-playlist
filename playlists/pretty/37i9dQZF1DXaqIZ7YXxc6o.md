@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: SACHI
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,610 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,608 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 20 | [Let It Go \(feat\. Shapes\)](https://open.spotify.com/track/280gb8mXCUDCvFQzmthd6g) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw) | [Let It Go \(feat\. Shapes\)](https://open.spotify.com/album/4075cfIWOb7hrh9SxbMPrY) | 3:02 |
 | 21 | [Wildfire](https://open.spotify.com/track/1tX9PAc8rY902IdX8Mh48R) | [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT), [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [Wildfire](https://open.spotify.com/album/3QyxaHtWCD2CEwZVL6K8Ba) | 2:43 |
 | 22 | [Saving Up \- Odd Mob Remix](https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Saving Up \(Odd Mob Remix\)](https://open.spotify.com/album/2WfWidStgwclhlTuXxTqMz) | 3:13 |
-| 23 | [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
+| 23 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 |
 | 24 | [Good For You](https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Good For You](https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD) | 2:50 |
 | 25 | [Abracadabra \(Feat\. Craig David\)](https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra \(feat\. Craig David\)](https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5) | 2:35 |
 | 26 | [u want me 2.0](https://open.spotify.com/track/3kkdLxiHkkDO76KXJdDKhG) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me 2.0](https://open.spotify.com/album/7rxq7ndz7RxCN6PiELPyfl) | 2:09 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 98 | [Mas Que Nada](https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Mas Que Nada](https://open.spotify.com/album/44wLGCkvr83VxYsioCROFf) | 2:07 |
 | 99 | [Best Thing](https://open.spotify.com/track/3ZDpJbRqKXrk3tL4kHBHpT) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Best Thing](https://open.spotify.com/album/2iM4du2HvU2hmHzdn7s0Ys) | 2:16 |
 
-Snapshot ID: `MCxlNWRlZmQ4YjQxMGM2NDU0NDlkMDZhM2JlYzdkODJhYTVhNmIyMjE2`
+Snapshot ID: `MCxjOGVlMGZjOGQzMDk3MGJjOWNkODJkNjRkY2FkNzVmN2E1OGQ5YjZh`

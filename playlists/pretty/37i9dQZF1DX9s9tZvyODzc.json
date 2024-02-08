@@ -1,12 +1,12 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 129204,
+  "num_followers": 129295,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWJmOTk5ZTllZmNkNWViMmVhMDVjOTgxZDQ1ZTllYmIzNjRmM2I0",
+  "snapshot_id": "MCw0M2UwMzAyZDRkMDRjZDM0MzlhMDNlNTZiMjM5ZGM4N2EzOGM5OWRm",
   "tracks": [
     {
       "added_at": "2024-02-01 19:53:23",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
         "name": "un x100to",
         "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "What a Feelin'",
-        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Flashdance...What a Feeling - Radio Edit",
-      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
         "name": "Kaya",
         "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 232200,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
+        "name": "What a Feelin'",
+        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Flashdance...What a Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp"
-      },
-      "artists": [
-        {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
-        }
-      ],
-      "duration_ms": 251066,
-      "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
-      "url": "https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
         "name": "Breaking Me",
         "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "duration_ms": 251066,
+      "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
+      "url": "https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "Look Sharp! (Extended Version)",
-        "url": "https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 328093,
-      "name": "Listen To Your Heart",
-      "url": "https://open.spotify.com/track/5JvsxPAHsGxwNq4xto2HtM"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
+        "name": "Look Sharp! (Extended Version)",
+        "url": "https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 328093,
+      "name": "Listen To Your Heart",
+      "url": "https://open.spotify.com/track/5JvsxPAHsGxwNq4xto2HtM"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
         "name": "Foreign Affair",
         "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "The Game (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
         "name": "Footloose (15th Anniversary Collectors' Edition)",
         "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
       },
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 354320,
+      "name": "Bohemian Rhapsody - Remastered 2011",
+      "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
         "name": "Infame",
         "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 233746,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
-        "name": "A Night At The Opera (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 354320,
-      "name": "Bohemian Rhapsody - Remastered 2011",
-      "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
+        "name": "We Are The World",
+        "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
+      },
+      "artists": [
+        {
+          "name": "U.S.A. For Africa",
+          "url": "https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM"
+        }
+      ],
+      "duration_ms": 427333,
+      "name": "We Are The World",
+      "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
         "name": "Dancing On The Ceiling (Expanded Edition)",
         "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
       },
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "We Are The World",
-        "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
-      },
-      "artists": [
-        {
-          "name": "U.S.A. For Africa",
-          "url": "https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM"
-        }
-      ],
-      "duration_ms": 427333,
-      "name": "We Are The World",
-      "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
         "name": "The Best Of Bill Medley",
         "url": "https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "Mucho",
-        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 240520,
-      "name": "Como Eran Las Cosas",
-      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
         "name": "La Bella y la Bestia",
         "url": "https://open.spotify.com/album/71i8oV332P87FwYsKeoAsR"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 186359,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
+        "name": "Mucho",
+        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 240520,
+      "name": "Como Eran Las Cosas",
+      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -1283,30 +1283,6 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "TOCO Y ME VOY",
-        "url": "https://open.spotify.com/album/0bvRbFXgJO6qOGTCSP53qj"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 226082,
-      "name": "TOCO Y ME VOY",
-      "url": "https://open.spotify.com/track/7jiZV8G6LpEGdiPY2zs6BV"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -1347,6 +1323,30 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
+        "name": "TOCO Y ME VOY",
+        "url": "https://open.spotify.com/album/0bvRbFXgJO6qOGTCSP53qj"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 226082,
+      "name": "TOCO Y ME VOY",
+      "url": "https://open.spotify.com/track/7jiZV8G6LpEGdiPY2zs6BV"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
         "name": "1 (Remastered)",
         "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
       },
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 289654,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
         "name": "No Te Creas Tan Importante (En Vivo)",
         "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
       },
@@ -1403,18 +1419,22 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
       "artists": [
         {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 289654,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j"
+      "duration_ms": 179339,
+      "name": "Tutu",
+      "url": "https://open.spotify.com/track/1Ol5LmdNDNpFu1oNwfgkux"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -1447,26 +1467,6 @@
       "duration_ms": 311893,
       "name": "El amor despu\u00e9s del amor",
       "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 179339,
-      "name": "Tutu",
-      "url": "https://open.spotify.com/track/1Ol5LmdNDNpFu1oNwfgkux"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "El Paso Gigante",
-        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 265691,
-      "name": "Casi q' me pierdo",
-      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
         "name": "Communards",
         "url": "https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 271066,
       "name": "Don't Leave Me This Way (with Sarah Jane Morris)",
       "url": "https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 265691,
+      "name": "Casi q' me pierdo",
+      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
     },
     {
       "added_at": "2024-02-01 19:53:23",

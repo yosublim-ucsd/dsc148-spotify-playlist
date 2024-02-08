@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Keith Urban, Kenny Chesney, Gabby Barrett and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,774 likes - 72 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,924 likes - 72 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 51 | [Over](https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [The Droptines](https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl) | 3:02 |
 | 52 | [Let's Ride](https://open.spotify.com/track/0Z55gEv8DwlJ8BmPAEpD0k) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Let's Ride](https://open.spotify.com/album/71M1zZ7yTRSrcuyM6SkW2k) | 4:16 |
 | 53 | [Who Are You Loving These Days](https://open.spotify.com/track/0Jt0zHOA3qqUQ63ioln8vw) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Dreamer: Deluxe Edition](https://open.spotify.com/album/0Fh8fkiBSVHJoEVK088fAa) | 3:16 |
-| 54 | [One drink at a time](https://open.spotify.com/track/7FhL2olVe7ddfcle92XTYe) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [One Drink at a Time](https://open.spotify.com/album/1jRfid8WhTJjVcTUCam1Ip) | 3:21 |
+| 54 | [One Drink at a Time](https://open.spotify.com/track/7FhL2olVe7ddfcle92XTYe) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [One Drink at a Time](https://open.spotify.com/album/1jRfid8WhTJjVcTUCam1Ip) | 3:21 |
 | 55 | [Stick Season](https://open.spotify.com/track/6nzyvkAI02RqUL236e0urs) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0) | [Stick Season](https://open.spotify.com/album/5aqZM8rlwtEJP5vdFoFA08) | 3:33 |
 | 56 | [Love Thy Neighbor](https://open.spotify.com/track/6wKRjNOcXGqsldn2nUhKjM) | [Britnee Kellogg](https://open.spotify.com/artist/533KbOZhnubm9n4zTQaBo8) | [Love Thy Neighbor](https://open.spotify.com/album/44RA7gWte15lkOo2WoUBZf) | 3:07 |
 | 57 | [This Truck Still Misses You](https://open.spotify.com/track/0w3F2fM76qQ208G3nobpRb) | [Scoot Teasley](https://open.spotify.com/artist/0E9OojU6St18Zi8hPGD2kJ) | [This Truck Still Misses You](https://open.spotify.com/album/1YPIK209JYzxlJBhGlNg9z) | 3:31 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 71 | [Hurricane](https://open.spotify.com/track/119a4i4LHVRmxPu3hmdmJz) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Hurricane](https://open.spotify.com/album/5WVYLlEHHKBQPvOfR0f2FY) | 4:20 |
 | 72 | [Devil's Money](https://open.spotify.com/track/50YJ1k4Xi4b4DmzQhyKlPL) | [Mary Kutter](https://open.spotify.com/artist/0rTX0ieS2m0gUGLlLe4kQP) | [Devil's Money](https://open.spotify.com/album/2Vnruy8SLnV6iHlrgDDQSb) | 2:32 |
 
-Snapshot ID: `MCxjZDNjYWFiODU1MjYyZjYwY2RhZjcxZmM2OGQwMjk2ZjFjMTNmZDI0`
+Snapshot ID: `MCwwMjZlYWNmOTJjMGYyZDE3YWIzMWJlYmI2NGYxNjFlODI0MmFiNTEy`

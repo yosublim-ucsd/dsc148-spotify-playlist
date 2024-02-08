@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 4839,
+  "num_followers": 4841,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjQ4MjAxMGQzMjRmMTA0ODVlNGEyZGQ1ODUwZTE2OGVjNTZjM2Ey",
+  "snapshot_id": "MCwzYWMwMjg0ZTcyNjU1ZjFkMTJjNmM5MGVhMjQ1M2NmNDQ0Y2YzOTc5",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -367,8 +367,8 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "100 Years of Ragtime",
-        "url": "https://open.spotify.com/album/5DHHZDFHXM1iBKCvG45ODR"
+        "name": "50 Ragtime Classics: The Best of Scott Joplin",
+        "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
         }
       ],
-      "duration_ms": 209247,
-      "name": "American Beauty Rag",
-      "url": "https://open.spotify.com/track/69suUSUufKh4IlTRG2t88Z"
+      "duration_ms": 397385,
+      "name": "Harmony Club Waltz",
+      "url": "https://open.spotify.com/track/1nu5TP1IQQKdVtp4eZYPGW"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -467,22 +467,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Scott Joplin Greatest Hits",
-        "url": "https://open.spotify.com/album/5fFPJzOXH8gdxuodz1EsAD"
-      },
-      "artists": [
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Sugar Cane",
-      "url": "https://open.spotify.com/track/6Z6oioQU909D5BbfdU4rss"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Takes Two",
         "url": "https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O"
       },
@@ -499,8 +483,24 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "50 Ragtime Classics: The Best of Scott Joplin",
-        "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
+        "name": "Scott Joplin Greatest Hits",
+        "url": "https://open.spotify.com/album/5fFPJzOXH8gdxuodz1EsAD"
+      },
+      "artists": [
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Sugar Cane",
+      "url": "https://open.spotify.com/track/6Z6oioQU909D5BbfdU4rss"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "100 Years of Ragtime",
+        "url": "https://open.spotify.com/album/5DHHZDFHXM1iBKCvG45ODR"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
         }
       ],
-      "duration_ms": 397385,
-      "name": "Harmony Club Waltz",
-      "url": "https://open.spotify.com/track/1nu5TP1IQQKdVtp4eZYPGW"
+      "duration_ms": 209247,
+      "name": "American Beauty Rag",
+      "url": "https://open.spotify.com/track/69suUSUufKh4IlTRG2t88Z"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -615,8 +615,8 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Joseph F. Lamb: The Complete Stark Rags (1908-1919)",
-        "url": "https://open.spotify.com/album/0b5ts7qqK1ovw09OJFOUiv"
+        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
+        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
         }
       ],
-      "duration_ms": 251906,
-      "name": "Ethiopia",
-      "url": "https://open.spotify.com/track/6vKrEa3NCMxkGstSrBI71I"
+      "duration_ms": 177000,
+      "name": "Great Scott Rag",
+      "url": "https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -727,8 +727,8 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
-        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
+        "name": "Joseph F. Lamb: The Complete Stark Rags (1908-1919)",
+        "url": "https://open.spotify.com/album/0b5ts7qqK1ovw09OJFOUiv"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Great Scott Rag",
-      "url": "https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6"
+      "duration_ms": 251906,
+      "name": "Ethiopia",
+      "url": "https://open.spotify.com/track/6vKrEa3NCMxkGstSrBI71I"
     },
     {
       "added_at": "2020-08-19 17:18:36",

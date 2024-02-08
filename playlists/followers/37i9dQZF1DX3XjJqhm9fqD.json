@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 84795,
+  "2024-02-08": 84815,
   "date_first_scraped": "2021-12-21",
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
   "name": "Haitian Heat",
@@ -3435,7 +3435,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 252450,
       "name": "Ou Bezwen",
       "url": "https://open.spotify.com/track/5H51dmoxcnIjGtWi8Z7Mje"
@@ -4509,7 +4509,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 205030,
       "name": "Te revoir",
       "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"

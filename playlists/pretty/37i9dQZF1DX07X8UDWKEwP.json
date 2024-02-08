@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Tiago PZK & Ke Personajes",
-  "num_followers": 251230,
+  "num_followers": 251245,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWEyOGQ1YWE5Yjk2NDFlNDg5Nzk2ZmE1NTg1YWM5ZDgxZTgxOTk5",
+  "snapshot_id": "MCwwMzAzMzM3ZThjMDNjM2Y4MTgwYzdlNjNjMjU2MGM2Njk1NzJkM2U1",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -407,6 +407,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "GRX",
+        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 157846,
+      "name": "UNA BACHATA",
+      "url": "https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "ELLA TIENE",
         "url": "https://open.spotify.com/album/0VSnZVbjbufIZYKwy3Rafu"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 166081,
       "name": "COBARDE",
       "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "GRX",
-        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 157846,
-      "name": "UNA BACHATA",
-      "url": "https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w"
     },
     {
       "added_at": "2024-02-02 05:00:00",

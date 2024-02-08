@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 132475,
+  "num_followers": 132504,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWU2MzEzMzJhNjg3MTZiNjE4YjQ0Y2NjYTBhMzU4YWZkNDNmOTky",
+  "snapshot_id": "MCxiMzFkM2NkNTgwZDdmZThkYzYwMzVhYmFmMDhhZTk4ZGQwNWMzZDk1",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Got Time For Me (with Channel Tres)",
-        "url": "https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 179034,
-      "name": "Got Time For Me (with Channel Tres)",
-      "url": "https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Grudges",
         "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 213987,
       "name": "Gone (with Bryson Tiller)",
       "url": "https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Got Time For Me (with Channel Tres)",
+        "url": "https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 179034,
+      "name": "Got Time For Me (with Channel Tres)",
+      "url": "https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Can't Fake What You Feel",
         "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 171052,
       "name": "Can't Fake What You Feel",
       "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Interstellar.",
+        "url": "https://open.spotify.com/album/09q6uMoetRAZ4ESnPaEM1F"
+      },
+      "artists": [
+        {
+          "name": "chromonicci",
+          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 235339,
+      "name": "Interstellar.",
+      "url": "https://open.spotify.com/track/4k9BF0WyAx8l8GaB9oJzyV"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Room",
         "url": "https://open.spotify.com/album/0gx8ORhZE1FItFCz9qxtRD"
       },
@@ -1323,26 +1343,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Interstellar.",
-        "url": "https://open.spotify.com/album/09q6uMoetRAZ4ESnPaEM1F"
-      },
-      "artists": [
-        {
-          "name": "chromonicci",
-          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 235339,
-      "name": "Interstellar.",
-      "url": "https://open.spotify.com/track/4k9BF0WyAx8l8GaB9oJzyV"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Forbidden Feelingz",
         "url": "https://open.spotify.com/album/27l2BTUmETSHmFQwsZyzTa"
       },
@@ -1355,6 +1355,26 @@
       "duration_ms": 129220,
       "name": "Part Of Me",
       "url": "https://open.spotify.com/track/5Y8LjJ9Riiw8i5d6D06fYS"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Homegrown (Deluxe)",
+        "url": "https://open.spotify.com/album/1g8c7UXl9odDwOpdoPJsWa"
+      },
+      "artists": [
+        {
+          "name": "VanJess",
+          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Say Yes (feat. TOKiMONSTA)",
+      "url": "https://open.spotify.com/track/2pBVR6cD0ClaSNByNKeN8T"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1399,42 +1419,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Homegrown (Deluxe)",
-        "url": "https://open.spotify.com/album/1g8c7UXl9odDwOpdoPJsWa"
-      },
-      "artists": [
-        {
-          "name": "VanJess",
-          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Say Yes (feat. TOKiMONSTA)",
-      "url": "https://open.spotify.com/track/2pBVR6cD0ClaSNByNKeN8T"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "CROSSOVER (Deluxe)",
-        "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 177483,
-      "name": "day to day",
-      "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "All Along (Kaytranada Remix)",
         "url": "https://open.spotify.com/album/1SFh4fpWMEThFiNnSAXLsg"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 284606,
       "name": "All Along - Kaytranada Remix",
       "url": "https://open.spotify.com/track/7wFcrixaohlV2kn5iDGORv"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "CROSSOVER (Deluxe)",
+        "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 177483,
+      "name": "day to day",
+      "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1895,22 +1895,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Starseed",
-        "url": "https://open.spotify.com/album/599P9w4ah9XpED1bnB35FB"
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
       },
       "artists": [
         {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
-        },
-        {
-          "name": "SIM",
-          "url": "https://open.spotify.com/artist/6JQhUOPvPJNH8tCOUT0cgf"
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 202938,
-      "name": "Starseed",
-      "url": "https://open.spotify.com/track/329H2EaUO3fnG27NLD6mqn"
+      "duration_ms": 237929,
+      "name": "Already",
+      "url": "https://open.spotify.com/track/3i6hNFdgWCDYvDO3STjqib"
     }
   ],
   "unique_name": "Choice Edit",

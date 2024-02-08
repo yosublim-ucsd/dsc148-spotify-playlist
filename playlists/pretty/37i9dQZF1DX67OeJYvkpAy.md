@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Prinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,371 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,363 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,18 +56,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 46 | [2:30AM](https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [2:30AM](https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv) | 3:02 |
 | 47 | [Moston Vale \- Freestyle](https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Moston Vale \(Freestyle\)](https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb) | 1:40 |
 | 48 | [9AM](https://open.spotify.com/track/3DogHIsWZ7blJBVgBtjbGf) | [Drizdoneit](https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498), [Jbandz](https://open.spotify.com/artist/4s9XiPeQ4u3Q5Z6Gf6MIkg) | [9AM](https://open.spotify.com/album/1ucTQSkMf86AVwVfkpZZK8) | 2:52 |
-| 49 | [5 AM](https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr) | [AMB](https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7) | [5 AM](https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy) | 1:36 |
+| 49 | [If I Die Young](https://open.spotify.com/track/6YuuPifFt2Oa4Flm6ttPHm) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [If I Die Young](https://open.spotify.com/album/5dovlyUr9PQKLzUMPTErNS) | 3:09 |
 | 50 | [Alone](https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [Alone](https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27) | 2:32 |
-| 51 | [Window Blues](https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Never Been Ordinary](https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF) | 3:14 |
+| 51 | [5 AM](https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr) | [AMB](https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7) | [5 AM](https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy) | 1:36 |
 | 52 | [Trust Issues](https://open.spotify.com/track/0f6YeGWZMfFJ0PieTY6Y2R) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT) | [Trust Issues](https://open.spotify.com/album/6ogdhmuZyJzHxtNd010qZo) | 2:00 |
-| 53 | [Drunk and Confused 2.0](https://open.spotify.com/track/2Pdp4X0xs1p217g6oheu89) | [JS x YD](https://open.spotify.com/artist/6DtDZIxHODPr4sZTNLQbL7), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR) | [Drunk and Confused 2.0](https://open.spotify.com/album/0m9iszemZo7KWFGuUWDTQO) | 3:47 |
-| 54 | [If I Die Young](https://open.spotify.com/track/6YuuPifFt2Oa4Flm6ttPHm) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [If I Die Young](https://open.spotify.com/album/5dovlyUr9PQKLzUMPTErNS) | 3:09 |
+| 53 | [Window Blues](https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Never Been Ordinary](https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF) | 3:14 |
+| 54 | [Drunk and Confused 2.0](https://open.spotify.com/track/2Pdp4X0xs1p217g6oheu89) | [JS x YD](https://open.spotify.com/artist/6DtDZIxHODPr4sZTNLQbL7), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR) | [Drunk and Confused 2.0](https://open.spotify.com/album/0m9iszemZo7KWFGuUWDTQO) | 3:47 |
 | 55 | [Love Me](https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj) | [ArtistRD](https://open.spotify.com/artist/3cdy10Sdneled46d13A74S) | [Love Me](https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe) | 3:10 |
 | 56 | [Up all night](https://open.spotify.com/track/76ldXW0puAk2q8YhpFASxH) | [LBSZN](https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff) | [Up all night](https://open.spotify.com/album/5hRXQWmzDZiFPdt878nWF4) | 2:41 |
 | 57 | [My Girl \(Gemini\)](https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb) | [Stan](https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v) | [My Girl \(Gemini\)](https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN) | 2:33 |
 | 58 | [Day and Night](https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx) | [Otis Lloyid](https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk) | [Day and Night](https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5) | 3:11 |
-| 59 | [One Mic Freestyle \(S3\-EP1\)](https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [One Mic Freestyle \(S3\-EP1\)](https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe) | 2:01 |
-| 60 | [She Comes & Goes](https://open.spotify.com/track/70PZ5vXHGujPPDZ18mj6A1) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrogress \(Season 1\)](https://open.spotify.com/album/1FyznQmJjIIXuFybKnQaQu) | 3:19 |
+| 59 | [She Comes & Goes](https://open.spotify.com/track/70PZ5vXHGujPPDZ18mj6A1) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrogress \(Season 1\)](https://open.spotify.com/album/1FyznQmJjIIXuFybKnQaQu) | 3:19 |
+| 60 | [One Mic Freestyle \(S3\-EP1\)](https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [One Mic Freestyle \(S3\-EP1\)](https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe) | 2:01 |
 | 61 | [House Invasions](https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [House Invasions](https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG) | 3:29 |
 | 62 | [No Emotions](https://open.spotify.com/track/5iSCp2kkb7UzpZavOMXhbA) | [Ddotz x Dice](https://open.spotify.com/artist/3bekb1Bww1qdnXpGN6uUsd) | [No Emotions](https://open.spotify.com/album/17K4yH8Z5TxBVc5F49J5wQ) | 2:50 |
 | 63 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabz](https://open.spotify.com/artist/7LXCcM3l2atOFVrLyhQMOW) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 99 | [Who Am I?\(I Dont Know\)](https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Who Am I?\(I Dont Know\)](https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch) | 2:42 |
 | 100 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
 
-Snapshot ID: `MCwyZjZhZDExYTdiMzBhOGYyNDVlNzVjNDQ3YmJmODQzM2ZlZjdlNTMy`
+Snapshot ID: `MCxjOTZiNDRjNzg1NjI4YjkxNzQzMjI2ZmFlMGI3YzI2YzY3MmMwMjk1`

@@ -1,13 +1,109 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Angel Vivaldi",
-  "num_followers": 136866,
+  "num_followers": 136908,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2Q4MzlhYzEyNTM2Y2I3NmQwMDQ2ZmFmODI2M2Y3Nzc2YmM3ZjM5",
+  "snapshot_id": "MCxjYjM1ZGNkYmEwOTZiN2U4YmM2NzAxMGE2MDlkNmY1NWVjNzliYTUz",
   "tracks": [
+    {
+      "added_at": "2024-02-07 14:48:34",
+      "album": {
+        "name": "The Dio Album",
+        "url": "https://open.spotify.com/album/6z8exOI6HX7AsMIDwN8OsC"
+      },
+      "artists": [
+        {
+          "name": "Paul Gilbert",
+          "url": "https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "Man On The Silver Mountain",
+      "url": "https://open.spotify.com/track/6QRr9OKjvnCGKub5ZFjvB7"
+    },
+    {
+      "added_at": "2024-02-07 14:48:34",
+      "album": {
+        "name": "Karnevel!",
+        "url": "https://open.spotify.com/album/6ZI8RVYgxxSymcnQT4DqnH"
+      },
+      "artists": [
+        {
+          "name": "Scott Henderson",
+          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
+        }
+      ],
+      "duration_ms": 520625,
+      "name": "Karnevel!",
+      "url": "https://open.spotify.com/track/0ntkYJFuL0xYBL9EzDclTv"
+    },
+    {
+      "added_at": "2024-02-07 14:48:34",
+      "album": {
+        "name": "Our Requiem",
+        "url": "https://open.spotify.com/album/16OEgHcyDIA6qMKwL9LkXJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Timmons",
+          "url": "https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Our Requiem - Single Version",
+      "url": "https://open.spotify.com/track/46vBOvYc2WqQYa4WLoz4j7"
+    },
+    {
+      "added_at": "2024-02-07 14:48:34",
+      "album": {
+        "name": "Meteor Shower",
+        "url": "https://open.spotify.com/album/3909cpay4YHvWDe5NCymLk"
+      },
+      "artists": [
+        {
+          "name": "The Fusion Syndicate",
+          "url": "https://open.spotify.com/artist/3w0iUnjFFyPgi2QW8sXxm1"
+        },
+        {
+          "name": "Marty Friedman",
+          "url": "https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p"
+        },
+        {
+          "name": "Brian Auger",
+          "url": "https://open.spotify.com/artist/304senzcXGpWqcpssNpmXJ"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "Meteor Shower",
+      "url": "https://open.spotify.com/track/7pC3d4gm2YoRqYgG0brbTT"
+    },
+    {
+      "added_at": "2024-02-07 14:48:34",
+      "album": {
+        "name": "Triple Play",
+        "url": "https://open.spotify.com/album/3dDU3PWrXlMHW5C9eJebpu"
+      },
+      "artists": [
+        {
+          "name": "Oz Noy",
+          "url": "https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd"
+        },
+        {
+          "name": "Dennis Chambers",
+          "url": "https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn"
+        },
+        {
+          "name": "Jimmy Haslip",
+          "url": "https://open.spotify.com/artist/5ngGllFz8UMTMeazVphrPb"
+        }
+      ],
+      "duration_ms": 503187,
+      "name": "Zig Zag",
+      "url": "https://open.spotify.com/track/4Sz7cjZ85xjcgrZ82WsbVW"
+    },
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
@@ -151,22 +247,6 @@
       "duration_ms": 280235,
       "name": "firebird",
       "url": "https://open.spotify.com/track/4aVjtxZglv9VpHiOvb2F6m"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Samba Party",
-        "url": "https://open.spotify.com/album/16VbSzKOdKqSwT1uwFAMPz"
-      },
-      "artists": [
-        {
-          "name": "Matteo Mancuso",
-          "url": "https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1"
-        }
-      ],
-      "duration_ms": 218894,
-      "name": "Samba Party",
-      "url": "https://open.spotify.com/track/0eUyzOmDqoRNS65SQ3arbn"
     },
     {
       "added_at": "2021-05-04 18:30:17",
@@ -1509,22 +1589,6 @@
       "url": "https://open.spotify.com/track/0ieb7z4ZUYsPiVBs8up3MF"
     },
     {
-      "added_at": "2021-05-04 18:30:17",
-      "album": {
-        "name": "Werewolves of Portland",
-        "url": "https://open.spotify.com/album/3IS5K6CXvUJW1eq5stkMFA"
-      },
-      "artists": [
-        {
-          "name": "Paul Gilbert",
-          "url": "https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG"
-        }
-      ],
-      "duration_ms": 236478,
-      "name": "A Thunderous Ovation Shook The Columns",
-      "url": "https://open.spotify.com/track/4uE9NXr6sdzrFXPmAztCZ7"
-    },
-    {
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "Elemental",
@@ -1621,30 +1685,6 @@
       "url": "https://open.spotify.com/track/6kDHSMUvrnRyiRjo6axbb1"
     },
     {
-      "added_at": "2021-05-04 18:30:17",
-      "album": {
-        "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
-        "url": "https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4"
-      },
-      "artists": [
-        {
-          "name": "Mark Lettieri",
-          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
-        },
-        {
-          "name": "Adam Deitch",
-          "url": "https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw"
-        },
-        {
-          "name": "Shaun Martin",
-          "url": "https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk"
-        }
-      ],
-      "duration_ms": 276293,
-      "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
-      "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
-    },
-    {
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "Guitar Nerd",
@@ -1659,50 +1699,6 @@
       "duration_ms": 274426,
       "name": "Revenge Of The Nerd",
       "url": "https://open.spotify.com/track/2oPdW4tRE5sc7xJYdhz6XM"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Hail to Edward",
-        "url": "https://open.spotify.com/album/7xkib6j7r7SXu8ZDbaCshY"
-      },
-      "artists": [
-        {
-          "name": "David Henriksson & Daze Delight",
-          "url": "https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV"
-        }
-      ],
-      "duration_ms": 106479,
-      "name": "Hail to Edward",
-      "url": "https://open.spotify.com/track/32qCAK8cMoorOUnjUbFWAh"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Guitar Heroes Otb, Vol. 4",
-        "url": "https://open.spotify.com/album/6eJnjV0s4OOTsfPYOQzzte"
-      },
-      "artists": [
-        {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Robben Ford",
-          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
-        },
-        {
-          "name": "Doug Bossi",
-          "url": "https://open.spotify.com/artist/6I8Aan08YoXLddBSwCbCI4"
-        }
-      ],
-      "duration_ms": 397411,
-      "name": "Dirty Grease - Extended Version",
-      "url": "https://open.spotify.com/track/0tzv5R7yFjUHlLK1VcC4pA"
     },
     {
       "added_at": "2022-10-11 14:34:22",

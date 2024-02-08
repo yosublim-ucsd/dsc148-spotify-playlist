@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 9552,
+  "2024-02-08": 9560,
   "date_first_scraped": "2022-05-11",
   "description": "time to confess your crush ",
   "name": "Slow Dance",
@@ -155,6 +155,24 @@
     {
       "album": {
         "name": "Better",
+        "url": "https://open.spotify.com/album/3Q2vDJ86mDQYcvOcd5sWwn"
+      },
+      "artists": [
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173174,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/3dqUv6E7L24BDImpGJWYGL"
+    },
+    {
+      "album": {
+        "name": "Better",
         "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
       },
       "artists": [
@@ -165,7 +183,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 173174,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"

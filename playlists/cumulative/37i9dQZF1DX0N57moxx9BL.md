@@ -4,7 +4,7 @@
 
 > Listen to the recent hits of Christian Rock\.  Cover:  <a href="spotify:artist:09LCTrVGnMsGbxexUFJoap">Lacey Sturm</a>
 
-162 songs - 10 hr 38 min
+163 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Holding Me Up](https://open.spotify.com/track/5hWtMn99mB2ckaLubacTuZ) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Divided Frame Of Mind](https://open.spotify.com/album/4QFDKgHuOrhiYYDhCy2cWy) | 2:57 | 2023-07-28 |  |
 | [I Won't Look Back](https://open.spotify.com/track/5llksYcJ2Q7eL5HaCMZdvE) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [I Won't Look Back](https://open.spotify.com/album/1TfVtPMulyRlJp2HEcwTWn) | 3:20 | 2021-05-28 |  |
 | [I'm Living Righteous](https://open.spotify.com/track/1nxEUqqYeq2UCObsrZ30y4) | [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [I'm Living Righteous](https://open.spotify.com/album/0ciyefHKuOKaPFTmMStdea) | 2:40 | 2023-02-17 | 2023-12-24 |
+| [In Defiance](https://open.spotify.com/track/17VvT0RZ6HcRkpMbw1xgn3) | [Matt Sassano](https://open.spotify.com/artist/57qdENESO67xX6tvTXTLtk) | [In Defiance](https://open.spotify.com/album/10V2CzomOo7tBR27HsKon5) | 3:26 | 2023-11-17 |  |
 | [In the Night](https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [In the Night](https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7) | 4:43 | 2022-01-14 |  |
 | [Lazarus](https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP) | [Bellarive](https://open.spotify.com/artist/65NvBV0QogJroXpNLUTJyX) | [Before There Was](https://open.spotify.com/album/5OFTKeciwZwpxna07JM5YX) | 5:04 | 2021-05-28 |  |
 | [Legendary](https://open.spotify.com/track/0NNH7mKaH2TxnSDBYOlFMK) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Legendary](https://open.spotify.com/album/5LNUSHuKsMdWwU9tnJV96C) | 2:48 | 2021-05-28 |  |
@@ -112,7 +113,7 @@
 | [Promise You're Coming Home](https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF) | [Zahna](https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F) | [Stronger Than Death](https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh) | 3:42 | 2023-02-17 |  |
 | [Psycho In My Head](https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:17 | 2023-02-17 |  |
 | [Psycho In My Head](https://open.spotify.com/track/6VWocK4U2rcTQeVrfDlCMV) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Psycho In My Head](https://open.spotify.com/album/4Zc1iqCZrZFjR8XGI9gecJ) | 3:17 | 2023-02-17 | 2023-04-22 |
-| [Pulp](https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi) | [Pulp](https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ) | 3:59 | 2022-10-29 |  |
+| [Pulp](https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi) | [Pulp](https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ) | 3:59 | 2022-10-29 | 2024-02-08 |
 | [Radio \(NW Hesh\)](https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL) | [Fallstar](https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST) | [Future Golden Age](https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV) | 3:21 | 2021-05-28 |  |
 | [Ready to Roll](https://open.spotify.com/track/0EXcCSchvgDuLnR7ZspnPJ) | [LAST DAY RISING](https://open.spotify.com/artist/06a678upYFB5zg0Kriv5LZ) | [Last Day Rising](https://open.spotify.com/album/3hUVTerCmO0mc6DgF09Btp) | 4:02 | 2021-05-28 |  |
 | [Reconcile](https://open.spotify.com/track/18nu97knXqpk2HHEjKqOnd) | [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Kenotic Metanoia](https://open.spotify.com/album/0yZGwoSScfeRA5dbZ6NGy3) | 3:55 | 2023-11-17 |  |

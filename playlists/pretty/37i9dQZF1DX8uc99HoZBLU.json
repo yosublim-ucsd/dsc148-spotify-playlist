@@ -1,12 +1,12 @@
 {
   "description": "for those who appreciate a curated mood \ud83e\udea9",
-  "num_followers": 830886,
+  "num_followers": 830962,
   "original_name": "aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjU4ZDMxNDBjNDE4NmUwOTg4NzgxZjA2OWUzNjI2MzMxNmVlZDE0",
+  "snapshot_id": "MCwxY2RjYzAxY2Y5Mzc4Yjc1ZDM5YWQzYjRlYmE3ZTYzMWM0NTE4MGMy",
   "tracks": [
     {
       "added_at": "2023-08-17 16:24:24",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "wannabewithu",
-        "url": "https://open.spotify.com/album/1rQys03txxThcRZLofLlHY"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 456000,
-      "name": "Lover Is a Day",
-      "url": "https://open.spotify.com/track/1ucnuV88gFTfR3BalmznDk"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 158840,
       "name": "Special",
       "url": "https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
+        "name": "wannabewithu",
+        "url": "https://open.spotify.com/album/1rQys03txxThcRZLofLlHY"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 456000,
+      "name": "Lover Is a Day",
+      "url": "https://open.spotify.com/track/1ucnuV88gFTfR3BalmznDk"
     },
     {
       "added_at": "2023-08-17 16:24:24",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/69FOLmptEcKSeN1f60UFDC"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Lo Que Siento",
+      "url": "https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
         "name": "Loving is Easy",
         "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 162794,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/69FOLmptEcKSeN1f60UFDC"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Lo Que Siento",
-      "url": "https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y"
     },
     {
       "added_at": "2023-08-17 16:24:24",

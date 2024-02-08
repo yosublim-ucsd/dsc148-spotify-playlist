@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: <a href="https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk?si=JvKPycNvTJCSkQ73WwDcDA"> Jeriq </a> and <a href="https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=q5HdY1aKQ0aPWERT9SuRMw"> PsychoYP</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,684 likes - 70 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,756 likes - 70 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 55 | [Pop Sermon](https://open.spotify.com/track/3jGkAgjo3IwwcCsuUptm0W) | [Dope Caesar](https://open.spotify.com/artist/0EEbHnHvCvomjaPszMvJxL), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Pop Sermon](https://open.spotify.com/album/4sJRYRgfoFyQrI7qlDmnCb) | 2:29 |
 | 56 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |
 | 57 | [In Charge](https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DND](https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW) | 2:25 |
-| 58 | [Joy](https://open.spotify.com/track/1YTNRddcxKyMheo9HkxBJU) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Joy](https://open.spotify.com/album/66o0wqPyjdeExQieFnNBK4) | 2:45 |
+| 58 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 |
 | 59 | [42](https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Make E No Cause Fight 3](https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56) | 2:51 |
 | 60 | [Photocopy Reimagined](https://open.spotify.com/track/4JkLzZ2LUIYEZGyihLPUMM) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Photocopy Reimagined](https://open.spotify.com/album/6SVFAaB0lYnMKMwsmmqZc1) | 2:18 |
 | 61 | [Busy](https://open.spotify.com/track/207EjYJwVSc0ypijvKBMic) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Busy](https://open.spotify.com/album/1wVpvX9AjgmIoIfikkwFdK) | 2:52 |
 | 62 | [Fuck That \(feat\. ODUMODUBLVCK\) \- Remix](https://open.spotify.com/track/2sKuOOhxWpXOTDcKiTitc9) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Fuck That \(Remix\)](https://open.spotify.com/album/2ZlSnhUh40vj76xvWw0ijr) | 3:25 |
 | 63 | [WELCOME 2 MY STRIP \(Feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Before the Smoke](https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9) | 2:23 |
-| 64 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 |
+| 64 | [Joy](https://open.spotify.com/track/1YTNRddcxKyMheo9HkxBJU) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Joy](https://open.spotify.com/album/66o0wqPyjdeExQieFnNBK4) | 2:45 |
 | 65 | [Philo \- Remix](https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Philo \(Remix\)](https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV) | 2:46 |
 | 66 | [James Bond \(With Harley\)](https://open.spotify.com/track/3BOP1rsMQA0q5QV5obyNG2) | [Jujuboy](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5) | [James Bond \(With Harley\)](https://open.spotify.com/album/0ZjPpZefOqsc9v26PZa4cg) | 2:41 |
 | 67 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 69 | [Fire Wood](https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf) | [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [Breakfast in Lagos](https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u) | 2:21 |
 | 70 | [Where Dem Dey](https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Where Dem Dey](https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d) | 3:02 |
 
-Snapshot ID: `MCw1YWMxMGM4Njk1YTRkYTlmZWU4MmM4MzMzMDg5ZGI0NWFiODgwZGNi`
+Snapshot ID: `MCw4YTM0N2MwOGI1YmFjN2VmNjVlNGUzYWE5NDVjYzgxNDNjZjI2YzFm`

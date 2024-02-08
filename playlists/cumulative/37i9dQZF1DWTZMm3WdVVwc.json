@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Shirayukinoojisama",
+        "url": "https://open.spotify.com/album/7hYwKzsZTHw7OFB96GaITR"
+      },
+      "artists": [
+        {
+          "name": "Hasetomo",
+          "url": "https://open.spotify.com/artist/7mS4vBaBDQrPAFnuCNSrDk"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277666,
+      "name": "Shirayukinoojisama",
+      "url": "https://open.spotify.com/track/0j8OaZoe6wjkAQxNSIfZPF"
+    },
+    {
+      "album": {
         "name": "silent",
         "url": "https://open.spotify.com/album/1zL4fVzGjGVuX6tMCUXUyg"
       },
@@ -2036,7 +2054,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 277666,
       "name": "\u767d\u96ea\u306e\u738b\u5b50\u69d8",
       "url": "https://open.spotify.com/track/072CGgPBvuShcATDbQRMuW"

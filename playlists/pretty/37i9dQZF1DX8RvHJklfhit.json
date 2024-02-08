@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 175118,
+  "num_followers": 175163,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzAyODk0ODg5ZTkyZmZjNmY0YzRmZmM4YmE2NjRiOWNmMjM1MWE0",
+  "snapshot_id": "MCwyOTExMzQ0MWY2NDAxZWJjY2RlMzU1YjNjY2IxMjFhOGRiMzMwZDBk",
   "tracks": [
     {
       "added_at": "2023-10-12 20:02:07",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Confidently Lost",
-        "url": "https://open.spotify.com/album/6Y0sR4pj7mxRN0EudJnMQw"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P"
       },
       "artists": [
         {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
         }
       ],
-      "duration_ms": 209885,
-      "name": "Confidently Lost",
-      "url": "https://open.spotify.com/track/3cQmqM0awej9iAESjhKrI9"
+      "duration_ms": 275520,
+      "name": "Te Miro Para Ver Si Me Ves Mirarte",
+      "url": "https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P"
+        "name": "Confidently Lost",
+        "url": "https://open.spotify.com/album/6Y0sR4pj7mxRN0EudJnMQw"
       },
       "artists": [
         {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 275520,
-      "name": "Te Miro Para Ver Si Me Ves Mirarte",
-      "url": "https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt"
+      "duration_ms": 209885,
+      "name": "Confidently Lost",
+      "url": "https://open.spotify.com/track/3cQmqM0awej9iAESjhKrI9"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Pop Negro",
+        "url": "https://open.spotify.com/album/5GDOwdJ0okcBaqmyPlNSsC"
+      },
+      "artists": [
+        {
+          "name": "El Guincho",
+          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "Bombay",
+      "url": "https://open.spotify.com/track/60aWOhenofxdFViDXn3lfp"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Nuevos Aires",
         "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 265433,
       "name": "Mi F\u00e1brica de Baile",
       "url": "https://open.spotify.com/track/2n5CQoGVbKyiVyA0AabeZH"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Pop Negro",
-        "url": "https://open.spotify.com/album/5GDOwdJ0okcBaqmyPlNSsC"
-      },
-      "artists": [
-        {
-          "name": "El Guincho",
-          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "Bombay",
-      "url": "https://open.spotify.com/track/60aWOhenofxdFViDXn3lfp"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Night Moves",
-        "url": "https://open.spotify.com/album/2bvow9uJrep57G06zuoLjc"
-      },
-      "artists": [
-        {
-          "name": "Michi",
-          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
-        }
-      ],
-      "duration_ms": 199613,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/1D6Slhg7MMnraZpIEE8pbb"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "HU HU HU",
         "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 267840,
       "name": "Cursis Melod\u00edas",
       "url": "https://open.spotify.com/track/76CdSwtagY9xOJ86tF8z7q"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Night Moves",
+        "url": "https://open.spotify.com/album/2bvow9uJrep57G06zuoLjc"
+      },
+      "artists": [
+        {
+          "name": "Michi",
+          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
+        }
+      ],
+      "duration_ms": 199613,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/1D6Slhg7MMnraZpIEE8pbb"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Raffolution",
-        "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 220306,
-      "name": "Latino & Proud",
-      "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Al Chile",
         "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 220613,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Raffolution",
+        "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 220306,
+      "name": "Latino & Proud",
+      "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
     },
     {
       "added_at": "2023-10-12 20:02:07",

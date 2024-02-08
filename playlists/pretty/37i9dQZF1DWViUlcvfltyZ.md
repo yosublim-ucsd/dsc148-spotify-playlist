@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: I Segreti
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,063 likes - 77 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,066 likes - 77 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Adiós](https://open.spotify.com/track/3dZKHkgCn7wI7q0Pdy8aXK) | [I Segreti](https://open.spotify.com/artist/3e70MTQQxvShEhc1UQcPbL) | [Adiós](https://open.spotify.com/album/0y6FkUdbWESSGbmcSIpf9n) | 2:50 |
-| 2 | [LUCCIOLA](https://open.spotify.com/track/6LEG4PJ3kyA8Ko7VMTKZ7F) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [COME FOSSERO CAREZZE](https://open.spotify.com/album/4jtliyGsK3gPu1VSGSzPdH) | 3:20 |
-| 3 | [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 |
+| 1 | [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 |
+| 2 | [Adiós](https://open.spotify.com/track/3dZKHkgCn7wI7q0Pdy8aXK) | [I Segreti](https://open.spotify.com/artist/3e70MTQQxvShEhc1UQcPbL) | [Adiós](https://open.spotify.com/album/0y6FkUdbWESSGbmcSIpf9n) | 2:50 |
+| 3 | [LUCCIOLA](https://open.spotify.com/track/6LEG4PJ3kyA8Ko7VMTKZ7F) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [COME FOSSERO CAREZZE](https://open.spotify.com/album/4jtliyGsK3gPu1VSGSzPdH) | 3:20 |
 | 4 | [Mare Forza 9oi](https://open.spotify.com/track/268q0mDTAs7O9ssY6KE1ZG) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Mare Forza 9oi](https://open.spotify.com/album/6wHu0paIJx1aiN3w3NyExG) | 2:43 |
 | 5 | [Ti Amerei](https://open.spotify.com/track/09EeLpRYDS8Qxk5Q7mOa1A) | [Tropea](https://open.spotify.com/artist/35EdAf21qKHNvALdF6loHX) | [Serole](https://open.spotify.com/album/4WrXBdup2TcNuo7eOLWGFG) | 3:25 |
 | 6 | [Pinago](https://open.spotify.com/track/2Z26ptJ7v8ab8WHgc2Ndaz) | [Scumma do Mar](https://open.spotify.com/artist/6ebpYhUiGhoc4cXeEHTpjH) | [Gamba Tesa](https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG) | 3:29 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 76 | [Riparliamone Domani](https://open.spotify.com/track/2FNnxj2DX3KJ7SMVEFw1CH) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [DIRTY \(Deluxe\)](https://open.spotify.com/album/1p5swkw2kYdhom08qbCQfc) | 3:11 |
 | 77 | [LA FINE DI UN RAGAZZO](https://open.spotify.com/track/09AN0C4hAhXzbwTbM3K1fE) | [Appino](https://open.spotify.com/artist/4DZifQP0B5j53Hw4KuMOnH) | [HUMANIZE](https://open.spotify.com/album/0OkZmSBdLAVLDfKh6OWTRl) | 3:18 |
 
-Snapshot ID: `MCw4YWJhYTQxZTljODViODY2YjhjOWNhYWJhYjc1YmMzNThlMjdiNjdm`
+Snapshot ID: `MCxjNGMyMDQxNjcwZDM5NjYyZDhiNGYzMGEyOTAyMzBhZTAyOWQ1YWY0`

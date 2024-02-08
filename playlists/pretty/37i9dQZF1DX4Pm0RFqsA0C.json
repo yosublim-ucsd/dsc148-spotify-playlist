@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 5449,
+  "num_followers": 5450,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDIyYTRmOTBjMDA2MjhkOTVlZTdhZmMxMDk5OGI4ODQ5MjcxNTgy",
+  "snapshot_id": "MCw5MDNlMDhhMGNiNjQzYjk5NWU4ZGJkNmNhZTE2MzQxYWE3M2JlNDA2",
   "tracks": [
     {
       "added_at": "2021-02-01 12:18:54",
@@ -831,38 +831,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
-        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
-      },
-      "artists": [
-        {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
-        }
-      ],
-      "duration_ms": 242341,
-      "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
-      "url": "https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 234888,
-      "name": "White",
-      "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
         "url": "https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b"
       },
@@ -875,6 +843,38 @@
       "duration_ms": 220760,
       "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Fine Killing Liberty : Blue Rain",
+        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 251973,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
+        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
+      },
+      "artists": [
+        {
+          "name": "Roo'RA",
+          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+        }
+      ],
+      "duration_ms": 242341,
+      "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
+      "url": "https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Seotaiji and Boys",
-        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
-      },
-      "artists": [
-        {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
-        }
-      ],
-      "duration_ms": 204320,
-      "name": "I Know - 92 TV Edit",
-      "url": "https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 255891,
       "name": "Sea Of Love",
       "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Seotaiji and Boys",
+        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "duration_ms": 204320,
+      "name": "I Know - 92 TV Edit",
+      "url": "https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -991,8 +991,8 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Fine Killing Liberty : Blue Rain",
-        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
       },
       "artists": [
         {
@@ -1000,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
         }
       ],
-      "duration_ms": 251973,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
+      "duration_ms": 234888,
+      "name": "White",
+      "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "\uc090\uac71\uc090\uac71 Creak Creak",
-        "url": "https://open.spotify.com/album/0otiirwBgP7B4Yq7kOKcvy"
-      },
-      "artists": [
-        {
-          "name": "DJ DOC",
-          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "\u1112\u1162\u1107\u1167\u11ab\u110b\u1173\u1105\u1169 \u1100\u1161\u110b\u116d Let's Go to the Beach Pt. 2",
-      "url": "https://open.spotify.com/track/02b8sHBlZleRRJhi37VPkP"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "\ud1a0\uc7742\uc9d1-YOUHEEYEOL",
         "url": "https://open.spotify.com/album/6jOgaajTtTZM6zyjIkNd4u"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 212102,
       "name": "\ucde8\uc911\ub3c5\ubc31",
       "url": "https://open.spotify.com/track/10NjmmWGZGV6WLy8yVpV4K"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "\uc090\uac71\uc090\uac71 Creak Creak",
+        "url": "https://open.spotify.com/album/0otiirwBgP7B4Yq7kOKcvy"
+      },
+      "artists": [
+        {
+          "name": "DJ DOC",
+          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "\u1112\u1162\u1107\u1167\u11ab\u110b\u1173\u1105\u1169 \u1100\u1161\u110b\u116d Let's Go to the Beach Pt. 2",
+      "url": "https://open.spotify.com/track/02b8sHBlZleRRJhi37VPkP"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "1st",
-        "url": "https://open.spotify.com/album/25YtogEELrKsEJu21rFDxx"
-      },
-      "artists": [
-        {
-          "name": "J.ae",
-          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "The Very Scent Of You",
-      "url": "https://open.spotify.com/track/1U9A4akZLbTHbDRv16nVfc"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Jungle New Style",
         "url": "https://open.spotify.com/album/3CZS3TnrJBBuT8C1Xzm0wg"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 252493,
       "name": "Eve's Warning",
       "url": "https://open.spotify.com/track/47mdByHmgWGDKOyKrVKp73"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "1st",
+        "url": "https://open.spotify.com/album/25YtogEELrKsEJu21rFDxx"
+      },
+      "artists": [
+        {
+          "name": "J.ae",
+          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "The Very Scent Of You",
+      "url": "https://open.spotify.com/track/1U9A4akZLbTHbDRv16nVfc"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/6QjtDh6Q7wf3oF7wpUvZTr"
-      },
-      "artists": [
-        {
-          "name": "Lee Sun Hee",
-          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
-        }
-      ],
-      "duration_ms": 213764,
-      "name": "A City Hunter",
-      "url": "https://open.spotify.com/track/65FKjFdvrEOCJczzDEODAn"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Hong Kyung Min 3",
         "url": "https://open.spotify.com/album/6FbXUjkxvD1eJKmKQCkhUO"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 243200,
       "name": "Shaky Friendship (Euro Remix)",
       "url": "https://open.spotify.com/track/166EkT4NRwEFtikmBubyJm"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/6QjtDh6Q7wf3oF7wpUvZTr"
+      },
+      "artists": [
+        {
+          "name": "Lee Sun Hee",
+          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
+        }
+      ],
+      "duration_ms": 213764,
+      "name": "A City Hunter",
+      "url": "https://open.spotify.com/track/65FKjFdvrEOCJczzDEODAn"
     },
     {
       "added_at": "2021-02-01 12:18:54",

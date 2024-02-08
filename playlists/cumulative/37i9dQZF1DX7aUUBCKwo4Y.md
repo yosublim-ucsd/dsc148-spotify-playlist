@@ -4,7 +4,7 @@
 
 > Country music's 50 most played songs in the world\. Updated weekly\. Cover: Morgan Wallen
 
-233 songs - 13 hr 2 min
+234 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Son Of A Sinner](https://open.spotify.com/track/6ngGiVX91DRmGDH4G5EgeO) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 3:52 | 2023-11-16 | 2024-01-26 |
 | [Soul](https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 2:47 | 2022-05-18 | 2022-12-15 |
 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 | 2021-12-29 | 2022-04-07 |
+| [Spin You Around \(1/24\)](https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Spin You Around \(1/24\)](https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It) | 3:29 | 2024-02-07 |  |
 | [Starting Over](https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 4:00 | 2023-03-29 | 2023-04-09 |
 | [Starting Over](https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM) | 4:00 | 2021-12-29 |  |
 | [Stop Draggin' Your Boots](https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Stop Draggin' Your Boots](https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP) | 2:44 | 2022-07-13 | 2022-09-29 |
@@ -210,7 +211,7 @@
 | [wait in the truck \(feat\. Lainey Wilson\)](https://open.spotify.com/track/7trjNYF5ek7zX4GKSHQZbP) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [wait in the truck \(feat\. Lainey Wilson\)](https://open.spotify.com/album/2WEFdKzGuoE8eVWCqeC5SA) | 4:37 | 2022-09-07 | 2023-05-11 |
 | [Waiting](https://open.spotify.com/track/37wfiB5kDHZbY5SeYlk7KE) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:37 | 2022-10-26 | 2022-11-10 |
 | [Want That Back](https://open.spotify.com/track/64n7p9bHvB2OMksxeUyQi1) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Want That Back](https://open.spotify.com/album/6AOh6aXLoWxFlbfh9xPvZ2) | 3:13 | 2022-01-26 | 2022-02-03 |
-| [Wasted On You](https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 2:58 | 2022-03-16 |  |
+| [Wasted On You](https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 2:58 | 2022-03-16 | 2024-02-08 |
 | [Watermelon Moonshine](https://open.spotify.com/track/3sYBFUXTv0STUoUINx9Qe8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:28 | 2023-11-16 |  |
 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 | 2023-07-12 | 2023-11-18 |
 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 | 2022-09-28 | 2022-10-06 |

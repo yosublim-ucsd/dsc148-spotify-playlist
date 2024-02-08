@@ -1,12 +1,12 @@
 {
   "description": "The anti pop archive: tracks added by our editors over the last year. Cover: Gorillaz",
-  "num_followers": 700571,
+  "num_followers": 700671,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTNiMzZjM2FmZjVlOWJlMDg4YjgzZTBmZTk0N2IyZWEwZDA4NzUw",
+  "snapshot_id": "MCxmZTJkZmE2N2U5NDE4Mzc5YWQzNDcyMzIwZDdlYTk0NmFjZWI2NzQw",
   "tracks": [
     {
       "added_at": "2024-01-09 14:46:15",
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 158133,
-      "name": "FAMJAM4000",
-      "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
+      "duration_ms": 214557,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "FAMJAM4000",
+      "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "Two Tens (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 214557,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "SNAKE EYES",
-        "url": "https://open.spotify.com/album/3S6MFjq2tvxbK8pWhQBnvQ"
+        "name": "I'm Allergic To Dogs!",
+        "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
       },
       "artists": [
         {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 130369,
-      "name": "SNAKE EYES",
-      "url": "https://open.spotify.com/track/37ouI56S9L2R8ASWeyAMG7"
+      "duration_ms": 265263,
+      "name": "Photo ID",
+      "url": "https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "I'm Allergic To Dogs!",
-        "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
+        "name": "SNAKE EYES",
+        "url": "https://open.spotify.com/album/3S6MFjq2tvxbK8pWhQBnvQ"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
         }
       ],
-      "duration_ms": 265263,
-      "name": "Photo ID",
-      "url": "https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe"
+      "duration_ms": 130369,
+      "name": "SNAKE EYES",
+      "url": "https://open.spotify.com/track/37ouI56S9L2R8ASWeyAMG7"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "SINS",
-        "url": "https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra"
-      },
-      "artists": [
-        {
-          "name": "Red Leather",
-          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
-        }
-      ],
-      "duration_ms": 177952,
-      "name": "SINS",
-      "url": "https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
         "url": "https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 147025,
       "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
       "url": "https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "SINS",
+        "url": "https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra"
+      },
+      "artists": [
+        {
+          "name": "Red Leather",
+          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
+        }
+      ],
+      "duration_ms": 177952,
+      "name": "SINS",
+      "url": "https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Wallsocket",
-        "url": "https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 245122,
-      "name": "Johnny johnny johnny",
-      "url": "https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "'Decent",
         "url": "https://open.spotify.com/album/1WoPO9sVvJXy0MktOhBiIU"
       },
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "Wallsocket",
+        "url": "https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 245122,
+      "name": "Johnny johnny johnny",
+      "url": "https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "I Just Wanna",
         "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 254399,
       "name": "I Just Wanna",
       "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Apartment A",
+        "url": "https://open.spotify.com/album/3QZBxL6hF9ePj3qGJw6iPx"
+      },
+      "artists": [
+        {
+          "name": "Isaac Dunbar",
+          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Apartment A",
+      "url": "https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1239,22 +1255,6 @@
       "duration_ms": 187058,
       "name": "Show Me The Money (with Tkay Maidza)",
       "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Apartment A",
-        "url": "https://open.spotify.com/album/3QZBxL6hF9ePj3qGJw6iPx"
-      },
-      "artists": [
-        {
-          "name": "Isaac Dunbar",
-          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Apartment A",
-      "url": "https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "true",
+        "url": "https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 191711,
+      "name": "true",
+      "url": "https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "Can't Fake What You Feel",
         "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
       },
@@ -1359,34 +1375,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "true",
-        "url": "https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv"
+        "name": "Stay Blessed",
+        "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
       },
       "artists": [
         {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
         }
       ],
-      "duration_ms": 191711,
-      "name": "true",
-      "url": "https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "SCRAPYARD I",
-        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
-      },
-      "artists": [
-        {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
-        }
-      ],
-      "duration_ms": 209289,
-      "name": "U DON'T KNOW ME LIKE THAT",
-      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
+      "duration_ms": 177731,
+      "name": "Stay Blessed",
+      "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "SCRAPYARD I",
+        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "duration_ms": 209289,
+      "name": "U DON'T KNOW ME LIKE THAT",
+      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "MOVIES! WORLDWIDE: PART I",
         "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
       },
@@ -1419,38 +1435,6 @@
       "duration_ms": 124917,
       "name": "Gloria !",
       "url": "https://open.spotify.com/track/6sEKSKRnCCsl20GRPNlAQj"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "Stay Blessed",
-        "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 177731,
-      "name": "Stay Blessed",
-      "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "Hearth Room",
-        "url": "https://open.spotify.com/album/4Jxk91uFsdzMWcZNyqj6eO"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/44rWKhxzR6hsa04LKavgoC"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1471,6 +1455,22 @@
       "duration_ms": 156923,
       "name": "WHIPCREAM",
       "url": "https://open.spotify.com/track/55iO3rILBsWI8bMntmW1Mh"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Hearth Room",
+        "url": "https://open.spotify.com/album/4Jxk91uFsdzMWcZNyqj6eO"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/44rWKhxzR6hsa04LKavgoC"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "It\u2019s Never Fair, Always True",
-        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 167841,
-      "name": "lalala",
-      "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Sunny Boy",
         "url": "https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv"
       },
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "It\u2019s Never Fair, Always True",
+        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 167841,
+      "name": "lalala",
+      "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "Fishnets",
         "url": "https://open.spotify.com/album/3mfeRfnXvnOSGr3BgHWAIs"
       },
@@ -1587,26 +1587,6 @@
       "duration_ms": 185454,
       "name": "Fishnets",
       "url": "https://open.spotify.com/track/6JnLTBWxTM8M25AJuyFCs2"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "You Thought (feat. Janelle Mon\u00e1e)",
-        "url": "https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6"
-      },
-      "artists": [
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        },
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 181453,
-      "name": "You Thought (feat. Janelle Mon\u00e1e)",
-      "url": "https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1631,6 +1611,26 @@
       "duration_ms": 170895,
       "name": "peace of mind",
       "url": "https://open.spotify.com/track/0hh5w9zgdzGcEEt9wZQhPy"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "You Thought (feat. Janelle Mon\u00e1e)",
+        "url": "https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 181453,
+      "name": "You Thought (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd"
     },
     {
       "added_at": "2024-01-09 14:46:15",

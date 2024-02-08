@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 1371236,
+  "2024-02-08": 1372458,
   "date_first_scraped": "2022-02-06",
   "description": "The hottest tracks in the United States. Cover: Megan Thee Stallion",
   "name": "Hot Hits USA",
@@ -2746,6 +2746,24 @@
     },
     {
       "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
+    },
+    {
+      "album": {
         "name": "For Tonight",
         "url": "https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf"
       },
@@ -5205,7 +5223,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 267194,
       "name": "MONACO",
       "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
@@ -5775,6 +5793,24 @@
       "duration_ms": 184258,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
+    },
+    {
+      "album": {
+        "name": "On My Mama",
+        "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186678,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
     },
     {
       "album": {
@@ -8715,7 +8751,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 267893,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"

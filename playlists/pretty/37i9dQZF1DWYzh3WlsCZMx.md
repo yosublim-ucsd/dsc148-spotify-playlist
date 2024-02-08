@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36">HBO's Rap Sh!t</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,418 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,466 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 36 | [Bad Bitch](https://open.spotify.com/track/0yjysU3MF1nQTomE08AzIk) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Bad Bitch](https://open.spotify.com/album/2l8eQxgr9G7Eioo54WbJg3) | 2:15 |
 | 37 | [Spend Sum Cash](https://open.spotify.com/track/0x8xbM5MEduFnFKlRqEmX0) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM) | [Talk That Talk](https://open.spotify.com/album/5Ege4j1dUjJV2i0eHeBDbh) | 2:34 |
 | 38 | [Rap Shit](https://open.spotify.com/track/0m5UGpHzwWRlgky0dmhogh) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:31 |
-| 39 | [Wat U Need](https://open.spotify.com/track/3IiE3DEdKaXLTtlSUPFhUn) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0KcfQLwLhdChGUYeFTYv2b) | 2:01 |
-| 40 | [Dem Girlz \(feat\. BeatKing & Erica Banks\)](https://open.spotify.com/track/3YewQ5i0OfqgFo2zvVzasw) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Pressure](https://open.spotify.com/album/7ChOeB6OLdPZcNyBNMboB8) | 3:09 |
+| 39 | [Dem Girlz \(feat\. BeatKing & Erica Banks\)](https://open.spotify.com/track/3YewQ5i0OfqgFo2zvVzasw) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Pressure](https://open.spotify.com/album/7ChOeB6OLdPZcNyBNMboB8) | 3:09 |
+| 40 | [Wat U Need](https://open.spotify.com/track/3IiE3DEdKaXLTtlSUPFhUn) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0KcfQLwLhdChGUYeFTYv2b) | 2:01 |
 | 41 | [The Ave in You](https://open.spotify.com/track/3AIx2mvrJJuCaea9ImEkr1) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Lil Mont from the Ave](https://open.spotify.com/album/1cZLwwMVQDCEOErLWjJD6X) | 2:56 |
 | 42 | [Pop It 4 Pimp](https://open.spotify.com/track/09nAAaHatXLnc0SmhReYny) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [II Trill](https://open.spotify.com/album/726mitnLPJrg0pftxSne1O) | 3:50 |
 | 43 | [Star Dust](https://open.spotify.com/track/7GlMHZc2cXup1pqPDQ90nR) | [Twelve'len](https://open.spotify.com/artist/0G57ms4DD5dn6wXwuFOLdO) | [Friends](https://open.spotify.com/album/5MnMSLhvO7B49anDnzQUwO) | 3:04 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 47 | [Hood Baby](https://open.spotify.com/track/5Elw813HnizJdMcnGAvVUK) | [Hood Brat](https://open.spotify.com/artist/6lXxD7jB6A4GBp8FIj4Drd) | [Hood Baby](https://open.spotify.com/album/3epVF8JDjLOAbMbWXL2SdO) | 2:40 |
 | 48 | [Hoodrat \(feat\. AzSwaye & Pjay\)](https://open.spotify.com/track/0YrYVhq0EukTxojdqLh2Sj) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [AzSwaye](https://open.spotify.com/artist/5tg5JDw7tQiZdJCShs9rk9), [Pjay](https://open.spotify.com/artist/6rB1jv0emRIkbLluXskjt9) | [Hoodrat \(feat\. AzSwaye & Pjay\)](https://open.spotify.com/album/4aBeGq3hlU2z7c6EvKjHpc) | 2:36 |
 
-Snapshot ID: `MCw5M2QyYTlmYTMwZmUxNTgzYWE0MWEwYWRjZWVjZWU4NjUxYTBjNGMw`
+Snapshot ID: `MCw2OWQ3OGQ1M2M0NmY4MTc5YmYwOGVkNmM5ZWUzMTJkMDVmOWJhNmZl`

@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 180085,
+  "num_followers": 180142,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjNhNTgxZjk3ODBlNGUwYTY5NDY0YzM4ODc2ZDM1ZGIxZDQyMzgz",
+  "snapshot_id": "MCwxOTE1NzMwZDBmNGZhZmZmMjhjNmIxYmZmOGNlNmE1MmUwODNhYmFh",
   "tracks": [
     {
       "added_at": "2023-08-25 09:30:35",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Pharmacy",
+        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 227073,
+      "name": "Runaway (U & I)",
+      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Hear Me Now (feat. Zeeba)",
         "url": "https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 194840,
       "name": "Hear Me Now",
       "url": "https://open.spotify.com/track/39cmB3ZoTOLwOTq7tMNqKa"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Pharmacy",
-        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 227073,
-      "name": "Runaway (U & I)",
-      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -975,26 +975,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Electricity (with Dua Lipa)",
         "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 238173,
       "name": "Electricity (with Dua Lipa)",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
     },
     {
       "added_at": "2023-08-25 09:30:35",

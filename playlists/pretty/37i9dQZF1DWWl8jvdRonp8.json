@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 195001,
+  "num_followers": 195119,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmYwNzIxZTNlNTIzZDU3ZTQwZDkzNmJiNzEyY2QxMDVkOGE1NmE0",
+  "snapshot_id": "MCxiZjFkNWQ2ZmFlYjc4MmI5NWUwYTFiZGJmMzI3ODMzNmNkMjJiMzU3",
   "tracks": [
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 196240,
-      "name": "Mi Fantas\u00eda",
-      "url": "https://open.spotify.com/track/2fH7AMRWzhUuWoUgheULIw"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
         "name": "Por Eso...Gracias",
         "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 210733,
       "name": "Sin \u00c9l",
       "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 196240,
+      "name": "Mi Fantas\u00eda",
+      "url": "https://open.spotify.com/track/2fH7AMRWzhUuWoUgheULIw"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1464,25 +1464,9 @@
           "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 280653,
-      "name": "Entre Tu Y Yo",
-      "url": "https://open.spotify.com/track/3HzJk6dBCLNvRt2O33JgOm"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 210680,
-      "name": "M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie"
+      "duration_ms": 196946,
+      "name": "Mira Nomas",
+      "url": "https://open.spotify.com/track/0bewBWJTe68j6138OW4nc0"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1499,6 +1483,22 @@
       "duration_ms": 221480,
       "name": "Ya No Te Vayas",
       "url": "https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 210680,
+      "name": "M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1596,9 +1596,9 @@
           "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 196946,
-      "name": "Mira Nomas",
-      "url": "https://open.spotify.com/track/0bewBWJTe68j6138OW4nc0"
+      "duration_ms": 280653,
+      "name": "Entre Tu Y Yo",
+      "url": "https://open.spotify.com/track/3HzJk6dBCLNvRt2O33JgOm"
     },
     {
       "added_at": "2023-10-11 22:12:05",

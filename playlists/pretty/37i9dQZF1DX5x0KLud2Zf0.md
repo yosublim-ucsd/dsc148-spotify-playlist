@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 
 > La pluma sensible detrás de tus favoritas de regional mexicano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,982 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,007 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 | 54 | [Mujer De Todos, Mujer De Nadie](https://open.spotify.com/track/2Nq7V3GVhsultDnHFoLiEB) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mujer De Todos, Mujer De Nadie](https://open.spotify.com/album/4bEnkTA8yQyyaAIkk0ZiVC) | 3:08 |
 | 55 | [Si Te Vas Ya No Regresas](https://open.spotify.com/track/4gVwidKQ2RK7WYyc3IRaF6) | [Jesús Mendoza](https://open.spotify.com/artist/0Yz6o9CplQwzJgEiJuVY8W) | [Alzando Vuelo](https://open.spotify.com/album/6WoQqM4KE1bnRFYNYf8Q2Y) | 2:39 |
 | 56 | [No Pasa Nada](https://open.spotify.com/track/0W0SWGtoy0TZngx6p9LSNK) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [De Fiesta Con La Sonora Dinamita](https://open.spotify.com/album/3lFZeCRwiWkvCz4vUh9DgR) | 3:00 |
-| 57 | [Fue Bueno Mientras Fue](https://open.spotify.com/track/1m32Mg4b7P9TyDrMthKb3D) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Fue Bueno Mientras Fue](https://open.spotify.com/album/5L5yfF1NmzDcQuTdoUunLp) | 3:27 |
-| 58 | [Como La Palma de Mi Mano](https://open.spotify.com/track/5hcvgFFPMohgecJkH8Nx2z) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Nos Divertimos Logrando Lo Imposible](https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP) | 4:05 |
+| 57 | [Como La Palma de Mi Mano](https://open.spotify.com/track/5hcvgFFPMohgecJkH8Nx2z) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Nos Divertimos Logrando Lo Imposible](https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP) | 4:05 |
+| 58 | [Fue Bueno Mientras Fue](https://open.spotify.com/track/1m32Mg4b7P9TyDrMthKb3D) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Fue Bueno Mientras Fue](https://open.spotify.com/album/5L5yfF1NmzDcQuTdoUunLp) | 3:27 |
 | 59 | [A Pesar De Todo](https://open.spotify.com/track/1IJ3AiMHt24pgPxFg8HDMI) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Más Enamorada Con Banda](https://open.spotify.com/album/050rs5niQWOkSpfKiipWC6) | 3:14 |
 | 60 | [Se Me Hizo Vicio](https://open.spotify.com/track/5ojaAFtMvJuDzN2hCFy1aX) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Las Bandas Románticas](https://open.spotify.com/album/6aTyqTryxFbbFAfdOvZBOb) | 2:45 |
 | 61 | [Me Gustas Para Mi](https://open.spotify.com/track/7vVCJpdu1IzUVeQYexEBEw) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Borrón y Cuenta Nueva](https://open.spotify.com/album/3Oy6i9dEx4lTFuuwdB3eNo) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 | 99 | [Te Prometo](https://open.spotify.com/track/0xdbp4HOKeuVkuTu1WfI41) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 3:42 |
 | 100 | [De Ti Exclusivo](https://open.spotify.com/track/5jTONxXzG2oRzc6gveGELN) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Singles](https://open.spotify.com/album/3XiBZ63yqMHNklPLIiIAMx) | 3:17 |
 
-Snapshot ID: `MCxjZTU2MWY2OWY0OTNhNDgyODRmZmM3OGE4OTM1MTA2ZDg3M2NjYTQz`
+Snapshot ID: `MCxjYWRiMjEwOWQ1YTQxMjhiYzE5MDI3NjM2MDRiNjI0ODlhNjUzODQy`

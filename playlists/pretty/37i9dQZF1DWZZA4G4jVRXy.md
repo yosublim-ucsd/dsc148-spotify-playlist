@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,464 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,477 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 21 | [Nani Wale Ka Lau Oliva](https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU) | [Benitez, Darren](https://open.spotify.com/artist/1ZmCUwq9iEoBTFE9unlWTI) | [Dear Mama](https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn) | 5:07 |
 | 22 | [Yellow Bird](https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Yellow Bird](https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP) | 2:44 |
 | 23 | [Coffee Bean / Calabash Annie](https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Soul Of The Drums](https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0) | 2:15 |
-| 24 | [Enchantment](https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:45 |
-| 25 | [Melancholy Serenade \- Remastered](https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ) | [Ultra\-Lounge / Bachelor Pad Royale Volume Four](https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI) | 2:08 |
+| 24 | [Melancholy Serenade \- Remastered](https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ) | [Ultra\-Lounge / Bachelor Pad Royale Volume Four](https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI) | 2:08 |
+| 25 | [Enchantment](https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:45 |
 | 26 | [Palace of the Tiger Women](https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY) | [Kava Kon](https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd) | [Tiki for the Atomic Age](https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA) | 2:48 |
 | 27 | [Song Of Old Hawaii](https://open.spotify.com/track/5tToPiK5y6qwqTSZNUIds7) | [George de Fretes and his Royal Hawaiian Minstrels](https://open.spotify.com/artist/5wTJVqMDk8Cn9UccDs755M) | [The Home Recordings Vol\. 1](https://open.spotify.com/album/4YvK4WVcx4sTClhZRvmST4) | 3:31 |
 | 28 | [Kawohikukupulani](https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Hawaiian Sunset](https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg) | 2:26 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 49 | [Mareld 2021](https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj) | [Ìxtahuele](https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN) | [Mareld 2021](https://open.spotify.com/album/4cm45D4teP1JuVt2fbOrnj) | 3:02 |
 | 50 | [Shells \- Live from Hawaii](https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr) | [Don Ho](https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL) | [The Don Ho Show! \(Live\)](https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4) | 4:04 |
 | 51 | [Slow And Easy](https://open.spotify.com/track/7nECUIlHzm7iDkC1zlCyVS) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Days Of Wine And Roses](https://open.spotify.com/album/2JSXijbVwjxZTb7bsAWYpx) | 3:05 |
-| 52 | [Lamento Borincano](https://open.spotify.com/track/2j0cJ0WWmdbV9kaDYsUMLZ) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Esquivel! 1968](https://open.spotify.com/album/2g7l87w0dVuZPBRHzg9Iqv) | 3:37 |
-| 53 | [Perfidia](https://open.spotify.com/track/5SaOX5WmvmvyNIVGmyBJGp) | [Xavier Cugat](https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R) | [Xavier Cugat \- Música para Bailar!](https://open.spotify.com/album/488JrAteaK9HPFPB4ryg3O) | 3:27 |
+| 52 | [Perfidia](https://open.spotify.com/track/5SaOX5WmvmvyNIVGmyBJGp) | [Xavier Cugat](https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R) | [Xavier Cugat \- Música para Bailar!](https://open.spotify.com/album/488JrAteaK9HPFPB4ryg3O) | 3:27 |
+| 53 | [Lamento Borincano](https://open.spotify.com/track/2j0cJ0WWmdbV9kaDYsUMLZ) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Esquivel! 1968](https://open.spotify.com/album/2g7l87w0dVuZPBRHzg9Iqv) | 3:37 |
 | 54 | [Hawaiian Wedding Song](https://open.spotify.com/track/6c3nHwUXBRVJxF2tLRj16w) | [The Surfmen](https://open.spotify.com/artist/5DZTIpbNQehcLsiQYRQQPV) | [Chill Out Hawaiian Music](https://open.spotify.com/album/0eirWmh8yL6BAJcyijggSJ) | 1:43 |
 | 55 | [Ke Kali Nei Au \- The Hawaiian Wedding Song](https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb) | [Hawaii Calls Orchestra](https://open.spotify.com/artist/3YGJZFuhB4CAX3QAWDvQ79) | [Hawaii's Favorite Music Vol\. II \- Instrumentals](https://open.spotify.com/album/2ZdSCDvLS7cVqPt28gpNcx) | 3:10 |
 | 56 | [Ipo Hula](https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 1:50 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 75 | [Hana Maui \- Digitally Remastered 1995](https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2) | [Chick Floyd](https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 3:16 |
 | 76 | [Lust](https://open.spotify.com/track/65jpm2yvG0Fz67GkUCClQV) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR), [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [The Passions](https://open.spotify.com/album/63VK8OhIxPTYmKK5zc3i6L) | 2:59 |
 
-Snapshot ID: `MCxlNWJlMWMxMTM0NmE3ZTljOWQ4MzU3MDEwNjljZDI2OTgxNzVkYTRi`
+Snapshot ID: `MCxjY2Q3NjM0OTNjY2NhYWY0ZmJkMmVjNTIxYTVmZDgzYTE0NGQ3ZDY2`

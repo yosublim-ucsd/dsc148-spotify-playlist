@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JXQl1bmFgT.md) - [plain]
 
 > The official playlist for 365 Days trilogy\. Watch now on Netflix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,870 likes - 77 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,001 likes - 77 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JXQl1bmFgT.md) - [plain]
 | 58 | [Whole Life](https://open.spotify.com/track/4l17U26RnDC0uDlVGm5NgM) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH), [Tommy Docherty](https://open.spotify.com/artist/52gd2IONQukShe5AJw8lNa) | [Just Breathe](https://open.spotify.com/album/3cGOpNJyVX3PqfsITZ6oop) | 2:38 |
 | 59 | [Toca Toca](https://open.spotify.com/track/2fDByLUAC1YsxbhgHGBqdg) | [Fly Project](https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa) | [Toca\-Toca](https://open.spotify.com/album/7vCFA4aWu4HJQeGcbuOwpl) | 2:45 |
 | 60 | [STAYING UP \(with RILEY\)](https://open.spotify.com/track/2Od5rtOghW7nnPoYP5PxeS) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [RILEY](https://open.spotify.com/artist/38SHprY6NUd8O9LyWJ4hg4) | [STAYING UP \(with RILEY\)](https://open.spotify.com/album/3JnciTFN9oO4E0hKuq3xcS) | 3:00 |
-| 61 | [The Worst](https://open.spotify.com/track/2iZfLHceRaPLsVLNgp0b5o) | [The Sometimes Island](https://open.spotify.com/artist/3SqtHH9uGzfm9UIc7veyuK) | [Beverly & Barbara](https://open.spotify.com/album/7xjC8FefVplGzNy7bTENm4) | 2:36 |
+| 61 | [The Worst](https://open.spotify.com/track/2CCVbsCzLDnTL2CMXxmF86) | [The Sometimes Island](https://open.spotify.com/artist/3SqtHH9uGzfm9UIc7veyuK) | [Beverly & Barbara](https://open.spotify.com/album/3mYNeSrhzU9qpDE1gdqWmZ) | 2:36 |
 | 62 | [All Alone](https://open.spotify.com/track/0KkZc840i3ZwDw1RvabPKr) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM), [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Someday EP](https://open.spotify.com/album/63wfEx9X1GR4WZ2F66hXrc) | 2:36 |
 | 63 | [Here Comes the Thunder](https://open.spotify.com/track/3lHoL4ofPul04MCOsGXxnZ) | [Lee Richardson](https://open.spotify.com/artist/16BxOX67lWcQpiglrMa2HY), [Jonathan Murill](https://open.spotify.com/artist/0KlThjCzrRDm9fW5WMIGss), [Tom Ford](https://open.spotify.com/artist/16Hec1v49TSJCAwuXYcPn1), [James Cocozza](https://open.spotify.com/artist/2MqahmsaUt6ZQhBDC4moBR), [Sarah Norman](https://open.spotify.com/artist/2N7XlKM87BYT73h4OjJYuA) | [Tribal Pop](https://open.spotify.com/album/6VFEI4CPJOqE6bMRlMaEIo) | 2:37 |
 | 64 | [You](https://open.spotify.com/track/5zeL1hFb3uUfh8bLDDtY7L) | [Alex Condliffe](https://open.spotify.com/artist/3dFqyBhsezU3bAXdcZZbtP), [Lamb Hands](https://open.spotify.com/artist/2Scs409VgS6rAN0tKM4vN1) | [Indie Ballads](https://open.spotify.com/album/1OjvJU0GnsOYqMgrdTYC6R) | 3:18 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JXQl1bmFgT.md) - [plain]
 | 71 | [Promises](https://open.spotify.com/track/6ZE4pRtvE2MwAJAE7006EA) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Promises](https://open.spotify.com/album/0LNn3EzsXTuwqJ3pJXEFO2) | 3:02 |
 | 72 | [Never Again](https://open.spotify.com/track/5Bbm57CXEi2VmzoSb1Cp5C) | [Tommy Docherty](https://open.spotify.com/artist/52gd2IONQukShe5AJw8lNa) | [Never Again](https://open.spotify.com/album/7aqvlhSVClT2aNr3TSzmRI) | 2:15 |
 | 73 | [The Calling \(EPIX Remix\)](https://open.spotify.com/track/0sbcJ9GfvJH5NLEQzU7i08) | [The Rigs](https://open.spotify.com/artist/4QrBV4OBjd798x3Aov1Yjy) | [EPIX](https://open.spotify.com/album/5stfsuLtj16vgZT9bTH76q) | 2:15 |
-| 74 | [Barbara Wants](https://open.spotify.com/track/0fx5TUxwrHlz6hKjNZfQpp) | [The Sometimes Island](https://open.spotify.com/artist/3SqtHH9uGzfm9UIc7veyuK) | [Beverly & Barbara](https://open.spotify.com/album/7xjC8FefVplGzNy7bTENm4) | 5:08 |
+| 74 | [Barbara Wants](https://open.spotify.com/track/2fEmm2oaywnpyVSRdsVI6W) | [The Sometimes Island](https://open.spotify.com/artist/3SqtHH9uGzfm9UIc7veyuK) | [Beverly & Barbara](https://open.spotify.com/album/3mYNeSrhzU9qpDE1gdqWmZ) | 5:08 |
 | 75 | [All My Heroes \- The Toxic Avenger Remix](https://open.spotify.com/track/2Js9PruQTuC06MU6t4p2TJ) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Sarah Rebecca](https://open.spotify.com/artist/58obmxGKVKCenZAkACSMgJ), [The Toxic Avenger](https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s) | [All My Heroes \(The Toxic Avenger Remix\)](https://open.spotify.com/album/0V28h3EvVhaIXLYJps6otB) | 4:14 |
 | 76 | [Better Alone](https://open.spotify.com/track/6FOhiUB3CT6dOMqUdi50ZU) | [Brayden Dunbar](https://open.spotify.com/artist/718jt24mHnTl76rE6T5sSp) | [Better Alone](https://open.spotify.com/album/0wp6uBXIs0IQc6IdOCbAeA) | 3:04 |
 | 77 | [Good To Me](https://open.spotify.com/track/6hxk4O3pxR1L9tKkj4BbYn) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Good To Me](https://open.spotify.com/album/31pumQiCZG4iIWbBPSgn1R) | 2:17 |
 
-Snapshot ID: `MCxlOTliYTQ3OTY0N2ZhYWY1OGUyMzI2MjIzNDBhZTRiMTNmN2JmOThm`
+Snapshot ID: `MCwwYjdhMDVhOWY3MjVlZmJjNzUzNzg5NWE5ZTkzNjdmYzU1MGU2Y2Fi`

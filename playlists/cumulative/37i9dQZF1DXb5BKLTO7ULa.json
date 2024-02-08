@@ -17070,6 +17070,24 @@
     {
       "album": {
         "name": "Crusade",
+        "url": "https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Crusade - Club Edit",
+      "url": "https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo"
+    },
+    {
+      "album": {
+        "name": "Crusade",
         "url": "https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz"
       },
       "artists": [
@@ -17080,7 +17098,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 179400,
       "name": "Crusade - Club Edit",
       "url": "https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK"
@@ -20810,10 +20828,32 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 163137,
       "name": "Die For Me",
       "url": "https://open.spotify.com/track/67gYpZ9Kl4EwuQa3hZX6wR"
+    },
+    {
+      "album": {
+        "name": "Die For Me (with Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/21QcWrXk821IkKiL73BZre"
+      },
+      "artists": [
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163137,
+      "name": "Die For Me (with Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/5YUsCI2mTieO4KJbLeQFR7"
     },
     {
       "album": {

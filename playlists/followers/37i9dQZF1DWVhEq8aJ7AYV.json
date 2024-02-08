@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 70873,
+  "2024-02-08": 70885,
   "date_first_scraped": "2022-06-30",
   "description": "Tengan a la mano las m\u00e1scaras de lucha libre y la tabla de surf.",
   "name": "Rockabilly Surf",
@@ -363,7 +363,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 125360,
       "name": "Bandidos",
       "url": "https://open.spotify.com/track/78U6exECZTeqH3A9sSb1Tr"
@@ -3819,7 +3819,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 123107,
       "name": "Swan's Lake",
       "url": "https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR"

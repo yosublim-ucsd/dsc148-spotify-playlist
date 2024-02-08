@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 146217,
+  "num_followers": 146278,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzA4MmIwNjkwM2Y2ZDk3NjkwZWI1NDgzNzRhNTlmODYzMDRiODYw",
+  "snapshot_id": "MCxjM2U5ODAwYzRiNjczZjc3NjVlZjc0ZjNkZWQ3Y2FhOGE1YmFkYTQ3",
   "tracks": [
     {
       "added_at": "2024-01-05 14:21:14",
@@ -175,26 +175,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Cats On Trees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
-      },
-      "artists": [
-        {
-          "name": "Cats On Trees",
-          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
-        },
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        }
-      ],
-      "duration_ms": 176618,
-      "name": "Jimmy",
-      "url": "https://open.spotify.com/track/5rjHhZb8nSQJZZSIGtt78N"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Il suffit d'y croire (Version deluxe)",
         "url": "https://open.spotify.com/album/6jQJaCZB3mCM73p7JE5XNJ"
       },
@@ -215,6 +195,26 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
+        "name": "Cats On Trees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
+      },
+      "artists": [
+        {
+          "name": "Cats On Trees",
+          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
+        },
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "duration_ms": 176618,
+      "name": "Jimmy",
+      "url": "https://open.spotify.com/track/5rjHhZb8nSQJZZSIGtt78N"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1"
       },
@@ -227,6 +227,22 @@
       "duration_ms": 191659,
       "name": "Lady M\u00e9lody",
       "url": "https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Femme Studio",
+        "url": "https://open.spotify.com/album/0RSn60sXgnT1Fql7G87P0q"
+      },
+      "artists": [
+        {
+          "name": "Laurie Darmon",
+          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
+        }
+      ],
+      "duration_ms": 237427,
+      "name": "Laisse-moi t'aimer",
+      "url": "https://open.spotify.com/track/2boYIpJVzkugP7BwAaVzGw"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -247,22 +263,6 @@
       "duration_ms": 180745,
       "name": "Comment on fait",
       "url": "https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
-        "name": "Femme Studio",
-        "url": "https://open.spotify.com/album/0RSn60sXgnT1Fql7G87P0q"
-      },
-      "artists": [
-        {
-          "name": "Laurie Darmon",
-          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
-        }
-      ],
-      "duration_ms": 237427,
-      "name": "Laisse-moi t'aimer",
-      "url": "https://open.spotify.com/track/2boYIpJVzkugP7BwAaVzGw"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Nonante-Cinq",
-        "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 164956,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Mon paradis",
         "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 209000,
       "name": "Belle demoiselle",
       "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Nonante-Cinq",
+        "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Vari\u00e9ty",
-        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
-      },
-      "artists": [
-        {
-          "name": "Les Rita Mitsouko",
-          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Ding Dang Dong (Ringing at Your Bell)",
-      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Le chemin - 20 ans",
         "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 191786,
       "name": "Derni\u00e8re danse",
       "url": "https://open.spotify.com/track/4AjFKHMK0aT5RH5bDarR0f"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Vari\u00e9ty",
+        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
+      },
+      "artists": [
+        {
+          "name": "Les Rita Mitsouko",
+          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Ding Dang Dong (Ringing at Your Bell)",
+      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Brigitte Bardot",
-        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 155800,
-      "name": "La madrague",
-      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Amoureuse (Edition Deluxe)",
         "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 221600,
       "name": "Amoureuse - Remasteris\u00e9 en 2008",
       "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Brigitte Bardot",
+        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 155800,
+      "name": "La madrague",
+      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Le Premier Jour",
-        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 250413,
-      "name": "Le Premier jour (Du reste de ta vie)",
-      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Je sais pas si \u00e7a va",
         "url": "https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 197691,
       "name": "La recette",
       "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Le Premier Jour",
+        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Le Premier jour (Du reste de ta vie)",
+      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
     },
     {
       "added_at": "2024-01-05 14:21:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy muziek met een rand uit eigen land\. cover: Naaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,976 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,981 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 59 | [Pelechian](https://open.spotify.com/track/2txPrKoY55bOdb7eO0dxVz) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian](https://open.spotify.com/album/4AlsQL5uhfmbH7uKQvZx4g) | 2:34 |
 | 60 | [Paranoid Sleeping \- Single Edit](https://open.spotify.com/track/1asK6lxYBYVJwzavweery9) | [Julia Sole](https://open.spotify.com/artist/12XTlzUHaKvvpxuUcKcWr3) | [Paranoid Sleeping](https://open.spotify.com/album/2g9SWINLRnk2vH0cIJEkqt) | 2:09 |
 
-Snapshot ID: `MCxhNDBhOTM0NmIwNWZjMjJhNTFhZGRhZDVhYzQyMmMzNWJmZTY3MGVl`
+Snapshot ID: `MCxkNTBlNjY3M2Y4MWJlOTg4YWFiMjBhODBjMWQ0NmNmZGY1ODc2YjJk`

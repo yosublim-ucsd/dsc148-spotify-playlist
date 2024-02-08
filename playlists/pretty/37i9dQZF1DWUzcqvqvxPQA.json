@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25834,
+  "num_followers": 25837,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzQ2ODgzMGQxMTZiMTEwMjMyYWQ3YjFlNmM4NWFkNjdiMmNkZDUy",
+  "snapshot_id": "MCxiZTY2NmE0ZjBjMjIzMTQzMDdiNjYzMDQ4ZTMxNDQxZjMwYmJjMDRm",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 199078,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Nothing is Ordinary. Everything is Beautiful.",
         "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 214866,
       "name": "Patient",
       "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 199078,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/36yjJrRmzJT7IMEtd4OtQe"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 228737,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/2RLXKrcqCYLFZIGJbmyaVD"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/7LXqxH6bSaN395nIDyYPPl"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 174813,
       "name": "Born Ready",
       "url": "https://open.spotify.com/track/5RBlhuY6iXpnc4De5nDOvO"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/36yjJrRmzJT7IMEtd4OtQe"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 228737,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2RLXKrcqCYLFZIGJbmyaVD"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Easy Never Needed You",
+        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
+      },
+      "artists": [
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/5Ce0rF44ZaRjGVCv49ARNG"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "The One Where I Talk To God",
         "url": "https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 205101,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Easy Never Needed You",
-        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
-      },
-      "artists": [
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/5Ce0rF44ZaRjGVCv49ARNG"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "HAPPY",
-        "url": "https://open.spotify.com/album/0kjySvgUUcHW64OxmHPSWj"
-      },
-      "artists": [
-        {
-          "name": "Wande",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
-        }
-      ],
-      "duration_ms": 124160,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/1bJk8jsglnHtLvUMrOV6qR"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Light of Your Grace",
         "url": "https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 189307,
       "name": "Light of Your Grace",
       "url": "https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "HAPPY",
+        "url": "https://open.spotify.com/album/0kjySvgUUcHW64OxmHPSWj"
+      },
+      "artists": [
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "duration_ms": 124160,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/1bJk8jsglnHtLvUMrOV6qR"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/0OFlp2bVcZjixngoIGzwBW"
+      },
+      "artists": [
+        {
+          "name": "Tori Harper",
+          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/346A6fJDzFS2YxUXhldt2c"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "City Lights (feat. Mitch Wong)",
         "url": "https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 238573,
       "name": "City Lights (feat. Mitch Wong)",
       "url": "https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/0OFlp2bVcZjixngoIGzwBW"
-      },
-      "artists": [
-        {
-          "name": "Tori Harper",
-          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/346A6fJDzFS2YxUXhldt2c"
     },
     {
       "added_at": "2020-08-13 14:39:00",

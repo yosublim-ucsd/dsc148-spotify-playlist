@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcoyvtNnP4.md) - [plain]
 
 > Entspannung pur oder viel los? Hier findest du die passenden Beats für deine Pläne!
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,742 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,722 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcoyvtNnP4.md) - [plain]
 | 42 | [HOV \- Remix](https://open.spotify.com/track/35kDv86L9VuUoj29YTHmE6) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [HOV \(Remix\)](https://open.spotify.com/album/0Jum44gDjXoH6BHixA5azg) | 2:46 |
 | 43 | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34) | 2:19 |
 | 44 | [COLD](https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [COLD](https://open.spotify.com/album/0pQF3bDC9wGPa5QhhF1w0s) | 2:17 |
-| 45 | [Lifeline \(feat\. Ella Henderson\)](https://open.spotify.com/track/0AH3qQFtYXEoCJrc1vysel) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Lifeline \(feat\. Ella Henderson\)](https://open.spotify.com/album/6cXVZGm8DdsT8QZpfeUST1) | 2:50 |
-| 46 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 |
+| 45 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 |
+| 46 | [Lifeline \(feat\. Ella Henderson\)](https://open.spotify.com/track/0AH3qQFtYXEoCJrc1vysel) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Lifeline \(feat\. Ella Henderson\)](https://open.spotify.com/album/6cXVZGm8DdsT8QZpfeUST1) | 2:50 |
 | 47 | [Good Life](https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Good Life](https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv) | 3:16 |
 | 48 | [Starlight](https://open.spotify.com/track/01a7nB3AywapMgbLi3LGbZ) | [Drenchill](https://open.spotify.com/artist/3nmaO18tcMzfrrR7sdJHnH), [Jorik Burema](https://open.spotify.com/artist/5m9bQKYt5uwDbtBGB6x78P) | [Starlight](https://open.spotify.com/album/7xWgrLBIQVECzOsNvo2OHU) | 2:01 |
 | 49 | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU) | 2:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcoyvtNnP4.md) - [plain]
 | 69 | [Holding On](https://open.spotify.com/track/6YexWyp9s0V0w1uGhtITsd) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv) | 2:52 |
 | 70 | [Through the Fire](https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Through the Fire](https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB) | 2:29 |
 
-Snapshot ID: `MCwzZDRhYTdiZjRkMjAzMjdkYjRmZDRjZDZkNzJkNDMwNTU0Y2JhMmZm`
+Snapshot ID: `MCw3YjQ5NjFjOGUzMzc1MjM2NGNmMzMzYjNjZWNiYTlmODA5Y2U2N2Qw`

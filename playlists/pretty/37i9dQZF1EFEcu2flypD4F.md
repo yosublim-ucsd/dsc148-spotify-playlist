@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,658 likes - 310 songs - 19 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,659 likes - 310 songs - 19 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 53 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 |
 | 54 | [Titans \(feat\. Sia & Labrinth\)](https://open.spotify.com/track/2nYPVp7BJuoaJ4rQmg5FM5) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/5pmiFuzEtKlwWQhy5irJIJ) | 3:19 |
 | 55 | [Eye of the Needle](https://open.spotify.com/track/2ejeiQQcxOONtMDgV2GXSu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:08 |
-| 56 | [I'm Still Here](https://open.spotify.com/track/5KGTKwOePys7aH4o6EzXEP) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [I'm Still Here](https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or) | 4:01 |
-| 57 | [I Love It](https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Drinking From The Sun](https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK) | 3:46 |
-| 58 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 |
+| 56 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 |
+| 57 | [I'm Still Here](https://open.spotify.com/track/5KGTKwOePys7aH4o6EzXEP) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [I'm Still Here](https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or) | 4:01 |
+| 58 | [I Love It](https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Drinking From The Sun](https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK) | 3:46 |
 | 59 | [Golden \(feat\. Sia\)](https://open.spotify.com/track/0HZWWaKieQ9ZETkTEUVTH2) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Golden \(feat\. Sia\)](https://open.spotify.com/album/2KorcISo9JBqG6Siszd2AO) | 3:35 |
 | 60 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 |
 | 61 | [Ho Ho Ho](https://open.spotify.com/track/22Vt9E25fsRcQdcUjNTUQr) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:25 |
@@ -319,4 +319,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 309 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 310 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `Mjg0NTQ1MzAsMDAwMDAwMDA2ODNkZDY4NGVlMGZmMGZmMGIxYjFlMmUxNDg5OTVmZQ==`
+Snapshot ID: `Mjg0NTU5NzAsMDAwMDAwMDAyZjI2ZmE5NGRjYjk3Y2Y5YzQ0ZGY2YWQ5OTcyZjExOQ==`

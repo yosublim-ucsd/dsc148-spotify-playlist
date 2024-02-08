@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 205951,
+  "2024-02-08": 206081,
   "date_first_scraped": "2021-12-30",
   "description": "Sometimes it's nice to be nice, you know.",
   "name": "The Lovely Little Playlist",
@@ -759,7 +759,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 195376,
       "name": "Blouse",
       "url": "https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf"
@@ -1861,7 +1861,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 209493,
       "name": "Everyone's A Winner",
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"

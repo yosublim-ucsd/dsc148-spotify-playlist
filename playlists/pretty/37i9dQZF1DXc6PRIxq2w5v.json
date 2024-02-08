@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Brunno Ramos, 2metro, BIG THE KIID",
-  "num_followers": 161552,
+  "num_followers": 161645,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGNlNzA5MjlmMzQ4YmNlNzIwNmNjNjBjMjFlMWNhNWIyNTViYWYz",
+  "snapshot_id": "MCxlZGZlMTYwZjk3ZTA0YjVhN2Y4OThkNGYxNjlkYTg1NDVkYWY0MjFh",
   "tracks": [
     {
       "added_at": "2024-01-05 13:31:22",
@@ -975,30 +975,6 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Paulo & Silas",
-        "url": "https://open.spotify.com/album/3HO8J0o54JCm2rdhqleCHd"
-      },
-      "artists": [
-        {
-          "name": "Tutuzzin",
-          "url": "https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN"
-        },
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
-        }
-      ],
-      "duration_ms": 173222,
-      "name": "Paulo & Silas",
-      "url": "https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
         "name": "Ren\u00fancia",
         "url": "https://open.spotify.com/album/05tp0ebY7qDi7mgkjYLAMI"
       },
@@ -1019,6 +995,30 @@
       "duration_ms": 161344,
       "name": "Ren\u00fancia",
       "url": "https://open.spotify.com/track/70osJyLLdz5XgDcDuxgjbm"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Paulo & Silas",
+        "url": "https://open.spotify.com/album/3HO8J0o54JCm2rdhqleCHd"
+      },
+      "artists": [
+        {
+          "name": "Tutuzzin",
+          "url": "https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN"
+        },
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        }
+      ],
+      "duration_ms": 173222,
+      "name": "Paulo & Silas",
+      "url": "https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "E F\u00e9",
-        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 153400,
-      "name": "E F\u00e9",
-      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
         "name": "eu vi",
         "url": "https://open.spotify.com/album/0u2KNdhqH6ow0ngQvbGMDI"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 179310,
       "name": "eu vi",
       "url": "https://open.spotify.com/track/776a4QwYcp91riZRZlAqWt"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "E F\u00e9",
+        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "E F\u00e9",
+      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
     },
     {
       "added_at": "2024-01-05 13:31:22",

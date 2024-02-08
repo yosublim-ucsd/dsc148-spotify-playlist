@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,829 songs - 2 day 21 hr 40 min
+1,830 songs - 2 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Back Home](https://open.spotify.com/track/2GbELlWlvhm2IEvRyoH8FS) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu), [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t) | [Back Home](https://open.spotify.com/album/1XwMtzegfQ6YYoCZBPj62q) | 2:07 | 2022-08-19 | 2022-12-24 |
 | [back in time](https://open.spotify.com/track/5u5YsTadcLZDPiCjKIfNiU) | [rippie](https://open.spotify.com/artist/0q6Ld7B12mIn5K0MbMVaGB) | [back in time](https://open.spotify.com/album/1b8iTFjOgloY00tBpxHXOS) | 2:31 | 2022-04-15 | 2022-05-27 |
 | [Backdrop](https://open.spotify.com/track/5fqDXVrqZRCtyOVFQBONc6) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Outer](https://open.spotify.com/album/3HhrVvPGMBPZxBZYhfCQzn) | 2:29 | 2022-05-27 | 2022-11-12 |
-| [Backwards](https://open.spotify.com/track/3kiPyaxjjdXnR7SAvQvy5W) | [Lazy Lama](https://open.spotify.com/artist/2OIClIFaDrHXq6ilh3bICZ) | [Backwards](https://open.spotify.com/album/4uRWNT5GJ4dq1Nym8N1uFN) | 2:42 | 2023-08-17 |  |
+| [Backwards](https://open.spotify.com/track/3kiPyaxjjdXnR7SAvQvy5W) | [Lazy Lama](https://open.spotify.com/artist/2OIClIFaDrHXq6ilh3bICZ) | [Backwards](https://open.spotify.com/album/4uRWNT5GJ4dq1Nym8N1uFN) | 2:42 | 2023-08-17 | 2024-02-08 |
 | [bad checks](https://open.spotify.com/track/02aGT8vsA26xHDNLkvhN50) | [U\-kata](https://open.spotify.com/artist/2K78Mcf0SeQlIy2QCtjqcn) | [bad checks](https://open.spotify.com/album/6ha63yZVl5uhEIlCAVSHUg) | 1:48 | 2022-10-28 | 2023-03-25 |
 | [Baleari](https://open.spotify.com/track/2FzjrkecNKLDLGKYCyR0WF) | [Valhallz](https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh) | [Baleari](https://open.spotify.com/album/5a4Mfj0XeE99KXxIJlf34Y) | 3:29 | 2023-09-08 |  |
 | [Ballin](https://open.spotify.com/track/5wkhCoKLTfmGzpOxj2xGSo) | [Meet$](https://open.spotify.com/artist/2HxYou8ZSMwWRYB1bZaL0K), [lofi boyz](https://open.spotify.com/artist/4MGcmCTE0ifSg3In5uyD1u) | [Ballin](https://open.spotify.com/album/5YJYSDXsFhzbNQU29VMHVO) | 2:12 | 2022-04-15 | 2022-12-03 |
@@ -608,6 +608,7 @@
 | [From a cloudy sky](https://open.spotify.com/track/6E0xoTUNynlFT6Lm4LVAaw) | [Gogofluc](https://open.spotify.com/artist/6OrQ9gVexUFxOERMRDEmkH) | [From a cloudy sky](https://open.spotify.com/album/3BbAOcLjpCWeM55OmGtLtO) | 1:58 | 2023-10-20 |  |
 | [fromain](https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [fromain](https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK) | 2:02 | 2023-09-22 |  |
 | [Frontal Lowb](https://open.spotify.com/track/0Jk9oGAWM9hh9CU8YBtAr7) | [Zack Zhu](https://open.spotify.com/artist/6MRw1mgKzI22Yjlcu2Fzea) | [Frontal Lowb](https://open.spotify.com/album/2f5GnE9LdGgvKhAPTE6bxC) | 2:01 | 2022-04-15 | 2022-09-02 |
+| [Frost](https://open.spotify.com/track/6QgbFK64Y0fO76l8qS2FYA) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Frost](https://open.spotify.com/album/0JzA5bTxOYGUMWcncUUkJK) | 2:10 | 2024-02-02 |  |
 | [Frozen Lake](https://open.spotify.com/track/0XNljnXDVqbp2H22H2sJmX) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE) | [Beats with Brothers Vol\. 7](https://open.spotify.com/album/22JIJVzzJpXo1cI917Ymh4) | 2:28 | 2022-12-16 | 2023-02-16 |
 | [Frozen Lake](https://open.spotify.com/track/6EO6ElRq0FZo8x6QAoMr2I) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE) | [Beats with Brothers, Vol\. 7](https://open.spotify.com/album/2IBaDCogQmvw5B8cVQqbIt) | 2:28 | 2023-02-13 | 2023-03-25 |
 | [Frozen Trees](https://open.spotify.com/track/5FkZ9xAb6k2XfHrR1zjnee) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [Frozen Trees](https://open.spotify.com/album/5Vj6vsFcWunXh1CbRZbtlQ) | 2:09 | 2022-04-15 | 2022-10-01 |

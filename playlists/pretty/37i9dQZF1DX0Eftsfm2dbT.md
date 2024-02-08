@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: JJJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,147 likes - 81 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,171 likes - 81 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 8 | [4 season](https://open.spotify.com/track/4MOMvm7jaxomexOj6GsUep) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG), [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ) | [4 season](https://open.spotify.com/album/5yV9fUvWMOgnjlEwyzOZeR) | 4:27 |
 | 9 | [junkie](https://open.spotify.com/track/0w9YAJAe83rOwK8yKCURqN) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw) | 2:28 |
 | 10 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
-| 11 | [サイコロ](https://open.spotify.com/track/2PyS0Dvx9eiAXWLgjg4qtN) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [サイコロ](https://open.spotify.com/album/1Z6zdkNk4CnvDypdOnSKa1) | 2:28 |
+| 11 | [DICE](https://open.spotify.com/track/3ndMItoMPAhxqHPhjVfDOK) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [DICE](https://open.spotify.com/album/2HSA6nhXG87EebkARaDxc3) | 2:28 |
 | 12 | [No control](https://open.spotify.com/track/6EO7ZAlUx1Wgcu4rIIV2Q2) | [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [No control](https://open.spotify.com/album/7mTK88tTycLDnZFOZYdRU2) | 2:05 |
 | 13 | [03\- Cypher 2023](https://open.spotify.com/track/1PP8kGXcIRfjXh3XYjB4xx) | [03\- Performance](https://open.spotify.com/artist/6s8icbnXfmBIWKZBOeapej), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [ChaoChao](https://open.spotify.com/artist/13P5ST8oY7PS4EGIKYALVl), [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M), [Bene Baby](https://open.spotify.com/artist/4qd1YiKsGPymzmgZLBYY8g), [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [03\- Cypher 2023](https://open.spotify.com/album/4wJaqYjNQzALNgzKRHMcAY) | 4:59 |
 | 14 | [NOROSHI](https://open.spotify.com/track/53DggQCoS5Xz3NAKHPFUrP) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [NOROSHI](https://open.spotify.com/album/7yF0rRaa3R1001cBP9Bm6K) | 3:32 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 16 | [Ourback$](https://open.spotify.com/track/6s5xRQwx0QEQ25VelBIeg7) | [Flat Line Classics](https://open.spotify.com/artist/1KHsC5YEyWGgskwjU4tVHa), [Ramza](https://open.spotify.com/artist/1Trmp5nqg46a1InSpynV72) | [Ourback$](https://open.spotify.com/album/7Cm4kX5BQgtG4MR6eIwueO) | 2:23 |
 | 17 | [WHAT'S LOVE](https://open.spotify.com/track/24xjEU7U7uBKd2F5sQxHrs) | [DALU](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [WHAT'S LOVE](https://open.spotify.com/album/77YJuxCHfyT1oKIDr8teJt) | 3:11 |
 | 18 | [Seasons](https://open.spotify.com/track/6EXuxQV8wJVvIohejXwbPD) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Seasons](https://open.spotify.com/album/4B0qLdyNSpZc9lK7CsMdTn) | 1:10 |
-| 19 | [New Balance](https://open.spotify.com/track/1WqTLTA1e1oeAMkPq6bqgg) | [18scott](https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33) | [New Balance](https://open.spotify.com/album/1AkoAGBaL8rdGdf21KwiTO) | 2:17 |
+| 19 | [New Balance](https://open.spotify.com/track/2ZH6YXI0oN0cY2PmT5uKru) | [18scott](https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33) | [New Balance](https://open.spotify.com/album/0sOlU9sNpco1MqShnwHaWo) | 2:17 |
 | 20 | [Retire](https://open.spotify.com/track/62Za0pv3dQlXJlGPiYeHqf) | [CreativeDrugStore](https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn) | [Wisteria](https://open.spotify.com/album/4ShmCLaYtD0iusN23PnN7g) | 3:11 |
 | 21 | [Move Up](https://open.spotify.com/track/2bBe5DkMT1inRNPJ4RsClZ) | [Diva Wisteria](https://open.spotify.com/artist/1pULTdGy91pturvFKAbhBn) | [Move Up](https://open.spotify.com/album/0dHzWk3b5wtTpoHJWBxQxO) | 3:07 |
 | 22 | [FLY](https://open.spotify.com/track/6BkXrlhT0eJYc6ingXKM0P) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [BLAISE](https://open.spotify.com/artist/3qNQdzi0cdAEz9p64r41Xb), [S TILL I DIE](https://open.spotify.com/artist/1ICd95tL6iZcEKFEQpuWaW) | [FLY](https://open.spotify.com/album/0jVGbk26C3NaEdLRO7SIyA) | 3:00 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 80 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 |
 | 81 | [Do u remember me](https://open.spotify.com/track/3M8hUUiLXqKkk4PCh1KZJN) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape 2](https://open.spotify.com/album/0f5URCBlzbh7u7TuSduM6n) | 3:28 |
 
-Snapshot ID: `MCxlYjRkNjM3YjVmMjZhNzU1ZDhmY2EzNzBiNDgwNGJhNzE1OTcyM2Ix`
+Snapshot ID: `MCw5ZDg2NzBkZjIxZWMxY2RlYWJiYWZkNmVlYjIyMTZjZmU1YzU0YWU2`

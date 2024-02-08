@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-304 songs - 14 hr 25 min
+305 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [All Sorted](https://open.spotify.com/track/1yuduFmsdDHWRrJiQCL73U) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [GURI SINGH](https://open.spotify.com/artist/4YK5CprOTeHRmdNX0c5UpZ), [MIXBYDOLCE](https://open.spotify.com/artist/4tcqUfUJ97wTStbNVYK9ul) | [All Sorted](https://open.spotify.com/album/4JZuiGIpa59jLIeJvzH4za) | 2:58 | 2023-04-21 | 2023-05-06 |
 | [Aloof](https://open.spotify.com/track/1CqkvBoq1vYh0TVX67aVFe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [YOLO](https://open.spotify.com/album/4xBhPWyrysJmW2bnaGKXOV) | 2:46 | 2023-03-29 |  |
 | [Area De Jatt](https://open.spotify.com/track/4rSERGLZ8k4AV7GXsfU5Ji) | [Darsh Dhaliwal](https://open.spotify.com/artist/3kTRwHuAvpLQmaxjtCUEXq), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Area De Jatt](https://open.spotify.com/album/05MRUTVqjKYuIUBn0gmeK4) | 4:12 | 2023-03-29 | 2023-04-25 |
-| [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 | 2023-11-18 |  |
+| [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 | 2023-11-18 | 2024-02-08 |
 | [ARMED](https://open.spotify.com/track/2exH5Jiafijol1Y5toP5xL) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:04 | 2024-01-05 |  |
 | [Award](https://open.spotify.com/track/5jTxpXe7Lav7oUdWYGzpPg) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Award](https://open.spotify.com/album/6BKaGsIy9fP46kMc9olq32) | 2:55 | 2023-08-21 |  |
 | [Backbone](https://open.spotify.com/track/7crVv5ckSrKt4uRMNhzvPM) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [KR](https://open.spotify.com/artist/171hduWXUKyqmow0NKy4aM), [Mani Rai](https://open.spotify.com/artist/5eKDsKLXibdyzKpRkaZfY1) | [Backbone](https://open.spotify.com/album/1PDnZ9aOMsGrsyA6z0GPjy) | 2:42 | 2023-11-15 | 2023-11-19 |
@@ -115,6 +115,7 @@
 | [Gaddi](https://open.spotify.com/track/408tsYRN9p77OQvpWouhWj) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Step Up](https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO) | 3:17 | 2023-03-29 | 2023-07-15 |
 | [Gang](https://open.spotify.com/track/6JUucJOwksTvrjjnq3yyqQ) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Turner](https://open.spotify.com/artist/1sWqR7KUB8nWY4PtsuaEUx), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Gang](https://open.spotify.com/album/4iaAssa1mvJrF2JeOi3V3U) | 2:46 | 2023-04-07 | 2023-04-28 |
 | [Gang Boliyan](https://open.spotify.com/track/3JzIXwROWkSMEdkrCjFcsI) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [The Plot](https://open.spotify.com/album/3kcnt7o6VQ5QvCSMhtfuDX) | 1:54 | 2024-01-11 |  |
+| [Gangsta Shit](https://open.spotify.com/track/1JrMBCjCRiBe0XNB6ZzWhY) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Estrellas](https://open.spotify.com/album/56bKi3MtxXf4CzkkaDZ73s) | 2:45 | 2024-02-07 |  |
 | [Gears](https://open.spotify.com/track/1pDouKngSQ68EnQZLsqOJQ) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Gears](https://open.spotify.com/album/4L90juD2dYHLXKlhdnYuDy) | 2:34 | 2023-09-11 |  |
 | [Glock \- From Tufang](https://open.spotify.com/track/616Q2ytAFVzNcfHDUn25PT) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Glock \(From Tufang\)](https://open.spotify.com/album/5il5FEoX2N3wqsIlBxVT4I) | 2:26 | 2023-06-13 |  |
 | [Goddamn](https://open.spotify.com/track/1fRoeq8MpXigvxHj1QJiHO) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 2:00 | 2023-04-01 | 2023-04-15 |

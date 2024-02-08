@@ -4,7 +4,7 @@
 
 > Catch the hottest Punjabi tracks with Sidhu Moose Wala on the cover for his track "Watch out"
 
-80 songs - 4 hr 4 min
+82 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,10 +36,12 @@
 | [Drippy](https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Drippy](https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX) | 3:15 | 2024-02-02 |  |
 | [Everybody Hurts](https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 2:53 | 2024-01-04 |  |
 | [Gall Khaas](https://open.spotify.com/track/7J5V3MlzpfSF6jEchkfxB6) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Gall Khaas](https://open.spotify.com/album/6zhGxMXaDxizCLjNoIvMw8) | 2:40 | 2024-01-04 |  |
-| [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2024-01-04 |  |
+| [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2024-01-04 | 2024-02-08 |
+| [Glorious](https://open.spotify.com/track/5Gj7bBHkXOEWCPOZv7eAHb) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:43 | 2024-02-07 |  |
 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 | 2024-01-04 |  |
 | [Her](https://open.spotify.com/track/6biqkuWq069vByAEeGxZlr) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Her](https://open.spotify.com/album/17kCYpIx9cO6WEt3B7795R) | 2:34 | 2024-01-04 |  |
 | [Hood Famous](https://open.spotify.com/track/5iVYMQKl3OZi0ULxeKAkho) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Relentless](https://open.spotify.com/album/5RUFZa2yj47Co6rMWEJzwQ) | 2:56 | 2024-01-04 | 2024-02-03 |
+| [Hot Shit](https://open.spotify.com/track/5olluo8Xh733gDwhmchDlp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:43 | 2024-02-07 |  |
 | [Ilzaam](https://open.spotify.com/track/0orOI8nTid7fxPvWIx1tKP) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:07 | 2024-01-04 |  |
 | [Ittar](https://open.spotify.com/track/3VwIFCFQ6HQNzlQPfJBrt7) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Ittar](https://open.spotify.com/album/1SXRKGIPXXWHlFH5FIh8iS) | 3:20 | 2024-01-04 |  |
 | [Jatt Vailly](https://open.spotify.com/track/18kRElgBSIAsd3DHPUajuI) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:31 | 2024-01-04 |  |
@@ -56,7 +58,7 @@
 | [Nachdi To'n](https://open.spotify.com/track/7Gm3V7q7zm5byzS0QQ8VHn) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Young Once](https://open.spotify.com/album/1Zf3YnrtFPy2hodXEBdRaS) | 3:03 | 2024-01-04 |  |
 | [Never Fold](https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:03 | 2024-01-04 |  |
 | [No Love](https://open.spotify.com/track/6A2ZwOsMeomTIVhLvfXngC) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [jesp](https://open.spotify.com/artist/4A6FNKLHprsYDzim1SQAOJ), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n) | [No Love](https://open.spotify.com/album/6qrdcQLLTx6zzvtNpGkPru) | 2:49 | 2024-01-04 | 2024-01-24 |
-| [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2024-01-04 |  |
+| [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2024-01-04 | 2024-02-08 |
 | [Note](https://open.spotify.com/track/0uwbqLpDeFQLnBTvDsMl8C) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Let's Go](https://open.spotify.com/album/53ljSpMqlS6b8p5dZfL9Pf) | 3:07 | 2024-01-04 |  |
 | [Obsessed](https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Obsessed](https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu) | 3:10 | 2024-01-04 |  |
 | [On Top](https://open.spotify.com/track/4SJMuaIYcBS8ke96lDYOsw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [On Top](https://open.spotify.com/album/6ephunHyThVj3tQkGgZKpJ) | 3:03 | 2024-01-04 |  |

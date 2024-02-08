@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,551 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,599 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 27 | [Toda Menina Baiana](https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Realce](https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr) | 3:46 |
 | 28 | [Não Me Entrego Pros Caretas](https://open.spotify.com/track/6pok4kgIWSBFIoPZeKrv7L) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Não Me Entrego Pros Caretas](https://open.spotify.com/album/560jeL82N1TmKINoprN8P2) | 3:16 |
 | 29 | [Quando Você Olha Pra Ela](https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Estratosférica](https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H) | 4:27 |
-| 30 | [Kilario](https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:47 |
-| 31 | [Faraó](https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [Tete a Tete Margareth](https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK) | 5:34 |
+| 30 | [Faraó](https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [Tete a Tete Margareth](https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK) | 5:34 |
+| 31 | [Kilario](https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:47 |
 | 32 | [Fera Ferida](https://open.spotify.com/track/3aRpu8CzSJTeDCNwuqLfTB) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [As Canções Que Você Fez Pra Mim](https://open.spotify.com/album/0mTRjtWGKiGmfEDmzcpII6) | 3:29 |
 | 33 | [Aquele Abraço](https://open.spotify.com/track/7CjSjWTdVPD0ov82Qz55Xb) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilberto Gil \(1969\)](https://open.spotify.com/album/53eqd316Rs3te41yGRovYz) | 5:23 |
 | 34 | [Esperar pra Ver](https://open.spotify.com/track/0AiCAbg6Xb4uGk9bB5L1jw) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 2:07 |
-| 35 | [Lenda das Sereias, Rainha do Mar \- Ao Vivo](https://open.spotify.com/track/1ymzRzXjkmIgI8K5LQHsfe) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Marisa Monte MM \(Ao Vivo\)](https://open.spotify.com/album/0ClnK9rwAeCZkW5Kda2dzv) | 4:10 |
-| 36 | [Nem Vem Que Não Tem](https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Alegria, Alegria!!!](https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh) | 2:32 |
+| 35 | [Nem Vem Que Não Tem](https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Alegria, Alegria!!!](https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh) | 2:32 |
+| 36 | [Lenda das Sereias, Rainha do Mar \- Ao Vivo](https://open.spotify.com/track/1ymzRzXjkmIgI8K5LQHsfe) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Marisa Monte MM \(Ao Vivo\)](https://open.spotify.com/album/0ClnK9rwAeCZkW5Kda2dzv) | 4:10 |
 | 37 | [Não Vou Ficar](https://open.spotify.com/track/1hMZDDqL6ThRyJQ5rsLiB5) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1971](https://open.spotify.com/album/1crN3RnAw8N6BztzuEAo8A) | 2:52 |
 | 38 | [À Francesa](https://open.spotify.com/track/0wYqEYGKhZHfc92SLHbD4J) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Próxima Parada](https://open.spotify.com/album/15ghaSjLDsOeeXlALfCfrP) | 4:07 |
 | 39 | [Chega](https://open.spotify.com/track/7jitFEr94DKj5laJuQzaK8) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [Chega](https://open.spotify.com/album/6TfxuhBfZuvtrP5Zfx3w8m) | 3:05 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 54 | [Festa de Umbanda](https://open.spotify.com/track/4auEly6WQF3aHdaP6CGqza) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Martinho da Vila](https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB) | 3:54 |
 | 55 | [A Gira](https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Trio Ternura \(Compacto 1973\)](https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8) | 3:03 |
 | 56 | [Brasil Pandeiro](https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:55 |
-| 57 | [Cadê Tereza](https://open.spotify.com/track/2ZM9Ee68hmUuztCIdYVetd) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 3:23 |
+| 57 | [Playsom](https://open.spotify.com/track/3xeqZUMpHsLO1UEoTIwHBO) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Marcio Victor](https://open.spotify.com/artist/3yC2gBgxQcQ4m90ltqAir9) | [Duas Cidades](https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI) | 3:58 |
 | 58 | [Pochete](https://open.spotify.com/track/3VOwZvqUNBLXsvIqxmjFJ2) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Pochete](https://open.spotify.com/album/3WLyLlxq0JJMAeiGPpge1S) | 3:55 |
-| 59 | [Playsom](https://open.spotify.com/track/3xeqZUMpHsLO1UEoTIwHBO) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Marcio Victor](https://open.spotify.com/artist/3yC2gBgxQcQ4m90ltqAir9) | [Duas Cidades](https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI) | 3:58 |
+| 59 | [Cadê Tereza](https://open.spotify.com/track/2ZM9Ee68hmUuztCIdYVetd) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 3:23 |
 | 60 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
 | 61 | [Cabeça de Nêgo](https://open.spotify.com/track/0yhXCGfLaFycBWrgLK5ZpO) | [Instituto](https://open.spotify.com/artist/33xmh99C0KxDvzaPjR178o), [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B) | [Coleção Nacional](https://open.spotify.com/album/3PHCUrJJrQOezPUklD0tpu) | 3:57 |
 | 62 | [Fala Lá Pra Ela](https://open.spotify.com/track/5aTOYS7orRPTlc9DOa2CI6) | [Rosa Neon](https://open.spotify.com/artist/1dZEJGHOEVRro2A3sCKegm), [MGZD](https://open.spotify.com/artist/1cHmaXK1swLBgd3TDo60sh) | [Rosa Neon](https://open.spotify.com/album/3Cp8fCtFU6VIi9lqwsgobL) | 2:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 69 | [Zé Do Caroço](https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Leci Brandão](https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6) | 3:24 |
 | 70 | [A Luz De Tieta \- Live In Brazil / 1998](https://open.spotify.com/track/1XdjKkMcjRxzHQoemRGGuL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Prenda Minha](https://open.spotify.com/album/4HCs1WxdaCTb8S1TlgUG9C) | 4:11 |
 
-Snapshot ID: `MCxkNGZkZTBhOWFkMzdhMjMxMTk3MjY4YTFkYjhhNDBkMTM5OWI3MjAx`
+Snapshot ID: `MCxiZDYzYjNkZDEzMDhkNzUwNDEwN2VjMzUxYWRjZTBjOGQ2ZWQ4ODQx`

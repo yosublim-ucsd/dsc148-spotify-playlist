@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 780621,
+  "2024-02-08": 780631,
   "date_first_scraped": "2022-06-09",
   "description": "",
   "name": "Kilig Pa More",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 287647,
       "name": "Ang Pag-ibig",
       "url": "https://open.spotify.com/track/639Wg7NFfgbwjSwDphqgvz"
@@ -360,7 +360,7 @@
     },
     {
       "album": {
-        "name": "Butterflies",
+        "name": "BUTTERFLIES",
         "url": "https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg"
       },
       "artists": [
@@ -375,9 +375,9 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 191250,
-      "name": "Butterflies",
+      "name": "BUTTERFLIES",
       "url": "https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v"
     },
     {

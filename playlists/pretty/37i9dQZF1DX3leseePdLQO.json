@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Mariangela.",
-  "num_followers": 10107,
+  "num_followers": 10123,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGQ3MjllOGRkN2IxYTc1ZDc1N2JiY2NlNWIzZTFkZjc3MDY2MTM5",
+  "snapshot_id": "MCwzNTY0OTQ4MTE0M2U0ZWVhNmRkYmRkOTE5ZDg0MjY0Yzk1ZmMyOTE5",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -343,6 +343,30 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "LAS BURBUJAS DEL JACUZZI",
+        "url": "https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk"
+      },
+      "artists": [
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+        }
+      ],
+      "duration_ms": 156917,
+      "name": "LAS BURBUJAS DEL JACUZZI",
+      "url": "https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "\u00c1NGEL",
         "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
       },
@@ -355,22 +379,6 @@
       "duration_ms": 187240,
       "name": "Ella",
       "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/7IySKrXiQULxSpJYy9eYgX"
-      },
-      "artists": [
-        {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
-        }
-      ],
-      "duration_ms": 179074,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/5YpDCc4c7XCcJ3Pj9kd7r8"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -407,26 +415,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "LAS BURBUJAS DEL JACUZZI",
-        "url": "https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk"
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/7IySKrXiQULxSpJYy9eYgX"
       },
       "artists": [
         {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Lele Pons",
-          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
         }
       ],
-      "duration_ms": 156917,
-      "name": "LAS BURBUJAS DEL JACUZZI",
-      "url": "https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB"
+      "duration_ms": 179074,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/5YpDCc4c7XCcJ3Pj9kd7r8"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "La Reina",
-        "url": "https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 141890,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "\u00bfY Si Eras T\u00fa?",
         "url": "https://open.spotify.com/album/4oPDRXXH8YgDh5Ywf14NGA"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 169613,
       "name": "\u00bfY Si Eras T\u00fa?",
       "url": "https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "La Reina",
+        "url": "https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 141890,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "NUNCA PASAR\u00c1",
-      "url": "https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 214573,
       "name": "Flores",
       "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "NUNCA PASAR\u00c1",
+      "url": "https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Bayam\u00f3n",
-        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "Bayam\u00f3n",
-      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Alguien M\u00e1s",
         "url": "https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "La Idea",
-        "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
+        "name": "Bayam\u00f3n",
+        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
       },
       "artists": [
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         }
       ],
-      "duration_ms": 194257,
-      "name": "La Idea",
-      "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
+      "duration_ms": 180949,
+      "name": "Bayam\u00f3n",
+      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -979,6 +963,22 @@
       "duration_ms": 193326,
       "name": "Tengo Roto El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/31b58rptcRHxSQbrrQNsRa"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "La Idea",
+        "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 194257,
+      "name": "La Idea",
+      "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Puntos Equidistantes",
-        "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 227375,
-      "name": "Puntos Equidistantes",
-      "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "MILAMORES",
         "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 231796,
       "name": "yo tuya, t\u00fa m\u00edo",
       "url": "https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Puntos Equidistantes",
+        "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 227375,
+      "name": "Puntos Equidistantes",
+      "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Soltando A Pedazos",
-        "url": "https://open.spotify.com/album/5KsQBvqPKCWGC15MCPOaJy"
+        "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
+        "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 164673,
-      "name": "Soltando A Pedazos",
-      "url": "https://open.spotify.com/track/54Hpm4MoCvzmlO6yvD2wj0"
+      "duration_ms": 154920,
+      "name": "Que me quiera",
+      "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
-        "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
+        "name": "Soltando A Pedazos",
+        "url": "https://open.spotify.com/album/5KsQBvqPKCWGC15MCPOaJy"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         }
       ],
-      "duration_ms": 154920,
-      "name": "Que me quiera",
-      "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
+      "duration_ms": 164673,
+      "name": "Soltando A Pedazos",
+      "url": "https://open.spotify.com/track/54Hpm4MoCvzmlO6yvD2wj0"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "HOY ME PORTO MAL",
-        "url": "https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 133051,
-      "name": "HOY ME PORTO MAL",
-      "url": "https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Triste (Arial 1)",
         "url": "https://open.spotify.com/album/6MfUhAGiZ9FizmSn0F8KQj"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 177727,
       "name": "Triste (Arial 1)",
       "url": "https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "HOY ME PORTO MAL",
+        "url": "https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 133051,
+      "name": "HOY ME PORTO MAL",
+      "url": "https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 167485,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "La cuarta hoja (Extended Version)",
         "url": "https://open.spotify.com/album/3nYJDr8s1Jyw4YeZRcScQc"
       },
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 167485,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "La Mitad",
         "url": "https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r"
       },
@@ -1655,6 +1655,22 @@
       "duration_ms": 156027,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Desde Hola",
+        "url": "https://open.spotify.com/album/2YqHcXxyejgWVXRmPoDIXf"
+      },
+      "artists": [
+        {
+          "name": "Maca & Gero",
+          "url": "https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV"
+        }
+      ],
+      "duration_ms": 191862,
+      "name": "Desde Hola",
+      "url": "https://open.spotify.com/track/0oQfmHrqjn3kQM1mlIf3lY"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1675,22 +1691,6 @@
       "duration_ms": 166535,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Desde Hola",
-        "url": "https://open.spotify.com/album/2YqHcXxyejgWVXRmPoDIXf"
-      },
-      "artists": [
-        {
-          "name": "Maca & Gero",
-          "url": "https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV"
-        }
-      ],
-      "duration_ms": 191862,
-      "name": "Desde Hola",
-      "url": "https://open.spotify.com/track/0oQfmHrqjn3kQM1mlIf3lY"
     },
     {
       "added_at": "2024-02-02 05:00:00",

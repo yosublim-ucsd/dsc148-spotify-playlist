@@ -4,7 +4,7 @@
 
 > A dose of high\-energy rock & alt songs for your workout.
 
-286 songs - 15 hr 52 min
+287 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bang Bang](https://open.spotify.com/track/0Z2wvNROelCrTqUM28RLYt) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Bang Bang](https://open.spotify.com/album/2OtrW7q4kpPy7d3zPDeQqg) | 3:25 | 2020-08-20 | 2022-04-20 |
 | [Bang Bang](https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:25 | 2022-06-28 |  |
 | [Battle Scars](https://open.spotify.com/track/4l42ScC0z19ygzbpS4JzGi) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Battle Scars](https://open.spotify.com/album/0SnmtDqaj4eNcdraEEnJ9W) | 2:51 | 2022-10-05 | 2022-12-03 |
+| [Be Legendary](https://open.spotify.com/track/1K48Rz8fb7x6zdJkyVoQoq) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Pop Evil](https://open.spotify.com/album/3qytVWeUzpO3PkxPWurIfY) | 3:23 | 2023-12-15 |  |
 | [Be Legendary](https://open.spotify.com/track/2mVFo8BJ6ZPh82QAOpCUbT) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Pop Evil](https://open.spotify.com/album/2zrUlKeTyEhyYulj8Gu8T9) | 3:23 | 2020-08-20 | 2022-07-29 |
 | [Be Legendary](https://open.spotify.com/track/3pOMQhSSzx6IZ96kMef6i1) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Pop Evil](https://open.spotify.com/album/5F9U13GyT071nXmYf13VI9) | 3:23 | 2022-06-28 | 2023-12-23 |
 | [Beating Heart Baby](https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n) | [Head Automatica](https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i) | [Decadence](https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6) | 3:23 | 2020-08-20 | 2022-04-18 |
@@ -81,7 +82,7 @@
 | [Don't Miss](https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Don't Miss](https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9) | 3:06 | 2022-06-17 | 2022-12-03 |
 | [Don't Miss](https://open.spotify.com/track/4xhJtbV0LEPCHKcDfHnlP5) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Pretty Monster](https://open.spotify.com/album/3UqBWziPrsp5pXDR2cJI2P) | 3:06 | 2023-12-15 | 2023-12-24 |
 | [Don't Miss](https://open.spotify.com/track/1ggbqc7jhg454UpFfSmdam) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Pretty Monster](https://open.spotify.com/album/1ZSM06t6wMNeIaNMXxCuL6) | 3:07 | 2023-12-15 |  |
-| [Down Here Waiting](https://open.spotify.com/track/5yqS1eBrDMx7bbcGilON0N) | [Blue October](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh) | [Down Here Waiting](https://open.spotify.com/album/7JqkfkMLQj4HWrrqhh2CUz) | 3:35 | 2023-09-29 |  |
+| [Down Here Waiting](https://open.spotify.com/track/5yqS1eBrDMx7bbcGilON0N) | [Blue October](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh) | [Down Here Waiting](https://open.spotify.com/album/7JqkfkMLQj4HWrrqhh2CUz) | 3:35 | 2023-09-29 | 2024-02-08 |
 | [Drones](https://open.spotify.com/track/5QNWATWEQiM9S7rsFUu0Ns) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Drones](https://open.spotify.com/album/2ZfElZEiFCJhbXZa1iVEGb) | 2:30 | 2023-04-19 | 2023-05-20 |
 | [Drown](https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:42 | 2020-08-20 | 2022-04-21 |
 | [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-04-19 | 2023-08-18 |

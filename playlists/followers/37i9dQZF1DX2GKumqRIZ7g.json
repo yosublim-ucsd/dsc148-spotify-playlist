@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 800220,
+  "2024-02-08": 800306,
   "date_first_scraped": "2021-12-21",
   "description": "Four to the floor with your disco queens and kings. Cover: Sylvester",
   "name": "Disco Fever",
@@ -968,6 +968,24 @@
     },
     {
       "album": {
+        "name": "Knock on Wood",
+        "url": "https://open.spotify.com/album/72XjR8hsoa0ZDEB9ieDOPD"
+      },
+      "artists": [
+        {
+          "name": "Amii Stewart",
+          "url": "https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249773,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/1vJQzxoByUo0CoiEgAdgDk"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4GmEpUaXxyJ9YhO8pzIa2V"
       },
@@ -979,7 +997,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 250520,
       "name": "Knock On Wood",
       "url": "https://open.spotify.com/track/6120uJUyg6QDzaAJUosTx5"

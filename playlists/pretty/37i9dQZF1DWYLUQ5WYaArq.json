@@ -1,836 +1,832 @@
 {
-  "description": "Let's get together and feel all right with these reggae classics!",
-  "num_followers": 369689,
+  "description": "Uplifting, motivational soul classics to lift your day higher!!",
+  "num_followers": 369717,
   "original_name": "Throwback Thursday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTZmZmJmYWNlMzQzMDA2ZTkxOWUxNzBlOGNkMTE2NTkxM2FmZWY2",
+  "snapshot_id": "MCxhNWU5YjhhMzVlN2UwM2I1Y2VjNTVlMWVkM2RmZjZkYjY4MWQ0NWI5",
   "tracks": [
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Legend - The Best Of Bob Marley And The Wailers",
-        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 172200,
-      "name": "One Love / People Get Ready",
-      "url": "https://open.spotify.com/track/2BSwGHTh4kmckqXQfaCaAp"
+      "duration_ms": 254560,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Studio One Roots",
-        "url": "https://open.spotify.com/album/4XrqSWQAG0rocpVBEPtr5g"
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
       },
       "artists": [
         {
-          "name": "The Gaylads",
-          "url": "https://open.spotify.com/artist/1muKxK8kVO8ZKi8i3ymcpd"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 206546,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/75arUGJtui6nXUNCSrjX2v"
+      "duration_ms": 161160,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Stop That Train!",
-        "url": "https://open.spotify.com/album/6B5wJp7kFC8s0VMilKj7ou"
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
       "artists": [
         {
-          "name": "Keith",
-          "url": "https://open.spotify.com/artist/7hm0Ngouir56yhbzXu9yRH"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Chain of Fools",
+      "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "The Kolab Kollection (Ernie Vincent Presents)",
+        "url": "https://open.spotify.com/album/5gAgVltdwPI0kMwXSMlgrs"
+      },
+      "artists": [
+        {
+          "name": "Ernie and The Top Notes, Inc.",
+          "url": "https://open.spotify.com/artist/0AetmnbULfArJpZ8cEC7Ua"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "Dap Walk",
+      "url": "https://open.spotify.com/track/3SzlfDezJ6evhnzStCRENQ"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "Funkiest Man Alive: The Stax Funk Sessions 1967-1975",
+        "url": "https://open.spotify.com/album/0WEx9floYie1WDNvKAkYwp"
+      },
+      "artists": [
+        {
+          "name": "Rufus Thomas",
+          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
         },
         {
-          "name": "Tex",
-          "url": "https://open.spotify.com/artist/1OFhmPA8VQArSdLb7CVClv"
+          "name": "Andrew Love",
+          "url": "https://open.spotify.com/artist/18G4PUvRdFnyUFzILjw7jR"
         }
       ],
-      "duration_ms": 200386,
-      "name": "Stop That Train",
-      "url": "https://open.spotify.com/track/04ZaKWF8eYEsVhO8mNxvhB"
+      "duration_ms": 192226,
+      "name": "Itch And Scratch - Pt. 1",
+      "url": "https://open.spotify.com/track/20mU5LR2HkcuvUzZpY4rA9"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Who Say Jah No Dread - The Classic Augustus Pablo Sessions",
-        "url": "https://open.spotify.com/album/5F9TlxwaPnpqzaXSOcS9nx"
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc"
       },
       "artists": [
         {
-          "name": "Jacob Miller",
-          "url": "https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio"
+          "name": "Jr. Walker & The All Stars",
+          "url": "https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd"
         }
       ],
-      "duration_ms": 150840,
-      "name": "Baby I Love You So",
-      "url": "https://open.spotify.com/track/2iCshqpZ6LQEOaUj7vQEgc"
+      "duration_ms": 176626,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals",
-        "url": "https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz"
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
       },
       "artists": [
         {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
         }
       ],
-      "duration_ms": 290200,
-      "name": "Funky Kingston",
-      "url": "https://open.spotify.com/track/0bJ4nQojefjNpeuZNkiLrX"
+      "duration_ms": 181640,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Reggae Anthology: Melody Life",
-        "url": "https://open.spotify.com/album/6Np3SiLHAR9QuHTChsEcDd"
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/5cERxgxqQGUNmqEjsaz0B8"
       },
       "artists": [
         {
-          "name": "Marcia Griffiths",
-          "url": "https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM"
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
         }
       ],
-      "duration_ms": 213506,
-      "name": "Feel Like Jumping",
-      "url": "https://open.spotify.com/track/4R8rtLIPQcrjnYvKOlqUON"
+      "duration_ms": 194853,
+      "name": "You Can't Judge A Book By Its Cover",
+      "url": "https://open.spotify.com/track/4HEmPMRG1Mz4pYEpYbWTO0"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Studio One Classics",
-        "url": "https://open.spotify.com/album/5UQhH6shjZrHfaQUDekrZi"
+        "name": "Hot Rocks (1964-1971)",
+        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
       },
       "artists": [
         {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 172266,
-      "name": "Simmer Down",
-      "url": "https://open.spotify.com/track/7nXKUIheOyysKPOISIfvMp"
+      "duration_ms": 175266,
+      "name": "Get Off Of My Cloud - Mono Version",
+      "url": "https://open.spotify.com/track/2I7EpohQiVFfSESd6rf0Lq"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Soul Jazz Records Presents Studio One Showcase: The Sound of Studio One in the 1970S",
-        "url": "https://open.spotify.com/album/0OsKSRFn3bW84sFtCDFG1s"
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
       },
       "artists": [
         {
-          "name": "Horace Andy",
-          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 148266,
-      "name": "See a Man's Face",
-      "url": "https://open.spotify.com/track/4wdLBcy2GEYtZwCDUG6lmB"
+      "duration_ms": 219906,
+      "name": "The Harder They Come",
+      "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "War Ina Babylon (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7xlWX3qBfCI68LjswqlBH6"
+        "name": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
+        "url": "https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i"
       },
       "artists": [
         {
-          "name": "Max Romeo",
-          "url": "https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv"
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/4FqUtvO3kF5FKTWHTqoluu"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "New Gold Hits",
+        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "Sings Top Ten",
+        "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Ruffin",
+          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "What Becomes Of The Brokenhearted",
+      "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "Higher And Higher",
+        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "Sounds Like The Flirtations",
+        "url": "https://open.spotify.com/album/3QHIUb3EHnP3ztcoMJeNKR"
+      },
+      "artists": [
+        {
+          "name": "The Flirtations",
+          "url": "https://open.spotify.com/artist/3Hra0KQr00Pe9oqmQdVtvp"
+        }
+      ],
+      "duration_ms": 164240,
+      "name": "Nothing But A Heartache",
+      "url": "https://open.spotify.com/track/1b63ryTONnLSP14Oytqp6p"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "Think (About It)",
+        "url": "https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE"
+      },
+      "artists": [
+        {
+          "name": "Lyn Collins",
+          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Think (About It)",
+      "url": "https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "Funky Good Time: The Anthology",
+        "url": "https://open.spotify.com/album/2ykVx7x9XaezFnsfIoDmzy"
+      },
+      "artists": [
+        {
+          "name": "The J.B.'s",
+          "url": "https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "The Grunt - Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/0iXNMHbQAgVjoQhJofhBi6"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "Harlem Shuffle",
+        "url": "https://open.spotify.com/album/0dEtQihiIoTlfbHYg2U2Ud"
+      },
+      "artists": [
+        {
+          "name": "Bob & Earl",
+          "url": "https://open.spotify.com/artist/2gOghlWpnfwGGip7S1cMuq"
+        }
+      ],
+      "duration_ms": 174077,
+      "name": "Harlem Shuffle",
+      "url": "https://open.spotify.com/track/0FRgszvBH1I0f1rYwfrGh4"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "Warm And Soulful",
+        "url": "https://open.spotify.com/album/5tU3m1c7UMAN6mCWQJTbyZ"
+      },
+      "artists": [
+        {
+          "name": "Garnet Mimms",
+          "url": "https://open.spotify.com/artist/4ZCIgBrYKaZyj4j1H0Lr4E"
+        }
+      ],
+      "duration_ms": 163466,
+      "name": "As Long As I Have You",
+      "url": "https://open.spotify.com/track/5q0IYWgcjMx1Ri7kapO7by"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "George McCrae - Disco Pioneer",
+        "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "The Best Of One Way",
+        "url": "https://open.spotify.com/album/0onWtFJvX7cHD95w7U2spN"
+      },
+      "artists": [
+        {
+          "name": "Alicia Myers",
+          "url": "https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "I Want To Thank You",
+      "url": "https://open.spotify.com/track/3FMzGbtzi4LRnP6HDCtepW"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Got To Give It Up - Pt. 1",
+      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 291320,
+      "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
+      "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "3+3",
+        "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 334386,
+      "name": "That Lady, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/46pW0poQYEb2bVaqozGO59"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "Soul Jazz Records Presents Studio One Supreme: Maximum 70S and 80S Early Dancehall Sounds",
+        "url": "https://open.spotify.com/album/1HEairyLSpJvSBIqsjlv94"
+      },
+      "artists": [
+        {
+          "name": "Johnny Osbourne",
+          "url": "https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO"
         },
         {
-          "name": "The Upsetters",
-          "url": "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
+          "name": "The Prophets",
+          "url": "https://open.spotify.com/artist/2thuqAAoyAONxlPixxQZDm"
         }
       ],
-      "duration_ms": 206306,
-      "name": "Chase The Devil",
-      "url": "https://open.spotify.com/track/6KGggJ08SRmMuJojRYM4Lv"
+      "duration_ms": 369333,
+      "name": "Keep That Light",
+      "url": "https://open.spotify.com/track/5Mo9Chjt7x7T4eVGNtJtK6"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Police & Thieves",
-        "url": "https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR"
+        "name": "Curtis (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R"
       },
       "artists": [
         {
-          "name": "Junior Murvin",
-          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         }
       ],
-      "duration_ms": 244109,
-      "name": "Police & Thieves",
-      "url": "https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6"
+      "duration_ms": 535333,
+      "name": "Move on Up - Extended Version",
+      "url": "https://open.spotify.com/track/01gDLZsi0j5fWC28FLPNO8"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Gold Collection",
-        "url": "https://open.spotify.com/album/604c8TkJcGMVoZfzyEgyg1"
+        "name": "Funked! : Volume 2 1973-1977",
+        "url": "https://open.spotify.com/album/5uorwHhjLzAiFsw1eL0lMn"
       },
       "artists": [
         {
-          "name": "Lee \"Scratch\" Perry",
-          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+          "name": "Jackson Sisters",
+          "url": "https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ"
         }
       ],
-      "duration_ms": 202053,
-      "name": "Soul Rebel",
-      "url": "https://open.spotify.com/track/5AuwF6nIWOMjElLOfBgjoC"
+      "duration_ms": 290266,
+      "name": "I Believe In Miracles",
+      "url": "https://open.spotify.com/track/3KBMeEwL4FCVCWLzDRY9aF"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Original Ragga Muffin, Pt.1",
-        "url": "https://open.spotify.com/album/5GT7CLKowdpkKRFaiYXfmN"
+        "name": "Tainted Love: The Original Single",
+        "url": "https://open.spotify.com/album/6LCp71FPGO7wdTzkzEe4Cj"
       },
       "artists": [
         {
-          "name": "Barrington Levy",
-          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+          "name": "Gloria Jones",
+          "url": "https://open.spotify.com/artist/08BQmH2M3Ew9XjMHaHsl1l"
         }
       ],
-      "duration_ms": 233160,
-      "name": "Murderer",
-      "url": "https://open.spotify.com/track/4Qmbc7KFWkKvxBz5KjcA6g"
+      "duration_ms": 131160,
+      "name": "Tainted Love - Single Version",
+      "url": "https://open.spotify.com/track/0BbA7S30mOQB94e4IBnqCt"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "I Love Marijuana (Expanded Version)",
-        "url": "https://open.spotify.com/album/5MfR5DsKOSzDxIheWEShBF"
+        "name": "Patti Jo - Extended Play",
+        "url": "https://open.spotify.com/album/3Z2QjdgITtVlOUpvm0beC3"
       },
       "artists": [
         {
-          "name": "Linval Thompson",
-          "url": "https://open.spotify.com/artist/7IURtrIM8SBTlCI9qrAuUQ"
+          "name": "Patti Jo",
+          "url": "https://open.spotify.com/artist/5o16tKkSkYzyEsAIdieNHI"
         }
       ],
-      "duration_ms": 205986,
-      "name": "I Love Marijuana",
-      "url": "https://open.spotify.com/track/7HjXvE0YWZs83IOgk2ttxq"
+      "duration_ms": 399880,
+      "name": "Make Me Believe In You",
+      "url": "https://open.spotify.com/track/3vK8iSaCa5GZO3oenLUyls"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Trojan Classic Jamaican Sounds Since 1968",
-        "url": "https://open.spotify.com/album/2vitRjnvtWLL0Oq840faaE"
+        "name": "Betty Davis",
+        "url": "https://open.spotify.com/album/6fNx8ioP99WoRiLidrqrmz"
       },
       "artists": [
         {
-          "name": "Augustus Pablo",
-          "url": "https://open.spotify.com/artist/5WwEQwX3ruZofwDDqtOXwI"
+          "name": "Betty Davis",
+          "url": "https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn"
         }
       ],
-      "duration_ms": 163973,
-      "name": "East over the River Nile",
-      "url": "https://open.spotify.com/track/7J7WTycM2rIFohRwQJrN4f"
+      "duration_ms": 300720,
+      "name": "If I'm In Luck I Might Get Picked Up",
+      "url": "https://open.spotify.com/track/16gAn2l94SvrbAVgECAK19"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Studio One Roots",
-        "url": "https://open.spotify.com/album/4XrqSWQAG0rocpVBEPtr5g"
+        "name": "Soul Time!",
+        "url": "https://open.spotify.com/album/5YtaynhmCi7bF3A2kvvPZp"
       },
       "artists": [
         {
-          "name": "Alton Ellis",
-          "url": "https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi"
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
         }
       ],
-      "duration_ms": 149506,
-      "name": "Blackish White",
-      "url": "https://open.spotify.com/track/21xAYGqVMxJhG8t0p25ugV"
+      "duration_ms": 238626,
+      "name": "Genuine, Pt. 1",
+      "url": "https://open.spotify.com/track/74zhJspCgmbMzRb5khqpYm"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Dubstrumentals",
-        "url": "https://open.spotify.com/album/4sSONqqneuYPWhCs5uuMoY"
+        "name": "Hot Buttered Soul",
+        "url": "https://open.spotify.com/album/71rxIr6MJYUzDG9ge6Jq3J"
       },
       "artists": [
         {
-          "name": "Lee \"Scratch\" Perry",
-          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+          "name": "Isaac Hayes",
+          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
         }
       ],
-      "duration_ms": 163689,
-      "name": "Kung Fu Man",
-      "url": "https://open.spotify.com/track/6KwSCBU8W2lWEt6tqLNjaE"
+      "duration_ms": 576558,
+      "name": "Hyperbolicsyllabicsesquedalymistic",
+      "url": "https://open.spotify.com/track/3a1hX6ImBUpnmRVKyjY0t2"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Studio One Rockers",
-        "url": "https://open.spotify.com/album/10x1NblWRhzz5QgZ2kth5X"
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
       },
       "artists": [
         {
-          "name": "Horace Andy",
-          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
         }
       ],
-      "duration_ms": 187373,
-      "name": "Skylarking",
-      "url": "https://open.spotify.com/track/5gWfOtADwI4dezyV5mw9SP"
+      "duration_ms": 122040,
+      "name": "Liberation Conversation",
+      "url": "https://open.spotify.com/track/2HfPDk2WomKnYP8hWjiLch"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Night Nurse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx"
+        "name": "Number 1's",
+        "url": "https://open.spotify.com/album/0Vbx3K9AR0cX14FpewF3nk"
       },
       "artists": [
         {
-          "name": "Gregory Isaacs",
-          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "Night Nurse",
-      "url": "https://open.spotify.com/track/4DQttwipnILl88cru3BRZx"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "One Two",
-        "url": "https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e"
-      },
-      "artists": [
-        {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Only Woman D.J. With Degree",
-      "url": "https://open.spotify.com/track/5g7PCls5DNa0CpGchht17L"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "Most Wanted Series - Yellowman",
-        "url": "https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N"
-      },
-      "artists": [
-        {
-          "name": "Yellowman",
-          "url": "https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a"
-        }
-      ],
-      "duration_ms": 387306,
-      "name": "Zungguzungguguzungguzeng",
-      "url": "https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "Ska Jam: The Rude Boy Mixtape",
-        "url": "https://open.spotify.com/album/2Mr8jBQeCqWMTBDMJfoXBk"
-      },
-      "artists": [
-        {
-          "name": "King Tubby",
-          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Zion Gate Dub",
-      "url": "https://open.spotify.com/track/243ucbIZFFKFdIYQhfNNon"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "Heart Of The Congos (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5sveiJoz4KgtQ652M2LNe1"
-      },
-      "artists": [
-        {
-          "name": "The Congos",
-          "url": "https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e"
-        }
-      ],
-      "duration_ms": 365693,
-      "name": "Fisherman",
-      "url": "https://open.spotify.com/track/5SBq56S9xKJoH4KyBBr1Oq"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "Hurt so Good (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/3sIjyL0sj2KfRNgFCpGzCo"
-      },
-      "artists": [
-        {
-          "name": "Susan Cadogan",
-          "url": "https://open.spotify.com/artist/02CDSrcHflWRx5Wj7RMoB3"
-        }
-      ],
-      "duration_ms": 144880,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/67XbgsGVwZTNCxj8XeiLHQ"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "Studio One Rockers",
-        "url": "https://open.spotify.com/album/10x1NblWRhzz5QgZ2kth5X"
-      },
-      "artists": [
-        {
-          "name": "Michigan & Smiley",
-          "url": "https://open.spotify.com/artist/6NnZi2kxrFjkvanwutYgLt"
-        }
-      ],
-      "duration_ms": 358546,
-      "name": "Eye of Danger",
-      "url": "https://open.spotify.com/track/5WGSd2BM58FDWKUfeMck3j"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "Reggae Anthology: Sweet Reggae Music (1979-84)",
-        "url": "https://open.spotify.com/album/55FfXQVWDbB3tEC7L9lvzA"
-      },
-      "artists": [
-        {
-          "name": "Barrington Levy",
-          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "Here I Come",
-      "url": "https://open.spotify.com/track/4abVwdCy5QUcyI3KS2lMJK"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "Action! (Expanded Version)",
-        "url": "https://open.spotify.com/album/6Bz3k5kG4guAbv3lAHMK6u"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dekker & The Aces",
-          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "Fu Man Chu",
-      "url": "https://open.spotify.com/track/5sC836mBGkD9vni59G1YyV"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "People Get Ready",
-        "url": "https://open.spotify.com/album/6xkCmPzyf7SLbvlbPWA3Iw"
-      },
-      "artists": [
-        {
-          "name": "Jackie Mittoo",
-          "url": "https://open.spotify.com/artist/6UTUjmko5raD927Hbx960a"
-        }
-      ],
-      "duration_ms": 204203,
-      "name": "El Bang Bang",
-      "url": "https://open.spotify.com/track/3doiI1kIFSvY8ikUT2VPzz"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "Studio One Classics",
-        "url": "https://open.spotify.com/album/5UQhH6shjZrHfaQUDekrZi"
-      },
-      "artists": [
-        {
-          "name": "The Sound Dimension",
-          "url": "https://open.spotify.com/artist/1FDlPQchKbklKRvBewzyuE"
-        }
-      ],
-      "duration_ms": 145853,
-      "name": "Rockfort Rock",
-      "url": "https://open.spotify.com/track/0DcqueqAbcgQUGdEnNfzWh"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "Studio One Rockers",
-        "url": "https://open.spotify.com/album/10x1NblWRhzz5QgZ2kth5X"
-      },
-      "artists": [
-        {
-          "name": "The Sound Dimension",
-          "url": "https://open.spotify.com/artist/1FDlPQchKbklKRvBewzyuE"
-        }
-      ],
-      "duration_ms": 151133,
-      "name": "Real Rock",
-      "url": "https://open.spotify.com/track/54AY2JHmOw3fIandjT57cL"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "54-46 Was My Number",
-      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "One Two",
-        "url": "https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e"
-      },
-      "artists": [
-        {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/7ixiCZEHWHc8FxaQXQh2P4"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "Listen Up! DJ Style",
-        "url": "https://open.spotify.com/album/5MQPYoSMedXP8wp0C2Rba3"
-      },
-      "artists": [
-        {
-          "name": "Dennis Alcapone",
-          "url": "https://open.spotify.com/artist/3Ko5w2NYcaqtAtvDrJMdw5"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "Cassius Clay",
-      "url": "https://open.spotify.com/track/17s0kfx2WB6TLpOFSB3Nbo"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "The Treasure Isle Story",
-        "url": "https://open.spotify.com/album/3fLSCXfvYJinKB97WYAtVz"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Dillon",
-          "url": "https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh"
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
         },
         {
-          "name": "The Tommy McCook Band",
-          "url": "https://open.spotify.com/artist/1CRP6GIsX8uCeJZk5Y7VJy"
+          "name": "The J.B.'s",
+          "url": "https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di"
         }
       ],
-      "duration_ms": 201293,
-      "name": "Woman of the Ghetto (Original Mix)",
-      "url": "https://open.spotify.com/track/2YMe7bkCCHBwaYNrmYeqfb"
+      "duration_ms": 300613,
+      "name": "Super Bad - Pts.1 & 2",
+      "url": "https://open.spotify.com/track/2jIFIbnVHG2MjIwWd6X4e4"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Studio One Soul",
-        "url": "https://open.spotify.com/album/2Yh1SSARsrgfJrZtDxrDQd"
+        "name": "What'd I Say",
+        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
       },
       "artists": [
         {
-          "name": "The Eternals",
-          "url": "https://open.spotify.com/artist/5jsVhO3DpgsRGKrdYoNro3"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 204653,
-      "name": "Queen of the Minstrels",
-      "url": "https://open.spotify.com/track/55FJ1XKQoydB7mJvYzI4ZA"
+      "duration_ms": 307053,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "The Loser / Now We Know",
-        "url": "https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv"
+        "name": "In Philadelphia",
+        "url": "https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase"
       },
       "artists": [
         {
-          "name": "Derrick Harriott",
-          "url": "https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d"
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 218653,
-      "name": "The Loser",
-      "url": "https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu"
+      "duration_ms": 171600,
+      "name": "Engine Number 9 - Single Version",
+      "url": "https://open.spotify.com/track/0Q0E6Xe8OvefYLYfVPfRhs"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Trojan Classic Jamaican Sounds Since 1968",
-        "url": "https://open.spotify.com/album/2vitRjnvtWLL0Oq840faaE"
+        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
+        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
       },
       "artists": [
         {
-          "name": "Johnny Clarke",
-          "url": "https://open.spotify.com/artist/5La4baU6Q4hL2TkVoDEQNa"
+          "name": "Linda Lyndell",
+          "url": "https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ"
         }
       ],
-      "duration_ms": 187640,
-      "name": "None Shall Escape the Judgement",
-      "url": "https://open.spotify.com/track/2TFSJCO6ZxtSz626gDwp7G"
+      "duration_ms": 160373,
+      "name": "What A Man",
+      "url": "https://open.spotify.com/track/7dwJqwTXDtsrX1QLqb0o96"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Just Dennis",
-        "url": "https://open.spotify.com/album/6BUicVlIPsGup2CkDO74I5"
+        "name": "Victim of Love",
+        "url": "https://open.spotify.com/album/6YAwLAs71WJtwUp7LEdWIk"
       },
       "artists": [
         {
-          "name": "Dennis Brown",
-          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
-        }
-      ],
-      "duration_ms": 182840,
-      "name": "Westbound Train",
-      "url": "https://open.spotify.com/track/5d1wJvtvEOKt5lsk69QknD"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "Studio One Roots Vol. 3",
-        "url": "https://open.spotify.com/album/7F57IBpm9stUNTnn1fEOgH"
-      },
-      "artists": [
-        {
-          "name": "Freddie McKay",
-          "url": "https://open.spotify.com/artist/6BI5BLDBy5dY19EI2cw1P1"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "(I'm) a Free Man",
-      "url": "https://open.spotify.com/track/7AyTm1j8Cv7k9EA0GzpP4D"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "One Life to Live (Expanded Version)",
-        "url": "https://open.spotify.com/album/60BHEQHVN6213VZndkiI4Q"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Dillon",
-          "url": "https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh"
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
         },
         {
-          "name": "Tommy McCook",
-          "url": "https://open.spotify.com/artist/27CnIh4lLIOW2DqEwO1QIf"
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 222370,
+      "name": "Strictly Reserved for You",
+      "url": "https://open.spotify.com/track/0QM3kYculSR2QjtXnysN1Z"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "Nolan",
+        "url": "https://open.spotify.com/album/1Bi02TLjn4ONPqXTM6r9eu"
+      },
+      "artists": [
+        {
+          "name": "Nolan Porter",
+          "url": "https://open.spotify.com/artist/7H2X4y4sB4EnP593GbQi66"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "If I Could Only Be Sure",
+      "url": "https://open.spotify.com/track/3X9MzewfAXyBbdPuWQDJUa"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "I'm Still in Love with You",
+        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 307062,
+      "name": "Love and Happiness",
+      "url": "https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel"
+    },
+    {
+      "added_at": "2024-02-07 13:00:00",
+      "album": {
+        "name": "Expansions",
+        "url": "https://open.spotify.com/album/7p96a8I3q2MRN5Ely3WiVm"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Liston Smith",
+          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
         },
         {
-          "name": "The Supersonics",
-          "url": "https://open.spotify.com/artist/3FtuTq3oY78SW4vaK7FhDt"
+          "name": "The Cosmic Echoes",
+          "url": "https://open.spotify.com/artist/1FoHP9nats6BdxFSE3b1sb"
         }
       ],
-      "duration_ms": 153786,
-      "name": "Don't Stay Away",
-      "url": "https://open.spotify.com/track/1ZVPLwKRtfenddrUxoc7eN"
+      "duration_ms": 366866,
+      "name": "Expansions",
+      "url": "https://open.spotify.com/track/1DoWUjcc5sqpRioFPioogU"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Take It Easy",
-        "url": "https://open.spotify.com/album/0df5wnsgG6FBXXmq4DXe1h"
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9"
       },
       "artists": [
         {
-          "name": "Hopeton Lewis",
-          "url": "https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb"
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
         }
       ],
-      "duration_ms": 199266,
-      "name": "Sound and Pressure",
-      "url": "https://open.spotify.com/track/0gOB0LAnmJK0IzPudWzi2p"
+      "duration_ms": 344546,
+      "name": "Keep the Fire Burning",
+      "url": "https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Reggae Rehab",
-        "url": "https://open.spotify.com/album/22uK2XxwjgYsz3ynV8nmNo"
+        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
+        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
       },
       "artists": [
         {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 232413,
-      "name": "Love Me Forever",
-      "url": "https://open.spotify.com/track/4V8dCI2x3nlh6zVn4dZQZz"
+      "duration_ms": 280853,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Super Best",
-        "url": "https://open.spotify.com/album/3VnEuGyLzYQGAsu8evseOh"
+        "name": "Cheryl Lynn (Expanded Edition)",
+        "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
       },
       "artists": [
         {
-          "name": "The Abyssinians",
-          "url": "https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj"
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
         }
       ],
-      "duration_ms": 221588,
-      "name": "Satta - Amassa - Gana",
-      "url": "https://open.spotify.com/track/5CN9FRHqEO9xE3rw8Ze65l"
+      "duration_ms": 307946,
+      "name": "Got to Be Real",
+      "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Return of Django: The Best of The Upsetters",
-        "url": "https://open.spotify.com/album/4excJRgW0xoszSrYzUYmw9"
+        "name": "Jump to It (Expanded Edition)",
+        "url": "https://open.spotify.com/album/10uiEA15LdTEsjO1xJZVt4"
       },
       "artists": [
         {
-          "name": "Lee \"Scratch\" Perry",
-          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
-        },
-        {
-          "name": "The Upsetters",
-          "url": "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 205373,
-      "name": "Jungle Lion",
-      "url": "https://open.spotify.com/track/14gaVjP0N8emTolIPgz8rx"
+      "duration_ms": 289920,
+      "name": "(It's Just) Your Love",
+      "url": "https://open.spotify.com/track/1Q3VVXz8jP1AQ9YiHlVmfW"
     },
     {
-      "added_at": "2024-01-31 13:00:00",
+      "added_at": "2024-02-07 13:00:00",
       "album": {
-        "name": "Wa-Do-Dem",
-        "url": "https://open.spotify.com/album/2fGzC6ZvAqmpBr8dprAQTT"
+        "name": "Don't Play That Song (Mono)",
+        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
       },
       "artists": [
         {
-          "name": "Eek-A-Mouse",
-          "url": "https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho"
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
         }
       ],
-      "duration_ms": 235373,
-      "name": "Wa-Do-Dem",
-      "url": "https://open.spotify.com/track/7578oiL9J6tFHXEjfCXFAS"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "Police In Helicopter",
-        "url": "https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq"
-      },
-      "artists": [
-        {
-          "name": "John Holt",
-          "url": "https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "Police In Helicopter",
-      "url": "https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "The Prophet Rides Again",
-        "url": "https://open.spotify.com/album/0euXnypMOS0zRWyAKSQkE4"
-      },
-      "artists": [
-        {
-          "name": "Dennis Brown",
-          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
-        }
-      ],
-      "duration_ms": 240226,
-      "name": "The Prophet Rides Again",
-      "url": "https://open.spotify.com/track/11Gpn7aR19rBCqZCItz8hc"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "I Man A The Stal-A-Watt",
-        "url": "https://open.spotify.com/album/5KZXRIpGrnAx8qyMov5kv2"
-      },
-      "artists": [
-        {
-          "name": "Cornell Campbell",
-          "url": "https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi"
-        }
-      ],
-      "duration_ms": 250640,
-      "name": "Boxing Around",
-      "url": "https://open.spotify.com/track/6daWr2SGJsqllzqbWjBUhb"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "Soul Jazz Records Presents: Life Between Islands - Soundsystem Culture: Black Musical Expression in the UK 1973-2006",
-        "url": "https://open.spotify.com/album/06Pr9fSXw0iwGkSmUBqJ95"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hartley",
-          "url": "https://open.spotify.com/artist/4uDyFjcptw86vFmi7WIJ8D"
-        }
-      ],
-      "duration_ms": 204426,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/6PgajdbYWkgnGWpJGOHJnY"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "Uptown Top Ranking",
-        "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
-      },
-      "artists": [
-        {
-          "name": "Althea And Donna",
-          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Uptown Top Ranking - Remastered 2001",
-      "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
-    },
-    {
-      "added_at": "2024-01-31 13:00:00",
-      "album": {
-        "name": "Mister Yellowman",
-        "url": "https://open.spotify.com/album/1ub0O2c6o8TFplwF01SADt"
-      },
-      "artists": [
-        {
-          "name": "Yellowman",
-          "url": "https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a"
-        }
-      ],
-      "duration_ms": 310733,
-      "name": "Lost Mi Love",
-      "url": "https://open.spotify.com/track/5dvG16Ma80h9FZ1sQq5Sb1"
+      "duration_ms": 180055,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     }
   ],
   "unique_name": "Throwback Thursday AU & NZ",

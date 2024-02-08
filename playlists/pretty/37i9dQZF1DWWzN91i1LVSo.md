@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzN91i1LVSo.md) - [plain]
 
 > a fresh & mellow mix from some of today's best singer\-songwriters\. Cover: Bre Kennedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,086 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,093 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzN91i1LVSo.md) - [plain]
 | 26 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
 | 27 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W) | 3:39 |
 | 28 | [If You Ever Wanna Be In Love \- James Bay Spotify Session 2015](https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 3:56 |
-| 29 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
+| 29 | [South Dakota](https://open.spotify.com/track/3wxqXbquEp4LsURWXWgAcm) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [South Dakota](https://open.spotify.com/album/0DWGKx6P8SrWT1wHH1Yamj) | 2:58 |
 | 30 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
-| 31 | [South Dakota](https://open.spotify.com/track/3wxqXbquEp4LsURWXWgAcm) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [South Dakota](https://open.spotify.com/album/0DWGKx6P8SrWT1wHH1Yamj) | 2:58 |
+| 31 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
 | 32 | [Hold You in My Arms](https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 5:06 |
 | 33 | [You Sigh](https://open.spotify.com/track/38vsMOGABG97FQGRN2Yc4z) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ) | 2:58 |
 | 34 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 |
@@ -70,16 +70,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzN91i1LVSo.md) - [plain]
 | 60 | [Hurts Like Hell](https://open.spotify.com/track/6UkIfamz0vrnlCpWlAfs1T) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Hurts Like Hell](https://open.spotify.com/album/2u7qCdSsazhl9PXlXPCQ5k) | 2:43 |
 | 61 | [Lay Down](https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:48 |
 | 62 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
-| 63 | [Light \- Edit](https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Light \(Edit\)](https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz) | 3:05 |
-| 64 | [Hollow \- Acoustic](https://open.spotify.com/track/2K4uwGeeT2AmZgAgdxdDNM) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Volume I](https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84) | 3:56 |
+| 63 | [Hollow \- Acoustic](https://open.spotify.com/track/2K4uwGeeT2AmZgAgdxdDNM) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Volume I](https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84) | 3:56 |
+| 64 | [Light \- Edit](https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Light \(Edit\)](https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz) | 3:05 |
 | 65 | [willow](https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [willow](https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv) | 3:32 |
 | 66 | [Every Beginning Ends](https://open.spotify.com/track/4iAjjXGCKNQCtFklN48w7n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 2:30 |
 | 67 | [Ol' Sweet Day](https://open.spotify.com/track/3wXHHCV4A7KsoTlHZWVZPd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/1jRDpK2VoR7Pxi1LsK4JhM) | 2:58 |
 | 68 | [Haunted House](https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 2:13 |
 | 69 | [Too Much To Ask \- Acoustic](https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Too Much To Ask \(Acoustic\)](https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up) | 3:41 |
 | 70 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
-| 71 | [Morning Breeze](https://open.spotify.com/track/7iM7I3dbNQGC5xkxJMWwrv) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [GREY](https://open.spotify.com/album/4XsAw2dh8SAGjCSrdTpWiI) | 3:14 |
-| 72 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 |
+| 71 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 |
+| 72 | [Morning Breeze](https://open.spotify.com/track/7iM7I3dbNQGC5xkxJMWwrv) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [GREY](https://open.spotify.com/album/4XsAw2dh8SAGjCSrdTpWiI) | 3:14 |
 | 73 | [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 |
 | 74 | [False Art](https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [False Art](https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ) | 3:03 |
 | 75 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzN91i1LVSo.md) - [plain]
 | 99 | [Guiding Light](https://open.spotify.com/track/1rwFqSVH8k9ovPHgAxThkN) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Joy of Nothing](https://open.spotify.com/album/2NvXp1Yq7mslZYfZiRmGUq) | 5:52 |
 | 100 | [Colors](https://open.spotify.com/track/4Zarrcq9Ir58UaMp9n3mbC) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi) | 3:11 |
 
-Snapshot ID: `MCxmZjYyOTcxZjI5MGZhMGUxN2RmMmI5YTZmMWQzMjQ4ZTliNDYzNDE0`
+Snapshot ID: `MCwyN2Y5YjFlMzlmNGMxMzE3NDMwZTg5MjkzMDllNjZlZTExMDQ3ZjA5`

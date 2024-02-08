@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,876 likes - 110 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,901 likes - 110 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 47 | [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 |
 | 48 | [Canelo](https://open.spotify.com/track/1eaX4YyBMZCHMqz5kZvzBh) | [Arre](https://open.spotify.com/artist/0zthfMGI89IDEklrlkytLP) | [Canelo](https://open.spotify.com/album/7mDGaAs9Lg1gIRvAnbfkA3) | 2:03 |
 | 49 | [Kongo \(Hanî´s Remix\)](https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM), [HANÎ](https://open.spotify.com/artist/1M56F5uqrk6uA42Gmy6Vqv) | [Kongo \(Hanî 's Remix\)](https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119) | 3:53 |
-| 50 | [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
+| 50 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 |
 | 51 | [Somebody New](https://open.spotify.com/track/6Se74aLQWLjOsVvg5GRQY7) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Somebody New](https://open.spotify.com/album/59PAAx06alV3da3WBAO1NK) | 2:23 |
 | 52 | [Gapa](https://open.spotify.com/track/6wdTLDD3oGOPjiPBXZD1qd) | [Sibille Attar](https://open.spotify.com/artist/4hCWXPfrkKQKDVVbRUmkTq), [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [Gapa](https://open.spotify.com/album/021910kkj1wghGMxCtXZKL) | 4:04 |
 | 53 | [Bambino](https://open.spotify.com/track/4DPcqZwNBBibhY2ZgXAmor) | [ISON](https://open.spotify.com/artist/7zJdWmVoGsqxaEl09XOvM5), [Daniel Boyacioglu](https://open.spotify.com/artist/6PRMHJ2Hs5eDWycajrl7fd), [Sarianna Cortes](https://open.spotify.com/artist/2PkGoqN8scDgpbUp5SBujK) | [Bambino](https://open.spotify.com/album/68FD3mw28AXAUc6NbD0UGk) | 3:17 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 74 | [Det här ska dom få fa\-an för \- Från filmen "Håkan Bråkan 2"](https://open.spotify.com/track/2oBc1QrxsWLSQ6rPekjb2T) | [EMIL HENROHN](https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH) | [Det här ska dom få fa\-an för \(Från filmen "Håkan Bråkan 2"\)](https://open.spotify.com/album/6kW6gQlPBa53JAczZVaU8O) | 2:55 |
 | 75 | [Turn the Lights Back On](https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turn the Lights Back On](https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC) | 3:58 |
 | 76 | [Beautiful Lie](https://open.spotify.com/track/6eibOwTf1aqlGP9rLA9cSz) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Beautiful Lie](https://open.spotify.com/album/5xiUKbfmVqDq5JGM7qVs8F) | 3:18 |
-| 77 | [Die For Me](https://open.spotify.com/track/67gYpZ9Kl4EwuQa3hZX6wR) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me](https://open.spotify.com/album/5Spe5tAY7QIn04uSBiGYt9) | 2:43 |
+| 77 | [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/track/5YUsCI2mTieO4KJbLeQFR7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/album/21QcWrXk821IkKiL73BZre) | 2:43 |
 | 78 | [John Wick](https://open.spotify.com/track/79CTVnuKWoTXIRsSCjRNdK) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [ANAS](https://open.spotify.com/artist/1Y7jfSPXXcyy9H14XP3gA3) | [John Wick](https://open.spotify.com/album/23srw9mQbsHccC22qbBX4A) | 2:52 |
 | 79 | [Up](https://open.spotify.com/track/6ZrbI3uvVlOIaWwYlk1hzT) | [Jonah Blacksmith](https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr) | [Up](https://open.spotify.com/album/5JxzpQfA3kybgIjej7GMzd) | 3:34 |
 | 80 | [Hoping for Good Days](https://open.spotify.com/track/6KVX0kcgvNdbf1jipiYZAk) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Hoping for Good Days](https://open.spotify.com/album/2O4P1jZ2gNmaTsGKGQJH1q) | 3:23 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 109 | [Gold Rush \- Primum Mobile Mix](https://open.spotify.com/track/5dAtzYqP0L1WKwrBmM4xhv) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Absolute Music 2/5](https://open.spotify.com/album/25bS2Xce1Dsjl2yaewiRhP) | 4:09 |
 | 110 | [Wiggle It \(feat\. Mura Masa & Big Freedia\)](https://open.spotify.com/track/2bBphkvCo6Z0xhvnJhpgva) | [Good Morning Kevin](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Wiggle It \(feat\. Mura Masa & Big Freedia\)](https://open.spotify.com/album/0CEB3BMVJolbpLymxvXWDE) | 1:13 |
 
-Snapshot ID: `MCxkMjc3OWQ3NmY3YThhMzQwZmJjOWIwZmQ4NjQwZTRlNWVjMWI3Y2Zj`
+Snapshot ID: `MCxjYmYyY2ExM2ExNGYzZTFjY2JjMTg5MzdjYjAxYjBmZjRmZjNhMDBj`

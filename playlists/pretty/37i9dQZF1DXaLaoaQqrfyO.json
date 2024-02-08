@@ -1,12 +1,12 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 343276,
+  "num_followers": 343307,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjJkOWM1MDk2MjZkZDE4MTZlZmQxOTY0ZDk0ZTQ5NWYzMDUzNWNk",
+  "snapshot_id": "MCw2MTA0YWI2ZmQxYWE4YjJhNjU4Yzc0ODJhYjVlM2Y4ZWY0MDM1YjY4",
   "tracks": [
     {
       "added_at": "2021-03-15 19:25:13",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
-        "name": "Goodie Bag",
-        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 146390,
-      "name": "Goodie Bag",
-      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
-    },
-    {
       "added_at": "2022-07-07 04:00:00",
       "album": {
         "name": "BALLADS 1",
@@ -403,18 +387,34 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+        "name": "Goodie Bag",
+        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
       },
       "artists": [
         {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 191706,
-      "name": "What You Know",
-      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
+      "duration_ms": 146390,
+      "name": "Goodie Bag",
+      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "More Than Just a Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Out of My League",
+      "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -435,18 +435,18 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "More Than Just a Dream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
       "artists": [
         {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
         }
       ],
-      "duration_ms": 209386,
-      "name": "Out of My League",
-      "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
+      "duration_ms": 191706,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
     },
     {
       "added_at": "2021-06-09 20:21:58",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Bombs Away",
-        "url": "https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt"
-      },
-      "artists": [
-        {
-          "name": "Sheppard",
-          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
-        }
-      ],
-      "duration_ms": 218227,
-      "name": "Geronimo",
-      "url": "https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Muchacho",
         "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 195501,
       "name": "Narcissist (feat. The 1975)",
       "url": "https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt"
+      },
+      "artists": [
+        {
+          "name": "Sheppard",
+          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
+        }
+      ],
+      "duration_ms": 218227,
+      "name": "Geronimo",
+      "url": "https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh"
     },
     {
       "added_at": "2022-07-07 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Ritual Union",
-        "url": "https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Ritual Union",
-      "url": "https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Violet Street",
         "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 264213,
       "name": "When Am I Gonna Lose You",
       "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Ritual Union",
+        "url": "https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Ritual Union",
+      "url": "https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Glitterbug (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
+        "name": "Coast Modern",
+        "url": "https://open.spotify.com/album/7oU1JaPIxWfpCFyvIZyiZL"
       },
       "artists": [
         {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
         }
       ],
-      "duration_ms": 209557,
-      "name": "Greek Tragedy",
-      "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
+      "duration_ms": 204066,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/1bHEcHv3lUkLFAebNnaPNE"
     }
   ],
   "unique_name": " Indie Pop 2010s",

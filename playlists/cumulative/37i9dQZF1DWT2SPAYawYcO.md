@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Tones And I
 
-2,845 songs - 6 day 9 hr 44 min
+2,846 songs - 6 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,7 +533,8 @@
 | [Crazier Idea](https://open.spotify.com/track/6fFXp6l07S3w5f00lbhHOW) | [Kirin J Callinan](https://open.spotify.com/artist/16y7sGO0GJMVHDFgj9MNcd) | [Crazier Idea](https://open.spotify.com/album/7eZmrMGOjbqfvaZlybpUMX) | 3:48 | 2023-11-30 | 2023-12-08 |
 | [creep](https://open.spotify.com/track/4k62Ti1VDL96ZXmx92Nwwg) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL) | [creep](https://open.spotify.com/album/2gNucWMAoI8JwJFk5067WZ) | 1:56 | 2023-07-13 | 2023-07-21 |
 | [Crowded Roomz](https://open.spotify.com/track/2bnatDQSIhiZBVfVUT0PUe) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Crowded Roomz](https://open.spotify.com/album/6noU224rd5kmYt0KPBhtgG) | 2:52 | 2024-01-18 | 2024-01-26 |
-| [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 | 2024-02-01 |  |
+| [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 | 2024-02-01 |  |
+| [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 | 2024-02-01 | 2024-02-08 |
 | [Crush](https://open.spotify.com/track/00Apys6jYrWA0Bse9Yon6O) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Crush](https://open.spotify.com/album/4zhSWdHOuYGS7EoJiY6PaE) | 2:55 | 2023-09-14 | 2023-09-22 |
 | [Cry](https://open.spotify.com/track/2HhhhHfVEmz09NAb0FxgDW) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Cry](https://open.spotify.com/album/5qEGkaG2wMcn787eEwGkhK) | 3:50 | 2023-11-16 | 2023-11-24 |
 | [Crying](https://open.spotify.com/track/6cULQ6f1tD2nG2hE91YA7R) | [Busby Marou](https://open.spotify.com/artist/4ETXyV9H1p2P1XYgXXTjiO) | [Blood Red](https://open.spotify.com/album/5Zt3LSzqVeWLlpvI13BDgn) | 3:52 | 2023-07-20 | 2023-07-28 |

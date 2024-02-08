@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,414,941 likes - 85 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,415,609 likes - 85 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 41 | [Reborn](https://open.spotify.com/track/3jHwfPbqqMBRABSbqbWhlf) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Reborn](https://open.spotify.com/album/0c8uRnt3eEMJWxDotxoK8G) | 4:30 |
 | 42 | [Sesame](https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Sesame](https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH) | 3:32 |
 | 43 | [らぶじゅてーむ](https://open.spotify.com/track/2NSp2dpqGXBJYTuYccld5G) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [らぶじゅてーむ](https://open.spotify.com/album/2TsUpJ4YDzsX9hBLllwMCa) | 3:15 |
-| 44 | [カラフル×ジョイフル](https://open.spotify.com/track/1HzV8DmJy8E66O5bCJUjpQ) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [ふわふわpartyつられてhappy](https://open.spotify.com/album/4zYaoPWnZ4UbOj6XweJI2d) | 3:02 |
+| 44 | [Colorful Joyful](https://open.spotify.com/track/3YfjyBGY6GJB4k8bxVdRZ8) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [Fluffy Party, Everybody Happy](https://open.spotify.com/album/0ru36PiVV8UscuV54FliZo) | 3:02 |
 | 45 | [Cure](https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB) | [waterweed](https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ) | [Cure](https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg) | 2:50 |
 | 46 | [Arc of The Ashes](https://open.spotify.com/track/6Ck5eIzNJx0N4jSsC9J99A) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Arc of The Ashes](https://open.spotify.com/album/4b4RsRfyB4sQPigec5YLEa) | 4:04 |
 | 47 | [衝天](https://open.spotify.com/track/2q8MqgPevufTYXjFamHIuw) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [衝天](https://open.spotify.com/album/42tl64WVINS2Gj6bHBMMIc) | 4:17 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [MISSION](https://open.spotify.com/track/4nhIjg2wDZpbZWb6J2X3FW) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [MISSION](https://open.spotify.com/album/1rUpgKR4NnFImLnAvglIHl) | 3:22 |
 | 85 | [Otowa](https://open.spotify.com/track/1zSDvAdbpQoSuVJ9jLHGJD) | [太陽と踊れ月夜に唄え](https://open.spotify.com/artist/6FD9cAv3nEw3sK6mSmIAjV) | [Otowa](https://open.spotify.com/album/2nYVX9H4mPqz2a8A9efxzW) | 3:56 |
 
-Snapshot ID: `MCw1NjljMmI0NTFmZGMyMmY5Zjg1ZjI5YTVkNzQ2MmRmNjMxNDQ2ZTMz`
+Snapshot ID: `MCxhMjljM2QzYTIwMTZiZTczN2ZiOWM2MzgzN2ZiMGMwNTU3YWU4NmY0`

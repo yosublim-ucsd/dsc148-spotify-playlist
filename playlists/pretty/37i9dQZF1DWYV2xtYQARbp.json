@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 14735,
+  "num_followers": 14739,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmQyZjc0YjM1YWU1ZjYyNzY5Zjk2Y2NkOWMyOTZmZTllMTBkZTNm",
+  "snapshot_id": "MCwwNjQzYjZjOGUzZDE4NGZjZWIyMDVkOTY3NjRiYTZhNmMzY2U4OWY3",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Junkyard",
-        "url": "https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV"
-      },
-      "artists": [
-        {
-          "name": "The Birthday Party",
-          "url": "https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4"
-        }
-      ],
-      "duration_ms": 151733,
-      "name": "Release The Bats",
-      "url": "https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Midnight Soul Serenade",
         "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 177546,
       "name": "Good Man",
       "url": "https://open.spotify.com/track/0waxvHiyOCqyR40SRPPaHx"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Junkyard",
+        "url": "https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV"
+      },
+      "artists": [
+        {
+          "name": "The Birthday Party",
+          "url": "https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4"
+        }
+      ],
+      "duration_ms": 151733,
+      "name": "Release The Bats",
+      "url": "https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Ode To Joy",
-        "url": "https://open.spotify.com/album/6Y2hYsUm2r7B4Ugbs105XM"
-      },
-      "artists": [
-        {
-          "name": "The Deadly Snakes",
-          "url": "https://open.spotify.com/artist/6eIBsOv2XYFA8R7tAkNnS0"
-        }
-      ],
-      "duration_ms": 167506,
-      "name": "Playboys",
-      "url": "https://open.spotify.com/track/4hGX78tAyrI9srdacmlOss"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "The King Khan & Bbq Show",
         "url": "https://open.spotify.com/album/6Ap1PVkQ93MHggcPjQ0vuE"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 170520,
       "name": "Fishfight",
       "url": "https://open.spotify.com/track/777LjHoW3blYhduQVUrCPk"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Ode To Joy",
+        "url": "https://open.spotify.com/album/6Y2hYsUm2r7B4Ugbs105XM"
+      },
+      "artists": [
+        {
+          "name": "The Deadly Snakes",
+          "url": "https://open.spotify.com/artist/6eIBsOv2XYFA8R7tAkNnS0"
+        }
+      ],
+      "duration_ms": 167506,
+      "name": "Playboys",
+      "url": "https://open.spotify.com/track/4hGX78tAyrI9srdacmlOss"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Ultraglide In Black",
-        "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
-      },
-      "artists": [
-        {
-          "name": "The Dirtbombs",
-          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Too Much Guitar",
         "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 177200,
       "name": "When You Touch Me",
       "url": "https://open.spotify.com/track/6QfyJdy9eO3WiAL65VQP8D"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Ultraglide In Black",
+        "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
+      },
+      "artists": [
+        {
+          "name": "The Dirtbombs",
+          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "The Kids Are All Square - This Is Hip & Girlsville",
-        "url": "https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ"
-      },
-      "artists": [
-        {
-          "name": "Thee Headcoatees",
-          "url": "https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif"
-        }
-      ],
-      "duration_ms": 145400,
-      "name": "Round Every Corner",
-      "url": "https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "You, The Night\u2026 and The Music",
         "url": "https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 235600,
       "name": "Just One More",
       "url": "https://open.spotify.com/track/4rkGGnL3BM7t6JEsb2cw5G"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "The Kids Are All Square - This Is Hip & Girlsville",
+        "url": "https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ"
+      },
+      "artists": [
+        {
+          "name": "Thee Headcoatees",
+          "url": "https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif"
+        }
+      ],
+      "duration_ms": 145400,
+      "name": "Round Every Corner",
+      "url": "https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna"
     },
     {
       "added_at": "2022-03-28 20:14:58",

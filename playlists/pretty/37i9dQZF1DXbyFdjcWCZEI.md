@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 
 > Viento en la cara, pies en el agua y canciones tranqui para disfrutar del paseo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,696 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,728 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 | 20 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Los Días en la Sala](https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45) | 2:43 |
 | 21 | [Ganas](https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:14 |
 | 22 | [Canción de Amor](https://open.spotify.com/track/3o0XX8BPjhtt1w9rOXhmyN) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Azules Turquesas](https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd) | 3:03 |
-| 23 | [A Primera Vista](https://open.spotify.com/track/0vLTOf24syMlJDuaWZfihc) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Mil Noches y un Instante](https://open.spotify.com/album/1kt07hQEw33OnXo80aFMgu) | 3:28 |
-| 24 | [Desaprender](https://open.spotify.com/track/5CGzoPhT2u7P1yHge1f4iJ) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Mundo Debajo del Mundo](https://open.spotify.com/album/5p3JWd7zmX6D1UQdtPtveJ) | 2:56 |
+| 23 | [Desaprender](https://open.spotify.com/track/5CGzoPhT2u7P1yHge1f4iJ) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Mundo Debajo del Mundo](https://open.spotify.com/album/5p3JWd7zmX6D1UQdtPtveJ) | 2:56 |
+| 24 | [A Primera Vista](https://open.spotify.com/track/0vLTOf24syMlJDuaWZfihc) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Mil Noches y un Instante](https://open.spotify.com/album/1kt07hQEw33OnXo80aFMgu) | 3:28 |
 | 25 | [La Última Lágrima](https://open.spotify.com/track/0cHVi2rirbT62DlX3uabke) | [Memphis La Blusera](https://open.spotify.com/artist/55j4xUfI5AATqETp8AnrRp) | [El Acustico](https://open.spotify.com/album/2SIzqRpTyyyW61LU3i7WSR) | 4:36 |
 | 26 | [La Posada](https://open.spotify.com/track/29bl4Sr23RrFR0o8mSvPJ2) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [La Posada](https://open.spotify.com/album/2E2xpaPWc5UCegjbrwai8h) | 2:49 |
 | 27 | [Pa La Playita](https://open.spotify.com/track/4kAL6Cp1rKIQjZ6iGUpanE) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Pa La Playita](https://open.spotify.com/album/1bDDpIDQCKSB9J46d5fpcP) | 3:16 |
 | 28 | [HOY SOMOS NUEVOS SERES \(MASTER 2\)](https://open.spotify.com/track/4xvItApfGEtsIs8zY8BrEX) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [ESTO NO TIENE NADA QUE VER CON eduardo](https://open.spotify.com/album/1DcIhob7podzXMZMcvBcOj) | 3:24 |
 | 29 | [El Duelo](https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [El Duelo](https://open.spotify.com/album/3gRWgjHNPIxtZmRLBYOQTu) | 4:17 |
-| 30 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 |
-| 31 | [PELÍCULA](https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [PELÍCULA](https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L) | 3:13 |
+| 30 | [PELÍCULA](https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [PELÍCULA](https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L) | 3:13 |
+| 31 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 |
 | 32 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
 | 33 | [Nena, dime algo.](https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:36 |
 | 34 | [Amándote](https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 2:30 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 | 46 | [Mensajes en el Mar](https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre) | 4:07 |
 | 47 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 |
 | 48 | [Mírenla \(Acústico\)](https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 4:25 |
-| 49 | [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 |
-| 50 | [Nuevo mundo \(feat\. Juancho Marqués\)](https://open.spotify.com/track/4hklliK34BQpPNsoag1JmL) | [Fuel Fandango](https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG), [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g) | [Nuevo mundo \(feat\. Juancho Marqués\)](https://open.spotify.com/album/7vDANBArJLs5XXsgMoYnvC) | 3:20 |
+| 49 | [Nuevo mundo \(feat\. Juancho Marqués\)](https://open.spotify.com/track/4hklliK34BQpPNsoag1JmL) | [Fuel Fandango](https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG), [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g) | [Nuevo mundo \(feat\. Juancho Marqués\)](https://open.spotify.com/album/7vDANBArJLs5XXsgMoYnvC) | 3:20 |
+| 50 | [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 |
 
-Snapshot ID: `MCw2M2I5Y2Y2YTEzNTIwNDM1NzI5OWY1ZjlmNGRkMzU1ODZlZDUxNzU1`
+Snapshot ID: `MCw0MzkzZTEwNjgzNDAzZjkwNmM4ZGI4NWZkM2RjYTY4NzE1MTdjMDRj`

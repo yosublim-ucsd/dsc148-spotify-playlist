@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Jazzy
 
-829 songs - 1 day 17 hr 20 min
+830 songs - 1 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Conflicted](https://open.spotify.com/track/24fqHAeKYTZAx6gN9kc3DC) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Conflicted](https://open.spotify.com/album/7g0ZQYAbYQosKsuT2Hj9tM) | 3:01 | 2023-02-16 | 2023-03-10 |
 | [Cooler Than Me](https://open.spotify.com/track/2QHR2UmW2Nf3MFVhL4ibTS) | [Monk Mafia](https://open.spotify.com/artist/4oLiwEMNDQrI7niwHY9XYr), [Yaat](https://open.spotify.com/artist/6kAJ6gi5VbfltXy4Wfkawq) | [Cooler Than Me](https://open.spotify.com/album/5NTh0AX6aGBqtfMi30Usp4) | 2:33 | 2023-02-02 | 2023-02-10 |
 | [Crew Thang](https://open.spotify.com/track/5a8brwyxP2Ga832uYrY2lQ) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish) | [Crew Thang](https://open.spotify.com/album/0eFZm20GN8fAvSG1sAsFw2) | 2:41 | 2023-05-25 | 2023-06-30 |
-| [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 | 2024-02-01 |  |
+| [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 | 2024-02-01 |  |
+| [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 | 2024-02-01 | 2024-02-08 |
 | [Crush](https://open.spotify.com/track/0Gu3afSvsi2doKPPTKy6Ur) | [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [Crush](https://open.spotify.com/album/6cM3IfZGLJdrq5awnftJfI) | 3:35 | 2023-08-03 | 2023-09-08 |
 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 | 2023-03-16 | 2023-04-21 |
 | [Crying Stars](https://open.spotify.com/track/25GeuWYtKnkFemt78EzCka) | [Toxic Wraith](https://open.spotify.com/artist/7IzlaNBh2EWdsR6xIOp9Bb) | [Crying Stars](https://open.spotify.com/album/66KMjfzOQsry3074MHQ3bt) | 3:17 | 2023-03-02 | 2023-03-31 |

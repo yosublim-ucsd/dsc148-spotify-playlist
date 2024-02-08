@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Mehtab Ali Niazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,823 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,836 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 19 | [Sagar Kinare](https://open.spotify.com/track/3BRECzmTXouMZfOBgVn6rE) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Sitarscape](https://open.spotify.com/album/0eRyqObsdEMCODqkSdSjSZ) | 4:06 |
 | 20 | [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/track/5JgyJZouTO78xhFoMKgInw) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/album/4ngobRObogUSz9oqRn1P7R) | 7:31 |
 | 21 | [Lasya](https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Traces Of You](https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq) | 4:38 |
-| 22 | [Raga Marwa \- Drut Tintal Jhala](https://open.spotify.com/track/23L0bjrUtYuYZbglUK2hoT) | [Kushal Das](https://open.spotify.com/artist/1YIqdGEWAFDGcaSCtCscli) | [Inde Du Nord \- North India : Raga Marwa Surbahar](https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP) | 5:49 |
-| 23 | [Sitar Symphony \- Original](https://open.spotify.com/track/5qRS33ZGCIIrbf8tRzpy3a) | [Suhel Rais Khan, Ustad Sultan Khan](https://open.spotify.com/artist/5tGcEIgOrXtCk3KXejLTL1) | [Fusion Lounge](https://open.spotify.com/album/7ivbfUFET5BZlp7j81s0Jg) | 4:18 |
+| 22 | [Sitar Symphony \- Original](https://open.spotify.com/track/5qRS33ZGCIIrbf8tRzpy3a) | [Suhel Rais Khan, Ustad Sultan Khan](https://open.spotify.com/artist/5tGcEIgOrXtCk3KXejLTL1) | [Fusion Lounge](https://open.spotify.com/album/7ivbfUFET5BZlp7j81s0Jg) | 4:18 |
+| 23 | [Raga Marwa \- Drut Tintal Jhala](https://open.spotify.com/track/23L0bjrUtYuYZbglUK2hoT) | [Kushal Das](https://open.spotify.com/artist/1YIqdGEWAFDGcaSCtCscli) | [Inde Du Nord \- North India : Raga Marwa Surbahar](https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP) | 5:49 |
 | 24 | [Sitar Desh](https://open.spotify.com/track/74KQTFppDkD7jYakAgdQ5Q) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 3:35 |
 | 25 | [Chanakya](https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Chanakya](https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX) | 2:43 |
 | 26 | [Tablet vs Sitar \- Yaman \- Ek taal](https://open.spotify.com/track/6oUpiJfTJrQ5ryErRDr2w6) | [Anirudh Sharma](https://open.spotify.com/artist/1yxElNCCvyGH3Ee0lqgZrn), [IndianRaga](https://open.spotify.com/artist/5DbZM6EMfteh7XubuLMtoC), [Mahesh Raghvan](https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi), [Shailesh Venkatraman](https://open.spotify.com/artist/3XSngyg0MX68i5gNeonLKf) | [Tablet vs Sitar \- Yaman](https://open.spotify.com/album/0boxQEMaR1M7RkNo6PmBmt) | 5:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 49 | [Beauty of Sitar](https://open.spotify.com/track/2oiDabX1G8jnfHFp0DKSCs) | [Mystical Guide, Loner Wolf](https://open.spotify.com/artist/03HrV5fn9Geiko3dYxp5V6) | [The Pleasurable Mind in Healing Music](https://open.spotify.com/album/4RYWdk5wvqf4GHRDI8fy8x) | 2:20 |
 | 50 | [The Natural Forces \- Original Mix](https://open.spotify.com/track/7BNhD4ohfUMs6VxhWgtcvB) | [Kaustav Majumder](https://open.spotify.com/artist/3K3PS2t0Qh8lmLDU9OAPHn) | [Morning Sitar Peace](https://open.spotify.com/album/4BZ3CCPWQp2QmzrPn0N0Cr) | 2:04 |
 
-Snapshot ID: `MCwxOTkxMDQ5MzQ4NTYzMjljZGQ2YzY1YTkxMDBlM2U0YWRiODU3MjRh`
+Snapshot ID: `MCxlYWRkZmIwN2I0ZTBkMjkwMjk3Mzk3OTkzYmJlY2UzMDM2Y2EwODNm`

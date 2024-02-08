@@ -1,12 +1,12 @@
 {
   "description": "Skifoan und H\u00fcttenabriss.",
-  "num_followers": 393773,
+  "num_followers": 393955,
   "original_name": "Apr\u00e8s Ski Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTQ3ZmQ3MGRlMWQ4OGQ0ZTk5MWVhNDg4ODJiNTU0YTJmYTZjZGQz",
+  "snapshot_id": "MCw5YWQ2MDk4ZDlmNmYyNDYyNjg3MWNlNjNjODQxNzMyNGE0N2U0MTY5",
   "tracks": [
     {
       "added_at": "2024-01-26 12:54:12",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-01-26 12:54:12",
       "album": {
-        "name": "Mitten in die Scheibe",
-        "url": "https://open.spotify.com/album/0CrQz7CcWSBMlgJGDHcQdS"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 167280,
-      "name": "Can You English Please",
-      "url": "https://open.spotify.com/track/3WzhNUlB14b15XLDm2dQHi"
-    },
-    {
-      "added_at": "2024-01-26 12:54:12",
-      "album": {
         "name": "Schnelle Brille",
         "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 137125,
       "name": "Schnelle Brille",
       "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
+    },
+    {
+      "added_at": "2024-01-26 12:54:12",
+      "album": {
+        "name": "Mitten in die Scheibe",
+        "url": "https://open.spotify.com/album/0CrQz7CcWSBMlgJGDHcQdS"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 167280,
+      "name": "Can You English Please",
+      "url": "https://open.spotify.com/track/3WzhNUlB14b15XLDm2dQHi"
     },
     {
       "added_at": "2024-01-26 12:54:12",
@@ -675,38 +675,6 @@
     {
       "added_at": "2024-01-26 12:54:12",
       "album": {
-        "name": "Eine Woche wach",
-        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 235899,
-      "name": "Eine Woche wach",
-      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
-    },
-    {
-      "added_at": "2024-01-26 12:54:12",
-      "album": {
-        "name": "MDMA",
-        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
-      },
-      "artists": [
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 128713,
-      "name": "MDMA",
-      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
-    },
-    {
-      "added_at": "2024-01-26 12:54:12",
-      "album": {
         "name": "Dorflove",
         "url": "https://open.spotify.com/album/0QGAN0UYuGQL6TFfJVKcH1"
       },
@@ -727,6 +695,38 @@
       "duration_ms": 161046,
       "name": "Dorflove",
       "url": "https://open.spotify.com/track/4DvWYFv3kYm9U8pJ5gQwn1"
+    },
+    {
+      "added_at": "2024-01-26 12:54:12",
+      "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
+      },
+      "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 128713,
+      "name": "MDMA",
+      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
+    },
+    {
+      "added_at": "2024-01-26 12:54:12",
+      "album": {
+        "name": "Eine Woche wach",
+        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 235899,
+      "name": "Eine Woche wach",
+      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
     },
     {
       "added_at": "2024-01-26 12:54:12",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-01-26 12:54:12",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
-      },
-      "artists": [
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        }
-      ],
-      "duration_ms": 144533,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
-    },
-    {
-      "added_at": "2024-01-26 12:54:12",
-      "album": {
         "name": "Zum Greifen nah",
         "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
       },
@@ -907,22 +891,18 @@
     {
       "added_at": "2024-01-26 12:54:12",
       "album": {
-        "name": "DORFDiSKO ZWEi",
-        "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
       },
       "artists": [
         {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
         }
       ],
-      "duration_ms": 198160,
-      "name": "PECH & SCHWEFEL",
-      "url": "https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8"
+      "duration_ms": 144533,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
     },
     {
       "added_at": "2024-01-26 12:54:12",
@@ -939,6 +919,26 @@
       "duration_ms": 223671,
       "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
       "url": "https://open.spotify.com/track/014Jl3WPQF9AT3kQRWVmku"
+    },
+    {
+      "added_at": "2024-01-26 12:54:12",
+      "album": {
+        "name": "DORFDiSKO ZWEi",
+        "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 198160,
+      "name": "PECH & SCHWEFEL",
+      "url": "https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8"
     },
     {
       "added_at": "2024-01-26 12:54:12",
@@ -995,30 +995,6 @@
     {
       "added_at": "2024-01-26 12:54:12",
       "album": {
-        "name": "Kabinenparty",
-        "url": "https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5"
-      },
-      "artists": [
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        },
-        {
-          "name": "Nils_Gucki",
-          "url": "https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF"
-        },
-        {
-          "name": "MAKZ 38",
-          "url": "https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF"
-        }
-      ],
-      "duration_ms": 142750,
-      "name": "Kabinenparty",
-      "url": "https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn"
-    },
-    {
-      "added_at": "2024-01-26 12:54:12",
-      "album": {
         "name": "Ich will mehr",
         "url": "https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB"
       },
@@ -1031,22 +1007,6 @@
       "duration_ms": 222333,
       "name": "Wahnsinn",
       "url": "https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu"
-    },
-    {
-      "added_at": "2024-01-26 12:54:12",
-      "album": {
-        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 204283,
-      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
     },
     {
       "added_at": "2024-01-26 12:54:12",
@@ -1067,6 +1027,46 @@
       "duration_ms": 133898,
       "name": "Mallelelele",
       "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
+    },
+    {
+      "added_at": "2024-01-26 12:54:12",
+      "album": {
+        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 204283,
+      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
+    },
+    {
+      "added_at": "2024-01-26 12:54:12",
+      "album": {
+        "name": "Kabinenparty",
+        "url": "https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5"
+      },
+      "artists": [
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Nils_Gucki",
+          "url": "https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF"
+        },
+        {
+          "name": "MAKZ 38",
+          "url": "https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF"
+        }
+      ],
+      "duration_ms": 142750,
+      "name": "Kabinenparty",
+      "url": "https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn"
     },
     {
       "added_at": "2024-01-26 12:54:12",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-01-26 12:54:12",
       "album": {
-        "name": "Partysau",
-        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
-      },
-      "artists": [
-        {
-          "name": "Malle Kalle",
-          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
-        },
-        {
-          "name": "Danergy",
-          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
-        }
-      ],
-      "duration_ms": 115680,
-      "name": "Partysau",
-      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
-    },
-    {
-      "added_at": "2024-01-26 12:54:12",
-      "album": {
         "name": "Nachbarn",
         "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 192600,
       "name": "Holterdiepolter",
       "url": "https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ"
+    },
+    {
+      "added_at": "2024-01-26 12:54:12",
+      "album": {
+        "name": "Partysau",
+        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
+      },
+      "artists": [
+        {
+          "name": "Malle Kalle",
+          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
+        },
+        {
+          "name": "Danergy",
+          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
+        }
+      ],
+      "duration_ms": 115680,
+      "name": "Partysau",
+      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
     },
     {
       "added_at": "2024-01-26 12:54:12",
@@ -1343,8 +1343,8 @@
     {
       "added_at": "2024-01-26 12:54:12",
       "album": {
-        "name": "Bring mich nach Hause",
-        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/5xZubDsUa9davo8N2LOFy6"
       },
       "artists": [
         {
@@ -1352,9 +1352,9 @@
           "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
         }
       ],
-      "duration_ms": 149160,
-      "name": "Bring mich nach Hause",
-      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
+      "duration_ms": 191163,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/59HKKV0eD3UPJ3RCG5qFcc"
     },
     {
       "added_at": "2024-01-26 12:54:12",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-01-26 12:54:12",
       "album": {
+        "name": "Knicklicht",
+        "url": "https://open.spotify.com/album/3kklz0c9Z29XpvMv1e1rvq"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "Knicklicht",
+      "url": "https://open.spotify.com/track/6wXGstjGjHtMoGnJ8dar1M"
+    },
+    {
+      "added_at": "2024-01-26 12:54:12",
+      "album": {
         "name": "Freitag, Samstag",
         "url": "https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 156356,
       "name": "Freitag, Samstag",
       "url": "https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT"
-    },
-    {
-      "added_at": "2024-01-26 12:54:12",
-      "album": {
-        "name": "Knicklicht",
-        "url": "https://open.spotify.com/album/3kklz0c9Z29XpvMv1e1rvq"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        }
-      ],
-      "duration_ms": 138400,
-      "name": "Knicklicht",
-      "url": "https://open.spotify.com/track/6wXGstjGjHtMoGnJ8dar1M"
     },
     {
       "added_at": "2024-01-26 12:54:12",

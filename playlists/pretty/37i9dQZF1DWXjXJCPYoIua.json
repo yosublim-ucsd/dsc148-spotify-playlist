@@ -1,12 +1,12 @@
 {
   "description": "Rimas finas para inspirarte en el jale. ",
-  "num_followers": 112506,
+  "num_followers": 112598,
   "original_name": "Chambeando con Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGU1ZjAwZGMwYjgzM2M5ZmMzZTAyOWQwNjhhNmRkNTE3ZDE1Mjdk",
+  "snapshot_id": "MCxjODgzODNlNTZkZDY1NTYyNTVhZTMwNTQyNzQ3YWRjYjVmNWY0ZjIy",
   "tracks": [
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253880,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
         "name": "Canciones Mamalonas 2",
         "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 202597,
       "name": "No Que No Eras Fan",
       "url": "https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "Si Se\u00f1or",
-      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1235,6 +1235,34 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
+        "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) [Remix]",
+        "url": "https://open.spotify.com/album/0G5o0F4IWxTgJbuKRoKvo0"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
+      "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
         "name": "Cypher",
         "url": "https://open.spotify.com/album/74MnBAt8ADj9XZjmUiro9f"
       },
@@ -1283,34 +1311,6 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) [Remix]",
-        "url": "https://open.spotify.com/album/0G5o0F4IWxTgJbuKRoKvo0"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Zimple",
-          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
-      "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
         "name": "La Sangre Nunca Muere",
         "url": "https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ"
       },
@@ -1323,6 +1323,26 @@
       "duration_ms": 287920,
       "name": "Ella Se Fue",
       "url": "https://open.spotify.com/track/02LnwwnaanFpM5dZNArPBb"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "El Chivo",
+        "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
+      },
+      "artists": [
+        {
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 275400,
+      "name": "El Chivo (feat. T3r Elemento)",
+      "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1351,26 +1371,6 @@
       "duration_ms": 207218,
       "name": "C\u00f3mo Diamante",
       "url": "https://open.spotify.com/track/76j6ISLdqxSKJBNGLL0fPb"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "El Chivo",
-        "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
-      },
-      "artists": [
-        {
-          "name": "Berner",
-          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
-        },
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 275400,
-      "name": "El Chivo (feat. T3r Elemento)",
-      "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 193421,
+      "name": "Desde Cero (feat. Santa Fe Klan)",
+      "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
         "name": "Proyecto Akwid",
         "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 174600,
       "name": "I Wanna Get High",
       "url": "https://open.spotify.com/track/2icouZbxwqoL63gHhO2vGd"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 193421,
-      "name": "Desde Cero (feat. Santa Fe Klan)",
-      "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 205655,
+      "name": "EYO",
+      "url": "https://open.spotify.com/track/50VID8NClGL3T4eJQhl9IX"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 268124,
       "name": "No Me Arrepiento (feat. Gera MX, Neto Pe\u00f1a, Santa Fe Klan)",
       "url": "https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 205655,
-      "name": "EYO",
-      "url": "https://open.spotify.com/track/50VID8NClGL3T4eJQhl9IX"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
+        "name": "Rolemos Otro",
+        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 187106,
+      "name": "Ya Te la Cypress",
+      "url": "https://open.spotify.com/track/45kftthTUcu0Ci2XW51jhE"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
         "name": "Malvivientes",
         "url": "https://open.spotify.com/album/5avfygcAoK3LQ0vGSXWrVI"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 208000,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/5p6S0LXowt9jTCJfCP9A5S"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Rolemos Otro",
-        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 187106,
-      "name": "Ya Te la Cypress",
-      "url": "https://open.spotify.com/track/45kftthTUcu0Ci2XW51jhE"
     },
     {
       "added_at": "2023-10-20 01:00:00",

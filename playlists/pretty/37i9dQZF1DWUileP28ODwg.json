@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
-  "num_followers": 333523,
+  "num_followers": 333759,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjMzNjcwOWFhODNkODgxOTczN2JmMGZmNzM1NjlkOWE3NTNmZDVl",
+  "snapshot_id": "MCw2ZjlhY2VmZmNiOWVjNTkyZjIxMGU5Njk1NGEyOWMxMDc5ZGExMWJi",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/7bklnY03LmtbfgZQbU407O"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 179604,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5zi9xHZ5qEdBSPkNVGumCY"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "While I Can",
         "url": "https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 186029,
       "name": "While I Can",
       "url": "https://open.spotify.com/track/6o3KtG52dLuCm6MYPqVU1C"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/7bklnY03LmtbfgZQbU407O"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 179604,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5zi9xHZ5qEdBSPkNVGumCY"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "I Still Pray",
+        "url": "https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "duration_ms": 164040,
+      "name": "I Still Pray",
+      "url": "https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "New Creation",
         "url": "https://open.spotify.com/album/2Z7wHh6bogC6Lc5qqsHWV8"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 192907,
       "name": "New Creation",
       "url": "https://open.spotify.com/track/2qlmkLwJ5ateyMMH3gXka9"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "I Still Pray",
-        "url": "https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p"
-      },
-      "artists": [
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
-        }
-      ],
-      "duration_ms": 164040,
-      "name": "I Still Pray",
-      "url": "https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Valor",
-        "url": "https://open.spotify.com/album/0P3HrGJ2h1D1XAoGRFaPK4"
-      },
-      "artists": [
-        {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
-        }
-      ],
-      "duration_ms": 342778,
-      "name": "Valor",
-      "url": "https://open.spotify.com/track/0zrDcz4IcvtNqvB04tJQgh"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 297413,
       "name": "Plans",
       "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Valor",
+        "url": "https://open.spotify.com/album/0P3HrGJ2h1D1XAoGRFaPK4"
+      },
+      "artists": [
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 342778,
+      "name": "Valor",
+      "url": "https://open.spotify.com/track/0zrDcz4IcvtNqvB04tJQgh"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1507,6 +1507,26 @@
       "duration_ms": 191167,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/07i9grlktadLuWDbfOwVTG"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "At The End Of The River",
+        "url": "https://open.spotify.com/album/7bfqllwYRjQSG6PfUGJsCX"
+      },
+      "artists": [
+        {
+          "name": "Wyn Starks",
+          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
+        },
+        {
+          "name": "The Fisk Jubilee Singers",
+          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
+        }
+      ],
+      "duration_ms": 282848,
+      "name": "At The End Of The River",
+      "url": "https://open.spotify.com/track/1l1NFdzq5team6HHbWlTLk"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1539,26 +1559,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "At The End Of The River",
-        "url": "https://open.spotify.com/album/7bfqllwYRjQSG6PfUGJsCX"
-      },
-      "artists": [
-        {
-          "name": "Wyn Starks",
-          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
-        },
-        {
-          "name": "The Fisk Jubilee Singers",
-          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
-        }
-      ],
-      "duration_ms": 282848,
-      "name": "At The End Of The River",
-      "url": "https://open.spotify.com/track/1l1NFdzq5team6HHbWlTLk"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Worthy One",
         "url": "https://open.spotify.com/album/0SLLkcMA1BbhmhSlhg091R"
       },
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Burial",
-        "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 278119,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/1RKGwSiX9BMJq3mQS7RI3f"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 220962,
       "name": "Run",
       "url": "https://open.spotify.com/track/6AYDBBuLOp7DvRoPC3P9Uv"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Burial",
+        "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 278119,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Love, Evvie McKinney",
+        "url": "https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb"
+      },
+      "artists": [
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "But God",
+      "url": "https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "In Christ Alone",
         "url": "https://open.spotify.com/album/3f09hTkQJplZaTQ0r6XJRj"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 222115,
       "name": "In Christ Alone",
       "url": "https://open.spotify.com/track/3nEQk6WLLLjcFkGNKYDylL"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Love, Evvie McKinney",
-        "url": "https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb"
-      },
-      "artists": [
-        {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "But God",
-      "url": "https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3"
     },
     {
       "added_at": "2023-11-17 05:00:00",

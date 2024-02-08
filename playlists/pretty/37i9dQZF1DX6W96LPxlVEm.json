@@ -1,12 +1,12 @@
 {
   "description": "Los mejores nuevos y viejos temas para cantar y perrear detr\u00e1s del volante.",
-  "num_followers": 131004,
+  "num_followers": 131024,
   "original_name": "Maneja con Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTEzNDM4Y2NhM2UzMmE1ZTYxYmQ4NWY4NzNlOTNkYzE2MDEzMjM0",
+  "snapshot_id": "MCwyMTY2NDFlYzJlMjkzOWIyMmVlZmM1NzE0MjVmOTAyYjRlYzc4YThm",
   "tracks": [
     {
       "added_at": "2023-11-07 17:27:55",
@@ -307,26 +307,6 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 231848,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
-    },
-    {
-      "added_at": "2023-11-07 17:27:55",
-      "album": {
         "name": "Con Calma",
         "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 193226,
       "name": "Con Calma",
       "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
+    },
+    {
+      "added_at": "2023-11-07 17:27:55",
+      "album": {
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 231848,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
     },
     {
       "added_at": "2023-11-07 17:27:55",
@@ -891,6 +891,30 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 266086,
+      "name": "Soltera (Remix)",
+      "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
+    },
+    {
+      "added_at": "2023-11-07 17:27:55",
+      "album": {
         "name": "La Forma en Que Me Miras",
         "url": "https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU"
       },
@@ -923,26 +947,18 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
       "artists": [
         {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 266086,
-      "name": "Soltera (Remix)",
-      "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
+      "duration_ms": 208291,
+      "name": "Sexo Virtual",
+      "url": "https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP"
     },
     {
       "added_at": "2023-11-07 17:27:55",
@@ -967,22 +983,6 @@
       "duration_ms": 161626,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
-    },
-    {
-      "added_at": "2023-11-07 17:27:55",
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 208291,
-      "name": "Sexo Virtual",
-      "url": "https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP"
     },
     {
       "added_at": "2023-11-07 17:27:55",
@@ -1387,50 +1387,6 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
-    },
-    {
-      "added_at": "2023-11-07 17:27:55",
-      "album": {
-        "name": "Eleg\u00ed",
-        "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        }
-      ],
-      "duration_ms": 197721,
-      "name": "Eleg\u00ed",
-      "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
-    },
-    {
-      "added_at": "2023-11-07 17:27:55",
-      "album": {
         "name": "Lean",
         "url": "https://open.spotify.com/album/08MtJrm31CA8dV2txpLMXE"
       },
@@ -1467,6 +1423,50 @@
       "duration_ms": 260545,
       "name": "Lean",
       "url": "https://open.spotify.com/track/44BZWegR2TBYtgZdAHwaGH"
+    },
+    {
+      "added_at": "2023-11-07 17:27:55",
+      "album": {
+        "name": "Eleg\u00ed",
+        "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "duration_ms": 197721,
+      "name": "Eleg\u00ed",
+      "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
+    },
+    {
+      "added_at": "2023-11-07 17:27:55",
+      "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2023-11-07 17:27:55",

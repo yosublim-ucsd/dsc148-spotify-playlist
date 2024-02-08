@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 王心凌 \(Cyndi Wang\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,180 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,333 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [沒資格愛你](https://open.spotify.com/track/7hOCDYAC5nSVu24qqN2xLl) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [JUICE](https://open.spotify.com/album/1T5xlqGjw5ox9NM5DQoyWU) | 3:19 |
 | 50 | [認愛](https://open.spotify.com/track/1FlxaEDo7hem6lCg7kmEIN) | [GX \(鼓鼓 呂思緯、蕭秉治\)](https://open.spotify.com/artist/288ePKcM3N0VLXFIGuv4LV) | [認愛](https://open.spotify.com/album/0fvwfM52fLbB0XLtXJT8Hf) | 3:48 |
 
-Snapshot ID: `MCwxMGQ1MGVjODI5MTU5NjU5OWYyY2JhNTUwNjJmNjliYTMwNDBmZTkx`
+Snapshot ID: `MCw4NDU1NGRmYjI3Y2UyMDQyYTU5YjhhZjQ5ODM1ZGE1NjkwZGZkOGEx`

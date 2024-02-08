@@ -4,7 +4,7 @@
 
 > remember when we were dark and brooding\. Cover: CHVRCHES
 
-59 songs - 3 hr 38 min
+60 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,9 @@
 | [Hurricane](https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [Secondhand Rapture](https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt) | 3:46 | 2023-09-07 |  |
 | [Hurt Me](https://open.spotify.com/track/7fApw5FcXz2wAEMaIwT52E) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 3:51 | 2023-01-05 |  |
 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 | 2023-01-05 | 2024-02-02 |
+| [I Belong In Your Arms](https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw) | 3:27 | 2023-11-15 |  |
 | [I Follow Rivers](https://open.spotify.com/track/336ZYcU6poBWi3s8yzRcAD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 3:48 | 2023-01-05 |  |
-| [i thought i was waiting](https://open.spotify.com/track/7jyfcztRYdl9rjrzVQoUQ2) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [love you forever](https://open.spotify.com/album/5QPDTfgHE0ElC8calQBjtb) | 3:03 | 2023-02-24 |  |
+| [i thought i was waiting](https://open.spotify.com/track/7jyfcztRYdl9rjrzVQoUQ2) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [love you forever](https://open.spotify.com/album/5QPDTfgHE0ElC8calQBjtb) | 3:03 | 2023-02-24 | 2024-02-08 |
 | [Indestructible](https://open.spotify.com/track/4CZ8nFoCsNNXuaX0qBm8LX) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 3:40 | 2023-01-05 | 2023-07-04 |
 | [Killshot](https://open.spotify.com/track/0LJTfmgOMvlLd0u4HU9twm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [A Little Rhythm and a Wicked Feeling](https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc) | 3:56 | 2023-01-05 |  |
 | [Losing You](https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Losing You](https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng) | 4:20 | 2023-01-05 |  |

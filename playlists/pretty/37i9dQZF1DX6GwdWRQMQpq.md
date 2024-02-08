@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,056,346 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,057,203 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Face Down](https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Face Down](https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1) | 2:07 |
 | 50 | [Say Too Much](https://open.spotify.com/track/3ivlOgTCKS7zk1lXlZsebF) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [FCK GIRL SZN](https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV) | 3:13 |
 
-Snapshot ID: `MCw3YTIzNzEzNGRiZWRkYjI5NTJjY2RhMjEzZjEyMzQzMTNhMTQ5ODc1`
+Snapshot ID: `MCw4YzcxMGM0OGM1NWM5ZTMzOThlYWY2NWNiOTBlZTI0NjYwMWRhODQ5`

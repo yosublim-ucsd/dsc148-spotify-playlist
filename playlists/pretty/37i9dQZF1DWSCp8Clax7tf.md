@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 
 > The Women who put Country Music on the map\. Cover: Loretta Lynn
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,609 likes - 97 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,700 likes - 97 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 | 7 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:47 |
 | 8 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
 | 9 | [Lesson In Leavin'](https://open.spotify.com/track/0xo5dRgtkZlR2zNJwSYB37) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [All\-Time Greatest Hits](https://open.spotify.com/album/2W0uJ9ehsjiInD1CDvVHHX) | 3:40 |
-| 10 | [Seven Year Ache](https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:14 |
+| 10 | [Seven Year Ache](https://open.spotify.com/track/4CLijHDH7Bd287Pv52BRb1) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Seven Year Ache](https://open.spotify.com/album/1nLAeFogJgO9s6Mb6ShASn) | 3:15 |
 | 11 | [Don't Tell Me What To Do](https://open.spotify.com/track/7C1NrxVM5jG9QwkNAKoDhW) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Super Hits](https://open.spotify.com/album/1hpDgi4JCjIenc4d8obdvB) | 3:11 |
 | 12 | [I Feel Lucky](https://open.spotify.com/track/6IItFqIHg6jHleKOYI7Aas) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [Country Dance Super Hits](https://open.spotify.com/album/5bySb9iJsD9QepIPfkZgSX) | 4:25 |
 | 13 | [I Try to Think About Elvis](https://open.spotify.com/track/121ILFThNZH9Egncny7upu) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [When Fallen Angels Fly](https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9) | 2:49 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 | 96 | [I Don't Wanna Play House](https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tammy's Greatest Hits](https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI) | 2:34 |
 | 97 | [Paper Roses](https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1) | [Marie Osmond](https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj) | [20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond](https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM) | 2:38 |
 
-Snapshot ID: `MCxkYzJkZDJiZDM1OWVjZDE5NDRhMTYyMjY2NTk4MGRkN2M4ZGYzMGFi`
+Snapshot ID: `MCw5NmM3NmMwODljZGNhMzlhYzljNjAyNDBjNWNlNDBlNDlmZTJkYmZm`

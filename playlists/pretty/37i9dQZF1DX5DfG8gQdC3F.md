@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from BADBADNOTGOOD, USHER, 24kGoldn, TALK and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,010 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,026 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 48 | [Solo](https://open.spotify.com/track/0SyxMkYIfwkWKyQxSqhxHe) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Maestro](https://open.spotify.com/album/4XXELNvJzTbvToKxjQLR1O) | 3:16 |
 | 49 | [God And A Girl](https://open.spotify.com/track/6DDPrs8s0ZtN5LirmGPZSV) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [God And A Girl](https://open.spotify.com/album/6BFmOJ19FvMs2CEpGEn3Hx) | 4:54 |
 | 50 | [Proyecto X](https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Proyecto X](https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs) | 2:38 |
-| 51 | [Die For Me](https://open.spotify.com/track/67gYpZ9Kl4EwuQa3hZX6wR) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me](https://open.spotify.com/album/5Spe5tAY7QIn04uSBiGYt9) | 2:43 |
+| 51 | [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/track/5YUsCI2mTieO4KJbLeQFR7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/album/21QcWrXk821IkKiL73BZre) | 2:43 |
 | 52 | [Real Girls](https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Star City](https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv) | 3:12 |
-| 53 | [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
+| 53 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 |
 | 54 | [Checking In](https://open.spotify.com/track/18hClnXvRu2j0BjYpfPX5B) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Checking In \(From the Inspired By Soundtrack "Unsung Hero"\)](https://open.spotify.com/album/5pc39dpKoqqIibRMtvrPyr) | 3:15 |
 | 55 | [Dress Like This](https://open.spotify.com/track/6EZp9rNYRfOA3c5maPQ3fR) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BACKWOOD BRAT](https://open.spotify.com/artist/4mIyZHeTlCfmtoL5PatJib), [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ) | [Dress Like This](https://open.spotify.com/album/4bvmnsTY3e6y6nXWrXhXRQ) | 3:26 |
 | 56 | [Superficial](https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Superficial](https://open.spotify.com/album/1kuIqGJ1FD8GF8oJgTI2zK) | 2:14 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 96 | [SO COMAN](https://open.spotify.com/track/6W0iLz8aOKUzObanCzJj2U) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [SO COMAN](https://open.spotify.com/album/6IsaPEPJsZ4qXbOmdTkq0F) | 2:17 |
 | 97 | [Friday's Rain](https://open.spotify.com/track/76XC2zEGzxs570ShNvNfCU) | [Jahmal Padmore](https://open.spotify.com/artist/23Bcuvf8yPnEONduRdlIpD) | [The Wooz](https://open.spotify.com/album/31OaDoUiGLuU9ujaGVb9Zi) | 4:07 |
 | 98 | [Mood Ring](https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Mood Ring](https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS) | 2:57 |
-| 99 | [One drink at a time](https://open.spotify.com/track/7FhL2olVe7ddfcle92XTYe) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [One Drink at a Time](https://open.spotify.com/album/1jRfid8WhTJjVcTUCam1Ip) | 3:21 |
+| 99 | [One Drink at a Time](https://open.spotify.com/track/7FhL2olVe7ddfcle92XTYe) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [One Drink at a Time](https://open.spotify.com/album/1jRfid8WhTJjVcTUCam1Ip) | 3:21 |
 | 100 | [OMG! \(Freestyle\)](https://open.spotify.com/track/7oLzEMNTnR9AC8ggvV5eGL) | [Shareef](https://open.spotify.com/artist/1JH0doF0KQYyUyRmiykBqi) | [OMG! \(Freestyle\)](https://open.spotify.com/album/3UoICZ03kjUEzA1iyOL75H) | 2:26 |
 
-Snapshot ID: `MCxhZWNlM2NjMzg5YTZiMDlmYzBlOWE3ZDM1ZTZkY2M2ZDc3NDM2ZDNl`
+Snapshot ID: `MCw1NWE0NmU0ODY5NTUzZGMyNmY4NWZmNGM2YmRiYjlhMWZhZDVkOTY2`

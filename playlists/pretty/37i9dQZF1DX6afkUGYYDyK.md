@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,929 likes - 60 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,930 likes - 60 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 28 | [Give Thanks](https://open.spotify.com/track/0NZnbmbjxWKDGAUZYGDB2m) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Nothing Else Matters](https://open.spotify.com/album/0w9GZohthFktowKLWmBEYq) | 5:27 |
 | 29 | [Thank You Lord \- Live](https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Thank You Lord \(Live\)](https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE) | 4:56 |
 | 30 | [My Tribute](https://open.spotify.com/track/7xKCmMhfkACwAvcOvSEutX) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Platinum Praise Collection: Andrae Crouch](https://open.spotify.com/album/4YGo7Wj4lIGydKu6ElehTF) | 3:37 |
-| 31 | [Thank You](https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW) | [Kirk Franklin & Mary Mary](https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct) | [Kingdom Come \- The Soundtrack](https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG) | 4:40 |
-| 32 | [Thank God!](https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz) | [Tracy Nitschke](https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW) | [Thank God!](https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm) | 2:22 |
+| 31 | [Thank God!](https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz) | [Tracy Nitschke](https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW) | [Thank God!](https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm) | 2:22 |
+| 32 | [Thank You](https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW) | [Kirk Franklin & Mary Mary](https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct) | [Kingdom Come \- The Soundtrack](https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG) | 4:40 |
 | 33 | [Thankful](https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Thankful](https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC) | 11:50 |
 | 34 | [Oh Give Thanks \(Psalm 136\)](https://open.spotify.com/track/78cTCjjaCUHCmFqaHwROcC) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Radical For Christ](https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA) | [Spirit Of David](https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h) | 4:55 |
 | 35 | [Be Thankful](https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Thankful](https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp) | 3:52 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 55 | [Gratitude \- Live](https://open.spotify.com/track/2H4EuXmxJp29Sc19EnD9xP) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK) | [Gratitude \(Live\)](https://open.spotify.com/album/1voPEXBiUxLOuJNkJosiXl) | 6:16 |
 | 56 | [Thankful](https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [Faithful To Believe](https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61) | 6:26 |
 | 57 | [Oh Give Thanks \(Psalm 107\) \- Live](https://open.spotify.com/track/1zmKMlVCxrHBL38BcRBp27) | [Wendell Kimbrough](https://open.spotify.com/artist/6zO6HdgPt1pOQsP6kC4i9B) | [Oh Give Thanks \(Psalm 107\) \[Live\]](https://open.spotify.com/album/36LAY52wPfMK172ikMQrha) | 6:09 |
-| 58 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
-| 59 | [Joyful Blessing](https://open.spotify.com/track/01yctBdQgHzDEXGrjV4CYn) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [N!x](https://open.spotify.com/artist/5Lm6f1hGukpsGFbS2K5hKn) | [Talk to God](https://open.spotify.com/album/6I6rwc4chgp143l6TF5Jaf) | 2:09 |
+| 58 | [Joyful Blessing](https://open.spotify.com/track/01yctBdQgHzDEXGrjV4CYn) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [N!x](https://open.spotify.com/artist/5Lm6f1hGukpsGFbS2K5hKn) | [Talk to God](https://open.spotify.com/album/6I6rwc4chgp143l6TF5Jaf) | 2:09 |
+| 59 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
 | 60 | [Thankful \- Live](https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Lilly Powers](https://open.spotify.com/artist/0dkmEy84PNteOhnxSZyJkt) | [Thankful \(Live\)](https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8) | 6:59 |
 
-Snapshot ID: `MCw1YzJlOTU4MWNmNWZjNDRkYjA3NWYxNTUxYTFhYjQyZGFhOGY5ZGM1`
+Snapshot ID: `MCxiNDM5YjU0MzM4OTYyYzA2ZjZmNzY2NzVhNWQ2Y2Y1YWZhZTg4Yjg5`

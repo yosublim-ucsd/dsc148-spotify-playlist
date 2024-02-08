@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,552 likes - 47 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,553 likes - 47 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 41 | [Jesus Just Left Chicago](https://open.spotify.com/track/1n7uAd2wldanWyRfBTPam0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 4:35 |
 | 42 | [Wild, Wild Woman](https://open.spotify.com/track/1cAHyfQAe4SC062WFdssy2) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Deluxe Edition](https://open.spotify.com/album/747l6AGzZzDh8yBQLJgLgT) | 3:21 |
 | 43 | [Who Stole My Radio?](https://open.spotify.com/track/0Jei5BgldWjnvWsg5lMZXB) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [The Soul Truth](https://open.spotify.com/album/2PXMx2oAHiqmjrpnLX70dU) | 3:57 |
-| 44 | [The Fool You're Looking For](https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:08 |
+| 44 | [Steamy Windows](https://open.spotify.com/track/6v9sxmWVfKN4xoNzatq9vf) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:03 |
 | 45 | [Baby Don't Do It](https://open.spotify.com/track/5kOI40ScJts057FfbPuPN7) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Dedicated: A Salute To The 5 Royales](https://open.spotify.com/album/5rTzgyLmliJ4EAFvAImVCu) | 2:51 |
 | 46 | [Hand In Hand](https://open.spotify.com/track/6uQUnTUMRwvzZjyFy0dKX2) | [Ian Siegal](https://open.spotify.com/artist/1buMo53v5SZw5zacWQKqMo), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Stone by Stone](https://open.spotify.com/album/2gGjqhOtJgGHXs6nr1iuAl) | 4:28 |
-| 47 | [Steamy Windows](https://open.spotify.com/track/6v9sxmWVfKN4xoNzatq9vf) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:03 |
+| 47 | [The Fool You're Looking For](https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:08 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA5NmU0NDZhZGI2NzMxYTcxNDg1ZWMyM2NhODZiZTA4NQ==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDBlNDc2N2Y2NDlmNWZlN2M2YjVkNjE4YTk2NmYwZWIwZA==`

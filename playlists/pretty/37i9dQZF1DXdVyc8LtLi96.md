@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,237 likes - 263 songs - 12 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,260 likes - 263 songs - 12 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -272,4 +272,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 262 | [Becoming](https://open.spotify.com/track/2lON8ADqf3fKcGHQoVshjd) | [Gus Pachis](https://open.spotify.com/artist/0NOlCBBabcH18ynPm8D9Mp) | [Becoming](https://open.spotify.com/album/3euySgqypinzCfLyVvwaLx) | 2:39 |
 | 263 | [Empfidlich](https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq) | [Tilman Stoiber](https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT) | [Empfidlich](https://open.spotify.com/album/0HiXGcnHWnMtdCTkhWFb0F) | 2:50 |
 
-Snapshot ID: `MCw3YjNhYjk5NmJjMzVjYmQ4NGJiZmEzNTY5YTk4N2I3OTg2ZmZmYWIx`
+Snapshot ID: `MCxlMDZhZDQ1YTllOWMxZDJiYmJmMjc1ZWU0Y2U1MTU4OTU4ZDk3NjM4`

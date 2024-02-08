@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-954 songs - 1 day 17 hr 21 min
+956 songs - 1 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Fare la limonata](https://open.spotify.com/track/2iydu5wmxnchiJVB9dfztj) | [Anastasio Confortola](https://open.spotify.com/artist/5SAOTTBvdu5AMwEDSHSa5X) | [Fare la limonata](https://open.spotify.com/album/4HxWgxFOuhiIVqIC4KSU5W) | 2:48 | 2022-03-01 |  |
 | [Fearthainne](https://open.spotify.com/track/3FuG8DFIrAtGMvKoxNkCxY) | [Cora Droma](https://open.spotify.com/artist/1buRn3xacgF6W9Ncdo9ufk) | [Fearthainne](https://open.spotify.com/album/7awBR3o8RV1O0zIcABylkR) | 2:22 | 2020-08-14\* | 2020-08-20 |
 | [Felicity](https://open.spotify.com/track/42ozgVjsCxPmH6vSFTXAHW) | [Hugo Reilly](https://open.spotify.com/artist/5uVINFbw5tZH9G7fFQBEZd) | [Felicity](https://open.spotify.com/album/2lTOtqyZKZaX5kiw9JKqC4) | 2:02 | 2020-08-14\* | 2020-08-20 |
+| [Felt Improv No\. 10](https://open.spotify.com/track/67821VRXVngHwGDcs2IKy3) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Felt Improvisations](https://open.spotify.com/album/4hjtToG3IRrxVpfo6BiQaX) | 2:43 | 2024-02-05 |  |
 | [Feuilles d'automne](https://open.spotify.com/track/0C2q5FBAGtuFopEx96ayCf) | [Charlot Bélair](https://open.spotify.com/artist/33MLQAjjWBxjLKXjsK7Nmd) | [Feuilles d'automne](https://open.spotify.com/album/0H24clOadhqXC56cb9bgbQ) | 2:09 | 2020-08-14\* | 2023-08-30 |
 | [Fidelity](https://open.spotify.com/track/71i3ssLhtbdlUIK2fOoqNr) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Fidelity](https://open.spotify.com/album/0NVSJ5RYhkcS30b9VKTsLh) | 2:49 | 2021-02-12 | 2022-07-20 |
 | [Field Spirits](https://open.spotify.com/track/4TWwr6i2WiJ9KKFjDUvfdL) | [Ella Stark](https://open.spotify.com/artist/1MCorvkVV2ldv9FraZpH5u) | [Field Spirits](https://open.spotify.com/album/6kMlN6t2fJFTeumrYbfU5j) | 2:46 | 2020-08-14\* | 2022-07-20 |
@@ -275,7 +276,7 @@
 | [Flying High](https://open.spotify.com/track/6AG03RXCk6TqJwg5foivCU) | [Edu Lahmar](https://open.spotify.com/artist/2cUQRSrBnFd4OKJKhlVVDc) | [Treetops](https://open.spotify.com/album/6ZPHDl66MQRlMwbkaQq8MX) | 2:01 | 2021-04-23 | 2021-08-05 |
 | [Foothills](https://open.spotify.com/track/20oGEJKvYaJPJ9fa2QKlIc) | [Cara Wolff](https://open.spotify.com/artist/4awzT4TfiIuWgss8saWodD) | [Foothills](https://open.spotify.com/album/2JazNostDaHeAcBFWDpxAI) | 2:43 | 2020-08-14\* | 2021-01-21 |
 | [Footprints](https://open.spotify.com/track/6JJ6h8zIfLOBivaUbsDKvz) | [Aron Risa](https://open.spotify.com/artist/4ZBYqZ6jRnD5xPtLWDvexS) | [Footprints](https://open.spotify.com/album/5GZU6r49UFFBsKxm2gMCrI) | 2:25 | 2020-08-14\* | 2022-09-24 |
-| [For A Gentle Morning](https://open.spotify.com/track/35mE5q37ovOCjZGf2P5EG4) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [For A Gentle Morning](https://open.spotify.com/album/61znAWhGllMzFk4NtE5LcZ) | 2:44 | 2021-04-13 |  |
+| [For A Gentle Morning](https://open.spotify.com/track/35mE5q37ovOCjZGf2P5EG4) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [For A Gentle Morning](https://open.spotify.com/album/61znAWhGllMzFk4NtE5LcZ) | 2:44 | 2021-04-13 | 2024-02-08 |
 | [For Brea](https://open.spotify.com/track/7AAiL40T07q44EzwZWhsmf) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [For Brea](https://open.spotify.com/album/3DhaC4gb4cgt8tLlBEEERI) | 1:57 | 2021-02-13 | 2022-06-08 |
 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 | 2022-01-18 |  |
 | [Forever & Always](https://open.spotify.com/track/5hLVKQBumXZ9DhK6khCiOP) | [Tom Stannard](https://open.spotify.com/artist/6rDF0xaV7KBIlI5t9zs6EZ) | [Forever & Always](https://open.spotify.com/album/7B03e9Eebco3A1QGyFcBxj) | 2:06 | 2020-11-12 | 2022-05-21 |
@@ -831,6 +832,7 @@
 | [The Road Less Traveled](https://open.spotify.com/track/2fJGj4rZJYRKNYLg2DzPw1) | [Giuseppina Bianchi](https://open.spotify.com/artist/1dPaoKGVvSjKf3aO5NfIgD) | [The Stars Above](https://open.spotify.com/album/4TTXux7K7dL3THpP4EYams) | 3:05 | 2020-08-14\* | 2021-05-18 |
 | [The Sailor's Tale](https://open.spotify.com/track/4CJk8MsMYM1y9ve1jpG9Pz) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Storybook](https://open.spotify.com/album/4DnP1mve2HFOL0XoWYdwvZ) | 2:12 | 2021-06-18 |  |
 | [The Scent Of New Days](https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [The Scent Of New Days](https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD) | 2:22 | 2022-06-07 |  |
+| [The Seventh Wave](https://open.spotify.com/track/4rRjQydi87TheoZVntdiER) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [The Seventh Wave](https://open.spotify.com/album/2fuIB47RUiieeW834wdide) | 2:08 | 2024-02-05 |  |
 | [The Shortest Distance](https://open.spotify.com/track/1IvutkNuvq7URH4twRVeSD) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Shortest Distance](https://open.spotify.com/album/48Pzdi9h9my2o6G1FgQLDY) | 2:41 | 2023-10-17 |  |
 | [The Taste of Snow](https://open.spotify.com/track/5k0J9mTY2bypVkJ2pP7acf) | [Piano Melancolía](https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410) | [The Taste of Snow](https://open.spotify.com/album/4kXTcqVDyWXQW8pbxJRN4j) | 2:16 | 2022-03-01 | 2022-11-25 |
 | [the time has come](https://open.spotify.com/track/3c0jigaQuhR3R4c6RGX6Ao) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Freedom](https://open.spotify.com/album/7lUBViasfvFfPgJvxTuXnC) | 2:26 | 2020-09-30 | 2022-09-15 |
@@ -912,7 +914,7 @@
 | [Vogeltrek](https://open.spotify.com/track/3JRe26tZFIC2y3suUKrJiu) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Vogeltrek](https://open.spotify.com/album/3TVFgNfg0OLSd5FNP305CH) | 2:14 | 2020-08-14\* | 2022-07-29 |
 | [Vogeltrek](https://open.spotify.com/track/4Otyz87ttyTeKK45vlO28b) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Naar Huis](https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv) | 2:14 | 2022-07-19 | 2022-09-24 |
 | [Volga](https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Volga](https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF) | 2:49 | 2022-01-18 | 2023-04-06 |
-| [Voyage mélatonine](https://open.spotify.com/track/1qzF59VZ86OUV11slBwY7J) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Voyage mélatonine](https://open.spotify.com/album/29ZPBMyCGtYyqXEwiqHj6t) | 2:10 | 2020-08-20 |  |
+| [Voyage mélatonine](https://open.spotify.com/track/1qzF59VZ86OUV11slBwY7J) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Voyage mélatonine](https://open.spotify.com/album/29ZPBMyCGtYyqXEwiqHj6t) | 2:10 | 2020-08-20 | 2024-02-08 |
 | [Voyager](https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Voyager](https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX) | 2:12 | 2021-11-13 | 2024-01-28 |
 | [Waiting](https://open.spotify.com/track/6bt1Qb3CCzQkXkXu3FzEeX) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Waiting](https://open.spotify.com/album/5z2LHBhaATswQNRQWioTXJ) | 2:44 | 2020-10-15 | 2022-05-21 |
 | [Waiting for You](https://open.spotify.com/track/5ZWodvcCq8kTLjfy821dRO) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Waiting for You](https://open.spotify.com/album/2bfBDIwzb9EFHIMhINCDLC) | 2:19 | 2021-09-17 | 2022-07-20 |

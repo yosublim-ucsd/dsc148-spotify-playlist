@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 
 > This is yama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,260 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,276 likes - 51 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 | 30 | [モンスター \(feat\. yama\)](https://open.spotify.com/track/09gBx310Z7KnMI5LdB3fDl) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [モンスター \(feat\. yama\)](https://open.spotify.com/album/4EQUcmmhgMy6Aolbr4UdPL) | 4:23 |
 | 31 | [世界は美しいはずなんだ](https://open.spotify.com/track/5eOEqeLIkfbj6lFQ7a4mmZ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz\. / 世界は美しいはずなんだ / スモーキーヒロイン](https://open.spotify.com/album/4fMCXT5qH5jgPmYTpPVSIf) | 3:46 |
 | 32 | [ないの。](https://open.spotify.com/track/3Q54nMCZWAZnw0sxff9oVh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 4:00 |
-| 33 | [Downtown](https://open.spotify.com/track/3nQ0KEIfiXpO7CaawPcMrL) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Downtown](https://open.spotify.com/album/2rbYW032hNHIaUuVfMSnMD) | 3:28 |
-| 34 | [新星](https://open.spotify.com/track/4dwRjaD0ttkelpv5eoE6RT) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:16 |
-| 35 | [陽だまり](https://open.spotify.com/track/6AE3QlMBz7KcoQKG8LXfIh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 5:13 |
-| 36 | [ライカ](https://open.spotify.com/track/5uUB3W0R5M3dh3iXLPsiK7) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 3:25 |
-| 37 | [タルト](https://open.spotify.com/track/130eybbEhnHRlKBJK9N4TR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [麻痺](https://open.spotify.com/album/2xrjmxY15z5drRavtSB07f) | 3:12 |
+| 33 | [陽だまり](https://open.spotify.com/track/6AE3QlMBz7KcoQKG8LXfIh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 5:13 |
+| 34 | [Downtown](https://open.spotify.com/track/3nQ0KEIfiXpO7CaawPcMrL) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Downtown](https://open.spotify.com/album/2rbYW032hNHIaUuVfMSnMD) | 3:28 |
+| 35 | [新星](https://open.spotify.com/track/4dwRjaD0ttkelpv5eoE6RT) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:16 |
+| 36 | [タルト](https://open.spotify.com/track/130eybbEhnHRlKBJK9N4TR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [麻痺](https://open.spotify.com/album/2xrjmxY15z5drRavtSB07f) | 3:12 |
+| 37 | [ライカ](https://open.spotify.com/track/5uUB3W0R5M3dh3iXLPsiK7) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 3:25 |
 | 38 | [名前のない日々へ](https://open.spotify.com/track/50Bpk00qoU0kibpHNWgPjP) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [名前のない日々へ](https://open.spotify.com/album/3JdoGesd5RkeiraCoNgroP) | 3:36 |
 | 39 | [灰炎](https://open.spotify.com/track/48glzmmGamFQ5qZeTdWrGb) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:26 |
 | 40 | [天色](https://open.spotify.com/track/2ug8mDoQnwu4EaU7wVSd6W) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 4:00 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 | 47 | [ストロボ](https://open.spotify.com/track/1ZuLjWBZGuYKj2rAxyFHLB) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/3X5gMAOWqzq4Aouj3Dy1FO) | 3:12 |
 | 48 | [ブルーマンデー](https://open.spotify.com/track/1pSIyieeeazY8U9ZcwsxGe) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [麻痺](https://open.spotify.com/album/2xrjmxY15z5drRavtSB07f) | 4:00 |
 | 49 | [アブノーマリティー。](https://open.spotify.com/track/5o6Nt28EkGBO6HPb3CzG4q) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [アブノーマリティー。](https://open.spotify.com/album/4Jd3gd0HkzO8rGl6rOJHpq) | 3:38 |
-| 50 | [a.m.3:21 \-the meaning of life TOUR 2022 Live at Zepp DiverCity\-](https://open.spotify.com/track/7tdW9EEgXjfhA4b7G7p2LR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life TOUR 2022 Live at Zepp DiverCity](https://open.spotify.com/album/6ocPyc0EaM7FvPnWxm192L) | 3:31 |
-| 51 | [イノセント](https://open.spotify.com/track/76gLNwSDLHSq0KdpOC86SS) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 4:02 |
+| 50 | [イノセント](https://open.spotify.com/track/76gLNwSDLHSq0KdpOC86SS) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 4:02 |
+| 51 | [a.m.3:21 \-the meaning of life TOUR 2022 Live at Zepp DiverCity\-](https://open.spotify.com/track/7tdW9EEgXjfhA4b7G7p2LR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life TOUR 2022 Live at Zepp DiverCity](https://open.spotify.com/album/6ocPyc0EaM7FvPnWxm192L) | 3:31 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA3M2Y4M2EzZjA3MjZhYTI2OGU3ZGMwNGVlN2Y0M2IwOQ==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDA2ZjFjMjVlMTNjOWFiOWQ4MTcwZmRhYWNjOGVkYjMyNg==`

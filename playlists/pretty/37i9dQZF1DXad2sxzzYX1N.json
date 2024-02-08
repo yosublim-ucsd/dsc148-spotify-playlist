@@ -1,12 +1,12 @@
 {
   "description": "The indie viral hits you couldn\u2019t escape in 2023. Cover: Lana Del Rey ",
-  "num_followers": 130291,
+  "num_followers": 131143,
   "original_name": "Indie that hit different in 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTQ5ODRjNjI3NGJmNzI3MWMyY2JjOTlkNjdjNDk1MDA0NDE2YTVh",
+  "snapshot_id": "MCxkZmI1YzQ3NGE3YjQzZmIxMzY0MGQxMTUyZThmYzE5ODNiYWFlOTcy",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Here Comes The Cowboy",
-        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 211140,
-      "name": "Heart To Heart",
-      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Here Comes The Cowboy",
+        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 211140,
+      "name": "Heart To Heart",
+      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Based On A True Story...",
-        "url": "https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz"
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
       "artists": [
         {
-          "name": "New West",
-          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 220750,
-      "name": "Those Eyes",
-      "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+        "name": "Based On A True Story...",
+        "url": "https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
         }
       ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
+      "duration_ms": 220750,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
     },
     {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Offering",
-        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 212736,
-      "name": "Gilded Lily",
-      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
-    },
-    {
       "added_at": "2024-01-09 21:15:01",
       "album": {
         "name": "Looking Out for You",
@@ -515,6 +499,22 @@
       "duration_ms": 179499,
       "name": "Looking Out for You",
       "url": "https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 212736,
+      "name": "Gilded Lily",
+      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -581,6 +581,22 @@
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Clean Sheets, dirty walls",
+        "url": "https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp"
+      },
+      "artists": [
+        {
+          "name": "Cleffy",
+          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
+        }
+      ],
+      "duration_ms": 172199,
+      "name": "Meet you at the Graveyard",
+      "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
+    },
+    {
       "added_at": "2023-12-14 14:53:49",
       "album": {
         "name": "Treehouse",
@@ -599,22 +615,6 @@
       "duration_ms": 158801,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Clean Sheets, dirty walls",
-        "url": "https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp"
-      },
-      "artists": [
-        {
-          "name": "Cleffy",
-          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
-        }
-      ],
-      "duration_ms": 172199,
-      "name": "Meet you at the Graveyard",
-      "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
     },
     {
       "added_at": "2023-11-29 12:16:00",

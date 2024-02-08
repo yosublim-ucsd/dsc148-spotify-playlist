@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 
 > A deep and concise look at the music that made Country Music what is is today\. Covers eras <br/>1930's \- 1990.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,351 likes - 107 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,429 likes - 107 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,10 +110,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 | 100 | [Go Rest High On That Mountain](https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When Love Finds You](https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB) | 5:15 |
 | 101 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
 | 102 | [She's In Love With The Boy](https://open.spotify.com/track/4EJvW4NHAk7TrIeX44jjXF) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Love Songs](https://open.spotify.com/album/3F3ssJx3jlQBOkD6EVM7Z1) | 4:05 |
-| 103 | [Tennessee Flat Top Box](https://open.spotify.com/track/00viUMvYR4Smwuw6l1W4el) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Hits 1979 \- 1989](https://open.spotify.com/album/3Bn77PH5xZ2QedRQM6DJPP) | 3:09 |
+| 103 | [Tennessee Flat Top Box](https://open.spotify.com/track/2m25daTa9vh2G3kR4ZnSSS) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [King's Record Shop](https://open.spotify.com/album/2UKzyeTTIPTmhgMawl3iag) | 3:09 |
 | 104 | [Uncle Pen](https://open.spotify.com/track/70OFRF0sbCGQRQR0iAIZSX) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [Super Hits](https://open.spotify.com/album/7d8pkWSqNHRDeJh3qu9DDa) | 2:23 |
 | 105 | [I'm So Lonesome I Could Cry \- Single Version](https://open.spotify.com/track/0QzlD9ie99w8XiaZ3SMXMI) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [40 Greatest Hits](https://open.spotify.com/album/6zIYEv6soMoaZiypsHB5dd) | 2:49 |
 | 106 | [Eighteen Wheels And A Dozen Roses](https://open.spotify.com/track/6EGRx5TVuHAsmy3JKb8SRC) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Untasted Honey](https://open.spotify.com/album/1K1PfB1GQe1lQcgxjEz8T5) | 3:23 |
 | 107 | [Fancy](https://open.spotify.com/track/1ecIqo8pOc8S6y3l80iGxd) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Best Of/20th Century](https://open.spotify.com/album/0Rb3coYXuUlgRLoi3UhADa) | 4:56 |
 
-Snapshot ID: `MCw5OWVkYmQ5NjZlMWZlODZmYTY0YzNhN2UxNzQ4M2ViMzMwOWI2Mjhj`
+Snapshot ID: `MCxhYTZlN2Y2MzQ2YWJhMWI5NjMzYjNhNDg5M2UyOWIyNTkwZWM4OTlk`

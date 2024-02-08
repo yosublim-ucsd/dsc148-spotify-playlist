@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Vedan, Sushin Shyam
 
-138 songs - 7 hr 24 min
+139 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Neeyethaa \- From "Naradan"](https://open.spotify.com/track/6UMVbjz1nsK3dIDhEWSiwx) | [DJ Sekhar](https://open.spotify.com/artist/2AepjEFzesduzgTezL8263), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T) | [Neeyethaa \(From "Naradan"\)](https://open.spotify.com/album/5837OVdrRqLzKMjuXmNgWi) | 2:59 | 2022-10-25 |  |
 | [NERAM POKKU](https://open.spotify.com/track/0WtdQo5rRTMLTjcEvPGYkJ) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [NERAM POKKU](https://open.spotify.com/album/4k8PDPpDBGGrh4wNYJVuOE) | 3:01 | 2022-06-23 |  |
 | [NJ \- Kattanchaya](https://open.spotify.com/track/1PnNh5twTnJ8Z4PVN6lgb1) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [NJ \- Kattanchaya](https://open.spotify.com/album/3ELAr7Cm8P7HfHaRxCEJ7Q) | 1:07 | 2022-12-09 |  |
+| [Ookkatte](https://open.spotify.com/track/6djlUD5bLEJ2ZMZ9LEaX7g) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [Achayan](https://open.spotify.com/artist/0GDx0NGSduHzUCddPQhRd1) | [Ookkatte](https://open.spotify.com/album/7MaBmAwa4dn0Yt5gtO2mQN) | 2:55 | 2024-02-07 |  |
 | [Oorakkudukku](https://open.spotify.com/track/6OPImTghaIDMXtdqDz99yL) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Oorakkudukku](https://open.spotify.com/album/3tFnGHwmww7ORL8nIQJddU) | 2:33 | 2023-07-23 |  |
 | [Open Your Wings \(Chirakukal Mulakkuvan\)](https://open.spotify.com/track/6BizyNqcM7O8tWkRm2AuDm) | [Rohit Gopalakrishnan](https://open.spotify.com/artist/0adFWVYEksLW8fPuQi2dV1), [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm), [Jazadin](https://open.spotify.com/artist/3MGAkO7e9EK7FIWApRCw4q), [Kalai Mk](https://open.spotify.com/artist/2gsr3Oh1lFnLE2lcbLT7mD) | [Open Your Wings \(Chirakukal Mulakkuvan\)](https://open.spotify.com/album/1Cglv07lGRyZebBCYx661E) | 3:52 | 2021-12-03 |  |
 | [Ozhappan Anthem](https://open.spotify.com/track/1tVwdVeuje3iVvIHoBhCte) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Ozhappan Anthem](https://open.spotify.com/album/1TdJsFlTAK79VjOjHMTssX) | 3:17 | 2022-06-23 |  |

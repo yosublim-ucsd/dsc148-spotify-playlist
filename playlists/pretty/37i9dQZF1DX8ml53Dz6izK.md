@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 
 > < insert emo glitter gif here >
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,498 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,517 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 28 | [Swing, Swing](https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [The All\-American Rejects](https://open.spotify.com/album/0TvOeelcHQXYgPcyQiLhyR) | 3:53 |
 | 29 | [That's What You Get](https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:40 |
 | 30 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 |
-| 31 | [Ohio Is For Lovers](https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:04 |
-| 32 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 |
+| 31 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 |
+| 32 | [Ohio Is For Lovers](https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:04 |
 | 33 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
 | 34 | [Only One](https://open.spotify.com/track/0gZp88SA5OcujHLDGkxtI3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 4:17 |
 | 35 | [My Friends Over You](https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:40 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 76 | [Hello Seattle](https://open.spotify.com/track/6kIpxmFQ35wgI3cK77LKbx) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes \(Deluxe Version\)](https://open.spotify.com/album/1KQIB9AYz2TWTxYoDW2A35) | 2:47 |
 | 77 | [Everything I Ask For](https://open.spotify.com/track/7oO2hXd8ancgNouU8w3b1N) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Can't Stop Won't Stop](https://open.spotify.com/album/0bxAg2688N46MOhGVHxRFJ) | 2:37 |
 | 78 | [Dark Blue](https://open.spotify.com/track/2XFOuxF5xUZ00RaVfaIdw2) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [Everything In Transit \(Non\-PA Release\)](https://open.spotify.com/album/3kb9M8LHAO4JKh2Z7ZgiOV) | 4:11 |
-| 79 | [Sorry You're Not a Winner](https://open.spotify.com/track/2LK4xHEsGJF5aNx6yBjkOm) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Sorry You're Not a Winner / OK! Time for Plan B](https://open.spotify.com/album/5pafHBblPtzj5WRLjQ3WqV) | 4:00 |
-| 80 | [Practice Makes Perfect](https://open.spotify.com/track/70MLCfNoBdpSFjlvVTQE7c) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [Rotation](https://open.spotify.com/album/7gfUPIouc3qyVtghc64CAX) | 3:44 |
+| 79 | [Practice Makes Perfect](https://open.spotify.com/track/70MLCfNoBdpSFjlvVTQE7c) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [Rotation](https://open.spotify.com/album/7gfUPIouc3qyVtghc64CAX) | 3:44 |
+| 80 | [Sorry You're Not a Winner](https://open.spotify.com/track/2LK4xHEsGJF5aNx6yBjkOm) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Sorry You're Not a Winner / OK! Time for Plan B](https://open.spotify.com/album/5pafHBblPtzj5WRLjQ3WqV) | 4:00 |
 
-Snapshot ID: `MCxjNzMzOGU0Mzc4NWZmMmM4ZGE5ZDQ4ZWM3ZjFjMzE0YTcwYzYxZDJi`
+Snapshot ID: `MCxlNjc3ZDIxNGYzYzc2NmE2ZDYxNmY0ZDY4MjI2ZTdkNDYyODAxY2Yz`

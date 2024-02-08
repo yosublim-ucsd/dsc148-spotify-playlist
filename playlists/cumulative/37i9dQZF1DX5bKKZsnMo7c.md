@@ -4,11 +4,12 @@
 
 > All eyes on you\. Cover: Jagwar Twin
 
-326 songs - 17 hr 36 min
+327 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1985](https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 2:26 | 2022-06-03 |  |
+| [2 days into college](https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [2 days into college](https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3) | 2:48 | 2024-02-07 |  |
 | [29 Palms](https://open.spotify.com/track/0UR1lesYoawHMS3GMOTcG5) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [29 Palms](https://open.spotify.com/album/5Q4wjlWCX95OYwVv8uUkqT) | 3:21 | 2022-05-20 | 2022-09-17 |
 | [2econd 2ight 2eer \(that was fun, goodbye.\)](https://open.spotify.com/track/4jd13hFvWAZKZpomQleZ8L) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 3:26 | 2022-05-17 | 2023-01-07 |
 | [30 SECOND LOVE STORY](https://open.spotify.com/track/6tLZW1YLLHRXq7GjtB5w3T) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [30 SECOND LOVE STORY](https://open.spotify.com/album/5yHbTChYXogi7kX0DF404T) | 2:44 | 2023-12-08 | 2023-12-30 |
@@ -62,7 +63,7 @@
 | [Butch 4 Butch](https://open.spotify.com/track/59eUvoOBAOGHJsXnaNuVZK) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Butch 4 Butch](https://open.spotify.com/album/71s8Wq2B3M7aIB5loki5XC) | 2:58 | 2022-05-17 | 2022-07-29 |
 | [Buttercup](https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:28 | 2022-05-17 | 2023-06-21 |
 | [Cabinet Man](https://open.spotify.com/track/0lrtYwuy37bJzsO2LHz2kj) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Spirit Phone](https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI) | 4:22 | 2022-05-17 | 2022-07-25 |
-| [Caesar on a TV Screen](https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Caesar on a TV Screen](https://open.spotify.com/album/5NWTTPxklDD8ed31edYo5V) | 3:49 | 2024-01-05 |  |
+| [Caesar on a TV Screen](https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Caesar on a TV Screen](https://open.spotify.com/album/5NWTTPxklDD8ed31edYo5V) | 3:49 | 2024-01-05 | 2024-02-08 |
 | [Campus](https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:56 | 2022-05-17 | 2022-11-26 |
 | [Can I Have a Ride Home? I'm at a Party and I Don't Know Any1](https://open.spotify.com/track/2ymdaqbPPMSpp6FMT7Tf0T) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Nightmare on Weed Street](https://open.spotify.com/album/5plRKyeSZpNohzLCguUWbG) | 1:51 | 2022-05-17 | 2022-06-25 |
 | [Can't Blame A Girl For Trying](https://open.spotify.com/track/75pX0ccn359gZ7nqWWDac5) | [Anja Kotar](https://open.spotify.com/artist/5a71BOwXAojkstqJFlg7GT) | [Can't Blame A Girl For Trying](https://open.spotify.com/album/1LfeBAZnBjfMt9uBshppAC) | 2:45 | 2023-04-17 | 2023-05-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,467 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,501 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 7 | [Boogie Woogie Country Girl](https://open.spotify.com/track/28hAbUS1ml3FK4fOyshS99) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [Raisin' A Ruckus](https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo) | 3:19 |
 | 8 | [Boogie Woogie Country Man](https://open.spotify.com/track/2mdnLpoDVfuTVPoBVOAMjl) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Boogie Woogie Country Man](https://open.spotify.com/album/2hQVYtzEpTQ1FOhTkO6NfB) | 3:44 |
 | 9 | [I Got It \- Remastered](https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Essential Little Richard](https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf) | 2:18 |
-| 10 | [Boogie In "G"](https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [Rock Me Daddy, Vol\. 1](https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD) | 2:34 |
-| 11 | [Stompin' At the 'subway'](https://open.spotify.com/track/4bGflDbniZ9ja3qveYItnZ) | [Christian Bleiming](https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK) | [Piano\-Blues & Boogie\-Woogie](https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9) | 2:20 |
+| 10 | [Stompin' At the 'subway'](https://open.spotify.com/track/4bGflDbniZ9ja3qveYItnZ) | [Christian Bleiming](https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK) | [Piano\-Blues & Boogie\-Woogie](https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9) | 2:20 |
+| 11 | [Boogie In "G"](https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [Rock Me Daddy, Vol\. 1](https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD) | 2:34 |
 | 12 | [Caldonia \- Single Version](https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig) | [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [Let The Good Times Roll: The Anthology 1938 \- 1953](https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK) | 2:41 |
 | 13 | [Two\-Fisted Mama](https://open.spotify.com/track/7cUsW9mL1lf2a7rACOS5dA) | [Katie Webster](https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe) | [Two\-Fisted Mama!](https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt) | 3:23 |
 | 14 | [Pinetop Boogie woogie](https://open.spotify.com/track/4Hy8MYtJn2imFljdOKQkHm) | [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Pïnetop Is Just Top \[Blues Reference \(recorded in Switzerland 1976\)\]](https://open.spotify.com/album/1anNQaXN296NDnZm8fA3Va) | 4:34 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 33 | [Long Tall Sally](https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:30 |
 | 34 | [Boogie Woogie Man](https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ) | [Albert Ammons & Pete Johnson](https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:42 |
 | 35 | [C\-Jam Boogie](https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1) | [Christian Bleiming](https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK) | [Piano\-Blues & Boogie\-Woogie](https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9) | 3:37 |
-| 36 | [Killer Miller](https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD) | [Battin' The Boogie](https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6) | 2:21 |
-| 37 | [501 Boogie](https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Rum and Coke](https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm) | 3:28 |
+| 36 | [501 Boogie](https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Rum and Coke](https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm) | 3:28 |
+| 37 | [Killer Miller](https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD) | [Battin' The Boogie](https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6) | 2:21 |
 | 38 | [Sue's Boogie](https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP) | [Sue Palmer](https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v) | [Boogie Woogie Motel Swing](https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP) | 2:03 |
 | 39 | [Junco Partner \#2](https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [The Lost Paramount Tapes](https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr) | 3:55 |
 | 40 | [A Boogie Woogie Sunday](https://open.spotify.com/track/1JJCKBuLVPAU0oeu5aWtSt) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | ["Devil Digit Boogie Woogie"](https://open.spotify.com/album/3Ex4BUJtFC1CvSqXqdKdYe) | 3:22 |
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 54 | [Shake Baby Shake](https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [The Bobby Robinson Story Volume One](https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG) | 2:25 |
 | 55 | [Swanee River Hop](https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [They Call Me The Fat Man \(The Legendary Imperial Recordings\)](https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr) | 2:52 |
 | 56 | [Blueberry Hill](https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z) | [Esben Just](https://open.spotify.com/artist/7C0r1C3ZyzEfD4XgF2T5mZ) | [Keep It Coming](https://open.spotify.com/album/169PS1pKQBPMCszDnERktt) | 2:26 |
-| 57 | [Barrelhouse Boogie](https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo) | [Albert Ammons & Pete Johnson](https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 3:03 |
-| 58 | [Boogie Woogie Storm](https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg) | [Martin Pyrker, Sabine Pyrker](https://open.spotify.com/artist/2N2wagQUl3I4BMG5KYvHEt) | [Boogie Woogie Storm](https://open.spotify.com/album/5NWhuQ7FyaDlEClXQ26QsW) | 2:54 |
+| 57 | [Boogie Woogie Storm](https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg) | [Martin Pyrker, Sabine Pyrker](https://open.spotify.com/artist/2N2wagQUl3I4BMG5KYvHEt) | [Boogie Woogie Storm](https://open.spotify.com/album/5NWhuQ7FyaDlEClXQ26QsW) | 2:54 |
+| 58 | [Barrelhouse Boogie](https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo) | [Albert Ammons & Pete Johnson](https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 3:03 |
 | 59 | [Get in the Groove, Boys!](https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS) | [Henning Pertiet](https://open.spotify.com/artist/0Cu4z8KkxgdY4WdKgowro5) | [Boogie Woogie](https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE) | 3:18 |
-| 60 | [Bluegrass Boogie Woogie](https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | [No Hats](https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I) | 3:20 |
-| 61 | [Born To Lose](https://open.spotify.com/track/7bgCLSHEbtndUh7YHPS4fI) | [Carl Mcvoy](https://open.spotify.com/artist/4xR5npq7uf2U1vrUdNqyiS) | [Sun Records Originals: You Are My Sunshine](https://open.spotify.com/album/0P5c0KZez2nVq9G3kbw83m) | 2:23 |
-| 62 | [Boogie In The City](https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL) | [Dave Taylor](https://open.spotify.com/artist/75R7PfBRN6kdo7yY7NJhR8) | [This Is Boogie Woogie!](https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP) | 2:34 |
+| 60 | [Born To Lose](https://open.spotify.com/track/7bgCLSHEbtndUh7YHPS4fI) | [Carl Mcvoy](https://open.spotify.com/artist/4xR5npq7uf2U1vrUdNqyiS) | [Sun Records Originals: You Are My Sunshine](https://open.spotify.com/album/0P5c0KZez2nVq9G3kbw83m) | 2:23 |
+| 61 | [Boogie In The City](https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL) | [Dave Taylor](https://open.spotify.com/artist/75R7PfBRN6kdo7yY7NJhR8) | [This Is Boogie Woogie!](https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP) | 2:34 |
+| 62 | [Bluegrass Boogie Woogie](https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | [No Hats](https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I) | 3:20 |
 | 63 | [Count Basie's Red Bank Cafe](https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2) | [Floyd Domino](https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2) | [Hightower Boogie Woogie](https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0) | 2:39 |
 | 64 | [Marie](https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id) | [Otis Spann's South Side Piano](https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2) | [Boogie Woogie 50](https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK) | 2:30 |
 | 65 | [Twelfth St Boogie](https://open.spotify.com/track/3gxXvhQVvIHT2vbjP5UIjK) | [Albert Ammons](https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN) | [Presenting Albert Ammons](https://open.spotify.com/album/7urtIAL4uMykGBc7QVQwFY) | 2:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 74 | [Chicago Breakdown](https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:57 |
 | 75 | [La Salle Street Breakdown](https://open.spotify.com/track/3BqTjVgE1Yno4SoEuw7KEc) | [Jimmy Yancey](https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD) | [Yancey Special](https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX) | 3:05 |
 
-Snapshot ID: `MCw5MDU3ZjVlNzYwODFjZWM1NDVkNDRmMWU0MmEzZTBhMDQ2MWFhN2Fi`
+Snapshot ID: `MCxkMWMwYjEwZmZhMjNkZTAzYTI1M2JjOWY4NTM5MTc4NmVkODE4NzM1`

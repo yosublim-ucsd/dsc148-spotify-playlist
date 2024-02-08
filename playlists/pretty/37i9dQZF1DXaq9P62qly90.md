@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,630 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,632 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 19 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
 | 20 | [Sunday Vibe](https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Sunday Vibe](https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc) | 3:06 |
 | 21 | [Harmonize](https://open.spotify.com/track/646D2x7itBIgPstjfGB2Mh) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Leylines](https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G) | 5:07 |
-| 22 | [10 Laws](https://open.spotify.com/track/6rv66YGnlPsCQHBU0ym8Tm) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [The Education of the Individual Soul](https://open.spotify.com/album/4IYRk5HoYTrYFUkTWRc8ot) | 4:19 |
+| 22 | [Laps Around The Sun](https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O) | 3:26 |
 | 23 | [You Can't Rush Your Healing](https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [KALA](https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3) | 5:51 |
-| 24 | [Wind On My Back](https://open.spotify.com/track/1aVYeyLNQSCvJgAIAR9xVb) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [The Cornerstone](https://open.spotify.com/album/27QcGr8iNyMvM2JvARlX47) | 4:00 |
-| 25 | [Laps Around The Sun](https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O) | 3:26 |
+| 24 | [10 Laws](https://open.spotify.com/track/6rv66YGnlPsCQHBU0ym8Tm) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [The Education of the Individual Soul](https://open.spotify.com/album/4IYRk5HoYTrYFUkTWRc8ot) | 4:19 |
+| 25 | [Wind On My Back](https://open.spotify.com/track/1aVYeyLNQSCvJgAIAR9xVb) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [The Cornerstone](https://open.spotify.com/album/27QcGr8iNyMvM2JvARlX47) | 4:00 |
 | 26 | [Garden](https://open.spotify.com/track/4sqyxt6b47PF0mKE7OvLxH) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Take Your Power Back](https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT) | 3:56 |
 | 27 | [All Ways Love](https://open.spotify.com/track/1sfAxYGCFIz5M17vHimFxj) | [Tubby Love](https://open.spotify.com/artist/2iIIX35bw7TQhOve8Ur5tG), [Paul Izak](https://open.spotify.com/artist/2gsrDFiFvHxKkh8Qh5Zbys), [Anna Surento](https://open.spotify.com/artist/131dBEHpXd9Pe7W0ze96VE) | [Campfire Anthems, Vol\. I](https://open.spotify.com/album/5rVbfchsQDXcJQYF7sDHVw) | 3:42 |
 | 28 | [Walking on the Moon \(Acoustic\)](https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Cas Haley](https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 49 | [Steppegrass](https://open.spotify.com/track/4qKOmcvaDx0hYHdOCqq90L) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Road Goes All Night](https://open.spotify.com/album/7LVZpO9CxYEjL0O6zfeH3D) | 5:51 |
 | 50 | [Back to the Old](https://open.spotify.com/track/3ezhfmt8pBdp8Eef2EcYut) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Undercurrent](https://open.spotify.com/album/5a1dmR0nQcrgDJKLGAg1M7) | 5:49 |
 
-Snapshot ID: `MCwyMmZlYmZlOWRhMzVjMTljMGUxMzIzMzdiOWI2ZDQ4NTZhMWY3ZWE1`
+Snapshot ID: `MCw4NDU2OTc1YmE2MmYyOWQ5NDU4OGM0MDdmNjZlZjkxZWY3ZDdlNjk0`

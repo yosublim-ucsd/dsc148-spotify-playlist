@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,998 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,512 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 18 | [Gonna Make You Sweat \(Everybody Dance Now\) \(feat\. Freedom Williams\)](https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF) | [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF), [Freedom Williams](https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR) | [Super Hits](https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7) | 4:04 |
 | 19 | [Saturday Night \- Radio Mix](https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9) | [Whigfield](https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq) | [Saturday Night Single](https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud) | 4:07 |
 | 20 | [We Like To Party! \(The Vengabus\)](https://open.spotify.com/track/73ljrkSg4A0q3ByU0Cu7mw) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:42 |
-| 21 | [Sing Hallelujah!](https://open.spotify.com/track/2qjDNbgLzfBpCvDwfw11Qg) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [One Love](https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU) | 4:00 |
-| 22 | [Ecuador \- Original Radio Edit](https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:32 |
+| 21 | [Ecuador \- Original Radio Edit](https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:32 |
+| 22 | [Sing Hallelujah!](https://open.spotify.com/track/2qjDNbgLzfBpCvDwfw11Qg) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [One Love](https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU) | 4:00 |
 | 23 | [Beautiful Life](https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Bridge](https://open.spotify.com/album/5BOX6g9aOGf0yh7OEkzen3) | 3:41 |
 | 24 | [Bla Bla Bla](https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV) | 4:15 |
 | 25 | [Push The Feeling On \- Mk Dub Revisited Edit](https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag) | [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Push The Feeling On](https://open.spotify.com/album/5JVyNX3e2hGoOttoe7B8QL) | 4:03 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 45 | [Back in My Life](https://open.spotify.com/track/557q3cfw95ChPhoupTVUUZ) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:29 |
 | 46 | [Missing \- Todd Terry Club Mix](https://open.spotify.com/track/5HvLxMeai31mM560lrIITQ) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart](https://open.spotify.com/album/0WQmpiDN4YZhPRVR3JRjRR) | 4:09 |
 | 47 | [Cotton Eye Joe](https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g) | [Sex & Violins](https://open.spotify.com/album/3MLXp4rTGt1USufyODvXuz) | 3:13 |
-| 48 | [Everybody Everybody](https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:07 |
-| 49 | [This Is Your Night](https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV) | [Amber](https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH) | [This Is Your Night](https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA) | 3:58 |
+| 48 | [This Is Your Night](https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV) | [Amber](https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH) | [This Is Your Night](https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA) | 3:58 |
+| 49 | [Everybody Everybody](https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:07 |
 | 50 | [It's a Rainy Day](https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:15 |
 | 51 | [Hardcore Vibes](https://open.spotify.com/track/0yx5eBLk3AGOH5EruCqLDx) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r), [Froning](https://open.spotify.com/artist/4ZyOzd4u9Kg3B6Ny0NDyGd) | [Dune](https://open.spotify.com/album/5hAcH6CTDKGj43pMhp4iwR) | 3:33 |
 | 52 | [The Rhythm of the Night](https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS) | 4:24 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 67 | [Can‘t Stop Raving \(Video Mix\)](https://open.spotify.com/track/4Q7fEjeCZgU8oxjbLWrm7L) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r) | [Can‘t Stop Raving](https://open.spotify.com/album/1hMjJNZT1jhuWNotbgTRsB) | 3:36 |
 | 68 | [Flying High \- Radio Mix](https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Flying High](https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a) | 3:46 |
 | 69 | [Bailando \- Video Edit](https://open.spotify.com/track/7cG3wfohoNDSp2M8FWrgTg) | [Paradisio](https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb) | [Bailando](https://open.spotify.com/album/3iJwt0Sq44ZBzR7kNCxf0y) | 3:49 |
-| 70 | [United \- Short Mix](https://open.spotify.com/track/79yxhRPydB5Zs0fWh3QICm) | [Mark 'Oh](https://open.spotify.com/artist/4PTTDM08OI9jnPTOZ7QRn1) | [United](https://open.spotify.com/album/61NPV53hdl13ljABTLGIfF) | 3:41 |
+| 70 | [I Give You My Heart](https://open.spotify.com/track/5PTWlk21hqWnFu841NOp7k) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:35 |
 
-Snapshot ID: `MCw0NjFmNDA1MTVhMjU3ZWVjN2FkNjBlZTY5MWQxMjYyNDAxNmE3MTYw`
+Snapshot ID: `MCw3ZmM1ZDE4NmE0MmFiYzEwODhjYTZiOTQwZGM4ZTNkNmE0OTZhNjhm`

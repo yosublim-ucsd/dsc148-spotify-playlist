@@ -4,12 +4,13 @@
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-110 songs - 6 hr 44 min
+111 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [17](https://open.spotify.com/track/5Mqgg190651eI2fWqpIiZq) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:23 | 2023-11-23 | 2024-01-17 |
 | [Aiai](https://open.spotify.com/track/2fk7HoBZPtoeqIl54CLTR7) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madaramoyo](https://open.spotify.com/album/2SQQoQMMoeB2TnIQ8Wbc19) | 3:47 | 2024-01-18 | 2024-01-31 |
+| [Ambiguous](https://open.spotify.com/track/36Kj0vrp2MnYICExdK1lN9) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Ambiguous](https://open.spotify.com/album/3ny9YuGHA0QNn4F9zWC7Bz) | 3:40 | 2024-02-06 |  |
 | [ANTENNA](https://open.spotify.com/track/4ER5mnbHqsvggEcoVMdFSk) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 4:30 | 2023-11-23 |  |
 | [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 | 2024-01-04 |  |
 | [Bacon Epi](https://open.spotify.com/track/71Mp5di6jhp0Vp1xm0aXud) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 5:30 | 2023-11-23 | 2024-01-17 |
@@ -62,7 +63,7 @@
 | [yattyattawa](https://open.spotify.com/track/4yHNww1JcnVXjL4OxKwdyr) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [yattyattawa](https://open.spotify.com/album/0BQD8PXJk9cxt2Mzt20iSp) | 2:41 | 2023-11-23 | 2024-01-31 |
 | [Yotei](https://open.spotify.com/track/0sUt0usKLBjhcNjtetMU3g) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Yotei](https://open.spotify.com/album/2FFYUv7eZ1pGgmwbVAGMFQ) | 4:24 | 2024-01-30 |  |
 | [YOU&愛Heaven](https://open.spotify.com/track/61y30C7o99Zi0uGCyB5vqy) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [YOU&愛Heaven](https://open.spotify.com/album/3rYPFG85zZbBFX77PcdFQ5) | 3:45 | 2024-01-04 | 2024-01-30 |
-| [あやふや](https://open.spotify.com/track/1UvCeSlHieprSfrjlREJdS) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [あやふや](https://open.spotify.com/album/5fDfPVGJ6uv8AwIV1F3jCU) | 3:40 | 2024-02-06 |  |
+| [あやふや](https://open.spotify.com/track/1UvCeSlHieprSfrjlREJdS) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [あやふや](https://open.spotify.com/album/5fDfPVGJ6uv8AwIV1F3jCU) | 3:40 | 2024-02-06 | 2024-02-08 |
 | [くすぶってばっかいられない](https://open.spotify.com/track/64AL4hgGyaUofamFJ19Wc4) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [306](https://open.spotify.com/album/4xDPpqsq8PLPtDRXGpKEPF) | 2:40 | 2023-11-23 | 2024-01-17 |
 | [こがれ](https://open.spotify.com/track/1UpRK1N1DGTYSLaLmpdZw2) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [音生 \-onsei\-](https://open.spotify.com/album/684jExc4XxRfjR7na7l7sr) | 3:49 | 2024-01-30 | 2024-02-01 |
 | [このまま僕らが大人になっても](https://open.spotify.com/track/5jQk8XgAfBHZpczOO5hJyc) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [大都会に告ぐ](https://open.spotify.com/album/65kozKwrc7PWlfM2ylbdO0) | 1:28 | 2024-01-16 | 2024-01-24 |

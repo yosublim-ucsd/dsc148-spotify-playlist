@@ -2,7 +2,7 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: BIGONE\(빅원\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Changbin, Kim Chang\-Wan\(창빈, 김창완\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
 564 songs - 1 day 10 hr 40 min
 

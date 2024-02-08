@@ -1,12 +1,12 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34 & \uacf5\ubd80\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 110822,
+  "num_followers": 110828,
   "original_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDc1MTJjOGE4NTNhMDUwNDVkYTE5NWNlOWRkYTE0YjllYTM0ZDkw",
+  "snapshot_id": "MCw3ZGQ0NWExM2ZlNDc4OTQ5YWJlN2RmMjUwYmUyNWZjY2I3ZWNkMjQ0",
   "tracks": [
     {
       "added_at": "2023-11-04 06:02:51",
@@ -827,18 +827,22 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "IT'z ME",
-        "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
+        "name": "Guardian (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
       },
       "artists": [
         {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
         }
       ],
-      "duration_ms": 191242,
-      "name": "WANNABE",
-      "url": "https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e"
+      "duration_ms": 192441,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -875,22 +879,18 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
+        "name": "IT'z ME",
+        "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
       },
       "artists": [
         {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
-        },
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
         }
       ],
-      "duration_ms": 192441,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
+      "duration_ms": 191242,
+      "name": "WANNABE",
+      "url": "https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
+        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
+        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "Rock with you",
+      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
         "name": "POP/STARS",
         "url": "https://open.spotify.com/album/0UnBZ8laFgLUq5Ty5vbikQ"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 191100,
       "name": "POP/STARS",
       "url": "https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
-        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
-        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Rock with you",
-      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
         "name": "The Chaos Chapter: FREEZE",
         "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 202203,
       "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
       "url": "https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -1435,8 +1435,8 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "minisode 2: Thursday's Child",
-        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
       "artists": [
         {
@@ -1444,9 +1444,9 @@
           "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 191038,
-      "name": "Good Boy Gone Bad",
-      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
+      "duration_ms": 209105,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "Chili",
-        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 135428,
-      "name": "Chili",
-      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
         "name": "CHESHIRE",
         "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
       },
@@ -1579,8 +1563,24 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "minisode1 : Blue Hour",
-        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+        "name": "Chili",
+        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 135428,
+      "name": "Chili",
+      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
+        "name": "minisode 2: Thursday's Child",
+        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
       },
       "artists": [
         {
@@ -1588,9 +1588,9 @@
           "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 209105,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
+      "duration_ms": 191038,
+      "name": "Good Boy Gone Bad",
+      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
+        "name": "SPIN OFF : FROM THE WITNESS",
+        "url": "https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 197025,
+      "name": "HALAZIA",
+      "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
       },
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "SPIN OFF : FROM THE WITNESS",
-        "url": "https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 197025,
-      "name": "HALAZIA",
-      "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
         "name": "Girls - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
       },
@@ -1675,6 +1675,22 @@
       "duration_ms": 240440,
       "name": "Girls",
       "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 177728,
+      "name": "Not Shy",
+      "url": "https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -1711,22 +1727,6 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "Not Shy",
-        "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 177728,
-      "name": "Not Shy",
-      "url": "https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
         "name": "\u56de:Walpurgis Night",
         "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
       },
@@ -1759,6 +1759,22 @@
       "duration_ms": 189355,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/1D6lK8qADoErTTLkY4YBfM"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 172373,
+      "name": "In the morning",
+      "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -1867,22 +1883,6 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "Perfect Velvet - The 2nd Album",
-        "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 189049,
-      "name": "Peek-A-Boo",
-      "url": "https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
         "name": "BBIBBI",
         "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
       },
@@ -1899,18 +1899,18 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "GUESS WHO",
-        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+        "name": "Perfect Velvet - The 2nd Album",
+        "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
       },
       "artists": [
         {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 172373,
-      "name": "In the morning",
-      "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
+      "duration_ms": 189049,
+      "name": "Peek-A-Boo",
+      "url": "https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -1963,6 +1963,38 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
+        "name": "GREAT!",
+        "url": "https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4"
+      },
+      "artists": [
+        {
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+        }
+      ],
+      "duration_ms": 208863,
+      "name": "BBoom BBoom",
+      "url": "https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 9",
+        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 229678,
+      "name": "I Will Go To You Like the First Snow",
+      "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
         "name": "The Red Summer - Summer Mini Album",
         "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
       },
@@ -1979,18 +2011,18 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "GREAT!",
-        "url": "https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4"
+        "name": "Love poem",
+        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
       },
       "artists": [
         {
-          "name": "MOMOLAND",
-          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 208863,
-      "name": "BBoom BBoom",
-      "url": "https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto"
+      "duration_ms": 217053,
+      "name": "Blueming",
+      "url": "https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -2015,38 +2047,6 @@
       "duration_ms": 184905,
       "name": "Savage Love (Laxed \u2013 Siren Beat) [BTS Remix]",
       "url": "https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
-        "name": "Love poem",
-        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 217053,
-      "name": "Blueming",
-      "url": "https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 9",
-        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 229678,
-      "name": "I Will Go To You Like the First Snow",
-      "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -2267,18 +2267,18 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "Paint Me Naked - SM STATION",
-        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
       },
       "artists": [
         {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 180560,
-      "name": "Paint Me Naked",
-      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
+      "duration_ms": 283160,
+      "name": "You Were Beautiful",
+      "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "SUNRISE",
-        "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 283160,
-      "name": "You Were Beautiful",
-      "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
         "name": "WHY..",
         "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 175106,
       "name": "But Sometimes",
       "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
+        "name": "Paint Me Naked - SM STATION",
+        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Paint Me Naked",
+      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "Teddy Bear",
-        "url": "https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 189773,
-      "name": "Teddy Bear",
-      "url": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 196160,
       "name": "NO PROBLEM (Feat. Felix of Stray Kids)",
       "url": "https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
+        "name": "Teddy Bear",
+        "url": "https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 189773,
+      "name": "Teddy Bear",
+      "url": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "KARD 6th Mini Album 'ICKY'",
-        "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
-      },
-      "artists": [
-        {
-          "name": "KARD",
-          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "ICKY",
-      "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
         "name": "I am",
         "url": "https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 202772,
       "name": "LATATA",
       "url": "https://open.spotify.com/track/2ezKXygNO30pXyDQXkm6oD"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
+        "name": "KARD 6th Mini Album 'ICKY'",
+        "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "ICKY",
+      "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -2687,6 +2687,22 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
+        "name": "GFRIEND 2nd Mini Album 'Flower Bud'",
+        "url": "https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 220745,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/6x7fux7bZEfnChKx3nhSZn"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -2707,22 +2723,6 @@
       "duration_ms": 216786,
       "name": "All I Wanna Do (K) (Feat. Hoody & Loco)",
       "url": "https://open.spotify.com/track/2FWquqPNxte8iqZ3ATQG0p"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
-        "name": "GFRIEND 2nd Mini Album 'Flower Bud'",
-        "url": "https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 220745,
-      "name": "Me Gustas Tu",
-      "url": "https://open.spotify.com/track/6x7fux7bZEfnChKx3nhSZn"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -2927,22 +2927,6 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "SEOULITE",
-        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 288915,
-      "name": "BREATHE",
-      "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
-    },
-    {
-      "added_at": "2023-11-04 06:02:51",
-      "album": {
         "name": "Star To A Young Culture",
         "url": "https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR"
       },
@@ -2955,6 +2939,22 @@
       "duration_ms": 212264,
       "name": "SO BAD",
       "url": "https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4"
+    },
+    {
+      "added_at": "2023-11-04 06:02:51",
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 288915,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
     },
     {
       "added_at": "2023-11-04 06:02:51",
@@ -3391,18 +3391,18 @@
     {
       "added_at": "2023-11-04 06:02:51",
       "album": {
-        "name": "1-1=0 (NOTHING WITHOUT YOU)",
-        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+        "name": "DISHARMONY : FIND OUT",
+        "url": "https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz"
       },
       "artists": [
         {
-          "name": "Wanna One",
-          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
         }
       ],
-      "duration_ms": 196799,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/1H0zKZDwR19OGD3zKrwuTG"
+      "duration_ms": 192093,
+      "name": "Do It Like This",
+      "url": "https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL"
     }
   ],
   "unique_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",

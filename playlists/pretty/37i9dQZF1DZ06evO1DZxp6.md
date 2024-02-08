@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 
 > This is Julieta Venegas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,757 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,803 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 46 | [Saudade](https://open.spotify.com/track/23DnvfI41PNvTHEkGJXVBC) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Certa Manha Acordei De Sonhos Intranquilos](https://open.spotify.com/album/7wn5gtrPC8pOSoqBgc7EZK) | 3:23 |
 | 47 | [Debajo de Mi Lengua](https://open.spotify.com/track/6Pwr82B3aqLM850IH1oc1z) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otra Cosa](https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO) | 2:38 |
 | 48 | [Tu Historia](https://open.spotify.com/track/6iLYRz5jMXoLIqd5YE3uNh) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:25 |
-| 49 | [Suavecito](https://open.spotify.com/track/369rWMvwPJ1qm5GQ0ilNp2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Suavecito](https://open.spotify.com/album/6zghbTfY5LTp8XiiqXDOGz) | 3:03 |
-| 50 | [Tienes una idea muy antigua del amor \(feat\. Julieta Venegas\)](https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:26 |
+| 49 | [Tienes una idea muy antigua del amor \(feat\. Julieta Venegas\)](https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:26 |
+| 50 | [El Triste](https://open.spotify.com/track/6ZWGKfPSyvC2Oe68CB2brV) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Un Tributo](https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ) | 4:17 |
 | 51 | [Te solté la rienda](https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Te solté la rienda](https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp) | 3:27 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA5N2U0OGFkNTE0OTI0NzNjYjA4NDBkMDJiODFhODhhZg==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDAxNDg5MGNhMWRiYWExZDJiMmVkYTc2ZDkyMDk5NjQxZg==`

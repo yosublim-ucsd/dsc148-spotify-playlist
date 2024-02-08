@@ -1,12 +1,12 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1069518,
+  "num_followers": 1069514,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjQ0MjViNjgzOTM1NjNkNWMxNGFjZWE1YjE2MTVmMjZmNWUzNjg3",
+  "snapshot_id": "MCxjYTdiZDY4NDZlMTBhNjdjMzQwZTFlZDVkNjYxYzEzMWYzMTQ2OGU2",
   "tracks": [
     {
       "added_at": "2022-02-25 03:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 246380,
+      "name": "ON",
+      "url": "https://open.spotify.com/track/0fZRNhPJ4AGmwY7rkpdbqK"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
         "name": "Tuesday (feat. Danelle Sandoval)",
         "url": "https://open.spotify.com/album/6TvNvQ8DNIFyOMMksmKVDB"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 241874,
       "name": "Tuesday (feat. Danelle Sandoval)",
       "url": "https://open.spotify.com/track/7EVk9tRb6beJLTHrg6AkY9"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
-        "name": "MAP OF THE SOUL : 7",
-        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 246380,
-      "name": "ON",
-      "url": "https://open.spotify.com/track/0fZRNhPJ4AGmwY7rkpdbqK"
     },
     {
       "added_at": "2022-02-25 03:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
+        "name": "TIM",
+        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 277261,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
         "name": "First Time",
         "url": "https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 193511,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
-        "name": "TIM",
-        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 277261,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ"
     },
     {
       "added_at": "2022-02-25 03:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
+        "name": "Your Song",
+        "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 180757,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
         "name": "I'll Wait",
         "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 215360,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
-        "name": "Your Song",
-        "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 180757,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
     },
     {
       "added_at": "2022-02-25 03:00:00",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
-        "name": "Medley da Gaiola (DENNIS Remix)",
-        "url": "https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        }
-      ],
-      "duration_ms": 239999,
-      "name": "Medley da Gaiola - DENNIS Remix",
-      "url": "https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 161444,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
+        "name": "Medley da Gaiola (DENNIS Remix)",
+        "url": "https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        }
+      ],
+      "duration_ms": 239999,
+      "name": "Medley da Gaiola - DENNIS Remix",
+      "url": "https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE"
     },
     {
       "added_at": "2022-02-25 03:00:00",

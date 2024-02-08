@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
-  "num_followers": 8889,
+  "num_followers": 8891,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGU4NzI1NWZiMWEzNDJhYjUyN2QxNThhNWFiNmNmOWYyZjhkODEx",
+  "snapshot_id": "MCxlYzU0MzNmZjM0N2VlMDY2ZDJlM2I1ZmFhNmY3ZTJkYzg0OTZjMjgz",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -683,18 +683,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Sourire kabyle",
-        "url": "https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9"
+        "name": "Fouette Saint-Patrick",
+        "url": "https://open.spotify.com/album/1OKQUHt3LCz5JnqgTEggce"
       },
       "artists": [
         {
-          "name": "MB",
-          "url": "https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU"
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+        },
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
         }
       ],
-      "duration_ms": 184999,
-      "name": "Pour la vie",
-      "url": "https://open.spotify.com/track/3uMyq8MxiJlrKJAEhRiOBZ"
+      "duration_ms": 163459,
+      "name": "Chill?",
+      "url": "https://open.spotify.com/track/3zQI8CC3IokFvAqgXgY5KB"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -715,22 +719,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Fouette Saint-Patrick",
-        "url": "https://open.spotify.com/album/1OKQUHt3LCz5JnqgTEggce"
+        "name": "Sourire kabyle",
+        "url": "https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9"
       },
       "artists": [
         {
-          "name": "Tizzo",
-          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
-        },
-        {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+          "name": "MB",
+          "url": "https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU"
         }
       ],
-      "duration_ms": 163459,
-      "name": "Chill?",
-      "url": "https://open.spotify.com/track/3zQI8CC3IokFvAqgXgY5KB"
+      "duration_ms": 184999,
+      "name": "Pour la vie",
+      "url": "https://open.spotify.com/track/3uMyq8MxiJlrKJAEhRiOBZ"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "5 / 5",
-        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
-      },
-      "artists": [
-        {
-          "name": "5sang14",
-          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
-        }
-      ],
-      "duration_ms": 209235,
-      "name": "PLG",
-      "url": "https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "B\u00e2timent",
         "url": "https://open.spotify.com/album/7ymXUtwoouExMHp6KlyMzp"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 167418,
       "name": "B\u00e2timent",
       "url": "https://open.spotify.com/track/25GCROc6FbTgRcif4sAJDB"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "5 / 5",
+        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
+      },
+      "artists": [
+        {
+          "name": "5sang14",
+          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
+        }
+      ],
+      "duration_ms": 209235,
+      "name": "PLG",
+      "url": "https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "La Nuit des Longs Couteaux",
+        "url": "https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        }
+      ],
+      "duration_ms": 283613,
+      "name": "\u00c9l\u00e9phant",
+      "url": "https://open.spotify.com/track/1FKWP1WvUxG0vXodvuO7HL"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "51tr4p Fr4p50",
         "url": "https://open.spotify.com/album/2F8K3bOEdbX9xh6g9EX5uG"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 226067,
       "name": "On Fouette",
       "url": "https://open.spotify.com/track/70MAMZj0aeCAq3duYgngsn"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "La Nuit des Longs Couteaux",
-        "url": "https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX"
-      },
-      "artists": [
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        }
-      ],
-      "duration_ms": 283613,
-      "name": "\u00c9l\u00e9phant",
-      "url": "https://open.spotify.com/track/1FKWP1WvUxG0vXodvuO7HL"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Dans la peau (Anxiety)",
-        "url": "https://open.spotify.com/album/6exA47nOA3FEkMkiwZCFSq"
-      },
-      "artists": [
-        {
-          "name": "Yes*",
-          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
-        }
-      ],
-      "duration_ms": 183746,
-      "name": "Dans la peau (Anxiety)",
-      "url": "https://open.spotify.com/track/4thpnFUoYU4QYeQuhANS1j"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Oc\u00e9an",
         "url": "https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 305906,
       "name": "Peace and Love",
       "url": "https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Dans la peau (Anxiety)",
+        "url": "https://open.spotify.com/album/6exA47nOA3FEkMkiwZCFSq"
+      },
+      "artists": [
+        {
+          "name": "Yes*",
+          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
+        }
+      ],
+      "duration_ms": 183746,
+      "name": "Dans la peau (Anxiety)",
+      "url": "https://open.spotify.com/track/4thpnFUoYU4QYeQuhANS1j"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1231,30 +1231,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "OUI (tout tout tout toutttte)",
-        "url": "https://open.spotify.com/album/1BuX0kIaenhckd7qbX5htS"
-      },
-      "artists": [
-        {
-          "name": "Yes*",
-          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
-        },
-        {
-          "name": "Ogee Rodman",
-          "url": "https://open.spotify.com/artist/2OceOdLERXKBklcwbmzhjT"
-        },
-        {
-          "name": "Caballero & JeanJass",
-          "url": "https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6"
-        }
-      ],
-      "duration_ms": 288733,
-      "name": "For\u00eats",
-      "url": "https://open.spotify.com/track/4bcAvTSmAFpD0q8eKMTHhU"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Gesamtkunstwerk",
         "url": "https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW"
       },
@@ -1303,6 +1279,30 @@
       "duration_ms": 215511,
       "name": "Saint Laurent",
       "url": "https://open.spotify.com/track/3alXnI2ImIwAUoTYMjm26H"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "OUI (tout tout tout toutttte)",
+        "url": "https://open.spotify.com/album/1BuX0kIaenhckd7qbX5htS"
+      },
+      "artists": [
+        {
+          "name": "Yes*",
+          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
+        },
+        {
+          "name": "Ogee Rodman",
+          "url": "https://open.spotify.com/artist/2OceOdLERXKBklcwbmzhjT"
+        },
+        {
+          "name": "Caballero & JeanJass",
+          "url": "https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6"
+        }
+      ],
+      "duration_ms": 288733,
+      "name": "For\u00eats",
+      "url": "https://open.spotify.com/track/4bcAvTSmAFpD0q8eKMTHhU"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1371,38 +1371,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "C'est pas la qualit\u00e9 qui compte",
-        "url": "https://open.spotify.com/album/3Xz40mydponIZHMBubJsSX"
-      },
-      "artists": [
-        {
-          "name": "Qualit\u00e9 Motel",
-          "url": "https://open.spotify.com/artist/6GZTbbzfV1dP2hCgUcDynC"
-        },
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        },
-        {
-          "name": "Curieux B\u00e9gin",
-          "url": "https://open.spotify.com/artist/0YBkOnbAd0384Cis3ur3HO"
-        },
-        {
-          "name": "Vinny Bombay",
-          "url": "https://open.spotify.com/artist/1a20rLp5UIw3OOwYrL0jaH"
-        },
-        {
-          "name": "Luis Clavis",
-          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
-        }
-      ],
-      "duration_ms": 159688,
-      "name": "Basilic",
-      "url": "https://open.spotify.com/track/1yjWkxCO8FVKX9ETBpw3X8"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Encore Des Histoires De Trap",
         "url": "https://open.spotify.com/album/5f27f4CYjasBqMXVn6nbuw"
       },
@@ -1443,6 +1411,38 @@
       "duration_ms": 235075,
       "name": "Bruce Wayne",
       "url": "https://open.spotify.com/track/2jIxXjnutJGHMBSnc6ZcBj"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "C'est pas la qualit\u00e9 qui compte",
+        "url": "https://open.spotify.com/album/3Xz40mydponIZHMBubJsSX"
+      },
+      "artists": [
+        {
+          "name": "Qualit\u00e9 Motel",
+          "url": "https://open.spotify.com/artist/6GZTbbzfV1dP2hCgUcDynC"
+        },
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        },
+        {
+          "name": "Curieux B\u00e9gin",
+          "url": "https://open.spotify.com/artist/0YBkOnbAd0384Cis3ur3HO"
+        },
+        {
+          "name": "Vinny Bombay",
+          "url": "https://open.spotify.com/artist/1a20rLp5UIw3OOwYrL0jaH"
+        },
+        {
+          "name": "Luis Clavis",
+          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
+        }
+      ],
+      "duration_ms": 159688,
+      "name": "Basilic",
+      "url": "https://open.spotify.com/track/1yjWkxCO8FVKX9ETBpw3X8"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "La Coupe",
-        "url": "https://open.spotify.com/album/0RmRcOngbxdmj2xaqbG8qg"
-      },
-      "artists": [
-        {
-          "name": "LES ANTICIPATEURS",
-          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
-        },
-        {
-          "name": "Tommy Kruise",
-          "url": "https://open.spotify.com/artist/6qbvYddbPDB4W0dHHmJ38S"
-        }
-      ],
-      "duration_ms": 172489,
-      "name": "Findsemaine",
-      "url": "https://open.spotify.com/track/12ArV5PWkSFau0DO3oZEHB"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Cest la vie",
         "url": "https://open.spotify.com/album/6ZFQ1NRQ68TWF7xHIQJ4nV"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 182569,
       "name": "Cest la vie",
       "url": "https://open.spotify.com/track/1nDzpmP87QECplOn8I0L3E"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "La Coupe",
+        "url": "https://open.spotify.com/album/0RmRcOngbxdmj2xaqbG8qg"
+      },
+      "artists": [
+        {
+          "name": "LES ANTICIPATEURS",
+          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
+        },
+        {
+          "name": "Tommy Kruise",
+          "url": "https://open.spotify.com/artist/6qbvYddbPDB4W0dHHmJ38S"
+        }
+      ],
+      "duration_ms": 172489,
+      "name": "Findsemaine",
+      "url": "https://open.spotify.com/track/12ArV5PWkSFau0DO3oZEHB"
     }
   ],
   "unique_name": "Les nouveaux classiques",

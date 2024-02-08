@@ -1,47 +1,79 @@
 {
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: YUJIHI(\uc720\uc9c0\ud76c)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 284231,
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover:\bHebron(\ubcc0\ud558\uc740)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "num_followers": 284273,
   "original_name": "K-Folk/Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODg1NTU1OWEwZjk2NjliZTgwMDU1YTE1MWJhZWZjYzE3ZDUxMmUw",
+  "snapshot_id": "MCw0MmNiMGUzZTFjZmU2MjZiODg1ZDBmMjBhYTg5MTEzZWM1OTU2NTdm",
   "tracks": [
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
-        "name": "\uc5b4\ub978\uc774 \ub41c\ub2e4\ub294 \uac83\uc740 Being an Adult",
-        "url": "https://open.spotify.com/album/5IZLxyvyNpEAr6PV5bOLHd"
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/2a71guGlU9TApuOxrB8cod"
       },
       "artists": [
         {
-          "name": "YUJIHI",
-          "url": "https://open.spotify.com/artist/4hYIVGn9yq7nl2qTYyw2ZC"
+          "name": "Hebron",
+          "url": "https://open.spotify.com/artist/2qthTndkpNYZpgngO0yrYV"
         }
       ],
-      "duration_ms": 254000,
-      "name": "\uc5b4\ub978\uc774 \ub41c\ub2e4\ub294 \uac83\uc740 Being an Adult",
-      "url": "https://open.spotify.com/track/3vWv8Ff85BCvEJW3L6rw7V"
+      "duration_ms": 202641,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/1FheANRtzXpettNJ5cK7O8"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
-        "name": "Letter",
-        "url": "https://open.spotify.com/album/7ktYYaSffu0Vq4xkuPKnl4"
+        "name": "when the dawn comes",
+        "url": "https://open.spotify.com/album/3NJP5JyWrfAYiTEseYvyrm"
       },
       "artists": [
         {
-          "name": "Sung Haebin",
-          "url": "https://open.spotify.com/artist/0tq4WWL39Wk9b1xIKAhS86"
+          "name": "109",
+          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Letter",
-      "url": "https://open.spotify.com/track/0eXC86UwZ4idh8Gdliguce"
+      "duration_ms": 191104,
+      "name": "when the dawn comes",
+      "url": "https://open.spotify.com/track/2tscQs2pvCjOUwJM9FNwD5"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
+      "album": {
+        "name": "Strange Stroll",
+        "url": "https://open.spotify.com/album/6CF7msQNpDwc6ZZN285Xl4"
+      },
+      "artists": [
+        {
+          "name": "Yuna Bae",
+          "url": "https://open.spotify.com/artist/69WlUWV5wRqG9YfRHe4pso"
+        }
+      ],
+      "duration_ms": 256946,
+      "name": "Strange Stroll",
+      "url": "https://open.spotify.com/track/31T7mn1xbeV4G9JxP44koG"
+    },
+    {
+      "added_at": "2024-02-07 09:02:02",
+      "album": {
+        "name": "\uc18c\uc911\ud55c \uc0ac\ub78c",
+        "url": "https://open.spotify.com/album/33YIzft9BfwBVc09lduiIm"
+      },
+      "artists": [
+        {
+          "name": "\ud55c\uc138\uc601",
+          "url": "https://open.spotify.com/artist/3UpDjV6j4gsRntwhmDHly5"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "\uc18c\uc911\ud55c \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/6fLU2bijVBUZtG3bCY6Ffl"
+    },
+    {
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
@@ -77,7 +109,7 @@
       "url": "https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Nevertheless, (Original Television Soundtrack, Pt. 6)",
         "url": "https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi"
@@ -93,7 +125,7 @@
       "url": "https://open.spotify.com/track/1lhm29o3syw122xynSKaAK"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "My Voice - The 1st Album",
         "url": "https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN"
@@ -109,7 +141,7 @@
       "url": "https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Ordinary Confession",
         "url": "https://open.spotify.com/album/45oQjPValwYlPUeOQKUd68"
@@ -125,7 +157,7 @@
       "url": "https://open.spotify.com/track/6JIm38KbaDGfi65VGETDi9"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
@@ -145,7 +177,7 @@
       "url": "https://open.spotify.com/track/1mrS1j5cwaffpXsthTb2Qx"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Love, Maybe (A Business Proposal OST Bonus Track)",
         "url": "https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz"
@@ -161,7 +193,7 @@
       "url": "https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Twenty-Five Twenty-One OST Part 3",
         "url": "https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP"
@@ -177,39 +209,7 @@
       "url": "https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
-      "album": {
-        "name": "Expectation - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
-    },
-    {
-      "added_at": "2024-02-01 09:21:23",
-      "album": {
-        "name": "My Voice - The 1st Album (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
-    },
-    {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Nevertheless, (Original Drama Sound Track, Pt. 1)",
         "url": "https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Modern Times \u2013 Epilogue",
         "url": "https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0"
@@ -245,7 +245,23 @@
       "url": "https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
+      "album": {
+        "name": "Expectation - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
+    },
+    {
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
@@ -261,23 +277,7 @@
       "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu"
-    },
-    {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
@@ -293,7 +293,23 @@
       "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 223451,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
+    },
+    {
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "The Dream Chapter: ETERNITY",
         "url": "https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/12I69qHomlIZflYA1G2MAp"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "GO LIVE",
         "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Only Then",
         "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Dear My All",
         "url": "https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf"
@@ -373,23 +389,7 @@
       "url": "https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
-    },
-    {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
@@ -405,7 +405,23 @@
       "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 174520,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu"
+    },
+    {
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Tomorrow - SM STATION",
         "url": "https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Chancellor",
         "url": "https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Uncontrollably Fond OST Part.1",
         "url": "https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "So life goes on",
         "url": "https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36"
@@ -473,23 +489,7 @@
       "url": "https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Si Fueras M\u00eda",
-      "url": "https://open.spotify.com/track/2EDpsT55NCISpccODTIUiV"
-    },
-    {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Autumn breeze",
         "url": "https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "DREAM LIKE ME",
         "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
@@ -529,7 +529,23 @@
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
+    },
+    {
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Dear my X",
         "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "friend to lover",
         "url": "https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Through the Night",
         "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "See you",
         "url": "https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Just 10 centimeters",
         "url": "https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "LOVE SHOT\u2013 The 5th Album Repackage",
         "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
@@ -633,7 +649,23 @@
       "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Si Fueras M\u00eda",
+      "url": "https://open.spotify.com/track/2EDpsT55NCISpccODTIUiV"
+    },
+    {
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "The night we parted",
         "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
@@ -649,7 +681,7 @@
       "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Tofu Personified Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6QX9efMZlYa0HQic1iO3PX"
@@ -665,7 +697,7 @@
       "url": "https://open.spotify.com/track/4epozEKOwPtszj2zaKeVIP"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Kim Cheolsu Story",
         "url": "https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2"
@@ -681,7 +713,7 @@
       "url": "https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Sun And Moon",
         "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
@@ -697,7 +729,7 @@
       "url": "https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Sh**ting Stars OST Part.3",
         "url": "https://open.spotify.com/album/79TMZgjbONFze6t6toQw0X"
@@ -717,7 +749,7 @@
       "url": "https://open.spotify.com/track/0hv2VNJBFGFqS7vGWsbX3m"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Officially Missing You",
         "url": "https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl"
@@ -733,7 +765,7 @@
       "url": "https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
         "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
@@ -753,7 +785,7 @@
       "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Paint",
         "url": "https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A"
@@ -769,7 +801,7 @@
       "url": "https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "O_ne",
         "url": "https://open.spotify.com/album/6rC5u5pmmC6S0rL0twg80C"
@@ -785,7 +817,7 @@
       "url": "https://open.spotify.com/track/6ZlU1n8Hqh38ZU4NmzsDJ8"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "When The Wind Blows - SM STATION",
         "url": "https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm"
@@ -801,7 +833,7 @@
       "url": "https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/62JssOJCHZampb4T15GkP8"
@@ -817,7 +849,7 @@
       "url": "https://open.spotify.com/track/6gxVNoinjJVVpGryxillDN"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb"
@@ -845,7 +877,7 @@
       "url": "https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq"
     },
     {
-      "added_at": "2024-02-01 09:21:23",
+      "added_at": "2024-02-07 09:02:02",
       "album": {
         "name": "I AM SAM",
         "url": "https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D"
@@ -859,38 +891,6 @@
       "duration_ms": 258961,
       "name": "YOUR SONG (With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah)",
       "url": "https://open.spotify.com/track/610IckJdwTyY8nez5v64DH"
-    },
-    {
-      "added_at": "2024-02-01 09:21:23",
-      "album": {
-        "name": "Uncontrollably Fond OST Part.14",
-        "url": "https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh"
-      },
-      "artists": [
-        {
-          "name": "New Empire",
-          "url": "https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ"
-        }
-      ],
-      "duration_ms": 206854,
-      "name": "A Little Braver",
-      "url": "https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH"
-    },
-    {
-      "added_at": "2024-02-01 09:21:23",
-      "album": {
-        "name": "The 3rd EP",
-        "url": "https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Yesterday You Left Me",
-      "url": "https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC"
     }
   ],
   "unique_name": "K-Folk/Acoustic",

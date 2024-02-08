@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Hanifah, Doug O.",
-  "num_followers": 166191,
+  "num_followers": 166209,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDNhMmFhZDcxMmQ5ZGRmNDJlNWRkNWI5YTUwMWFmMTcyNzI1ZWYw",
+  "snapshot_id": "MCxlNGUyNjVmM2I0MjNhNmRkMGFiOTk1MGRlNzU0YjhhZTMwYjhkODg2",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -215,26 +215,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Localiza\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/722X2OqhnEkVCk1kDP3IMl"
-      },
-      "artists": [
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        },
-        {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Localiza\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5UeR1CuDo4rrSjK3RyD0nV"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "SEM BARULHO",
         "url": "https://open.spotify.com/album/3Db57HHFgo2338LhJoP7dh"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 162711,
       "name": "SEM BARULHO",
       "url": "https://open.spotify.com/track/3YYKdDw8ah4kVF5zRxDO0M"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Localiza\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/722X2OqhnEkVCk1kDP3IMl"
+      },
+      "artists": [
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        },
+        {
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Localiza\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5UeR1CuDo4rrSjK3RyD0nV"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Toque De Veludo",
+        "url": "https://open.spotify.com/album/5TBvqgBLIVP0MZJpkLEIHh"
+      },
+      "artists": [
+        {
+          "name": "WD",
+          "url": "https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Toque De Veludo",
+      "url": "https://open.spotify.com/track/5sHK9llP0yBRwr4fW5DVSn"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Ceder",
         "url": "https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 197617,
       "name": "Ceder",
       "url": "https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Toque De Veludo",
-        "url": "https://open.spotify.com/album/5TBvqgBLIVP0MZJpkLEIHh"
-      },
-      "artists": [
-        {
-          "name": "WD",
-          "url": "https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Toque De Veludo",
-      "url": "https://open.spotify.com/track/5sHK9llP0yBRwr4fW5DVSn"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -547,6 +547,26 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Que Falta Voc\u00ea Faz",
+        "url": "https://open.spotify.com/album/0MuYje3mI6lrvkPGSGqRNx"
+      },
+      "artists": [
+        {
+          "name": "Annick",
+          "url": "https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "duration_ms": 123711,
+      "name": "Que Falta Voc\u00ea Faz",
+      "url": "https://open.spotify.com/track/5BWxwtkreVb8ez9fL5ivrp"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 189230,
       "name": "Teu Sinal",
       "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Que Falta Voc\u00ea Faz",
-        "url": "https://open.spotify.com/album/0MuYje3mI6lrvkPGSGqRNx"
-      },
-      "artists": [
-        {
-          "name": "Annick",
-          "url": "https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE"
-        },
-        {
-          "name": "Noemi Leal",
-          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
-        }
-      ],
-      "duration_ms": 123711,
-      "name": "Que Falta Voc\u00ea Faz",
-      "url": "https://open.spotify.com/track/5BWxwtkreVb8ez9fL5ivrp"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "\u00c9ramos",
-        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
-      },
-      "artists": [
-        {
-          "name": "Jota SF",
-          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
-        }
-      ],
-      "duration_ms": 218890,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Liga\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "\u00c9ramos",
+        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
+      },
+      "artists": [
+        {
+          "name": "Jota SF",
+          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
+        }
+      ],
+      "duration_ms": 218890,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Tempo pra Perder",
         "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
       },
@@ -771,26 +771,18 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "A S\u00f3s",
-        "url": "https://open.spotify.com/album/66vwSPGMqAoKx9yaB1ThoJ"
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
       },
       "artists": [
         {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "FRESH",
-          "url": "https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh"
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
         }
       ],
-      "duration_ms": 164210,
-      "name": "A S\u00f3s",
-      "url": "https://open.spotify.com/track/321ZO0hduSgQ0VR8uljst3"
+      "duration_ms": 210000,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -819,22 +811,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Pra Mim N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 153103,
       "name": "Pra Mim N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "A S\u00f3s",
+        "url": "https://open.spotify.com/album/66vwSPGMqAoKx9yaB1ThoJ"
+      },
+      "artists": [
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "FRESH",
+          "url": "https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "A S\u00f3s",
+      "url": "https://open.spotify.com/track/321ZO0hduSgQ0VR8uljst3"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -879,26 +879,6 @@
       "duration_ms": 204937,
       "name": "Volta",
       "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Pode Ir",
-        "url": "https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2"
-      },
-      "artists": [
-        {
-          "name": "Ikinya",
-          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
-        },
-        {
-          "name": "Grito Filmes",
-          "url": "https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133"
-        }
-      ],
-      "duration_ms": 153371,
-      "name": "Pode Ir",
-      "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -935,6 +915,26 @@
       "duration_ms": 205480,
       "name": "Real (Citando Djonga)",
       "url": "https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Pode Ir",
+        "url": "https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2"
+      },
+      "artists": [
+        {
+          "name": "Ikinya",
+          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
+        },
+        {
+          "name": "Grito Filmes",
+          "url": "https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133"
+        }
+      ],
+      "duration_ms": 153371,
+      "name": "Pode Ir",
+      "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
+      },
+      "artists": [
+        {
+          "name": "INAHUGO",
+          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Caixa Postal",
         "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 183529,
       "name": "Caixa Postal",
       "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Ventilador",
-        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
-      },
-      "artists": [
-        {
-          "name": "Nagy",
-          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Ventilador",
-      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Estou Aqui",
-        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
+        "name": "Ventilador",
+        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
       },
       "artists": [
         {
-          "name": "INAHUGO",
-          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
+          "name": "Nagy",
+          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
         }
       ],
-      "duration_ms": 227234,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
+      "duration_ms": 179076,
+      "name": "Ventilador",
+      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
     },
     {
       "added_at": "2024-02-02 03:01:00",

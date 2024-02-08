@@ -1,13 +1,29 @@
 {
   "description": "Hear the world in new ways with music from National Geographic\u2019s Incredible Animal Journeys, Wild Life, Secrets of the Elephants, A Small Light, and more.",
-  "num_followers": 8981,
+  "num_followers": 9002,
   "original_name": "National Geographic Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTgxNjQxOGU2OTJlZGVlMGI0NTYyMzdlZjEyMmFmYmI2MWQ2MzI5",
+  "snapshot_id": "MCxkNjJlY2VhYmZlZTBiZWM3MTRiZTcwMzkwNDlkYmE4Zjg0ZjY3ZWQ5",
   "tracks": [
+    {
+      "added_at": "2023-12-15 20:00:00",
+      "album": {
+        "name": "National Geographic Theme",
+        "url": "https://open.spotify.com/album/3INMMOrvQxw8nokGvSciPu"
+      },
+      "artists": [
+        {
+          "name": "An\u017ee Rozman",
+          "url": "https://open.spotify.com/artist/6e35AnLj77a8zEL36syCjn"
+        }
+      ],
+      "duration_ms": 152887,
+      "name": "National Geographic Theme - Symphony of Our World Version",
+      "url": "https://open.spotify.com/track/0rkCcqzA16kq7AaCM2fth4"
+    },
     {
       "added_at": "2024-02-05 20:10:20",
       "album": {
@@ -117,20 +133,36 @@
       "url": "https://open.spotify.com/track/2guDEg9qj3IvbAYhDIDFwz"
     },
     {
-      "added_at": "2023-12-15 20:00:00",
+      "added_at": "2024-02-07 21:55:06",
       "album": {
-        "name": "National Geographic Theme",
-        "url": "https://open.spotify.com/album/3INMMOrvQxw8nokGvSciPu"
+        "name": "A Small Light (Songs from the Limited Series)",
+        "url": "https://open.spotify.com/album/5OMNsSmLzeb3ZPpCBmw6SD"
       },
       "artists": [
         {
-          "name": "An\u017ee Rozman",
-          "url": "https://open.spotify.com/artist/6e35AnLj77a8zEL36syCjn"
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
         }
       ],
-      "duration_ms": 152887,
-      "name": "National Geographic Theme - Symphony of Our World Version",
-      "url": "https://open.spotify.com/track/0rkCcqzA16kq7AaCM2fth4"
+      "duration_ms": 323106,
+      "name": "Cheryl",
+      "url": "https://open.spotify.com/track/589hIHibkRNxbzQVQu7YEC"
+    },
+    {
+      "added_at": "2024-02-07 21:55:06",
+      "album": {
+        "name": "A Small Light (Songs from the Limited Series)",
+        "url": "https://open.spotify.com/album/5OMNsSmLzeb3ZPpCBmw6SD"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4KpstycaGprJn5CtRXiRQ9"
     },
     {
       "added_at": "2023-12-15 20:00:00",

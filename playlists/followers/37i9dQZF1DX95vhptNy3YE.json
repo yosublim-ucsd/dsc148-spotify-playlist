@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 225667,
+  "2024-02-08": 225738,
   "date_first_scraped": "2022-03-24",
   "description": "Budah, Sotam, Aka Rasta e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
   "name": "AMPLIFIKA",
@@ -2625,6 +2625,24 @@
       "duration_ms": 100437,
       "name": "conversa com uma menina branca",
       "url": "https://open.spotify.com/track/47bTjCYOsrSZyP6tPbFRB6"
+    },
+    {
+      "album": {
+        "name": "Cora\u00e7\u00e3o Quebrado",
+        "url": "https://open.spotify.com/album/1fiBWXxVHBIcvQsEdedjQL"
+      },
+      "artists": [
+        {
+          "name": "Ley",
+          "url": "https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193222,
+      "name": "Cora\u00e7\u00e3o Quebrado",
+      "url": "https://open.spotify.com/track/6Ic0vDAv2KgsiPcxIIcPgg"
     },
     {
       "album": {
@@ -8221,7 +8239,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 125624,
       "name": "N\u00e3o Tenho Tempo",
       "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,166 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,172 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 31 | [Piano Sonata in B Minor, S\. 178: Lento assai \- Allegro energico](https://open.spotify.com/track/7dS8h3dvUTyxzuppAZdPEe) | [フランツ・リスト](https://open.spotify.com/artist/5TpmEhdgm9h6EhkVqEmSlA), [古海行子](https://open.spotify.com/artist/3BCjmEq3Xyrf7EUk0ER0IY) | [Liszt: Piano Sonata](https://open.spotify.com/album/5XNVrljXjcwKnzo2YHUjrY) | 12:01 |
 | 32 | [キューバ](https://open.spotify.com/track/6I1kiP1gSmJsHvrw2PPVV7) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:27 |
 | 33 | [ギター独奏のための6つのシューベルト歌曲\(メルツ編\)より: セレナーデ](https://open.spotify.com/track/78krJSkQpCruKbw8yrd1uQ) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Ami Inoi](https://open.spotify.com/artist/0rcWfKZ3DLC4N9Zkh9Uscd) | [ムーンライト](https://open.spotify.com/album/5wI1cCs9574YHcRK9Se8a9) | 4:09 |
-| 34 | [For Lovers](https://open.spotify.com/track/6BGNjTZ8zp9MlsIydBa7A9) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [For Lovers](https://open.spotify.com/album/0gwS2D9sukMLXNvleEnYr2) | 1:15 |
+| 34 | [Candy Necklace \(feat\. Jon Batiste\)](https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:14 |
 | 35 | [街角](https://open.spotify.com/track/3UieuOA7sJiEg0cWwAkJCc) | [yobai suspects](https://open.spotify.com/artist/0VSioSaGvQCLyyIISVhCrv) | [街角](https://open.spotify.com/album/3a4RdrXoLxH0dFoWZHNtKk) | 4:41 |
-| 36 | [Candy Necklace \(feat\. Jon Batiste\)](https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:14 |
+| 36 | [For Lovers](https://open.spotify.com/track/6BGNjTZ8zp9MlsIydBa7A9) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [For Lovers](https://open.spotify.com/album/0gwS2D9sukMLXNvleEnYr2) | 1:15 |
 | 37 | [Boys Lost in Acid](https://open.spotify.com/track/6qoxfJ0Ej0hGJ6sO1yERlJ) | [Takuma Matsunaga](https://open.spotify.com/artist/6ZR7CDwmcCZQRtQneW0wr4) | [Epoch](https://open.spotify.com/album/3ddFIrlMrDhhv0G8sw8ibH) | 5:25 |
 | 38 | [Bubblegum](https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 4:39 |
 | 39 | [Moon River](https://open.spotify.com/track/1RpDvXdCChjwRFF7hXINcQ) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Moon River](https://open.spotify.com/album/41q9qpBZckfeDMtMAMpzUT) | 2:44 |
@@ -85,15 +85,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 75 | [夢見ちゃった](https://open.spotify.com/track/5a5SSkWdXtRPlL509IZ2cK) | [生田龍進](https://open.spotify.com/artist/4Wiz7GbELrFxj3o2rq60af) | [S.W.I.M.\#2\-nuwaves\-](https://open.spotify.com/album/4TjXeKRxFvc1NxT0GZZ86t) | 2:29 |
 | 76 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 |
 | 77 | [A Love International](https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Love International](https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9) | 4:15 |
-| 78 | [Vera](https://open.spotify.com/track/5Lu0PGLEEPGNtj1YOREOCe) | [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [NOCHE](https://open.spotify.com/album/4miUxGfTsngMRsrVKwB2D4) | 2:16 |
+| 78 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2) | 3:39 |
 | 79 | [Recueil de chants, Op\. 65: No\. 6, Barcarolle](https://open.spotify.com/track/3IrTLEtkdt8AOCZkxhXH3Q) | [Charles\-Valentin Alkan](https://open.spotify.com/artist/07OhqeLloDO7wu0yCaVO2D), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [WAVES: Music by Rameau, Ravel, Alkan](https://open.spotify.com/album/5j5eLlvzM8KBh6vljwgbpz) | 3:36 |
-| 80 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2) | 3:39 |
+| 80 | [Vera](https://open.spotify.com/track/5Lu0PGLEEPGNtj1YOREOCe) | [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [NOCHE](https://open.spotify.com/album/4miUxGfTsngMRsrVKwB2D4) | 2:16 |
 | 81 | [はひふへほ](https://open.spotify.com/track/1Sqhfgp5UXzJYjejD7pWUv) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [はひふへほ](https://open.spotify.com/album/2Ztz1foS02OoeUVM4LTYVu) | 3:12 |
 | 82 | [Laudate Dominum \(from Vespers, K\. 339\) \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [From Afar](https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll) | 4:57 |
 | 83 | [Aono & Akine](https://open.spotify.com/track/4J4K9tVp3A0VLux2S92Lzc) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Aono ＆ Akine \(From "Blue Orchestra" Original Soundtrack\)](https://open.spotify.com/album/6bc3Y0oULpmOEZQlwDzq6x) | 2:37 |
 | 84 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
-| 85 | [The Longest Goodbye](https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Lanterns](https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3) | 3:04 |
-| 86 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 |
+| 85 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 |
+| 86 | [The Longest Goodbye](https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Lanterns](https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3) | 3:04 |
 | 87 | [1995](https://open.spotify.com/track/2ibGtnA91vq3CmYc0Z3lXx) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [1995](https://open.spotify.com/album/34ZCIBYmH0rmPvcC3Gtj64) | 3:39 |
 | 88 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
 | 89 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 99 | [Komorebi no Kioku](https://open.spotify.com/track/0Q72QqA0rLmZMO0Bmy77u2) | [Asuka Noda](https://open.spotify.com/artist/5B5Ip55ekXUdj3wehY9Vnz) | [Komorebi no Kioku](https://open.spotify.com/album/7foPQZ5vYodwAFzigoraxI) | 6:11 |
 | 100 | [Poolgirl, Poolboy](https://open.spotify.com/track/1LTQcQsBIYGMCtmUcBxcjO) | [Cidres](https://open.spotify.com/artist/2bsA35SnFBfEwlbJTykSsO) | [Poolgirl, Poolboy](https://open.spotify.com/album/1KKTiuprfwmoaAQ4NjqK5s) | 3:08 |
 
-Snapshot ID: `MCwwZjFkNjM1NmM0NGIzZTQwN2Q3YjVkYTVjOWM3ZTc1OTI2NmY3NDZl`
+Snapshot ID: `MCwwNzAyZjg0Nzg1NzU2YjU0MGRhYzVmOGE1ODc0ZDY5ZDJlZGFiMGZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,773 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,779 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 19 | [HEART BEAT](https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [HEART BEAT](https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF) | 5:35 |
 | 20 | [一輪花](https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [一輪花](https://open.spotify.com/album/2ozJ1C7HXquEWd8Fv8azgY) | 3:44 |
 | 21 | [HAITE](https://open.spotify.com/track/2fu0mblB8cp6MtM9nwtZrL) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [HAITE](https://open.spotify.com/album/6FoB6c4HuW9Po26G4i4xol) | 2:11 |
-| 22 | [あやふや](https://open.spotify.com/track/1UvCeSlHieprSfrjlREJdS) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [あやふや](https://open.spotify.com/album/5fDfPVGJ6uv8AwIV1F3jCU) | 3:40 |
+| 22 | [Ambiguous](https://open.spotify.com/track/36Kj0vrp2MnYICExdK1lN9) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Ambiguous](https://open.spotify.com/album/3ny9YuGHA0QNn4F9zWC7Bz) | 3:40 |
 | 23 | [命の容量](https://open.spotify.com/track/0Pd5HvGFrJUPOQRt2988JZ) | [yourness](https://open.spotify.com/artist/1u1NJZJgYCF6BVsjSYf2BM) | [Ⅶ](https://open.spotify.com/album/6Q716A6pSJDGlIn9MGgKXV) | 4:05 |
 | 24 | [花束が似合う君へ \- fantastic ver.](https://open.spotify.com/track/2vVaTLbzFN5TPIayqJDxv7) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [花束が似合う君へ \(fantastic ver.\)](https://open.spotify.com/album/3BVTAz0ufqnsdPBuvQk6tx) | 4:54 |
 | 25 | [ビリミリオン](https://open.spotify.com/track/7M0dIdZWN1FDcveRdoOzbZ) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [弐](https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 49 | [分かってないよ](https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ワンス・アポン・ア・リバイバル](https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5) | 3:28 |
 | 50 | [ばかまじめ](https://open.spotify.com/track/55emtNBnUXszixuQj4Fg6I) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE), [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [ばかまじめ](https://open.spotify.com/album/7mPLlf15PnyXUGB0Q3sUsM) | 2:52 |
 
-Snapshot ID: `MCxhYWQ0NGMwMjgzYzM2MzIwOTk1M2NmOTk0NjI3MmY4MDZmNTRkNjU2`
+Snapshot ID: `MCxlZDljMjI0OTJkNzUyODQ2NzMzZTlhNDI5NTIwMTE2OGM5MjJmMWE2`

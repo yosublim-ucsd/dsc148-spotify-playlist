@@ -4,7 +4,7 @@
 
 > The best indie tracks of the moment\. Cover: Giant Rooks
 
-1,505 songs - 3 day 17 hr 16 min
+1,506 songs - 3 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,7 +582,8 @@
 | [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 | 2021-12-31 | 2022-01-29 |
 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 | 2023-04-28 | 2023-08-26 |
 | [Holy Moley](https://open.spotify.com/track/6DSICrL9LNe0M6C7wnyGdr) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Cordi Elba](https://open.spotify.com/album/74iCYddbdRJrwHKCAapVmc) | 3:51 | 2022-01-14 | 2022-02-12 |
-| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-02-02 |  |
+| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-02-02 | 2024-02-08 |
+| [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-02 |  |
 | [Home](https://open.spotify.com/track/6vB9ixXZc8yqpYjcJshlgG) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Home](https://open.spotify.com/album/6en7EAve3rxTKP1RTwzClA) | 3:55 | 2023-08-04 | 2023-08-26 |
 | [Home By Now](https://open.spotify.com/track/5nnPrQFYUQijEz4lwMX4dC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Home By Now](https://open.spotify.com/album/6ua077NQRY18YA0Yhk5rVt) | 4:28 | 2022-05-27 | 2022-06-25 |
 | [homecoming](https://open.spotify.com/track/3VkeIbUp1Q7ZXUgyMxmrN1) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [homecoming / in my city](https://open.spotify.com/album/1aCizM9pCTz9k9iBD9tUh9) | 3:36 | 2023-04-21 | 2023-08-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > bøgdebangers du kan spelle i kjerra!
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,197 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,214 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Kæm Tok Ho Me Sæ](https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk) | 3:06 |
 | 70 | [Kongen av campingplassen](https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi) | [Ole Ivars](https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6) | [En får være som en er](https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT) | 3:25 |
 
-Snapshot ID: `MCxiOTg0ZDBiMmE2MTIyZTA0MWJlMDg4NzUxYmRkZDM1OWUxN2Q4ZTQ3`
+Snapshot ID: `MCwwNjBhYWViNWI3OTFkMmE4YzMwNmQ1NWNmODMyMTE0N2Q4MmU5ZDZk`

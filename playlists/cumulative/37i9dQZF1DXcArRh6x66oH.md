@@ -4,7 +4,7 @@
 
 > from Stillwater to Nashville with Wyatt Flores
 
-256 songs - 15 hr 24 min
+257 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [68](https://open.spotify.com/track/1qlyWMMDGkXAjFehdUKGJ7) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/51JORfnib4vdjiXHAouErb) | 3:27 | 2023-09-08 |  |
 | [68 \- Live](https://open.spotify.com/track/40TGxZwQQG6cDHelPqiQSp) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Live at Bo Bash 2021](https://open.spotify.com/album/58QZnkI7wZjq1OhHyBoo0M) | 3:28 | 2023-03-21 | 2023-04-22 |
 | [7 & 7](https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:49 | 2023-02-24 |  |
+| [A Cigarette](https://open.spotify.com/track/7kpCMD8iv4RC971CJRPZ3U) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [A Cigarette](https://open.spotify.com/album/6e4TRkJXdQCdj8x5Oj0v9u) | 2:59 | 2024-02-07 |  |
 | [A Little Dive Bar in Dahlonega](https://open.spotify.com/track/7qcRDEpmDWS0bLHaZRYE8c) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:29 | 2023-02-24 | 2023-12-09 |
 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 | 2023-08-25 |  |
 | [Actin' Up](https://open.spotify.com/track/13umsa4HEerLke8Y8lhakp) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:25 | 2023-02-24 | 2023-07-28 |

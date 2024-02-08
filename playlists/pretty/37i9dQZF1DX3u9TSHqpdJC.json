@@ -1,13 +1,61 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Lillian Hepler. Artwork by Paola Saliby",
-  "num_followers": 205148,
+  "description": "The best new pop music by independent artists and labels. Cover: Grace Power. Artwork by Paola Saliby",
+  "num_followers": 205332,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzJiM2E1NTIzN2QxYmVkOTZkYTQwYzU4M2EzNWIyMmZkOTJmMDNh",
+  "snapshot_id": "MCxjYzQwYTcyZjU4ZjZkOTU5MzJhNWEzNzA1ZDA0MGZhNjNhMDczMDlk",
   "tracks": [
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Water Worship Pray",
+        "url": "https://open.spotify.com/album/6IEFi4N1Ge92j1kCFZxXeo"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 191016,
+      "name": "Water Worship Pray",
+      "url": "https://open.spotify.com/track/2EMa8oOv6HvRRErdtXrp3I"
+    },
+    {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "Student",
+        "url": "https://open.spotify.com/album/7gqXdRXMyLGGWQJFaASiog"
+      },
+      "artists": [
+        {
+          "name": "Georgie & Joe",
+          "url": "https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH"
+        }
+      ],
+      "duration_ms": 199533,
+      "name": "Student",
+      "url": "https://open.spotify.com/track/4w0WVJWw1cm1n5FLox2Yjp"
+    },
+    {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/4z3b2ipdkf4WijSlYcI6Gv"
+      },
+      "artists": [
+        {
+          "name": "Ghita",
+          "url": "https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR"
+        }
+      ],
+      "duration_ms": 158798,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/2du5P5ONNBbrn4vHiqV0dY"
+    },
     {
       "added_at": "2024-01-31 05:00:00",
       "album": {
@@ -25,6 +73,22 @@
       "url": "https://open.spotify.com/track/3BZrc6J8hFLzl2qX6l7NZN"
     },
     {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "I'm Trying",
+        "url": "https://open.spotify.com/album/5KnD1N7X7C354kUSpgPmEO"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6rmaid",
+          "url": "https://open.spotify.com/artist/2JIx9WZoZX8BE9yJW560x5"
+        }
+      ],
+      "duration_ms": 282661,
+      "name": "I'm Trying",
+      "url": "https://open.spotify.com/track/2oAEkesjJB7QtX9GjdmEil"
+    },
+    {
       "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "eat me alive",
@@ -39,6 +103,22 @@
       "duration_ms": 159946,
       "name": "eat me alive",
       "url": "https://open.spotify.com/track/6AYNmsHwCWmfYrniipNAWe"
+    },
+    {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "BAD KARMA",
+        "url": "https://open.spotify.com/album/1s7LXlHTRTF4UVLh02haTn"
+      },
+      "artists": [
+        {
+          "name": "My Name Is Alex",
+          "url": "https://open.spotify.com/artist/1MaDqHjCtpHgPJHQz5bV2C"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "BAD KARMA",
+      "url": "https://open.spotify.com/track/3NONd2k32jYHxuSPGENaJU"
     },
     {
       "added_at": "2024-01-31 05:00:00",
@@ -77,6 +157,70 @@
       "url": "https://open.spotify.com/track/0ewuee005YK77HvpRBcfcZ"
     },
     {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/4kbbT0b2ORMOulej4sdUON"
+      },
+      "artists": [
+        {
+          "name": "Emily Mei",
+          "url": "https://open.spotify.com/artist/3PPvyQnDRHIwwzCWwONgRk"
+        }
+      ],
+      "duration_ms": 147387,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/2pJBg4Qxgj7Rl7y4HPGTUw"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Sky Up",
+        "url": "https://open.spotify.com/album/17URfXjuXdGaAYw7ecG8M9"
+      },
+      "artists": [
+        {
+          "name": "Haven Madison",
+          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Sky Up",
+      "url": "https://open.spotify.com/track/7zHWEEujRkOoFIACmVZLmG"
+    },
+    {
+      "added_at": "2024-01-25 05:07:27",
+      "album": {
+        "name": "Half of forever",
+        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Half of forever",
+      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "hate myself for loving you",
+        "url": "https://open.spotify.com/album/4xcOAflH4IJ6aIPhy97PP5"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Arromba",
+          "url": "https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq"
+        }
+      ],
+      "duration_ms": 176902,
+      "name": "hate myself for loving you",
+      "url": "https://open.spotify.com/track/79HlmezH9GAca2eY8gWQET"
+    },
+    {
       "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Ego Rush",
@@ -91,22 +235,6 @@
       "duration_ms": 159806,
       "name": "Ego Rush",
       "url": "https://open.spotify.com/track/5405yu0tbDmDA1iSJNbrta"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "Water Worship Pray",
-        "url": "https://open.spotify.com/album/6IEFi4N1Ge92j1kCFZxXeo"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 191016,
-      "name": "Water Worship Pray",
-      "url": "https://open.spotify.com/track/2EMa8oOv6HvRRErdtXrp3I"
     },
     {
       "added_at": "2024-01-31 05:00:00",
@@ -191,22 +319,6 @@
     {
       "added_at": "2024-01-24 05:00:00",
       "album": {
-        "name": "Sky Up",
-        "url": "https://open.spotify.com/album/17URfXjuXdGaAYw7ecG8M9"
-      },
-      "artists": [
-        {
-          "name": "Haven Madison",
-          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Sky Up",
-      "url": "https://open.spotify.com/track/7zHWEEujRkOoFIACmVZLmG"
-    },
-    {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
         "name": "LALALA",
         "url": "https://open.spotify.com/album/1O1sg4ZylF8qjqX7MsUR6I"
       },
@@ -251,38 +363,6 @@
       "duration_ms": 201706,
       "name": "LABEL",
       "url": "https://open.spotify.com/track/6yqazMRYrfuuhhIKJgxghR"
-    },
-    {
-      "added_at": "2024-01-25 05:07:27",
-      "album": {
-        "name": "Half of forever",
-        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Half of forever",
-      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
-    },
-    {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "hate myself for loving you",
-        "url": "https://open.spotify.com/album/4xcOAflH4IJ6aIPhy97PP5"
-      },
-      "artists": [
-        {
-          "name": "Mackenzie Arromba",
-          "url": "https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq"
-        }
-      ],
-      "duration_ms": 176902,
-      "name": "hate myself for loving you",
-      "url": "https://open.spotify.com/track/79HlmezH9GAca2eY8gWQET"
     },
     {
       "added_at": "2024-01-24 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 67140,
+  "num_followers": 67148,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWQ3ODBlZTU0MmRhY2I5OGVjZjIxMzY1YzIyYjhjNWJjZTU0ZjBi",
+  "snapshot_id": "MCwyNGVjN2IxMjIzZGEwMjUzZmRlYzA4MzQwOWQ5ZGI4MDI4ZTE5ZjBi",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:41",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Ball n' Chain",
-        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 330893,
-      "name": "Sweet Little Angel",
-      "url": "https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Mississippi Blues",
         "url": "https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 152076,
       "name": "Jumper Hanging Out On the Line",
       "url": "https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 330893,
+      "name": "Sweet Little Angel",
+      "url": "https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Atlanta Twelve String",
-        "url": "https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie McTell",
-          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
-        }
-      ],
-      "duration_ms": 240360,
-      "name": "I Got the Cross the River Jordan",
-      "url": "https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "His Best",
         "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 229200,
       "name": "Ooh Baby",
       "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Atlanta Twelve String",
+        "url": "https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie McTell",
+          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "I Got the Cross the River Jordan",
+      "url": "https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Letter from Bluewater Man",
-        "url": "https://open.spotify.com/album/3iTXLRbWXRvuNgfJPkoMOh"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Letter from Bluewater Man",
-      "url": "https://open.spotify.com/track/5jl5jAMyWpkR4lEkAGnTXX"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Jumpin'",
         "url": "https://open.spotify.com/album/6whK2FCC7tIBihqZeFR8vY"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Keb' Mo'",
-        "url": "https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t"
+        "name": "Letter from Bluewater Man",
+        "url": "https://open.spotify.com/album/3iTXLRbWXRvuNgfJPkoMOh"
       },
       "artists": [
         {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
         }
       ],
-      "duration_ms": 179466,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/6WmwvYaVSod4whIXGWEvBR"
+      "duration_ms": 144000,
+      "name": "Letter from Bluewater Man",
+      "url": "https://open.spotify.com/track/5jl5jAMyWpkR4lEkAGnTXX"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -839,6 +823,22 @@
       "duration_ms": 179813,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Keb' Mo'",
+        "url": "https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/6WmwvYaVSod4whIXGWEvBR"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Simple Truths",
-        "url": "https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY"
-      },
-      "artists": [
-        {
-          "name": "The Holmes Brothers",
-          "url": "https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW"
-        }
-      ],
-      "duration_ms": 280306,
-      "name": "I'm So Lonely",
-      "url": "https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "I Be Trying",
         "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 206040,
       "name": "The World Can Be So Cold",
       "url": "https://open.spotify.com/track/0U1M0MLvbw0ZZQDR2BXELd"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Simple Truths",
+        "url": "https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY"
+      },
+      "artists": [
+        {
+          "name": "The Holmes Brothers",
+          "url": "https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW"
+        }
+      ],
+      "duration_ms": 280306,
+      "name": "I'm So Lonely",
+      "url": "https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 236182,
-      "name": "Money Talks",
-      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Help Me",
         "url": "https://open.spotify.com/album/2jmS1jYAeh5mpl7DSfZS0B"
       },
@@ -1255,18 +1239,34 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "I Like It When It Rains",
-        "url": "https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD"
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
       },
       "artists": [
         {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
         }
       ],
-      "duration_ms": 293000,
-      "name": "Sittin on Top of the World",
-      "url": "https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK"
+      "duration_ms": 236182,
+      "name": "Money Talks",
+      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Between Midnight And Day",
+        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
+      },
+      "artists": [
+        {
+          "name": "Corey Harris",
+          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Between Midnight And Day",
-        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
+        "name": "I Like It When It Rains",
+        "url": "https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD"
       },
       "artists": [
         {
-          "name": "Corey Harris",
-          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
         }
       ],
-      "duration_ms": 160213,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
+      "duration_ms": 293000,
+      "name": "Sittin on Top of the World",
+      "url": "https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Dear America",
-        "url": "https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        },
-        {
-          "name": "Shaneeka Simon",
-          "url": "https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN"
-        }
-      ],
-      "duration_ms": 227503,
-      "name": "Born Of A Woman",
-      "url": "https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Brother Johnny",
         "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 237096,
       "name": "Lone Star Blues",
       "url": "https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Dear America",
+        "url": "https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        },
+        {
+          "name": "Shaneeka Simon",
+          "url": "https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN"
+        }
+      ],
+      "duration_ms": 227503,
+      "name": "Born Of A Woman",
+      "url": "https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Colt 45",
+        "url": "https://open.spotify.com/album/43rZvzAOV4kJkDW4gffAJK"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 165172,
+      "name": "Colt 45",
+      "url": "https://open.spotify.com/track/0uwXnVmR7o8PPHajHCq2Uv"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "Rory Gallagher (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 304026,
       "name": "Who You Gonna Hoo-Doo Now",
       "url": "https://open.spotify.com/track/65LUKFzNaTOChsZPAZIUq2"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Colt 45",
-        "url": "https://open.spotify.com/album/43rZvzAOV4kJkDW4gffAJK"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 165172,
-      "name": "Colt 45",
-      "url": "https://open.spotify.com/track/0uwXnVmR7o8PPHajHCq2Uv"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Fussin' and Fightin' (Blues)",
-      "url": "https://open.spotify.com/track/479M29eunSUcosQ608slSc"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "The Fatalist",
         "url": "https://open.spotify.com/album/33ihKi0yijzptTHMNHXTNB"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 208320,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/1L1cnMYeb28dU4Pun60G7v"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Fussin' and Fightin' (Blues)",
+      "url": "https://open.spotify.com/track/479M29eunSUcosQ608slSc"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Mississippi",
-        "url": "https://open.spotify.com/album/6eZrs4qARcRDdJf1I0ZUwC"
-      },
-      "artists": [
-        {
-          "name": "Mitch Grainger",
-          "url": "https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Mississippi - Acoustic",
-      "url": "https://open.spotify.com/track/6K9sjEFkoH0bSiaAk8WrCY"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Portrait",
         "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 216773,
       "name": "Good Morning Little School Girl",
       "url": "https://open.spotify.com/track/7d5qgjlsPTd1T2iSIALs4V"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Mississippi",
+        "url": "https://open.spotify.com/album/6eZrs4qARcRDdJf1I0ZUwC"
+      },
+      "artists": [
+        {
+          "name": "Mitch Grainger",
+          "url": "https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Mississippi - Acoustic",
+      "url": "https://open.spotify.com/track/6K9sjEFkoH0bSiaAk8WrCY"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Huldenberg Blues (Remastered)",
-        "url": "https://open.spotify.com/album/0Ll8Lu48jUVoUdZPheLVdM"
-      },
-      "artists": [
-        {
-          "name": "Wizz Jones",
-          "url": "https://open.spotify.com/artist/4mW0YaaFLIMy521Hg3kjmG"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Dallas Blues - Remastered",
-      "url": "https://open.spotify.com/track/2pZ4WkQXQBWv2iqwGhx4Rh"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Bob Corritore & Friends: Down Home Blues Revue",
         "url": "https://open.spotify.com/album/4LC0AgcyA9IIghbrwQYVPH"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 145533,
       "name": "Railroad Bill",
       "url": "https://open.spotify.com/track/3mxfxxfDxftkdvZIpLKtHk"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Huldenberg Blues (Remastered)",
+        "url": "https://open.spotify.com/album/0Ll8Lu48jUVoUdZPheLVdM"
+      },
+      "artists": [
+        {
+          "name": "Wizz Jones",
+          "url": "https://open.spotify.com/artist/4mW0YaaFLIMy521Hg3kjmG"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Dallas Blues - Remastered",
+      "url": "https://open.spotify.com/track/2pZ4WkQXQBWv2iqwGhx4Rh"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Shake and Bake",
-        "url": "https://open.spotify.com/album/6BVD4ZapJOmzCND0XJfkOG"
-      },
-      "artists": [
-        {
-          "name": "Kerri Powers",
-          "url": "https://open.spotify.com/artist/6OET1llczQiGh2bEvxMm5c"
-        }
-      ],
-      "duration_ms": 241529,
-      "name": "Shake and Bake",
-      "url": "https://open.spotify.com/track/5pcrKXHNn0Yd20cpI5dgha"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "New Orleans Street Singer",
         "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 232133,
       "name": "Everyday I Have the Blues",
       "url": "https://open.spotify.com/track/5Qizcr47Esrf54Pu1eF30E"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Shake and Bake",
+        "url": "https://open.spotify.com/album/6BVD4ZapJOmzCND0XJfkOG"
+      },
+      "artists": [
+        {
+          "name": "Kerri Powers",
+          "url": "https://open.spotify.com/artist/6OET1llczQiGh2bEvxMm5c"
+        }
+      ],
+      "duration_ms": 241529,
+      "name": "Shake and Bake",
+      "url": "https://open.spotify.com/track/5pcrKXHNn0Yd20cpI5dgha"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Mashing Rain",
+        "url": "https://open.spotify.com/album/3x9VyS2BCTAWtW71X2Yhbu"
+      },
+      "artists": [
+        {
+          "name": "Honky Fish",
+          "url": "https://open.spotify.com/artist/0Cnqt7ZhpE7wDK5hJzbU96"
+        }
+      ],
+      "duration_ms": 134333,
+      "name": "Mashing Rain",
+      "url": "https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "Jalopy Records 7\" Series: Jerron Paxton",
         "url": "https://open.spotify.com/album/50LQ4ShQydsjdlZq46tEUT"
       },
@@ -2399,22 +2415,6 @@
       "duration_ms": 339394,
       "name": "High Fever Blues",
       "url": "https://open.spotify.com/track/2lHlfG7kAhkIlG6eQmAKgH"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Mashing Rain",
-        "url": "https://open.spotify.com/album/3x9VyS2BCTAWtW71X2Yhbu"
-      },
-      "artists": [
-        {
-          "name": "Honky Fish",
-          "url": "https://open.spotify.com/artist/0Cnqt7ZhpE7wDK5hJzbU96"
-        }
-      ],
-      "duration_ms": 134333,
-      "name": "Mashing Rain",
-      "url": "https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Agnes Water Blues",
-        "url": "https://open.spotify.com/album/54JCp9ubDGQMF6LBIt3yAd"
-      },
-      "artists": [
-        {
-          "name": "Maynard Heap",
-          "url": "https://open.spotify.com/artist/1nmAtilssSpG1QoyPUb3f9"
-        }
-      ],
-      "duration_ms": 236655,
-      "name": "Agnes Water Blues",
-      "url": "https://open.spotify.com/track/3KHch8x9xtStE9pbw0Bvni"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Good to You Blues",
         "url": "https://open.spotify.com/album/5xbLjTvVtrdVaOFFJ709iE"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 322437,
       "name": "Good to You Blues",
       "url": "https://open.spotify.com/track/671nwzfH2ruB5CRyhNaeiw"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Agnes Water Blues",
+        "url": "https://open.spotify.com/album/54JCp9ubDGQMF6LBIt3yAd"
+      },
+      "artists": [
+        {
+          "name": "Maynard Heap",
+          "url": "https://open.spotify.com/artist/1nmAtilssSpG1QoyPUb3f9"
+        }
+      ],
+      "duration_ms": 236655,
+      "name": "Agnes Water Blues",
+      "url": "https://open.spotify.com/track/3KHch8x9xtStE9pbw0Bvni"
     }
   ],
   "unique_name": "Morning Blues",

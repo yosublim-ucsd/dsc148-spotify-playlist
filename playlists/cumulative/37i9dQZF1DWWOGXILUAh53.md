@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Bella Poarch & 6arleyhuman
 
-847 songs - 1 day 17 hr 39 min
+848 songs - 1 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,8 @@
 | [Didn't Know Lonely](https://open.spotify.com/track/1TVRKXD6RkBNTE7F11Pexm) | [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Didn't Know Lonely](https://open.spotify.com/album/64iN3YbIdjSCLIimrNAdHZ) | 3:10 | 2022-06-10 | 2022-09-17 |
 | [Die For A Night](https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [A R I Z O N A](https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED) | 3:15 | 2023-06-02 | 2023-06-24 |
 | [Die For A Night](https://open.spotify.com/track/5by79t0saDZCGImchg8oSY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Die For A Night](https://open.spotify.com/album/67aoFiHyWWl1N15nMxbQoP) | 3:15 | 2023-04-28 | 2023-06-07 |
-| [Die For Me](https://open.spotify.com/track/67gYpZ9Kl4EwuQa3hZX6wR) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me](https://open.spotify.com/album/5Spe5tAY7QIn04uSBiGYt9) | 2:43 | 2024-02-02 |  |
+| [Die For Me](https://open.spotify.com/track/67gYpZ9Kl4EwuQa3hZX6wR) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me](https://open.spotify.com/album/5Spe5tAY7QIn04uSBiGYt9) | 2:43 | 2024-02-02 | 2024-02-08 |
+| [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/track/5YUsCI2mTieO4KJbLeQFR7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/album/21QcWrXk821IkKiL73BZre) | 2:43 | 2024-02-02 |  |
 | [Disco Heart](https://open.spotify.com/track/29upl5ytUcahfLE8q24SMd) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Heartbreak County, Vol\. 2](https://open.spotify.com/album/7x42x3GG9dviDYgX5HmHTM) | 3:15 | 2022-10-28 | 2023-01-21 |
 | [Discoteca](https://open.spotify.com/track/7hmebsI3sCMzANWFcNiCMh) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Discoteca](https://open.spotify.com/album/7r6a9NnWydms4uIjf9bH5C) | 3:45 | 2021-12-31 | 2022-05-20 |
 | [Dizzy](https://open.spotify.com/track/4bH4PYPmrsKcw2rI5c3QqD) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [LOUI LANE](https://open.spotify.com/artist/0ZmqAO2kf9AFpYbnT7Z9MN) | [Dizzy](https://open.spotify.com/album/5PG4dJqM18cKtGl0vE5cJk) | 2:27 | 2024-01-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Rock songs that get down and dirty\. Cover: Dirty Honey
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,166 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,225 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 59 | [Over & Over](https://open.spotify.com/track/2wBEMqe81CXIX88kph8GBO) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Hear Me Out](https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK) | 3:29 |
 | 60 | [Sinister Kid](https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:44 |
 | 61 | [Oh No](https://open.spotify.com/track/6rF4s1wwsOa2EZF5MF6D3B) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Magic Valley](https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL) | 3:41 |
-| 62 | [Hard Working Man](https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Young Blood](https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7) | 3:37 |
-| 63 | [Them Shoes](https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX) | 5:48 |
+| 62 | [Them Shoes](https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX) | 5:48 |
+| 63 | [Hard Working Man](https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Young Blood](https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7) | 3:37 |
 | 64 | [daphne did it](https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [daphne did it / the depths](https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M) | 3:22 |
 | 65 | [Who’s Gonna Love Me Now](https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [New Age Norms 2](https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT) | 2:51 |
 | 66 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 |
@@ -85,11 +85,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 75 | [Dark Nights](https://open.spotify.com/track/5cwZFTdktFh5XjRglkqJYr) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 3:09 |
 | 76 | [LUCKY PENNY](https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [LUCKY PENNY](https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P) | 3:34 |
 | 77 | [Entrance Song](https://open.spotify.com/track/0Bm4fjn2AeXeA1x12hoySt) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Phosphene Dream](https://open.spotify.com/album/3FEcbSaWwrVFglM8lD9RRZ) | 3:38 |
-| 78 | [Cross The Line](https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Cross The Line](https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a) | 3:07 |
-| 79 | [That Dress \- Demo](https://open.spotify.com/track/0Owkb88GE9Zp1NQex6vpaj) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress \(Demo\)](https://open.spotify.com/album/4LDDJCImKdsayb1PmLniF3) | 3:08 |
+| 78 | [That Dress \- Demo](https://open.spotify.com/track/0Owkb88GE9Zp1NQex6vpaj) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress \(Demo\)](https://open.spotify.com/album/4LDDJCImKdsayb1PmLniF3) | 3:08 |
+| 79 | [Cross The Line](https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Cross The Line](https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a) | 3:07 |
 | 80 | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/track/6pLzzki6vNk6EZO0cSVpPl) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:10 |
-| 81 | [Vertigo](https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s) | 3:06 |
-| 82 | [Night People](https://open.spotify.com/track/0deuG8hdDyPJCsT3qovhF0) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Night People](https://open.spotify.com/album/1snS7GPKcsbRHihG1ug2VN) | 3:03 |
+| 81 | [Night People](https://open.spotify.com/track/0deuG8hdDyPJCsT3qovhF0) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Night People](https://open.spotify.com/album/1snS7GPKcsbRHihG1ug2VN) | 3:03 |
+| 82 | [Vertigo](https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s) | 3:06 |
 | 83 | [Do Your Worst](https://open.spotify.com/track/11FvComd16zZX61DrlP3o1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Do Your Worst](https://open.spotify.com/album/212W7GOucihqMBWrN17RlY) | 3:30 |
 | 84 | [Love Is All You Love](https://open.spotify.com/track/7IK9YaeFV0wEZmtDl9B2XK) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Love Is All You Love](https://open.spotify.com/album/1sdwEPqBv44CrAXxLAfK9O) | 3:22 |
 | 85 | [Take Me Away](https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Take Me Away](https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 99 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 |
 | 100 | [First High](https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:07 |
 
-Snapshot ID: `MCwwNWJiNzcxOGExYWI0MzM5ZDQ4MGRmNTFlZmU0MGFhNjM1Mzc4ZDc3`
+Snapshot ID: `MCw5N2M2MWQ0MjMzNmE1ODI5YTg1MzhkZDMzZjU4MmEyYjZjZWViNzM3`

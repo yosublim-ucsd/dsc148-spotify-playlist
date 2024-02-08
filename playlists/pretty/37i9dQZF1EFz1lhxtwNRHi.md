@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,381 likes - 159 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,382 likes - 159 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 37 | [Cross Your Mind](https://open.spotify.com/track/7B0jvve829GGdU5kFttQTY) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:48 |
 | 38 | [pretty toxic revolver](https://open.spotify.com/track/28SCx38ziqfg3wwhnhFmvZ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [lockdown sessions](https://open.spotify.com/album/38kBJGfjhkTGqBs5EqoaMN) | 2:46 |
 | 39 | [I Feel Good](https://open.spotify.com/track/4vLRCGOBz4zIS8nEHk5v9j) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:15 |
-| 40 | [Happy](https://open.spotify.com/track/6xG7t7blddozpBf3S5we1O) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Hurts 2B Human](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) | 3:01 |
-| 41 | [Last Call](https://open.spotify.com/track/73QGVDmZWTLnQ6lG7rF1vd) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Last Call](https://open.spotify.com/album/30mIxNNrgF9iV6fjVfxRdD) | 2:54 |
+| 40 | [Last Call](https://open.spotify.com/track/73QGVDmZWTLnQ6lG7rF1vd) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Last Call](https://open.spotify.com/album/30mIxNNrgF9iV6fjVfxRdD) | 2:54 |
+| 41 | [Happy](https://open.spotify.com/track/6xG7t7blddozpBf3S5we1O) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Hurts 2B Human](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) | 3:01 |
 | 42 | [Way Back](https://open.spotify.com/track/5yId5vztDqFdpYIMkDs4XV) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Way Back](https://open.spotify.com/album/1228EEKC3pUCGKsnhJs49Z) | 3:28 |
 | 43 | [Sober](https://open.spotify.com/track/6NsxPxFzZ18TKBcTgxX3dh) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [JRY](https://open.spotify.com/artist/6r514fXAl2fe5cHF6HKOHW) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:26 |
 | 44 | [Save Yourself](https://open.spotify.com/track/67m00DhUHLDonJoqu1fOHx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Beautiful Lies](https://open.spotify.com/album/1UVggFtdVPqHy5WamYFu6w) | 3:34 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 158 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 159 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Mjg0NTQ1MzAsMDAwMDAwMDBkZTM5NWI0ODJmMzQzMTNlMDlmZTA5MjE4NTZhNTlmYg==`
+Snapshot ID: `Mjg0NTU5NzAsMDAwMDAwMDA1NWIxOTAzMDIzMjBjOTM3YjFmMDQ4YjA0OGFkNDQyMw==`

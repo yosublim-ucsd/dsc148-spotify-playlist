@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Immortal Technique
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,166 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,388 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 3 | [Just Don't Give A Fuck](https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 4:02 |
 | 4 | [Dance With The Devil](https://open.spotify.com/track/4LCzEYKPFcd2FCOmZdVDnM) | [Immortal Technique](https://open.spotify.com/artist/7h8ja4JSORo2sXJPmCXRxa) | [Revolutionary, Vol\. 1](https://open.spotify.com/album/5oSeZDMpbXW5E9v13kDicA) | 9:39 |
 | 5 | [2000 Seasons](https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Train of Thought: Lost Lyrics, Rare Releases & Beautiful B\-Sides, Vol\. 1](https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo) | 4:13 |
-| 6 | [Worst Comes To Worst \- Edited](https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB) | 3:35 |
-| 7 | [Rock Co.Kane Flow \(feat\. MF DOOM\)](https://open.spotify.com/track/5eWj4hoqE9cf8mCE1pkB7M) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [The Grind Date](https://open.spotify.com/album/6pA5vsn22nBSarlpib38QR) | 3:05 |
+| 6 | [Rock Co.Kane Flow \(feat\. MF DOOM\)](https://open.spotify.com/track/5eWj4hoqE9cf8mCE1pkB7M) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [The Grind Date](https://open.spotify.com/album/6pA5vsn22nBSarlpib38QR) | 3:05 |
+| 7 | [Worst Comes To Worst \- Edited](https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB) | 3:35 |
 | 8 | [Uknowhowwedu](https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:34 |
 | 9 | [Concrete Schoolyard](https://open.spotify.com/track/37pnnS4zO9s6xzeblq9Jrd) | [Jurassic 5](https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B) | [J5 \(Deluxe Edition\)](https://open.spotify.com/album/5Lj4qWG2xATA2XNz3l6BZT) | 5:21 |
 | 10 | [Simon Says](https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Internal Affairs](https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS) | 2:53 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 24 | [Whirlwind Thru Cities](https://open.spotify.com/track/6MozilZfg7PVMNbxGuyoro) | [Afu\-Ra](https://open.spotify.com/artist/6SWohEYYTym0RIBxvoh6wt) | [Body Of The Life Force](https://open.spotify.com/album/6KZZs0SDtMuHkmmjWc2bk7) | 3:59 |
 | 25 | [Your Fuckin’ Head Split](https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9) | [Necro](https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7) | [I Need Drugs](https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f) | 3:02 |
 | 26 | [Mastermind](https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz) | [Deltron 3030](https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl), [Dan The Automator](https://open.spotify.com/artist/4fv5w0LJib9OMbXQegqZ01), [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Deltron 3030](https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye) | 3:34 |
-| 27 | [This Way](https://open.spotify.com/track/1unbLw4cvR8za4YpHFWcN7) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Neighborhood Watch](https://open.spotify.com/album/267Oyc2f4oyawPYto13f2S) | 4:05 |
-| 28 | [Blast](https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K) | [Reflection Eternal](https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC) | [Train Of Thought](https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx) | 3:07 |
+| 27 | [Blast](https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K) | [Reflection Eternal](https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC) | [Train Of Thought](https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx) | 3:07 |
+| 28 | [This Way](https://open.spotify.com/track/1unbLw4cvR8za4YpHFWcN7) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Neighborhood Watch](https://open.spotify.com/album/267Oyc2f4oyawPYto13f2S) | 4:05 |
 | 29 | [Boom \- Explicit Album Version](https://open.spotify.com/track/6k39WGLrbuNYpdcNDjWTJt) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [Rock City](https://open.spotify.com/album/6q26ntqqVMWmBsXqYO6sGT) | 3:53 |
 | 30 | [Forest Whitiker](https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ) | [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Shadows On The Sun](https://open.spotify.com/album/5ol06hytR08p6SokJkQA5K) | 3:00 |
 | 31 | [The Look of Love, Pt\. 1](https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [J\-88](https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 49 | [Take a Walk](https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Apocalypse](https://open.spotify.com/artist/7LdtN6h2Bln3e1RsS0Bxot) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 5:07 |
 | 50 | [Deception](https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR) | [Blackalicious](https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG) | [Nia](https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I) | 5:11 |
 
-Snapshot ID: `MCw2OTFmN2NmYmI0MWI0MWVkZGI2NTBjMGE3YjE1NjljMDJjNmY3ZTMy`
+Snapshot ID: `MCw4NTlhZGEyNmVkZjM4MjBjMThlYjRhOThmN2JjN2RlODcwNDc0Mjk4`

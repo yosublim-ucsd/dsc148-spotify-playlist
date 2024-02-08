@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Bersuit Vergarabat en Portada.
 
-392 songs - 23 hr 42 min
+393 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,8 @@
 | [Rock rápido](https://open.spotify.com/track/0yCnKUP85AQ91lu93B3wTb) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [Rock rápido](https://open.spotify.com/album/3bRANklVDUxYslTWJu1egh) | 2:54 | 2023-09-08 | 2023-09-30 |
 | [Rotura](https://open.spotify.com/track/4MNwrAigvEocVgWDGxkS10) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Rotura](https://open.spotify.com/album/7hBTPDVJPbi2Igtfv9dphz) | 3:36 | 2023-06-16 | 2023-09-02 |
 | [S!CK](https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [S!CK](https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs) | 3:12 | 2024-02-02 |  |
-| [Sabinal](https://open.spotify.com/track/6GdjcejLIYstjDTS111tKR) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/2VW2Arzox2JddtDvguuUU1) | 2:16 | 2023-06-23 |  |
+| [Sabinal](https://open.spotify.com/track/6GdjcejLIYstjDTS111tKR) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/2VW2Arzox2JddtDvguuUU1) | 2:16 | 2023-06-23 | 2024-02-08 |
+| [Sabinal](https://open.spotify.com/track/7paWGmYSmpkjG8WL7uQtjt) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/0b0mXtRM4QGRVvnpJO4FoA) | 2:16 | 2024-02-02 |  |
 | [Sabor Cayena](https://open.spotify.com/track/7AeeynF7fkV4aFFwR9KeiA) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Sabor Cayena](https://open.spotify.com/album/5LiWn17rIUI0oqxfOyxVaP) | 4:16 | 2022-02-09 | 2022-05-04 |
 | [Sasha, Sissi y el Círculo de Baba \- EADDA9223 \(feat\. Mon Laferte\)](https://open.spotify.com/track/0HdRf23VtIRpUdHH3mZc3L) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 3:58 | 2023-06-02 | 2023-06-24 |
 | [SATURADOS.](https://open.spotify.com/track/1xD2qhHRZ8OoWX0W5WhoDb) | [NETO ROXS](https://open.spotify.com/artist/72tQXlolJ2rcObhahYgIvJ) | [SATURADOS.](https://open.spotify.com/album/1awu6bROUZk9NE63huOT9e) | 2:27 | 2022-07-01 | 2022-07-15 |

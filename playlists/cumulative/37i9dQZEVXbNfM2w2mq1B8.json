@@ -2463,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
@@ -4688,7 +4706,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 201533,
       "name": "Dai Mi Vsichko",
       "url": "https://open.spotify.com/track/7qmV6PWC86hFlYusuxAqwg"
@@ -11286,7 +11304,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 137142,
       "name": "Kradena",
       "url": "https://open.spotify.com/track/2RgC1nTzRNAf9MiOhoLHxk"
@@ -15062,6 +15080,32 @@
       "duration_ms": 171520,
       "name": "Night Time",
       "url": "https://open.spotify.com/track/23yttIeFaOu5459hHkThyd"
+    },
+    {
+      "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321560,
+      "name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
+      "url": "https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT"
     },
     {
       "album": {
@@ -19810,7 +19854,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
@@ -21852,6 +21896,24 @@
       "duration_ms": 200487,
       "name": "Top lyubovnik",
       "url": "https://open.spotify.com/track/6RUTdEozIHJNxcD8CmpbDA"
+    },
+    {
+      "album": {
+        "name": "Top Model",
+        "url": "https://open.spotify.com/album/43bB4GiA2mnKhsgemslYsq"
+      },
+      "artists": [
+        {
+          "name": "Marso",
+          "url": "https://open.spotify.com/artist/1UUQq3z2RCIqSE1eiP00Jv"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154029,
+      "name": "Top Model",
+      "url": "https://open.spotify.com/track/4iQVYZGE9KyUZJyIn0wEr6"
     },
     {
       "album": {
@@ -26838,7 +26900,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 205347,
       "name": "\u041d\u0435, \u043c\u0435\u0440\u0441\u0438 - Single",
       "url": "https://open.spotify.com/track/1bwLTopYsL8A0j0fg7fi79"
@@ -28122,7 +28184,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 171902,
       "name": "\u0422\u0438 \u0441\u0438 \u0442\u043e\u043f",
       "url": "https://open.spotify.com/track/1gAQUXOp4j183SPY8wGIgx"

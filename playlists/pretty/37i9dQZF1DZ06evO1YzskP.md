@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,776 likes - 51 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,800 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 9 | [Cuando Alguien Me Amaba](https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Cuando Alguien Me Amaba](https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj) | 2:24 |
 | 10 | [Blindajes Peña \(En Vivo\)](https://open.spotify.com/track/6SmiLHeSXnURc3R5dc2CYp) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 4:05 |
 | 11 | [Apenas es Martes](https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Apenas es Martes](https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx) | 3:36 |
-| 12 | [LALA](https://open.spotify.com/track/4l2yplVehb4oiQ5qS5XCQc) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [LALA](https://open.spotify.com/album/7CNQuFMI9yYy8dHkPx9Y13) | 3:11 |
-| 13 | [Se Les Pelo El Ranchero](https://open.spotify.com/track/4PnvnDk0Cg2SFRglbTv8jn) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:14 |
+| 12 | [Se Les Pelo El Ranchero](https://open.spotify.com/track/4PnvnDk0Cg2SFRglbTv8jn) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:14 |
+| 13 | [LALA](https://open.spotify.com/track/4l2yplVehb4oiQ5qS5XCQc) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [LALA](https://open.spotify.com/album/7CNQuFMI9yYy8dHkPx9Y13) | 3:11 |
 | 14 | [Tiempos De Guerra](https://open.spotify.com/track/4H8FjCpqI9EXaau6T5yILG) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:45 |
 | 15 | [La Invitación](https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Invitación](https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK) | 3:13 |
 | 16 | [CHV FLX](https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Estilo Sencillo](https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5) | [CHV FLX](https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM) | 2:24 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 50 | [Recuérdame](https://open.spotify.com/track/5vF6b7gpsRYNLiGfgxmYTf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Recuérdame](https://open.spotify.com/album/5VqX6ku8XE7CVA2COJ9kxu) | 2:14 |
 | 51 | [El Sera Y El Chavo](https://open.spotify.com/track/63I3KP3FbfAztF5R8Kw5Td) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [El Sera Y El Chavo](https://open.spotify.com/album/6U6shLWotKyQwwvmIFiH8F) | 2:50 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDAxNGZiNGJlZmY4ZGQ4OGFmZDg5NTA5NjNkZGU4ZGExOA==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDAyZDYyYzg3OTkzMjdkZjliMzEzMWRkZDhmNjgzMTRiOA==`

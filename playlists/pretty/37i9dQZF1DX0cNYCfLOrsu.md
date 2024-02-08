@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Tina \(Hoodcelebrityy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,478 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,544 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 14 | [16 Shots](https://open.spotify.com/track/2169IKAivSUUFGcedGASXc) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [16 Shots](https://open.spotify.com/album/7fhtLker4wksK42E4hyhxK) | 3:44 |
 | 15 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 |
 | 16 | [Whine & Kotch](https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv) | [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Whine & Kotch](https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ) | 3:37 |
-| 17 | [Fever](https://open.spotify.com/track/0btB1fHGwvipD4IUmyh1vL) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [King Of The Dancehall](https://open.spotify.com/album/2aekHyNMelpHfvD4p5zlOk) | 3:24 |
-| 18 | [We Be Burnin'](https://open.spotify.com/track/4kOTDj4SiZPkW1p96WMDNv) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:33 |
+| 17 | [We Be Burnin'](https://open.spotify.com/track/4kOTDj4SiZPkW1p96WMDNv) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:33 |
+| 18 | [Fever](https://open.spotify.com/track/0btB1fHGwvipD4IUmyh1vL) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [King Of The Dancehall](https://open.spotify.com/album/2aekHyNMelpHfvD4p5zlOk) | 3:24 |
 | 19 | [Slow Down](https://open.spotify.com/track/0jPEWByX9DZAQb5zyQ6eng) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:14 |
 | 20 | [Foreplay](https://open.spotify.com/track/3QFOdlIjY2EyjLij20OjdB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Foreplay](https://open.spotify.com/album/7fMMeGFAPp2upuxTKqofYp) | 2:46 |
-| 21 | [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 |
-| 22 | [Toast \- Remix](https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU) | [J Star](https://open.spotify.com/artist/4XoVFXRNNMzxuEpxRt2lqp) | [Toast \(Remix\)](https://open.spotify.com/album/24oZPmdzVJ7X5agJbGpK8d) | 3:07 |
+| 21 | [Toast \- Remix](https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU) | [J Star](https://open.spotify.com/artist/4XoVFXRNNMzxuEpxRt2lqp) | [Toast \(Remix\)](https://open.spotify.com/album/24oZPmdzVJ7X5agJbGpK8d) | 3:07 |
+| 22 | [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 |
 | 23 | [W \(feat\. Gunna\)](https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [W \(feat\. Gunna\)](https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5) | 3:50 |
 | 24 | [Pull up to Mi Bumper](https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull up to Mi Bumper](https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS) | 2:30 |
 | 25 | [Rebel](https://open.spotify.com/track/36t9rgshEge4LCzhHKioFQ) | [Zum](https://open.spotify.com/artist/0Uxj1Nl8AeAN7g7iALqh9U), [Shenseea](https://open.spotify.com/artist/7FBUsBZPO9VB6wDXY4fv5Q) | [Liquid Sunshine Riddim](https://open.spotify.com/album/0szSNcsmxpS4FhwVuuJkf8) | 2:15 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 30 | [Brik Pan Brik](https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Brik Pan Brik](https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW) | 2:40 |
 | 31 | [SUH ME LUV IT \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4KLpNmKeu6C2jVaTQeFCZO) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:13 |
 | 32 | [Lighter \(with Tarrus Riley & Rvssian\)](https://open.spotify.com/track/1AAkIj1NSdpaoOZYctGnrg) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Lighter \(with Tarrus Riley & Rvssian\)](https://open.spotify.com/album/11FhJslAwiGqGYP2TLOVBq) | 2:04 |
-| 33 | [Catch 22](https://open.spotify.com/track/4ZYs6suTVIJPg5vxibOyIw) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [Serenity](https://open.spotify.com/album/6eYxm1llvPLQe5oW3d5tba) | 4:10 |
-| 34 | [Walking Trophy](https://open.spotify.com/track/4hGHcdD5IwjAkftalZm5an) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Walking Trophy](https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf) | 3:35 |
+| 33 | [Walking Trophy](https://open.spotify.com/track/4hGHcdD5IwjAkftalZm5an) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Walking Trophy](https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf) | 3:35 |
+| 34 | [Catch 22](https://open.spotify.com/track/4ZYs6suTVIJPg5vxibOyIw) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [Serenity](https://open.spotify.com/album/6eYxm1llvPLQe5oW3d5tba) | 4:10 |
 | 35 | [Everything Fi Hold Him](https://open.spotify.com/track/7v2IaYqhKoMndOWt6Krsgd) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:46 |
 | 36 | [Dancehall Queen \(feat\. Chevelle Franklyn\)](https://open.spotify.com/track/6LGTXFy9KNQeBjUHT9fPFh) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Chevelle Franklyn](https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc) | [Best Of \(collector's Edition\)](https://open.spotify.com/album/43leIoAGMe8wnHSpid198y) | 3:24 |
 | 37 | [Hard Drive](https://open.spotify.com/track/4tw57jakL7TFEdZ4bUohP1) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Hard Drive](https://open.spotify.com/album/4y2mW0Vpyc897XhWl8K6B9) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 74 | [Bun Fi Bun \- Fast](https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3) | 2:29 |
 | 75 | [Put It On You](https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:05 |
 
-Snapshot ID: `MCxmZDM4ZjYyNjFjNGQwNGUyZTMwNGUxYzg5ZmJiODgyMGM5ZmU3YTRm`
+Snapshot ID: `MCw0MTBjMGExYTc0MzA3YmI3OWYyNjI4ODVjYmZlMTkzNjI5N2UwN2Jh`

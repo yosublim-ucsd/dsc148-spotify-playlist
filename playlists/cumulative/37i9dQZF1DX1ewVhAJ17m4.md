@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Neck Deep
 
-360 songs - 17 hr 50 min
+361 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,8 @@
 | [Unstoppable](https://open.spotify.com/track/0DRxRCkk7lrUs1VggJMmnP) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Unstoppable](https://open.spotify.com/album/2wJWPmjFjIAu4z8SlQkHjt) | 3:05 | 2022-10-21 | 2023-03-10 |
 | [Until Then](https://open.spotify.com/track/1ziXMxdyOXP7rjBmkQrGTM) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Until Then](https://open.spotify.com/album/19iFrjD0t22ZjI2ho8oWFm) | 3:13 | 2023-05-15 | 2024-02-06 |
 | [Up In Smoke](https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Up In Smoke](https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o) | 2:54 | 2023-08-10 |  |
-| [use me](https://open.spotify.com/track/0KNLFtX4moDQ4jcuziocBQ) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [use me](https://open.spotify.com/album/4JUtkSVltrPsPmpEkadMK7) | 3:01 | 2023-09-15 |  |
+| [use me](https://open.spotify.com/track/0KNLFtX4moDQ4jcuziocBQ) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [use me](https://open.spotify.com/album/4JUtkSVltrPsPmpEkadMK7) | 3:01 | 2023-09-15 | 2024-02-08 |
+| [use me](https://open.spotify.com/track/1r8j5j9hBIlkz0onyxl4hO) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:01 | 2024-02-05 |  |
 | [Violet!](https://open.spotify.com/track/7eRcOJ0bOVJcBjF5IqPiFg) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Violet!](https://open.spotify.com/album/4Lq7qgesAt6nhTLrYOugLH) | 2:47 | 2021-12-20 | 2022-04-05 |
 | [Wake Up](https://open.spotify.com/track/4lanb9IYNnwzlQd9XmTjju) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I) | [Wake Up](https://open.spotify.com/album/7jc2djmbyBkslfXec7H6yv) | 2:54 | 2022-06-14 | 2022-10-14 |
 | [Walk Over My Grave](https://open.spotify.com/track/43c7a2qXSry2me3tYfowdZ) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Walk Over My Grave](https://open.spotify.com/album/6pafKb03ZUyJcw6G4E7uZK) | 3:19 | 2021-12-20 | 2022-04-05 |

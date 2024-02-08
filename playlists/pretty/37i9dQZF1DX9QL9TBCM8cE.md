@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,196 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,206 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 40 | [虹の行方](https://open.spotify.com/track/2EGyVGF3f5h1WAScAqFOnW) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 01](https://open.spotify.com/album/2nINsRjHFbz5oWMG4zJo2i) | 5:14 |
 | 41 | [abyss of conflict \- 2023 Version](https://open.spotify.com/track/6b7GQPqweKWFErkjF3iCL4) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS L@YERED WING 03 \(2023 Version\)](https://open.spotify.com/album/6H0pUpoITkHIMVePzUGiUF) | 4:09 |
 | 42 | [We can go now!](https://open.spotify.com/track/11BYRDBsnSUInB5mxkxoEg) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 02](https://open.spotify.com/album/1GZo9sFK2v23lzAWDVKhLi) | 3:44 |
-| 43 | [Killer×Mission](https://open.spotify.com/track/0ghG8utRgqj7mnzNAMh5to) | [L'Antica](https://open.spotify.com/artist/6AVoZay6oxRPozPCGkwJJ9), [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 01](https://open.spotify.com/album/2AtVxlrMgKVDsrqA6onKYJ) | 4:01 |
+| 43 | [あおぞらサイダー](https://open.spotify.com/track/3CXdwSwMwyFhT23xCZNONl) | [市川雛菜 \(CV.岡咲美保\)](https://open.spotify.com/artist/6tmX0pNtuRyYat4zyxRTes) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:51 |
 | 44 | [相合学舎](https://open.spotify.com/track/5HvlTedUOfCe0vW7gk1SjL) | [放課後クライマックスガールズ](https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5), [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 02](https://open.spotify.com/album/7rg9RfJGUbH8aLeqHLGBst) | 4:25 |
 | 45 | [青とオレンジ](https://open.spotify.com/track/1Cpk6loUsHtZmSrzu25ips) | [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS "CANVAS" 06](https://open.spotify.com/album/3EarCSn4p3bjZfE5dEvXFd) | 4:11 |
 | 46 | [ラブ・ボナペティート](https://open.spotify.com/track/0Mr2zkWpiKi3ygTicq0vZM) | [アルストロメリア](https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q) | [THE IDOLM@STER SHINY COLORS L@YERED WING 05](https://open.spotify.com/album/5QndRvH8n01jpqNf4gDhbe) | 4:48 |
 | 47 | [VOY@GER](https://open.spotify.com/track/1XpmPaXl4Hct0ZTtTZnEPb) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [VOY@GER](https://open.spotify.com/album/7A4Smsvs75oTc1uHBwzlF4) | 5:39 |
-| 48 | [あおぞらサイダー](https://open.spotify.com/track/3CXdwSwMwyFhT23xCZNONl) | [市川雛菜 \(CV.岡咲美保\)](https://open.spotify.com/artist/6tmX0pNtuRyYat4zyxRTes) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:51 |
+| 48 | [Killer×Mission](https://open.spotify.com/track/0ghG8utRgqj7mnzNAMh5to) | [L'Antica](https://open.spotify.com/artist/6AVoZay6oxRPozPCGkwJJ9), [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 01](https://open.spotify.com/album/2AtVxlrMgKVDsrqA6onKYJ) | 4:01 |
 | 49 | [有彩色ユリイカ](https://open.spotify.com/track/18VfDvyJM0x0neY4ldeaiK) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS "CANVAS" 02](https://open.spotify.com/album/2GJ9WsBpkibxIe8vMKI4Yr) | 4:49 |
 | 50 | [statice](https://open.spotify.com/track/63fbgkmVDVCWM5vTmwEufo) | [浅倉 透 \(CV.和久井 優\)](https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:37 |
 
-Snapshot ID: `MCw3ZGZkZDg2NGM5YTU0YTU5OTE0MzI1MDU1OTAyMWY0NzcwODAyOTkx`
+Snapshot ID: `MCw3ZjgxODc3NDkxNjEwYzY5YWM2Y2I0YjdmMzA5Y2VkNGQ0MTZlYmE4`

@@ -4,7 +4,7 @@
 
 > Raw, sentimental feels.
 
-158 songs - 6 hr 8 min
+160 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Again](https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2) | 2:23 | 2023-02-16 | 2023-11-30 |
 | [Anything Like Her \(feat\. Tiffi\)](https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [Snow Rose](https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9) | 3:11 | 2019-03-27 |  |
 | [Behind](https://open.spotify.com/track/4MKnTSEJuUFKvf4LcKMsw6) | [Sensi Sye](https://open.spotify.com/artist/0vDAUcrogFgvsMAXkjHZEQ) | [Behind](https://open.spotify.com/album/0pUE8rJ1nTr1JIVhOTXEaD) | 2:53 | 2023-02-16 | 2023-11-30 |
-| [Bloom](https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:01 | 2019-03-27 |  |
+| [Bloom](https://open.spotify.com/track/2e8imHlD10TXnYsL72zEe0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/75jB03qghdIosSpN3z8QSF) | 2:01 | 2024-02-01 |  |
+| [Bloom](https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:01 | 2019-03-27 | 2024-02-08 |
 | [Blue](https://open.spotify.com/track/5jZeQRVMRWsSSYnp8tgrsq) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [Clockwork](https://open.spotify.com/album/51EKtNFncEaNE3TCUR6m5i) | 2:03 | 2019-03-27 |  |
 | [Blue \(feat\. Drwn.\)](https://open.spotify.com/track/4RIu43eVxjbWuUhNwTUxwb) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [Clockwork](https://open.spotify.com/album/67fCjPsA2tdDb7YcpMYynn) | 2:03 | 2019-03-27 | 2022-07-29 |
 | [Blue Side](https://open.spotify.com/track/1PSbDjjGuMpfGeKaHZGiwh) | [Qommodity](https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P) | [Blue Side](https://open.spotify.com/album/2PPei5ygMvZ0Zk1tDSIxZX) | 2:08 | 2023-10-27 |  |
@@ -39,7 +40,8 @@
 | [disappear](https://open.spotify.com/track/1kFTDLCN9YPZhpCqjv3uiS) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [disappear](https://open.spotify.com/album/3oRx3Ru3FcKCCl20IF6fNk) | 1:49 | 2019-03-27 | 2022-07-29 |
 | [disappear](https://open.spotify.com/track/3x1edFtdUWSV6bFmAdHO3u) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [disappear](https://open.spotify.com/album/3innYFypOVQEwccHtItsh6) | 1:49 | 2019-03-27 | 2023-11-30 |
 | [Disconnect](https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui) | [A Space for Rent](https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX) | [Disconnect](https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ) | 2:00 | 2023-10-27 |  |
-| [Distant](https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:24 | 2019-03-27 |  |
+| [Distant](https://open.spotify.com/track/0sUh3Wq1Gf8K47d1E7BrtG) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/75jB03qghdIosSpN3z8QSF) | 2:24 | 2024-02-01 |  |
+| [Distant](https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:24 | 2019-03-27 | 2024-02-08 |
 | [Distant Memories](https://open.spotify.com/track/2jXuSIAABsZMtTo3xERElJ) | [biosphere](https://open.spotify.com/artist/6sa0lNcq7YdXNnQKZHFb0D) | [Dystopian Tea](https://open.spotify.com/album/2QqdgDwmvHDj0wLqDBMIo3) | 1:47 | 2019-03-27 | 2023-02-17 |
 | [Don't Give Up](https://open.spotify.com/track/4ng1XfVomFP5xGYna6FLpR) | [Madson Project.](https://open.spotify.com/artist/7dEFLdpxjmqhnv5ePvCTP7), [Jack Cates](https://open.spotify.com/artist/555ddcMCcd9HAWnP5HuklH) | [If You Want Me](https://open.spotify.com/album/6QCAulBTfwAfkXbJYkTf2D) | 2:51 | 2019-03-27 |  |
 | [dream surfer](https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt) | [loyCOY](https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7) | [dream surfer](https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97) | 2:24 | 2023-10-27 |  |

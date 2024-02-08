@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 
 > The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,060 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,187 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 | 33 | [Bailando \- Spanish Version](https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [SEX AND LOVE \(Deluxe\)](https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD) | 4:03 |
 | 34 | [China](https://open.spotify.com/track/0KkIkfsLEJbrcIhYsCL7L5) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 5:01 |
 | 35 | [Dream Girl \- Remix](https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dream Girl \(Remix\)](https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86) | 3:12 |
-| 36 | [Funk Rave](https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu) | 2:27 |
-| 37 | [Bum Bum Tam Tam](https://open.spotify.com/track/6k2900NjJeVqZM55G3Danu) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Bum Bum Tam Tam](https://open.spotify.com/album/1E6aIrYOcysBusmGfm2Pcm) | 3:33 |
+| 36 | [Bum Bum Tam Tam](https://open.spotify.com/track/6k2900NjJeVqZM55G3Danu) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Bum Bum Tam Tam](https://open.spotify.com/album/1E6aIrYOcysBusmGfm2Pcm) | 3:33 |
+| 37 | [Funk Rave](https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu) | 2:27 |
 | 38 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 |
 | 39 | [Loco](https://open.spotify.com/track/6b2HYgqcK9mvktt4GxAu72) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:51 |
 | 40 | [HOT](https://open.spotify.com/track/5Pg4qYTcvCUBBq3jBhKq0t) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 | 49 | [Capitán](https://open.spotify.com/track/3Zesg4c4eKhWJbKyh2mZos) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Capitán](https://open.spotify.com/album/3HzG2GrYVNOFovlnK112G2) | 3:44 |
 | 50 | [Calypso](https://open.spotify.com/track/2u7tDWQ6LX0Kw1LiK1jaok) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 3:20 |
 
-Snapshot ID: `MCxlZTRhMzNmZDU3YzBiYWMwOWE1NmYyMmE2YmIzNGNmZGRlNTRlMGZj`
+Snapshot ID: `MCw3Y2UxNmYwOGViMzMxODEyMzBkNGE3NGI0NTQ4NDU5ZTQwOWEyNTM5`

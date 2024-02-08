@@ -4,7 +4,7 @@
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-62 songs - 5 hr 12 min
+63 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,10 +16,11 @@
 | [Aleluya](https://open.spotify.com/track/7EOxhfDRdKdLknVVuyKKQ4) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS) | [Aleluya](https://open.spotify.com/album/58TuxVBW2c8guPlnGptw9c) | 5:34 | 2023-07-09 |  |
 | [Ao Final](https://open.spotify.com/track/7sFeGZBlqXSN3lN02lirMh) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 3:57 | 2023-07-09 |  |
 | [Apaixonado Coração](https://open.spotify.com/track/5trNycknDFgdGosv98UeRc) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:08 | 2023-07-09 |  |
-| [Até Aqui me Sustentou](https://open.spotify.com/track/6i2uI31zWj1zJH24S2gFJx) | [Cássia Kelly](https://open.spotify.com/artist/43lb9Hehs3NFBes3cy4fbB), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 4:28 | 2023-07-09 |  |
+| [Até Aqui me Sustentou](https://open.spotify.com/track/6i2uI31zWj1zJH24S2gFJx) | [Cássia Kelly](https://open.spotify.com/artist/43lb9Hehs3NFBes3cy4fbB), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 4:28 | 2023-07-09 | 2024-02-08 |
 | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT) | 6:02 | 2023-07-09 |  |
 | [Cicatrizes](https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:20 | 2023-07-09 |  |
 | [Com Muito Louvor](https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com Muito Louvor](https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v) | 5:21 | 2023-07-09 |  |
+| [Com os Olhos da Fé](https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com os Olhos da Fé](https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk) | 4:47 | 2024-02-07 |  |
 | [Como Águia](https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:34 | 2023-07-09 |  |
 | [Deixar a Lágrima Rolar](https://open.spotify.com/track/0MYOLA6eOwPBO5KjXSpEhz) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:19 | 2023-07-09 |  |
 | [Deus da Graça](https://open.spotify.com/track/1IwiRf0e4LL9zmB6mwW4Nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Deus da Graça](https://open.spotify.com/album/0U3wgaActPJC5Od0brF9Lb) | 6:36 | 2023-07-09 | 2023-08-07 |

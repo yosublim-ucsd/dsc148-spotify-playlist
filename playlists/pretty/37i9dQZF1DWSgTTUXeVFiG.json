@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 31649,
+  "num_followers": 6362,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGM1NTBiZmE2YzA5ZjlkZDE4Y2ZiYWFlYzk1ZWI1NGVkYTYzZjli",
+  "snapshot_id": "MCxhZDNmMjEzMDc4MzgyNDMzNTE4MzNkZTE0MDdkMzk1ODc5Y2JjYTMx",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -627,22 +627,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live At The Cheetah, Vol. 1",
-        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Adalberto Santiago",
-          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 557626,
-      "name": "Descarga Fania - Live",
-      "url": "https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud"
+      "duration_ms": 424066,
+      "name": "Quiero Morir en Tu Piel - En Vivo",
+      "url": "https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -663,18 +659,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
-        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
+        "name": "Live At The Cheetah, Vol. 1",
+        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
       },
       "artists": [
         {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
         }
       ],
-      "duration_ms": 424066,
-      "name": "Quiero Morir en Tu Piel - En Vivo",
-      "url": "https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV"
+      "duration_ms": 557626,
+      "name": "Descarga Fania - Live",
+      "url": "https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud"
     },
     {
       "added_at": "2022-03-18 05:00:00",

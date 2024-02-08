@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 
 > Recuerda la década de los acampanados, patillas y cuellos picudos
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,563 likes - 61 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,628 likes - 61 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 14 | [Te He Prometido](https://open.spotify.com/track/15vvGrycJyA5tMb6PXdQYO) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Roma \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fbJSth7xYdLAphGOSqJl5) | 3:07 |
 | 15 | [Mi Forma De Sentir](https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Éxitos Románticos \(De Colección\)](https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL) | 3:54 |
 | 16 | [Un Sueño](https://open.spotify.com/track/713S1nCNk4yzpR8WbJcQF1) | [La Tropa Loca](https://open.spotify.com/artist/3yRt7RrCEFnIIEgenUFElv) | [El Disco de Oro de la Tropa Loca](https://open.spotify.com/album/4DfcRh0MYcnlcZOUMLGyX3) | 3:25 |
-| 17 | [Si Supieras](https://open.spotify.com/track/2c2m8IPUiQaMCjEABKJ1kx) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [La Gran Colección del 60 Aniversario CBS \- Manoella Torres](https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi) | 3:17 |
-| 18 | [Llamarada](https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C) | 3:19 |
-| 19 | [Cuatro Lagrimas](https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr) | [Los Polifaceticos](https://open.spotify.com/artist/3OOAJERutoeZax0lNsSWbK) | [Coleccion Suprema Plus\- Los Polifaceticos](https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i) | 3:07 |
-| 20 | [Corazon de Roca](https://open.spotify.com/track/1zdYTb2KOgrdp0MPlcHyCl) | [La Rondalla De Saltillo](https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P) | [Las Mejores Rondallas de Mexico](https://open.spotify.com/album/1wRZWdP0gam1RChALjDjGp) | 2:56 |
+| 17 | [Llamarada](https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C) | 3:19 |
+| 18 | [Si Supieras](https://open.spotify.com/track/2c2m8IPUiQaMCjEABKJ1kx) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [La Gran Colección del 60 Aniversario CBS \- Manoella Torres](https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi) | 3:17 |
+| 19 | [Corazon de Roca](https://open.spotify.com/track/1zdYTb2KOgrdp0MPlcHyCl) | [La Rondalla De Saltillo](https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P) | [Las Mejores Rondallas de Mexico](https://open.spotify.com/album/1wRZWdP0gam1RChALjDjGp) | 2:56 |
+| 20 | [Cuatro Lagrimas](https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr) | [Los Polifaceticos](https://open.spotify.com/artist/3OOAJERutoeZax0lNsSWbK) | [Coleccion Suprema Plus\- Los Polifaceticos](https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i) | 3:07 |
 | 21 | [Falso Amor](https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Falso Amor](https://open.spotify.com/album/2Df8guHfWqzoQQAhzMhUOr) | 2:56 |
 | 22 | [Chavo de Onda](https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [Adicto al Rock N Roll](https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ) | 3:28 |
 | 23 | [Por Que Nos Dijimos Adios](https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Mano A Mano Volumen 1](https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK) | 3:10 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 60 | [Voy a Rifar Mi Corazón](https://open.spotify.com/track/4IAL8at0FaflOwRM50fkh9) | [Imelda Miller](https://open.spotify.com/artist/2oVaeCKi0RspvgUjWxil4J) | [RCA 100 Anos De Musica \- Segunda Parte \( Grandes Baladas De Los 70s\)](https://open.spotify.com/album/5UQ6XQO9FRydH3GlbJpEDP) | 2:44 |
 | 61 | [Que Alegre Va María](https://open.spotify.com/track/50TLovGoqCAnyHj4k7Y7r4) | [Imelda Miller](https://open.spotify.com/artist/2oVaeCKi0RspvgUjWxil4J) | [RCA 100 Anos De Musica \- Segunda Parte \( Grandes Baladas De Los 70s\)](https://open.spotify.com/album/5UQ6XQO9FRydH3GlbJpEDP) | 4:51 |
 
-Snapshot ID: `MCw0ZGY1YjcyMDczYThiODRkZDI0NDAzMzJjOTg2NTNkZjcwNWExNzJj`
+Snapshot ID: `MCwyYjIxMjc3NDZmYjFkOGNjNjk2OWIyZDFiYjdmNjc4NzQyYzI5OGUy`

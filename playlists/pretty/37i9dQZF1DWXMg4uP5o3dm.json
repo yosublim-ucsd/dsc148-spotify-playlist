@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Layto",
-  "num_followers": 475059,
+  "num_followers": 475150,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTUwMTFmYTBjYzVkZjdlZWRjZDc0ZTcxMmRiOGUxYmFjNzk5OGQ5",
+  "snapshot_id": "MCwzMjAxZmU3MTc5MGI1NDNmMjFmMGNmN2Q3OTU5NWYwZDI5ZTg5NWY0",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Armatron",
-        "url": "https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 252603,
-      "name": "Armatron",
-      "url": "https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "BOO HOO",
         "url": "https://open.spotify.com/album/340DkD2ALkoIfq553m5lgl"
       },
@@ -851,30 +835,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "KULT (feat. Jasiah)",
-        "url": "https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        },
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        }
-      ],
-      "duration_ms": 177149,
-      "name": "KULT (feat. Jasiah)",
-      "url": "https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Strange Disciple",
         "url": "https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK"
       },
@@ -887,6 +847,22 @@
       "duration_ms": 255438,
       "name": "Weak In Your Light",
       "url": "https://open.spotify.com/track/4odb2UIgc0u22MNV7p4iQq"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Armatron",
+        "url": "https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 252603,
+      "name": "Armatron",
+      "url": "https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -911,6 +887,30 @@
       "duration_ms": 219745,
       "name": "Heaven Angel",
       "url": "https://open.spotify.com/track/7sky3fJ4SA5CiGY905vphj"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "KULT (feat. Jasiah)",
+        "url": "https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        },
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        }
+      ],
+      "duration_ms": 177149,
+      "name": "KULT (feat. Jasiah)",
+      "url": "https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Knockoff",
-        "url": "https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 184518,
-      "name": "Knockoff",
-      "url": "https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Can You Feel The Sun",
         "url": "https://open.spotify.com/album/0P4sHlkN6qkLxWAcEKYqPx"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 223671,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/7gq2VoVnIcT2jd8JWAEjrj"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Knockoff",
+        "url": "https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 184518,
+      "name": "Knockoff",
+      "url": "https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "LOST IT",
+        "url": "https://open.spotify.com/album/0kHS4bvtYbAaBREla4DtLt"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        },
+        {
+          "name": "P!X!E",
+          "url": "https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "LOST IT",
+      "url": "https://open.spotify.com/track/0BpRdpbGMQ18OLpU0r0kPb"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 192773,
       "name": "PUMP THE BREAK",
       "url": "https://open.spotify.com/track/7baoqD2YuFgFTqdBwf72PC"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "LOST IT",
-        "url": "https://open.spotify.com/album/0kHS4bvtYbAaBREla4DtLt"
-      },
-      "artists": [
-        {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
-        },
-        {
-          "name": "P!X!E",
-          "url": "https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "LOST IT",
-      "url": "https://open.spotify.com/track/0BpRdpbGMQ18OLpU0r0kPb"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "A R I Z O N A",
-        "url": "https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 195735,
-      "name": "Die For A Night",
-      "url": "https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "A Change of Perspective (Deluxe)",
         "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
       },
@@ -1643,6 +1627,46 @@
       "duration_ms": 209454,
       "name": "Regret - Remix",
       "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "A R I Z O N A",
+        "url": "https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 195735,
+      "name": "Die For A Night",
+      "url": "https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 174620,
+      "name": "Mr Regular",
+      "url": "https://open.spotify.com/track/0DBXMMwNYbo0O8wCzpVXkC"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1675,30 +1699,6 @@
       "duration_ms": 222105,
       "name": "Portraits",
       "url": "https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 174620,
-      "name": "Mr Regular",
-      "url": "https://open.spotify.com/track/0DBXMMwNYbo0O8wCzpVXkC"
     },
     {
       "added_at": "2024-01-19 05:00:00",

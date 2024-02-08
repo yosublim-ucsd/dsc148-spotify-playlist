@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Australia.
 
-1,160 songs - 2 day 18 hr 46 min
+1,161 songs - 2 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,7 +439,8 @@
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:32 | 2021-03-27\* | 2021-05-03 |
 | [Holy Grail](https://open.spotify.com/track/7ieCsfrxC9ssTGUzCL8BHv) | [Hunters & Collectors](https://open.spotify.com/artist/7udwYystFcvYziV36ZIwuh) | [Cut \(25th Anniversary Deluxe Version\)](https://open.spotify.com/album/3p24BdyFbIK0vNndBlWeFi) | 3:47 | 2022-01-27 | 2022-01-29 |
 | [Holy Grail](https://open.spotify.com/track/2FPsER4Qd9JsfunkyuBoyX) | [Hunters & Collectors](https://open.spotify.com/artist/7udwYystFcvYziV36ZIwuh) | [Greatest Hits](https://open.spotify.com/album/3tY24vcfkoO3H6krwv1MqR) | 3:49 | 2024-01-27 | 2024-01-29 |
-| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-02-05 |  |
+| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-02-05 | 2024-02-08 |
+| [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-07 |  |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-04-30 | 2022-05-15 |
 | [hope ur ok](https://open.spotify.com/track/1zejeOnykpCoyVSit6Bwp3) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:29 | 2021-05-23 | 2021-06-20 |
 | [Hopelessly Devoted To You](https://open.spotify.com/track/5nNpVC9AC6DWgrT5RX0e0b) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [20th Century Masters: The Millennium Collection: Best Of Olivia Newton\-John](https://open.spotify.com/album/5wR3bNU1ycW52RrkP4aAXN) | 3:06 | 2022-08-10 | 2022-08-13 |

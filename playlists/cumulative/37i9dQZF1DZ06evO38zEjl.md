@@ -4,7 +4,7 @@
 
 > This is Jon Hassell\. The essential tracks, all in one playlist.
 
-128 songs - 12 hr 45 min
+129 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Charm \(Over "Burundi Cloud"\)](https://open.spotify.com/track/5V5NS2wWOiu9uOPDVOgwOT) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 21:30 | 2022-05-29 |  |
 | [Chemistry](https://open.spotify.com/track/0OsMpLnqd6pkoT1OqgkQSA) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 6:54 | 2022-05-29 |  |
 | [Clairvoyance](https://open.spotify.com/track/0SXeDhoNKnhp3h1R1wGtd2) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 1:05 | 2022-05-29 |  |
+| [Cobra Moon](https://open.spotify.com/track/3LyderlPV3MLJSpzC9Wphf) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu) | 4:55 | 2024-02-07 |  |
 | [Cobra Moon](https://open.spotify.com/track/7fxJEhbvh96daiTbfCSx8P) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8) | 4:55 | 2022-05-30 | 2022-10-13 |
 | [Cool Down Coda](https://open.spotify.com/track/37hDxJi6gOtqqqAKmrrxUL) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 1:45 | 2022-05-29 | 2023-02-15 |
 | [Cool Down Coda](https://open.spotify.com/track/5WVkNw9y3FH9lxjjPjfoka) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 1:45 | 2023-02-14 |  |
@@ -94,7 +95,7 @@
 | [Parasol Blanc, pt\. 1](https://open.spotify.com/track/6v5duRp0Su1k7s8GNqrfns) | [Hadouk Trio](https://open.spotify.com/artist/6LGJztKkpc9F9yNpPSh8Js), [Didier Malherbe](https://open.spotify.com/artist/29ZPj7LSaUStGFCPyivcOl), [Loy Ehrlich](https://open.spotify.com/artist/1Y21TMXwcmh3J7ScCMRQdH), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Utopies](https://open.spotify.com/album/5P3rzTOomkM7iFV1uRDHy7) | 2:47 | 2023-12-13 |  |
 | [Parasol Blanc, pt\. 2](https://open.spotify.com/track/1VeMQPvEgDpbmszWba9vIR) | [Hadouk Trio](https://open.spotify.com/artist/6LGJztKkpc9F9yNpPSh8Js), [Didier Malherbe](https://open.spotify.com/artist/29ZPj7LSaUStGFCPyivcOl), [Loy Ehrlich](https://open.spotify.com/artist/1Y21TMXwcmh3J7ScCMRQdH), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Utopies](https://open.spotify.com/album/5P3rzTOomkM7iFV1uRDHy7) | 3:33 | 2022-12-31 | 2023-01-02 |
 | [Paris I](https://open.spotify.com/track/4aEYTBCoBR8j2rqoMDsM30) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [J.A\. Deane](https://open.spotify.com/artist/1mhS5UKsgRzY9KffORVlQ3), [Jean\-Philippe Rykiel](https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [The Surgeon of the Nightsky Restores Dead Things by the Power of Sound](https://open.spotify.com/album/74g7seSo0zRdbrTYee6CnF) | 5:48 | 2024-01-30 |  |
-| [Passage D.E.](https://open.spotify.com/track/20CaaX6tsB7XeuThOZjNgk) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 5:25 | 2022-05-29 |  |
+| [Passage D.E.](https://open.spotify.com/track/20CaaX6tsB7XeuThOZjNgk) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 5:25 | 2022-05-29 | 2024-02-08 |
 | [Pastorale Vassant](https://open.spotify.com/track/7429GeBCGutDEUPy1L4Uv4) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9) | 3:59 | 2022-05-29 | 2023-02-14 |
 | [Pastorale Vassant](https://open.spotify.com/track/7FLZV65L6y99GmidDfjnn1) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf) | 3:59 | 2023-02-13 |  |
 | [Picnic](https://open.spotify.com/track/1VCvYkf9BjcXlAXzBCSALt) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9) | 5:58 | 2022-05-30 | 2022-10-24 |

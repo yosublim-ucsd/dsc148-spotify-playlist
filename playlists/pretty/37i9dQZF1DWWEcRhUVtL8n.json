@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Del Water Gap & Holly Humberstone",
-  "num_followers": 1688000,
+  "num_followers": 1688104,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWU0YWQzY2Q5MTM4YzIzNDY1ZWU3OTU2NGI4MjI2MjYwYTYyYTQx",
+  "snapshot_id": "MCxiMDQ3ODMzZGRkZDQ2ZmIyOGEyMGNhZTY5ODU4ZGNmOTZhOWQ1MGZm",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1081,6 +1081,22 @@
       "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
     },
     {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "How Have You Been?",
+        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 201467,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw"
+    },
+    {
       "added_at": "2024-01-05 19:31:17",
       "album": {
         "name": "i wanna be your right hand",
@@ -1095,6 +1111,42 @@
       "duration_ms": 148533,
       "name": "i wanna be your right hand",
       "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Willow (feat. Lucy Rose)",
+        "url": "https://open.spotify.com/album/2ZbZBB7CCWqi9kgnmlSHM3"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "Willow (feat. Lucy Rose)",
+      "url": "https://open.spotify.com/track/7m1qFwzJnebBiWkzE7RgDq"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Fred Perry Girl",
+        "url": "https://open.spotify.com/album/29s0Za6wwubjxwHh0PSI4d"
+      },
+      "artists": [
+        {
+          "name": "Andy Goodwin",
+          "url": "https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Fred Perry Girl",
+      "url": "https://open.spotify.com/track/3lcGMZrsd3fqWjcX8Nmkog"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1169,36 +1221,20 @@
       "url": "https://open.spotify.com/track/1Y4TOUS7R9DShEApDbb8Xm"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Fred Perry Girl",
-        "url": "https://open.spotify.com/album/29s0Za6wwubjxwHh0PSI4d"
-      },
-      "artists": [
-        {
-          "name": "Andy Goodwin",
-          "url": "https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB"
-        }
-      ],
-      "duration_ms": 179750,
-      "name": "Fred Perry Girl",
-      "url": "https://open.spotify.com/track/3lcGMZrsd3fqWjcX8Nmkog"
-    },
-    {
       "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq"
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
       },
       "artists": [
         {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 213271,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
+      "duration_ms": 229713,
+      "name": "Paint My Bedroom Black",
+      "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
     },
     {
       "added_at": "2024-01-20 00:58:43",
@@ -1219,18 +1255,18 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "Paint My Bedroom Black",
-        "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 229713,
-      "name": "Paint My Bedroom Black",
-      "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
+      "duration_ms": 213271,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1271,22 +1307,6 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "Harmony House",
-        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 151266,
-      "name": "Balcony",
-      "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
-    },
-    {
-      "added_at": "2024-01-05 19:31:17",
-      "album": {
         "name": "Perspective",
         "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
       },
@@ -1301,24 +1321,20 @@
       "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "Willow (feat. Lucy Rose)",
-        "url": "https://open.spotify.com/album/2ZbZBB7CCWqi9kgnmlSHM3"
+        "name": "Harmony House",
+        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
         }
       ],
-      "duration_ms": 249693,
-      "name": "Willow (feat. Lucy Rose)",
-      "url": "https://open.spotify.com/track/7m1qFwzJnebBiWkzE7RgDq"
+      "duration_ms": 151266,
+      "name": "Balcony",
+      "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1337,22 +1353,6 @@
       "url": "https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "How Have You Been?",
-        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 201467,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw"
-    },
-    {
       "added_at": "2024-01-05 19:31:17",
       "album": {
         "name": "living in the 90s",
@@ -1367,6 +1367,22 @@
       "duration_ms": 191213,
       "name": "living in the 90s",
       "url": "https://open.spotify.com/track/1tc5LvUV85Pcc5zxaZUjER"
+    },
+    {
+      "added_at": "2024-01-05 19:31:17",
+      "album": {
+        "name": "a beautiful blur",
+        "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 238346,
+      "name": "Alonica",
+      "url": "https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1387,22 +1403,6 @@
       "duration_ms": 194960,
       "name": "All day",
       "url": "https://open.spotify.com/track/5X0K7EYfLnoztd4oSwucJv"
-    },
-    {
-      "added_at": "2024-01-05 19:31:17",
-      "album": {
-        "name": "a beautiful blur",
-        "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 238346,
-      "name": "Alonica",
-      "url": "https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1441,22 +1441,6 @@
       "url": "https://open.spotify.com/track/3znKpMRCzOloTYv0uGAs22"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/1mH0uD5SIm4wJiDEvqXONe"
-      },
-      "artists": [
-        {
-          "name": "EASHA",
-          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
-        }
-      ],
-      "duration_ms": 149485,
-      "name": "Please Love Me",
-      "url": "https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj"
-    },
-    {
       "added_at": "2024-01-05 19:31:17",
       "album": {
         "name": "Jardin",
@@ -1473,20 +1457,20 @@
       "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
     },
     {
-      "added_at": "2024-01-05 19:31:17",
+      "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Ease",
-        "url": "https://open.spotify.com/album/6p9GPyaPUEagITrXkAcDkm"
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/1mH0uD5SIm4wJiDEvqXONe"
       },
       "artists": [
         {
-          "name": "DWLLRS",
-          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
+          "name": "EASHA",
+          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
         }
       ],
-      "duration_ms": 137441,
-      "name": "Ease",
-      "url": "https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2"
+      "duration_ms": 149485,
+      "name": "Please Love Me",
+      "url": "https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj"
     },
     {
       "added_at": "2024-01-20 00:58:43",
@@ -1503,6 +1487,22 @@
       "duration_ms": 160258,
       "name": "we don't move",
       "url": "https://open.spotify.com/track/4waAiItUduog4VPo0BAQEx"
+    },
+    {
+      "added_at": "2024-01-05 19:31:17",
+      "album": {
+        "name": "Ease",
+        "url": "https://open.spotify.com/album/6p9GPyaPUEagITrXkAcDkm"
+      },
+      "artists": [
+        {
+          "name": "DWLLRS",
+          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
+        }
+      ],
+      "duration_ms": 137441,
+      "name": "Ease",
+      "url": "https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1661,20 +1661,20 @@
       "url": "https://open.spotify.com/track/0bor8Slyl8zfU40Y2uJeaV"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "Hearth Room",
-        "url": "https://open.spotify.com/album/4Jxk91uFsdzMWcZNyqj6eO"
+        "name": "Drop Cherries",
+        "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
       },
       "artists": [
         {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 202466,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/44rWKhxzR6hsa04LKavgoC"
+      "duration_ms": 206427,
+      "name": "I Can't Get My Head Around You",
+      "url": "https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts"
     }
   ],
   "unique_name": "Indie Pop",

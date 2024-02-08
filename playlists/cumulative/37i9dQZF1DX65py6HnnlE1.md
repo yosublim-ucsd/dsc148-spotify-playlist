@@ -4,7 +4,7 @@
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-159 songs - 11 hr 12 min
+160 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Ceniza fria](https://open.spotify.com/track/1EQf1pDlHfgWgt7H9UXXRc) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Loco De Amor](https://open.spotify.com/album/1BWMISug7N9OQX04aDp2wv) | 4:12 | 2022-01-01 |  |
 | [Ciego De Amor \- Featuring Anthony Santos](https://open.spotify.com/track/1IdSPagRNE4i6cr6I8QBYD) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 5:07 | 2022-01-01 |  |
 | [Como El](https://open.spotify.com/track/4qH7gGLrNekb8BeXdXvJQo) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 2:40 | 2023-02-02 | 2023-07-03 |
-| [Con el Pecho y el Corazon](https://open.spotify.com/track/0TycDAQAhlrHloRKzaqQQD) | [Marino Perez](https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN) | [12 Éxitos](https://open.spotify.com/album/6U9yfJLogNqXP2bce2IW2f) | 2:51 | 2023-02-02 |  |
+| [Con el Pecho y el Corazon](https://open.spotify.com/track/0TycDAQAhlrHloRKzaqQQD) | [Marino Perez](https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN) | [12 Éxitos](https://open.spotify.com/album/6U9yfJLogNqXP2bce2IW2f) | 2:51 | 2023-02-02 | 2024-02-08 |
+| [Con el Pecho y el Corazón](https://open.spotify.com/track/79RuRcwIaX1iPAqERqdSYr) | [Marino Perez](https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN) | [15 Exitos](https://open.spotify.com/album/24vwcC0H1qn93o3z0tSyGa) | 2:50 | 2023-03-17 |  |
 | [Corazón Culpable](https://open.spotify.com/track/4ZcjNfK9Df94vbT43Gm8dt) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Cojelo Ahí](https://open.spotify.com/album/3DMQ0XGeZlnUJtqHU8kDWm) | 5:59 | 2022-01-01 |  |
 | [Corazón Sin Cara](https://open.spotify.com/track/0u4N6w5lBw5xMrzJitRWUo) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:31 | 2022-01-01 |  |
 | [Coronita de Flores](https://open.spotify.com/track/4zNjtYoNgfESifoEHN5lq3) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Areíto](https://open.spotify.com/album/2fWv7QiXsz8YKIIEtK7oK1) | 4:18 | 2023-03-17 | 2023-03-20 |

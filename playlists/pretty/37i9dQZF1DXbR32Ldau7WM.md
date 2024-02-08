@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now!  Cover: the telephones
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,735 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,825 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 57 | [Say My Name](https://open.spotify.com/track/1tCiCPvZYVdR5rIxokcqbj) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 1:48 |
 | 58 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 |
 | 59 | [輝けるもの](https://open.spotify.com/track/5IWsAjExgVuzDZQT2gexuS) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [輝けるもの](https://open.spotify.com/album/0DwmAkmFvzWneRDrUZS88j) | 4:20 |
-| 60 | [烈火](https://open.spotify.com/track/6XiU17DEkiJiX1BpD2r72Z) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [烈火](https://open.spotify.com/album/2jE9xYfV1vRFslp3uPZMs7) | 4:10 |
-| 61 | [STAY GOLD](https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD) | 2:00 |
+| 60 | [STAY GOLD](https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD) | 2:00 |
+| 61 | [烈火](https://open.spotify.com/track/6XiU17DEkiJiX1BpD2r72Z) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [烈火](https://open.spotify.com/album/2jE9xYfV1vRFslp3uPZMs7) | 4:10 |
 | 62 | [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 |
 | 63 | [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 |
 | 64 | [平成ペイン](https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FOOLs](https://open.spotify.com/album/7sUJFlz84jJ2vbLFDePctW) | 3:56 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 71 | [LOST](https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 3:43 |
 | 72 | [大団円](https://open.spotify.com/track/5V7rGQWLQMvht6Gxk7DJLb) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ZORN](https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C) | [大団円](https://open.spotify.com/album/0fjb2tnhAwn5sdN6KSXZbM) | 5:25 |
 | 73 | [ホテルニュートリノ](https://open.spotify.com/track/66j7OAinOnLbkATzcQPfmA) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [ホテルニュートリノ](https://open.spotify.com/album/7mAnnljEik428IDN7c8zGv) | 4:04 |
-| 74 | [SMOKIN' BILLY](https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [GEAR BLUES](https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ) | 3:27 |
-| 75 | [旅をゆけ](https://open.spotify.com/track/3imZFhmB9bYSJYCKOnWTWm) | [奥田民生はっとり](https://open.spotify.com/artist/3oWHbGV27C3W2ZZz3rfGVs) | [旅をゆけ](https://open.spotify.com/album/6ZQsDrKZtuOoXC90iy0za3) | 3:51 |
-| 76 | [ハルジオン](https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ハルジオン](https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST) | 3:58 |
+| 74 | [ハルジオン](https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ハルジオン](https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST) | 3:58 |
+| 75 | [SMOKIN' BILLY](https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [GEAR BLUES](https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ) | 3:27 |
+| 76 | [旅をゆけ](https://open.spotify.com/track/3imZFhmB9bYSJYCKOnWTWm) | [奥田民生はっとり](https://open.spotify.com/artist/3oWHbGV27C3W2ZZz3rfGVs) | [旅をゆけ](https://open.spotify.com/album/6ZQsDrKZtuOoXC90iy0za3) | 3:51 |
 | 77 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
 | 78 | [I MISS YOU](https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 4:32 |
 | 79 | [GET BACK](https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GET BACK](https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo) | 3:15 |
 | 80 | [Play](https://open.spotify.com/track/5Ec4YyeFG6IIYOf93DbzZ3) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Q.](https://open.spotify.com/album/68UCYi46B4pP5WUo6Yxeuf) | 3:35 |
 
-Snapshot ID: `MCw0ODNjN2NiZTRiZjYxYzYxNWI0ZWRjOTliMTIzOGNmZDc5YzhmNjY2`
+Snapshot ID: `MCwxMDM5MTM5YjYzNmI5OTIxZWFhNmY2YjU5ZjUzNmU5NzEzZmE0YzYy`

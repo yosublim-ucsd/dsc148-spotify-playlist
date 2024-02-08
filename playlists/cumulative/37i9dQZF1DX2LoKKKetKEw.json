@@ -872,7 +872,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 117955,
       "name": "CLOSER",
       "url": "https://open.spotify.com/track/66yWX0RNpotmPhTSCSblHA"
@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 173221,
       "name": "Darling Jesus",
       "url": "https://open.spotify.com/track/7umCBlz9pHwRn8TGyhGXKN"
@@ -2016,7 +2016,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 206117,
       "name": "Holy Ghost (I Want To Know Your Joy)",
       "url": "https://open.spotify.com/track/7q66QnCbmj4qaXtWtLmV9R"
@@ -3764,6 +3764,32 @@
       "duration_ms": 168813,
       "name": "Pepper Dem",
       "url": "https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca"
+    },
+    {
+      "album": {
+        "name": "Perfect Peace",
+        "url": "https://open.spotify.com/album/2Ft65MibXY2DrNy3aTxbCX"
+      },
+      "artists": [
+        {
+          "name": "Ealle",
+          "url": "https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5"
+        },
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193148,
+      "name": "Perfect Peace",
+      "url": "https://open.spotify.com/track/07bnH9ucRiSiSQsIhqE52B"
     },
     {
       "album": {

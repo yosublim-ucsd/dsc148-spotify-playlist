@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,142 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,179 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 14 | [Flamenco](https://open.spotify.com/track/2C4ksQvwsrBUH4okwq4ghL) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Concerto Al Andalus](https://open.spotify.com/album/77jCXEpGQIAYIcUAumAsc5) | 0:59 |
 | 15 | [Al bint el shalabiya](https://open.spotify.com/track/269AmdV2hBIdEJkysPDIBd) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [The Beirut Oriental Ensemble](https://open.spotify.com/artist/6N646pfdfynkHnoKEnpBFN) | [HandMade](https://open.spotify.com/album/1VZ827wwKIonSOc7g5YTW9) | 4:50 |
 | 16 | [Devlerin Aşkı](https://open.spotify.com/track/5E6AjfzuqfFmtQyxwyqntu) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2) | [Ahi](https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF) | 3:36 |
-| 17 | [Leila](https://open.spotify.com/track/5qUJSNYh21XNIdr6K0knAY) | [Clarissa Bitar](https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH), [Abby Abdel\-Khalek](https://open.spotify.com/artist/6oF5zlYqpF2tYRrJnAc1VT) | [Hassan Sabi](https://open.spotify.com/album/0NtEHDs6K85QbceqGIqKaR) | 2:32 |
-| 18 | [Bayati](https://open.spotify.com/track/4E70hItpq5sRXMaSWg8Qrf) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:20 |
+| 17 | [Bayati](https://open.spotify.com/track/4E70hItpq5sRXMaSWg8Qrf) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:20 |
+| 18 | [Leila](https://open.spotify.com/track/5qUJSNYh21XNIdr6K0knAY) | [Clarissa Bitar](https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH), [Abby Abdel\-Khalek](https://open.spotify.com/artist/6oF5zlYqpF2tYRrJnAc1VT) | [Hassan Sabi](https://open.spotify.com/album/0NtEHDs6K85QbceqGIqKaR) | 2:32 |
 | 19 | [Aicha](https://open.spotify.com/track/21wo3e3K1h5zy03Q3Nkk4E) | [Ahmed Alshaiba](https://open.spotify.com/artist/3draSJS8Ixp5PoZv1oWfwx) | [Aicha](https://open.spotify.com/album/3RRJUlqb8IJvxRKTyCG4h5) | 4:15 |
 | 20 | [L'obstinée I](https://open.spotify.com/track/6r31Pw3pw6N8i6kwfc2kx2) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI), [Chkrrr](https://open.spotify.com/artist/5YiDQX5JOajMOvlQsf2PrB) | [The Last Flight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ATO4rHQtMdrZ5c7p3abPA) | 1:52 |
 | 21 | [Zourouni](https://open.spotify.com/track/4J7npFq7vLfUxuWvOq4Ttx) | [Munir Bachir](https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy) | [Aoud Around the Arab World](https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 49 | [Makam Ajam / Tala'a Mint Beit Abouha \- Takassim](https://open.spotify.com/track/1ahxUKddfqp0ZRTySX4vwZ) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [To My Father](https://open.spotify.com/album/5IQmbdf0EFqGyuwpV6J85n) | 4:10 |
 | 50 | [Turkish Coffee](https://open.spotify.com/track/3169aUzrWTznvVupy1f20E) | [Basel Rajoub](https://open.spotify.com/artist/68rxFd814z29ByrpJtXcNp) | [Khameer](https://open.spotify.com/album/1nGR5fdDSZrUkeUrdbPxDC) | 4:24 |
 
-Snapshot ID: `MCwyMzRjYzk3YzEwNjQ3MjBlZmJmZmM3NzMwZDVkOTQwMzVkNjAwOTZk`
+Snapshot ID: `MCwyZGViNGM1ZDkyMTU1OGY4OTRmZWFmZWJmOWUzZjFjMjVlMjc3YTU2`

@@ -1,12 +1,12 @@
 {
   "description": "Budah, Sotam, Aka Rasta e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 225667,
+  "num_followers": 225738,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWJjNDRjZTUzYjk1MWY4MTc1MTUzYjc5ZGM1MDhjZGViMDkwM2Y3",
+  "snapshot_id": "MCw5ZDUzNTM0MmRiNTcxNjk0MTZiZDNmYTU1ZTY2ODllOTljMmViODY4",
   "tracks": [
     {
       "added_at": "2024-02-04 17:10:42",
@@ -243,6 +243,30 @@
     {
       "added_at": "2024-02-04 17:10:42",
       "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 104145,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"
+    },
+    {
+      "added_at": "2024-02-04 17:10:42",
+      "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
       },
@@ -275,30 +299,6 @@
       "duration_ms": 188497,
       "name": "Engana Dizendo Que Ama",
       "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
-    },
-    {
-      "added_at": "2024-02-04 17:10:42",
-      "album": {
-        "name": "Contradi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 104145,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"
     },
     {
       "added_at": "2024-02-04 17:10:42",
@@ -1095,8 +1095,8 @@
     {
       "added_at": "2024-02-04 17:10:42",
       "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9"
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
       "artists": [
         {
@@ -1104,17 +1104,17 @@
           "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
         },
         {
           "name": "C\u00fapula",
           "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Alma",
-      "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
+      "duration_ms": 148525,
+      "name": "Cheiro de Sexo",
+      "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
     },
     {
       "added_at": "2024-02-04 17:10:42",
@@ -1279,8 +1279,8 @@
     {
       "added_at": "2024-02-04 17:10:42",
       "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9"
       },
       "artists": [
         {
@@ -1288,17 +1288,17 @@
           "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
         },
         {
           "name": "C\u00fapula",
           "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
         }
       ],
-      "duration_ms": 148525,
-      "name": "Cheiro de Sexo",
-      "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
+      "duration_ms": 216000,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
     },
     {
       "added_at": "2024-02-04 17:10:42",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-02-04 17:10:42",
       "album": {
+        "name": "Cora\u00e7\u00e3o Quebrado",
+        "url": "https://open.spotify.com/album/1fiBWXxVHBIcvQsEdedjQL"
+      },
+      "artists": [
+        {
+          "name": "Ley",
+          "url": "https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP"
+        }
+      ],
+      "duration_ms": 193222,
+      "name": "Cora\u00e7\u00e3o Quebrado",
+      "url": "https://open.spotify.com/track/6Ic0vDAv2KgsiPcxIIcPgg"
+    },
+    {
+      "added_at": "2024-02-04 17:10:42",
+      "album": {
         "name": "Nova Tend\u00eancia",
         "url": "https://open.spotify.com/album/62cPWetHGQFI0rMsmZV8dS"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 226875,
       "name": "Nova Tend\u00eancia",
       "url": "https://open.spotify.com/track/16JMkJpg4WJXR1dTPhLkbf"
-    },
-    {
-      "added_at": "2024-02-04 17:10:42",
-      "album": {
-        "name": "Cora\u00e7\u00e3o Quebrado",
-        "url": "https://open.spotify.com/album/1fiBWXxVHBIcvQsEdedjQL"
-      },
-      "artists": [
-        {
-          "name": "Ley",
-          "url": "https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP"
-        }
-      ],
-      "duration_ms": 193222,
-      "name": "Cora\u00e7\u00e3o Quebrado",
-      "url": "https://open.spotify.com/track/6Ic0vDAv2KgsiPcxIIcPgg"
     },
     {
       "added_at": "2024-02-04 17:10:42",

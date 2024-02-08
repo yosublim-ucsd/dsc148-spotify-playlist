@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: waterweed
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,291 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,296 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 60 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
 | 61 | [Parasites](https://open.spotify.com/track/2PvPwvinXuMcF82qkR9DqG) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Parasites](https://open.spotify.com/album/02Tb76LOod9iowVjS8r9sF) | 2:10 |
 | 62 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
-| 63 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 |
-| 64 | [SLAY!!](https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [SLAY!!](https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO) | 3:12 |
+| 63 | [SLAY!!](https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [SLAY!!](https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO) | 3:12 |
+| 64 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 |
 | 65 | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k) | [The Last Rockstars](https://open.spotify.com/artist/4tCAdCQzODk8RI5LvTfujz) | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/album/4tofpZnaMxN2eFbS6aBBor) | 4:45 |
 | 66 | [Your Head](https://open.spotify.com/track/3B4WNqMYRAfGmxlVMoilyh) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Inside Your Head](https://open.spotify.com/album/7fS687f0QR3bCyjMgDATWd) | 3:34 |
 | 67 | [ゆらめき \(YURAMEKI\)](https://open.spotify.com/track/3wfpG43c7wdb0LofeE0NlM) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [19990120](https://open.spotify.com/album/5xkvN0sLl4iaokgZixvhvz) | 5:09 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 90 | [Love at First Sight](https://open.spotify.com/track/3eXeHEeoFn0Fc9BkHuvQOS) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Dance & Scream](https://open.spotify.com/album/16MNF4dTAOiVhgVtlFM1PP) | 4:12 |
 | 91 | [ハッピーウェディング前ソング \- 2年以内に別れないver.](https://open.spotify.com/track/4yv1CAi0CXaLGMFnmwrNnq) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [ハッピーウェディング前ソング \(2年以内に別れないver.\)](https://open.spotify.com/album/4oKEQDyW0bVuES2JPlAhjd) | 3:49 |
 | 92 | [Seaside](https://open.spotify.com/track/6rwSf69yMf3c2dfqkoVt8b) | [THE NOVEMBERS](https://open.spotify.com/artist/06qEHODsluMWTP4MrQC9RF) | [The Novembers](https://open.spotify.com/album/5UsLQiAt93L1SdFvqP3ERO) | 3:27 |
-| 93 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/0jPt8zNHeeCWoPuttIqBqL) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/57na8P5liC3zgZTG72lz2S) | 3:12 |
-| 94 | [扉の向こう](https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Catch Up](https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH) | 3:56 |
-| 95 | [DO THE DANCE](https://open.spotify.com/track/1dyxnU4Me5DETPSXkNpaDl) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:16 |
+| 93 | [DO THE DANCE](https://open.spotify.com/track/1dyxnU4Me5DETPSXkNpaDl) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:16 |
+| 94 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/0jPt8zNHeeCWoPuttIqBqL) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/57na8P5liC3zgZTG72lz2S) | 3:12 |
+| 95 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 |
 | 96 | [Hunter or Prey](https://open.spotify.com/track/1uDADMKPdOgZvthrIqvOyb) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3lVu6JZpO1wk2IBpU4j88Q) | 3:44 |
-| 97 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 |
+| 97 | [扉の向こう](https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Catch Up](https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH) | 3:56 |
 | 98 | [寂寞 \-sekibaku\-](https://open.spotify.com/track/2CTniBM95HMN060rKGccXW) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:11 |
 | 99 | [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 |
-| 100 | [living dead!!](https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [living dead!!](https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI) | 2:27 |
+| 100 | [ビキニ・スポーツ・ポンチン](https://open.spotify.com/track/3cSfR5ePuViozu47qMhxNv) | [コロナナモレモモ](https://open.spotify.com/artist/1LrHPFKVeA6Lw0vffeFZbr) | [LUST \(Selected Edition\)](https://open.spotify.com/album/5kAkYG1awEWhHuqDP5FjZE) | 3:42 |
 
-Snapshot ID: `MCwwMTdiOTkzODkyZThkM2VkMmVlZTY3OWZjNWMzMGNkMTZlZTMzNmRl`
+Snapshot ID: `MCxmMzcyMWYxMGI3Y2YyMDViODQ3MDU1OTYzYWMwNDFjNmZlOWU3ZWE3`

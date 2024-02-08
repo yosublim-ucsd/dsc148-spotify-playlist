@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,587 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,894 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 25 | [If It Is You](https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Another Miss Oh, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr) | 4:32 |
 | 26 | [Here Always](https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [Hometown Cha\-Cha\-Cha, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc) | 4:14 |
 | 27 | [Flower](https://open.spotify.com/track/2m5Ex34NOwIWOwHthEqLco) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3RJg3rTiDi2r9HJTkARqy4) | 4:12 |
-| 28 | [Starlight](https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Twenty\-Five Twenty\-One OST Part 1](https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2) | 3:45 |
-| 29 | [긴 밤이 오면](https://open.spotify.com/track/3j1RB91MFxn8oY9jYoQ36t) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [While You Were Sleeping, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Mi8XGlryJ75HOoWpbkR6x) | 3:46 |
+| 28 | [긴 밤이 오면](https://open.spotify.com/track/3j1RB91MFxn8oY9jYoQ36t) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [While You Were Sleeping, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Mi8XGlryJ75HOoWpbkR6x) | 3:46 |
+| 29 | [Starlight](https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Twenty\-Five Twenty\-One OST Part 1](https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2) | 3:45 |
 | 30 | [I Love You Boy](https://open.spotify.com/track/155N0vbPqPFs9DzBNR41T7) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [While You Were Sleeping, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/5TDJPOVQSFFMyeQNzToolM) | 4:24 |
 | 31 | [Very, Slowly](https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Twenty\-Five Twenty\-One OST Part 3](https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP) | 3:34 |
 | 32 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 49 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 |
 | 50 | [With My Tears](https://open.spotify.com/track/4Rkp8OAEGdNqysT6LRpz8t) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/03wxGctAtxkCb8LC28H8Em) | 4:13 |
 
-Snapshot ID: `MCwyZWQ3MGU2MGZkMDQzNjhhNzQ5ZGZlNDBkYmEzMjI0MzE1Yzc1ZDY2`
+Snapshot ID: `MCwyODYyNzBmMjY2NTk5MGEwMzYyMzFiMzU5MWRhY2ZjODJlYTc1ZTAz`

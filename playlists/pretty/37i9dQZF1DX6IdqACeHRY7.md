@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,424 likes - 114 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,434 likes - 114 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 28 | [Svag](https://open.spotify.com/track/4SS4YfDAEQG0fZAe1xfgn3) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fånga mig när jag faller](https://open.spotify.com/album/3dXd7zPtfgASvaxo0jIAtu) | 3:11 |
 | 29 | [Please Keep Loving Me](https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64) | 3:15 |
 | 30 | [Minimum](https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ) | 3:14 |
-| 31 | [Must Have Been The Wind](https://open.spotify.com/track/6lERHAmBCZmgODv3OYENXi) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 2:57 |
-| 32 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 |
+| 31 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 |
+| 32 | [Must Have Been The Wind](https://open.spotify.com/track/6lERHAmBCZmgODv3OYENXi) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 2:57 |
 | 33 | [Beautiful Scars](https://open.spotify.com/track/1Hu42ZLWG9dHaVOPiWyEmE) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Still Alive \(Deluxe Edition\)](https://open.spotify.com/album/1mTP6AfzT0v0eaihtcXOxe) | 3:14 |
 | 34 | [I Believe](https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:37 |
 | 35 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 53 | [I Was Made For Loving You](https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS) | 3:08 |
 | 54 | [Everywhere](https://open.spotify.com/track/51tjPYPw6eYxlsqRxjLJaH) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Everywhere](https://open.spotify.com/album/4AgPd1f3cOa9fmTdPGW7UR) | 2:18 |
 | 55 | [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 |
-| 56 | [Fade](https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 4:06 |
-| 57 | [Please Don't Say You Love Me](https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW) | 3:01 |
+| 56 | [Please Don't Say You Love Me](https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW) | 3:01 |
+| 57 | [Fade](https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 4:06 |
 | 58 | [Corners](https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Wildflower](https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0) | 3:39 |
 | 59 | [Wild Love](https://open.spotify.com/track/3XLZOk9aP5VxiO81xFSX2w) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:17 |
 | 60 | [Slow Fade](https://open.spotify.com/track/3wnUCt4sWnK0C0XGQGHKo7) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Maybe I'll Find You Again](https://open.spotify.com/album/0sndNDx9a9z77Jx8MsULfw) | 3:31 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 67 | [Warwick Avenue](https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:46 |
 | 68 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
 | 69 | [Change \(feat\. James Taylor\)](https://open.spotify.com/track/17RMnDmv5CEo3s0tmipRyb) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:37 |
-| 70 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 |
-| 71 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Rockabye \(Acoustic\)](https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW) | 2:37 |
+| 70 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Rockabye \(Acoustic\)](https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW) | 2:37 |
+| 71 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 |
 | 72 | [Better Luck Next Time](https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Better Luck Next Time](https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6) | 2:52 |
 | 73 | [Rhythm Inside \- Acoustic](https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rhythm Inside \(Acoustic\)](https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx) | 3:32 |
 | 74 | [Back in the Water](https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:10 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 89 | [Walk Away](https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 2:49 |
 | 90 | [This Morning](https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [This Morning](https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF) | 3:16 |
 | 91 | [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 |
-| 92 | [Suitcase](https://open.spotify.com/track/6dQ1FEt4FByE6tU0dvQNmr) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:35 |
-| 93 | [Is It Really Me You're Missing](https://open.spotify.com/track/2lgyZWQSJWmswrLJyM27kB) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change](https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU) | 3:52 |
+| 92 | [Is It Really Me You're Missing](https://open.spotify.com/track/2lgyZWQSJWmswrLJyM27kB) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change](https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU) | 3:52 |
+| 93 | [Suitcase](https://open.spotify.com/track/6dQ1FEt4FByE6tU0dvQNmr) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:35 |
 | 94 | [Closer](https://open.spotify.com/track/0ol0U7r1cOiiKCjvTsLVmU) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:03 |
 | 95 | [Only You](https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Only You](https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe) | 3:18 |
 | 96 | [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 113 | [Wildfire \- Alternate Version](https://open.spotify.com/track/6rFdOZ5hKcyU4Zm74hokYs) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [In My Body](https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY) | 3:53 |
 | 114 | [Call Your Girlfriend](https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Call Your Girlfriend](https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu) | 3:14 |
 
-Snapshot ID: `MCwwNjcxOWUxNTE1OGRkN2RiYzVmMGFhNTU0ZDhlNzM2YTFiNDAzN2Mw`
+Snapshot ID: `MCw1Zjc2OWU2NWVhMjU4ZjM0OGQ4MWJmYjc3MjAzMmE3YzQ2MTBhNjc4`

@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: NOVELISTS",
-  "num_followers": 650351,
+  "num_followers": 650403,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWFjZTBkYjhmY2UwZTAyOGU2YzljNDc0NjczM2JjNmIwYmM0ZTAw",
+  "snapshot_id": "MCw1Mjg2MDNhY2RmYThmMmI3N2QyMDIyZjI3ZDk3ZDZiYjQ0Njk4MTdi",
   "tracks": [
     {
       "added_at": "2023-09-15 12:26:41",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "Tsunami (11:11)",
+        "url": "https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "duration_ms": 188823,
+      "name": "Tsunami (11:11)",
+      "url": "https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "weapon",
         "url": "https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 116750,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/0LIKFnTpKGhbxZUIRzsZ5G"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "Tsunami (11:11)",
-        "url": "https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE"
-      },
-      "artists": [
-        {
-          "name": "Bambie Thug",
-          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
-        }
-      ],
-      "duration_ms": 188823,
-      "name": "Tsunami (11:11)",
-      "url": "https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9"
+      },
+      "artists": [
+        {
+          "name": "Stitched Up Heart",
+          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
+        }
+      ],
+      "duration_ms": 189773,
+      "name": "My Demon",
+      "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "EAT IT UP SPIT IT OUT",
         "url": "https://open.spotify.com/album/0dAQn8Qq1L1olB4QqQvARM"
       },
@@ -1039,34 +1055,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9"
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy"
       },
       "artists": [
         {
-          "name": "Stitched Up Heart",
-          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
         }
       ],
-      "duration_ms": 189773,
-      "name": "My Demon",
-      "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "Sunset over the Empire",
-        "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 243080,
-      "name": "Sunset over the Empire",
-      "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "Sunset over the Empire",
+        "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 243080,
+      "name": "Sunset over the Empire",
+      "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "Crimson",
         "url": "https://open.spotify.com/album/0WA5fU4NhSv5TDIs4tOR7F"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 219132,
       "name": "Broken",
       "url": "https://open.spotify.com/track/69BhJ2YVTYR5EltHFH2wfg"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 127383,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Do It So Good",
-        "url": "https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Do It So Good",
-      "url": "https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Reeling",
         "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 170373,
       "name": "Life's a Bitch (But I Like it So Much)",
       "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Do It So Good",
+        "url": "https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Do It So Good",
+      "url": "https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Apocalypse & Chill",
-        "url": "https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG"
-      },
-      "artists": [
-        {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        }
-      ],
-      "duration_ms": 256040,
-      "name": "Burning Bridges",
-      "url": "https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "CREEP HEAT",
         "url": "https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Pigs",
-        "url": "https://open.spotify.com/album/2Sjr6kWxFoLV7FwjbGJ0DC"
+        "name": "Apocalypse & Chill",
+        "url": "https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG"
       },
       "artists": [
         {
-          "name": "We Are PIGS",
-          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Pigs",
-      "url": "https://open.spotify.com/track/2UYVot6c9cJzSQU9iQ9xoV"
+      "duration_ms": 256040,
+      "name": "Burning Bridges",
+      "url": "https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1311,6 +1295,22 @@
       "duration_ms": 230181,
       "name": "Popular Monster",
       "url": "https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Pigs",
+        "url": "https://open.spotify.com/album/2Sjr6kWxFoLV7FwjbGJ0DC"
+      },
+      "artists": [
+        {
+          "name": "We Are PIGS",
+          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Pigs",
+      "url": "https://open.spotify.com/track/2UYVot6c9cJzSQU9iQ9xoV"
     },
     {
       "added_at": "2023-09-15 12:26:41",

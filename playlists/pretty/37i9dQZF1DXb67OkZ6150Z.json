@@ -1,12 +1,12 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Arlo Parks",
-  "num_followers": 288448,
+  "num_followers": 288467,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2E5NDk1OTkyMTg5N2M5ZTNlYzBlZjVjNmNkMzdiZGFjMDhmOTQx",
+  "snapshot_id": "MCw2ZjJlMDk0MjMwMjI4YzhhY2YyZjFmMTYwZDQ1NDAyMTc2ZmFjODgz",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 184869,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "God's Plan",
-        "url": "https://open.spotify.com/album/5MVuDYaYnVAhohSuOYLaUD"
-      },
-      "artists": [
-        {
-          "name": "George Moir",
-          "url": "https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu"
-        }
-      ],
-      "duration_ms": 166021,
-      "name": "God's Plan",
-      "url": "https://open.spotify.com/track/2R0QwDcfbDfJkAzgk6eC6y"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "keep your head up",
         "url": "https://open.spotify.com/album/5UMCnMfWmOo9Yc2Eu0L6xf"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 206672,
       "name": "keep your head up",
       "url": "https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "God's Plan",
+        "url": "https://open.spotify.com/album/5MVuDYaYnVAhohSuOYLaUD"
+      },
+      "artists": [
+        {
+          "name": "George Moir",
+          "url": "https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu"
+        }
+      ],
+      "duration_ms": 166021,
+      "name": "God's Plan",
+      "url": "https://open.spotify.com/track/2R0QwDcfbDfJkAzgk6eC6y"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/746wjyF8LAeRWH7pBGDO9S"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 193344,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2Dz2D2jwauzoiq7aluMiH9"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Melody & Silence",
         "url": "https://open.spotify.com/album/6btmrcBvREYtau5PaPugPy"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 280086,
       "name": "Bittersweet Symphony",
       "url": "https://open.spotify.com/track/1Ma1JqyeNg7RVdeTlYP5AN"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Home Again / It's Too Late",
-        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1207,18 +1207,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Let's Dance to Joy Division",
-        "url": "https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8"
+        "name": "Steal My Sunshine / Novocaine For The Soul",
+        "url": "https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1"
       },
       "artists": [
         {
-          "name": "Lemony Rug",
-          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Let's Dance to Joy Division",
-      "url": "https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI"
+      "duration_ms": 240002,
+      "name": "Steal My Sunshine (feat. Cherry Glazerr)",
+      "url": "https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1239,22 +1243,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Steal My Sunshine / Novocaine For The Soul",
-        "url": "https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1"
+        "name": "Let's Dance to Joy Division",
+        "url": "https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+          "name": "Lemony Rug",
+          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
         }
       ],
-      "duration_ms": 240002,
-      "name": "Steal My Sunshine (feat. Cherry Glazerr)",
-      "url": "https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC"
+      "duration_ms": 203000,
+      "name": "Let's Dance to Joy Division",
+      "url": "https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Our House",
+        "url": "https://open.spotify.com/album/7yuswreCCTccvqWFuP974U"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Charm You (Blondshell Version)",
         "url": "https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 178928,
       "name": "Charm You - Blondshell Version",
       "url": "https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Our House",
-        "url": "https://open.spotify.com/album/7yuswreCCTccvqWFuP974U"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 182080,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Bad Religion / A Pair Of Brown Eyes",
-        "url": "https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 260760,
-      "name": "Bad Religion",
-      "url": "https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Teardrop",
         "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 206000,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Bad Religion / A Pair Of Brown Eyes",
+        "url": "https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 260760,
+      "name": "Bad Religion",
+      "url": "https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW"
-      },
-      "artists": [
-        {
-          "name": "Azure Ryder",
-          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
-        }
-      ],
-      "duration_ms": 234624,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "I Kissed a Boy",
         "url": "https://open.spotify.com/album/06akyumCnIAtjUQWROLlSv"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "On the Road Again",
-        "url": "https://open.spotify.com/album/4AcWg6gNuQV2Ulh0yS0Nqt"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Azure Ryder",
+          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
         }
       ],
-      "duration_ms": 145305,
-      "name": "On the Road Again",
-      "url": "https://open.spotify.com/track/4QCzw4JAIj6Ythv6GxiI7G"
+      "duration_ms": 234624,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1679,18 +1663,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Private Sunshine",
-        "url": "https://open.spotify.com/album/5Plj7fEiMhl9ckOyIuAqE7"
+        "name": "On the Road Again",
+        "url": "https://open.spotify.com/album/4AcWg6gNuQV2Ulh0yS0Nqt"
       },
       "artists": [
         {
-          "name": "Lou Hayter",
-          "url": "https://open.spotify.com/artist/4GZ18L0i6k1mxAjo3GzINM"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 219173,
-      "name": "Time Out of Mind",
-      "url": "https://open.spotify.com/track/51xDbIE6lzgnRSoisI5NES"
+      "duration_ms": 145305,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/4QCzw4JAIj6Ythv6GxiI7G"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1707,6 +1691,22 @@
       "duration_ms": 223060,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/6Io2LMAlssbMR1cjj9cGD7"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Private Sunshine",
+        "url": "https://open.spotify.com/album/5Plj7fEiMhl9ckOyIuAqE7"
+      },
+      "artists": [
+        {
+          "name": "Lou Hayter",
+          "url": "https://open.spotify.com/artist/4GZ18L0i6k1mxAjo3GzINM"
+        }
+      ],
+      "duration_ms": 219173,
+      "name": "Time Out of Mind",
+      "url": "https://open.spotify.com/track/51xDbIE6lzgnRSoisI5NES"
     }
   ],
   "unique_name": "Indie Covers",

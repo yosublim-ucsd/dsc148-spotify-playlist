@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 68923,
+  "2024-02-08": 68967,
   "date_first_scraped": "2021-12-28",
   "description": "Alternative Arabic songs. Cover: Mohammed Saeed",
   "name": "Arab Indie",
@@ -1939,6 +1939,28 @@
       "duration_ms": 160156,
       "name": "Nehayat El Hakawy",
       "url": "https://open.spotify.com/track/5y2CUolrd9Qjrb7lyEuQ3b"
+    },
+    {
+      "album": {
+        "name": "Red Bull Sika",
+        "url": "https://open.spotify.com/album/4C2MYpwVnY9eI16REXuX66"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        },
+        {
+          "name": "Malak",
+          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180599,
+      "name": "Nerga3 Le Awel Yom",
+      "url": "https://open.spotify.com/track/4vvC2mzVHEpN5sif3H3uk5"
     },
     {
       "album": {

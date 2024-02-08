@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 933788,
+  "num_followers": 933841,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTc2ZWI4ODYzYTA3NjVhMjVkOGM3ZWNmZTQwN2RiNjA2ZGVkNGVh",
+  "snapshot_id": "MCxjZmVlYTYxZjBjNTAyMTllNTQyZDNiYWYzMDFhZDkyOWU4ZDZjYTEz",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "The Drop (Ownboss Remix)",
         "url": "https://open.spotify.com/album/0xpfN2PvmlHbF5ki5u3RJR"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 176328,
       "name": "The Drop - \u00d6wnboss Remix",
       "url": "https://open.spotify.com/track/0Sqo0vvIRcIQBD1XuTrH69"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Alok Club Series 2023",
-        "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "2 Much 2 Handle",
-      "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Outer Space",
         "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 192382,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Alok Club Series 2023",
+        "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 188226,
+      "name": "2 Much 2 Handle",
+      "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Power Stone",
+        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Power Stone",
+      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Quick Highs",
         "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 194243,
       "name": "Quick Highs",
       "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Power Stone",
-        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Power Stone",
-      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Fool Me",
+        "url": "https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "duration_ms": 133600,
+      "name": "Fool Me",
+      "url": "https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Chain Gang",
         "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Fool Me",
-        "url": "https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        }
-      ],
-      "duration_ms": 133600,
-      "name": "Fool Me",
-      "url": "https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1839,6 +1839,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "I\u2019m A Freak (feat. Kazhi)",
         "url": "https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 156190,
       "name": "I\u2019m A Freak (feat. Kazhi)",
       "url": "https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "I Wanna",
-        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
-      },
-      "artists": [
-        {
-          "name": "JSTJR",
-          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "I Wanna",
-      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
     },
     {
       "added_at": "2024-02-02 05:00:00",

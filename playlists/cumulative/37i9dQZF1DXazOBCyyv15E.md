@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Paris Paloma
 
-2,001 songs - 4 day 22 hr 58 min
+2,002 songs - 4 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1353,7 +1353,8 @@
 | [Pow](https://open.spotify.com/track/4Qib6TriJfZgAXRAMfjNjd) | [The Go! Team](https://open.spotify.com/artist/6veTV9sF06FBf2KN0xAdvo) | [Pow](https://open.spotify.com/album/1UFeBdVWzaw43CJG0Ydhkh) | 3:14 | 2021-05-14 | 2021-07-23 |
 | [Prada \(feat\. Triathalon\)](https://open.spotify.com/track/6xd5zrbMktaoCsPNALxuMd) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Prada](https://open.spotify.com/album/59rBxLHQsbldvNsidmUAD3) | 4:21 | 2021-07-02 | 2021-09-03 |
 | [Pressure](https://open.spotify.com/track/6G7mIrc41BtBlThkv5bFkW) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Pressure](https://open.spotify.com/album/5BBsy9X9oScaSSdxq66Skn) | 3:14 | 2022-03-11 | 2022-05-20 |
-| [Pressure Pad](https://open.spotify.com/track/57IFMHwEFTAtHYMfYDLozQ) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Pressure Pad](https://open.spotify.com/album/17nPf4Ob5eTHvi22wumDDo) | 3:28 | 2024-01-12 |  |
+| [Pressure Pad](https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Down There!](https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi) | 3:28 | 2024-01-26 |  |
+| [Pressure Pad](https://open.spotify.com/track/57IFMHwEFTAtHYMfYDLozQ) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Pressure Pad](https://open.spotify.com/album/17nPf4Ob5eTHvi22wumDDo) | 3:28 | 2024-01-12 | 2024-02-08 |
 | [Pretty Boys](https://open.spotify.com/track/5K5RpOdJ0c8gd5sbDxxcEK) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Pretty Boys](https://open.spotify.com/album/0w08DJAH95mbwvAEUc5DUk) | 2:58 | 2022-11-18 | 2023-03-31 |
 | [prettynames](https://open.spotify.com/track/3XIll8ycq39GV1t7EtMVpF) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [prettynames](https://open.spotify.com/album/2qowicmtymr0Ifm9bcC6LN) | 2:41 | 2023-03-10 | 2023-03-31 |
 | [Prioritise Pleasure](https://open.spotify.com/track/01xkLs686IdcaNcwBBuiS5) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Prioritise Pleasure](https://open.spotify.com/album/6xFy03B7Vk2qiJtk8LizyK) | 4:05 | 2021-07-09 | 2022-03-09 |

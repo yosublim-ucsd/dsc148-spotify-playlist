@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 離婚伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,090 likes - 69 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,172 likes - 69 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 8 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
 | 9 | [僕だけが愛](https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけが愛](https://open.spotify.com/album/3bdleoxF74CDSzQXLwY8MI) | 5:23 |
 | 10 | [paypay](https://open.spotify.com/track/2Zs44ccb41dYvMavig1kRQ) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz) | 2:51 |
-| 11 | [惑星](https://open.spotify.com/track/2xifiMVguiMdv7b42sWFCN) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [惑星](https://open.spotify.com/album/5GPaYEIdlA6ozkFDrz34Zx) | 3:36 |
-| 12 | [ラブリー](https://open.spotify.com/track/4wTeVlzNPyvTwxdJ52AI6D) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [ラブリー](https://open.spotify.com/album/1bqWRNEezTMkh25svE3JDx) | 3:38 |
+| 11 | [Planet](https://open.spotify.com/track/2JBvAB9MRddsTnvKPxO1bk) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Planet](https://open.spotify.com/album/1Rz5hGKTRAn5NaBEoasR5U) | 3:36 |
+| 12 | [LOVELY](https://open.spotify.com/track/2p6mMrccBiWuwtpWCyVPbq) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [LOVELY](https://open.spotify.com/album/4TrfWYsP8LRU10Rw6usFJL) | 3:38 |
 | 13 | [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 |
 | 14 | [SHOZEN](https://open.spotify.com/track/5MNCIcHfHsH3BQCEsFc7R0) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [石のような自由](https://open.spotify.com/album/4Fmt0D1UfjV3s4SAnP7cep) | 3:42 |
 | 15 | [456](https://open.spotify.com/track/6kgOLdMFma5r2Wft43YEgt) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Design](https://open.spotify.com/album/6aiQoplCQlYraw3uZCwoFp) | 2:50 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 58 | [しょうがない](https://open.spotify.com/track/6knXRV59KfhPg7o1FkbDfQ) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [しょうがない](https://open.spotify.com/album/30fwOEXpsdBOnLQz5D5jbB) | 3:19 |
 | 59 | [Promenade](https://open.spotify.com/track/2TRdlT1pZaARZBh6rBOVuC) | [YOLK](https://open.spotify.com/artist/2xYLcZf0kXruMDlEeiGaIn) | [Promenade](https://open.spotify.com/album/6MWwsRzFB63os13VAZ43V9) | 3:42 |
 | 60 | [90s crush](https://open.spotify.com/track/0ptLfG0qYkj7v2jouRv2dH) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [Pieces](https://open.spotify.com/album/1nfD7Cr6J6A2vkcGofwpl3) | 2:35 |
-| 61 | [擬態](https://open.spotify.com/track/6GMylYf6sVWwnKYwgirLb9) | [お風呂でピーナッツ](https://open.spotify.com/artist/6k0zURWsJhaiI1PWVt8CV4) | [擬態](https://open.spotify.com/album/33BQHm8oD6tAANdpwcSLIV) | 3:02 |
+| 61 | [Gitai](https://open.spotify.com/track/10UqUYADXNPn7ycjvH2R6A) | [お風呂でピーナッツ](https://open.spotify.com/artist/6k0zURWsJhaiI1PWVt8CV4) | [Gitai](https://open.spotify.com/album/0COJzOjpXjcBhQPZFgiRUx) | 3:02 |
 | 62 | [Spring Chance](https://open.spotify.com/track/2L08HGsbSgTWkIWDEm8h12) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [Spring Chance](https://open.spotify.com/album/3Je448Q8acg4ROISszu7il) | 2:37 |
 | 63 | [バタフライ](https://open.spotify.com/track/5hTz6biiwx8XYnP4rYNF8i) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [バタフライ](https://open.spotify.com/album/3RWDRZ9L51JXdRYfsTBp0p) | 3:09 |
 | 64 | [トロイメライ](https://open.spotify.com/track/1rRxrmH2wtziYvJXDJMoi1) | [pachae](https://open.spotify.com/artist/7lqLvJ6yvMDwu307APLILI) | [トロイメライ](https://open.spotify.com/album/7fog8kTHEyyPMbCPdFuFoh) | 3:18 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 68 | [シンシャ](https://open.spotify.com/track/5jAHFipcLURLl4NiEWpjaV) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [シンシャ](https://open.spotify.com/album/2Wbjn9gW8to9OtHHzcNkHF) | 3:56 |
 | 69 | [transistor radio](https://open.spotify.com/track/4pbgZCsGIdL9UIxhfI5OTG) | [The Derbies](https://open.spotify.com/artist/6OYj0Uw0gi7Wl4WrwpxyQK) | [transistor radio](https://open.spotify.com/album/6ikw6U3hV8LcmqGkgsUYXW) | 3:20 |
 
-Snapshot ID: `MCw0MmNiNDRlNDBhOGM1NDZjNGIzMzQ4MWFlMGY1NmNmZjRmMDk3YjYx`
+Snapshot ID: `MCwyZmZlMDA2MmNmN2E2ZWViMWVhODgxY2U2NWU4MDkzZTdhOTgzYmJj`

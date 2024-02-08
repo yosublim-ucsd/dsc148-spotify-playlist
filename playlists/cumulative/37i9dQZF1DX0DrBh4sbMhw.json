@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 250595,
       "name": "'Cause You Have To",
       "url": "https://open.spotify.com/track/1DNXCTUHCGcr9kJ6LynYEC"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 154821,
       "name": "1000 reasons",
       "url": "https://open.spotify.com/track/0dupI7MHvlSXuIHH2YXWHC"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 314769,
       "name": "Ako Ang Iyong Lagi",
       "url": "https://open.spotify.com/track/6VVfotOnpdJJBNGLsg9FXG"
@@ -186,6 +186,24 @@
       "duration_ms": 194442,
       "name": "Bakit?",
       "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
+    },
+    {
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
       "album": {
@@ -330,7 +348,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 199636,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/5DzcYyuk3GDTfv6LP961ZM"
@@ -420,10 +438,28 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 211666,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
+    },
+    {
+      "album": {
+        "name": "L0VER G!RL",
+        "url": "https://open.spotify.com/album/5ifAePO10zjHrgzi6IXGck"
+      },
+      "artists": [
+        {
+          "name": "jikamarie",
+          "url": "https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "DKSI!",
+      "url": "https://open.spotify.com/track/3z5GSDFNexYsTnswjJAYTe"
     },
     {
       "album": {
@@ -510,7 +546,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 248500,
       "name": "end credits",
       "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
@@ -636,7 +672,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 193833,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/4hrhbBDsHsyPRlRmAhr0B7"
@@ -734,7 +770,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 186043,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy"
@@ -813,6 +849,60 @@
     },
     {
       "album": {
+        "name": "hindi ko alam",
+        "url": "https://open.spotify.com/album/6hjmSdam936JPRPNM76pkF"
+      },
+      "artists": [
+        {
+          "name": "Carousel Casualties",
+          "url": "https://open.spotify.com/artist/5JKO1slXmXcPZghqTrYG1I"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211302,
+      "name": "hindi ko alam",
+      "url": "https://open.spotify.com/track/6cXBwW4mDlxrjpXVNqeSAv"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
+    },
+    {
+      "album": {
+        "name": "Hulaan",
+        "url": "https://open.spotify.com/album/2jvtYVPReKC4CCQVNEYQOS"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218335,
+      "name": "Hulaan",
+      "url": "https://open.spotify.com/track/2i75Hz2OpChywxnUguC3Kw"
+    },
+    {
+      "album": {
         "name": "I Don't Miss You",
         "url": "https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp"
       },
@@ -878,10 +968,28 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 192745,
       "name": "in another life",
       "url": "https://open.spotify.com/track/2OcsYbiC1s7hXyhRZirf3K"
+    },
+    {
+      "album": {
+        "name": "Intrusive Thoughts",
+        "url": "https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201058,
+      "name": "Intrusive Thoughts",
+      "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
     },
     {
       "album": {
@@ -958,6 +1066,28 @@
       "duration_ms": 234666,
       "name": "Kailan?",
       "url": "https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg"
+    },
+    {
+      "album": {
+        "name": "Kasing Kasing (feat. Kyle Echarri)",
+        "url": "https://open.spotify.com/album/0eX3ksx0PK4SyQnlNOuUwH"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        },
+        {
+          "name": "Kyle Echarri",
+          "url": "https://open.spotify.com/artist/53qa1XIZ6pZuhrGDetCGew"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295553,
+      "name": "Kasing Kasing (feat. Kyle Echarri)",
+      "url": "https://open.spotify.com/track/13OhgUF9wgvG30aRARfgrR"
     },
     {
       "album": {
@@ -1123,6 +1253,24 @@
     },
     {
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285935,
+      "name": "Love In The Dark",
+      "url": "https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h"
+    },
+    {
+      "album": {
         "name": "Medisina",
         "url": "https://open.spotify.com/album/7sAp0E6Q4dqnrwWkpytEaN"
       },
@@ -1170,7 +1318,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 208853,
       "name": "Melting",
       "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
@@ -1242,10 +1390,28 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 129000,
       "name": "My Home",
       "url": "https://open.spotify.com/track/1oQRhjoum0RXwBsuxMAvwT"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "album": {
@@ -1289,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Ni Yao De Ai",
+        "url": "https://open.spotify.com/album/0dAg90pgcs9HdH7OzwovWj"
+      },
+      "artists": [
+        {
+          "name": "Kristina Dawn",
+          "url": "https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250346,
+      "name": "Ni Yao De Ai",
+      "url": "https://open.spotify.com/track/0GiRQNwTZvDFXojuuJaSFg"
+    },
+    {
+      "album": {
         "name": "unfortunately yours,",
         "url": "https://open.spotify.com/album/1fm7CNqCCdnqOoxdb23VTs"
       },
@@ -1308,7 +1492,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 195605,
       "name": "novocaine",
       "url": "https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V"
@@ -1442,6 +1626,24 @@
       "duration_ms": 262840,
       "name": "Pag-Ibig (Meron Ba?)",
       "url": "https://open.spotify.com/track/2wffLiu6MCIL4TQd7hvf5m"
+    },
+    {
+      "album": {
+        "name": "pages",
+        "url": "https://open.spotify.com/album/6kJJ5c2JWMvNPyLQ0SMegd"
+      },
+      "artists": [
+        {
+          "name": "WIMY",
+          "url": "https://open.spotify.com/artist/5KOmVrCheNYiqcB974SI3Z"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "pages",
+      "url": "https://open.spotify.com/track/4hNVgNMncBxoYrb5D7dikN"
     },
     {
       "album": {
@@ -1864,7 +2066,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 152703,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p"
@@ -1936,7 +2138,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 335624,
       "name": "Umaasa",
       "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
@@ -2016,6 +2218,24 @@
       "duration_ms": 218000,
       "name": "Walang Kapalit (AM VER.)",
       "url": "https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb"
+    },
+    {
+      "album": {
+        "name": "Walking Back Home",
+        "url": "https://open.spotify.com/album/6CT1mfBRIKFU0mjn8YN7vS"
+      },
+      "artists": [
+        {
+          "name": "FUR",
+          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Walking Back Home",
+      "url": "https://open.spotify.com/track/7lu5yyLdgRTMTnYw8yCWvM"
     },
     {
       "album": {

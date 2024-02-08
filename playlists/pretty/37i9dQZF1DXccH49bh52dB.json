@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 547349,
+  "num_followers": 547576,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzU2MGZjNGU3YzViNjA0MzViYzYwMzcwZTBlY2I2NGQzZDY2YzA2",
+  "snapshot_id": "MCw1OWUzOTdiMjQ0NWQ0ZjllN2IxNmY0YWYxMWI2NDM2MTYwMTdlZWVh",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -123,26 +123,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Conrad Sewell",
-          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
-        }
-      ],
-      "duration_ms": 271640,
-      "name": "Firestone",
-      "url": "https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Peace Is The Mission",
         "url": "https://open.spotify.com/album/2rqjmynngV4AmGoL1ZEuwM"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Conrad Sewell",
+          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
+        }
+      ],
+      "duration_ms": 271640,
+      "name": "Firestone",
+      "url": "https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -287,26 +287,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Stole the Show",
-      "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 181812,
       "name": "Lonely Together (feat. Rita Ora)",
       "url": "https://open.spotify.com/track/75NhhYjHO43mvZgYtnXgti"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Stole the Show",
+      "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Serotonin Moonbeams",
+        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "duration_ms": 289471,
+      "name": "Serotonin Moonbeams",
+      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Wicked Games (feat. Anna Naklab) [Radio Edit]",
         "url": "https://open.spotify.com/album/5pqiHmyrsBIRTLUoIhT8oz"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 195210,
       "name": "Wicked Games (feat. Anna Naklab) - Radio Edit",
       "url": "https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Serotonin Moonbeams",
-        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        }
-      ],
-      "duration_ms": 289471,
-      "name": "Serotonin Moonbeams",
-      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Dance Dance (feat. Alessandra)",
-        "url": "https://open.spotify.com/album/0ZG7ELXwpcPfZTZlbBW5TN"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/5g1AQDQ0LUBpgZBmmuH88c"
-        }
-      ],
-      "duration_ms": 151065,
-      "name": "Dance Dance (feat. Alessandra)",
-      "url": "https://open.spotify.com/track/2UzWIjVXtv8PLa5JRKPYSb"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "7: Anniversary Edition",
         "url": "https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 172933,
       "name": "Let It Be Me (feat. Ava Max)",
       "url": "https://open.spotify.com/track/3lA5J36baHQES0DiFht4iT"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Dance Dance (feat. Alessandra)",
+        "url": "https://open.spotify.com/album/0ZG7ELXwpcPfZTZlbBW5TN"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/5g1AQDQ0LUBpgZBmmuH88c"
+        }
+      ],
+      "duration_ms": 151065,
+      "name": "Dance Dance (feat. Alessandra)",
+      "url": "https://open.spotify.com/track/2UzWIjVXtv8PLa5JRKPYSb"
     },
     {
       "added_at": "2023-09-08 04:00:00",

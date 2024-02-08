@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 
 > This is ROSALÍA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,052 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,156 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 39 | [Blinding Lights \(with ROSALÍA\) \- Remix](https://open.spotify.com/track/7MXgrcOQAJ5VwSNUL0lDd3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Blinding Lights \(Remix\)](https://open.spotify.com/album/7B70Z32Ha84aMT6TOnW410) | 3:36 |
 | 40 | [Juro Que](https://open.spotify.com/track/3ZwQCZ2LuYwuQ6R1p1CJ3w) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Juro Que](https://open.spotify.com/album/3XV0gPorxF6TtGScGJChxG) | 2:50 |
 | 41 | [CHIRI](https://open.spotify.com/track/3CBaIz3eftJCf9GHycFanL) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:00 |
-| 42 | [Dio$ No$ Libre Del Dinero](https://open.spotify.com/track/5m9l5wILQ9iiLd8csLeR5v) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fucking Money Man](https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc) | 1:48 |
-| 43 | [Catalina en Gran Vía](https://open.spotify.com/track/1annUblrvMjiWM5ab0lMNH) | [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy), [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Black is Beltza \(Soinu\-banda\)](https://open.spotify.com/album/55mpYFZNTBOYBy7fiIW3PE) | 0:57 |
+| 42 | [Catalina en Gran Vía](https://open.spotify.com/track/1annUblrvMjiWM5ab0lMNH) | [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy), [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Black is Beltza \(Soinu\-banda\)](https://open.spotify.com/album/55mpYFZNTBOYBy7fiIW3PE) | 0:57 |
+| 43 | [Dio$ No$ Libre Del Dinero](https://open.spotify.com/track/5m9l5wILQ9iiLd8csLeR5v) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fucking Money Man](https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc) | 1:48 |
 | 44 | [Catalina](https://open.spotify.com/track/0c7XKJjw6heRqQX7PzkUIj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 3:34 |
 | 45 | [LAX](https://open.spotify.com/track/2N3YZ075lq9z1ObaAiX6l1) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 1:29 |
 | 46 | [KLK](https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 3:47 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 48 | [LA KILIÉ](https://open.spotify.com/track/1xtfUae857RhiCclSlAOIV) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:11 |
 | 49 | [AISLAMIENTO](https://open.spotify.com/track/3SxJJJbmgDeLpWHa54LIWK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 3:26 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDBkNzhiMzc5YTNjYTg1MzBkODc3ZjVhNDVkOWIwZDA0Mw==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDA5MDU1NzE3OTFmMjI0NzdiNzc1ZTNiMTY0ZmIzZmUzYw==`

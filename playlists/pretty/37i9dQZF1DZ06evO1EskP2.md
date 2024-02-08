@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 
 > This is Anuhea\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,529 likes - 45 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,528 likes - 45 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 18 | [Galaxy](https://open.spotify.com/track/62sAt5CA4yGYbmkQvLVKwJ) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Galaxy](https://open.spotify.com/album/6GXMiqtk8ME5GWZ6snXvWp) | 3:56 |
 | 19 | [Like the Way It Feels](https://open.spotify.com/track/5znv0x7BUNjtsJcGf9Qjgf) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 2:54 |
 | 20 | [High on Love](https://open.spotify.com/track/6bBMj0FaFCPyFwOOHNnTKk) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Butterflies: Live](https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4) | 3:42 |
-| 21 | [Crown Royal](https://open.spotify.com/track/0934Qc6bkFBDx0wypkyZVN) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:56 |
-| 22 | [Just Keep Jamming](https://open.spotify.com/track/0V3BrJ3d7FxldSirhHQ8X3) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Ariki foster](https://open.spotify.com/artist/49x0uShahCoBv7dz8WJNed) | [Just Keep Jamming](https://open.spotify.com/album/7GjX35CmFvdFgceiW4ct44) | 3:34 |
-| 23 | [Hula Girl](https://open.spotify.com/track/0vAnneqWLwX3DbJKGOi6wA) | [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Hula Girl](https://open.spotify.com/album/3nNdWJwIkJXaS0rq7prKM1) | 3:15 |
+| 21 | [Just Keep Jamming](https://open.spotify.com/track/0V3BrJ3d7FxldSirhHQ8X3) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Ariki foster](https://open.spotify.com/artist/49x0uShahCoBv7dz8WJNed) | [Just Keep Jamming](https://open.spotify.com/album/7GjX35CmFvdFgceiW4ct44) | 3:34 |
+| 22 | [Hula Girl](https://open.spotify.com/track/0vAnneqWLwX3DbJKGOi6wA) | [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Hula Girl](https://open.spotify.com/album/3nNdWJwIkJXaS0rq7prKM1) | 3:15 |
+| 23 | [Crown Royal](https://open.spotify.com/track/0934Qc6bkFBDx0wypkyZVN) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:56 |
 | 24 | [Shoulders](https://open.spotify.com/track/5QQfNAQSjsHYbbswx8VYrY) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 3:53 |
 | 25 | [You Had Me at Aloha](https://open.spotify.com/track/4SEX5L8BAUpFjALA1aiOjs) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 3:21 |
 | 26 | [Hard Place](https://open.spotify.com/track/7bpGqP9iCwQVF7UIi57RVa) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Hard Place](https://open.spotify.com/album/7GWqFppa0JzSHNdniM4OnF) | 3:27 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 39 | [Follow Me \(Remix\)](https://open.spotify.com/track/3nwzpuw4jmld9GYGyUGBUa) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Remix\)](https://open.spotify.com/album/1M8gp8ALcQwerYOrPPm8Sp) | 3:15 |
 | 40 | [Right Love, Wrong Time](https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 4:44 |
 | 41 | [Love Child](https://open.spotify.com/track/1W7qrEjdFCnzZJYrIN1CZ5) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 4:46 |
-| 42 | [Come over \(Live\)](https://open.spotify.com/track/0KeV45Mymsh8RcyX1yvXuR) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Live at the Belly Up](https://open.spotify.com/album/6UVg3eBRR5lOpg2t6Cx4pk) | 5:56 |
-| 43 | [Mr\. Mellow](https://open.spotify.com/track/1dXUcTAgVP7YP7jDg8J4N6) | [King Kekai](https://open.spotify.com/artist/3L2hhljdDtx6P5h4FbbP5m), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Mana Maoli, Volume V \- Hui Na Moku](https://open.spotify.com/album/1acebQxhPagBiWionPJtrm) | 3:28 |
+| 42 | [Mr\. Mellow](https://open.spotify.com/track/1dXUcTAgVP7YP7jDg8J4N6) | [King Kekai](https://open.spotify.com/artist/3L2hhljdDtx6P5h4FbbP5m), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Mana Maoli, Volume V \- Hui Na Moku](https://open.spotify.com/album/1acebQxhPagBiWionPJtrm) | 3:28 |
+| 43 | [Come over \(Live\)](https://open.spotify.com/track/0KeV45Mymsh8RcyX1yvXuR) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Live at the Belly Up](https://open.spotify.com/album/6UVg3eBRR5lOpg2t6Cx4pk) | 5:56 |
 | 44 | [Slow Down](https://open.spotify.com/track/2R2AreJLkwiXGSYP4W8ioB) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:33 |
 | 45 | [Boy a or Boy B](https://open.spotify.com/track/6Fky7FGFvsWe45ACPRLEAd) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 3:43 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDBjMjVhMzk0MWNiNDg0YzZhNWExODhkNGQ2YjdiYzE3Nw==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDA3MTdiOTU4YWYzY2VkNjcxYzhkNmI0NmM5NTU0NDM4ZA==`

@@ -4,7 +4,7 @@
 
 > make it pop! cover: Oscar and the Wolf
 
-870 songs - 1 day 19 hr 21 min
+871 songs - 1 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,8 @@
 | [High School](https://open.spotify.com/track/18WbWMRXGmW2GFaTm5MMe2) | [Walkabout](https://open.spotify.com/artist/1L5pkrtjkNysKt7YJYtLKZ) | [High School](https://open.spotify.com/album/2ClKWz9V3rnLSlksV9JEXe) | 3:00 | 2022-01-07 | 2022-02-26 |
 | [Holy Water](https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Holy Water](https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41) | 3:20 | 2022-06-17 | 2022-11-26 |
 | [Home](https://open.spotify.com/track/1XdZpce5hIRfdh41JGZU7B) | [Gervs](https://open.spotify.com/artist/0cyJKr7j8QGAhlDgPza01i), [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [Home](https://open.spotify.com/album/3NZDgr21FMW7vnUm13OSl5) | 2:04 | 2023-01-27 | 2023-03-25 |
-| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-29 |  |
+| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-29 | 2024-02-08 |
+| [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-02 |  |
 | [Home Videos](https://open.spotify.com/track/3FuBFn7jnMJWNufU61mSv4) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Are We Going Too Slow?](https://open.spotify.com/album/4WrVZgQ5FMGG8596elftve) | 2:35 | 2021-11-05 | 2022-02-19 |
 | [Homebody](https://open.spotify.com/track/5yR57I2TT78WHVCSXdCQaN) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Homebody](https://open.spotify.com/album/6pckUMFCiCaq1EmPQeStKi) | 3:15 | 2023-06-30 | 2023-08-26 |
 | [Homerun Hitter](https://open.spotify.com/track/5tHalhXKz1l1rCJAMzx0PG) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Homerun Hitter](https://open.spotify.com/album/7KRLrC9FUfJDXC7p2E4q11) | 4:32 | 2022-08-26 | 2022-12-17 |

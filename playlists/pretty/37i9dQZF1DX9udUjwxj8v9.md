@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,590 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,792 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 3 | [Apesar De Você](https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [MPB4](https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM), [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Chico Buarque](https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR) | 3:55 |
 | 4 | [Mal Acostumada \- Ao Vivo](https://open.spotify.com/track/7vjXPjtvm9IjoPKGVyfg10) | [Ara Ketu](https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog) | [Ao Vivo](https://open.spotify.com/album/5pRG4SxFRIp5QZPczn1Ngx) | 4:23 |
 | 5 | [Caetano Veloso](https://open.spotify.com/track/5D0hucIfvHIZCDfiodP8gn) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Coração](https://open.spotify.com/album/1ugs2BKvKNP48jzxQC6pFX) | 3:21 |
-| 6 | [A Menina Dança](https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:52 |
-| 7 | [Bate Lata](https://open.spotify.com/track/2ATL6pmlSKBxn9M2U9Qp4t) | [Banda Beijo](https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK) | [Apaixonada](https://open.spotify.com/album/0gcWUwyIgjm4H5cfj25Iz4) | 3:26 |
+| 6 | [Bate Lata](https://open.spotify.com/track/2ATL6pmlSKBxn9M2U9Qp4t) | [Banda Beijo](https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK) | [Apaixonada](https://open.spotify.com/album/0gcWUwyIgjm4H5cfj25Iz4) | 3:26 |
+| 7 | [A Menina Dança](https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:52 |
 | 8 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
 | 9 | [Vem meu amor](https://open.spotify.com/track/6Vi3zrYtd2n53YUiYLTnNC) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música do Olodum](https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm) | 2:36 |
 | 10 | [Vou Festejar](https://open.spotify.com/track/54JLlb23AnzXErLRSNVIUn) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [De Pé No Chão](https://open.spotify.com/album/2QxzAhXKjoUuiVO2sqMjP6) | 3:09 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 39 | [Rapunzel](https://open.spotify.com/track/5IocKfGOEyFiBolTgguc5c) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Feijão Com Arroz](https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C) | 3:39 |
 | 40 | [Patuscada de Gandhi \- Afoxé filhos de Gandhi](https://open.spotify.com/track/6pqvI3ods51ID3ZSJ67H9S) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Refavela](https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna) | 2:35 |
 | 41 | [Masculino E Feminino](https://open.spotify.com/track/5umkCnxriYdRwXYJm8e7FB) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Maxximum \- Pepeu Gomes E Baby Consuelo](https://open.spotify.com/album/4NdY1uTJ4sru9FbWXMIIIl) | 3:44 |
-| 42 | [Ladainha](https://open.spotify.com/track/3sKjN5oPlgyOREoxJ3zLru) | [Nat Guareschi](https://open.spotify.com/artist/1X18fGGzvxN2txuNIJvHs0) | [Ladainha](https://open.spotify.com/album/3HuFPoYl9C1XWqwKkHvUpC) | 2:27 |
-| 43 | [Estação da Luz](https://open.spotify.com/track/20jqOQnJnF89ju9DMfQ2Kk) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Estação da Luz](https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO) | 3:22 |
+| 42 | [Estação da Luz](https://open.spotify.com/track/20jqOQnJnF89ju9DMfQ2Kk) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Estação da Luz](https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO) | 3:22 |
+| 43 | [Ladainha](https://open.spotify.com/track/3sKjN5oPlgyOREoxJ3zLru) | [Nat Guareschi](https://open.spotify.com/artist/1X18fGGzvxN2txuNIJvHs0) | [Ladainha](https://open.spotify.com/album/3HuFPoYl9C1XWqwKkHvUpC) | 2:27 |
 | 44 | [A Vida É Festa](https://open.spotify.com/track/6VOD2jucQ4ojsKWN8AOzr4) | [Banda Beijo](https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK) | [Aconteceu](https://open.spotify.com/album/5sMLKAXXcMzEGUUBF9aOmZ) | 3:52 |
 | 45 | [QUERO UM CARNAVAL](https://open.spotify.com/track/2ooeiOnpx96CJfOegfjwA3) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [FESTA DE ADEUS](https://open.spotify.com/album/7DU9frP5BFaBmA3RpJOInK) | 3:40 |
 | 46 | [Me Abraça](https://open.spotify.com/track/0CNdiziA23RpZeX7T7gOkX) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Beleza Rara \- O melhor De Banda Eva](https://open.spotify.com/album/4KHEzOq418Ukqxg3oKJXEa) | 4:11 |
-| 47 | [Ilê ayê](https://open.spotify.com/track/6L9okk7atrGuieV4FtZybt) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Refavela](https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna) | 3:10 |
+| 47 | [Bloco Do Prazer](https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Minha Voz](https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY) | 3:03 |
 | 48 | [Swing da Cor](https://open.spotify.com/track/4QvN1r5iloT7eKvx6mjNdq) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Daniela Mercury](https://open.spotify.com/album/0nTyaheFM5NuVVNrC74yJA) | 3:39 |
-| 49 | [Bloco Do Prazer](https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Minha Voz](https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY) | 3:03 |
+| 49 | [Ilê ayê](https://open.spotify.com/track/6L9okk7atrGuieV4FtZybt) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Refavela](https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna) | 3:10 |
 | 50 | [Bloco do Prazer](https://open.spotify.com/track/6PkvVJOKenUc7a2qf9QhQH) | [Orquestra Frevo do Mundo](https://open.spotify.com/artist/2uuKaLGFQ9uEylFFVFLoEB), [Duda Beat](https://open.spotify.com/artist/07XkKhhpOu0V6aM0HNddVG) | [Orquestra Frevo do Mundo, Vol.1](https://open.spotify.com/album/45hycSMRKTDF076FI5dsmJ) | 3:32 |
 
-Snapshot ID: `MCw0ZTg3MWJmOGQxZDE5YWU4ZTRkM2IwNDgwZjdkNjMxNzkzMjc2OGM3`
+Snapshot ID: `MCwwMjI0MjQ5YzFhZmEzYzFhYmU1YTE2ODI0YTBmNTQ5NTkyYTFlMjIz`

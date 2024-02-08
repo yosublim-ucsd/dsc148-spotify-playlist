@@ -668,7 +668,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 179117,
       "name": "Kursunada",
       "url": "https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 179200,
       "name": "Lackin'",
       "url": "https://open.spotify.com/track/7C6lV2MBF9SsQfNzb6hWUW"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 183490,
       "name": "lito",
       "url": "https://open.spotify.com/track/4FT7mRLMG9vwTDuKpYK6n5"
@@ -1004,6 +1004,24 @@
       "duration_ms": 192052,
       "name": "Pity Ya",
       "url": "https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9"
+    },
+    {
+      "album": {
+        "name": "Pulso",
+        "url": "https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269250,
+      "name": "Pulso",
+      "url": "https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ"
     },
     {
       "album": {

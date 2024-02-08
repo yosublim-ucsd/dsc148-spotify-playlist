@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring ke onda.",
-  "num_followers": 48263,
+  "num_followers": 48268,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWU1NjVmMTEzODI5MzI5ZDdkNDc5ZDNhMTg2ODI3NWRlNDNjZTU4",
+  "snapshot_id": "MCwyMzgwZWEwNGZiZDMxNTEzOGI4NzUwMmQ4NDg3ZWRhNmM4NDk3YTBk",
   "tracks": [
     {
       "added_at": "2023-09-26 17:16:04",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP"
-      },
-      "artists": [
-        {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
-        }
-      ],
-      "duration_ms": 242951,
-      "name": "Antes de Marcharte",
-      "url": "https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
         "name": "A Veces",
         "url": "https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "no quiero estar aqu\u00ed",
-        "url": "https://open.spotify.com/album/6LlvSFzQGRX49aSR2nA0PG"
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP"
       },
       "artists": [
         {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
         }
       ],
-      "duration_ms": 185685,
-      "name": "no quiero estar aqu\u00ed",
-      "url": "https://open.spotify.com/track/2KW4OWqMU780CgocKsMOZ4"
+      "duration_ms": 242951,
+      "name": "Antes de Marcharte",
+      "url": "https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -843,6 +827,22 @@
       "duration_ms": 185789,
       "name": "Amores De Colores",
       "url": "https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
+        "name": "no quiero estar aqu\u00ed",
+        "url": "https://open.spotify.com/album/6LlvSFzQGRX49aSR2nA0PG"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 185685,
+      "name": "no quiero estar aqu\u00ed",
+      "url": "https://open.spotify.com/track/2KW4OWqMU780CgocKsMOZ4"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -867,26 +867,6 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "for good (with RENEE)",
-        "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 182481,
-      "name": "for good (with RENEE)",
-      "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
         "name": "Instintos",
         "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 208723,
       "name": "Instintos",
       "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
+        "name": "for good (with RENEE)",
+        "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 182481,
+      "name": "for good (with RENEE)",
+      "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "me pongo un poco sad",
-        "url": "https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U"
-      },
-      "artists": [
-        {
-          "name": "tom\u00e1sss",
-          "url": "https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw"
-        }
-      ],
-      "duration_ms": 199357,
-      "name": "me pongo un poco sad",
-      "url": "https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
         "name": "\u00bfC\u00f3mo sonar\u00eda un disco?",
         "url": "https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 176524,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
+        "name": "me pongo un poco sad",
+        "url": "https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U"
+      },
+      "artists": [
+        {
+          "name": "tom\u00e1sss",
+          "url": "https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw"
+        }
+      ],
+      "duration_ms": 199357,
+      "name": "me pongo un poco sad",
+      "url": "https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "Cielo de Colores",
-        "url": "https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Cielo de Colores",
-      "url": "https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
         "name": "Amanece Otra Vez",
         "url": "https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 247501,
       "name": "Amanece Otra Vez",
       "url": "https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
+        "name": "Cielo de Colores",
+        "url": "https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB"
+      },
+      "artists": [
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Cielo de Colores",
+      "url": "https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX"
     },
     {
       "added_at": "2023-09-26 17:16:04",

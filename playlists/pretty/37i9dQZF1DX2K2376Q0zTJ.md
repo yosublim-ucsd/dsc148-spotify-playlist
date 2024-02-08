@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。今月のアンバサダー: TOMOKO IDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,238 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,301 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 14 | [YOU](https://open.spotify.com/track/5pkm0IloJ5rqwqxHU0ttwX) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D) | [OOTD](https://open.spotify.com/album/0bl7y2NqJVyKBjNUJ3iXcj) | 2:42 |
 | 15 | [Grapefruit Moon](https://open.spotify.com/track/2PE3kNSKy56QkLZmO3Sb5w) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:16 |
 | 16 | [YOU&愛Heaven](https://open.spotify.com/track/61y30C7o99Zi0uGCyB5vqy) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [YOU&愛Heaven](https://open.spotify.com/album/3rYPFG85zZbBFX77PcdFQ5) | 3:45 |
-| 17 | [惑星](https://open.spotify.com/track/2xifiMVguiMdv7b42sWFCN) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [惑星](https://open.spotify.com/album/5GPaYEIdlA6ozkFDrz34Zx) | 3:36 |
+| 17 | [Planet](https://open.spotify.com/track/2JBvAB9MRddsTnvKPxO1bk) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Planet](https://open.spotify.com/album/1Rz5hGKTRAn5NaBEoasR5U) | 3:36 |
 | 18 | [U+](https://open.spotify.com/track/0MGLjahQGLLVCNRw7bWPE8) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 2:38 |
 | 19 | [Welcome](https://open.spotify.com/track/2eret7tEFawBg7ivErrSdx) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:17 |
 | 20 | [アーティスト](https://open.spotify.com/track/7s5lA70AK4nnSI50tdvPsh) | [平山みき](https://open.spotify.com/artist/16eUjAZ2A6E4i8Hy3Q2npG), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [アーティスト](https://open.spotify.com/album/19hCarTppFvMeTXXQklrmY) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Formula X](https://open.spotify.com/track/0r99ktDvymD0tb6oUFyvac) | [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja) | [Between Isekai and Slice of Life \~異世界と日常の間に\~](https://open.spotify.com/album/4gzxCLUSK6zyNNOeu8pJlm) | 2:47 |
 | 50 | [Mizu\-Iro](https://open.spotify.com/track/1Gg1LzqEi4eL2AV8hlTI5x) | [TENTENKO](https://open.spotify.com/artist/0Z0T5Cm2d7m8L0qCTzI6yD) | [An Antworten EP](https://open.spotify.com/album/5xJQeowjdaLP0GKJdRUjaO) | 6:28 |
 
-Snapshot ID: `MCw0ZGQ1Y2I4NDkzODE0ZDk1NDZiYThkOTUyZjk4MTVkZjczZjNkMDlh`
+Snapshot ID: `MCxhM2JmMzQyNDUyZmMzZjBlMGExYTdiNjM2NDQ5ODE0ZWM2NjQ1ZDY1`

@@ -2,9 +2,9 @@
 
 ### [EQUAL Andes](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
 
-> ¡Mujeres de los Andes, a todo volumen! En portada Naïa Valdez.
+> ¡Mujeres de los Andes, a todo volumen! En portada Juliana.
 
-276 songs - 15 hr 12 min
+277 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 | 2022-01-05 | 2023-03-02 |
 | [Ser eternos](https://open.spotify.com/track/3fXdB2mUhgxd2sBGSfYL1r) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Reencarnaciones](https://open.spotify.com/album/0PTSztSXIoufnzZWQB4L73) | 3:40 | 2023-06-20 | 2023-07-06 |
 | [Señor Mentira](https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 4:29 | 2023-01-04 |  |
-| [Si Dios Perdona](https://open.spotify.com/track/1RtvzGGRmDnATLCd3HrTFT) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Si Dios Perdona](https://open.spotify.com/album/70fClqkoidHfZivofJHZmc) | 3:00 | 2023-09-21 |  |
+| [Si Dios Perdona](https://open.spotify.com/track/1RtvzGGRmDnATLCd3HrTFT) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Si Dios Perdona](https://open.spotify.com/album/70fClqkoidHfZivofJHZmc) | 3:00 | 2023-09-21 | 2024-02-08 |
 | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX) | 2:50 | 2022-01-05 | 2023-01-05 |
 | [Si Quieres Tenerme](https://open.spotify.com/track/5aOYQ6P64bDwlsld671J7Z) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Evolución](https://open.spotify.com/album/4b9k435jzvtWVZ9OSM3QGA) | 3:27 | 2023-01-04 | 2023-07-02 |
 | [Si Quieres Tenerme](https://open.spotify.com/track/5caEzP9gGdBdZ0cubtw3Sk) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Evolución](https://open.spotify.com/album/74MVgBaaOYNEgx93ZiIfNM) | 3:27 | 2023-06-30 |  |
@@ -243,6 +243,7 @@
 | [Te Quería \- Chancha Vía Circuito Remix](https://open.spotify.com/track/4GN265cGlXdMk8dJIsYtMe) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Te Quería \(Chancha Vía Circuito Remix\)](https://open.spotify.com/album/3d37Om0o9bnqgsng08wJML) | 4:05 | 2022-01-05 | 2023-01-05 |
 | [Te Vas a Arrepentir](https://open.spotify.com/track/3EEH5ZZ74BJ5TV3rQAPbLi) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Te Vas a Arrepentir](https://open.spotify.com/album/3Mn6khCVmpcSk7g5991JmR) | 4:12 | 2023-01-04 |  |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2022-02-02 |  |
+| [The Heaven](https://open.spotify.com/track/2fe3VX1zPGqxZr6Amj2KTa) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro \(Versión Libro\)](https://open.spotify.com/album/67gKu1xe7Htg15Xmri1Vx8) | 2:52 | 2024-02-07 |  |
 | [Tiempo \- Duck Sessions Live](https://open.spotify.com/track/51Sjs3Azn13gEMizzZg1z2) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Tiempo \(Duck Sessions Live\)](https://open.spotify.com/album/1v2AjOZPsTPsqAY0aFiYjf) | 3:36 | 2022-01-05 | 2022-03-10 |
 | [Tiempo Indefinido](https://open.spotify.com/track/5olfCMs2dCnGsz6ZQPSmYy) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Tiempo Indefinido](https://open.spotify.com/album/4UBAXB1P4GiQoPXoprX1Xd) | 2:17 | 2023-04-05 | 2023-05-04 |
 | [Tijeras](https://open.spotify.com/track/5qjpID2xzQjJu67a3wP68m) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 2:16 | 2023-03-01 | 2023-04-06 |

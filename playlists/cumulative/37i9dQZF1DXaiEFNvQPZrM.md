@@ -4,7 +4,7 @@
 
 > Traditional country sounds from artists of yesterday and today.
 
-183 songs - 10 hr 29 min
+184 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Eighteen Wheels And A Dozen Roses](https://open.spotify.com/track/50iMY1vxRo3GiVvReK9Hxf) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Untasted Honey](https://open.spotify.com/album/2B94aIHbi4KKuKX0wlGbZO) | 3:23 | 2022-02-17 | 2022-07-29 |
 | [Eighteen Wheels And A Dozen Roses](https://open.spotify.com/track/6EGRx5TVuHAsmy3JKb8SRC) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Untasted Honey](https://open.spotify.com/album/1K1PfB1GQe1lQcgxjEz8T5) | 3:23 | 2022-07-22 |  |
 | [Every Light In The House](https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dreamin' Out Loud](https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc) | 2:59 | 2022-02-17 |  |
+| [Fishin' in the Dark](https://open.spotify.com/track/15jhnquhNS1IZMlM493UBW) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Hold On](https://open.spotify.com/album/0nFyIqvzHgoHPnIuDNbh0O) | 3:21 | 2024-01-12 |  |
 | [Fishin' in the Dark](https://open.spotify.com/track/7lJbTVbDEMa3w7NFamrwdq) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Hold On](https://open.spotify.com/album/5ToL8KapdzZAMtOT7Y4USs) | 3:22 | 2022-02-17 | 2022-07-29 |
 | [Fishing In The Dark](https://open.spotify.com/track/3i5QyEUyXa9Y7lIklr5sWk) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Anthology](https://open.spotify.com/album/3eI6PUZit1cF2ty6l7sXjI) | 3:21 | 2022-07-22 | 2024-02-05 |
 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 | 2022-06-25 |  |
@@ -125,7 +126,7 @@
 | [Outskirts of Heaven](https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [See You Try](https://open.spotify.com/album/3z4mJYzha57sn2r4NtkyaP) | 4:04 | 2022-02-17 | 2023-11-06 |
 | [Over Drinkin' Under Thinkin'](https://open.spotify.com/track/2YrUpji5N9biuvxKgyO2OT) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Drake Milligan \- EP](https://open.spotify.com/album/0Dwtk61QlV7qErBqsFTm8u) | 3:17 | 2022-02-17 | 2023-05-26 |
 | [Over Drinkin' Under Thinkin'](https://open.spotify.com/track/31EPUusrydPHvsYNDcdAlJ) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Dallas/Fort Worth](https://open.spotify.com/album/6JDmMjsVmSWoWJ3yCG2Fq7) | 3:17 | 2023-06-09 | 2023-11-06 |
-| [Over Drinkin’ Under Thinkin’](https://open.spotify.com/track/0RRMFJUWVI7Iu0Wd0DkHTs) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Dallas/Fort Worth](https://open.spotify.com/album/1WxqjSLqeYJaWXvbKaql5w) | 3:17 | 2023-11-17 |  |
+| [Over Drinkin’ Under Thinkin’](https://open.spotify.com/track/0RRMFJUWVI7Iu0Wd0DkHTs) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Dallas/Fort Worth](https://open.spotify.com/album/1WxqjSLqeYJaWXvbKaql5w) | 3:17 | 2023-11-17 | 2024-02-08 |
 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 | 2022-02-17 |  |
 | [Palomino Princess](https://open.spotify.com/track/5LmwW6k3kPJicZxfYLRcBG) | [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Grab the Reins](https://open.spotify.com/album/2s1xffBgQy0HNUbkS8Kqej) | 3:32 | 2022-02-17 |  |
 | [Pickup Man](https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Greatest Hits](https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0) | 3:36 | 2022-02-17 |  |

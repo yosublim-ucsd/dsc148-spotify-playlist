@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: SACHI
 
-1,959 songs - 4 day 12 hr 49 min
+1,960 songs - 4 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,8 @@
 | [Crizpy](https://open.spotify.com/track/35TRTIUbCzNFygRz6zfW9G) | [Born Dirty](https://open.spotify.com/artist/0qM78DOdgnNPpq2CpTNgU5), [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Crizpy](https://open.spotify.com/album/7rvkDAaXYtMz9TYkBjfhg6) | 2:42 | 2023-01-19 | 2023-02-10 |
 | [Crowded Roomz](https://open.spotify.com/track/2bnatDQSIhiZBVfVUT0PUe) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Crowded Roomz](https://open.spotify.com/album/6noU224rd5kmYt0KPBhtgG) | 2:52 | 2024-01-18 |  |
 | [Cruel Summer \(Colour Castles Nu Disco Version\)](https://open.spotify.com/track/4uM9QXOOSX0R6RQjGwPtHM) | [Colour Castle](https://open.spotify.com/artist/5PyXw8u0sJbvxMriq8qKBS), [Disco Shift](https://open.spotify.com/artist/6T0Vo1T6vgf2bm1ZGptg5J), [Fleur De Mur](https://open.spotify.com/artist/1T8GyoQt9cAAsIFPEzRxzD) | [Cruel Summer \(Colour Castles Nu Disco Version\)](https://open.spotify.com/album/2qUv3INyHtsHLnIiW5AmlO) | 3:23 | 2023-03-16 | 2023-04-07 |
-| [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 | 2024-02-01 |  |
+| [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 | 2024-02-01 |  |
+| [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 | 2024-02-01 | 2024-02-08 |
 | [Crush](https://open.spotify.com/track/5NUCLEAAQKkP3OoCt19jrK) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys), [Naike](https://open.spotify.com/artist/4eWMajurKslYrmKKz4MTRu) | [Crush](https://open.spotify.com/album/7v8DgbrDOeGHlDEgKnd2UP) | 3:00 | 2023-03-09 | 2023-03-31 |
 | [Crush Me \- Yash Bansal Remix](https://open.spotify.com/track/4TEhqvkBE6amkZZ0K3y2NS) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT), [Yash Bansal](https://open.spotify.com/artist/3sqpT2IVKtrhy6tfv0NosT) | [Second Nature \(Remixes\)](https://open.spotify.com/album/4C4V7xWan1E9J5zC30ySqD) | 2:38 | 2023-03-03 | 2023-03-25 |
 | [Cry](https://open.spotify.com/track/2HhhhHfVEmz09NAb0FxgDW) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Cry](https://open.spotify.com/album/5qEGkaG2wMcn787eEwGkhK) | 3:50 | 2023-11-16 | 2023-12-09 |

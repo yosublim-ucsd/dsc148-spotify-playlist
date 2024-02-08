@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,999 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,003 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 18 | [Gidenlerden](https://open.spotify.com/track/55LECrJg4tLjhjSr6XDMg6) | [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Gölgede Aynı](https://open.spotify.com/album/1S2WHpdUaRUbQmD8GVxcbT) | 3:56 |
 | 19 | [Marlon Brando](https://open.spotify.com/track/58LXONBewBn7XmEqG3D3TB) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Zeynodisco](https://open.spotify.com/album/0xZtgrWTCdXFrSWVNcrXSH) | 3:30 |
 | 20 | [Sevmek Yüzünden](https://open.spotify.com/track/2ULdX4jhNzXF6hiYHmcKfp) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Sevmek Yüzünden](https://open.spotify.com/album/5E2nMHCHr2zP65wVY1SEfL) | 3:39 |
-| 21 | [Selam](https://open.spotify.com/track/01j2lFIDDvoLWzRk1ohxuN) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB) | [Nokta](https://open.spotify.com/album/2qiz3wVTobD9VE9djqe9bw) | 4:25 |
-| 22 | [Sustum](https://open.spotify.com/track/6IXDRacqWKBzee5DgsLRVf) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Sustum](https://open.spotify.com/album/05N4dJk53uBVvH27EAzkNS) | 3:32 |
+| 21 | [Sustum](https://open.spotify.com/track/6IXDRacqWKBzee5DgsLRVf) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Sustum](https://open.spotify.com/album/05N4dJk53uBVvH27EAzkNS) | 3:32 |
+| 22 | [Selam](https://open.spotify.com/track/01j2lFIDDvoLWzRk1ohxuN) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB) | [Nokta](https://open.spotify.com/album/2qiz3wVTobD9VE9djqe9bw) | 4:25 |
 | 23 | [Bambaşka](https://open.spotify.com/track/4cQmpiV9R08UhQuFMAzph0) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/24ohBXA9KS4lIq1ebnirp6) | 4:02 |
 | 24 | [Tac Mahal](https://open.spotify.com/track/26uHtSrQXUad9uCqxPiIXJ) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Kehanet](https://open.spotify.com/album/54fUFXduCOTJEksa3bUU89) | 3:59 |
 | 25 | [Huyu Suyu](https://open.spotify.com/track/6TxVucau8TPKafZT68xOhI) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 2:33 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 39 | [Çapkınca](https://open.spotify.com/track/7dUqzkI19Bzy8LAWWMlJTn) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X) | [Çapkınca](https://open.spotify.com/album/7gwa9w1nvCdv23BC93xFIo) | 3:38 |
 | 40 | [Bildiğim Gibi](https://open.spotify.com/track/1DpVhmrVGIz6y9hh9Gs3qK) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Nilipek.](https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo) | [Bildiğim Gibi](https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro) | 2:54 |
 | 41 | [Kimler Gelmiş](https://open.spotify.com/track/2MDgUGZ4HbtwzKd1GWZTFL) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP), [Manuş Baba](https://open.spotify.com/artist/6p4UYgBKfV1XMDvD9KrtTv) | [Durum Şarkıları](https://open.spotify.com/album/4qczrbpvQeGJrIym4k1oo6) | 3:52 |
-| 42 | [Taş Kalbinin Çöllerinde](https://open.spotify.com/track/2fJG9sEeJJc5gxwxJMNbQu) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [Taş Kalbinin Çöllerinde](https://open.spotify.com/album/0bjbNfADYuqDTJ3tgIfvDV) | 2:44 |
-| 43 | [Hissettin mi](https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Hissettin mi](https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6) | 3:32 |
+| 42 | [Hissettin mi](https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Hissettin mi](https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6) | 3:32 |
+| 43 | [Taş Kalbinin Çöllerinde](https://open.spotify.com/track/2fJG9sEeJJc5gxwxJMNbQu) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [Taş Kalbinin Çöllerinde](https://open.spotify.com/album/0bjbNfADYuqDTJ3tgIfvDV) | 2:44 |
 | 44 | [Galiba Sevmiyorlar](https://open.spotify.com/track/3AtWz3xBxCLeJlt7CXuHEB) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Kötü Şeyler](https://open.spotify.com/album/6t2h7vZo0l0afyMHSALUR5) | 2:59 |
 | 45 | [Ben Her Zaman Sana Aşıktım](https://open.spotify.com/track/4CWwQBDEI444gJh9rSg6iB) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Sonsuza Kadar](https://open.spotify.com/album/3ETbFTNmbuKtqoRtnmjTI0) | 2:57 |
 | 46 | [Benim Hala Umudum Var](https://open.spotify.com/track/4Rjf4c0Zumg9XNwlPdSDFN) | [Mazhar Alanson](https://open.spotify.com/artist/1CTvStsvYcGi6FfDHzNg0t) | [Türk Lokumuyla Tatlı Rüyalar](https://open.spotify.com/album/3rfM50ROn3Xkbt8ryxVhvR) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 49 | [Tuana](https://open.spotify.com/track/3Kut1u60mgcH59QWty8uUz) | [Levent Yüksel](https://open.spotify.com/artist/3OVWvBHwlq5w8iRJEBoCp2) | [Med Cezir](https://open.spotify.com/album/2ZdcN7EGH5XuE9ZxaAfzLO) | 5:19 |
 | 50 | [Nereye Böyle](https://open.spotify.com/track/55TrAm9okj6Kwj9KOvRHAL) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Yan Yana Fotoğraf Çektirelim](https://open.spotify.com/album/3L6OlTkIhVflGPFy2Tzl6A) | 4:37 |
 
-Snapshot ID: `MCwwODU0MzY0OGRmNzg4NmZkYzY3NWMzMzJjNDVkMDJlNzBlNWU5Yjll`
+Snapshot ID: `MCwwYWYwYWUwNGY4MmI2YzQyMDkyNjVkNWYxM2JkY2YxZTNjYWVlYTBk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: HBz
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,789 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,889 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 2 | [Take A Moment](https://open.spotify.com/track/1lsc5LOovzQxITA5H3S3SN) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Take A Moment](https://open.spotify.com/album/1ps7klPI1BZcao85aOCeuf) | 2:36 |
 | 3 | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/track/7v79EuvJq69p2keEsCd08A) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/album/4XBjD0YdqN3FjIyPT48AxD) | 2:11 |
 | 4 | [Good For You](https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Good For You](https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD) | 2:50 |
-| 5 | [Die For Me](https://open.spotify.com/track/67gYpZ9Kl4EwuQa3hZX6wR) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me](https://open.spotify.com/album/5Spe5tAY7QIn04uSBiGYt9) | 2:43 |
-| 6 | [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
+| 5 | [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/track/5YUsCI2mTieO4KJbLeQFR7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/album/21QcWrXk821IkKiL73BZre) | 2:43 |
+| 6 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 |
 | 7 | [Torn](https://open.spotify.com/track/04nyFUuwYgLfrckvk0MIU9) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Torn](https://open.spotify.com/album/5kzC7Vg7h0uVoZIiBT0hFy) | 2:24 |
 | 8 | [Low Again](https://open.spotify.com/track/6WyIu9kPKkyEjmsP4aWJni) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Low Again](https://open.spotify.com/album/45zvKE4yw9Ta4utD8tRWsB) | 3:08 |
 | 9 | [London](https://open.spotify.com/track/1Ne1J7BRqU6cVMD1LNp4qY) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [London](https://open.spotify.com/album/2zDlmYKFbkF87XPHaIvuJQ) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Give It to Me](https://open.spotify.com/track/7GUKliw8tYg2TtzfLpYg1S) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [TRITICUM](https://open.spotify.com/artist/4ZoQmoFXF0JJAMTcgopOjd) | [Give It to Me](https://open.spotify.com/album/6uuKUqOoXBTttANgKXdfHA) | 2:16 |
 | 75 | [Shower](https://open.spotify.com/track/19ThLx9IwEpMG45DlHd7fp) | [Chris El Greco](https://open.spotify.com/artist/3TvatwVBsckmLkhtoaxp3K) | [Shower](https://open.spotify.com/album/48iiBdroLKZOIwoexsRMDH) | 2:18 |
 
-Snapshot ID: `MCw2MTM1ZTEzZmNjZWEwYWIzY2ExMDkyMjc1NmRiOGIzMTAyNmVlZWQy`
+Snapshot ID: `MCxiMGMwYmMxOGM5ZWFiZGNjODA2ZTVjNGQ0NDY3NDM0ZjdlZGJmMmYx`

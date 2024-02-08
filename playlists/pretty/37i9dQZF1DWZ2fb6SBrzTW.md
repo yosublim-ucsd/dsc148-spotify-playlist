@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,614 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,663 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 23 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 |
 | 24 | [Who Is Your Guy? \- Remix](https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Who Is Your Guy? \(Remix\)](https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R) | 3:31 |
 | 25 | [Holiday](https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:39 |
-| 26 | [Tjina](https://open.spotify.com/track/5l4S6LVL1AQfZC01pypXl6) | [Megadrumz](https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [For Your Soul \(Extended Edition\)](https://open.spotify.com/album/04znRkeBi2rTFkBx7VR7sf) | 5:19 |
-| 27 | [WeWe](https://open.spotify.com/track/0cnxJjQ8T4GSz87TaIkwDY) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave \(Deluxe\)](https://open.spotify.com/album/4C25f9CQZZmeXJeGcpXWFg) | 2:53 |
+| 26 | [WeWe](https://open.spotify.com/track/0cnxJjQ8T4GSz87TaIkwDY) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave \(Deluxe\)](https://open.spotify.com/album/4C25f9CQZZmeXJeGcpXWFg) | 2:53 |
+| 27 | [Tjina](https://open.spotify.com/track/5l4S6LVL1AQfZC01pypXl6) | [Megadrumz](https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [For Your Soul \(Extended Edition\)](https://open.spotify.com/album/04znRkeBi2rTFkBx7VR7sf) | 5:19 |
 | 28 | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X) | 3:02 |
 | 29 | [Elon musk](https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Elon musk](https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I) | 3:15 |
 | 30 | [GoodSin](https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC) | 2:20 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 55 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 |
 | 56 | [GoodSin \(feat\. Reekado Banks\) \- Remix](https://open.spotify.com/track/1IqCbrh4xY0KqmOxXJxClR) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [GoodSin \(feat\. Reekado Banks\) \[Remix\]](https://open.spotify.com/album/6qqlM35C4DXPsTO54i9pku) | 3:53 |
 | 57 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 |
-| 58 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 |
+| 58 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 |
 | 59 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
-| 60 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 |
+| 60 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 |
 
-Snapshot ID: `MCw0MTVhNDg3MGU5ZmE1MzYyNTE5NTI4NDM3ZjYxYTg4ZGM5MWIzMTUz`
+Snapshot ID: `MCxjOWMxZDYyYTBhNTg0NzM5MjU3OGU1OWFjZDg5Mzc3Y2I0ZjIyNDc5`

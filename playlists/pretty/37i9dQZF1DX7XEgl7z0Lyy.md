@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,546 likes - 100 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,772 likes - 100 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 35 | [LIGHTS OFF TONIGHT](https://open.spotify.com/track/0Xsrwyt3rLpGCJb7IWB0NA) | [VXJOKING](https://open.spotify.com/artist/07LIt5dV6tfrBPJhRdB1lM), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [LIGHTS OFF TONIGHT](https://open.spotify.com/album/6kRe9HpzXBzHU4Pah1DZ1v) | 1:30 |
 | 36 | [digital heart](https://open.spotify.com/track/27eH1rpWsmRqt2NW4vMXJW) | [almogfx](https://open.spotify.com/artist/099h113YJ299YZfyIEDncL), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [digital heart](https://open.spotify.com/album/6zEqiFRN9gaANjKiuHh2AG) | 1:48 |
 | 37 | [feel the same](https://open.spotify.com/track/0ujM0V6C7c6kaUoblQmPXR) | [cyberia](https://open.spotify.com/artist/0HZkYrBotoNqUyH6B9aDaE) | [feel the same](https://open.spotify.com/album/6nOkaB0oVdfsSSoUI4a4mU) | 2:03 |
-| 38 | [Deja Vu](https://open.spotify.com/track/7J80jpbKwYn9SM6kMT5W4n) | [Xdree](https://open.spotify.com/artist/17Yti8tBhhUiZ7UlVXFBcT) | [Deja Vu](https://open.spotify.com/album/21ybrq6nSnZLmARNUkurgs) | 1:56 |
+| 38 | [Deja Vu](https://open.spotify.com/track/0OUi9zba0JPxQDNu2Ai7Pd) | [Xdree](https://open.spotify.com/artist/17Yti8tBhhUiZ7UlVXFBcT) | [Deja Vu](https://open.spotify.com/album/0XaklX8nH10hpgmLLxMtk5) | 1:56 |
 | 39 | [XTAYALIVE](https://open.spotify.com/track/1JjiTsqfpfMoukoIW9cM5O) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [XTAYALIVE](https://open.spotify.com/album/48QWy8mreJlAa6XdruLXtl) | 2:06 |
 | 40 | [Like A G6](https://open.spotify.com/track/129rk9pTdMs0a0JGHMSW8x) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Like A G6](https://open.spotify.com/album/6Q6euJJrGm04OqBRLAycNV) | 2:47 |
 | 41 | [help\_urself](https://open.spotify.com/track/6bxKECVRnkLmtpeU22Ve9p) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [Ezekiel Singles ’18\-‘20](https://open.spotify.com/album/2myOeDsuEGTSUhmkRQMH0v) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 99 | [Cycle mix \(crea x creon\)](https://open.spotify.com/track/0Be7vipfSZvIaV8fuF68yc) | [Nuvfr](https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy) | [Cycle mix \(crea x creon\)](https://open.spotify.com/album/5SdCyzEI6C6oCazIClXQTo) | 3:39 |
 | 100 | [Continue](https://open.spotify.com/track/5OkBQPz8j5yndKOKkTzKJT) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Continue](https://open.spotify.com/album/1eMlU0dSndWo2uS6j3MPpB) | 3:25 |
 
-Snapshot ID: `MCxlMDhmNmI2YjQ0ZDUxZGYzNzc4ZDQxMTdiZWE1MGJlMWRjYjUyNDk2`
+Snapshot ID: `MCw0Zjk0OTNhNjA1OTliZmQ3ODA0ZTIyM2NkN2U5YTlkMTNkNTJiOGYw`

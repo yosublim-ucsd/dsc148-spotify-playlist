@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 974682,
+  "2024-02-08": 975009,
   "date_first_scraped": "2023-11-11",
   "description": "This is Doja Cat. The essential tracks, all in one playlist.",
   "name": "This Is Doja Cat",
@@ -155,7 +155,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 177373,
       "name": "Been Like This",
       "url": "https://open.spotify.com/track/7y3xU9vEC1s8DSuuoSYKih"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 188893,
       "name": "I Don't Do Drugs (feat. Ariana Grande)",
       "url": "https://open.spotify.com/track/0FFsgUoFibYISzMxuGS61W"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 285053,
       "name": "MOOO!",
       "url": "https://open.spotify.com/track/043dDJ9u0PQ3ooAXMgcwOe"
@@ -731,7 +731,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 210560,
       "name": "Need to Know",
       "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 218332,
       "name": "Pussy Talk",
       "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 182906,
       "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"

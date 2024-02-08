@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,849 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,872 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 17 | [Check Yes, Juliet](https://open.spotify.com/track/7N2PNxzZXxCdAHiAfsklhT) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/34lYm54X8P7MO9LezUTmQL) | 3:40 |
 | 18 | [Self Esteem](https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 4:17 |
 | 19 | [Prayer Of The Refugee](https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:19 |
-| 20 | [All Signs Point To Lauderdale](https://open.spotify.com/track/0T8P86fvSK8kCUJFYPZbIH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [What Separates Me From You](https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm) | 3:17 |
-| 21 | [Still Waiting](https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC) | 2:38 |
+| 20 | [Still Waiting](https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC) | 2:38 |
+| 21 | [All Signs Point To Lauderdale](https://open.spotify.com/track/0T8P86fvSK8kCUJFYPZbIH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [What Separates Me From You](https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm) | 3:17 |
 | 22 | [Anthem Part Two](https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:47 |
 | 23 | [Bleed American](https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:01 |
 | 24 | [Time Bomb](https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:24 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 70 | [Wild World](https://open.spotify.com/track/0SoeiawkEYUJBtQce99lQd) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Blow in the Wind](https://open.spotify.com/album/23r629pCYWFwsYCFVoMp8m) | 2:30 |
 | 71 | [Mindreader](https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Mindreader](https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ) | 2:53 |
 | 72 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 |
-| 73 | [Dakota](https://open.spotify.com/track/0PW18AbooKhtFzZ5LUuMsW) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Everything Is Temporary](https://open.spotify.com/album/2bzmOZh7UD4cNiI9oEqHDb) | 3:03 |
-| 74 | [Broken Dreams, Inc.](https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:53 |
+| 73 | [Broken Dreams, Inc.](https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:53 |
+| 74 | [Dakota](https://open.spotify.com/track/0PW18AbooKhtFzZ5LUuMsW) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Everything Is Temporary](https://open.spotify.com/album/2bzmOZh7UD4cNiI9oEqHDb) | 3:03 |
 | 75 | [estella//](https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [estella//](https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh) | 1:58 |
 | 76 | [Blame It On My Youth](https://open.spotify.com/track/5vGtrfeMjb03aDHGDaIakG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:05 |
 | 77 | [You’d Be Paranoid Too \(If Everyone Was Out To Get You\)](https://open.spotify.com/track/02Lki714RZrfUS65pzJ2lj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Greatest Hits](https://open.spotify.com/album/6Em0b24eKa7vVf6sUYxOdI) | 2:31 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 90 | [Kids](https://open.spotify.com/track/7IpHgRSdnWqAID7CVZGXWo) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/5bVJC9KPcUvQPcibNpjAk9) | 3:30 |
 | 91 | [Reckless Paradise](https://open.spotify.com/track/5DyopyvTi9Lt4Hpe1JGbD2) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Crisis Of Faith](https://open.spotify.com/album/0xwYNuGTVa31IWnADrA3tb) | 3:24 |
 | 92 | [Burn It Down](https://open.spotify.com/track/7vUeM6Bftbd4wBSml0KffV) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [A Beautiful Place To Drown](https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap) | 3:10 |
-| 93 | [Jurassic Park](https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 2:26 |
-| 94 | [Playing Fiction](https://open.spotify.com/track/2aG7MPedIAt6k66Q2BBaHT) | [ROAM](https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq) | [Great Heights & Nosedives](https://open.spotify.com/album/37i1BfSo4FQMHtR7zzQpBx) | 2:40 |
+| 93 | [Playing Fiction](https://open.spotify.com/track/2aG7MPedIAt6k66Q2BBaHT) | [ROAM](https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq) | [Great Heights & Nosedives](https://open.spotify.com/album/37i1BfSo4FQMHtR7zzQpBx) | 2:40 |
+| 94 | [Jurassic Park](https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 2:26 |
 | 95 | [Never Coming Home](https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Retrograde](https://open.spotify.com/album/6mJvmCxB01yqOeiccLE7QU) | 3:16 |
 | 96 | [Want Me Around](https://open.spotify.com/track/3dncWYTMi4YudEtsJzT4OI) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Shapeshifter](https://open.spotify.com/album/4pIwtCO5U55WjclTKwf8Ah) | 3:31 |
-| 97 | [Hotel Beds](https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03) | [We Were Sharks](https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I) | [Lost Touch](https://open.spotify.com/album/768qzd6dkobekdNcDtw8np) | 2:34 |
-| 98 | [Strange Love](https://open.spotify.com/track/2OuxIf5TyuQfvZ95c1Rzji) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/0mz5vJ1DeMqGlafBGuqUPE) | 2:31 |
+| 97 | [Strange Love](https://open.spotify.com/track/2OuxIf5TyuQfvZ95c1Rzji) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/0mz5vJ1DeMqGlafBGuqUPE) | 2:31 |
+| 98 | [Hotel Beds](https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03) | [We Were Sharks](https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I) | [Lost Touch](https://open.spotify.com/album/768qzd6dkobekdNcDtw8np) | 2:34 |
 | 99 | [Victory Lap](https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:56 |
 | 100 | [Foolish Believer](https://open.spotify.com/track/1b4ObYUAxvigL7kOw6rBdL) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Into the Raging Sea](https://open.spotify.com/album/668M0j58jceb2KVxomANs6) | 3:41 |
 
-Snapshot ID: `MCxmMWM4YjhmY2FiNjNhOGFmMmQ2MWVlNmJhYTY3MTBjNmYxMzVlMzg5`
+Snapshot ID: `MCxhZDA3ZWY2MTYzMThmOWQxMWZjYTRmMmMzYzRmZmZkMTRlOTVkZGM3`

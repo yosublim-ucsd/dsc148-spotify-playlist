@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Mzansi's musical wealth and heritage in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,555 likes - 60 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,598 likes - 60 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 56 | [Nizalwa Ngobani?](https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:44 |
 | 57 | [Palafala \(feat\. S'bu\)](https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [S'bu](https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:15 |
 | 58 | [Ndawo Yami](https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:47 |
-| 59 | [Township Funk](https://open.spotify.com/track/0EN8KF256ZGQOctxVVwA20) | [Dj Mujava](https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu) | [Township Funk](https://open.spotify.com/album/4gC4cguZXOXejKR4ANCovR) | 5:49 |
-| 60 | [Umoya](https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF) | [Skwatta kamp](https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl) | [Mkhukhu Funkshen](https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T) | 4:35 |
+| 59 | [Umoya](https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF) | [Skwatta kamp](https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl) | [Mkhukhu Funkshen](https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T) | 4:35 |
+| 60 | [Township Funk](https://open.spotify.com/track/0EN8KF256ZGQOctxVVwA20) | [Dj Mujava](https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu) | [Township Funk](https://open.spotify.com/album/4gC4cguZXOXejKR4ANCovR) | 5:49 |
 
-Snapshot ID: `MCw4NDE0OTg0MWZmM2RkZDZlYTQ1YWIxNDdhMzhmMDE0NGZhNTFiOTRh`
+Snapshot ID: `MCw1ODY2Mzk3YjVjODI0YTQzZjc1MTJlZGZmZDAwZDA1Y2FkYzExZTg4`

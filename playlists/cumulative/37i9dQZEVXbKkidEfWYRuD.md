@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,377 songs - 2 day 15 hr 36 min
+1,378 songs - 2 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [bankai](https://open.spotify.com/track/1qwAvf8LsXY7H1sD5rRXGO) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [bankai](https://open.spotify.com/album/59nx25qYi62hyVrvvNYkEc) | 1:57 | 2022-04-18 | 2022-04-28 |
 | [bankai](https://open.spotify.com/track/6tlU1yG1HdSrbbbfQN3NH3) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [bankai](https://open.spotify.com/album/0OZXlr5uiKMAwFzyHbwXM9) | 1:57 | 2022-04-02 | 2022-04-19 |
 | [Banyak](https://open.spotify.com/track/7mwifeICJFfHpwKWPh4rjA) | [Clonnex](https://open.spotify.com/artist/3NOlXM7t15vx8M9hwmQc9L) | [MEDIV Luff N Sip](https://open.spotify.com/album/6oKn91CSNeDdZHyc2VQnyh) | 1:46 | 2022-08-20 | 2022-08-24 |
+| [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-07 |  |
 | [Beauty](https://open.spotify.com/track/0ipVeLBnrx1oYyVLLR80mm) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE), [Showbiz School](https://open.spotify.com/artist/014QuYvSWcdqx4lhe17MX6) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 3:04 | 2021-04-11 | 2021-04-13 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-05-30 | 2021-10-23 |
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-08-31 | 2021-09-02 |
@@ -255,7 +256,7 @@
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-07 |
 | [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 | 2022-05-16 | 2022-06-04 |
 | [Gladiator](https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Gladiator](https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01) | 3:31 | 2023-05-12 | 2023-06-24 |
-| [GLASSS](https://open.spotify.com/track/30SrM2TjL9vyUFt6WqoBj6) | [NAHABA](https://open.spotify.com/artist/04tU9FZKM1yztRPdLV7Wbm) | [GLASSS](https://open.spotify.com/album/42Z92EsFfUt3t50KYWiOBn) | 2:54 | 2024-02-05 |  |
+| [GLASSS](https://open.spotify.com/track/30SrM2TjL9vyUFt6WqoBj6) | [NAHABA](https://open.spotify.com/artist/04tU9FZKM1yztRPdLV7Wbm) | [GLASSS](https://open.spotify.com/album/42Z92EsFfUt3t50KYWiOBn) | 2:54 | 2024-02-05 | 2024-02-08 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-15 | 2022-07-02 |
 | [GMFU](https://open.spotify.com/track/6GdhBJBl51BAITWjFyhbtl) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Myspace Addiction](https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S) | 2:07 | 2023-10-20 | 2023-10-23 |
 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 | 2023-07-27 | 2023-10-21 |
@@ -733,7 +734,7 @@
 | [Ya Lyublyu](https://open.spotify.com/track/3Hff4mCaUFKzrq05w78tEn) | [Clonnex](https://open.spotify.com/artist/3NOlXM7t15vx8M9hwmQc9L) | [MEDIV Luff N Sip](https://open.spotify.com/album/6oKn91CSNeDdZHyc2VQnyh) | 2:04 | 2022-08-20 | 2022-10-17 |
 | [Yeah](https://open.spotify.com/track/2ZmxOJDhNtOHQ49hVkqRy3) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [First Day Out](https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY) | 2:07 | 2022-07-01 | 2022-07-08 |
 | [Yes or No](https://open.spotify.com/track/2gkVEnpahpE3bQuvGuCpAV) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:27 | 2023-11-04 | 2023-11-06 |
-| [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-13 |  |
+| [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-13 | 2024-02-08 |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-11 | 2022-06-13 |
 | [Yeyo!](https://open.spotify.com/track/4jvw60Iw8LpSRJwy1sOmoB) | [Шайни](https://open.spotify.com/artist/7gR1vQmVN37aNtYDE21Bae) | [Yeyo!](https://open.spotify.com/album/4JRqVH5lhTM3maALKAsIzI) | 1:51 | 2022-02-12 | 2022-10-23 |
 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2023-10-08 | 2023-10-11 |
@@ -1348,7 +1349,7 @@
 | [Шум](https://open.spotify.com/track/3bghEsjRvDLVt6PE3Loc4G) | [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x) | [Шум](https://open.spotify.com/album/1xV2NAiAcc4WMO0jekaJHS) | 3:58 | 2021-05-25 | 2021-05-30 |
 | [Шёлковая простынь](https://open.spotify.com/track/2cRE1GZn09vQPtdxxiZF3X) | [O.G EzzY](https://open.spotify.com/artist/6Z8cDRcxWP1dtB7NardbEv) | [Шёлковая простынь](https://open.spotify.com/album/30evRwE110O8MXnxDoQYSF) | 3:03 | 2022-07-14 | 2022-07-23 |
 | [Щедра ніч](https://open.spotify.com/track/5MrUX20W8fhEslSpxM1mbR) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Щедра ніч](https://open.spotify.com/album/6FVaH8Xt87g6V1Uy3dQgaX) | 2:55 | 2023-12-25 | 2023-12-27 |
-| [Щоб не було](https://open.spotify.com/track/63hgMQantc0DLZM8BN180N) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Щоб не було](https://open.spotify.com/album/1DU1pDRECcDA475YVGkC8b) | 1:50 | 2024-02-02 | 2024-02-06 |
+| [Щоб не було](https://open.spotify.com/track/63hgMQantc0DLZM8BN180N) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Щоб не було](https://open.spotify.com/album/1DU1pDRECcDA475YVGkC8b) | 1:50 | 2024-02-02 |  |
 | [Щоб не було](https://open.spotify.com/track/7krNeHssTmY3ijTox4OBbD) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Щоб не було](https://open.spotify.com/album/00hex8Oa9MjhX3IVjj81sb) | 1:50 | 2022-12-10 | 2024-02-03 |
 | [Эй](https://open.spotify.com/track/2oUSzRUIE4GvMw29rLKlWw) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Сборник хуйни и картинки](https://open.spotify.com/album/6bNQ6UFOF8C70iz7IajffH) | 2:15 | 2023-09-07 | 2024-01-31 |
 | [Эйя](https://open.spotify.com/track/1JIvXMC0aCeLnOCs1EHpNW) | [Канги](https://open.spotify.com/artist/0R4IeWuUpTkmca5hnS0j6b) | [Том I\. «Жить не запретишь»](https://open.spotify.com/album/3WFJkKCQugxNAQ0Jyfmf86) | 2:51 | 2021-04-18 | 2021-04-29 |

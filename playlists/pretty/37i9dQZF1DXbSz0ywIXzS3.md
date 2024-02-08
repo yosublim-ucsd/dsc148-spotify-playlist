@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 
 > "I am never drinking again".
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,760 likes - 80 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,868 likes - 80 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 29 | [You're The One](https://open.spotify.com/track/0iYBNrznkCwhN3xCmNVJpo) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Anthem Of The Peaceful Army](https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX) | 4:26 |
 | 30 | [Superposition](https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:50 |
 | 31 | [Sirens](https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 5:40 |
-| 32 | [3 Libras](https://open.spotify.com/track/5kHkaBN8OEQlmXfQkACxSt) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Mer De Noms](https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO) | 3:39 |
-| 33 | [No One's Gonna Love You](https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 3:37 |
+| 32 | [No One's Gonna Love You](https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 3:37 |
+| 33 | [3 Libras](https://open.spotify.com/track/5kHkaBN8OEQlmXfQkACxSt) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Mer De Noms](https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO) | 3:39 |
 | 34 | [Sugar for the Pill](https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 4:30 |
 | 35 | [Spit Of You](https://open.spotify.com/track/6YrNd7sFarQAUflTPcTH0h) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:33 |
 | 36 | [Skin and Bones](https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:16 |
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 66 | [Epiphany](https://open.spotify.com/track/43TQVltxEHaqCKpSsttaT5) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt) | 4:16 |
 | 67 | [Oversized](https://open.spotify.com/track/4YM6Ujbv89VpprqasAXcwS) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:37 |
 | 68 | [BRAINWASHED](https://open.spotify.com/track/5rt1XJbhuC5NRqmdKMDscI) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 |
-| 69 | [If I Get High](https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Track by Track\)](https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk) | 3:26 |
-| 70 | [Birds and the Bees](https://open.spotify.com/track/31ulnxOHy0Ix3RwZ7kZYiq) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/7FIf3cBBy49WetC07pGOjs) | 4:14 |
-| 71 | [Re\-arrange](https://open.spotify.com/track/3VAvS6hbvz0mjFT1TmLNdd) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Ellipsis \(Deluxe\)](https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd) | 3:37 |
-| 72 | [The Epilogue](https://open.spotify.com/track/4xzWhGzIvoqu08lZK5vWKr) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [††† \(Crosses\)](https://open.spotify.com/album/0nmLUAAUIUfm8q8Mq3mRAV) | 3:55 |
+| 69 | [Birds and the Bees](https://open.spotify.com/track/31ulnxOHy0Ix3RwZ7kZYiq) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/7FIf3cBBy49WetC07pGOjs) | 4:14 |
+| 70 | [If I Get High](https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Track by Track\)](https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk) | 3:26 |
+| 71 | [The Epilogue](https://open.spotify.com/track/4xzWhGzIvoqu08lZK5vWKr) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [††† \(Crosses\)](https://open.spotify.com/album/0nmLUAAUIUfm8q8Mq3mRAV) | 3:55 |
+| 72 | [Re\-arrange](https://open.spotify.com/track/3VAvS6hbvz0mjFT1TmLNdd) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Ellipsis \(Deluxe\)](https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd) | 3:37 |
 | 73 | [Blackout](https://open.spotify.com/track/6p1KkKTYiuou500RtWnWmU) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 4:22 |
 | 74 | [Don't Change](https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:55 |
 | 75 | [People Live Here](https://open.spotify.com/track/3YsbKbo8m5Uv5zAG2hqOrN) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 4:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 79 | [Just the Way I'm Feeling](https://open.spotify.com/track/08DO757dzPTgeHSwOQvnIS) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Comfort in Sound](https://open.spotify.com/album/75qYHeS22EEn0neCZZ7kng) | 4:23 |
 | 80 | [Police Station](https://open.spotify.com/track/6DfWymHzCYOH2ABUuHFaMe) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [I'm with You](https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB) | 5:35 |
 
-Snapshot ID: `MCxlYTc3YzU3YTE5NmQzMjMwNjc3MWMxYTM0MzFiMzFjMTc1NmJiYWI5`
+Snapshot ID: `MCw2Nzk2OTJiZDg2ZDQzN2MxNGNmMDhjOWRiYjIzZDRiMmU0OGMxZmNh`

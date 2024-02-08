@@ -1,29 +1,13 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 797030,
+  "num_followers": 797024,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWYwN2NjMmRkZjA5N2ZmM2FhYjA2ODBmMTRhYWJhMzY3NzExNzUx",
+  "snapshot_id": "MCw5MWE3YWYxMzI0ZGQ2MzI5MjNjMzllN2FkZDg4MDY3ZDk0ZWMyOGZj",
   "tracks": [
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "SYML",
-        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Where's My Love",
-      "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
-    },
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 271176,
       "name": "Chemtrails Over The Country Club",
       "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "SYML",
+        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Where's My Love",
+      "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "A World Gone By",
-        "url": "https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 253597,
-      "name": "Ordinary People",
-      "url": "https://open.spotify.com/track/3y8PDnOgyPXasEnEoYKXwb"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 165697,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "A World Gone By",
+        "url": "https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 253597,
+      "name": "Ordinary People",
+      "url": "https://open.spotify.com/track/3y8PDnOgyPXasEnEoYKXwb"
     },
     {
       "added_at": "2024-01-05 03:19:09",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Aliso",
+        "url": "https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U"
+      },
+      "artists": [
+        {
+          "name": "Malena Zavala",
+          "url": "https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "If It Goes",
+      "url": "https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "When Smoke Rises",
         "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 192853,
       "name": "Hypochondriac",
       "url": "https://open.spotify.com/track/6EDAapFVNckXJuDvx59agU"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Aliso",
-        "url": "https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U"
-      },
-      "artists": [
-        {
-          "name": "Malena Zavala",
-          "url": "https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX"
-        }
-      ],
-      "duration_ms": 224253,
-      "name": "If It Goes",
-      "url": "https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 275662,
-      "name": "Life According To Raechel - Spotify Single",
-      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Claroscuro",
         "url": "https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 130470,
       "name": "Configuraciones Onduladas",
       "url": "https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 275662,
+      "name": "Life According To Raechel - Spotify Single",
+      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Here Comes Your Man",
-        "url": "https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi"
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
       },
       "artists": [
         {
-          "name": "Zoe",
-          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
         }
       ],
-      "duration_ms": 144274,
-      "name": "Here Comes Your Man",
-      "url": "https://open.spotify.com/track/4JRxVZxZDOe1z6k70K886l"
+      "duration_ms": 183000,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
+        "name": "Here Comes Your Man",
+        "url": "https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi"
       },
       "artists": [
         {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "Zoe",
+          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
+      "duration_ms": 144274,
+      "name": "Here Comes Your Man",
+      "url": "https://open.spotify.com/track/4JRxVZxZDOe1z6k70K886l"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1919,22 +1919,6 @@
       "duration_ms": 311680,
       "name": "People Wither",
       "url": "https://open.spotify.com/track/5giQdpVtrrX8L8mcBNHGIa"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Old Town Road",
-        "url": "https://open.spotify.com/album/5tsNukHkjhrH3RWBA2AVAv"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Old Town Road",
-      "url": "https://open.spotify.com/track/6Q1Gvu87DTf9SUkwUeBGGl"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1975,22 +1959,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "One Kiss",
-        "url": "https://open.spotify.com/album/4aGUFwXZaiK0iXxC5lSCll"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 160678,
-      "name": "One Kiss",
-      "url": "https://open.spotify.com/track/4Ocm5X4MdGoF9cvIGgOe39"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A"
       },
@@ -2003,6 +1971,38 @@
       "duration_ms": 227250,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Old Town Road",
+        "url": "https://open.spotify.com/album/5tsNukHkjhrH3RWBA2AVAv"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Old Town Road",
+      "url": "https://open.spotify.com/track/6Q1Gvu87DTf9SUkwUeBGGl"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "One Kiss",
+        "url": "https://open.spotify.com/album/4aGUFwXZaiK0iXxC5lSCll"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 160678,
+      "name": "One Kiss",
+      "url": "https://open.spotify.com/track/4Ocm5X4MdGoF9cvIGgOe39"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2055,38 +2055,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Cabeza de le\u00f3n",
-        "url": "https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J"
-      },
-      "artists": [
-        {
-          "name": "Jero Romero",
-          "url": "https://open.spotify.com/artist/6TCN68dPlpAJMADKP3LmYh"
-        }
-      ],
-      "duration_ms": 154628,
-      "name": "Correcto",
-      "url": "https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 192981,
-      "name": "This Is What You Did",
-      "url": "https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "No Tears Left To Cry",
         "url": "https://open.spotify.com/album/2QU9UieGw1gfqyyMh2187Y"
       },
@@ -2103,6 +2071,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Cabeza de le\u00f3n",
+        "url": "https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J"
+      },
+      "artists": [
+        {
+          "name": "Jero Romero",
+          "url": "https://open.spotify.com/artist/6TCN68dPlpAJMADKP3LmYh"
+        }
+      ],
+      "duration_ms": 154628,
+      "name": "Correcto",
+      "url": "https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Giant",
         "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 179510,
       "name": "Giant",
       "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 192981,
+      "name": "This Is What You Did",
+      "url": "https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Two Lives EP",
-        "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 167892,
-      "name": "Is It Real - Acoustic",
-      "url": "https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Fractal",
         "url": "https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2"
       },
@@ -2527,6 +2511,22 @@
       "duration_ms": 225674,
       "name": "Clocks",
       "url": "https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Two Lives EP",
+        "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 167892,
+      "name": "Is It Real - Acoustic",
+      "url": "https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU"
     },
     {
       "added_at": "2023-06-09 14:25:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Lizz Wright
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,992 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,027 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [Roll With Me](https://open.spotify.com/track/5e8EPbTXBC9nnXctV4CWB3) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Roll With Me](https://open.spotify.com/album/4kh6j2obPW8dd5SxkCWjf7) | 4:20 |
 | 100 | [Rock & Roll](https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Rock & Roll](https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm) | 4:50 |
 
-Snapshot ID: `MCwwYTc5MTQzNGI3MDMwZDViMzBlMzQ0YWY5ZWUwZWZiYWQzZTlmMDc1`
+Snapshot ID: `MCxkNDYzODgzYzdjOGQ5MTljOTgzMGNhYmRmMzYzZGM0MTlhYzNkZjNj`

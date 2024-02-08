@@ -1,12 +1,12 @@
 {
   "description": "we got you bro. Cover: Post Malone",
-  "num_followers": 70201,
+  "num_followers": 70413,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDgxNDVmZDNlZmM1ODYxYWY3ZmY2OTQ5Zjc5NTNkOTgwNmIyMzNj",
+  "snapshot_id": "MCxiMjk1YWI5ZmE5MGNkYzUyMGQzYjNmMTU3MWQ3MjRhM2I1ZjAwZjg4",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 174853,
       "name": "Goodbyes (feat. Young Thug)",
       "url": "https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "Go Flex",
+      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Love Is Gone (Acoustic)",
         "url": "https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 159381,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Go Flex",
-      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "Hollywood's Bleeding",
+      "url": "https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Feel Something (Deluxe)",
         "url": "https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "Hollywood's Bleeding",
-      "url": "https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Death Race For Love (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
       "artists": [
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 248431,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu"
+      "duration_ms": 160166,
+      "name": "Never Felt So Alone",
+      "url": "https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
+        "name": "Death Race For Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 160166,
-      "name": "Never Felt So Alone",
-      "url": "https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ"
+      "duration_ms": 248431,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu"
     }
   ],
   "unique_name": "sad boy anthems",

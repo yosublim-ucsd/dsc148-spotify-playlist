@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 黒子首\(Hockrockb\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,900 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,920 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [バタフライ](https://open.spotify.com/track/5hTz6biiwx8XYnP4rYNF8i) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [バタフライ](https://open.spotify.com/album/3RWDRZ9L51JXdRYfsTBp0p) | 3:09 |
-| 2 | [番外編](https://open.spotify.com/track/5f6WHaRAKc8kQXiWB5YNkU) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [波打つ心を持ちながら](https://open.spotify.com/album/4gINtRCG56pnyFd60pRNPp) | 3:20 |
+| 2 | [Bangai Hen](https://open.spotify.com/track/2oFpPPGoIMwpo76ksUH8h1) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Namiutsu Kokoro o Mochinagara](https://open.spotify.com/album/2AqgPeRgCAYar0Yh6pVedu) | 3:20 |
 | 3 | [Young life](https://open.spotify.com/track/3jtQRxL5Uu4qSNhJY5WCzx) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Young life / brighter brighter](https://open.spotify.com/album/1zIN6VFlLxHjYRzaBmenqb) | 3:11 |
 | 4 | [Goodnight darling,imaginary babe](https://open.spotify.com/track/4ZLlZQk0KPOBQ1nigHzMaD) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [sunaoninaretara](https://open.spotify.com/album/0w9qpkajEAhV8fIm9ZQkbU) | 2:57 |
 | 5 | [Groovy night](https://open.spotify.com/track/6xj8bD4v3Z4U3SKbCs9Ekx) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [Groovy night](https://open.spotify.com/album/5TaPiVV8ESfPGkTn4gZy7e) | 4:28 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 23 | [meanwhile](https://open.spotify.com/track/4vv0YzTJLrJkT7hJJIBL42) | [LIGHTERS](https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq) | [meanwhile](https://open.spotify.com/album/2qCWVJnj7Yeg0NAfZ5GQKN) | 3:13 |
 | 24 | [Best Friend](https://open.spotify.com/track/6BJrQLi6dCzxoaCtx4MV1s) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [Best Friend](https://open.spotify.com/album/1Vri019uTjshoTy7HfFXxb) | 4:49 |
 | 25 | [17](https://open.spotify.com/track/1kGkbJkZTUKOpaq40DmO4X) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [17](https://open.spotify.com/album/1etb2Hta613MH9sUYvUIaj) | 2:55 |
-| 26 | [door](https://open.spotify.com/track/7gWbHtFvjBypz4kGaqtgDR) | [猫を堕ろす](https://open.spotify.com/artist/6xP1sUJokUpVorTCSpfI1Q) | [ポップの真髄](https://open.spotify.com/album/68hm7FDQfhvwI1kjG6YIok) | 2:50 |
+| 26 | [door](https://open.spotify.com/track/3w05GA8GXQP9jboZw6rOc8) | [N.K.W.O.R.S](https://open.spotify.com/artist/2ZIL2feR0ndAwDAS8g3rkZ) | [Mystery of Pop](https://open.spotify.com/album/0TnGSxTin66Aq2mJlOcgAd) | 2:50 |
 | 27 | [bloom](https://open.spotify.com/track/1f37xjUqPlrDvA6MdQoAis) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [bloom](https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K) | 3:17 |
 | 28 | [魚を追いかけて](https://open.spotify.com/track/3rOmeh2KOIvbEGGBQKm15W) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [魚を追いかけて](https://open.spotify.com/album/0BIQ7RwLDzgYhpWNMc0we2) | 3:58 |
 | 29 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 64 | [I like you](https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [I like you](https://open.spotify.com/album/3fDyWpBQokx5FuzPIKeQOF) | 3:50 |
 | 65 | [Lapse](https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD) | 3:55 |
 | 66 | [スケベなだけで金がない](https://open.spotify.com/track/2LhQsqnq5uyTtuobpoHCat) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [スケベなだけで金がない](https://open.spotify.com/album/5Ar3B8oObwuJfIuHQQIpDg) | 2:39 |
-| 67 | [真夏の夜の夢](https://open.spotify.com/track/2RDN1D6wtANEJXVv6Tc4Wq) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [ユーミン乾杯!!～松任谷由実50周年記念コラボベストアルバム～](https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX) | 4:40 |
-| 68 | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/track/2gAWJTuZ7W4MBzGX1E7pH7) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/album/3DP29QEp7AtJJJsGgne8HI) | 3:48 |
+| 67 | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/track/2gAWJTuZ7W4MBzGX1E7pH7) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/album/3DP29QEp7AtJJJsGgne8HI) | 3:48 |
+| 68 | [真夏の夜の夢](https://open.spotify.com/track/2RDN1D6wtANEJXVv6Tc4Wq) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [ユーミン乾杯!!～松任谷由実50周年記念コラボベストアルバム～](https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX) | 4:40 |
 | 69 | [ふたり](https://open.spotify.com/track/6wbXSVc6kR9cAHP0rWTUMT) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [ふたり](https://open.spotify.com/album/1atBgPVgFDAyqyt4wGYz8w) | 4:12 |
 | 70 | [故のLOVE](https://open.spotify.com/track/6vVKI6HXIsGssqGYGuKmF8) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [LOVEの飽和水蒸気量](https://open.spotify.com/album/6ZVZ2hZV5bnFpLFQOqptuM) | 3:30 |
 
-Snapshot ID: `MCxjYzY5YzE3NjQ1ZjMyODBhYjY4ZmUxNTE2ZDQwODk0ZjAxZDZiN2Fi`
+Snapshot ID: `MCxjNjY5NDA5MjA4ODdiMmE1NWNmYzQxYTRkZDkyMjk4MzFkYmI4Zjlh`

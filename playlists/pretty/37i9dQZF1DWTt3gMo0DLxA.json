@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Guntur Kaaram",
-  "num_followers": 65332,
+  "num_followers": 65491,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjllZTJiNDBjYTA1MzUyYjZhNjIxOGY2YTc5ZmI2YWYyNjRhZmQ0",
+  "snapshot_id": "MCw2NDFhYjQ5Yzg4ZmE2YzUwNGY3YjBiYWIyZmI3YjE4ZWIwODUwN2Uy",
   "tracks": [
     {
       "added_at": "2023-12-30 10:49:01",
@@ -41,34 +41,6 @@
       "url": "https://open.spotify.com/track/0hY9eA74QrMCJuWEx7fo9y"
     },
     {
-      "added_at": "2024-01-08 11:45:37",
-      "album": {
-        "name": "Double Engine (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/71wOjxZQtHmVLLj0w1uSiw"
-      },
-      "artists": [
-        {
-          "name": "Vivek Sagar",
-          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
-        },
-        {
-          "name": "Jagadeesh Prathap Bandari",
-          "url": "https://open.spotify.com/artist/5IrZdvqNYv90WsRXOt63F3"
-        },
-        {
-          "name": "Smaran",
-          "url": "https://open.spotify.com/artist/7hVRxcFAqVLMLBRCu6FR3C"
-        },
-        {
-          "name": "Nikhil Bharadwaj",
-          "url": "https://open.spotify.com/artist/4R5ikQ5c2cMo5iEZic0RLg"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "Kadak",
-      "url": "https://open.spotify.com/track/1VmQsqIS9WfA96ptWV200B"
-    },
-    {
       "added_at": "2023-11-20 12:19:52",
       "album": {
         "name": "MAD",
@@ -91,6 +63,30 @@
       "duration_ms": 204533,
       "name": "Nuvvu Navvukuntu",
       "url": "https://open.spotify.com/track/00LSCsH99cW8zsr82ibMHM"
+    },
+    {
+      "added_at": "2024-02-07 09:53:06",
+      "album": {
+        "name": "Ayyo Paapam Saaru (From \"G.O.A.T\")",
+        "url": "https://open.spotify.com/album/0tSIECdX2r07F9C5KZwYDc"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Leon James",
+          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
+        },
+        {
+          "name": "Suresh Banisetti",
+          "url": "https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km"
+        }
+      ],
+      "duration_ms": 304484,
+      "name": "Ayyo Paapam Saaru (From \"G.O.A.T\")",
+      "url": "https://open.spotify.com/track/2g1sN68s0gq9VFjbjTFUeq"
     },
     {
       "added_at": "2023-12-11 04:40:35",

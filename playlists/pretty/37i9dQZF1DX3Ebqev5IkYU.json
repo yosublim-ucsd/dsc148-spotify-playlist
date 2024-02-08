@@ -1,12 +1,12 @@
 {
   "description": "Schlechte Laune? Dr\u00fcck den Play Button!",
-  "num_followers": 1968667,
+  "num_followers": 1968722,
   "original_name": "Stimmungsmacher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjlhOGY3MjM4MjUxMWU1YzgxZmIwY2Y3MmU4Y2M0YTFiMWYzYzc0",
+  "snapshot_id": "MCwwYmQwNWJkODEyNmRmMzM4NjUyNTY0ZTYzOWZkMjFmZDc5YzUwZGM1",
   "tracks": [
     {
       "added_at": "2024-02-01 15:47:53",
@@ -159,26 +159,6 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
-        "name": "Overdrive (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 155905,
-      "name": "Overdrive (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
       "added_at": "2024-02-01 15:47:53",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
-        "name": "Broken By Desire To Be Heavenly Sent",
-        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Forget Me",
-      "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
     },
     {
       "added_at": "2024-02-01 15:47:53",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 139672,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
         "name": "M\u00e4dchen auf dem Pferd",
         "url": "https://open.spotify.com/album/1nqgi8V3Ii96w1iofIcfcz"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 157058,
       "name": "M\u00e4dchen auf dem Pferd",
       "url": "https://open.spotify.com/track/7AOJcugo17Kr1WUheSI6Oq"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
       "added_at": "2024-02-01 15:47:53",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
+        "name": "Heather On The Hill",
+        "url": "https://open.spotify.com/album/2beYnTms954gTl7cYEupjN"
+      },
+      "artists": [
+        {
+          "name": "Nathan Evans",
+          "url": "https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo"
+        }
+      ],
+      "duration_ms": 139857,
+      "name": "Heather On The Hill",
+      "url": "https://open.spotify.com/track/7N3emAP0mWt2OYqxs0XYpc"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
         "name": "Weekends",
         "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
-        "name": "Heather On The Hill",
-        "url": "https://open.spotify.com/album/2beYnTms954gTl7cYEupjN"
-      },
-      "artists": [
-        {
-          "name": "Nathan Evans",
-          "url": "https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo"
-        }
-      ],
-      "duration_ms": 139857,
-      "name": "Heather On The Hill",
-      "url": "https://open.spotify.com/track/7N3emAP0mWt2OYqxs0XYpc"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 153449,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
-        "name": "Celestial",
-        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
     },
     {
       "added_at": "2024-02-01 15:47:53",
@@ -1027,6 +1011,22 @@
       "duration_ms": 154376,
       "name": "Spicy Margarita",
       "url": "https://open.spotify.com/track/6TFUhEcEsqGVMZeZtAeUzN"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
     },
     {
       "added_at": "2024-02-01 15:47:53",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
+        "name": "HERZINFUCKED",
+        "url": "https://open.spotify.com/album/4wJVpq8vt31kB9wySZY0WB"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 165476,
+      "name": "Auf & Ab",
+      "url": "https://open.spotify.com/track/2sFsvaMRe8PKo5AFdBE9qC"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
         "name": "Glas",
         "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 192835,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/2toCf2FDbTIdWriPI6kcsY"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
-        "name": "HERZINFUCKED",
-        "url": "https://open.spotify.com/album/4wJVpq8vt31kB9wySZY0WB"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 165476,
-      "name": "Auf & Ab",
-      "url": "https://open.spotify.com/track/2sFsvaMRe8PKo5AFdBE9qC"
     },
     {
       "added_at": "2024-02-01 15:47:53",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
+        "name": "Wildberry Lillet",
+        "url": "https://open.spotify.com/album/1zzkAbY0FKMPjn56qrgxme"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Wildberry Lillet",
+      "url": "https://open.spotify.com/track/6yeZM8gyykjaf8w0GqRfK4"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
         "name": "Good Times Go",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
@@ -1479,26 +1495,6 @@
       "duration_ms": 177371,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
-        "name": "Zukunft Pink (feat. In\u00e9z)",
-        "url": "https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D"
-      },
-      "artists": [
-        {
-          "name": "Peter Fox",
-          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
-        },
-        {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
-        }
-      ],
-      "duration_ms": 231546,
-      "name": "Zukunft Pink (feat. In\u00e9z)",
-      "url": "https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4"
     }
   ],
   "unique_name": "Stimmungsmacher",

@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 黒子首\(Hockrockb\)
 
-1,443 songs - 3 day 18 hr 27 min
+1,445 songs - 3 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Ball](https://open.spotify.com/track/0AXda5pFbkZJGPEZk5VJud) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [Ball](https://open.spotify.com/album/1NFiOAGqdZdMfuG1uWeGtP) | 3:53 | 2023-07-11 | 2023-08-09 |
 | [Balloon](https://open.spotify.com/track/18QFpkJFiMBeOBzZMxtV8y) | [Boundary](https://open.spotify.com/artist/7EYH7GNNmSQu0MqLFBupH9) | [Balloon](https://open.spotify.com/album/74C7JKHUV6QsQVK7ZuZRwx) | 3:29 | 2022-08-30 | 2022-09-07 |
 | [Band Music](https://open.spotify.com/track/7dNNG12RobAL4jLXJCYnli) | [the huckleberries](https://open.spotify.com/artist/5EWgOiRmZxdcCQOHyJQmUq) | [Band Music](https://open.spotify.com/album/4mZ5grA9HLvcfF9qgxk1Kg) | 3:33 | 2022-07-07 | 2022-07-09 |
+| [Bangai Hen](https://open.spotify.com/track/2oFpPPGoIMwpo76ksUH8h1) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Namiutsu Kokoro o Mochinagara](https://open.spotify.com/album/2AqgPeRgCAYar0Yh6pVedu) | 3:20 | 2024-02-06 |  |
 | [Beautiful Days](https://open.spotify.com/track/7iSGf8qaB5WI5RFBAi9LNP) | [QUBIT](https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI) | [9BIT](https://open.spotify.com/album/21iEZloCW9987uuN8n80Pi) | 3:37 | 2023-11-21 | 2023-12-20 |
 | [BEER DE GO \(feat.村里杏\)](https://open.spotify.com/track/4wQDpYHC9Bb2hZM2G7OZQj) | [BimBamBoom feat\. 村里杏](https://open.spotify.com/artist/1OkNkh83QRqWYOyfqmC0UZ) | [BEER DE GO](https://open.spotify.com/album/4XzX5SsNlcCGkjg1qapgYd) | 3:48 | 2022-06-02 | 2022-06-05 |
 | [Believer \-cover](https://open.spotify.com/track/3PkLD9cDSN89Y5sxvqHNdl) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [Believer \-cover](https://open.spotify.com/album/31jgyEhHy7NJAAAtkXyjmW) | 3:22 | 2023-10-10 | 2023-11-22 |
@@ -153,9 +154,10 @@
 | [Don't Obsess](https://open.spotify.com/track/1VPdPQ7xmxOyCQodIw24R0) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [i!i!i!i!](https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ) | 1:52 | 2023-04-04 | 2023-04-12 |
 | [Don't Stop the Rock](https://open.spotify.com/track/3NoEpZC1xZN8rxtGIssyaG) | [Cerveteri](https://open.spotify.com/artist/1QxwPVYrEOpJ5LKl8b7Gla) | [Don't Stop the Rock](https://open.spotify.com/album/4UOTjg4Ec1eWMNDtcb4tbd) | 3:46 | 2022-06-02 | 2022-06-08 |
 | [Don’t Poy Me!](https://open.spotify.com/track/3NSmQajuG4igfFEJ07cafX) | [℃\-want you!](https://open.spotify.com/artist/1oePCCijpoxaCwJSzNahwa) | [Don’t Poy Me!](https://open.spotify.com/album/7Hi9846O5h1toP1Mf6d1eB) | 3:51 | 2022-06-30 | 2022-07-06 |
+| [door](https://open.spotify.com/track/3w05GA8GXQP9jboZw6rOc8) | [N.K.W.O.R.S](https://open.spotify.com/artist/2ZIL2feR0ndAwDAS8g3rkZ) | [Mystery of Pop](https://open.spotify.com/album/0TnGSxTin66Aq2mJlOcgAd) | 2:50 | 2024-02-06 |  |
 | [door](https://open.spotify.com/track/2I4ispQ4UjY6cot5eSJHTg) | [ULTRA](https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS) | [door](https://open.spotify.com/album/4lycjMMaKA1imPO6Wm4OUc) | 3:47 | 2023-05-09 | 2023-05-11 |
 | [door](https://open.spotify.com/track/3NaPqTnUAjxXcauToHr93O) | [ULTRA](https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS) | [浮いた欲](https://open.spotify.com/album/4IuKdpvd8I9WVZC73J7elQ) | 3:49 | 2023-05-09 | 2023-05-24 |
-| [door](https://open.spotify.com/track/7gWbHtFvjBypz4kGaqtgDR) | [猫を堕ろす](https://open.spotify.com/artist/6xP1sUJokUpVorTCSpfI1Q) | [ポップの真髄](https://open.spotify.com/album/68hm7FDQfhvwI1kjG6YIok) | 2:50 | 2024-02-06 |  |
+| [door](https://open.spotify.com/track/7gWbHtFvjBypz4kGaqtgDR) | [猫を堕ろす](https://open.spotify.com/artist/6xP1sUJokUpVorTCSpfI1Q) | [ポップの真髄](https://open.spotify.com/album/68hm7FDQfhvwI1kjG6YIok) | 2:50 | 2024-02-06 | 2024-02-08 |
 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 | 2022-08-17 | 2023-05-31 |
 | [DRIVE](https://open.spotify.com/track/1MBql4q5qSCqLcq91YZp9s) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [DRIVE](https://open.spotify.com/album/2wLUjmsyE3v3wZCifSYf0a) | 2:54 | 2023-12-12 | 2023-12-14 |
 | [DRIVE](https://open.spotify.com/track/2YOnPrLE4ZFm6AbIIGTkgi) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [DRIVE](https://open.spotify.com/album/7m0qmhvwld1bRASl9xrCnQ) | 2:54 | 2023-12-12 | 2024-01-05 |
@@ -1328,7 +1330,7 @@
 | [生き辛い世の中だ](https://open.spotify.com/track/0cHMs6qYJPJl8vwZCh9vj8) | [nolala](https://open.spotify.com/artist/4zd18vM6FInPxbaa96shHL) | [生き辛い世の中だ](https://open.spotify.com/album/6Lcw50k6qw59rnfJyXsiqI) | 3:16 | 2022-06-07 | 2022-06-09 |
 | [生活](https://open.spotify.com/track/1TAF4rJSiwHVCw7usEp7ae) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [生活](https://open.spotify.com/album/4z9GVOoie1BZseiBIXKbnc) | 4:39 | 2022-12-27 | 2023-06-28 |
 | [生活の中で](https://open.spotify.com/track/35BHxzM0NmyzYPgE7bns4i) | [最果テルーティン](https://open.spotify.com/artist/2yAThkujbnqrhoqPMdoxpX) | [生活の中で](https://open.spotify.com/album/1NGdzOkb5gbudyI6Mkh4n4) | 3:47 | 2022-06-16 | 2022-07-07 |
-| [番外編](https://open.spotify.com/track/5f6WHaRAKc8kQXiWB5YNkU) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [波打つ心を持ちながら](https://open.spotify.com/album/4gINtRCG56pnyFd60pRNPp) | 3:20 | 2024-02-06 |  |
+| [番外編](https://open.spotify.com/track/5f6WHaRAKc8kQXiWB5YNkU) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [波打つ心を持ちながら](https://open.spotify.com/album/4gINtRCG56pnyFd60pRNPp) | 3:20 | 2024-02-06 | 2024-02-08 |
 | [発色](https://open.spotify.com/track/6P76G0j28gyqDcP6jWaRoH) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [発色](https://open.spotify.com/album/5CodK6p0lFVtOOLjMYYy6L) | 3:18 | 2022-11-15 | 2022-11-23 |
 | [白夜](https://open.spotify.com/track/1H9VFgLn0RYlIoEtl84iQV) | [s\-o\-a](https://open.spotify.com/artist/06PBkMDgYKYZ5DfN021QKV) | [tales and truth](https://open.spotify.com/album/3ya2mbPWOleX6StkIM09Gq) | 2:59 | 2023-04-04 | 2023-04-12 |
 | [白昼きみとドロン](https://open.spotify.com/track/2RmFrPfVGbAyOIUAg9nyRH) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [白昼きみとドロン](https://open.spotify.com/album/5Y1nT7jHmglvnAt08UNDCB) | 3:13 | 2024-01-23 | 2024-01-25 |

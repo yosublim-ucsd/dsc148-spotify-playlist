@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 188900,
+  "num_followers": 188876,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2I4YmNmNmQ2YjQ5MDU3MjczZjdmMzQ3MDdiN2ZiNTAxMjI1OTI3",
+  "snapshot_id": "MCxhYTY3MWQ4Y2VlZGRmNjljYjNmNzI4Nzc0MGI4YjliYzUzZGU5ZDUx",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1225,6 +1225,26 @@
       "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
     },
     {
+      "added_at": "2022-12-12 18:18:20",
+      "album": {
+        "name": "Home For The Holidays Vol. 2",
+        "url": "https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 237393,
+      "name": "Might As Well Have Coal (with Baby Tate)",
+      "url": "https://open.spotify.com/track/3HD11WPsqMPGsIIHVRC28u"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "The First Noel (feat. Cory Henry)",
@@ -1279,26 +1299,6 @@
       "duration_ms": 186409,
       "name": "Soulful Christmas",
       "url": "https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n"
-    },
-    {
-      "added_at": "2022-12-12 18:18:20",
-      "album": {
-        "name": "Home For The Holidays Vol. 2",
-        "url": "https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 237393,
-      "name": "Might As Well Have Coal (with Baby Tate)",
-      "url": "https://open.spotify.com/track/3HD11WPsqMPGsIIHVRC28u"
     },
     {
       "added_at": "2021-12-15 17:30:29",

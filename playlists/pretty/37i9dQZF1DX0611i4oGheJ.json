@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 436527,
+  "num_followers": 436729,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWFiZjgyODk3MTE5NThhYzM4YzljYTBlNWRlNDU2MzM2YzM2OWY2",
+  "snapshot_id": "MCw1YWI5ZGM3MDgyOTYzZTFhNTEwY2UxN2Y0ODAyMjE4NDhiZTdjYzlm",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -319,18 +319,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "The Nashville Sound",
-        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+        "name": "Love Flew Away",
+        "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
       },
       "artists": [
         {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 215563,
-      "name": "If We Were Vampires",
-      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
+      "duration_ms": 147346,
+      "name": "Love Flew Away",
+      "url": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -351,22 +355,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Love Flew Away",
-        "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
+        "name": "The Nashville Sound",
+        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
         }
       ],
-      "duration_ms": 147346,
-      "name": "Love Flew Away",
-      "url": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
+      "duration_ms": 215563,
+      "name": "If We Were Vampires",
+      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Twist",
+        "url": "https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL"
+      },
+      "artists": [
+        {
+          "name": "Lorkin O'Reilly",
+          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
+        }
+      ],
+      "duration_ms": 186157,
+      "name": "Twist",
+      "url": "https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "multiverse",
         "url": "https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Twist",
-        "url": "https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL"
-      },
-      "artists": [
-        {
-          "name": "Lorkin O'Reilly",
-          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
-        }
-      ],
-      "duration_ms": 186157,
-      "name": "Twist",
-      "url": "https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "The Tree of Forgiveness",
         "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 209047,
       "name": "Summer's End",
       "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Darkest Darks, Lightest Lights",
-        "url": "https://open.spotify.com/album/15fTepGOPHDgjR18E9vt4y"
-      },
-      "artists": [
-        {
-          "name": "The White Buffalo",
-          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "I Am the Moon",
-      "url": "https://open.spotify.com/track/0GQPSWoRGfwshYYv5nW5Ct"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -983,18 +967,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+        "name": "Darkest Darks, Lightest Lights",
+        "url": "https://open.spotify.com/album/15fTepGOPHDgjR18E9vt4y"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "The White Buffalo",
+          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
         }
       ],
-      "duration_ms": 244960,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+      "duration_ms": 198226,
+      "name": "I Am the Moon",
+      "url": "https://open.spotify.com/track/0GQPSWoRGfwshYYv5nW5Ct"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1011,6 +995,22 @@
       "duration_ms": 264000,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/5NEitA75GDKDOET1k83LQw"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Bravado",
         "url": "https://open.spotify.com/album/1OOpLsjYm20UGottxYTusF"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 305160,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Traveling Alone",
+        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Traveling Alone",
+      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 168316,
       "name": "GPS (w/ Felly)",
       "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Traveling Alone",
-        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "Traveling Alone",
-      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Go Easy, Kid",
-        "url": "https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh"
-      },
-      "artists": [
-        {
-          "name": "Monica Martin",
-          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
-        }
-      ],
-      "duration_ms": 248181,
-      "name": "Go Easy, Kid",
-      "url": "https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Lavender Girl",
         "url": "https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 203546,
       "name": "Lavender Girl",
       "url": "https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Go Easy, Kid",
+        "url": "https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh"
+      },
+      "artists": [
+        {
+          "name": "Monica Martin",
+          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
+        }
+      ],
+      "duration_ms": 248181,
+      "name": "Go Easy, Kid",
+      "url": "https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Folding Leaves",
-        "url": "https://open.spotify.com/album/1BL9HsiqZUc4IXFT3LKwzr"
-      },
-      "artists": [
-        {
-          "name": "Message To Bears",
-          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
-        }
-      ],
-      "duration_ms": 332360,
-      "name": "Wake Me",
-      "url": "https://open.spotify.com/track/6tBTW1d7ikxXEfkhGQjPHi"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "A Sailor's Guide to Earth",
         "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 212586,
       "name": "Breakers Roar",
       "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Folding Leaves",
+        "url": "https://open.spotify.com/album/1BL9HsiqZUc4IXFT3LKwzr"
+      },
+      "artists": [
+        {
+          "name": "Message To Bears",
+          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
+        }
+      ],
+      "duration_ms": 332360,
+      "name": "Wake Me",
+      "url": "https://open.spotify.com/track/6tBTW1d7ikxXEfkhGQjPHi"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "San Isabel",
-        "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 197906,
-      "name": "Harder Way",
-      "url": "https://open.spotify.com/track/2mOxQ582K8WAP3FjTUhYVC"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "The Meetings of the Waters",
         "url": "https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 300277,
       "name": "The Meetings of the Waters",
       "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "San Isabel",
+        "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 197906,
+      "name": "Harder Way",
+      "url": "https://open.spotify.com/track/2mOxQ582K8WAP3FjTUhYVC"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Belly of the Beast / Paper Mountain",
-        "url": "https://open.spotify.com/album/6GTreUmTaYdDIkWzS6F3GI"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 195540,
-      "name": "Belly of the Beast",
-      "url": "https://open.spotify.com/track/288CVb86JcfAiuk9ZL6IDW"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Motel Bouquet",
         "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 184787,
       "name": "Motel",
       "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Belly of the Beast / Paper Mountain",
+        "url": "https://open.spotify.com/album/6GTreUmTaYdDIkWzS6F3GI"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 195540,
+      "name": "Belly of the Beast",
+      "url": "https://open.spotify.com/track/288CVb86JcfAiuk9ZL6IDW"
     },
     {
       "added_at": "2023-12-01 05:00:00",

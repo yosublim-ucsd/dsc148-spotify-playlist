@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 
 > Il sound giusto per creare in cucina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,064 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,063 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 76 | [O Morro \(Não Tem Vez\)](https://open.spotify.com/track/5jMc7pAGFQ5lRqfaM7AsU5) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:56 |
 | 77 | [Amor em Jacumã](https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Sem Nostalgia](https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K) | 3:34 |
 | 78 | [Vem Menina](https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Achados e Perdidos](https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk) | 4:19 |
-| 79 | [Una De Mambo](https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB) | [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm) | [Curanderas](https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF) | 3:36 |
-| 80 | [The Shade of the Mango Tree](https://open.spotify.com/track/6gdTVZdQcVN54ynCk38l5U) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Bonfa Burrows Brazil](https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq) | 3:54 |
+| 79 | [The Shade of the Mango Tree](https://open.spotify.com/track/6gdTVZdQcVN54ynCk38l5U) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Bonfa Burrows Brazil](https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq) | 3:54 |
+| 80 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 |
 
-Snapshot ID: `MCxiYjMwMTU5OTRmYmIzNzhiN2FiNmYzNmJmMTc3MWE4ODJjNTBiYjIx`
+Snapshot ID: `MCxkYWJkMmM0MGY2NzgwZTkzMjEyOWI2YjdiNjM4NDgzN2JkYjUzZjFm`

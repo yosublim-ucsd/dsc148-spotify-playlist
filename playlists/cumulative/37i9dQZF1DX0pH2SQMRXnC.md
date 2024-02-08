@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-672 songs - 1 day 14 hr 50 min
+673 songs - 1 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [No Paradise](https://open.spotify.com/track/0N4QGYBSaeRwmo4pxuEG0x) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [No Paradise](https://open.spotify.com/album/6hq96WXyeVwi6UpYMaATa9) | 4:01 | 2021-12-16 | 2024-01-12 |
 | [No Reality](https://open.spotify.com/track/7yUiYmIPh1UtRxfbrvFYxq) | [Stormerz](https://open.spotify.com/artist/4FSHCrSzZlOrwOMmEInVwf) | [No Reality](https://open.spotify.com/album/5Bz2trhpTom60ByTi9HlqT) | 3:05 | 2022-03-24 | 2022-04-21 |
 | [No Regret](https://open.spotify.com/track/5sfsiONdOGcThDKPugDl5S) | [Dillytek](https://open.spotify.com/artist/7jyPELo8anRil0femQikVJ) | [No Regret](https://open.spotify.com/album/30xRgPea8hF3U166uEQIi9) | 4:05 | 2022-03-24 | 2022-04-21 |
+| [No Retaliation](https://open.spotify.com/track/6N1NycLCUdSMWLM6ucXjP2) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [No Retaliation, Pt\. 1: The Solo's](https://open.spotify.com/album/1wTbNgkQexxRJSzbSV2IeC) | 3:44 | 2024-02-07 |  |
 | [No Sleep](https://open.spotify.com/track/6le1LT9NtaUlQ22aITOM7g) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [No Sleep](https://open.spotify.com/album/6dwJj2ANDzjJLsAXF4Govc) | 3:47 | 2023-01-27 | 2023-03-18 |
 | [Nobody Said It Was Easy \- Sefa Remix](https://open.spotify.com/track/5qeMz1IZRziSatqOG3ZHz6) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Nobody Said It Was Easy \(Sefa Remix\)](https://open.spotify.com/album/1SDYpwbOVLlHIkiyt7Hg6k) | 4:29 | 2022-04-11 |  |
 | [Noon](https://open.spotify.com/track/3RxUBny41YbvA2zus4vWYA) | [Sylence](https://open.spotify.com/artist/0H6s1CbpvyZpA3hmZmuDxh) | [Noon](https://open.spotify.com/album/67ygLpPD068nalfKqNAfj6) | 3:36 | 2021-12-16 | 2022-06-22 |
@@ -581,7 +582,7 @@
 | [The Master](https://open.spotify.com/track/0zP1BZps3Or5ukfRZDwTjt) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [The Master](https://open.spotify.com/album/6eo5n6UR0mhrVUVr0ef8pj) | 3:07 | 2021-12-16 | 2022-11-13 |
 | [The Mighty Arena \- Official Supremacy 2022 Anthem](https://open.spotify.com/track/2wIEgLxUdmjF3K69pSX8TY) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [The Mighty Arena \(Official Supremacy 2022 Anthem\)](https://open.spotify.com/album/0PCw4ykZ68YuumbG4hyeEV) | 6:05 | 2022-09-30 | 2023-06-02 |
 | [The New Generation](https://open.spotify.com/track/7zEysFiYikiGzAJsDEYrKQ) | [Envine](https://open.spotify.com/artist/4jxFb0CASzyps1aMpZOxyi), [Brock London](https://open.spotify.com/artist/5FBMMFJkBsMjGoGidqp7zR) | [The New Generation](https://open.spotify.com/album/1eh4xKd1GyALCs4iFrTSI0) | 3:17 | 2022-03-24 | 2022-04-21 |
-| [The Night \- Hardstyle Mix](https://open.spotify.com/track/3XikEye0OgF9rJ4BSCtLp1) | [Rob & Chris](https://open.spotify.com/artist/4TpbEVsX4U0Cs9QhhI2JyG), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [The Night \(Hardstyle Mix\)](https://open.spotify.com/album/7foUHVIJy7YFBDP1OFskL1) | 2:28 | 2022-10-28 |  |
+| [The Night \- Hardstyle Mix](https://open.spotify.com/track/3XikEye0OgF9rJ4BSCtLp1) | [Rob & Chris](https://open.spotify.com/artist/4TpbEVsX4U0Cs9QhhI2JyG), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [The Night \(Hardstyle Mix\)](https://open.spotify.com/album/7foUHVIJy7YFBDP1OFskL1) | 2:28 | 2022-10-28 | 2024-02-08 |
 | [The Rave Dome](https://open.spotify.com/track/4Srdf7olznuLK2qC67Zjbp) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [The Rave Dome](https://open.spotify.com/album/2NNtdRHLtQSRJSIDySbTnS) | 3:25 | 2023-01-27 |  |
 | [The Reawakening \(Qlimax 2021 Anthem\)](https://open.spotify.com/track/1B2FQ2tntp1udaUuHd5XUB) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [The Reawakening \(Qlimax 2021 Anthem\)](https://open.spotify.com/album/55K2df6HQPTMQUkQfum7ET) | 5:33 | 2021-12-16 | 2023-06-02 |
 | [The Remedy](https://open.spotify.com/track/31q4Bx8xOt4bdSHZnV7kvF) | [D\-Charged](https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy), [John Harris](https://open.spotify.com/artist/1pDBb4n20yenVKIfmchhQC) | [Remedy](https://open.spotify.com/album/08Avi9VPyYA3rw9h1k8Cdy) | 2:33 | 2021-12-16 | 2023-06-13 |

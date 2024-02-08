@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,435 likes - 301 songs - 16 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,436 likes - 301 songs - 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,8 +174,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 164 | [Make It Hard To Love You](https://open.spotify.com/track/0cJ19SMVX83SJnNfIjmX8c) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:19 |
 | 165 | [I Could Always \(feat\. MNDR\)](https://open.spotify.com/track/2gQMLUE0Bf5ha89MHF7q9L) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [I Could Always \(feat\. MNDR\)](https://open.spotify.com/album/4GcfT4lV2LivWd0gqaWEWH) | 3:54 |
 | 166 | [3 of Us](https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 2:56 |
-| 167 | [Air & Water](https://open.spotify.com/track/6nIr8PlC1VxsiZL3hdYwRO) | [NAATIONS](https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f) | [Teardrop](https://open.spotify.com/album/5PJAP7jSfCQhKdGsMzDzCK) | 3:03 |
-| 168 | [Feel It Deep Inside](https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Feel It Deep Inside](https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG) | 2:33 |
+| 167 | [Feel It Deep Inside](https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Feel It Deep Inside](https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG) | 2:33 |
+| 168 | [Air & Water](https://open.spotify.com/track/6nIr8PlC1VxsiZL3hdYwRO) | [NAATIONS](https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f) | [Teardrop](https://open.spotify.com/album/5PJAP7jSfCQhKdGsMzDzCK) | 3:03 |
 | 169 | [Run for Cover](https://open.spotify.com/track/5egoSCaZ61vo3qgkiRQyNw) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [One Touch](https://open.spotify.com/album/5AD98s5Pm4PfDlVx9fDPa2) | 3:47 |
 | 170 | [Love Divine](https://open.spotify.com/track/0MJSzqM7qt4ImICjuhXqNe) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Love Divine](https://open.spotify.com/album/5YFotMhIQuhQqoxzS2qhnu) | 4:41 |
 | 171 | [Oh The Glamour](https://open.spotify.com/track/12bjMLgcc4vtwAQZd0byLL) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 3:21 |
@@ -277,11 +277,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 267 | [Heartbreaker](https://open.spotify.com/track/73DLxK3dXVqy37MZcIY3zP) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Heartbreaker](https://open.spotify.com/album/72C7xboUSQLQAJgILsuYXN) | 3:28 |
 | 268 | [Is It Wrong \- Main Mix](https://open.spotify.com/track/2myKcFWoAgze1hHO6QOQb1) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Is It Wrong](https://open.spotify.com/album/14tRqV2OKEE7HJSF1uH5N1) | 5:19 |
 | 269 | [Simulation](https://open.spotify.com/track/1nWVz4QTSIMYcdkUvllivw) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Modern Warfare \(EPs 1\-3\)](https://open.spotify.com/album/3xJIXGonvx4OfwZ8Rsbmzt) | 5:39 |
-| 270 | [Blinded by Your Grace, Pt\. 2](https://open.spotify.com/track/7hEGqdsqOgWTJ7PoESju4A) | [Rap Game](https://open.spotify.com/artist/3lZvE3KGexDe47RbK63aEK) | [Today's Hip\-Hop Radio Hits](https://open.spotify.com/album/04McrN5S0m8xeCs3NvZwtC) | 3:51 |
-| 271 | [True](https://open.spotify.com/track/6cfjl8xNdsiezl3Pq4f7sg) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP) | [True](https://open.spotify.com/album/1qcpuMHOqLXA1yitavP0xI) | 2:48 |
-| 272 | [Melody Of Us](https://open.spotify.com/track/7zZyFYpFPn0PZvKqVgm6YT) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Boombox Eternal: Halcyon Deluxe Edition](https://open.spotify.com/album/0hcLDyv4BKi3IlRXusqxzT) | 3:47 |
-| 273 | [Stronger Stuff](https://open.spotify.com/track/0Tqb9tHAdN6RI26zIqP4V6) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 4:34 |
-| 274 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [Tyler Lewis](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
+| 270 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [Tyler Lewis](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
+| 271 | [Blinded by Your Grace, Pt\. 2](https://open.spotify.com/track/7hEGqdsqOgWTJ7PoESju4A) | [Rap Game](https://open.spotify.com/artist/3lZvE3KGexDe47RbK63aEK) | [Today's Hip\-Hop Radio Hits](https://open.spotify.com/album/04McrN5S0m8xeCs3NvZwtC) | 3:51 |
+| 272 | [True](https://open.spotify.com/track/6cfjl8xNdsiezl3Pq4f7sg) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP) | [True](https://open.spotify.com/album/1qcpuMHOqLXA1yitavP0xI) | 2:48 |
+| 273 | [Melody Of Us](https://open.spotify.com/track/7zZyFYpFPn0PZvKqVgm6YT) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Boombox Eternal: Halcyon Deluxe Edition](https://open.spotify.com/album/0hcLDyv4BKi3IlRXusqxzT) | 3:47 |
+| 274 | [Stronger Stuff](https://open.spotify.com/track/0Tqb9tHAdN6RI26zIqP4V6) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 4:34 |
 | 275 | [Night Vision](https://open.spotify.com/track/6vNBZ5YbsjlU47pRZr3t5W) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [DRUGBLVD](https://open.spotify.com/album/0Gr0tGMSldWueHkNMQRlax) | 3:50 |
 | 276 | [qandeel baloch](https://open.spotify.com/track/2XgqX1xMB5tFqWlLTvFQJi) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [The Edge](https://open.spotify.com/album/1nqf27BW5Sxt6QCr6NttWL) | 2:54 |
 | 277 | [Bridges](https://open.spotify.com/track/6pXgxqdDjuo6RtDcLqxtKl) | [Aminata](https://open.spotify.com/artist/1GrxsGX8vHCsX1SDu5j8D3) | [Red Moon](https://open.spotify.com/album/05CtIbweSG8DSCR2Rucvbc) | 3:40 |
@@ -310,4 +310,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 300 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 | 301 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 
-Snapshot ID: `Mjg0NTQ1MzAsMDAwMDAwMDA1ZWQ0YTdjOTRiZmJkZjVhNjZhNzMwNzM4ZjMxOWMwMw==`
+Snapshot ID: `Mjg0NTU5NzAsMDAwMDAwMDAzYzBjMzUxYjJiY2EyNjlmMjE2NjIyZTVkYWIwYzA1ZQ==`

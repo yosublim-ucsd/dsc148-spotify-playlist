@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 1134755,
+  "2024-02-08": 1134920,
   "date_first_scraped": "2019-07-30",
   "description": "congrats to the boys! cover: boygenius, taylor swift, jack antonoff",
   "name": "Lorem",
@@ -10771,6 +10771,24 @@
       "duration_ms": 254693,
       "name": "Dice",
       "url": "https://open.spotify.com/track/2NxR8uqQ4AMV8lk09xfqFV"
+    },
+    {
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285050,
+      "name": "Did you know that there's a tunnel under Ocean Blvd",
+      "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Matteo Romano
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,407 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,385 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 49 | [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 |
 | 50 | [Ancora](https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Ancora](https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6) | 2:51 |
 
-Snapshot ID: `MCw4Yjk2NDA3MWQ2OTBjNWIwMDQzZTcyMGZjZTlhYTQ3ZDFmNzY4MGNi`
+Snapshot ID: `MCw1NGY1N2U1YTMyOGIwZTUyZGE0ZDY3NjA5MjJkYWI0YWI3NTUyYmI1`

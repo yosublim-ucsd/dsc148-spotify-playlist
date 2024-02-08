@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 76123,
+  "num_followers": 76145,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDAxYjU0ZGQwMDU4NDk2YzAzMmY5MmZkZGRiNzY3ZDFiMjViOGMw",
+  "snapshot_id": "MCxiYmRlZTA4OThlZTBjZDUzYTVlNDFmZDEyYzFkZTI0Zjg0ZmJhODU3",
   "tracks": [
     {
       "added_at": "2024-01-16 15:20:50",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-01-16 15:20:50",
       "album": {
-        "name": "Face Your Fear",
-        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "Need Your Love",
-      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
-    },
-    {
-      "added_at": "2024-01-16 15:20:50",
-      "album": {
         "name": "Maxwell's Urban Hang Suite",
         "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 257670,
       "name": "Sumthin' Sumthin' - Remastered 2021",
       "url": "https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u"
+    },
+    {
+      "added_at": "2024-01-16 15:20:50",
+      "album": {
+        "name": "Face Your Fear",
+        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
     },
     {
       "added_at": "2024-01-16 15:20:50",
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-01-16 15:20:50",
       "album": {
-        "name": "The Crossing",
-        "url": "https://open.spotify.com/album/1w7lmZQuLm9AXIWoLD7Qbt"
+        "name": "Special Night",
+        "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
       },
       "artists": [
         {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Every Day a Dream",
-      "url": "https://open.spotify.com/track/5NBpmO0VbAQYjXXCZ2QYLd"
+      "duration_ms": 265003,
+      "name": "Never Be Another You",
+      "url": "https://open.spotify.com/track/25z7NYgTEt6MiA5qExNSH2"
     },
     {
       "added_at": "2024-01-16 15:20:50",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-01-16 15:20:50",
       "album": {
+        "name": "The Crossing",
+        "url": "https://open.spotify.com/album/1w7lmZQuLm9AXIWoLD7Qbt"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Every Day a Dream",
+      "url": "https://open.spotify.com/track/5NBpmO0VbAQYjXXCZ2QYLd"
+    },
+    {
+      "added_at": "2024-01-16 15:20:50",
+      "album": {
         "name": "Now",
         "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 329400,
       "name": "Lifetime - Remastered 2021",
       "url": "https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp"
-    },
-    {
-      "added_at": "2024-01-16 15:20:50",
-      "album": {
-        "name": "Special Night",
-        "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        }
-      ],
-      "duration_ms": 265003,
-      "name": "Never Be Another You",
-      "url": "https://open.spotify.com/track/25z7NYgTEt6MiA5qExNSH2"
     },
     {
       "added_at": "2024-01-16 15:20:50",
@@ -443,6 +443,26 @@
     {
       "added_at": "2024-01-16 15:20:50",
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 257386,
+      "name": "Ladies",
+      "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
+    },
+    {
+      "added_at": "2024-01-16 15:20:50",
+      "album": {
         "name": "Avery*sunshine Album",
         "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 127587,
       "name": "Snakes",
       "url": "https://open.spotify.com/track/0QgZ2k778hWtS5W1ohVKNF"
-    },
-    {
-      "added_at": "2024-01-16 15:20:50",
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 257386,
-      "name": "Ladies",
-      "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
     },
     {
       "added_at": "2024-01-16 15:20:50",
@@ -603,6 +603,26 @@
     {
       "added_at": "2024-01-16 15:20:50",
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Honey Dove",
+      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
+    },
+    {
+      "added_at": "2024-01-16 15:20:50",
+      "album": {
         "name": "Young Sick Camellia",
         "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 273893,
       "name": "Cornbread, Fish & Collard Greens",
       "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
-    },
-    {
-      "added_at": "2024-01-16 15:20:50",
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Honey Dove",
-      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
     },
     {
       "added_at": "2024-01-16 15:20:50",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-01-16 15:20:50",
       "album": {
-        "name": "A Weird Kinda Wonderful",
-        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
-      },
-      "artists": [
-        {
-          "name": "N'Dambi",
-          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
-        }
-      ],
-      "duration_ms": 311453,
-      "name": "Can't Change Me",
-      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
-    },
-    {
-      "added_at": "2024-01-16 15:20:50",
-      "album": {
         "name": "The Way I Feel",
         "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 301960,
       "name": "The Way I Feel",
       "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
+    },
+    {
+      "added_at": "2024-01-16 15:20:50",
+      "album": {
+        "name": "A Weird Kinda Wonderful",
+        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
+      },
+      "artists": [
+        {
+          "name": "N'Dambi",
+          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+        }
+      ],
+      "duration_ms": 311453,
+      "name": "Can't Change Me",
+      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
     },
     {
       "added_at": "2024-01-16 15:20:50",
@@ -1179,22 +1179,18 @@
     {
       "added_at": "2024-01-16 15:20:50",
       "album": {
-        "name": "Bless My Soul",
-        "url": "https://open.spotify.com/album/1rI2tm2skLmDF8Gmj4vjoN"
+        "name": "Rahsaan Patterson",
+        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
       },
       "artists": [
         {
-          "name": "Shawn Lee",
-          "url": "https://open.spotify.com/artist/47tCcKYrErv1FGvFCgGX8E"
-        },
-        {
-          "name": "Angels Of Libra",
-          "url": "https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL"
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
         }
       ],
-      "duration_ms": 226290,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/0DIcHQUp4f9j4Gym2Kn8nm"
+      "duration_ms": 354093,
+      "name": "Stop By",
+      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
     },
     {
       "added_at": "2024-01-16 15:20:50",
@@ -1215,18 +1211,22 @@
     {
       "added_at": "2024-01-16 15:20:50",
       "album": {
-        "name": "Rahsaan Patterson",
-        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
+        "name": "Bless My Soul",
+        "url": "https://open.spotify.com/album/1rI2tm2skLmDF8Gmj4vjoN"
       },
       "artists": [
         {
-          "name": "Rahsaan Patterson",
-          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+          "name": "Shawn Lee",
+          "url": "https://open.spotify.com/artist/47tCcKYrErv1FGvFCgGX8E"
+        },
+        {
+          "name": "Angels Of Libra",
+          "url": "https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL"
         }
       ],
-      "duration_ms": 354093,
-      "name": "Stop By",
-      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
+      "duration_ms": 226290,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/0DIcHQUp4f9j4Gym2Kn8nm"
     },
     {
       "added_at": "2024-01-16 15:20:50",

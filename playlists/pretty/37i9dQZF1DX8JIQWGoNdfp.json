@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 39549,
+  "num_followers": 39597,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmRkNTVlY2ZmYTcxMmE4ZjExMGJkOTUwOWM3ZTJjZDA3NDU3NDVl",
+  "snapshot_id": "MCw0YTgzN2Y0ZWI2NDRmODhlNzAyMGFkZjU2YzhhMzM5ZjFiMjRmNTA0",
   "tracks": [
     {
       "added_at": "2022-10-02 01:51:23",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Where I Wanna Be",
-        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
-      },
-      "artists": [
-        {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
-        }
-      ],
-      "duration_ms": 253626,
-      "name": "Where I Wanna Be",
-      "url": "https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
         "name": "Ready (Deluxe)",
         "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
       },
@@ -611,18 +595,34 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "ELDORADO",
-        "url": "https://open.spotify.com/album/1SXqTsVnjtIULG5YKXafeY"
+        "name": "Where I Wanna Be",
+        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
       },
       "artists": [
         {
-          "name": "Ro James",
-          "url": "https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y"
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
         }
       ],
-      "duration_ms": 281511,
-      "name": "Permission",
-      "url": "https://open.spotify.com/track/3gx6E5B42WHKf5agVWQAf2"
+      "duration_ms": 253626,
+      "name": "Where I Wanna Be",
+      "url": "https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "Enter The Dru",
+        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
+      },
+      "artists": [
+        {
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+        }
+      ],
+      "duration_ms": 272560,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -647,18 +647,18 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Enter The Dru",
-        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
+        "name": "ELDORADO",
+        "url": "https://open.spotify.com/album/1SXqTsVnjtIULG5YKXafeY"
       },
       "artists": [
         {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+          "name": "Ro James",
+          "url": "https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y"
         }
       ],
-      "duration_ms": 272560,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb"
+      "duration_ms": 281511,
+      "name": "Permission",
+      "url": "https://open.spotify.com/track/3gx6E5B42WHKf5agVWQAf2"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Tyrese",
-        "url": "https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA"
+        "name": "Enter The Dru",
+        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
       },
       "artists": [
         {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
         }
       ],
-      "duration_ms": 266533,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/0XmTCQWHgf6dOXJeLjXrzr"
+      "duration_ms": 248400,
+      "name": "These Are The Times",
+      "url": "https://open.spotify.com/track/0OMmiWMwsCNtpQ5aP6fdp9"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
+        "name": "Tyrese",
+        "url": "https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        }
+      ],
+      "duration_ms": 266533,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/0XmTCQWHgf6dOXJeLjXrzr"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
         "name": "Rome",
         "url": "https://open.spotify.com/album/4ol8aChmHBMIL85LzG10ja"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 273266,
       "name": "I Belong To You (Every Time I See Your Face)",
       "url": "https://open.spotify.com/track/1nP6feYWJVpbO41aezFtm2"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
-        "name": "Enter The Dru",
-        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
-      },
-      "artists": [
-        {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "These Are The Times",
-      "url": "https://open.spotify.com/track/0OMmiWMwsCNtpQ5aP6fdp9"
     },
     {
       "added_at": "2022-10-02 01:51:23",

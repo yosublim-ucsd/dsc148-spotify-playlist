@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Samia
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,002 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,016 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 39 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/30v4EAWXc18jR8INUfl5yI) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Bullseye](https://open.spotify.com/album/1f585VlbySthBbsx1iM9vA) | 3:24 |
 | 40 | [To Me](https://open.spotify.com/track/17WkY7lZXdLBvoY7c6xrtu) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 3:57 |
 | 41 | [damn](https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 4:21 |
-| 42 | [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 |
-| 43 | [Cathedral](https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 2:50 |
+| 42 | [Cathedral](https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 2:50 |
+| 43 | [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 |
 | 44 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 |
 | 45 | [untitled](https://open.spotify.com/track/4foKnVvnAHmQYbONUcbgkK) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [untitled](https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT) | 3:45 |
 | 46 | [Body](https://open.spotify.com/track/2l7JlYeniNFfIzfj3dOUjb) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:07 |
-| 47 | [Places/Plans](https://open.spotify.com/track/4FAuCkNkIlQnqfZiu60xd6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Skullcrusher](https://open.spotify.com/album/5pUNogl9gZPjnSkpfT8jxu) | 3:03 |
-| 48 | [Horizon](https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 4:09 |
+| 47 | [Horizon](https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 4:09 |
+| 48 | [Places/Plans](https://open.spotify.com/track/4FAuCkNkIlQnqfZiu60xd6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Skullcrusher](https://open.spotify.com/album/5pUNogl9gZPjnSkpfT8jxu) | 3:03 |
 | 49 | [Tarifa](https://open.spotify.com/track/5rm0BXilbprpZiBFFJgiFu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:50 |
 | 50 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 |
 | 51 | [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 |
@@ -76,25 +76,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 66 | [Mortals](https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 3:08 |
 | 67 | [The King of All Birds](https://open.spotify.com/track/6wEIUQhm6COBznfUTRGR1n) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour](https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe) | 3:56 |
 | 68 | [Buzz](https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 4:21 |
-| 69 | [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 |
-| 70 | [Shower Song](https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Shower Song](https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke) | 2:47 |
-| 71 | [Love More](https://open.spotify.com/track/6wleKOJoHGaOPtJJWvJes6) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Love More](https://open.spotify.com/album/6CKCSM8cVK7JfKYptn3FU4) | 4:32 |
+| 69 | [Shower Song](https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Shower Song](https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke) | 2:47 |
+| 70 | [Love More](https://open.spotify.com/track/6wleKOJoHGaOPtJJWvJes6) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Love More](https://open.spotify.com/album/6CKCSM8cVK7JfKYptn3FU4) | 4:32 |
+| 71 | [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 |
 | 72 | [Garden of Eden](https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx) | 3:19 |
 | 73 | [Capable](https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 4:17 |
-| 74 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 |
-| 75 | [Drown](https://open.spotify.com/track/1fw7XQl4AGxM8ppPAR6y2i) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [We Slept at Last](https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz) | 3:51 |
-| 76 | [Sprinter](https://open.spotify.com/track/0Z68g80dKNa2Nrpa4Ir5yw) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sprinter](https://open.spotify.com/album/1wxCJeQNOoNiZmaN6Ma4js) | 4:44 |
+| 74 | [Sprinter](https://open.spotify.com/track/0Z68g80dKNa2Nrpa4Ir5yw) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sprinter](https://open.spotify.com/album/1wxCJeQNOoNiZmaN6Ma4js) | 4:44 |
+| 75 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 |
+| 76 | [Drown](https://open.spotify.com/track/1fw7XQl4AGxM8ppPAR6y2i) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [We Slept at Last](https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz) | 3:51 |
 | 77 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
 | 78 | [The Hardest Part](https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3) | 4:20 |
 | 79 | [Someone New](https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:49 |
 | 80 | [Maybe](https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 4:30 |
 | 81 | [Lincoln, Nebraska](https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Lincoln, Nebraska](https://open.spotify.com/album/7i0yanefGAo38sxISoem4B) | 2:23 |
 | 82 | [Pictures of Flowers](https://open.spotify.com/track/33u3HQgpjtsdP6nDR5SKtf) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9), [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Pictures of Flowers](https://open.spotify.com/album/0e68piRWBeQPkDomRltnvf) | 4:20 |
-| 83 | [Boxing Day Blues](https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:02 |
-| 84 | [I’ll Go Running](https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet \(i\)](https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx) | 3:56 |
-| 85 | [Pressing Down](https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0) | 3:59 |
-| 86 | [More Than You Know \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/05ONwzNSWzywHG4wRT8V7o) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Spotify Singles](https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o) | 3:40 |
-| 87 | [Kitchen Table](https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Kitchen Table](https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0) | 3:28 |
+| 83 | [I’ll Go Running](https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet \(i\)](https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx) | 3:56 |
+| 84 | [Boxing Day Blues](https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:02 |
+| 85 | [More Than You Know \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/05ONwzNSWzywHG4wRT8V7o) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Spotify Singles](https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o) | 3:40 |
+| 86 | [Kitchen Table](https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Kitchen Table](https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0) | 3:28 |
+| 87 | [Pressing Down](https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0) | 3:59 |
 | 88 | [Friends with Feelings](https://open.spotify.com/track/6fjLHqumARq82yruyMNE1m) | [Alice Skye](https://open.spotify.com/artist/0vi9khHSAwMRQx1R65dIFR) | [Friends With Feelings](https://open.spotify.com/album/62pNDsP5spxImRyDVaaKmo) | 4:15 |
 | 89 | [Fear & Force](https://open.spotify.com/track/18HVJpGSp8imRBOSj4RP8J) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Infinite Worlds](https://open.spotify.com/album/45zSvzvSNt1TdTrGKEXwk7) | 3:33 |
 | 90 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 99 | [Turn To Dust](https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h) | 3:07 |
 | 100 | [I Don't Want to Let You Down](https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Don't Want To Let You Down b/w All Over Again](https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9) | 4:02 |
 
-Snapshot ID: `MCw1YTViMzBiMGNiNmU0NmFjOGU5NmQzNzRjYjg5NTkyYmU1ZDdkNTMx`
+Snapshot ID: `MCxkM2U5NmIwZjVmNThmNDVlODAwMzE4MjE1NGQyZGYxOTg0MGRmNGEy`

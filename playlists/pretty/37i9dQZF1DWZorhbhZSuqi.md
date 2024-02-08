@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 
 > Leave room in your garden for fairies to dance 🍀🧚🏼‍♀️✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,188 likes - 77 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,197 likes - 77 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
 | 2 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
 | 3 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
-| 4 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
-| 5 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 |
+| 4 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 |
+| 5 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 6 | [Mrs Magic](https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO) | 3:28 |
 | 7 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 |
 | 8 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 37 | [Teenage Blue](https://open.spotify.com/track/6oWXWkwHKREYlBNuBCitFP) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR) | [Illuminaughty](https://open.spotify.com/album/6KiGqzmBh6yV7QOwFjA1sk) | 3:54 |
 | 38 | [Medicine](https://open.spotify.com/track/1ujiHGg5p9SVrNIV4jumQK) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Wild Youth](https://open.spotify.com/album/6BxQ7IyCBbx4CeB7BHQwet) | 4:18 |
 | 39 | [Velvet Ring \- 2023 Remaster](https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 2:35 |
-| 40 | [Sugar for the Pill](https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 4:30 |
-| 41 | [Into Dust](https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 5:36 |
+| 40 | [Into Dust](https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 5:36 |
+| 41 | [Sugar for the Pill](https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 4:30 |
 | 42 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 |
 | 43 | [Love Songs on the Radio](https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Ask Me Tomorrow](https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy) | 5:48 |
 | 44 | [Part III](https://open.spotify.com/track/49ztutPq82dK8AYDO2OkN7) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 3:42 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 72 | [Falling](https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5) | [Julee Cruise](https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX) | [Floating Into The Night](https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx) | 5:21 |
 | 73 | [Hey, Who Really Cares](https://open.spotify.com/track/1EY7zEIE32twYy7zL05WG2) | [Linda Perhacs](https://open.spotify.com/artist/1giPBWN0VDXGhXEIROGhvM) | [Parallelograms](https://open.spotify.com/album/53cxrg7kbFQxDizY0kcDQo) | 2:37 |
 | 74 | [Dust It Off](https://open.spotify.com/track/34eeJ4JoXWqe6wmOHmgsCe) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Both Ways Open Jaws](https://open.spotify.com/album/49MmHVGK4koPoJYz64Roja) | 3:42 |
-| 75 | [Suzanne](https://open.spotify.com/track/0K9iwmos5IKhO7kK4sQJwl) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5) | [Bavarian Fruit Bread](https://open.spotify.com/album/7JAh6mfXLsGojvj9a4fnDT) | 4:51 |
-| 76 | [Exquisite Tension](https://open.spotify.com/track/4lt7DuGYXo9M1LcEJ5KrQx) | [You'll Never Get to Heaven](https://open.spotify.com/artist/1tHzhv6nGl2i5ZaSSFiwK7) | [Images](https://open.spotify.com/album/6HUVECqJdGEo4xJ8LIeES6) | 4:08 |
+| 75 | [Exquisite Tension](https://open.spotify.com/track/4lt7DuGYXo9M1LcEJ5KrQx) | [You'll Never Get to Heaven](https://open.spotify.com/artist/1tHzhv6nGl2i5ZaSSFiwK7) | [Images](https://open.spotify.com/album/6HUVECqJdGEo4xJ8LIeES6) | 4:08 |
+| 76 | [Suzanne](https://open.spotify.com/track/0K9iwmos5IKhO7kK4sQJwl) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5) | [Bavarian Fruit Bread](https://open.spotify.com/album/7JAh6mfXLsGojvj9a4fnDT) | 4:51 |
 | 77 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 |
 
-Snapshot ID: `MCw4NGE1NzU2ZDcxZWFjNjZmZmMwMTA5M2M5NjlhZjZmMmJjMjg3Njg3`
+Snapshot ID: `MCw5ZGUwODU0ODgyMjYxYWMwMzI4ODc1ZTVhNjIzODU1ZGQ4ZDU3ODhi`

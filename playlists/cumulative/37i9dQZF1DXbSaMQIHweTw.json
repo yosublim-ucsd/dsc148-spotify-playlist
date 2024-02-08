@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- Emiway Bantai",
+  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- Gravity",
   "name": "Bambai Bantai",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 133714,
       "name": "#NoBakshis",
       "url": "https://open.spotify.com/track/0nFIjLWAyKA6D7T4Ju15hO"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 188181,
       "name": "Bombay Coast",
       "url": "https://open.spotify.com/track/6UPH8T6KYQUWmH2521KkKQ"
@@ -1445,6 +1445,32 @@
     },
     {
       "album": {
+        "name": "Moonbounce",
+        "url": "https://open.spotify.com/album/4RkBTTmG4mTKnjftCS48wQ"
+      },
+      "artists": [
+        {
+          "name": "Gravity",
+          "url": "https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO"
+        },
+        {
+          "name": "Maanuni",
+          "url": "https://open.spotify.com/artist/0RAKDApsLaVDbTPbtlLReP"
+        },
+        {
+          "name": "Outfly",
+          "url": "https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254018,
+      "name": "Laapata",
+      "url": "https://open.spotify.com/track/0LMteNwmU1fqJMFiCYHpSi"
+    },
+    {
+      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/2lSxd5dINxP236AoTy7pFB"
       },
@@ -1456,7 +1482,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 169417,
       "name": "Legends",
       "url": "https://open.spotify.com/track/3ff1F1oyKL8FPYJ7cyyefn"
@@ -1588,6 +1614,28 @@
       "duration_ms": 272666,
       "name": "Mazze Me",
       "url": "https://open.spotify.com/track/3K08GyP1TOm2Cl8uiXdKEJ"
+    },
+    {
+      "album": {
+        "name": "Moonbounce",
+        "url": "https://open.spotify.com/album/4RkBTTmG4mTKnjftCS48wQ"
+      },
+      "artists": [
+        {
+          "name": "Gravity",
+          "url": "https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO"
+        },
+        {
+          "name": "Outfly",
+          "url": "https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Mehfooz",
+      "url": "https://open.spotify.com/track/0ojrz3vVgmge8bGjnzZf5q"
     },
     {
       "album": {
@@ -1854,6 +1902,32 @@
       "duration_ms": 180558,
       "name": "Punya Paap",
       "url": "https://open.spotify.com/track/3zIhQR5cyxpVn8WpEivBCr"
+    },
+    {
+      "album": {
+        "name": "Moonbounce",
+        "url": "https://open.spotify.com/album/4RkBTTmG4mTKnjftCS48wQ"
+      },
+      "artists": [
+        {
+          "name": "Gravity",
+          "url": "https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO"
+        },
+        {
+          "name": "Tsumyoki",
+          "url": "https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X"
+        },
+        {
+          "name": "Outfly",
+          "url": "https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231882,
+      "name": "Raaton Mein",
+      "url": "https://open.spotify.com/track/3v1Tzvk4OcbhQbRMHozwJQ"
     },
     {
       "album": {

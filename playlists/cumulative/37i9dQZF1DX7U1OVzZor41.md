@@ -4,7 +4,7 @@
 
 > 在KTV里，这些都是必点必唱的华语K歌。你准备好了吗？
 
-54 songs - 3 hr 53 min
+55 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,11 +40,12 @@
 | [就让这大雨全都落下](https://open.spotify.com/track/0J3GWS0Bv6I1reM1J69UBM) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [就让这大雨全都落下](https://open.spotify.com/album/3EXDubkvw4VIoIUJIWcO3v) | 4:14 | 2023-11-27 | 2024-02-06 |
 | [年少有為](https://open.spotify.com/track/6XY80Ofqd8j0SGiEdRLwCp) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [耳朵](https://open.spotify.com/album/0EcIAelkxuOa5hc3XvxyXy) | 4:39 | 2023-11-27 |  |
 | [幸福还好 \- 电视剧《诈骗女皇》插曲](https://open.spotify.com/track/5c3dkrfYLdmTIY3ZQxVYbO) | [Soo Wincci](https://open.spotify.com/artist/4e4wVXnFUIJ5EbcW9GtL2n) | [幸福还好 \(电视剧《诈骗女皇》插曲\)](https://open.spotify.com/album/2IlyPTydzgAZa5YEfGA7EX) | 4:38 | 2023-11-27 |  |
-| [幾分之幾 \- 電影<花甲大人轉男孩>主題曲](https://open.spotify.com/track/4F7ZAsndEIJXyFzJUHNlRu) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [幾分之幾](https://open.spotify.com/album/2yBLZVs24cFju6t8Jrnpbx) | 3:48 | 2023-11-27 |  |
+| [幾分之幾 \- 電影<花甲大人轉男孩>主題曲](https://open.spotify.com/track/4F7ZAsndEIJXyFzJUHNlRu) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [幾分之幾](https://open.spotify.com/album/2yBLZVs24cFju6t8Jrnpbx) | 3:48 | 2023-11-27 | 2024-02-08 |
 | [後來的我們](https://open.spotify.com/track/13AruKdh8wJhWx6i5dV8X1) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [自傳](https://open.spotify.com/album/4hg4cR8QMbE0xuvoxoA6DX) | 5:46 | 2023-11-27 |  |
 | [想和你看五月的晚霞](https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [華與浪漫](https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT) | 3:53 | 2023-11-27 |  |
 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 | 2023-11-27 |  |
 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 | 2023-11-27 |  |
+| [我們的愛](https://open.spotify.com/track/0Q4YuuiCuxIIKUw2fb1cmV) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [飛兒樂團](https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ) | 4:47 | 2023-11-27 |  |
 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 | 2023-11-27 | 2024-02-01 |
 | [披星戴月的想你](https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 5:49 | 2023-11-27 |  |
 | [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 | 2023-11-27 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-516 songs - 1 day 11 hr 51 min
+517 songs - 1 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Body to Body, Heart to Heart](https://open.spotify.com/track/4DKnzfWjpSw77g9hW82qXx) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Living Proof](https://open.spotify.com/album/6wObbsRHMxZIo06tP3hYTa) | 3:58 | 2023-12-30 |  |
 | [Born To Be Somebody](https://open.spotify.com/track/1gWnUzwTMhOv4cWyj1CDxB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Never Say Never \- The Remixes](https://open.spotify.com/album/0wZJCeyfJ0LVrrtH4CwQYw) | 3:01 | 2023-12-30 |  |
 | [Borrowed Angels](https://open.spotify.com/track/4uaQpLvejMjjW5ve8JbAXl) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Some Lessons Learned](https://open.spotify.com/album/563p0cCXffZYFVHOYRFLK5) | 4:03 | 2023-12-30 |  |
-| [Breaking Apart](https://open.spotify.com/track/14aZVUdU6Sc99zdoPAyDjI) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Mr Lucky](https://open.spotify.com/album/5OXW97GdGWTMUlFEF94yss) | 3:38 | 2023-12-30 |  |
+| [Breaking Apart](https://open.spotify.com/track/14aZVUdU6Sc99zdoPAyDjI) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Mr Lucky](https://open.spotify.com/album/5OXW97GdGWTMUlFEF94yss) | 3:38 | 2023-12-30 | 2024-02-08 |
+| [Breaking Apart](https://open.spotify.com/track/2ULBctUchzxFohl7MIcpiT) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Mr\. Lucky](https://open.spotify.com/album/1TNJ50y0CNOrsMTzEsYzyc) | 3:39 | 2024-02-07 |  |
 | [Breaking Out](https://open.spotify.com/track/0uLJIlGqtpEWhJ5xS7zSfO) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 3:44 | 2023-12-30 |  |
 | [Bruised But Not Broken](https://open.spotify.com/track/5mxBzblbenmVm7C6wh5ulc) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Introducing Joss Stone](https://open.spotify.com/album/3VD9HPEpnbbNMIg05avkIk) | 4:15 | 2023-12-30 |  |
 | [But I Do Love You](https://open.spotify.com/track/7f5Yo7nWDgydP4tTewGCBR) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:21 | 2023-12-30 |  |

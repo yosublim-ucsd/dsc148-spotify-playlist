@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8L1VmOcEBjS.md) - [plain]
 
 > Our editors' picks for the best Latin songs of the year! \#SpotifyWrapped Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,680 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,043 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8L1VmOcEBjS.md) - [plain]
 | 49 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 |
 | 50 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 |
 
-Snapshot ID: `MCwxYjQxMzQ4N2VkMmMyZTViZjU5NTg0Yzc2NzE1Mjk3YzY0YmUxOWEx`
+Snapshot ID: `MCwyZjJlOTdkOGVmYmMzOTA5ZTMyZDQ2OGM3ZjMyMGZiZmY5MmVhMjNl`

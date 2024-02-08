@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: J\u00f3sean Log",
-  "num_followers": null,
+  "num_followers": 493736,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzE1ZjkyYWE0NjMyZWM4N2NhZWU4NzhmNWZiNGY1MTliNzM4NWI3",
+  "snapshot_id": "MCxkYjI2MjY4OGY5MTY5MDhjMTMyYTJjODYyMjQwYTZmODEwMDcwYjJj",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -439,22 +439,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "DIAMANTE",
-        "url": "https://open.spotify.com/album/7pFnghxBLJx78ZDRUSkEYy"
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
       },
       "artists": [
         {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
         }
       ],
-      "duration_ms": 175175,
-      "name": "DIAMANTE",
-      "url": "https://open.spotify.com/track/5HZH0Rbz2mRnqgBkBeTsOf"
+      "duration_ms": 203112,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -479,18 +475,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/7pFnghxBLJx78ZDRUSkEYy"
       },
       "artists": [
         {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 203112,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
+      "duration_ms": 175175,
+      "name": "DIAMANTE",
+      "url": "https://open.spotify.com/track/5HZH0Rbz2mRnqgBkBeTsOf"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "NO HAY SE\u00d1AL",
-        "url": "https://open.spotify.com/album/35LB7HQ4RWhvJnRdq8Coph"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 161392,
-      "name": "NO HAY SE\u00d1AL",
-      "url": "https://open.spotify.com/track/7MhNUNjHVMjCK4kzY610Iu"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Tuyo",
         "url": "https://open.spotify.com/album/1Sv7uosU6z24BvsEm5AG7g"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
-        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
+        "name": "NO HAY SE\u00d1AL",
+        "url": "https://open.spotify.com/album/35LB7HQ4RWhvJnRdq8Coph"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
         }
       ],
-      "duration_ms": 154070,
-      "name": "Eutanasia",
-      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
+      "duration_ms": 161392,
+      "name": "NO HAY SE\u00d1AL",
+      "url": "https://open.spotify.com/track/7MhNUNjHVMjCK4kzY610Iu"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -731,6 +715,22 @@
       "duration_ms": 154500,
       "name": "D\u00f3nde Tu Est\u00e1s",
       "url": "https://open.spotify.com/track/2evmjqcUcR6nRWjfz7GjWU"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
+        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 154070,
+      "name": "Eutanasia",
+      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "NO ME QUIERO PEGAR",
-        "url": "https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 142349,
-      "name": "NO ME QUIERO PEGAR",
-      "url": "https://open.spotify.com/track/2qr5SkLknb2hb9M94PZF1i"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Silvia",
         "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 153139,
       "name": "Silvia",
       "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "NO ME QUIERO PEGAR",
+        "url": "https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 142349,
+      "name": "NO ME QUIERO PEGAR",
+      "url": "https://open.spotify.com/track/2qr5SkLknb2hb9M94PZF1i"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "road 2 neverland",
-        "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "falco",
-      "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Historia de un Amor",
         "url": "https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "road 2 neverland",
+        "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "falco",
+      "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "SIN MIRAR (feat. CLUBZ)",
         "url": "https://open.spotify.com/album/0kgmX1KIPiZBBa16LhYZJM"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 257000,
       "name": "SIN MIRAR (feat. CLUBZ)",
       "url": "https://open.spotify.com/track/0xdYSnHZ8nYLxk6Cf72ZbV"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Hablando a tu coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 239500,
+      "name": "Hablando a tu coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -923,38 +939,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Solo Tu",
-        "url": "https://open.spotify.com/album/4monLmhJWVVByxBhjPQQR7"
-      },
-      "artists": [
-        {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Solo Tu",
-      "url": "https://open.spotify.com/track/4Ns54Yvhv4xfOMLAYRLkVE"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Jugo de Guayaba",
-        "url": "https://open.spotify.com/album/5wGmJjNKp3kuxlGwKN10Iw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        }
-      ],
-      "duration_ms": 176913,
-      "name": "Jugo de Guayaba",
-      "url": "https://open.spotify.com/track/3CNfhlYS0BPlbSUULODzb6"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "OTRA BOSSA",
         "url": "https://open.spotify.com/album/5Pg1i15k9DDMb40Mwqa6Zx"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Solo Tu",
+        "url": "https://open.spotify.com/album/4monLmhJWVVByxBhjPQQR7"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Solo Tu",
+      "url": "https://open.spotify.com/track/4Ns54Yvhv4xfOMLAYRLkVE"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Mente Positiva, Fin de Semana",
         "url": "https://open.spotify.com/album/7s9jARF8VWjmMVSjnzzoFb"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 185076,
       "name": "Mente Positiva",
       "url": "https://open.spotify.com/track/1gHzqXXqpG2zlGvNOWGjto"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Jugo de Guayaba",
+        "url": "https://open.spotify.com/album/5wGmJjNKp3kuxlGwKN10Iw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        }
+      ],
+      "duration_ms": 176913,
+      "name": "Jugo de Guayaba",
+      "url": "https://open.spotify.com/track/3CNfhlYS0BPlbSUULODzb6"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1027,22 +1043,6 @@
       "duration_ms": 182782,
       "name": "Sol",
       "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Hablando a tu coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 239500,
-      "name": "Hablando a tu coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "azul",
+        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "azul",
+      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Qu\u00e9 tal? Yo igual",
         "url": "https://open.spotify.com/album/3bmRq543so0ogJaFvSlIT6"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 242000,
       "name": "Volv\u00e9s",
       "url": "https://open.spotify.com/track/2fsuYnBJXJBI8EDp1F68KW"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "azul",
-        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "azul",
-      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "aqu\u00ed andamos",
-        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
+        "name": "M\u00fasica Para Adultos",
+        "url": "https://open.spotify.com/album/00ccg0F2r512qr09ahK46C"
       },
       "artists": [
         {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
         }
       ],
-      "duration_ms": 135133,
-      "name": "aqu\u00ed andamos",
-      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
+      "duration_ms": 166246,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "M\u00fasica Para Adultos",
-        "url": "https://open.spotify.com/album/00ccg0F2r512qr09ahK46C"
+        "name": "aqu\u00ed andamos",
+        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
       },
       "artists": [
         {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
         }
       ],
-      "duration_ms": 166246,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o"
+      "duration_ms": 135133,
+      "name": "aqu\u00ed andamos",
+      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Si Volviera A Conocerte",
-        "url": "https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 191924,
-      "name": "Si Volviera A Conocerte",
-      "url": "https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "t quiero baby",
         "url": "https://open.spotify.com/album/560daVWObPmtxsOvhWsIQU"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "El Rayo Vallecano",
-        "url": "https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5"
+        "name": "Si Volviera A Conocerte",
+        "url": "https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4"
       },
       "artists": [
         {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
         }
       ],
-      "duration_ms": 170864,
-      "name": "El Rayo Vallecano",
-      "url": "https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd"
+      "duration_ms": 191924,
+      "name": "Si Volviera A Conocerte",
+      "url": "https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1483,6 +1467,22 @@
       "duration_ms": 180609,
       "name": "MAGIA",
       "url": "https://open.spotify.com/track/15yrXeh7mNrRSRyuCYyzH5"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "El Rayo Vallecano",
+        "url": "https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 170864,
+      "name": "El Rayo Vallecano",
+      "url": "https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/6m3XECdFtdnTqy1mplUb5R"
+        "name": "INVISIBLE",
+        "url": "https://open.spotify.com/album/2ydcEadqA3CdrPGreJnZ3R"
       },
       "artists": [
         {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
         }
       ],
-      "duration_ms": 268000,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/696c9iYCZloDcTmB3lStdC"
+      "duration_ms": 142000,
+      "name": "INVISIBLE",
+      "url": "https://open.spotify.com/track/3OlK094z1LQdceoqsyQlhv"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "INVISIBLE",
-        "url": "https://open.spotify.com/album/2ydcEadqA3CdrPGreJnZ3R"
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/6m3XECdFtdnTqy1mplUb5R"
       },
       "artists": [
         {
-          "name": "Solo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
         }
       ],
-      "duration_ms": 142000,
-      "name": "INVISIBLE",
-      "url": "https://open.spotify.com/track/3OlK094z1LQdceoqsyQlhv"
+      "duration_ms": 268000,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/696c9iYCZloDcTmB3lStdC"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "CARDIO",
-        "url": "https://open.spotify.com/album/4KI149spTqotwFjNUbrAl8"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "CARDIO",
-      "url": "https://open.spotify.com/track/1YLyCvXW50Jd7W4F3ZcAAY"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Waterproof",
         "url": "https://open.spotify.com/album/5C6qFvIfAku7LCBCd0z8ka"
       },
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "CARDIO",
+        "url": "https://open.spotify.com/album/4KI149spTqotwFjNUbrAl8"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "CARDIO",
+      "url": "https://open.spotify.com/track/1YLyCvXW50Jd7W4F3ZcAAY"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Donde Se Fue el Sol",
         "url": "https://open.spotify.com/album/2v2kVJmiTZAej6IcQT19oQ"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 219636,
       "name": "Donde Se Fue el Sol",
       "url": "https://open.spotify.com/track/2V5SOpJyIyJudUPJzB5HI8"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 202610,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1683,22 +1699,6 @@
       "duration_ms": 162120,
       "name": "Monumento",
       "url": "https://open.spotify.com/track/1Lb0j0vG9oNCvZYqhXLa4s"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 202610,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
     },
     {
       "added_at": "2024-02-02 05:00:00",

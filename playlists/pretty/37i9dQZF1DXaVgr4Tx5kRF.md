@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,609 likes - 65 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,668 likes - 65 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 57 | [Crystal](https://open.spotify.com/track/2M4PVaTJGjXV91X8HAVQEx) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Get Ready](https://open.spotify.com/album/6V0NOI7IaZDO9mBvHNc1jt) | 6:50 |
 | 58 | [I Want to Be There \- When You Come](https://open.spotify.com/track/471Zj8j2ioowDrIhOzaZdy) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Evergreen \(Expanded\)](https://open.spotify.com/album/7ynWqEk1YxxZ2TYf1v6imE) | 3:38 |
 | 59 | [The Day We Caught The Train](https://open.spotify.com/track/4oPF43XotiOin8UroIsE0t) | [Ocean Colour Scene](https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U) | [Moseley Shoals](https://open.spotify.com/album/2z6VxH2NdkmxYpTygmlI0W) | 3:06 |
-| 60 | [One To Another](https://open.spotify.com/track/0svfKznUXTbPhqGi2v9uDc) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Tellin' Stories](https://open.spotify.com/album/2JcSP59a6uz4xrtfF5ysgv) | 4:29 |
-| 61 | [Slight Return](https://open.spotify.com/track/6Pmr3g62IviFy4sBVII5Jp) | [The Bluetones](https://open.spotify.com/artist/66nOkPJTFgK25NMmojG04V) | [The Singles](https://open.spotify.com/album/3R9Lp4s38Y9pMfcwG9YP27) | 3:19 |
+| 60 | [Slight Return](https://open.spotify.com/track/6Pmr3g62IviFy4sBVII5Jp) | [The Bluetones](https://open.spotify.com/artist/66nOkPJTFgK25NMmojG04V) | [The Singles](https://open.spotify.com/album/3R9Lp4s38Y9pMfcwG9YP27) | 3:19 |
+| 61 | [One To Another](https://open.spotify.com/track/0svfKznUXTbPhqGi2v9uDc) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Tellin' Stories](https://open.spotify.com/album/2JcSP59a6uz4xrtfF5ysgv) | 4:29 |
 | 62 | [Road Rage](https://open.spotify.com/track/439IqYqbfvhbioXkvaeg20) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [International Velvet](https://open.spotify.com/album/5JKgetvj4148279DoZG7XE) | 5:09 |
 | 63 | [Rocks](https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Give Out But Don't Give Up](https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8) | 3:37 |
 | 64 | [Wide Open Space](https://open.spotify.com/track/0Q4fqnPKrbOT6HYDhlvbNw) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/7v04VQBNE3VmBxf7vbnpnL) | 4:31 |
 | 65 | [The Riverboat Song](https://open.spotify.com/track/29cKAB63SRhL2GZdMHmQON) | [Ocean Colour Scene](https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U) | [Moseley Shoals](https://open.spotify.com/album/2z6VxH2NdkmxYpTygmlI0W) | 4:52 |
 
-Snapshot ID: `MCwzOTMyNzdjZmU3YWU2NDFjNTllYzIwZDRhYmFlMmYyMzdlZjQ3ZGY0`
+Snapshot ID: `MCwwODMwNGUyMGYyYjgzYzEyNmJjOTc1Y2FlODg2ODQ4YjlmMDM0NzE0`

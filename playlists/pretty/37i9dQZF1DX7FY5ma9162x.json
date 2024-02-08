@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Discover more Black artists and their contributions <a href=\"spotify:genre:0JQ5DAqbMKFF9bY76LXmfI\">here</a>. Cover: <a href=\"spotify:artist:23zg3TcAtWQy7J6upgbUnj\">Usher</a>",
-  "num_followers": 250597,
+  "num_followers": 250732,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOThmY2Y2MTFiMGYzZjgyN2NjNjdiMjBlNjQxYjBhNDlhZjE0NTk1",
+  "snapshot_id": "MCxiYjhjZGQ0ZmVhMDhjZDc5NjQ3YWM0Nzk2Yzc1ODAxZGZhYjE0ODZm",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -491,18 +491,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -595,22 +599,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -851,6 +851,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 231497,
+      "name": "No Love (with SZA)",
+      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 588139,
       "name": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
       "url": "https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231497,
-      "name": "No Love (with SZA)",
-      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Chilombo",
-        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "B.S. (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 181013,
       "name": "Come Thru (with Usher)",
       "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Chilombo",
+        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "B.S. (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1551,18 +1551,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Sittin' On Top Of The World",
-        "url": "https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn"
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 159372,
-      "name": "Sittin' On Top Of The World",
-      "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
+      "duration_ms": 193322,
+      "name": "Honest (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1583,22 +1587,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf"
+        "name": "Sittin' On Top Of The World",
+        "url": "https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 193322,
-      "name": "Honest (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
+      "duration_ms": 159372,
+      "name": "Sittin' On Top Of The World",
+      "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
     },
     {
       "added_at": "2024-02-02 05:00:00",

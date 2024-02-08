@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 21821,
+  "num_followers": 21840,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjVmZTE2ZjUwY2RmMjc3NjdlMjA1ZTk2MTBiYzQwOWM2ZGY0YjQ5",
+  "snapshot_id": "MCw2ZTZiYjg0YWI5MTk3YTkyMmJiZWJkNjRlMGQ5MzRkMzVlYTI4Yzg5",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "The New Sound of the Venezuelan Gozadera",
-        "url": "https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Ultra-Funk",
-      "url": "https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Fino",
         "url": "https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 243113,
       "name": "No Puedo Parar",
       "url": "https://open.spotify.com/track/18jJegd092oIkvSWiezdW3"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "The New Sound of the Venezuelan Gozadera",
+        "url": "https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Ultra-Funk",
+      "url": "https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Multicolor",
+        "url": "https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH"
+      },
+      "artists": [
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        }
+      ],
+      "duration_ms": 332546,
+      "name": "Rompecabezas",
+      "url": "https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Cool Love",
         "url": "https://open.spotify.com/album/3u5uYLbUjSKqK9y3DDFwAe"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 204172,
       "name": "Tuyonama (feat. Charles Ans)",
       "url": "https://open.spotify.com/track/74AMpBBqy0JOJaWHF0r7cR"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Multicolor",
-        "url": "https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH"
-      },
-      "artists": [
-        {
-          "name": "Solo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
-        }
-      ],
-      "duration_ms": 332546,
-      "name": "Rompecabezas",
-      "url": "https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4"
-      },
-      "artists": [
-        {
-          "name": "MNKYBSNSS",
-          "url": "https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Mi Necedad",
-      "url": "https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Leche de Tigre",
         "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 205462,
       "name": "Leche de Tigre",
       "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4"
+      },
+      "artists": [
+        {
+          "name": "MNKYBSNSS",
+          "url": "https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Mi Necedad",
+      "url": "https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1123,18 +1123,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Big Night",
-        "url": "https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w"
+        "name": "LIKE THAT! \u26a1",
+        "url": "https://open.spotify.com/album/2jHX0jyxu8aRPHRXQNcZib"
       },
       "artists": [
         {
-          "name": "Siddha-Funk",
-          "url": "https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a"
+          "name": "Redemm",
+          "url": "https://open.spotify.com/artist/4HyrJAItCZwWPIrTfRWTvu"
+        },
+        {
+          "name": "CHELS",
+          "url": "https://open.spotify.com/artist/79SaFjVvGL9hiVvzwBOMQJ"
+        },
+        {
+          "name": "Darko",
+          "url": "https://open.spotify.com/artist/6dmAqUf6toAS0x7QDRBCpL"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Big Night",
-      "url": "https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA"
+      "duration_ms": 166475,
+      "name": "LIKE THAT! \u26a1",
+      "url": "https://open.spotify.com/track/0SloUwZzPagpfOOo9kl33A"
     }
   ],
   "unique_name": "feels like latin funk",

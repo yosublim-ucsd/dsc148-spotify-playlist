@@ -2,9 +2,9 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> 💿 The Tortured Poets Department 💿
+> simmer down mami
 
-1,370 songs - 3 day 0 hr 5 min
+1,371 songs - 3 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Drink Before the War](https://open.spotify.com/track/2fgsTIpGlD5odlua0y7gIQ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/60gQ6EG1JFQWWUcasx7wKc) | 5:23 | 2022-05-19 | 2022-07-29 |
 | [Drink Before the War](https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 5:23 | 2022-05-19 |  |
 | [Drip Too Hard \(Lil Baby & Gunna\)](https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 | 2022-08-03 |  |
-| [Drive Me Crazy](https://open.spotify.com/track/2kF1ckubDNFobZKvn7WcV2) | [Zai](https://open.spotify.com/artist/0oDMyhCWLlDqEZkdE2p6xn) | [Drive Me Crazy](https://open.spotify.com/album/72KiEcpgHnTHc4fmfALsIA) | 2:29 | 2022-11-03 |  |
+| [Drive Me Crazy](https://open.spotify.com/track/2kF1ckubDNFobZKvn7WcV2) | [Zai](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII) | [Drive Me Crazy](https://open.spotify.com/album/72KiEcpgHnTHc4fmfALsIA) | 2:29 | 2022-11-03 |  |
 | [Drowning \(feat\. Kodak Black\)](https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:29 | 2022-05-19 |  |
 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 | 2022-06-03 |  |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-10-05 |  |
@@ -495,7 +495,8 @@
 | [Hjerteløs](https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Hjerteløs](https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV) | 2:17 | 2022-09-19 |  |
 | [Holding Out for a Hero \- From "Footloose" Soundtrack](https://open.spotify.com/track/5Hyr47BBGpvOfcykSCcaw9) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Secret Dreams and Forbidden Fire](https://open.spotify.com/album/4doea7KA9jw7nkm3IOs0PR) | 5:48 | 2022-05-19 |  |
 | [Home](https://open.spotify.com/track/18V1UiYRvWYwn01CRDbbuR) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [Stop Stealing The Covers!](https://open.spotify.com/album/7mCxkaPLj0IGKmbBuLDYah) | 3:17 | 2022-05-19 |  |
-| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-19 |  |
+| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-19 | 2024-02-08 |
+| [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-01-24 |  |
 | [Homesick \(with Sam Fender\)](https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Homesick \(with Sam Fender\)](https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I) | 3:14 | 2024-01-22 |  |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2022-07-28 | 2023-01-06 |
 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 | 2022-05-19 | 2022-10-29 |
@@ -699,7 +700,7 @@
 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 | 2022-05-19 |  |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-05-19 |  |
 | [Lost](https://open.spotify.com/track/4L7jMAP8UcIe309yQmkdcO) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 3:54 | 2022-05-19 | 2022-07-29 |
-| [Lost in the Fire](https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:22 | 2022-05-19 |  |
+| [Lost in the Fire \(feat\. The Weeknd\)](https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:22 | 2022-05-19 |  |
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2022-05-19 |  |
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/4PpBW7uraT7NsCr6TG29aN) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/album/21ILWHLJKxFiLqPVm0Bvn2) | 2:13 | 2022-11-24 |  |
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5I1ruiTRwXNDR8cRicL8uN) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/album/3FI3NJLNXH0FMx2tavwJ3l) | 2:13 | 2022-05-19 | 2022-12-01 |

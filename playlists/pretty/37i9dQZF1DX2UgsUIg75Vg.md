@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Thee Sacred Souls
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,345,674 likes - 154 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,345,754 likes - 154 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 153 | [I Don't Mind](https://open.spotify.com/track/0BKP9mcDJOnIz3GHm07wP5) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 2:57 |
 | 154 | [THERAPY](https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [THERAPY](https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw) | 2:06 |
 
-Snapshot ID: `MCxlNjdmNTdkNDE1YTUzZTA4MTM4NWE2NTJkYTg0N2E4YjA4YTg0ZGM5`
+Snapshot ID: `MCwwN2ViOTBhZGNjZjI3Yzc4MGIyYzcyYmE1MWU1M2I1ZGRiYTNhOTZk`

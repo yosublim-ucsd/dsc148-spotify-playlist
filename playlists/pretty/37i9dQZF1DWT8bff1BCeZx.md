@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,468 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,488 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 37 | [Mo](https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Mo](https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK) | 3:32 |
 | 38 | [Hallelujah \(feat\. Dunsin Oyekan\) \- Live](https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Hallelujah \(feat\. Dunsin Oyekan\) \[Live\]](https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV) | 5:20 |
 | 39 | [Masterpiece](https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Masterpiece](https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ) | 3:07 |
-| 40 | [COME AND SEE](https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Assignment](https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK) | 4:22 |
-| 41 | [Halle](https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Halle](https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub) | 2:20 |
-| 42 | [Igwe](https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG) | 5:12 |
-| 43 | [Blessed Year](https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Vin Mokay](https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz) | [Blessed Year](https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW) | 3:04 |
+| 40 | [Blessed Year](https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Vin Mokay](https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz) | [Blessed Year](https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW) | 3:04 |
+| 41 | [COME AND SEE](https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Assignment](https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK) | 4:22 |
+| 42 | [Halle](https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Halle](https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub) | 2:20 |
+| 43 | [Igwe](https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG) | 5:12 |
 | 44 | [Yesu \(Jesus\)](https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Guya](https://open.spotify.com/artist/1WdV2fjFsYXEqKe9AaqGpH) | [Yesu \(Jesus\)](https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI) | 3:55 |
-| 45 | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4) | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz) | 3:38 |
-| 46 | [Oluwa E Tobi](https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Kike Mudiaga](https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF) | [S\. W\. A\. G \(Saved with Amazing Grace\)](https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg) | 4:02 |
-| 47 | [Bianule](https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Bianule](https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl) | 4:44 |
-| 48 | [My God Is Good \- Live](https://open.spotify.com/track/6cUiRdvcV8PxSRdkEIlKUS) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 13: Live At The Mosaeik Theatre JHB](https://open.spotify.com/album/5dfZbEUBENJSFgzb6krR1F) | 4:41 |
+| 45 | [Oluwa E Tobi](https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Kike Mudiaga](https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF) | [S\. W\. A\. G \(Saved with Amazing Grace\)](https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg) | 4:02 |
+| 46 | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4) | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz) | 3:38 |
+| 47 | [My God Is Good \- Live](https://open.spotify.com/track/6cUiRdvcV8PxSRdkEIlKUS) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 13: Live At The Mosaeik Theatre JHB](https://open.spotify.com/album/5dfZbEUBENJSFgzb6krR1F) | 4:41 |
+| 48 | [Bianule](https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Bianule](https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl) | 4:44 |
 | 49 | [When I See You](https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 13:32 |
 | 50 | [Already Blessed](https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Already Blessed](https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5) | 3:47 |
 
-Snapshot ID: `MCw5NzBjNzRhMGZiNGU2ZDZlMGE2ZjQwYjE0Y2JlYjNjOGFkZmRhNjRh`
+Snapshot ID: `MCwwZTA4ODJjNTFhNjk1MjZhNWE5YzUzMmUwZGQwMzU1OTkxMzA5YmVi`

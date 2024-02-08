@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,205 songs - 3 day 3 hr 51 min
+1,206 songs - 3 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [CODE GE4SS](https://open.spotify.com/track/5bIptZAYkYhWutd3iNXM5E) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v) | 2:32 | 2023-06-27 | 2023-08-07 |
 | [Collage](https://open.spotify.com/track/3iUa8M4hRwRWMxSPQwft4T) | [reche](https://open.spotify.com/artist/4sJCsXNYmUMeumUKVz4Abm) | [Collage](https://open.spotify.com/album/2DgI63Mp4Lj3HfkTOwFDA6) | 3:32 | 2023-08-08 | 2023-10-04 |
 | [Colorful End Epilogue](https://open.spotify.com/track/08l8ahP9ON3IgZlmd2MSq1) | [Aoi Hinami CV:Hisako Kanemoto](https://open.spotify.com/artist/58xCmrfkphazgFOSW23jeB), [Minami Nanami CV:Ikumi Hasegawa](https://open.spotify.com/artist/4jvhiQ48F1GvfkMPi2fmhA), [Fuka Kikuchi CV:Ai Kayano](https://open.spotify.com/artist/3OPQjCACaT1pc3XwLUIMAG), [Hanabi Natsubayashi CV:Ryoko Maekawa](https://open.spotify.com/artist/1Lvy52tFRA7TEngZo43RUS), [Yuzu Izumi CV:Nene Hieda](https://open.spotify.com/artist/7536p0IJ25tvovUuiuCAlE) | [Colorful End Epilogue](https://open.spotify.com/album/0ajaRXvcSFvPyuRprwJECd) | 4:23 | 2023-01-17 | 2023-02-22 |
+| [Colorful Joyful](https://open.spotify.com/track/3YfjyBGY6GJB4k8bxVdRZ8) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [Fluffy Party, Everybody Happy](https://open.spotify.com/album/0ru36PiVV8UscuV54FliZo) | 3:02 | 2024-02-06 |  |
 | [Coloring By G\-Reco \- "Reconguista in G IV / Love That Cries out in Battle" Ending Theme](https://open.spotify.com/track/5letgaj9Abw061fuVyiDqb) | [Daisuke Hasegawa](https://open.spotify.com/artist/6Dj2vjRrARm88n4AEDgFM4) | [Coloring by G\-Reco \("Reconguista in G IV / Love That Cries out in Battle" Ending Theme\)](https://open.spotify.com/album/2xACiQZsWW9evKOYjCAQwG) | 3:54 | 2022-07-28 | 2022-08-03 |
 | [Congrats!!\(with Friends\)](https://open.spotify.com/track/1IVEyiTOBYTRjGxDy9oQar) | [内田雄馬 with 石川界人, 榎木淳弥, 斉藤壮馬, 畠中祐, 花江夏樹, 八代拓](https://open.spotify.com/artist/5OvhqL1GnYZavu83YiOkDo) | [Congrats!!\(with Friends\)](https://open.spotify.com/album/77LoYtyfVRhuHfyScFWMik) | 4:17 | 2022-09-20 | 2022-10-28 |
 | [Cosmos](https://open.spotify.com/track/3plVtRi5jEt5P8ID4WNPgH) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [Cosmos](https://open.spotify.com/album/1PRWyjzjtBYC2nZOA4tHZt) | 3:32 | 2023-04-25 | 2023-07-05 |
@@ -810,7 +811,7 @@
 | [エンドロール](https://open.spotify.com/track/55H19piKezaPeqrTDbjHcO) | [Amber's](https://open.spotify.com/artist/02uHSOwZg81iN67YEBbc0O) | [エンドロール](https://open.spotify.com/album/6Sm5KfLUdSwElGh02mV51A) | 4:10 | 2023-07-11 | 2023-08-02 |
 | [カオスが極まる](https://open.spotify.com/track/0lPfqcI3A8gQ9971nXxgq6) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [カオスが極まる](https://open.spotify.com/album/2Ju0DfkzxP0XsR2IthWIEI) | 3:50 | 2022-10-18 | 2023-01-13 |
 | [カタオモイ \- from CrosSing](https://open.spotify.com/track/0479VLYXQef7QpQsbOffH9) | [長谷川育美](https://open.spotify.com/artist/1Lx0quf8SwnTM2Ucr9fEA6) | [カタオモイ \- from CrosSing](https://open.spotify.com/album/3xOhRNZiKMRuZZjyBACawZ) | 3:25 | 2023-10-31 | 2023-11-02 |
-| [カラフル×ジョイフル](https://open.spotify.com/track/1HzV8DmJy8E66O5bCJUjpQ) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [ふわふわpartyつられてhappy](https://open.spotify.com/album/4zYaoPWnZ4UbOj6XweJI2d) | 3:02 | 2024-02-06 |  |
+| [カラフル×ジョイフル](https://open.spotify.com/track/1HzV8DmJy8E66O5bCJUjpQ) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [ふわふわpartyつられてhappy](https://open.spotify.com/album/4zYaoPWnZ4UbOj6XweJI2d) | 3:02 | 2024-02-06 | 2024-02-08 |
 | [カラフルエンドエピローグ](https://open.spotify.com/track/6dEHgSbxLvgv6M7AKJldy4) | [日南葵\(CV:金元寿子\)](https://open.spotify.com/artist/3dRNtAFVXz4R8ktXX6PBqb), [七海みなみ\(CV:長谷川育美\)](https://open.spotify.com/artist/6c5RcHQCNxrXwbvgRNwyL7), [菊池風香\(CV:茅野愛衣\)](https://open.spotify.com/artist/7vuFzlerWfjt2oMZuloThF), [夏林花火\(CV:前川涼子\)](https://open.spotify.com/artist/5bdOjTlKATbUfCPzvc6F59), [泉優鈴\(CV:稗田寧々\)](https://open.spotify.com/artist/5SnGgtuQOezuYGuyKm8oKd) | [カラフルエンドエピローグ](https://open.spotify.com/album/6RRhHpQlo5httXeASMdNW6) | 4:23 | 2023-01-17 | 2023-01-19 |
 | [カラーリング バイ G\-レコ \- 劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ](https://open.spotify.com/track/5qIQj1hQA37xMINca0gDel) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [カラーリング バイ G\-レコ \(劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ\)](https://open.spotify.com/album/5JqvjrwI64lGv2nnN6JJ7s) | 3:54 | 2022-07-21 | 2022-07-29 |
 | [カラー・リリィの恋文](https://open.spotify.com/track/7Eojb2w0e8zV8r8M6z0geM) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [カラー・リリィの恋文](https://open.spotify.com/album/4cNFuAvGpB1Cp1E8FWL7Fh) | 3:47 | 2022-07-14 | 2022-10-09 |

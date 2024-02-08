@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 53962,
+  "2024-02-08": 54023,
   "date_first_scraped": "2023-08-09",
   "description": "La \ud83c\udf53da va pa la albercada \ud83e\udd42\ud83d\ude08",
   "name": "La Albercada",
@@ -587,10 +587,48 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 201084,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
+    },
+    {
+      "album": {
+        "name": "Brattiputy",
+        "url": "https://open.spotify.com/album/2jmAx9Pl6bp05KnJvBNV1f"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230816,
+      "name": "Brattiputy",
+      "url": "https://open.spotify.com/track/4NRvhgXpBfLCPjdDbZHjp7"
     },
     {
       "album": {
@@ -817,7 +855,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 219333,
       "name": "Chulo pt.2",
       "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
@@ -909,7 +947,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 122096,
       "name": "Como Quieras Quiero",
       "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
@@ -1011,7 +1049,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 275040,
       "name": "Coraz\u00f3n Roto - Remix",
       "url": "https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo"
@@ -1109,6 +1147,24 @@
       "duration_ms": 233706,
       "name": "De Uno y De Todos Los Modos - Version Bolero",
       "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
+    },
+    {
+      "album": {
+        "name": "Dembow Freson",
+        "url": "https://open.spotify.com/album/3HnSkevqtdilqq6kWnEw7n"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128824,
+      "name": "Dembow Freson",
+      "url": "https://open.spotify.com/track/2BHYDz6p7INj1sPE9n2bK9"
     },
     {
       "album": {
@@ -1275,7 +1331,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 186413,
       "name": "Dis\u00e9\u00f1ame",
       "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
@@ -1311,7 +1367,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 213061,
       "name": "Efecto",
       "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
@@ -1685,7 +1741,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 216327,
       "name": "FINA",
       "url": "https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS"
@@ -1925,7 +1981,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 231693,
       "name": "Holanda",
       "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
@@ -1991,6 +2047,24 @@
       "duration_ms": 217253,
       "name": "Indeciso",
       "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
+    },
+    {
+      "album": {
+        "name": "Kalashnikov",
+        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129500,
+      "name": "Kalashnikov",
+      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
     },
     {
       "album": {
@@ -2905,7 +2979,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 267194,
       "name": "MONACO",
       "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
@@ -3269,7 +3343,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 160800,
       "name": "Otro Show",
       "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
@@ -3303,7 +3377,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 346000,
       "name": "PACTO (feat. Bryant Myers & Dei V) - Remix",
       "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
@@ -3547,7 +3621,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 271031,
       "name": "Procura",
       "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
@@ -3627,7 +3701,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 123351,
       "name": "QUE CHIMBA DE VIDA",
       "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
@@ -3835,10 +3909,28 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 211879,
       "name": "REINA",
       "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
+    },
+    {
+      "album": {
+        "name": "Rich Kid",
+        "url": "https://open.spotify.com/album/5WkySwRE6mgYRqN8PKySqW"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175748,
+      "name": "Rich Kid",
+      "url": "https://open.spotify.com/track/4yndx5lSMfn2W0SHYJ89YJ"
     },
     {
       "album": {
@@ -4239,7 +4331,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
@@ -4795,6 +4887,32 @@
       "duration_ms": 303306,
       "name": "Y Qu\u00e9 Me Pasa - Salsa",
       "url": "https://open.spotify.com/track/7E6LWDOm7duh7iXF3is22H"
+    },
+    {
+      "album": {
+        "name": "Yo Las Pongo",
+        "url": "https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191353,
+      "name": "Yo Las Pongo",
+      "url": "https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9"
     },
     {
       "album": {

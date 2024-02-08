@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 51289,
+  "2024-02-08": 51314,
   "date_first_scraped": "2022-06-02",
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
   "name": "This Is El Coyote Y Su Banda Tierra Santa",
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 157988,
       "name": "Lamberto Quintero",
       "url": "https://open.spotify.com/track/2shyIItJyRX7iEQ8dOqLkk"
@@ -1097,6 +1097,24 @@
       "duration_ms": 1187749,
       "name": "Mi Ranchito / La Feria De Las Flores / Los Pajaros / La Vaquilla /Mi Gusto Es / Arboles De La Barranca - En Vivo",
       "url": "https://open.spotify.com/track/3UvpQZxXWN0HVCsOgMegQW"
+    },
+    {
+      "album": {
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/7ehOg9A1Xm3hLX8Cg8hZs4"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1187749,
+      "name": "Mi Ranchito / La Feria De Las Flores / Los P\u00e1jaros / La Vaquilla / Mi Gusto Es / \u00c1rboles De La Barranca - En Vivo",
+      "url": "https://open.spotify.com/track/4M6DBE4zEgc0r4i3lMBXpr"
     },
     {
       "album": {

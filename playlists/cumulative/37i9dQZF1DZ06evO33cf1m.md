@@ -4,7 +4,7 @@
 
 > This is La Arrolladora Banda El Limón De Rene Camacho\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 42 min
+66 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Lo Hiciste Otra Vez](https://open.spotify.com/track/3ddqNG2bohXWZaHZ8a4Tqx) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 3:37 | 2023-08-08 |  |
 | [Los Tres Gallos](https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:48 | 2023-08-08 |  |
 | [Lucio Vazquez](https://open.spotify.com/track/7xygLT3mUqdhdz80VfsN3f) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 2:21 | 2023-08-13 |  |
-| [Manos De Tijera](https://open.spotify.com/track/0flla08BdQxOrdbMl5oDO6) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Manos De Tijera](https://open.spotify.com/album/0P6t2omP7inmRkHnnQuWcp) | 4:01 | 2023-11-10 |  |
+| [Manos De Tijera](https://open.spotify.com/track/0flla08BdQxOrdbMl5oDO6) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Manos De Tijera](https://open.spotify.com/album/0P6t2omP7inmRkHnnQuWcp) | 4:01 | 2023-11-10 | 2024-02-08 |
 | [Media Naranja](https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 2:31 | 2023-08-08 |  |
 | [Mi Segunda Vida](https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:07 | 2023-08-08 |  |
 | [Mis Recuerdos](https://open.spotify.com/track/5A9OyOOnDxELOaKg2KuN6X) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Es Cab ..\. El Viejo](https://open.spotify.com/album/1xYpAyCv3StPKCHOsfWFxD) | 4:39 | 2023-12-19 |  |
@@ -54,6 +54,7 @@
 | [Roman Iriarte](https://open.spotify.com/track/7wUVcpOHa6xDl9YMuYyrZK) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:34 | 2023-12-14 | 2024-01-30 |
 | [Se Les Pelo Baltazar](https://open.spotify.com/track/5SQPSfvwQiu0g3HTOSm7Iv) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Secretos De Mi Memoria](https://open.spotify.com/album/7uiQrtdG9S5vltQrvdK6Ik) | 2:23 | 2023-08-08 | 2023-08-26 |
 | [Se Me Canso El Corazon](https://open.spotify.com/track/29qY2kVjH6wtaoD5cj09q7) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 3:08 | 2023-08-08 | 2023-12-15 |
+| [Se Me Cansó el Corazón](https://open.spotify.com/track/1nx0aZDtEgF6HS7SxQkTSJ) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Lo Esencial De La Arrolladora Banda El Limón](https://open.spotify.com/album/5unIShhqSluah2Bf29YiFs) | 3:07 | 2024-02-07 |  |
 | [Secretos De Mi Memoria](https://open.spotify.com/track/09aZzS1QTGtrBx4Ys0xIRr) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Secretos De Mi Memoria](https://open.spotify.com/album/7uiQrtdG9S5vltQrvdK6Ik) | 4:07 | 2023-08-08 |  |
 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/4BU4gDeAJ2BTLWqCs9SRU4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [La Otra Cara De La Moneda](https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC) | 4:07 | 2023-08-08 |  |
 | [Si Yo Te Contara](https://open.spotify.com/track/1uziiqdJSWCbAINo8s68CX) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:45 | 2023-08-08 |  |

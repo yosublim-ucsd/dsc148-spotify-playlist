@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Jarina De Marco en portada.",
-  "num_followers": 36378,
+  "num_followers": 36384,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGE5NDUwNzcyNTc2ZWJjZjY5MDM2Njk1OTBkM2IyMTVmZDk3MmJm",
+  "snapshot_id": "MCxhMjdlNGY1YzdmYTQ5NzM2MzkxZTU4MTAyNzM3M2QzN2JmNjE2Njdl",
   "tracks": [
     {
       "added_at": "2023-12-07 01:08:32",
@@ -517,20 +517,24 @@
       "url": "https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU"
     },
     {
-      "added_at": "2023-06-02 01:07:56",
+      "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+        "name": "Boleros Psicod\u00e9licos",
+        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
       },
       "artists": [
         {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 252574,
-      "name": "Dibujos De Mi Alma",
-      "url": "https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls"
+      "duration_ms": 228693,
+      "name": "Mentiras Con Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -553,26 +557,6 @@
       "url": "https://open.spotify.com/track/523LPmnALvNfHfmxRXkVw6"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Boleros Psicod\u00e9licos",
-        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "Mentiras Con Cari\u00f1o",
-      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
-    },
-    {
       "added_at": "2023-12-07 01:08:32",
       "album": {
         "name": "The Return of\u2026",
@@ -587,6 +571,22 @@
       "duration_ms": 204790,
       "name": "Destroy The Empire",
       "url": "https://open.spotify.com/track/6BvgJ5rz1awa1zL2ySnVfk"
+    },
+    {
+      "added_at": "2023-06-02 01:07:56",
+      "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 252574,
+      "name": "Dibujos De Mi Alma",
+      "url": "https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-12-07 01:08:32",
       "album": {
-        "name": "The Return of\u2026",
-        "url": "https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 269292,
-      "name": "El Benson",
-      "url": "https://open.spotify.com/track/0W16rC9z9YGHFe9ZULahO7"
-    },
-    {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
         "name": "EP I",
         "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 248371,
       "name": "M\u00e9tele",
       "url": "https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw"
+    },
+    {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "The Return of\u2026",
+        "url": "https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 269292,
+      "name": "El Benson",
+      "url": "https://open.spotify.com/track/0W16rC9z9YGHFe9ZULahO7"
     },
     {
       "added_at": "2023-05-09 00:13:28",
@@ -817,52 +817,20 @@
       "url": "https://open.spotify.com/track/42ji13UfpBT4Gntboni1HX"
     },
     {
-      "added_at": "2023-10-12 02:18:45",
+      "added_at": "2023-12-07 01:08:32",
       "album": {
-        "name": "Switched-On",
-        "url": "https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD"
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
       },
       "artists": [
         {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 182533,
-      "name": "Trago Coqueto",
-      "url": "https://open.spotify.com/track/5t4rndvpGfblr16xsSZCZ2"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Alma Carnavalera",
-        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Santiago",
-          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
-        }
-      ],
-      "duration_ms": 234655,
-      "name": "Alma Carnavalera",
-      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Nacarile",
-        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 174080,
-      "name": "(Escap\u00e1ndome) de m\u00ed",
-      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
+      "duration_ms": 171807,
+      "name": "NTE",
+      "url": "https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -883,34 +851,34 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Mabanzo",
-        "url": "https://open.spotify.com/album/27YMkY29ejf68IpDywP91w"
+        "name": "Nacarile",
+        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
       },
       "artists": [
         {
-          "name": "Juanita Euka",
-          "url": "https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh"
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 291786,
-      "name": "Alma Seca",
-      "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
+      "duration_ms": 174080,
+      "name": "(Escap\u00e1ndome) de m\u00ed",
+      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
     },
     {
-      "added_at": "2023-12-07 01:08:32",
+      "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Regresa",
-        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
+        "name": "Alma Carnavalera",
+        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "Stephanie Santiago",
+          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
         }
       ],
-      "duration_ms": 171807,
-      "name": "NTE",
-      "url": "https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI"
+      "duration_ms": 234655,
+      "name": "Alma Carnavalera",
+      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -931,6 +899,38 @@
       "duration_ms": 207386,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
+    },
+    {
+      "added_at": "2023-10-12 02:18:45",
+      "album": {
+        "name": "Switched-On",
+        "url": "https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "Trago Coqueto",
+      "url": "https://open.spotify.com/track/5t4rndvpGfblr16xsSZCZ2"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Mabanzo",
+        "url": "https://open.spotify.com/album/27YMkY29ejf68IpDywP91w"
+      },
+      "artists": [
+        {
+          "name": "Juanita Euka",
+          "url": "https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh"
+        }
+      ],
+      "duration_ms": 291786,
+      "name": "Alma Seca",
+      "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -967,38 +967,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Poco a Poco (Remix)",
-        "url": "https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW"
+        "name": "Piedras del Sol",
+        "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
       },
       "artists": [
         {
-          "name": "Ilse Hendrix",
-          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
         },
         {
           "name": "Pahua",
           "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
         }
       ],
-      "duration_ms": 177099,
-      "name": "Poco a Poco - Remix",
-      "url": "https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT"
-    },
-    {
-      "added_at": "2023-10-12 02:18:45",
-      "album": {
-        "name": "Switched-On",
-        "url": "https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 213541,
-      "name": "Sale el Sol",
-      "url": "https://open.spotify.com/track/1YKNaQqLDMVNDULbyOHGqK"
+      "duration_ms": 222426,
+      "name": "Piedras del Sol",
+      "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -1019,22 +1003,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Piedras del Sol",
-        "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
+        "name": "Poco a Poco (Remix)",
+        "url": "https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW"
       },
       "artists": [
         {
-          "name": "Don Couto",
-          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+          "name": "Ilse Hendrix",
+          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
         },
         {
           "name": "Pahua",
           "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
         }
       ],
-      "duration_ms": 222426,
-      "name": "Piedras del Sol",
-      "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
+      "duration_ms": 177099,
+      "name": "Poco a Poco - Remix",
+      "url": "https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT"
     },
     {
       "added_at": "2023-06-01 16:51:17",
@@ -1059,18 +1043,38 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Canoas",
-        "url": "https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv"
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
       "artists": [
         {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
         }
       ],
-      "duration_ms": 297000,
-      "name": "Canoas",
-      "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2023-10-12 02:18:45",
+      "album": {
+        "name": "Switched-On",
+        "url": "https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 213541,
+      "name": "Sale el Sol",
+      "url": "https://open.spotify.com/track/1YKNaQqLDMVNDULbyOHGqK"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1091,26 +1095,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Espantap\u00e1jaros",
-        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Espantap\u00e1jaros",
-      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Te Olvidaste",
         "url": "https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ"
       },
@@ -1123,6 +1107,46 @@
       "duration_ms": 182470,
       "name": "Te Olvidaste",
       "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Canoas",
+        "url": "https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Canoas",
+      "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Negro Santo",
+        "url": "https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW"
+      },
+      "artists": [
+        {
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        },
+        {
+          "name": "Melisa Castellanos",
+          "url": "https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC"
+        },
+        {
+          "name": "Monstruos del Ma\u00f1ana",
+          "url": "https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V"
+        }
+      ],
+      "duration_ms": 267111,
+      "name": "Negro Santo",
+      "url": "https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -1143,22 +1167,6 @@
       "duration_ms": 145062,
       "name": "Real Luv",
       "url": "https://open.spotify.com/track/33cDr0F2NZHw0HonZ24aZh"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Towards The Mountain",
-      "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -1199,30 +1207,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Negro Santo",
-        "url": "https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW"
-      },
-      "artists": [
-        {
-          "name": "Don Couto",
-          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
-        },
-        {
-          "name": "Melisa Castellanos",
-          "url": "https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC"
-        },
-        {
-          "name": "Monstruos del Ma\u00f1ana",
-          "url": "https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V"
-        }
-      ],
-      "duration_ms": 267111,
-      "name": "Negro Santo",
-      "url": "https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "El Sonido Nuevo de",
+        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Towards The Mountain",
+      "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "Manifest Tone EP",
+        "url": "https://open.spotify.com/album/0rzUB5TzTLGYryGbry7YAE"
+      },
+      "artists": [
+        {
+          "name": "Chico Mann",
+          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
+        }
+      ],
+      "duration_ms": 255435,
+      "name": "Dilo Como Yo (Te Est\u00e1n Llamando)",
+      "url": "https://open.spotify.com/track/4wJF4rXSEidU6ZlZKp8Nre"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "Sagitario",
         "url": "https://open.spotify.com/album/0caakYqzmMN6U2kOsdBugO"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 265187,
       "name": "Sagitario",
       "url": "https://open.spotify.com/track/47o3EFBMHF6d7HgKbmA0oo"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Manifest Tone EP",
-        "url": "https://open.spotify.com/album/0rzUB5TzTLGYryGbry7YAE"
-      },
-      "artists": [
-        {
-          "name": "Chico Mann",
-          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
-        }
-      ],
-      "duration_ms": 255435,
-      "name": "Dilo Como Yo (Te Est\u00e1n Llamando)",
-      "url": "https://open.spotify.com/track/4wJF4rXSEidU6ZlZKp8Nre"
     },
     {
       "added_at": "2023-05-05 23:46:53",

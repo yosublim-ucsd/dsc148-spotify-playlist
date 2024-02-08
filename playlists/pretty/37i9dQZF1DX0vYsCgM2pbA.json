@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 134061,
+  "num_followers": 134078,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTg5MWNkODAxMzI4M2MzMzJhYzE4ZjMzMjdlNDNhNDZmMTk4OTI4",
+  "snapshot_id": "MCxmZTg2NTU2Y2MzMGFmNzQ2NTk5Yjg1ZTQ3MzI2M2Q4YzJmMzhhODVm",
   "tracks": [
     {
       "added_at": "2024-02-01 13:01:25",
@@ -595,34 +595,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Disappear (feat. Hayley Trinca) [ShockOne Remix]",
-        "url": "https://open.spotify.com/album/5fWBWimlRmaLgyQ20zlzH0"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "Pooks",
-          "url": "https://open.spotify.com/artist/4bK23BKvm2y1lYjenizdTN"
-        },
-        {
-          "name": "ShockOne",
-          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
-        },
-        {
-          "name": "Hayley Trinca",
-          "url": "https://open.spotify.com/artist/5l3jgJIgcCwcD0eG6wm0QH"
-        }
-      ],
-      "duration_ms": 183663,
-      "name": "Disappear (feat. Hayley Trinca) [ShockOne Remix]",
-      "url": "https://open.spotify.com/track/7JdHEhOa7CXs8oEBnMtnjh"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "No Nein",
         "url": "https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP"
       },
@@ -663,6 +635,34 @@
       "duration_ms": 154500,
       "name": "Sun Moon",
       "url": "https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Disappear (feat. Hayley Trinca) [ShockOne Remix]",
+        "url": "https://open.spotify.com/album/5fWBWimlRmaLgyQ20zlzH0"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Pooks",
+          "url": "https://open.spotify.com/artist/4bK23BKvm2y1lYjenizdTN"
+        },
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        },
+        {
+          "name": "Hayley Trinca",
+          "url": "https://open.spotify.com/artist/5l3jgJIgcCwcD0eG6wm0QH"
+        }
+      ],
+      "duration_ms": 183663,
+      "name": "Disappear (feat. Hayley Trinca) [ShockOne Remix]",
+      "url": "https://open.spotify.com/track/7JdHEhOa7CXs8oEBnMtnjh"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -899,18 +899,22 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
       },
       "artists": [
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 184687,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
+      "duration_ms": 208375,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -931,22 +935,18 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
       },
       "artists": [
         {
-          "name": "Flansie",
-          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
         }
       ],
-      "duration_ms": 246832,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
+      "duration_ms": 184687,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -967,6 +967,26 @@
       "duration_ms": 248169,
       "name": "Waiting For Nothing",
       "url": "https://open.spotify.com/track/2BSWidCfy0WZ7fkpwc7rAD"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
+      },
+      "artists": [
+        {
+          "name": "Flansie",
+          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 246832,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1067,42 +1087,18 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "What Comes Next",
-        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
+        "name": "Can't Do Without (My Baby)",
+        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
       },
       "artists": [
         {
           "name": "Cosmo's Midnight",
           "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
         }
       ],
-      "duration_ms": 243599,
-      "name": "Get To Know (feat. Winston Surfshirt)",
-      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+      "duration_ms": 202253,
+      "name": "Can't Do Without (My Baby)",
+      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
     },
     {
       "added_at": "2024-02-01 13:01:25",

@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "In Defiance",
+        "url": "https://open.spotify.com/album/10V2CzomOo7tBR27HsKon5"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassano",
+          "url": "https://open.spotify.com/artist/57qdENESO67xX6tvTXTLtk"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206788,
+      "name": "In Defiance",
+      "url": "https://open.spotify.com/track/17VvT0RZ6HcRkpMbw1xgn3"
+    },
+    {
+      "album": {
         "name": "In the Night",
         "url": "https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7"
       },
@@ -1944,7 +1962,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 239655,
       "name": "Pulp",
       "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"

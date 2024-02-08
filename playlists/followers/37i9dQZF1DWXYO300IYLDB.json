@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 100250,
+  "2024-02-08": 100268,
   "date_first_scraped": "2022-10-24",
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3068\u5171\u306b\u3001\u723d\u3084\u304b\u306a1\u65e5\u3092\u8fce\u3048\u307e\u305b\u3093\u304b\uff1f",
   "name": "Acoustic Melodies Tokyo",
@@ -1678,6 +1678,24 @@
     },
     {
       "album": {
+        "name": "For Months Now",
+        "url": "https://open.spotify.com/album/5P9kkhUR5UDki1BIXo4ciT"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246946,
+      "name": "For Months Now",
+      "url": "https://open.spotify.com/track/0BrfibWFnLKn4toGD3gRE9"
+    },
+    {
+      "album": {
         "name": "Shadow Kingdom",
         "url": "https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE"
       },
@@ -2337,7 +2355,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 133178,
       "name": "How Does It Feel - Acoustic",
       "url": "https://open.spotify.com/track/6JQsHhEwXjM4quc6Uuhe39"
@@ -2870,7 +2888,7 @@
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 173427,
+      "duration_ms": 173426,
       "name": "IT'S YOU (feat. keshi)",
       "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
     },
@@ -6390,6 +6408,24 @@
     },
     {
       "album": {
+        "name": "\u3044\u3064\u3082\u306e\u3053\u3068",
+        "url": "https://open.spotify.com/album/3Vb5JKrWeF9pGhSIHmCcmO"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u91ce\u96c4\u5927",
+          "url": "https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240853,
+      "name": "\u3044\u3064\u3082\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/2dguw4nUUpg0Lxu9pd2w3L"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30f3\u30d7\u5e7b\u60f3",
         "url": "https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc"
       },
@@ -6809,7 +6845,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 197910,
       "name": "\u67d4\u3089\u304b\u3044\u5f71",
       "url": "https://open.spotify.com/track/4JseUox8CQxSsjdvfsrez9"
@@ -6909,8 +6945,8 @@
       },
       "artists": [
         {
-          "name": "\u30ab\u30b3\u30a4\u30df\u30af",
-          "url": "https://open.spotify.com/artist/08qLbbc1WNS52zXs9wWOCY"
+          "name": "Miku Kakoi",
+          "url": "https://open.spotify.com/artist/5alTj7erIXRIQbrUC2Cv1v"
         }
       ],
       "date_added": "2024-01-25",

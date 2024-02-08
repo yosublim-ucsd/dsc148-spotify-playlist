@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,072 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,066 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 |
 | 2 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 |
 | 3 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 |
-| 4 | [That's okay](https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [That's okay](https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf) | 3:41 |
-| 5 | [To My Youth](https://open.spotify.com/track/4gMPlHHAjOQnUrhsuqHivn) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:42 |
+| 4 | [To My Youth](https://open.spotify.com/track/4gMPlHHAjOQnUrhsuqHivn) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:42 |
+| 5 | [That's okay](https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [That's okay](https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf) | 3:41 |
 | 6 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
 | 7 | [Song Request \(feat\. SUGA of BTS\)](https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Song Request \(feat\. SUGA of BTS\)](https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0) | 4:41 |
 | 8 | [Eat](https://open.spotify.com/track/09Nhl3YQnChjlq8WmJz7FS) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Eat](https://open.spotify.com/album/4xI4eqUbq72Dk1slHQePQW) | 2:41 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 35 | [Together](https://open.spotify.com/track/3dQxjLOKLUUpZOwHYYdvyo) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/54P1MSGvQt3Hq1UpsijMgA) | 4:32 |
 | 36 | [입춘 Let Me Love My Youth](https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [입춘 Let Me Love My Youth](https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ) | 4:08 |
 | 37 | [Graduation](https://open.spotify.com/track/1GohKAgwMWvS9ieKi6DdKb) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [Graduation](https://open.spotify.com/album/5ER5iKqYrPjHsjlZfwHUV1) | 3:43 |
-| 38 | [IYAH](https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:45 |
+| 38 | [Way Back Home](https://open.spotify.com/track/2YeozkaCbAYWOdjMKahrjU) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [I Mean](https://open.spotify.com/album/2SSsz0XFUeTYZfGWRLFswR) | 4:00 |
 | 39 | [Love poem](https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:18 |
-| 40 | [Way Back Home](https://open.spotify.com/track/2YeozkaCbAYWOdjMKahrjU) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [I Mean](https://open.spotify.com/album/2SSsz0XFUeTYZfGWRLFswR) | 4:00 |
+| 40 | [IYAH](https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:45 |
 | 41 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
 | 42 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
 | 43 | [be by my side](https://open.spotify.com/track/1K3N3pF1uu1WPRD2QFEz06) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [be by my side](https://open.spotify.com/album/6Fhp3DHf8QeJ77Buf1KLjA) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 49 | [Brave](https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Extraordinary Attorney Woo \(Original Television SoundTrack\) Pt\. 1](https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK) | 4:22 |
 | 50 | [Another Dream](https://open.spotify.com/track/1UUJwdNBSVQAQMZYHfkIa5) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- Completion Mission](https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU) | 3:22 |
 
-Snapshot ID: `MCw0Mjk3ZDRhY2Y4MWIwNTljNGI5MTI4ZmFhZWUyMmVlNWY2MTU4MjA5`
+Snapshot ID: `MCxmYjYyMTRjOTE4ZDUxMmE5YjAxZjczMDIxMmY2N2YxYWZlM2QyNWI3`

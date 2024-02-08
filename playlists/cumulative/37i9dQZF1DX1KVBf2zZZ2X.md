@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-130 songs - 5 hr 52 min
+131 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Calmest lake](https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Calmest lake](https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH) | 3:12 | 2023-03-03 |  |
 | [Calming Birds](https://open.spotify.com/track/6Er9bq9dt39Xmv8heRUxUO) | [Aziz Kirkin](https://open.spotify.com/artist/7BPMsxBuGDkaKlsYWR38kS) | [Calming Birds](https://open.spotify.com/album/3gQmWlR1BiBnVl1xmGxQIm) | 2:04 | 2023-09-01 | 2023-09-09 |
 | [Canola Morning](https://open.spotify.com/track/3NlKaBvnrdwMuYdsYgKAet) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Canola Morning](https://open.spotify.com/album/5WfEKVlJo9uNtBTeBsFnFb) | 2:44 | 2023-03-03 |  |
+| [Carnelian Vibrancy](https://open.spotify.com/track/0v4uZTELJHnvVSzMQ1wVdU) | [Trancistique](https://open.spotify.com/artist/5FIPYREWb6VB1awzWKGD0I) | [Carnelian Vibrancy](https://open.spotify.com/album/0JS8NdxL920Xqe3xFuQ2m6) | 2:39 | 2024-02-06 |  |
 | [Carpology](https://open.spotify.com/track/5eTwZHtaPzrRoVtyOUMgx1) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Carpology](https://open.spotify.com/album/2HVhkzOKtK1M5yvbRfZdek) | 2:03 | 2023-03-03 |  |
 | [Catacea Animals](https://open.spotify.com/track/65nwy2Gx3Om5fuyySr1RAS) | [Aya Morata](https://open.spotify.com/artist/6ryTZyH1Vnxas1vzYPzE0L) | [Catacea Animals](https://open.spotify.com/album/38yEh4LCIMJil5LsbUVT6m) | 2:28 | 2023-10-16 |  |
 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 | 2023-03-03 |  |
@@ -117,7 +118,7 @@
 | [Safety Blanket](https://open.spotify.com/track/3MRIF4BQ3Oq6T84mGZxkLe) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Sara's Dream](https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF) | 3:18 | 2023-03-03 |  |
 | [Secunda Carmina](https://open.spotify.com/track/2FwkigsYjlfvVJN4NCqyp3) | [Valeria Pintile](https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj) | [Secunda Carmina](https://open.spotify.com/album/6Mimz0Gk1BdDz5NPhtBiyG) | 3:23 | 2023-07-21 |  |
 | [Seranade Of The Silver Falls](https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Seranade Of The Silver Falls](https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte) | 2:17 | 2023-03-03 |  |
-| [Serene Dream](https://open.spotify.com/track/3phLyMjkzsEK6nXfIsFp7I) | [Chris Haugen](https://open.spotify.com/artist/2lD7A7VWRgToPFUUKm58kZ) | [Serene Dream](https://open.spotify.com/album/4wzOVVcBdaUXPhw5Od3cf4) | 4:31 | 2024-02-06 |  |
+| [Serene Dream](https://open.spotify.com/track/3phLyMjkzsEK6nXfIsFp7I) | [Chris Haugen](https://open.spotify.com/artist/2lD7A7VWRgToPFUUKm58kZ) | [Serene Dream](https://open.spotify.com/album/4wzOVVcBdaUXPhw5Od3cf4) | 4:31 | 2024-02-06 | 2024-02-08 |
 | [Silva Fabula](https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT) | [Baltasar Thorgimson](https://open.spotify.com/artist/7AvjGwRVcZebryU03FobZt) | [Silva Fabula](https://open.spotify.com/album/28gLeF0gUVTBRbtJczNWUn) | 3:10 | 2023-03-03 |  |
 | [Softly Now](https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Softly Now](https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ) | 2:28 | 2023-09-01 |  |
 | [Solitude](https://open.spotify.com/track/3UcE5BE9BZwNhBvIOF3Ty8) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 3:06 | 2023-03-03 |  |

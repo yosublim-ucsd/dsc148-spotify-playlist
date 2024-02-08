@@ -1,13 +1,97 @@
 {
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Salin. Artwork: Joy Yamusangie",
-  "num_followers": 208590,
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Lawrence Fields Artwork: Joy Yamusangie",
+  "num_followers": 208706,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDgwOTQ0YzVmMzcyNzg5NTUwYTEzNjVlYmE4NDYxNmQ2MmQ5Mzhh",
+  "snapshot_id": "MCxkYThiNjJjOGU5NmZhYjQ2NWMyNmVhNTdkNGJkZmRjN2RkZDQxY2E0",
   "tracks": [
+    {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "To the Surface",
+        "url": "https://open.spotify.com/album/6V6ize3i50A084GZA7UZy8"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Fields",
+          "url": "https://open.spotify.com/artist/6Gx8FEiq4GWxQibFuSzmeY"
+        }
+      ],
+      "duration_ms": 539133,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/4jTOEKRSmjIzeB8uFI5d07"
+    },
+    {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "Soar",
+        "url": "https://open.spotify.com/album/5FLNHUP6N4lNCGbQdd6Vdu"
+      },
+      "artists": [
+        {
+          "name": "Chiminyo",
+          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
+        },
+        {
+          "name": "Uniri",
+          "url": "https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA"
+        }
+      ],
+      "duration_ms": 154038,
+      "name": "Soar",
+      "url": "https://open.spotify.com/track/7F8HGHuxgKJ6ISlbX2NJuW"
+    },
+    {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "KOSMOCHOOJUWA",
+        "url": "https://open.spotify.com/album/0QaHoz7aYfIaBEuHH4LtUT"
+      },
+      "artists": [
+        {
+          "name": "Kosmonauci",
+          "url": "https://open.spotify.com/artist/283semIr4NG8yUDW5zRAol"
+        }
+      ],
+      "duration_ms": 168977,
+      "name": "KOSMOCHOOJUWA",
+      "url": "https://open.spotify.com/track/7Mre23VuQDkvaLxXRKcECe"
+    },
+    {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "Time's Arrow",
+        "url": "https://open.spotify.com/album/1h6YqHwAYlkgOMBE0NfMDh"
+      },
+      "artists": [
+        {
+          "name": "Nick Biello",
+          "url": "https://open.spotify.com/artist/1d6ygnyhi2BsKUsNpdVe0y"
+        }
+      ],
+      "duration_ms": 329622,
+      "name": "Time's Arrow",
+      "url": "https://open.spotify.com/track/2vRg6acFFC8BWfcnOEbjpw"
+    },
+    {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "TAPES of ACES - Side A",
+        "url": "https://open.spotify.com/album/1yjAcsYQJsIV0clinEa7XC"
+      },
+      "artists": [
+        {
+          "name": "4Aces",
+          "url": "https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "S.Y.P.T. (Show Your PentaTonic)",
+      "url": "https://open.spotify.com/track/0gFKed5Y8BJrJ8EB34SNT4"
+    },
     {
       "added_at": "2024-01-31 05:00:00",
       "album": {
@@ -357,22 +441,6 @@
       "url": "https://open.spotify.com/track/1Sw2x4OTceaCVnUjia3MZP"
     },
     {
-      "added_at": "2023-11-29 05:00:00",
-      "album": {
-        "name": "Kurena",
-        "url": "https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl"
-      },
-      "artists": [
-        {
-          "name": "\u77f3\u5ddd\u7d05\u5948",
-          "url": "https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz"
-        }
-      ],
-      "duration_ms": 251786,
-      "name": "Off The Wall",
-      "url": "https://open.spotify.com/track/6qUpHqV6aHTSZRDjcYSoUV"
-    },
-    {
       "added_at": "2024-01-10 05:00:00",
       "album": {
         "name": "Kouta in Siam",
@@ -435,22 +503,6 @@
       "duration_ms": 339132,
       "name": "Hello,,Dawn,Unknown",
       "url": "https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt"
-    },
-    {
-      "added_at": "2023-11-29 05:00:00",
-      "album": {
-        "name": "Ulaan",
-        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0Q6JH1gDVsDRiDpES28Dqc"
     },
     {
       "added_at": "2024-01-10 05:00:00",
@@ -551,38 +603,6 @@
       "duration_ms": 452501,
       "name": "To the Surface",
       "url": "https://open.spotify.com/track/7GE2BYSVUI6jgYTcl9ndIy"
-    },
-    {
-      "added_at": "2023-09-13 04:00:00",
-      "album": {
-        "name": "STEPS OF THE BLUE",
-        "url": "https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz"
-      },
-      "artists": [
-        {
-          "name": "\u677e\u4e95 \u79c0\u592a\u90ce",
-          "url": "https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ"
-        },
-        {
-          "name": "\u4e2d\u6797\u4fca\u4e5f",
-          "url": "https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc"
-        },
-        {
-          "name": "\u517c\u677e \u8846",
-          "url": "https://open.spotify.com/artist/2ibirI68QUhfYuXM0oq8J1"
-        },
-        {
-          "name": "\u5c0f\u5ddd\u664b\u5e73",
-          "url": "https://open.spotify.com/artist/33jumhkSNkMnmiln5lqPE7"
-        },
-        {
-          "name": "\u5c0f\u7530\u6850\u548c\u5bdb",
-          "url": "https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE"
-        }
-      ],
-      "duration_ms": 370493,
-      "name": "HYPNOSIS",
-      "url": "https://open.spotify.com/track/1BN4yBmqYDOAWRPtEfNjax"
     },
     {
       "added_at": "2023-11-29 05:00:00",
@@ -861,22 +881,6 @@
       "url": "https://open.spotify.com/track/5BkLPw2DqeNA3LhXwsTCZy"
     },
     {
-      "added_at": "2023-09-27 04:00:00",
-      "album": {
-        "name": "Ruins Everything",
-        "url": "https://open.spotify.com/album/3N7WvZ8Fp9THeqMTXW0xdg"
-      },
-      "artists": [
-        {
-          "name": "Snazzback",
-          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
-        }
-      ],
-      "duration_ms": 155333,
-      "name": "Superstar Fish Bar",
-      "url": "https://open.spotify.com/track/6oYOlXxEjFuA6j7oObInS9"
-    },
-    {
       "added_at": "2023-11-29 05:00:00",
       "album": {
         "name": "Living High in the Brass Empire",
@@ -919,22 +923,6 @@
       "duration_ms": 324056,
       "name": "Faithful One",
       "url": "https://open.spotify.com/track/7txFk79SOUTPlfpckag3Wf"
-    },
-    {
-      "added_at": "2023-09-13 04:00:00",
-      "album": {
-        "name": "Routes To Knowledge",
-        "url": "https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl"
-      },
-      "artists": [
-        {
-          "name": "The Golden Eternity",
-          "url": "https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu"
-        }
-      ],
-      "duration_ms": 177201,
-      "name": "Routes To Knowledge",
-      "url": "https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN"
     },
     {
       "added_at": "2024-01-10 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,187 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,215 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 14 | [会えない](https://open.spotify.com/track/69iM6Hngr0OkZBxxCaohEx) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [Aizawa](https://open.spotify.com/artist/4XyqVjWt0pEOIM5yZnpyxb) | [会えない](https://open.spotify.com/album/0QkxlHYmvEsgFRsAhhP8Jz) | 3:30 |
 | 15 | [くらげ](https://open.spotify.com/track/4iI2LdIZE3e9HwzY6NAMJk) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [くらげ](https://open.spotify.com/album/1TlpulOz0HHSsN8iJ60gvV) | 3:33 |
 | 16 | [Igniter](https://open.spotify.com/track/2ft4oa972vArdrTKYdU6sd) | [Midnight Grand Orchestra](https://open.spotify.com/artist/60lgIOOISxGcxyjX4GJeii) | [Starpeggio](https://open.spotify.com/album/4P0fK06vdodkHhWHdmY7ar) | 3:12 |
-| 17 | [ラブリー](https://open.spotify.com/track/4wTeVlzNPyvTwxdJ52AI6D) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [ラブリー](https://open.spotify.com/album/1bqWRNEezTMkh25svE3JDx) | 3:38 |
+| 17 | [LOVELY](https://open.spotify.com/track/2p6mMrccBiWuwtpWCyVPbq) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [LOVELY](https://open.spotify.com/album/4TrfWYsP8LRU10Rw6usFJL) | 3:38 |
 | 18 | [問題発生！病み体験](https://open.spotify.com/track/4q1VIAZmDX81a8r8mAGCAT) | [音莉飴](https://open.spotify.com/artist/48cmBTHGDXpbMmImSbBprJ) | [問題発生！病み体験](https://open.spotify.com/album/6QcOsG9FGv9v9s2MRA7TOw) | 2:58 |
 | 19 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 |
 | 20 | [センチメンタルヒーロー](https://open.spotify.com/track/33h7sAZf1g4WP1RpJzptEf) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [センチメンタルヒーロー](https://open.spotify.com/album/5ymC7oRE3PDPObIsVbicpx) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
 | 50 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
 
-Snapshot ID: `MCw3MTJmNDZkYzI5YTU3NWJiMDQ4M2Q2MzQxYTVhMDg1NmZkYTA0OTYy`
+Snapshot ID: `MCxmYzg3MGE2M2Y0MDJkZTkxODI0MDMyNmE4ZDIwYjI4ZDAwNmRlMjk0`

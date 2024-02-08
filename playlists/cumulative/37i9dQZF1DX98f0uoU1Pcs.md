@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Pissed Jeans
 
-615 songs - 1 day 9 hr 41 min
+616 songs - 1 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Call Me on the Way Home](https://open.spotify.com/track/7jYqFflmnsOI04fp3gS6fL) | [The Bar Stool Preachers](https://open.spotify.com/artist/3KcidWlhRLEyML9jFE6fKg) | [Call Me on the Way Home](https://open.spotify.com/album/6h9bhhUqBxAttjoGngMDZR) | 2:52 | 2022-08-05 | 2022-09-20 |
 | [can we combine](https://open.spotify.com/track/7L9WzCKxuaZEGXqN6eRjQV) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [can we combine](https://open.spotify.com/album/6axyJYIF2IlAzRykjnp980) | 2:34 | 2021-10-07 | 2022-04-29 |
 | [Can't Blame Me](https://open.spotify.com/track/3jd4G5UwEHzxYPbgva0fCN) | [TOUTS](https://open.spotify.com/artist/778lQqI29eUT3DyF1AYtLS) | [Can't Blame Me](https://open.spotify.com/album/6cA6Fj5bZoQyhgCUY1wVwm) | 2:38 | 2021-10-07 | 2022-04-29 |
-| [Can’t Believe We're Here](https://open.spotify.com/track/6EwGSVvfTqgykrkExXCsQG) | [J Mascis](https://open.spotify.com/artist/1PokjXeIq2zVosXbTEaNlx) | [Can't Believe We're Here](https://open.spotify.com/album/21kuC8CVlZkz9UoquPEOXJ) | 3:58 | 2023-12-06 |  |
+| [Can’t Believe We're Here](https://open.spotify.com/track/5rZCwYjBZ1UX40Ussx8Jkg) | [J Mascis](https://open.spotify.com/artist/1PokjXeIq2zVosXbTEaNlx) | [What Do We Do Now](https://open.spotify.com/album/5zXKvifRMlKDijAwCOnHWZ) | 3:58 | 2024-01-24 |  |
+| [Can’t Believe We're Here](https://open.spotify.com/track/6EwGSVvfTqgykrkExXCsQG) | [J Mascis](https://open.spotify.com/artist/1PokjXeIq2zVosXbTEaNlx) | [Can't Believe We're Here](https://open.spotify.com/album/21kuC8CVlZkz9UoquPEOXJ) | 3:58 | 2023-12-06 | 2024-02-08 |
 | [Cartoon Logic](https://open.spotify.com/track/73txftYr3QBFnFdirYnvE1) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Can't Make Any Promises](https://open.spotify.com/album/1cVSZHrrqpdDrBwXn7jxRI) | 2:16 | 2023-06-02 | 2024-01-14 |
 | [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 | 2023-02-17 |  |
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2022-01-07 | 2022-06-11 |

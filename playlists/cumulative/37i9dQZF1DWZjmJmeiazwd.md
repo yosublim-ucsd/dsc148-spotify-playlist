@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-489 songs - 1 day 5 hr 14 min
+490 songs - 1 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/track/6z7mOTf4O20AApGsTNn7fC) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/album/3woElJWz4XHbRXbKm9kKgH) | 2:31 | 2021-02-10 | 2023-11-18 |
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2022-04-22 | 2022-05-21 |
 | [Follow You](https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:51 | 2020-06-29 | 2022-02-26 |
+| [Footsteps](https://open.spotify.com/track/6hvSILCCQT5a0MRcOE36zd) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [UP \(Deluxe Edition\)](https://open.spotify.com/album/2OFYF3mFIa9wZqeU2SYSGC) | 4:22 | 2024-01-19 |  |
 | [Footsteps](https://open.spotify.com/track/47StfXJOnGLhYfMEWgoTiX) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [UP](https://open.spotify.com/album/1yti3dRHxGWTNwfHbIGgJk) | 4:22 | 2020-06-29 | 2022-07-29 |
 | [Footsteps](https://open.spotify.com/track/7IEpEB1hnFW67S2FTi8eyw) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [UP](https://open.spotify.com/album/6uyRHyNcSbGZZCP2JxaMrZ) | 4:22 | 2022-07-28 | 2023-12-24 |
 | [For the Glory](https://open.spotify.com/track/030D3duTUTfJORIycOhZNr) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Machines](https://open.spotify.com/album/6Pioq1pPQiz6gDIaCo1hKL) | 4:39 | 2023-02-09 |  |
@@ -317,7 +318,7 @@
 | [Outta My Mind](https://open.spotify.com/track/4cgDk0IjwdG8w1ArIaqdpq) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Yours, Dreamily,](https://open.spotify.com/album/7GcnWeopUkyCwFFEt6RrsA) | 3:34 | 2020-06-29 | 2022-04-21 |
 | [Panic](https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Panic](https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj) | 3:20 | 2020-06-29 | 2023-05-15 |
 | [Panic](https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Panic](https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG) | 3:20 | 2023-02-09 |  |
-| [Panic Switch](https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Swoon](https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX) | 5:43 | 2020-06-29 |  |
+| [Panic Switch](https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Swoon](https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX) | 5:43 | 2020-06-29 | 2024-02-08 |
 | [Paradise Lost, a poem by John Milton](https://open.spotify.com/track/0brRAViWRg60fyrCynTPxl) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:47 | 2022-04-22 | 2022-05-21 |
 | [Paralyzed](https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Paralyzed](https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9) | 2:43 | 2021-12-05 | 2022-06-11 |
 | [Paranoia](https://open.spotify.com/track/7gYL9E5WN7Nd8l2ZQ1rkKI) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Paranoia](https://open.spotify.com/album/5wJDlY1ydJyfu66a7B1AEO) | 3:20 | 2020-06-29 | 2022-02-26 |

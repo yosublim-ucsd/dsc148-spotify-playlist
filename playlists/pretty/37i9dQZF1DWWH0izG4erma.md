@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that rocks\. Cover: Warren Zeiders
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,941 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,145 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 70 | [Year to Be Young 1994](https://open.spotify.com/track/5bfYMxQP2oRIe0ZGLRuOED) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad](https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A) | 3:20 |
 | 71 | [Devil You Know](https://open.spotify.com/track/3VfLRvfDdy7iXW057kPm2x) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Devil You Know](https://open.spotify.com/album/1JHMeaoUwnGzpen1EOSYie) | 2:58 |
 | 72 | [Had It For A While](https://open.spotify.com/track/2iRIwezcfYxCyl2SqMt9RN) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Had It For A While](https://open.spotify.com/album/6nxaqnlVueBm7rOF6S6B8e) | 2:31 |
-| 73 | [Long Haired Country Boy \(feat\. The Rockin' CJB\)](https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [The Rockin' CJB](https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 4:17 |
+| 73 | [County Roads](https://open.spotify.com/track/3cLJUuJRWBAP2k8LhWgONB) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/0iyg3QqROay2R4ejj8GBqP) | 3:11 |
 | 74 | [Six Feet Deep](https://open.spotify.com/track/6DeONxjl3gp2eiQq87nBoH) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Six Feet Deep](https://open.spotify.com/album/2IKGb02EUoeHsjfikg4lY4) | 3:10 |
-| 75 | [County Roads](https://open.spotify.com/track/3cLJUuJRWBAP2k8LhWgONB) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/0iyg3QqROay2R4ejj8GBqP) | 3:11 |
+| 75 | [Long Haired Country Boy \(feat\. The Rockin' CJB\)](https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [The Rockin' CJB](https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 4:17 |
 | 76 | [Between Jennings And Jones](https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:11 |
 | 77 | [Locomotive](https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:13 |
 | 78 | [Even The Devil](https://open.spotify.com/track/0R5xOrUdw4bDHlaJ96bWYM) | [Murphy Elmore](https://open.spotify.com/artist/2xAybx0jf6AnUy9I0kO0g9) | [Even The Devil](https://open.spotify.com/album/2lMv82sDWSdhIcva2Wr47e) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 99 | [Excuse the Mess](https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Excuse the Mess](https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ) | 2:51 |
 | 100 | [Whiskey Lullaby](https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc) | [Drew Jacobs](https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0), [Caitlynne Curtis](https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf) | [Whiskey Lullaby](https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM) | 4:29 |
 
-Snapshot ID: `MCxiZjJkMzZhNDg0OGRmYzgwNTQ5ZWU3ZmEzMWI0NTBkYmE5N2YwYTYy`
+Snapshot ID: `MCwyMjBiODkwOGRkMWM4Y2FjNTY3MmMyMTUwZDAwNDVjYzZjMzIxNDVi`

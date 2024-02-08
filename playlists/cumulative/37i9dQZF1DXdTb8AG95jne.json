@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: AQUINAS(\uac15\ubbfc\uc218)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "name": "In The K-Indie",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: LIM KIM(\uae40\uc608\ub9bc)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
       "album": {
@@ -3658,7 +3658,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 216948,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/3BgEBMpkiYoWQtWT9AAdft"
@@ -9973,6 +9973,24 @@
     },
     {
       "album": {
+        "name": "ULT",
+        "url": "https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu"
+      },
+      "artists": [
+        {
+          "name": "LIM KIM",
+          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "ULT",
+      "url": "https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj"
+    },
+    {
+      "album": {
         "name": "T_wo",
         "url": "https://open.spotify.com/album/6ICh5ekibNXg1CJEWztazW"
       },
@@ -10432,6 +10450,32 @@
       "duration_ms": 207788,
       "name": "What can I do",
       "url": "https://open.spotify.com/track/6lMwrY5yRLMEG4WyuCEsFv"
+    },
+    {
+      "album": {
+        "name": "What Can I Say? (Feat. SHIRT, g0nny)",
+        "url": "https://open.spotify.com/album/6SoRYuB2wOtpPaqPTjKjCq"
+      },
+      "artists": [
+        {
+          "name": "SOQI",
+          "url": "https://open.spotify.com/artist/2zvEoTxRST15pPUcMVWw0K"
+        },
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        },
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "What Can I Say? (Feat. SHIRT, g0nny)",
+      "url": "https://open.spotify.com/track/35LCy2za77nFY0kIXrSJsd"
     },
     {
       "album": {
@@ -11348,7 +11392,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 218794,
       "name": "\ub0b4\uc77c\uc774 \uc624\uae30 \uc804\uae4c\uc9c0 Until tomorrow comes (feat. P.RAO)",
       "url": "https://open.spotify.com/track/20CiPSS7cby4JLhwzPC2JB"

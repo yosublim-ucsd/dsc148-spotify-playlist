@@ -1,12 +1,12 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 115089,
+  "num_followers": 115245,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjkyZTUwYTlkMjMxNjU0ZjM2M2VmNWE4MDBiMmNmMmY2YzM4Njky",
+  "snapshot_id": "MCw2NWIzZjY3N2RmNjRmODQ3NWJhOWIxNzU2OTY1ZTczNzI5Mjk4ZWM5",
   "tracks": [
     {
       "added_at": "2023-11-08 22:38:29",
@@ -759,22 +759,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Mis Nuevos Cantares",
-        "url": "https://open.spotify.com/album/4uToZOnwl3AWFrUrVxTFz9"
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
       "artists": [
         {
-          "name": "Erick Escobar",
-          "url": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
-        },
-        {
-          "name": "Nayo Quintero",
-          "url": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
         }
       ],
-      "duration_ms": 235235,
-      "name": "No Pude Quitarte las Espinas",
-      "url": "https://open.spotify.com/track/13DlPBOKn753WqIu4qgq4Y"
+      "duration_ms": 342973,
+      "name": "Cumbia sobre el r\u00edo / Interludio",
+      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -795,18 +791,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+        "name": "Mis Nuevos Cantares",
+        "url": "https://open.spotify.com/album/4uToZOnwl3AWFrUrVxTFz9"
       },
       "artists": [
         {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+          "name": "Erick Escobar",
+          "url": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+        },
+        {
+          "name": "Nayo Quintero",
+          "url": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
         }
       ],
-      "duration_ms": 342973,
-      "name": "Cumbia sobre el r\u00edo / Interludio",
-      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
+      "duration_ms": 235235,
+      "name": "No Pude Quitarte las Espinas",
+      "url": "https://open.spotify.com/track/13DlPBOKn753WqIu4qgq4Y"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Mi Trokita Cumbia",
-        "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
-      },
-      "artists": [
-        {
-          "name": "Obzesion",
-          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
-        }
-      ],
-      "duration_ms": 134785,
-      "name": "Mi Trokita Cumbia",
-      "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Lenguaje Universal",
         "url": "https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 262661,
       "name": "Que Vuelva",
       "url": "https://open.spotify.com/track/4lplPo03pTF41laFOsu7xr"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Mi Trokita Cumbia",
+        "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
+      },
+      "artists": [
+        {
+          "name": "Obzesion",
+          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "Mi Trokita Cumbia",
+      "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Palabras Tristes",
-        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Mary Lee",
-      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Volumen Prohibido",
         "url": "https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Mary Lee",
+      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Olv\u00eddame T\u00fa",
         "url": "https://open.spotify.com/album/1WVbKmdcQlfQJLUYkGZu06"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 221160,
       "name": "Olv\u00eddame T\u00fa",
       "url": "https://open.spotify.com/track/2KwsKHfXagurEXkTPpWGEN"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Estan De Moda",
+        "url": "https://open.spotify.com/album/1Fkn6Cz8jObUYOeDqk7OMQ"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 285600,
+      "name": "Quien Perdera",
+      "url": "https://open.spotify.com/track/6UsPWRpytDo7qZUzqxO4fA"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1259,38 +1275,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Estan De Moda",
-        "url": "https://open.spotify.com/album/1Fkn6Cz8jObUYOeDqk7OMQ"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 285600,
-      "name": "Quien Perdera",
-      "url": "https://open.spotify.com/track/6UsPWRpytDo7qZUzqxO4fA"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Esto Es Lo Nuestro",
         "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
       },
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M"
       },
@@ -1319,22 +1319,6 @@
       "duration_ms": 272953,
       "name": "Te Ame",
       "url": "https://open.spotify.com/track/3srbe35RDBvPvAR7HjOm24"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Linda Mujer",
-        "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
-      },
-      "artists": [
-        {
-          "name": "Milla 22",
-          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
-        }
-      ],
-      "duration_ms": 169471,
-      "name": "Linda Mujer",
-      "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Linda Mujer",
+        "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "duration_ms": 169471,
+      "name": "Linda Mujer",
+      "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Cumbia Embajadora",
         "url": "https://open.spotify.com/album/3UGYBi2lUmY2RaCKthRugd"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "Hasta la Miel Amarga",
-      "url": "https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Tasty + B Sides",
         "url": "https://open.spotify.com/album/5IO0ppb7WMdyanUnnBCR0M"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 210653,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/4WfzRSiFd1ZlcIPLYAjLgg"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "Hasta la Miel Amarga",
+      "url": "https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Cartel De Santa",
-        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Perros",
-      "url": "https://open.spotify.com/track/14qnJ3HKmlKo1hwBQKJaB8"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Los Caminos De La Vida",
         "url": "https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 193853,
       "name": "Mi Raz\u00f3n De Ser",
       "url": "https://open.spotify.com/track/03JbYQiWdbNU50NmmSU6q3"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Cartel De Santa",
+        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 218066,
+      "name": "Perros",
+      "url": "https://open.spotify.com/track/14qnJ3HKmlKo1hwBQKJaB8"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Quiero Volar",
+        "url": "https://open.spotify.com/album/4xe7zD2yjkpRElKHwT9eYW"
+      },
+      "artists": [
+        {
+          "name": "Jorge Meza",
+          "url": "https://open.spotify.com/artist/6tZZ41M87iMusAZqcEDqSt"
+        },
+        {
+          "name": "y Su Tropicolombia",
+          "url": "https://open.spotify.com/artist/1j6CwJDQ5JAwZJsYuIS0Yc"
+        }
+      ],
+      "duration_ms": 286813,
+      "name": "Quiero Volar",
+      "url": "https://open.spotify.com/track/5eHBwnbKua85GTAOaSaMqn"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "14 vallenatos sabroso",
         "url": "https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 293362,
       "name": "Cumbia De Las Velas",
       "url": "https://open.spotify.com/track/1F2HeaOVvxpdfYl4K0NajA"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Quiero Volar",
-        "url": "https://open.spotify.com/album/4xe7zD2yjkpRElKHwT9eYW"
-      },
-      "artists": [
-        {
-          "name": "Jorge Meza",
-          "url": "https://open.spotify.com/artist/6tZZ41M87iMusAZqcEDqSt"
-        },
-        {
-          "name": "y Su Tropicolombia",
-          "url": "https://open.spotify.com/artist/1j6CwJDQ5JAwZJsYuIS0Yc"
-        }
-      ],
-      "duration_ms": 286813,
-      "name": "Quiero Volar",
-      "url": "https://open.spotify.com/track/5eHBwnbKua85GTAOaSaMqn"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Me Voy Pa'Chiriguan\u00e1 (Incluye el \u00c9xito 20 A\u00f1os)",
-        "url": "https://open.spotify.com/album/3aOD0U6WWViN8XoLqaWJwx"
-      },
-      "artists": [
-        {
-          "name": "Paco Silva y su Tropa Colombiana",
-          "url": "https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "20 a\u00f1os",
-      "url": "https://open.spotify.com/track/27sE27R2IzI7BR65DRK6tQ"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Esto Es Lo Nuestro",
         "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 145400,
       "name": "Que La Dejen Ir Al Baile",
       "url": "https://open.spotify.com/track/1JRbZTfW1XcMuKzsryNKyK"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Me Voy Pa'Chiriguan\u00e1 (Incluye el \u00c9xito 20 A\u00f1os)",
+        "url": "https://open.spotify.com/album/3aOD0U6WWViN8XoLqaWJwx"
+      },
+      "artists": [
+        {
+          "name": "Paco Silva y su Tropa Colombiana",
+          "url": "https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "20 a\u00f1os",
+      "url": "https://open.spotify.com/track/27sE27R2IzI7BR65DRK6tQ"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "La Pura Crema",
-        "url": "https://open.spotify.com/album/0VYlMRjGyHFZtnq7lZZ7wW"
-      },
-      "artists": [
-        {
-          "name": "KUMBIAMBEROS RS",
-          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
-        }
-      ],
-      "duration_ms": 227674,
-      "name": "Que Me Toque Una Cumbita (La Cumbita)",
-      "url": "https://open.spotify.com/track/1KD4PIbyvS4Gq2AQUVluWf"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "En vivo desde El Potrero",
         "url": "https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf"
       },
@@ -1971,18 +1955,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/08L2rvAy7JXN1QbIERaEB0"
+        "name": "La Pura Crema",
+        "url": "https://open.spotify.com/album/0VYlMRjGyHFZtnq7lZZ7wW"
       },
       "artists": [
         {
-          "name": "El Kombo Kolombia",
-          "url": "https://open.spotify.com/artist/3rtIjwhzCrcuShNmxeQcHu"
+          "name": "KUMBIAMBEROS RS",
+          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
         }
       ],
-      "duration_ms": 223236,
-      "name": "Regresa",
-      "url": "https://open.spotify.com/track/2dGTZcG5a1eHSa1jDs1eYp"
+      "duration_ms": 227674,
+      "name": "Que Me Toque Una Cumbita (La Cumbita)",
+      "url": "https://open.spotify.com/track/1KD4PIbyvS4Gq2AQUVluWf"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2003,18 +1987,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/08L2rvAy7JXN1QbIERaEB0"
       },
       "artists": [
         {
-          "name": "Genitallica",
-          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
+          "name": "El Kombo Kolombia",
+          "url": "https://open.spotify.com/artist/3rtIjwhzCrcuShNmxeQcHu"
         }
       ],
-      "duration_ms": 193453,
-      "name": "No Tengo Amigos",
-      "url": "https://open.spotify.com/track/6TPnm7nTohMR2Jds2aSTcV"
+      "duration_ms": 223236,
+      "name": "Regresa",
+      "url": "https://open.spotify.com/track/2dGTZcG5a1eHSa1jDs1eYp"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2035,6 +2019,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
+      },
+      "artists": [
+        {
+          "name": "Genitallica",
+          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "No Tengo Amigos",
+      "url": "https://open.spotify.com/track/6TPnm7nTohMR2Jds2aSTcV"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "FIESTA EN SAN BENITO",
         "url": "https://open.spotify.com/album/23XVhcVREUNB90qeQ7USHM"
       },
@@ -2047,22 +2047,6 @@
       "duration_ms": 264516,
       "name": "FIESTA EN SAN BENITO",
       "url": "https://open.spotify.com/track/0C5ZFYo2nhehqoT7WL1Qwl"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Sin Limites",
-        "url": "https://open.spotify.com/album/1A9EiNUhd2D5cZb0ngaEeT"
-      },
-      "artists": [
-        {
-          "name": "KUMBIAMBEROS RS",
-          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
-        }
-      ],
-      "duration_ms": 211984,
-      "name": "Mira, Mira, M\u00edrala",
-      "url": "https://open.spotify.com/track/7jZYIqoVPZlvASe7s9cQID"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2135,6 +2119,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Sin Limites",
+        "url": "https://open.spotify.com/album/1A9EiNUhd2D5cZb0ngaEeT"
+      },
+      "artists": [
+        {
+          "name": "KUMBIAMBEROS RS",
+          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
+        }
+      ],
+      "duration_ms": 211984,
+      "name": "Mira, Mira, M\u00edrala",
+      "url": "https://open.spotify.com/track/7jZYIqoVPZlvASe7s9cQID"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Por El Mundo",
         "url": "https://open.spotify.com/album/6t0JkXAwiSnIamjMWUDAwx"
       },
@@ -2179,6 +2179,22 @@
       "duration_ms": 232000,
       "name": "Cumbia Campesina",
       "url": "https://open.spotify.com/track/48JvqQzKtUoICeU0X8tl8o"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Versiones Unicas de los Reyes",
+        "url": "https://open.spotify.com/album/5hm1RWrfhuyfltmRfdk0Zj"
+      },
+      "artists": [
+        {
+          "name": "Javier Lopez y los Reyes Vallenatos",
+          "url": "https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO"
+        }
+      ],
+      "duration_ms": 279050,
+      "name": "Contigo Tengo Todo",
+      "url": "https://open.spotify.com/track/6Bg1q5anwMP5SWjygN9yUt"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2235,22 +2251,6 @@
       "duration_ms": 241986,
       "name": "Hiereme",
       "url": "https://open.spotify.com/track/0VALO2mJCnpzv8OSHlMlSq"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Versiones Unicas de los Reyes",
-        "url": "https://open.spotify.com/album/5hm1RWrfhuyfltmRfdk0Zj"
-      },
-      "artists": [
-        {
-          "name": "Javier Lopez y los Reyes Vallenatos",
-          "url": "https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO"
-        }
-      ],
-      "duration_ms": 279050,
-      "name": "Contigo Tengo Todo",
-      "url": "https://open.spotify.com/track/6Bg1q5anwMP5SWjygN9yUt"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Lo Que Tengo",
-        "url": "https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq"
-      },
-      "artists": [
-        {
-          "name": "Javier Lopez y los Reyes Vallenatos",
-          "url": "https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "La Cervecita",
-      "url": "https://open.spotify.com/track/18pdCGBI0xDiJvKTBHFTlO"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Fue un Amor de Verdad",
         "url": "https://open.spotify.com/album/6ezSwQtQ43aZ90CCLgvCLI"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 266157,
       "name": "Fue un Amor de Verdad",
       "url": "https://open.spotify.com/track/3PlfAEUT7kBr22ZWxel7gs"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Lo Que Tengo",
+        "url": "https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq"
+      },
+      "artists": [
+        {
+          "name": "Javier Lopez y los Reyes Vallenatos",
+          "url": "https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "La Cervecita",
+      "url": "https://open.spotify.com/track/18pdCGBI0xDiJvKTBHFTlO"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Lo Que Tengo",
-        "url": "https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq"
-      },
-      "artists": [
-        {
-          "name": "Javier Lopez y los Reyes Vallenatos",
-          "url": "https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO"
-        }
-      ],
-      "duration_ms": 286360,
-      "name": "Cumbia Mingui",
-      "url": "https://open.spotify.com/track/10hCTEJUqC0H3knK2EpUDL"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "La Fiesta de Maria Dolores",
         "url": "https://open.spotify.com/album/0aIozctoWa0yPo2bL0qIrl"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 204355,
       "name": "Ella",
       "url": "https://open.spotify.com/track/0hODFwvCUqhgKO5ItsEg4W"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Lo Que Tengo",
+        "url": "https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq"
+      },
+      "artists": [
+        {
+          "name": "Javier Lopez y los Reyes Vallenatos",
+          "url": "https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO"
+        }
+      ],
+      "duration_ms": 286360,
+      "name": "Cumbia Mingui",
+      "url": "https://open.spotify.com/track/10hCTEJUqC0H3knK2EpUDL"
     },
     {
       "added_at": "2023-11-08 22:38:29",

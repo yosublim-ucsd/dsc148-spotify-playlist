@@ -4,7 +4,7 @@
 
 > Club vibes wherever you are!
 
-102 songs - 5 hr 7 min
+103 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Candy](https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4) | [Candy](https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m) | 3:15 | 2023-09-01 | 2023-12-09 |
 | [Chill Like That](https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf) | 2:58 | 2023-09-01 | 2023-12-13 |
 | [Chill Like That](https://open.spotify.com/track/2NZABaUZUleW2mIuDlh5ZA) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/5gs6nZBT4z6lJ5Ack59TBY) | 2:59 | 2023-11-10 |  |
-| [Cocoon \- Martin Garrix & Space Ducks Remix](https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Space Ducks](https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6) | [Cocoon \(Martin Garrix & Space Ducks Remix\)](https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY) | 3:22 | 2023-09-01 |  |
+| [Cocoon \- Martin Garrix & Space Ducks Remix](https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Space Ducks](https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6) | [Cocoon \(Martin Garrix & Space Ducks Remix\)](https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY) | 3:22 | 2023-09-01 | 2024-02-08 |
 | [Day 'N' Night](https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Day 'N' Night](https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0) | 3:20 | 2023-09-01 |  |
 | [Deep Inside Of Me](https://open.spotify.com/track/2Ri0Qu7xCrxLRviLC2wo6x) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Deep Inside Of Me](https://open.spotify.com/album/0mxRqyRNmZk6KgOfLrF9jA) | 3:07 | 2023-10-05 | 2023-10-19 |
 | [Diamonds On My Mind](https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Diamonds On My Mind](https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs) | 2:48 | 2023-09-01 |  |
@@ -55,6 +55,7 @@
 | [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 | 2023-09-15 |  |
 | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA) | 2:27 | 2023-09-01 |  |
 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 | 2023-09-01 |  |
+| [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 | 2024-02-07 |  |
 | [Legacy](https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Legacy](https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai) | 3:50 | 2023-09-29 | 2024-01-25 |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-09-01 |  |
 | [Lost In The Rhythm](https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Lost In The Rhythm](https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq) | 2:50 | 2023-09-01 |  |

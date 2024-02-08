@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,625 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,654 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 46 | [Afro\-Shingaling](https://open.spotify.com/track/62Ppkk5aUAfSfewhZY1CC8) | [The Latinaires](https://open.spotify.com/artist/4sTXPMY0WxaeBKN4HAXLIj) | [Camel Walk](https://open.spotify.com/album/2Gx9abfQOdoIMggiAxDUof) | 3:57 |
 | 47 | [Llegaron Los Bonches](https://open.spotify.com/track/6ESDtZGTfYuauub8WpFowC) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Volando Bajito](https://open.spotify.com/album/21mczyHRqExR3ZfnG7AjlD) | 3:22 |
 | 48 | [Oh Yeah](https://open.spotify.com/track/0Cwx3l6mqlXQFvrIGcjNeP) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Greatest Hits](https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ) | 3:14 |
-| 49 | [Columbia's Boogaloo](https://open.spotify.com/track/7zy6qclDeaInxzaRdxbE9a) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 4:06 |
+| 49 | [Para Ti Mi Boogaloo](https://open.spotify.com/track/3EmMeV9qQRUUWs6QNGa6KZ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [¡La Excitante Celia Cruz!](https://open.spotify.com/album/4OjT7LQjLKDQHuAVjdvriw) | 2:32 |
 | 50 | [La Bamba](https://open.spotify.com/track/39DgsVDftJOLDqOdFmX7tf) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mr\. Watermelon Man](https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn) | 3:58 |
 
-Snapshot ID: `MCxmMzM1YTgwODhmYTAwYTcxOGU2NjRkNjA1MmQxNjliZTdjYTUzOWJi`
+Snapshot ID: `MCw3N2ZlYmZkNmUyNTIyODE5NzY4YTY5NTExZjYwOTM1ZTgwOGQzODA4`

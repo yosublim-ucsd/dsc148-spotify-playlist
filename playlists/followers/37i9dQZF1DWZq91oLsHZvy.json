@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 357093,
+  "2024-02-08": 357344,
   "date_first_scraped": "2022-01-24",
   "description": "Let's go!",
   "name": "Indie x Running",
@@ -609,7 +609,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 285000,
       "name": "Broken",
       "url": "https://open.spotify.com/track/5n4mNEN0wnFOvoob4VVx4W"
@@ -1041,7 +1041,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 221400,
       "name": "Crypto Kids",
       "url": "https://open.spotify.com/track/1jonRhesfjLxwBlFZk5sJh"

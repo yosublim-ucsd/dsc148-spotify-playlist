@@ -1,12 +1,12 @@
 {
   "description": "Best of the modern folk artists! Cover- Indian Ocean\n",
-  "num_followers": 72012,
+  "num_followers": 72048,
   "original_name": "Folk in India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDdiODY3YTlkMjAzNGZkM2JkZDhmZTA3MTI2MDNmODQ2M2YyNjRk",
+  "snapshot_id": "MCw1NGI1ZjQ0ZWI3NmFmYWZhMDEyNzE1N2FjZWZkMDE3MGY4NWU4ODc5",
   "tracks": [
     {
       "added_at": "2023-11-15 09:58:24",
@@ -61,24 +61,24 @@
       "url": "https://open.spotify.com/track/7h5jBU18CqXNhDUKRr6y7h"
     },
     {
-      "added_at": "2023-11-15 09:58:24",
+      "added_at": "2024-02-07 10:39:03",
       "album": {
-        "name": "Rupsa Ra Moti",
-        "url": "https://open.spotify.com/album/22W9JGHcLsPiQmnQJRogXz"
+        "name": "Maenziraat",
+        "url": "https://open.spotify.com/album/5fbzhkM3nBxtQcifrXa6dL"
       },
       "artists": [
         {
-          "name": "digV",
-          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
+          "name": "Aabha Hanjura",
+          "url": "https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P"
         },
         {
-          "name": "Sparsh Agrawal",
-          "url": "https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U"
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
         }
       ],
-      "duration_ms": 190588,
-      "name": "Rupsa Ra Moti",
-      "url": "https://open.spotify.com/track/56BIEuaSlJyjgQWdJF1WE4"
+      "duration_ms": 166136,
+      "name": "Maenziraat",
+      "url": "https://open.spotify.com/track/6BMwADwJAgnHWhANiDinwd"
     },
     {
       "added_at": "2023-11-15 09:58:24",
@@ -247,6 +247,26 @@
     {
       "added_at": "2023-11-15 09:58:24",
       "album": {
+        "name": "Rupsa Ra Moti",
+        "url": "https://open.spotify.com/album/22W9JGHcLsPiQmnQJRogXz"
+      },
+      "artists": [
+        {
+          "name": "digV",
+          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
+        },
+        {
+          "name": "Sparsh Agrawal",
+          "url": "https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "Rupsa Ra Moti",
+      "url": "https://open.spotify.com/track/56BIEuaSlJyjgQWdJF1WE4"
+    },
+    {
+      "added_at": "2023-11-15 09:58:24",
+      "album": {
         "name": "Desert Sessions",
         "url": "https://open.spotify.com/album/3MyKvUVZQMZ9RPqAda5NiU"
       },
@@ -343,6 +363,30 @@
     {
       "added_at": "2023-11-15 09:58:24",
       "album": {
+        "name": "Radhe (From Songs of Faith)",
+        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Neeraj Arya",
+          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
+        },
+        {
+          "name": "Arunima Bhattacharya",
+          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
+        }
+      ],
+      "duration_ms": 218307,
+      "name": "Radhe (From Songs of Faith)",
+      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
+    },
+    {
+      "added_at": "2023-11-15 09:58:24",
+      "album": {
         "name": "Chhaap Tilak",
         "url": "https://open.spotify.com/album/4PxJFikJLP5xm6P2WyWkml"
       },
@@ -367,30 +411,6 @@
       "duration_ms": 331089,
       "name": "Chhaap Tilak",
       "url": "https://open.spotify.com/track/1xMfoLDuxnwPBGR0uVrRpc"
-    },
-    {
-      "added_at": "2023-11-15 09:58:24",
-      "album": {
-        "name": "Radhe (From Songs of Faith)",
-        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Neeraj Arya",
-          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
-        },
-        {
-          "name": "Arunima Bhattacharya",
-          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
-        }
-      ],
-      "duration_ms": 218307,
-      "name": "Radhe (From Songs of Faith)",
-      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
     },
     {
       "added_at": "2023-11-15 09:58:24",
@@ -451,6 +471,50 @@
     {
       "added_at": "2023-11-15 09:58:24",
       "album": {
+        "name": "Muraliya",
+        "url": "https://open.spotify.com/album/5MjZEjF2ox16HlOd2J6Rh9"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 255630,
+      "name": "Muraliya",
+      "url": "https://open.spotify.com/track/66INq9JZJp9MsX05WXGqIN"
+    },
+    {
+      "added_at": "2023-11-15 09:58:24",
+      "album": {
+        "name": "Samjhe Na",
+        "url": "https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Mame Khan",
+          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
+        },
+        {
+          "name": "Ruchika Chauhan",
+          "url": "https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1"
+        }
+      ],
+      "duration_ms": 197277,
+      "name": "Samjhe Na",
+      "url": "https://open.spotify.com/track/24tI4KfHROiG1cZNPerXWo"
+    },
+    {
+      "added_at": "2023-11-15 09:58:24",
+      "album": {
         "name": "Shades of Cashmere",
         "url": "https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo"
       },
@@ -491,50 +555,6 @@
       "duration_ms": 260486,
       "name": "Ghat Ghat",
       "url": "https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK"
-    },
-    {
-      "added_at": "2023-11-15 09:58:24",
-      "album": {
-        "name": "Samjhe Na",
-        "url": "https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Mame Khan",
-          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
-        },
-        {
-          "name": "Ruchika Chauhan",
-          "url": "https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1"
-        }
-      ],
-      "duration_ms": 197277,
-      "name": "Samjhe Na",
-      "url": "https://open.spotify.com/track/24tI4KfHROiG1cZNPerXWo"
-    },
-    {
-      "added_at": "2023-11-15 09:58:24",
-      "album": {
-        "name": "Muraliya",
-        "url": "https://open.spotify.com/album/5MjZEjF2ox16HlOd2J6Rh9"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 255630,
-      "name": "Muraliya",
-      "url": "https://open.spotify.com/track/66INq9JZJp9MsX05WXGqIN"
     },
     {
       "added_at": "2023-11-15 09:58:24",
@@ -595,22 +615,6 @@
     {
       "added_at": "2023-11-15 09:58:24",
       "album": {
-        "name": "Maye Ni Meriye",
-        "url": "https://open.spotify.com/album/6sc04EqX9CJW4k1Q6pPiDW"
-      },
-      "artists": [
-        {
-          "name": "Britto Khangchian",
-          "url": "https://open.spotify.com/artist/6WCLC4572cMMQAFt0WEWYk"
-        }
-      ],
-      "duration_ms": 265728,
-      "name": "Maye Ni Meriye",
-      "url": "https://open.spotify.com/track/4ibRGHSHOS6D08Im4bLaYD"
-    },
-    {
-      "added_at": "2023-11-15 09:58:24",
-      "album": {
         "name": "Maari Maavadi",
         "url": "https://open.spotify.com/album/4cqzsdKCIQ59kOazoOVU5v"
       },
@@ -635,22 +639,18 @@
     {
       "added_at": "2023-11-15 09:58:24",
       "album": {
-        "name": "Bulaava Aaya",
-        "url": "https://open.spotify.com/album/05UdHSttBA2pc0JcTUrsXP"
+        "name": "Maye Ni Meriye",
+        "url": "https://open.spotify.com/album/6sc04EqX9CJW4k1Q6pPiDW"
       },
       "artists": [
         {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Gurdas Maan",
-          "url": "https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT"
+          "name": "Britto Khangchian",
+          "url": "https://open.spotify.com/artist/6WCLC4572cMMQAFt0WEWYk"
         }
       ],
-      "duration_ms": 334205,
-      "name": "Bulaava Aaya",
-      "url": "https://open.spotify.com/track/6HnkVw9GKU1ZqzJzpFOfvS"
+      "duration_ms": 265728,
+      "name": "Maye Ni Meriye",
+      "url": "https://open.spotify.com/track/4ibRGHSHOS6D08Im4bLaYD"
     },
     {
       "added_at": "2023-11-15 09:58:24",
@@ -675,6 +675,26 @@
       "duration_ms": 339000,
       "name": "Natkhat Nadiya",
       "url": "https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh"
+    },
+    {
+      "added_at": "2023-11-15 09:58:24",
+      "album": {
+        "name": "Bulaava Aaya",
+        "url": "https://open.spotify.com/album/05UdHSttBA2pc0JcTUrsXP"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Gurdas Maan",
+          "url": "https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT"
+        }
+      ],
+      "duration_ms": 334205,
+      "name": "Bulaava Aaya",
+      "url": "https://open.spotify.com/track/6HnkVw9GKU1ZqzJzpFOfvS"
     },
     {
       "added_at": "2023-11-15 09:58:24",
@@ -819,6 +839,22 @@
     {
       "added_at": "2023-11-15 09:58:24",
       "album": {
+        "name": "Hukus Bukus",
+        "url": "https://open.spotify.com/album/4bkhNqNkG5hIFVrDglvNCQ"
+      },
+      "artists": [
+        {
+          "name": "Aabha Hanjura",
+          "url": "https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P"
+        }
+      ],
+      "duration_ms": 246822,
+      "name": "Hukus Bukus",
+      "url": "https://open.spotify.com/track/7jo5tmRMOKlfBg1LLzodB5"
+    },
+    {
+      "added_at": "2023-11-15 09:58:24",
+      "album": {
         "name": "Mahadeva",
         "url": "https://open.spotify.com/album/6f9GkFAcMf5wiAOmo1fM2f"
       },
@@ -855,22 +891,6 @@
       "duration_ms": 233026,
       "name": "Kaash",
       "url": "https://open.spotify.com/track/0cZiZvDw379OH4eXqGDGtx"
-    },
-    {
-      "added_at": "2023-11-15 09:58:24",
-      "album": {
-        "name": "Hukus Bukus",
-        "url": "https://open.spotify.com/album/4bkhNqNkG5hIFVrDglvNCQ"
-      },
-      "artists": [
-        {
-          "name": "Aabha Hanjura",
-          "url": "https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P"
-        }
-      ],
-      "duration_ms": 246822,
-      "name": "Hukus Bukus",
-      "url": "https://open.spotify.com/track/7jo5tmRMOKlfBg1LLzodB5"
     },
     {
       "added_at": "2023-11-15 09:58:24",
@@ -999,22 +1019,6 @@
       "duration_ms": 175929,
       "name": "Haalyo Jaa (Secret Sessions X Collab Stories)",
       "url": "https://open.spotify.com/track/3QmeA8spViA3XNsOW0mQMQ"
-    },
-    {
-      "added_at": "2023-11-15 09:58:24",
-      "album": {
-        "name": "Tanna Na",
-        "url": "https://open.spotify.com/album/2smTIeKKgY9AIVYPtvADak"
-      },
-      "artists": [
-        {
-          "name": "Nyasa",
-          "url": "https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM"
-        }
-      ],
-      "duration_ms": 202242,
-      "name": "Tanna Na",
-      "url": "https://open.spotify.com/track/46nOdCXzOiSRDvfd8UHtPW"
     }
   ],
   "unique_name": "Folk in India",

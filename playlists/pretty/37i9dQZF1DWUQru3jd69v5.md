@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: SPOOKYPBL
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,583 likes - 45 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,565 likes - 45 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 44 | [BOUGIE](https://open.spotify.com/track/2YMwrPboAWRL4Vc8PvTK9a) | [Frittella](https://open.spotify.com/artist/0ROrQHmIQbC9sfBkVwkYxm) | [BOUGIE](https://open.spotify.com/album/2UOmVVBsrML5CIxX8c3BH3) | 1:43 |
 | 45 | [La Fama \(feat\. Voleur pnz\)](https://open.spotify.com/track/10sGsDCqaP5oXjOLgcDv97) | [Jacline Jones](https://open.spotify.com/artist/3ALquUdUg6G6tpRQNkSTsh), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [LA FAMA \(feat\. Voleur pnz\)](https://open.spotify.com/album/07mkDgOhnBE9gaTCo72oNr) | 2:42 |
 
-Snapshot ID: `MCwwZWUwYTFmMzU2NWE3Y2JkZmIzNmY5MDhiMWIwZjhiNzNhMWNkNTky`
+Snapshot ID: `MCw2NWUzMjUyNDZjNjJiN2IxNDg5YWYzYmQ1ZmY4ZjA5NDE5MDgxZmVj`

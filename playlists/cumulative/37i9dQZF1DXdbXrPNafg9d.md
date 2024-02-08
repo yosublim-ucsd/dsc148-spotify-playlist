@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Hovvdy
 
-6,482 songs - 15 day 18 hr 32 min
+6,483 songs - 15 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2526,7 +2526,8 @@
 | [Holy Rose](https://open.spotify.com/track/4RD0tyT7TfDyeLHJL0i420) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Holy Rose](https://open.spotify.com/album/4SEnNV8uDJVi1244tnjeEc) | 4:52 | 2021-01-15 | 2021-03-14 |
 | [Home](https://open.spotify.com/track/711gGx1GpUv9YW9KTSfJfH) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Home](https://open.spotify.com/album/00sZIJm0igl6aBYNktEuSy) | 2:36 | 2019-10-11 | 2019-11-22 |
 | [Home](https://open.spotify.com/track/3tYH04NBLuzodhjHpsBjoh) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:51 | 2022-07-29 | 2022-09-10 |
-| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-19 |  |
+| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-19 | 2024-02-08 |
+| [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-01-19 |  |
 | [Home](https://open.spotify.com/track/6scchkS0NryAmHAI1DAn3u) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Home](https://open.spotify.com/album/0Pg31KK4XLYNdxakShPn3R) | 3:38 | 2023-01-20 | 2023-02-25 |
 | [Home](https://open.spotify.com/track/6zuvB7LsseXwZX5uPg85NP) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Home](https://open.spotify.com/album/7I9rSYvAxc5lcyriRGAG0T) | 2:01 | 2020-03-26 | 2020-05-01 |
 | [Home \(From Barbie The Album\)](https://open.spotify.com/track/1GPrL6feCYodRiYlZkXs5I) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Home \(From Barbie The Album\)](https://open.spotify.com/album/1sNwCxUQOJNIPiWhXu6YBF) | 3:46 | 2023-07-21 | 2023-08-26 |

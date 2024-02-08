@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,701 songs - 3 day 18 hr 9 min
+1,702 songs - 3 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,7 +328,7 @@
 | [Chocolata](https://open.spotify.com/track/27G9K6OFL17tQc14q5EUEA) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Elai](https://open.spotify.com/artist/41qfKbF6qreDxiWBmOX39N) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 2:52 | 2022-12-10 | 2022-12-13 |
 | [Chop \(Nouvelle École\)](https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Chop \(Nouvelle École\)](https://open.spotify.com/album/2vAVFfoAjUMrDpXtcYhp5U) | 3:15 | 2022-06-24 | 2022-10-30 |
 | [Chop \- Nouvelle École](https://open.spotify.com/track/1NEL5O5FotR1OyPQyvlMag) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [À l'abri](https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53) | 3:15 | 2022-10-29 | 2022-11-16 |
-| [Chouchou](https://open.spotify.com/track/7ddAiJ1dvmdPjmCWu9uYsM) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:52 | 2024-02-03 |  |
+| [Chouchou](https://open.spotify.com/track/7ddAiJ1dvmdPjmCWu9uYsM) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:52 | 2024-02-03 | 2024-02-08 |
 | [Christian Dior \(feat\. MHD\)](https://open.spotify.com/track/2FCRrLMXTL5AMsm9xt7oZD) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 3:19 | 2021-09-19 | 2021-09-20 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:33 | 2022-12-25 | 2023-12-30 |
 | [Christmas Is Back in Town](https://open.spotify.com/track/2etA10mLFoJ1c0UOoeY7iZ) | [Gaspard Royant](https://open.spotify.com/artist/4TYLelqEy8Fy7dJrNPOmN4) | [Wishing You a Merry Christmas](https://open.spotify.com/album/6LC22vgJVWwo5ZzD50pk0j) | 3:13 | 2023-12-25 | 2023-12-27 |
@@ -1537,6 +1537,7 @@
 | [THIS YEAR \(Blessings\) \- French Remix](https://open.spotify.com/track/4cVnXm3iHSlOYRtHZcEEbj) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[French Remix\]](https://open.spotify.com/album/1Fut8RnDlNYmDLb5oqDySz) | 2:14 | 2023-06-23 | 2023-08-29 |
 | [Thriller](https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 5:57 | 2023-11-01 | 2023-11-03 |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2022-01-09 | 2022-05-29 |
+| [Tiki Taka](https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Tiki Taka](https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq) | 2:45 | 2024-02-07 |  |
 | [Tiki Taka](https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Tiki Taka](https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N) | 2:54 | 2023-01-29 | 2023-02-26 |
 | [Tiki Taka](https://open.spotify.com/track/6pIciAIov7TP5Zj4PTN9rc) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Galatée](https://open.spotify.com/album/0fYC25oqs9YmPIa3V09feB) | 2:54 | 2023-02-25 | 2023-09-24 |
 | [TIL FURTHER NOTICE](https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:14 | 2023-07-29 | 2023-07-31 |

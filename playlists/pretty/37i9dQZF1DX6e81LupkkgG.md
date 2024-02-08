@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,720 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,717 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 89 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
 | 90 | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ) | 2:58 |
 | 91 | [I Follow](https://open.spotify.com/track/4QZYTmGqtEHngxs10Rd9qB) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [I Follow](https://open.spotify.com/album/49Odx8cys3L27jGmwFMQT6) | 2:49 |
-| 92 | [Broken is the man](https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:12 |
-| 93 | [U Move, I Move \(feat\. Jhene Aiko\)](https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:43 |
+| 92 | [U Move, I Move \(feat\. Jhene Aiko\)](https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:43 |
+| 93 | [Broken is the man](https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:12 |
 | 94 | [Heaven](https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Heaven](https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw) | 3:14 |
 | 95 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 |
 | 96 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 99 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 |
 | 100 | [Let Her Go \- Acoustic](https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights \(Deluxe Version\)](https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF) | 4:26 |
 
-Snapshot ID: `MCw5MmZkZWJhNGY0NGQyMDJiZWE1ZmM0NzQ2ZDI1YzQyYjdiODRiMDFi`
+Snapshot ID: `MCxkYjA4ODQ5YjhhNmYxOTk1MTM5YzdjZmFhZmNhZTE1MDIyYjNiN2Y2`

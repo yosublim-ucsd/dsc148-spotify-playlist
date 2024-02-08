@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Jazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,538 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,597 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI) | 3:50 |
 | 80 | [Pink Skies](https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:21 |
 
-Snapshot ID: `MCwzZmExMzVjYjJjOWY3YTY1ZTUyMWJmOWNhMjZiZDI3YTAzODg3YjAz`
+Snapshot ID: `MCxmZDUwODIxZmFiZDJjY2I1ZTc1YTRiN2Q4OGZhYjcxZTc4ZDY2OTIx`

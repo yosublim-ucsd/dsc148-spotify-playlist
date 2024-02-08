@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: JJJ
 
-460 songs - 23 hr 40 min
+462 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Demon](https://open.spotify.com/track/0zZ7wK7JjXXLKd38i2M0zh) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [Demon](https://open.spotify.com/album/4m0qYtUPfTAPtCitvg1Bz1) | 2:54 | 2023-10-24 | 2024-01-26 |
 | [Dependent](https://open.spotify.com/track/5vnbSGZcQ6NjmENi2AcePr) | [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [Dependent](https://open.spotify.com/album/1ZFnFAn0Z0YnJyOqIMjMkY) | 3:18 | 2023-11-29 | 2024-01-31 |
 | [Después Del Verano](https://open.spotify.com/track/2SwmhJBLFRYwYJoZVNZX2R) | [Yata41](https://open.spotify.com/artist/2Xdx4XGWGFCN6FAevqxODz), [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken) | [Después Del Verano](https://open.spotify.com/album/6HosXlNlmmTPCkMgJLWfsE) | 3:38 | 2023-09-21 | 2023-09-27 |
+| [DICE](https://open.spotify.com/track/3ndMItoMPAhxqHPhjVfDOK) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [DICE](https://open.spotify.com/album/2HSA6nhXG87EebkARaDxc3) | 2:28 | 2024-02-06 |  |
 | [DIFFICULT](https://open.spotify.com/track/6RbrF27Pe3oHVt0tC7cIwD) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [ROBIN HOOD STREET](https://open.spotify.com/album/160Dp7uGHyAp4BBuxtbv3c) | 3:40 | 2023-09-21 |  |
 | [DIY](https://open.spotify.com/track/21Dfcbq9Fiki70prHOhhdJ) | [Itto](https://open.spotify.com/artist/2ysorIMr4GzHF4dHiVRX5E), [maiya rei](https://open.spotify.com/artist/4jB1yAzdJ2wmkAlhr5BzgZ) | [DIY](https://open.spotify.com/album/6xQC8VCtzdrwECjSMUVzXf) | 2:02 | 2023-10-31 | 2023-11-09 |
 | [Do My Thing](https://open.spotify.com/track/6si4M55L98W1Ry8Wt5JXsP) | [Yusuke Saint Laurent](https://open.spotify.com/artist/7xTliLH8uU8A0jttkKIMrD), [ONENESS](https://open.spotify.com/artist/6LHXDH2zKswgGpGvVzU4TL) | [Do My Thing](https://open.spotify.com/album/3HaPCuqdx5A8zUDdPnWVlW) | 2:07 | 2023-12-07 | 2023-12-14 |
@@ -264,7 +265,8 @@
 | [never4ever](https://open.spotify.com/track/5lEJuqYmCHLXdHIfYJwsEv) | [BBY NABE](https://open.spotify.com/artist/4zb2mUkgFg9NGwAJnzlS8B), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [now that UR gone](https://open.spotify.com/album/4pujOHKtOo25md7rMwnRLE) | 2:48 | 2023-09-28 | 2023-11-16 |
 | [New](https://open.spotify.com/track/2GhyoDmyAJrrxAczVaBNYz) | [OSAMI](https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr) | [New](https://open.spotify.com/album/2uCilGcs4sSm99a3QUXNjO) | 2:13 | 2024-01-30 |  |
 | [New](https://open.spotify.com/track/7yn7n43wCQbbZnTsaQ1IqM) | [OSAMI](https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr) | [New](https://open.spotify.com/album/32JAOiXDhNpimgyjJv4fA8) | 2:13 | 2024-01-30 | 2024-02-01 |
-| [New Balance](https://open.spotify.com/track/1WqTLTA1e1oeAMkPq6bqgg) | [18scott](https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33) | [New Balance](https://open.spotify.com/album/1AkoAGBaL8rdGdf21KwiTO) | 2:17 | 2024-02-06 |  |
+| [New Balance](https://open.spotify.com/track/1WqTLTA1e1oeAMkPq6bqgg) | [18scott](https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33) | [New Balance](https://open.spotify.com/album/1AkoAGBaL8rdGdf21KwiTO) | 2:17 | 2024-02-06 | 2024-02-08 |
+| [New Balance](https://open.spotify.com/track/2ZH6YXI0oN0cY2PmT5uKru) | [18scott](https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33) | [New Balance](https://open.spotify.com/album/0sOlU9sNpco1MqShnwHaWo) | 2:17 | 2024-02-06 |  |
 | [NEW ERA](https://open.spotify.com/track/6ehRUrdNQ5xNYpuBj3cOsS) | [Rave Racers](https://open.spotify.com/artist/7cAx8raTkmzauwfJqGj0Ug), [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba) | [NEW ERA](https://open.spotify.com/album/0SatBqzr0TitMpCsxTrFK3) | 1:54 | 2023-09-21 | 2023-09-27 |
 | [New iCON](https://open.spotify.com/track/2I3ovUnNrnpidKk8M6RO95) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO), [XLARGE](https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv) | [New iCON](https://open.spotify.com/album/1ODpzk17yh74TNWbatcfQX) | 2:27 | 2023-10-03 | 2023-10-05 |
 | [New iCON](https://open.spotify.com/track/66DeDyxhkohYSEEDMIY5Hm) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO), [XLARGE](https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv) | [New iCON](https://open.spotify.com/album/3oRtruh4uvJBujLjoh4nun) | 2:27 | 2023-10-03 | 2023-10-25 |
@@ -446,7 +448,7 @@
 | [イカれたゲーム](https://open.spotify.com/track/35AqyuX0ti4FuUnaElmC0o) | [KUJA](https://open.spotify.com/artist/57mU8ikgaVL2JTK5zrr01c), [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO) | [イカれたゲーム](https://open.spotify.com/album/3hEPaFA3NrAuHf28kaaqjB) | 3:38 | 2023-10-31 | 2023-11-02 |
 | [オレたちが気になる](https://open.spotify.com/track/5uk6OoObDUbDbvsbfVKlnu) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS), [炒炒](https://open.spotify.com/artist/7ACr4V99K9o7WZrPIFlys0), [D\-KARAT](https://open.spotify.com/artist/2RiJGoRLhaoP2CG6AM1ViK) | [Zee PACK vol.2](https://open.spotify.com/album/6SNvmlEdCEpJgUMGOiCokh) | 3:23 | 2023-12-20 | 2023-12-23 |
 | [カナデ](https://open.spotify.com/track/12f1Jpu5Xrcl7JVwmAf1uz) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [カナデ](https://open.spotify.com/album/6rvvgIw4mLNYG6M4xE49Vn) | 4:23 | 2023-11-28 | 2024-01-31 |
-| [サイコロ](https://open.spotify.com/track/2PyS0Dvx9eiAXWLgjg4qtN) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [サイコロ](https://open.spotify.com/album/1Z6zdkNk4CnvDypdOnSKa1) | 2:28 | 2024-02-06 |  |
+| [サイコロ](https://open.spotify.com/track/2PyS0Dvx9eiAXWLgjg4qtN) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [サイコロ](https://open.spotify.com/album/1Z6zdkNk4CnvDypdOnSKa1) | 2:28 | 2024-02-06 | 2024-02-08 |
 | [ソールとSoul](https://open.spotify.com/track/5B2riCpFmUMebY1W9eABPj) | [TKdaKurobuchi](https://open.spotify.com/artist/3YeqRPuVdUg4RbLJkIMrY8), [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [ソールとSoul](https://open.spotify.com/album/3AizpdSBOGiEqkSKGrbGfd) | 2:22 | 2023-11-22 | 2023-11-23 |
 | [ビリケン](https://open.spotify.com/track/4uw7rnFgYs9g3pdexIIL7L) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [ビリケン](https://open.spotify.com/album/5Um8TaZJ6QluqpqlMMs2db) | 2:30 | 2023-10-12 | 2023-11-30 |
 | [上にあるバッズ](https://open.spotify.com/track/4YOgeNWNFqgTTAgvPJGXZS) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [TaeyoungBoy](https://open.spotify.com/artist/6U9PA9nXDmzmlpSwR9KJ2n) | [上にあるバッズ](https://open.spotify.com/album/33A352cI9mBFRpMmuIvZwk) | 2:28 | 2023-09-26 | 2023-09-28 |

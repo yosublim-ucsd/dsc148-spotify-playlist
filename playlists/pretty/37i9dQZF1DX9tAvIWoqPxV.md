@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tAvIWoqPxV.md) - [plain]
 | 31 | [Stretch Out](https://open.spotify.com/track/73H3Vjx7PtC6ntVr3F1rRU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stretch Out](https://open.spotify.com/album/02hSfOu0sNbuWlh8lxEQ4e) | 3:10 |
 | 32 | [Circles](https://open.spotify.com/track/2wThXy2VoKMjKK8GeV4XHe) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [Circles](https://open.spotify.com/album/0sFP5ZqmdCGwNUstW9oGIR) | 3:14 |
 | 33 | [Deja Vu](https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Deja Vu](https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9) | 2:42 |
-| 34 | [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 |
+| 34 | [Cosmos](https://open.spotify.com/track/0iwgldb9jw0O9HOj1FUWgH) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/4fP8xQzp2kRs4Nr24ntJaN) | 3:03 |
 | 35 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/2v8pXJPPFUP6mUl9ZihUfD) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 3:29 |
 | 36 | [Leave You Alone](https://open.spotify.com/track/266b55L7iAmnNdphZDeZ8p) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Leave You Alone](https://open.spotify.com/album/2LwQhwvAWd15eFJfzNDiAU) | 3:10 |
 | 37 | [This Time](https://open.spotify.com/track/35xac9lrVm5jCNRtgxoYAS) | [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC) | [This Time](https://open.spotify.com/album/6oOpy2bMqIoqFdK0vSfHxR) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tAvIWoqPxV.md) - [plain]
 | 49 | [Better With You](https://open.spotify.com/track/76PSAnoPnMEzF4xmflptce) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Better With You](https://open.spotify.com/album/6ezo2KxwPTWq0Ov5IyIx22) | 2:13 |
 | 50 | [Darling](https://open.spotify.com/track/442CrII1BuI3Q9OmzAAwTq) | [BRIDGE](https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8) | [Cry Baby](https://open.spotify.com/album/4BvzVMX9CAVDfP12AIXu53) | 3:01 |
 
-Snapshot ID: `MCw5YjlmNjViMmM2MmE3YWUwMGZmOTJmZDUwNTY5MTgyYjY0NzA2ZTNj`
+Snapshot ID: `MCw4MTE4NTU3MzljOTcwMWQ5ODMwZmFlZTMzMDhjMzk5ODU0NTU1OTEy`

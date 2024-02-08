@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Death Lens
 
-1,575 songs - 3 day 6 hr 35 min
+1,576 songs - 3 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1062,7 +1062,8 @@
 | [Predator](https://open.spotify.com/track/5LT88wAiBchqnuM9ax4Jyf) | [Chelsea Manor](https://open.spotify.com/artist/6lcIRoW3WY9h7z0iqfghFc) | [Predator](https://open.spotify.com/album/2lCEjOo99WLMsxoGy4WeOv) | 3:13 | 2023-09-01 | 2023-10-20 |
 | [Predatory Loans](https://open.spotify.com/track/0KDuBV8q9V2SIRHuC6pdn7) | [Dead Tired](https://open.spotify.com/artist/1H0jbitIBEtd1dayvgl2bT) | [Predatory Loans](https://open.spotify.com/album/71LRsbZzsAvpPkSjGgLWkd) | 4:07 | 2022-06-02 | 2022-07-15 |
 | [Premium Offer](https://open.spotify.com/track/4QAO8vNiEQJFECZyfksE4i) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Premium Offer](https://open.spotify.com/album/0779EKnVwh2qEe4qzM2woS) | 2:54 | 2022-02-11 | 2022-03-04 |
-| [Pressure Pad](https://open.spotify.com/track/57IFMHwEFTAtHYMfYDLozQ) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Pressure Pad](https://open.spotify.com/album/17nPf4Ob5eTHvi22wumDDo) | 3:28 | 2024-01-12 |  |
+| [Pressure Pad](https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Down There!](https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi) | 3:28 | 2024-02-02 |  |
+| [Pressure Pad](https://open.spotify.com/track/57IFMHwEFTAtHYMfYDLozQ) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Pressure Pad](https://open.spotify.com/album/17nPf4Ob5eTHvi22wumDDo) | 3:28 | 2024-01-12 | 2024-02-08 |
 | [Pretend](https://open.spotify.com/track/17rev5TwrcPMTXNOo267sw) | [Sessions](https://open.spotify.com/artist/4EYXC856iZB8nZSNWkcD9J) | [Pretend](https://open.spotify.com/album/6yLmA8rJQecpueryDynXH9) | 4:10 | 2023-07-13 | 2023-09-22 |
 | [Pretty Boy](https://open.spotify.com/track/0YsIuTjyAx31Eaun9LP7Ye) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Pretty Boy](https://open.spotify.com/album/4FGat65ksk32oqquDxtFSQ) | 2:55 | 2023-09-22 | 2023-11-17 |
 | [Prism on a Window](https://open.spotify.com/track/2Pjyh2H2WfHgXtpKyAmqJH) | [Worst Party Ever](https://open.spotify.com/artist/2bLENLdxlsq2xbvzMa1SUG) | [Prism on a Window](https://open.spotify.com/album/5SHquT5v0YBVOBVJcQDTMb) | 2:52 | 2021-12-17 | 2022-01-15 |

@@ -4,7 +4,7 @@
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Henry Moodie
 
-371 songs - 22 hr 41 min
+373 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-03-23 | 2023-05-12 |
 | [BUBBLY](https://open.spotify.com/track/1YxMfqTpk22khi8ZfmSK0G) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [BUBBLY](https://open.spotify.com/album/4vIEdzVa15kQvoalvxPIz5) | 2:51 | 2023-03-23 | 2023-04-14 |
 | [Bukan Begitu Caramu](https://open.spotify.com/track/3NdCAbNYphC9p2gSKPV877) | [Good Morning Everyone](https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK) | [Bukan Begitu Caramu](https://open.spotify.com/album/6VRfToOj7zRnB7ZZlwxNGE) | 4:02 | 2023-10-05 | 2023-11-10 |
+| [Bulan Dikekang Malam \- From ''Ayat Ayat Cinta 2''](https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Bulan Dikekang Malam \(From ''Ayat Ayat Cinta 2''\)](https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69) | 3:54 | 2024-02-07 |  |
 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 | 2023-12-06 |  |
 | [Butterfly](https://open.spotify.com/track/5izrZx8Op6kcEv6LB3eqlL) | [gonebloom](https://open.spotify.com/artist/50ic5Z28Rbu8He7HZMdAOf), [Qyla Nahar](https://open.spotify.com/artist/0Hg9WARHKX5Y6JX3aIBmHu) | [Butterfly](https://open.spotify.com/album/5fDJuvgVqro7Z82k7ZkWcw) | 3:35 | 2023-03-23 | 2023-04-28 |
 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2023-12-21 | 2024-01-05 |
@@ -109,6 +110,7 @@
 | [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2023-03-23 | 2023-04-15 |
 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-04-13 | 2023-05-12 |
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2023-03-23 | 2023-08-04 |
+| [Favorite Girl](https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 4:16 | 2024-02-07 |  |
 | [Fearless \(Taylor’s Version\)](https://open.spotify.com/track/77sMIMlNaSURUAXq5coCxE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:01 | 2023-07-14 | 2023-12-15 |
 | [Fictional](https://open.spotify.com/track/56xb5xXdUopdjiknbFmC4W) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The In Between](https://open.spotify.com/album/21aE1LtpqO4s48QPnomkIk) | 3:43 | 2023-08-18 | 2023-09-16 |
 | [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 | 2023-05-18 | 2023-08-23 |
@@ -153,7 +155,7 @@
 | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/track/4Ssmc2huU8shKR9aO9PMQH) | [Gadis Kretek \- Cast](https://open.spotify.com/artist/4Vhjay9RCWFn14SVCpXY2a), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/album/6KBxUSNGEAMLGxo9GwpGOt) | 3:21 | 2023-12-01 | 2024-02-02 |
 | [Kamu Cantik Kamu Baik](https://open.spotify.com/track/4lK7zM6W6QHu9GNdR2BX8i) | [Lyla](https://open.spotify.com/artist/3GheatPWdVzxqmRXOKxHTb) | [Dunia Sempurna](https://open.spotify.com/album/2lMFq1ZxiB2JjwUxdNBrRW) | 4:06 | 2023-03-23 | 2023-04-27 |
 | [Karena Kamu](https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Meraih Bintang](https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL) | 3:54 | 2023-11-09 |  |
-| [Kasar](https://open.spotify.com/track/7pPzSbQlg1b8VQFnUFyHQ7) | [Syarla](https://open.spotify.com/artist/3SnAuONzYaCzmnojLPCbnx) | [Kasar](https://open.spotify.com/album/6pYBCfqmjcJSWrGzYo28V9) | 3:49 | 2023-12-28 |  |
+| [Kasar](https://open.spotify.com/track/7pPzSbQlg1b8VQFnUFyHQ7) | [Syarla](https://open.spotify.com/artist/3SnAuONzYaCzmnojLPCbnx) | [Kasar](https://open.spotify.com/album/6pYBCfqmjcJSWrGzYo28V9) | 3:49 | 2023-12-28 | 2024-02-08 |
 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 | 2023-03-23 | 2023-12-02 |
 | [Kembali Pulang](https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Kembali Pulang](https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih) | 3:27 | 2023-03-23 | 2023-08-04 |
 | [Kenanglah Aku](https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ) | [NaFF](https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5) | [Senandung Hati dan Jiwa](https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52) | 4:00 | 2023-09-29 | 2023-12-22 |
@@ -369,7 +371,7 @@
 | [Ya Maulana](https://open.spotify.com/track/1rnNm4yEXQCdnjQTsObWlY) | [Opick](https://open.spotify.com/artist/5KN9rEUWrzshrf0FU2n3Iz) | [Ya Maulana](https://open.spotify.com/album/15SWHhL9GcwUZ2pPPlcwtF) | 3:43 | 2023-03-27 | 2023-04-21 |
 | [Yang Tlah Merelakanmu](https://open.spotify.com/track/7zcmeZ4Xt54ICq90anFSXq) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Dunia Yang Indah](https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5) | 4:53 | 2023-12-14 |  |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2023-05-18 | 2023-09-22 |
-| [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-02-01 |  |
+| [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-02-01 | 2024-02-08 |
 | [You & I](https://open.spotify.com/track/3mX2GKPSW38pRpdmC9tdvY) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [You & I](https://open.spotify.com/album/0eP9tZfnTfXk8aSnqPRC15) | 2:31 | 2023-04-13 | 2023-10-06 |
 | [You & I](https://open.spotify.com/track/0epYQ0yLA5RUYyrhADkF0j) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [You & I](https://open.spotify.com/album/3zqHROb3Ja6GiVxbdGQeMu) | 2:31 | 2023-03-23 | 2023-04-17 |
 | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/album/69ybwJj0gIujut2fiIMQLY) | 3:06 | 2024-01-10 |  |

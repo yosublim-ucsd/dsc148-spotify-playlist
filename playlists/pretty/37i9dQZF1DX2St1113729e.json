@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Meth Math",
-  "num_followers": 124797,
+  "num_followers": 124795,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWZhYjhkN2IyYWQ0NWU3YzQ1YzA2ODA0MWVmZWMyOTNkMDk0ZTk1",
+  "snapshot_id": "MCxlOTY5ZDZhY2NiZThiMTgwMTIxMjNlZGQwNzhkYWQ4ODdjYWE4YjFm",
   "tracks": [
     {
       "added_at": "2024-02-02 03:00:00",
@@ -627,30 +627,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "INCEL",
-        "url": "https://open.spotify.com/album/3eX3K3tfZF6UBaiTubLoWK"
-      },
-      "artists": [
-        {
-          "name": "BB ASUL",
-          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
-        },
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        },
-        {
-          "name": "BLAIR",
-          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
-        }
-      ],
-      "duration_ms": 228456,
-      "name": "INCEL",
-      "url": "https://open.spotify.com/track/7fhBoPJVNgY859V4nUP7x6"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "guardian angel",
         "url": "https://open.spotify.com/album/46lr95nzgntYPq8cin5kN8"
       },
@@ -671,6 +647,30 @@
       "duration_ms": 106666,
       "name": "guardian angel",
       "url": "https://open.spotify.com/track/7FvUAQmTuhOOYaDjuL0jdy"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "INCEL",
+        "url": "https://open.spotify.com/album/3eX3K3tfZF6UBaiTubLoWK"
+      },
+      "artists": [
+        {
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+        },
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        },
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "duration_ms": 228456,
+      "name": "INCEL",
+      "url": "https://open.spotify.com/track/7fhBoPJVNgY859V4nUP7x6"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -763,26 +763,18 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "RUIDO",
-        "url": "https://open.spotify.com/album/45z22BuxWT6IWGwvbBpd1M"
+        "name": "Chupetones",
+        "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
       },
       "artists": [
         {
-          "name": "Rakky Ripper",
-          "url": "https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj"
-        },
-        {
-          "name": "RIZHA",
-          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
-        },
-        {
-          "name": "detunedfreq",
-          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
         }
       ],
-      "duration_ms": 201624,
-      "name": "RUIDO",
-      "url": "https://open.spotify.com/track/1D4M14uj2mFZKgq5Hro3qw"
+      "duration_ms": 151000,
+      "name": "Mantis",
+      "url": "https://open.spotify.com/track/7hWuZeWZjSclI6TO6tcQmN"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -807,18 +799,26 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Chupetones",
-        "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
+        "name": "RUIDO",
+        "url": "https://open.spotify.com/album/45z22BuxWT6IWGwvbBpd1M"
       },
       "artists": [
         {
-          "name": "Meth Math",
-          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+          "name": "Rakky Ripper",
+          "url": "https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj"
+        },
+        {
+          "name": "RIZHA",
+          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
+        },
+        {
+          "name": "detunedfreq",
+          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
         }
       ],
-      "duration_ms": 151000,
-      "name": "Mantis",
-      "url": "https://open.spotify.com/track/7hWuZeWZjSclI6TO6tcQmN"
+      "duration_ms": 201624,
+      "name": "RUIDO",
+      "url": "https://open.spotify.com/track/1D4M14uj2mFZKgq5Hro3qw"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Chupetones",
+        "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
+      },
+      "artists": [
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Cyberia",
+      "url": "https://open.spotify.com/track/0dP30l5UIOLDaHiIpVm9mM"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Ronin",
         "url": "https://open.spotify.com/album/0KhBZHxOHPELzzIORsZcoE"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 190158,
       "name": "SONRISAS & L\u00c1GRIMAS",
       "url": "https://open.spotify.com/track/5iov0X5z1uz67GVrbQswaL"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Chupetones",
-        "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
-      },
-      "artists": [
-        {
-          "name": "Meth Math",
-          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Cyberia",
-      "url": "https://open.spotify.com/track/0dP30l5UIOLDaHiIpVm9mM"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Hyperandom.Mp3",
-        "url": "https://open.spotify.com/album/0lIGjZNui4AS8UHVTml2fF"
-      },
-      "artists": [
-        {
-          "name": "cmilo",
-          "url": "https://open.spotify.com/artist/1IhwB9stYiMABWq9qrpn6o"
-        }
-      ],
-      "duration_ms": 97896,
-      "name": "Hyperandom.Mp3",
-      "url": "https://open.spotify.com/track/5GuctQvRHBBTKQzErDzP47"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "demasiadas cosas",
         "url": "https://open.spotify.com/album/1BSp9Jauc2msX3VDOamCF6"
       },
@@ -1559,18 +1543,34 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "ALAS Y GARRAS",
-        "url": "https://open.spotify.com/album/1jGCunUecbzbpPS0vyJdbt"
+        "name": "HYPER PUC",
+        "url": "https://open.spotify.com/album/3VkmZxyLYOuSeBqhKYwJBP"
       },
       "artists": [
         {
-          "name": "Andrea Mir",
-          "url": "https://open.spotify.com/artist/6i4kEOvhG0iB0JhqY2r4vf"
+          "name": "Eva Puc",
+          "url": "https://open.spotify.com/artist/2zA0HW4T836wu7h3atnUiO"
         }
       ],
-      "duration_ms": 194560,
-      "name": "TE MISSEO",
-      "url": "https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV"
+      "duration_ms": 130285,
+      "name": "Un Techno",
+      "url": "https://open.spotify.com/track/48zjy7vkY1ODmJZTTb463A"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Hyperandom.Mp3",
+        "url": "https://open.spotify.com/album/0lIGjZNui4AS8UHVTml2fF"
+      },
+      "artists": [
+        {
+          "name": "cmilo",
+          "url": "https://open.spotify.com/artist/1IhwB9stYiMABWq9qrpn6o"
+        }
+      ],
+      "duration_ms": 97896,
+      "name": "Hyperandom.Mp3",
+      "url": "https://open.spotify.com/track/5GuctQvRHBBTKQzErDzP47"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1591,38 +1591,18 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "HYPER PUC",
-        "url": "https://open.spotify.com/album/3VkmZxyLYOuSeBqhKYwJBP"
+        "name": "ALAS Y GARRAS",
+        "url": "https://open.spotify.com/album/1jGCunUecbzbpPS0vyJdbt"
       },
       "artists": [
         {
-          "name": "Eva Puc",
-          "url": "https://open.spotify.com/artist/2zA0HW4T836wu7h3atnUiO"
+          "name": "Andrea Mir",
+          "url": "https://open.spotify.com/artist/6i4kEOvhG0iB0JhqY2r4vf"
         }
       ],
-      "duration_ms": 130285,
-      "name": "Un Techno",
-      "url": "https://open.spotify.com/track/48zjy7vkY1ODmJZTTb463A"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "EL TRUCO",
-        "url": "https://open.spotify.com/album/1Xp2oUvdcyeb4KTIErNh37"
-      },
-      "artists": [
-        {
-          "name": "Juana Rozas",
-          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
-        },
-        {
-          "name": "MARTTEIN",
-          "url": "https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48"
-        }
-      ],
-      "duration_ms": 114081,
-      "name": "Un Grito",
-      "url": "https://open.spotify.com/track/6y4rsutCVbl9hJbWDwNYA5"
+      "duration_ms": 194560,
+      "name": "TE MISSEO",
+      "url": "https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1651,6 +1631,26 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "EL TRUCO",
+        "url": "https://open.spotify.com/album/1Xp2oUvdcyeb4KTIErNh37"
+      },
+      "artists": [
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        },
+        {
+          "name": "MARTTEIN",
+          "url": "https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48"
+        }
+      ],
+      "duration_ms": 114081,
+      "name": "Un Grito",
+      "url": "https://open.spotify.com/track/6y4rsutCVbl9hJbWDwNYA5"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Es Un Placer Conocerte",
         "url": "https://open.spotify.com/album/1AwLP3aCyVDW7WT770AVqz"
       },
@@ -1667,6 +1667,22 @@
       "duration_ms": 160075,
       "name": "Es Un Placer Conocerte",
       "url": "https://open.spotify.com/track/2M1bRGK3o1VKEFXqQLHceM"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Sangre",
+        "url": "https://open.spotify.com/album/09RMX5vSign9TSfm11I18W"
+      },
+      "artists": [
+        {
+          "name": "Tekilas",
+          "url": "https://open.spotify.com/artist/6asFFldfwacpWS6tsmPODw"
+        }
+      ],
+      "duration_ms": 181092,
+      "name": "Sangre",
+      "url": "https://open.spotify.com/track/0vh4qde6Oqg7MknExXcGdv"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1691,22 +1707,6 @@
       "duration_ms": 144000,
       "name": "YNKHM (feat. Martin Ma\u00f1as & lichi)",
       "url": "https://open.spotify.com/track/5x3Dw81qHc2qADmwkrbWPc"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Sangre",
-        "url": "https://open.spotify.com/album/09RMX5vSign9TSfm11I18W"
-      },
-      "artists": [
-        {
-          "name": "Tekilas",
-          "url": "https://open.spotify.com/artist/6asFFldfwacpWS6tsmPODw"
-        }
-      ],
-      "duration_ms": 181092,
-      "name": "Sangre",
-      "url": "https://open.spotify.com/track/0vh4qde6Oqg7MknExXcGdv"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "APURADO",
+        "url": "https://open.spotify.com/album/3ZqhFXaVhmssyGnrRQ4imc"
+      },
+      "artists": [
+        {
+          "name": "Persse",
+          "url": "https://open.spotify.com/artist/6rKyjr2gRyn5roNM7QR6qT"
+        }
+      ],
+      "duration_ms": 141916,
+      "name": "APURADO",
+      "url": "https://open.spotify.com/track/3P9SUzw2D3jDkBTHlh0EQ5"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Pendientes de Corazones",
         "url": "https://open.spotify.com/album/2TgclqeLwL7oSO3d9CRsTB"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 177042,
       "name": "Pendientes de Corazones",
       "url": "https://open.spotify.com/track/2ogpZBBde6xF1eXBugDtLL"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "tamagotchi",
-        "url": "https://open.spotify.com/album/5tBPoDajcUY3wf4pnBJfMV"
-      },
-      "artists": [
-        {
-          "name": "Lil Zhark",
-          "url": "https://open.spotify.com/artist/3FI7NS91eeSjBP3V0znDuB"
-        }
-      ],
-      "duration_ms": 105100,
-      "name": "tamagotchi",
-      "url": "https://open.spotify.com/track/72QyKS10NvfMYszzFMYWzj"
     }
   ],
   "unique_name": "helium",

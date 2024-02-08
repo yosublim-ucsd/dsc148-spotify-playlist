@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 85891,
+  "2024-02-08": 85984,
   "date_first_scraped": "2022-05-26",
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
   "name": "Boogie Rock",
@@ -723,7 +723,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 242280,
       "name": "Outlaws",
       "url": "https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 153600,
       "name": "Worry No More",
       "url": "https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq"

@@ -4,13 +4,13 @@
 
 > أفضل الاغاني العراقية\. الغلاف:ياسر عبدالوهاب
 
-134 songs - 8 hr 13 min
+135 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7aya](https://open.spotify.com/track/21oCPr9IY0QBcbnVCYnPH9) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe) | [7aya](https://open.spotify.com/album/6KCgOV58KccXLTUfJ7j9wW) | 2:45 | 2022-05-06 | 2022-12-03 |
 | [Aash Al Iraq](https://open.spotify.com/track/053ueKG1li1W9dPxKPwcFp) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Aash Al Iraq](https://open.spotify.com/album/23Y7MnkwtRpyeENSYl0roa) | 3:36 | 2023-02-08 | 2023-03-01 |
-| [Abous El Sodfa](https://open.spotify.com/track/4BAwaJVj6ZGv4hgh42QCS7) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Abous El Sodfa](https://open.spotify.com/album/3D3E8KNnAz14y3yvwo8YOQ) | 3:53 | 2023-12-29 |  |
+| [Abous El Sodfa](https://open.spotify.com/track/4BAwaJVj6ZGv4hgh42QCS7) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Abous El Sodfa](https://open.spotify.com/album/3D3E8KNnAz14y3yvwo8YOQ) | 3:53 | 2023-12-29 | 2024-02-08 |
 | [Abous El Sodfa](https://open.spotify.com/track/5DGQSn4bSDfXpBBP9LhDya) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Abous El Sodfa](https://open.spotify.com/album/3M2Q05YLGxIUPHVVet0dMX) | 3:53 | 2023-01-06 | 2024-02-05 |
 | [Aerif Ealam](https://open.spotify.com/track/3lR76Thi8qiARWyR56fRqf) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Aerif Ealam](https://open.spotify.com/album/6fEb4CMn6M8uqu9SxwFNi3) | 3:12 | 2022-06-16 | 2023-06-20 |
 | [Ah Yani](https://open.spotify.com/track/0vMD3NFvruMSROWEhm8756) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Ah Yani](https://open.spotify.com/album/2743kDzwDOEBBeTrSn6h5H) | 3:19 | 2022-05-06 | 2023-01-07 |
@@ -82,6 +82,7 @@
 | [Kathurat Aalayh Alhumum](https://open.spotify.com/track/1x5TmYqbHRD4gIduC2gjyZ) | [Hussain Ghazal](https://open.spotify.com/artist/1dbZLkKMOFCuCouMiGfXXF) | [Kathurat Aalayh Alhumum](https://open.spotify.com/album/0u6SaVqxjfZ0ylwLDOP1jj) | 3:18 | 2022-05-25 | 2023-06-20 |
 | [Kemt Akrahak](https://open.spotify.com/track/6dUcVMzyhHtc53fIEKbzOf) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Kemt Akrahak](https://open.spotify.com/album/5E2oPXxKJgutwwKQrwQftZ) | 3:58 | 2022-05-25 |  |
 | [khayef Akhsarah](https://open.spotify.com/track/2d89YOM8eeLB7D0lR8XQ5y) | [Yousif Al Sumaidaie](https://open.spotify.com/artist/26oGZUtxxUt9xpCWFfGSXN) | [khayef Akhsarah](https://open.spotify.com/album/6UiAuY0uUdbQkRlgfqDrYs) | 4:07 | 2023-05-05 |  |
+| [Khbr Fezzni](https://open.spotify.com/track/5NHUYa3IOB8ZggEFxQbsk7) | [Nabel Al Adeeb](https://open.spotify.com/artist/6ZCY8bwcZU2v4Ti9pAgLOi) | [Khbr Fezzni](https://open.spotify.com/album/5LyHDVcaM6khRm5RvX0SN5) | 3:42 | 2024-02-07 |  |
 | [Khont We Tandemt](https://open.spotify.com/track/5mPD8KOs9PTGKCrjP87IV5) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Khont We Tandemt](https://open.spotify.com/album/27eOhCtHiFlBKmirkupKdd) | 4:04 | 2022-05-06 | 2022-06-17 |
 | [Kolshy Ma Bayha](https://open.spotify.com/track/17bI0GhEjP59OHu4yuYjst) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Kolshy Ma Bayha](https://open.spotify.com/album/58XqFD7G0i5cMDbFqnkqmH) | 3:24 | 2022-06-16 | 2023-04-05 |
 | [Kul Aaqlik](https://open.spotify.com/track/3KLBisaDEYNU8cZqCu8rc1) | [Naser Almansouri](https://open.spotify.com/artist/0knsv9nmoVyEDtz3N2vBoB) | [Kul Aaqlik](https://open.spotify.com/album/0AhXjQFS4bh1mIpVnMlb2c) | 2:41 | 2022-05-06 | 2023-04-27 |

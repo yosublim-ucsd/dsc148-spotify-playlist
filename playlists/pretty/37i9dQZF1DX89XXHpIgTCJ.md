@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,646 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,699 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 53 | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d) | 2:45 |
 | 54 | [Rockstar](https://open.spotify.com/track/2OQfyddAKv4FyelDJjGNHH) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 4:19 |
 | 55 | [Body Count's in the House](https://open.spotify.com/track/0ei5rAVjRCUQATivnVwkLN) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Body Count](https://open.spotify.com/album/2J5Lf1s0Q42e31xjSwVd8J) | 3:24 |
-| 56 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 |
-| 57 | [Raise Hell](https://open.spotify.com/track/44WBNnkJAtTEWIkmrco6Mv) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Only In Amerika](https://open.spotify.com/album/1NL4RNStYgVzAvD7SWYdV9) | 5:09 |
+| 56 | [Raise Hell](https://open.spotify.com/track/44WBNnkJAtTEWIkmrco6Mv) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Only In Amerika](https://open.spotify.com/album/1NL4RNStYgVzAvD7SWYdV9) | 5:09 |
+| 57 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 |
 | 58 | [I Love You Mary Jane](https://open.spotify.com/track/4eObWNJwTvfQe66wIzfHjb) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Judgement Night: Music From The Motion Picture](https://open.spotify.com/album/1qwrbuNLtDcuj2myhuESlh) | 3:49 |
 | 59 | [Rip It Up](https://open.spotify.com/track/0EcdmJCR4pURncLgeeBYvl) | [28 Days](https://open.spotify.com/artist/0NXVGrFkPu0Cohh3BJV5Wx) | [Up Style Down](https://open.spotify.com/album/6OT8sbDrxyACRi1mzzkj9M) | 3:39 |
 | 60 | [GERONIMO](https://open.spotify.com/track/3fS7dRJWxgz1SCZJPXsymv) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Pegasus: Neon Shark vs Pegasus Presented By Travis Barker \(Deluxe\)](https://open.spotify.com/album/4lLmkRmIW3GIb6UKjcqrDv) | 2:59 |
 
-Snapshot ID: `MCxlYjdhOGJiN2Y3NzkyYjc3NWI4YjNhNDA2YjU5YzI2ZmQ1ODFkNjc5`
+Snapshot ID: `MCw0YzU3OTJlOGMxODM1MDA3YWQyMDA5YTU1ODMyOTMzYWVmN2Q1ODZh`

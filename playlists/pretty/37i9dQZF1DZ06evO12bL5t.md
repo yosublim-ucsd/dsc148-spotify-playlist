@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 
 > This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,674 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,766 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 35 | [Crimes](https://open.spotify.com/track/73FEbxI3YxlVzN1rkkbcxe) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:40 |
 | 36 | [Ric Flair](https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 2:49 |
 | 37 | [De La Calle \(Remix\)](https://open.spotify.com/track/3ZOZnG7Xt4IupK4buRguwU) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [The Line Up](https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU) | 2:37 |
-| 38 | [Mi Escuela Fueron Las Calles](https://open.spotify.com/track/0FWWehapPaXw1asEDXoDLH) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Mi Escuela Fueron Las Calles](https://open.spotify.com/album/2lp9rfXDp02iJSEv75zbhK) | 2:01 |
-| 39 | [Distinta Movida](https://open.spotify.com/track/42TZH071pHVhIYxhpwTPlr) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 4:01 |
+| 38 | [Distinta Movida](https://open.spotify.com/track/42TZH071pHVhIYxhpwTPlr) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 4:01 |
+| 39 | [Mi Escuela Fueron Las Calles](https://open.spotify.com/track/0FWWehapPaXw1asEDXoDLH) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Mi Escuela Fueron Las Calles](https://open.spotify.com/album/2lp9rfXDp02iJSEv75zbhK) | 2:01 |
 | 40 | [Gelatti](https://open.spotify.com/track/1R1Qreuyg0MzfrHvShfCby) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:00 |
 | 41 | [Como Debe Ser](https://open.spotify.com/track/7BYQKLz2yWFePlxApyvbeP) | [Marca De Rancho](https://open.spotify.com/artist/0z9MnTktQ28puENoMtrc9U), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Como Debe Ser](https://open.spotify.com/album/0tQPxSvQvoCWF2p2ziWmqM) | 2:10 |
 | 42 | [En El Laboratorio](https://open.spotify.com/track/4jHs2TkRNjEDsymVCzDuxQ) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [En El Laboratorio](https://open.spotify.com/album/1c5GRF8iWRduHOwOMqyLUc) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 49 | [Dinero Sobre Amor](https://open.spotify.com/track/5TZyQ3eHWw5uBesFJ9irEQ) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 3:24 |
 | 50 | [The Bank Robbery](https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [The Bank Robbery \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C) | 2:38 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA5NjEzYTc0YWNhMGI2OTVkNDFlYmE2NzNmYmNiYjZjOA==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDBjZmJiZDk4MmJkMzg4ODVlNjlkNmQyYjFiOTA0ZjY5YQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: cehryl \(Hong Kong\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,710 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,792 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 71 | [Fantasy](https://open.spotify.com/track/6OYm4FXjYy0Q3sgssdFEho) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Fantasy](https://open.spotify.com/album/2l79vjW435oxjYenGcjQoP) | 3:31 |
 | 72 | [meringue doll](https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [meringue doll](https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts) | 4:13 |
 | 73 | [房屋供應問題](https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [房屋供應問題](https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp) | 2:10 |
-| 74 | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/album/77lLAs7qgkQPHcMhXi1WIk) | 4:50 |
-| 75 | [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 |
+| 74 | [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 |
+| 75 | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/album/77lLAs7qgkQPHcMhXi1WIk) | 4:50 |
 | 76 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
 | 77 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 |
 | 78 | [tired](https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [tired](https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Catwalk](https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Chalawan Sound](https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go) | 4:11 |
 | 100 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 |
 
-Snapshot ID: `MCwxNzgxYWE3NDJhYjFjNWNhMTU2ZmI5ZTlkZmFkZDg0NGE5OTg1M2Rj`
+Snapshot ID: `MCxkM2Y3NTRkYzg4ZmE1N2U4ZTQxMjk0Yzc3MWM0Y2M1NjkxZDRlYTE0`

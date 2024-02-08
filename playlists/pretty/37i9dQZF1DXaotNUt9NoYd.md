@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,530 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,552 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 3 | [Pampus](https://open.spotify.com/track/7emdYdVOLn2nIzdFufWUQh) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [Pampus](https://open.spotify.com/album/66EibKvWjwkOn8LPibdMcF) | 3:26 |
 | 4 | [Dance of Ganesha](https://open.spotify.com/track/77vQsr0DhechA4ImfBlxwt) | [Ajeet](https://open.spotify.com/artist/3sBtKwaTveANiltp7XgBLU) | [Darshan](https://open.spotify.com/album/4FHsFaqchOIemQDXm8itiQ) | 6:54 |
 | 5 | [Threads](https://open.spotify.com/track/5ASmAe7WcZaLVx6KcCqhW0) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/217hUO8Iila5lozKvwmElh) | 3:12 |
-| 6 | [The Journey](https://open.spotify.com/track/77Fs2NajDBQaOOZkYDsFLE) | [Malik Jeremiassen](https://open.spotify.com/artist/6qIThryE8kmwkl6RfPdhHI) | [The Journey](https://open.spotify.com/album/6O3yzoZ7VeGF9jiWu6nchO) | 2:37 |
-| 7 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
+| 6 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
+| 7 | [The Journey](https://open.spotify.com/track/77Fs2NajDBQaOOZkYDsFLE) | [Malik Jeremiassen](https://open.spotify.com/artist/6qIThryE8kmwkl6RfPdhHI) | [The Journey](https://open.spotify.com/album/6O3yzoZ7VeGF9jiWu6nchO) | 2:37 |
 | 8 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
 | 9 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 |
 | 10 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
 | 11 | [New Endings](https://open.spotify.com/track/2IAZza3wdiTYT8QtO0hbLv) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [New Endings](https://open.spotify.com/album/4Ik0uGl3JExFkEeN2ut64W) | 3:08 |
 | 12 | [Hibernation](https://open.spotify.com/track/7AcNOiZhA5jRxCp5c3wOyz) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Hibernation](https://open.spotify.com/album/5dVDeiMsoSUGb0KJhXnpmi) | 3:36 |
 | 13 | [Time Travel](https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Time Travel](https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z) | 3:04 |
-| 14 | [Moving Silence](https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Dream Helpers](https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx) | 2:04 |
-| 15 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 |
+| 14 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 |
+| 15 | [Moving Silence](https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Dream Helpers](https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx) | 2:04 |
 | 16 | [The Tower of Embellion](https://open.spotify.com/track/76RktDCi1rVj63vpt9u5F0) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 2:56 |
 | 17 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 |
 | 18 | [Indian Flute](https://open.spotify.com/track/1ycfHOXNHyzgC52Gf5Pkvn) | [Nu Meditation Music](https://open.spotify.com/artist/66K6bDotWhnNf557BCkfIH) | [Indian Flute](https://open.spotify.com/album/2ygYSIMkHOlfRb9ysUAIsU) | 4:08 |
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 25 | [Quantum](https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Matter and Energy](https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm) | 2:55 |
 | 26 | [The Art Of Love](https://open.spotify.com/track/7hXKIp3IX3nrvHkq34zbMG) | [Sahlene Williams](https://open.spotify.com/artist/0kuiVox1gz055r46Oqulfw) | [The Art Of Love](https://open.spotify.com/album/3z0G27tIIhecHLJi9ppTKT) | 3:05 |
 | 27 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 |
-| 28 | [Breath Of Life](https://open.spotify.com/track/5CHoemwnNzdSTwtNhimg3N) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg) | 2:34 |
-| 29 | [Savasana](https://open.spotify.com/track/3Vdmlvo70yXOD0z2DSkHGJ) | [Mirabai Ceiba](https://open.spotify.com/artist/2qBg3GRK1U9XCkJ9JabBt3) | [Meditations for Transformation: Cycle of Life](https://open.spotify.com/album/3W9Jqw4DcG9dfZm2Y53eU0) | 6:06 |
+| 28 | [Savasana](https://open.spotify.com/track/3Vdmlvo70yXOD0z2DSkHGJ) | [Mirabai Ceiba](https://open.spotify.com/artist/2qBg3GRK1U9XCkJ9JabBt3) | [Meditations for Transformation: Cycle of Life](https://open.spotify.com/album/3W9Jqw4DcG9dfZm2Y53eU0) | 6:06 |
+| 29 | [Breath Of Life](https://open.spotify.com/track/5CHoemwnNzdSTwtNhimg3N) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg) | 2:34 |
 | 30 | [Finding Calmness](https://open.spotify.com/track/5ca7B7Qi2gpzPELK9lBab0) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Finding Calmness](https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu) | 3:28 |
 | 31 | [Mystiqal](https://open.spotify.com/track/3BHlTxvHcHkyPG5X7MXiaN) | [Vugh Gardens](https://open.spotify.com/artist/1HxBL3Ls3YdMjJjFCzqEm6) | [Mystiqal](https://open.spotify.com/album/5n0SyqxC9Tv3q8KrjNJNKC) | 3:28 |
-| 32 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 |
-| 33 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 |
+| 32 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 |
+| 33 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 |
 | 34 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 |
 | 35 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |
 | 36 | [Wren](https://open.spotify.com/track/2BNIB51vC5Xf4s14N57VTH) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Near Dawn](https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS) | 3:36 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 40 | [Noctis](https://open.spotify.com/track/3SwiMJxBE5eqYdbXJBRtiT) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Noctis](https://open.spotify.com/album/07SebSgKlgeYAYb4I4lpiA) | 2:38 |
 | 41 | [Cosmos](https://open.spotify.com/track/2ZJhL2pkytU1udly94xV7j) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Bansuri \- The Bamboo Flute of India](https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI) | 4:56 |
 | 42 | [Pineal Gland Activation \- 936hz Alpha Meditation](https://open.spotify.com/track/7tfvDpUhhR6cgFHo2Xx8CE) | [Source Vibrations](https://open.spotify.com/artist/7vHvQ5bkLPByiTInz0mTfV) | [Pineal Gland Activation \(936hz Alpha Meditation\)](https://open.spotify.com/album/4CSIGBGMketZ2NlG1lphoZ) | 22:04 |
-| 43 | [Primordeal Instincts](https://open.spotify.com/track/2HFa8YQM9xXsaqquv8efKI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Eternal Sunshine of](https://open.spotify.com/album/1lHy2i4BtaeDccL7h4yiHN) | 3:20 |
-| 44 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/6LX4pC94OndpQwepyNdqZ7) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 5:59 |
-| 45 | [Shiva's Meditation](https://open.spotify.com/track/2PIOLxy5u0q2KzbAE2gG2b) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je) | 5:09 |
+| 43 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/6LX4pC94OndpQwepyNdqZ7) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 5:59 |
+| 44 | [Shiva's Meditation](https://open.spotify.com/track/2PIOLxy5u0q2KzbAE2gG2b) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je) | 5:09 |
+| 45 | [Primordeal Instincts](https://open.spotify.com/track/2HFa8YQM9xXsaqquv8efKI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Eternal Sunshine of](https://open.spotify.com/album/1lHy2i4BtaeDccL7h4yiHN) | 3:20 |
 | 46 | [Grateful Minds](https://open.spotify.com/track/1nwYsdWElwCywLZiY3J1g9) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [The Enlightened](https://open.spotify.com/album/5urCmlMjwzQzpi0ER6sTNE) | 2:47 |
 | 47 | [Mandala](https://open.spotify.com/track/6qpUqLd0waCQDiNwcWMNV2) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Mandala](https://open.spotify.com/album/7zNJOa4IyLiAh8k6RjCAFJ) | 2:57 |
 | 48 | [Endless Horizon](https://open.spotify.com/track/0dKDjp06BhgGzlwwhis1t3) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Space](https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx) | 18:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 74 | [Ajna \(Third Eye/Pineal Gland\) \[Chakra\]](https://open.spotify.com/track/5mnLT8Ze4ugZxUSt4FkDeq) | [Air With Air Rising](https://open.spotify.com/artist/5YZaXFoZZsyjaxoy029RYD) | [7 Om Chanting Meditations](https://open.spotify.com/album/4HOj7igZ84vM6pNfLgJNuX) | 5:40 |
 | 75 | [Blue Aurora](https://open.spotify.com/track/32VnVQtjXPZfUSp5kHtMbz) | [The Art of Quiet Living](https://open.spotify.com/artist/0qpdyOYWA6WGS0DgWAhC5y) | [Piano Soundscapes & Nature Sounds for Meditation, Relaxation, Massage & Sleep](https://open.spotify.com/album/4ZxoQmUBik7bA5zSA5Qruf) | 3:19 |
 
-Snapshot ID: `MCw0YWZiNTY1YjFmYzExMDNkYzM0NjU0ZDIwMjBmODczOWJkOTNiNTFj`
+Snapshot ID: `MCwyNTRjYzkwOTdlZmY2NjM4ZWQwZjdhZmZjMWI0NDJlZGQwZmI2OTM4`

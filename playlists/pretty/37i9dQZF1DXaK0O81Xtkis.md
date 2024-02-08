@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Oscar and the Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,699 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,684 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 11 | [Here’s To Us](https://open.spotify.com/track/2zpYiHY3ecQFn8V7jEd5u1) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:14 |
 | 12 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
 | 13 | [Into Your Room \(with MUNA\)](https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Into Your Room \(with MUNA\)](https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun) | 3:31 |
-| 14 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
+| 14 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 |
 | 15 | [Foolish](https://open.spotify.com/track/6Ul6j61QulfLucooYMcrtV) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Foolish](https://open.spotify.com/album/1MKF7YY7sSoNFqA5muU38C) | 3:10 |
 | 16 | [where tf have you been?](https://open.spotify.com/track/7LtN3QdIRFlSyZXLOv2LQW) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [where tf have you been?](https://open.spotify.com/album/7h4jQ9Kbr0wx9R71ydGj1X) | 2:50 |
 | 17 | [JUST OK](https://open.spotify.com/track/6tOj8Alw82fL4GnwaV9z7V) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [JUST OK](https://open.spotify.com/album/4gNrqKYAPbvoWNP1hqIs35) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 59 | [MERRY GO ROUND](https://open.spotify.com/track/6wSEfFQzF3Ye9ztpyx8694) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [AND ALL I LOVED, I LOVED ALONE](https://open.spotify.com/album/5HlkWTlZidWmEkSAJkm2Aq) | 2:10 |
 | 60 | [everything hits me at once](https://open.spotify.com/track/77hDNIRbK41SsEthQ04Nwb) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything hits me at once](https://open.spotify.com/album/1KEfhUPBUnf56x7Rh8KoG0) | 2:32 |
 
-Snapshot ID: `MCxkMjc4ZTY5YjRmMmUwNGE5YzhjNDQ5Zjc1NTBhMjk2ODBmYzFkMjBj`
+Snapshot ID: `MCxlN2RkZTA5YTliZDBmZGQ3NDY0NDI1NTcxZjRkYzBjYjEzNWIxZjFl`

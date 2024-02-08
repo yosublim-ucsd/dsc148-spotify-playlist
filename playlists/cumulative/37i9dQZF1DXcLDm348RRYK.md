@@ -4,7 +4,7 @@
 
 > Shut out the noise around you with these acoustic instrumentals.
 
-77 songs - 4 hr 46 min
+84 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Beauty of Discipline](https://open.spotify.com/track/519POQZ8qXwhqtKzAu1Exp) | [Gareth Pearson](https://open.spotify.com/artist/6FFH7nU5jBOAum93OXVtZh) | [Urban Echoes Vol\. 1](https://open.spotify.com/album/6HgiKLLU61tqtmLk606sF5) | 4:23 | 2020-10-02 |  |
 | [Blinded by Sunshine](https://open.spotify.com/track/2LdMVnYJrvDL2HGajCDzXa) | [Casper Esmann](https://open.spotify.com/artist/6HAdDbfnR8PXoiGqU5cJeD) | [Blinded by Sunshine](https://open.spotify.com/album/6fZrrNfreBmXblDjliOTB1) | 3:00 | 2020-10-02 |  |
 | [Breaking Of The Shells](https://open.spotify.com/track/04a0cAnBJYhAyDr90l9Yx5) | [Billy McLaughlin](https://open.spotify.com/artist/5uUZTnrbdFHzEbFvCtl03Y) | [Acoustic Original \(The Best Of Billy Mclaughlin\)](https://open.spotify.com/album/1Xb3Wx0bgWNDTg2TSh0J7t) | 4:24 | 2020-10-02 |  |
+| [Counting Tears](https://open.spotify.com/track/0bZ2eFRj4A7x8Xf21gSeNg) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Counting Tears](https://open.spotify.com/album/0fv4zBrT7nz3Veglt3d8k4) | 2:31 | 2024-02-07 |  |
 | [Cowboy's Hymn](https://open.spotify.com/track/6U0a10beGhhUoKSOvVjPJ2) | [Gareth Pearson](https://open.spotify.com/artist/6FFH7nU5jBOAum93OXVtZh) | [A Tweak on Antique](https://open.spotify.com/album/5zRgjuU7fHrP6wmahryw3H) | 3:23 | 2020-10-02 |  |
 | [Do It Again](https://open.spotify.com/track/5xxuczLb9zAne8wdzldi4X) | [Donovan Raitt](https://open.spotify.com/artist/7svIR74ziDhK5QwUXHPeyX) | [Do It Again](https://open.spotify.com/album/7tpv84JAsD6sl0vpWtdXOO) | 5:08 | 2022-04-01 |  |
 | [Dreamcatcher](https://open.spotify.com/track/2Dh8vHME7Y2FbYNfqOr8hk) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Dreamcatcher](https://open.spotify.com/album/11lTkhsZVqumbW7CRlWGTQ) | 4:22 | 2020-10-02 | 2022-07-29 |
@@ -36,6 +37,8 @@
 | [Grace](https://open.spotify.com/track/1OKOxWlAVObOEN0JtkixBg) | [Calum Graham](https://open.spotify.com/artist/6VUCcZ6HiQQ39DhxV4bSeA), [Antoine Dufour](https://open.spotify.com/artist/15kzFPO1n6iK1GqFaTDDBo) | [Grace](https://open.spotify.com/album/4Du4xwLQ38zxqKbze10SG3) | 6:45 | 2020-10-02 |  |
 | [Heat](https://open.spotify.com/track/3WgjuiahVh7As4w3IcQZEE) | [Ben Woolman](https://open.spotify.com/artist/5zGODupJdUmjZwGou0tQpI) | [Wisdom / Delusion](https://open.spotify.com/album/56BvupOSQ2zVIIdveRATqF) | 4:05 | 2020-10-02 |  |
 | [Hiding Place For The Moon](https://open.spotify.com/track/2zYHV1Nwgqs0c6raLjz0in) | [Antoine Dufour](https://open.spotify.com/artist/15kzFPO1n6iK1GqFaTDDBo), [Van Larkins](https://open.spotify.com/artist/7kP1fOzswDN61C3oV3JMJH), [Trevor Gordon Hall](https://open.spotify.com/artist/2xoJcYGouJF836dsZbf0en) | [Hiding Place for the Moon](https://open.spotify.com/album/1PE1V8CiVNQyYS0kpFCB8U) | 4:56 | 2020-10-02 |  |
+| [Home](https://open.spotify.com/track/65G2XdNVHaSWH3t2zPPN0y) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [Home](https://open.spotify.com/album/2Ixa7s32DzfyhSnap0e0fa) | 5:02 | 2024-02-07 |  |
+| [Home on the Range](https://open.spotify.com/track/2vqSzKq8obznaUYqSC5ANO) | [Andy McKee](https://open.spotify.com/artist/59T0qdTmDGZ1g0slfSbPfy) | [Home on the Range](https://open.spotify.com/album/3cLnvPD9uTSgpkgOFFwqR2) | 2:18 | 2024-02-07 |  |
 | [If You Say so Romance](https://open.spotify.com/track/6GeSiZbHwLpkSvG2zUhlyA) | [Jimmy Wahlsteen](https://open.spotify.com/artist/6WA8mlh44MksdUg7Prx2zE) | [No Strings Attached](https://open.spotify.com/album/5gNJTHSbG5yD8GZR0u7RnY) | 3:30 | 2020-10-02 |  |
 | [III](https://open.spotify.com/track/6ouYWHCM2va84d4YbYg6sH) | [Prehistoric Bird](https://open.spotify.com/artist/5YxqeUUd0aYa86w2zN4mAL) | [Prehistoric Bird](https://open.spotify.com/album/1ZR36Xmsb14Xzzzkw1dW1M) | 2:42 | 2020-10-02 |  |
 | [III](https://open.spotify.com/track/4uELMm83OPdD3Qmqzicbjr) | [Prehistoric Bird](https://open.spotify.com/artist/5YxqeUUd0aYa86w2zN4mAL), [Not Documented](https://open.spotify.com/artist/2RRPnKb8ZpzR7tn4PvWA7q) | [Prehistoric Bird](https://open.spotify.com/album/3utnG2graZPGYFyMrqILlk) | 2:42 | 2020-10-02 | 2022-07-29 |
@@ -43,8 +46,10 @@
 | [Inland](https://open.spotify.com/track/1RsGSuyt886XVgVuQohFbv) | [Stuart McCallum](https://open.spotify.com/artist/2JCWJ9OPSNy5Ywkjdzv3Za) | [Solitude Part ii](https://open.spotify.com/album/2BnF7SsA9RUHefjl7YNGDe) | 4:09 | 2020-10-02 |  |
 | [Kim's Guitar](https://open.spotify.com/track/0dSJ4pZnwP7q3ZKStBZYu2) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Kim's Guitar](https://open.spotify.com/album/4FRse4y1CS6vIwAgOKDZQF) | 2:48 | 2020-10-02 |  |
 | [Kohala No](https://open.spotify.com/track/0NQG3nSTz1SDwsNoovj2vJ) | [Jim "Kimo" West](https://open.spotify.com/artist/51aljngqSf5fmjeQEOXp0k) | [Slack Key West](https://open.spotify.com/album/0Y3lcGbAWLFo2b88pbj8So) | 4:15 | 2020-10-02 |  |
+| [Layla](https://open.spotify.com/track/4FJVqvk6hEudlvmOe9ZxSm) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71) | [Layla](https://open.spotify.com/album/0qNI61Wqk0LntgP9fW2zGY) | 2:57 | 2024-02-07 |  |
 | [Lighthouse Avenue](https://open.spotify.com/track/05TB3UJhwJsUWPAOXow8fF) | [Steve Dawson](https://open.spotify.com/artist/1aXW72EBb24vfYA2FnhDf2) | [Rattlesnake Cage](https://open.spotify.com/album/3UoRgOnF92ZwU5uG63PODZ) | 2:33 | 2020-10-02 | 2022-07-29 |
 | [Lighthouse Avenue](https://open.spotify.com/track/5aRVhOcDAdJw3lUyuVPdFU) | [Steve Dawson](https://open.spotify.com/artist/1aXW72EBb24vfYA2FnhDf2) | [Rattlesnake Cage](https://open.spotify.com/album/4kFhCuSIYyYH3Hi6MQaqrd) | 2:33 | 2020-10-02 |  |
+| [Malt Shop](https://open.spotify.com/track/3t5LlsPz25cg1iPuMLbYNJ) | [Mark Kroos](https://open.spotify.com/artist/2pOLYuxb1wwCu8bmXyhhEb), [Dylan Ryche](https://open.spotify.com/artist/0GvFKjJTMXpX16KPTxFw2i) | [Malt Shop](https://open.spotify.com/album/7MxjmEuqSbIbT2k9ZYG5xP) | 3:21 | 2024-02-07 |  |
 | [Melody Maker](https://open.spotify.com/track/2fTUKPfeW51hxbU3VWef0K) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Melody Maker](https://open.spotify.com/album/7Fn5luh64lP9jU0J2UcG3Z) | 3:57 | 2020-10-02 |  |
 | [Movement I \- Awakening](https://open.spotify.com/track/63y9PsKjVQWxvx4yZ4QMdL) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [The Lamaj Movement](https://open.spotify.com/album/6zFlPueRXz2QG5HnfFvem1) | 3:55 | 2020-10-02 |  |
 | [Mutter](https://open.spotify.com/track/2bQAQZiFa15fLnEFUPLj02) | [Rob Scallon](https://open.spotify.com/artist/0A51LEnyTnXX33IyuwM0Ts) | [Anchor EP \(Tour Edition\)](https://open.spotify.com/album/2NRmQa5rsSqARapsAQJx9n) | 6:33 | 2020-10-02 |  |
@@ -71,6 +76,7 @@
 | [Song for Lucas](https://open.spotify.com/track/55En8TlNLGkeG3gupDRW7a) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [String Poet Guitar Solos](https://open.spotify.com/album/0cN7QOj6dUMaOVyPEDG01Z) | 3:06 | 2020-10-02 | 2022-11-13 |
 | [Spring at Last](https://open.spotify.com/track/2dKNvzrTUDa2Djgak2qgh0) | [Peter Ciluzzi](https://open.spotify.com/artist/3BC3jPO6EpRTy6iySniyZH) | [Still Without Words](https://open.spotify.com/album/4oOmrBcCaFfTNoofaEiMXv) | 3:25 | 2020-10-02 |  |
 | [Star of the Country Down](https://open.spotify.com/track/2UbPd0NRDK4C0GydEDIQfk) | [Pat Kirtley](https://open.spotify.com/artist/4wQGu2sZibDxvZIPxEOCr3) | [Ramble to Cashel](https://open.spotify.com/album/14ouePxlOLsGjeptH8lIBC) | 3:21 | 2020-10-02 |  |
+| [Sympatheia](https://open.spotify.com/track/4lgfEt51WFSSxBpUjaLWLO) | [Calum Graham](https://open.spotify.com/artist/6VUCcZ6HiQQ39DhxV4bSeA) | [Sympatheia](https://open.spotify.com/album/38WaUUmqtHBJw7tYMtBOq1) | 4:59 | 2024-02-07 |  |
 | [Tabula Rasa](https://open.spotify.com/track/0TsMuOgOA6yvoe76RvLBz2) | [Calum Graham](https://open.spotify.com/artist/6VUCcZ6HiQQ39DhxV4bSeA) | [Burning Up](https://open.spotify.com/album/4e4j2E1IMSgcIjWrALbwMe) | 2:47 | 2020-10-02 | 2022-07-29 |
 | [Tabula Rasa](https://open.spotify.com/track/6rbpQhCpV8dAUlBG6LjObv) | [Calum Graham](https://open.spotify.com/artist/6VUCcZ6HiQQ39DhxV4bSeA) | [Burning Up](https://open.spotify.com/album/7K3WfgPMUr5M6zxirGedJ6) | 2:47 | 2020-10-02 |  |
 | [Talk](https://open.spotify.com/track/7cnLkypjiyj7j4lP8mWcX6) | [Antoine Dufour](https://open.spotify.com/artist/15kzFPO1n6iK1GqFaTDDBo) | [Talk](https://open.spotify.com/album/3ijoVSmcTfW4pkPWoS7Jb4) | 4:42 | 2020-10-02 |  |
@@ -80,6 +86,7 @@
 | [The time we spend](https://open.spotify.com/track/0f0fC90nqMFq8OKMUmY5jg) | [Ivo Vollering](https://open.spotify.com/artist/3l6zKGErropi9dRa5XgI5o) | [The time we spend](https://open.spotify.com/album/6IRFo7qL15tLfDZcdjrdfG) | 4:42 | 2020-10-02 |  |
 | [The Wide Ocean](https://open.spotify.com/track/07XrG4a5oft3R57zH3IZeI) | [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM) | [The Wide Ocean](https://open.spotify.com/album/1jMKJoAV8gm5Vn8V26UnS3) | 3:35 | 2020-10-02 |  |
 | [These Moments](https://open.spotify.com/track/2LSfUlr1YPUgHE3QLpBxPK) | [Antoine Dufour](https://open.spotify.com/artist/15kzFPO1n6iK1GqFaTDDBo), [Van Larkins](https://open.spotify.com/artist/7kP1fOzswDN61C3oV3JMJH) | [These Moments](https://open.spotify.com/album/19BrnNH9dPJ6ZArTijLG8E) | 5:02 | 2020-10-02 |  |
+| [Tiffany Falls](https://open.spotify.com/track/64DGZauPKihie7TgNccWD3) | [Emilio Bonito](https://open.spotify.com/artist/2IfsWJpQDkbX21LUME6KvO) | [Tiffany Falls](https://open.spotify.com/album/7uwReBkPLCXlsRQW4XD9yz) | 3:32 | 2024-02-07 |  |
 | [Two Tigers](https://open.spotify.com/track/0p3coZjTD0Gno4gxmwJjoL) | [Dylan Ryche](https://open.spotify.com/artist/0GvFKjJTMXpX16KPTxFw2i) | [Two Tigers](https://open.spotify.com/album/7FvDer0ts1pXPBfliAND0e) | 4:08 | 2021-04-16 |  |
 | [Walking the Shoreline](https://open.spotify.com/track/7u6jE7wpHtSrLhkCGHqcSC) | [Franco Morone](https://open.spotify.com/artist/00L3DU7naaW3XOIX26HXVz) | [Walking the Shoreline](https://open.spotify.com/album/5Cd0AZKJnovD8HXXlZTV5Y) | 3:14 | 2020-10-30 |  |
 | [Yellow](https://open.spotify.com/track/43v2xg67VkZVCIDZsKZSPh) | [Calum Graham](https://open.spotify.com/artist/6VUCcZ6HiQQ39DhxV4bSeA) | [Yellow](https://open.spotify.com/album/0TrzZEQ2vFrpRwysBPqxxb) | 4:42 | 2020-10-02 |  |

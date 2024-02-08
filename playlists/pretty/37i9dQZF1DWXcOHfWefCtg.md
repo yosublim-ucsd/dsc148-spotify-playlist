@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 
 > Soulful takes on all your Holiday favorites\. Cover: James Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,954 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,946 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 | 43 | [Gee Whiz, It's Christmas](https://open.spotify.com/track/3EYOHbUGZZcxijyyKQwuwX) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Tramp](https://open.spotify.com/album/6Z9LnVPxO2blsQtLsoeEjC) | 2:46 |
 | 44 | [Wish You A Merry Christmas](https://open.spotify.com/track/0jG8bVu9lXJcvPAIqiWHvS) | [Kim Weston](https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL) | [The Ultimate Motown Christmas Collection](https://open.spotify.com/album/273oV10n4O57Q5n3vYYi73) | 2:47 |
 | 45 | [Who Took The Merry Out Of Christmas \- Single Version](https://open.spotify.com/track/41U86awdgg7CKQUA4twR68) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 2:29 |
-| 46 | [Santa Claus Go Straight To The Ghetto](https://open.spotify.com/track/3UgdvE5e7nmHFY6WccxPwC) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Soulful Christmas](https://open.spotify.com/album/6JuetegMBCkebJS9S1S9zi) | 3:01 |
+| 46 | [Santa Claus Go Straight To The Ghetto](https://open.spotify.com/track/3UgdvE5e7nmHFY6WccxPwC) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [A Soulful Christmas](https://open.spotify.com/album/6JuetegMBCkebJS9S1S9zi) | 3:01 |
 | 47 | [Xmas Twist](https://open.spotify.com/track/6jWoQ3rQIs61fYI6tFF45O) | [The Twistin' Kings](https://open.spotify.com/artist/7CwF0SRvwcDYNGbYa4R4Lk) | [The Complete Motown Singles, Vol\. 1: 1959\-1961](https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU) | 2:42 |
 | 48 | [Stone Soul Christmas](https://open.spotify.com/track/6n6OFj4obq9cyfNCODUp8m) | [Binky Griptite](https://open.spotify.com/artist/1qjbSwH7Twq4PjEHCiUL0z) | [Santa's Funk & Soul Christmas Party](https://open.spotify.com/album/0rjNNIePeqR7T2evxlS6rL) | 3:21 |
 | 49 | [Santa Claus Wants Some Loving](https://open.spotify.com/track/4JnSdc5Jdmi5qbLBhYKZZd) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [The Definitive Albert King](https://open.spotify.com/album/2t2I0wHfM1Xaak5SxmzLUQ) | 3:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 | 59 | [You Won't Have To Wait Til Xmas](https://open.spotify.com/track/2cinI0VmjNv5XsvUDlEPvO) | [Lee Rogers](https://open.spotify.com/artist/43h66lHTpDsF4e3EFC3QP6) | [Boss Love: The United Kingdom Collection](https://open.spotify.com/album/6Fh8Gx2zPSXOG37F1AUZIB) | 2:30 |
 | 60 | [Santa's Got a Brand New Bag](https://open.spotify.com/track/3gyxI5fCcil5xNy5RL9DPo) | [Gary Walker](https://open.spotify.com/artist/1SiS31gWN3auJDxLU1CGCL), [The Boogie Kings](https://open.spotify.com/artist/02FT4qRWquTbmIJSSSp5c8) | [Louisiana Christmas](https://open.spotify.com/album/75mbpdrEZKAXVxvXPCkCjF) | 3:09 |
 
-Snapshot ID: `MCwyOWI5YWE1MjM0Y2QwYzhjMmJkY2M3MWYxNDhlNzM2YjNmNjk1ZWUy`
+Snapshot ID: `MCxiYmZjZTJlYmI0NGIxZTllMzkyNGRmYTM3MDUzODM5MGJmZDQ5MDJl`

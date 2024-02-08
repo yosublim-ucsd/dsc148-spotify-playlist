@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 
 > ¡A la antigüita, chiquitita! Las canciones escritas e interpretadas por Edén Muñoz 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,464 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,516 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 23 | [Vas A Estar Bien](https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:57 |
 | 24 | [Éstas Mejor Sin Mí](https://open.spotify.com/track/55XUy3GmGdvjash3sNapHn) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 2:51 |
 | 25 | [La Pregunta del Millón](https://open.spotify.com/track/0yyRKwW4pQ11Kiyuk5Pkmf) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [La Pregunta del Millón](https://open.spotify.com/album/2aXc82vWmLxSKj44zEgshL) | 3:23 |
-| 26 | [Borracho de Cochera](https://open.spotify.com/track/1CSAJGvCFUh7jC1bj1oUbT) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Borracho de Cochera](https://open.spotify.com/album/1q7DcJHh8ZPTGssEgjgLky) | 3:06 |
-| 27 | [Tú Me Caíste del Cielo](https://open.spotify.com/track/4mOWg68kBBDgyUqP0mgGh0) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Otra Vida](https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi) | 3:34 |
+| 26 | [Tú Me Caíste del Cielo](https://open.spotify.com/track/4mOWg68kBBDgyUqP0mgGh0) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Otra Vida](https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi) | 3:34 |
+| 27 | [Borracho de Cochera](https://open.spotify.com/track/1CSAJGvCFUh7jC1bj1oUbT) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Borracho de Cochera](https://open.spotify.com/album/1q7DcJHh8ZPTGssEgjgLky) | 3:06 |
 | 28 | [El Quemado](https://open.spotify.com/track/5otHFBlYtJntssUdLSGeJH) | [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Quemado](https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i) | 2:18 |
-| 29 | [Con Todo Incluido](https://open.spotify.com/track/1Q3Jk5BWIQRrto0fMAthiD) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 2:19 |
+| 29 | [Así Me Fue Contigo](https://open.spotify.com/track/2KYksJs5u6n4YOuxnG6X36) | [Banda La Ejecutiva de Mazatlan Sinaloa](https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y) | [Así Me Fue Contigo](https://open.spotify.com/album/6yKo5OzeF8uKGPUfoFImQt) | 3:52 |
 | 30 | [Javier El De Los Llanos](https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 3:21 |
-| 31 | [Así Me Fue Contigo](https://open.spotify.com/track/2KYksJs5u6n4YOuxnG6X36) | [Banda La Ejecutiva de Mazatlan Sinaloa](https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y) | [Así Me Fue Contigo](https://open.spotify.com/album/6yKo5OzeF8uKGPUfoFImQt) | 3:52 |
+| 31 | [Con Todo Incluido](https://open.spotify.com/track/1Q3Jk5BWIQRrto0fMAthiD) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 2:19 |
 | 32 | [Y Cómo Le Hago](https://open.spotify.com/track/7DNGQd7zBJF562e7jIe4zm) | [Los Valedores de la Sierra](https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy) | [Y Cómo Le Hago](https://open.spotify.com/album/1b78T1f4ksCF2Bnc4fU9Oy) | 3:15 |
 | 33 | [El Que Se Enamora Pierde](https://open.spotify.com/track/24Yw6Hoi0sPaJKb16uQZGI) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 2:20 |
 | 34 | [No Vamos a Funcionar](https://open.spotify.com/track/3BSAZyAWGvGG6wGMJxpCAq) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Nos Divertimos Logrando Lo Imposible](https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP) | 4:16 |
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 65 | [Vamos A Ver Quién Gana](https://open.spotify.com/track/6fpjK1f61zZzCgmTnwbWAI) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Hecho En México](https://open.spotify.com/album/3HZ0JZp7CyL6iRDcizTNYN) | 3:25 |
 | 66 | [No Te Rías](https://open.spotify.com/track/3MGzhhCpbU8UXsy1z6euH2) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Buena Señal](https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e) | 3:12 |
 | 67 | [Tenemos Algo En Común](https://open.spotify.com/track/16RSl0EuMTq2t7JN2tZUP1) | [Banda La Misma Tierra](https://open.spotify.com/artist/3qduLYuB55rWHxlQgpLzQA) | [La Moneda Sigue En El Aire](https://open.spotify.com/album/6au0XTsCm7ZzJdpXS6LL6G) | 3:02 |
-| 68 | [Pero Que Te Esta Pasando Corazón](https://open.spotify.com/track/5Mjog2lFqO5BEFHjCPk8PN) | [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [Queriéndote Más](https://open.spotify.com/album/0QuH4KokzaCQO8QREhJ7y2) | 3:14 |
-| 69 | [Con Ganas](https://open.spotify.com/track/0WlWIOn3ENBteSRbySOwMH) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I) | [Con Ganas](https://open.spotify.com/album/7cmbCznHxkaTG8DdsXxmep) | 2:35 |
-| 70 | [Ni Dios Lo Quiera](https://open.spotify.com/track/39vwvN7Etjp8h5HimNEboV) | [Luz Maria](https://open.spotify.com/artist/4rLKybqVCIbuTaYVRbdaex) | [Ni Dios Lo Quiera](https://open.spotify.com/album/36enprBr7gUm6TuQ50cK5B) | 3:04 |
+| 68 | [Con Ganas](https://open.spotify.com/track/0WlWIOn3ENBteSRbySOwMH) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I) | [Con Ganas](https://open.spotify.com/album/7cmbCznHxkaTG8DdsXxmep) | 2:35 |
+| 69 | [Pero Que Te Esta Pasando Corazón](https://open.spotify.com/track/5Mjog2lFqO5BEFHjCPk8PN) | [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [Queriéndote Más](https://open.spotify.com/album/0QuH4KokzaCQO8QREhJ7y2) | 3:14 |
+| 70 | [Al Cabo Ni Queria \(Bonus Track\)](https://open.spotify.com/track/5RLxB5X53TuHRAYLtgNpoU) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c) | 3:04 |
 | 71 | [Y Qué Les Vamos A Decir \- Desde El Estudio Andaluz Music](https://open.spotify.com/track/2v7W1uaUgBES0FvNkCkCqf) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Desde El Estudio Andaluz Music](https://open.spotify.com/album/2Apw3yxOCr55zyWDJB3PGs) | 3:14 |
-| 72 | [Dígale](https://open.spotify.com/track/1V2U6e2YEFRGPBhIErpUPp) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Siendo Franco](https://open.spotify.com/album/08FstJ62XKEuL012P8jI6t) | 3:30 |
-| 73 | [Al Cabo Ni Queria \(Bonus Track\)](https://open.spotify.com/track/5RLxB5X53TuHRAYLtgNpoU) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c) | 3:04 |
+| 72 | [Ni Dios Lo Quiera](https://open.spotify.com/track/39vwvN7Etjp8h5HimNEboV) | [Luz Maria](https://open.spotify.com/artist/4rLKybqVCIbuTaYVRbdaex) | [Ni Dios Lo Quiera](https://open.spotify.com/album/36enprBr7gUm6TuQ50cK5B) | 3:04 |
+| 73 | [Dígale](https://open.spotify.com/track/1V2U6e2YEFRGPBhIErpUPp) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Siendo Franco](https://open.spotify.com/album/08FstJ62XKEuL012P8jI6t) | 3:30 |
 | 74 | [Ya Estuvo Bueno](https://open.spotify.com/track/7a6ms6F6JzoRYtCQFntLdd) | [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4) | [La Casa Invita](https://open.spotify.com/album/7Hf1kRkgZA47DrA0Mimg5W) | 3:19 |
 | 75 | [Y Si Es Posible](https://open.spotify.com/track/5QKBZrSlpwzmLVeec2fdqD) | [Banda Legal](https://open.spotify.com/artist/6qzADkcD6NEhqaYRVfC7Sj) | [Sigo De Pie](https://open.spotify.com/album/23FhyIwGbJXIkPyB8xgQzB) | 3:15 |
 | 76 | [También Tú Te Equivocas](https://open.spotify.com/track/1Nk84MlFkQmlri26uc0Tzg) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [El Heredero Mayor](https://open.spotify.com/album/2X1Tw06QtYHmbVPwgvwAok) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 99 | [Voy A Ser Breve](https://open.spotify.com/track/1NrkTltXfryaM38xymc3tn) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:02 |
 | 100 | [No Me Pidas Un Tiempo](https://open.spotify.com/track/2Pkg9GrTgiMHXNG5oagxze) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:40 |
 
-Snapshot ID: `MCw4NDRkNGZiMTc4Y2ZhMjA5N2E3MGRhZmE0MGNkN2M0OTI2OTJjZTQ5`
+Snapshot ID: `MCxhM2RlNTFmNDkyMDc1YjIwZDc4OTAxOWY1Njg0YmQyZDEwYjRlNzYx`

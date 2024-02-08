@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-899 songs - 2 day 16 hr 35 min
+900 songs - 2 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [Imagination](https://open.spotify.com/track/4jsWwL5JRWrHrWRqid2Jvg) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Imagination](https://open.spotify.com/album/15R2xjP52mnJkWztc1pgCo) | 5:49 | 2021-04-24 | 2022-06-27 |
 | [Immersion](https://open.spotify.com/track/1fchgXINtcQqZRAjKicdzz) | [Jaffna](https://open.spotify.com/artist/1BpJSVWvzT2RRGlZfHfR4x) | [Ripples](https://open.spotify.com/album/5YjJMwY5VseinGXH0QxmOm) | 3:18 | 2019-06-19\* | 2020-08-26 |
 | [In Peace](https://open.spotify.com/track/7f0821iahFxsysdLDZ5wHZ) | [Cold Blue](https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF) | [Winter](https://open.spotify.com/album/3IvI5Kjnz66uRRcjNcuzwl) | 2:18 | 2020-04-22 | 2020-10-22 |
-| [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 | 2021-07-23 |  |
+| [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 | 2021-07-23 | 2024-02-08 |
 | [In The Sea \(Drowned\)](https://open.spotify.com/track/4ogi00gtqhx3THnzt205jj) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Lost and Found](https://open.spotify.com/album/4iduGBflFC8GTtX9fpfX7t) | 11:14 | 2020-04-22 | 2020-10-22 |
 | [In This Together](https://open.spotify.com/track/0FIN5jPkLUjUGRVfmjbTI5) | [Flowen](https://open.spotify.com/artist/6S4jzHRBwIKZw9vlUoKayG) | [In This Together](https://open.spotify.com/album/223fs67KiMNr8RGjKz7KDK) | 2:37 | 2019-06-19\* | 2020-10-21 |
 | [Indian Summer](https://open.spotify.com/track/4u2RPCt1DdZuGgRvfvnEgb) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/4sv5wZjZMPWQ9KvZ6PQZzQ) | 4:08 | 2019-05-26\* | 2020-08-26 |
@@ -781,6 +781,7 @@
 | [The Daisy](https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The Daisy](https://open.spotify.com/album/7ck1aKE3FRQGWstxQcbttZ) | 5:38 | 2021-08-27 | 2023-05-06 |
 | [The Departure](https://open.spotify.com/track/70a2Em6lDF6zowPLHWjWTA) | [Go Yama](https://open.spotify.com/artist/4Gbw8LGu071GAshE7dqqum) | [The Departure](https://open.spotify.com/album/04hOO4j9BcyvVAy2s5rCW1) | 3:30 | 2019-06-19\* | 2020-08-26 |
 | [The Frequency of the Universe](https://open.spotify.com/track/33xzOMLKWD1QdYYKETCkY5) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Breathing Tides](https://open.spotify.com/album/0AWWSwlrkbHqGUKDLil3vo) | 3:45 | 2021-02-22 | 2023-12-16 |
+| [The Frequency of the Universe](https://open.spotify.com/track/5KfM7YEZPwfW7ooacdlJmm) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Breathing Tides](https://open.spotify.com/album/7eNWltkpqeyaNNnbQkbOWt) | 3:45 | 2024-02-02 |  |
 | [The Frontier \(High Desert Synthapella\)](https://open.spotify.com/track/2YHCMi1Jh6jeI5Y8jl4FZp) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Whities 006](https://open.spotify.com/album/65lnxFX6QyjxKTuBmnGP7P) | 2:21 | 2019-05-26\* | 2022-04-20 |
 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 | 2022-01-14 |  |
 | [The Last Dance \- Synthapella](https://open.spotify.com/track/5aK6dgeUUB12XBgOryteAa) | [Eagles & Butterflies](https://open.spotify.com/artist/7lzrNOBAdfH8f4nVAWbRfk) | [Art Imitating Life Vol\. 3](https://open.spotify.com/album/5VCPysx5j3ZDlfUBwcfAja) | 2:41 | 2019-06-19\* | 2022-04-19 |

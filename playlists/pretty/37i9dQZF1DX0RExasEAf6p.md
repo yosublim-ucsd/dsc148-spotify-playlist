@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RExasEAf6p.md) - [plain]
 
 > To: You, From: Anna <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,404 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,395 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RExasEAf6p.md) - [plain]
 | 42 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
 | 43 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
 | 44 | [I've Loved You For So Long](https://open.spotify.com/track/02JkjqNNLxmWkm9bBCp2Yx) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/5LO06DFO56CESiQ6BjGsVJ) | 2:56 |
-| 45 | [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 |
+| 45 | [Cosmos](https://open.spotify.com/track/0iwgldb9jw0O9HOj1FUWgH) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/4fP8xQzp2kRs4Nr24ntJaN) | 3:03 |
 | 46 | [Time After Time \- Spotify Singles](https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Time After Time \(Spotify Singles\)](https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop) | 3:39 |
 | 47 | [No California](https://open.spotify.com/track/1w21mLzlkcpKReMjbbUwpa) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [No California](https://open.spotify.com/album/3MTWOgFgOmAQbqw49MKbaq) | 3:35 |
 | 48 | [Jim Carrey](https://open.spotify.com/track/6nTTiI03SJDXC9252gWGrN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:03 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RExasEAf6p.md) - [plain]
 | 50 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 |
 | 51 | [Strawberry Wine](https://open.spotify.com/track/7Gvf6Li9MYft4fUijkFjKq) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:45 |
 
-Snapshot ID: `MCwzZGRiYjkwZGM2N2YxNjYxOWRiOTA1ZjZhYjFjZGQ3OTU4MTZmOGU0`
+Snapshot ID: `MCxlMzhiZGRhOWZjMzE5MTlhMTZjMDk0MjEwOTA2Y2EzNWMyZWE1MTk3`

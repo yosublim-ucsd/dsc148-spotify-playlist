@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,293 songs - 3 day 7 hr 22 min
+1,294 songs - 3 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,7 +596,8 @@
 | [Nothing \#2 \(feat\. Alex Siegel\)](https://open.spotify.com/track/3K7vtKv08nn7omt5S2d4eo) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [THE CHARM PARK II EXTRA](https://open.spotify.com/album/6yzc3XByJ7DRAJDKbDQ3hC) | 3:32 | 2023-12-07 | 2023-12-13 |
 | [Nowhere](https://open.spotify.com/track/4FatsmenVVArCsRw6J7cBU) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Jyakusansei](https://open.spotify.com/artist/2F83FRXIgPBFexlDxIjowP) | [Nowhere](https://open.spotify.com/album/7AsRRKzmnsZa694yWjNmpO) | 3:32 | 2023-06-21 | 2023-06-28 |
 | [Nowhere](https://open.spotify.com/track/1rodLOfZw36Kov9OVn6XX6) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [弱酸性](https://open.spotify.com/artist/7xQwVL96ySOzcRRBSEU4gn) | [Nowhere](https://open.spotify.com/album/1qOIEO4cYRjub4ZunvTrr0) | 3:32 | 2023-06-20 | 2023-06-22 |
-| [NTM](https://open.spotify.com/track/5DW0lkwGpxynk7PoUkFlHO) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/4LmbCDYzs3a6A1hY0oT6PL) | 3:05 | 2024-02-06 |  |
+| [NTM](https://open.spotify.com/track/4219u7yEzPwkqYnA3XUW2e) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv) | 3:05 | 2024-02-06 |  |
+| [NTM](https://open.spotify.com/track/5DW0lkwGpxynk7PoUkFlHO) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/4LmbCDYzs3a6A1hY0oT6PL) | 3:05 | 2024-02-06 | 2024-02-08 |
 | [O\-A\-O\-A\-Y \(feat\. Taro Abe\)](https://open.spotify.com/track/6TRGgeiIXwMCvvCt3VLWC9) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [Taro Abe](https://open.spotify.com/artist/4YLBaTVzsuVsjCbRASMCyC) | [O\-A\-O\-A\-Y \(feat\. Taro Abe\)](https://open.spotify.com/album/0kVLCalVjtj9V3UIYRBC0t) | 3:06 | 2023-02-21 | 2023-03-01 |
 | [O.M.M \(feat\. Kenya Fujita\)](https://open.spotify.com/track/5xuNygFHKubkXvqRMeNB8u) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [O.M.M \(feat\. Kenya Fujita\)](https://open.spotify.com/album/5jhY5eCkAE6FfOl2wPHw0P) | 2:27 | 2023-10-10 | 2023-11-08 |
 | [O.M.M \- feat\. 藤田織也](https://open.spotify.com/track/2ctOBBuKRVEbK0BsShiaJq) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [O.M.M \(feat\. 藤田織也\)](https://open.spotify.com/album/1q8b5fH5kvHVhaQwhsEXEF) | 2:27 | 2023-10-10 | 2023-10-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 2021
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 1 like - 60 songs - 3 hr 43 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 1 like - 61 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,6 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 58 | [Environment](https://open.spotify.com/track/7l1P6WtVtq1zQMq6qazNA4) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 3:22 |
 | 59 | [Concerning the UFO sighting near Highland, Illinois](https://open.spotify.com/track/2BjRhZ2IJmsO1GRquNldsP) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 2:08 |
 | 60 | [HGU](https://open.spotify.com/track/4q6iKWRy3auzEn9dRoLInk) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 3:21 |
+| 61 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 |
 
-Snapshot ID: `MTc1LDEzOTA4MWMyZmVjYWU3OWQ5YzIxNGQzYTYyMWYwYzM4OWJhZTI3MDg=`
+Snapshot ID: `MTc2LDU5NmE1NWE5ZDA3OTIzMGRkMmFjMTY5ZmQwYmFiODQxNzdhYTU2Njc=`

@@ -4,7 +4,7 @@
 
 > Les meilleurs hits Pop du Maghreb sont ici\. Cover: Zouhair Bahaoui
 
-99 songs - 5 hr 25 min
+100 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Ghanili](https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghanili](https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI) | 2:57 | 2023-12-08 |  |
 | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo) | 3:04 | 2023-07-07 | 2023-08-19 |
 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 | 2023-07-07 | 2023-08-09 |
+| [Golli](https://open.spotify.com/track/2iPUpptsp5uRNMWFoAOdbH) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Golli](https://open.spotify.com/album/6LmfEw8AXNfCKGWhh24BZd) | 3:33 | 2024-02-07 |  |
 | [Ha Mamma](https://open.spotify.com/track/0Tfz7a7pNfv4D5yp35DNFR) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Ha Mamma](https://open.spotify.com/album/3WxV7oGGwoeFDMBUrciCLW) | 2:46 | 2023-07-07 | 2024-01-04 |
 | [Habibi](https://open.spotify.com/track/24l2OcwxLfv2qmlD5oUfuf) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Habibi](https://open.spotify.com/album/3PM8U6jiewiRInoRFVmqrx) | 2:36 | 2023-07-07 |  |
 | [Heeya](https://open.spotify.com/track/7tG8Kl89b8gVuDGnlyCXQA) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Heeya](https://open.spotify.com/album/2CFvYOAGceKa9RNyfG1rfX) | 3:33 | 2023-07-07 |  |
@@ -93,7 +94,7 @@
 | [Toxicomane](https://open.spotify.com/track/53eN6aHCxs11R0ISFz7bGl) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Toxicomane](https://open.spotify.com/album/55x44gzlyeA1koXcMlncxS) | 3:36 | 2024-01-26 |  |
 | [WAJAHNI](https://open.spotify.com/track/74ej9D4v1lsgepeEetuB0J) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [WAJAHNI](https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV) | 3:26 | 2023-07-07 |  |
 | [Wala Bghiti](https://open.spotify.com/track/6MrdoWkAdnnlyVCd2qdriE) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8), [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Wala Bghiti](https://open.spotify.com/album/5pEvTUwO8EC0f3rxubqbKC) | 3:54 | 2023-07-07 |  |
-| [WAYLE](https://open.spotify.com/track/4spfhufsgVF65phjTLRyn0) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [WAYLE](https://open.spotify.com/album/2vkYezfkR1WpgJJmoOW8ZG) | 3:10 | 2023-07-07 |  |
+| [WAYLE](https://open.spotify.com/track/4spfhufsgVF65phjTLRyn0) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [WAYLE](https://open.spotify.com/album/2vkYezfkR1WpgJJmoOW8ZG) | 3:10 | 2023-07-07 | 2024-02-08 |
 | [Ya 3araf](https://open.spotify.com/track/6v9noMonS9GMI3Yx9CsSmF) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [Ya 3araf](https://open.spotify.com/album/39Vo4WKz2TYSBflvVgckfi) | 4:40 | 2023-07-07 | 2023-12-08 |
 | [Ya Bent Nass](https://open.spotify.com/track/3p6p3ZoO8raP3s4bxI7Z2B) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX), [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Ya Bent Nass](https://open.spotify.com/album/7etlW0csrc4pTaLA55M1cH) | 3:02 | 2023-07-07 | 2023-10-06 |
 | [YA DENYA](https://open.spotify.com/track/0UuhQnPxN9oBrR5uLSMNEV) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [YA DENYA](https://open.spotify.com/album/0QghQFx3bWDWFMhnTb9iZu) | 3:45 | 2024-01-03 |  |

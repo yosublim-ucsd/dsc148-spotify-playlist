@@ -2,9 +2,9 @@
 
 ### [Essential Alternative](https://open.spotify.com/playlist/37i9dQZF1DX9GRpeH4CL0S)
 
-> The greatest Alternative Rock songs through the decades\. Cover: The Killers
+> The greatest Alternative Rock songs through the decades\. Cover: Gorillaz
 
-393 songs - 1 day 1 hr 6 min
+396 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 | 2022-05-30 |  |
 | [A\-Punk](https://open.spotify.com/track/5dKBaysNJtfpyNTRa5lqDb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F) | 2:17 | 2020-07-23 | 2022-07-29 |
 | [Aerials](https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:55 | 2020-07-23 |  |
+| [Ain't It Fun](https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:56 | 2024-02-07 |  |
 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 2:55 | 2022-05-30 |  |
 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant](https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf) | 2:55 | 2020-07-23 | 2022-07-29 |
 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 | 2020-07-23 |  |
@@ -107,7 +108,7 @@
 | [Don't Look Back into the Sun](https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Don't Look Back into the Sun](https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI) | 3:00 | 2022-05-30 |  |
 | [Don't Look Back into the Sun](https://open.spotify.com/track/5dXPWPrGtW4HwhBP5LlL8T) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Time for Heroes \- The Best of The Libertines](https://open.spotify.com/album/4gq5rvmYsXX99ZBzlGcnnq) | 3:00 | 2022-05-30 | 2022-11-13 |
 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 | 2020-07-23 |  |
-| [Echoes](https://open.spotify.com/track/6ilylHfblTVdDvJtaAiE8U) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Echoes](https://open.spotify.com/album/1htTXDHC2YhVq0xTwHzaHh) | 3:06 | 2020-07-23 |  |
+| [Echoes](https://open.spotify.com/track/6ilylHfblTVdDvJtaAiE8U) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Echoes](https://open.spotify.com/album/1htTXDHC2YhVq0xTwHzaHh) | 3:06 | 2020-07-23 | 2024-02-08 |
 | [Elderly Woman Behind the Counter in a Small Town \- Remastered](https://open.spotify.com/track/5lHgBqh9VwAAzQma55gHRY) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:16 | 2020-07-23 |  |
 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 | 2020-07-23 |  |
 | [Even Flow](https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 4:52 | 2020-07-23 |  |
@@ -123,7 +124,7 @@
 | [Fell In Love With A Girl](https://open.spotify.com/track/33ytgjBqchYHhhRfKWMCvH) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6ivqUxtSPTljd9Frfdyxbg) | 1:50 | 2020-07-23 | 2022-07-29 |
 | [Fell In Love With a Girl](https://open.spotify.com/track/2fymCrgE8PRWqr6VOtmSvx) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Fell in Love with a Girl](https://open.spotify.com/album/3OxTiR9m0tSOGvlBJ308Vn) | 1:51 | 2022-05-30 | 2022-11-13 |
 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 | 2020-07-23 |  |
-| [Fire](https://open.spotify.com/track/7K2vo9oSUzFgmtIXNYegzP) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Fire](https://open.spotify.com/album/4o3dOaZVQ56I9YdmUarlDR) | 4:11 | 2020-07-23 |  |
+| [Fire](https://open.spotify.com/track/7K2vo9oSUzFgmtIXNYegzP) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Fire](https://open.spotify.com/album/4o3dOaZVQ56I9YdmUarlDR) | 4:11 | 2020-07-23 | 2024-02-08 |
 | [Fire](https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:12 | 2022-05-30 | 2022-11-28 |
 | [First](https://open.spotify.com/track/3omXshBamrREltcf24gYDC) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY) | 3:20 | 2020-07-23 |  |
 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 | 2020-07-23 |  |
@@ -135,6 +136,7 @@
 | [Golden Skans](https://open.spotify.com/track/5RsafHN45Azq79aJ6IG9Ck) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future \(Exclusive to specific BPs\)](https://open.spotify.com/album/3X36TxPDnlK0Ie61NLMYwy) | 2:45 | 2020-07-23 | 2022-07-29 |
 | [Golden Skans](https://open.spotify.com/track/0I5rSYakGDYXkXxKTLbygE) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Indie Rock Essentials](https://open.spotify.com/album/4DYRVOIktetGjV0pYQuEHm) | 2:47 | 2022-05-30 | 2022-11-12 |
 | [HandClap](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums \(Deluxe Edition\)](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) | 3:13 | 2020-07-23 |  |
+| [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 | 2024-02-07 |  |
 | [Hard to Beat](https://open.spotify.com/track/34L2ThvPUNNAMUZ5Ei1F54) | [Hard\-FI](https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD) | [Best Of 2004 \- 2014](https://open.spotify.com/album/0GWExk41YChmtb5xxyz2ok) | 4:13 | 2020-07-23 | 2022-11-13 |
 | [Hard To Explain](https://open.spotify.com/track/0OM9ri37LIbPc9hffwsyb1) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:44 | 2022-05-30 |  |
 | [Hard To Explain](https://open.spotify.com/track/2LMloFiV7DHpBhITOaBSam) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:44 | 2020-07-23 | 2022-07-29 |
@@ -191,7 +193,7 @@
 | [Karma Police](https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:24 | 2020-07-23 | 2022-07-29 |
 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 | 2022-05-30 |  |
 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 | 2020-07-23 |  |
-| [Killed By An Angel](https://open.spotify.com/track/5QxsyWK3UfLgEPTaAb5Xgq) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [The Rising Tide](https://open.spotify.com/album/6qF8IcGGO3Y4YuNx33DJA2) | 4:55 | 2020-07-23 |  |
+| [Killed By An Angel](https://open.spotify.com/track/5QxsyWK3UfLgEPTaAb5Xgq) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [The Rising Tide](https://open.spotify.com/album/6qF8IcGGO3Y4YuNx33DJA2) | 4:55 | 2020-07-23 | 2024-02-08 |
 | [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:13 | 2020-07-23 |  |
 | [Kings And Queens](https://open.spotify.com/track/4z21jCYxdhnEfvgqGSKByQ) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [This Is War \(Deluxe\)](https://open.spotify.com/album/5nI4Eo1vWUWXzeT4WrzTGL) | 5:47 | 2020-07-23 | 2024-02-06 |
 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 | 2020-07-23 |  |
@@ -334,6 +336,7 @@
 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 | 2022-05-30 |  |
 | [The Middle](https://open.spotify.com/track/67PzNQl5EyyrNBmFIM917G) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Emo 2000s](https://open.spotify.com/album/6YLLFMlYzwDiKTKeqIHMvQ) | 2:46 | 2022-05-30 | 2022-11-13 |
 | [The Middle](https://open.spotify.com/track/3mcG2NI5G5vhrQtRda1YnA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/2ZuFyQ3E5n1L0VA9iyH0YV) | 2:48 | 2020-07-23 | 2022-07-29 |
+| [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 | 2024-02-07 |  |
 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 | 2020-07-23 |  |
 | [The Rat](https://open.spotify.com/track/2YIOkqKgg3jZEFoL5qcEPT) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [Bows + Arrows](https://open.spotify.com/album/4QR9jaNP6Ifh7eqXjhAHw2) | 4:22 | 2020-07-23 |  |
 | [The Reason](https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 3:52 | 2022-11-23 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 2408,
+  "2024-02-08": 2410,
   "date_first_scraped": "2023-04-03",
   "description": "This is JJ Hairston. The essential tracks, all in one playlist.",
   "name": "This Is JJ Hairston",
@@ -156,6 +156,32 @@
     },
     {
       "album": {
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402946,
+      "name": "Awe Of You",
+      "url": "https://open.spotify.com/track/7Mef0xVylvlkTW8hB7l6fl"
+    },
+    {
+      "album": {
         "name": "Joy Is Here (Live)",
         "url": "https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa"
       },
@@ -201,7 +227,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 276565,
       "name": "Awe Of You - Live",
       "url": "https://open.spotify.com/track/7IClEnQjzsTO6WG3McJiOV"

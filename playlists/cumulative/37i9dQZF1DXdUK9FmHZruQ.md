@@ -4,7 +4,7 @@
 
 > Sit back, relax, and let these chill tunes calm you down.
 
-73 songs - 4 hr 14 min
+74 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,9 +52,10 @@
 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 | 2023-11-10 |  |
 | [lowkey](https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [lowkey](https://open.spotify.com/album/6a1p03zluxNwXTVdm9IStw) | 2:51 | 2023-11-10 | 2024-01-24 |
 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2023-11-10 |  |
-| [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2023-11-10 |  |
+| [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2023-11-10 | 2024-02-08 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2023-11-10 |  |
 | [positions](https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:52 | 2023-11-10 |  |
+| [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 | 2024-01-30 |  |
 | [seasons](https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH) | 4:15 | 2023-11-12 |  |
 | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz) | 3:26 | 2023-11-10 | 2024-01-11 |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-11-10 |  |

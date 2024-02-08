@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Current Pakistani hits under one roof\. Cover: ZAYN
+> Current Pakistani hits under one roof\. Cover: AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,240 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,310 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 3 | [Wishes](https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:38 |
 | 4 | [Bikhra](https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Bikhra](https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn) | 2:48 |
 | 5 | [Tera Mera Hai Pyar \(From "Ishq Murshid"\)](https://open.spotify.com/track/7n3BVENCi9odYvNeFwcmCv) | [Ahmed Jahanzeb](https://open.spotify.com/artist/2mwbuz349OET9y5xYFUnrR) | [Tera Mera Hai Pyar \(From "Ishq Murshid"\)](https://open.spotify.com/album/2R6fwaRteK3HgyufFhcdDm) | 3:28 |
-| 6 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [Nayel](https://open.spotify.com/artist/1QfBA8CPtR8hOkqgHPzqL5), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 |
+| 6 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 |
 | 7 | [Secrets](https://open.spotify.com/track/0v8UhUalYhCuq6fDEe9ijE) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Open Letter](https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD) | 4:38 |
 | 8 | [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 |
 | 9 | [Pardes Katenda](https://open.spotify.com/track/4IR5cCTkL4DjgJwtSijbjL) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Pardes Katenda](https://open.spotify.com/album/0Vvg3mHBvuZkXTg7rRSLnd) | 2:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 59 | [Hungama](https://open.spotify.com/track/3v2vP8uet5H9VFbrvXPQWX) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Hungama](https://open.spotify.com/album/2kgPco3xRTPR1xAOWFt20q) | 2:59 |
 | 60 | [Kahan Jaoon](https://open.spotify.com/track/3cRf9S40t4xLqQwzcHpW5G) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Kahan Jaoon](https://open.spotify.com/album/1VaGZUVhW2kd1sdnfn6ZIh) | 5:29 |
 
-Snapshot ID: `MCxhMTAxNmJhNDU3M2IwOGYwMTVkYzk0NzNmYjMwM2ZiYWE5NGUzYmQ0`
+Snapshot ID: `MCwzNTdhYmE4MjBkNGRlZDFkMzc1NTIxNjJjOTE3M2FjYzI4NDU5Y2Nm`

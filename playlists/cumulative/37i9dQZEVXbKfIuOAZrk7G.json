@@ -13488,7 +13488,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 275200,
       "name": "Friend Of A Friend",
       "url": "https://open.spotify.com/track/4lTLmo9aTyMJ1SoHa63WA6"
@@ -16566,10 +16566,28 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
       "album": {
@@ -25632,7 +25650,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 103495,
       "name": "Montagem Mysterious Game",
       "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
@@ -29752,7 +29770,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
@@ -35447,6 +35465,24 @@
     },
     {
       "album": {
+        "name": "Soaked",
+        "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
+      },
+      "artists": [
+        {
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179449,
+      "name": "Soaked",
+      "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
+    },
+    {
+      "album": {
         "name": "Hard To Imagine The Neighbourhood Ever Changing",
         "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
@@ -35534,10 +35570,28 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3r4fSBwpm4U0XqxBKc2SWE"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
     },
     {
       "album": {

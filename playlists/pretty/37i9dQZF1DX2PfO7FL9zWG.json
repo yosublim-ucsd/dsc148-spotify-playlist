@@ -1,12 +1,12 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Mustafa",
-  "num_followers": 67278,
+  "num_followers": 67309,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2Y4Yjg0YmQwNzI5Y2NkNTRiMzc0YTA2M2U2MWU1NjRjNjUxMTc1",
+  "snapshot_id": "MCwxZDA2MDc5ZmYwZDkzMmJjMTA5ZTY1NTU4ZjIwMzc1MjA0MThiMGRj",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Lost With You",
-        "url": "https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 175644,
-      "name": "Lost With You",
-      "url": "https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Lost With You",
+        "url": "https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 175644,
+      "name": "Lost With You",
+      "url": "https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "And It\u2019s Still Alright",
-        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "And It's Still Alright",
-      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Long Lost",
         "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 234383,
       "name": "I Lied (with Allison Ponthier)",
       "url": "https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "And It\u2019s Still Alright",
+        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "And It's Still Alright",
+      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Half Your Love",
-      "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Free Yourself Up",
         "url": "https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 191693,
       "name": "I Can Change",
       "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 144186,
+      "name": "Half Your Love",
+      "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq"
+      "duration_ms": 256146,
+      "name": "Love Is A Wild Thing",
+      "url": "https://open.spotify.com/track/5F5lmpwXkxAJtvZqEguTRo"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 256146,
-      "name": "Love Is A Wild Thing",
-      "url": "https://open.spotify.com/track/5F5lmpwXkxAJtvZqEguTRo"
+      "duration_ms": 223240,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq"
     },
     {
       "added_at": "2024-02-02 05:00:00",

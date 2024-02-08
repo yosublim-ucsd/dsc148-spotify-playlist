@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with <a href="spotify:artist:4Gso3d4CscCijv0lmajZWs">Don Toliver</a>\. Discover more Black artists and their contributions <a href="spotify:genre:0JQ5DAqbMKFF9bY76LXmfI">here.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,433 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,426 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 74 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 |
 | 75 | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/track/2xWTbOsDclkxRarvshyReu) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/album/0suVVYEcV3LWxREKaLyOGn) | 3:45 |
 
-Snapshot ID: `MCwyNGM3NWU2MTY5ZTA0MzRjZDczNmJmZWJhNWZlYjc2ZGIyZWEyN2Fl`
+Snapshot ID: `MCxkMTFjOTA0Y2RhMzBhMzhlZGUwZjFjYmNiODZlNTdlYzA5MzNjMGE4`

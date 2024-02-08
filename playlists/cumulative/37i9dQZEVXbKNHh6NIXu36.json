@@ -2390,7 +2390,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 306847,
       "name": "Angel Numbers / Ten Toes",
       "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
@@ -14984,7 +14984,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 129705,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6zUYK0u0aZTrEadjNzuQXv"
@@ -15428,10 +15428,28 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
       "album": {
@@ -19616,7 +19634,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 188520,
       "name": "LiEBE AUF DER R\u00dcCKBANK",
       "url": "https://open.spotify.com/track/2FiJGvN3fiXMwms9IftNV0"
@@ -25630,6 +25648,24 @@
       "duration_ms": 173526,
       "name": "Ona Nije Ja :)",
       "url": "https://open.spotify.com/track/31amrn8pcJgRbe357Z3LiC"
+    },
+    {
+      "album": {
+        "name": "Ghetto Fabulous",
+        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
     },
     {
       "album": {
@@ -32252,7 +32288,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 201142,
       "name": "Still Kicking - Radio Edit",
       "url": "https://open.spotify.com/track/4jAHEESCOgCrNbItFfhppq"
@@ -37336,7 +37372,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 147973,
       "name": "What Happened",
       "url": "https://open.spotify.com/track/1KdLOxVGvRI5hChujmt1qr"

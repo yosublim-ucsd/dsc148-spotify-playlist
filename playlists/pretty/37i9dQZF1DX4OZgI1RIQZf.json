@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 82026,
+  "num_followers": 82064,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzhjNTM1NzcwYjBkODMyODA2MWU3NmFkNzMxYTZiMmFjMWNlYjk0",
+  "snapshot_id": "MCw4MjgzZGIyOGYxYWYzOGZhZmZhZTlhN2ZkODlmNTE4Mjk5NjZlOWJm",
   "tracks": [
     {
       "added_at": "2023-10-27 07:45:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 138893,
-      "name": "Little Ghost",
-      "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Dead Man's Bones",
         "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 270986,
       "name": "My Body's a Zombie For You",
       "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 138893,
+      "name": "Little Ghost",
+      "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Bad Moon Rising",
-        "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
-      },
-      "artists": [
-        {
-          "name": "Sonic Youth",
-          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
-        }
-      ],
-      "duration_ms": 311200,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Zombie Prom (Hallowe'en At Home Edition)",
         "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Keep On Your Mean Side",
-        "url": "https://open.spotify.com/album/7yosQ283GvPYGzKBjp6gzk"
+        "name": "Bad Moon Rising",
+        "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
       },
       "artists": [
         {
-          "name": "The Kills",
-          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
         }
       ],
-      "duration_ms": 280133,
-      "name": "Superstition",
-      "url": "https://open.spotify.com/track/5Cl0OsI6tM9hakvx0GJMGQ"
+      "duration_ms": 311200,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
+        "name": "Keep On Your Mean Side",
+        "url": "https://open.spotify.com/album/7yosQ283GvPYGzKBjp6gzk"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 280133,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/5Cl0OsI6tM9hakvx0GJMGQ"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
         "name": "No Regerts",
         "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
       },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "The Five Ghosts",
-        "url": "https://open.spotify.com/album/0fli3Vlq3OCeHEDpxlptVl"
-      },
-      "artists": [
-        {
-          "name": "Stars",
-          "url": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "I Died So I Could Haunt You",
-      "url": "https://open.spotify.com/track/7lW55LWB5WNghEKUDdSW2x"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Whip It On",
         "url": "https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 150293,
       "name": "Attack of the Ghost Riders",
       "url": "https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "The Five Ghosts",
+        "url": "https://open.spotify.com/album/0fli3Vlq3OCeHEDpxlptVl"
+      },
+      "artists": [
+        {
+          "name": "Stars",
+          "url": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "I Died So I Could Haunt You",
+      "url": "https://open.spotify.com/track/7lW55LWB5WNghEKUDdSW2x"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Dark and Stormy",
-        "url": "https://open.spotify.com/album/7beMB0mRNOgPfrCyNlhXmk"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 295840,
-      "name": "Dark and Stormy",
-      "url": "https://open.spotify.com/track/5o45wuK2lhBcwR3fSnakXL"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Rest Now, Weary Head! You Will Get Well Soon",
         "url": "https://open.spotify.com/album/3v5np4Yucc1MfTScroDIvM"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 239866,
       "name": "Witches! Witches! Rest Now in the Fire",
       "url": "https://open.spotify.com/track/291lmjDQWvoIvydacDDPHw"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/7beMB0mRNOgPfrCyNlhXmk"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 295840,
+      "name": "Dark and Stormy",
+      "url": "https://open.spotify.com/track/5o45wuK2lhBcwR3fSnakXL"
     },
     {
       "added_at": "2023-10-27 07:45:00",

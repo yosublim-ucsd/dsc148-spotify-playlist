@@ -4,7 +4,7 @@
 
 > A new story begins...Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-174 songs - 10 hr 11 min
+175 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [The Chase](https://open.spotify.com/track/3mck8HEqgLJbRr7sBVZ6Ab) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Chase \(Hour 11 Remix\)](https://open.spotify.com/album/18HZukW6NvaNSwGEKQxFO6) | 3:13 | 2023-05-18 |  |
 | [The Same](https://open.spotify.com/track/57YKyo8SW8lujChukFU3qY) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Same / Real Love](https://open.spotify.com/album/0zWFPw6BqkytZZ2roxs9vh) | 3:53 | 2022-02-09 | 2023-05-19 |
 | [The Same](https://open.spotify.com/track/4x7OnXtzFvsPIqdmQq2Pao) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:53 | 2022-02-09 | 2022-07-29 |
-| [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2023-05-18 |  |
+| [The Weekend](https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd) | 2:47 | 2023-07-07 |  |
+| [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2023-05-18 | 2024-02-08 |
 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 | 2022-02-09 | 2023-05-19 |
 | [This / That](https://open.spotify.com/track/7sx3aDUXa9tSDcDqYhIcVI) | [Sarah Jaffe](https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS) | [Bad Baby](https://open.spotify.com/album/6Er2GVXW6JrjaYqAwVaPII) | 4:28 | 2022-02-09 | 2023-05-19 |
 | [Time Machine](https://open.spotify.com/track/0zLCjlOOY10dhxYAR347wd) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 3:25 | 2023-05-18 |  |

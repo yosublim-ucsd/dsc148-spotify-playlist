@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: The Killers
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,872 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,839 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 22 | [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 |
 | 23 | [Trial By Fire](https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Trial By Fire](https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi) | 4:21 |
 | 24 | [Forgotten](https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:17 |
-| 25 | [My Condition](https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [My Condition](https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH) | 3:27 |
-| 26 | [No More Tears To Cry](https://open.spotify.com/track/76uink7chpCLN5HjlDIMCA) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/05b3WF6jDA6kf7JtIvKw2c) | 3:41 |
+| 25 | [No More Tears To Cry](https://open.spotify.com/track/76uink7chpCLN5HjlDIMCA) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/05b3WF6jDA6kf7JtIvKw2c) | 3:41 |
+| 26 | [My Condition](https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [My Condition](https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH) | 3:27 |
 | 27 | [City of the Dead](https://open.spotify.com/track/5bqnhwnHxcisxM8x7GLl3B) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia](https://open.spotify.com/album/7dbiEbvBNNt9S4tjV3hIgj) | 2:53 |
 | 28 | [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 |
 | 29 | [The Falling Sky](https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [The Falling Sky](https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq) | 3:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 74 | [The People That We Love \- Golden Dub Remix](https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa), [Greg Brimson](https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe) | [Golden State \(20th Anniversary Expanded Version\)](https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS) | 5:42 |
 | 75 | [Dreadpool](https://open.spotify.com/track/3Xj5buo2mNxOyxPgT8Xkzy) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Dreadpool](https://open.spotify.com/album/3vF3bDExugJaSubn8KgPwQ) | 2:59 |
 
-Snapshot ID: `MCxmYmU1MzJmZTBlNzY5M2FiZGYzODc1YzAyYzI5MDNkNGNlYWJmYTcy`
+Snapshot ID: `MCxmOTVlODE0YmQ3MzhhN2FlZGYwNWJlNDcxNDc2OGE4ZTI5MDllN2Vl`

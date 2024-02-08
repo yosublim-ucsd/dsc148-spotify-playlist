@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38neNCcDGwC.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,335 likes - 36 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,369 likes - 36 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38neNCcDGwC.md) - [plain]
 | 35 | [Kinky Reggae](https://open.spotify.com/track/7rzl3uAXLQMWznyVUaoeer) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 3:37 |
 | 36 | [Mix Up, Mix Up](https://open.spotify.com/track/12zYQ3dOGdclP6Iy2a0bgy) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 5:02 |
 
-Snapshot ID: `MCwwOWVhNDBjNWQ1OGM5NWMyMzRmYWQ0N2E0NjMxYWRmNDM2OTE1YzY5`
+Snapshot ID: `MCxkNjlkM2RjZjhlMDMwYjJlNzFkZjkzYmE1ZTAwZmU4MTdkNWUzMDM5`

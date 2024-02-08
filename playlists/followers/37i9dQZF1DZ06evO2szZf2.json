@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 34369,
+  "2024-02-08": 34370,
   "date_first_scraped": "2023-12-31",
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
   "name": "This Is Mc Dricka",
@@ -217,6 +217,28 @@
       "duration_ms": 138900,
       "name": "Catucad\u00e3o",
       "url": "https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f"
+    },
+    {
+      "album": {
+        "name": "Colocadinha",
+        "url": "https://open.spotify.com/album/1BzI9XaLvtBy1BdklTSQd1"
+      },
+      "artists": [
+        {
+          "name": "Argentino No Beat",
+          "url": "https://open.spotify.com/artist/34M7UdepuokkiSNHjB4opv"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143085,
+      "name": "Colocadinha",
+      "url": "https://open.spotify.com/track/6GWe9a8eVDNecYYMvWy0XB"
     },
     {
       "album": {
@@ -1303,7 +1325,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 378947,
       "name": "Set Dj Everton Martins",
       "url": "https://open.spotify.com/track/02Vkj8FCP6dksyHz3M5Ej9"

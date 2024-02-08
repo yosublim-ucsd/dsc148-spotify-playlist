@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,927 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,982 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 19 | [elope](https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [elope](https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8) | 4:53 |
 | 20 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
 | 21 | [Pastis](https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Pastis](https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV) | 4:04 |
-| 22 | [I Needed](https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj) | [Hanna](https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB) | [I Needed / Intercession, On Behalf](https://open.spotify.com/album/5FyTGjsgSg6DCtg5oxui1p) | 6:37 |
-| 23 | [Brasileira \- ddp Remix](https://open.spotify.com/track/5mhTV8AJiXiqYZYV3gfMAo) | [9iusi](https://open.spotify.com/artist/4r3taDm0QDk822Kgkb5HSF), [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY) | [Brasileira \(ddp Remix\)](https://open.spotify.com/album/6KLIuHvsFGrI4c2JUCmhUr) | 1:56 |
+| 22 | [Brasileira \- ddp Remix](https://open.spotify.com/track/5mhTV8AJiXiqYZYV3gfMAo) | [9iusi](https://open.spotify.com/artist/4r3taDm0QDk822Kgkb5HSF), [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY) | [Brasileira \(ddp Remix\)](https://open.spotify.com/album/6KLIuHvsFGrI4c2JUCmhUr) | 1:56 |
+| 23 | [I Needed](https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj) | [Hanna](https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB) | [I Needed / Intercession, On Behalf](https://open.spotify.com/album/5FyTGjsgSg6DCtg5oxui1p) | 6:37 |
 | 24 | [Vibrant Air](https://open.spotify.com/track/6GbiQmd9EAWP53EJ2Acbec) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x), [Rick Flair](https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m) | [Sessions 2](https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP) | 4:11 |
 | 25 | [Radio Los Santos](https://open.spotify.com/track/1x40cY4yovEabUMzRWXGjd) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Radio Los Santos](https://open.spotify.com/album/6N6GvUqI3dgfMcorIYv44N) | 7:12 |
 | 26 | [Orbits of Dust](https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Orbits of Dust](https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP) | 6:00 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 46 | [199X](https://open.spotify.com/track/2K3GOGsD0FEKMkqyK8uTbP) | [Phil from Havêa](https://open.spotify.com/artist/5gyMIFkh865zZG52zrjgKM) | [199X](https://open.spotify.com/album/3P8J6rHmSgyeq3lJF0ijIF) | 3:33 |
 | 47 | [Tokyo Cruise](https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Tokyo Cruise](https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI) | 3:02 |
 | 48 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
-| 49 | [The Sinner](https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:42 |
-| 50 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
+| 49 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
+| 50 | [The Sinner](https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:42 |
 | 51 | [I Knew It](https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B) | [Yambow](https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS), [Latas](https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb) | [I Knew It](https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei) | 3:44 |
 | 52 | [Kokiri Forest](https://open.spotify.com/track/6vhVeoN1qJNJfdiIJAK4A9) | [Hugo Mari](https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU) | [Mind's Eye](https://open.spotify.com/album/0V7YCgKiVWctiHpxc4Hmv1) | 6:21 |
 | 53 | [Me at the Zoo \- Cody Currie Remix](https://open.spotify.com/track/3uPNfRRceOwIq9lqddFt0z) | [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [Àbáse](https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba), [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Fidelity Radio Club \(Toy Tonics Remixes\)](https://open.spotify.com/album/3hxPWuy4C9In99QtySB0tT) | 4:17 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 55 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 |
 | 56 | [Into The Sun](https://open.spotify.com/track/7IOfpG6bLNSqz2KfDDvbt0) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [STRNGE](https://open.spotify.com/artist/4ZagUV2adLPb7zSoUWYpyr) | [Into The Sun](https://open.spotify.com/album/0cg0ZZjG0sxfyXnMb5xBYx) | 4:47 |
 | 57 | [Carefree](https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Carefree](https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB) | 3:28 |
-| 58 | [Tavolo](https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Passeggiata](https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI) | 2:15 |
-| 59 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 |
-| 60 | [Bliss](https://open.spotify.com/track/3CCBNEcg3etv2gppDhs3At) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Bliss](https://open.spotify.com/album/2T1JvD1CHgQfQcEGd9CzKe) | 5:47 |
+| 58 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 |
+| 59 | [Tavolo](https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Passeggiata](https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI) | 2:15 |
+| 60 | [Anything Else Feat\. Alix Edwards](https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r) | [Carlo](https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo) | [Carlito Archives](https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg) | 6:03 |
 
-Snapshot ID: `MCxjMTIxZDQyYTcwZDdjZTRjZjk3ZTkwZWUzMmZjZTgyMjNkNTJlYzQy`
+Snapshot ID: `MCw2Y2MyOWY5OWM3NTljZjE0YjU3ODA3Y2IwNGZlMGRmNmEwNWNhNzA4`

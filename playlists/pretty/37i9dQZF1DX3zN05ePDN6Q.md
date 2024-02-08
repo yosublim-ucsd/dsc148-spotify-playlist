@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Parteum
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,149 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,174 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [A Saga](https://open.spotify.com/track/6drEflBWAyIxK3m31uuCSA) | [Mcn](https://open.spotify.com/artist/1MQPP13rE3YIhRKuGZJMp2), [limanobeat](https://open.spotify.com/artist/0udVuflDygn247ZrE4F196), [Lado Sujo da Frequência](https://open.spotify.com/artist/6aPW50hBX6ZLc5QTgor7Wh) | [A Saga](https://open.spotify.com/album/73jKnyZzzFxqVIok4PndlU) | 2:05 |
 | 75 | [Era uma vez](https://open.spotify.com/track/0XDJWF6ZyERx7lDBQ2ZiFs) | [AFRONASA](https://open.spotify.com/artist/1cIM4auCHPl3RWc7ZvKFYZ), [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [CXLD](https://open.spotify.com/artist/6rPOy8FDvdRxhM575PCNDU), [DROPEreal](https://open.spotify.com/artist/0W4OeSgEAxfqQWFQu6LQ00), [Pokas](https://open.spotify.com/artist/3nHUE5UfHW0QqUlfVUAME4) | [Era uma vez](https://open.spotify.com/album/31ggQN6NLpn6rjKD1XTJCa) | 2:55 |
 
-Snapshot ID: `MCxlMGNjNzU3MWNlY2FlNDlhOWI0OWVhYzZkMmE5YmYxZjg1NzdjZTg2`
+Snapshot ID: `MCxmOTA4OWE0ZWU1ZWViNjhiMjUxNTIzZjM0ZmUzMmE2MWZlZmJkMTlh`

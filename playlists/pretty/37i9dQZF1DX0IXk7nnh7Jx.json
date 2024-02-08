@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence by listening to the best songs from faith-based indie artists.  Cover: <a href=\"spotify:artist:19TPpTWkgX13Qc2stbqVoP\">Terrian</a>",
-  "num_followers": 79211,
+  "num_followers": 79267,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTMyN2M4ZTI4OGI5ZWUxYTE2Y2ZjYzUzOTJiYjVlOTU0NjExN2Jk",
+  "snapshot_id": "MCxiYTcxODc2MzJjMWZhNTcyOTVlYmM1ZjFlNWM5NGMyNjM2ZGI2N2Uy",
   "tracks": [
     {
       "added_at": "2024-01-26 11:01:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/6VvEgJ1Ji4sTik5Kqdh7dL"
+        "name": "A Way For Us",
+        "url": "https://open.spotify.com/album/7JsaHljx1p4GA1cnRGvRH0"
       },
       "artists": [
         {
-          "name": "Wande",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
         }
       ],
-      "duration_ms": 133006,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/3ZMh5ZG2KPAyhfzR7C99vj"
+      "duration_ms": 199890,
+      "name": "A Way For Us",
+      "url": "https://open.spotify.com/track/4tkNhyuG4WHv6aakY5HU8J"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -551,6 +551,38 @@
       "duration_ms": 248578,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/7sCocP9fv45FRVtJOkPF93"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Kings Kaleidoscope",
+        "url": "https://open.spotify.com/album/7em1z6RFOEdURjAEuJE352"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "duration_ms": 241525,
+      "name": "Radiant Reason",
+      "url": "https://open.spotify.com/track/7fkDrV2fvORVEiUkmWEi6R"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/6VvEgJ1Ji4sTik5Kqdh7dL"
+      },
+      "artists": [
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "duration_ms": 133006,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/3ZMh5ZG2KPAyhfzR7C99vj"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -575,38 +607,6 @@
       "duration_ms": 162427,
       "name": "RICH",
       "url": "https://open.spotify.com/track/3J6kfqAnqQSTzhkB93O4TG"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "A Way For Us",
-        "url": "https://open.spotify.com/album/7JsaHljx1p4GA1cnRGvRH0"
-      },
-      "artists": [
-        {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
-        }
-      ],
-      "duration_ms": 199890,
-      "name": "A Way For Us",
-      "url": "https://open.spotify.com/track/4tkNhyuG4WHv6aakY5HU8J"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Kings Kaleidoscope",
-        "url": "https://open.spotify.com/album/7em1z6RFOEdURjAEuJE352"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        }
-      ],
-      "duration_ms": 241525,
-      "name": "Radiant Reason",
-      "url": "https://open.spotify.com/track/7fkDrV2fvORVEiUkmWEi6R"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "First Things First",
-        "url": "https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj"
-      },
-      "artists": [
-        {
-          "name": "Consumed By Fire",
-          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
-        }
-      ],
-      "duration_ms": 149515,
-      "name": "MORE!",
-      "url": "https://open.spotify.com/track/66wPG22qStRk2Hl5h0905j"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/6yMRfivaE9J89s9gvS4Mfi"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 175266,
       "name": "First Love",
       "url": "https://open.spotify.com/track/06AAsD9gLcedyXipo6IROq"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "First Things First",
+        "url": "https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj"
+      },
+      "artists": [
+        {
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+        }
+      ],
+      "duration_ms": 149515,
+      "name": "MORE!",
+      "url": "https://open.spotify.com/track/66wPG22qStRk2Hl5h0905j"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "A Good Thing",
-        "url": "https://open.spotify.com/album/7FUZ0Z40BXZMDDSNMbpeYS"
-      },
-      "artists": [
-        {
-          "name": "Uninvtd",
-          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
-        },
-        {
-          "name": "S A I N T",
-          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
-        }
-      ],
-      "duration_ms": 172940,
-      "name": "A Good Thing",
-      "url": "https://open.spotify.com/track/5TgtiD1sCDSvlD6KjqrsJz"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "So Much To Say (Pt. III)",
         "url": "https://open.spotify.com/album/6HaymVQhgMhb6UyFqk3VHY"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 164542,
       "name": "Amen",
       "url": "https://open.spotify.com/track/6wU5FbAJrRcZUvDfpP0XxR"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "A Good Thing",
+        "url": "https://open.spotify.com/album/7FUZ0Z40BXZMDDSNMbpeYS"
+      },
+      "artists": [
+        {
+          "name": "Uninvtd",
+          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
+        },
+        {
+          "name": "S A I N T",
+          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
+        }
+      ],
+      "duration_ms": 172940,
+      "name": "A Good Thing",
+      "url": "https://open.spotify.com/track/5TgtiD1sCDSvlD6KjqrsJz"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6"
-      },
-      "artists": [
-        {
-          "name": "Phil the Voice",
-          "url": "https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E"
-        }
-      ],
-      "duration_ms": 154090,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "PLAN PLAN",
         "url": "https://open.spotify.com/album/2xNO3xacBP2uF3qH5OSacX"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6"
+      },
+      "artists": [
+        {
+          "name": "Phil the Voice",
+          "url": "https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E"
+        }
+      ],
+      "duration_ms": 154090,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "L",
         "url": "https://open.spotify.com/album/7pJtu1Hs5IaC7cIncpN3C6"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 170250,
       "name": "L",
       "url": "https://open.spotify.com/track/13GUmWrOYPpjTS1Mf9LQih"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "Pray For Me",
         "url": "https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ"
       },
@@ -1127,26 +1127,6 @@
       "duration_ms": 224606,
       "name": "Pray For Me",
       "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/3qSl2EUB9MHWNZ7blQVOL4"
-      },
-      "artists": [
-        {
-          "name": "RaeLynn",
-          "url": "https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n"
-        },
-        {
-          "name": "JUDAH.",
-          "url": "https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW"
-        }
-      ],
-      "duration_ms": 189115,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/5EaDQlO1mSdyDhgmmV3ECo"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1167,6 +1147,26 @@
       "duration_ms": 187118,
       "name": "RIVALS",
       "url": "https://open.spotify.com/track/4Lv3A56fTvfZvTK4mrB1vZ"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3qSl2EUB9MHWNZ7blQVOL4"
+      },
+      "artists": [
+        {
+          "name": "RaeLynn",
+          "url": "https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n"
+        },
+        {
+          "name": "JUDAH.",
+          "url": "https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW"
+        }
+      ],
+      "duration_ms": 189115,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/5EaDQlO1mSdyDhgmmV3ECo"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "It Was Dark Until It Wasn't",
-        "url": "https://open.spotify.com/album/1C2Qeps8nNNwlp8IakIpMe"
-      },
-      "artists": [
-        {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
-        },
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 265084,
-      "name": "Blessed Be",
-      "url": "https://open.spotify.com/track/6UAirscqMkcpqlf63qE0V6"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Nicely",
         "url": "https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC"
       },
@@ -1279,46 +1259,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Captured (with Trulah)",
-        "url": "https://open.spotify.com/album/4tk3i1oLFGMjC9shHslFTp"
+        "name": "It Was Dark Until It Wasn't",
+        "url": "https://open.spotify.com/album/1C2Qeps8nNNwlp8IakIpMe"
       },
       "artists": [
         {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
         },
         {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        },
-        {
-          "name": "Trulah",
-          "url": "https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR"
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
         }
       ],
-      "duration_ms": 312307,
-      "name": "Captured - with Trulah",
-      "url": "https://open.spotify.com/track/2E0HUOrgjtVfMYCeKw9ZoQ"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "PAWA",
-        "url": "https://open.spotify.com/album/5JJfQHS7B70SvHPPdAWaqW"
-      },
-      "artists": [
-        {
-          "name": "Sam Jamz",
-          "url": "https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "PAWA",
-      "url": "https://open.spotify.com/track/3OLORCu80i3HVzBzpf9Sul"
+      "duration_ms": 265084,
+      "name": "Blessed Be",
+      "url": "https://open.spotify.com/track/6UAirscqMkcpqlf63qE0V6"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1343,6 +1299,26 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "PAWA",
+        "url": "https://open.spotify.com/album/5JJfQHS7B70SvHPPdAWaqW"
+      },
+      "artists": [
+        {
+          "name": "Sam Jamz",
+          "url": "https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "PAWA",
+      "url": "https://open.spotify.com/track/3OLORCu80i3HVzBzpf9Sul"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "That Feel",
         "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
       },
@@ -1355,6 +1331,30 @@
       "duration_ms": 163657,
       "name": "That Feel",
       "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Captured (with Trulah)",
+        "url": "https://open.spotify.com/album/4tk3i1oLFGMjC9shHslFTp"
+      },
+      "artists": [
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        },
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        },
+        {
+          "name": "Trulah",
+          "url": "https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR"
+        }
+      ],
+      "duration_ms": 312307,
+      "name": "Captured - with Trulah",
+      "url": "https://open.spotify.com/track/2E0HUOrgjtVfMYCeKw9ZoQ"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Clouds II",
+        "url": "https://open.spotify.com/album/1gKvdAwzaQBaOkm1j2FOQG"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        }
+      ],
+      "duration_ms": 235275,
+      "name": "Clouds II",
+      "url": "https://open.spotify.com/track/4cWaqqvy5itUbOHj6C3AyW"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "Kingdom Business",
         "url": "https://open.spotify.com/album/7slHnMjanj0tMxf0jVcQbr"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 210631,
       "name": "Kingdom Business",
       "url": "https://open.spotify.com/track/0eRXjkHgPK8nfgSz1W6On8"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Clouds II",
-        "url": "https://open.spotify.com/album/1gKvdAwzaQBaOkm1j2FOQG"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        }
-      ],
-      "duration_ms": 235275,
-      "name": "Clouds II",
-      "url": "https://open.spotify.com/track/4cWaqqvy5itUbOHj6C3AyW"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1571,6 +1571,42 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Edwards",
+          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
+        },
+        {
+          "name": "Rushawn",
+          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
+        }
+      ],
+      "duration_ms": 154218,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "One Common",
+        "url": "https://open.spotify.com/album/278YubPwMAWUmwQK2AIUDd"
+      },
+      "artists": [
+        {
+          "name": "One Common",
+          "url": "https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9"
+        }
+      ],
+      "duration_ms": 192190,
+      "name": "Behind The Scenes",
+      "url": "https://open.spotify.com/track/1p3jR91C9jx4jSRIYSrYjB"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "JUST BE US",
         "url": "https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7"
       },
@@ -1611,22 +1647,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "One Common",
-        "url": "https://open.spotify.com/album/278YubPwMAWUmwQK2AIUDd"
-      },
-      "artists": [
-        {
-          "name": "One Common",
-          "url": "https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9"
-        }
-      ],
-      "duration_ms": 192190,
-      "name": "Behind The Scenes",
-      "url": "https://open.spotify.com/track/1p3jR91C9jx4jSRIYSrYjB"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "The Prodigal Son",
         "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
       },
@@ -1643,22 +1663,34 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
+        "name": "SURREAL",
+        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
       },
       "artists": [
         {
-          "name": "Jermaine Edwards",
-          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
-        },
-        {
-          "name": "Rushawn",
-          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
         }
       ],
-      "duration_ms": 154218,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
+      "duration_ms": 174409,
+      "name": "SURREAL",
+      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Taxi",
+        "url": "https://open.spotify.com/album/6M6icqwiEExSsx8y8XaN7n"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 160444,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/41pVJKmDtmmyXIVKFki50N"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1683,38 +1715,6 @@
       "duration_ms": 135882,
       "name": "You Loved Me To You",
       "url": "https://open.spotify.com/track/6z9tITZ9EtBDjPbLrK1BCG"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Taxi",
-        "url": "https://open.spotify.com/album/6M6icqwiEExSsx8y8XaN7n"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 160444,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/41pVJKmDtmmyXIVKFki50N"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "SURREAL",
-        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
-      },
-      "artists": [
-        {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
-        }
-      ],
-      "duration_ms": 174409,
-      "name": "SURREAL",
-      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5aQbjjlXcxmMDB4NAaQLms"
-      },
-      "artists": [
-        {
-          "name": "Joshua Luke Smith",
-          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
-        },
-        {
-          "name": "Jacques Mich\u00e9",
-          "url": "https://open.spotify.com/artist/523pL6R2wieVWZMBIrgY7Y"
-        }
-      ],
-      "duration_ms": 194556,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/2Ly7OiDe6Xc6ET3Mw987mx"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Keep me",
         "url": "https://open.spotify.com/album/5RM33r3cYmWgSZCxwIyT0G"
       },
@@ -1843,22 +1823,6 @@
       "duration_ms": 248999,
       "name": "Keep me",
       "url": "https://open.spotify.com/track/6VNixtccaXI23rKht6kQQg"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Your Arms",
-        "url": "https://open.spotify.com/album/2FGO1TD4b69CQHPG4tbB6v"
-      },
-      "artists": [
-        {
-          "name": "RORE",
-          "url": "https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j"
-        }
-      ],
-      "duration_ms": 157477,
-      "name": "Your Arms",
-      "url": "https://open.spotify.com/track/56B8Ls0ASzAKEmZ87hgYfb"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1891,6 +1855,42 @@
       "duration_ms": 205114,
       "name": "Waves",
       "url": "https://open.spotify.com/track/5UZA60oOUECRdAhA9KNG60"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Your Arms",
+        "url": "https://open.spotify.com/album/2FGO1TD4b69CQHPG4tbB6v"
+      },
+      "artists": [
+        {
+          "name": "RORE",
+          "url": "https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j"
+        }
+      ],
+      "duration_ms": 157477,
+      "name": "Your Arms",
+      "url": "https://open.spotify.com/track/56B8Ls0ASzAKEmZ87hgYfb"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5aQbjjlXcxmMDB4NAaQLms"
+      },
+      "artists": [
+        {
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+        },
+        {
+          "name": "Jacques Mich\u00e9",
+          "url": "https://open.spotify.com/artist/523pL6R2wieVWZMBIrgY7Y"
+        }
+      ],
+      "duration_ms": 194556,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/2Ly7OiDe6Xc6ET3Mw987mx"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2011,6 +2011,42 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "if I can be honest",
+        "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 260553,
+      "name": "the healing song",
+      "url": "https://open.spotify.com/track/5MtRj4Nf4r9hApo2Way93K"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Just Like In Heaven",
+        "url": "https://open.spotify.com/album/3tmfiGss6xeKIiAmn4nJgW"
+      },
+      "artists": [
+        {
+          "name": "Victory",
+          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
+        }
+      ],
+      "duration_ms": 296973,
+      "name": "Just Like In Heaven",
+      "url": "https://open.spotify.com/track/4tx2oRqJFOEuwye6C1FpgV"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "Have Mercy",
         "url": "https://open.spotify.com/album/4CMr5F1EKU5vIZK4Hrqt6y"
       },
@@ -2039,42 +2075,6 @@
       "duration_ms": 179000,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/7prPLDeUn3YTKMHPKHOem8"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Just Like In Heaven",
-        "url": "https://open.spotify.com/album/3tmfiGss6xeKIiAmn4nJgW"
-      },
-      "artists": [
-        {
-          "name": "Victory",
-          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
-        }
-      ],
-      "duration_ms": 296973,
-      "name": "Just Like In Heaven",
-      "url": "https://open.spotify.com/track/4tx2oRqJFOEuwye6C1FpgV"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "if I can be honest",
-        "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
-      },
-      "artists": [
-        {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 260553,
-      "name": "the healing song",
-      "url": "https://open.spotify.com/track/5MtRj4Nf4r9hApo2Way93K"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2131,6 +2131,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Person of Peace",
+        "url": "https://open.spotify.com/album/3VU42y35AYl32o2WhpzVVC"
+      },
+      "artists": [
+        {
+          "name": "PKYB",
+          "url": "https://open.spotify.com/artist/08zvqg4s6PtATq707V95hZ"
+        }
+      ],
+      "duration_ms": 179714,
+      "name": "Person of Peace",
+      "url": "https://open.spotify.com/track/7oCJdbU8fDqwIYk8MEHHTw"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "Shadow of Your Wings",
         "url": "https://open.spotify.com/album/2Vf1XlTguvYdL63PgLSo5y"
       },
@@ -2167,42 +2183,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Person of Peace",
-        "url": "https://open.spotify.com/album/3VU42y35AYl32o2WhpzVVC"
-      },
-      "artists": [
-        {
-          "name": "PKYB",
-          "url": "https://open.spotify.com/artist/08zvqg4s6PtATq707V95hZ"
-        }
-      ],
-      "duration_ms": 179714,
-      "name": "Person of Peace",
-      "url": "https://open.spotify.com/track/7oCJdbU8fDqwIYk8MEHHTw"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Valuable",
-        "url": "https://open.spotify.com/album/7cbZJmbtvmYM6xaphUhsq9"
-      },
-      "artists": [
-        {
-          "name": "OnBeatMusic",
-          "url": "https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj"
-        },
-        {
-          "name": "Zach Paradis",
-          "url": "https://open.spotify.com/artist/1W2W85bJ8lG3g409Lm6goy"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Valuable",
-      "url": "https://open.spotify.com/track/1u5XKMWtmxG297TuKOAARj"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Unsaid",
         "url": "https://open.spotify.com/album/1x274hlnSCOzObieP38cnA"
       },
@@ -2231,6 +2211,26 @@
       "duration_ms": 244000,
       "name": "Coming Back",
       "url": "https://open.spotify.com/track/2wNRIrTy0HPWNziz0S4qp4"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Valuable",
+        "url": "https://open.spotify.com/album/7cbZJmbtvmYM6xaphUhsq9"
+      },
+      "artists": [
+        {
+          "name": "OnBeatMusic",
+          "url": "https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj"
+        },
+        {
+          "name": "Zach Paradis",
+          "url": "https://open.spotify.com/artist/1W2W85bJ8lG3g409Lm6goy"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Valuable",
+      "url": "https://open.spotify.com/track/1u5XKMWtmxG297TuKOAARj"
     },
     {
       "added_at": "2024-01-26 11:01:00",

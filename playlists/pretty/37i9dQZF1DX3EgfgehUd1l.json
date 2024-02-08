@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 164504,
+  "num_followers": 164514,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGMxODg2MzY1NDliOTRlMTA1MzA0MWY4OTI4OWQwOWNhMGJiOWFh",
+  "snapshot_id": "MCwwM2FmZWJmODFmZDFmMjY5MzdlNzQ2ODMzNThmODgyNThkYzEwNTQ3",
   "tracks": [
     {
       "added_at": "2023-10-17 16:18:55",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Fabulous Favorites",
-        "url": "https://open.spotify.com/album/4wiQVM9GmQ6scMImtHxqmv"
-      },
-      "artists": [
-        {
-          "name": "Kay Starr",
-          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
-        }
-      ],
-      "duration_ms": 172773,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/3cuOpppX5ZNOQ843dPeFB4"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Banana Boat Song",
         "url": "https://open.spotify.com/album/10fE4grc2jJr9G292IxCZA"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 184653,
       "name": "Banana Boat Song",
       "url": "https://open.spotify.com/track/3oY0qu8PC5gf7DkXP6ANx3"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Fabulous Favorites",
+        "url": "https://open.spotify.com/album/4wiQVM9GmQ6scMImtHxqmv"
+      },
+      "artists": [
+        {
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
+        }
+      ],
+      "duration_ms": 172773,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/3cuOpppX5ZNOQ843dPeFB4"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Essential Johnny Mathis",
-        "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "A Certain Smile - From the 20th Century Fox Film \"A Certain Smile\"",
-      "url": "https://open.spotify.com/track/76eNJQoJmN4mfsUW0q8HPv"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Pat Boone Sings",
         "url": "https://open.spotify.com/album/0vdjMYJN23OwAzxkG1mSvW"
       },
@@ -791,6 +775,38 @@
       "duration_ms": 163360,
       "name": "April Love",
       "url": "https://open.spotify.com/track/5dC8EKphA0ffPseGxT3xFE"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Essential Harry Belafonte",
+        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 201453,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Essential Johnny Mathis",
+        "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "A Certain Smile - From the 20th Century Fox Film \"A Certain Smile\"",
+      "url": "https://open.spotify.com/track/76eNJQoJmN4mfsUW0q8HPv"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -843,18 +859,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Essential Harry Belafonte",
-        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
+        "name": "Pat Boone Sings (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Btlm07VEQhfqvsTbkjL9H"
       },
       "artists": [
         {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
         }
       ],
-      "duration_ms": 201453,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
+      "duration_ms": 115506,
+      "name": "Sugar Moon",
+      "url": "https://open.spotify.com/track/6hc2AUvS54icf4z9qQHbaT"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -871,22 +887,6 @@
       "duration_ms": 155880,
       "name": "A Tear Fell",
       "url": "https://open.spotify.com/track/4Dvh0RfaYxlEqQjRrWZSCl"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Magic Of Alma Cogan",
-        "url": "https://open.spotify.com/album/0QHQ3Jya66uxgdTG9DM2e5"
-      },
-      "artists": [
-        {
-          "name": "Alma Cogan",
-          "url": "https://open.spotify.com/artist/0oGo1uX2IixGBLb3fsiVnK"
-        }
-      ],
-      "duration_ms": 107333,
-      "name": "Dreamboat",
-      "url": "https://open.spotify.com/track/5KpECOf7hoR234q8fJcphk"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Magic Of Alma Cogan",
+        "url": "https://open.spotify.com/album/0QHQ3Jya66uxgdTG9DM2e5"
+      },
+      "artists": [
+        {
+          "name": "Alma Cogan",
+          "url": "https://open.spotify.com/artist/0oGo1uX2IixGBLb3fsiVnK"
+        }
+      ],
+      "duration_ms": 107333,
+      "name": "Dreamboat",
+      "url": "https://open.spotify.com/track/5KpECOf7hoR234q8fJcphk"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "What Do You Want to Make Those Eyes At Me For?",
         "url": "https://open.spotify.com/album/3JEmxhsvpLlmfHQnrQmyqy"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 124200,
       "name": "What Do You Want to Make Those Eyes at Me for",
       "url": "https://open.spotify.com/track/6xrw30tunsi9SPHksNv4Ex"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Pat Boone Sings (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Btlm07VEQhfqvsTbkjL9H"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "duration_ms": 115506,
-      "name": "Sugar Moon",
-      "url": "https://open.spotify.com/track/6hc2AUvS54icf4z9qQHbaT"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Ricky Nelson (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt"
+        "name": "The Gold Collection",
+        "url": "https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i"
       },
       "artists": [
         {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
         }
       ],
-      "duration_ms": 171826,
-      "name": "Someday (You'll Want Me To Want You) - Remastered",
-      "url": "https://open.spotify.com/track/6ew1MCEKObxl8HbkdszmzP"
+      "duration_ms": 137320,
+      "name": "Don't Forbid Me",
+      "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Ricky Nelson (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Someday (You'll Want Me To Want You) - Remastered",
+      "url": "https://open.spotify.com/track/6ew1MCEKObxl8HbkdszmzP"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Mr. Broadway",
         "url": "https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 187586,
       "name": "Stranger in Paradise",
       "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Gold Collection",
-        "url": "https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "duration_ms": 137320,
-      "name": "Don't Forbid Me",
-      "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
     },
     {
       "added_at": "2023-10-17 16:18:55",

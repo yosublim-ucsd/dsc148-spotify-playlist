@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 157041,
+  "num_followers": 157123,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGMwMWViMzgyYmUxMjE5MDJhZjNjNTQxODZhYmYxODQ1NmFjMzNk",
+  "snapshot_id": "MCxhZGQ2NTIyNmU2NzYxY2UyZjFjN2ZhNDBiYThmOGU0OGIyOTFhN2Uw",
   "tracks": [
     {
       "added_at": "2023-06-27 16:12:39",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Steady, Thyself (Piano Version)",
-        "url": "https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi"
-      },
-      "artists": [
-        {
-          "name": "VLMV",
-          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
-        }
-      ],
-      "duration_ms": 185387,
-      "name": "Steady, Thyself (Piano Version)",
-      "url": "https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "World Sleep Day",
         "url": "https://open.spotify.com/album/3afUZpKbOJ5hlayBKAF4nt"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 203926,
       "name": "Pure Imagination (arr. piano)",
       "url": "https://open.spotify.com/track/7xTbPvlSUrD5sJBX9TI9dQ"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Steady, Thyself (Piano Version)",
+        "url": "https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi"
+      },
+      "artists": [
+        {
+          "name": "VLMV",
+          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
+        }
+      ],
+      "duration_ms": 185387,
+      "name": "Steady, Thyself (Piano Version)",
+      "url": "https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -339,18 +339,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "No Time But Eternity",
-        "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
+        "name": "New Dawn",
+        "url": "https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P"
       },
       "artists": [
         {
-          "name": "Corciolli",
-          "url": "https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk"
+          "name": "David Fedele",
+          "url": "https://open.spotify.com/artist/0ALRbdawPvvBA3OSnXhMsk"
+        },
+        {
+          "name": "Antonina Car",
+          "url": "https://open.spotify.com/artist/2ms1p6jgg7xaVg9s33a8nJ"
         }
       ],
-      "duration_ms": 399544,
-      "name": "No Time But Eternity",
-      "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
+      "duration_ms": 251889,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -371,22 +375,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "New Dawn",
-        "url": "https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P"
+        "name": "No Time But Eternity",
+        "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
       },
       "artists": [
         {
-          "name": "David Fedele",
-          "url": "https://open.spotify.com/artist/0ALRbdawPvvBA3OSnXhMsk"
-        },
-        {
-          "name": "Antonina Car",
-          "url": "https://open.spotify.com/artist/2ms1p6jgg7xaVg9s33a8nJ"
+          "name": "Corciolli",
+          "url": "https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk"
         }
       ],
-      "duration_ms": 251889,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4"
+      "duration_ms": 399544,
+      "name": "No Time But Eternity",
+      "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Sea Notes",
-        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
-      },
-      "artists": [
-        {
-          "name": "Joanna Finnis",
-          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
-        }
-      ],
-      "duration_ms": 128684,
-      "name": "Flight of the Sea Birds",
-      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Altair",
         "url": "https://open.spotify.com/album/2YQBt88g1dxueykouWGrUw"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 186000,
       "name": "Procyon",
       "url": "https://open.spotify.com/track/1yzKGJupThHxhezhxAgkEy"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Sea Notes",
+        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
+      },
+      "artists": [
+        {
+          "name": "Joanna Finnis",
+          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
+        }
+      ],
+      "duration_ms": 128684,
+      "name": "Flight of the Sea Birds",
+      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "How Time Works",
+        "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
+      },
+      "artists": [
+        {
+          "name": "Eric Carlson",
+          "url": "https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "How Time Works",
+      "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "You Will Never Walk Alone (Glowworm Rework)",
         "url": "https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 233120,
       "name": "You Will Never Walk Alone - Glowworm Rework",
       "url": "https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "How Time Works",
-        "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
-      },
-      "artists": [
-        {
-          "name": "Eric Carlson",
-          "url": "https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "How Time Works",
-      "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Words Left Unspoken",
+        "url": "https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc"
+      },
+      "artists": [
+        {
+          "name": "Malin Eriksson",
+          "url": "https://open.spotify.com/artist/43yDuFWdDwDW8hDwjfAxUU"
+        }
+      ],
+      "duration_ms": 165741,
+      "name": "A Winter's Tale",
+      "url": "https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "Transcend",
         "url": "https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 212307,
       "name": "What If",
       "url": "https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Reveries",
-        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
-      },
-      "artists": [
-        {
-          "name": "Nicholas & Sebastian",
-          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Fade Far Away",
-      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Words Left Unspoken",
-        "url": "https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc"
-      },
-      "artists": [
-        {
-          "name": "Malin Eriksson",
-          "url": "https://open.spotify.com/artist/43yDuFWdDwDW8hDwjfAxUU"
-        }
-      ],
-      "duration_ms": 165741,
-      "name": "A Winter's Tale",
-      "url": "https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Melody of Hope (2021 Version)",
         "url": "https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 111687,
       "name": "Melody of Hope - 2021 Version",
       "url": "https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Reveries",
+        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
+      },
+      "artists": [
+        {
+          "name": "Nicholas & Sebastian",
+          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Fade Far Away",
+      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "R\u00eaverie",
-        "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
+        "name": "S\u00e9r\u00e9nit\u00e9",
+        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
       },
       "artists": [
         {
-          "name": "Jack Hopkins",
-          "url": "https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV"
+          "name": "J\u00e9r\u00e9mie Fauquet",
+          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
         }
       ],
-      "duration_ms": 232105,
-      "name": "R\u00eaverie",
-      "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
+      "duration_ms": 108690,
+      "name": "S\u00e9r\u00e9nit\u00e9",
+      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "S\u00e9r\u00e9nit\u00e9",
-        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
+        "name": "R\u00eaverie",
+        "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00e9mie Fauquet",
-          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
+          "name": "Jack Hopkins",
+          "url": "https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV"
         }
       ],
-      "duration_ms": 108690,
-      "name": "S\u00e9r\u00e9nit\u00e9",
-      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
+      "duration_ms": 232105,
+      "name": "R\u00eaverie",
+      "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
     },
     {
       "added_at": "2023-06-27 16:12:39",

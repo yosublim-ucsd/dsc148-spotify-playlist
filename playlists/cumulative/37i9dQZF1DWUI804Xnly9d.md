@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Anuv Jain
 
-258 songs - 14 hr 37 min
+259 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Rahnuma](https://open.spotify.com/track/7KbYD6BasraCSJ2fSp9MNW) | [Stefan Packianathan](https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa), [Saurabh Shetye](https://open.spotify.com/artist/5GXlDxOxHwWFutiCMOIQGN) | [Rahnuma](https://open.spotify.com/album/1ZxPWhL6F5VY3ZuA279ihM) | 3:46 | 2023-06-09 | 2023-07-21 |
 | [Reh Gayi Yaadein \(Feat\. Akanksha Bhandari\)](https://open.spotify.com/track/5vctTLIZIVCs4DIBdZG56l) | [Anurag Kale](https://open.spotify.com/artist/6QI0w03kPAgMBCKI4OIakr), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Reh Gayi Yaadein \(Feat\. Akanksha Bhandari\)](https://open.spotify.com/album/1wUVSvP0Kay5ANLWpqO9PG) | 3:10 | 2023-05-17 | 2023-06-13 |
 | [Rehbara](https://open.spotify.com/track/2cE44TVmzUyCWBKM7qHmKo) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk), [Gaurav Pahuja](https://open.spotify.com/artist/25WsKcwA4b5G1OCONyIrit) | [Rehbara](https://open.spotify.com/album/29zfqRveC9l8ngiYfVgszo) | 2:53 | 2023-07-12 |  |
+| [Rehne de](https://open.spotify.com/track/6ncgVTdFLosRDk7jykKI92) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Mikey McCleary](https://open.spotify.com/artist/0Qmekzsp0MrycjVuSteJNn) | [Subah Ke Taare](https://open.spotify.com/album/0ysTWzXqgUdfk15ZHZsYye) | 3:52 | 2024-02-07 |  |
 | [Roshni Ka Sira](https://open.spotify.com/track/59jj3LZxOuRbmdfyes94m4) | [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U) | [Roshni Ka Sira](https://open.spotify.com/album/3BMZq92gJk681qk9Y899Zo) | 3:41 | 2023-07-03 | 2024-01-16 |
 | [Ruqsat](https://open.spotify.com/track/3ZSazSSWUTgoPiCtVU9wVz) | [Sanam Malik](https://open.spotify.com/artist/39bDtXEgvPfW2adoyRi4kI) | [Ruqsat](https://open.spotify.com/album/0T6Dy2GvUJFZpOhJ4IxvaE) | 3:39 | 2024-01-08 |  |
 | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/track/7kmKa5Of9dHnCb3zgrUqyA) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Varsha Gaur](https://open.spotify.com/artist/3QQsnfmVSorAOd1njZgys0) | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/album/6sZJobDiQcGBb0iGYsQe5F) | 3:35 | 2023-06-14 | 2023-08-05 |
@@ -247,7 +248,7 @@
 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 | 2023-09-22 |  |
 | [TUM JO SAATH HO](https://open.spotify.com/track/4LoBM8A2XOuiQ4Ic3IVWeu) | [Archit Tak](https://open.spotify.com/artist/2j4zrtE8NNT2KgHpCoyoYA) | [TUM JO SAATH HO](https://open.spotify.com/album/6lR4XHAh3vVFzkp9otcMBs) | 4:01 | 2023-06-08 | 2023-08-04 |
 | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/7JdzydVMtRwxr1BUIipZbv) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/album/5IoxrWkZLHmHIhZLHyiAjj) | 1:15 | 2023-09-21 | 2023-10-04 |
-| [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/4kL3wGVwDpOVn8NOmKAopG) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Kya Mile \(Jonita's Version\)](https://open.spotify.com/album/0xKZP5O8CSbmMn5iOD9hpa) | 1:15 | 2023-10-03 |  |
+| [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/4kL3wGVwDpOVn8NOmKAopG) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Kya Mile \(Jonita's Version\)](https://open.spotify.com/album/0xKZP5O8CSbmMn5iOD9hpa) | 1:15 | 2023-10-03 | 2024-02-08 |
 | [Tum Mujhe Jaante Ho \- Ukulele Version](https://open.spotify.com/track/1kZZfGmtZHBd4cZOuov1k0) | [Trishita Recs](https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4), [Luv](https://open.spotify.com/artist/1dEulvhhLRgnDn5DW1WNqe) | [Tum Mujhe Jaante Ho \(Ukulele Version\)](https://open.spotify.com/album/69hZQvIMjMIOEhgYmuWZua) | 3:50 | 2023-05-17 |  |
 | [Tuney Na Jaana](https://open.spotify.com/track/1Cd2P5Ig4nt5NcG5et7fLF) | [ER](https://open.spotify.com/artist/7uhWXYh7CNH1M9Dwko8qll) | [Tuney Na Jaana](https://open.spotify.com/album/2GHvoPdcyuDqYBQigYxgbY) | 3:11 | 2023-12-08 | 2024-01-26 |
 | [Tuney Na Jaana](https://open.spotify.com/track/3UmiabeUzFCIsVvZeD3bpQ) | [ER](https://open.spotify.com/artist/7uhWXYh7CNH1M9Dwko8qll) | [Tuney Na Jaana](https://open.spotify.com/album/1IURcZttOHRR8mzbz1lRBm) | 3:11 | 2024-01-19 |  |

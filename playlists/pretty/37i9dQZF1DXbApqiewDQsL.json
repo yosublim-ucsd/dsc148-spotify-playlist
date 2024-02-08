@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Mau y Ricky, Eden Mu\u00f1oz",
-  "num_followers": 28599,
+  "num_followers": 28603,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTE3MGVjNjg0MDVkYzg4YWFiM2JiMjk1NWFiODBiNGM1ZWU5MDg0",
+  "snapshot_id": "MCxjNWY5MzIwZDViZDA1N2UzNDEwOGE4YmM4YzEwNmNmY2NjYTFlODlk",
   "tracks": [
     {
       "added_at": "2024-01-12 05:20:19",
@@ -375,26 +375,6 @@
     {
       "added_at": "2024-01-12 05:20:19",
       "album": {
-        "name": "Llorar y Llorar (con Carin Leon)",
-        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 169705,
-      "name": "Llorar y Llorar - con Carin Leon",
-      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
-    },
-    {
-      "added_at": "2024-01-12 05:20:19",
-      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 183890,
       "name": "UNA BALA",
       "url": "https://open.spotify.com/track/6Rz80wUWSUbGGVHvkH7NpU"
+    },
+    {
+      "added_at": "2024-01-12 05:20:19",
+      "album": {
+        "name": "Llorar y Llorar (con Carin Leon)",
+        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 169705,
+      "name": "Llorar y Llorar - con Carin Leon",
+      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
     },
     {
       "added_at": "2024-01-12 05:20:19",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-01-12 05:20:19",
       "album": {
-        "name": "T\u00fa Me Gustas",
-        "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 206956,
-      "name": "T\u00fa Me Gustas",
-      "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
-    },
-    {
-      "added_at": "2024-01-12 05:20:19",
-      "album": {
         "name": "Pacas Verdes (feat. Ovi)",
         "url": "https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 170925,
       "name": "Pacas Verdes",
       "url": "https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr"
+    },
+    {
+      "added_at": "2024-01-12 05:20:19",
+      "album": {
+        "name": "T\u00fa Me Gustas",
+        "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 206956,
+      "name": "T\u00fa Me Gustas",
+      "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
     },
     {
       "added_at": "2024-01-12 05:20:19",
@@ -1311,22 +1311,26 @@
     {
       "added_at": "2024-01-12 05:20:19",
       "album": {
-        "name": "Ojal\u00e1 Te Duela",
-        "url": "https://open.spotify.com/album/0tqEuVWZDUV5BwgieE14JA"
+        "name": "Rockport Espacial 2",
+        "url": "https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
         },
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Yay",
+          "url": "https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l"
         }
       ],
-      "duration_ms": 232099,
-      "name": "Ojal\u00e1 Te Duela",
-      "url": "https://open.spotify.com/track/5Pndhvqkucz0wGpP6G4MfH"
+      "duration_ms": 222831,
+      "name": "Corrido Espacial",
+      "url": "https://open.spotify.com/track/2kArNwB6naa7LrKBlEe65P"
     },
     {
       "added_at": "2024-01-12 05:20:19",
@@ -1351,26 +1355,22 @@
     {
       "added_at": "2024-01-12 05:20:19",
       "album": {
-        "name": "Rockport Espacial 2",
-        "url": "https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6"
+        "name": "Ojal\u00e1 Te Duela",
+        "url": "https://open.spotify.com/album/0tqEuVWZDUV5BwgieE14JA"
       },
       "artists": [
         {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         },
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Yay",
-          "url": "https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 222831,
-      "name": "Corrido Espacial",
-      "url": "https://open.spotify.com/track/2kArNwB6naa7LrKBlEe65P"
+      "duration_ms": 232099,
+      "name": "Ojal\u00e1 Te Duela",
+      "url": "https://open.spotify.com/track/5Pndhvqkucz0wGpP6G4MfH"
     },
     {
       "added_at": "2024-01-12 05:20:19",

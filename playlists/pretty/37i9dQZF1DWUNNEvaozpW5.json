@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Estopa con Fito.",
-  "num_followers": 569859,
+  "num_followers": 569946,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGY0NWI2NjRiZDM2YzYwMTZiYTkzYjA2M2E5ZjgwNzRmZTFiYzI0",
+  "snapshot_id": "MCwxYjlmNTc2MjRkMmE4YmNjYTgwN2QzZDQ5YjQ1NjAyZmMwMjkwYjg4",
   "tracks": [
     {
       "added_at": "2024-02-01 23:01:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 375119,
+      "name": "Acabo de llegar",
+      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 234800,
       "name": "Mucho mejor (feat. Coque Malla)",
       "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 375119,
-      "name": "Acabo de llegar",
-      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Patchanka",
-        "url": "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ"
-      },
-      "artists": [
-        {
-          "name": "Mano Negra",
-          "url": "https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
         "name": "A Puerta Cerrada",
         "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 224133,
       "name": "Rojitas las orejas",
       "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
+        "name": "Patchanka",
+        "url": "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ"
+      },
+      "artists": [
+        {
+          "name": "Mano Negra",
+          "url": "https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Rock & Roll Star - 30 a\u00f1os",
-        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
+        "name": "Ba\u00efonarena (Live)",
+        "url": "https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj"
       },
       "artists": [
         {
-          "name": "Loquillo",
-          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
         }
       ],
-      "duration_ms": 214560,
-      "name": "Cadillac solitario",
-      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
+      "duration_ms": 288146,
+      "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
+      "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Ba\u00efonarena (Live)",
-        "url": "https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj"
+        "name": "Rock & Roll Star - 30 a\u00f1os",
+        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
       },
       "artists": [
         {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
         }
       ],
-      "duration_ms": 288146,
-      "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
-      "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
+      "duration_ms": 214560,
+      "name": "Cadillac solitario",
+      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Jugar Al Gua",
-        "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
-      },
-      "artists": [
-        {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
-        }
-      ],
-      "duration_ms": 262626,
-      "name": "Flojos de pantal\u00f3n",
-      "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
         "name": "Devil Came to Me",
         "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 276360,
       "name": "Devil Came to Me",
       "url": "https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
+        "name": "Jugar Al Gua",
+        "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
+      },
+      "artists": [
+        {
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+        }
+      ],
+      "duration_ms": 262626,
+      "name": "Flojos de pantal\u00f3n",
+      "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Te entiendo",
-        "url": "https://open.spotify.com/album/48LCDKfzLfuaoHlMKUreII"
+        "name": "Veo Veo Mamoneo",
+        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
       },
       "artists": [
         {
-          "name": "Pignoise",
-          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
         }
       ],
-      "duration_ms": 240814,
-      "name": "Te entiendo",
-      "url": "https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ"
+      "duration_ms": 243040,
+      "name": "Masculino singular",
+      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -1299,18 +1295,22 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Veo Veo Mamoneo",
-        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
+        "name": "Te entiendo",
+        "url": "https://open.spotify.com/album/48LCDKfzLfuaoHlMKUreII"
       },
       "artists": [
         {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 243040,
-      "name": "Masculino singular",
-      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
+      "duration_ms": 240814,
+      "name": "Te entiendo",
+      "url": "https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Mediterr\u00e1naeo",
-        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
-      },
-      "artists": [
-        {
-          "name": "Los Rebeldes",
-          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
         "name": "Por Instinto",
         "url": "https://open.spotify.com/album/3b2ODyXT2nMGONCMhUAWA9"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 245026,
       "name": "En Blanco Y Negro",
       "url": "https://open.spotify.com/track/0XRCnku7VZhVWHSktqpnWh"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
+        "name": "Mediterr\u00e1naeo",
+        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Madrid Nuclear - En Directo",
-        "url": "https://open.spotify.com/album/0nfk8ZUr3ufktOOaiIGFB9"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 283373,
-      "name": "Como Si Fueras a Morir Ma\u00f1ana - Madrid Nuclear - En Directo",
-      "url": "https://open.spotify.com/track/5LscAfMaxkC3ciH2kUZtOa"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
         "name": "Ur\u00f3boros",
         "url": "https://open.spotify.com/album/3VYt0Dcj9hPc9ztby9ykl9"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 217900,
       "name": "Ur\u00f3boros",
       "url": "https://open.spotify.com/track/5BYG5PsbPY8dYyXczRoSPX"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
+        "name": "Madrid Nuclear - En Directo",
+        "url": "https://open.spotify.com/album/0nfk8ZUr3ufktOOaiIGFB9"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 283373,
+      "name": "Como Si Fueras a Morir Ma\u00f1ana - Madrid Nuclear - En Directo",
+      "url": "https://open.spotify.com/track/5LscAfMaxkC3ciH2kUZtOa"
     },
     {
       "added_at": "2024-02-01 23:01:00",

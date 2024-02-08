@@ -4,7 +4,7 @@
 
 > Les hits du moment sont ici\. Cover : DYSTINCT
 
-243 songs - 13 hr 13 min
+244 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,12 +219,13 @@
 | [Taline](https://open.spotify.com/track/5z6UUvFwwyJn0k0vGp2anB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Taline](https://open.spotify.com/album/575AzM9dZ3RdvhlVvurHOX) | 2:56 | 2023-03-31 | 2023-04-29 |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-10-17 | 2023-12-26 |
 | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 | 2023-05-11 | 2024-02-02 |
+| [Tiki Taka](https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Tiki Taka](https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq) | 2:45 | 2024-02-07 |  |
 | [Tititi](https://open.spotify.com/track/1vGLrMcU3xPaaBQ204fAHX) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:36 | 2023-06-09 | 2023-06-11 |
 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2022-05-12 | 2022-12-20 |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-05-12 | 2022-08-10 |
 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 | 2022-06-09 | 2022-11-10 |
 | [trap roumi v4](https://open.spotify.com/track/7B9t8WX9T38Df93JHlywfk) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [trap roumi v4](https://open.spotify.com/album/2Q5AFjt3zvBLf5TR32oJfm) | 4:26 | 2023-01-09 | 2023-01-14 |
-| [Tá OK](https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK](https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp) | 1:32 | 2023-08-25 |  |
+| [Tá OK](https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK](https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp) | 1:32 | 2023-08-25 | 2024-02-08 |
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-06-15 | 2023-10-28 |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-09-06 | 2023-01-19 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-10-17 | 2022-12-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Naim Daniel, Jamal Abdillah
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,334 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,339 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 84 | [liar](https://open.spotify.com/track/5KjJiwSwzhF7lGLjfLkoxp) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [liar](https://open.spotify.com/album/54mhTR3nIgCG5jJa0bf5ME) | 3:14 |
 | 85 | [YHH \(It's You\)](https://open.spotify.com/track/2H9mlWjyOR2lK57LjvOwBy) | [Jira](https://open.spotify.com/artist/1nEMvNilshRdPzyDhFiZ7R) | [Faraway, So Close](https://open.spotify.com/album/1LGO5nhhTYJu7RrhApTU7m) | 3:45 |
 
-Snapshot ID: `MCw2NWZiMmM4MWMyMzg2OWU3YjE4ODM1NGUwODhjMDlkYjNmMDcyMGVm`
+Snapshot ID: `MCxmZjk5MDI0M2U4ZTYxMjcyMDE1YzA2NjFmYjcxMTE2MmYyY2Q3ZDZl`

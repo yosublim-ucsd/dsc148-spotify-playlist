@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 203058,
       "name": "After You",
       "url": "https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 218373,
       "name": "Apolonia",
       "url": "https://open.spotify.com/track/20wMcauSiz1X7n5L3Nnu7h"
@@ -2369,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "Brusco",
+        "url": "https://open.spotify.com/album/3CYGeefAutX7xZVBPhX4uc"
+      },
+      "artists": [
+        {
+          "name": "Juno Willo",
+          "url": "https://open.spotify.com/artist/6nPeloQYD2WuhzUJawHZke"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Brusco",
+      "url": "https://open.spotify.com/track/5KOPS6Q50l66RgQR8MjSh2"
+    },
+    {
+      "album": {
         "name": "Bug",
         "url": "https://open.spotify.com/album/33ZVNH3uSPkKWwMqBXSlyn"
       },
@@ -2578,7 +2596,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 165000,
       "name": "Camping in Canada",
       "url": "https://open.spotify.com/track/1xQ8CMtomK5r8KpqfzvFRi"
@@ -3450,7 +3468,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 227500,
       "name": "Company",
       "url": "https://open.spotify.com/track/2wCxoJSKeCRRf9K9Qo65N6"
@@ -5368,6 +5386,24 @@
       "duration_ms": 189092,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/3trrueLt7FceiknriMTt4m"
+    },
+    {
+      "album": {
+        "name": "endless questions",
+        "url": "https://open.spotify.com/album/4l1sZQPpcXhZUWonaH9lfD"
+      },
+      "artists": [
+        {
+          "name": "Noah Pope",
+          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167178,
+      "name": "endless questions",
+      "url": "https://open.spotify.com/track/6K0xzSgP4YOTBL6kZIhuwM"
     },
     {
       "album": {
@@ -8011,6 +8047,24 @@
     },
     {
       "album": {
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/7cFllNFxYu9aNErrov1T3Y"
+      },
+      "artists": [
+        {
+          "name": "Zoe Boekbinder",
+          "url": "https://open.spotify.com/artist/5WDhdWVcgfQkhgxka9j119"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168560,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/1Nom7EvTgdkMeLZCszJ5Ft"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/2OEFjRks7uZTTc51BfljnI"
       },
@@ -8124,6 +8178,24 @@
       "duration_ms": 156771,
       "name": "Honey",
       "url": "https://open.spotify.com/track/7xRhhe1Lg7Mwi1hSjeRCaZ"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/48OsHFJTCcwLrfu5nuxQaR"
+      },
+      "artists": [
+        {
+          "name": "The Takes",
+          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266693,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/4ZS8IOU9EFq9GlgC4cOrbx"
     },
     {
       "album": {
@@ -8300,10 +8372,28 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 171102,
       "name": "HRE",
       "url": "https://open.spotify.com/track/6SNcR6J5f6YGyfeJ74twKm"
+    },
+    {
+      "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/6QRqgdMGCxABXCTFmjDlSg"
+      },
+      "artists": [
+        {
+          "name": "h. pruz",
+          "url": "https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333333,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/73hivFjCugq75ohbZiPlob"
     },
     {
       "album": {
@@ -8394,7 +8484,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 238557,
       "name": "I Don't Kill",
       "url": "https://open.spotify.com/track/1kCX2JtO3UNip664y11cYG"
@@ -9068,7 +9158,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 309947,
       "name": "initials",
       "url": "https://open.spotify.com/track/4zjGk5MgITToxrspc1NXN4"
@@ -9194,7 +9284,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 190967,
       "name": "Islands",
       "url": "https://open.spotify.com/track/7Gxqbty6LFkCLpdWo8aSSd"
@@ -10883,6 +10973,24 @@
     },
     {
       "album": {
+        "name": "Made To Love Someone",
+        "url": "https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186845,
+      "name": "Made To Love Someone",
+      "url": "https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40"
+    },
+    {
+      "album": {
         "name": "I Keep My Feet on the Fragile Plane",
         "url": "https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf"
       },
@@ -11270,6 +11378,24 @@
       "duration_ms": 366160,
       "name": "Meet Me In The Forest",
       "url": "https://open.spotify.com/track/2pV9JcmZBmBB1mSTYfBhac"
+    },
+    {
+      "album": {
+        "name": "Meet Me In The Middle",
+        "url": "https://open.spotify.com/album/5ITmYXwPwbgWllhVFQMtGh"
+      },
+      "artists": [
+        {
+          "name": "Wezn",
+          "url": "https://open.spotify.com/artist/4m3BkdzgdpL8lkC5PfZdXf"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256105,
+      "name": "Meet Me In The Middle",
+      "url": "https://open.spotify.com/track/3YzBYRceMfEMjKavekA6Lv"
     },
     {
       "album": {
@@ -15631,6 +15757,24 @@
     },
     {
       "album": {
+        "name": "Starwave",
+        "url": "https://open.spotify.com/album/7sNMLlqNxqB1ypwVHOrtsj"
+      },
+      "artists": [
+        {
+          "name": "Warmshine Room",
+          "url": "https://open.spotify.com/artist/6lLcqGmrwbLNDKKKaIK5VW"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108880,
+      "name": "Starwave",
+      "url": "https://open.spotify.com/track/6W4GHSjOU6POEQMFJaCpv3"
+    },
+    {
+      "album": {
         "name": "BREAK YOUR HEART",
         "url": "https://open.spotify.com/album/2ZWGyCfH0iU9MIPGJcrjnv"
       },
@@ -17389,6 +17533,24 @@
     },
     {
       "album": {
+        "name": "to god, to us",
+        "url": "https://open.spotify.com/album/1O4GhqpaQaSWGxEwnsVr7c"
+      },
+      "artists": [
+        {
+          "name": "Izzie Burton",
+          "url": "https://open.spotify.com/artist/5USPz1G7jEwvH6TzlD0Grm"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274528,
+      "name": "to god, to us",
+      "url": "https://open.spotify.com/track/4i0vEZuGiIRfP7ZQQRFNSQ"
+    },
+    {
+      "album": {
         "name": "To Hell With You",
         "url": "https://open.spotify.com/album/5UnKpDB9duylUpCRrHTACe"
       },
@@ -17454,7 +17616,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 227471,
       "name": "Tomato",
       "url": "https://open.spotify.com/track/6ta9JHGvLVZZP4w1GPVsZP"
@@ -17498,7 +17660,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 114253,
       "name": "Too Autistic for Prom",
       "url": "https://open.spotify.com/track/4uEnbKR0tIIpcSltNhYdHZ"

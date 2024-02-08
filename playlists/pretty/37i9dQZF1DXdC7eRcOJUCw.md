@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > Estas damas sí que tienen carácter\. Yuridia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,785 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,810 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 30 | [La Que Baje La Guardia](https://open.spotify.com/track/5xYb8SYGvX0Nqf3XN2RqxI) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Cuando El Corazón Se Cruza](https://open.spotify.com/album/6n9By9pSssKzD2z4orrkZ2) | 3:51 |
 | 31 | [Que Te Vaya Bonito](https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 2:51 |
 | 32 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 |
-| 33 | [Las Cuentas Claras](https://open.spotify.com/track/1mL8fjDIE2TrtAlrZKRtK8) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Éxitos Rancheros](https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG) | 3:32 |
-| 34 | [Una Llamada Perdida](https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Alquimia](https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq) | 3:21 |
-| 35 | [Mi Destino Fue Quererte](https://open.spotify.com/track/2kBbwQgrKtdMLxcU5smeki) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [15 Éxitos](https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg) | 3:30 |
+| 33 | [Una Llamada Perdida](https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Alquimia](https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq) | 3:21 |
+| 34 | [Las Cuentas Claras](https://open.spotify.com/track/1mL8fjDIE2TrtAlrZKRtK8) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Éxitos Rancheros](https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG) | 3:32 |
+| 35 | [Cucurrucucu Paloma](https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Mexico Gran Colección Ranchera: Lola Beltrán](https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm) | 3:51 |
 | 36 | [Volver, Volver](https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 3:14 |
 | 37 | [Me Gustas Mucho](https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 2:50 |
-| 38 | [Cucurrucucu Paloma](https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Mexico Gran Colección Ranchera: Lola Beltrán](https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm) | 3:51 |
+| 38 | [Mi Destino Fue Quererte](https://open.spotify.com/track/2kBbwQgrKtdMLxcU5smeki) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [15 Éxitos](https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg) | 3:30 |
 | 39 | [Adios y Bienvenida](https://open.spotify.com/track/2wAfySktAbT2ho6UTCyv1O) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 3:10 |
 | 40 | [Fruta Prohibida](https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 2:45 |
 | 41 | [Mi Ego](https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 99 | [Inocente Pobre Amiga](https://open.spotify.com/track/1CwbpsXpzVmVrIxOEraUTs) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 4:09 |
 | 100 | [Resulta](https://open.spotify.com/track/0ZUwQ6Y7OlSvVhRMQy9dsA) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 4:23 |
 
-Snapshot ID: `MCxiOTE4MDQ5OWUyOTUxN2FiMjk1ZDA3YmIzYjBiYWVlNDk5MmI4MzBl`
+Snapshot ID: `MCwyZWYzMjFhYTY0ZmQzYjNjZjIzNGI4ZTVhYzQ5OGYzZGNiNmE5ZGQ5`

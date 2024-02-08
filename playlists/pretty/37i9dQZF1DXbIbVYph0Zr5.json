@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack recipe for a backyard barbecue!",
-  "num_followers": 626263,
+  "num_followers": 626466,
   "original_name": "Country Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODk5NzVmYjVlYTNmZDQxYmM3ZDFmYjRkZThhZTM5MzU0MGVlMDUz",
+  "snapshot_id": "MCw0NzQ0M2NjOTA0YmE3ZGViODZkZmYwYWUwOTRlZWVjNTUzMWJlMDM5",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -627,18 +627,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
       "artists": [
         {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
+      "duration_ms": 211306,
+      "name": "Should've Been A Cowboy",
+      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -663,22 +663,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "All Your Fault: Pt. 2",
-        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
         }
       ],
-      "duration_ms": 163870,
-      "name": "Meant to Be (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -699,6 +695,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "All Your Fault: Pt. 2",
+        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 163870,
+      "name": "Meant to Be (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "The Kind of Love We Make",
         "url": "https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu"
       },
@@ -711,6 +727,22 @@
       "duration_ms": 224426,
       "name": "The Kind of Love We Make",
       "url": "https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Honkytonk University",
+        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "As Good As I Once Was",
+      "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -763,22 +795,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Tyler Hubbard",
-        "url": "https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 179640,
-      "name": "Dancin\u2019 In The Country",
-      "url": "https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Strait Out Of The Box",
         "url": "https://open.spotify.com/album/2j7URVIN8GPGqzb8xi2hYW"
       },
@@ -791,6 +807,22 @@
       "duration_ms": 200666,
       "name": "Check Yes Or No",
       "url": "https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Tyler Hubbard",
+        "url": "https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 179640,
+      "name": "Dancin\u2019 In The Country",
+      "url": "https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -875,6 +907,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Drunk (And I Don't Wanna Go Home)",
+        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 245625,
+      "name": "Drunk (And I Don't Wanna Go Home)",
+      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "One Thing Right",
         "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
       },
@@ -911,26 +963,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Drunk (And I Don't Wanna Go Home)",
-        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 245625,
-      "name": "Drunk (And I Don't Wanna Go Home)",
-      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
@@ -943,22 +975,6 @@
       "duration_ms": 215140,
       "name": "The Good Ones",
       "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Honkytonk University",
-        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "As Good As I Once Was",
-      "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1011,38 +1027,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "The Bones",
-      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Out With A Bang",
         "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 224666,
       "name": "Dust On The Bottle",
       "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "The Bones",
+      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1075,34 +1075,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
       "artists": [
         {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 231920,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 211306,
-      "name": "Should've Been A Cowboy",
-      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
+      "duration_ms": 190240,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Learn To Live",
+        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Life Changes",
         "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Body Like A Back Road",
-        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "Body Like A Back Road",
-      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "How Country Feels",
         "url": "https://open.spotify.com/album/6p9LqWLWDOuW2WiUt9YKUZ"
       },
@@ -1203,22 +1187,6 @@
       "duration_ms": 185906,
       "name": "How Country Feels",
       "url": "https://open.spotify.com/track/26t3KexbqzF3sRWgczYyja"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1239,6 +1207,38 @@
       "duration_ms": 226173,
       "name": "May We All",
       "url": "https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Body Like A Back Road",
+        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Center Point Road",
-        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Look What God Gave Her",
-      "url": "https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Family Tradition",
         "url": "https://open.spotify.com/album/3nJf4jGn7mru28s5ZUVIx4"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 242960,
       "name": "Family Tradition",
       "url": "https://open.spotify.com/track/73ZTWCuwudUVvvWipRnQnQ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Center Point Road",
+        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Look What God Gave Her",
+      "url": "https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Center Point Road",
+        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Beer Can\u2019t Fix",
+      "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "The Road To Here",
         "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
       },
@@ -1411,6 +1431,22 @@
       "duration_ms": 272346,
       "name": "Boondocks",
       "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Everything I Love",
+        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 158626,
+      "name": "Little Bitty",
+      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1447,42 +1483,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Center Point Road",
-        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Beer Can\u2019t Fix",
-      "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Everything I Love",
-        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 158626,
-      "name": "Little Bitty",
-      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Bell Bottom Country",
         "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
       },
@@ -1495,22 +1495,6 @@
       "duration_ms": 208853,
       "name": "Watermelon Moonshine",
       "url": "https://open.spotify.com/track/3sYBFUXTv0STUoUINx9Qe8"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Blue In The Sky",
-        "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
-      },
-      "artists": [
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Stars Like Confetti",
-      "url": "https://open.spotify.com/track/4HXiZiCbYIiG03OQwXRYnE"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1543,6 +1527,42 @@
       "duration_ms": 209320,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/1qHRFZE8qykNXYZadzmi1m"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "Half Of Me",
+      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "Stars Like Confetti",
+      "url": "https://open.spotify.com/track/4HXiZiCbYIiG03OQwXRYnE"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1595,22 +1615,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Where We Started",
-        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+        "name": "Greetings From...Jake",
+        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
         }
       ],
-      "duration_ms": 183026,
-      "name": "Half Of Me",
-      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
+      "duration_ms": 238400,
+      "name": "Made For You",
+      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1627,22 +1643,6 @@
       "duration_ms": 199625,
       "name": "Get Along",
       "url": "https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Greetings From...Jake",
-        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Made For You",
-      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1795,22 +1795,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "34 Number Ones",
-        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
+        "name": "For My Broken Heart",
+        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        },
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
         }
       ],
-      "duration_ms": 230133,
-      "name": "It's Five O'Clock Somewhere",
-      "url": "https://open.spotify.com/track/5oHHMDcVOmPSFrCgdbHPdb"
+      "duration_ms": 257266,
+      "name": "The Night The Lights Went Out In Georgia",
+      "url": "https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1831,18 +1827,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "For My Broken Heart",
-        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
+        "name": "34 Number Ones",
+        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 257266,
-      "name": "The Night The Lights Went Out In Georgia",
-      "url": "https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3"
+      "duration_ms": 230133,
+      "name": "It's Five O'Clock Somewhere",
+      "url": "https://open.spotify.com/track/5oHHMDcVOmPSFrCgdbHPdb"
     },
     {
       "added_at": "2024-01-05 05:00:00",

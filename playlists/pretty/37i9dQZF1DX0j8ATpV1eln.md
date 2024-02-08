@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,522 likes - 87 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,524 likes - 87 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [エレクトリックパレード](https://open.spotify.com/track/19yBABt2127wYg1bZYJSko) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [ユニバース](https://open.spotify.com/album/1ymib1eTYnGj0meS6iQrNr) | 3:13 |
+| 1 | [Electric Parade](https://open.spotify.com/track/1VUNtkVmTtizP8o5i4IqYb) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Universe](https://open.spotify.com/album/1B3lid4l1KnRSu8FUXKqWs) | 3:13 |
 | 2 | [WaYaWaYaWa−!](https://open.spotify.com/track/6DW1uNeINd5TFMtxx2PgKe) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [WaYaWaYaWa−!](https://open.spotify.com/album/0fdtF0qCkWuwumB8dJZh32) | 3:09 |
 | 3 | [Super Adorable Gal](https://open.spotify.com/track/5wFngmXD2qULEdr4NZwJ97) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Super Adorable Gal](https://open.spotify.com/album/3UDkQMJC8sry16Q3phhPeN) | 3:28 |
 | 4 | [Suki ni Naccha Dame na Hito](https://open.spotify.com/track/4qnO8leJ0xIAvEkEnYB4nu) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Suki ni Naccha Dame na Hito](https://open.spotify.com/album/2VnYRRWGs3kat0GeFjwzwl) | 3:37 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 86 | [Moratorium Dance Floor \- Live](https://open.spotify.com/track/6YImKwLnSElvNSeMVbWixk) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:54 |
 | 87 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 |
 
-Snapshot ID: `MCxjN2M3ZjEyMWE2OWU0NDU4NDgxMmNlNWVjYmU0YTQ0OGFiZTgwN2Qz`
+Snapshot ID: `MCwzNzExYTVkMjRhNWRkY2I2MGU4NWI2ODlmZmVhM2M2MjI4NjJkNDI4`

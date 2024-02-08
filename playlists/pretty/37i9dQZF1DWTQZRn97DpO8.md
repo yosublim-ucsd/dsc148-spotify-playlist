@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Yamê
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,392 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,437 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Boyfriend \- Acoustic](https://open.spotify.com/track/2ENr7qlJCeQee8S37EXAyQ) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [Boyfriend \- Acoustic](https://open.spotify.com/album/4AJzUPRChFSksbTbzYND1x) | 2:16 |
 | 50 | [Ton masque est tombé](https://open.spotify.com/track/6XGUabUpTYkuj3Fkzmllkh) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q) | [Ton masque est tombé](https://open.spotify.com/album/125lRuq52JJvZiIcp4BCAZ) | 3:23 |
 
-Snapshot ID: `MCw3YTMyOGFhM2M1NWFjNzQ2NmY2ODk3NDU3NDllNzQ4ZWQzMmJhMDBm`
+Snapshot ID: `MCw5OTJiNTgxMjAwYzdhYTczOGRhNGE2ZmFjZmQ0OTU5NDI0N2E2NWMx`

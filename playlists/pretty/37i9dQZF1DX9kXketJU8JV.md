@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kXketJU8JV.md) - [plain]
 
 > 受験本番へ。努力のすべては、出し切れる。
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,976 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,057 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kXketJU8JV.md) - [plain]
 | 6 | [Kaishin no Ichigeki](https://open.spotify.com/track/3GzBwTfCuwtE0GhMJUlPXi) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Batsu to Maru to Tsumi to](https://open.spotify.com/album/4akhlx4zsYqDDApjFP38m3) | 4:36 |
 | 7 | [沈丁花](https://open.spotify.com/track/79TdseXlAiANFOTstIwejv) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [沈丁花](https://open.spotify.com/album/6oIaKTyZjmZS995rPf08jS) | 3:51 |
 | 8 | [Kite](https://open.spotify.com/track/1BGxzKEro4oYDkERGF9tbz) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [This is ARASHI](https://open.spotify.com/album/1THNZ00qG1n9QbnJDLOLeb) | 4:43 |
-| 9 | [エール](https://open.spotify.com/track/1EdXeXyIU56YKBP3kfmHB9) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [エール](https://open.spotify.com/album/0022F7J96TQCIISAtDgdxC) | 3:23 |
+| 9 | [Yell](https://open.spotify.com/track/6jbW0l3nlZ3uh26p8vsC1K) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Yell](https://open.spotify.com/album/60y9C21RHhHnMMdWXunkav) | 3:23 |
 | 10 | [サザンカ](https://open.spotify.com/track/2myzCVDwfwvDzEEmGwMNBN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [サザンカ](https://open.spotify.com/album/4vHtFyYDJEN6RP9cfm63nI) | 4:30 |
 | 11 | [お勉強しといてよ](https://open.spotify.com/track/6k90ibcH1z8Mx9684nfuLW) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [お勉強しといてよ](https://open.spotify.com/album/3cOMXsId5ORUGXt9xu90NI) | 4:40 |
 | 12 | [見たこともない景色](https://open.spotify.com/track/7r2BkaNy5vNFgfU39W5AkZ) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [PLAY\(Special Edition\)](https://open.spotify.com/album/5JP5NDPvio5ZhkXXjcHVov) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kXketJU8JV.md) - [plain]
 | 49 | [ピースサイン](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 |
 | 50 | [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 |
 
-Snapshot ID: `MCxkN2UyMDAwYmYyY2E4MzIxODE3ZDdjMGU3YTgwY2Q1ZmFmMjI5YzM1`
+Snapshot ID: `MCw0YjNlNjJhYzQxMzVlMTQwY2U1YTczMzMyMDU0NWUwMjFjYWQ2N2Fi`

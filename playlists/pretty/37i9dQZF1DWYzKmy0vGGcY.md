@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,098 likes - 125 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,241 likes - 125 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 18 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 |
 | 19 | [Misty](https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [I'll Cry If I Want To](https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8) | 2:18 |
 | 20 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 |
-| 21 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 |
-| 22 | [\(What A\) Wonderful World](https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [A Valentine For You](https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel) | 2:07 |
+| 21 | [\(What A\) Wonderful World](https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [A Valentine For You](https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel) | 2:07 |
+| 22 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 |
 | 23 | [In My Life \- Remastered 2009](https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:26 |
 | 24 | [A Sunday Kind Of Love](https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:16 |
 | 25 | [Under the Boardwalk](https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:41 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 38 | [Ooo Baby Baby](https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:44 |
 | 39 | [You Send Me](https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 2:29 |
 | 40 | [Bring It On Home to Me](https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
-| 41 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [How Sweet It Is To Be Loved By You](https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw) | 2:57 |
-| 42 | [Spooky \(Single Version\)](https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Love Songs](https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA) | 2:44 |
+| 41 | [Spooky \(Single Version\)](https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Love Songs](https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA) | 2:44 |
+| 42 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [How Sweet It Is To Be Loved By You](https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw) | 2:57 |
 | 43 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 |
 | 44 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 |
 | 45 | [Green Green Grass Of Home](https://open.spotify.com/track/5BFWQXNGPYadZxNKxY1UfU) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Green, Green Grass Of Home](https://open.spotify.com/album/15QRC2FhT659a5YJIS0Nff) | 3:04 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 56 | [I Will Follow You](https://open.spotify.com/track/4Y6pdMS2PwGshq1MYcJ9fC) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [For Your Sweet Love](https://open.spotify.com/album/1eUQiKLKBdQIOnqb3lnbox) | 2:26 |
 | 57 | [Honey](https://open.spotify.com/track/2Qhvi6R73Zj3cpzRYzcAww) | [Bobby Goldsboro](https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o) | [Honey](https://open.spotify.com/album/2AKHoOuDzuJ6d75eaDzZmP) | 3:58 |
 | 58 | [\(I Left My Heart\) In San Francisco](https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [I Left My Heart In San Francisco](https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7) | 2:50 |
-| 59 | [Trust In Me](https://open.spotify.com/track/5Zu9mG353GB3p26t7M5AmR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:58 |
-| 60 | [Georgia on My Mind](https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 3:39 |
+| 59 | [Georgia on My Mind](https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 3:39 |
+| 60 | [Trust In Me](https://open.spotify.com/track/5Zu9mG353GB3p26t7M5AmR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:58 |
 | 61 | [In Dreams](https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [In Dreams](https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB) | 2:49 |
 | 62 | [Up on the Roof](https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:37 |
 | 63 | [Ain't Nothing Like The Real Thing](https://open.spotify.com/track/37soQoNhEEIrhhYgHWK1xU) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [You're All I Need](https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd) | 2:18 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 99 | [Forever](https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Playboy](https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic) | 2:21 |
 | 100 | [Love Hurts \- 2007 Remaster](https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [A Date with The Everly Brothers](https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P) | 2:22 |
 | 101 | [Where The Boys Are](https://open.spotify.com/track/70UvKFI48DAQ2suS58bu5l) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:37 |
-| 102 | [Harbor Lights](https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Reflections](https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F) | 3:14 |
-| 103 | [More Than I Can Say](https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Bobby Vee](https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV) | 2:29 |
+| 102 | [More Than I Can Say](https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Bobby Vee](https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV) | 2:29 |
+| 103 | [Harbor Lights](https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Reflections](https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F) | 3:14 |
 | 104 | [When Something Is Wrong with My Baby](https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 3:14 |
 | 105 | [What the World Needs Now Is Love](https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Close to You](https://open.spotify.com/album/3CL1hC6obi44Z6dZqhrDUA) | 3:10 |
 | 106 | [The Tracks Of My Tears](https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The Definitive Collection](https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW) | 2:54 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 124 | [All I Could Do Was Cry](https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:55 |
 | 125 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:58 |
 
-Snapshot ID: `MCwwMTk2YTRlYjFmNGI0MTczOWMyOTdiZGQwYmVkYzljYmYzZDM4MjY1`
+Snapshot ID: `MCw0MGFmNzZmMmRhN2E5Zjk5NWZkMTI3NDVlNDdmNGI5ZGIwYzA1ZTQz`

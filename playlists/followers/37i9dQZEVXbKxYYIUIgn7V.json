@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 12360,
+  "2024-02-08": 12362,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Austria.",
   "name": "Viral 50 - Austria",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
@@ -79,6 +79,24 @@
       "duration_ms": 133754,
       "name": "Bad Feeling (Oompa Loompa)",
       "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
+    },
+    {
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
       "album": {
@@ -129,7 +147,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 483973,
       "name": "Bending Hectic",
       "url": "https://open.spotify.com/track/1xnVnK5ZHZaGEZ166eFpNJ"
@@ -172,6 +190,28 @@
     },
     {
       "album": {
+        "name": "BUSINESS STRAIGHT",
+        "url": "https://open.spotify.com/album/6zOaTkMG61UOgHnmbDat53"
+      },
+      "artists": [
+        {
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+        },
+        {
+          "name": "Faroon",
+          "url": "https://open.spotify.com/artist/697ZbUKLJSEWWhtayAGxBY"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124876,
+      "name": "BUSINESS STRAIGHT",
+      "url": "https://open.spotify.com/track/5Cb7uEN2BM9t0Y5FjEq9ga"
+    },
+    {
+      "album": {
         "name": "B\u00e9cane - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
       },
@@ -201,7 +241,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 229667,
       "name": "Caesar on a TV Screen",
       "url": "https://open.spotify.com/track/2w4cRBhWvHCsDpvyhiDkjq"
@@ -223,6 +263,24 @@
       "duration_ms": 151829,
       "name": "Call Me Yours",
       "url": "https://open.spotify.com/track/3BZrc6J8hFLzl2qX6l7NZN"
+    },
+    {
+      "album": {
+        "name": "Eulogize",
+        "url": "https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE"
+      },
+      "artists": [
+        {
+          "name": "Shaya Zamora",
+          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218031,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu"
     },
     {
       "album": {
@@ -255,10 +313,28 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 228961,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
+    },
+    {
+      "album": {
+        "name": "Dance You Outta My Head",
+        "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
+      },
+      "artists": [
+        {
+          "name": "Cat Janice",
+          "url": "https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202508,
+      "name": "Dance You Outta My Head",
+      "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
     },
     {
       "album": {
@@ -295,7 +371,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 138069,
       "name": "Do I - Remix",
       "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
@@ -335,7 +411,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 226103,
       "name": "Dubidubidu (Chipi Chipi Chapa Chapa)",
       "url": "https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ"
@@ -419,6 +495,28 @@
       "duration_ms": 174375,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
+    },
+    {
+      "album": {
+        "name": "FUNKED UP",
+        "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        },
+        {
+          "name": "isq",
+          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115348,
+      "name": "FUNKED UP - SLOWED",
+      "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
     },
     {
       "album": {
@@ -533,10 +631,58 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 198833,
       "name": "Hand im Gesicht",
       "url": "https://open.spotify.com/track/3LlVIpyQ4EnkBtuUxAJDvJ"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 1)",
+        "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Alex Brightman",
+          "url": "https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140653,
+      "name": "Hell Is Forever",
+      "url": "https://open.spotify.com/track/4mXGc27x5d6uzStIiIohGX"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
     },
     {
       "album": {
@@ -551,7 +697,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 200059,
       "name": "I Wouldn't Mind",
       "url": "https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj"
@@ -595,7 +741,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 125032,
       "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
       "url": "https://open.spotify.com/track/14iwJXnTuI9qdcosMEB73h"
@@ -686,6 +832,28 @@
     },
     {
       "album": {
+        "name": "Keine Homies",
+        "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        },
+        {
+          "name": "Maxe",
+          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122241,
+      "name": "Keine Homies",
+      "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
+    },
+    {
+      "album": {
         "name": "Lay All Your Love On Me",
         "url": "https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz"
       },
@@ -757,10 +925,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
+    },
+    {
+      "album": {
+        "name": "Liebe = Schmerz",
+        "url": "https://open.spotify.com/album/34epGENIY7DM2iBHT1LnLK"
+      },
+      "artists": [
+        {
+          "name": "Paves 16",
+          "url": "https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157800,
+      "name": "Liebe = Schmerz",
+      "url": "https://open.spotify.com/track/7dG0k6FNKGnrW15bBbvWmF"
     },
     {
       "album": {
@@ -797,6 +983,36 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 1)",
+        "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Keith David",
+          "url": "https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY"
+        },
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175113,
+      "name": "Loser, Baby",
+      "url": "https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb"
     },
     {
       "album": {
@@ -869,7 +1085,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf"
@@ -983,10 +1199,28 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 195668,
       "name": "OAED - Remix",
       "url": "https://open.spotify.com/track/0DRBuH0O3Uh6YqJWMAjHLl"
+    },
+    {
+      "album": {
+        "name": "Ode an den Bass",
+        "url": "https://open.spotify.com/album/1gAnk5qZJAA3T01vufMMDD"
+      },
+      "artists": [
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200042,
+      "name": "Ode an den Bass",
+      "url": "https://open.spotify.com/track/5BfQq5cdMr5f5PVSz6yRpq"
     },
     {
       "album": {
@@ -1045,7 +1279,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 161250,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
@@ -1111,6 +1345,62 @@
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 1)",
+        "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Daphne Rubin-Vega",
+          "url": "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        {
+          "name": "Lilli Cooper",
+          "url": "https://open.spotify.com/artist/61Im27379GhfbMD5LVDmlp"
+        },
+        {
+          "name": "James Monroe Iglehart",
+          "url": "https://open.spotify.com/artist/1RHbG28m5gaCOeIgaxEgLb"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95682,
+      "name": "Respectless",
+      "url": "https://open.spotify.com/track/6UTPUfrTvKzD7GhLAhi1x7"
+    },
+    {
+      "album": {
+        "name": "sag was",
+        "url": "https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202657,
+      "name": "sag was",
+      "url": "https://open.spotify.com/track/1phFx4XBj9VOSV5c8s4PQr"
     },
     {
       "album": {
@@ -1237,6 +1527,40 @@
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/3nGIGnJd7jFZaPFdfyQLF2"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 1)",
+        "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Christian Borle",
+          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
+        },
+        {
+          "name": "Amir Talai",
+          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
+        },
+        {
+          "name": "Joel Perez",
+          "url": "https://open.spotify.com/artist/2W9W8wwOXJCux8sfyptX2p"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180475,
+      "name": "Stayed Gone",
+      "url": "https://open.spotify.com/track/2Evk4YMwD4zjjha2k3dbV7"
     },
     {
       "album": {
@@ -1379,7 +1703,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 177426,
       "name": "Voil\u00e0",
       "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w"
@@ -1437,10 +1761,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 147581,
       "name": "Wasted Youth",
       "url": "https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm"
+    },
+    {
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178273,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
       "album": {

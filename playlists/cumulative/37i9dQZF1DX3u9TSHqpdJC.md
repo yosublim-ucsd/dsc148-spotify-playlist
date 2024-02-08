@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best new pop music by independent artists and labels\. Cover: Lillian Hepler\. Artwork by Paola Saliby
+> The best new pop music by independent artists and labels\. Cover: Grace Power\. Artwork by Paola Saliby
 
-3,306 songs - 7 day 0 hr 7 min
+3,311 songs - 7 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Bad For You](https://open.spotify.com/track/2NCJhdapvgXIK7tUr1QNo4) | [Xelli Island](https://open.spotify.com/artist/0Hd7uyxLIPZMxOpcZIZ7sV) | [Bad For You](https://open.spotify.com/album/3yqCBSmrwc4PBTECS7zKkJ) | 3:52 | 2020-10-13\* | 2020-10-29 |
 | [Bad Guy](https://open.spotify.com/track/5zdhNz9bknV6Qr9KkdU7Zi) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Bad Guy](https://open.spotify.com/album/5N6bzgngivNabZO2U3UU8b) | 3:40 | 2023-08-02 | 2023-11-09 |
 | [Bad Habit \(Don't Make Me Bad\)](https://open.spotify.com/track/4pLK4OgSRf2LjxsKUvFM32) | [April Rose Gabrielli](https://open.spotify.com/artist/1PZg8NVnfAcbYQwo6EaBv0) | [Bad Habit \(Don't Make Me Bad\)](https://open.spotify.com/album/2F3FMDTvQ05PwiayIiPnIc) | 3:07 | 2022-02-23 | 2022-03-24 |
+| [BAD KARMA](https://open.spotify.com/track/3NONd2k32jYHxuSPGENaJU) | [My Name Is Alex](https://open.spotify.com/artist/1MaDqHjCtpHgPJHQz5bV2C) | [BAD KARMA](https://open.spotify.com/album/1s7LXlHTRTF4UVLh02haTn) | 2:49 | 2024-02-07 |  |
 | [Bad Love](https://open.spotify.com/track/1tB5UEseYQt5vRZgcnPHAW) | [GOLDSPACE](https://open.spotify.com/artist/0lEmirHWEpNY1GtqLk7rLx) | [Bad Love](https://open.spotify.com/album/7C1SpkTFC1w0mfWhQ1ntsF) | 3:37 | 2021-02-04 | 2021-03-06 |
 | [Bad Loving](https://open.spotify.com/track/1a9labX4DUPualxZnrE8Pr) | [TITUS BANK](https://open.spotify.com/artist/6lO31QP9bo8C3ay6IxkIol) | [Bad Loving](https://open.spotify.com/album/2CwTgY71rC3rrSFzM3XH04) | 2:21 | 2021-11-19 | 2021-12-01 |
 | [Bad Machine](https://open.spotify.com/track/1CcdPDCJs1AmNoidjsJPkR) | [Migrant Motel](https://open.spotify.com/artist/0T63uYYYnOxOXV7bDF0K0G) | [Bad Machine](https://open.spotify.com/album/3XjLdHBsq7Mhmylq5l0Hhc) | 3:28 | 2021-05-20 | 2021-06-18 |
@@ -1468,6 +1469,7 @@
 | [I'm Sorry I Killed Your Plant](https://open.spotify.com/track/4xg7JHSLE6FDeaR9zqo18G) | [Skofee](https://open.spotify.com/artist/3WTOG7w0dyNnKAyoqNxzzg) | [I'm Sorry I Killed Your Plant](https://open.spotify.com/album/6GLTQZIqOPi8XyWZLF6JLR) | 2:56 | 2023-01-25 | 2023-03-23 |
 | [i'm sorry, i miss you](https://open.spotify.com/track/4xIKIsjbtOvYfYzE4Vxc0h) | [Emma Oliver](https://open.spotify.com/artist/7KUmMAnwfGBOs77ReTZJte) | [i'm sorry, i miss you](https://open.spotify.com/album/4axRrspdz27jdy2wvyxHM7) | 2:55 | 2020-10-13\* | 2021-01-15 |
 | [i'm sorry...](https://open.spotify.com/track/7f0iPUsbjLQCNKj9NZidvB) | [Jayde](https://open.spotify.com/artist/6Sk1LStz6zuzg4QKQaLoRL) | [i'm sorry, it's all my fault](https://open.spotify.com/album/331FvmwqjlHD3mTl8ChRCI) | 2:36 | 2023-03-22 | 2023-04-13 |
+| [I'm Trying](https://open.spotify.com/track/2oAEkesjJB7QtX9GjdmEil) | [Mörmaid](https://open.spotify.com/artist/2JIx9WZoZX8BE9yJW560x5) | [I'm Trying](https://open.spotify.com/album/5KnD1N7X7C354kUSpgPmEO) | 4:42 | 2024-02-07 |  |
 | [i've been wondering](https://open.spotify.com/track/7dncaGH9Sh2dOyRR5pKxK1) | [Free Arlo](https://open.spotify.com/artist/1ePVqRHwkjRf7y2XRyHE2p) | [another EP](https://open.spotify.com/album/0SUdp9CiSPBkdUAfntxRDm) | 3:13 | 2021-01-21 | 2021-02-25 |
 | [i've got a crazy idea](https://open.spotify.com/track/6lFNHNVCRrQxbkE4V3I6xh) | [Eva Snyder](https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l) | [i've got a crazy idea](https://open.spotify.com/album/6xUQI83LRIORArNV3GXJ00) | 3:06 | 2023-02-15 | 2023-03-16 |
 | [IBTC](https://open.spotify.com/track/4HAonty9m9FAvorRkSAiof) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [IBTC](https://open.spotify.com/album/7JG6V3mLxuQX0mPJlI6Kie) | 2:23 | 2022-10-05 | 2022-12-01 |
@@ -1493,6 +1495,7 @@
 | [IFHU](https://open.spotify.com/track/6VAkGv0U6himu34BaRWaUn) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [IFHU](https://open.spotify.com/album/6Eu7uVfpwcV9eF4xv7E51C) | 3:18 | 2021-04-01 | 2021-04-29 |
 | [IGNORANCE SONG](https://open.spotify.com/track/61Qm8Be0BGNQim8ocI79kk) | [BXB LOVE](https://open.spotify.com/artist/03k90jclqTrew2X2DFnRCC) | [IGNORANCE SONG](https://open.spotify.com/album/1A8blv9lfvv8m7UX73h3m7) | 3:37 | 2021-05-27 | 2021-06-18 |
 | [IKEA](https://open.spotify.com/track/1pwjJhu3zwoWNsD7oXUTXo) | [Zhuli](https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz) | [IKEA](https://open.spotify.com/album/5kowTVQr9ua7uaXam9JoW6) | 2:59 | 2021-10-28 | 2021-12-01 |
+| [Illusion](https://open.spotify.com/track/2du5P5ONNBbrn4vHiqV0dY) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Illusion](https://open.spotify.com/album/4z3b2ipdkf4WijSlYcI6Gv) | 2:38 | 2024-02-07 |  |
 | [ily sm ihy](https://open.spotify.com/track/5WkzW0h65dpavYGSruhm7D) | [Jay Portal](https://open.spotify.com/artist/2mE6lFglCyhkrseEcufU0d) | [ily sm ihy](https://open.spotify.com/album/1JAKBNuRkhwrrcmEkf0FRZ) | 2:27 | 2022-01-19 | 2022-03-03 |
 | [im not important](https://open.spotify.com/track/4idQrHSD0CPe5jHrPcEHNb) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [im not important](https://open.spotify.com/album/2ZwUbHoAJeIer3MOACR5uJ) | 2:05 | 2022-03-09 | 2022-04-28 |
 | [Imma Star!](https://open.spotify.com/track/6MnEibAZ0nBdTbQSFtiqde) | [Kyan Palmer](https://open.spotify.com/artist/3W5hlKkJKXp7xY7R7IYfxp) | [Imma Star!](https://open.spotify.com/album/7zLmjxiOXJLY5Fz3iQ1J4X) | 2:24 | 2023-03-29 | 2023-05-18 |
@@ -2714,6 +2717,7 @@
 | [Stuck In A Bubble](https://open.spotify.com/track/1bSJ2FDSYUQHbg4hpnF4Li) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Stuck In A Bubble](https://open.spotify.com/album/23suzHFs2RSiknQtTOGIJi) | 2:38 | 2020-10-13\* | 2021-02-25 |
 | [Stuck in America](https://open.spotify.com/track/3JMT38IbiuNlbIGm0uATOk) | [Rotana](https://open.spotify.com/artist/71GNEpAyOatoAy5oo9Av1q) | [Stuck in America](https://open.spotify.com/album/2tg4TraZN9JOaX8TaqYcPS) | 3:34 | 2021-01-15 | 2021-02-04 |
 | [Stuck on This Feeling](https://open.spotify.com/track/5s5BEpAPFlizcrs7HfA5cK) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Stuck on This Feeling](https://open.spotify.com/album/5n7Asipw0VAjvABxSsoW1T) | 3:39 | 2023-01-25 | 2023-03-09 |
+| [Student](https://open.spotify.com/track/4w0WVJWw1cm1n5FLox2Yjp) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [Student](https://open.spotify.com/album/7gqXdRXMyLGGWQJFaASiog) | 3:19 | 2024-02-07 |  |
 | [Stupid Little Party Girl](https://open.spotify.com/track/1SXubRR3HnLsQe7aBSKenu) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Stupid Little Party Girl](https://open.spotify.com/album/2DmyC6CwLfrnhUuv6cE0bi) | 2:59 | 2023-09-27 | 2024-01-11 |
 | [Stupid Little Party Girl](https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Stupid Little Party Girl](https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw) | 2:59 | 2023-09-27 | 2023-12-21 |
 | [STUPID WHEEL](https://open.spotify.com/track/3B79bh5sBug5yADwGZgO69) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [STUPID WHEEL](https://open.spotify.com/album/61lcUqu4gUNmCaY2UThukh) | 2:43 | 2023-11-08 | 2023-11-30 |
@@ -3068,6 +3072,7 @@
 | [van gogh](https://open.spotify.com/track/5rfuxu9SeVji8qyeeltjI6) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [van gogh](https://open.spotify.com/album/5VI3LQqNNX2ptjVQgmff3a) | 3:26 | 2022-03-23 | 2022-05-05 |
 | [Velvet Love](https://open.spotify.com/track/2fu5y0g4krZOioi8OBuUPb) | [Rachel Faith](https://open.spotify.com/artist/1HTgqPqtZFYdavaqVNtRdt) | [Velvet Love](https://open.spotify.com/album/0RLo0rJxaDLByhWzdghHJG) | 4:19 | 2021-01-28 | 2021-02-25 |
 | [Venice](https://open.spotify.com/track/1W5xuDGaa5CEx7eaPnKgNA) | [Citrîne](https://open.spotify.com/artist/6e9uuQOvPNMR1G6P2nuYmn) | [Venice](https://open.spotify.com/album/6aRi5mEOj8HuwE10lH7co5) | 3:04 | 2021-03-11 | 2021-04-08 |
+| [Venom](https://open.spotify.com/track/2pJBg4Qxgj7Rl7y4HPGTUw) | [Emily Mei](https://open.spotify.com/artist/3PPvyQnDRHIwwzCWwONgRk) | [Venom](https://open.spotify.com/album/4kbbT0b2ORMOulej4sdUON) | 2:27 | 2024-02-07 |  |
 | [vent](https://open.spotify.com/track/4fvsrtA2vCNTlfT3wHlxJ7) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt) | [vent](https://open.spotify.com/album/5h90kCMnNxDUOsrP2JM7yr) | 2:31 | 2022-08-10 | 2022-10-06 |
 | [VENUS IN GEMINI](https://open.spotify.com/track/3WciK8hPMHi8JuwQMuruWY) | [BXB LOVE](https://open.spotify.com/artist/03k90jclqTrew2X2DFnRCC) | [VENUS IN GEMINI](https://open.spotify.com/album/7IGQiVOeWk2BlPJV3RmeaG) | 3:28 | 2021-09-10 | 2021-10-07 |
 | [verbal warnings](https://open.spotify.com/track/02JZIF70F9dpOCdenwFwH3) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [verbal warnings](https://open.spotify.com/album/71884HMgAShpsgBO7aR26P) | 3:03 | 2021-03-06 | 2021-04-01 |

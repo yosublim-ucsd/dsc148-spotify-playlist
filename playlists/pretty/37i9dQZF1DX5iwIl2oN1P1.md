@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,776 likes - 60 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,831 likes - 60 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 13 | [Unstoppable](https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:13 |
 | 14 | [Change Me](https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [One Way](https://open.spotify.com/album/5M8DUTlZa68recDK5RvmBB) | 6:06 |
 | 15 | [Make Room](https://open.spotify.com/track/7Lon0NmVkcUHAxmiPnVwda) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/4BcOKZqejPxCGuQb2ArtXa) | 5:40 |
-| 16 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 |
-| 17 | [Put It On The Altar](https://open.spotify.com/track/2QVjnEpvbSeVhs1QZfwDOf) | [Jessica Reedy](https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6) | [From The Heart](https://open.spotify.com/album/4XITBa16CcVUe8klCUpjNV) | 4:06 |
+| 16 | [Put It On The Altar](https://open.spotify.com/track/2QVjnEpvbSeVhs1QZfwDOf) | [Jessica Reedy](https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6) | [From The Heart](https://open.spotify.com/album/4XITBa16CcVUe8klCUpjNV) | 4:06 |
+| 17 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 |
 | 18 | [I Love The Lord \(with Georgia Mass Choir\)](https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [The Georgia Mass Choir](https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:56 |
 | 19 | [Brighter Day \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/5qFDlKHNb0v68YSghSY4GK) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 5:40 |
 | 20 | [Your Great Name](https://open.spotify.com/track/6orZOHApXMdR2RHhSq2VGy) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/5ARCX2OA6H343Wvn21Peob) | 6:24 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 42 | [Close](https://open.spotify.com/track/4X5kYRhSENRkyUkY17STEG) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Close](https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H) | 6:20 |
 | 43 | [I'm Yours](https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Truth \(Standard\)](https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO) | 7:49 |
 | 44 | [2nd Win](https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 2:55 |
-| 45 | [No Ordinary Worship \- Live](https://open.spotify.com/track/6YGfEESAaw90c7saDtwiej) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D) | [The Higher Experience](https://open.spotify.com/album/6MjlmoY1Y0vYhGQ1ShRXzV) | 5:13 |
-| 46 | [I Forgive Me](https://open.spotify.com/track/53xAx35okUZ3BaCX6SWh6m) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Dear Future Me](https://open.spotify.com/album/2ymgRafXd8WfciDiKIeacv) | 4:36 |
+| 45 | [I Forgive Me](https://open.spotify.com/track/53xAx35okUZ3BaCX6SWh6m) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Dear Future Me](https://open.spotify.com/album/2ymgRafXd8WfciDiKIeacv) | 4:36 |
+| 46 | [No Ordinary Worship \- Live](https://open.spotify.com/track/6YGfEESAaw90c7saDtwiej) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D) | [The Higher Experience](https://open.spotify.com/album/6MjlmoY1Y0vYhGQ1ShRXzV) | 5:13 |
 | 47 | [I Am \- Radio Edit](https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [I Am \(Radio Edit\)](https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot) | 4:47 |
 | 48 | [I Made It Out \(Radio Edit\)](https://open.spotify.com/track/2mccRVO7fG5HpOlfCrIjYr) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [I Made It Out](https://open.spotify.com/album/2vW8HKWfqwM0Vin3CuGJor) | 4:58 |
 | 49 | [I Got Out](https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk) | [Bryan Popin](https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz) | [I Got Out](https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke) | 4:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 59 | [Already Getting Better](https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [WOW Gospel 2016](https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV) | 4:02 |
 | 60 | [All of My Help](https://open.spotify.com/track/29RRapHwQNANgAdwc6HuPE) | [Geoffrey Golden](https://open.spotify.com/artist/6f6vvDOOCgPmArVZcmVS2p) | [Kingdom...LIVE!](https://open.spotify.com/album/6s3BIqDGjArQt2Pv26qB6a) | 5:06 |
 
-Snapshot ID: `MCw5NjBlNjM5NGU2MjcxZGNhZGU4NmRjOTY2NGExMjc3MWVlNzgxMzg2`
+Snapshot ID: `MCwxNWYzZDJlNmE5OGVmNDRiNjE0NTUwMjZlZWIxNjRlNWY0NTg3MGE5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,798 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,803 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 35 | [Sorry For The Stupid Things \- Main](https://open.spotify.com/track/4T26YGUHTE5LLbb8xnTHPL) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:13 |
 | 36 | [No Stoppin' Us](https://open.spotify.com/track/4THDqloteA7XDcUicyhcvm) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [K\-Ci Hailey](https://open.spotify.com/artist/53M8YqZnU51ZjTFiXAFpIo) | [No Stoppin' Us](https://open.spotify.com/album/5jB7iZh1HNrQzgWajInSJm) | 2:59 |
 | 37 | [Reason for Breathing \- Album Edit](https://open.spotify.com/track/5388TmolaMEmwFmkII7pdL) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Reason For Breathing](https://open.spotify.com/album/2J1pVoU61Jii9EIkX8gJ4Q) | 5:42 |
-| 38 | [I Want You](https://open.spotify.com/track/1G4BiWFYJINM6NXJ43sWka) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:19 |
-| 39 | [It's No Crime](https://open.spotify.com/track/2zFqQ0xLiMHOVUuV5zw9Gq) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 4:01 |
+| 38 | [It's No Crime](https://open.spotify.com/track/2zFqQ0xLiMHOVUuV5zw9Gq) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 4:01 |
+| 39 | [I Want You](https://open.spotify.com/track/1G4BiWFYJINM6NXJ43sWka) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:19 |
 | 40 | [Evergreen \(with Babyface\)](https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Partners \(Deluxe\)](https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG) | 3:14 |
 | 41 | [Grown & Sexy](https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:03 |
 | 42 | [I Honestly Love You](https://open.spotify.com/track/586aJTfgYDYOkYcoApmsXp) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Back With A Heart](https://open.spotify.com/album/3WOgAppeszaqNnvNeQGX90) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 49 | [Sunshine](https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:11 |
 | 50 | [Say Less \(with Tiana Major9\)](https://open.spotify.com/track/6tEHDchyWDsI7vRlcNTWVY) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 2:56 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA3MzQ4MThhYjU5ZjhkNjFiMmVhYjNiM2Y1ZGJlMmI0Yw==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDAzNjM3OWI0NThjODE5OTY5MzQ1MmY1MjZmODRhNGNhYw==`

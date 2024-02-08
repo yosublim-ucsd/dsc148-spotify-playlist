@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 206451,
+  "num_followers": 206477,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzYwNTg0MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYwNjcwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Kiko Club",
         "url": "https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2s0v4Q14vbu2jUpuNTBcww"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Intet Nyt (feat. Gilli)",
         "url": "https://open.spotify.com/album/1CJ1RiMGtZkcEP5xJYJ25n"
@@ -49,23 +49,7 @@
       "url": "https://open.spotify.com/track/4Bmua8zRMOEaqV45JbmhAH"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
-      "album": {
-        "name": "MELLEM HIMMEL & JORD",
-        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 140781,
-      "name": "Livet Er Kort",
-      "url": "https://open.spotify.com/track/2TJwLuMXC0CZHmz5AgxELA"
-    },
-    {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Sent",
         "url": "https://open.spotify.com/album/2IchXZECJXUQYmD0o49uwU"
@@ -85,7 +69,7 @@
       "url": "https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "I KNOW",
         "url": "https://open.spotify.com/album/5DjM5MJoima73xcyXJ1mkG"
@@ -101,7 +85,7 @@
       "url": "https://open.spotify.com/track/3aQzeklWllLWZSH4xk7Udj"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "MELLEM HIMMEL & JORD",
         "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
@@ -110,18 +94,14 @@
         {
           "name": "Gobs",
           "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        },
-        {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
         }
       ],
-      "duration_ms": 163545,
-      "name": "Ud Af Hovedet (feat. ICEKIID)",
-      "url": "https://open.spotify.com/track/5f4wCcBdSHI5SxlfU2cpNI"
+      "duration_ms": 140781,
+      "name": "Livet Er Kort",
+      "url": "https://open.spotify.com/track/2TJwLuMXC0CZHmz5AgxELA"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Alt Det (feat. Noah Carter)",
         "url": "https://open.spotify.com/album/561WRtqToj8ILZEkDXkfqm"
@@ -141,7 +121,7 @@
       "url": "https://open.spotify.com/track/1knZ2cJRHNUeEidZvhypRm"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Kiko Club",
         "url": "https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3"
@@ -157,7 +137,27 @@
       "url": "https://open.spotify.com/track/5k5Z5TCOy6s0G48mm2X4Tb"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
+      "album": {
+        "name": "MELLEM HIMMEL & JORD",
+        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        },
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "duration_ms": 163545,
+      "name": "Ud Af Hovedet (feat. ICEKIID)",
+      "url": "https://open.spotify.com/track/5f4wCcBdSHI5SxlfU2cpNI"
+    },
+    {
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "MELLEM HIMMEL & JORD",
         "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
@@ -173,7 +173,23 @@
       "url": "https://open.spotify.com/track/1UTeDUAusifkVapsAZxbSc"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Danser Med D\u00e6moner",
         "url": "https://open.spotify.com/album/0ylIK3wZr5wKMixNJxrqNy"
@@ -193,23 +209,7 @@
       "url": "https://open.spotify.com/track/5BKvRShfSfa1phRGEKkSvb"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
-      "album": {
-        "name": "Varm",
-        "url": "https://open.spotify.com/album/32LP4nRRLtUfAlhezFc2LD"
-      },
-      "artists": [
-        {
-          "name": "Omr\u00e5de 69",
-          "url": "https://open.spotify.com/artist/15Bo9za66QGiX8iIJnJzfv"
-        }
-      ],
-      "duration_ms": 181549,
-      "name": "Varm",
-      "url": "https://open.spotify.com/track/01iuQsDEahOHtTikuFbTJ2"
-    },
-    {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Det Modsatte",
         "url": "https://open.spotify.com/album/7CEuiEBEyYDn9eXAyu1Jb8"
@@ -241,23 +241,23 @@
       "url": "https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+        "name": "Varm",
+        "url": "https://open.spotify.com/album/32LP4nRRLtUfAlhezFc2LD"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Omr\u00e5de 69",
+          "url": "https://open.spotify.com/artist/15Bo9za66QGiX8iIJnJzfv"
         }
       ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+      "duration_ms": 181549,
+      "name": "Varm",
+      "url": "https://open.spotify.com/track/01iuQsDEahOHtTikuFbTJ2"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Tilf\u00e6ldigt (feat. D1MA)",
         "url": "https://open.spotify.com/album/3Ngfa3iuBjLSwMdFE4m2ac"
@@ -277,23 +277,7 @@
       "url": "https://open.spotify.com/track/1F1I56Ye8w74inE5krVYF9"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
-      "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
-    },
-    {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
@@ -309,7 +293,7 @@
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
@@ -325,7 +309,23 @@
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Dansktop",
         "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
@@ -341,27 +341,7 @@
       "url": "https://open.spotify.com/track/5dNSfOZb6AlEF0Xg6C970o"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
-      "album": {
-        "name": "MELLEM HIMMEL & JORD",
-        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        },
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        }
-      ],
-      "duration_ms": 151791,
-      "name": "Mit Hjem (feat. Aitch)",
-      "url": "https://open.spotify.com/track/7H0iMmtuWmG9K0Mzif3exL"
-    },
-    {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -377,23 +357,7 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
-      "album": {
-        "name": "MELLEM HIMMEL & JORD",
-        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 158320,
-      "name": "Under Vand",
-      "url": "https://open.spotify.com/track/7kvFqjZ8sVfWVmkzr1UyWy"
-    },
-    {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -417,23 +381,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
-      "album": {
-        "name": "MELLEM HIMMEL & JORD",
-        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 166815,
-      "name": "Never Lose",
-      "url": "https://open.spotify.com/track/5uieCHOy7ziXRMwhE6obrl"
-    },
-    {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Jeg Ka' Rigtig Godt Li' Dig (feat. andreas odbjerg)",
         "url": "https://open.spotify.com/album/0tbu70Bb9VJQNW2tE5OVqt"
@@ -453,7 +401,23 @@
       "url": "https://open.spotify.com/track/6P8HH4mh0jmGlOhHwAkY5o"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -477,7 +441,7 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "MELLEM HIMMEL & JORD",
         "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
@@ -493,23 +457,27 @@
       "url": "https://open.spotify.com/track/1JmLigUb2yZUQgX93KbsuX"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+        "name": "MELLEM HIMMEL & JORD",
+        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
         }
       ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+      "duration_ms": 151791,
+      "name": "Mit Hjem (feat. Aitch)",
+      "url": "https://open.spotify.com/track/7H0iMmtuWmG9K0Mzif3exL"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "yes, and?",
         "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
@@ -525,27 +493,7 @@
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
-      "album": {
-        "name": "MELLEM HIMMEL & JORD",
-        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        },
-        {
-          "name": "Mads Langer",
-          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
-        }
-      ],
-      "duration_ms": 161589,
-      "name": "Face 2 Face (feat. Mads Langer)",
-      "url": "https://open.spotify.com/track/68weL3i8BCr9JtVx8MsUq8"
-    },
-    {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "MELLEM HIMMEL & JORD",
         "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
@@ -556,12 +504,28 @@
           "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
         }
       ],
-      "duration_ms": 143178,
-      "name": "Sv\u00e6rt At Elske Dig",
-      "url": "https://open.spotify.com/track/1DAgXpkM6bcSbFbm7PXAFe"
+      "duration_ms": 158320,
+      "name": "Under Vand",
+      "url": "https://open.spotify.com/track/7kvFqjZ8sVfWVmkzr1UyWy"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
+      "album": {
+        "name": "EV1GT&ALT1D",
+        "url": "https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 197043,
+      "name": "MOONLIGHT",
+      "url": "https://open.spotify.com/track/3neYAjvKDOfvBUpIgReOkC"
+    },
+    {
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
@@ -581,63 +545,7 @@
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
-      "album": {
-        "name": "MELLEM HIMMEL & JORD",
-        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        },
-        {
-          "name": "Malte Ebert",
-          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
-        }
-      ],
-      "duration_ms": 180014,
-      "name": "Glem Mit Navn (feat. Malte Ebert)",
-      "url": "https://open.spotify.com/track/51OnvwUkEqRkwHeQQ5pOMX"
-    },
-    {
-      "added_at": "2024-02-06 09:33:38",
-      "album": {
-        "name": "EV1GT&ALT1D",
-        "url": "https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw"
-      },
-      "artists": [
-        {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
-        }
-      ],
-      "duration_ms": 197043,
-      "name": "MOONLIGHT",
-      "url": "https://open.spotify.com/track/3neYAjvKDOfvBUpIgReOkC"
-    },
-    {
-      "added_at": "2024-02-06 09:33:38",
-      "album": {
-        "name": "F\u00f8les Godt",
-        "url": "https://open.spotify.com/album/4qe6zKD6u4d4PdmjKqq0bX"
-      },
-      "artists": [
-        {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
-        },
-        {
-          "name": "Mekdes",
-          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
-        }
-      ],
-      "duration_ms": 170611,
-      "name": "F\u00f8les Godt (feat. Mekdes)",
-      "url": "https://open.spotify.com/track/6OSHB3gKDyYTNNmCiOlpIc"
-    },
-    {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
@@ -653,7 +561,23 @@
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
+      "album": {
+        "name": "MELLEM HIMMEL & JORD",
+        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 166815,
+      "name": "Never Lose",
+      "url": "https://open.spotify.com/track/5uieCHOy7ziXRMwhE6obrl"
+    },
+    {
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "F\u00f8rste Dag",
         "url": "https://open.spotify.com/album/4UlublRVVPERXTBrzYjhWo"
@@ -673,23 +597,27 @@
       "url": "https://open.spotify.com/track/2XxRgaOO73AtKS3bPciDSL"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
-        "name": "Godth\u00e5bsvej",
-        "url": "https://open.spotify.com/album/581IN0Iz7N7SgblmQrs2ty"
+        "name": "MELLEM HIMMEL & JORD",
+        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
       },
       "artists": [
         {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        },
+        {
+          "name": "Mads Langer",
+          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
         }
       ],
-      "duration_ms": 199352,
-      "name": "Godth\u00e5bsvej",
-      "url": "https://open.spotify.com/track/5AmFAxI481dXAPtOZmXxgo"
+      "duration_ms": 161589,
+      "name": "Face 2 Face (feat. Mads Langer)",
+      "url": "https://open.spotify.com/track/68weL3i8BCr9JtVx8MsUq8"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "FORSVINDER (feat. Gobs)",
         "url": "https://open.spotify.com/album/0Xhp7Kgke0OveQaVRMkJwW"
@@ -709,7 +637,43 @@
       "url": "https://open.spotify.com/track/2aNMkT86YjYPlKujUiHYbS"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
+      "album": {
+        "name": "F\u00f8les Godt",
+        "url": "https://open.spotify.com/album/4qe6zKD6u4d4PdmjKqq0bX"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        },
+        {
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+        }
+      ],
+      "duration_ms": 170611,
+      "name": "F\u00f8les Godt (feat. Mekdes)",
+      "url": "https://open.spotify.com/track/6OSHB3gKDyYTNNmCiOlpIc"
+    },
+    {
+      "added_at": "2024-02-07 09:34:13",
+      "album": {
+        "name": "Godth\u00e5bsvej",
+        "url": "https://open.spotify.com/album/581IN0Iz7N7SgblmQrs2ty"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "duration_ms": 199352,
+      "name": "Godth\u00e5bsvej",
+      "url": "https://open.spotify.com/track/5AmFAxI481dXAPtOZmXxgo"
+    },
+    {
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
@@ -725,7 +689,23 @@
       "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
+      "album": {
+        "name": "MELLEM HIMMEL & JORD",
+        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 143178,
+      "name": "Sv\u00e6rt At Elske Dig",
+      "url": "https://open.spotify.com/track/1DAgXpkM6bcSbFbm7PXAFe"
+    },
+    {
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Read My Lips",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
@@ -741,23 +721,7 @@
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
-      "album": {
-        "name": "winwin",
-        "url": "https://open.spotify.com/album/7j8TjCjwYdrv8x1YBdxbcU"
-      },
-      "artists": [
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        }
-      ],
-      "duration_ms": 163561,
-      "name": "winwin",
-      "url": "https://open.spotify.com/track/3luzLKFxbRZbz1Tbz7UMNF"
-    },
-    {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "nu hvor vi er her",
         "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
@@ -777,7 +741,43 @@
       "url": "https://open.spotify.com/track/5yiJTfrtlzDsVMDshFLUna"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
+      "album": {
+        "name": "MELLEM HIMMEL & JORD",
+        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        },
+        {
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        }
+      ],
+      "duration_ms": 180014,
+      "name": "Glem Mit Navn (feat. Malte Ebert)",
+      "url": "https://open.spotify.com/track/51OnvwUkEqRkwHeQQ5pOMX"
+    },
+    {
+      "added_at": "2024-02-07 09:34:13",
+      "album": {
+        "name": "winwin",
+        "url": "https://open.spotify.com/album/7j8TjCjwYdrv8x1YBdxbcU"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "duration_ms": 163561,
+      "name": "winwin",
+      "url": "https://open.spotify.com/track/3luzLKFxbRZbz1Tbz7UMNF"
+    },
+    {
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "2 Kanoner",
         "url": "https://open.spotify.com/album/1OkJRJq4oFJgzaCOIcA04p"
@@ -793,7 +793,23 @@
       "url": "https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
@@ -829,23 +845,23 @@
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+        "name": "Som Forleden",
+        "url": "https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd"
       },
       "artists": [
         {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
         }
       ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+      "duration_ms": 161841,
+      "name": "Som Forleden",
+      "url": "https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "Suave World",
         "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
@@ -865,7 +881,7 @@
       "url": "https://open.spotify.com/track/2rfl7SRwfel3gNhXBmL60u"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "DR\u00d8M MIG V\u00c6K",
         "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
@@ -881,23 +897,7 @@
       "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
     },
     {
-      "added_at": "2024-02-06 09:33:38",
-      "album": {
-        "name": "Som Forleden",
-        "url": "https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 161841,
-      "name": "Som Forleden",
-      "url": "https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh"
-    },
-    {
-      "added_at": "2024-02-06 09:33:38",
+      "added_at": "2024-02-07 09:34:13",
       "album": {
         "name": "MELLEM HIMMEL & JORD",
         "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"

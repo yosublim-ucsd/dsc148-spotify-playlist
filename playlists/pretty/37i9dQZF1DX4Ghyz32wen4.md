@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Rels B en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,308 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,366 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 99 | [Cuando Me Vaya](https://open.spotify.com/track/4BirB1m7itKqHLTvO2rfDW) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 4:05 |
 | 100 | [ESTÁ CABRÓN](https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB) | [Juan Fe Pulido](https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8), [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af) | [ESTÁ CABRÓN](https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl) | 3:04 |
 
-Snapshot ID: `MCxiZWZlODJhZDAzZWFkYzM0NWRhYTUzMmVhNjMzODc4NWIzYzI1MTVh`
+Snapshot ID: `MCw4YzFhOWY4MDEzNzdjNGNjNzUzYWI5MTdlODYwZjMxZDZjNTJlYTM4`

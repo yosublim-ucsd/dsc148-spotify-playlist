@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 
 > This is Banda Pequeños Musical\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,041 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,099 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 | 11 | [Ninguna de las dos](https://open.spotify.com/track/4Bx95tG3pAxXmNElIEpFzg) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Con paso sensual](https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A) | 3:45 |
 | 12 | [Voy a danzar](https://open.spotify.com/track/2Wq4EMgJOEo2mosunFaNwf) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 2:28 |
 | 13 | [Mujer infiel](https://open.spotify.com/track/6UVkP7C83ln9B3JbPPChDs) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 3:17 |
-| 14 | [Romántico incurable](https://open.spotify.com/track/0jxbA98tGD0s18YVfpOEco) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Romantico incurable](https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO) | 3:43 |
-| 15 | [Mentira](https://open.spotify.com/track/6FWnydvF7AgcnrLzamaNx3) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 3:42 |
+| 14 | [Mentira](https://open.spotify.com/track/6FWnydvF7AgcnrLzamaNx3) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 3:42 |
+| 15 | [Romántico incurable](https://open.spotify.com/track/0jxbA98tGD0s18YVfpOEco) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Romantico incurable](https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO) | 3:43 |
 | 16 | [Otro de Esos Cuentos](https://open.spotify.com/track/2LWBwqpIaFDiWnPNTZNS8b) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Una Poesía](https://open.spotify.com/album/2YJNuXQxw3KHCxLUPb7PXg) | 3:15 |
 | 17 | [Con 60 minutos](https://open.spotify.com/track/74eRlfZmAw26Q3d8t5o0tY) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Aniversario](https://open.spotify.com/album/58sbO4leQqMEydqYOHE1Xq) | 3:23 |
 | 18 | [La cuca](https://open.spotify.com/track/7xnM2mrHUyb1Lr8gUhj4j7) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [En grande](https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA) | 2:55 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 | 20 | [Regresando](https://open.spotify.com/track/5irLWAgnD8YXe3MdxI3jkx) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 2:55 |
 | 21 | [Nuevo Amor](https://open.spotify.com/track/3tg5PBiaejeut5ENOCpRgW) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT) | 3:20 |
 | 22 | [Daría Todo por Ti](https://open.spotify.com/track/47NVCfXd6FajWo50EcD4La) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Daría Todo por Ti](https://open.spotify.com/album/27CPLhGnj32W8AeYVO5aW9) | 3:04 |
-| 23 | [Tenis mágicos](https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 2:34 |
-| 24 | [Ahora que no estás aquí](https://open.spotify.com/track/6gexgfw9UpdELEd77ztIWu) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz) | 3:15 |
+| 23 | [Ahora que no estás aquí](https://open.spotify.com/track/6gexgfw9UpdELEd77ztIWu) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz) | 3:15 |
+| 24 | [Tenis mágicos](https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 2:34 |
 | 25 | [Maldita Suerte](https://open.spotify.com/track/4kcMWe9I1GY4aTu2wx1OiE) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT) | 2:56 |
 | 26 | [Me equivoqué](https://open.spotify.com/track/2yHKjT0dQOZJQlyIATUXit) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 3:25 |
 | 27 | [Tengo que regresar](https://open.spotify.com/track/7GV3ncNCPyywOjPGU0oVCw) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Trayectoria](https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 | 49 | [Chiquilina](https://open.spotify.com/track/3DiBjgOxP26LVm9BcosS7P) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [En grande](https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA) | 2:22 |
 | 50 | [Llora el amor](https://open.spotify.com/track/45jCw67lE7lPtt9Q26HZA9) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Recuerdos y algo más](https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg) | 3:13 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDBmNWRkZGQxYjliZDMxMzliNjU1MDNkMjc5NDJiNDZmMQ==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDA3MGJjOWZkYjc1NDk2MmU4Y2QxODYyMmY5MTBkYmM1YQ==`

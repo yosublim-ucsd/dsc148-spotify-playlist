@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 16694,
+  "2024-02-08": 16711,
   "date_first_scraped": "2022-11-25",
   "description": "Heavy beats for midnight drifting in Tokyo.",
   "name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
@@ -61,7 +61,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 156800,
       "name": "ARIGATO",
       "url": "https://open.spotify.com/track/6vCmFt6aTwiJxEqZ2GRohr"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 170115,
       "name": "BRAND NEW",
       "url": "https://open.spotify.com/track/1BVsrwJGA5Uf1DNiHKWPCW"
@@ -591,6 +591,32 @@
       "duration_ms": 164986,
       "name": "FFNM",
       "url": "https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF"
+    },
+    {
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/0jVGbk26C3NaEdLRO7SIyA"
+      },
+      "artists": [
+        {
+          "name": "OVER KILL",
+          "url": "https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3"
+        },
+        {
+          "name": "BLAISE",
+          "url": "https://open.spotify.com/artist/3qNQdzi0cdAEz9p64r41Xb"
+        },
+        {
+          "name": "S TILL I DIE",
+          "url": "https://open.spotify.com/artist/1ICd95tL6iZcEKFEQpuWaW"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/6BkXrlhT0eJYc6ingXKM0P"
     },
     {
       "album": {
@@ -1270,6 +1296,24 @@
     },
     {
       "album": {
+        "name": "Move Up",
+        "url": "https://open.spotify.com/album/0dHzWk3b5wtTpoHJWBxQxO"
+      },
+      "artists": [
+        {
+          "name": "Diva Wisteria",
+          "url": "https://open.spotify.com/artist/1pULTdGy91pturvFKAbhBn"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187605,
+      "name": "Move Up",
+      "url": "https://open.spotify.com/track/2bBe5DkMT1inRNPJ4RsClZ"
+    },
+    {
+      "album": {
         "name": "MUJI TEE",
         "url": "https://open.spotify.com/album/0wcf67hoX2dWUYz1Xbp4ZG"
       },
@@ -1323,6 +1367,24 @@
       "duration_ms": 207785,
       "name": "Nakamura - Remix",
       "url": "https://open.spotify.com/track/3js6AKGtNyfmR2eMG5lKdZ"
+    },
+    {
+      "album": {
+        "name": "New Balance",
+        "url": "https://open.spotify.com/album/1AkoAGBaL8rdGdf21KwiTO"
+      },
+      "artists": [
+        {
+          "name": "18scott",
+          "url": "https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137806,
+      "name": "New Balance",
+      "url": "https://open.spotify.com/track/1WqTLTA1e1oeAMkPq6bqgg"
     },
     {
       "album": {
@@ -1597,7 +1659,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 164968,
       "name": "RAKURAI",
       "url": "https://open.spotify.com/track/0xcZG0APNxCUQh6G2yv1WH"

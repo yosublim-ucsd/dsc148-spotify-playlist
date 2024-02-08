@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,806 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,875 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 53 | [Easy for them](https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Easy for them](https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS) | 2:17 |
 | 54 | [Turn It Up](https://open.spotify.com/track/0TeJiZ6GXGYSBLTNxwwD8j) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Turn It Up](https://open.spotify.com/album/2WffomrXjhSK4R2rw9r6jk) | 3:01 |
 | 55 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |
-| 56 | [Locked On](https://open.spotify.com/track/6eEcExRelnLP9W7jj7Fdla) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Locked On](https://open.spotify.com/album/4KOyVupmPwP8Vze5htTpku) | 4:17 |
-| 57 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
+| 56 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
+| 57 | [Locked On](https://open.spotify.com/track/6eEcExRelnLP9W7jj7Fdla) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Locked On](https://open.spotify.com/album/4KOyVupmPwP8Vze5htTpku) | 4:17 |
 | 58 | [Lose My Mind](https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:41 |
 | 59 | [This Sound](https://open.spotify.com/track/5sQoVIKIgJnPkjZoq42AhX) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Kaya](https://open.spotify.com/artist/2ZQgZayNg80uKN5pjwv30k) | [This Sound](https://open.spotify.com/album/3tvCBG7axwQrj57zrurbws) | 4:17 |
 | 60 | [Aight Boom \(feat\. Scrufizzer\)](https://open.spotify.com/track/75GSsRPXsU16dUd5uVAbHX) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Aight Boom \(feat\. Scrufizzer\)](https://open.spotify.com/album/086oqWH3xfRrtg39eiJGLC) | 2:46 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 62 | [Came Here For](https://open.spotify.com/track/2V3S1RkfQlvCZQIjO62LKa) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY), [x.o.anne](https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq) | [Came Here For](https://open.spotify.com/album/2hJch4KUiT6m6vLURAeDCG) | 3:34 |
 | 63 | [All My Love](https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98) | 2:49 |
 | 64 | [Dance \- Tengu remix](https://open.spotify.com/track/5wVsRQKP6xt4Z82QQDJA2f) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi), [Tengu](https://open.spotify.com/artist/2W15C6WH5xh4r8aPGiiw4o) | [Dance \(The Remixes\)](https://open.spotify.com/album/21Gn31tVzHqLQwQBrDbKGW) | 4:23 |
-| 65 | [Hold Me Close](https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Hold Me Close](https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg) | 3:52 |
-| 66 | [Hard Hitters](https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl) | 3:52 |
+| 65 | [Hard Hitters](https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl) | 3:52 |
+| 66 | [Hold Me Close](https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Hold Me Close](https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg) | 3:52 |
 | 67 | [Solid Ground](https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Solid Ground](https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be) | 4:01 |
 | 68 | [Redlight](https://open.spotify.com/track/60GofMxxkrLuEIOS9JluGG) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Liberation](https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW) | 4:09 |
 | 69 | [Never](https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Never](https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn) | 3:26 |
 | 70 | [Don't You Know](https://open.spotify.com/track/0ZqOgrbDm8delKrVsT78oq) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Don't You Know](https://open.spotify.com/album/6jzIhBp8DjbQMBRdpnfKtw) | 3:35 |
 
-Snapshot ID: `MCw1NjhhN2Y2MjQ0MTcxNjhlM2M4MzMwZjIyMzEzNGVjOGYwOTE5MzUy`
+Snapshot ID: `MCxjZmNhNmRhZGVmOTEzMjA3MzEzNTI5ZGYwOGNkMGUwNTA2ZTM2ODgz`

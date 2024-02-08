@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,057 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,063 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 14 | [Não Pare Agora](https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Pare Agora](https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp) | 4:29 |
 | 15 | [O Segredo \(Ao Vivo\)](https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Segredo \(Ao Vivo\)](https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd) | 5:06 |
 | 16 | [Louve Sempre](https://open.spotify.com/track/1N4x73O2k5C2PNOxf4UCQk) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 5:22 |
-| 17 | [Sobre as Ondas do Mar](https://open.spotify.com/track/4bGhk5w5sooEC6zOpNGtbu) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 4:20 |
-| 18 | [Onde Jesus Mora](https://open.spotify.com/track/5nIdb0Gpg2Mb0ktbFrM9Ot) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Para Sempre](https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb) | 4:23 |
+| 17 | [Onde Jesus Mora](https://open.spotify.com/track/5nIdb0Gpg2Mb0ktbFrM9Ot) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Para Sempre](https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb) | 4:23 |
+| 18 | [Sobre as Ondas do Mar](https://open.spotify.com/track/4bGhk5w5sooEC6zOpNGtbu) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 4:20 |
 | 19 | [Basta Uma Palavra](https://open.spotify.com/track/2ayGHwGSw6y3Nvcmvy5MG5) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 3:35 |
 | 20 | [Imagine](https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sem Palavras](https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd) | 4:49 |
 | 21 | [Faça a diferença](https://open.spotify.com/track/5jqhsYvka1SpClRNjTwIy9) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Seleção Essencial \- Grandes Sucessos \- Cassiane](https://open.spotify.com/album/6Z0LRoCexkdlVof1Qo0Axn) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 49 | [Tremendo e Santo](https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:25 |
 | 50 | [O Abraço do Noivo](https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 7:26 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDAzZWI2YTYwMWQ1ZDA5YzhlNzM4YjkxYzM3OWQ3ZDFhYw==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDA5MjFiOTQ1NmNlZjhiNWZmNGVlNDBjZDdmOTI1YzBiNA==`

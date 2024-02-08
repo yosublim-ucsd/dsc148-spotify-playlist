@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,689 likes - 137 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,690 likes - 137 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 111 | [Consciencia](https://open.spotify.com/track/36p09hSdfzUlnLf8Py0WRQ) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:52 |
 | 112 | [Parece](https://open.spotify.com/track/3YuvAWG5bmTT0Uab0TrFWu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:38 |
 | 113 | [Sandunga](https://open.spotify.com/track/7EDPfx0FpzEU6eKnHKqyCU) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Sandunga](https://open.spotify.com/album/26svn8qJxkSRCrCVFXIA0F) | 2:49 |
-| 114 | [Tu Canción](https://open.spotify.com/track/7luRwvd1VnAkqzA9cNQ0ad) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 2:50 |
-| 115 | [Linda Natural](https://open.spotify.com/track/61C5r6fPRxNFoOUG7JQPfH) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Linda Natural](https://open.spotify.com/album/6CQRznzuAM7gKDTlfcrNQx) | 2:22 |
+| 114 | [Linda Natural](https://open.spotify.com/track/61C5r6fPRxNFoOUG7JQPfH) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Linda Natural](https://open.spotify.com/album/6CQRznzuAM7gKDTlfcrNQx) | 2:22 |
+| 115 | [Tu Canción](https://open.spotify.com/track/7luRwvd1VnAkqzA9cNQ0ad) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 2:50 |
 | 116 | [No Voy A Cambiar](https://open.spotify.com/track/6mflYV4snpVRc7SLkeb80n) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [No Voy A Cambiar](https://open.spotify.com/album/1rtdyipqp4TCLicTHf9gp5) | 4:02 |
 | 117 | [Karma](https://open.spotify.com/track/4GhOUUmIG4HggOP6IKqgRl) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [OTRO NIVEL](https://open.spotify.com/album/3DGyBlglOLup5uVRKy8uSd) | 2:29 |
 | 118 | [Cabarete](https://open.spotify.com/track/3rWwKIu80IiLkGBRuPxA4y) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Xhess](https://open.spotify.com/artist/00LN1aK0qaChfg0aze4RK4) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:33 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 136 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
 | 137 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `Mjg0NTQ1NDAsMDAwMDAwMDBmMGFlZTgyZGJiMjAyMGU5ZmFlOWQyZTQxN2JmZjg2MQ==`
+Snapshot ID: `Mjg0NTU5ODAsMDAwMDAwMDAxYjQ2ZjMzYjhkMTU5M2Q3MzU4Njk2YmYxNzZmMWRhMA==`

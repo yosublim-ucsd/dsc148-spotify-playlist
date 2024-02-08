@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 403191,
+  "num_followers": 403322,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGQxNjMxNmQ1M2QzMTE3NDgxNDc0OWIzNjI1ODkzNWM4M2I3MDI2",
+  "snapshot_id": "MCwxOTgwYmE1ZWQwYTVkMjVlMDMyMzBjZDFlMDFhYzhmOTA4MzZlOGJk",
   "tracks": [
     {
       "added_at": "2024-02-06 15:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Afterlight",
-        "url": "https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX"
-      },
-      "artists": [
-        {
-          "name": "Arlo Thiem",
-          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "Afterlight",
-      "url": "https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "Schutter",
         "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 150000,
       "name": "Schutter",
       "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Afterlight",
+        "url": "https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX"
+      },
+      "artists": [
+        {
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "Afterlight",
+      "url": "https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Astray",
-        "url": "https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2"
-      },
-      "artists": [
-        {
-          "name": "Simon Vouet",
-          "url": "https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b"
-        }
-      ],
-      "duration_ms": 120941,
-      "name": "Astray",
-      "url": "https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "Archipelago",
         "url": "https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 158000,
       "name": "Archipelago",
       "url": "https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Astray",
+        "url": "https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2"
+      },
+      "artists": [
+        {
+          "name": "Simon Vouet",
+          "url": "https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b"
+        }
+      ],
+      "duration_ms": 120941,
+      "name": "Astray",
+      "url": "https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Dancing Dreams",
-        "url": "https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO"
-      },
-      "artists": [
-        {
-          "name": "Steven Windhaug",
-          "url": "https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "Dancing Dreams",
-      "url": "https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "Chanson d\u2019\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 163027,
       "name": "Chanson d\u2019\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Dancing Dreams",
+        "url": "https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO"
+      },
+      "artists": [
+        {
+          "name": "Steven Windhaug",
+          "url": "https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Dancing Dreams",
+      "url": "https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
+        "name": "My Little Treasure",
+        "url": "https://open.spotify.com/album/1E2bAyJoZ5GU7VGGbIu3NF"
+      },
+      "artists": [
+        {
+          "name": "Bella Wilkinsson",
+          "url": "https://open.spotify.com/artist/5u3pk5iGYX6qKIIVcyohZp"
+        }
+      ],
+      "duration_ms": 90717,
+      "name": "My Little Treasure",
+      "url": "https://open.spotify.com/track/7A6mWq885WLJUngzwxfQXW"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
         "name": "Brume Matinale",
         "url": "https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 137692,
       "name": "Peace flow",
       "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
-        "name": "My Little Treasure",
-        "url": "https://open.spotify.com/album/1E2bAyJoZ5GU7VGGbIu3NF"
-      },
-      "artists": [
-        {
-          "name": "Bella Wilkinsson",
-          "url": "https://open.spotify.com/artist/5u3pk5iGYX6qKIIVcyohZp"
-        }
-      ],
-      "duration_ms": 90717,
-      "name": "My Little Treasure",
-      "url": "https://open.spotify.com/track/7A6mWq885WLJUngzwxfQXW"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Ellie",
-        "url": "https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw"
-      },
-      "artists": [
-        {
-          "name": "Aeyes Libe",
-          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Ellie",
-      "url": "https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "Fiume",
         "url": "https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 140124,
       "name": "Fiume",
       "url": "https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Ellie",
+        "url": "https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw"
+      },
+      "artists": [
+        {
+          "name": "Aeyes Libe",
+          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Ellie",
+      "url": "https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Stille Sj\u00f8",
-        "url": "https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI"
-      },
-      "artists": [
-        {
-          "name": "Ole-Bj\u00f8rn Talstad",
-          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
-        }
-      ],
-      "duration_ms": 151829,
-      "name": "Stille Sj\u00f8",
-      "url": "https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "Azalea",
         "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 143750,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Stille Sj\u00f8",
+        "url": "https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI"
+      },
+      "artists": [
+        {
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
+        }
+      ],
+      "duration_ms": 151829,
+      "name": "Stille Sj\u00f8",
+      "url": "https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Balloon",
-        "url": "https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa"
-      },
-      "artists": [
-        {
-          "name": "Chad Hammond",
-          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
-        }
-      ],
-      "duration_ms": 197750,
-      "name": "Balloon",
-      "url": "https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "A Time Long Ago",
         "url": "https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 135105,
       "name": "A Time Long Ago",
       "url": "https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Balloon",
+        "url": "https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "duration_ms": 197750,
+      "name": "Balloon",
+      "url": "https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Nokt\u00farna Variations",
-        "url": "https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Nokt\u00farna - Upright Piano",
-      "url": "https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "A Gentle Sunlight",
         "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 117625,
       "name": "A Gentle Sunlight",
       "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Nokt\u00farna Variations",
+        "url": "https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Nokt\u00farna - Upright Piano",
+      "url": "https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY"
     }
   ],
   "unique_name": "Coffee and Piano",

@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 136604,
+  "num_followers": 136667,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDEyY2NlODQzYjBiMWEyNDFlY2QwYjM1MmJlOTZkN2FjZTUxN2E3",
+  "snapshot_id": "MCw5NjE3YTgyZDAwZGE4NzIzY2JjMjUyYjdhYjk3ZjA1OTIwN2UwMmU2",
   "tracks": [
     {
       "added_at": "2023-10-13 15:01:06",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-10-13 15:01:06",
       "album": {
+        "name": "Easy Skanking In Boston '78",
+        "url": "https://open.spotify.com/album/3DZmcdIS8JlZwYFhbN9Pbc"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 335466,
+      "name": "Burnin' & Lootin' - Live At Music Hall, Boston / 1978",
+      "url": "https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17"
+    },
+    {
+      "added_at": "2023-10-13 15:01:06",
+      "album": {
         "name": "ADMIR\u00c1VEL CHIP NOVO (RE)ATIVADO",
         "url": "https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 220855,
       "name": "I Wanna Be",
       "url": "https://open.spotify.com/track/1BCX365xfyXvfhkMtUFGuE"
-    },
-    {
-      "added_at": "2023-10-13 15:01:06",
-      "album": {
-        "name": "Easy Skanking In Boston '78",
-        "url": "https://open.spotify.com/album/3DZmcdIS8JlZwYFhbN9Pbc"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 335466,
-      "name": "Burnin' & Lootin' - Live At Music Hall, Boston / 1978",
-      "url": "https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17"
     },
     {
       "added_at": "2023-10-13 15:01:06",

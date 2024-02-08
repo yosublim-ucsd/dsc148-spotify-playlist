@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 85891,
+  "num_followers": 85984,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWQ0NjNhY2FjMjkyOTEyMzg1YTA4NzZjZTVhYWZhOTY1MGFmN2Fk",
+  "snapshot_id": "MCwzYTAzMjc4ZGY3MGQyYWI3MDAyYzc2Nzg0NzE1N2U2NDhjMWQxYTRh",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -509,20 +509,20 @@
       "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2021-04-13 15:36:15",
       "album": {
-        "name": "Never A Dull Moment",
-        "url": "https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ"
+        "name": "Raisin' A Ruckus",
+        "url": "https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Roomful Of Blues",
+          "url": "https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L"
         }
       ],
-      "duration_ms": 211933,
-      "name": "True Blue",
-      "url": "https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX"
+      "duration_ms": 200226,
+      "name": "Lower On Your List Of Priorities",
+      "url": "https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -541,20 +541,20 @@
       "url": "https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn"
     },
     {
-      "added_at": "2021-04-13 15:36:15",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Raisin' A Ruckus",
-        "url": "https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo"
+        "name": "Never A Dull Moment",
+        "url": "https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ"
       },
       "artists": [
         {
-          "name": "Roomful Of Blues",
-          "url": "https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 200226,
-      "name": "Lower On Your List Of Priorities",
-      "url": "https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz"
+      "duration_ms": 211933,
+      "name": "True Blue",
+      "url": "https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Spirit In The Sky (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
-      },
-      "artists": [
-        {
-          "name": "Norman Greenbaum",
-          "url": "https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Tars Of India - Deluxe Edition",
-      "url": "https://open.spotify.com/track/2yQTF2kyJayBzLUMBdbDQm"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "1234",
         "url": "https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 242280,
       "name": "Outlaws",
       "url": "https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Spirit In The Sky (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
+      },
+      "artists": [
+        {
+          "name": "Norman Greenbaum",
+          "url": "https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Tars Of India - Deluxe Edition",
+      "url": "https://open.spotify.com/track/2yQTF2kyJayBzLUMBdbDQm"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Essential Edgar Winter",
-        "url": "https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW"
-      },
-      "artists": [
-        {
-          "name": "Edgar Winter's White Trash",
-          "url": "https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "Keep Playin' That Rock 'n' Roll",
-      "url": "https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "One Way...Or Another",
         "url": "https://open.spotify.com/album/1enFOK5mMWdC4VQoO4H9Ly"
       },
@@ -799,18 +783,34 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Tanx",
-        "url": "https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG"
+        "name": "Gimme Some Neck",
+        "url": "https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9"
       },
       "artists": [
         {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+          "name": "Ronnie Wood",
+          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
         }
       ],
-      "duration_ms": 124120,
-      "name": "Born To Boogie",
-      "url": "https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve"
+      "duration_ms": 153600,
+      "name": "Worry No More",
+      "url": "https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Essential Edgar Winter",
+        "url": "https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW"
+      },
+      "artists": [
+        {
+          "name": "Edgar Winter's White Trash",
+          "url": "https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "Keep Playin' That Rock 'n' Roll",
+      "url": "https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1"
     }
   ],
   "unique_name": "Boogie Rock",

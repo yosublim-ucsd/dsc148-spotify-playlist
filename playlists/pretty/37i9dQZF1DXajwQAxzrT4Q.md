@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,193 likes - 75 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,362 likes - 75 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 74 | [Birthday](https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Kajun Waters](https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY) | [Birthday](https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs) | 2:20 |
 | 75 | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/track/1dZfpzXVhQetMDqEavVvoA) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/album/2bLhwd0GP1ok9qIrBlT6CV) | 2:24 |
 
-Snapshot ID: `MCw4YjY4MzliM2RkMmI4OTM3YTZjYTJkNTI4NTIyYjNlZDc0YmY4ZjA1`
+Snapshot ID: `MCxkNGJhZjc2N2EwMmFjNjMyMTBjOTkwMDc2ZTU3ZWU1MmM5NTYxNzFm`

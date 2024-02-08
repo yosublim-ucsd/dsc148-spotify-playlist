@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,294 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,302 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 33 | [Better Off Dead](https://open.spotify.com/track/3D2ZhGxvaweSrZkFqoNblC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua) | 2:48 |
 | 34 | [Greatest Of All Time](https://open.spotify.com/track/4ZsgnD8CqWPF15nhT6HQED) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 2:57 |
 | 35 | [Don't Let Her Pull You Down](https://open.spotify.com/track/5ab6WsStT9zSlNZ9CSArje) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 3:28 |
-| 36 | [Happy Being Miserable](https://open.spotify.com/track/3ecBMN1YMtDvrRjIks6uAP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:00 |
-| 37 | [Doubt Full](https://open.spotify.com/track/0ea1sv8XeSLSc6FENRPrON) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 3:35 |
+| 36 | [Doubt Full](https://open.spotify.com/track/0ea1sv8XeSLSc6FENRPrON) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 3:35 |
+| 37 | [Happy Being Miserable](https://open.spotify.com/track/3ecBMN1YMtDvrRjIks6uAP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:00 |
 | 38 | [My Heart Will Go On](https://open.spotify.com/track/1WVtn3yjabxY2016Lv96Ma) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 3:03 |
 | 39 | [Blitzkrieg Bop](https://open.spotify.com/track/1Oh3Qebn8nkZa0jCvC1B6P) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Radiosurgery \(Deluxe Edition\)](https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp) | 2:02 |
 | 40 | [Stay Awhile](https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 3:24 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 46 | [Shook By Your Shaved Head](https://open.spotify.com/track/7dUQARW7C85mHp9SeF0mOY) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 2:43 |
 | 47 | [Anthem for the Unwanted](https://open.spotify.com/track/2mV7oWnebEFSv8TpQTKKav) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Radiosurgery \(Deluxe Edition\)](https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp) | 3:12 |
 | 48 | [47](https://open.spotify.com/track/2BRfVAGQJynBEcKcXfYnsN) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 2:51 |
-| 49 | [More Than Enough](https://open.spotify.com/track/6ZH9FOxVmrA0Cmmrszh0jx) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 3:42 |
-| 50 | [Oxygen](https://open.spotify.com/track/1KoQHGlqulrXXSoYRJv98N) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 3:15 |
+| 49 | [Oxygen](https://open.spotify.com/track/1KoQHGlqulrXXSoYRJv98N) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 3:15 |
+| 50 | [More Than Enough](https://open.spotify.com/track/6ZH9FOxVmrA0Cmmrszh0jx) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 3:42 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDBmYmYxNzYxYzlmYjcwNjk0YjczNzI1NTAxYTRiYzk4OQ==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDAzZGJlMjBmMThkMzBkZWUwMzlkNzQwZDBhZjU0YThhNg==`

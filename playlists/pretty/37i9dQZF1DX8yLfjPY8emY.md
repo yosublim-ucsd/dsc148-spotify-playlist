@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yLfjPY8emY.md) - [plain]
 
 > ¡Baila esta cumbia! Los éxitos de Latinoamérica en un solo lugar\. Foto: Los Ángeles Azules
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,676 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,914 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yLfjPY8emY.md) - [plain]
 | 14 | [Inocente](https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV) | 5:10 |
 | 15 | [Todo Me Gusta De Ti](https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 4:07 |
 | 16 | [Suavemente Amor](https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Yaguaru](https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA) | 3:54 |
-| 17 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 |
-| 18 | [Guaracha Sabrosona](https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guaracha Sabrosona](https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ) | 3:39 |
+| 17 | [Guaracha Sabrosona](https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guaracha Sabrosona](https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ) | 3:39 |
+| 18 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 |
 | 19 | [No Te Creas Tan Importante \- En Vivo](https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [No Te Creas Tan Importante \(En Vivo\)](https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s) | 3:59 |
 | 20 | [Rumba Cha\-Cha\-Cha](https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [El Poder De La Cumbia](https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m) | 4:43 |
 | 21 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yLfjPY8emY.md) - [plain]
 | 45 | [Porque te amo](https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:53 |
 | 46 | [Nunca me faltes](https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK) | 4:13 |
 | 47 | [Te Amo](https://open.spotify.com/track/2Y1qcW4b9aVRnX1fHaVvxY) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Mi Historia](https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS) | 2:55 |
-| 48 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
-| 49 | [¿Dónde Estarás?](https://open.spotify.com/track/55fNwvY5YPrQgndjwBywM8) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 3:51 |
-| 50 | [Cumbia sobre el río / Interludio](https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 5:42 |
+| 48 | [¿Dónde Estarás?](https://open.spotify.com/track/55fNwvY5YPrQgndjwBywM8) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 3:51 |
+| 49 | [Cumbia sobre el río / Interludio](https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 5:42 |
+| 50 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
 
-Snapshot ID: `MCxjMDZhYTZkYTIwNDhlOGZkZDAzOWQwZTg3OTVlNDIxMDViY2E5NjI2`
+Snapshot ID: `MCxmNTVjYjRjZjM5N2E5YTJlYTk3ZmRkMTI0ZGRlZmMzMDlmOWQ1NDk0`

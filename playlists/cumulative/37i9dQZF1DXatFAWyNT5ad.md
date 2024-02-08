@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Knox
 
-700 songs - 1 day 12 hr 16 min
+701 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Like A Virgin \- Spotify Singles](https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Spotify Singles](https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci) | 3:11 | 2022-03-17 | 2022-07-26 |
 | [Like Lightning](https://open.spotify.com/track/7bDztTav6TQByZmDJmUT5Y) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Part 2 Everything Not Saved Will Be Lost](https://open.spotify.com/album/2gA6WSERaJVOWwuB0hegvp) | 3:34 | 2022-03-24 | 2022-04-19 |
 | [Limitless](https://open.spotify.com/track/71JuDGXgyY7MbmXtldZ4C3) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Limitless](https://open.spotify.com/album/0wrKtjtoNplOAPjj4jYx4t) | 3:41 | 2022-03-24 | 2022-04-17 |
+| [Little Like Hell](https://open.spotify.com/track/3ws6O2EBzhEC1UPSOoxMfE) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Little Like Hell](https://open.spotify.com/album/3y2M76ZPDji9HWW9QoCvfY) | 3:07 | 2024-01-12 |  |
 | [Local God](https://open.spotify.com/track/2RQ0D9N823H0WT1vSy74RM) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:00 | 2023-03-17 | 2023-05-06 |
 | [Local God](https://open.spotify.com/track/3XADz7YwWlGDErHwv5F093) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Local God](https://open.spotify.com/album/50uQ50fSsmddC5xAHLb49w) | 3:00 | 2022-08-05 | 2022-09-09 |
 | [loneliness for love](https://open.spotify.com/track/5Kth6cQqMCY9HSo0GbhjUF) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [loneliness for love](https://open.spotify.com/album/5Ydukmq7CbdVsEKCqCuiXo) | 3:57 | 2022-03-17 | 2022-07-20 |
@@ -609,7 +610,7 @@
 | [The Devil Has Many Faces](https://open.spotify.com/track/4irOx6zV6BDYO1Rv7yZi7T) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5D58CIPr9CUqBowJF5jNnJ) | 2:34 | 2022-03-24 | 2022-07-23 |
 | [The Emperor](https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Emperor](https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt) | 2:55 | 2022-08-05 | 2022-09-15 |
 | [The Eulogy of You and Me](https://open.spotify.com/track/6yGsqEtwfrS2tktEYcuPKd) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [The Eulogy of You and Me](https://open.spotify.com/album/35lHDQRsVVl2IbLGU28jdT) | 3:03 | 2022-03-24 | 2022-07-27 |
-| [the feeling](https://open.spotify.com/track/0FZoGTWJNMUYCzcJRXe5ny) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [wear your heart out](https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu) | 3:11 | 2023-08-25 |  |
+| [the feeling](https://open.spotify.com/track/0FZoGTWJNMUYCzcJRXe5ny) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [wear your heart out](https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu) | 3:11 | 2023-08-25 | 2024-02-08 |
 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 | 2022-03-17 | 2023-11-18 |
 | [the idea](https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [the idea](https://open.spotify.com/album/529HyBH38pXm03KrwyI0At) | 3:23 | 2022-07-07 | 2022-09-09 |
 | [the idea](https://open.spotify.com/track/5DUgpa3TrMXqUy5lvV5XT2) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:24 | 2022-09-15 |  |

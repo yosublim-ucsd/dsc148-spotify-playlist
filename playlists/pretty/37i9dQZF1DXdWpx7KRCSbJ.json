@@ -1,12 +1,12 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 340084,
+  "num_followers": 340070,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTE5ZDhjNjg2ZmUzN2U2YjIxYTliOTUyMjI4ZWYyZTEyMGRlMDdh",
+  "snapshot_id": "MCwyODA1M2JjMDg5MzJhMTQ0MTM4MjBmNjhjMGI5ZjdkYmRhYTU4YWZl",
   "tracks": [
     {
       "added_at": "2023-01-17 01:33:36",
@@ -523,26 +523,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Medley da Gaiola (DENNIS Remix)",
-        "url": "https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        }
-      ],
-      "duration_ms": 239999,
-      "name": "Medley da Gaiola - DENNIS Remix",
-      "url": "https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 161444,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Medley da Gaiola (DENNIS Remix)",
+        "url": "https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        }
+      ],
+      "duration_ms": 239999,
+      "name": "Medley da Gaiola - DENNIS Remix",
+      "url": "https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -659,6 +659,26 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Isso Que \u00e9 Vida",
+        "url": "https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Cantini",
+          "url": "https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3"
+        }
+      ],
+      "duration_ms": 159458,
+      "name": "Isso Que \u00e9 Vida",
+      "url": "https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Acordando o Pr\u00e9dio",
         "url": "https://open.spotify.com/album/4LlZtbDgmU4SkRiALN4FAS"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 187998,
       "name": "Dona Maria",
       "url": "https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Isso Que \u00e9 Vida",
-        "url": "https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "Cantini",
-          "url": "https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3"
-        }
-      ],
-      "duration_ms": 159458,
-      "name": "Isso Que \u00e9 Vida",
-      "url": "https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Cobaia",
-        "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
-      },
-      "artists": [
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 219442,
-      "name": "Cobaia",
-      "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
         "url": "https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 142187,
       "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
       "url": "https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Cobaia",
+        "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 219442,
+      "name": "Cobaia",
+      "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1283,22 +1283,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "S\u00e3o Jo\u00e3o 2018",
-        "url": "https://open.spotify.com/album/2vtTaoVQP4fGcblFZptHbH"
+        "name": "Sapequinha",
+        "url": "https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja"
       },
       "artists": [
         {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "MC Lan",
+          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
         }
       ],
-      "duration_ms": 172654,
-      "name": "Romance Com Safadeza",
-      "url": "https://open.spotify.com/track/0q4oI0SqCL4PpIO4AB5wUu"
+      "duration_ms": 134106,
+      "name": "Sapequinha",
+      "url": "https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk"
     }
   ],
   "unique_name": "Festa na Piscina",

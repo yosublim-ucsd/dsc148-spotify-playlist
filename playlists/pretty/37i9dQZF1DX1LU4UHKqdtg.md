@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: TWICE
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,550 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,720 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 6 | [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 |
 | 7 | [Wife](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:01 |
 | 8 | [Killin' It](https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Killin' It](https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6) | 2:56 |
-| 9 | [DOMINO \~ butterfly effect \- Japanese ver\. \-](https://open.spotify.com/track/6wVjnSrZvJubZcz1cbFrfF) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Knock\-on Effect](https://open.spotify.com/album/0EKa8nv4JNlFQnPJYPHCg6) | 2:59 |
+| 9 | [DOMINO \~ butterfly effect \- Japanese ver\. \-](https://open.spotify.com/track/67zYH1gIIX4tQHhJyOMhlo) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Knock\-on Effect](https://open.spotify.com/album/1bklyCTtSDF0jdIaRcJCEi) | 2:59 |
 | 10 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 |
 | 11 | [Love wins all](https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love wins all](https://open.spotify.com/album/2bwwRhKbLeD3LvNDXauV2T) | 4:31 |
 | 12 | [What kind of future](https://open.spotify.com/track/1DXomndYd10iSX9uZSPv6e) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [What kind of future](https://open.spotify.com/album/1S46HO8uCleN4pov8D3bGL) | 3:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
 | 80 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 |
 
-Snapshot ID: `MCwyYjliZTA5ZjU4ODZkYzhiODJhYmQ1ZjAwYmE2MWRjYmJjMDViMzZk`
+Snapshot ID: `MCw4NTQyYzJjZmQ4NDNmNjhhZGY3MTEyYTg5NGJkNTEyZjVkOTdiZDU1`

@@ -2,9 +2,9 @@
 
 ### [City Pop Korea \(한국 씨티팝\)](https://open.spotify.com/playlist/37i9dQZF1DX8cV4ZaSfaxp)
 
-> A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: KWON EUNBI\(권은비\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
+> A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: Mitty\(미티\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-314 songs - 19 hr 29 min
+316 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Black Pearl](https://open.spotify.com/track/6f5h8n8UR4fsz8LjCkAOFy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR) | 3:19 | 2022-05-11 | 2022-07-29 |
 | [Blue Rose \(Feat\. X.Q\)](https://open.spotify.com/track/2Y4gMNV4vgOY4XFpxo5XXh) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [Jeon Chae Un](https://open.spotify.com/artist/3tSgFeF4GEs4zENwoLmhlm) | [Blue Rose \(Feat\. X.Q\)](https://open.spotify.com/album/6HD2bUD9J8uuBMzmwHLpzE) | 3:05 | 2022-05-11 | 2022-07-26 |
 | [Brave New World](https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [BASIC](https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS) | 4:01 | 2022-07-22 |  |
+| [Breathing](https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Breathing](https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y) | 2:53 | 2024-02-07 |  |
 | [Button](https://open.spotify.com/track/0eUXChSlgsNLiJRa0LMyVJ) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Button](https://open.spotify.com/album/2uz94PWiwAzbC0AHxxGcjg) | 4:03 | 2022-05-11 | 2022-07-29 |
 | [Button \- Remastered](https://open.spotify.com/track/4FSxhl9bOTmzcMKAypj7Bb) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Animation](https://open.spotify.com/album/678QsdsjapDnh9N9iCeFyp) | 4:02 | 2022-05-11 | 2022-06-28 |
 | [Caffeine](https://open.spotify.com/track/0mkvgFOolIEphzPjRN1xgN) | [Eyedi](https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN) | [Caffeine](https://open.spotify.com/album/7EjK4oHHAV8v7hvYAMqfLo) | 3:15 | 2022-05-11 | 2022-07-29 |
@@ -140,6 +141,7 @@
 | [It's Beautiful](https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Onstage Digging Club Seoul Part.03](https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC) | 3:54 | 2022-07-22 |  |
 | [It's Beautiful Digging Club Seoul Version](https://open.spotify.com/track/6jMhNF4hbbB8zr7ugpksLe) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Onstage Digging Club Seoul Pt\. 3](https://open.spotify.com/album/1wODyT1p1d1XjvwMqIChsM) | 3:54 | 2022-05-11 | 2022-07-29 |
 | [It\`s Been A While \(Maxim City Summer Life c.f\)](https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [The Line](https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29) | 3:23 | 2022-05-11 | 2022-07-19 |
+| [I’m not good at](https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS) | [Mitty](https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ) | [I’m not good at](https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc) | 3:43 | 2024-02-07 |  |
 | [I′m Alright](https://open.spotify.com/track/1EmSHvEUIwjzJOHXSXNhzj) | [QUDO](https://open.spotify.com/artist/5tlKesRTuMzjFhGMxoDRqf), [Sehwan Hong](https://open.spotify.com/artist/3djMK9mGuqKGYH4h9putId) | [INCHEON CITYPOP Vol\. 1](https://open.spotify.com/album/73rd6npj17FEsbxfNfEdJH) | 3:46 | 2022-05-11 | 2022-07-21 |
 | [Jam Jam](https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 3:38 | 2022-05-11 |  |
 | [Kona \(feat\. Jennifer Choi\)](https://open.spotify.com/track/2gw0RI5FJUgLHZuyLFYAvx) | [90yonge St.](https://open.spotify.com/artist/1eJGTmb81YxxbykvAezg2r), [Jennifer Choi](https://open.spotify.com/artist/3W2mgO6CNMSZc9qD4J6nJQ) | [Kona \(feat\. Jennifer Choi\)](https://open.spotify.com/album/2O6Q3bYc8H7mi2NkED3LA7) | 3:35 | 2022-05-11 | 2022-07-25 |
@@ -208,7 +210,7 @@
 | [Orange Road](https://open.spotify.com/track/4OIGXQkYgOhaiyGmP8Vvhp) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Aquarium](https://open.spotify.com/album/68DQ72Ez9AhEtByI4k9i2Z) | 4:30 | 2022-05-11 | 2022-07-29 |
 | [Orange Road \(with YUKIKA\)](https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 4:30 | 2022-07-22 |  |
 | [Our love like tonight](https://open.spotify.com/track/5qtYh6ZnzFGwwwJ8BknAsx) | [SOOIN](https://open.spotify.com/artist/1DxQgqC0FRx2RkiGAlXNPb) | [Our love like tonight](https://open.spotify.com/album/54q8WeKHUNWYOvTvMLmy6x) | 4:00 | 2022-05-11 | 2022-07-29 |
-| [Paradise](https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:14 | 2022-05-11 |  |
+| [Paradise](https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:14 | 2022-05-11 | 2024-02-08 |
 | [Passing Light](https://open.spotify.com/track/0eXreZ3kZDgnqhvgXz6Mav) | [NO\_ON](https://open.spotify.com/artist/44CBCqoh0b32RmvSVB5Jiz) | [Passing](https://open.spotify.com/album/5oUO7dUg3pRcaO5SnpLef3) | 2:59 | 2022-05-11 | 2022-07-05 |
 | [Pixel](https://open.spotify.com/track/3cuofWllYn8kBdMGVrvPTI) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [LiYoon](https://open.spotify.com/artist/6MAEen0SL68c1kJ7Ylaxvn) | [Pixel](https://open.spotify.com/album/3smEGBtxcckJh80i2BA3Ml) | 3:28 | 2022-05-11 | 2022-07-29 |
 | [Plastic Candy](https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ) | 3:34 | 2023-11-02 |  |
@@ -245,7 +247,7 @@
 | [SOUL LADY](https://open.spotify.com/track/30QkQEqjW4U7PEtRHRsPOX) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 3:35 | 2022-05-11 | 2022-07-28 |
 | [SOUL LADY](https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 3:35 | 2022-07-22 |  |
 | [Sparkling](https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Sparkling](https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp) | 3:51 | 2022-05-11 |  |
-| [Starry Night](https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Starry Night](https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N) | 3:11 | 2022-07-22 |  |
+| [Starry Night](https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Starry Night](https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N) | 3:11 | 2022-07-22 | 2024-02-08 |
 | [Submarine \(K\)](https://open.spotify.com/track/1sCaM4p8zmxv6H3YPHXfEE) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7) | [Submarine](https://open.spotify.com/album/6z9lCCimp8FEG6az48jEik) | 3:46 | 2022-05-11 | 2022-07-29 |
 | [Submarine \(with Hoody\)](https://open.spotify.com/track/464dkAo0MIumAgzrq7rwnL) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 3:46 | 2022-07-22 |  |
 | [Suddenly \- Digging Club Seoul Version](https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd) | 4:12 | 2022-07-22 |  |

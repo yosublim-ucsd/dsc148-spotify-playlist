@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,834 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,888 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 7 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 |
 | 8 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
 | 9 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 |
-| 10 | [Leg Over](https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 3:17 |
-| 11 | [4 Nothin'](https://open.spotify.com/track/4MNoQpjih78o8s5RYhhUrL) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/3DGeD2ap8hARpbFZZpmwVb) | 3:29 |
+| 10 | [4 Nothin'](https://open.spotify.com/track/4MNoQpjih78o8s5RYhhUrL) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/3DGeD2ap8hARpbFZZpmwVb) | 3:29 |
+| 11 | [Leg Over](https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 3:17 |
 | 12 | [Dalilah](https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Growing Pains](https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx) | 2:47 |
 | 13 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 |
 | 14 | [Red Flags](https://open.spotify.com/track/31jkD22MNUrpebszwU7ZFz) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:55 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 27 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 |
 | 28 | [Routine Lover](https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Routine Lover](https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj) | 2:48 |
 | 29 | [Pour Me Water](https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 |
-| 30 | [Thunder Fire You](https://open.spotify.com/track/7tBHoZDrhRacTiBMrlbvTb) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The Prince I Became](https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH) | 2:59 |
-| 31 | [Olufunmi](https://open.spotify.com/track/7dFvxW8AlUz5X4xqe6kqcY) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Compilation](https://open.spotify.com/album/5plKeEs2bHRz44nTFkByhg) | 5:04 |
+| 30 | [Olufunmi](https://open.spotify.com/track/7dFvxW8AlUz5X4xqe6kqcY) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Compilation](https://open.spotify.com/album/5plKeEs2bHRz44nTFkByhg) | 5:04 |
+| 31 | [Thunder Fire You](https://open.spotify.com/track/7tBHoZDrhRacTiBMrlbvTb) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The Prince I Became](https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH) | 2:59 |
 | 32 | [Breaking The Yoke Of Love](https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Breaking The Yoke Of Love](https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6) | 3:18 |
 | 33 | [Selling Dreams](https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Selling Dreams](https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL) | 2:28 |
 | 34 | [Fire Wood](https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf) | [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [Breakfast in Lagos](https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 49 | [Dreamer](https://open.spotify.com/track/4HxlXzXwDyhMqxUHCXYD79) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 3:00 |
 | 50 | [No Love \(18 Plus\)](https://open.spotify.com/track/6Z1DykyiIiBbypmK44WTdF) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [No Love \(18 Plus\)](https://open.spotify.com/album/58m9uHYdYZrjRje9ZMbYPB) | 3:47 |
 
-Snapshot ID: `MCxkZGMwYTRmNTkzZTgwNDZhMjk0OTUzMWY4NWNlOTUzODBiZDcyZGYz`
+Snapshot ID: `MCxiMDUzMmE2OTJjNjBiZjNkOTlhMjM5NmE4NmRiNzVkZGI2MzQyZGIx`

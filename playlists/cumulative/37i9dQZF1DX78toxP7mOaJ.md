@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Rock ](https://open.spotify.com/playlist/37i9dQZF1DX78toxP7mOaJ)
 
-> Fresh rock from independent artists every Wednesday\. Cover: The Thing
+> Fresh rock from independent artists every Wednesday\. Cover: Death Lens
 
-1,290 songs - 2 day 22 hr 33 min
+1,298 songs - 2 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Alarm](https://open.spotify.com/track/5fkT52XT0Hh2byKCuNhHeS) | [Lifeguard](https://open.spotify.com/artist/17HkDJlzsK1YoBja2XmY5O) | [Alarm](https://open.spotify.com/album/1gCCC9hHa0Dh0P5y29U0VF) | 3:14 | 2023-06-14 | 2024-01-11 |
 | [Alibi](https://open.spotify.com/track/0g2p9dssyIrbWCAE3pETd4) | [Jasper Wilderness](https://open.spotify.com/artist/2dqhFwBKG2HSQY1NoFohiw) | [Coming Home to Silence](https://open.spotify.com/album/6CuEN2Gr3nnJXydEOuE3q3) | 2:57 | 2022-10-12 | 2022-10-21 |
 | [Alibi](https://open.spotify.com/track/7wK9sB7hjnUSoCnWRyVzlu) | [Jasper Wilderness](https://open.spotify.com/artist/2dqhFwBKG2HSQY1NoFohiw) | [Coming Home to Silence](https://open.spotify.com/album/5RAFq2PS8L0tiww2yeQzJj) | 2:57 | 2022-10-19 | 2022-12-01 |
+| [ALIEN](https://open.spotify.com/track/4GBj02UTxaa9cLKg7qU8UE) | [MNYS](https://open.spotify.com/artist/4ymdwRD5Aq27CugmxZFJv0) | [ALIEN](https://open.spotify.com/album/3NLtCAfDDjPziACxVtcq9L) | 3:09 | 2024-02-07 |  |
 | [Alive Again](https://open.spotify.com/track/4oUOCP3TzE3OvWpif9d9so) | [Tummyache](https://open.spotify.com/artist/2iGQR8gH9aKFtCxOsPGFYx) | [SOAK](https://open.spotify.com/album/5c2gqiaE0iCiJ7Fb03ExRv) | 3:56 | 2022-05-25 | 2022-06-30 |
 | [alive and well](https://open.spotify.com/track/4WaoYFPauZmw4fvwv5T6uT) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [alive and well](https://open.spotify.com/album/0uHVLq70SkW518V96Ffjjg) | 3:45 | 2022-08-24 | 2022-09-22 |
 | [All I'm Seeing](https://open.spotify.com/track/2uGr25CqOjX0F0MgwNh0qp) | [MONA](https://open.spotify.com/artist/4AKwIU9B31J3L41DuJfFym) | [All I'm Seeing](https://open.spotify.com/album/7ib9Ls2osD6i1pVHVYOjOS) | 3:05 | 2023-05-03 | 2023-07-20 |
@@ -100,6 +101,7 @@
 | [Bad Dream](https://open.spotify.com/track/5MHZZzod7EYBBWwarfNdik) | [Casey Bishop](https://open.spotify.com/artist/6LfA72Ad6LWcDYOwUMqpce) | [Bad Dream](https://open.spotify.com/album/0jX5ABWZBRzeCzn1A92BM1) | 2:40 | 2022-05-04 | 2022-07-21 |
 | [Bad Habit](https://open.spotify.com/track/1BnwCJ1mDpeAQzExXoLQAu) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Bad Habit](https://open.spotify.com/album/5cLTgW3hx8369QZCJ6I8v5) | 2:59 | 2021-12-01 | 2022-01-27 |
 | [Bad Luck Planet](https://open.spotify.com/track/2hvQADky1sOkaZQWAe9VYs) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [Bad Luck Planet](https://open.spotify.com/album/2z9Yh4vqO2p8OjuaDpWp6U) | 3:09 | 2023-03-29 | 2023-04-27 |
+| [Bad Nature](https://open.spotify.com/track/3dQ1TvJ7I1SrtyyMKvmAaL) | [Sasha Assad](https://open.spotify.com/artist/206QVzYQsLZxNjrUaROEyQ) | [Bad Nature](https://open.spotify.com/album/1Mvbde4pOE4EuTF5SwMJ3B) | 3:10 | 2024-02-07 |  |
 | [Bad Side](https://open.spotify.com/track/3pOFyWeSgDEXPOscABDJdc) | [Ethansroom](https://open.spotify.com/artist/0obyulaZmmOhiSsnYIfHne) | [Bad Side](https://open.spotify.com/album/0QCJjgLGeDc8rCltm24gWN) | 2:51 | 2023-03-15 | 2023-04-13 |
 | [Ballerina](https://open.spotify.com/track/1BpfuXXT9V3mYzsxJqHUL2) | [Daddy's Beemer](https://open.spotify.com/artist/3XZqEvsJMEpFb9YzuW1v16) | [Ballerina](https://open.spotify.com/album/7pTxUPDTGAL1Uij4yEoKZa) | 2:35 | 2022-11-09 | 2022-12-01 |
 | [Ballerina](https://open.spotify.com/track/7bwDGSNqKrM9nJD52KgTx0) | [MOLLY](https://open.spotify.com/artist/2ueChRFdpz3p8qhU9CJfY6) | [Ballerina](https://open.spotify.com/album/63FvofXcoHVDG43Xcd1W5o) | 4:09 | 2023-01-11 | 2023-02-02 |
@@ -285,6 +287,7 @@
 | [Cut My Hair](https://open.spotify.com/track/4QSZrsCZx4jAPNIMoUsq03) | [Danny Goo](https://open.spotify.com/artist/0pNhUCv5DGQvX8x8DI5XKB) | [Cut My Hair](https://open.spotify.com/album/7nl1z74jzZCRG7G1SC3fZo) | 2:51 | 2022-06-29 | 2022-07-28 |
 | [Cylinders](https://open.spotify.com/track/17I5FjmxdcfWX9GYjsSkVJ) | [Dog Sport](https://open.spotify.com/artist/68RQxUCaZrjtIYlxk6mERg) | [Cylinders](https://open.spotify.com/album/5nXRuh4rwIUu7TySmM9oeE) | 3:21 | 2023-09-27 | 2024-02-01 |
 | [Daisy](https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Daisy](https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ) | 3:10 | 2022-09-07 | 2022-10-20 |
+| [Dallas](https://open.spotify.com/track/7r5OPg9Bo6dO6bJVnG55iK) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Dallas](https://open.spotify.com/album/5KagOtvtmB8fO9PvBVY1AJ) | 6:02 | 2024-02-07 |  |
 | [Dance Now](https://open.spotify.com/track/1LReLcAXOIo745DgUNrcvg) | [Girl and Girl](https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn) | [Dance Now](https://open.spotify.com/album/1KLhPXH6kqwzKYHgU2KpOY) | 4:50 | 2023-06-14 | 2024-01-11 |
 | [Dancing Like The Flames](https://open.spotify.com/track/5IbtmAUAvinSF5eAQuUpGt) | [Arcade State](https://open.spotify.com/artist/4iecw64T3uHpq14SMEWi0Z) | [A Slave To The Waves](https://open.spotify.com/album/1cXdqTdXtDPAkKxgBF8Q0w) | 4:15 | 2023-04-05 | 2023-04-27 |
 | [Dancing to The Smiths](https://open.spotify.com/track/6RSDI2ms9CHIvOnrYzxluR) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Dancing to The Smiths](https://open.spotify.com/album/0gSXurqwCt0sZcgUncufAO) | 4:19 | 2022-02-16 | 2023-01-12 |
@@ -347,6 +350,7 @@
 | [Done No Good](https://open.spotify.com/track/2Kr9MMae2o90Fd2BOZyBCU) | [Auntie Leo & The Backstabbers](https://open.spotify.com/artist/2MKRGonOGyamdXUfmbtzI2) | [Done No Good](https://open.spotify.com/album/0nEGE2MPLOtUQUUVUh7Qa2) | 1:49 | 2023-02-01 | 2023-03-02 |
 | [Don’t Tell Me](https://open.spotify.com/track/20oQMUwLdi25ILH8Xk485B) | [Big Nothing](https://open.spotify.com/artist/29w4I1Z1XBfrr8opjHdofd) | [Dog Hours](https://open.spotify.com/album/2bWpM9o6gylXek6NPWli6m) | 2:26 | 2022-03-03 | 2022-03-31 |
 | [Doomer](https://open.spotify.com/track/3bGfDpcaUIKZhXM0x776re) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Doomer](https://open.spotify.com/album/4KZtS7Mbox8WP1HF8Ugtz1) | 3:43 | 2023-06-21 | 2024-01-11 |
+| [Double Vision](https://open.spotify.com/track/5WMHKJaKkfVI1BRzrbgWgs) | [Night Talks](https://open.spotify.com/artist/2AtastUSfbudzZmPKQTsvz) | [Double Vision](https://open.spotify.com/album/666J67UocOsTEOsbiIGfrq) | 4:28 | 2024-02-07 |  |
 | [Down](https://open.spotify.com/track/48OpQTaivLR29s3jBLkhLV) | [Lawn](https://open.spotify.com/artist/5Dk3G2pCM54sYxkRpzcMUh) | [Down](https://open.spotify.com/album/6IWpaOAYnh2VkWlEad7nSR) | 3:16 | 2022-05-18 | 2022-08-11 |
 | [Down](https://open.spotify.com/track/09Dy9EnCUDMYCYn2dpWOJb) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Down](https://open.spotify.com/album/41zcdqX6Yzyl0FOwJ587PF) | 4:18 | 2023-04-05 | 2023-06-08 |
 | [Down Bad](https://open.spotify.com/track/6BxL2JcykvCLnsLzmbHRJr) | [Ryan Librada](https://open.spotify.com/artist/6JygKoUdCYpjiwjQFFolI7) | [Down Bad](https://open.spotify.com/album/446MuZ7oc85YRvRMc0A20Q) | 2:10 | 2021-12-01 | 2022-03-24 |
@@ -507,6 +511,7 @@
 | [Head Gonna Hurt](https://open.spotify.com/track/09TBjvGho219RcCzNDohtE) | [Near Tears](https://open.spotify.com/artist/0aXIiLmFwCFeRJvKWizsLR) | [Head Gonna Hurt](https://open.spotify.com/album/0iyx7SXhpnz73Z1sNrzVwl) | 3:36 | 2021-12-01 | 2022-01-20 |
 | [Headroom](https://open.spotify.com/track/1iyou2O1dWXTNVyhdOSc3e) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Gunge](https://open.spotify.com/album/6pzh5h43W8iN2Kck5CHSOr) | 3:09 | 2021-12-01 | 2022-03-10 |
 | [Headspace](https://open.spotify.com/track/4tY0EKwHcKv09vUMkx02vz) | [Indio Downey](https://open.spotify.com/artist/1KTM0UKpVn91mU6LlVa7Tm) | [Headspace](https://open.spotify.com/album/2kvx7Aa5PNKke0VyZmccio) | 3:16 | 2022-06-29 | 2023-01-12 |
+| [Healing](https://open.spotify.com/track/2FTECyHv2eDT7LGxXCtDvn) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [Healing](https://open.spotify.com/album/0HGYZoDXRFyztQMuZV1I68) | 4:16 | 2024-02-07 |  |
 | [Heart Attack](https://open.spotify.com/track/3er2x3MtxNq0iHLEy31PLy) | [Danny Goo](https://open.spotify.com/artist/0pNhUCv5DGQvX8x8DI5XKB) | [Heart Attack](https://open.spotify.com/album/3WJmlnW6Kbt34qsCQaljfD) | 2:53 | 2022-07-27 | 2022-09-22 |
 | [Heart Beat Faster](https://open.spotify.com/track/5sifqsjFzLM0IspwfMjP2T) | [Telephone Friends](https://open.spotify.com/artist/765e7kZUsgfGp40uxNCxE9) | [Heart Beat Faster](https://open.spotify.com/album/4ivBuvwWVDwRnSMAHeNfgZ) | 4:15 | 2023-02-22 | 2023-03-23 |
 | [Heartbeat](https://open.spotify.com/track/4oCJ4t1khwZqlBVldWzJES) | [Darkbird](https://open.spotify.com/artist/0iiltWiiNfnJEh1sUL3bWk) | [Heartbeat](https://open.spotify.com/album/6rTqONVETieqHDH6EpYsX9) | 4:07 | 2021-12-01 | 2022-02-24 |
@@ -821,6 +826,7 @@
 | [nothing special](https://open.spotify.com/track/5O03nQcevv8aSU2jvzNRpk) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [nothing special](https://open.spotify.com/album/5zBQc6QgD0o0ss1JdIjSFB) | 3:23 | 2023-01-11 | 2023-02-02 |
 | [Nothing To Lose](https://open.spotify.com/track/2Fo5kbY5HWl2jswzckde3q) | [The Howlers](https://open.spotify.com/artist/7FkGyUhobedhkNdIIhgvaD) | [Nothing To Lose](https://open.spotify.com/album/7jtOL8lnKlgjEuAQvkGt2B) | 2:58 | 2022-10-12 | 2022-12-01 |
 | [Nothing's Changed](https://open.spotify.com/track/6LHUubtVwmThrbG7GA3W8K) | [Maxband](https://open.spotify.com/artist/0p6j5TgQxg0Cwc1TPI3fhR), [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Nothing's Changed](https://open.spotify.com/album/33ghK9oXVXJNkEOjT2yWF5) | 4:40 | 2024-01-31 |  |
+| [Now](https://open.spotify.com/track/7AxeQfiFdNxmcRBLCBFDGC) | [Same Side](https://open.spotify.com/artist/1eBgO30BGbBDGMZWMI0zhk) | [Oh No](https://open.spotify.com/album/0eH8cit16mn2JLs2HzLo4K) | 3:16 | 2024-02-07 |  |
 | [Nuisance](https://open.spotify.com/track/5q0ONUVIBrSDJQ9oVm3Pfy) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Nuisance](https://open.spotify.com/album/6EjSHl2ylT9SkunuiVyzAD) | 2:29 | 2023-05-03 | 2023-06-08 |
 | [Nuisance](https://open.spotify.com/track/7BaVEmehdQyvN8NRPgmvCf) | [patrick witkowski](https://open.spotify.com/artist/7HJpZQHIHSb77KBLnGfc1c) | [Nuisance](https://open.spotify.com/album/1COdkPw9vuWFxbbu6tVb0q) | 2:19 | 2023-03-01 | 2023-04-13 |
 | [Nullify](https://open.spotify.com/track/2wg36E0bVFuJIq7ZeKF3a8) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Nullify](https://open.spotify.com/album/2shB83IkSApaMd4D1h7OaQ) | 3:19 | 2022-06-29 | 2022-09-09 |
@@ -1049,6 +1055,7 @@
 | [Space Between](https://open.spotify.com/track/7ezR3iLnJuTb6ziFUJHWeL) | [Lone Wild](https://open.spotify.com/artist/4SzkqHtkUhzUw37EP7Rxdd) | [Space Between](https://open.spotify.com/album/7ujM6DZxGNLJNgVWpaA7iA) | 3:37 | 2022-10-19 | 2022-12-01 |
 | [Speaking In Tongues](https://open.spotify.com/track/1w0W9lLBKPzXOXSfBouKop) | [In The Pines](https://open.spotify.com/artist/3KQoZQIHTfe9FsMMRuw9S6) | [Painting By Numbers](https://open.spotify.com/album/0Tu8sQkAEgOPCDTPBMzZZP) | 4:01 | 2023-11-08 |  |
 | [Special](https://open.spotify.com/track/5cguM5xFmj0CLWZTycYxUp) | [Lindsay Coulson](https://open.spotify.com/artist/4Ez7b0CUctOsgdPgDBSimI) | [Special](https://open.spotify.com/album/1846fEX7cXPjEd7YuH8dwV) | 3:32 | 2022-08-24 | 2023-01-12 |
+| [Speed Freak](https://open.spotify.com/track/4fQOkwVQq2nD2JXMMKFg8X) | [Grazia](https://open.spotify.com/artist/4tcHXoy77cX7v2yHLkG1Xd) | [In Poor Taste](https://open.spotify.com/album/0oMT4DHBmYID7DiUEYxYFH) | 2:07 | 2024-02-07 |  |
 | [Spice It Up](https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Spice It Up](https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ) | 2:26 | 2023-08-02 | 2023-11-30 |
 | [Spiral](https://open.spotify.com/track/192dXdVrtl5jRdfbCWfv5k) | [Madam Bombs](https://open.spotify.com/artist/2fbXad6V1vzVbsCL7o1nfV) | [Spiral](https://open.spotify.com/album/3AwFtLV4QVt7LeUNIfAnuU) | 3:32 | 2023-01-18 | 2023-03-02 |
 | [spiral](https://open.spotify.com/track/7M0dr4u7mOvBXZchosvilZ) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [spiral](https://open.spotify.com/album/7B5kjHvuXhUU54QdVuA1ry) | 2:15 | 2023-08-30 |  |
@@ -1283,6 +1290,7 @@
 | [WW3](https://open.spotify.com/track/7cL0pp1OpgcAUQfS2CsQ23) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k), [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [WW3](https://open.spotify.com/album/27Q8KrXPXir8nSlqZfMB7h) | 2:32 | 2022-01-19 | 2022-05-05 |
 | [Y Grito](https://open.spotify.com/track/2QiVI7dnMfYXpL2FNIADTc) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Y Grito](https://open.spotify.com/album/09ehfTlTd3DS5c0F9G0suC) | 1:35 | 2022-09-15 | 2022-10-06 |
 | [Ya está](https://open.spotify.com/track/41xN0UCyKSPs4TI3h7x2S4) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [Ya está](https://open.spotify.com/album/0zJxxLy8lmxyrkUc9c7dzd) | 3:01 | 2021-12-01 | 2022-01-27 |
+| [Yes Please!](https://open.spotify.com/track/7GoZb3nes83ynwUOkxRmK5) | [SidePonies](https://open.spotify.com/artist/5KwKfaUL5Ha9ihmXDRYEB0) | [Yes Please!](https://open.spotify.com/album/7qT0HAYr3IlPyPPPyn5fIB) | 3:47 | 2024-02-07 |  |
 | [You Are](https://open.spotify.com/track/4c4CbNaQg5D37RpRRPhgNP) | [Dolly](https://open.spotify.com/artist/4xBWNa5eOmRdcoYQq7fHN4) | [You Are](https://open.spotify.com/album/22hSYeGyCk4qKF232zm69L) | 5:47 | 2024-01-10 |  |
 | [You Follow Me Around](https://open.spotify.com/track/6TFGjO5tVnsRw2ChX7vRoW) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [You Follow Me Around](https://open.spotify.com/album/6ZtLLPauGWJcMjuHBd8Ky6) | 3:30 | 2022-08-10 | 2022-09-29 |
 | [You Got It Wrong](https://open.spotify.com/track/78Df5S1oNTw2XfTKHTurvK) | [Strange Weekend](https://open.spotify.com/artist/61OWA8ENPgxw6Tnsd6HezZ) | [You Got It Wrong](https://open.spotify.com/album/6gcSYRh1A9yejzlrlbX2nM) | 2:47 | 2022-09-21 | 2022-12-01 |

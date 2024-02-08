@@ -4,7 +4,7 @@
 
 > Beautifully dark, dramatic tracks.
 
-216 songs - 14 hr 32 min
+220 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,12 +19,14 @@
 | [Baiulus](https://open.spotify.com/track/2eHP1tEq6DFVqJslJPPLSF) | [The Black Atlantic](https://open.spotify.com/artist/33kge1mmCkHoYWJ4kJe6BC) | [Reverence for Fallen Trees](https://open.spotify.com/album/0H2OGCb81F0iGqu9e18CF8) | 1:33 | 2022-05-30 | 2022-07-18 |
 | [Beautiful Hell](https://open.spotify.com/track/1DlbCKscf5uSlVpbKYVxOS) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Beautiful Hell](https://open.spotify.com/album/6xTzNBU5ayQKPQeIrhNKV8) | 2:56 | 2021-10-22 | 2022-07-29 |
 | [Beautiful Hell](https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Run, Lucifer](https://open.spotify.com/album/1uL86W2jobgxHMrJEGdAal) | 2:56 | 2022-07-11 |  |
-| [Beautiful Undone](https://open.spotify.com/track/3v8V9sj0bGB4xNtAWvdyNO) | [Laura Doggett](https://open.spotify.com/artist/2lFvv8FA5ersMzaJyvmeae) | [Into the Glass \- EP](https://open.spotify.com/album/5ZH8smBHtaFy4NLDAOW7of) | 3:23 | 2021-10-22 |  |
+| [Beautiful Undone](https://open.spotify.com/track/3v8V9sj0bGB4xNtAWvdyNO) | [Laura Doggett](https://open.spotify.com/artist/2lFvv8FA5ersMzaJyvmeae) | [Into the Glass \- EP](https://open.spotify.com/album/5ZH8smBHtaFy4NLDAOW7of) | 3:23 | 2021-10-22 | 2024-02-08 |
 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 | 2022-07-11 |  |
 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 | 2021-10-22 | 2022-07-29 |
 | [Berlin](https://open.spotify.com/track/123W7snVRuONLwn2uMdJB3) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Berlin EP](https://open.spotify.com/album/2d90pcby1VFHjXUGYJNBJc) | 2:50 | 2021-10-22 | 2022-07-29 |
 | [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 | 2022-07-11 |  |
+| [Big Black Car](https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:37 | 2024-02-07 |  |
 | [Big Sky](https://open.spotify.com/track/6CoVyYMT1M7S9DBRYp8HJL) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:32 | 2022-07-11 | 2024-01-11 |
+| [Blood](https://open.spotify.com/track/2nkAjiZKgqEtcezjXypwmV) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Big Sigh](https://open.spotify.com/album/5eoEqqiZy86YGeZvI2f1ST) | 3:49 | 2024-02-07 |  |
 | [Bohemia](https://open.spotify.com/track/3adH7bPUudZAZ3XDRpwJni) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z) | [Aetherlight](https://open.spotify.com/album/4qaVL3I4xyHF9qq98dmPHc) | 5:15 | 2022-07-11 |  |
 | [Bohemia](https://open.spotify.com/track/7AjdSYX4mOZbm721s7v3CR) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z) | [Bohemia](https://open.spotify.com/album/2KV7amKA0MnelY85jfdd4N) | 5:15 | 2021-10-22 | 2022-07-29 |
 | [Bones](https://open.spotify.com/track/2iddHfAqBKMJkXerLA9F9I) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Bones EP](https://open.spotify.com/album/6px8K9UGkJZ3gDzxsPGUyl) | 4:25 | 2022-07-11 |  |
@@ -46,10 +48,10 @@
 | [Crush \- Stripped](https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/10fYQ1V2fQb9JVTFFdr5TA) | 3:49 | 2022-07-11 |  |
 | [Crush \- Stripped](https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw) | 3:49 | 2021-10-22 | 2022-10-13 |
 | [Dark](https://open.spotify.com/track/4wP7eUgKyufHkps0BuqcTc) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Old Flint](https://open.spotify.com/album/3JEkU3iACus81448Un3ew4) | 5:07 | 2021-10-22 | 2022-06-14 |
-| [Dark](https://open.spotify.com/track/61KJrjXrNooCvc65CkSuTk) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Old Flint](https://open.spotify.com/album/35ydoAPPXGrPv88ho8teqo) | 5:07 | 2023-05-26 |  |
+| [Dark](https://open.spotify.com/track/61KJrjXrNooCvc65CkSuTk) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Old Flint](https://open.spotify.com/album/35ydoAPPXGrPv88ho8teqo) | 5:07 | 2023-05-26 | 2024-02-08 |
 | [Dark Matter](https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Dark Matter](https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO) | 4:36 | 2021-11-22 | 2023-09-23 |
 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 | 2021-10-22 |  |
-| [Deliverance](https://open.spotify.com/track/0lTmVz7A8YJM2fI9k1iMcV) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 3:50 | 2022-07-11 |  |
+| [Deliverance](https://open.spotify.com/track/0lTmVz7A8YJM2fI9k1iMcV) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 3:50 | 2022-07-11 | 2024-02-08 |
 | [Depraved](https://open.spotify.com/track/0V1YLLguekkTID9Jd89ww2) | [Mammals](https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3) | [Animalia](https://open.spotify.com/album/7E90fKPdXwRGjvaiEQU6m2) | 3:53 | 2022-07-11 |  |
 | [Depraved](https://open.spotify.com/track/0yxnp7SJtce7IeyKP53dsE) | [Mammals](https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3) | [Animalia](https://open.spotify.com/album/2lrQzGKTFCTK9QY7B1JNS8) | 3:53 | 2021-10-22 | 2022-07-29 |
 | [Devil Like Me](https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z) | 3:08 | 2021-10-22 | 2023-03-04 |
@@ -60,7 +62,7 @@
 | [Devil's Spoke](https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [I Speak Because I Can](https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1) | 3:38 | 2022-07-11 |  |
 | [Distrust](https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Hollowed out Sea](https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A) | 3:33 | 2021-10-22 | 2023-10-24 |
 | [Don't Forget About Me](https://open.spotify.com/track/4gVZhkcsZcwQ4mU1gEeXEO) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [XIII](https://open.spotify.com/album/6gAsOoMZVH5HwQWFBnIWcm) | 4:28 | 2022-07-11 |  |
-| [Don't Know Who I Am](https://open.spotify.com/track/0BlWn4ZadRmT6Ksnvzc7Jp) | [Rebecca Roubion](https://open.spotify.com/artist/1eaYzzk8AQ47QxLjCI3ck2) | [Sleepless Nights](https://open.spotify.com/album/2qnldWV2h89LcrnAeb3X04) | 2:20 | 2022-07-11 |  |
+| [Don't Know Who I Am](https://open.spotify.com/track/0BlWn4ZadRmT6Ksnvzc7Jp) | [Rebecca Roubion](https://open.spotify.com/artist/1eaYzzk8AQ47QxLjCI3ck2) | [Sleepless Nights](https://open.spotify.com/album/2qnldWV2h89LcrnAeb3X04) | 2:20 | 2022-07-11 | 2024-02-08 |
 | [Don't Know Who I Am](https://open.spotify.com/track/4fTB0sYbuUSyfW1VX6bF5D) | [Rebecca Roubion](https://open.spotify.com/artist/1eaYzzk8AQ47QxLjCI3ck2) | [Sleepless Nights](https://open.spotify.com/album/3psaH8k5UJuYqIKrJqenMC) | 2:20 | 2021-10-22 | 2022-07-29 |
 | [Don't You Cry For Me](https://open.spotify.com/track/6fhEYtnORqxaEoxSrMH2bx) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Don't You Cry For Me](https://open.spotify.com/album/4TjQW7GIImS6INJyhjuANs) | 4:16 | 2022-07-11 |  |
 | [Dream State...](https://open.spotify.com/track/3gTK6H0XBeViYvo9TGJ5V5) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 3:30 | 2022-07-11 |  |
@@ -79,6 +81,7 @@
 | [Fight For Life](https://open.spotify.com/track/3Hd8w9C1pU2zBFohcndEfw) | [El Perro del Mar](https://open.spotify.com/artist/0bnwha8WPTU2sf4Q4P6vE0) | [Fight For Life](https://open.spotify.com/album/05TrqScxJZ8iWLgQWGPsEB) | 4:10 | 2021-10-22 | 2022-07-29 |
 | [Fire of Love](https://open.spotify.com/track/4lnAR9AH0WZoRUNsOgwHXd) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [Fire of Love](https://open.spotify.com/album/2FXiYzdQcU5btMt1BfK9UL) | 4:40 | 2022-07-11 |  |
 | [Fire of Love](https://open.spotify.com/track/58Wk9WXpOiObwEC9yHTQkp) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [A Pretty Place to Fall Apart](https://open.spotify.com/album/277q9Arz8WB6wq9b1vRuxD) | 4:40 | 2021-10-22 | 2022-07-28 |
+| [Funeral](https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:52 | 2024-02-07 |  |
 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 | 2022-07-11 |  |
 | [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 | 2021-10-22 | 2022-07-29 |
 | [Glory](https://open.spotify.com/track/5rMea4Gu5db0qb1c6TfGIh) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Doves & Ravens](https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf) | 3:42 | 2021-10-22 |  |
@@ -98,6 +101,7 @@
 | [How Come You Never Go There](https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 3:24 | 2022-07-11 |  |
 | [Hush](https://open.spotify.com/track/3bb0LediTuPlmgVUJqq447) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Hush](https://open.spotify.com/album/3xX7LI0JGsHRXcSycsWBAi) | 2:35 | 2021-10-22 | 2022-07-29 |
 | [Hymnal](https://open.spotify.com/track/4dSi4VGaDAeknj8E5Q30ZP) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:26 | 2021-10-22 | 2022-06-10 |
+| [I Always Wanna Die \(Sometimes\)](https://open.spotify.com/track/7iPlcFvOMOzt6v0QvcAueZ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 5:14 | 2024-02-07 |  |
 | [I Can't Go on Without You](https://open.spotify.com/track/1OtGo99uypkRbMqshBVFnn) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [I Can't Go on Without You](https://open.spotify.com/album/1tZtANVlcwG88Rkdj5dR73) | 6:17 | 2021-10-22 | 2022-07-14 |
 | [I Can't Go on Without You](https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 6:17 | 2022-07-11 |  |
 | [I Feel Your Love \- Director's Cut](https://open.spotify.com/track/2H1dRtNUitddC5lt07W3Pp) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie \(Director's Cut\)](https://open.spotify.com/album/2hGp4zeWcLdeQ0iq7Uj52Q) | 2:53 | 2022-07-11 | 2022-11-13 |

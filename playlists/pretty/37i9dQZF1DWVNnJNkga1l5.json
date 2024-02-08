@@ -1,12 +1,12 @@
 {
   "description": "Canciones inolvidables para darle un toque dulce a tus comidas.",
-  "num_followers": 142435,
+  "num_followers": 142452,
   "original_name": "Cocina con Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2Y5YTlhOGQ0MGY5Y2Y1NDA0Mjg3YmFmODUwZWRhNmRiZGQ1ZDZm",
+  "snapshot_id": "MCw0ZDIzMDdlOWFhNGFhY2I0YjhhNDFhOGE1YTY5Mjg4ZGZlNDAzNjQ1",
   "tracks": [
     {
       "added_at": "2023-09-01 15:27:11",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-09-01 15:27:11",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
-    },
-    {
-      "added_at": "2023-09-01 15:27:11",
-      "album": {
         "name": "Destino Paraiso - 25th Anniversary Edition (Remastered)",
         "url": "https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 308880,
       "name": "Mi Historia Entre Tus Dedos - Remastered 2020",
       "url": "https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g"
+    },
+    {
+      "added_at": "2023-09-01 15:27:11",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2023-09-01 15:27:11",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-09-01 15:27:11",
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "Tan Enamorados",
-      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
-    },
-    {
-      "added_at": "2023-09-01 15:27:11",
-      "album": {
         "name": "En Total Plenitud",
         "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 228920,
       "name": "\u00bfA D\u00f3nde Vamos A Parar?",
       "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
+    },
+    {
+      "added_at": "2023-09-01 15:27:11",
+      "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Tan Enamorados",
+      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
     },
     {
       "added_at": "2023-09-01 15:27:11",

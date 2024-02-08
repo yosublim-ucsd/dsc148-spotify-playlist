@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: ÄTNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,196 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,193 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 27 | [The Silence](https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [The Silence](https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL) | 4:23 |
 | 28 | [Keine Tränen](https://open.spotify.com/track/03ClGz3IWepPxLcVlGSC5Q) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Keine Tränen](https://open.spotify.com/album/6omnE7nYZCSFSkbTFTVSqR) | 2:11 |
 | 29 | [sirens](https://open.spotify.com/track/5lehSTwJVN2ed0VawpFZF3) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [sirens](https://open.spotify.com/album/3FwlJZOsRiHYUdR7Iqp5Ca) | 3:08 |
-| 30 | [Fight Club](https://open.spotify.com/track/0FEFxWAXIdiOmoYUunbvmM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Fight Club](https://open.spotify.com/album/4Iz5KATqaPjcE8HxlwsHB6) | 3:37 |
+| 30 | [Fight Club](https://open.spotify.com/track/5UupaLxMiJS0dk06AldUGH) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:37 |
 | 31 | [nicht nachmachen!!](https://open.spotify.com/track/3gro2tfkybWGoK9MflVLWs) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:29 |
 | 32 | [Blaue Stunde](https://open.spotify.com/track/3hdluTsPx0vbVdLZsZPE2K) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Blaue Stunde](https://open.spotify.com/album/10L1i38qodCnhxdvg7LxQZ) | 3:17 |
 | 33 | [Paula](https://open.spotify.com/track/5WgCx3Lcq48Vj2kJUYmK8I) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Paula](https://open.spotify.com/album/751dH1KYjFvLpraxTQ64nS) | 3:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 59 | [Lipsticks & Heartbreaks](https://open.spotify.com/track/5WX5hHwiJnFx9IIcCKxWWP) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Lipsticks & Heartbreaks](https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc) | 2:10 |
 | 60 | [Paranoid](https://open.spotify.com/track/0HMqKvy71TIbFMZP573ggQ) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Complex Happenings Reduced To A Simple Design](https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF) | 3:16 |
 
-Snapshot ID: `MCxkMjQzNzRjM2UyMjY5ZmI2Y2I0M2ExMDRmMDUwYmJlMDQxMzExYzUz`
+Snapshot ID: `MCxmNTQyNjM2OTMyMWQ1ODNkMzMwYWVjMDY2Y2Y3Yzg2ODM3NzA2MGFj`

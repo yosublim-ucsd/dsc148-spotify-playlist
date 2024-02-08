@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTdmNjEzOTJiM2Q5YjliOThlNTYyYWU2OWFjMGRmY2E0YjNiZDA2",
+  "snapshot_id": "MCwxZTc0MjI1YjQ0OTY3ZDcwZDQyMDBiZjQxM2I0YTM5NzgxZWRhZWU1",
   "tracks": [
     {
       "added_at": "2023-12-15 19:29:49",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
+        "name": "ENTROP\u00cdA",
+        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 204181,
+      "name": "Dieznoches",
+      "url": "https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25"
+    },
+    {
+      "added_at": "2023-12-15 19:29:49",
+      "album": {
         "name": "Love to Keep Me Warm",
         "url": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 158133,
       "name": "Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
-    },
-    {
-      "added_at": "2023-12-15 19:29:49",
-      "album": {
-        "name": "ENTROP\u00cdA",
-        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 204181,
-      "name": "Dieznoches",
-      "url": "https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25"
     },
     {
       "added_at": "2023-12-15 19:29:49",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 223231,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h"
-    },
-    {
-      "added_at": "2023-12-15 19:29:49",
-      "album": {
         "name": "Cuatro Estaciones",
         "url": "https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 223231,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h"
+    },
+    {
+      "added_at": "2023-12-15 19:29:49",
+      "album": {
         "name": "Romances",
         "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
       },
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
-        "name": "I'll Be Home For Christmas",
-        "url": "https://open.spotify.com/album/1ykaX41VLZd7U0sxa33csX"
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
         }
       ],
-      "duration_ms": 178427,
-      "name": "I'll Be Home For Christmas",
-      "url": "https://open.spotify.com/track/6SiKqI0vm3N5NBjdgM2V9m"
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/1mn1vm47Qm3h91kgNRmXf0"
     },
     {
       "added_at": "2023-12-15 19:29:49",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+        "name": "I'll Be Home For Christmas",
+        "url": "https://open.spotify.com/album/1ykaX41VLZd7U0sxa33csX"
       },
       "artists": [
         {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 197653,
-      "name": "Ribbons",
-      "url": "https://open.spotify.com/track/1mn1vm47Qm3h91kgNRmXf0"
+      "duration_ms": 178427,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/6SiKqI0vm3N5NBjdgM2V9m"
     },
     {
       "added_at": "2023-12-15 19:29:49",

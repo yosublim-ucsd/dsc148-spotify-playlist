@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > sparkling, shimmery synth pop ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,760 likes - 90 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,808 likes - 90 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 89 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 |
 | 90 | [Treat Me Right](https://open.spotify.com/track/6NkOdTkgyQk5fSEtwGYpE6) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/03hafzXxELqD67fD1siVhS) | 3:08 |
 
-Snapshot ID: `MCwxOTQ5N2U4YmMwNjIyZWJmYjZkNTBkZTIxZDI1NDJhZjlhMjJhYTg0`
+Snapshot ID: `MCw0ZWE4MWZhMmI1YzE0NTBhNGIzYWNkOGU5ZjFhYmYxMDc1Y2Y5MWJm`

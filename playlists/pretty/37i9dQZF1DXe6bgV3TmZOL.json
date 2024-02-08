@@ -1,12 +1,12 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2354766,
+  "num_followers": 2355357,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDkxNzQ4OGIzNmQyZTJlNTkzODQ1N2ViYjNmMzRjNzNiYWMyYWI0",
+  "snapshot_id": "MCwzZjI5ZTQ0ZDM2MTA3ZGQ5ZWE2ZWZiMTE4YTU1MGU4ZWYwMTA0YWIw",
   "tracks": [
     {
       "added_at": "2024-01-19 09:25:39",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "Asking Alexandria",
-        "url": "https://open.spotify.com/album/6NVy2LKa43nSPUOMrL4NW6"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 245861,
-      "name": "Alone In A Room",
-      "url": "https://open.spotify.com/track/5Gw8owErJLfkNxWCSwPQKJ"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
         "name": "House of Gold & Bones, Part 1",
         "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 229840,
       "name": "Absolute Zero",
       "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
+        "name": "Asking Alexandria",
+        "url": "https://open.spotify.com/album/6NVy2LKa43nSPUOMrL4NW6"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 245861,
+      "name": "Alone In A Room",
+      "url": "https://open.spotify.com/track/5Gw8owErJLfkNxWCSwPQKJ"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -599,38 +599,6 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "ATTENTION ATTENTION",
-        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "DEVIL",
-      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
-        "name": "The Oracle (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Cryin' Like A Bitch!!",
-      "url": "https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
         "name": "Dysfunction",
         "url": "https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w"
       },
@@ -647,18 +615,34 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "TEKKNO",
-        "url": "https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg"
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
       },
       "artists": [
         {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
         }
       ],
-      "duration_ms": 177626,
-      "name": "Tekkno Train",
-      "url": "https://open.spotify.com/track/1XK0SrwnujLMZv22WjVQU9"
+      "duration_ms": 304373,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
+        "name": "ATTENTION ATTENTION",
+        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "DEVIL",
+      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -679,22 +663,18 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+        "name": "TEKKNO",
+        "url": "https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
         }
       ],
-      "duration_ms": 239863,
-      "name": "Werewolf (feat. Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP"
+      "duration_ms": 177626,
+      "name": "Tekkno Train",
+      "url": "https://open.spotify.com/track/1XK0SrwnujLMZv22WjVQU9"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -711,6 +691,26 @@
       "duration_ms": 283400,
       "name": "Psychosocial",
       "url": "https://open.spotify.com/track/2MvIMgtWyK88OiPi0J8Dg3"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 239863,
+      "name": "Werewolf (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -763,6 +763,38 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
+        "name": "Lifelines",
+        "url": "https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 181426,
+      "name": "Come And Get It",
+      "url": "https://open.spotify.com/track/44M12pkcMqqdbNNooHCZ6C"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
+        "name": "The Oracle (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Cryin' Like A Bitch!!",
+      "url": "https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
         "name": "Crooked Teeth",
         "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
       },
@@ -775,38 +807,6 @@
       "duration_ms": 227847,
       "name": "Born For Greatness",
       "url": "https://open.spotify.com/track/5NFXaR31k0gmII07w6OJIt"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 304373,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
-        "name": "Mutter",
-        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Feuer frei!",
-      "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -827,34 +827,18 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "Lifelines",
-        "url": "https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ"
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
       },
       "artists": [
         {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 181426,
-      "name": "Come And Get It",
-      "url": "https://open.spotify.com/track/44M12pkcMqqdbNNooHCZ6C"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
-        "name": "Ego Trip",
-        "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "Kill The Noise",
-      "url": "https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9"
+      "duration_ms": 188600,
+      "name": "Feuer frei!",
+      "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -923,6 +907,22 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9"
       },
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG"
+        "name": "Ego Trip",
+        "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
       },
       "artists": [
         {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P"
+      "duration_ms": 188127,
+      "name": "Kill The Noise",
+      "url": "https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "The Phantom Tomorrow",
-        "url": "https://open.spotify.com/album/1gK7Mty8m7UALXxoQhLOaD"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 217279,
-      "name": "Scarlet Cross",
-      "url": "https://open.spotify.com/track/098MjOfQMOjxqKkoewErxV"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
         "name": "Violent Allies",
         "url": "https://open.spotify.com/album/34nWFoHeBOhMZG7iC4AAtW"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 180691,
       "name": "The Shift",
       "url": "https://open.spotify.com/track/4kRDWcWcBlkcQNoWyWSkTg"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
+        "name": "The Phantom Tomorrow",
+        "url": "https://open.spotify.com/album/1gK7Mty8m7UALXxoQhLOaD"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        }
+      ],
+      "duration_ms": 217279,
+      "name": "Scarlet Cross",
+      "url": "https://open.spotify.com/track/098MjOfQMOjxqKkoewErxV"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "Outsider",
-        "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "Infra-Red",
-      "url": "https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
         "name": "Gravity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 223653,
       "name": "Letting You Go",
       "url": "https://open.spotify.com/track/4h7Sc2UWOxz07UmQ60kQNQ"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
+        "name": "Outsider",
+        "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "Infra-Red",
+      "url": "https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z"
     },
     {
       "added_at": "2024-01-19 09:25:39",

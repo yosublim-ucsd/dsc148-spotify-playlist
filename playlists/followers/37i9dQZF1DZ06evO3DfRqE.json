@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 7486,
+  "2024-02-08": 7489,
   "date_first_scraped": "2024-01-30",
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
   "name": "This Is Jake Shimabukuro",
@@ -145,7 +145,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 148295,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/3vas0K5wl8kr7IiphLlWR0"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 165373,
       "name": "\u30ec\u30c3\u30c4\u30fb\u30c0\u30f3\u30b9 - Solo",
       "url": "https://open.spotify.com/track/4OtasHlPr3hKhb8HEIruK1"

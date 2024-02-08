@@ -153,7 +153,7 @@
 | [Overjoyed](https://open.spotify.com/track/45PnHB5hvvieNVYE5UnGKa) | [Dozed Again](https://open.spotify.com/artist/3vOFXxcfuGSZQKpj6Ueinf) | [Overjoyed](https://open.spotify.com/album/3GIwh9JOwT3dvcoWlc6uwR) | 2:00 | 2023-12-22 |  |
 | [Oysterz](https://open.spotify.com/track/2TdkjlncY2p0VM4HxavJY9) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [ramen noodles](https://open.spotify.com/album/4HCYUlbLLPHu0Jo4UCvxLx) | 2:21 | 2023-09-08 |  |
 | [Pacifica](https://open.spotify.com/track/1Rapts1uOPuU1vqwmbWIKR) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Pacifica](https://open.spotify.com/album/5s7hqTgpaYuNqiG4klTBYw) | 2:38 | 2022-04-22 |  |
-| [Pajamas](https://open.spotify.com/track/2m7cPIPwClFt9haB2kux3z) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Pajamas](https://open.spotify.com/album/0OFcSExDd2DVi2K8l9V5gh) | 2:57 | 2022-04-22 |  |
+| [Pajamas](https://open.spotify.com/track/2m7cPIPwClFt9haB2kux3z) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Pajamas](https://open.spotify.com/album/0OFcSExDd2DVi2K8l9V5gh) | 2:57 | 2022-04-22 | 2024-02-08 |
 | [Palette](https://open.spotify.com/track/52A1HqtgXF8ZFKTbX7UpFr) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Palette](https://open.spotify.com/album/0tuhaoSXp16EvvWykkE7fy) | 2:23 | 2023-09-29 |  |
 | [Past Bedtime](https://open.spotify.com/track/4kCS9oguhIvt2d50M0Gj3Q) | [HollyDave](https://open.spotify.com/artist/0fwfq3m3px40mSeOdDPVnJ) | [Past Bedtime](https://open.spotify.com/album/3qZ3lO3W6gWE1004dR6zky) | 2:05 | 2023-09-29 |  |
 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 | 2022-04-22 |  |
@@ -239,7 +239,7 @@
 | [Yahooee](https://open.spotify.com/track/1Ou9wBe9oTjj4Seohu0Vvf) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Yahooee](https://open.spotify.com/album/5z9Clk4g8ToC3tuU0yPQ13) | 2:18 | 2023-10-20 |  |
 | [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 | 2022-04-22 | 2023-04-12 |
 | [yessir](https://open.spotify.com/track/11NYe41SBy23zohFN71kWG) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [yessir](https://open.spotify.com/album/7veQs0lvhiRabih5eXsSp7) | 2:12 | 2024-01-05 |  |
-| [Zen Garden](https://open.spotify.com/track/7qxegYMSSDPWUzoYwuRyGP) | [TheDewk](https://open.spotify.com/artist/5gnerJQeC6DOhWziTjPITZ) | [Zen Garden](https://open.spotify.com/album/4xQA5eeimIihBD6lVHqy6U) | 2:45 | 2022-04-22 | 2024-02-06 |
+| [Zen Garden](https://open.spotify.com/track/7qxegYMSSDPWUzoYwuRyGP) | [TheDewk](https://open.spotify.com/artist/5gnerJQeC6DOhWziTjPITZ) | [Zen Garden](https://open.spotify.com/album/4xQA5eeimIihBD6lVHqy6U) | 2:45 | 2022-04-22 |  |
 | [Zero Kid](https://open.spotify.com/track/2KqytWnOq1LQiIdcQo9F6o) | [Cade Farrow](https://open.spotify.com/artist/5TQdkMfx0iTM2E4esccYaL) | [Zero Kid](https://open.spotify.com/album/2xmauxQf9b99OJKrppq6lb) | 2:19 | 2022-04-22 | 2023-09-09 |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

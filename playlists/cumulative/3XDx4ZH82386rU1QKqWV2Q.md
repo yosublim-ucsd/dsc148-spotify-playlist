@@ -4,12 +4,13 @@
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-492 songs - 21 hr 8 min
+494 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$ix $ix](https://open.spotify.com/track/4b3gJ7fIKeo5Q3v5OSp9Ta) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [$ix $ix](https://open.spotify.com/album/6jKq9Avinx5yz7MzcPHPRG) | 1:52 | 2023-06-18 | 2023-12-14 |
 | [2 BOOTED UP](https://open.spotify.com/track/7LRei4DObsFFS9NQ4lAg18) | [CP](https://open.spotify.com/artist/4yyJIkmo80mhEQXr8DF2ub) | [2 BOOTED UP](https://open.spotify.com/album/13QHvU7s824sK7bvV8j8Di) | 1:41 | 2023-08-19 | 2023-09-26 |
+| [2000](https://open.spotify.com/track/3vUMN9hezWjBac9UE8xkVd) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Sace](https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA) | [2000](https://open.spotify.com/album/5qd5jaq5RmAtYWKdD6IXF8) | 1:39 | 2024-02-07 |  |
 | [5% Tint X Creature](https://open.spotify.com/track/5gSvWWrkhOAwpcVB1Kbqwz) | [CedanVibe](https://open.spotify.com/artist/7zmqrvVAIRY3qS1AL8gfqP) | [5% Tint X Creature](https://open.spotify.com/album/4ZUIKfKaAWiH9hFa8RXkAC) | 2:11 | 2023-06-12 |  |
 | [6 AM DVRST DONT SLEEP](https://open.spotify.com/track/2GgXoqyM55AhiA59xaLqMK) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [6 AM DVRST DONT SLEEP](https://open.spotify.com/album/7wNCyZvay4Ul1WEYVdYbpb) | 3:37 | 2023-07-13 | 2023-08-20 |
 | [8ight Grxm](https://open.spotify.com/track/1FKnis6hEyVxmh5fcIte3h) | [BLXRRY](https://open.spotify.com/artist/2CueQhUpJ26IOAQkl2wiTH) | [8ight Grxm](https://open.spotify.com/album/78MUfk9JmedE2soPpVwDYe) | 1:54 | 2023-12-08 | 2024-01-14 |
@@ -233,6 +234,7 @@
 | [Keraunos](https://open.spotify.com/track/5ZKyj00XSlmEoKnDGH4JZa) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Keraunos](https://open.spotify.com/album/4NlCk3xPB0LE5Ab9UwSK7A) | 2:24 | 2023-06-12 |  |
 | [Keraunos Killer](https://open.spotify.com/track/2rdSnAJHaASxsC8EwGaM7i) | [4WHEEL](https://open.spotify.com/artist/40Teyg4qSzR04DzHpPP0o6) | [Keraunos Killer](https://open.spotify.com/album/76lI16y0j41xwPVpbYGT0V) | 2:07 | 2023-06-12 |  |
 | [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 | 2023-06-12 |  |
+| [Kerosene \- Slowed](https://open.spotify.com/track/2weO22kObPnyX1jKQStb40) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Kerosene \(Slowed\)](https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf) | 2:22 | 2024-02-07 |  |
 | [KEROSENE PHONK](https://open.spotify.com/track/0J2r17bLiJix2C9K9ZPGWy) | [Rushex](https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti) | [KEROSENE PHONK](https://open.spotify.com/album/1qlY2jln5YqeUqQX3T0GCx) | 1:55 | 2023-08-05 | 2023-09-26 |
 | [Ketamine Chic](https://open.spotify.com/track/0G6aak7tRrd7g4L66IrSLq) | [Maison2500](https://open.spotify.com/artist/4LM7PNYtQtrHXnfQYr16mx) | [Karmic Effect](https://open.spotify.com/album/2vu5m4qJmDHttnfWJrUqfr) | 2:20 | 2023-08-03 | 2023-08-20 |
 | [KickeR](https://open.spotify.com/track/6CunnKbNLM61RSfAyMO7bd) | [Processor](https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp), [Keep The Weak](https://open.spotify.com/artist/2P3qSSjzQtpfpcBSZmdvJT) | [KickeR](https://open.spotify.com/album/7waVPlDxkcNbKfzwpcztry) | 2:51 | 2023-12-08 | 2024-01-09 |

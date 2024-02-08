@@ -1,12 +1,12 @@
 {
   "description": "Todos los artistas del Corona Capital en una sola playlist!",
-  "num_followers": 150656,
+  "num_followers": 150663,
   "original_name": "Corona Capital Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2Q2ZmRlZWJiZjFhN2E2NzhjNGQ1MjE0YjlmNzVhZTFhNWIzYTJk",
+  "snapshot_id": "MCxmYWUxNGU0OWVhMDJkZDJmOTBlNGQ1NjVlMmFhNjk5NDQyOTc1NmMx",
   "tracks": [
     {
       "added_at": "2023-11-16 01:16:27",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-01-11 03:07:10",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 128198,
-      "name": "Washing Machine Heart",
-      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
-    },
-    {
-      "added_at": "2024-01-11 03:07:10",
-      "album": {
         "name": "Freaks",
         "url": "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 147062,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
+    },
+    {
+      "added_at": "2024-01-11 03:07:10",
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
     },
     {
       "added_at": "2024-01-11 03:07:10",
@@ -825,26 +825,6 @@
       "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
     },
     {
-      "added_at": "2024-01-11 03:07:10",
-      "album": {
-        "name": "Nothing Happens",
-        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Are You Bored Yet? (feat. Clairo)",
-      "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
-    },
-    {
       "added_at": "2023-11-16 01:16:27",
       "album": {
         "name": "I met you when I was 18. (the playlist)",
@@ -859,6 +839,22 @@
       "duration_ms": 197436,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
+    },
+    {
+      "added_at": "2023-12-08 02:10:07",
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"
     },
     {
       "added_at": "2024-01-11 03:07:10",
@@ -877,20 +873,24 @@
       "url": "https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng"
     },
     {
-      "added_at": "2023-12-08 02:10:07",
+      "added_at": "2024-01-11 03:07:10",
       "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+        "name": "Nothing Happens",
+        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 197200,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"
+      "duration_ms": 178000,
+      "name": "Are You Bored Yet? (feat. Clairo)",
+      "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
     },
     {
       "added_at": "2024-01-11 03:07:10",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-12-08 02:10:07",
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "American Idiot",
-      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
-    },
-    {
-      "added_at": "2023-12-08 02:10:07",
-      "album": {
         "name": "Pray for the Wicked",
         "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 190946,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": "2023-12-08 02:10:07",
+      "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
     },
     {
       "added_at": "2023-12-08 02:10:07",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
     },
     {
-      "added_at": "2024-01-11 03:07:10",
-      "album": {
-        "name": "Favourite Worst Nightmare (Standard Version)",
-        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "505",
-      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
-    },
-    {
       "added_at": "2023-11-16 01:16:27",
       "album": {
         "name": "minor",
@@ -1231,6 +1215,22 @@
       "duration_ms": 167538,
       "name": "I miss you, I\u2019m sorry",
       "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
+    },
+    {
+      "added_at": "2024-01-11 03:07:10",
+      "album": {
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "505",
+      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
     },
     {
       "added_at": "2023-12-08 02:10:07",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/2Co0IjcLTSHMtodwD4gzfg"
     },
     {
-      "added_at": "2024-01-11 03:07:10",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
       "added_at": "2023-12-08 02:10:07",
       "album": {
         "name": "Dua Lipa (Deluxe)",
@@ -1303,6 +1287,22 @@
       "duration_ms": 217946,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
+    },
+    {
+      "added_at": "2024-01-11 03:07:10",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2023-12-08 02:10:07",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-12-08 02:10:07",
       "album": {
-        "name": "Sam's Town",
-        "url": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "When You Were Young",
-      "url": "https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU"
-    },
-    {
-      "added_at": "2023-12-08 02:10:07",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 302840,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
+    },
+    {
+      "added_at": "2023-12-08 02:10:07",
+      "album": {
+        "name": "Sam's Town",
+        "url": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "When You Were Young",
+      "url": "https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU"
     },
     {
       "added_at": "2023-12-08 02:10:07",
@@ -1585,22 +1585,6 @@
       "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
     },
     {
-      "added_at": "2023-12-08 02:10:07",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
-    },
-    {
       "added_at": "2024-01-11 03:07:10",
       "album": {
         "name": "Bangerz (Deluxe Version)",
@@ -1647,6 +1631,22 @@
       "duration_ms": 230760,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
+    },
+    {
+      "added_at": "2023-12-08 02:10:07",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     }
   ],
   "unique_name": "Corona Capital Forever",

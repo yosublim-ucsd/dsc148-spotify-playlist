@@ -4,7 +4,7 @@
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-68 songs - 4 hr 32 min
+69 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,12 +42,12 @@
 | [Kung 'Di Rin Lang Ikaw](https://open.spotify.com/track/2BgD4nRyx9EZ5o8YEnjRSV) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kung 'Di Rin Lang Ikaw](https://open.spotify.com/album/15ufxdU6r8niuSmA9nu3ly) | 4:27 | 2023-10-20 | 2023-12-16 |
 | [Kung 'Di Rin Lang Ikaw](https://open.spotify.com/track/2KjZEVkRS7wStfRygdRnso) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 4:27 | 2023-12-08 |  |
 | [Kung Wala Ka](https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk) | 4:02 | 2023-10-20 |  |
-| [Kursunada](https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Kursunada](https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA) | 2:59 | 2023-10-20 | 2024-02-03 |
-| [Lackin'](https://open.spotify.com/track/7C6lV2MBF9SsQfNzb6hWUW) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX) | 2:59 | 2023-12-08 |  |
+| [Kursunada](https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Kursunada](https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA) | 2:59 | 2023-10-20 |  |
+| [Lackin'](https://open.spotify.com/track/7C6lV2MBF9SsQfNzb6hWUW) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX) | 2:59 | 2023-12-08 | 2024-02-08 |
 | [Leaves](https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Leaves](https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y) | 5:10 | 2023-10-20 |  |
 | [Ligaw](https://open.spotify.com/track/6Jtx63cJDsRG0V4e2C4mIZ) | [KINDRED](https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1) | [Subset](https://open.spotify.com/album/6pIzG9sq6QRBqfCBY0deTB) | 4:04 | 2023-11-10 | 2023-12-09 |
 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 | 2023-10-20 |  |
-| [lito](https://open.spotify.com/track/4FT7mRLMG9vwTDuKpYK6n5) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lito](https://open.spotify.com/album/4CagZ4J1OLFu1dEVGmdstr) | 3:03 | 2023-12-08 |  |
+| [lito](https://open.spotify.com/track/4FT7mRLMG9vwTDuKpYK6n5) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lito](https://open.spotify.com/album/4CagZ4J1OLFu1dEVGmdstr) | 3:03 | 2023-12-08 | 2024-02-08 |
 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 | 2023-10-20 |  |
 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 | 2023-10-20 |  |
 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 | 2023-12-08 |  |
@@ -61,6 +61,7 @@
 | [Pasensya Ka Na](https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Langit\. Luha.](https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn) | 4:01 | 2023-10-25 |  |
 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 | 2023-10-20 |  |
 | [Pity Ya](https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Pity Ya](https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4) | 3:12 | 2023-11-10 |  |
+| [Pulso](https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pulso](https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz) | 4:29 | 2024-02-07 |  |
 | [Rainbow](https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv) | [Episode III](https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX) | 5:47 | 2023-10-20 |  |
 | [Sa Susunod Na Lang](https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU) | [PDL](https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Sa Susunod Na Lang](https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq) | 3:34 | 2023-10-20 |  |
 | [Sa'yo](https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Monodramatic](https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib) | 4:13 | 2023-10-25 |  |

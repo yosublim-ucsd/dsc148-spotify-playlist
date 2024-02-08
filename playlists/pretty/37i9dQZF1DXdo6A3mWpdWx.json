@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Jennifer Lopez.",
-  "num_followers": 781909,
+  "num_followers": 782522,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2QwYzExMDczNGZkZGY0YTMyZTU2MzBmM2ZkOTIwN2MxNGJhM2I3",
+  "snapshot_id": "MCwzMDlhZTMxNjdlZWZkMDliNmRiN2U3YzAzMzk3OTY4MWEzODIzMmFh",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "Spice Up Your Life",
-      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Saturday Night Single",
         "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 247405,
       "name": "Saturday Night - Radio Mix",
       "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Spice Up Your Life",
+      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Movin' Melodies",
-        "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
-      },
-      "artists": [
-        {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "9Pm (Till I Come)",
-      "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 290493,
       "name": "Hey Boy Hey Girl",
       "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Movin' Melodies",
+        "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "9Pm (Till I Come)",
+      "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Get Ready",
-        "url": "https://open.spotify.com/album/6NhL15fEltVRFpld3hvaWV"
-      },
-      "artists": [
-        {
-          "name": "2 Unlimited",
-          "url": "https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC"
-        }
-      ],
-      "duration_ms": 222911,
-      "name": "Get Ready",
-      "url": "https://open.spotify.com/track/4tvOVmc2jorV20Z2hFDtDg"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "There Is a Party",
         "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
       },
@@ -1935,18 +1919,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Move Until We Fly",
-        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
+        "name": "Get Ready",
+        "url": "https://open.spotify.com/album/6NhL15fEltVRFpld3hvaWV"
       },
       "artists": [
         {
-          "name": "Nick Kamen",
-          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
+          "name": "2 Unlimited",
+          "url": "https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC"
         }
       ],
-      "duration_ms": 240773,
-      "name": "I Promised Myself",
-      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
+      "duration_ms": 222911,
+      "name": "Get Ready",
+      "url": "https://open.spotify.com/track/4tvOVmc2jorV20Z2hFDtDg"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1967,6 +1951,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Move Until We Fly",
+        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
+      },
+      "artists": [
+        {
+          "name": "Nick Kamen",
+          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "I Promised Myself",
+      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Experience: Expanded",
         "url": "https://open.spotify.com/album/4Ch1rT1sIURz12ZVKH0a4p"
       },
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Fiesta Macarena",
-        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
-      },
-      "artists": [
-        {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Macarena - Bayside Boys Remix",
-      "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 285106,
       "name": "I'm Every Woman",
       "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Fiesta Macarena",
+        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
+      },
+      "artists": [
+        {
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+        }
+      ],
+      "duration_ms": 252133,
+      "name": "Macarena - Bayside Boys Remix",
+      "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Whoomp! There It Is (Radio Edit)",
-        "url": "https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw"
-      },
-      "artists": [
-        {
-          "name": "Tag Team",
-          "url": "https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Whoomp! There It Is - Radio Edit",
-      "url": "https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Blacks' Magic",
         "url": "https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 213266,
       "name": "Let's Talk About Sex",
       "url": "https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Whoomp! There It Is (Radio Edit)",
+        "url": "https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw"
+      },
+      "artists": [
+        {
+          "name": "Tag Team",
+          "url": "https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Whoomp! There It Is - Radio Edit",
+      "url": "https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Born Slippy (Nuxx) [Radio Edit]",
-        "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 264187,
-      "name": "Born Slippy (Nuxx) - Radio Edit",
-      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/3iaUAs1zHrPBaYIpLmskEV"
       },
@@ -2323,18 +2307,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Cooleyhighharmony (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+        "name": "Born Slippy (Nuxx) [Radio Edit]",
+        "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
       },
       "artists": [
         {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
         }
       ],
-      "duration_ms": 235226,
-      "name": "Motownphilly",
-      "url": "https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8"
+      "duration_ms": 264187,
+      "name": "Born Slippy (Nuxx) - Radio Edit",
+      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2351,6 +2335,22 @@
       "duration_ms": 239733,
       "name": "Come Baby Come",
       "url": "https://open.spotify.com/track/2b8RCiPb2rtG5AQ1FwyUZX"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Cooleyhighharmony (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "Motownphilly",
+      "url": "https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8"
     },
     {
       "added_at": "2022-10-11 00:00:00",

@@ -4,7 +4,7 @@
 
 > Modern southern rock swagger served neat\. Cover: The Black Crowes
 
-223 songs - 13 hr 40 min
+225 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Can't Answer Why](https://open.spotify.com/track/3peVPF1U0EHzuiBjWkaffe) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Can't Answer Why](https://open.spotify.com/album/6gOxlXHNjjAuSkKmlZCoc3) | 3:11 | 2021-10-01 | 2022-09-23 |
 | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/track/2Q7MG9T0kCEEJmDpaKP4be) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Chris Robertson](https://open.spotify.com/artist/1GdMYXxQLiGQCdZZd153HL) | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/album/52SxUXwHjJNNBLvSlmbBjC) | 3:32 | 2021-07-16 |  |
 | [Caught Me at a Good Time](https://open.spotify.com/track/1d8vNPCq2S9pIpVuqliraI) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country Coming Down](https://open.spotify.com/album/3hYtvhC4TBoNfoWgtioNMR) | 2:49 | 2022-06-03 | 2023-01-06 |
-| [Change Of Heart](https://open.spotify.com/track/68DSsSVGCUwfEMeZI6xhxW) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Change Of Heart](https://open.spotify.com/album/35XgdqqbXM9OBWuApaiPJ3) | 4:03 | 2022-09-23 |  |
+| [Change Of Heart](https://open.spotify.com/track/68DSsSVGCUwfEMeZI6xhxW) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Change Of Heart](https://open.spotify.com/album/35XgdqqbXM9OBWuApaiPJ3) | 4:03 | 2022-09-23 | 2024-02-08 |
+| [Change Of Heart](https://open.spotify.com/track/7xagVKfjYQTAdzvtJHPdVc) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Strays](https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj) | 4:03 | 2024-01-12 |  |
 | [Closer](https://open.spotify.com/track/6DRsBCUxbmirsiGMEkdVNx) | [Sam Pounds](https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1) | [Closer](https://open.spotify.com/album/5dqV3q51EyjSbwhfUbmIBf) | 2:57 | 2023-05-12 |  |
 | [Cocaine](https://open.spotify.com/track/0MhzvrhKfjlhti3pL2p9HB) | [Moon Fever](https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u) | [Payphone Blues](https://open.spotify.com/album/78Wl4JpIDtW4q3vkn7pWXE) | 2:23 | 2022-06-14 | 2023-06-17 |
 | [Cocaine](https://open.spotify.com/track/6DSG9ihWXCPJPW7yt48jlP) | [Moon Fever](https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u) | [Cocaine](https://open.spotify.com/album/35YFgxErHUN6wKqsP0kQWH) | 2:23 | 2020-12-04 | 2022-07-29 |
@@ -212,7 +213,8 @@
 | [Tell Me Lies](https://open.spotify.com/track/2scIG4pnqvCStKHTZiWB0V) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:39 | 2020-08-21 | 2023-07-22 |
 | [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/2JVFcDHKmXvNJaaAVvxiOy) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/7kkh7fjvsHR8q5uxksS7ko) | 3:42 | 2021-10-22 | 2022-08-17 |
 | [The War Inside \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0AeKE6Cz7EPw9Eld1tJ6fz) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:49 | 2021-10-15 | 2022-10-08 |
-| [The Way I Am](https://open.spotify.com/track/4IWbCGhs0jqdts7HyqWtyM) | [The Weathered Souls](https://open.spotify.com/artist/0zJN9JGIfTEIiL8E58NDtI) | [The Way I Am](https://open.spotify.com/album/2GQ9yHFndyliRHDm8yri8v) | 4:08 | 2022-08-26 |  |
+| [The Way I Am](https://open.spotify.com/track/07Qr4JIqeMrjy4dnjn3cRE) | [The Weathered Souls](https://open.spotify.com/artist/0zJN9JGIfTEIiL8E58NDtI) | [The Way I Am](https://open.spotify.com/album/6l6XKRUp0RrjxR4jtNGfYH) | 4:08 | 2024-01-12 |  |
+| [The Way I Am](https://open.spotify.com/track/4IWbCGhs0jqdts7HyqWtyM) | [The Weathered Souls](https://open.spotify.com/artist/0zJN9JGIfTEIiL8E58NDtI) | [The Way I Am](https://open.spotify.com/album/2GQ9yHFndyliRHDm8yri8v) | 4:08 | 2022-08-26 | 2024-02-08 |
 | [The Well](https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Well](https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA) | 2:57 | 2020-08-21 | 2022-06-04 |
 | [The Wire](https://open.spotify.com/track/2jDgvn31FTHSYgTMavDv3v) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/0vyPTdAxmOLpOHHAkWJAa0) | 3:05 | 2021-09-14 | 2023-07-15 |
 | [Three Chords](https://open.spotify.com/track/2jgTCZyFY6ZqhyIcSwpuWk) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Three Chords](https://open.spotify.com/album/4ksvsvLoQ7DwjMwDS3Uyvt) | 3:47 | 2021-11-12 | 2022-06-04 |

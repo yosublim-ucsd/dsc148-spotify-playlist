@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,488 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,501 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 49 | [Danger](https://open.spotify.com/track/3XT9HuM3PYlkGOLKTyeStN) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Tyrone's Jacket](https://open.spotify.com/artist/5dxrfWzDmhPO4LJ3ESS70U) | [Iration](https://open.spotify.com/album/6XBN7JbqWczCIST7mmdkAx) | 3:59 |
 | 50 | [Livity \- Live Good](https://open.spotify.com/track/2a10XM3b3ZWWtqUqIu8pcw) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Heavy Roots](https://open.spotify.com/artist/4fEogLHgLSsp5ETlJCci09) | [Livity \(Live Good\)](https://open.spotify.com/album/4zN0oMDxghQ8yynY9teT8I) | 2:39 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA3YjMxYzYxZDAzZWNkMTVlMGZlNGY1OTIwOGE0NDliMA==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDBkZDU2YzVkY2Y4MzM0M2E0ODQxM2ZiZWMyYjlkNWI0Ng==`

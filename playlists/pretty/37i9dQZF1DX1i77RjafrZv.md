@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 
 > Les plus belles chansons d'amour de la variété française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,128 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,184 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 71 | [PS : Je t'aime](https://open.spotify.com/track/58FtNfnN5RrJ1ybhWntYuJ) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [PS : Je t'aime](https://open.spotify.com/album/7jHd7tLmgjtkLSzv84nVCy) | 2:53 |
 | 72 | [Hymne à l'amour](https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Triple Best Of](https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18) | 3:26 |
 | 73 | [Un point c'est toi](https://open.spotify.com/track/4F0VQWS8GDhJywfeQpca2v) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Zen](https://open.spotify.com/album/34GPTRygg7wzqFmRWjiKoa) | 3:30 |
-| 74 | [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 |
+| 74 | [Aimer \- Roméo & Juliette, Les enfants de Vérone](https://open.spotify.com/track/12x3erRdPdMLrCY4vPMLq1) | [Damien Sargue](https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO), [Joy Esther](https://open.spotify.com/artist/5yIbkMHQyrQ5eNWaFtlXpX) | [Roméo Et Juliette, Les enfants de Vérone](https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46) | 2:51 |
 | 75 | [Toi mon amour](https://open.spotify.com/track/1moFtJmSZHc8CwSkvGJ7kg) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf), [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Best Of \- Morceaux d’amour](https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce) | 3:40 |
 
-Snapshot ID: `MCxhZDNjMWIzMzRlZTY0ZjNiNGViYzhkYjlmYzBmMzc5ZDhiYTM5ZjNj`
+Snapshot ID: `MCxjZGE3MTU2ZTFkOWQ0NmZmMDllY2JjZjk0YTU4ZWI1YzYzNzk3MmIy`

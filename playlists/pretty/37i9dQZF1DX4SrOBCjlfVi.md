@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Don Toliver, YFN Lucci and more\. Cover: That Mexican OT & DaBaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,783 likes - 51 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,881 likes - 51 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [1st Of The Month](https://open.spotify.com/track/4bRJEAQgyFfRDvv8QAVWsx) | [TJ Porter](https://open.spotify.com/artist/3z3xPw2NyqrZgITJS0Xvs4), [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [1st Of The Month](https://open.spotify.com/album/3jWOfoZhLrSChZbwd3Gk8I) | 2:10 |
 | 51 | [Foundation](https://open.spotify.com/track/4tSOSkAuzN1ITh2M2l1Z7Z) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Foundation](https://open.spotify.com/album/3kAaQtrPZY7KpO6Y9hywOP) | 2:31 |
 
-Snapshot ID: `MCw0MjVlNDU1MjQ3M2M2YzBlMDUyMWFkY2E5YzQ0ZmZjYjc2YjQzZTQ2`
+Snapshot ID: `MCwzY2IwOGE0ZWU2ZjAzODNkOGMzM2E4OGUzYmMwOTM2Y2JkMjljYTcw`

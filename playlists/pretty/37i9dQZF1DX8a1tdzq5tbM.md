@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,476,958 likes - 120 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,477,267 likes - 120 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 80 | [Feel Your Love](https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s) | [Kim Sozzi](https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6) | [Just One Day](https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A) | 3:20 |
 | 81 | [Girlfriend \- 2008 Remix](https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Keylime](https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA) | [Girlfriend \(2008 Remix\)](https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9) | 7:15 |
 | 82 | [Heartbreak \- Radio Edit](https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5) | [M'Black](https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E) | [Heartbreak](https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7) | 3:41 |
-| 83 | [Fire](https://open.spotify.com/track/1lJUIg0FtOqApq4XPQqjrk) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Simon Le Bon](https://open.spotify.com/artist/4GNaWOK6CLMQOVajyjTJfj) | [L.E.F.](https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69) | 4:31 |
-| 84 | [Tracking Treasure Down](https://open.spotify.com/track/65UKBA32AVBzthOGP62D2U) | [Gabriel & Dresden](https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV), [Molly Bancroft](https://open.spotify.com/artist/63gq13UEULICfVjR1ynp0Q) | [50 Trance Tunes, Vol\. 28](https://open.spotify.com/album/4ooVWhCBr2esswUBS3eJcb) | 3:09 |
+| 83 | [Tracking Treasure Down](https://open.spotify.com/track/65UKBA32AVBzthOGP62D2U) | [Gabriel & Dresden](https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV), [Molly Bancroft](https://open.spotify.com/artist/63gq13UEULICfVjR1ynp0Q) | [50 Trance Tunes, Vol\. 28](https://open.spotify.com/album/4ooVWhCBr2esswUBS3eJcb) | 3:09 |
+| 84 | [Fire](https://open.spotify.com/track/1lJUIg0FtOqApq4XPQqjrk) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Simon Le Bon](https://open.spotify.com/artist/4GNaWOK6CLMQOVajyjTJfj) | [L.E.F.](https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69) | 4:31 |
 | 85 | [Army Of Two \- Radio Version](https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Beltek](https://open.spotify.com/artist/6J8msLSTRXnKJofhAMkWXG) | [Army Of Two](https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R) | 3:07 |
 | 86 | [Step One Two](https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Strobelite Seduction](https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y) | 3:20 |
 | 87 | [Love Don't Let Me Go \(Walking Away\) \(David Guetta vs\. The Egg\)](https://open.spotify.com/track/7BuynvoA4xIt9LIwqhLwRu) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [The Egg](https://open.spotify.com/artist/73nwTQUc9kA9vqGzGPsMkA) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:11 |
@@ -115,13 +115,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 105 | [Addiction](https://open.spotify.com/track/0S0oLaNHFt9XlwAVaGokCX) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Addiction](https://open.spotify.com/album/2E4geWmisAjMlWTQ6HcHRD) | 2:55 |
 | 106 | [Deep At Night \(Adam K & Soha Radio Mix\)](https://open.spotify.com/track/4ggVmEvo9FzExPonRRqqIS) | [Ercola](https://open.spotify.com/artist/3L3eVOR4ra6ZGpAta7xlGV), [Heikki L](https://open.spotify.com/artist/6H20zr0kwfiOnvem0vxQai) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 3:39 |
 | 107 | [Medicine](https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9) | [Kim Leoni](https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b) | [Medicine](https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey) | 2:49 |
-| 108 | [The Girl You Lost to Cocaine \- Sander van Doorn Edit](https://open.spotify.com/track/223Vmr6rEbuujhHLFpsgVj) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Girl You Lost To Cocaine](https://open.spotify.com/album/0psPpltnZMSDnU67ma2hID) | 3:00 |
-| 109 | [I Found U \- Radio Edit](https://open.spotify.com/track/1zzae0EZDDYYzoAplr5ldV) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [I Found U](https://open.spotify.com/album/4wP9UvfCSFH8Z95rCt1UjB) | 2:51 |
+| 108 | [I Found U \- Radio Edit](https://open.spotify.com/track/1zzae0EZDDYYzoAplr5ldV) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [I Found U](https://open.spotify.com/album/4wP9UvfCSFH8Z95rCt1UjB) | 2:51 |
+| 109 | [The Girl You Lost to Cocaine \- Sander van Doorn Edit](https://open.spotify.com/track/223Vmr6rEbuujhHLFpsgVj) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Girl You Lost To Cocaine](https://open.spotify.com/album/0psPpltnZMSDnU67ma2hID) | 3:00 |
 | 110 | [Make Your Move \- Radio Edit](https://open.spotify.com/track/2Ug4PnkxcwkcL3fhM0B9Xe) | [Dave Armstrong](https://open.spotify.com/artist/4wknbsqzOCI7g8xihM7QP7) | [Make Your Move](https://open.spotify.com/album/3dQXJeWW3lQVy5DiEK3vxV) | 2:51 |
 | 111 | [Baba O'Riley \(Radio Edit\)](https://open.spotify.com/track/31gTL5XTmcI4JCSglW5Sda) | [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 4:11 |
 | 112 | [I Can’t Help Myself \(feat\. Sophia May\) \- Radio Edit](https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx) | [Bellatrax](https://open.spotify.com/artist/0tHbQT6zoj3pYpn5QUJveE), [Sophia May](https://open.spotify.com/artist/5f2X43MBIQUucziUGfZbjg) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 3:28 |
-| 113 | [Crush \(Radio Edit\)](https://open.spotify.com/track/7mafch6fDbXB2on5mxijln) | [M'Black](https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E) | [Crush](https://open.spotify.com/album/6K69QEGsJ0M9KdDaewjDiA) | 3:25 |
-| 114 | [Put \`em Up](https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm) | [Edun](https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7) | [Put 'Em Up](https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr) | 3:31 |
+| 113 | [Put \`em Up](https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm) | [Edun](https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7) | [Put 'Em Up](https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr) | 3:31 |
+| 114 | [Crush \(Radio Edit\)](https://open.spotify.com/track/7mafch6fDbXB2on5mxijln) | [M'Black](https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E) | [Crush](https://open.spotify.com/album/6K69QEGsJ0M9KdDaewjDiA) | 3:25 |
 | 115 | [Summerfish \- Scandall Sunset On Ibiza Instrumental](https://open.spotify.com/track/2rVoUSkbUS0dbKrHkZN2mi) | [Leonid Rudenko](https://open.spotify.com/artist/5rFOQi6066JvXPMQWxB5BJ) | [Nervous Nitelife: Vegas](https://open.spotify.com/album/7wKLfPH7nZs3E7McMPFP62) | 5:57 |
 | 116 | [Star 69 \- Timo Maas Mix](https://open.spotify.com/track/1HYiVTgxERP2llm0yFzVNj) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Star 69](https://open.spotify.com/album/5Ek7bYGxRPFNoFZB71pTZJ) | 6:11 |
 | 117 | [Chemistry \- Radio Edit](https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe) | [Velvet](https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z) | [Chemistry](https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q) | 3:44 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 119 | [Me and Myself \(Wolfgang Gartner Radio Edit\)](https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV) | [Bendj Feat Sushy](https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 2:52 |
 | 120 | [Behind \- Callea Radio Mix](https://open.spotify.com/track/2hS4wCi2VAV8CdsLPnWIoD) | [Flanders](https://open.spotify.com/artist/70ZMFdCGEInTJ0z9KtXQ2u) | [Behind](https://open.spotify.com/album/2ZbVWuSdf3uR01YlBSH06M) | 3:40 |
 
-Snapshot ID: `MCw3YjgxNjFjYTNjMjUxMzZkY2I1NjIzYWEyNGY3YWZhOGU1NzdhYWQ3`
+Snapshot ID: `MCxhMDUzNGVmMWVlOWJkNGNjNWU3ZTQ5Y2ZmNmQwYzQ1YjZjMWRiNzc3`

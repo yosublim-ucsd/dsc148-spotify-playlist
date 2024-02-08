@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "KAWAII BUBBLY LOVELY II",
+        "url": "https://open.spotify.com/album/5hb8sYRXTaZWpOgb8JL84j"
+      },
+      "artists": [
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166378,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/4Sn3zbyHFDIeO9f8p46dNJ"
+    },
+    {
+      "album": {
         "name": "ROBIN HOOD STREET",
         "url": "https://open.spotify.com/album/160Dp7uGHyAp4BBuxtbv3c"
       },
@@ -454,6 +472,24 @@
       "duration_ms": 149185,
       "name": "AMENIMOMAKEZUKAZENIMAKASERU",
       "url": "https://open.spotify.com/track/0WJ0gb9szOUwNhTl7iuOl0"
+    },
+    {
+      "album": {
+        "name": "ROLLIN'045",
+        "url": "https://open.spotify.com/album/21gEDUAdr9aSA0E7AhMuqW"
+      },
+      "artists": [
+        {
+          "name": "OZROSAURUS",
+          "url": "https://open.spotify.com/artist/1W4pfxBYjbPax8ZaPo7NfZ"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293333,
+      "name": "AREA AREA",
+      "url": "https://open.spotify.com/track/33202CSup6OXNVVNDMmGp3"
     },
     {
       "album": {
@@ -796,7 +832,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 129556,
       "name": "Bikini Freestyle",
       "url": "https://open.spotify.com/track/07XmrQKnUdgutRECCeZCr1"
@@ -1321,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Combo",
+        "url": "https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166613,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
+    },
+    {
+      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/5XxPXPkvtnn215ClYgfwoh"
       },
@@ -1438,10 +1492,36 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 161543,
       "name": "DOSHABURI",
       "url": "https://open.spotify.com/track/3mYO2S7o4kpIXVnhtYHhLL"
+    },
+    {
+      "album": {
+        "name": "DOSHABURI (Remix)",
+        "url": "https://open.spotify.com/album/1niQ3Lv07r3c1hJiixXKKp"
+      },
+      "artists": [
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        },
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        },
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240175,
+      "name": "DOSHABURI - Remix",
+      "url": "https://open.spotify.com/track/1C0685pFZ12nvdKbKzQ6Of"
     },
     {
       "album": {
@@ -1482,6 +1562,24 @@
       "duration_ms": 178064,
       "name": "Drowning in Emotions - feat. C.O.S.A.",
       "url": "https://open.spotify.com/track/4HKWeFnvobD86PhDAnlgaF"
+    },
+    {
+      "album": {
+        "name": "Mi Yama",
+        "url": "https://open.spotify.com/album/5UuC4NqmG8DgGAzceRq5Xa"
+      },
+      "artists": [
+        {
+          "name": "Campanella",
+          "url": "https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169608,
+      "name": "DUDE",
+      "url": "https://open.spotify.com/track/57UtHttemgNKZ2PIu0jEnN"
     },
     {
       "album": {
@@ -1708,7 +1806,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 179266,
       "name": "FINE LINE (feat. Skaai) (Prod. uin)",
       "url": "https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY"
@@ -2179,6 +2277,28 @@
     },
     {
       "album": {
+        "name": "GO!!",
+        "url": "https://open.spotify.com/album/29T4LezOXJ6i9j0Fy2EQkf"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202093,
+      "name": "GO!!",
+      "url": "https://open.spotify.com/track/69cgQ078J6h7IxBXwJ0a7t"
+    },
+    {
+      "album": {
         "name": "GOLDEN ROUTE",
         "url": "https://open.spotify.com/album/7g8P5rDMl5Y0n5hSVYImn4"
       },
@@ -2371,6 +2491,24 @@
     },
     {
       "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/3lG4pSOV0ZP64t0W1Est7g"
+      },
+      "artists": [
+        {
+          "name": "DADA",
+          "url": "https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168148,
+      "name": "High School Dropout",
+      "url": "https://open.spotify.com/track/0Emfkvsmi5EheMWCuVD8Ts"
+    },
+    {
+      "album": {
         "name": "past & highway",
         "url": "https://open.spotify.com/album/5s9p2NhlUdBNnuEmVGudh1"
       },
@@ -2488,7 +2626,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 175041,
       "name": "Honto",
       "url": "https://open.spotify.com/track/78Fuh526biJNKyL2yedrGP"
@@ -2547,6 +2685,28 @@
     },
     {
       "album": {
+        "name": "Hot Rodder",
+        "url": "https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85"
+      },
+      "artists": [
+        {
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        },
+        {
+          "name": "Oddy lozy",
+          "url": "https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Hot Rodder",
+      "url": "https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD"
+    },
+    {
+      "album": {
         "name": "Boyhood",
         "url": "https://open.spotify.com/album/6yhxG10zFkBXMIRfvveRE6"
       },
@@ -2602,7 +2762,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 171255,
       "name": "I DONT KNOW",
       "url": "https://open.spotify.com/track/0o3cqGULoX8R5nWDnVnARk"
@@ -2984,6 +3144,24 @@
       "duration_ms": 187696,
       "name": "Kick Up",
       "url": "https://open.spotify.com/track/3GEZrXDyJGtcIo4kLLiF67"
+    },
+    {
+      "album": {
+        "name": "Kids Return",
+        "url": "https://open.spotify.com/album/3sG9iKn22dJKaTX2ZohHmf"
+      },
+      "artists": [
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193279,
+      "name": "Kids Return",
+      "url": "https://open.spotify.com/track/3JNBBQwg73CyGP1kbtkhZI"
     },
     {
       "album": {
@@ -3510,7 +3688,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 250950,
       "name": "Makuhari",
       "url": "https://open.spotify.com/track/6AaePXUruO3297PugyiDwT"
@@ -3598,7 +3776,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 169500,
       "name": "Marmot",
       "url": "https://open.spotify.com/track/5BE8nmeeVfLv3TmRMTilIl"
@@ -3978,7 +4156,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 163013,
       "name": "New World",
       "url": "https://open.spotify.com/track/5d0901OV306utjv7ALii1O"
@@ -4586,7 +4764,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 292186,
       "name": "Presence Remix",
       "url": "https://open.spotify.com/track/3SPoYmmSbA5wnAksRWFKEr"
@@ -4612,7 +4790,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 191711,
       "name": "Pretenders (feat. C.O.S.A., Yo-Sea)",
       "url": "https://open.spotify.com/track/0TsgdkNufYZ3Hgysxidxvh"
@@ -4732,7 +4910,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 146813,
       "name": "RANDO",
       "url": "https://open.spotify.com/track/7zzkmw6rUNfccb8GypmTzY"
@@ -4872,7 +5050,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 166828,
       "name": "reoccurring dream",
       "url": "https://open.spotify.com/track/4R8utTnT9vsFQQPSNbh1VX"
@@ -5034,7 +5212,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 190285,
       "name": "Satsutaba",
       "url": "https://open.spotify.com/track/2JbQuRLImqt8Z1nCK7SU51"
@@ -5096,7 +5274,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 187920,
       "name": "See You Again (Prod. KM)",
       "url": "https://open.spotify.com/track/3UBqo3b3Brb61ibj7cflbQ"
@@ -6056,7 +6234,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 269452,
       "name": "umi tsuki (feat. iri) (Prod. Chaki Zulu)",
       "url": "https://open.spotify.com/track/4bxgzMlcoQ21W7hcWr6v7k"
@@ -6559,6 +6737,28 @@
     },
     {
       "album": {
+        "name": "four",
+        "url": "https://open.spotify.com/album/2JcohoDUq5JPoIh2Zh3epv"
+      },
+      "artists": [
+        {
+          "name": "IO",
+          "url": "https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd"
+        },
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202457,
+      "name": "Your Breeze",
+      "url": "https://open.spotify.com/track/3LIzLU8TgbRgGM1QQlHM6V"
+    },
+    {
+      "album": {
         "name": "\u3053\u306e\u5bd2\u3044\u591c\u3060\u3051",
         "url": "https://open.spotify.com/album/3V67EkKSIr0tn93OBJ04ld"
       },
@@ -6998,7 +7198,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 226720,
       "name": "\u5fc3",
       "url": "https://open.spotify.com/track/4gPnGHTxsWl4Y3ki5syQR7"
@@ -7100,6 +7300,24 @@
       "duration_ms": 224005,
       "name": "\u7948\u308a | Welcome Back",
       "url": "https://open.spotify.com/track/7m1FHFuejMiBI14u4pCvcP"
+    },
+    {
+      "album": {
+        "name": "OZBUM\u3000\uff5eA:UN\uff5e",
+        "url": "https://open.spotify.com/album/7M3iOJlZFq85yCk0ZX5CzW"
+      },
+      "artists": [
+        {
+          "name": "OZROSAURUS",
+          "url": "https://open.spotify.com/artist/1W4pfxBYjbPax8ZaPo7NfZ"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283733,
+      "name": "\u8a3c\u62e0",
+      "url": "https://open.spotify.com/track/3dDcz87IGVQrhd0S5Strg3"
     },
     {
       "album": {

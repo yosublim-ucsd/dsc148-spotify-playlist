@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 
 > To all the 7abieb out there\. Cover: Tamer Hosny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,405 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,480 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 16 | [El Sabr Gamel \- الصبر جميل](https://open.spotify.com/track/3ST6FyGv2gHjpjm3hCkPon) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [El Sabr Gamel \(الصبر جميل\)](https://open.spotify.com/album/481bZ4bWvtGaKVaPzUytIi) | 4:59 |
 | 17 | [Albi Ya Albi](https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Albi Ya Albi](https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj) | 3:26 |
 | 18 | [Ader Akmel](https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ader Akmel](https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n) | 4:13 |
-| 19 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 |
-| 20 | [قصة حب \- نسخة شرقي](https://open.spotify.com/track/6ojYumgu8f7i15xshyg6Bj) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [قصة حب](https://open.spotify.com/album/2gHjRyeFIB4rji4JuChbGX) | 3:33 |
+| 19 | [قصة حب \- نسخة شرقي](https://open.spotify.com/track/6ojYumgu8f7i15xshyg6Bj) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [قصة حب](https://open.spotify.com/album/2gHjRyeFIB4rji4JuChbGX) | 3:33 |
+| 20 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 |
 | 21 | [Shou Helou](https://open.spotify.com/track/5tlP8y3s1iMDKOoDlN1xQT) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Shou Helou](https://open.spotify.com/album/2WKCgrvvYrEoxrmvdZPebP) | 3:31 |
 | 22 | [لحظة بعادك](https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [لحظة بعادك](https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd) | 3:41 |
 | 23 | [Aam Betaala' Feek](https://open.spotify.com/track/3vVEtCxtdwSSC1qz2rSHLW) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 9 \(Hassa Beek\)](https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz) | 3:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 59 | [Badi Yaha](https://open.spotify.com/track/3dpmAlNb8lCUkb6DdP5PIS) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Badi Yaha](https://open.spotify.com/album/4JufpYrvGOMvDk93nDUuHk) | 5:30 |
 | 60 | [La Ouyounik El Helwin](https://open.spotify.com/track/54PiwwEBUU3HANCnSFgDLM) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [La Ouyounik El Helwin](https://open.spotify.com/album/0HUfzmbrXGPAOOKxn2RbD2) | 3:42 |
 
-Snapshot ID: `MCw2MGFiNmI1YTYyZmMxODhlNzA5ZmNmZmU4YmE4ZjkxODQ3NDZhODdh`
+Snapshot ID: `MCwyZTNiMjE2ZjFhMzY5ZjhmMzUzMDgyM2I3NmFkZmZlNmRiNzA0NTBl`

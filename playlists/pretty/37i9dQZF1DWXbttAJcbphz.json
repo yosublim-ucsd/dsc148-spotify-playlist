@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 2010s. Cover: Jhen\u00e9 Aiko",
-  "num_followers": 1647773,
+  "num_followers": 1648492,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjdhZTY2MTE4OTBjZTcxZGE1Y2FhMWU1OWNkYjkxMmRhNjYwMGVk",
+  "snapshot_id": "MCw1MTRiZTBlNTEyNDRkNzlhZGM2ZWYxYzQwZTdhNWM3YjNjYzI5Mzg1",
   "tracks": [
     {
       "added_at": "2022-08-21 21:13:22",
@@ -151,22 +151,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -237,20 +237,24 @@
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
+      "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -317,24 +321,20 @@
       "url": "https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
+      "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 302346,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
       },
@@ -403,22 +387,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "C U Girl",
-        "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 129697,
-      "name": "C U Girl",
-      "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "Hot Pink",
         "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
@@ -431,6 +399,22 @@
       "duration_ms": 226986,
       "name": "Streets",
       "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "C U Girl",
+        "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 129697,
+      "name": "C U Girl",
+      "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -483,6 +467,38 @@
       "duration_ms": 222374,
       "name": "Girls Need Love (with Drake) - Remix",
       "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 302346,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 158420,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -551,22 +567,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 158420,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "The Lo-Fis",
         "url": "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
       },
@@ -597,6 +597,22 @@
       "url": "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
     },
     {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 249320,
+      "name": "Right My Wrongs",
+      "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
+    },
+    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "Sail Out",
@@ -615,22 +631,6 @@
       "duration_ms": 382760,
       "name": "Stay Ready (What A Life)",
       "url": "https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 249320,
-      "name": "Right My Wrongs",
-      "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -989,26 +989,6 @@
       "url": "https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP"
     },
     {
-      "added_at": "2022-08-21 23:21:50",
-      "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "Tadow",
-      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
-    },
-    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "Unapologetic (Deluxe)",
@@ -1043,6 +1023,26 @@
       "duration_ms": 213993,
       "name": "Trip",
       "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
+    },
+    {
+      "added_at": "2022-08-21 23:21:50",
+      "album": {
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "Tadow",
+      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1501,22 +1501,6 @@
       "url": "https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 212787,
-      "name": "I Want You Around",
-      "url": "https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "Late Nights: The Album",
@@ -1535,6 +1519,22 @@
       "duration_ms": 240320,
       "name": "Planez",
       "url": "https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 212787,
+      "name": "I Want You Around",
+      "url": "https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1"
     },
     {
       "added_at": "2020-10-02 17:39:19",

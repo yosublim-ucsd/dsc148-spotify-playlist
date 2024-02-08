@@ -4,7 +4,7 @@
 
 > Música para insubordinados\. Idles en portada.
 
-147 songs - 7 hr 54 min
+148 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Revolución en 32 versos](https://open.spotify.com/track/2IpIhUpVuQTsIseaQ4z7G0) | [Chico Jorge](https://open.spotify.com/artist/5RlSgVslS8qQuHh3a1GQNd) | [Revolución en 32 versos](https://open.spotify.com/album/6hIwZvUQkppY4xBoxjwXWs) | 2:47 | 2022-03-25 | 2023-11-25 |
 | [Rise Up](https://open.spotify.com/track/3wEKXWiYq3h4MCDJZiny0S) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Rise Up](https://open.spotify.com/album/6eDKKi7HgzlGQQM8F67og7) | 3:16 | 2024-01-31 |  |
 | [Rotura](https://open.spotify.com/track/4MNwrAigvEocVgWDGxkS10) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Rotura](https://open.spotify.com/album/7hBTPDVJPbi2Igtfv9dphz) | 3:36 | 2023-06-23 |  |
-| [Sabinal](https://open.spotify.com/track/6GdjcejLIYstjDTS111tKR) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/2VW2Arzox2JddtDvguuUU1) | 2:16 | 2023-06-23 |  |
+| [Sabinal](https://open.spotify.com/track/6GdjcejLIYstjDTS111tKR) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/2VW2Arzox2JddtDvguuUU1) | 2:16 | 2023-06-23 | 2024-02-08 |
+| [Sabinal](https://open.spotify.com/track/7paWGmYSmpkjG8WL7uQtjt) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/0b0mXtRM4QGRVvnpJO4FoA) | 2:16 | 2024-02-02 |  |
 | [Say It If You Mean It](https://open.spotify.com/track/3291tPBAOx7pH5rcP9Adoj) | [Tsunami Bomb](https://open.spotify.com/artist/5oNVC8oAZ9Tmhnx5kLihgC) | [The Ultimate Escape](https://open.spotify.com/album/3qsUeo8pudOL4jri4YSzET) | 3:18 | 2023-09-23 |  |
 | [ser feliz](https://open.spotify.com/track/4unFzO0xTe39Ni2sd0EXEI) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [ser feliz](https://open.spotify.com/album/55c6HMx99ZGqkCoyAeN6hF) | 3:40 | 2022-03-25 | 2023-09-24 |
 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 | 2023-11-24 |  |

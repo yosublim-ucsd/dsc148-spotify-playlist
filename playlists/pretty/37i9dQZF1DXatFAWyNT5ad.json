@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: Knox",
-  "num_followers": 133064,
+  "num_followers": 133134,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2QyNjBjYzE3MzIyYWEwMGQ2ZWI3Y2Y0NGJjZjhiZDc0NmFjMjU4",
+  "snapshot_id": "MCxmMzcwZTJmODlhMjhkZWY0Y2E0MjQ2ZWY5NjU5ZmQ3MjVkYjcwYmZl",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "club heaven",
-        "url": "https://open.spotify.com/album/119D6p9ScXWYQxWLMv99yn"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 131937,
-      "name": "club heaven",
-      "url": "https://open.spotify.com/track/1nO6DT2QIYTxwLGrfQvIt3"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Bleed",
         "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 145454,
       "name": "Bleed",
       "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "club heaven",
+        "url": "https://open.spotify.com/album/119D6p9ScXWYQxWLMv99yn"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 131937,
+      "name": "club heaven",
+      "url": "https://open.spotify.com/track/1nO6DT2QIYTxwLGrfQvIt3"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Faith In The Future (Deluxe)",
-        "url": "https://open.spotify.com/album/2RMzjdvRjr9gd2XgS5PnEn"
-      },
-      "artists": [
-        {
-          "name": "Louis Tomlinson",
-          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
-        }
-      ],
-      "duration_ms": 137973,
-      "name": "Out Of My System",
-      "url": "https://open.spotify.com/track/4QU579S6uCG9vWaHUeGnLp"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Love and Other Lies",
         "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 143500,
       "name": "Dress",
       "url": "https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Faith In The Future (Deluxe)",
+        "url": "https://open.spotify.com/album/2RMzjdvRjr9gd2XgS5PnEn"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "duration_ms": 137973,
+      "name": "Out Of My System",
+      "url": "https://open.spotify.com/track/4QU579S6uCG9vWaHUeGnLp"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "i\u2019m too pretty for this",
-        "url": "https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 166037,
-      "name": "i'm too pretty for this",
-      "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Further Joy",
         "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 197040,
       "name": "Barely on My Mind",
       "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "i\u2019m too pretty for this",
+        "url": "https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 166037,
+      "name": "i'm too pretty for this",
+      "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "How Have You Been?",
+        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 217146,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/45c4L5n0wh6KRv0SOf879S"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "I Hope I'm Not Sick",
         "url": "https://open.spotify.com/album/34jYFXH3ybEIklGpPGzJ9D"
       },
@@ -1671,6 +1687,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 182792,
+      "name": "dead inside",
+      "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Friend For Life (with Medium Build)",
         "url": "https://open.spotify.com/album/6QcE06gxBT4Son5ZgCzY0n"
       },
@@ -1687,22 +1719,6 @@
       "duration_ms": 210773,
       "name": "Friend For Life (with Medium Build)",
       "url": "https://open.spotify.com/track/7BE4sJl4U5kPpphtYCq086"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 182792,
-      "name": "dead inside",
-      "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1739,22 +1755,6 @@
       "duration_ms": 190651,
       "name": "Only Wanna Be With You",
       "url": "https://open.spotify.com/track/5i8v4dQ9Lfo0CmG7PU64Z2"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "How Have You Been?",
-        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 217146,
-      "name": "Morning Blue",
-      "url": "https://open.spotify.com/track/45c4L5n0wh6KRv0SOf879S"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Head in The Clouds",
-        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 175937,
-      "name": "Head in the Clouds",
-      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Never Be Yours",
         "url": "https://open.spotify.com/album/5kurSw80ftphOZwKYswRGZ"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 187615,
       "name": "Never Be Yours",
       "url": "https://open.spotify.com/track/5lSFXnuWpDpOv9unx2gwFr"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Head in The Clouds",
+        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        }
+      ],
+      "duration_ms": 175937,
+      "name": "Head in the Clouds",
+      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2127,18 +2127,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "wear your heart out",
-        "url": "https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu"
+        "name": "Little Like Hell",
+        "url": "https://open.spotify.com/album/3y2M76ZPDji9HWW9QoCvfY"
       },
       "artists": [
         {
-          "name": "Nightly",
-          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
         }
       ],
-      "duration_ms": 191287,
-      "name": "the feeling",
-      "url": "https://open.spotify.com/track/0FZoGTWJNMUYCzcJRXe5ny"
+      "duration_ms": 187804,
+      "name": "Little Like Hell",
+      "url": "https://open.spotify.com/track/3ws6O2EBzhEC1UPSOoxMfE"
     }
   ],
   "unique_name": "Pop Rock",

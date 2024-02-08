@@ -341,6 +341,32 @@
     },
     {
       "album": {
+        "name": "Ayyo Paapam Saaru (From \"G.O.A.T\")",
+        "url": "https://open.spotify.com/album/0tSIECdX2r07F9C5KZwYDc"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Leon James",
+          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
+        },
+        {
+          "name": "Suresh Banisetti",
+          "url": "https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304484,
+      "name": "Ayyo Paapam Saaru (From \"G.O.A.T\")",
+      "url": "https://open.spotify.com/track/2g1sN68s0gq9VFjbjTFUeq"
+    },
+    {
+      "album": {
         "name": "Atithi Devobhava (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4IfrN0wja84AWvgT68KCtX"
       },
@@ -1476,7 +1502,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 234933,
       "name": "Kadak",
       "url": "https://open.spotify.com/track/1VmQsqIS9WfA96ptWV200B"

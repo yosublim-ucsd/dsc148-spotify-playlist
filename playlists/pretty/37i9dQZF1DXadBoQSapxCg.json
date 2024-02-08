@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 308225,
+  "num_followers": 308251,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzY4NjZlZTE4MDg5MTUyZmIyOGM2MjI2MmEzNzdmMDFkM2U0ZGQ1",
+  "snapshot_id": "MCxkYTIyMGUwMGM4M2EwOGM1MjU0NDM2YTJjMTE5MWEyN2IyNzRlODI3",
   "tracks": [
     {
       "added_at": "2023-11-24 17:02:27",
@@ -827,26 +827,6 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "Tamb\u00e9m Quero",
-        "url": "https://open.spotify.com/album/6kW0t87Zimh1JKs91xnc2J"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        },
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        }
-      ],
-      "duration_ms": 216935,
-      "name": "Tamb\u00e9m Quero",
-      "url": "https://open.spotify.com/track/3bIVh3GF7hNqPpJYxzCcxU"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
         "name": "S",
         "url": "https://open.spotify.com/album/4d4AHMB5JSbeYRfRSd2AO8"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 211451,
       "name": "Ser",
       "url": "https://open.spotify.com/track/5fPop0vfmloMnDXZuYltB9"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
+        "name": "Tamb\u00e9m Quero",
+        "url": "https://open.spotify.com/album/6kW0t87Zimh1JKs91xnc2J"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        }
+      ],
+      "duration_ms": 216935,
+      "name": "Tamb\u00e9m Quero",
+      "url": "https://open.spotify.com/track/3bIVh3GF7hNqPpJYxzCcxU"
     },
     {
       "added_at": "2023-11-24 17:02:27",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "DISK",
-        "url": "https://open.spotify.com/album/7AlFDQgoQ3UOVhbdItG33T"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "DISK",
-      "url": "https://open.spotify.com/track/33IqDnVi4c8OkqlXM1iOkP"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
         "name": "Playlist Transante",
         "url": "https://open.spotify.com/album/5kU7Es6oEU01pfXhkG9YBS"
       },
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
+        "name": "DISK",
+        "url": "https://open.spotify.com/album/7AlFDQgoQ3UOVhbdItG33T"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "DISK",
+      "url": "https://open.spotify.com/track/33IqDnVi4c8OkqlXM1iOkP"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/3Bv66xBV6gxCjKFGl32aOJ"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "STR!PP3R",
-        "url": "https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 187050,
-      "name": "STR!PP3R",
-      "url": "https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
         "name": "Noite de Ver\u00e3o",
         "url": "https://open.spotify.com/album/1kfuU47zWJR5lNm0XdCYxd"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 253248,
       "name": "Noite de Ver\u00e3o",
       "url": "https://open.spotify.com/track/2dmOggzA39k4KF82uhLvjw"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
+        "name": "STR!PP3R",
+        "url": "https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "STR!PP3R",
+      "url": "https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj"
     },
     {
       "added_at": "2023-11-24 17:02:27",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
+        "name": "VemK",
+        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 185099,
+      "name": "Meia Noite",
+      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
         "name": "Sexflix",
         "url": "https://open.spotify.com/album/01FZhEDVPRXK8LnLRrkNYJ"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 175384,
       "name": "Sexflix",
       "url": "https://open.spotify.com/track/7iEDBUCkwn7ScwZ8A3oS5B"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
-        "name": "VemK",
-        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 185099,
-      "name": "Meia Noite",
-      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
     }
   ],
   "unique_name": "Rala e Rola",

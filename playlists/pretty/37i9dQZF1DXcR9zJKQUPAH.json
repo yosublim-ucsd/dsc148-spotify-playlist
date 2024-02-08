@@ -1,12 +1,12 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 146061,
+  "num_followers": 146096,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzc4NzNiN2IwNTIyMTUyNmJhZjY5N2EwMmUxMTdjZmY2N2E0M2Y0",
+  "snapshot_id": "MCwwNTJkMTFhMjFiMmY3NmM0YWQzMmFmMWZiYWU3NTJmZWJmMDkzNmQx",
   "tracks": [
     {
       "added_at": "2022-10-27 05:38:58",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 357357,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 324773,
       "name": "Smoke Signals",
       "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 357357,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Roy Pablo",
-        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
       },
       "artists": [
         {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
         }
       ],
-      "duration_ms": 172941,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW"
+      "duration_ms": 207679,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
+        "name": "Roy Pablo",
+        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
       },
       "artists": [
         {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
         }
       ],
-      "duration_ms": 207679,
-      "name": "Turn",
-      "url": "https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g"
+      "duration_ms": 172941,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Lighting Matches (Deluxe)",
-        "url": "https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Found What I've Been Looking For",
-      "url": "https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "LA DIVINE",
         "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 189506,
       "name": "So Tied Up",
       "url": "https://open.spotify.com/track/3msS7xaelR4Oa0n7IwHkgF"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Lighting Matches (Deluxe)",
+        "url": "https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Found What I've Been Looking For",
+      "url": "https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR"
     },
     {
       "added_at": "2022-10-27 05:38:58",

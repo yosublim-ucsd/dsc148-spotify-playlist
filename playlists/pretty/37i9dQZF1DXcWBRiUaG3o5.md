@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,580 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,539 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,24 +81,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 71 | [The Bride & The Bachelor](https://open.spotify.com/track/2UweSn50xGODUOhkKnjJf2) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp), [Tselmuun](https://open.spotify.com/artist/6SgSMPVHEWVFxEOZkXS6sh) | [Famous Men](https://open.spotify.com/album/3YDgMxaGS8vIlFKpbYfyqm) | 4:10 |
 | 72 | [Splintered](https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 4:10 |
 | 73 | [Juvenescence](https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok) | 3:50 |
-| 74 | [Young Bodies](https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Song Spells, No.1: Cedarsmoke](https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ) | 3:29 |
-| 75 | [Shadow Bloom](https://open.spotify.com/track/2XsCBK0PkNahS01K4VBYF9) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/21Akw9i98EXJbkYblXydmX) | 3:40 |
+| 74 | [Shadow Bloom](https://open.spotify.com/track/2XsCBK0PkNahS01K4VBYF9) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/21Akw9i98EXJbkYblXydmX) | 3:40 |
+| 75 | [Young Bodies](https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Song Spells, No.1: Cedarsmoke](https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ) | 3:29 |
 | 76 | [love \(aint always so good\)](https://open.spotify.com/track/7lY3juj1MLv4gjpRxkj27Z) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [the death of you & i \- EP](https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor) | 3:44 |
 | 77 | [Find a Way](https://open.spotify.com/track/7upud4NlWW4U4C0ngg84qU) | [Quiet Arrows](https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI) | [Year of the Cartographer](https://open.spotify.com/album/4xS4qxWSBVXOdqUaClBkW2) | 2:47 |
 | 78 | [Silk \(feat\. Thelma Plum\)](https://open.spotify.com/track/2smKkz9SSKxe16NuscYxq5) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX), [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Home](https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe) | 4:01 |
 | 79 | [The Moons Detriment](https://open.spotify.com/track/0tVGryiARVH5XuOM2S8Rn0) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu) | 2:35 |
-| 80 | [God I Hope This Year Is Better Than The Last](https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [God I Hope This Year Is Better Than the Last](https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL) | 3:56 |
-| 81 | [Bare](https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:54 |
+| 80 | [Bare](https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:54 |
+| 81 | [God I Hope This Year Is Better Than The Last](https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [God I Hope This Year Is Better Than the Last](https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL) | 3:56 |
 | 82 | [Can't Get My Head Around Loving You](https://open.spotify.com/track/7zZMiYg8kdGBEgXFjdMO6G) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [EP 3](https://open.spotify.com/album/4h25nu7FiDhAeSWHfOjGE9) | 3:21 |
 | 83 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 |
 | 84 | [Visions](https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:55 |
 | 85 | [Hummingbird](https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Hummingbird](https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD) | 5:17 |
 | 86 | [Stop Your Tears](https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi) | 5:38 |
-| 87 | [Howling Light](https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Year In The Kingdom](https://open.spotify.com/album/50UnH0t4AHlGSa1sqqxYAg) | 3:34 |
-| 88 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 |
-| 89 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
-| 90 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
-| 91 | [Catacombs](https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Tragedy Reel](https://open.spotify.com/album/5YYAGPTggoqXxidTTb7AgM) | 3:21 |
+| 87 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 |
+| 88 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
+| 89 | [Howling Light](https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Year In The Kingdom](https://open.spotify.com/album/50UnH0t4AHlGSa1sqqxYAg) | 3:34 |
+| 90 | [Catacombs](https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Tragedy Reel](https://open.spotify.com/album/5YYAGPTggoqXxidTTb7AgM) | 3:21 |
+| 91 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
 | 92 | [Sweet Return](https://open.spotify.com/track/5nLX5d1k44smyu9OT7tydf) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Sweet Return](https://open.spotify.com/album/3SVbamqXTzLhP9x6yDeHSK) | 2:15 |
 | 93 | [Dancefloor](https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 5:22 |
 | 94 | [Sang About It](https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Sang About It](https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ) | 2:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 99 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 |
 | 100 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
 
-Snapshot ID: `MCw4OWQyZGRjOTYyZGM4Y2E0ZTdjOGViOTgxMzRiYzNjZDI5ZTg4ZWQy`
+Snapshot ID: `MCw3ODBmZmEyN2UzNjdkZmUyOWMxMzhkM2FjMjEzYmJkOGVmZDA4OWE3`

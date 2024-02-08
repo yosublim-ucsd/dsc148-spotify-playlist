@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: FRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,190 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,195 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 17 | [Have This Dance](https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Have This Dance](https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5) | 3:34 |
 | 18 | [Survivor](https://open.spotify.com/track/6km2lJaj6prmDlrPnYQPzH) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Survivor](https://open.spotify.com/album/1SZfmTvRqaMEK8xS2sLcU1) | 3:10 |
 | 19 | [Catching Feelings](https://open.spotify.com/track/6EGAYAiK2k89dKJNKf5avd) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Catching Feelings](https://open.spotify.com/album/2sKFy4cK1BJygH0uFdo92M) | 2:46 |
-| 20 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
+| 20 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 |
 | 21 | [You're Still The One](https://open.spotify.com/track/3UwsdMZnmrLB7Tms4mJSs3) | [Sofie Winterson](https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg) | [You're Still The One](https://open.spotify.com/album/07bYmAUqno1xlFrQFJGIte) | 3:18 |
 | 22 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 |
 | 23 | [somebody's daughter](https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/04IWjF3yuXKw8kN8SiIiwk) | 2:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 74 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 |
 | 75 | [Hello](https://open.spotify.com/track/6kIl5WZtEdImIcEarhs9iZ) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW) | 3:34 |
 
-Snapshot ID: `MCw5ZWRiOGEyZTY0ZmNkNmQ4NzA2YjdlM2UyMjgzZWVjZGE3ZWJlM2Iz`
+Snapshot ID: `MCwzZTEzNTlhYTk2ZjRmOTQxMDExZTA4OTQxZTk3ZDBlZDg3OWU0YWQ1`

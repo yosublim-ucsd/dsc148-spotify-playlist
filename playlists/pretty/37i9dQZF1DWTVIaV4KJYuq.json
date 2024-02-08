@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 682088,
+  "num_followers": 682201,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTRiNTJjZDQyNmJlOGM3N2ZjZjhkZGUzYzExOGI1YWRhZTE2YzJk",
+  "snapshot_id": "MCxmZmNlMTE2ODY4YTcxODZkZTA5OGQ2ZTBiZjU5ZDEyNTM0NDMwZWMy",
   "tracks": [
     {
       "added_at": "2024-01-09 15:49:37",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For / my future",
-        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 212157,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "Every Breath You Take",
         "url": "https://open.spotify.com/album/4RkkQtMpaSid30o3fieIlH"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 223893,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/5xvAGovFqj41SyAinwvwVV"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For / my future",
+        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 212157,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/3Q2vDJ86mDQYcvOcd5sWwn"
+      },
+      "artists": [
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/3dqUv6E7L24BDImpGJWYGL"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "The Essential The Chicks",
-        "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "7\" Singles",
         "url": "https://open.spotify.com/album/46QQwFMdIzeLyBfIeQrqYp"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 206896,
       "name": "This Must Be the Place (Naive Melody) [by Talking Heads]",
       "url": "https://open.spotify.com/track/7nSomK5Wrh8KWUCJbluEgo"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "The Essential The Chicks",
+        "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 255675,
-      "name": "If It Makes You Happy",
-      "url": "https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 229574,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 255675,
+      "name": "If It Makes You Happy",
+      "url": "https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Right Down the Line",
-        "url": "https://open.spotify.com/album/6muAMiiU4vXRCckuoT29Dl"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 206508,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/4zcnVd6AAUtklIm1F2LruM"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "A Case of You",
         "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
       },
@@ -1599,6 +1599,22 @@
       "duration_ms": 190110,
       "name": "A Case of You",
       "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "Right Down the Line",
+        "url": "https://open.spotify.com/album/6muAMiiU4vXRCckuoT29Dl"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 206508,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/4zcnVd6AAUtklIm1F2LruM"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1707,6 +1723,26 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        },
+        {
+          "name": "The Chapin Sisters",
+          "url": "https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM"
+        }
+      ],
+      "duration_ms": 230813,
+      "name": "Unchained Melody (feat. The Chapin Sisters)",
+      "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
       },
@@ -1735,26 +1771,6 @@
       "duration_ms": 222008,
       "name": "You Don't Know How It Feels",
       "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        },
-        {
-          "name": "The Chapin Sisters",
-          "url": "https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM"
-        }
-      ],
-      "duration_ms": 230813,
-      "name": "Unchained Melody (feat. The Chapin Sisters)",
-      "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1831,22 +1847,6 @@
       "duration_ms": 224666,
       "name": "More Than a Woman",
       "url": "https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
-        "name": "A Whiter Shade of Pale",
-        "url": "https://open.spotify.com/album/2cT21JKia9DgqhvdakdHfC"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 285428,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/0b5LFCOeFZfVlX0gxLTDaW"
     }
   ],
   "unique_name": "Classic Covers",

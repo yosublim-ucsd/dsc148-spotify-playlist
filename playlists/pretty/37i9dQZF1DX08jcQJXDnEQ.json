@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 982475,
+  "num_followers": 983122,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGMzOTdlODNiYTUyOWE5YTI5Y2IyYzM4MTQzMzg3ZjQ1MmVmNzMw",
+  "snapshot_id": "MCw0MGJiZDFlMWY2NTA5ZWYxNGY5YzFlZmY5M2RlMDkwNDZlMzBhMjgw",
   "tracks": [
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Lights...Camera...Revolution",
-        "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Tendencies",
-          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
-        }
-      ],
-      "duration_ms": 348093,
-      "name": "You Can't Bring Me Down",
-      "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "The Downward Spiral",
         "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 178640,
       "name": "March Of The Pigs",
       "url": "https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Lights...Camera...Revolution",
+        "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "duration_ms": 348093,
+      "name": "You Can't Bring Me Down",
+      "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 259866,
-      "name": "Midlife Crisis",
-      "url": "https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Spit",
         "url": "https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 239066,
       "name": "Charlotte",
       "url": "https://open.spotify.com/track/6KNhbezV7aXC06dCpNFFVo"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 259866,
+      "name": "Midlife Crisis",
+      "url": "https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Fear of the Dark (2015 Remaster)",
-        "url": "https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 351026,
-      "name": "Wasting Love (2015 Remaster)",
-      "url": "https://open.spotify.com/track/5VR7R8L5MivClO1VxZdZFx"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Album of the Year",
         "url": "https://open.spotify.com/album/15eiCGvldXlDbIz9ZQLmw6"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 217333,
       "name": "Ashes to Ashes",
       "url": "https://open.spotify.com/track/0FxRbTtlo8AutEbifokqGf"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 351026,
+      "name": "Wasting Love (2015 Remaster)",
+      "url": "https://open.spotify.com/track/5VR7R8L5MivClO1VxZdZFx"
     },
     {
       "added_at": "2023-03-01 15:25:34",

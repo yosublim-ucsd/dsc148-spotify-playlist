@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,365 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,347 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 10 | [\(There's No Place Like\) Home for the Holidays \- 1954 Version](https://open.spotify.com/track/5mKxNjNnRFpO9Muzw3Ug0u) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:51 |
 | 11 | [Caroling, Caroling](https://open.spotify.com/track/11Z7sdkpC5IaaydoIvDn74) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:01 |
 | 12 | [Jingle Bells \(feat\. The Puppini Sisters\)](https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 2:39 |
-| 13 | [I'll Be Home for Christmas](https://open.spotify.com/track/5PCS7feLWXvEsp5s5fSpXe) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:28 |
-| 14 | [Warm In December \- Edit](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December \(Edit\)](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 |
+| 13 | [Warm In December \- Edit](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December \(Edit\)](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 |
+| 14 | [I'll Be Home for Christmas](https://open.spotify.com/track/5PCS7feLWXvEsp5s5fSpXe) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:28 |
 | 15 | [White Christmas](https://open.spotify.com/track/14QJl6TD0xnKl26NkTVez2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:38 |
 | 16 | [Christmas In New Orleans](https://open.spotify.com/track/280jC1bGyGtZq3VXsSk6hH) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:55 |
 | 17 | [\(Everybody's Waitin' For\) The Man With The Bag \- Remastered 1996](https://open.spotify.com/track/2UA49yZYjwyhKqGH3hPIih) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Ultra\-Lounge: Christmas Cocktails](https://open.spotify.com/album/6dJBEVFDu7iW0k5VFFA53t) | 2:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 69 | [The Last Day of the Year](https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 5:05 |
 | 70 | [Christmas Never Gets Old](https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 2:42 |
 
-Snapshot ID: `MCxmODU1MDIwZGRhMmNiYzlmNGEyMGQ2MDBmMGMxZjhiZTg1NGU4MTc3`
+Snapshot ID: `MCxlYzk2YTc5OTQ0NjMwODdjMThjNzZjOWNmZDcyOWQ4YzIyNDhjOTU3`

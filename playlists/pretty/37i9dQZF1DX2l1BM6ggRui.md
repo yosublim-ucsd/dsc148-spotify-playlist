@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,431 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,444 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 48 | [A\-MOONO\-KE \(I’m OK\)](https://open.spotify.com/track/07Betr7cYIq5D9F2X9MnCT) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [A\-MOONO\-KE](https://open.spotify.com/album/3cDziy5BC62rGFTHokSlIM) | 2:57 |
 | 49 | [My Ultimate First Love](https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.4 \[My Ultimate First Love\]](https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT) | 4:26 |
 | 50 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 |
-| 51 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 |
-| 52 | [상상한 꿈](https://open.spotify.com/track/16sVrdJ0NHmLwan43hH9BF) | [JAMIE](https://open.spotify.com/artist/12WC3s3087JX9hDaTj4nW8) | [START\-UP \(Original Television Soundtrack\) Pt\. 13](https://open.spotify.com/album/0WCGyBf5B1e4JsB6okoJmB) | 3:33 |
+| 51 | [상상한 꿈](https://open.spotify.com/track/16sVrdJ0NHmLwan43hH9BF) | [JAMIE](https://open.spotify.com/artist/12WC3s3087JX9hDaTj4nW8) | [START\-UP \(Original Television Soundtrack\) Pt\. 13](https://open.spotify.com/album/0WCGyBf5B1e4JsB6okoJmB) | 3:33 |
+| 52 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 |
 | 53 | [be](https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1) | [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) | [be](https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2) | 3:49 |
 | 54 | [Honestly](https://open.spotify.com/track/5HB8Olk0vxhv8ynsh1x04y) | [LIMELIGHT](https://open.spotify.com/artist/1mDDvUPSs2dSr4QKAQmOql) | [LIMELIGHT DEBUT EP 'LOVE & HAPPINESS'](https://open.spotify.com/album/6bGjdmkGl8QqTa1ElccP3C) | 3:09 |
 | 55 | [DREAMLIKE](https://open.spotify.com/track/6d3pjHp69A5RABSAJ7zqJH) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 59 | [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 |
 | 60 | [No MBTI](https://open.spotify.com/track/0ElgcgukyFblmSOu1IDFhu) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [No MBTI](https://open.spotify.com/album/6Cov5vJwPPSEaLyd9Gog8R) | 2:45 |
 
-Snapshot ID: `MCw1OGNlMzYwODk4ZTQ3ZWJkYjUyNGQ5MmUwYTMwNDg3Nzc1YTc0NjE5`
+Snapshot ID: `MCw2OTcwYWRiN2U5ODAxNmRhNjQwNjBjM2VjNjc0MzUzOWRmMjYxNjlm`

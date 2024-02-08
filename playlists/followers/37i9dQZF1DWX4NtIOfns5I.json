@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 90227,
+  "2024-02-08": 90487,
   "date_first_scraped": "2023-10-07",
   "description": "where folk flowers bloom.  cover: Noah Kahan \ud83c\udf42",
   "name": "juniper",
@@ -3139,6 +3139,24 @@
       "duration_ms": 216791,
       "name": "very overdue goodbye",
       "url": "https://open.spotify.com/track/6onEf8upjTGmqve2G6dm3h"
+    },
+    {
+      "album": {
+        "name": "violet",
+        "url": "https://open.spotify.com/album/4vRjnRTAH2w8Xy17CegJWN"
+      },
+      "artists": [
+        {
+          "name": "Marianne Ross",
+          "url": "https://open.spotify.com/artist/3N8pECzlNdVgozhW0SEp9j"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110322,
+      "name": "violet",
+      "url": "https://open.spotify.com/track/33Qa5hM4hSlJY3bbpoFl9G"
     },
     {
       "album": {

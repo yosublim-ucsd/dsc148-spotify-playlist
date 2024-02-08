@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-652 songs - 1 day 13 hr 47 min
+653 songs - 1 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Chasing Shadows](https://open.spotify.com/track/7nxBtfw37vfNSV95pC8uzt) | [Haen](https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Chasing Shadows](https://open.spotify.com/album/0D1uc3g7ceS0gZWjAkEjUe) | 4:20 | 2021-11-19 | 2022-02-12 |
 | [Chasing Stars](https://open.spotify.com/track/0a9J0dDKTOqNxBUYufLOzY) | [Skyler Madison](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Chasing Stars](https://open.spotify.com/album/1jUyU3oh4FJCmJtNaPJWJw) | 4:41 | 2021-11-29 | 2022-03-04 |
 | [Cheat Code](https://open.spotify.com/track/7JJnlfOlh7dmQhjRDkyG0x) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [REDLESS](https://open.spotify.com/artist/30j2u2oo0Q8v2pBjnb3ctJ) | [Cheat Code](https://open.spotify.com/album/41N4WEXPbcLCJ5rgOQc6FC) | 2:50 | 2022-06-30 | 2022-09-13 |
+| [Choir of the Banshees](https://open.spotify.com/track/72ijk2ClDkcZ5FgD4IM1n8) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Sorcerer’s Symphony](https://open.spotify.com/album/1ajS5QuEOLZXMVG7TG9twW) | 4:11 | 2024-02-07 |  |
 | [Chroma](https://open.spotify.com/track/0Yf9BcL40KJplKTDwmpIPw) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Chroma](https://open.spotify.com/album/36V5r5FbxC2I0U1rCZn2Li) | 4:10 | 2023-11-27 |  |
 | [Chromatically](https://open.spotify.com/track/6tr6rSUNVlBtTZUf0fFzKl) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Chromatically](https://open.spotify.com/album/238tOstpXzMOcfrLzWQtfY) | 3:18 | 2024-01-25 |  |
 | [CINEMA](https://open.spotify.com/track/1KUlGcqkfUjnoTL20bhtPr) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [CINEMA](https://open.spotify.com/album/4fqBn6j0jf2eLaBhZwA1dp) | 3:08 | 2022-03-14 | 2022-05-26 |
@@ -174,7 +175,7 @@
 | [Embers](https://open.spotify.com/track/3w9ALKovRO9Tc29DPiMzGi) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL) | [The Secret Language of Trees](https://open.spotify.com/album/6EzTA98y6TGi3o2b3zJkdP) | 5:10 | 2023-07-10 | 2023-12-14 |
 | [Emeralds](https://open.spotify.com/track/64Qa4GFTr5wMR1maaR8QxY) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Emeralds](https://open.spotify.com/album/47QDAHx9JLrzYV5tfnTWzD) | 4:10 | 2022-09-13 | 2022-11-11 |
 | [Encounter](https://open.spotify.com/track/7Ddm5bTLA3nLATCx1LtHd0) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Encounter](https://open.spotify.com/album/257jBmJSZWVkr2p0XB5kli) | 5:11 | 2023-10-06 | 2024-01-20 |
-| [Endgame](https://open.spotify.com/track/2ktvOZzqcK7Am5q3Ibu4po) | [Rebel Scum](https://open.spotify.com/artist/59aaYbMLU4xeqKrwJSY4tE), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Endgame](https://open.spotify.com/album/4JFF5XdqFNPL9sg7uAQMTD) | 3:46 | 2023-10-25 |  |
+| [Endgame](https://open.spotify.com/track/2ktvOZzqcK7Am5q3Ibu4po) | [Rebel Scum](https://open.spotify.com/artist/59aaYbMLU4xeqKrwJSY4tE), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Endgame](https://open.spotify.com/album/4JFF5XdqFNPL9sg7uAQMTD) | 3:46 | 2023-10-25 | 2024-02-08 |
 | [Endless \(Best of Me\)](https://open.spotify.com/track/1UyiFox8VnAAFRweBDKhy0) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Endless \(Best of Me\)](https://open.spotify.com/album/72LIl7Rlti55JL63E6UsmY) | 3:40 | 2022-11-04 | 2023-01-28 |
 | [ENEMY](https://open.spotify.com/track/57PGa6g4Ym4XeyNWWdE6Ig) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [dabl](https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9) | [ENEMY](https://open.spotify.com/album/7EL4y1SIpzIMabjzaGBPxV) | 3:16 | 2024-01-11 |  |
 | [Equinox](https://open.spotify.com/track/3i2kegGxj12kAXephAgZ8C) | [TOMB](https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw) | [Equinox](https://open.spotify.com/album/33WUMBvwFNU514XzG7vqbz) | 3:20 | 2023-10-18 | 2024-02-02 |

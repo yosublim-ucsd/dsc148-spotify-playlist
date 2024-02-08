@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > Les hits tunisiens du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,364 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,410 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 38 | [Stava Bene](https://open.spotify.com/track/19IVlD9YCOcPNaonf2YNNT) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 3:44 |
 | 39 | [Filamen \- فيلمان](https://open.spotify.com/track/5SfgODdv831EqaStxXB8el) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Filamen \(فيلمان\)](https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5) | 4:25 |
 | 40 | [MCHEW !](https://open.spotify.com/track/5wXQE0LVpsiIELgQqCPwfe) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [MCHEW !](https://open.spotify.com/album/4eVpsLlYCq0Aeh0u6RhdTK) | 3:28 |
-| 41 | [Bario](https://open.spotify.com/track/4UbPDhdc0BQfevPDE5Fcqg) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Bario](https://open.spotify.com/album/5nWTLj4gvoS8X86FvS4VMr) | 3:19 |
+| 41 | [Bario](https://open.spotify.com/track/1lpg6YHzAsWn2dyAYhHxv2) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 3:19 |
 | 42 | [Ech Sayer](https://open.spotify.com/track/7zmjWzVeM3boUMAXvIeHgS) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Souhail Al Hafi](https://open.spotify.com/artist/7HSoEJ0ShMhA62LkjDiI5S) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 4:18 |
 | 43 | [Ma3lich](https://open.spotify.com/track/5alqglkGs6BMV7WGUvjyVv) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw) | [Ma3lich](https://open.spotify.com/album/6Mgz9dw5CWYFHK936bMH07) | 3:16 |
 | 44 | [Lil](https://open.spotify.com/track/58ZDRk8fyRvesaCYGro0Di) | [Joujma](https://open.spotify.com/artist/6J3OrlKMbWMx60M7QuDJsf) | [Lil](https://open.spotify.com/album/7JFYWTodPY8Eb2UsKFEYlB) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 49 | [Nansa](https://open.spotify.com/track/3evFZBD8uSlXvqBYWuUfri) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 4:10 |
 | 50 | [Tomorrow](https://open.spotify.com/track/4wzFYKgyMtU8KDl8d7N1Ry) | [Naqqa](https://open.spotify.com/artist/65D6dxtE0d7MoKoJfxOEyH), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [Tomorrow](https://open.spotify.com/album/1BNLeUBIAYE6dPAKjKV21M) | 4:03 |
 
-Snapshot ID: `MCw1NGRiNjM3MWRlNDRiZGRiYzVlNzZmYzcxNTY4NzU4NDIwMDU1MzQz`
+Snapshot ID: `MCxhZTE3ZTlkZmZlNmQyNGM3MjFjNTEzNzhmZDM4ZGFkNTE1NDE4NTdk`

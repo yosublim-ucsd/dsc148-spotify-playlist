@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,421 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,626 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 20 | [Just Like Honey](https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru) | 3:01 |
 | 21 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 |
 | 22 | [Kick The Tragedy](https://open.spotify.com/track/40ABtf917Ghhi2tkQDNOdn) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Delaware](https://open.spotify.com/album/0kAlEeID2MPd2JYT3Iwegp) | 8:55 |
-| 23 | [I Follow You](https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:34 |
-| 24 | [Love Fade](https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG) | 3:40 |
+| 23 | [Love Fade](https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG) | 3:40 |
+| 24 | [I Follow You](https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:34 |
 | 25 | [Special One](https://open.spotify.com/track/3gzwXojnb6on1FlwSmKVCi) | [Ultra Vivid Scene](https://open.spotify.com/artist/3tW6ylfdDCxcBHqZJjVwrH) | [Joy 1967 \- 1990](https://open.spotify.com/album/2KzZDQ1NyBRRj1CAgUV9Ae) | 3:15 |
 | 26 | [The Book Lovers](https://open.spotify.com/track/1c8L2UYpJp0EkilO1duOK8) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Work And Non Work](https://open.spotify.com/album/6BwEy6Zz4U5y09nbSJQE2j) | 4:49 |
 | 27 | [Days](https://open.spotify.com/track/77YVeXd29xVJrJdGQRJNYp) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Days](https://open.spotify.com/album/3jUF9M3uQuvXz1n7WUC3vc) | 5:20 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 38 | [Crazy for You](https://open.spotify.com/track/3gcIqknhltPEuekVMrP25o) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Pygmalion](https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq) | 6:01 |
 | 39 | [She Hangs Brightly](https://open.spotify.com/track/0PwKkV9wQCpbCxJmYEkcsd) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [She Hangs Brightly](https://open.spotify.com/album/2ZAcLWdHBHrdybwws1PVuA) | 6:24 |
 | 40 | [Holy Forest](https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Everything Else Matters](https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL) | 4:08 |
-| 41 | [Jewel](https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Forever \(Expanded Edition\)](https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV) | 3:05 |
-| 42 | [Lose My Breath](https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:37 |
+| 41 | [Lose My Breath](https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:37 |
+| 42 | [Jewel](https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Forever \(Expanded Edition\)](https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV) | 3:05 |
 | 43 | [Time Baby III](https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98) | [Medicine](https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:51 |
 | 44 | [No\-One in the World](https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [Morning Light](https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk) | 6:41 |
-| 45 | [Nothing Natural](https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw) | 5:54 |
-| 46 | [Tal Uno](https://open.spotify.com/track/3BPRUFOrl3IOOY8HpzRn4S) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/1xAniFMNAAkdXM8daxNBn2) | 4:27 |
+| 45 | [Tal Uno](https://open.spotify.com/track/3BPRUFOrl3IOOY8HpzRn4S) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/1xAniFMNAAkdXM8daxNBn2) | 4:27 |
+| 46 | [Nothing Natural](https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw) | 5:54 |
 | 47 | [In Particular](https://open.spotify.com/track/4rz3AwWL2wbJoye11pbULz) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody of Certain Damaged Lemons](https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN) | 6:05 |
 | 48 | [Mesmerise](https://open.spotify.com/track/6bEbOvzviHrQEYjpuEvgje) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 4:12 |
 | 49 | [You And Your Sister \- Remastered](https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [Blood \(Remastered\)](https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9) | 3:14 |
 | 50 | [Come On Let's Go](https://open.spotify.com/track/0e3zNp2pKzbgzTGWMwnyKG) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Maida Vale Sessions](https://open.spotify.com/album/7dCYsWwOlURGcomJrgncEe) | 3:23 |
 
-Snapshot ID: `MCxjMjAxMTM1NjU2MWUxMTNjZjFiNjAyNDU2ZDU5ZTliMmFiNDJjZDcw`
+Snapshot ID: `MCw1YzM1YzNkN2JjZmY5MWM4ZTc4MzE5MzI1Nzk4ZjMwYTc0NjYyNDEz`

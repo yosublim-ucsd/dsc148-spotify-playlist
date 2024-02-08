@@ -4,7 +4,7 @@
 
 > 最新作公開記念！映画ドラえもんを彩ってきた歴代主題歌、挿入歌を集めた公式プレイリスト。Enjoy music from Doraemon The Movie! ⓒ藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2024
 
-38 songs - 2 hr 36 min
+39 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Paradise](https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Paradise](https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve) | 3:27 | 2023-03-03 |  |
 | [THE GIFT](https://open.spotify.com/track/5qTwnr6WbWeeUDS9dcl5g6) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [THE GIFT](https://open.spotify.com/album/423LWA7PU0o0Lke9vTFLxk) | 5:03 | 2023-02-28 |  |
 | [Universe](https://open.spotify.com/track/2uCN45we6vuQJIOqzuLO5k) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 4:45 | 2023-02-28 |  |
+| [Vaundyからのボイスコメント](https://open.spotify.com/track/0bIHNKKcBoemVj8iXw14xd) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [Vaundyからのボイスコメント \- 映画ドラえもん “のび太の地球交響楽”](https://open.spotify.com/album/7Lq5oPjkHTpdXchAqtGFXR) | 1:09 | 2024-02-07 |  |
 | [YUME日和](https://open.spotify.com/track/78tE9IdvgaY0GA99p4qXy8) | [Hitomi Shimatani](https://open.spotify.com/artist/34eavfJpWV3DnvwqOmml18) | [Delicious!〜The Best of Hitomi Shimatani〜](https://open.spotify.com/album/6jNMaxEg9Da0jUmv8jwmv6) | 4:03 | 2023-02-28 |  |
 | [かけがえのない詩](https://open.spotify.com/track/4PpHDUHL6HYPIahZDCX2Q7) | [Mihimaru GT](https://open.spotify.com/artist/29PeG6G6C986jnRPBECm4D) | [TheBest Selection of ASIA](https://open.spotify.com/album/4Ebv1ivlrjcYyUsG1Qt2d2) | 5:09 | 2023-02-28 |  |
 | [さよならに さよなら](https://open.spotify.com/track/484QMEcJmYvoV0QmJfSJaw) | [Kaientai](https://open.spotify.com/artist/1DsKJnZ0VeVD4ZEpDIegQF) | [ドラえもん映画主題歌集](https://open.spotify.com/album/6ClSL3281Uc1W0zBgOoViV) | 3:28 | 2023-02-28 |  |

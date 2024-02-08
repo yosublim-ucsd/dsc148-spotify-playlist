@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,411 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,619 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 24 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 |
 | 25 | [Do It To It \- Tiësto Remix](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Tiësto Remix\)](https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ) | 2:05 |
 | 26 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 |
-| 27 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/6a39HPcHKbPD536syYsRra) | [RobxDan](https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01), [Consilium](https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/3SmoOc6Jcej35ioy9xpB7j) | 2:28 |
-| 28 | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ) | 2:20 |
+| 27 | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ) | 2:20 |
+| 28 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/6a39HPcHKbPD536syYsRra) | [RobxDan](https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01), [Consilium](https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/3SmoOc6Jcej35ioy9xpB7j) | 2:28 |
 | 29 | [Wrong or Right \(The Riddle\)](https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wrong or Right \(The Riddle\)](https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm) | 2:34 |
 | 30 | [Let Me Think About It Again](https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Let Me Think About It Again](https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz) | 3:15 |
 | 31 | [Drinkin](https://open.spotify.com/track/1Usa0Fv8L9NmRKY4UYk4sD) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Drinkin](https://open.spotify.com/album/2M4jhdsyvC0xpuXXc1SKWE) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [Shockwave \(with Afrojack\)](https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Shockwave \(with Afrojack\)](https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ) | 2:02 |
 | 50 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
 
-Snapshot ID: `MCw3YTY0NGYyZWM0NTkwYWU5ZWZhYzc0ZWY5OGRiY2YyMmYyMzc3MmFk`
+Snapshot ID: `MCwxMmJmMGJiNDlhNTJkOTk5MTlkMDQ2NjRjMDlkNjEyNjNiMzQwMzBm`

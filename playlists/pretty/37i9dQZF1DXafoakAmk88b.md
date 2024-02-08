@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie driving the current\. Cover: hemlocke springs
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,923 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,082 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 42 | [Wish](https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Four Songs](https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98) | 3:01 |
 | 43 | [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 |
 | 44 | [Basquiat](https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [The End of the World](https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i) | 3:55 |
-| 45 | [shutting me out](https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [shutting me out / goo lagoon](https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq) | 2:26 |
-| 46 | [killer](https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU) | 2:56 |
+| 45 | [killer](https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU) | 2:56 |
+| 46 | [shutting me out](https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [shutting me out / goo lagoon](https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq) | 2:26 |
 | 47 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 |
 | 48 | [This City is a Graveyard](https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [This City is a Graveyard](https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH) | 3:07 |
-| 49 | [no way out](https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [no way out](https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP) | 1:53 |
-| 50 | [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 |
+| 49 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
+| 50 | [no way out](https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [no way out](https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP) | 1:53 |
 
-Snapshot ID: `MCw5ZWYxNWM1YTBlZjU3ZTFiMGMxZDk4ODlhNzliZWVlODZlNDE0OWEy`
+Snapshot ID: `MCw1MjgyM2IzYzM3ZmRlYmViM2IzZmE1NDEzYzI5N2RhZjJmNzAzNmU4`

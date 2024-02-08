@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 
 > The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,428 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,515 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 51 | [Arturo Garza Trevino](https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:49 |
 | 52 | [Contrabando En Los Huevos](https://open.spotify.com/track/5iYutlcpa7KXRj9Hpx4Ecr) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [Contrabando En Los Huevos](https://open.spotify.com/album/238VfD3ENCWjwSzU1NcGJM) | 4:31 |
 | 53 | [Macario Leyva](https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:19 |
-| 54 | [Corrido De Lucio Vázquez \(Los Pavo Reales\)](https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos](https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq) | 2:57 |
-| 55 | [Rafael Caro Quintero](https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:08 |
+| 54 | [Rafael Caro Quintero](https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:08 |
+| 55 | [Corrido De Lucio Vázquez \(Los Pavo Reales\)](https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos](https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq) | 2:57 |
 | 56 | [Era Cabrón El Viejo](https://open.spotify.com/track/39mFPN0z66M4azlAljnFHc) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Era Cabron El Viejo](https://open.spotify.com/album/4qkWGXtdS7AQDlqIpgjyP6) | 3:21 |
 | 57 | [El Moreño](https://open.spotify.com/track/0IZcLOevGQ6LYG9IV3w1gx) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [14 Exitos](https://open.spotify.com/album/2Taq7gieTFp9rjORJkrLWp) | 2:54 |
 | 58 | [El Odio De Dos Hermanos](https://open.spotify.com/track/7E9LZqiVJUtDP2yt3ysoP0) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tesoros Musicales](https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz) | 3:01 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 70 | [Se Mamó El Becerro](https://open.spotify.com/track/3cpBfqMWR414bbh8Q0ZlYW) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Se Mamó El Becerro](https://open.spotify.com/album/1pDmBQhwJk1CR9Y9eplQBy) | 3:24 |
 | 71 | [El Ultimo Cartucho](https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:21 |
 | 72 | [Corrido de Domingo Corrales](https://open.spotify.com/track/1ndfTgmbawerzlQvbfvxrM) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 2: Corridos y Rancheras](https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9) | 2:56 |
-| 73 | [Sonora Y Sus Ojos Negros](https://open.spotify.com/track/56z8EVfBhdmkmzSE8mL15p) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [La Historia](https://open.spotify.com/album/3Bo1SwS9A2OEG4gaxAnG4e) | 2:57 |
-| 74 | [Chuy Y Mauricio](https://open.spotify.com/track/04xO1gevudj8k7y2wTGTjC) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 2:51 |
+| 73 | [Chuy Y Mauricio](https://open.spotify.com/track/04xO1gevudj8k7y2wTGTjC) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 2:51 |
+| 74 | [Sonora Y Sus Ojos Negros](https://open.spotify.com/track/56z8EVfBhdmkmzSE8mL15p) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [La Historia](https://open.spotify.com/album/3Bo1SwS9A2OEG4gaxAnG4e) | 2:57 |
 | 75 | [El Deportado](https://open.spotify.com/track/4HXYP6cpEuJO7ikYR1jMJu) | [Los terribles Del Norte](https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT) | [El Deportado \(Grabación Original Remasterizada\)](https://open.spotify.com/album/15hBTdcPr7Q1DFG9wVtyJq) | 2:48 |
 | 76 | [La Raza Michoacana](https://open.spotify.com/track/7bTIHRRwHGOhWN9ggFxxT9) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Jardinero](https://open.spotify.com/album/0vb2KGJa1hHJVli2xq5lSL) | 2:45 |
 | 77 | [Regalo Caro](https://open.spotify.com/track/07EjPAkty1dVRwSx3P1Hf7) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [El Cartel de Los Cielos](https://open.spotify.com/album/1SsbPJiv3kPz69cRfGxI7b) | 3:58 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 97 | [Luis Pulido](https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Y Sus Corridos Consentidos](https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn) | 2:26 |
 | 98 | [Caballo Patas Blancas](https://open.spotify.com/track/2O7chSnV0xD28SehY19Uzb) | [Los Donneños](https://open.spotify.com/artist/7b8TcyHOg1IKmDduDx3nmT) | [Corridos de Caballos Famosos](https://open.spotify.com/album/0l5z0wJygkIBRXixFYs4qH) | 4:01 |
 | 99 | [Los Tres Amarradores](https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Manuel El Indio Ortega](https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj) | [Con el Corazón en Sonora](https://open.spotify.com/album/23psNaHxAyRctb7HUSqq67) | 4:09 |
-| 100 | [Valente Quintero](https://open.spotify.com/track/4de4ivYcmGbVwkyi8nPdZ8) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [10 Aniversario](https://open.spotify.com/album/2P3M1m7lG147D6T1KhRZEV) | 4:47 |
+| 100 | [El Barzon](https://open.spotify.com/track/3QwBIH2IqujOVmZmnymHFa) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Sus Mas Grandes Exitos](https://open.spotify.com/album/4KKB85ZOmzv68N5UELFUpS) | 2:44 |
 
-Snapshot ID: `MCw0ODllNjNmNWIwYWQwNTM2MDc3MThhNjg0ZTZkNWVjYTMzYzIxMzRi`
+Snapshot ID: `MCwwY2E3NTU0NDZlNDdmYzIyOGE2M2FiYjI0Y2E0NGRjMWY5MDI5OTAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Enrique Iglesias y Yotuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,401 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,385 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [Rolé na Favela de Nave](https://open.spotify.com/track/1m5nbZiPpCIi9J2irLNoxh) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Didi](https://open.spotify.com/artist/15bTpg6S948FjSiOhB7eXi), [Dj Lc da Roça](https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag), [MC Smith](https://open.spotify.com/artist/6OUIY1hXVxeiAw6K7rDerM), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Rolé na Favela de Nave](https://open.spotify.com/album/1m42RnQb6QKdchutofb4mH) | 3:12 |
 | 55 | [A Gente Tem Tudo a Ver](https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk) | [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Mais Uma História de Amor](https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi) | 2:30 |
 
-Snapshot ID: `MCw4NGE2MDA5YmFjZmM5YjRkNGM4YTQ3MTA0NTMxZWFmOTJkNjNmYzJh`
+Snapshot ID: `MCwyZDFjZjA5NThiYTIxOGFjNThiZDViNmYzNWFmOWY0ZDk5NDMzYjMy`

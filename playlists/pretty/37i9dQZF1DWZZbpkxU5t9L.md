@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: The Smile
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,400 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,415 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [Moshi Moshi](https://open.spotify.com/track/1NUIKmqkxfTrAHZaU6uHf2) | [Nozomi Kitay](https://open.spotify.com/artist/3iNcdTXdoEJYM1O10q3Ump), [GAL D](https://open.spotify.com/artist/12XCqO4rH8dTgYZiYzcLOD), [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR) | [Moshi Moshi](https://open.spotify.com/album/6C3rZZEZcaycHs0yrVrSpf) | 2:56 |
 | 60 | [HAITE](https://open.spotify.com/track/2fu0mblB8cp6MtM9nwtZrL) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [HAITE](https://open.spotify.com/album/6FoB6c4HuW9Po26G4i4xol) | 2:11 |
 
-Snapshot ID: `MCw3MjU4ODYwMTk5N2VkNmQxM2I0NzJjZjE1MDQwOGJjZjY5NjgzYzc1`
+Snapshot ID: `MCw3OGQ2ZDNmNDNlNWE0OWQwZGM2M2YxZDAwNWU2YTkyZDk2OGExMDkw`

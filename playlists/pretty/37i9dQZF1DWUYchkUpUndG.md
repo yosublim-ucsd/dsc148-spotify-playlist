@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=qxRJpIq7RZmtIpjg50\-xqA>Onos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,254 likes - 99 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,301 likes - 99 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 98 | [SON RISE \(Soldier\)](https://open.spotify.com/track/0C02e42RiZPw7JEfMeBF1w) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT), [Christ's Solja](https://open.spotify.com/artist/3h5opp4A7fAbFN4Cwjx9SY), [Alex Gvng Gvng](https://open.spotify.com/artist/6LQtttDyFRDL5lbBnrqH1F), [Mr Wen](https://open.spotify.com/artist/3r4bTmnxktH3QHSj1MLyIX), [Nakalah Safi](https://open.spotify.com/artist/58UHCq5r2BlCx9eh2BQ9uQ) | [SON RISE \(Soldier\)](https://open.spotify.com/album/7tXgqXpOjDTuxFB41fEWch) | 4:50 |
 | 99 | [The Kingdom](https://open.spotify.com/track/4yzDjnib4cjptMVd8RcRun) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [The Kingdom](https://open.spotify.com/album/2xMxduGsaY47At52XEeczU) | 1:47 |
 
-Snapshot ID: `MCxkNzkwNDQ2YzhiZTgzNWRiNGM0OGYzNjFkYzBlYTYyYjE5MDAyZDky`
+Snapshot ID: `MCwyZjk3Y2UxM2MyOGEyZmYwNzdhZWJlNjFkZWFiOWQ2NzEyN2MxMmRj`

@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 973083,
+  "num_followers": 973121,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWVkNGRkMzVmMTZlZTA0ZGZjYjI0OGI4YWM4NTljZWMzMWMwZTAw",
+  "snapshot_id": "MCw2MGQ3ZDE4ZTU4Y2UzODY2YTVkN2JiODQxNWQyNDBjYTQ1MGIxYWE1",
   "tracks": [
     {
       "added_at": "2024-01-04 16:08:54",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
+        "name": "MOVIES! WORLDWIDE: PART I",
+        "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "duration_ms": 181508,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/7GahBNine4Ru5Shs1GGpcr"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 178477,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
-        "name": "MOVIES! WORLDWIDE: PART I",
-        "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 181508,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/7GahBNine4Ru5Shs1GGpcr"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
+        "name": "Where Are You Going?",
+        "url": "https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 170804,
+      "name": "Rouge",
+      "url": "https://open.spotify.com/track/1EtuMOssvtZhPEWPB3VWzw"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
         "name": "Moonlit Breakers (feat. Dijon)",
         "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 225764,
       "name": "Slumber",
       "url": "https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
-        "name": "Where Are You Going?",
-        "url": "https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 170804,
-      "name": "Rouge",
-      "url": "https://open.spotify.com/track/1EtuMOssvtZhPEWPB3VWzw"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Moon Soul",
-        "url": "https://open.spotify.com/album/1GDqh9jIhxc7yoil0g5Z1O"
-      },
-      "artists": [
-        {
-          "name": "Moon Soul",
-          "url": "https://open.spotify.com/artist/48IWhckCqdKLfS7hFw20x5"
-        }
-      ],
-      "duration_ms": 66000,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/08eFlR1borTUC3cufSz5oz"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "Sandhills",
         "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 169253,
       "name": "Back Then",
       "url": "https://open.spotify.com/track/2twsYPcDYxW85W9nVMrWAt"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "Moon Soul",
+        "url": "https://open.spotify.com/album/1GDqh9jIhxc7yoil0g5Z1O"
+      },
+      "artists": [
+        {
+          "name": "Moon Soul",
+          "url": "https://open.spotify.com/artist/48IWhckCqdKLfS7hFw20x5"
+        }
+      ],
+      "duration_ms": 66000,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/08eFlR1borTUC3cufSz5oz"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Hang Up the Lights",
-        "url": "https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb"
-      },
-      "artists": [
-        {
-          "name": "White China",
-          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
-        }
-      ],
-      "duration_ms": 160437,
-      "name": "Hang Up The Lights",
-      "url": "https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "R\u00eaverie",
         "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 197511,
       "name": "I'll Never Leave",
       "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "Hang Up the Lights",
+        "url": "https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "duration_ms": 160437,
+      "name": "Hang Up The Lights",
+      "url": "https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Cola",
-        "url": "https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36"
-      },
-      "artists": [
-        {
-          "name": "A Beacon School",
-          "url": "https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX"
-        }
-      ],
-      "duration_ms": 98770,
-      "name": "Hum",
-      "url": "https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "Outlines",
         "url": "https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 170882,
       "name": "Time To Lose",
       "url": "https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "Cola",
+        "url": "https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36"
+      },
+      "artists": [
+        {
+          "name": "A Beacon School",
+          "url": "https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX"
+        }
+      ],
+      "duration_ms": 98770,
+      "name": "Hum",
+      "url": "https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "NYC Stuff and NYC Bags - EP",
-        "url": "https://open.spotify.com/album/2BbHRqsqZmJOkIWXlQXGsS"
-      },
-      "artists": [
-        {
-          "name": "Vondelpark",
-          "url": "https://open.spotify.com/artist/4W8Yz77BGq4uaiqCR2sYJ9"
-        }
-      ],
-      "duration_ms": 115773,
-      "name": "Outro 4 NYC",
-      "url": "https://open.spotify.com/track/5po3pk15QRCg1jf9thg39N"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/0HuHiy3hPKuTiS0qw1lFD7"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 200547,
       "name": "DD",
       "url": "https://open.spotify.com/track/1JHmvvbneBOS4NkEu8omQz"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "NYC Stuff and NYC Bags - EP",
+        "url": "https://open.spotify.com/album/2BbHRqsqZmJOkIWXlQXGsS"
+      },
+      "artists": [
+        {
+          "name": "Vondelpark",
+          "url": "https://open.spotify.com/artist/4W8Yz77BGq4uaiqCR2sYJ9"
+        }
+      ],
+      "duration_ms": 115773,
+      "name": "Outro 4 NYC",
+      "url": "https://open.spotify.com/track/5po3pk15QRCg1jf9thg39N"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Retrograde",
-        "url": "https://open.spotify.com/album/7CrATW3N1cfCtKT3YiPXfd"
+        "name": "I Ask Nothing of You",
+        "url": "https://open.spotify.com/album/2gPfwzwUnPooH6Ax6lHVWT"
       },
       "artists": [
         {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+          "name": "LOMELI",
+          "url": "https://open.spotify.com/artist/5HhNeohGg8OhavQVZsiHxB"
         }
       ],
-      "duration_ms": 185333,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/11nL5QfqIl1DEpwlxbQplf"
+      "duration_ms": 254300,
+      "name": "Human Breach",
+      "url": "https://open.spotify.com/track/0XFV1dLOQNdzEhiNUHH0VP"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1359,34 +1359,18 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "I Ask Nothing of You",
-        "url": "https://open.spotify.com/album/2gPfwzwUnPooH6Ax6lHVWT"
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/7CrATW3N1cfCtKT3YiPXfd"
       },
       "artists": [
         {
-          "name": "LOMELI",
-          "url": "https://open.spotify.com/artist/5HhNeohGg8OhavQVZsiHxB"
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
         }
       ],
-      "duration_ms": 254300,
-      "name": "Human Breach",
-      "url": "https://open.spotify.com/track/0XFV1dLOQNdzEhiNUHH0VP"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
-        "name": "Bad Posture",
-        "url": "https://open.spotify.com/album/7fAznyEY9ZOOGn4fR5sCpt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Houston",
-          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
-        }
-      ],
-      "duration_ms": 182643,
-      "name": "Falling Out",
-      "url": "https://open.spotify.com/track/3H8zeSxIzl98QJaM5gi4tv"
+      "duration_ms": 185333,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/11nL5QfqIl1DEpwlxbQplf"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1419,6 +1403,22 @@
       "duration_ms": 227486,
       "name": "Sad Disco (Pine Studios)",
       "url": "https://open.spotify.com/track/45w3oCmAZDjkJ79lwAvM4X"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "Bad Posture",
+        "url": "https://open.spotify.com/album/7fAznyEY9ZOOGn4fR5sCpt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "duration_ms": 182643,
+      "name": "Falling Out",
+      "url": "https://open.spotify.com/track/3H8zeSxIzl98QJaM5gi4tv"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Clementine",
-        "url": "https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 182189,
-      "name": "Clementine",
-      "url": "https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "So Bad",
         "url": "https://open.spotify.com/album/6aRAFBI8tnHWCUAlTaaZGN"
       },
@@ -1515,6 +1499,38 @@
       "duration_ms": 213381,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/3KLGkGZU4wU5zLudW0a0em"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "East",
+        "url": "https://open.spotify.com/album/7ANkteUr95wzf2nEoxKkqf"
+      },
+      "artists": [
+        {
+          "name": "MOSSS",
+          "url": "https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey"
+        }
+      ],
+      "duration_ms": 214243,
+      "name": "What Happens In Your Head?",
+      "url": "https://open.spotify.com/track/0n0ou3PHz61mtfgnnvxA6E"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "Clementine",
+        "url": "https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 182189,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "East",
-        "url": "https://open.spotify.com/album/7ANkteUr95wzf2nEoxKkqf"
-      },
-      "artists": [
-        {
-          "name": "MOSSS",
-          "url": "https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey"
-        }
-      ],
-      "duration_ms": 214243,
-      "name": "What Happens In Your Head?",
-      "url": "https://open.spotify.com/track/0n0ou3PHz61mtfgnnvxA6E"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "Dick Arkive: Issue 2",
         "url": "https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV"
       },
@@ -1623,22 +1623,54 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "No Pressure at All",
-        "url": "https://open.spotify.com/album/22ygyKdPyUIZXtlBeLceIZ"
+        "name": "Live at RBC Echo Beach",
+        "url": "https://open.spotify.com/album/5r70krK838xAiHP8t0algB"
       },
       "artists": [
         {
-          "name": "Michael Benedikt",
-          "url": "https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL"
-        },
-        {
-          "name": "Ursina",
-          "url": "https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 137343,
-      "name": "Like a Pie",
-      "url": "https://open.spotify.com/track/66pGB2DpupvXqTrPbOzFHh"
+      "duration_ms": 213120,
+      "name": "Show Me How - Live at RBC Echo Beach",
+      "url": "https://open.spotify.com/track/546DYMoIeq9bpz2ZQdDB6a"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "Lionel Boy",
+        "url": "https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759"
+      },
+      "artists": [
+        {
+          "name": "Lionel Boy",
+          "url": "https://open.spotify.com/artist/3UaINrj5Lmv7F7meQPuIGh"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Flower Girl",
+      "url": "https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "\u5358\u306bRetroFuture",
+        "url": "https://open.spotify.com/album/5Ypek9futUq1THrPjyQDkp"
+      },
+      "artists": [
+        {
+          "name": "Sweeps",
+          "url": "https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t"
+        },
+        {
+          "name": "NK Music",
+          "url": "https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi"
+        }
+      ],
+      "duration_ms": 147644,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1663,54 +1695,22 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Lionel Boy",
-        "url": "https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759"
+        "name": "No Pressure at All",
+        "url": "https://open.spotify.com/album/22ygyKdPyUIZXtlBeLceIZ"
       },
       "artists": [
         {
-          "name": "Lionel Boy",
-          "url": "https://open.spotify.com/artist/3UaINrj5Lmv7F7meQPuIGh"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Flower Girl",
-      "url": "https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
-        "name": "Live at RBC Echo Beach",
-        "url": "https://open.spotify.com/album/5r70krK838xAiHP8t0algB"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 213120,
-      "name": "Show Me How - Live at RBC Echo Beach",
-      "url": "https://open.spotify.com/track/546DYMoIeq9bpz2ZQdDB6a"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
-        "name": "\u5358\u306bRetroFuture",
-        "url": "https://open.spotify.com/album/5Ypek9futUq1THrPjyQDkp"
-      },
-      "artists": [
-        {
-          "name": "Sweeps",
-          "url": "https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t"
+          "name": "Michael Benedikt",
+          "url": "https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL"
         },
         {
-          "name": "NK Music",
-          "url": "https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi"
+          "name": "Ursina",
+          "url": "https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY"
         }
       ],
-      "duration_ms": 147644,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0"
+      "duration_ms": 137343,
+      "name": "Like a Pie",
+      "url": "https://open.spotify.com/track/66pGB2DpupvXqTrPbOzFHh"
     }
   ],
   "unique_name": "late night vibes",

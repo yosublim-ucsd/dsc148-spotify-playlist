@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 46321,
+  "2024-02-08": 46336,
   "date_first_scraped": "2022-06-05",
   "description": "Let the music flow through you...",
   "name": "Soulful",
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 221538,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
@@ -2593,7 +2593,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 184557,
       "name": "No Flowers",
       "url": "https://open.spotify.com/track/3LhW1olpSXYzzQta9OpTSl"

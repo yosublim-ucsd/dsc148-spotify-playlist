@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 95108,
+  "num_followers": 95164,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGQwZTFkNzhmNzRkNzFiMTJlNjA4M2E4NTc3MzdmZmNlMGQzNzhl",
+  "snapshot_id": "MCwwMDg4ZTdlOGZmNWVkZGZiZWQ0NmE2NDk1ZjRmZGY0YWFmMjViOWVj",
   "tracks": [
     {
       "added_at": "2023-09-14 19:15:58",
@@ -415,38 +415,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Karyn White",
-        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
-      },
-      "artists": [
-        {
-          "name": "Karyn White",
-          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
-        }
-      ],
-      "duration_ms": 347453,
-      "name": "Superwoman",
-      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -467,6 +435,38 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Karyn White",
+        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
+      },
+      "artists": [
+        {
+          "name": "Karyn White",
+          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
+        }
+      ],
+      "duration_ms": 347453,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Sweet Love",
         "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "I've Got So Much To Give",
-        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 431506,
-      "name": "I'm Gonna Love You Just A Little More Baby",
-      "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "After 7",
         "url": "https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 275826,
       "name": "Ready Or Not",
       "url": "https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "I've Got So Much To Give",
+        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 431506,
+      "name": "I'm Gonna Love You Just A Little More Baby",
+      "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
     },
     {
       "added_at": "2023-09-14 19:15:58",

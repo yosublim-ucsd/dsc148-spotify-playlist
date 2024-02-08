@@ -1,12 +1,12 @@
 {
   "description": "Disfruta con mam\u00e1 la era dorada de los 80's.  ",
-  "num_followers": 179179,
+  "num_followers": 179272,
   "original_name": "Mam\u00e1 80era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmZmYmQ1ZmYxYzM1ODczOTg0Yzk4MWU4NzNiOGI2MTY5NGU4ZDAx",
+  "snapshot_id": "MCxkMWIzMzUyNjJjODRjNTY5ZmUxZDgzOWMwNDUxNjMwMjg5MWJkYmEy",
   "tracks": [
     {
       "added_at": "2021-05-21 05:05:27",
@@ -227,22 +227,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "El Grito Del Tiempo",
-        "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "En alg\u00fan lugar",
-      "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Nena",
         "url": "https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 231466,
       "name": "99 Luftballons",
       "url": "https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "El Grito Del Tiempo",
+        "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "En alg\u00fan lugar",
+      "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -599,22 +599,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Fantastic Boney M.",
-        "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "Rasputin - Single Version",
-      "url": "https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Luz Y Sombra",
         "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 280040,
       "name": "Las Mil Y Una Noches",
       "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Fantastic Boney M.",
+        "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "Rasputin - Single Version",
+      "url": "https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/4dWLbIe5qAFIP3GFnbTTXL"
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
       },
       "artists": [
         {
-          "name": "Menudo",
-          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
         }
       ],
-      "duration_ms": 250440,
-      "name": "Claridad",
-      "url": "https://open.spotify.com/track/5iLAU648CgzEupYdWuWdp5"
+      "duration_ms": 174360,
+      "name": "Debut Y Despedida",
+      "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1071,34 +1071,18 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/4dWLbIe5qAFIP3GFnbTTXL"
       },
       "artists": [
         {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+          "name": "Menudo",
+          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
         }
       ],
-      "duration_ms": 174360,
-      "name": "Debut Y Despedida",
-      "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
-        "name": "Al Norte Del Sur",
-        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 309973,
-      "name": "Louis",
-      "url": "https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW"
+      "duration_ms": 250440,
+      "name": "Claridad",
+      "url": "https://open.spotify.com/track/5iLAU648CgzEupYdWuWdp5"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
+        "name": "Al Norte Del Sur",
+        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 309973,
+      "name": "Louis",
+      "url": "https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
         "name": "Mudanzas",
         "url": "https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/5USIGMpaa5GvxLtwyK3LpR"
-      },
-      "artists": [
-        {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "duration_ms": 128560,
-      "name": "Amor Primero",
-      "url": "https://open.spotify.com/track/6SPr50YRsnKPrb5UnJ9VTA"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 324573,
       "name": "Voy a Llenarte Toda",
       "url": "https://open.spotify.com/track/6RjJbVwSkEdr6UnzVUDtn4"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/5USIGMpaa5GvxLtwyK3LpR"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "duration_ms": 128560,
+      "name": "Amor Primero",
+      "url": "https://open.spotify.com/track/6SPr50YRsnKPrb5UnJ9VTA"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Rocio Banquells",
-        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+        "name": "Fotografia",
+        "url": "https://open.spotify.com/album/0psZmb1gOGoFm1iCFhOM3T"
       },
       "artists": [
         {
-          "name": "Rocio Banquells",
-          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+          "name": "Oscar Athie",
+          "url": "https://open.spotify.com/artist/5wk7LFJizWvjj1m7ybEA3J"
         }
       ],
-      "duration_ms": 253066,
-      "name": "Luna m\u00e1gica",
-      "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
+      "duration_ms": 225410,
+      "name": "Fotografia",
+      "url": "https://open.spotify.com/track/2ZZNEhPfLbc4sxhDwUwyk3"
     }
   ],
   "unique_name": "Mam\u00e1 80era",

@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 42888,
+  "2024-02-08": 43013,
   "date_first_scraped": "2022-11-11",
   "description": "All the vibes, enjoyment and future hits right here",
   "name": "Viral Hits Africa",
@@ -269,7 +269,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 113684,
       "name": "act ii: date @ 8",
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
@@ -1407,8 +1407,12 @@
       },
       "artists": [
         {
-          "name": "Tim Godfrey and Fearless Community",
-          "url": "https://open.spotify.com/artist/10M2tdlthArEsgbWGFY6he"
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Fearless Community",
+          "url": "https://open.spotify.com/artist/6E4YUnHFOOfL57krwBfgYl"
         },
         {
           "name": "Anderson",
@@ -2549,6 +2553,44 @@
       "duration_ms": 220952,
       "name": "Country Side (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
+    },
+    {
+      "album": {
+        "name": "Coup du marteau",
+        "url": "https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3"
+      },
+      "artists": [
+        {
+          "name": "Tam Sir",
+          "url": "https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X"
+        },
+        {
+          "name": "Team Paiya",
+          "url": "https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk"
+        },
+        {
+          "name": "Ste Milano",
+          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
+        },
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        },
+        {
+          "name": "Tazeboy",
+          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
+        },
+        {
+          "name": "PSK",
+          "url": "https://open.spotify.com/artist/037wzy2YR7LOBvRI9uV5UX"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174589,
+      "name": "Coup du marteau",
+      "url": "https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo"
     },
     {
       "album": {
@@ -4289,6 +4331,24 @@
       "duration_ms": 124791,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/1jrjUPWrfMw8RBbZ9PlX0W"
+    },
+    {
+      "album": {
+        "name": "Uyihlo nonyoko",
+        "url": "https://open.spotify.com/album/7aNmPlwAQeVPY8P7qjuGhs"
+      },
+      "artists": [
+        {
+          "name": "Ugatsheni",
+          "url": "https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279823,
+      "name": "Hit after Hit",
+      "url": "https://open.spotify.com/track/5TY9ovYtBeJTY9s7K3ijEd"
     },
     {
       "album": {
@@ -6959,7 +7019,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
@@ -9408,6 +9468,24 @@
     },
     {
       "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "album": {
         "name": "Search & Rescue",
         "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
       },
@@ -10903,7 +10981,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 140160,
       "name": "Toxic Love Story",
       "url": "https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ"

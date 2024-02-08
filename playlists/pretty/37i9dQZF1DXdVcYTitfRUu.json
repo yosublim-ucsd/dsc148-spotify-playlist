@@ -1,12 +1,12 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 9080,
+  "num_followers": 9092,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Yzc3NDg5MTEyNDA0N2Q5YTVmMjkzNWI5ZWI1MTE3OGI3ZDZhNTU4",
+  "snapshot_id": "MCw1ZWM0ODdjNTE0NjAzNGVkODBhNTk4ZGIyMGNkMWVkZGZiMzBlMGU3",
   "tracks": [
     {
       "added_at": "2024-02-01 09:30:31",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-01 09:30:31",
       "album": {
-        "name": "IN the mood",
-        "url": "https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 168800,
-      "name": "In The Mood",
-      "url": "https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY"
-    },
-    {
-      "added_at": "2024-02-01 09:30:31",
-      "album": {
         "name": "Dear my X",
         "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 187733,
       "name": "Dear my X",
       "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
+    },
+    {
+      "added_at": "2024-02-01 09:30:31",
+      "album": {
+        "name": "IN the mood",
+        "url": "https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 168800,
+      "name": "In The Mood",
+      "url": "https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY"
     },
     {
       "added_at": "2024-02-01 09:30:31",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-02-01 09:30:31",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
-      },
-      "artists": [
-        {
-          "name": "DK",
-          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
-    },
-    {
-      "added_at": "2024-02-01 09:30:31",
-      "album": {
         "name": "Only you",
         "url": "https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 190640,
       "name": "Only you",
       "url": "https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC"
+    },
+    {
+      "added_at": "2024-02-01 09:30:31",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
     },
     {
       "added_at": "2024-02-01 09:30:31",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-02-01 09:30:31",
       "album": {
-        "name": "The King's Affection OST Part.3",
-        "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
+        "name": "18 again, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/46SLMiMiXNfPLoeatJo9wY"
       },
       "artists": [
         {
-          "name": "Baek Ji Young",
-          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
         }
       ],
-      "duration_ms": 221080,
-      "name": "IF I",
-      "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
+      "duration_ms": 244213,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0avJy0NC4btzu7PQ7TtG0n"
     },
     {
       "added_at": "2024-02-01 09:30:31",
@@ -923,34 +923,18 @@
     {
       "added_at": "2024-02-01 09:30:31",
       "album": {
-        "name": "18 again, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/46SLMiMiXNfPLoeatJo9wY"
+        "name": "The King's Affection OST Part.3",
+        "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
       },
       "artists": [
         {
-          "name": "Sohyang",
-          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+          "name": "Baek Ji Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
         }
       ],
-      "duration_ms": 244213,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0avJy0NC4btzu7PQ7TtG0n"
-    },
-    {
-      "added_at": "2024-02-01 09:30:31",
-      "album": {
-        "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
-      },
-      "artists": [
-        {
-          "name": "Jinyoung",
-          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
-        }
-      ],
-      "duration_ms": 222305,
-      "name": "Shining on Your Night",
-      "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
+      "duration_ms": 221080,
+      "name": "IF I",
+      "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
     },
     {
       "added_at": "2024-02-01 09:30:31",
@@ -971,6 +955,22 @@
     {
       "added_at": "2024-02-01 09:30:31",
       "album": {
+        "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "duration_ms": 222305,
+      "name": "Shining on Your Night",
+      "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
+    },
+    {
+      "added_at": "2024-02-01 09:30:31",
+      "album": {
         "name": "Naul <Ballad Pop City>",
         "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-02-01 09:30:31",
       "album": {
-        "name": "Romantic Doctor 3 OST Part.1",
-        "url": "https://open.spotify.com/album/6nErKEsThTGVCCO4RDiIqE"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/6Me6uD7KrQ2fS8U8wCiMDY"
-    },
-    {
-      "added_at": "2024-02-01 09:30:31",
-      "album": {
         "name": "LOVE.",
         "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 172674,
       "name": "I JUST WANNA KNOW",
       "url": "https://open.spotify.com/track/6ZnKQpqaYx6BResKaVBfmc"
+    },
+    {
+      "added_at": "2024-02-01 09:30:31",
+      "album": {
+        "name": "Romantic Doctor 3 OST Part.1",
+        "url": "https://open.spotify.com/album/6nErKEsThTGVCCO4RDiIqE"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/6Me6uD7KrQ2fS8U8wCiMDY"
     },
     {
       "added_at": "2024-02-01 09:30:31",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-02-01 09:30:31",
       "album": {
-        "name": "If you change your mind",
-        "url": "https://open.spotify.com/album/3weNRiyxsmegdxmYnH458o"
-      },
-      "artists": [
-        {
-          "name": "2AM",
-          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
-        }
-      ],
-      "duration_ms": 219746,
-      "name": "If you change your mind",
-      "url": "https://open.spotify.com/track/3j0gucP19lYwU0sSFezYFp"
-    },
-    {
-      "added_at": "2024-02-01 09:30:31",
-      "album": {
         "name": "Love..What is it",
         "url": "https://open.spotify.com/album/4tJCXCEaUtRo4J6XaOZdb4"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 228426,
       "name": "Floral Sense",
       "url": "https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw"
+    },
+    {
+      "added_at": "2024-02-01 09:30:31",
+      "album": {
+        "name": "If you change your mind",
+        "url": "https://open.spotify.com/album/3weNRiyxsmegdxmYnH458o"
+      },
+      "artists": [
+        {
+          "name": "2AM",
+          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
+        }
+      ],
+      "duration_ms": 219746,
+      "name": "If you change your mind",
+      "url": "https://open.spotify.com/track/3j0gucP19lYwU0sSFezYFp"
     }
   ],
   "unique_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 
 > 2011 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,454 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,521 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 26 | [Love is a Laserquest](https://open.spotify.com/track/0S6CXA5LpRDX6b4akgrOot) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:11 |
 | 27 | [I Follow Rivers](https://open.spotify.com/track/336ZYcU6poBWi3s8yzRcAD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 3:48 |
 | 28 | [Wait](https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 5:43 |
-| 29 | [Lost in My Mind](https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:19 |
-| 30 | [Hello My Old Heart](https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hellos EP](https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W) | 4:16 |
+| 29 | [Hello My Old Heart](https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hellos EP](https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W) | 4:16 |
+| 30 | [Lost in My Mind](https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:19 |
 | 31 | [Don't Stop \(Color on the Walls\)](https://open.spotify.com/track/4HRa9ZWcmZ8JD7UySPu0wT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 2:54 |
 | 32 | [Medicine](https://open.spotify.com/track/1ujiHGg5p9SVrNIV4jumQK) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Wild Youth](https://open.spotify.com/album/6BxQ7IyCBbx4CeB7BHQwet) | 4:18 |
 | 33 | [Never Let Me Go](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:31 |
@@ -54,15 +54,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 44 | [Days](https://open.spotify.com/track/5g7uidL6cVNS7GxcCAXa19) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi) | 4:29 |
 | 45 | [Corinne](https://open.spotify.com/track/6guXQ9rHmOofkqp8uHYO8r) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 3:16 |
 | 46 | [Future Starts Slow](https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr) | 4:08 |
-| 47 | [Taken for a Fool](https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:23 |
-| 48 | [Colours](https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 4:17 |
+| 47 | [Colours](https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 4:17 |
+| 48 | [Taken for a Fool](https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:23 |
 | 49 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 |
 | 50 | [Don't Move](https://open.spotify.com/track/1BeNZQORyV0jEF2toAmrsA) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/1O2FPFDjmyEOSTfqNuuuNG) | 4:18 |
 | 51 | [Down in the Valley](https://open.spotify.com/track/7IcKs2XXHnQBtBJtzEyqqS) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 5:03 |
 | 52 | [She's Thunderstorms](https://open.spotify.com/track/5xw2cHVLw1rlDPp3cL9Zuv) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:54 |
-| 53 | [Life Is Simple in the Moonlight](https://open.spotify.com/track/4ileLT7ldd2uX8bMemWqbm) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 4:15 |
-| 54 | [Codex](https://open.spotify.com/track/6ttYF5VadzTssGV2i1Q08T) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 4:47 |
-| 55 | [How Can You Swallow So Much Sleep](https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:30 |
+| 53 | [Codex](https://open.spotify.com/track/6ttYF5VadzTssGV2i1Q08T) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 4:47 |
+| 54 | [How Can You Swallow So Much Sleep](https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:30 |
+| 55 | [Life Is Simple in the Moonlight](https://open.spotify.com/track/4ileLT7ldd2uX8bMemWqbm) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 4:15 |
 | 56 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
 | 57 | [Kill Your Heroes](https://open.spotify.com/track/7LJF6AtijSniUJpmZTqKRj) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 2:58 |
 | 58 | [Balance](https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [On the Water](https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk) | 4:06 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 90 | [BTSTU \- Edit](https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe) | 3:29 |
 | 91 | [Get Some](https://open.spotify.com/track/5LbCx9z3eq83JVoJ74tnmt) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 3:22 |
 | 92 | [Bizness](https://open.spotify.com/track/08oSPuXfichvi5VRAaewbV) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [W H O K I L L](https://open.spotify.com/album/3ZjiKy5Tb1MIFRyGBBzoos) | 4:23 |
-| 93 | [Comeback Kid \(That's My Dog\)](https://open.spotify.com/track/4Jjr9IXCJVWIXOTuXDBNoq) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Loverboy](https://open.spotify.com/album/1tTnc3AhId4QUgGR69cCF8) | 3:25 |
-| 94 | [East Harlem](https://open.spotify.com/track/4i6O75iAptEnENjKLOLZ9Y) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ) | 3:58 |
-| 95 | [Hanging On](https://open.spotify.com/track/7kyubWDfd6Lv6ItXgENaM4) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/3ognTnle2G22rlIv9iU9JR) | 5:21 |
-| 96 | [New Beat](https://open.spotify.com/track/6bURo0Mmzg5EymcHwvONaj) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Underneath The Pine](https://open.spotify.com/album/6FtCAAEZUEutbmNfFHzeK0) | 4:04 |
-| 97 | [Landfill](https://open.spotify.com/track/271FGAt4bz1jAIN661Uq2c) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j) | 4:23 |
+| 93 | [Hanging On](https://open.spotify.com/track/7kyubWDfd6Lv6ItXgENaM4) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/3ognTnle2G22rlIv9iU9JR) | 5:21 |
+| 94 | [Comeback Kid \(That's My Dog\)](https://open.spotify.com/track/4Jjr9IXCJVWIXOTuXDBNoq) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Loverboy](https://open.spotify.com/album/1tTnc3AhId4QUgGR69cCF8) | 3:25 |
+| 95 | [East Harlem](https://open.spotify.com/track/4i6O75iAptEnENjKLOLZ9Y) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ) | 3:58 |
+| 96 | [Landfill](https://open.spotify.com/track/271FGAt4bz1jAIN661Uq2c) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j) | 4:23 |
+| 97 | [New Beat](https://open.spotify.com/track/6bURo0Mmzg5EymcHwvONaj) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Underneath The Pine](https://open.spotify.com/album/6FtCAAEZUEutbmNfFHzeK0) | 4:04 |
 | 98 | [The Cascades](https://open.spotify.com/track/0doAllpYP3hnusnTwFqmdG) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb) | 2:07 |
 | 99 | [Space Is Only Noise If You Can See](https://open.spotify.com/track/5zdXRoKLZ54VBdbdn7yhz4) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Space Is Only Noise](https://open.spotify.com/album/6h1AzRdT3rTjT5wRMgjYvh) | 5:42 |
 | 100 | [Kaputt](https://open.spotify.com/track/6DrvUh7WxKy1lQxsHcxtN2) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Kaputt](https://open.spotify.com/album/4sVWj2lb9F8nRg57VFTaf1) | 6:17 |
 
-Snapshot ID: `MCw4NzE3MDQ0OGJhMDY1NTQ5YzExNDBmNzkwMDY4OWM2MWU0ZTdkMDgw`
+Snapshot ID: `MCxhNjllYjg0YTAxZjUwMGU5YTA2YjQ1MmI3YmZlZjM4OWE1ZTg1MzQ2`

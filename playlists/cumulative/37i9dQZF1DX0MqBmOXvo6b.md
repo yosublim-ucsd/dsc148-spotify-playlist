@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-610 songs - 1 day 1 hr 57 min
+612 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Familiar Country](https://open.spotify.com/track/3TybBBVKurncnyymP5mKLn) | [Poppy\-Mae Wilder](https://open.spotify.com/artist/1ZtgWZkr1HRMEzDtNjuwlM) | [Familiar Country](https://open.spotify.com/album/3VIhoUOFnxpdaKM5qBoNYw) | 2:54 | 2022-06-07 | 2022-09-24 |
 | [Fare la limonata](https://open.spotify.com/track/2iydu5wmxnchiJVB9dfztj) | [Anastasio Confortola](https://open.spotify.com/artist/5SAOTTBvdu5AMwEDSHSa5X) | [Fare la limonata](https://open.spotify.com/album/4HxWgxFOuhiIVqIC4KSU5W) | 2:48 | 2022-06-07 |  |
 | [Feathers](https://open.spotify.com/track/4T4P5i4RkTHRlGuBqbxSnA) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Feathers](https://open.spotify.com/album/7I0s6MBfw5VWHSReQ6NqWB) | 2:37 | 2022-06-07 | 2022-09-15 |
+| [Felt Improv No\. 10](https://open.spotify.com/track/67821VRXVngHwGDcs2IKy3) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Felt Improvisations](https://open.spotify.com/album/4hjtToG3IRrxVpfo6BiQaX) | 2:43 | 2024-02-05 |  |
 | [Fidelity](https://open.spotify.com/track/71i3ssLhtbdlUIK2fOoqNr) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Fidelity](https://open.spotify.com/album/0NVSJ5RYhkcS30b9VKTsLh) | 2:49 | 2022-06-07 | 2022-09-28 |
 | [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 | 2023-10-04 |  |
 | [Fin de l'été](https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6) | [Falerina Paquet](https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B) | [Fin de l'été](https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42) | 1:53 | 2022-06-07 | 2023-07-25 |
@@ -253,7 +254,7 @@
 | [Larae](https://open.spotify.com/track/0afdVLpxfG1ZogyBWK6t7I) | [Isobel Noble](https://open.spotify.com/artist/36XAjwbcbVkRdcd2uEuVTq) | [Larae](https://open.spotify.com/album/2wBwCs72RrhJ69U9dvScL3) | 2:29 | 2022-06-07 | 2022-09-24 |
 | [Lasciare Andare](https://open.spotify.com/track/7k6BmWDRLOip7YGUg48SVp) | [Gino Delafiori](https://open.spotify.com/artist/2mLwZnRXgqPqosokl8VjwF) | [Umbria](https://open.spotify.com/album/3lhm2pyVEJihYdBmxgjgDL) | 3:27 | 2022-06-07 | 2023-02-07 |
 | [Late Spring](https://open.spotify.com/track/5DXfJx64sxj7H7ngSG6RyI) | [Anthony Bertoli](https://open.spotify.com/artist/0v0hz2stDsZwptsPymBJWz) | [Late Spring](https://open.spotify.com/album/5qFZFWDP9CrFDOxVHWkqoy) | 3:00 | 2022-06-07 | 2024-01-30 |
-| [Laurel Tree \(Whispers\)](https://open.spotify.com/track/2n1LkGURXqH7lP3J7vhcJr) | [Rowen Ellis](https://open.spotify.com/artist/185C3FAs4S58KqV8e8LP3H) | [Laurel Tree \(Whispers\)](https://open.spotify.com/album/2yqjaFL6QWjYqH7vBpbUK0) | 2:47 | 2022-06-07 |  |
+| [Laurel Tree \(Whispers\)](https://open.spotify.com/track/2n1LkGURXqH7lP3J7vhcJr) | [Rowen Ellis](https://open.spotify.com/artist/185C3FAs4S58KqV8e8LP3H) | [Laurel Tree \(Whispers\)](https://open.spotify.com/album/2yqjaFL6QWjYqH7vBpbUK0) | 2:47 | 2022-06-07 | 2024-02-08 |
 | [Le Beau](https://open.spotify.com/track/2sXivDlzfbHQAPrGYKhWbP) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Le Beau](https://open.spotify.com/album/1nGkLuKoBJur52SMEeMnR6) | 3:25 | 2022-06-07 |  |
 | [Le Bonheur](https://open.spotify.com/track/3J8dqKlO2trb3uRGhcx3ok) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Le Bonheur](https://open.spotify.com/album/16jsGf5M8TZ2NeqSa09c8P) | 2:59 | 2022-06-07 | 2022-09-15 |
 | [Le parole non bastano](https://open.spotify.com/track/3q257jNovvy9u7dW3BOo4u) | [Massimo Corciani](https://open.spotify.com/artist/0YeuG8IbzLJfqplMuNTxGI) | [Le parole non bastano](https://open.spotify.com/album/6EHWGXSxxhvtOSZVEHr52o) | 2:31 | 2022-06-07 | 2022-09-15 |
@@ -404,7 +405,7 @@
 | [Restzeit](https://open.spotify.com/track/6LTRQ62pQFSr1OmmDYyzVy) | [Raoul Panzinger](https://open.spotify.com/artist/7BIiSEdSySWVsnOOIrohEP) | [Restzeit](https://open.spotify.com/album/6YnTVreiPfr0Ve4LlJkv3Z) | 2:03 | 2022-06-07 |  |
 | [Reunion](https://open.spotify.com/track/4QVzNx3f036rsmY2M0hWxr) | [Elvira Ashmore](https://open.spotify.com/artist/3NvKxkPl5eEE5z30zDfsiw) | [Reunion](https://open.spotify.com/album/0hAXloydsGGgAFO1hjgGhl) | 2:27 | 2022-06-07 | 2022-09-24 |
 | [Rhyl Sands](https://open.spotify.com/track/2eB6dVkwbCJayvgplBO6Nt) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Malerei](https://open.spotify.com/album/6sxgRR1cYtmCXQSuDGU8ST) | 3:02 | 2022-09-14 |  |
-| [Rianmarsi](https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Rianmarsi](https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J) | 2:16 | 2022-06-07 |  |
+| [Rianmarsi](https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Rianmarsi](https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J) | 2:16 | 2022-06-07 | 2024-02-08 |
 | [Ripples](https://open.spotify.com/track/3xE0JN7dBupo1lrr6WvZSl) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Ripples](https://open.spotify.com/album/67aW2j0JJHUh72ixyNytgg) | 2:12 | 2022-06-07 |  |
 | [Rites of Passage](https://open.spotify.com/track/3m9k6Jc0EvtZEQLUfYd0e9) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Rites of Passage](https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h) | 3:11 | 2022-06-07 |  |
 | [River Running Free](https://open.spotify.com/track/2qCzkyUdNWxGY0lQh0jp8F) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [River Running Free](https://open.spotify.com/album/0BQOiGn059PbJJtbi6VwGU) | 2:16 | 2022-06-07 | 2022-07-20 |
@@ -528,6 +529,7 @@
 | [The Remedy](https://open.spotify.com/track/3LYU4JAT6xnEufa2BBwe89) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [The Remedy](https://open.spotify.com/album/6SNyV83OijPvIMf7BKxySb) | 2:54 | 2022-06-07 | 2023-01-25 |
 | [The Sailor's Tale](https://open.spotify.com/track/4CJk8MsMYM1y9ve1jpG9Pz) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Storybook](https://open.spotify.com/album/4DnP1mve2HFOL0XoWYdwvZ) | 2:12 | 2022-06-07 |  |
 | [The Scent Of New Days](https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [The Scent Of New Days](https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD) | 2:22 | 2022-06-07 |  |
+| [The Seventh Wave](https://open.spotify.com/track/4rRjQydi87TheoZVntdiER) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [The Seventh Wave](https://open.spotify.com/album/2fuIB47RUiieeW834wdide) | 2:08 | 2024-02-05 |  |
 | [The Shortest Distance](https://open.spotify.com/track/1IvutkNuvq7URH4twRVeSD) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Shortest Distance](https://open.spotify.com/album/48Pzdi9h9my2o6G1FgQLDY) | 2:41 | 2023-10-17 |  |
 | [The Taste of Snow](https://open.spotify.com/track/5k0J9mTY2bypVkJ2pP7acf) | [Piano Melancolía](https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410) | [The Taste of Snow](https://open.spotify.com/album/4kXTcqVDyWXQW8pbxJRN4j) | 2:16 | 2022-06-07 | 2022-11-05 |
 | [the time has come](https://open.spotify.com/track/3c0jigaQuhR3R4c6RGX6Ao) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Freedom](https://open.spotify.com/album/7lUBViasfvFfPgJvxTuXnC) | 2:26 | 2022-06-07 | 2024-02-06 |

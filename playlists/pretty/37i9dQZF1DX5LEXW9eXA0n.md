@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:Kim Na Young, Shin Yong Jae\(김나영, 신용재\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,933 likes - 101 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,943 likes - 101 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 100 | [With UNIVERSE](https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [With UNIVERSE](https://open.spotify.com/album/2m8cxPDIlH371sLuivEWMI) | 2:59 |
 | 101 | [Dear Fall](https://open.spotify.com/track/1zmaOkXV1s5G5r5Rqkvy2n) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [Dear Fall](https://open.spotify.com/album/0yylG3rQTi5BAlX26WK8F2) | 4:12 |
 
-Snapshot ID: `MCw3NTZlMWZhZmJmNDE4YTIzZTU4ZmFiODY0YmNiNGRmOTk0YjZhZmYz`
+Snapshot ID: `MCw3Yjg5NDBmZTI4MTJlYjI2OWYyMTk1ODc2MmI4OGE1MmE1YTNmNWFk`

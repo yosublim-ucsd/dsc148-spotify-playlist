@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wcKDtt5TMP.md) - [plain]
 
 > Lo mejor del rock en español en la década de los 80.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,841 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,994 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wcKDtt5TMP.md) - [plain]
 | 49 | [La Voz de los '80](https://open.spotify.com/track/0VvwpKqD7cOYubrK030fGR) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Voz de los '80 \(Edición 30 Años\)](https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa) | 4:08 |
 | 50 | [Sin aliento](https://open.spotify.com/track/3jAgeQ5AmuV7UWhdvP651Y) | [Danza Invisible](https://open.spotify.com/artist/1MK9J20Op7jFgUDbLiy6m2) | [Musica De Contrabando](https://open.spotify.com/album/73HchWHWCwNldGE8cFDfuS) | 4:57 |
 
-Snapshot ID: `MCwxNWQ3MGE1ZDlmMDlkNWM0OWM5YTY1MWM3M2UzZTA2ZmVhMzk5OTEz`
+Snapshot ID: `MCwwZmVlNjdkYTI0YWFlMzMyZjZjNjA3ZTUwOGI1NGYyY2YxN2Q0YmFl`

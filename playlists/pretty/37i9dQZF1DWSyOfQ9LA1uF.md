@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,971 likes - 75 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,995 likes - 75 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 45 | [Testarossa \(SebastiAn Remix\)](https://open.spotify.com/track/1J5Z0AVsxRejfrtZGGAcWO) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [1986 \- EP](https://open.spotify.com/album/3wke2l2r3BQ9YJ75x5A1DK) | 4:58 |
 | 46 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania \(Remixes\)](https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT) | 5:04 |
 | 47 | [Drugs in My Body](https://open.spotify.com/track/0AKK3dHXpRSt0dmhMEzaKm) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Drugs in My Body](https://open.spotify.com/album/3htXmYLWbyAOzQvC9bNwFG) | 3:36 |
-| 48 | [We Are The People \- Shazam Remix](https://open.spotify.com/track/1GmTCaR9wtipTlzgDadvdx) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 5:44 |
-| 49 | [Happiness \- The Magician Remix](https://open.spotify.com/track/5bgR2f3sCS135kzxjIlDD3) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Return to Paradise](https://open.spotify.com/album/2Vy7CHmUrL7HVxLVfP5n4w) | 3:38 |
+| 48 | [Happiness \- The Magician Remix](https://open.spotify.com/track/5bgR2f3sCS135kzxjIlDD3) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Return to Paradise](https://open.spotify.com/album/2Vy7CHmUrL7HVxLVfP5n4w) | 3:38 |
+| 49 | [We Are The People \- Shazam Remix](https://open.spotify.com/track/1GmTCaR9wtipTlzgDadvdx) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 5:44 |
 | 50 | [& Down](https://open.spotify.com/track/3TMwHtO5c4jlnnFZK8MuBH) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Oi Oi Oi](https://open.spotify.com/album/5McKybquvC9GQ3Ppifsmxf) | 4:18 |
 | 51 | [Walkman](https://open.spotify.com/track/3vPpGtZWKVevB6FtZc9Aiv) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Ross Ross Ross](https://open.spotify.com/album/341yoHp5PzASrdmqCug1wv) | 4:59 |
 | 52 | [Signatune \- Thomas Bangalter Edit](https://open.spotify.com/track/0mbN6sStNZ9yb2twaffP20) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Lucky Girl](https://open.spotify.com/album/4nPSFdPtaZwp7oyy5bTumn) | 6:19 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 54 | [Monster Hospital \(MSTRKRFT Remix\)](https://open.spotify.com/track/2xF9HPXTfA3Jxar6lVBAKf) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Monster Hospital](https://open.spotify.com/album/44Dp3q5cxzWqmD1m7UGHW9) | 5:14 |
 | 55 | [Banquet \- Phones Disco Edit](https://open.spotify.com/track/3ZQK3zrHOHFZtgvIL6W2eW) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm Remixed](https://open.spotify.com/album/73gLi25b8sQukoOreAL9x5) | 5:24 |
 | 56 | [Bad Girls \- Switch Remix](https://open.spotify.com/track/2T1LMzbf3Ui5nv0Im5lmGV) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Bad Girls \(The Remixes\)](https://open.spotify.com/album/1JV2adHIREQSZWTCrn6CbW) | 3:23 |
-| 57 | [Mars](https://open.spotify.com/track/59psl7nHl2qbUbht6mTeWp) | [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Mars](https://open.spotify.com/album/3AybLunP9HeRxlcmYzJJ7B) | 4:21 |
-| 58 | [Black & Gold](https://open.spotify.com/track/6aMTBaxY2A1GbvO4tFanxF) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Sam Sparro](https://open.spotify.com/album/1gYtav3PWh8I8bXZLs6SgR) | 4:34 |
-| 59 | [Krack](https://open.spotify.com/track/4PsymYKD8pwAiLh9Fqw6kl) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions \(15 Year Anniversary Edition\)](https://open.spotify.com/album/4cGFG2xWOqE09EmRMUMd6t) | 5:26 |
+| 57 | [Krack](https://open.spotify.com/track/4PsymYKD8pwAiLh9Fqw6kl) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions \(15 Year Anniversary Edition\)](https://open.spotify.com/album/4cGFG2xWOqE09EmRMUMd6t) | 5:26 |
+| 58 | [Mars](https://open.spotify.com/track/59psl7nHl2qbUbht6mTeWp) | [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Mars](https://open.spotify.com/album/3AybLunP9HeRxlcmYzJJ7B) | 4:21 |
+| 59 | [Black & Gold](https://open.spotify.com/track/6aMTBaxY2A1GbvO4tFanxF) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Sam Sparro](https://open.spotify.com/album/1gYtav3PWh8I8bXZLs6SgR) | 4:34 |
 | 60 | [Cornelius](https://open.spotify.com/track/6YJCmoVtQMYcCmHOsdlWor) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5) | [ROMBORAMA](https://open.spotify.com/album/0trChN5eN92UYTUqOIMQRe) | 4:13 |
 | 61 | [Time To Realize](https://open.spotify.com/track/7mjNEIhe8lRG9sbwM5su3M) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Chapter One](https://open.spotify.com/album/5F00Gf428CfhyD0TGxAZFi) | 3:30 |
 | 62 | [Bongo Song](https://open.spotify.com/track/7LYkRnxddh6BTp3CrXmofK) | [Zongamin](https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy) | [Bongo Song](https://open.spotify.com/album/5Ys062wL4Hzm11mpaKnk4u) | 5:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 74 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
 | 75 | [Stuck On Repeat \- Fake Blood Mix](https://open.spotify.com/track/24y567q7DSKBwTPIkooH2K) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30), [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Hands: Bonus Disc](https://open.spotify.com/album/7yxVBOqeXa8cIFwPLsxS7c) | 6:26 |
 
-Snapshot ID: `MCw1MTNkZjI0ZTQwMDBmZjdlOTg4ZDJjZDdlNzg4ZWQxZGZhMGNlZGE1`
+Snapshot ID: `MCxhODhhODBlNGM4YTA2NjFmNmM0Yjg0MzU2NzI2ZTY4MmUwNDkxZTll`

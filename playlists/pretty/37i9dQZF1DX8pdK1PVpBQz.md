@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Donny Benet\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,051 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,064 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [High School Drama](https://open.spotify.com/track/4R5Mf6PT2EwgkZIXwoKjAD) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [High School Drama](https://open.spotify.com/album/4MBtDxeecH2fTMfs2wSPaM) | 2:52 |
 | 100 | [I Want It \(Danny DeVito\)](https://open.spotify.com/track/3aXT30VvzkodMqmCicZ4SK) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [I Want It \(Danny DeVito\)](https://open.spotify.com/album/3WjI8Rip86vK7b1XwvrZ4D) | 2:14 |
 
-Snapshot ID: `MCw4NmMzYzM2MWFkMmE2YTc1MGM0MWVhMmYxNWFiZDgyZmIzMDdiNmRj`
+Snapshot ID: `MCwxNjhmZTMzN2YxYjYwMDc4ZDM1MDI2Y2Y3MzEzZjZkNWQ3ZmIzOWVi`

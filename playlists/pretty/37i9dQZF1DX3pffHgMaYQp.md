@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 
 > Música para insubordinados\. Idles en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,651 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,655 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 26 | [Waiting Room](https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:53 |
 | 27 | [La Excusa Perfecta](https://open.spotify.com/track/7vyoSMhwAepA7tGwruszQA) | [Alavedra](https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt) | [La Excusa Perfecta](https://open.spotify.com/album/51pAvbdBsnJGDBxrNN3Ax5) | 3:00 |
 | 28 | [Above Me \- Original Demo Version](https://open.spotify.com/track/69YSvP5hAOdA6UdAAxnDLk) | [Rufio](https://open.spotify.com/artist/0HjoyITAvSVktTCjXUa40Q) | [Perhaps, I Suppose...](https://open.spotify.com/album/4ugKYcki4uFjdb6MAMLZED) | 3:12 |
-| 29 | [Sabinal](https://open.spotify.com/track/6GdjcejLIYstjDTS111tKR) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/2VW2Arzox2JddtDvguuUU1) | 2:16 |
+| 29 | [Sabinal](https://open.spotify.com/track/7paWGmYSmpkjG8WL7uQtjt) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/0b0mXtRM4QGRVvnpJO4FoA) | 2:16 |
 | 30 | [Guilt Trip](https://open.spotify.com/track/6pWwP8xGvZ4HTUbVGgzGMy) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [PUP](https://open.spotify.com/album/2i0sTsyZZGEGcakLqHFcyw) | 3:20 |
 | 31 | [Marta, Sebas, Guille y los demás](https://open.spotify.com/track/4cQ2GXbAdQqx87wwlsyez1) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Marta, Sebas, Guille y los demás](https://open.spotify.com/album/3Y2hgJR4818QVUX9uzWp2G) | 3:40 |
 | 32 | [Atari \(Todo Mi Mundo a Color\) \- Original](https://open.spotify.com/track/3v6oyDCU5rB9ze5XdIAmK8) | [Niña ](https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc) | [R.o.c.k.](https://open.spotify.com/album/3FFaVqWKX7AJLoKiSL0v5M) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 99 | [Panteón](https://open.spotify.com/track/4stvgopAieFBf2zabV5BKf) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/0wX8llGdmubMvDSzuWMOJo) | 1:35 |
 | 100 | [Los Ojos](https://open.spotify.com/track/4JWeLmA9OIhKs7Mh965ibq) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Los Ojos](https://open.spotify.com/album/1NqcC1Kpu10I0uUuwpWRKm) | 2:42 |
 
-Snapshot ID: `MCw1YjNlZWM4MGQ1MzNmZjc1MGJlNjIzYTcwNWEzMDI4YmZlNjdiNDJh`
+Snapshot ID: `MCw2MjE4OGU0ZjlmZTc3ODU1ZGQ4ZDFmMWI2NDcyYzQ3OTM5YzJmZTZk`

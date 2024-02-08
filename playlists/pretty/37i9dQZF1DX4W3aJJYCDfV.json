@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from The Last Dinner Party, Tom Walker, Jazzy and more!",
-  "num_followers": 844867,
+  "num_followers": 844917,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmE3NzhmNGE1NTY4NmE1M2NiNjBhMmJmOThjN2E1ZTE4NjZlNmE4",
+  "snapshot_id": "MCxiZjliNGZiNTE4YWZjMDg1MDBmY2Y1MDBlZmM3NjgyYzM5YjM2MjEy",
   "tracks": [
     {
       "added_at": "2024-02-02 00:00:00",
@@ -1811,17 +1811,17 @@
     {
       "added_at": "2024-02-02 00:00:00",
       "album": {
-        "name": "Cold city",
+        "name": "",
         "url": "https://open.spotify.com/album/0L4rAoQci86u1OmgC2El9s"
       },
       "artists": [
         {
-          "name": "Dide",
-          "url": "https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4"
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Cold city",
+      "duration_ms": 0,
+      "name": "",
       "url": "https://open.spotify.com/track/63ZIpQQxSPeAyYqSxY1v0J"
     },
     {

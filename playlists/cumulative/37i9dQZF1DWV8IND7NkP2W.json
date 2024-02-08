@@ -11851,6 +11851,24 @@
     },
     {
       "album": {
+        "name": "samurai champloo music record playlist",
+        "url": "https://open.spotify.com/album/49mMypOEixRaJ26rZGbvnI"
+      },
+      "artists": [
+        {
+          "name": "TSUTCHIE",
+          "url": "https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255133,
+      "name": "thank you",
+      "url": "https://open.spotify.com/track/2HC8XxoSzx8u1fy0F2sRtZ"
+    },
+    {
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/5QIRw20KA0LEOTVBhUm5VE"
       },
@@ -12090,7 +12108,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 92696,
       "name": "Tokyo Mornings",
       "url": "https://open.spotify.com/track/0vNjMAfi6DB5HahsQjo4D7"

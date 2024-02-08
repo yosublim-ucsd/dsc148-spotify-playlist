@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 60465,
+  "num_followers": 60515,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGNmNDY1MzM3NzQ2NzAxNzk1YmNjOTMxNGMwNTU2ZWU3ZDI5YmIz",
+  "snapshot_id": "MCw0MWM2NzIxYjM1NzIyYTQzMTFmODY4OTVlNjRlOTU1NGMwMjI1OTZh",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn"
+        "name": "Calmc",
+        "url": "https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X"
       },
       "artists": [
         {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+          "name": "Kraff Gad",
+          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
         }
       ],
-      "duration_ms": 193170,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul"
+      "duration_ms": 173844,
+      "name": "Calmc",
+      "url": "https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Calmc",
-        "url": "https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X"
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn"
       },
       "artists": [
         {
-          "name": "Kraff Gad",
-          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
         }
       ],
-      "duration_ms": 173844,
-      "name": "Calmc",
-      "url": "https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5"
+      "duration_ms": 193170,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Roll Deep",
         "url": "https://open.spotify.com/album/0DVnruHgsqHFIoYnmpYlc2"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 207856,
       "name": "Roll Deep",
       "url": "https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 175187,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -615,6 +615,22 @@
       "duration_ms": 161739,
       "name": "Curious",
       "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Verified Choppa 2",
+        "url": "https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE"
+      },
+      "artists": [
+        {
+          "name": "Marksman",
+          "url": "https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR"
+        }
+      ],
+      "duration_ms": 139093,
+      "name": "Verified Choppa 2",
+      "url": "https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -675,22 +691,6 @@
       "duration_ms": 161182,
       "name": "Brrrp",
       "url": "https://open.spotify.com/track/383ptF3PbNr3Z1NvwO2Je5"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Verified Choppa 2",
-        "url": "https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE"
-      },
-      "artists": [
-        {
-          "name": "Marksman",
-          "url": "https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR"
-        }
-      ],
-      "duration_ms": 139093,
-      "name": "Verified Choppa 2",
-      "url": "https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Likkle Miss",
-        "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 134452,
-      "name": "Likkle Miss",
-      "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW"
       },
@@ -799,6 +783,38 @@
       "duration_ms": 219574,
       "name": "Pieces (with Jahshii)",
       "url": "https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 171145,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Likkle Miss",
+        "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 134452,
+      "name": "Likkle Miss",
+      "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -855,38 +871,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Gifted",
-        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 171145,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Street Cred",
-        "url": "https://open.spotify.com/album/2yEZn1kPkRUTW3F48OEFeB"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Street Cred",
-      "url": "https://open.spotify.com/track/7uCd9RMJGcbZY9zpv0dPw7"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Tic Tac Toe",
         "url": "https://open.spotify.com/album/1L67y3BRIGj7VrT9yGT7is"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 221583,
       "name": "Skeleton Cartier",
       "url": "https://open.spotify.com/track/7vRm8Bzniw9mtHoFtnoxB0"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Street Cred",
+        "url": "https://open.spotify.com/album/2yEZn1kPkRUTW3F48OEFeB"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Street Cred",
+      "url": "https://open.spotify.com/track/7uCd9RMJGcbZY9zpv0dPw7"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 237458,
+      "name": "West Indies",
+      "url": "https://open.spotify.com/track/2OFvClbKLxtHeVMb3O1pOX"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Born Fighter",
         "url": "https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc"
       },
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Gifted",
-        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 237458,
-      "name": "West Indies",
-      "url": "https://open.spotify.com/track/2OFvClbKLxtHeVMb3O1pOX"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Another Dolla",
         "url": "https://open.spotify.com/album/47WukhbbObtRY8dJJNtLpl"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 163526,
       "name": "Another Dolla",
       "url": "https://open.spotify.com/track/7deQrS3BUiDdPJgAl2e3MP"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "SIN TRAP (Giftcard)",
+        "url": "https://open.spotify.com/album/1pYvUxE24u8KYnQCUdN3YV"
+      },
+      "artists": [
+        {
+          "name": "Najeeriii",
+          "url": "https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF"
+        }
+      ],
+      "duration_ms": 177240,
+      "name": "SINTRAP (Giftcard)",
+      "url": "https://open.spotify.com/track/7EBrB8ZuJe9zYI5kW39WQn"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1223,22 +1239,6 @@
       "duration_ms": 196800,
       "name": "Bitcoin",
       "url": "https://open.spotify.com/track/6wximh7UUXaridTcdnGzNo"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "SIN TRAP (Giftcard)",
-        "url": "https://open.spotify.com/album/1pYvUxE24u8KYnQCUdN3YV"
-      },
-      "artists": [
-        {
-          "name": "Najeeriii",
-          "url": "https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF"
-        }
-      ],
-      "duration_ms": 177240,
-      "name": "SINTRAP (Giftcard)",
-      "url": "https://open.spotify.com/track/7EBrB8ZuJe9zYI5kW39WQn"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 196115,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/3tP5YkONgQz9eMu5P97RA9"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "WSTRN Season 3",
         "url": "https://open.spotify.com/album/7stgMji7x8jvLjibOwngE7"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 233225,
       "name": "Influence (feat. Dexta Daps)",
       "url": "https://open.spotify.com/track/6QC19cMrtbLNrZMH2bVl7w"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Top Prize",
-        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 196115,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/3tP5YkONgQz9eMu5P97RA9"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Top Prize",
-        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/7mxpbEr40ApaC4wzKdSkuq"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Sweepstake Life",
         "url": "https://open.spotify.com/album/5CgSQKBs32x5ZTOgc7uYSn"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 208351,
       "name": "Shootaz",
       "url": "https://open.spotify.com/track/1bNpPT16lRsUyK8FFHqYab"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/7mxpbEr40ApaC4wzKdSkuq"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Amiri",
-        "url": "https://open.spotify.com/album/0EYBN4HaEk22NhzIWcR9ev"
-      },
-      "artists": [
-        {
-          "name": "Kraff Gad",
-          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "Amiri",
-      "url": "https://open.spotify.com/track/5FCxUX1NdOzWtCcCoq5o17"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Big Chune",
         "url": "https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs"
       },
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Amiri",
+        "url": "https://open.spotify.com/album/0EYBN4HaEk22NhzIWcR9ev"
+      },
+      "artists": [
+        {
+          "name": "Kraff Gad",
+          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "Amiri",
+      "url": "https://open.spotify.com/track/5FCxUX1NdOzWtCcCoq5o17"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Middle",
         "url": "https://open.spotify.com/album/0NlJ1pz17KDONwsqbubpTz"
       },
@@ -1607,22 +1607,6 @@
       "duration_ms": 126315,
       "name": "Middle",
       "url": "https://open.spotify.com/track/171oqBowIpiDoow5uGqgg0"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Ocean Wave",
-        "url": "https://open.spotify.com/album/722vGdkmCeXfKriYdKonto"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "Ocean Wave",
-      "url": "https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1671,6 +1655,22 @@
       "duration_ms": 227040,
       "name": "25/8",
       "url": "https://open.spotify.com/track/1TcB4qgfMXaiLDIE9DlimJ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Ocean Wave",
+        "url": "https://open.spotify.com/album/722vGdkmCeXfKriYdKonto"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Ocean Wave",
+      "url": "https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2243,6 +2243,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Only Room For Two",
+        "url": "https://open.spotify.com/album/5LNfBlPuDxcbTGfvg0yJJT"
+      },
+      "artists": [
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "duration_ms": 197895,
+      "name": "Only Room for Two",
+      "url": "https://open.spotify.com/track/5YjsRoJKnqfsLQHMD6uk30"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/3yG8BUXM4bnQ8pH3KgHS2G"
       },
@@ -2259,22 +2275,6 @@
       "duration_ms": 160303,
       "name": "I Am",
       "url": "https://open.spotify.com/track/2XPIIi8TnoZMMzBE5RNOAm"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Only Room For Two",
-        "url": "https://open.spotify.com/album/5LNfBlPuDxcbTGfvg0yJJT"
-      },
-      "artists": [
-        {
-          "name": "Gyptian",
-          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
-        }
-      ],
-      "duration_ms": 197895,
-      "name": "Only Room for Two",
-      "url": "https://open.spotify.com/track/5YjsRoJKnqfsLQHMD6uk30"
     },
     {
       "added_at": "2023-05-24 08:21:37",

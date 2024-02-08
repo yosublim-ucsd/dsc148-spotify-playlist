@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,936 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,984 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 67 | [Volveré a Salavina](https://open.spotify.com/track/6ARoKVfaWidfpGqau25soy) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Arde la Vida](https://open.spotify.com/album/1EMQS6RLfRhAd5I7AByWRb) | 2:27 |
 | 68 | [Alma Guaraní](https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm) | [Correntinas II](https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct) | 2:36 |
 | 69 | [La Cautiva](https://open.spotify.com/track/15cSWHIrhn61e77VJ6uqYZ) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Yo Digo Lo Que Siento](https://open.spotify.com/album/6aPCsUPEEFY441vUHimyVe) | 3:55 |
-| 70 | [Cancion del Adios](https://open.spotify.com/track/6BklLF2QyVlNyKVj41yEFf) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Horacio Guarany](https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT) | 3:09 |
-| 71 | [Maricón](https://open.spotify.com/track/2Oai4riWXNOaLiqw8m5Dki) | [Aca Seca Trio](https://open.spotify.com/artist/6nvkqGQVDZLm0y1TxubrFA) | [Avenido](https://open.spotify.com/album/0IDRD7oisVkSyZKfpTA5wM) | 1:58 |
+| 70 | [Maricón](https://open.spotify.com/track/2Oai4riWXNOaLiqw8m5Dki) | [Aca Seca Trio](https://open.spotify.com/artist/6nvkqGQVDZLm0y1TxubrFA) | [Avenido](https://open.spotify.com/album/0IDRD7oisVkSyZKfpTA5wM) | 1:58 |
+| 71 | [Cancion del Adios](https://open.spotify.com/track/6BklLF2QyVlNyKVj41yEFf) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Horacio Guarany](https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT) | 3:09 |
 | 72 | [Sueñero](https://open.spotify.com/track/6WvNlAbmHeglLk5MKtRhND) | [Jorge Fandermole](https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet) | [Navega](https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx) | 4:32 |
 | 73 | [Zamba para Decir Adiós](https://open.spotify.com/track/7JG9cdNOvJPwUu5sjEfsL0) | [Argentino Luna](https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs) | [De Colección](https://open.spotify.com/album/6TMGYks1T9yjraH2TIYzm0) | 3:33 |
-| 74 | [Ay Vidita](https://open.spotify.com/track/4GUppnqduxOfD6qmsQkGZe) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Los Tekis\-Los Elegidos](https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft) | 3:20 |
-| 75 | [Florcita Del Monte](https://open.spotify.com/track/4zO7lcsUUxpEbjEt7MfJQW) | [Milena Salamanca](https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2) | [MILENA](https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS) | 3:18 |
+| 74 | [Florcita Del Monte](https://open.spotify.com/track/4zO7lcsUUxpEbjEt7MfJQW) | [Milena Salamanca](https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2) | [MILENA](https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS) | 3:18 |
+| 75 | [Ay Vidita](https://open.spotify.com/track/4GUppnqduxOfD6qmsQkGZe) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Los Tekis\-Los Elegidos](https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft) | 3:20 |
 | 76 | [Córdoba Sin Ti](https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Grandes Éxitos](https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS) | 3:47 |
 | 77 | [Zamba Del Negro Alegre](https://open.spotify.com/track/7surOH29RMSvRAdInzGhLU) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Romance De Luna Y Flor](https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe) | 3:03 |
 | 78 | [Viejo Pescador del Paraná \(with Teresa Parodi & Chango Spasiuk\)](https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Primavera](https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG) | 3:56 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [Guitarra de Medianoche](https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Greatest Hits](https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV) | 3:16 |
 | 90 | [La Tempranera](https://open.spotify.com/track/4Px7Z8x7JBJNlX0HSf9lfJ) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 4:53 |
 
-Snapshot ID: `MCw3MWMwMjM3NmE4MGYzMjM2YTkxY2NkZGJlNWI0YzU2Njk3ZjgwZTNj`
+Snapshot ID: `MCxmOGE2YTc0MGE5Y2MzMjU5ZDJiNTI0NGY1YTQ4ZmMzYTY3MDhlZTBh`

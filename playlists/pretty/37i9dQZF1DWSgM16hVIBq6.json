@@ -1,12 +1,12 @@
 {
   "description": "Se prendi\u00f3 la fiesta, featuring Marc Anthony.",
-  "num_followers": 83584,
+  "num_followers": 83611,
   "original_name": "SABOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwMjYxNjQwMCwwMDAwMDAwMDAxNTk3NjMyMWYwZWRlNjExNGM0N2UxMzRlNzJjZDVj",
+  "snapshot_id": "MCxmMmI4ZDE5ZmE0NzExZTgzNTljN2IzZTRkYWIzNjRhNjBhMWMwMWZm",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 301573,
-      "name": "Amores Como el Nuestro",
-      "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Cant\u00e1ndole al Amor, Vol. 2",
         "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 301441,
       "name": "T\u00fa Con El",
       "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 301573,
+      "name": "Amores Como el Nuestro",
+      "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Sentimental de Punta a Punta",
-        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 325642,
-      "name": "Oiga, Mire, Vea",
-      "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Travesia",
         "url": "https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 266493,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Sentimental de Punta a Punta",
+        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 325642,
+      "name": "Oiga, Mire, Vea",
+      "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Que Suenen los Tambores",
+        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 272680,
+      "name": "No Quer\u00eda Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/7mvgoSoN2klG8M68WZLrYq"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Prestige",
         "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 219786,
       "name": "Ven Conmigo",
       "url": "https://open.spotify.com/track/2QSuNcQxqFfokvbS7SInHG"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Que Suenen los Tambores",
-        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "No Quer\u00eda Enga\u00f1arte",
-      "url": "https://open.spotify.com/track/7mvgoSoN2klG8M68WZLrYq"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 266893,
-      "name": "T\u00fa No Le Amas Le Temes",
-      "url": "https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Dicen Que Soy",
         "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 367026,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/4qAknKWl2aMvWn4r1nzWAa"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 266893,
+      "name": "T\u00fa No Le Amas Le Temes",
+      "url": "https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Pintame",
-        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "P\u00edntame",
-      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Internacional",
         "url": "https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 267733,
       "name": "La Tanga",
       "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Pintame",
+        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "P\u00edntame",
+      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx"
-      },
-      "artists": [
-        {
-          "name": "Fulanito",
-          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "El Cepillo",
-      "url": "https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Gente Valiente",
         "url": "https://open.spotify.com/album/5kEnDeBQVa1V1YT485bMyF"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 228226,
       "name": "Ya No Me Duele M\u00e1s",
       "url": "https://open.spotify.com/track/4JnJ9ACXmtLkpH61ZvFSaM"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx"
+      },
+      "artists": [
+        {
+          "name": "Fulanito",
+          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "El Cepillo",
+      "url": "https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Rebotando",
+        "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
+      },
+      "artists": [
+        {
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+        }
+      ],
+      "duration_ms": 263493,
+      "name": "El Taqui Taqui - Original Mix",
+      "url": "https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 208800,
       "name": "Nuestra Cancion",
       "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 216897,
-      "name": "Loter\u00eda",
-      "url": "https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU"
     }
   ],
   "unique_name": "SABOR",

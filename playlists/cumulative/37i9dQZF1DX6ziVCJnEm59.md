@@ -4,7 +4,7 @@
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-309 songs - 18 hr 36 min
+310 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [Sunscreen](https://open.spotify.com/track/4R68vBtWahKshI7Q3mWpoc) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Sunscreen](https://open.spotify.com/album/1n3lVhMqxEmuVLNzsXu5g4) | 2:58 | 2019-09-29\* | 2023-02-28 |
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-12-14 | 2023-09-06 |
 | [Sweet Misery](https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Sweet Misery](https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT) | 3:09 | 2021-07-17 |  |
-| [Sweetest Thing](https://open.spotify.com/track/696vpg0aBvBxpZAuasmg15) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [Sweetest Thing](https://open.spotify.com/album/4YtmwrjMoeVCcVPMSadTsy) | 3:38 | 2019-09-29\* |  |
+| [Sweetest Thing](https://open.spotify.com/track/3SiRNvjdZGx9TGqabi2ywu) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [1000 Years](https://open.spotify.com/album/4uDA2LKlvyDvYdr3xp40ny) | 3:38 | 2024-01-14 |  |
+| [Sweetest Thing](https://open.spotify.com/track/696vpg0aBvBxpZAuasmg15) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [Sweetest Thing](https://open.spotify.com/album/4YtmwrjMoeVCcVPMSadTsy) | 3:38 | 2019-09-29\* | 2024-02-08 |
 | [Take Back Thy Gift](https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:13 | 2021-10-09 |  |
 | [Tears Don't Fall](https://open.spotify.com/track/02p7KhGzlicIY8rvRVVION) | [Terrible Sons](https://open.spotify.com/artist/3eaJ1prUilN6z7yoFx9u2g) | [Tears Don't Fall](https://open.spotify.com/album/2w6APYKw1Tb4oWNtZJYIde) | 3:12 | 2019-09-29\* | 2022-02-19 |
 | [The Ballad of Betty and Barney Hill](https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [The Ballad of Betty and Barney Hill](https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC) | 3:16 | 2023-05-26 |  |

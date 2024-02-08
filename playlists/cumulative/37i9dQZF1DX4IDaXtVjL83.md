@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: IVE, Saweetie\)
 
-159 songs - 8 hr 30 min
+160 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Teddy Bear \- Japanese Ver.](https://open.spotify.com/track/1YLb3ORC4AEegaFJvD944o) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear \(Japanese Ver.\)](https://open.spotify.com/album/5bAsWS1V3sJyZvDPXMSTUC) | 3:09 | 2023-04-07 |  |
 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 | 2022-07-22 |  |
 | [The Feels](https://open.spotify.com/track/6pgqZ7Iw4LfHlfgWWaRFSY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Feels](https://open.spotify.com/album/744iq6HcpYJixN85Egbvt9) | 3:18 | 2021-12-20 | 2022-07-29 |
-| [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2021-12-20 |  |
+| [The Weekend](https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd) | 2:47 | 2024-02-06 |  |
+| [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2021-12-20 | 2024-02-08 |
 | [The Weekend \(with 347aidan\) \- Remix](https://open.spotify.com/track/0G7xOaJtStqoAEyLKNuRA3) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [The Weekend \(with 347aidan\) \[Remix\]](https://open.spotify.com/album/6Ccx88JcI9DhF1HjtGExZR) | 2:47 | 2022-01-21 | 2022-12-06 |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-20 |  |
 | [Under the Full Moon \- Alok Remix](https://open.spotify.com/track/2P7EG5won3VGHTzqimR9N5) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B), [Kim Jun Su](https://open.spotify.com/artist/7CUcK2meST31pjD3V14khI) | [Under the Full Moon \(Alok Remix\)](https://open.spotify.com/album/1AGVgb3cJdeyAjm1WAQxIk) | 2:45 | 2022-07-22 |  |

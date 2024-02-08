@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > ¿XD...? ¿Te refieres a Magaly Chávez?
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,092 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,125 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 39 | [BESOS \(with Kidd Keo & Neelo\)](https://open.spotify.com/track/3b6waQzXeYty0R6EDAv0po) | [SwaggGlock](https://open.spotify.com/artist/0TQ494EpT0cwX3JWh87nOr), [Neelo](https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [BESOS \(with Kidd Keo & Neelo\)](https://open.spotify.com/album/3lchk9CWRXo0pHD6et7bEY) | 2:52 |
 | 40 | [Milo J: Bzrp Music Sessions, Vol\. 57](https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 3:09 |
 | 41 | [HOUSE OF LUX](https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:20 |
-| 42 | [COWBELL GOTH](https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM) | 2:21 |
-| 43 | [Amor](https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Amor](https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd) | 4:41 |
-| 44 | [Regresa Mami](https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:34 |
-| 45 | [Kerosene \- Slowed](https://open.spotify.com/track/2weO22kObPnyX1jKQStb40) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Kerosene \(Slowed\)](https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf) | 2:22 |
+| 42 | [Amor](https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Amor](https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd) | 4:41 |
+| 43 | [COWBELL GOTH](https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM) | 2:21 |
+| 44 | [Kerosene \- Slowed](https://open.spotify.com/track/2weO22kObPnyX1jKQStb40) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Kerosene \(Slowed\)](https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf) | 2:22 |
+| 45 | [Regresa Mami](https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:34 |
 | 46 | [EL RELOJITO](https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [EL RELOJITO](https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h) | 3:09 |
 | 47 | [\|BONKERS\|](https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS) | [staplegun](https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI) | [\|BONKERS\|](https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr) | 3:32 |
 | 48 | [ALV](https://open.spotify.com/track/0yBcdmjFu13pmOCowHGpzJ) | [Manuelvezz](https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB) | [ALV](https://open.spotify.com/album/4AU32F3DgVEo2azUpLlNjM) | 2:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 59 | [FATAL FANTASSY](https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [FATAL FANTASSY](https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn) | 2:29 |
 | 60 | [Ciudad Gris](https://open.spotify.com/track/74oRVj4gRTVVFUVwTXAEl6) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O \- Rock](https://open.spotify.com/album/6vOPEgatfAYa5TSq2PaCNu) | 3:28 |
 
-Snapshot ID: `MCw1MmUzMWYyNzhkNDkwNDliZWE1YTM3OTA3ZTliNzhjOTMxMTcwODQ5`
+Snapshot ID: `MCwzMmRiYmJmNDNiZjY5NzBkMzkyMzkyOTczNGM5YTM5ZDc2NzYzNTI0`

@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 1066460,
+  "2024-02-08": 1066670,
   "date_first_scraped": "2023-06-15",
   "description": "Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!",
   "name": "SIGMA MALE TIKTOK MUSIC",
@@ -477,6 +477,24 @@
       "duration_ms": 126857,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/6CZHyKtQTtUU0D1gsOXEFq"
+    },
+    {
+      "album": {
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/0t3ocyWaTMksTJKGhPT6v1"
+      },
+      "artists": [
+        {
+          "name": "Mr. Murky",
+          "url": "https://open.spotify.com/artist/1ARE3E4tKhdyFiN1xe6EMu"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/7qlz1NpDWyPbXYiqiWBLrI"
     },
     {
       "album": {
@@ -2030,6 +2048,24 @@
     },
     {
       "album": {
+        "name": "Shadow in the Dark",
+        "url": "https://open.spotify.com/album/3VY3GwV6oMHdVwqBRixHpb"
+      },
+      "artists": [
+        {
+          "name": "NNHMN",
+          "url": "https://open.spotify.com/artist/3PFLYlaguMd2AXu1i3UAKt"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293601,
+      "name": "Der Unweise",
+      "url": "https://open.spotify.com/track/73tYUqxxcG19oHxzSFTO4P"
+    },
+    {
+      "album": {
         "name": "DETONATE",
         "url": "https://open.spotify.com/album/45qbEnuQ6ar7MxS3JBz71N"
       },
@@ -2321,6 +2357,24 @@
       "duration_ms": 96599,
       "name": "DRXFT",
       "url": "https://open.spotify.com/track/6cI4mcLDQHchYhcQpoiDi5"
+    },
+    {
+      "album": {
+        "name": "Dungeon Crawler",
+        "url": "https://open.spotify.com/album/4sc3lvnSCsLsKWjsrVEiJV"
+      },
+      "artists": [
+        {
+          "name": "Snaggletooth",
+          "url": "https://open.spotify.com/artist/2TvEvt2sS7JKqcZTkoWFGd"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238178,
+      "name": "Dungeon Crawler",
+      "url": "https://open.spotify.com/track/67dUcpcrz6NQrJlAu19pla"
     },
     {
       "album": {
@@ -3351,6 +3405,24 @@
       "duration_ms": 137147,
       "name": "GLITCHED",
       "url": "https://open.spotify.com/track/04f5LcobDx5WR66deShA2r"
+    },
+    {
+      "album": {
+        "name": "Phantom Limbs",
+        "url": "https://open.spotify.com/album/1sZSPjGeKFntCZXU3Tv9tF"
+      },
+      "artists": [
+        {
+          "name": "Xeemo",
+          "url": "https://open.spotify.com/artist/093LDo8Zf9UwiPBArTTyxh"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99072,
+      "name": "GOLD OR RoSE?",
+      "url": "https://open.spotify.com/track/72XfVA2cLwaHLVnOxEV9u2"
     },
     {
       "album": {
@@ -8915,7 +8987,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 252680,
       "name": "True Faith - 2011 Total Version",
       "url": "https://open.spotify.com/track/0E8IiKUfS98p3cUbQgh3yO"

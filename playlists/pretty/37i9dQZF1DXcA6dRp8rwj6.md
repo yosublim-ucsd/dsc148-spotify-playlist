@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: 24kGoldn\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,303 likes - 88 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,299 likes - 88 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 29 | [This My Life \(with Lil Tecca, The Kid LAROI & Lil Skies\)](https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:49 |
 | 30 | [Lil Yea](https://open.spotify.com/track/1MLZBL9ZTB4PiPmfjtkMda) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [The Ceremony](https://open.spotify.com/album/3GTWAs19Lb1OVnPeFxc3l4) | 3:24 |
 | 31 | [FLYYY](https://open.spotify.com/track/0PWBx43woMnsyUC72NC1Gl) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [FLYYY](https://open.spotify.com/album/5kilQF27XttjACkkQBz0jj) | 4:20 |
-| 32 | [Paidnfull](https://open.spotify.com/track/60XgS89eNaLvK5rUfYD4Jh) | [Unlucki](https://open.spotify.com/artist/0Gbf7PFhgkdaNiUw2pAJ9T) | [Fullypaid](https://open.spotify.com/album/053HzmIMhZRYsevJICHjvd) | 1:59 |
+| 32 | [PAIDNFULL](https://open.spotify.com/track/7I3qbhPnoesyyqQdFJjjDb) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2 Faced](https://open.spotify.com/album/3v7vNJp4YPbuZM9L5eLf4M) | 1:59 |
 | 33 | [RNS](https://open.spotify.com/track/4b8zFITxLmN0rIbhuj5wub) | [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [RNS](https://open.spotify.com/album/7CRZBxNtX0t4bD3w5zQY78) | 2:18 |
 | 34 | [Sundown \(feat\. JID\)](https://open.spotify.com/track/0peWrHmZmYS4D77vJJDMhJ) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Sundown \(feat\. JID\)](https://open.spotify.com/album/3Bhw6mGopsWHhS4OlCGDe3) | 2:37 |
 | 35 | [Chop](https://open.spotify.com/track/5tJr0DQL0lRML11c4vjvjV) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC) | [Chop](https://open.spotify.com/album/10FO1RdujEMob5G8uCOiKO) | 2:50 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 87 | [Lemme See](https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:45 |
 | 88 | [Shawty](https://open.spotify.com/track/6jlBIo4lam4ZFso2PciGwU) | [Major Nine](https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Shawty](https://open.spotify.com/album/4Nq3jfA6ZwxT6KZ17F3kyC) | 2:58 |
 
-Snapshot ID: `MCxjZTJiZGM5YzNhOTQ5NTdmNDg1MDMxMjg0MTEyMjQ1YTQ0M2E4MDc5`
+Snapshot ID: `MCwzOTc3ODNjZWIzZjBmZTk2YzIxZmViYTNkZjIyYTAwNzBmMjMxNjEw`

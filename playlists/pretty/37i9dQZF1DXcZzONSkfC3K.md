@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 
 > Salsa que representa Puerto Rico\. Portada: El Gran Combo De Puerto Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,937 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,958 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 39 | [Loco Pero Feliz](https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda \(Golden Edition\)](https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V) | 6:23 |
 | 40 | [De Mí Enamórate](https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [The Greatest Salsa Ever](https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM) | 5:09 |
 | 41 | [Víctimas las Dos](https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Víctimas las Dos](https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH) | 4:17 |
-| 42 | [25 Rosas](https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK) | [Paquito Guzman](https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5) | [Serie Millennium 21: Paquito Guzman](https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn) | 4:39 |
-| 43 | [La Esencia Del Guaguancó](https://open.spotify.com/track/09ivtKa1GxucyzH3qFMBOL) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [Anthology](https://open.spotify.com/album/15w229yWe9GblGtWjJC753) | 4:06 |
-| 44 | [No Tires La Primera Piedra](https://open.spotify.com/track/0OFAo20H6VUQB78GyLoJQJ) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Rodven Clasico: Tommy Olivencia Y Su Orquesta "30 Aniversario"](https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd) | 4:56 |
+| 42 | [La Esencia Del Guaguancó](https://open.spotify.com/track/09ivtKa1GxucyzH3qFMBOL) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [Anthology](https://open.spotify.com/album/15w229yWe9GblGtWjJC753) | 4:06 |
+| 43 | [No Tires La Primera Piedra](https://open.spotify.com/track/0OFAo20H6VUQB78GyLoJQJ) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Rodven Clasico: Tommy Olivencia Y Su Orquesta "30 Aniversario"](https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd) | 4:56 |
+| 44 | [25 Rosas](https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK) | [Paquito Guzman](https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5) | [Serie Millennium 21: Paquito Guzman](https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn) | 4:39 |
 | 45 | [Payaso](https://open.spotify.com/track/0EvqtUYBpFOtAGrfWI2DtL) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero](https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz) | 4:40 |
 | 46 | [Arroz Con Habichuela](https://open.spotify.com/track/6p8Dt5ofRsmwhBSYhDwMRS) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Arroz Con Habichuela](https://open.spotify.com/album/2uLb1q19tjdf66SuNpOsda) | 5:56 |
 | 47 | [Como Lo Hacen](https://open.spotify.com/track/1Al2zfA4VYeecacFsWPIaq) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Feliz Navidad Con Salsa](https://open.spotify.com/album/5RktkOfRU1eqXvh0qSK2uP) | 5:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 49 | [El Apartamento](https://open.spotify.com/track/2ZyTUDRlkjxFRtKntSVacO) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Back To The Future](https://open.spotify.com/album/0CNxlDVsAay8Nsbpd9mKXd) | 4:18 |
 | 50 | [Ese Hombre](https://open.spotify.com/track/3vFxhY2ejPkBPPI8tTFB1V) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Serie Cinco Estrellas](https://open.spotify.com/album/0ks7E1ySIVQfx0Gle8zqqb) | 4:39 |
 
-Snapshot ID: `MCxmMTA1ZTJkYTY0ZjhmMmI4MWNlNTFhNzIyZTNkOWRjMjg1MWM2MDVk`
+Snapshot ID: `MCwzNTkwMjVlNmNhMWRkYTFjMTJhNGY5NDVkMWFiNTFkNGJlMjAwMWM5`

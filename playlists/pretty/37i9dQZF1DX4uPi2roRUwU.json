@@ -1,12 +1,12 @@
 {
   "description": "Diese Beats machen garantiert gute Laune!",
-  "num_followers": 975431,
+  "num_followers": 975496,
   "original_name": "Happy Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjA0ZWRiNTVkMmI5NmNmOWRmNzkxNDZkODIyODE4MDJkNTM0M2Y3",
+  "snapshot_id": "MCwyNzdkYTFlOTMwOWJkMzljZjgzOTYzZWI1NTU3ODIzZjAyZGE1NTA1",
   "tracks": [
     {
       "added_at": "2023-12-01 11:04:10",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-12-01 11:04:10",
       "album": {
-        "name": "The Magic Key",
-        "url": "https://open.spotify.com/album/015JXvTq9kGDXlJs0z8fYY"
-      },
-      "artists": [
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        },
-        {
-          "name": "One-T",
-          "url": "https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI"
-        }
-      ],
-      "duration_ms": 171211,
-      "name": "The Magic Key",
-      "url": "https://open.spotify.com/track/6vHkJ4L8gqCwedvhXkSCsa"
-    },
-    {
-      "added_at": "2023-12-01 11:04:10",
-      "album": {
         "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
         "url": "https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 172151,
       "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
       "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
+    },
+    {
+      "added_at": "2023-12-01 11:04:10",
+      "album": {
+        "name": "The Magic Key",
+        "url": "https://open.spotify.com/album/015JXvTq9kGDXlJs0z8fYY"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "One-T",
+          "url": "https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI"
+        }
+      ],
+      "duration_ms": 171211,
+      "name": "The Magic Key",
+      "url": "https://open.spotify.com/track/6vHkJ4L8gqCwedvhXkSCsa"
     },
     {
       "added_at": "2023-12-01 11:04:10",

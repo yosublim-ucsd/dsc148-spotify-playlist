@@ -1,12 +1,12 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.com ",
-  "num_followers": 1819817,
+  "num_followers": 1819831,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzgzZTQ0MDJjMjNmODZkNjBlYjM4NjEyNjkzMzI4MDhkNDc1NzA3",
+  "snapshot_id": "MCwyNGRiMDUzZTExOWViZGM4YjYxMWViNTdmOGE4Y2UxZjE0MDkzYjBi",
   "tracks": [
     {
       "added_at": "2024-01-16 15:48:48",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-01-16 15:48:48",
       "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 216510,
+      "name": "Sal y Perrea",
+      "url": "https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU"
+    },
+    {
+      "added_at": "2024-01-16 15:48:48",
+      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 246061,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
-    },
-    {
-      "added_at": "2024-01-16 15:48:48",
-      "album": {
-        "name": "42",
-        "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 216510,
-      "name": "Sal y Perrea",
-      "url": "https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU"
     },
     {
       "added_at": "2024-01-16 15:48:48",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-01-16 15:48:48",
       "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 160212,
-      "name": "Bar",
-      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
-    },
-    {
-      "added_at": "2024-01-16 15:48:48",
-      "album": {
         "name": "Travesuras (Remix)",
         "url": "https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 324426,
       "name": "Travesuras - Remix",
       "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
+    },
+    {
+      "added_at": "2024-01-16 15:48:48",
+      "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 160212,
+      "name": "Bar",
+      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
     },
     {
       "added_at": "2024-01-16 15:48:48",

@@ -4,7 +4,7 @@
 
 > Hear the world in new ways with music from National Geographic’s Incredible Animal Journeys, Wild Life, Secrets of the Elephants, A Small Light, and more.
 
-65 songs - 3 hr 9 min
+67 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [By Moonlight](https://open.spotify.com/track/5STKqRZzOPigoYVnUk0kcJ) | [Mikey J](https://open.spotify.com/artist/3sTWxXZXify7sB3qVuAiet) | [Clotilda: Last American Slave Ship \(Original Soundtrack\)](https://open.spotify.com/album/6JuZRY8T58wqEtLU04UH1E) | 0:57 | 2023-12-15 |  |
 | [Call It Love](https://open.spotify.com/track/3BofrUvHWCkkimkH5lQqqa) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Genius: MLK/X \(Songs from the Original Series\)](https://open.spotify.com/album/3uojxT5JSSytA12Heyk6i0) | 3:42 | 2024-02-05 |  |
 | [Change the World](https://open.spotify.com/track/2guDEg9qj3IvbAYhDIDFwz) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [BLU](https://open.spotify.com/artist/7ibwJuONg8Y4WKWpb6gKNq) | [Genius: MLK/X \(Songs from the Original Series\)](https://open.spotify.com/album/3uojxT5JSSytA12Heyk6i0) | 1:50 | 2024-02-05 |  |
+| [Cheryl](https://open.spotify.com/track/589hIHibkRNxbzQVQu7YEC) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [A Small Light \(Songs from the Limited Series\)](https://open.spotify.com/album/5OMNsSmLzeb3ZPpCBmw6SD) | 5:23 | 2024-02-07 |  |
 | [Coda \(Then Everything Changed\)](https://open.spotify.com/track/77ioL0510r3qGHiDgHUky4) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [Wild Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3d5NFBQKOA2tM2grdoj746) | 1:51 | 2023-12-15 |  |
 | [Earth Stars](https://open.spotify.com/track/5NAGmtVv5y9lpM9F4RL7S5) | [Neil Davidge](https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe) | [Music from Earth Moods \(Original Soundtrack\)](https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv) | 4:06 | 2023-12-15 |  |
 | [Earth Tides](https://open.spotify.com/track/0YE2poy8nH2iXVyNxgJaK1) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Welcome to Earth \(Original Series Soundtrack\)](https://open.spotify.com/album/1hvkCG5N7XxYzM1VGiwuOV) | 3:37 | 2023-12-15 |  |
@@ -28,6 +29,7 @@
 | [Hope](https://open.spotify.com/track/46Oi6cAgJztjH3JL9iOJ6O) | [Raphaelle Thibaut](https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw) | [Music from Secrets of the Whales \(Original Soundtrack\)](https://open.spotify.com/album/2rOsbsGPCBwXaXRqR68WRi) | 6:26 | 2023-12-15 |  |
 | [Hummingbirds](https://open.spotify.com/track/4SZXecAyjbZdMd7j2m1hPi) | [Austin Fray](https://open.spotify.com/artist/6uQUVNwgLKs0M1GxBzZSAd) | [Symphony for Our World \(Original Soundtrack\)](https://open.spotify.com/album/1WxYte18feXBnDWIdUcwiS) | 1:29 | 2023-12-15 |  |
 | [Humpback Whales II: The Great Feast](https://open.spotify.com/track/1JS8SQStfqPbrnfPGZUw4k) | [Jake Monaco](https://open.spotify.com/artist/0iJIcOGAPd2UFYRoJhx5FP) | [Incredible Animal Journeys \(Original Series Soundtrack\)](https://open.spotify.com/album/37196HVFnjbl6e9fsl0n5z) | 3:45 | 2023-12-15 |  |
+| [I'll Be Seeing You](https://open.spotify.com/track/4KpstycaGprJn5CtRXiRQ9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [A Small Light \(Songs from the Limited Series\)](https://open.spotify.com/album/5OMNsSmLzeb3ZPpCBmw6SD) | 3:34 | 2024-02-07 |  |
 | [Illusions of Colour](https://open.spotify.com/track/4EZ8L0rqcXq91URsvkPbPO) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Welcome to Earth \(Original Series Soundtrack\)](https://open.spotify.com/album/1hvkCG5N7XxYzM1VGiwuOV) | 3:34 | 2023-12-15 |  |
 | [In the Shadow of Man](https://open.spotify.com/track/0EQGC3MA6bn3z8Cpv3JkIt) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Jane \(Original National Geographic Motion Picture Soundtrack\)](https://open.spotify.com/album/44xzwymvbCtNwgDAxe9otW) | 4:16 | 2023-12-15 |  |
 | [Incredible Animal Journeys](https://open.spotify.com/track/2dlvfOFTNlXG7J69nIKBU0) | [Jake Monaco](https://open.spotify.com/artist/0iJIcOGAPd2UFYRoJhx5FP) | [Incredible Animal Journeys \(Original Series Soundtrack\)](https://open.spotify.com/album/37196HVFnjbl6e9fsl0n5z) | 2:02 | 2023-12-15 |  |

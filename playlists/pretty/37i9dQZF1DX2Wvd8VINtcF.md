@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,375 likes - 103 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,382 likes - 103 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
 | 2 | [Jag vill ha allt](https://open.spotify.com/track/5LQqxkVZnA5kvbzHOMFjde) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Orion](https://open.spotify.com/album/5JvejhNPdxVVPTP9P8bxXf) | 3:26 |
 | 3 | [All My Life](https://open.spotify.com/track/4NdL16ojaYmQzy5AQB9ti5) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff), [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [All My Life](https://open.spotify.com/album/61pQMn4q37JvogvItkByrT) | 3:23 |
-| 4 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
+| 4 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 |
 | 5 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 |
 | 6 | [Gold Rush \- Primum Mobile Mix](https://open.spotify.com/track/5dAtzYqP0L1WKwrBmM4xhv) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Absolute Music 2/5](https://open.spotify.com/album/25bS2Xce1Dsjl2yaewiRhP) | 4:09 |
 | 7 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 102 | [If You \(Papapa\)](https://open.spotify.com/track/19NCANVZm5Me4PBhP9weUh) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc) | [TIAMA l](https://open.spotify.com/album/0NwiFSNyO7F8Hig1bIauxg) | 2:53 |
 | 103 | [Broken is the man](https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:12 |
 
-Snapshot ID: `MCw4MDU5M2YxMWZmYzJkMTY0NGE1MDZlOGJlNmViNjJlMGJjZDIyNzFk`
+Snapshot ID: `MCw4ODdmYWI3ZDAwZWFiYjM1YWRkYWZhMjhhNGIzMWQyNzQyMmRlNmIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón! Foto: Emanero, Angela Torres, Karina & j mena.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,467 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,630 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 26 | [No Compartas La Cama](https://open.spotify.com/track/23hVu1E3qixFnd9pi0saMH) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [No Compartas La Cama](https://open.spotify.com/album/3oV3jlCaLb2e1fQfJCIVZj) | 2:20 |
 | 27 | [Algún Día Volverás](https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volverás](https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i) | 4:13 |
 | 28 | [Yo Me Enamoré](https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 3:12 |
-| 29 | [Tramposa y Mentirosa](https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 3:32 |
+| 29 | [Cuando Me Enamoro](https://open.spotify.com/track/03wQrSM0nV1WyPIgWvapG4) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 2:54 |
 | 30 | [Corazón Blindado](https://open.spotify.com/track/4of1mv2a6W8NO39ihoCcUW) | [Fede Rojas](https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe) | [Corazón Blindado](https://open.spotify.com/album/5LRZ3v6JAicDjwtEthrKli) | 2:51 |
 | 31 | [Que Lloro / Mientes](https://open.spotify.com/track/1FqNwW8ifGAJgl8Dv2CCWh) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Que Lloro / Mientes](https://open.spotify.com/album/6nKoosTpBypYiiCkGkJEtj) | 3:48 |
-| 32 | [Cuando Me Enamoro](https://open.spotify.com/track/03wQrSM0nV1WyPIgWvapG4) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 2:54 |
+| 32 | [Tramposa y Mentirosa](https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 3:32 |
 | 33 | [Te Voy a Amar](https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:20 |
 | 34 | [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:26 |
 | 35 | [Fue Difícil](https://open.spotify.com/track/6949gWWMFg0NWjam6SkCDA) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Es Tan Grande Este Amor](https://open.spotify.com/album/2zJ3aQpwT8EmleuSKUEsdD) | 3:46 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 57 | [Márchate ahora](https://open.spotify.com/track/3voxukrHBXctzxdSbCycey) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sin mirar Atrás](https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi) | 3:54 |
 | 58 | [Chica del Este](https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [10 Años](https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9) | 3:50 |
 | 59 | [Anochecemos](https://open.spotify.com/track/2o5kxY2w24kZWrzPSJFquu) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Anochecemos](https://open.spotify.com/album/4dlrWntcibuDtUW2jOE6lj) | 3:24 |
-| 60 | [Si Esta Casa Hablara](https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Si Esta Casa Hablara](https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP) | 3:20 |
-| 61 | [Te Arrepentirás](https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX) | 3:30 |
+| 60 | [Te Arrepentirás](https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX) | 3:30 |
+| 61 | [Si Esta Casa Hablara](https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Si Esta Casa Hablara](https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP) | 3:20 |
 | 62 | [Si Te Vas \- Vivo](https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [Si Te Vas \(Vivo\)](https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM) | 4:35 |
 | 63 | [Tan Sólo Amantes](https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Creciendo](https://open.spotify.com/album/6JrMR7QudBMGYJ0zIrSFB6) | 3:56 |
 | 64 | [Porque te fuiste](https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El Polaco \- Agradeciendo a Dios](https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf) | 3:23 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 86 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
 | 87 | [Contigo](https://open.spotify.com/track/27sRjhW6KT1NDzPpfBxPaE) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Contigo](https://open.spotify.com/album/6Ji3PdJXkQN4F6utzBGDRv) | 2:44 |
 | 88 | [El Soy Yo](https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0) | [Mensajeros del Amor](https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3) | [Mensajeros del Amor](https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6) | 3:12 |
-| 89 | [Yo Te Esperare](https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Sigo Mi Camino](https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw) | 2:44 |
-| 90 | [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 |
+| 89 | [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 |
+| 90 | [Yo Te Esperare](https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Sigo Mi Camino](https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw) | 2:44 |
 | 91 | [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 |
 | 92 | [El Último Romántico](https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Último Romántico](https://open.spotify.com/album/5XivpS4x7wPLUBxdHQRQnT) | 4:11 |
 | 93 | [Será Porque Te Amo](https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Comboloco](https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 99 | [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 |
 | 100 | [Paso la Vida Pensando](https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Paso la Vida Pensando](https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG) | 4:02 |
 
-Snapshot ID: `MCw2ZWU2OGQzZjljN2QwNmYzMDViNDllM2Y0ZTIyZjQ4YWMzMjAxYmFh`
+Snapshot ID: `MCxhYWFlNzE1NzNmZjNjMDlhOGYyNmE5Zjc1ZGI3YzYxNjAyNTBiODU0`

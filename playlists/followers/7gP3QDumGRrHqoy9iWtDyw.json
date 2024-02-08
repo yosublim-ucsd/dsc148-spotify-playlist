@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 22440,
+  "2024-02-08": 22441,
   "date_first_scraped": "2024-01-03",
   "description": "",
   "name": "Malaa Selection ",
@@ -2509,6 +2509,24 @@
       "duration_ms": 203809,
       "name": "Original Don",
       "url": "https://open.spotify.com/track/2ivCsohNIlxNnLxXHnu0J5"
+    },
+    {
+      "album": {
+        "name": "Our House",
+        "url": "https://open.spotify.com/album/3aqsOlBHvcuDQvNJNuSWwM"
+      },
+      "artists": [
+        {
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183311,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/3Jpf1gn9uR4tbL35HT0yPj"
     },
     {
       "album": {

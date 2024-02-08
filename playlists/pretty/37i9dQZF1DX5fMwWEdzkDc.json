@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 14154,
+  "num_followers": 14167,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzg2YTk1OGYyMmZkMmM0ZGRlYWJiNzg5NGRjZjgzNGFkZjRmNmU0",
+  "snapshot_id": "MCw4YmY4YTFiOWM2OThlNjEwYWI0MDdjMmI1ZTRiNzJkNzBlNjA0MjFk",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -155,18 +155,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Pretty Girl (2nd Mini Album)",
-        "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
+        "name": "Princess Hours (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu"
       },
       "artists": [
         {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+          "name": "HowL",
+          "url": "https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad"
+        },
+        {
+          "name": "J.ae",
+          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
         }
       ],
-      "duration_ms": 209920,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
+      "duration_ms": 275342,
+      "name": "Perhaps Love",
+      "url": "https://open.spotify.com/track/73lwJ5P3ehRiqimOgWiwOE"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -187,22 +191,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Princess Hours (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu"
+        "name": "Pretty Girl (2nd Mini Album)",
+        "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
       },
       "artists": [
         {
-          "name": "HowL",
-          "url": "https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad"
-        },
-        {
-          "name": "J.ae",
-          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
         }
       ],
-      "duration_ms": 275342,
-      "name": "Perhaps Love",
-      "url": "https://open.spotify.com/track/73lwJ5P3ehRiqimOgWiwOE"
+      "duration_ms": 209920,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Brown Eyed Girls BEST - Special Moments",
-        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
+        "name": "\ub098\ub294\uac00\uc218\ub2e4 \uc2dc\uc98c3 1\ud68c `\uc790\uc2e0\uc758 \ub300\ud45c\uace1`",
+        "url": "https://open.spotify.com/album/0tdCd8Z8RkV03UcM6p7xQK"
       },
       "artists": [
         {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+          "name": "SWEET SORROW",
+          "url": "https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb"
         }
       ],
-      "duration_ms": 258062,
-      "name": "Must Have Love",
-      "url": "https://open.spotify.com/track/1yzemwgOr4cz8yVLCIGM9f"
+      "duration_ms": 273059,
+      "name": "\uc544\ubb34\ub9ac \uc0dd\uac01\ud574\ub3c4 \ub09c \ub108\ub97c",
+      "url": "https://open.spotify.com/track/4yTuqkCAUwPuW0cHqEKdcm"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "\ub098\ub294\uac00\uc218\ub2e4 \uc2dc\uc98c3 1\ud68c `\uc790\uc2e0\uc758 \ub300\ud45c\uace1`",
-        "url": "https://open.spotify.com/album/0tdCd8Z8RkV03UcM6p7xQK"
+        "name": "Brown Eyed Girls BEST - Special Moments",
+        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
       },
       "artists": [
         {
-          "name": "SWEET SORROW",
-          "url": "https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb"
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 273059,
-      "name": "\uc544\ubb34\ub9ac \uc0dd\uac01\ud574\ub3c4 \ub09c \ub108\ub97c",
-      "url": "https://open.spotify.com/track/4yTuqkCAUwPuW0cHqEKdcm"
+      "duration_ms": 258062,
+      "name": "Must Have Love",
+      "url": "https://open.spotify.com/track/1yzemwgOr4cz8yVLCIGM9f"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1631,22 +1631,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/4mVaOQu6qOjGpSlNjwf0n4"
+        "name": "Remake Romantic 2",
+        "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
       "artists": [
         {
-          "name": "BYUL",
-          "url": "https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp"
-        },
-        {
-          "name": "Na Yoon Kwon",
-          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
+          "name": "Seo Young Eun",
+          "url": "https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB"
         }
       ],
-      "duration_ms": 239933,
-      "name": "\uc548\ubd80",
-      "url": "https://open.spotify.com/track/7J630PtbTxF2cg0WQ0BhZF"
+      "duration_ms": 215248,
+      "name": "\ub110 \uc0ac\ub791\ud558\uaca0\uc5b4",
+      "url": "https://open.spotify.com/track/1cSPBiaK1NydJnQaYxKwDt"
     }
   ],
   "unique_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",

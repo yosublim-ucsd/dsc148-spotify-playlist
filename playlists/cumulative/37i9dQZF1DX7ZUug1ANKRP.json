@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Cover: Luca-Dante Spadafora",
+  "description": "The biggest Dance hits and the ones to come. Cover: HBz",
   "name": "Main Stage",
   "tracks": [
     {
@@ -1936,6 +1936,24 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
+    },
+    {
+      "album": {
+        "name": "Crusade",
+        "url": "https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Crusade - Club Edit",
+      "url": "https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo"
     },
     {
       "album": {
@@ -5413,6 +5431,28 @@
     },
     {
       "album": {
+        "name": "leavemealone",
+        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+    },
+    {
+      "album": {
         "name": "Let Me Think About It Again",
         "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
       },
@@ -8214,7 +8254,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 180599,
       "name": "Rave & Shout",
       "url": "https://open.spotify.com/track/3c8cmDpIKg3d7EIuTjNAAp"
@@ -9628,7 +9668,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 147000,
       "name": "Talk To My Body",
       "url": "https://open.spotify.com/track/1PwN9ebjpov7iwTLHSov7V"
@@ -10161,6 +10201,28 @@
     },
     {
       "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/5kzC7Vg7h0uVoZIiBT0hFy"
+      },
+      "artists": [
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        },
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144188,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/04nyFUuwYgLfrckvk0MIU9"
+    },
+    {
+      "album": {
         "name": "Tra Tra",
         "url": "https://open.spotify.com/album/5CTxLQdrDgcvEXuqEFOnPt"
       },
@@ -10454,7 +10516,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 119096,
       "name": "Until Forever",
       "url": "https://open.spotify.com/track/5NSblKl9h12j08rd6ZPFQ1"

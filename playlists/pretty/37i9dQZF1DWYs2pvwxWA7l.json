@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=Jp3jdMFxRAeI87xDaBtEGA\"> Ayra Starr</a>  ",
-  "num_followers": 542740,
+  "num_followers": 542927,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzhlNjMzM2NiOGU3NDc0OGM3ZjAxOWU4NzNhNzQ5ODM3MDI0NmY1",
+  "snapshot_id": "MCw1MjMzMWM4Yzc2NTYzODc4M2RiYzY4NDEwOTljN2FhNTE0MzFhMmM0",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -411,6 +411,26 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Jaga Jaga (with Babyboy AV)",
+        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Jaga Jaga (with Babyboy AV)",
+      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 221242,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Jaga Jaga (with Babyboy AV)",
-        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Jaga Jaga (with Babyboy AV)",
-      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Mumu",
         "url": "https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 173571,
       "name": "Mumu",
       "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Louis Vitty",
-        "url": "https://open.spotify.com/album/6N04dmSFRnpaGexcUsM04O"
-      },
-      "artists": [
-        {
-          "name": "Midas the Jagaban",
-          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 218823,
-      "name": "Louis Vitty",
-      "url": "https://open.spotify.com/track/52bpMP45rQUZt3ZScK7VjB"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Trumpet",
         "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 188656,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Louis Vitty",
+        "url": "https://open.spotify.com/album/6N04dmSFRnpaGexcUsM04O"
+      },
+      "artists": [
+        {
+          "name": "Midas the Jagaban",
+          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 218823,
+      "name": "Louis Vitty",
+      "url": "https://open.spotify.com/track/52bpMP45rQUZt3ZScK7VjB"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "The Evil Genius",
-        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 149387,
-      "name": "Panadol",
-      "url": "https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Only God Can Save Me",
         "url": "https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 178909,
       "name": "Only God Can Save Me",
       "url": "https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "Panadol",
+      "url": "https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4"
     },
     {
       "added_at": "2024-02-02 00:01:00",

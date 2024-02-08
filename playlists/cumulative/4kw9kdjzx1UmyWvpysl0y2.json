@@ -1993,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "Sorcerer\u2019s Symphony",
+        "url": "https://open.spotify.com/album/1ajS5QuEOLZXMVG7TG9twW"
+      },
+      "artists": [
+        {
+          "name": "Caster",
+          "url": "https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251162,
+      "name": "Choir of the Banshees",
+      "url": "https://open.spotify.com/track/72ijk2ClDkcZ5FgD4IM1n8"
+    },
+    {
+      "album": {
         "name": "Chroma",
         "url": "https://open.spotify.com/album/36V5r5FbxC2I0U1rCZn2Li"
       },
@@ -3372,7 +3390,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 226206,
       "name": "Endgame",
       "url": "https://open.spotify.com/track/2ktvOZzqcK7Am5q3Ibu4po"

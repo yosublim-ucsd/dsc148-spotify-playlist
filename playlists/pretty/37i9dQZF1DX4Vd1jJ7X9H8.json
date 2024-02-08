@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on. Cover: Saltburn",
-  "num_followers": 306310,
+  "num_followers": 306418,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDg0NTMzNTBkY2M3NWNhYTczNTU1YmVlYjMwYzQxOGRmZTYxMjM3",
+  "snapshot_id": "MCw4YjBlNDRjMmZlNjAxMTY4MGNhMTFlN2UyNzhiYTViYTA2MDI3MGM1",
   "tracks": [
     {
       "added_at": "2023-12-27 20:39:24",
@@ -96,25 +96,25 @@
           "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
         }
       ],
-      "duration_ms": 161250,
+      "duration_ms": 161271,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
     },
     {
-      "added_at": "2023-09-29 19:53:20",
+      "added_at": "2024-01-25 20:23:45",
       "album": {
-        "name": "Metamodernity",
-        "url": "https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q"
+        "name": "Dance You Outta My Head",
+        "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
       },
       "artists": [
         {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+          "name": "Cat Janice",
+          "url": "https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz"
         }
       ],
-      "duration_ms": 162663,
-      "name": "Metamodernity",
-      "url": "https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj"
+      "duration_ms": 202508,
+      "name": "Dance You Outta My Head",
+      "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
     },
     {
       "added_at": "2023-12-27 20:39:24",
@@ -137,24 +137,20 @@
       "url": "https://open.spotify.com/track/7DFYfdzWJAQK59YrQ4CftD"
     },
     {
-      "added_at": "2023-11-29 23:24:21",
+      "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "I Follow Rivers (The Magician Remix)",
-        "url": "https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1"
+        "name": "Metamodernity",
+        "url": "https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        },
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
         }
       ],
-      "duration_ms": 280069,
-      "name": "I Follow Rivers - The Magician Remix",
-      "url": "https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9"
+      "duration_ms": 162663,
+      "name": "Metamodernity",
+      "url": "https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj"
     },
     {
       "added_at": "2024-01-06 18:53:27",
@@ -173,20 +169,24 @@
       "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
-      "added_at": "2024-01-25 20:23:45",
+      "added_at": "2023-11-29 23:24:21",
       "album": {
-        "name": "Dance You Outta My Head",
-        "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
+        "name": "I Follow Rivers (The Magician Remix)",
+        "url": "https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1"
       },
       "artists": [
         {
-          "name": "Cat Janice",
-          "url": "https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
         }
       ],
-      "duration_ms": 202508,
-      "name": "Dance You Outta My Head",
-      "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
+      "duration_ms": 280069,
+      "name": "I Follow Rivers - The Magician Remix",
+      "url": "https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9"
     },
     {
       "added_at": "2023-12-27 20:39:24",
@@ -747,6 +747,26 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
+        "name": "Everything Eventually Ends",
+        "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        }
+      ],
+      "duration_ms": 177280,
+      "name": "Everything Eventually Ends",
+      "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
       },
@@ -767,22 +787,26 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Everything Eventually Ends",
-        "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
+        "name": "JAGUAR",
+        "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         },
         {
-          "name": "Rejjie Snow",
-          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 177280,
-      "name": "Everything Eventually Ends",
-      "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
+      "duration_ms": 176773,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -819,30 +843,6 @@
       "duration_ms": 236335,
       "name": "Montreal",
       "url": "https://open.spotify.com/track/12YAZNNm2OuSgDBKjFQcNm"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
-        "name": "JAGUAR",
-        "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 176773,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId"
     },
     {
       "added_at": "2023-09-29 19:53:20",

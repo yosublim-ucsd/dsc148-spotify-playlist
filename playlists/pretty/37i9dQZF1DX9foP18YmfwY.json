@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva, Dan\u00fabia M.J",
-  "num_followers": 319888,
+  "num_followers": 319910,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzRlYzRkOTBhNTRhZTU4NmU3NDY3MTlhMDQ1ZmM1OTU1OGU3YjVj",
+  "snapshot_id": "MCxjMDliNmRhZjU2MzE2ZTk2Zjg5MzY0YTY4MzlkYWZmMGZmODdiMTdj",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "A Tua Ternura",
-        "url": "https://open.spotify.com/album/5QslSAQyAZKQXVjIeVtdjF"
-      },
-      "artists": [
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        },
-        {
-          "name": "Adriana Arydes",
-          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
-        }
-      ],
-      "duration_ms": 198992,
-      "name": "A Tua Ternura",
-      "url": "https://open.spotify.com/track/4hvjddkw3ZP1Icx9D0wZOE"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Esposa das Esposas",
         "url": "https://open.spotify.com/album/4KWfXvmejlAUucIn681RoP"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 239597,
       "name": "Esposa das Esposas",
       "url": "https://open.spotify.com/track/5vY7h6KxujUtNoMmE1u8tc"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "A Tua Ternura",
+        "url": "https://open.spotify.com/album/5QslSAQyAZKQXVjIeVtdjF"
+      },
+      "artists": [
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        },
+        {
+          "name": "Adriana Arydes",
+          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
+        }
+      ],
+      "duration_ms": 198992,
+      "name": "A Tua Ternura",
+      "url": "https://open.spotify.com/track/4hvjddkw3ZP1Icx9D0wZOE"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -683,6 +683,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Divino Esposo",
+        "url": "https://open.spotify.com/album/1UH1xNf23o2u24v42G5nYj"
+      },
+      "artists": [
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        },
+        {
+          "name": "Irm\u00e3 Kelly Patr\u00edcia",
+          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
+        }
+      ],
+      "duration_ms": 218105,
+      "name": "Divino Esposo",
+      "url": "https://open.spotify.com/track/2vcDp4l6tl3dvQaStYu5Ps"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Nada Temerei",
         "url": "https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 319556,
       "name": "Romaria - Ao Vivo",
       "url": "https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Divino Esposo",
-        "url": "https://open.spotify.com/album/1UH1xNf23o2u24v42G5nYj"
-      },
-      "artists": [
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        },
-        {
-          "name": "Irm\u00e3 Kelly Patr\u00edcia",
-          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
-        }
-      ],
-      "duration_ms": 218105,
-      "name": "Divino Esposo",
-      "url": "https://open.spotify.com/track/2vcDp4l6tl3dvQaStYu5Ps"
     },
     {
       "added_at": "2023-12-22 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,880 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,968 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 3 | [Vielleicht Vielleicht](https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Schlagschatten](https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI) | 3:27 |
 | 4 | [Ein Kompliment](https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX) | [Sportfreunde Stiller](https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ) | [Die gute Seite \(Die lange Seite\)](https://open.spotify.com/album/5WHyZMn0FK1eXOMzGTp4Pq) | 3:18 |
 | 5 | [Nur ein Wort](https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Von hier an blind](https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw) | 3:56 |
-| 6 | [Sie weiß \(feat\. Mero\)](https://open.spotify.com/track/7DyDjhZMEIK5Ied4juTCyc) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Sie weiß \(feat\. Mero\)](https://open.spotify.com/album/3ixrTwmXyX8EByoYXCEhpX) | 2:31 |
-| 7 | [Ohne Dich \(schlaf' ich heut Nacht nicht ein\)](https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY) | [Münchener Freiheit](https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy) | [Von Anfang An](https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c) | 4:07 |
+| 6 | [Ohne Dich \(schlaf' ich heut Nacht nicht ein\)](https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY) | [Münchener Freiheit](https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy) | [Von Anfang An](https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c) | 4:07 |
+| 7 | [Sie weiß \(feat\. Mero\)](https://open.spotify.com/track/7DyDjhZMEIK5Ied4juTCyc) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Sie weiß \(feat\. Mero\)](https://open.spotify.com/album/3ixrTwmXyX8EByoYXCEhpX) | 2:31 |
 | 8 | [Nur für Dich](https://open.spotify.com/track/7gK3S5NIkw1KdvdnUU1O5z) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Für den Himmel durch die Hölle \(Deluxe Edition\)](https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa) | 3:12 |
 | 9 | [Mit Dir](https://open.spotify.com/track/2xFMvrqk99biaLQavjufta) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mit Dir](https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo) | 2:49 |
 | 10 | [Traum](https://open.spotify.com/track/6Mw1NYkSkqrX1HtzDdTdAZ) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Melodie](https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj) | 3:15 |
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 17 | [Morgen](https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG), [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Morgen](https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv) | 2:15 |
 | 18 | [Ich lass für dich das Licht an](https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Immer in Bewegung](https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0) | 3:32 |
 | 19 | [Nur geträumt](https://open.spotify.com/track/0ukySDr4uEzZE36s7t7X8E) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:42 |
-| 20 | [Nur ein bisschen](https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Nur ein bisschen](https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA) | 2:41 |
-| 21 | [Kleiner Finger Schwur](https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Kleiner Finger Schwur](https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn) | 2:48 |
+| 20 | [Kleiner Finger Schwur](https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Kleiner Finger Schwur](https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn) | 2:48 |
+| 21 | [Nur ein bisschen](https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Nur ein bisschen](https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA) | 2:41 |
 | 22 | [Wie schön du bist](https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Muttersprache \(Deluxe Version\)](https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc) | 3:38 |
 | 23 | [Alles aus Liebe](https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG) | [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Kauf mich! \(Deluxe\-Edition mit Bonus\-Tracks\)](https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc) | 4:32 |
-| 24 | [Liebe zu dritt](https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Liebe zu dritt](https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F) | 3:26 |
-| 25 | [Katharina](https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:00 |
+| 24 | [Katharina](https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:00 |
+| 25 | [Liebe zu dritt](https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Liebe zu dritt](https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F) | 3:26 |
 | 26 | [Lieblingsmensch](https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0) | [Namika](https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz) | [Nador](https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0) | 3:10 |
 | 27 | [Dein ist mein ganzes Herz](https://open.spotify.com/track/030dULvYNT5n8vYpIak51w) | [Heinz Rudolf Kunze](https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ) | [Dein ist mein ganzes Herz](https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy) | 3:33 |
 | 28 | [Wenn du tanzt](https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq) | [Grande](https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW) | 3:50 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 47 | [Für Immer](https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Für Immer](https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf) | 2:08 |
 | 48 | [Das Spiel](https://open.spotify.com/track/7lHHTWfwo1twOeQGMwr6cp) | [Annett Louisan](https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8) | [Bohème](https://open.spotify.com/album/6xiAsRGDcZ0cGz3o9CE06i) | 3:01 |
 | 49 | [Unique](https://open.spotify.com/track/76NbcSdF8lF5Ujd065C0wf) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 2:42 |
-| 50 | [Hollywood \- Akustik Version](https://open.spotify.com/track/58B7uBTVteWmo0DOaouJXO) | [Benne](https://open.spotify.com/artist/0eS2ZGOnJi5Cp4ASTy4aBc), [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [Hollywood \(Akustik Version\)](https://open.spotify.com/album/5FyuGW8u3zdhTOdhNusU92) | 2:32 |
+| 50 | [2012](https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [2012](https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz) | 2:50 |
 
-Snapshot ID: `MCw3ZGRmYjU4NDAzYmM5OTIzZWExNDMxZTgzNjVmZThlN2ZhMWJiNjk4`
+Snapshot ID: `MCw3MGNjNTE5NzExMDQwNjZkYTY5NzFjMzA1ZThkZmIzNGM3YjJjZjk1`

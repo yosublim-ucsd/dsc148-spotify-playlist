@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 156711,
+  "num_followers": 156708,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzc4YTgxZTY4YmVlODY5NDhkNjYyYmQ4NGE5ZWI1M2ZkODQ4MjNh",
+  "snapshot_id": "MCxhNjJkMGM2ZmMwYzA4YzJkMjI4YzQxMGE0YTdiNjAxZTczMDk2NzEw",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Piloto",
-        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Piloto",
-      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Para de Mentir",
         "url": "https://open.spotify.com/album/0nMw6EngQqlOJXLxt53jpQ"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 254142,
       "name": "Para de Mentir",
       "url": "https://open.spotify.com/track/1bjvTcHiftBtqeK6Y2Mh8H"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Piloto",
+        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Piloto",
+      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -483,26 +483,18 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "ORDEM & PROGRESSO",
-        "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
+        "name": "Mundo Gira",
+        "url": "https://open.spotify.com/album/0zE0SYmMMq03W08p6hQJru"
       },
       "artists": [
         {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        },
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
         }
       ],
-      "duration_ms": 209150,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
+      "duration_ms": 175522,
+      "name": "Mundo Gira",
+      "url": "https://open.spotify.com/track/4weBE9PEbb6WqtPoh47KaH"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -527,6 +519,30 @@
       "duration_ms": 150000,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "ORDEM & PROGRESSO",
+        "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 209150,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -587,18 +603,18 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Mundo Gira",
-        "url": "https://open.spotify.com/album/0zE0SYmMMq03W08p6hQJru"
+        "name": "UM44K Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
       },
       "artists": [
         {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
         }
       ],
-      "duration_ms": 175522,
-      "name": "Mundo Gira",
-      "url": "https://open.spotify.com/track/4weBE9PEbb6WqtPoh47KaH"
+      "duration_ms": 163492,
+      "name": "Pode falar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -619,22 +635,6 @@
       "duration_ms": 136901,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/1HEy5wolNdmeHCB9Qw6At7"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "UM44K Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "Pode falar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Mensagem",
-        "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
-      },
-      "artists": [
-        {
-          "name": "Dody",
-          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
-        },
-        {
-          "name": "lowz",
-          "url": "https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Mensagem",
-      "url": "https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Mais um Som de Amor",
         "url": "https://open.spotify.com/album/6s8zmjO54RlZqp76NmViiy"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 214490,
       "name": "Mais um Som de Amor",
       "url": "https://open.spotify.com/track/74vWxQDutYLap7sNfZlaux"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Mensagem",
+        "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
+      },
+      "artists": [
+        {
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+        },
+        {
+          "name": "lowz",
+          "url": "https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Mensagem",
+      "url": "https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -955,6 +955,26 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Tudo Come\u00e7ou",
+        "url": "https://open.spotify.com/album/3ZYVUaDhyt9BvqTdmq4Cwi"
+      },
+      "artists": [
+        {
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        },
+        {
+          "name": "Diego Thug",
+          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
+        }
+      ],
+      "duration_ms": 145953,
+      "name": "Tudo Come\u00e7ou",
+      "url": "https://open.spotify.com/track/3YxDUy8pxY8vs7mZcn0TK1"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Nossa Viagem",
         "url": "https://open.spotify.com/album/1llvdGgxHkX8ivOSwb8u3i"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 156800,
       "name": "Nossa Viagem",
       "url": "https://open.spotify.com/track/2CYjW7iosrYhe80Ydm6PEz"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Tudo Come\u00e7ou",
-        "url": "https://open.spotify.com/album/3ZYVUaDhyt9BvqTdmq4Cwi"
-      },
-      "artists": [
-        {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
-        },
-        {
-          "name": "Diego Thug",
-          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
-        }
-      ],
-      "duration_ms": 145953,
-      "name": "Tudo Come\u00e7ou",
-      "url": "https://open.spotify.com/track/3YxDUy8pxY8vs7mZcn0TK1"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
-        }
-      ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Puro Suco Stronda",
         "url": "https://open.spotify.com/album/3uihtsjHXuNvtqM30f4UIa"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 142105,
       "name": "Mist\u00e9rio",
       "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Felipe Brasil",
+          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
+        }
+      ],
+      "duration_ms": 213698,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Jeito Bom #2",
         "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 209378,
       "name": "Jeito Bom #2",
       "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 164713,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
     },
     {
       "added_at": "2024-02-02 03:01:00",

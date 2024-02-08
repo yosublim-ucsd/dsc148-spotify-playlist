@@ -1,12 +1,12 @@
 {
   "description": "Kick back to the best new and recent chill hits.",
-  "num_followers": 8957640,
+  "num_followers": 8958817,
   "original_name": "Chill Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODcwMmUxZDNjZjIwMDNlNzgyNGI1NWQ1MDVjODNjYjYxMTU3ZGU5",
+  "snapshot_id": "MCw0ZGY2NTc4ZTFhOWYyMTU5Yzg5Y2I0MzBlNjJkMTliNTI0YjhlMDIx",
   "tracks": [
     {
       "added_at": "2024-01-24 18:01:18",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 240133,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 170226,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "All Of The Girls You Loved Before",
         "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Back from the Edge",
-        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 208826,
-      "name": "Train Wreck",
-      "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -651,54 +651,18 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 170226,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "From The Start",
-        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 285634,
-      "name": "exile (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
+      "duration_ms": 208826,
+      "name": "Train Wreck",
+      "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -715,6 +679,22 @@
       "duration_ms": 191185,
       "name": "Used To Be Young",
       "url": "https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -775,18 +755,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
       "artists": [
         {
           "name": "Taylor Swift",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 214706,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
+      "duration_ms": 285634,
+      "name": "exile (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -927,6 +911,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Hell N Back",
         "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Remember That Night?",
+        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Remember That Night?",
+      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Kiss Me More (feat. SZA)",
         "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Remember That Night?",
-        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Remember That Night?",
-      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Music Of The Spheres",
-        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 241595,
-      "name": "Let Somebody Go",
-      "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "brent ii",
         "url": "https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 174586,
       "name": "this is how you fall in love",
       "url": "https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 241595,
+      "name": "Let Somebody Go",
+      "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1595,6 +1595,38 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 191451,
+      "name": "Poison Poison",
+      "url": "https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 187940,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Before You Go",
         "url": "https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY"
       },
@@ -1643,54 +1675,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Snow Angel",
-        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 191451,
-      "name": "Poison Poison",
-      "url": "https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Before You",
-        "url": "https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 187940,
-      "name": "Before You",
-      "url": "https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 197465,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "World War Joy",
         "url": "https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD"
       },
@@ -1715,6 +1699,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 197465,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Hotel",
         "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
       },
@@ -1727,22 +1727,6 @@
       "duration_ms": 197333,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Everything To Everyone",
-        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 227749,
-      "name": "In The Kitchen",
-      "url": "https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1775,6 +1759,22 @@
       "duration_ms": 205280,
       "name": "birthday cake",
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 227749,
+      "name": "In The Kitchen",
+      "url": "https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "love is not dying",
-        "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 146160,
-      "name": "always, i'll care",
-      "url": "https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "i used to think i could fly",
         "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 203480,
       "name": "feel like shit",
       "url": "https://open.spotify.com/track/03zuGqxMwUFFmCwusq0WKE"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "love is not dying",
+        "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "duration_ms": 146160,
+      "name": "always, i'll care",
+      "url": "https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 175533,
+      "name": "chaotic",
+      "url": "https://open.spotify.com/track/4bt7eqP7mfWduRBKEpCAzM"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "SHE IS COMING",
         "url": "https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN"
       },
@@ -2063,26 +2079,6 @@
       "duration_ms": 233654,
       "name": "Slide Away",
       "url": "https://open.spotify.com/track/6QQtHdz4PNJWQX4nrAQGC9"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 178994,
-      "name": "Monster (Shawn Mendes & Justin Bieber)",
-      "url": "https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2107,18 +2103,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "i used to think i could fly",
-        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 175533,
-      "name": "chaotic",
-      "url": "https://open.spotify.com/track/4bt7eqP7mfWduRBKEpCAzM"
+      "duration_ms": 178994,
+      "name": "Monster (Shawn Mendes & Justin Bieber)",
+      "url": "https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2172,7 +2172,7 @@
           "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
         }
       ],
-      "duration_ms": 191250,
+      "duration_ms": 191266,
       "name": "BUTTERFLIES",
       "url": "https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v"
     },
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 197976,
-      "name": "American Town",
-      "url": "https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "WITHOUT YOU (with Miley Cyrus)",
         "url": "https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 161384,
       "name": "WITHOUT YOU (with Miley Cyrus)",
       "url": "https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 197976,
+      "name": "American Town",
+      "url": "https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6"
     }
   ],
   "unique_name": "Chill Hits",

@@ -1,12 +1,12 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 306316,
+  "num_followers": 306536,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGY5YjQyNmVlODI5NDI1MGExYWUzZGFjNWMxODAyYzVhOGNjMTVj",
+  "snapshot_id": "MCwzYTU0ZWU3MTk0Yjc4MGNlNzNhZTJiZTY1Nzc0NGZmMGNmMWU3NWVm",
   "tracks": [
     {
       "added_at": "2023-09-29 12:43:00",
@@ -247,26 +247,6 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "Works for Solo Piano",
-        "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 122986,
-      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
-      "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
-    },
-    {
-      "added_at": "2023-09-29 12:43:00",
-      "album": {
         "name": "Mussorgsky: Pictures at an Exhibition - Expanded Edition",
         "url": "https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 136960,
       "name": "Polovetsian Dances from Prince Igor: Introduzione",
       "url": "https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca"
+    },
+    {
+      "added_at": "2023-09-29 12:43:00",
+      "album": {
+        "name": "Works for Solo Piano",
+        "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 122986,
+      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
+      "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
+        "name": "Love Came",
+        "url": "https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm"
       },
       "artists": [
         {
-          "name": "Gabriel Yared",
-          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
         }
       ],
-      "duration_ms": 101375,
-      "name": "G\u00e9n\u00e9rique de fin",
-      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
+      "duration_ms": 135800,
+      "name": "Love Came",
+      "url": "https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "Love Came",
-        "url": "https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm"
+        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
       },
       "artists": [
         {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+          "name": "Gabriel Yared",
+          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
         }
       ],
-      "duration_ms": 135800,
-      "name": "Love Came",
-      "url": "https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk"
+      "duration_ms": 101375,
+      "name": "G\u00e9n\u00e9rique de fin",
+      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        }
+      ],
+      "duration_ms": 412655,
+      "name": "Clair de Lune, L. 75",
+      "url": "https://open.spotify.com/track/6vqrjdQARric6KGIMEGvEk"
+    },
+    {
+      "added_at": "2023-09-29 12:43:00",
+      "album": {
         "name": "Rodrigo: Concierto de Aranjuez; Fantas\u00eda para un gentilhombre etc.",
         "url": "https://open.spotify.com/album/2B6figtx2ZMK6vsLqdKvHZ"
       },
@@ -875,42 +895,22 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd"
+        "name": "50 Masterworks - Arthur Rubinstein",
+        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
       },
       "artists": [
         {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
-          "name": "Anna Lapwood",
-          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+          "name": "Arthur Rubinstein",
+          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
         }
       ],
-      "duration_ms": 412655,
-      "name": "Clair de Lune, L. 75",
-      "url": "https://open.spotify.com/track/6vqrjdQARric6KGIMEGvEk"
-    },
-    {
-      "added_at": "2023-09-29 12:43:00",
-      "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Pahud",
-          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
-        },
-        {
-          "name": "Christian Rivet",
-          "url": "https://open.spotify.com/artist/4Uz03jdkyGrQHyHepr1Kqk"
-        }
-      ],
-      "duration_ms": 98320,
-      "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
-      "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
+      "duration_ms": 376440,
+      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
+      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -935,22 +935,42 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "50 Masterworks - Arthur Rubinstein",
-        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+          "name": "Emmanuel Pahud",
+          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
         },
         {
-          "name": "Arthur Rubinstein",
-          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
+          "name": "Christian Rivet",
+          "url": "https://open.spotify.com/artist/4Uz03jdkyGrQHyHepr1Kqk"
         }
       ],
-      "duration_ms": 376440,
-      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
-      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
+      "duration_ms": 98320,
+      "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
+      "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
+    },
+    {
+      "added_at": "2023-09-29 12:43:00",
+      "album": {
+        "name": "Liszt Complete Piano Music, Vol. 5: Schubert Song Transcriptions, Vol. 1",
+        "url": "https://open.spotify.com/album/0ZT6zFKLdp02fNwe8toSo2"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Oxana Yablonskaya",
+          "url": "https://open.spotify.com/artist/4HIq0b99ZW4fL2qI2dFOal"
+        }
+      ],
+      "duration_ms": 425506,
+      "name": "Schwanengesang, S. 560: Schubert - Schwanengesang, S. 560/R. 245: No. 7, Standchen (Leise flehen meine Lieder) [After F. Schubert]",
+      "url": "https://open.spotify.com/track/4oLjLPHIqx6vGJXGlQUMbh"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -975,26 +995,6 @@
       "duration_ms": 123906,
       "name": "Variations on an Original Theme in A-Flat Major, D. 813: VI. Variation V",
       "url": "https://open.spotify.com/track/2PNQn586IZGtwOAKwtEFBn"
-    },
-    {
-      "added_at": "2023-09-29 12:43:00",
-      "album": {
-        "name": "Liszt Complete Piano Music, Vol. 5: Schubert Song Transcriptions, Vol. 1",
-        "url": "https://open.spotify.com/album/0ZT6zFKLdp02fNwe8toSo2"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Oxana Yablonskaya",
-          "url": "https://open.spotify.com/artist/4HIq0b99ZW4fL2qI2dFOal"
-        }
-      ],
-      "duration_ms": 425506,
-      "name": "Schwanengesang, S. 560: Schubert - Schwanengesang, S. 560/R. 245: No. 7, Standchen (Leise flehen meine Lieder) [After F. Schubert]",
-      "url": "https://open.spotify.com/track/4oLjLPHIqx6vGJXGlQUMbh"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -1239,22 +1239,22 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "Bach, C.P.E.: Sonatas & Rondos",
-        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
       "artists": [
         {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
         },
         {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
-      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
+      "duration_ms": 114601,
+      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
+      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
+        "name": "Bach, C.P.E.: Sonatas & Rondos",
+        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
+      },
+      "artists": [
+        {
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
+      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
+    },
+    {
+      "added_at": "2023-09-29 12:43:00",
+      "album": {
         "name": "Early One Morning",
         "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 180066,
       "name": "Valse lente, Op. 33 (arr. for orchestra)",
       "url": "https://open.spotify.com/track/6t2UFULQXc3N0oO0ujaK39"
-    },
-    {
-      "added_at": "2023-09-29 12:43:00",
-      "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 114601,
-      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
-      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -1739,26 +1739,22 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "W.F. Bach: Sinfonias",
-        "url": "https://open.spotify.com/album/0AHlJDfnuTSujoKtK0y9FX"
+        "name": "Mendelssohn: Piano Works",
+        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
       },
       "artists": [
         {
-          "name": "Wilhelm Friedemann Bach",
-          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
         },
         {
-          "name": "Carl Philipp Emanuel Bach Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2KRJoMGVDxlkykGLqvZqRy"
-        },
-        {
-          "name": "Hartmut Haenchen",
-          "url": "https://open.spotify.com/artist/3XKpIwa3KEaO1VE3YrKlL1"
+          "name": "Doomin Kim",
+          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
         }
       ],
-      "duration_ms": 153800,
-      "name": "Sinfonia in F Major, Fk 67 \"Dissonant\": IV. Menuet No. 1 - Menuet No. 2",
-      "url": "https://open.spotify.com/track/5CfhrXtZ1II9jl8BV1v1a2"
+      "duration_ms": 253920,
+      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
+      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -1807,22 +1803,26 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "Mendelssohn: Piano Works",
-        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
+        "name": "W.F. Bach: Sinfonias",
+        "url": "https://open.spotify.com/album/0AHlJDfnuTSujoKtK0y9FX"
       },
       "artists": [
         {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+          "name": "Wilhelm Friedemann Bach",
+          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
         },
         {
-          "name": "Doomin Kim",
-          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
+          "name": "Carl Philipp Emanuel Bach Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2KRJoMGVDxlkykGLqvZqRy"
+        },
+        {
+          "name": "Hartmut Haenchen",
+          "url": "https://open.spotify.com/artist/3XKpIwa3KEaO1VE3YrKlL1"
         }
       ],
-      "duration_ms": 253920,
-      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
-      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
+      "duration_ms": 153800,
+      "name": "Sinfonia in F Major, Fk 67 \"Dissonant\": IV. Menuet No. 1 - Menuet No. 2",
+      "url": "https://open.spotify.com/track/5CfhrXtZ1II9jl8BV1v1a2"
     },
     {
       "added_at": "2023-09-29 12:43:00",

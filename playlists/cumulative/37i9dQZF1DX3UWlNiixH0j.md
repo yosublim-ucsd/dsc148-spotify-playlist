@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 新東京\(SHINTOKYO\)
 
-1,303 songs - 3 day 9 hr 1 min
+1,305 songs - 3 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,7 +526,8 @@
 | [noonoonoon](https://open.spotify.com/track/09Tsaaq09p1t5FXTAOoB58) | [Cape of good hope](https://open.spotify.com/artist/71qVt23XtBAsadtjkBwjAZ) | [noonoonoon](https://open.spotify.com/album/2zr8eIhuh8WXfW2GaJgp6p) | 2:47 | 2023-06-20 | 2023-06-28 |
 | [Not Bad](https://open.spotify.com/track/4lgb0ZbGN8cme2W8bDV10B) | [Verandah](https://open.spotify.com/artist/6beXhiFz00oHfw7Z3fu7j9) | [Not Bad](https://open.spotify.com/album/1Ohx16zY1YX3fc0zd5b4Vf) | 4:45 | 2024-01-16 | 2024-01-24 |
 | [Nothing \#2 \(feat\. Alex Siegel\)](https://open.spotify.com/track/3K7vtKv08nn7omt5S2d4eo) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [THE CHARM PARK II EXTRA](https://open.spotify.com/album/6yzc3XByJ7DRAJDKbDQ3hC) | 3:32 | 2023-12-07 |  |
-| [NTM](https://open.spotify.com/track/5DW0lkwGpxynk7PoUkFlHO) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/4LmbCDYzs3a6A1hY0oT6PL) | 3:05 | 2024-02-06 |  |
+| [NTM](https://open.spotify.com/track/4219u7yEzPwkqYnA3XUW2e) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv) | 3:05 | 2024-02-06 |  |
+| [NTM](https://open.spotify.com/track/5DW0lkwGpxynk7PoUkFlHO) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/4LmbCDYzs3a6A1hY0oT6PL) | 3:05 | 2024-02-06 | 2024-02-08 |
 | [O.M.M \(feat\. Kenya Fujita\)](https://open.spotify.com/track/5xuNygFHKubkXvqRMeNB8u) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [O.M.M \(feat\. Kenya Fujita\)](https://open.spotify.com/album/5jhY5eCkAE6FfOl2wPHw0P) | 2:27 | 2023-10-10 | 2023-10-18 |
 | [O.M.M \- feat\. 藤田織也](https://open.spotify.com/track/2ctOBBuKRVEbK0BsShiaJq) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [O.M.M \(feat\. 藤田織也\)](https://open.spotify.com/album/1q8b5fH5kvHVhaQwhsEXEF) | 2:27 | 2023-10-10 | 2023-10-12 |
 | [oblivious colonists](https://open.spotify.com/track/1KvkGqgKp8GgUr29HAkIKJ) | [BOAR HUNTER](https://open.spotify.com/artist/3fgbIEhchBfDmtoB0lQw2s) | [oblivious colonists](https://open.spotify.com/album/3H96NXuxKVpX8e9lwe6Wal) | 3:51 | 2023-01-24 | 2023-03-15 |
@@ -564,6 +565,7 @@
 | [Pickles](https://open.spotify.com/track/2m92VxBngsxzH7vdWfZD7x) | [天国姑娘](https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663) | [Pickles](https://open.spotify.com/album/3g9tHeYcrVwCzwiwFgfawJ) | 2:59 | 2023-11-29 | 2023-12-06 |
 | [PIP](https://open.spotify.com/track/5do7C5GwLyh3ZnEHkhxdy2) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [PIP](https://open.spotify.com/album/43YJER5iJtpSQNrpDvJZBQ) | 3:05 | 2023-07-11 | 2023-07-19 |
 | [PIP](https://open.spotify.com/track/6J6XYfPFeeOXlJ9BPyuPza) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [PIP](https://open.spotify.com/album/2Y2xII268RQBE4B4iplbO7) | 3:05 | 2023-07-11 | 2023-07-13 |
+| [Planet](https://open.spotify.com/track/2JBvAB9MRddsTnvKPxO1bk) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Planet](https://open.spotify.com/album/1Rz5hGKTRAn5NaBEoasR5U) | 3:36 | 2024-02-06 |  |
 | [Play](https://open.spotify.com/track/5Ec4YyeFG6IIYOf93DbzZ3) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Q.](https://open.spotify.com/album/68UCYi46B4pP5WUo6Yxeuf) | 3:35 | 2023-04-20 | 2023-06-14 |
 | [Pluto](https://open.spotify.com/track/5MOsAXKTErIjTAo5BeMiQP) | [butohes](https://open.spotify.com/artist/6ofwAXNQ3cuSW3J7N3CBdz) | [Pluto](https://open.spotify.com/album/0jedCYvpwYIdVKq180Elh5) | 3:49 | 2023-01-12 | 2023-01-27 |
 | [Poison](https://open.spotify.com/track/5XQ8wudAX0ND1TC4PMp7tE) | [mukeikaku](https://open.spotify.com/artist/13EKu7UHAU6sAqlIoRFQJw) | [konami](https://open.spotify.com/album/6XPAVeT6gbEur5FLeK0hn2) | 2:26 | 2023-12-12 | 2023-12-20 |
@@ -1155,7 +1157,7 @@
 | [恋のジャーナル](https://open.spotify.com/track/7ue4j1Jq6f1xdgH5LXIxW6) | [THE 2](https://open.spotify.com/artist/668YZEv91Ux6vBKFwc3NLk) | [恋のジャーナル](https://open.spotify.com/album/1oRp7okGGR1nfSNBirPdwX) | 3:40 | 2023-06-02 | 2023-09-06 |
 | [悪魔くん](https://open.spotify.com/track/1dfN1UyFFMMnUf1nb0glwG) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [悪魔くん](https://open.spotify.com/album/5kSNrVSQsOCifIzOQkNzuB) | 2:42 | 2023-03-30 | 2023-04-28 |
 | [悪魔くん](https://open.spotify.com/track/5J3XK7QsuVn5bnyQz9kWsC) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ロンリーメイビー](https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E) | 2:42 | 2023-05-16 | 2023-07-07 |
-| [惑星](https://open.spotify.com/track/2xifiMVguiMdv7b42sWFCN) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [惑星](https://open.spotify.com/album/5GPaYEIdlA6ozkFDrz34Zx) | 3:36 | 2024-02-06 |  |
+| [惑星](https://open.spotify.com/track/2xifiMVguiMdv7b42sWFCN) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [惑星](https://open.spotify.com/album/5GPaYEIdlA6ozkFDrz34Zx) | 3:36 | 2024-02-06 | 2024-02-08 |
 | [惑星数珠つなぎ](https://open.spotify.com/track/4pGBhMzvWVCb4QU4EfjNJ5) | [カラコルムの山々](https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix) | [惑星数珠つなぎ](https://open.spotify.com/album/2ylCmkp17XjprjJSMoQvcE) | 4:27 | 2023-02-14 | 2023-03-15 |
 | [想うということ](https://open.spotify.com/track/6xrr46UKL7xgNpFAdP39PB) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [想うということ](https://open.spotify.com/album/0gGycLeZb40DxSr1dohdiH) | 3:18 | 2024-01-09 | 2024-01-26 |
 | [愛が一層メロウ](https://open.spotify.com/track/7ijvSBcVrLn8SiCRGzxKjx) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [愛が一層メロウ](https://open.spotify.com/album/5LWzSqpZTyKiZSKn2BM7xE) | 3:12 | 2024-01-11 |  |

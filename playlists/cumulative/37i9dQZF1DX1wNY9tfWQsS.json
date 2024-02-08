@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329933,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH"
+    },
+    {
+      "album": {
         "name": "All Me (feat. Keyshia Cole)",
         "url": "https://open.spotify.com/album/2bxcNajPY3MT1I4LuGJCOX"
       },
@@ -208,7 +226,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 182400,
       "name": "Crazy Tings",
       "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
@@ -431,6 +449,24 @@
     },
     {
       "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200133,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
+    },
+    {
+      "album": {
         "name": "Do Me Baby",
         "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
       },
@@ -482,6 +518,24 @@
       "duration_ms": 358440,
       "name": "Free",
       "url": "https://open.spotify.com/track/7Kwa03KjnP6UtKJLQorNmM"
+    },
+    {
+      "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247578,
+      "name": "Free Mind",
+      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
     },
     {
       "album": {
@@ -551,6 +605,24 @@
     },
     {
       "album": {
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
+    },
+    {
+      "album": {
         "name": "Good Days",
         "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
       },
@@ -562,7 +634,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 279204,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
@@ -760,7 +832,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 343400,
       "name": "I Feel for You",
       "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
@@ -1032,7 +1104,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 292108,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/0Rkq46Qo069QwWDdrVur8f"
@@ -1090,6 +1162,24 @@
       "duration_ms": 239653,
       "name": "Let Me Be Your Angel",
       "url": "https://open.spotify.com/track/3UteV5HVR6c6vMfFTvYtuG"
+    },
+    {
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Like a Tattoo",
+      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
     },
     {
       "album": {
@@ -1187,6 +1277,42 @@
     },
     {
       "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
+    },
+    {
+      "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
+      "album": {
         "name": "Mr. Big Stuff",
         "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
       },
@@ -1198,7 +1324,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 164560,
       "name": "Mr. Big Stuff",
       "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
@@ -1220,6 +1346,24 @@
       "duration_ms": 257426,
       "name": "My Life",
       "url": "https://open.spotify.com/track/7ytES33eLYS9WaZLKqWfYM"
+    },
+    {
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191600,
+      "name": "Needed Me",
+      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
     },
     {
       "album": {
@@ -1274,7 +1418,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 440466,
       "name": "No Ordinary Love",
       "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ"
@@ -1317,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184258,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
+    },
+    {
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -1332,7 +1494,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 245480,
       "name": "Party (feat. Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/42qh86p7TLXyumxSHn65kc"
@@ -1354,7 +1516,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 210346,
       "name": "Persuasive (with SZA)",
       "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
@@ -1452,6 +1614,24 @@
       "duration_ms": 230841,
       "name": "Queen Space (with Summer Walker)",
       "url": "https://open.spotify.com/track/2dOUErBzFZJ8l7MbV6FcYW"
+    },
+    {
+      "album": {
+        "name": "Release Some Tension",
+        "url": "https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264506,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC"
     },
     {
       "album": {
@@ -1582,10 +1762,28 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 201609,
       "name": "Shot Clock",
       "url": "https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g"
+    },
+    {
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
     },
     {
       "album": {
@@ -1766,7 +1964,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
@@ -2006,7 +2204,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 173866,
       "name": "You're All I Need To Get By",
       "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"

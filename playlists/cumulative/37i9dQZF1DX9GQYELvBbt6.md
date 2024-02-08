@@ -4,7 +4,7 @@
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-86 songs - 5 hr 42 min
+87 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Aiai](https://open.spotify.com/track/2fk7HoBZPtoeqIl54CLTR7) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madaramoyo](https://open.spotify.com/album/2SQQoQMMoeB2TnIQ8Wbc19) | 3:47 | 2024-01-23 | 2024-02-07 |
 | [all the kids are depressed](https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 2:49 | 2023-11-21 |  |
 | [Already Dead](https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:51 | 2023-11-21 |  |
+| [Ambiguous](https://open.spotify.com/track/36Kj0vrp2MnYICExdK1lN9) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Ambiguous](https://open.spotify.com/album/3ny9YuGHA0QNn4F9zWC7Bz) | 3:40 | 2024-02-06 |  |
 | [Answer](https://open.spotify.com/track/5hVAQTNarrb3lmWqg9Ens4) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Answer](https://open.spotify.com/album/6jWEkDAAvJ18hqR0QAR60B) | 4:06 | 2023-11-21 |  |
 | [As the World Caves In](https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [As the World Caves In](https://open.spotify.com/album/0RiimwsSMUsxrBu0RsyuRH) | 2:41 | 2023-11-21 |  |
 | [Beautiful World](https://open.spotify.com/track/6aOoUkiQ9rLweL8IkPBN0L) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [HEART STATION](https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L) | 5:17 | 2024-01-09 |  |
@@ -49,7 +50,7 @@
 | [Wasurenaide](https://open.spotify.com/track/3belJRGyvPLYgiCSXSpqO8) | [Shootz](https://open.spotify.com/artist/0gSHX4GAlRtZJ1tJhBv0SD), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [Wasurenaide](https://open.spotify.com/album/6hHfnpyuiYY1ZiP48U6HwI) | 4:13 | 2024-01-17 | 2024-01-24 |
 | [Yoake no Kimi e](https://open.spotify.com/track/53w9MQ7y5fasAYq0aVnuk3) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 4:01 | 2023-11-21 | 2024-01-10 |
 | [あこがれ](https://open.spotify.com/track/3Q4836EU8FkGpjR5WbkE67) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [あこがれ](https://open.spotify.com/album/4DTZkr6ieYJUi9gzDXpHiB) | 3:59 | 2023-12-12 | 2023-12-20 |
-| [あやふや](https://open.spotify.com/track/1UvCeSlHieprSfrjlREJdS) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [あやふや](https://open.spotify.com/album/5fDfPVGJ6uv8AwIV1F3jCU) | 3:40 | 2024-02-06 |  |
+| [あやふや](https://open.spotify.com/track/1UvCeSlHieprSfrjlREJdS) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [あやふや](https://open.spotify.com/album/5fDfPVGJ6uv8AwIV1F3jCU) | 3:40 | 2024-02-06 | 2024-02-08 |
 | [いつしか](https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [いつしか](https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq) | 4:00 | 2023-11-21 | 2023-11-29 |
 | [この寒い夜だけ](https://open.spotify.com/track/4fdp8i7hga4N1B3Kl8uY8V) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [この寒い夜だけ](https://open.spotify.com/album/3V67EkKSIr0tn93OBJ04ld) | 2:58 | 2024-01-16 |  |
 | [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 | 2023-11-21 |  |

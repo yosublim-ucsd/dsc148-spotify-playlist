@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: SPIDER
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,499 likes - 85 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,503 likes - 85 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 84 | [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 |
 | 85 | [Trust No One](https://open.spotify.com/track/5JWvuCZ6yOJJ4GlbAVjl1v) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Trust No One](https://open.spotify.com/album/7DhBu788ygCSGB9xnoNBVE) | 3:03 |
 
-Snapshot ID: `MCwwODdlODcwMzY5YWJlMDNhZjhjNmY2NGQ5ZjNlMWUwYzhkNWE0OWIz`
+Snapshot ID: `MCxiNDExNmNlNjc3NDIzOWIxNzJiYzZjODBmMmM3MThkZjI4ZmFjNDIz`

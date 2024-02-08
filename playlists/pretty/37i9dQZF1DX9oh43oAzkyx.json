@@ -1,12 +1,12 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2549544,
+  "num_followers": 2550280,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2IwMGI3YWZhYzk1YjJjMjU1M2M0ZmE0ZTU3YWQ0OGE2NzkyNmU1",
+  "snapshot_id": "MCxmNTc1MzEwM2JlNThlZmQ5MDZiOTQ4NTc1NTYxZDgwOWFkMTliMmE5",
   "tracks": [
     {
       "added_at": "2024-02-02 21:39:59",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-01-26 04:00:00",
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 132799,
-      "name": "Barbie Dangerous",
-      "url": "https://open.spotify.com/track/1fKT7RUtOf4xNEqctEFe5L"
-    },
-    {
-      "added_at": "2024-01-26 04:00:00",
-      "album": {
         "name": "A Gangsta\u2019s Pain",
         "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 223712,
       "name": "Bodak Yellow",
       "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
+    },
+    {
+      "added_at": "2024-01-26 04:00:00",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 132799,
+      "name": "Barbie Dangerous",
+      "url": "https://open.spotify.com/track/1fKT7RUtOf4xNEqctEFe5L"
     },
     {
       "added_at": "2024-01-26 04:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-01-26 04:00:00",
       "album": {
-        "name": "LIFE IN HELL",
-        "url": "https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM"
-      },
-      "artists": [
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "LANCEY OR LANCEY",
-      "url": "https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u"
-    },
-    {
-      "added_at": "2024-01-26 04:00:00",
-      "album": {
         "name": "All Is Yellow",
         "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 185538,
       "name": "Fly Away (with Sheck Wes, Ski Mask The Slump God & JID)",
       "url": "https://open.spotify.com/track/4FdlNCxdyXOXKIZNKcIqAs"
+    },
+    {
+      "added_at": "2024-01-26 04:00:00",
+      "album": {
+        "name": "LIFE IN HELL",
+        "url": "https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "LANCEY OR LANCEY",
+      "url": "https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u"
     },
     {
       "added_at": "2024-01-26 04:00:00",

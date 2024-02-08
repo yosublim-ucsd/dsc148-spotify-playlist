@@ -6,31 +6,11 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGE3YTg1ZTk3NGVmZDIzN2RjOTY3ODk1OWEzZjZlOTcwMTY0NDYw",
+  "snapshot_id": "MCw4ODRjM2NiMzBhNDE2YWQ4YmFmMTdkM2Q1ZGY3OGZiNWIyMTFlMjM5",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        },
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 191234,
-      "name": "For All You Give",
-      "url": "https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -40,221 +20,9 @@
           "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 217426,
-      "name": "New Light",
-      "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Headlong",
-        "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Far Too Good",
-      "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Face Like Mine",
-        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Hot Tears",
-      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sleep Through The Static",
-        "url": "https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 122706,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/2vO1wr5wIEHqQmY4jWbuhi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born and Raised",
-        "url": "https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "Something Like Olivia",
-      "url": "https://open.spotify.com/track/1aiDlPLPljMFUylWjMZras"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Undergrad Romance and the Moses in Me",
-        "url": "https://open.spotify.com/album/3BKFrChX5Exd28VX3Yq4Kb"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 220588,
-      "name": "If You Were the Rain",
-      "url": "https://open.spotify.com/track/5EXD5rXJ4IVb8g4xSwT0fc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Human Nature (Acoustic)",
-        "url": "https://open.spotify.com/album/1g6uFc2bQQpbxZ1cNWeKTk"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        },
-        {
-          "name": "Alex Francis",
-          "url": "https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa"
-        }
-      ],
-      "duration_ms": 227763,
-      "name": "Human Nature - Acoustic",
-      "url": "https://open.spotify.com/track/5tMIrapXY40t9GHD2BbBaJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beast Epic",
-        "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 231754,
-      "name": "Call It Dreaming",
-      "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs to Break Up To (Acoustic)",
-        "url": "https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 184064,
-      "name": "Thinking 'Bout Love - Acoustic",
-      "url": "https://open.spotify.com/track/1nHPM4cx7QvCaFakEPMsho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "Carry Me Away",
-      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 144013,
-      "name": "Do You Remember",
-      "url": "https://open.spotify.com/track/1EZJBB6bvCcrvYRlOyoHuf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Undergrad Romance and the Moses in Me",
-        "url": "https://open.spotify.com/album/3BKFrChX5Exd28VX3Yq4Kb"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 230103,
-      "name": "Hey Lady",
-      "url": "https://open.spotify.com/track/005GaX6hvgeTFnR9FvejTE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
+      "duration_ms": 219226,
+      "name": "Til the Right One Comes",
+      "url": "https://open.spotify.com/track/4f0xBbWvKWmuB17yebh24a"
     },
     {
       "added_at": null,
@@ -275,162 +43,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/0OLyRkEk8qQw3z4glKERMm"
+        "name": "Headlong",
+        "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
       },
       "artists": [
         {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
         }
       ],
-      "duration_ms": 184444,
-      "name": "I Do - Bonus Track",
-      "url": "https://open.spotify.com/track/7KDt8lUrhiYDx42AN1RwZj"
+      "duration_ms": 219333,
+      "name": "Far Too Good",
+      "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+        "name": "Range Rover",
+        "url": "https://open.spotify.com/album/5ruW2vzzdx8PN3MOZNtmcx"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 219226,
-      "name": "Til the Right One Comes",
-      "url": "https://open.spotify.com/track/4f0xBbWvKWmuB17yebh24a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On And On",
-        "url": "https://open.spotify.com/album/7LQhG0xSDjFiKJnziyB3Zj"
-      },
-      "artists": [
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        },
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
         }
       ],
-      "duration_ms": 141933,
-      "name": "Times Like These",
-      "url": "https://open.spotify.com/track/4WM22pqXRZkcdrp7alhjsv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Guess I'm Grown Now",
-        "url": "https://open.spotify.com/album/7JpX4gmNn0zAtEgWGERWwH"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 163146,
-      "name": "All the Time in the World",
-      "url": "https://open.spotify.com/track/71fcNlXfJu1aWQmABFyZ2j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Supply And Demand",
-        "url": "https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 129626,
-      "name": "Sweet Pea",
-      "url": "https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rearrange Us",
-        "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/3wcluZHyfuTzIXHfwXVAIE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On the Train Ride Home",
-        "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Arms",
-      "url": "https://open.spotify.com/track/4EXvl9cypQrKVYwabqd1EY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born and Raised",
-        "url": "https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 144400,
-      "name": "Love Is A Verb",
-      "url": "https://open.spotify.com/track/03XjpGGdsIPouALXem2Cku"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eighty-Eight",
-        "url": "https://open.spotify.com/album/0fHfPNtkPrHH0OQhKc9zW6"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 247793,
-      "name": "Call It a Night",
-      "url": "https://open.spotify.com/track/6Y5chnfpGt3f6HM5xA8Pd1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 186251,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
+      "duration_ms": 200346,
+      "name": "Range Rover",
+      "url": "https://open.spotify.com/track/1hcI2TWBGj9bRLhP1kvCmM"
     },
     {
       "added_at": null,
@@ -444,31 +88,79 @@
           "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 191906,
-      "name": "Banana Pancakes",
-      "url": "https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv"
+      "duration_ms": 183720,
+      "name": "Sitting, Waiting, Wishing",
+      "url": "https://open.spotify.com/track/5eWOsyHHic4vJP3LjTVhqv"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
+        "name": "Born and Raised",
+        "url": "https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0"
       },
       "artists": [
         {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 233973,
-      "name": "Coastline",
-      "url": "https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo"
+      "duration_ms": 180626,
+      "name": "Something Like Olivia",
+      "url": "https://open.spotify.com/track/1aiDlPLPljMFUylWjMZras"
     },
     {
       "added_at": null,
       "album": {
-        "name": "hemispheres",
-        "url": "https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC"
+        "name": "A Face Like Mine",
+        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Undergrad Romance and the Moses in Me",
+        "url": "https://open.spotify.com/album/3BKFrChX5Exd28VX3Yq4Kb"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "If You Were the Rain",
+      "url": "https://open.spotify.com/track/5EXD5rXJ4IVb8g4xSwT0fc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/2s86prhNipU2fNbTeMmJuU"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "duration_ms": 156870,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/0fpsZCQSZHswLGjD4ZfWVf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'll Be Around",
+        "url": "https://open.spotify.com/album/1uQn196WK2ZYn9Ypyp9czZ"
       },
       "artists": [
         {
@@ -476,9 +168,29 @@
           "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
         }
       ],
-      "duration_ms": 213520,
-      "name": "Holding on to You",
-      "url": "https://open.spotify.com/track/2XbGCUjNjQgJPMO1QbMp5a"
+      "duration_ms": 186954,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/3ccDb4UqLC54IoFJ8LmFoy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fly Between Falls",
+        "url": "https://open.spotify.com/album/22gD4oyFnBAXsHPo2GnI6d"
+      },
+      "artists": [
+        {
+          "name": "ALO",
+          "url": "https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "Girl, I Wanna Lay You Down",
+      "url": "https://open.spotify.com/track/4SeSBHW3My7RdB4UW0h1m9"
     },
     {
       "added_at": null,
@@ -499,44 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs to Break Up To",
-        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 191751,
-      "name": "Kinda Feels Alright",
-      "url": "https://open.spotify.com/track/2r5Y63U4CQkvUugkXT6mtL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eric Clapton & Friends - The Breeze (An Appreciation of JJ Cale)",
-        "url": "https://open.spotify.com/album/21swqoPE6wszY0IC8sJEYs"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Lies (feat. John Mayer)",
-      "url": "https://open.spotify.com/track/6r87qBIT9SEwC4Tz4NjAIx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All The Light Above It Too",
-        "url": "https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5"
+        "name": "Sleep Through The Static",
+        "url": "https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz"
       },
       "artists": [
         {
@@ -544,41 +220,73 @@
           "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 210466,
-      "name": "Sunsets For Somebody Else",
-      "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
+      "duration_ms": 122706,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2vO1wr5wIEHqQmY4jWbuhi"
     },
     {
       "added_at": null,
       "album": {
-        "name": "On the Corner Where You Live",
-        "url": "https://open.spotify.com/album/02g8cOPykp2ZbBFDfScCTE"
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 212200,
-      "name": "Give Me Your Fire, Give Me Your Rain",
-      "url": "https://open.spotify.com/track/7obe8UuHv5wSDaNZh93Kvk"
+      "duration_ms": 247266,
+      "name": "Hot Tears",
+      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Headphones",
-        "url": "https://open.spotify.com/album/5jmUnHI6B32EloahOxu4sF"
+        "name": "All The Things I Say To Myself",
+        "url": "https://open.spotify.com/album/44Apji7FHGciEnP1ayZYmh"
       },
       "artists": [
         {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+          "name": "Jon McLaughlin",
+          "url": "https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7"
         }
       ],
-      "duration_ms": 204998,
-      "name": "Headphones",
-      "url": "https://open.spotify.com/track/7mQmu0JSoEyYU763IJXhIA"
+      "duration_ms": 202546,
+      "name": "A Break Up Song",
+      "url": "https://open.spotify.com/track/6kSDtlghYpUfjf94I3iU7G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Slow",
+        "url": "https://open.spotify.com/album/2dUqjfW3uN8obZ6i1XnHCZ"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 205286,
+      "name": "Be Slow",
+      "url": "https://open.spotify.com/track/3j2SaDGyzZhiifh5g5tmNw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 214240,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/2lxBZVbkiCXC1soks2RXwV"
     },
     {
       "added_at": null,
@@ -592,9 +300,221 @@
           "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 249080,
-      "name": "Shot in the Dark",
-      "url": "https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo"
+      "duration_ms": 159133,
+      "name": "Carry Me Away",
+      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On And On",
+        "url": "https://open.spotify.com/album/7LQhG0xSDjFiKJnziyB3Zj"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 130013,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/4sX4O9mgw76aWhehf1eSRD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever You and Me",
+        "url": "https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 175592,
+      "name": "Forever You and Me",
+      "url": "https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs to Break Up To (Acoustic)",
+        "url": "https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 184064,
+      "name": "Thinking 'Bout Love - Acoustic",
+      "url": "https://open.spotify.com/track/1nHPM4cx7QvCaFakEPMsho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guess I'm Grown Now",
+        "url": "https://open.spotify.com/album/7JpX4gmNn0zAtEgWGERWwH"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Dancing in the Street",
+      "url": "https://open.spotify.com/track/7F4V3C2dBlFJGhSAY0uPdH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metal & Wood",
+        "url": "https://open.spotify.com/album/6FXR4DEIYONPfvnTAW1XJV"
+      },
+      "artists": [
+        {
+          "name": "Tyrone Wells",
+          "url": "https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "And the Birds Sing",
+      "url": "https://open.spotify.com/track/27IQtqCIy1KfK9TQGlG4jp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 144013,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/1EZJBB6bvCcrvYRlOyoHuf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 186251,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild Rivers",
+        "url": "https://open.spotify.com/album/4SMbqvJenspMXbcPROZsVK"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "Wandering Child",
+      "url": "https://open.spotify.com/track/6xpF0dbtDGmEd0En18Kfwl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dear Happy",
+        "url": "https://open.spotify.com/album/5a96csz24Uvb9j3nrcdOXj"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 181760,
+      "name": "Losing Me",
+      "url": "https://open.spotify.com/track/0JJ1HpcYaYs9w5FdKEYh0b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rearrange Us",
+        "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/3wcluZHyfuTzIXHfwXVAIE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born and Raised",
+        "url": "https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 144400,
+      "name": "Love Is A Verb",
+      "url": "https://open.spotify.com/track/03XjpGGdsIPouALXem2Cku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Banana Pancakes",
+      "url": "https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv"
     },
     {
       "added_at": null,
@@ -619,8 +539,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/5u14nFR2NAMX1R0DslsyH9"
+        "name": "On the Corner Where You Live",
+        "url": "https://open.spotify.com/album/02g8cOPykp2ZbBFDfScCTE"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "Give Me Your Fire, Give Me Your Rain",
+      "url": "https://open.spotify.com/track/7obe8UuHv5wSDaNZh93Kvk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs to Break Up To",
+        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
       },
       "artists": [
         {
@@ -628,15 +564,47 @@
           "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
         }
       ],
-      "duration_ms": 206903,
-      "name": "Pink Shades",
-      "url": "https://open.spotify.com/track/3YsjOrar28TbRQAOZ7z63r"
+      "duration_ms": 191751,
+      "name": "Kinda Feels Alright",
+      "url": "https://open.spotify.com/track/2r5Y63U4CQkvUugkXT6mtL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "From Here To Now To You",
-        "url": "https://open.spotify.com/album/3da6Ihr5l6xjOCDs5sTXIu"
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 219053,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 255213,
+      "name": "Why You No Love Me",
+      "url": "https://open.spotify.com/track/3hwjxbqGvTRUPi38fLgeM7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All The Light Above It Too",
+        "url": "https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5"
       },
       "artists": [
         {
@@ -644,77 +612,57 @@
           "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 179346,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/12jjuxN1gxlm29cqL5M6MW"
+      "duration_ms": 210466,
+      "name": "Sunsets For Somebody Else",
+      "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Rockin' Blues",
-        "url": "https://open.spotify.com/album/2UewN8ejNxZTOLHrPfh25T"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 280546,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/1hdrdqP1bcqgaeydimOOkx"
+      "duration_ms": 174000,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Future (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4OAET9jwMLVkoiciXfXRRT"
+        "name": "On the Train Ride Home",
+        "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
       },
       "artists": [
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 172976,
-      "name": "survivin'",
-      "url": "https://open.spotify.com/track/4Co6dV9bXZnZs01x075GTo"
+      "duration_ms": 203560,
+      "name": "Arms",
+      "url": "https://open.spotify.com/track/4EXvl9cypQrKVYwabqd1EY"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Search for Everything",
-        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+        "name": "hemispheres",
+        "url": "https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
         }
       ],
-      "duration_ms": 240626,
-      "name": "Rosie",
-      "url": "https://open.spotify.com/track/5KsLlcmWDoHUoJFzRw14wD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Building Balance",
-        "url": "https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 184952,
-      "name": "Consider Me",
-      "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
+      "duration_ms": 213520,
+      "name": "Holding on to You",
+      "url": "https://open.spotify.com/track/2XbGCUjNjQgJPMO1QbMp5a"
     },
     {
       "added_at": null,
@@ -735,54 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 154764,
-      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dreaming in Electric Blue",
-        "url": "https://open.spotify.com/album/6EojMTIcdHKZUesfXcm04U"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 217765,
-      "name": "Be Without You",
-      "url": "https://open.spotify.com/track/3E1MFVYKSEBytmaRpaHtmj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Edges Run",
-        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "People Change",
-      "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -799,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "On And On",
-        "url": "https://open.spotify.com/album/7LQhG0xSDjFiKJnziyB3Zj"
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/3da6Ihr5l6xjOCDs5sTXIu"
       },
       "artists": [
         {
@@ -808,29 +708,125 @@
           "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 170946,
-      "name": "Traffic In The Sky",
-      "url": "https://open.spotify.com/track/1yZFWn5IOy4spqLgJmMLmU"
+      "duration_ms": 179346,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/12jjuxN1gxlm29cqL5M6MW"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Inside Friend (feat. John Mayer)",
-        "url": "https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV"
+        "name": "Building Balance",
+        "url": "https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 184952,
+      "name": "Consider Me",
+      "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eric Clapton & Friends - The Breeze (An Appreciation of JJ Cale)",
+        "url": "https://open.spotify.com/album/21swqoPE6wszY0IC8sJEYs"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         },
         {
           "name": "John Mayer",
           "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 175432,
-      "name": "Inside Friend (feat. John Mayer)",
-      "url": "https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu"
+      "duration_ms": 186826,
+      "name": "Lies (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/6r87qBIT9SEwC4Tz4NjAIx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/5u14nFR2NAMX1R0DslsyH9"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 206903,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/3YsjOrar28TbRQAOZ7z63r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/5KsLlcmWDoHUoJFzRw14wD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/3da6Ihr5l6xjOCDs5sTXIu"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5yCrrN0GiJjHkRJGWw5D13"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 273560,
+      "name": "Chateau",
+      "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
     }
   ],
   "unique_name": "Carry Me Away Radio",

@@ -4,13 +4,13 @@
 
 > lighters up for these awesome rock ballads.
 
-164 songs - 11 hr 17 min
+165 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 | 2021-06-03 |  |
 | [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 | 2023-10-03 |  |
-| [Against The Wall \- Acoustic Version](https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Against The Wall \(Acoustic Version\)](https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf) | 3:26 | 2021-06-03 |  |
+| [Against The Wall \- Acoustic Version](https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Against The Wall \(Acoustic Version\)](https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf) | 3:26 | 2021-06-03 | 2024-02-08 |
 | [All I Had To Lose \(feat\. Mark Morales\)](https://open.spotify.com/track/3t9seJl7Y0B556M2ndthl1) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Mark Morales](https://open.spotify.com/artist/5QPc5gUxdETGecetdI8o8O) | [All I Had To Lose \(feat\. Mark Morales\)](https://open.spotify.com/album/3pvMWJSHWaSjFMDkk93JAE) | 3:15 | 2021-06-03 | 2023-01-21 |
 | [All I Need](https://open.spotify.com/track/2FPHOduj8yJPDOadAOqVm5) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/7BVYAnGLAZF7SFYYl4Zh8t) | 4:50 | 2021-06-03 | 2022-07-29 |
 | [All I Need](https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 4:50 | 2022-07-22 |  |
@@ -113,6 +113,7 @@
 | [Over You](https://open.spotify.com/track/7mXmxXLAnsvXKt4Q37KoMI) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry](https://open.spotify.com/album/7MEQdKzqoG2QJYcT2XEKsW) | 3:24 | 2021-06-03 |  |
 | [Patience](https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Patience](https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo) | 4:13 | 2021-06-03 |  |
 | [Prayers For The Damned](https://open.spotify.com/track/5d9MTgwOIsiGObIv783pgu) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers For The Damned](https://open.spotify.com/album/0edyfDPU6zQlva185r9gRS) | 4:39 | 2021-06-03 | 2022-07-29 |
+| [Prayers For The Damned](https://open.spotify.com/track/2IFdWdGlCdPT99RALN1L2z) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/1BRJvLviuSqyFpInvec0lk) | 4:39 | 2023-10-20 |  |
 | [Prayers For The Damned](https://open.spotify.com/track/5XiPxGxOLuubfvwXlXJ6Wt) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/0hMPPqOR9n6XSia99Rw6t7) | 4:39 | 2022-07-22 | 2023-09-01 |
 | [Present Tense](https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 5:45 | 2021-06-03 |  |
 | [Quiet Now](https://open.spotify.com/track/41ZjzkJRYKHo4seEv9MSBI) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [The Things We Can´t Stop](https://open.spotify.com/album/6Y269q2NP4FXullO3NxBDE) | 4:14 | 2022-07-22 | 2023-01-21 |

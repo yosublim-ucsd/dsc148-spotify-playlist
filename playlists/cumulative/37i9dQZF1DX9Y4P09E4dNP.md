@@ -4,7 +4,7 @@
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-119 songs - 9 hr 21 min
+120 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [DADA BA](https://open.spotify.com/track/5lgGv9Y0i3PKtQFeHpXYXb) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [DADA BA](https://open.spotify.com/album/5EFW38XyXglIjFsqOcFeby) | 3:04 | 2022-03-03 | 2023-02-26 |
 | [Deeba](https://open.spotify.com/track/04RrKNyYkImWhZkoEDBhTO) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:05 | 2020-02-20 | 2022-10-16 |
 | [Deeba](https://open.spotify.com/track/6NLy8oSDKKXfHfxpKeAjOt) | [Deeba](https://open.spotify.com/artist/5gZhjWdd6NuAZ8Yrg1a3Ss) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:05 | 2020-02-20 | 2022-07-29 |
-| [Deeba](https://open.spotify.com/track/6xvQweMHBKFVxgZtmQy7va) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Welcome To Ghana](https://open.spotify.com/album/0WTr5rNM9QFV4Qi3s4B5nA) | 5:06 | 2023-12-01 |  |
+| [Deeba](https://open.spotify.com/track/6xvQweMHBKFVxgZtmQy7va) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Welcome To Ghana](https://open.spotify.com/album/0WTr5rNM9QFV4Qi3s4B5nA) | 5:06 | 2023-12-01 | 2024-02-08 |
 | [Dondo](https://open.spotify.com/track/0YrIz7PlFQPjRVzP8hQsH2) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:51 | 2020-02-20 | 2022-07-29 |
 | [Dondo](https://open.spotify.com/track/6qXsfvpsehSXQqPSS22DKg) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Dondo](https://open.spotify.com/album/3N2CZfeQGWnlbuMIPodm2A) | 5:51 | 2020-02-20 |  |
 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 | 2021-11-18 |  |
@@ -121,6 +121,7 @@
 | [Wafom](https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:44 | 2020-02-20 |  |
 | [Ware Me](https://open.spotify.com/track/3vyBe2SDEPLhm6peMZnk3n) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Burning \- EP](https://open.spotify.com/album/7oQTsdePfvrMkeottXJ4Go) | 3:53 | 2021-12-02 | 2023-02-17 |
 | [Wish Me Well](https://open.spotify.com/track/76OgQukE55wL78J77Vl5rp) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb) | 3:24 | 2020-02-20 | 2024-02-04 |
+| [Wish Me Well](https://open.spotify.com/track/7prLktT8hh87SJLGneo4ri) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE) | 3:24 | 2023-12-01 |  |
 | [Wo Sisi Ye Woya](https://open.spotify.com/track/4gaDKm5JQYlo6DFOv3eHAF) | [T Blaze](https://open.spotify.com/artist/5WUHEAVt0NS7Zm0foNjiPX) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:04 | 2020-02-20 | 2022-07-27 |
 | [Wokye \(feat\. Lazy Dogg\)](https://open.spotify.com/track/5k33aBKKLT6Xc9eQ6CMXng) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm), [Lazy Dogg](https://open.spotify.com/artist/4YvXEljlIeW6g6irD5x2HV) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:20 | 2020-02-20 | 2022-04-20 |
 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2023-06-09 |  |

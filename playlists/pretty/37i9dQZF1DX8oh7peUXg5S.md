@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Rozalén.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,573 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,613 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 36 | [Óleo de Mujer Con Sombrero](https://open.spotify.com/track/1w6mcMacExya7bvbElMuar) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 2:24 |
 | 37 | [Todo Cambia](https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [¿Será Posible El Sur?](https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj) | 4:44 |
 | 38 | [Siete Vidas](https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 4:02 |
-| 39 | [Anoche Soñé Contigo](https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Logo](https://open.spotify.com/album/571r33emaklRI3YlPioelt) | 4:04 |
+| 39 | [Estadio Azteca](https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 3:37 |
 | 40 | [Contigo](https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Yo, Mi, Me, Contigo](https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI) | 4:39 |
-| 41 | [Estadio Azteca](https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 3:37 |
+| 41 | [Anoche Soñé Contigo](https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Logo](https://open.spotify.com/album/571r33emaklRI3YlPioelt) | 4:04 |
 | 42 | [Toda una Vida](https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Contigo En La Distancia](https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui) | 1:55 |
 | 43 | [La Puerta Violeta](https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:22 |
 | 44 | [Querría](https://open.spotify.com/track/5Yf4Dxfo4cQK2WJtMrblr7) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [De Pana y Rubí](https://open.spotify.com/album/4Au1uBJOkLcsLf9WLWVif9) | 4:09 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 88 | [Mi Querida España](https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 2:39 |
 | 89 | [Aunque tú no lo sepas](https://open.spotify.com/track/2XXec5RwkNrjpBNfCjNhAv) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Ajuste de cuentas](https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze) | 4:02 |
 | 90 | [Lucha de gigantes \- Live](https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Básico](https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka) | 3:57 |
-| 91 | [Soy un Corazón Tendido al Sol](https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazón Tendido Al Sol](https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB) | 4:24 |
-| 92 | [Contigo](https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Contigo](https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ) | 4:54 |
-| 93 | [Mi Problema](https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 6:05 |
+| 91 | [Contigo](https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Contigo](https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ) | 4:54 |
+| 92 | [Soy un Corazón Tendido al Sol](https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazón Tendido Al Sol](https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB) | 4:24 |
+| 93 | [Guapa](https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Diego Ojeda](https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl) | [Maldita Vocación](https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku) | 4:45 |
 | 94 | [Qué bonito](https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Qué bonito](https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX) | 3:50 |
-| 95 | [Guapa](https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Diego Ojeda](https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl) | [Maldita Vocación](https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku) | 4:45 |
+| 95 | [Mi Problema](https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 6:05 |
 | 96 | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm) | 4:41 |
-| 97 | [Solo Pienso en Ti](https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos](https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl) | 4:11 |
-| 98 | [Un Solo Corazón](https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r) | [El Jose](https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Yo Sin Tú](https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i) | 5:08 |
+| 97 | [Un Solo Corazón](https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r) | [El Jose](https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Yo Sin Tú](https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i) | 5:08 |
+| 98 | [Aunque tú no lo sepas](https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg) | [Alba Rojas](https://open.spotify.com/artist/4xdBvo5jnfT71bRV8m30ZW) | [Aunque tú no lo sepas](https://open.spotify.com/album/3SaoEYIz0wkozITFrtSzDr) | 2:11 |
 | 99 | [Al Alba](https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Albanta](https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M) | 4:57 |
-| 100 | [Aunque tú no lo sepas](https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg) | [Alba Rojas](https://open.spotify.com/artist/4xdBvo5jnfT71bRV8m30ZW) | [Aunque tú no lo sepas](https://open.spotify.com/album/3SaoEYIz0wkozITFrtSzDr) | 2:11 |
+| 100 | [Solo Pienso en Ti](https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos](https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl) | 4:11 |
 
-Snapshot ID: `MCwwN2M5ZjM5OTExNDM5NDg3YzcxZWQzYzdjNmYwNDMzMjc5YWE2M2Uw`
+Snapshot ID: `MCxjZDE1Nzc5NzM4NDlmZTlhZGY1N2IxNTI3NGMxYTMwOTU1MWU3YWE5`

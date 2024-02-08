@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 
 > Des titres pop, tout en douceur\. Photo : Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,241 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,257 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 | 49 | [This could have been my summer](https://open.spotify.com/track/6fZPOZXvC8oyqMGLma0dY2) | [Angelina Beroe](https://open.spotify.com/artist/4EZjCeU9fbZidk5dS2nl0q) | [This could have been my summer](https://open.spotify.com/album/00YJr1XCVk6niqQjzrDbd9) | 4:10 |
 | 50 | [Room Service](https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:46 |
 
-Snapshot ID: `MCxkZTMxN2I4MWZkYzZmMjE3YjVkNTMyMDc4ZDVjMDNjZDdjYzk2OGM5`
+Snapshot ID: `MCxmMDdiY2M3MmM1YzMxZWQ0NmQ5ZmY0M2Q4N2Y0ODZmYjE2YmU4YTUz`

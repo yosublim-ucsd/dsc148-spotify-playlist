@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,534 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,564 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 11 | [El Remedio](https://open.spotify.com/track/2VcJR7KAuUPqdhuuJ5IoMu) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez](https://open.spotify.com/album/3KJCxqfH2dypQJBEBdfZ2m) | 2:23 |
 | 12 | [De Mil Maneras](https://open.spotify.com/track/23SdQDuoyHarQwRC95Xo6c) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Gran Colección del 60 Aniversario CBS \- Sonora Santanera](https://open.spotify.com/album/6poi9pfnqjVUt5EZtWEUA4) | 2:43 |
 | 13 | [Escándalo](https://open.spotify.com/track/2BOqc30CNk9sp1MHbzBDR3) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Coleccion Original](https://open.spotify.com/album/5mwwGVisjZAiAUwLF0IZFC) | 2:32 |
-| 14 | [Bule Bule](https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa) | 2:22 |
-| 15 | [Guantanamera](https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe) | [The Sandpipers](https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB) | [Guantanamera](https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5) | 3:13 |
+| 14 | [Guantanamera](https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe) | [The Sandpipers](https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB) | [Guantanamera](https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5) | 3:13 |
+| 15 | [Bule Bule](https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa) | 2:22 |
 | 16 | [Siluetas](https://open.spotify.com/track/0nwY36t2kFMEFc01z5HXRw) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Homenaje a Johnny Laboriel Con los Rebeldes del Rock](https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR) | 2:58 |
 | 17 | [Suspenso Infernal](https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:52 |
 | 18 | [Bemba Colorá](https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son con Guaguancó](https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J) | 3:31 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 29 | [Acompáñame](https://open.spotify.com/track/4CWYYlpeOMeY5qYdIWoZER) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocío Dúrcal \- Sus éxitos de los 60 Vol\. 1](https://open.spotify.com/album/0UBvTmsWLGKuJIVOWoPHRi) | 3:36 |
 | 30 | [Cuando Era un Jovencito](https://open.spotify.com/track/180C5oUJrNqxlcqmlvAZYW) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Rock de los 60's](https://open.spotify.com/album/5nabTO3L92Il0r8FHVPL7J) | 2:41 |
 | 31 | [Amigo Organillero](https://open.spotify.com/track/6stFUUMMZvOtCkFBtztcX1) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Y Todavia Te Quiero](https://open.spotify.com/album/6CmoVG6x6B3jghBzs22KnG) | 3:11 |
-| 32 | [Creí](https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv) | [Juan Mendoza](https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S) | [Antología...Juan Mendoza "El Tariacuri"](https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U) | 2:59 |
-| 33 | [Muchacha Bonita](https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:21 |
+| 32 | [Muchacha Bonita](https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:21 |
+| 33 | [Creí](https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv) | [Juan Mendoza](https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S) | [Antología...Juan Mendoza "El Tariacuri"](https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U) | 2:59 |
 | 34 | [Pepito](https://open.spotify.com/track/4uyZelxU8nHtF6wtWE3rDx) | [Los Machucambos](https://open.spotify.com/artist/3Q8nSW25MwXKlrlfElSSyc) | [Los Increíbles Machucambos](https://open.spotify.com/album/4eRpd2Hibj9awA0xC5SQcX) | 3:04 |
 | 35 | [Monólogo](https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Cuidado](https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o) | 2:56 |
 | 36 | [El Nido](https://open.spotify.com/track/7d0GT25coyRGTYKPdohfC9) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Personalidad](https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 49 | [Agujetas de Color de Rosa](https://open.spotify.com/track/2okE1tDAMhTVDEC7QrF47h) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Rock de los 60's](https://open.spotify.com/album/5nabTO3L92Il0r8FHVPL7J) | 2:48 |
 | 50 | [Esta Tarde Vi Llover](https://open.spotify.com/track/7wOlTX3Bg1Am9gEHt8Gnwh) | [Armando Manzanero Y Su Piano](https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq) | [Armando Manzanero, Su Piano y Su Música](https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy) | 2:40 |
 
-Snapshot ID: `MCxiZDQ0MWU4ZTE0N2UxZDI5OGE1NDdmYTg0NzVmY2U0ZTQxODk4ODYw`
+Snapshot ID: `MCwwZjY1N2IzZTY4ZTY4Y2FhYzQ0YTk3NWNkMWYzZTYwNjgyNWE1ZDY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 
 > Aesthetic vibes that just make sense.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,283 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,300 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 19 | [Call me](https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9) | 2:06 |
 | 20 | [5:32pm](https://open.spotify.com/track/0Q2LHrREFF9rtX3PuMUoNL) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Vibes 2](https://open.spotify.com/album/1AKUaQMs0kRryyi18h31o0) | 2:16 |
 | 21 | [I'll Bite Your Soul](https://open.spotify.com/track/71qKWIBggc7poNXclWN53M) | [SHRK](https://open.spotify.com/artist/3bDsGKWVVP8NdrqpiB0rEp), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Love](https://open.spotify.com/album/4zjCyRjagCO2YX65OBCQKK) | 2:03 |
-| 22 | [i'm in love with u, sorry](https://open.spotify.com/track/5p684vIzF5LOkmHL3I0tyM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [i'm in love with u, sorry](https://open.spotify.com/album/4bwwiOqoiN3PMKWjy4A8eD) | 1:30 |
-| 23 | [this girl](https://open.spotify.com/track/6AknQdo6L05nsY2aQsxCFi) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv) | 2:02 |
+| 22 | [this girl](https://open.spotify.com/track/6AknQdo6L05nsY2aQsxCFi) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv) | 2:02 |
+| 23 | [i'm in love with u, sorry](https://open.spotify.com/track/5p684vIzF5LOkmHL3I0tyM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [i'm in love with u, sorry](https://open.spotify.com/album/4bwwiOqoiN3PMKWjy4A8eD) | 1:30 |
 | 24 | [viola](https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [unexpected](https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ) | 1:26 |
 | 25 | [Cut My Hair](https://open.spotify.com/track/3DYZKxjG8SZrWpVcoUilqQ) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [How Are You](https://open.spotify.com/album/5CzE7H2HSJCRNj4qNHIoly) | 2:07 |
 | 26 | [Steven Universe](https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Steven Universe](https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5) | 2:14 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 41 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 |
 | 42 | [the way that you see me \(feat\. Ayleen Valentine\)](https://open.spotify.com/track/0k2bhZ9oM3boyUWaV3MfWk) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [drinking under the streetlights](https://open.spotify.com/album/3hHe7soPaQsQqALZOgNIYe) | 3:02 |
 | 43 | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/track/1F0a3Au8NIpoRP7PVdO1YR) | [TSUKI](https://open.spotify.com/artist/5JUQJ7KsNBUfvga48DbmAf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/album/6hS1GnERLOTXde2WYhUzCL) | 2:37 |
-| 44 | [Day in Paris](https://open.spotify.com/track/5uuD5CBnuAF6VoC57WLxol) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [Day in Paris](https://open.spotify.com/album/71Xu2aatGYldckWmQHeYSF) | 3:17 |
-| 45 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
-| 46 | [Resonance](https://open.spotify.com/track/3xzGdiAHys1YBL8touis1S) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/0eng8FkzAYHcUoZ4YLMXpO) | 3:32 |
+| 44 | [Resonance](https://open.spotify.com/track/3xzGdiAHys1YBL8touis1S) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/0eng8FkzAYHcUoZ4YLMXpO) | 3:32 |
+| 45 | [Day in Paris](https://open.spotify.com/track/5uuD5CBnuAF6VoC57WLxol) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [Day in Paris](https://open.spotify.com/album/71Xu2aatGYldckWmQHeYSF) | 3:17 |
+| 46 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
 | 47 | [Aesthetic Girl](https://open.spotify.com/track/0bCgcTDkZ1RhguEeuUhZ9k) | [Yusei](https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv) | [Aesthetic Girl](https://open.spotify.com/album/3QgMgH7PvDaVyRCwjrSJOX) | 4:18 |
 | 48 | [Tired Boy](https://open.spotify.com/track/4BrhZASiyGjVr5mjh6Ciwq) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Tired Boy](https://open.spotify.com/album/22FRiZs4mG1fUZslYCcaWi) | 4:15 |
 | 49 | [Aesthetic](https://open.spotify.com/track/5nQfC1vjISMUlstveJG7Ge) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Aesthetic](https://open.spotify.com/album/3OWiPXLWYWCvQ9nIKvTQkk) | 2:38 |
 | 50 | [To the Girl With Red Converse](https://open.spotify.com/track/2YTtjhY9zEAHESbozqrkkB) | [Jackie Xan](https://open.spotify.com/artist/2ykxC1VJhlsCrfLfuFEcL1) | [To the Girl With Red Converse](https://open.spotify.com/album/7h1W4dSDEbc1NUnK16MXhq) | 2:23 |
 
-Snapshot ID: `MCwxOWIwYmM4MDk2NDBkZTUzNjAyYWIxNGZiODJkMzY4MDUyYTE0MThm`
+Snapshot ID: `MCxkMWFkMWQ4NzUwMjc2NzI2Y2I5MjQ1OTFmNmFhNDNlZWJlNjk2ZDFi`

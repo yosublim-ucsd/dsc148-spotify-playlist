@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: YUGYEOM\(유겸\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: JMIN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,012 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,071 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LA SOL MI](https://open.spotify.com/track/6h1laUrcyGZAwSj2k1KTRY) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [LA SOL MI](https://open.spotify.com/album/04TnvhobYIlwA9SOIFMyGY) | 2:52 |
+| 1 | [Body \(Feat\. Sik\-K\)](https://open.spotify.com/track/079SEIMEJQsLIaE8QYqvCh) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Sorry I’m Late](https://open.spotify.com/album/4jAS9dmF3PQmns8L00w3bv) | 2:55 |
 | 2 | [25 \- A COLORS SHOW](https://open.spotify.com/track/1szML6Onangw2A3ppLq1ac) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [25 \- A COLORS SHOW](https://open.spotify.com/album/5qi1T2mLicHngZ0rHxeNsC) | 2:46 |
-| 3 | [Breathing](https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Breathing](https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y) | 2:53 |
-| 4 | [Body \(Feat\. Sik\-K\)](https://open.spotify.com/track/079SEIMEJQsLIaE8QYqvCh) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Sorry I’m Late](https://open.spotify.com/album/4jAS9dmF3PQmns8L00w3bv) | 2:55 |
+| 3 | [LA SOL MI](https://open.spotify.com/track/6h1laUrcyGZAwSj2k1KTRY) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [LA SOL MI](https://open.spotify.com/album/04TnvhobYIlwA9SOIFMyGY) | 2:52 |
+| 4 | [Breathing](https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Breathing](https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y) | 2:53 |
 | 5 | [Fever](https://open.spotify.com/track/5nDSIB3JHYgCvZQSG1JwrV) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Sphere](https://open.spotify.com/album/4e9WFFgUKF98b0JKokADNX) | 3:00 |
 | 6 | [Thinkin' About You](https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#1 \[Thinkin' About You\]](https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye) | 3:07 |
 | 7 | [BYOB](https://open.spotify.com/track/512i7xNnsgoCnxGZDc7yjY) | [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb), [Hersh](https://open.spotify.com/artist/1mQmR1RcQpvrcrF6S1njyF), [PoPoMo](https://open.spotify.com/artist/6Lr03QZ7TGfnUqg5PXJEjG) | [PoPoMo](https://open.spotify.com/album/5sfmDWyzik4PhHVYcxuHcG) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Mean](https://open.spotify.com/track/0aY6RRY09db64dX7KXvF1S) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Mean](https://open.spotify.com/album/5wRFy9LcZeGSzMFQUrIcPs) | 3:27 |
 | 50 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 |
 
-Snapshot ID: `MCw1ZTFhZGJlZGZjZTE4YjVjOGQxZDg2ZWIyZmY2OTU5ZTVjNGI1Zjg1`
+Snapshot ID: `MCxmMDI1MDNmMjU0NGRjYjNjZmMxYjQ5YWExODQyYWY5NmJiY2U4MjE5`

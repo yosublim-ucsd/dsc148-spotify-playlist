@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 393773,
+  "2024-02-08": 393955,
   "date_first_scraped": "2023-07-28",
   "description": "Skifoan und H\u00fcttenabriss.",
   "name": "Apr\u00e8s Ski Party 2023",
@@ -1639,7 +1639,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 200314,
       "name": "Marie",
       "url": "https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe"
@@ -2269,6 +2269,24 @@
       "duration_ms": 222333,
       "name": "Wahnsinn",
       "url": "https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu"
+    },
+    {
+      "album": {
+        "name": "Wenn der Krankenwagen kommt (Ist die Party vorbei)",
+        "url": "https://open.spotify.com/album/3UIAfTjVQJ2h5o0jtWghUr"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168696,
+      "name": "Wenn der Krankenwagen kommt (Ist die Party vorbei)",
+      "url": "https://open.spotify.com/track/1Hn7O3FjyTAEeInraHc5z0"
     },
     {
       "album": {

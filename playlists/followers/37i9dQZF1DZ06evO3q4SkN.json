@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 544,
+  "2024-02-08": 543,
   "date_first_scraped": "2023-05-06",
   "description": "This is Germaine Franco. The essential tracks, all in one playlist.",
   "name": "This Is Germaine Franco",
@@ -209,7 +209,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 123946,
       "name": "Autumn Becomes Winter",
       "url": "https://open.spotify.com/track/2uYcCSsJp4gHgWogMRdDpM"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 119346,
       "name": "History of Lone Pine Falls",
       "url": "https://open.spotify.com/track/57OTA1cCqy9ao89B4Epyw1"
@@ -971,7 +971,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 71879,
       "name": "Jordan's Glasses",
       "url": "https://open.spotify.com/track/22vHybImOkTEYMVo1BJOp2"
@@ -1257,7 +1257,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 76680,
       "name": "Mr. Stubbles",
       "url": "https://open.spotify.com/track/7ayPTn7VfMpZhB1WZEC86V"
@@ -1735,7 +1735,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 123480,
       "name": "The Legend Of The Phoenix",
       "url": "https://open.spotify.com/track/7jAuPo2gGQJGKCT9iDW1MQ"
@@ -1753,7 +1753,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 122626,
       "name": "The Legend Of The Tiger",
       "url": "https://open.spotify.com/track/5efJajWJiHRmENqLdHxWkI"
@@ -1789,7 +1789,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 143946,
       "name": "The Stampede",
       "url": "https://open.spotify.com/track/0CN3pQ1L8cJb7TQFNQH39f"

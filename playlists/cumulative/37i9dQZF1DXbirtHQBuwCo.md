@@ -2,7 +2,7 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: H1\-KEY\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: oceanfromtheblue\)
 
 661 songs - 1 day 11 hr 33 min
 
@@ -572,7 +572,7 @@
 | [The Museum](https://open.spotify.com/track/7rJCvHKPS1ASSu8noeUsfN) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/0l2WXPOSbRWAjAOhnONchi) | 3:19 | 2022-04-21 | 2022-07-23 |
 | [The palette](https://open.spotify.com/track/2Op59QTlYBCbevk4WVQwK7) | [Doha](https://open.spotify.com/artist/55qNLulWN2EevzZhyLGgCV) | [The palette](https://open.spotify.com/album/46ydYmAorZV9250R0H8vJZ) | 3:23 | 2022-09-05 | 2022-09-22 |
 | [the way you move](https://open.spotify.com/track/6V63olQ6UOmPqRgcO0bEcb) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [pool vol\. 1 \- the way you move](https://open.spotify.com/album/6qqLPbX9JdQmfia6WPMKdM) | 2:29 | 2023-02-14 | 2023-02-22 |
-| [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2022-04-19 |  |
+| [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2022-04-19 | 2024-02-08 |
 | [These Walls](https://open.spotify.com/track/6WoloXr2PXu8FRYZFtzbij) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [These Walls](https://open.spotify.com/album/2m4ekwYIbphT3mENFLouhK) | 3:40 | 2022-04-22 | 2022-07-28 |
 | [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 | 2022-07-04 | 2022-07-15 |
 | [Thinkin' About You](https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#1 \[Thinkin' About You\]](https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye) | 3:07 | 2024-01-23 |  |
@@ -644,7 +644,7 @@
 | [Winter blossom](https://open.spotify.com/track/1ynuDDHKN7P7fmJEljdCLd) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [Spring in Winter](https://open.spotify.com/album/3J9hWyRg3THDctWGtQOgLE) | 2:48 | 2022-04-19 | 2023-03-04 |
 | [Winter blossom \(feat\. Ashley Alisha & nobody likes you pat\)](https://open.spotify.com/track/5fTjaxacUujHQzT8qPHKoq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [Spring in Winter](https://open.spotify.com/album/6P7fxKRc6pVe7Ae21s0Re9) | 2:48 | 2023-04-07 |  |
 | [Wish You Were Here](https://open.spotify.com/track/0ck9OBdibazBRrYqIwqEJk) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Wish You Were Here](https://open.spotify.com/album/16W36ygiBLxI7df9XQgPov) | 3:41 | 2022-04-19 | 2022-07-22 |
-| [Wishing On You](https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:14 | 2023-08-18 | 2024-01-11 |
+| [Wishing On You](https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:14 | 2023-08-18 |  |
 | [with you \(feat\. g0nny\)](https://open.spotify.com/track/32CXBkgJ0rRsvEvBPT5bYP) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [with you \(feat\. g0nny\)](https://open.spotify.com/album/38jEKpk2q846icctNoaDKk) | 2:59 | 2023-07-07 | 2023-07-15 |
 | [Woo hoo \(Feat\. Kid Milli\)](https://open.spotify.com/track/50JEzNr75B90UaYXZvCuaT) | [KAIAVANT](https://open.spotify.com/artist/2xTSAzEj9nYkoVr2nptxFe), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Piece of space](https://open.spotify.com/album/38F3lt1f20fXN4paz2XF2X) | 4:05 | 2022-08-31 | 2022-09-09 |
 | [Woo\~](https://open.spotify.com/track/6A61HhOH8EwGSXEgyuv899) | [moim](https://open.spotify.com/artist/1sr5uaXiCwEqIh26gTWBtP) | [EGG](https://open.spotify.com/album/6riQ6u1zptxd4GdyjH0YtZ) | 2:47 | 2022-11-03 | 2022-11-23 |

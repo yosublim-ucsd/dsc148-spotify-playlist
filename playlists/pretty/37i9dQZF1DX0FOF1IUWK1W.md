@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Ana Castela, LUDMILLA e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,132,633 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,135,490 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Sou Musa do Verão](https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:07 |
 | 50 | [Um Mês E Pouco \- Ao Vivo](https://open.spotify.com/track/3PqU6gHWUaBTtIZi5oxEJ7) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z) | 2:51 |
 
-Snapshot ID: `MCxiMDQxZDg4MjZkMjQ1MDE3YzkwMzNkYWM1ZWJiNWUzMjAyZmRhZDFj`
+Snapshot ID: `MCwxZmQ3ZTNmZTAyY2Y4YTI4NmI4YWEwZTY5MmE4MWFlNjFiOGYzM2Ri`

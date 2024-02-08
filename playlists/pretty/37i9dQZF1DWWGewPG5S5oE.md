@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 4Aces
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,619 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,654 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 29 | [A Midsummer Night's Dream](https://open.spotify.com/track/14Ggh4Zw5ry2N1VJhP5La7) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [A Midsummer Night's Dream](https://open.spotify.com/album/4zrSXhqiZDjPrUEmq924vY) | 4:04 |
 | 30 | [permanent triangle](https://open.spotify.com/track/6IFMMSJ6JG6m06bavyHn1E) | [Alter Ego](https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj) | [permanent triangle](https://open.spotify.com/album/3SUpBkO5BE8zupb9pVWjFg) | 4:26 |
 | 31 | [Stella's Cough](https://open.spotify.com/track/7c6RAOcYgwDFf0R6gusrbr) | [Senri Oe](https://open.spotify.com/artist/41DTvjqwAz1jgZCAZ6KTJG) | [Stella's Cough](https://open.spotify.com/album/3hX312ymuWRcEqmb4GNhWc) | 3:42 |
-| 32 | [飛ばしたっしょ](https://open.spotify.com/track/0k1VXxgEeXsdQ9BeYimc29) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [飛ばしたっしょ](https://open.spotify.com/album/4sQ5KG0INydjjFA04l6aJx) | 3:22 |
+| 32 | [やわらかな夜](https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 4:00 |
 | 33 | [Highway](https://open.spotify.com/track/25BXE8InZQK5CBhP1n7mFm) | [田中さとこ](https://open.spotify.com/artist/79fINByBtobHwIrMTeHn7N) | [Piano Scenes](https://open.spotify.com/album/7q4sFyc7TjG2gUIql8O837) | 3:36 |
 | 34 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
-| 35 | [やわらかな夜](https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 4:00 |
+| 35 | [飛ばしたっしょ](https://open.spotify.com/track/0k1VXxgEeXsdQ9BeYimc29) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [飛ばしたっしょ](https://open.spotify.com/album/4sQ5KG0INydjjFA04l6aJx) | 3:22 |
 | 36 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
 | 37 | [THEME FROM LUPIN Ⅲ '78 \- 2002 version](https://open.spotify.com/track/2Kllncs9hx6CbYTnqwbqHi) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [You & Explosion Band](https://open.spotify.com/artist/2AL16NaD1ssiRt8jIkwA5N) | [LUPIN THE THIRD JAZZ ー Another "JAZZ"](https://open.spotify.com/album/2ahWAZuzCZ8MCs2BWqwGup) | 3:59 |
 | 38 | [エッグ・オン・ザ・ルーフ](https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Egg On The Roof](https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A) | 7:09 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 45 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 |
 | 46 | [JAPAN THREE](https://open.spotify.com/track/6ms7rbe97tSqYvdCE7stIQ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [澤村一平](https://open.spotify.com/artist/3zEAcbTiKuXslpyRTKHIoT) | [The Bottle](https://open.spotify.com/album/39mP7pQ593OuwN3HVgBnyy) | 2:26 |
 | 47 | [Red Ocean](https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 5:00 |
-| 48 | [Answer to Remember Theme](https://open.spotify.com/track/3HNKknpEKoZKneTmJILiW7) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9) | [Answer to Remember Theme](https://open.spotify.com/album/4BCq26nQrmmQZkC14GaDSP) | 2:10 |
-| 49 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 |
+| 48 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 |
+| 49 | [Answer to Remember Theme](https://open.spotify.com/track/3HNKknpEKoZKneTmJILiW7) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9) | [Answer to Remember Theme](https://open.spotify.com/album/4BCq26nQrmmQZkC14GaDSP) | 2:10 |
 | 50 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
 
-Snapshot ID: `MCxjODAxYzQ5MGFmOTI1MTlkMjFhN2ZlOGU4N2I5YTgyZDk3Y2ZiZjM4`
+Snapshot ID: `MCw0ODJjNjkzNzI5NjViNGJlMTk1MmIwNWJiM2U0YTVmYmU3NzQ3OTgy`

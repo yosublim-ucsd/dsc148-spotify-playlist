@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,207 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,195 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 30 | [Worship](https://open.spotify.com/track/5D9Nw6HyFH0k40X8RxHfD6) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 2:57 |
 | 31 | [Karaoke \(feat\. Lizzo\)](https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [3rd Ward Bounce](https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj) | 3:05 |
 | 32 | [Everybody’s Gay](https://open.spotify.com/track/5uhaFPXTIG06S9Hb2c5tsT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:35 |
-| 33 | [Stairway To Heaven](https://open.spotify.com/track/4GSesDykx8IoiyvU8hLQkB) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sasha Flute](https://open.spotify.com/artist/0g0F72umHz8PinSfuFZfHs) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 7:48 |
-| 34 | [Phone](https://open.spotify.com/track/61yntOSHzW2kTeEsLhOH9c) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Phone](https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2) | 2:49 |
+| 33 | [Phone](https://open.spotify.com/track/61yntOSHzW2kTeEsLhOH9c) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Phone](https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2) | 2:49 |
+| 34 | [Stairway To Heaven](https://open.spotify.com/track/4GSesDykx8IoiyvU8hLQkB) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sasha Flute](https://open.spotify.com/artist/0g0F72umHz8PinSfuFZfHs) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 7:48 |
 | 35 | [Scuse Me](https://open.spotify.com/track/26Q7f4tUntDtlL4EyZz65X) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:24 |
 | 36 | [If You Love Me](https://open.spotify.com/track/52GgzMLY2W5VKqxO7nkQAN) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 |
 | 37 | [Torn Apart, Pt II \(Bastille Vs\. GRADES Vs\. Lizzo\)](https://open.spotify.com/track/6Gy30w4ebJg02BjLdULdNm) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [GRADES](https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [VS\. \(Other People’s Heartache, Pt\. III\)](https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL) | 1:01 |
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 39 | [Coconut Oil](https://open.spotify.com/track/6E44nO0qqQqfmXOhQPp0MM) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:45 |
 | 40 | [Truth Hurts \(DaBaby Remix\)](https://open.spotify.com/track/01jBJGEa9Ex9W2IjkIzuY6) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Truth Hurts \(DaBaby Remix\)](https://open.spotify.com/album/5Z1L2QX1aTvFy3a6lmmHlE) | 3:17 |
 | 41 | [YDLM](https://open.spotify.com/track/5UUQUFsYJyfF6YwqTnquuA) | [The Griswolds](https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [High Times For Low Lives](https://open.spotify.com/album/6FXaCbvuAQfgD1YysB7w2f) | 3:12 |
-| 42 | [Ride](https://open.spotify.com/track/1K1fIC6UYSQbN9BlW1RWAC) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Nu Collection: Hip\-Hop \(Urban & Modern Beats\)](https://open.spotify.com/album/65XHw9qRihPjtVcNlK13aV) | 3:49 |
+| 42 | [Boiled Peanuts](https://open.spotify.com/track/1810boVAzbaxqBzAwXp2ZM) | [Astronautalis](https://open.spotify.com/artist/6PWRJs1FosHp8Cqx0Nmswj), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cut the Body Loose](https://open.spotify.com/album/2SWg6THz0Xeoik5JX1rAzU) | 7:05 |
 | 43 | [Deep](https://open.spotify.com/track/7G4zqUWXpbRDc5ian2oos8) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:14 |
-| 44 | [Boiled Peanuts](https://open.spotify.com/track/1810boVAzbaxqBzAwXp2ZM) | [Astronautalis](https://open.spotify.com/artist/6PWRJs1FosHp8Cqx0Nmswj), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cut the Body Loose](https://open.spotify.com/album/2SWg6THz0Xeoik5JX1rAzU) | 7:05 |
+| 44 | [Ride](https://open.spotify.com/track/1K1fIC6UYSQbN9BlW1RWAC) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Nu Collection: Hip\-Hop \(Urban & Modern Beats\)](https://open.spotify.com/album/65XHw9qRihPjtVcNlK13aV) | 3:49 |
 | 45 | [New Eyes \(feat\. Lizzo\)](https://open.spotify.com/track/3lHLjAIId4Vl27OY49pkJE) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [New Eyes](https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw) | 3:46 |
 | 46 | [Basement Queens](https://open.spotify.com/track/6TbfAkoPe5RJztOFaAl4cG) | [Sad13](https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Basement Queens](https://open.spotify.com/album/4eu9RYtdnxNJJWr9cW84nV) | 3:03 |
 | 47 | [W.E.R.K\. Pt\. II](https://open.spotify.com/track/5kiLPzjGbAb5CmE1xXSRZn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Lizzobangers](https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v) | 3:05 |
 | 48 | [Humanize](https://open.spotify.com/track/3FFB2XvhOfxTI6bamvyU8C) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Big GRRRL Small World](https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb) | 3:30 |
 | 49 | [En Love](https://open.spotify.com/track/7wHRFO53gnDUJnun8BiAkq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Big GRRRL Small World](https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb) | 3:24 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDBhMzk3MWY2ZGQ4ZjQwOWMwZGYzZTQ2MDJlM2UxMWYxYg==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDAwMjZlNWEzMWM3MmI1MDk4YzYzNzJkODczNjBlODM2OQ==`

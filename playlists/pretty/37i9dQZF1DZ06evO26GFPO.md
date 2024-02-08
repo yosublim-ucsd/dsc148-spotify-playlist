@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,673 likes - 48 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,816 likes - 48 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 47 | [Zangadinha](https://open.spotify.com/track/4o31yQPBDncr20tBIEi9hM) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Zangadinha](https://open.spotify.com/album/72bDC2HxY61C2poH7GEaOC) | 2:36 |
 | 48 | [Bom](https://open.spotify.com/track/25SL3ZSbEGtu4oU14xllMQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A danada sou eu](https://open.spotify.com/album/4JZQXCD2TwUZmxSLlMDRoX) | 2:52 |
 
-Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDAxNzBhZmRmNDc0ZmQ0YThhNGMwZWUxMmZkYjk4YWJmNA==`
+Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDAzZjg2ZjU5ZTU2YzY0NzY1MmM1NDE5YTNhM2E1YmQyNw==`

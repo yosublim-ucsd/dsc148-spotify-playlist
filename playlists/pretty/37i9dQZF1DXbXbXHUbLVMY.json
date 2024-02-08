@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGE5YTMxYjNhNjMxODQxYTk5Y2JhMDU0NWRmNDgwODQ0ZTQ4YTE2",
+  "snapshot_id": "MCw4YzIzNmIxZTZiNzNmMGYzNDk1MTQwZTc1MTZkMTFhMTNlZThlYzRh",
   "tracks": [
     {
       "added_at": "2024-02-01 23:00:00",
@@ -615,22 +615,18 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Kod R\u00f6d",
-        "url": "https://open.spotify.com/album/6ghcTg1cb6We9GWZGOWOgH"
+        "name": "Best\u00e4mda Kliv",
+        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
       },
       "artists": [
         {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        },
-        {
-          "name": "Shenzi Beats",
-          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
         }
       ],
-      "duration_ms": 153600,
-      "name": "We Lit",
-      "url": "https://open.spotify.com/track/48Cgrs2KhleyXMRtoOSbK5"
+      "duration_ms": 124752,
+      "name": "\u00d6verallt",
+      "url": "https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -647,6 +643,26 @@
       "duration_ms": 148120,
       "name": "BLIND",
       "url": "https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Kod R\u00f6d",
+        "url": "https://open.spotify.com/album/6ghcTg1cb6We9GWZGOWOgH"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "Shenzi Beats",
+          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "We Lit",
+      "url": "https://open.spotify.com/track/48Cgrs2KhleyXMRtoOSbK5"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -695,22 +711,6 @@
       "duration_ms": 159428,
       "name": "Dum av dej",
       "url": "https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Best\u00e4mda Kliv",
-        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 124752,
-      "name": "\u00d6verallt",
-      "url": "https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Feeling Myself",
-        "url": "https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Feeling Myself",
-      "url": "https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Benzin",
         "url": "https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 116420,
       "name": "Benzin",
       "url": "https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Feeling Myself",
+        "url": "https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "Feeling Myself",
+      "url": "https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -895,22 +895,18 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Konstn\u00e4rer",
-        "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
+        "name": "Hoodrich",
+        "url": "https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9"
       },
       "artists": [
         {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        },
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
         }
       ],
-      "duration_ms": 150040,
-      "name": "Konstn\u00e4rer",
-      "url": "https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05"
+      "duration_ms": 144890,
+      "name": "Hoodrich",
+      "url": "https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -931,18 +927,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Hoodrich",
-        "url": "https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9"
+        "name": "Konstn\u00e4rer",
+        "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
       },
       "artists": [
         {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
         }
       ],
-      "duration_ms": 144890,
-      "name": "Hoodrich",
-      "url": "https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO"
+      "duration_ms": 150040,
+      "name": "Konstn\u00e4rer",
+      "url": "https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/56xgHK320guDeJaXou4VQu"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 137861,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Cuando Menos Lo Espera",
         "url": "https://open.spotify.com/album/5I4I0k75uiUnqyJvh7vxLC"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 165570,
       "name": "Sprite",
       "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Salam",
-        "url": "https://open.spotify.com/album/56xgHK320guDeJaXou4VQu"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 137861,
-      "name": "Salam",
-      "url": "https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Best\u00e4mda Kliv",
+        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 123169,
+      "name": "K\u00e4nslokall",
+      "url": "https://open.spotify.com/track/0XYJmQjglYGEYTAipk9uVQ"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "LEVENDE LEGENDE",
         "url": "https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb"
       },
@@ -1343,6 +1359,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Slipp deg l\u00f8s",
+        "url": "https://open.spotify.com/album/5FVmiogqIdetltYzFAj67K"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 123809,
+      "name": "Slipp deg l\u00f8s",
+      "url": "https://open.spotify.com/track/6xMpDmxF3jsTrBBKuYFmJq"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "El Capitan",
         "url": "https://open.spotify.com/album/25kQ3wHzvTx8jAYlRPwwpI"
       },
@@ -1359,22 +1391,6 @@
       "duration_ms": 179422,
       "name": "El Capitan",
       "url": "https://open.spotify.com/track/50pLigCzqMbGWECXW3P4yR"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Slipp deg l\u00f8s",
-        "url": "https://open.spotify.com/album/5FVmiogqIdetltYzFAj67K"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 123809,
-      "name": "Slipp deg l\u00f8s",
-      "url": "https://open.spotify.com/track/6xMpDmxF3jsTrBBKuYFmJq"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1411,22 +1427,6 @@
       "duration_ms": 134545,
       "name": "ROCKARE",
       "url": "https://open.spotify.com/track/3vVdmgwmY5xbKQ3Oh074Lc"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Har du glemt meg?",
-        "url": "https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY"
-      },
-      "artists": [
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Har du glemt meg?",
-      "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
     }
   ],
   "unique_name": "100 (2)",

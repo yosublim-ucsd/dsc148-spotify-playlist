@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Olga Ta\u00f1\u00f3n",
-  "num_followers": 381494,
+  "num_followers": 381513,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDM5NGNkNGNmMThmN2Q0ZjU4NjRmMjIwNTIwNDgzNDEwMDVhN2Q2",
+  "snapshot_id": "MCw2NzM5YTk4NGRkMjVlODUzYjhkOGYxYmRmZTlmNTUwYWQzNDJhM2Jj",
   "tracks": [
     {
       "added_at": "2024-01-25 23:12:57",
@@ -27,18 +27,18 @@
     {
       "added_at": "2024-01-25 23:12:57",
       "album": {
-        "name": "COCO LOCO",
-        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 166734,
-      "name": "COCO LOCO",
-      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
+      "duration_ms": 230400,
+      "name": "Despu\u00e9s de la Playa",
+      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
     },
     {
       "added_at": "2024-01-25 23:12:57",
@@ -79,18 +79,18 @@
     {
       "added_at": "2024-01-25 23:12:57",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "COCO LOCO",
+        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Despu\u00e9s de la Playa",
-      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
     },
     {
       "added_at": "2024-01-25 23:12:57",
@@ -159,6 +159,26 @@
     {
       "added_at": "2024-01-25 23:12:57",
       "album": {
+        "name": "PB.DB. The Mixtape",
+        "url": "https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Eli Palacios",
+          "url": "https://open.spotify.com/artist/06U8PS34QCpLW3CqwJgfj2"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "La Temperatura (feat. Eli Palacios)",
+      "url": "https://open.spotify.com/track/03f28Kmu5AlIdKAfEJiI8F"
+    },
+    {
+      "added_at": "2024-01-25 23:12:57",
+      "album": {
         "name": "El Hombre Mas Famoso De La Tierra",
         "url": "https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98"
       },
@@ -171,22 +191,6 @@
       "duration_ms": 205333,
       "name": "Guallando",
       "url": "https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3"
-    },
-    {
-      "added_at": "2024-01-25 23:12:57",
-      "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 274160,
-      "name": "Tu Sonrisa",
-      "url": "https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh"
     },
     {
       "added_at": "2024-01-25 23:12:57",
@@ -227,22 +231,18 @@
     {
       "added_at": "2024-01-25 23:12:57",
       "album": {
-        "name": "PB.DB. The Mixtape",
-        "url": "https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Eli Palacios",
-          "url": "https://open.spotify.com/artist/06U8PS34QCpLW3CqwJgfj2"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 224786,
-      "name": "La Temperatura (feat. Eli Palacios)",
-      "url": "https://open.spotify.com/track/03f28Kmu5AlIdKAfEJiI8F"
+      "duration_ms": 274160,
+      "name": "Tu Sonrisa",
+      "url": "https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh"
     },
     {
       "added_at": "2024-01-25 23:12:57",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-01-25 23:12:57",
       "album": {
+        "name": "Pintame",
+        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "P\u00edntame",
+      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
+    },
+    {
+      "added_at": "2024-01-25 23:12:57",
+      "album": {
         "name": "In Da House",
         "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 264160,
       "name": "La Morena",
       "url": "https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo"
-    },
-    {
-      "added_at": "2024-01-25 23:12:57",
-      "album": {
-        "name": "Pintame",
-        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "P\u00edntame",
-      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
     },
     {
       "added_at": "2024-01-25 23:12:57",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-01-25 23:12:57",
       "album": {
+        "name": "Vete y Dile",
+        "url": "https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 271226,
+      "name": "Anoche Hablamos de Amor",
+      "url": "https://open.spotify.com/track/0ElCcbF18PWFCLzMwIJU9m"
+    },
+    {
+      "added_at": "2024-01-25 23:12:57",
+      "album": {
         "name": "El Pich\u00f3n",
         "url": "https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 171200,
       "name": "El Bote",
       "url": "https://open.spotify.com/track/6wNchNOFCqymfejC9So4d1"
-    },
-    {
-      "added_at": "2024-01-25 23:12:57",
-      "album": {
-        "name": "Vete y Dile",
-        "url": "https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 271226,
-      "name": "Anoche Hablamos de Amor",
-      "url": "https://open.spotify.com/track/0ElCcbF18PWFCLzMwIJU9m"
     },
     {
       "added_at": "2024-01-25 23:12:57",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2024-01-25 23:12:57",
       "album": {
+        "name": "Qu\u00e9date Conmigo (Remix)",
+        "url": "https://open.spotify.com/album/6QLtDVO02H24gW3yzO900Y"
+      },
+      "artists": [
+        {
+          "name": "Omar Enrique",
+          "url": "https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7"
+        },
+        {
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        }
+      ],
+      "duration_ms": 213976,
+      "name": "Qu\u00e9date Conmigo - Remix",
+      "url": "https://open.spotify.com/track/31m4BylSn9z9NoS5qfviJw"
+    },
+    {
+      "added_at": "2024-01-25 23:12:57",
+      "album": {
         "name": "Amame",
         "url": "https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 286520,
       "name": "Asesina",
       "url": "https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG"
-    },
-    {
-      "added_at": "2024-01-25 23:12:57",
-      "album": {
-        "name": "Qu\u00e9date Conmigo (Remix)",
-        "url": "https://open.spotify.com/album/6QLtDVO02H24gW3yzO900Y"
-      },
-      "artists": [
-        {
-          "name": "Omar Enrique",
-          "url": "https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7"
-        },
-        {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
-        }
-      ],
-      "duration_ms": 213976,
-      "name": "Qu\u00e9date Conmigo - Remix",
-      "url": "https://open.spotify.com/track/31m4BylSn9z9NoS5qfviJw"
     },
     {
       "added_at": "2024-01-25 23:12:57",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-01-25 23:12:57",
       "album": {
+        "name": "O.K. All Right",
+        "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
+      },
+      "artists": [
+        {
+          "name": "Jossie Esteban & La Patrulla 15",
+          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "El Moreno Esta",
+      "url": "https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch"
+    },
+    {
+      "added_at": "2024-01-25 23:12:57",
+      "album": {
         "name": "Serie 2000",
         "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2024-01-25 23:12:57",
       "album": {
-        "name": "O.K. All Right",
-        "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
       },
       "artists": [
         {
-          "name": "Jossie Esteban & La Patrulla 15",
-          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
         }
       ],
-      "duration_ms": 272533,
-      "name": "El Moreno Esta",
-      "url": "https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch"
+      "duration_ms": 163349,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
     },
     {
       "added_at": "2024-01-25 23:12:57",
@@ -1235,22 +1251,6 @@
       "duration_ms": 947950,
       "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha - En Vivo",
       "url": "https://open.spotify.com/track/4tLNxU08ccx6jrj3MK14ol"
-    },
-    {
-      "added_at": "2024-01-25 23:12:57",
-      "album": {
-        "name": "Tus Mentiras",
-        "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
-      },
-      "artists": [
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 163349,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
     },
     {
       "added_at": "2024-01-25 23:12:57",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-01-25 23:12:57",
       "album": {
-        "name": "Coleccion Diamante",
-        "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
+        "name": "15to Aniversario",
+        "url": "https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+          "name": "Jossie Esteban & La Patrulla 15",
+          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
         }
       ],
-      "duration_ms": 255080,
-      "name": "El Hombre Divertido",
-      "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
+      "duration_ms": 310933,
+      "name": "El Meneito",
+      "url": "https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL"
     },
     {
       "added_at": "2024-01-25 23:12:57",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-01-25 23:12:57",
       "album": {
-        "name": "15to Aniversario",
-        "url": "https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7"
+        "name": "Coleccion Diamante",
+        "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
       },
       "artists": [
         {
-          "name": "Jossie Esteban & La Patrulla 15",
-          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 310933,
-      "name": "El Meneito",
-      "url": "https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL"
+      "duration_ms": 255080,
+      "name": "El Hombre Divertido",
+      "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
     },
     {
       "added_at": "2024-01-25 23:12:57",

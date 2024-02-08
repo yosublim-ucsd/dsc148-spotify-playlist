@@ -1,5 +1,5 @@
 {
-  "2024-02-07": 1176300,
+  "2024-02-08": 1177018,
   "date_first_scraped": "2022-05-30",
   "description": "Ultimate 101 Punjabi Hits with Shubh",
   "name": "Punjabi 101",
@@ -615,6 +615,32 @@
       "duration_ms": 168000,
       "name": "Back of Car",
       "url": "https://open.spotify.com/track/12VUzFFZktld3iDJjjD8ao"
+    },
+    {
+      "album": {
+        "name": "Jadugarriya",
+        "url": "https://open.spotify.com/album/5b09lfsnRBglWbzFFHVwuO"
+      },
+      "artists": [
+        {
+          "name": "Jassie Gill",
+          "url": "https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA"
+        },
+        {
+          "name": "Rony Ajnali",
+          "url": "https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw"
+        },
+        {
+          "name": "Geet",
+          "url": "https://open.spotify.com/artist/611iMDwmj2x1wHVq0896Zi"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147446,
+      "name": "Bakamaal",
+      "url": "https://open.spotify.com/track/0dcwP39qbjJu3eBKb0pTcm"
     },
     {
       "album": {
@@ -1365,7 +1391,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 154292,
       "name": "Darji",
       "url": "https://open.spotify.com/track/18DaPHhJpdL8CTP7j9yJGE"
@@ -2227,7 +2253,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 202666,
       "name": "Heel",
       "url": "https://open.spotify.com/track/3RjYCv0aBmCzZyLRIHH4o8"
@@ -4257,6 +4283,32 @@
       "duration_ms": 151666,
       "name": "Palpita",
       "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
+    },
+    {
+      "album": {
+        "name": "Parindey (From \"Jatt Nuu Chudail Takri\")",
+        "url": "https://open.spotify.com/album/416V9hPUHyM30URol93F8M"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Harmanjeet",
+          "url": "https://open.spotify.com/artist/2FRg6CIXD61xyvxUOzhYy5"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243035,
+      "name": "Parindey (From \"Jatt Nuu Chudail Takri\")",
+      "url": "https://open.spotify.com/track/4zD5IxK0MBPZ0ET58Ihhpm"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 171272,
+  "num_followers": 171328,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODE5ZjYwNDg5NWQyNjk3Mzk0YTE0YzM0MmRjMjQwMzAxODkzNzlm",
+  "snapshot_id": "MCxkNGQ1MTAzMWNlMzJkNGQxZTRlYmY4NTE3YjBhZDI1ZmQxZDAyNTc2",
   "tracks": [
     {
       "added_at": "2023-06-16 16:57:29",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 154110,
-      "name": "Soy C\u00f3mo Quiero Ser",
-      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Los Dos Amigos",
         "url": "https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 183053,
       "name": "Prenda Querida",
       "url": "https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 154110,
+      "name": "Soy C\u00f3mo Quiero Ser",
+      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Lastima Que Seas Ajena",
-        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "L\u00e1stima Que Seas Ajena",
-      "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Lo Mejor De Nosotros",
         "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 260829,
       "name": "Me Vas A Extra\u00f1ar",
       "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Lastima Que Seas Ajena",
+        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "L\u00e1stima Que Seas Ajena",
+      "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
       "artists": [
         {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 215169,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
+      "duration_ms": 151120,
+      "name": "De Qu\u00e9 Manera Te Olvido",
+      "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
         }
       ],
-      "duration_ms": 151120,
-      "name": "De Qu\u00e9 Manera Te Olvido",
-      "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
+      "duration_ms": 215169,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1287,8 +1287,8 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+        "name": "Esto Es Lo Nuestro",
+        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
       },
       "artists": [
         {
@@ -1296,41 +1296,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 172466,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "45 Anos De Exitos",
-        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
-      },
-      "artists": [
-        {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "Busca Otro Amor (1968)",
-      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "Tengo Una Ilusi\u00f3n (60 Aniversario)",
-        "url": "https://open.spotify.com/album/7MAgEJa3wbOp6RfV42WtBg"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 168626,
-      "name": "Pena Tras Pena",
-      "url": "https://open.spotify.com/track/1GLxXu6AlBjPyo3a158CW4"
+      "duration_ms": 132160,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3Dldh6miuxuar39LFNufcI"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1351,6 +1319,38 @@
       "duration_ms": 143010,
       "name": "Tus Desprecios",
       "url": "https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Tengo Una Ilusi\u00f3n (60 Aniversario)",
+        "url": "https://open.spotify.com/album/7MAgEJa3wbOp6RfV42WtBg"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "Pena Tras Pena",
+      "url": "https://open.spotify.com/track/1GLxXu6AlBjPyo3a158CW4"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "45 Anos De Exitos",
+        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
+      },
+      "artists": [
+        {
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "Busca Otro Amor (1968)",
+      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1419,8 +1419,8 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Esto Es Lo Nuestro",
-        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
       },
       "artists": [
         {
@@ -1428,9 +1428,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 132160,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3Dldh6miuxuar39LFNufcI"
+      "duration_ms": 172466,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe"
-      },
-      "artists": [
-        {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
-        }
-      ],
-      "duration_ms": 164973,
-      "name": "Despedida Con Mariachi",
-      "url": "https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Tradicional",
         "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 171733,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe"
+      },
+      "artists": [
+        {
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+        }
+      ],
+      "duration_ms": 164973,
+      "name": "Despedida Con Mariachi",
+      "url": "https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
+        "name": "Tradicional",
+        "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 194066,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
         "name": "El Abuelo",
         "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 167026,
       "name": "Cuatro Meses",
       "url": "https://open.spotify.com/track/16TDGlrQ3h4qpdyOwaRp1i"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "Tradicional",
-        "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 194066,
-      "name": "Volver, Volver",
-      "url": "https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg"
-      },
-      "artists": [
-        {
-          "name": "Flor Silvestre",
-          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
-        }
-      ],
-      "duration_ms": 210279,
-      "name": "Mi Destino Fue Quererte",
-      "url": "https://open.spotify.com/track/2kBbwQgrKtdMLxcU5smeki"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
         "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 231418,
       "name": "Cucurrucucu Paloma",
       "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg"
+      },
+      "artists": [
+        {
+          "name": "Flor Silvestre",
+          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
+        }
+      ],
+      "duration_ms": 210279,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/2kBbwQgrKtdMLxcU5smeki"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 135733,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Un Beso para el Cielo",
         "url": "https://open.spotify.com/album/0CyTLGAbPLjzSMNIRSUY4a"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 185273,
       "name": "Un Beso para el Cielo",
       "url": "https://open.spotify.com/track/0JGB3vSKZp5llpdL1oJcy1"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 135733,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
+        "name": "Era Cab - El Viejo",
+        "url": "https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 153093,
+      "name": "Mi Gusto Es",
+      "url": "https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
         "name": "Penas, Desenga\u00f1os... y Amores",
         "url": "https://open.spotify.com/album/6tTkLSvfUKUFOW7BhD7Rm0"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 182266,
       "name": "Ya No Me Interesas",
       "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "Era Cab - El Viejo",
-        "url": "https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 153093,
-      "name": "Mi Gusto Es",
-      "url": "https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2187,18 +2187,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+        "name": "15 \u00c9xitos 15",
+        "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
       },
       "artists": [
         {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+          "name": "Mercedes Castro",
+          "url": "https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK"
         }
       ],
-      "duration_ms": 209133,
-      "name": "Tata Dios",
-      "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
+      "duration_ms": 205635,
+      "name": "La Tercera Carta",
+      "url": "https://open.spotify.com/track/5DgZ35AbLORuRtJxAFfKeo"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2219,18 +2219,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "15 \u00c9xitos 15",
-        "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
       "artists": [
         {
-          "name": "Mercedes Castro",
-          "url": "https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK"
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
         }
       ],
-      "duration_ms": 205635,
-      "name": "La Tercera Carta",
-      "url": "https://open.spotify.com/track/5DgZ35AbLORuRtJxAFfKeo"
+      "duration_ms": 209133,
+      "name": "Tata Dios",
+      "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 158275,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/2o1jz9qLpX8tRffAU5mQ3R"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Presenting Los Panchos",
         "url": "https://open.spotify.com/album/5z5Ak2HJTugn1QCPgTkAxp"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 165413,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/2Opi06HxyP4GNjMVn0yRP3"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 158275,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/2o1jz9qLpX8tRffAU5mQ3R"
     },
     {
       "added_at": "2023-06-16 16:57:29",
