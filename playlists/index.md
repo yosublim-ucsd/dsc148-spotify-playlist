@@ -1,4 +1,4 @@
-## Playlists \(7588\)
+## Playlists \(7589\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -628,6 +628,7 @@
 - [Back To The Garden](/playlists/pretty/37i9dQZF1DX36Lvoo24qFe.md)
 - [Back a Yard](/playlists/pretty/37i9dQZF1DWTxofAzA6rAK.md)
 - [Back to the Roots](/playlists/pretty/1S4JPQeJxtsN37X8as5EPk.md)
+- [Background Chill Music 2024](/playlists/pretty/0qg6KzBLO7rL48c0QfNpLZ.md)
 - [Backstage](/playlists/pretty/5qVqzAenJiKLfRny06XQf0.md)
 - [Backyard BBQ](/playlists/pretty/37i9dQZF1DX030FFx0YCXp.md)
 - [Backyard Wedding](/playlists/pretty/37i9dQZF1DX4YLk1hHv7S9.md)
