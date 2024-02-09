@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 146 songs - 7 hr 45 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 147 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 12 | [How It Feels](https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 2:46 |
 | 13 | [Molly](https://open.spotify.com/track/78voFwSSy0KLQw7BhHUAyn) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Molly](https://open.spotify.com/album/7pzfdgVTRRSaeXEESqjM6J) | 2:49 |
 | 14 | [Im Ready](https://open.spotify.com/track/0b7bWXWTXGasUQKBjNdDJH) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Nothing more Nothing LESS](https://open.spotify.com/album/0oQ0ObULWWC4LItIkL9hM0) | 2:13 |
-| 15 | [Gotta Blast \(feat\. Diego Money & Bandman Fari\)](https://open.spotify.com/track/7de1qGSxUfnKLNqncRksuk) | [Tay \- K](https://open.spotify.com/artist/1tOeyQZJzNa3EpA3Jkkgt7), [Diego Money](https://open.spotify.com/artist/0SVbeXuRTG8bc7NJ33JYB6), [Bandmanfari](https://open.spotify.com/artist/6h5EZQ3OJCVadk8yOKSUPx) | [\#SantanaWorld \(+\)](https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv) | 2:11 |
+| 15 | [Gotta Blast \(feat\. Diego Money & Bandman Fari\)](https://open.spotify.com/track/7de1qGSxUfnKLNqncRksuk) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB), [Diego Money](https://open.spotify.com/artist/0SVbeXuRTG8bc7NJ33JYB6), [Bandmanfari](https://open.spotify.com/artist/6h5EZQ3OJCVadk8yOKSUPx) | [\#SantanaWorld \(+\)](https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv) | 2:11 |
 | 16 | [Sorry Bout That](https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:06 |
 | 17 | [Ampd Up \(feat\. Mouse On Tha Track\)](https://open.spotify.com/track/2mbzyuS4fL72fHrmiWObXQ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Mouse On Tha Track](https://open.spotify.com/artist/26PDNPSOkjZowzVM563lKx) | [3800 Degrees](https://open.spotify.com/album/1gDwjnGfTH7BSqtc4y7AiL) | 2:45 |
 | 18 | [Window Shopper](https://open.spotify.com/track/0mTe8pjxB6Ahg0cYfDaIj0) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [City On My Back](https://open.spotify.com/album/4dmycXSxh1F9LGAVgB1plB) | 2:32 |
@@ -154,5 +154,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 144 | [Auditorium](https://open.spotify.com/track/7dGG7W2p1qUzbf7KwZBAsZ) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO), [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Ecstatic](https://open.spotify.com/album/11cVBbfOAdGzq6lMMscDOC) | 4:34 |
 | 145 | [What Am I To Do](https://open.spotify.com/track/4TXPbHOeQE0Az7T71uybPu) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [What Am I To Do](https://open.spotify.com/album/3dyRrIw0NzRFi26EwfZo6V) | 2:55 |
 | 146 | [Lunchin](https://open.spotify.com/track/2jIU2VR6uIKBCJCpFi3aL4) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Flygod Is An Awesome God](https://open.spotify.com/album/2JUpGYRkV6ymlDOX7UFTL7) | 3:31 |
+| 147 | [SYDNEY SWEENEY](https://open.spotify.com/track/4NE3atZAntDJAdReIar6bN) | [Ceru](https://open.spotify.com/artist/6asghv8lFCRDHUGMUPoRWe) | [SYDNEY SWEENEY](https://open.spotify.com/album/6EJm1GLrf3LRFMotzaD1ji) | 2:17 |
 
-Snapshot ID: `NzE5Niw3NGQ5YzVjYTk4NmI1OWQzOGU1YWE2NzFlNTg2NmIwMTExZjc2ZDMy`
+Snapshot ID: `NzE5NyxhZWNlMmY2MTA0YTk1YWUzYTM2YmJkYTBiYTM5YjA2NjJhNjA5OTll`

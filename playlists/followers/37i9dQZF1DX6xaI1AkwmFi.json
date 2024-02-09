@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 23125,
+  "2024-02-09": 23138,
   "date_first_scraped": "2023-11-24",
   "description": "\u30b9\u30c8\u30ed\u30dc\u30e9\u30a4\u30c8\u306e\u3088\u3046\u306b\u5149\u308a\u8f1d\u304f\u697d\u66f2\u3067\u3001\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092\u30b9\u30bf\u30fc\u30c8\u3057\u3088\u3046\u3002 Cover art painted by <a href=\"spotify:artist:2IUl3m1H1EQ7QfNbNWvgru\">Vaundy</a>",
   "name": "\u30b9\u30c8\u30ed\u30dc",
@@ -697,6 +697,24 @@
       "duration_ms": 258306,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh"
+    },
+    {
+      "album": {
+        "name": "LOVELY",
+        "url": "https://open.spotify.com/album/4TrfWYsP8LRU10Rw6usFJL"
+      },
+      "artists": [
+        {
+          "name": "MONONOKE",
+          "url": "https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218649,
+      "name": "LOVELY",
+      "url": "https://open.spotify.com/track/2p6mMrccBiWuwtpWCyVPbq"
     },
     {
       "album": {
@@ -2025,7 +2043,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 218649,
       "name": "\u30e9\u30d6\u30ea\u30fc",
       "url": "https://open.spotify.com/track/4wTeVlzNPyvTwxdJ52AI6D"

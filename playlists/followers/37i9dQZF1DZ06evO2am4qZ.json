@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 4097,
+  "2024-02-09": 4102,
   "date_first_scraped": "2022-10-29",
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
   "name": "This Is Baby Tate",
@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 161035,
       "name": "Me First",
       "url": "https://open.spotify.com/track/0LhgsQDr1TtG4e21NVn7tS"
@@ -1869,7 +1869,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 250774,
       "name": "What's Love",
       "url": "https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q"

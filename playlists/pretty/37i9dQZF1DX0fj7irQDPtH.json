@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2014. Cover: Romeo Santos",
-  "num_followers": 30297,
+  "num_followers": 30339,
   "original_name": "Latin Hits 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTI2OTkyOWMzODQ0ZmI0NWNkODFmYTk0YjlmMjg2YWRjYWUyODBl",
+  "snapshot_id": "MCwyN2MyMTQxNWU3ODcwYjZlZTc2ZDY1ZDFiMmVkMDUyZDlkMmUwNzZk",
   "tracks": [
     {
       "added_at": "2021-12-16 01:15:04",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-12-16 01:15:04",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
         "name": "Golpe Avisa",
         "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 194786,
       "name": "A Ti Te da Besitos",
       "url": "https://open.spotify.com/track/5128c82TGs88ump3YwCBdc"
+    },
+    {
+      "added_at": "2021-12-16 01:15:04",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 281920,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
     },
     {
       "added_at": "2021-12-16 01:15:04",
@@ -727,26 +727,6 @@
     {
       "added_at": "2021-12-16 01:15:04",
       "album": {
-        "name": "Golpe Avisa",
-        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "bigman",
-          "url": "https://open.spotify.com/artist/5H36onzdowfUUqlGdVX3Kk"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "Doctor Marihuana",
-      "url": "https://open.spotify.com/track/4jzUIyAeosr1rNU9vlBDOv"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
         "name": "Banda do Mar",
         "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 211319,
       "name": "Loco",
       "url": "https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH"
+    },
+    {
+      "added_at": "2021-12-16 01:15:04",
+      "album": {
+        "name": "Golpe Avisa",
+        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "bigman",
+          "url": "https://open.spotify.com/artist/5H36onzdowfUUqlGdVX3Kk"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Doctor Marihuana",
+      "url": "https://open.spotify.com/track/4jzUIyAeosr1rNU9vlBDOv"
     },
     {
       "added_at": "2021-12-16 01:15:04",

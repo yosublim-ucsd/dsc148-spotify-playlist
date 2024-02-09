@@ -4,7 +4,7 @@
 
 > Relaxing Jazz on a warm summer day.
 
-262 songs - 16 hr 47 min
+267 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-06-14 |  |
 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-03-03 |  |
 | [Behind The Counter](https://open.spotify.com/track/1OxWXhGSkz9VSGVhLXveg8) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Behind The Counter](https://open.spotify.com/album/6wSUxKY1QteYSmVIk0X9C6) | 3:22 | 2023-06-08 |  |
+| [Beloved Dance](https://open.spotify.com/track/2WdNznaTlQStOKlyUEtOwy) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Beloved Dance](https://open.spotify.com/album/5GFwFOCJjn85NGxSxKFUR1) | 3:03 | 2024-02-09 |  |
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-02-16 | 2022-05-25 |
 | [Blue Moon](https://open.spotify.com/track/05KUj61TSptAGUrlMSS4aj) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Blue Moon](https://open.spotify.com/album/3vZUBxXFUgjiPXylxY78Pq) | 3:40 | 2022-02-16 | 2022-08-17 |
 | [Blue Room](https://open.spotify.com/track/5zKKV21UiQK7lSLEZCm7NS) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Blue Room](https://open.spotify.com/album/6YHgKIBib4hbBwUqJ8pOT7) | 2:38 | 2022-09-29 |  |
@@ -226,6 +227,7 @@
 | [The Girl From Ipanema \(Garota De Ipanema\)](https://open.spotify.com/track/5dK7scVeamyT7FcEMTMIzo) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [A Night with Oscar Peterson](https://open.spotify.com/album/3b1rFYBBbQkdi6a4IoNUe6) | 3:51 | 2024-01-05 | 2024-01-28 |
 | [The Girl From Ipanema \(Garota De Ipanema\)](https://open.spotify.com/track/5skmZMK4GOD729sJ1YeuLl) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40) | 3:51 | 2022-06-28 | 2022-10-01 |
 | [The Girl From Ipanema \(Garota De Ipanema\)](https://open.spotify.com/track/6YOo90JX9Yr0iSdgwkTgYL) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Hits & Rarities](https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec) | 3:51 | 2022-09-29 |  |
+| [The Golden Hour](https://open.spotify.com/track/3Oix5aCSmnkLIVZVB63tzm) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [The Golden Hour](https://open.spotify.com/album/0EjdDvcwBTbnzU84bUdfSS) | 3:08 | 2024-02-09 |  |
 | [The Good Life \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/4ZNx7AMUbhIo7DFkhWlrdy) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 5:08 | 2022-02-16 | 2022-08-11 |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2022-02-16 |  |
 | [The Light Over Chesapeake Bay](https://open.spotify.com/track/5ZU9TV5L4zo40G6VdXbLOQ) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [The Light Over Chesapeake Bay](https://open.spotify.com/album/0MBfcISYuV95heHB1Jkcgw) | 3:26 | 2024-01-05 |  |
@@ -244,6 +246,7 @@
 | [Tidewater](https://open.spotify.com/track/2o8qn04QtYku0WNWxcGps6) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Tidewater](https://open.spotify.com/album/3hX9C1BMAHerJlzLfhupta) | 3:36 | 2022-06-28 |  |
 | [Till There Was You](https://open.spotify.com/track/3FpMFIImpOZfAXQjsOBmkh) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Till There Was You](https://open.spotify.com/album/0ab5U3SnyooRTgP2uFXejL) | 2:35 | 2023-08-10 |  |
 | [Time After Time](https://open.spotify.com/track/1b027Iusu7sUPRNk1T7ZKo) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Time After Time](https://open.spotify.com/album/5S3nYxOStnKHFmzduinNco) | 3:36 | 2022-02-16 | 2022-08-17 |
+| [Time After Time](https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Time After Time](https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6) | 3:20 | 2024-02-09 |  |
 | [Time To Ponder](https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Time To Ponder](https://open.spotify.com/album/1xcd6r2pl7i1V55S6sEqRL) | 3:12 | 2022-08-30 |  |
 | [Tip Your Hat](https://open.spotify.com/track/3sg1RZE32Qwy8j1T1POnBx) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Something About Her Smile](https://open.spotify.com/album/2NzsBCHEWjKiUQbUjDfpNl) | 3:58 | 2023-03-03 |  |
 | [Traveling Day](https://open.spotify.com/track/527VRJrXGblLbAHcHSdAr6) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Traveling Day](https://open.spotify.com/album/51eqBfg9k9GAh40Rq12vHH) | 5:41 | 2023-05-25 |  |
@@ -261,6 +264,7 @@
 | [When I Fall In Love](https://open.spotify.com/track/7wAFHu3ueBLEebC5NEOk9z) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [When I Fall In Love](https://open.spotify.com/album/6rCnmJjhEashCYVazkSK7g) | 4:49 | 2022-02-16 |  |
 | [When I Know It's Right](https://open.spotify.com/track/1KLwReg9QybpPytHMDMfCv) | [The Grace Smith Gang](https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv) | [When I Know It's Right](https://open.spotify.com/album/0YGCo4WQVSqpcYRkCWwELM) | 2:03 | 2022-02-16 | 2022-05-04 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/0JcgHL8tNphYe7Q8nPkYtV) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [When Sunny Gets Blue](https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z) | 5:17 | 2022-02-16 |  |
+| [When You Come Home](https://open.spotify.com/track/1TlWfTGEALeyG39A9qHokR) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [When You Come Home](https://open.spotify.com/album/40kyT8n1MAUF56KmpkQeqs) | 3:36 | 2024-02-09 |  |
 | [Wichita Lineman](https://open.spotify.com/track/60R7wUAF8IQsVZkyCLN5Sf) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Wichita Lineman](https://open.spotify.com/album/7b9qEu6B0zrQUc8wexkYC0) | 5:07 | 2023-03-03 |  |
 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 | 2022-02-16 |  |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-06 |  |
@@ -268,6 +272,7 @@
 | [Written in Solitude](https://open.spotify.com/track/4FaAy82QmQvcVgjTVdTaUa) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Written in Solitude](https://open.spotify.com/album/0f9iPoy9Cl9O1HHvvj7FYP) | 5:07 | 2023-09-08 |  |
 | [Yesterdays](https://open.spotify.com/track/5x0hAvSSeRCPl7AAsuQ7U7) | [Riley Foster](https://open.spotify.com/artist/5xRnxrWctOpvhjuHe58iUD) | [This Can't Be Love](https://open.spotify.com/album/2xZqlSVy4mXruauLv5lnj0) | 4:30 | 2022-02-16 | 2022-06-01 |
 | [You Don't Know What Love Is](https://open.spotify.com/track/3Nmpf4HaRa3j15ijtZbxZ9) | [Rachel Younger](https://open.spotify.com/artist/0pjHMtmI26iS8U9bktDmBS) | [You Don't Know What Love Is EP](https://open.spotify.com/album/0SV4vjA51OaK28ObV7R07D) | 4:56 | 2022-02-16 | 2022-06-01 |
+| [You Go To My Head](https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [You Go To My Head](https://open.spotify.com/album/3wvTUr0jvkCGLBG4ESBF1a) | 4:59 | 2024-02-09 |  |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2023-03-03 |  |
 | [You Turned The Tables On Me](https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays \(Expanded Edition\)](https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b) | 2:59 | 2022-02-16 |  |
 

@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 612796,
+  "2024-02-09": 612808,
   "date_first_scraped": "2021-12-21",
   "description": "A dose of high-energy rock & alt songs for your workout.",
   "name": "Rock Me Up",
@@ -457,6 +457,24 @@
       "duration_ms": 171672,
       "name": "Battle Scars",
       "url": "https://open.spotify.com/track/4l42ScC0z19ygzbpS4JzGi"
+    },
+    {
+      "album": {
+        "name": "Pop Evil",
+        "url": "https://open.spotify.com/album/3qytVWeUzpO3PkxPWurIfY"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203273,
+      "name": "Be Legendary",
+      "url": "https://open.spotify.com/track/1K48Rz8fb7x6zdJkyVoQoq"
     },
     {
       "album": {
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 215495,
       "name": "Down Here Waiting",
       "url": "https://open.spotify.com/track/5yqS1eBrDMx7bbcGilON0N"

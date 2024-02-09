@@ -15282,6 +15282,28 @@
     {
       "album": {
         "name": "Head Up",
+        "url": "https://open.spotify.com/album/7FQA4DGX7aIfT8b8f8GVhp"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189636,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/3zieOwCrap1s2sIpxWlx92"
+    },
+    {
+      "album": {
+        "name": "Head Up",
         "url": "https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi"
       },
       "artists": [
@@ -15318,7 +15340,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 189636,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ"

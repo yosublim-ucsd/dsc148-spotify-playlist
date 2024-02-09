@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 6113,
+  "2024-02-09": 6116,
   "date_first_scraped": "2022-05-30",
   "description": "Nh\u1eefng kh\u00fac nh\u1ea1c qu\u00ea h\u01b0\u01a1ng ng\u1ee3i ca v\u1ebb \u0111\u1eb9p Vi\u1ec7t Nam. \u1ea2nh b\u00eca: NSND B\u1ea1ch Tuy\u1ebft, Nal",
   "name": "V\u1ec1 Qu\u00ea",
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 272579,
       "name": "Ng\u01b0\u1eddi Em V\u1ef9 D\u1ea1",
       "url": "https://open.spotify.com/track/2PEx4noRPrnRTRNjwYg7Er"
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 274560,
       "name": "Ng\u01b0\u1eddi Em V\u1ef9 D\u1ea1",
       "url": "https://open.spotify.com/track/24s2jhwZLfPAP1ZP8RFiqO"

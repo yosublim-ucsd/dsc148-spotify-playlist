@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 445644,
+  "2024-02-09": 445662,
   "date_first_scraped": "2021-12-30",
   "description": "Raw, sentimental feels.",
   "name": "sad lofi",
@@ -127,6 +127,24 @@
     {
       "album": {
         "name": "Distant",
+        "url": "https://open.spotify.com/album/75jB03qghdIosSpN3z8QSF"
+      },
+      "artists": [
+        {
+          "name": "w00ds",
+          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121672,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/2e8imHlD10TXnYsL72zEe0"
+    },
+    {
+      "album": {
+        "name": "Distant",
         "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
       },
       "artists": [
@@ -137,7 +155,7 @@
       ],
       "date_added": "2019-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 121672,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ"
@@ -593,6 +611,24 @@
     {
       "album": {
         "name": "Distant",
+        "url": "https://open.spotify.com/album/75jB03qghdIosSpN3z8QSF"
+      },
+      "artists": [
+        {
+          "name": "w00ds",
+          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144892,
+      "name": "Distant",
+      "url": "https://open.spotify.com/track/0sUh3Wq1Gf8K47d1E7BrtG"
+    },
+    {
+      "album": {
+        "name": "Distant",
         "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
       },
       "artists": [
@@ -603,7 +639,7 @@
       ],
       "date_added": "2019-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 144892,
       "name": "Distant",
       "url": "https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0"

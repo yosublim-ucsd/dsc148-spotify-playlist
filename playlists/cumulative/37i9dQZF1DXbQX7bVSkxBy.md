@@ -2,9 +2,9 @@
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv?si=egVP3snNRzOlaJxSO2VPvw>Yoyo Michael</a>
+> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q?si=iXij6B\_eQHq9EArbpLXrcw>Spillz Ochai</a>
 
-210 songs - 16 hr 34 min
+211 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Ayaaaa](https://open.spotify.com/track/7kNSQbZwZU6hhkFyuq98PH) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3), [NAWIRAS Mass Choir](https://open.spotify.com/artist/68FjyOBa9zUDt1UkvioE05) | [Ayaaaa](https://open.spotify.com/album/7Dy3YwfcZwHtszp8T5u7Lg) | 11:55 | 2023-08-11 | 2023-08-18 |
 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 | 2023-05-26 |  |
 | [Baba Oh](https://open.spotify.com/track/7kOezDLrt87YbPZfgv7qub) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD) | 5:23 | 2023-04-07 | 2023-05-26 |
-| [BIG BIG WAY](https://open.spotify.com/track/0XGZvAtlH8kT6NseNoNLA8) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [BIG BIG WAY](https://open.spotify.com/album/2SjuxCBdux4BKazNGcrx7n) | 3:48 | 2024-02-02 |  |
+| [BIG BIG WAY](https://open.spotify.com/track/0XGZvAtlH8kT6NseNoNLA8) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [BIG BIG WAY](https://open.spotify.com/album/2SjuxCBdux4BKazNGcrx7n) | 3:48 | 2024-02-02 | 2024-02-09 |
 | [Bigger \- odogwu](https://open.spotify.com/track/4g5KxATLbcyOGNpOYFErU7) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Bigger \(odogwu\)](https://open.spotify.com/album/48QML3HO0ku6ZMnkuYCuAx) | 2:56 | 2023-12-05 | 2023-12-13 |
 | [Bire](https://open.spotify.com/track/6PGTBSagHYqLOMbuCjaI6H) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Decagon](https://open.spotify.com/album/5zcepYAcGr8m0YEmd9k3kl) | 2:43 | 2023-12-05 | 2023-12-13 |
 | [Bless God](https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [EIGHT](https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu) | 4:52 | 2023-12-29 |  |
@@ -188,6 +188,7 @@
 | [THIS YEAR \(Blessings\) \(feat\. Ehis 'D' Greatest\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \(feat\. Ehis 'D' Greatest\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 | 2023-10-14 | 2023-10-23 |
 | [To Not Worship You](https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Always Only Jesus](https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD) | 3:45 | 2023-12-29 |  |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-04-07 |  |
+| [True Love](https://open.spotify.com/track/64g7yZSdEEU5EctgNSXoat) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [True Love](https://open.spotify.com/album/0fysW24DQvmfDWN1WFxpNE) | 2:30 | 2024-02-08 |  |
 | [Trusted](https://open.spotify.com/track/2PRebsAfb6LBVYLr5mKMlt) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Trusted](https://open.spotify.com/album/7cZ7nXWQsrE2VoFXErZWVN) | 3:04 | 2024-01-19 |  |
 | [Twenty\-Four \(Tyler Joseph from Twenty One Pilots Version\)](https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 4:42 | 2023-12-29 |  |
 | [Unchangeable](https://open.spotify.com/track/2BQ9reSLLtXxcWuturEq6F) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Most High](https://open.spotify.com/album/4DmICvVxirmdQzjbuXEfzS) | 5:17 | 2023-04-07 | 2023-05-27 |

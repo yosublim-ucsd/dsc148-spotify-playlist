@@ -4,7 +4,7 @@
 
 > Fresh gospel music from Ghana\. Cover: Joyce Blessing
 
-78 songs - 6 hr 53 min
+80 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Chosen](https://open.spotify.com/track/6kkor3J7R9YO2gembUEGPI) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Chosen](https://open.spotify.com/album/23FSijZfVgyYFGVdiXvG4Y) | 2:44 | 2023-09-14 | 2023-11-11 |
 | [Chosen](https://open.spotify.com/track/3D28L1BTQL3erWFIEamyBR) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [The Prodigal Son](https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ) | 2:44 | 2023-09-14 |  |
 | [CYB](https://open.spotify.com/track/4RROgBvii00NTvk2ga3xZk) | [Regardless Da YungKing](https://open.spotify.com/artist/7dkbG2UVvht2XS9FzRXBcy), [Morphat](https://open.spotify.com/artist/6aOcPv0XzxXzDWpEQer0rw) | [CYB](https://open.spotify.com/album/0KqMiA8MVuuBsK8KXlCAmy) | 2:59 | 2023-04-06 | 2023-06-01 |
-| [Dear God](https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w) | [Jacquelyn Oforiwaa\-Amanfo](https://open.spotify.com/artist/2noxRpCkkwCk7iYYPr151p), [Nana Amoah](https://open.spotify.com/artist/3EQe9YDfiBp4ZERkmjp6Fu) | [Dear God](https://open.spotify.com/album/4uW2MlugHUxK2JgW2tIjS6) | 7:08 | 2023-04-06 |  |
+| [Dear God](https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w) | [Jacquelyn Oforiwaa\-Amanfo](https://open.spotify.com/artist/2noxRpCkkwCk7iYYPr151p), [Nana Amoah](https://open.spotify.com/artist/3EQe9YDfiBp4ZERkmjp6Fu) | [Dear God](https://open.spotify.com/album/4uW2MlugHUxK2JgW2tIjS6) | 7:08 | 2023-04-06 | 2024-02-09 |
 | [Deeper Medley](https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p) | [Deeper Touch](https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP) | 13:01 | 2023-04-06 |  |
 | [Energy](https://open.spotify.com/track/4h2jfMLM38ub5BFyZcmlvn) | [Louis Pascal](https://open.spotify.com/artist/2XftZv39x5JTEBmKZFDuvg), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [The Pen Of A Ready Writer](https://open.spotify.com/album/51yOhvYNPRcZWyXOY8pOhr) | 2:24 | 2023-04-20 | 2023-06-10 |
 | [Fawohodie\(Twi Medley\)](https://open.spotify.com/track/2N5uglkqAalKPTCnm4a2Cl) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Fawohodie\(Twi Medley\)](https://open.spotify.com/album/3mLLK2GJ9k1uvVetcauSm1) | 9:54 | 2023-04-06 |  |
@@ -60,6 +60,7 @@
 | [Nyansabuakwa Nyame \- Live](https://open.spotify.com/track/0H3HSGq80oC8QauLnyrjQl) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 5:56 | 2023-09-14 | 2023-11-20 |
 | [Okasa](https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc) | [Eugene Zuta](https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP) | [Okasa](https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP) | 4:27 | 2023-04-06 |  |
 | [Okrokrohene](https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Okrokrohene](https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX) | 6:06 | 2023-04-06 |  |
+| [Only You\(Solo Version\)](https://open.spotify.com/track/591apkzyJMsuqxmtPsUd4R) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Only You\(Solo Version\)](https://open.spotify.com/album/7bBJxUA0uu7CYwcZibH8Hy) | 6:25 | 2024-02-08 |  |
 | [Onwanwani](https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3) | [Edwin Dadson](https://open.spotify.com/artist/47Faqq0jbVjfytkzaHxlIb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Isaiah Fosu\-Kwakye Jnr](https://open.spotify.com/artist/7nFCc2h1AAmKMGwr2Nc72u) | [Onwanwani](https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs) | 8:33 | 2023-04-06 |  |
 | [Onyame Tumfo \(The Prayer Song\)](https://open.spotify.com/track/2vPxKFymTxOgHhYszvBtJ8) | [Siisi Baidoo](https://open.spotify.com/artist/1x9IbDcuMszbQzU8tposjZ) | [Onyame Tumfo \(The Prayer Song\)](https://open.spotify.com/album/1dFyQ59czNRy78NVZnXcN4) | 9:44 | 2023-04-06 |  |
 | [ONYE NWERE](https://open.spotify.com/track/46FjDse0BOSh8BgO4IhIMl) | [GEMS](https://open.spotify.com/artist/5VwQwtATk6Op8e9NcdSHPF) | [ONYE NWERE](https://open.spotify.com/album/3oWcoM13WK313nUCGdNHnI) | 3:38 | 2023-04-06 | 2023-06-10 |
@@ -72,7 +73,8 @@
 | [Something New](https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:23 | 2023-06-09 |  |
 | [Style Bia Bi](https://open.spotify.com/track/0Eu8dLMDhMDrtHeRLRKzdc) | [Great Ampong](https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg) | [Style Bia Bi](https://open.spotify.com/album/0h2kD49Ru5nAGuEIly7JlK) | 4:09 | 2023-04-06 | 2023-05-19 |
 | [Style Bia Bi](https://open.spotify.com/track/2nRxaDdtIeUrkRjb8EzqRM) | [Great Ampong](https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg) | [Style Bia Bi](https://open.spotify.com/album/3TjCSAi7cH306yVB8b8g3f) | 4:09 | 2023-04-20 | 2023-06-10 |
-| [Testimony \- Acoustic](https://open.spotify.com/track/1T2eUPRw51qAhPllM3Zgk7) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Testimony Therapy](https://open.spotify.com/album/3Ke8XArGN62MmA4FYe2HH7) | 3:39 | 2023-04-06 |  |
+| [Testimony \- Acoustic](https://open.spotify.com/track/1T2eUPRw51qAhPllM3Zgk7) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Testimony Therapy](https://open.spotify.com/album/3Ke8XArGN62MmA4FYe2HH7) | 3:39 | 2023-04-06 | 2024-02-09 |
+| [The Doing of the Lord](https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Doing of the Lord](https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh) | 4:46 | 2024-02-08 |  |
 | [The Kadosh \(Live\)](https://open.spotify.com/track/7hjc9HCFAogwsDMpdNhIyb) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Kadosh \(Live\)](https://open.spotify.com/album/0EpEj8YqjDrd84uJBBCugr) | 9:05 | 2023-06-22 |  |
 | [This Far by Grace](https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD) | [Pastor Edwin Dadson](https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH) | [This Far by Grace](https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR) | 4:53 | 2023-04-06 |  |
 | [Turning Around\(Live\)](https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 4:48 | 2023-04-06 |  |

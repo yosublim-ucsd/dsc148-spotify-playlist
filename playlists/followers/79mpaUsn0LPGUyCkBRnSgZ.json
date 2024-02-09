@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 1,
+  "2024-02-09": 1,
   "date_first_scraped": "2023-03-31",
   "description": "albums i plan to listen to eventually",
   "name": "Zacklog",
@@ -1163,7 +1163,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 241226,
       "name": "Bio18",
       "url": "https://open.spotify.com/track/4P0ne8HWGFCV8gac5zcEh4"
@@ -2404,6 +2404,28 @@
     },
     {
       "album": {
+        "name": "Different Trains / Electric Counterpoint",
+        "url": "https://open.spotify.com/album/3i8ojYITZwfiZilo8ShpxQ"
+      },
+      "artists": [
+        {
+          "name": "Steve Reich",
+          "url": "https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538800,
+      "name": "Different Trains: America, Before the War",
+      "url": "https://open.spotify.com/track/1YiBEdXvyWL9rupB3Cg4IQ"
+    },
+    {
+      "album": {
         "name": "Dig Me Out (Remastered)",
         "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
       },
@@ -2826,6 +2848,24 @@
     },
     {
       "album": {
+        "name": "My Heart Is An Open Field",
+        "url": "https://open.spotify.com/album/6Ks507WDVnwn2p9VANI2No"
+      },
+      "artists": [
+        {
+          "name": "Tenci",
+          "url": "https://open.spotify.com/artist/5ptfrHC6idq4KnsXBk5tup"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254119,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/1X9468G9BtZSdjYGV3QBWm"
+    },
+    {
+      "album": {
         "name": "Yellow House",
         "url": "https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta"
       },
@@ -3150,6 +3190,24 @@
     },
     {
       "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219710,
+      "name": "Femininomenon",
+      "url": "https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS"
+    },
+    {
+      "album": {
         "name": "5 to the Eye with Stars",
         "url": "https://open.spotify.com/album/2JdEpcC6E0KsWfft0dwrxf"
       },
@@ -3309,6 +3367,24 @@
       "duration_ms": 198893,
       "name": "French Navy",
       "url": "https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1"
+    },
+    {
+      "album": {
+        "name": "Sun Machine",
+        "url": "https://open.spotify.com/album/5Nzqg5Xb7xaKfl3XudeNiY"
+      },
+      "artists": [
+        {
+          "name": "Rubblebucket",
+          "url": "https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230133,
+      "name": "Fruity",
+      "url": "https://open.spotify.com/track/2cNZzxSe048owMCdRloYkH"
     },
     {
       "album": {
@@ -4095,6 +4171,24 @@
       "duration_ms": 220866,
       "name": "I Feel Ya' Strutter",
       "url": "https://open.spotify.com/track/1bpEObO6vZfCrmyvhTCaVv"
+    },
+    {
+      "album": {
+        "name": "Fine But Dying",
+        "url": "https://open.spotify.com/album/6ELuMj5lPWzmvHhi3YeIOp"
+      },
+      "artists": [
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "I Love You, But I Need Another Year",
+      "url": "https://open.spotify.com/track/2UQYVFUrqybUciB3ULiysS"
     },
     {
       "album": {
@@ -9676,6 +9770,24 @@
     },
     {
       "album": {
+        "name": "Soul Journey",
+        "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208373,
+      "name": "Wayside/Back in Time",
+      "url": "https://open.spotify.com/track/7kBgZQP85cQBKKDTmjcDf3"
+    },
+    {
+      "album": {
         "name": "Hell Hath No Fury",
         "url": "https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE"
       },
@@ -9853,6 +9965,24 @@
       "duration_ms": 44094,
       "name": "where u at?",
       "url": "https://open.spotify.com/track/0UULVQXjgFPOttIW5qF7Ak"
+    },
+    {
+      "album": {
+        "name": "Gongjoong Doduk",
+        "url": "https://open.spotify.com/album/6xzqytqEOwBgNIYaGzgTMR"
+      },
+      "artists": [
+        {
+          "name": "Mid-Air Thief",
+          "url": "https://open.spotify.com/artist/0zGRuj0aQ3mM6i2dQoO8h0"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264067,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/47kKriL1d9WiVRBy0YxW5V"
     },
     {
       "album": {

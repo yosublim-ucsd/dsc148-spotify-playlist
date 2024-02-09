@@ -1,12 +1,12 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 11552,
+  "num_followers": 11588,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDk0NWMwNjJhNzQ3OGQ5MTQxOTNjMTA5N2I0MWU5MDAzOGNlMDA2",
+  "snapshot_id": "MCwxZWZiOGJmZWFjMTE2YmY4MzU2MWQwYWE2YTQ4OWM3ZjFlMmVjNmUy",
   "tracks": [
     {
       "added_at": "2024-01-26 17:51:21",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
+        "name": "Aubade",
+        "url": "https://open.spotify.com/album/7pt5ET5hEnQFYVfVJVVzMn"
+      },
+      "artists": [
+        {
+          "name": "Bastido",
+          "url": "https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM"
+        }
+      ],
+      "duration_ms": 171870,
+      "name": "Aubade",
+      "url": "https://open.spotify.com/track/2w9EnlbbEahdgm3ZNj758B"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
         "name": "Ontem",
         "url": "https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy"
       },
@@ -299,18 +315,18 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "Aubade",
-        "url": "https://open.spotify.com/album/7pt5ET5hEnQFYVfVJVVzMn"
+        "name": "Lofi Chill",
+        "url": "https://open.spotify.com/album/1HstApWi4IFpuz5HJmoXpf"
       },
       "artists": [
         {
-          "name": "Bastido",
-          "url": "https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM"
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
         }
       ],
-      "duration_ms": 171870,
-      "name": "Aubade",
-      "url": "https://open.spotify.com/track/2w9EnlbbEahdgm3ZNj758B"
+      "duration_ms": 115017,
+      "name": "El Malec\u00f3n",
+      "url": "https://open.spotify.com/track/1Svr9y0d5DpH5SswUuMQv5"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -383,22 +399,6 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "Lofi Chill",
-        "url": "https://open.spotify.com/album/1HstApWi4IFpuz5HJmoXpf"
-      },
-      "artists": [
-        {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        }
-      ],
-      "duration_ms": 115017,
-      "name": "El Malec\u00f3n",
-      "url": "https://open.spotify.com/track/1Svr9y0d5DpH5SswUuMQv5"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
         "name": "Monte Nativo",
         "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
       },
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "Guaguansoul",
-        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
-      },
-      "artists": [
-        {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
-        }
-      ],
-      "duration_ms": 175156,
-      "name": "Cat\u00e1 Surf",
-      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
         "name": "Parque de Bugambilias",
         "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 153857,
       "name": "Parque de Bugambilias",
       "url": "https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
+        "name": "Guaguansoul",
+        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        }
+      ],
+      "duration_ms": 175156,
+      "name": "Cat\u00e1 Surf",
+      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "En el Tianguis Lo-Fi",
-        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
-      },
-      "artists": [
-        {
-          "name": "Bandido Beat",
-          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
-        }
-      ],
-      "duration_ms": 319062,
-      "name": "En el Tianguis Lo-Fi",
-      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
         "name": "Dalia",
         "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
       },
@@ -519,6 +503,22 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
+        "name": "En el Tianguis Lo-Fi",
+        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
+      },
+      "artists": [
+        {
+          "name": "Bandido Beat",
+          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
+        }
+      ],
+      "duration_ms": 319062,
+      "name": "En el Tianguis Lo-Fi",
+      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/1dmilMbcUhBOkH8nATHSin"
       },
@@ -531,6 +531,42 @@
       "duration_ms": 116447,
       "name": "Tudo Bem",
       "url": "https://open.spotify.com/track/0SGRPlbprTyOMPNgwlir3Q"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/79gNd42o0NZ3DjhLyrL6ZN"
+      },
+      "artists": [
+        {
+          "name": "Myst\u00e9rika",
+          "url": "https://open.spotify.com/artist/2gIrhYbETAlDYyqDaPaEvC"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Estoy Ah\u00ed",
+      "url": "https://open.spotify.com/track/2m5dELAxkaPzylB1NLdZIz"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
+        "name": "Remixes lofi del Regional Chill",
+        "url": "https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 123875,
+      "name": "Los d\u00edas grises (Remix)",
+      "url": "https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -559,26 +595,6 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "Remixes lofi del Regional Chill",
-        "url": "https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 123875,
-      "name": "Los d\u00edas grises (Remix)",
-      "url": "https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
         "name": "Vueltas",
         "url": "https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 115714,
       "name": "Vueltas",
       "url": "https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/79gNd42o0NZ3DjhLyrL6ZN"
-      },
-      "artists": [
-        {
-          "name": "Myst\u00e9rika",
-          "url": "https://open.spotify.com/artist/2gIrhYbETAlDYyqDaPaEvC"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Estoy Ah\u00ed",
-      "url": "https://open.spotify.com/track/2m5dELAxkaPzylB1NLdZIz"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "Donde Estas?",
-        "url": "https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j"
-      },
-      "artists": [
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        }
-      ],
-      "duration_ms": 124245,
-      "name": "Donde Estas?",
-      "url": "https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
         "name": "\u00d3leo sobre tela",
         "url": "https://open.spotify.com/album/105WPjJen4emN55961ICvo"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 162479,
       "name": "Abr\u00e1zame mucho estos d\u00edas",
       "url": "https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
+        "name": "Donde Estas?",
+        "url": "https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        }
+      ],
+      "duration_ms": 124245,
+      "name": "Donde Estas?",
+      "url": "https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "Uno Es M\u00ednimo Dos",
-        "url": "https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Nos Usamos",
-      "url": "https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
         "name": "El D\u00eda M\u00e1s Corto",
         "url": "https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "Guaguansoul",
-        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+        "name": "Uno Es M\u00ednimo Dos",
+        "url": "https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK"
       },
       "artists": [
         {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 150927,
-      "name": "Aguanc\u00f3",
-      "url": "https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8"
+      "duration_ms": 269800,
+      "name": "Nos Usamos",
+      "url": "https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -831,6 +815,22 @@
       "duration_ms": 99428,
       "name": "Good things take time",
       "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
+        "name": "Guaguansoul",
+        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        }
+      ],
+      "duration_ms": 150927,
+      "name": "Aguanc\u00f3",
+      "url": "https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -1095,22 +1095,26 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "Hora Azul",
-        "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
+        "name": "La Diabla (lofi edit)",
+        "url": "https://open.spotify.com/album/1p4uLJLViOIyLrAMgeScZp"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "The Remix Station",
+          "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
         },
         {
-          "name": "Eric Chac\u00f3n",
-          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
+          "name": "LatinoFi",
+          "url": "https://open.spotify.com/artist/5J47VDjGjTRzUrjxiacTMo"
+        },
+        {
+          "name": "lofi.remixes",
+          "url": "https://open.spotify.com/artist/1p1HSX8hrWa7vUAhKW76W0"
         }
       ],
-      "duration_ms": 165976,
-      "name": "Lunes Azul",
-      "url": "https://open.spotify.com/track/2DJABf6anvoVv9CdereeL3"
+      "duration_ms": 98630,
+      "name": "La Diabla - lofi edit",
+      "url": "https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -1127,6 +1131,26 @@
       "duration_ms": 131091,
       "name": "are you kidding?",
       "url": "https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
+        "name": "Hora Azul",
+        "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "Eric Chac\u00f3n",
+          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
+        }
+      ],
+      "duration_ms": 165976,
+      "name": "Lunes Azul",
+      "url": "https://open.spotify.com/track/2DJABf6anvoVv9CdereeL3"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -1183,30 +1207,6 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "La Diabla (lofi edit)",
-        "url": "https://open.spotify.com/album/1p4uLJLViOIyLrAMgeScZp"
-      },
-      "artists": [
-        {
-          "name": "The Remix Station",
-          "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
-        },
-        {
-          "name": "LatinoFi",
-          "url": "https://open.spotify.com/artist/5J47VDjGjTRzUrjxiacTMo"
-        },
-        {
-          "name": "lofi.remixes",
-          "url": "https://open.spotify.com/artist/1p1HSX8hrWa7vUAhKW76W0"
-        }
-      ],
-      "duration_ms": 98630,
-      "name": "La Diabla - lofi edit",
-      "url": "https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
         "name": "Ni\u00f1a",
         "url": "https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2"
       },
@@ -1223,6 +1223,26 @@
       "duration_ms": 122250,
       "name": "Maya",
       "url": "https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
+        "name": "Mi\u00e9rcoles Azul",
+        "url": "https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "Monno Briceno",
+          "url": "https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys"
+        }
+      ],
+      "duration_ms": 167857,
+      "name": "Mi\u00e9rcoles Azul",
+      "url": "https://open.spotify.com/track/4FgibQuPiwuS5DYHxVvoAL"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -1255,26 +1275,6 @@
       "duration_ms": 146239,
       "name": "Cholomuco",
       "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
-        "name": "Mi\u00e9rcoles Azul",
-        "url": "https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        },
-        {
-          "name": "Monno Briceno",
-          "url": "https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys"
-        }
-      ],
-      "duration_ms": 167857,
-      "name": "Mi\u00e9rcoles Azul",
-      "url": "https://open.spotify.com/track/4FgibQuPiwuS5DYHxVvoAL"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "100% Barztep",
-        "url": "https://open.spotify.com/album/16c3Y70tMv9USOwiQ2lO91"
+        "name": "Aesthetic Beach",
+        "url": "https://open.spotify.com/album/58M5ZhKOSGd2ZHis9sZJsW"
       },
       "artists": [
         {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+          "name": "Arkei",
+          "url": "https://open.spotify.com/artist/0zRhlnZOOvpAwow405hTFw"
         }
       ],
-      "duration_ms": 210750,
-      "name": "Shemomedjamo",
-      "url": "https://open.spotify.com/track/26HbFJdrkXgWrME5kLrk8r"
+      "duration_ms": 126857,
+      "name": "Orange Waves",
+      "url": "https://open.spotify.com/track/00L0ighVhKptSsIG49Ywnh"
     }
   ],
   "unique_name": "lofi latino",

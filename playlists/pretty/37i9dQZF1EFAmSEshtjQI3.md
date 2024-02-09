@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZY43VwD4Dvf0ZO9SwivN5">Valentina Rico</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83 likes - 34 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 82 likes - 34 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 15 | [Nuez](https://open.spotify.com/track/4xNsLmMkJW8dq9b8NMDAm5) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3) | 3:32 |
 | 16 | [No Voy a Ser Yo](https://open.spotify.com/track/3wY4usAdkaG7oviB6kOHxH) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:55 |
 | 17 | [La Mitad](https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [La Mitad](https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r) | 2:36 |
-| 18 | [Fuera De Servicio](https://open.spotify.com/track/6RkIowV2rsGJTcRohynZ5D) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7) | [Chino & Nacho Is Back](https://open.spotify.com/album/6NPRXeULsH66D8zshrpiDm) | 2:43 |
-| 19 | [Pegaíto](https://open.spotify.com/track/1RFWaEBbwIZV6ZcpuZzZC8) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Pegaíto](https://open.spotify.com/album/0HdmTSwkvLqGCXg7VQ2pPX) | 2:35 |
+| 18 | [Pegaíto](https://open.spotify.com/track/1RFWaEBbwIZV6ZcpuZzZC8) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Pegaíto](https://open.spotify.com/album/0HdmTSwkvLqGCXg7VQ2pPX) | 2:35 |
+| 19 | [Fuera De Servicio](https://open.spotify.com/track/6RkIowV2rsGJTcRohynZ5D) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7) | [Chino & Nacho Is Back](https://open.spotify.com/album/6NPRXeULsH66D8zshrpiDm) | 2:43 |
 | 20 | [Sagitario](https://open.spotify.com/track/1jvRSXvGCUXD545RQJ3FcR) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 3:21 |
 | 21 | [Miel](https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:39 |
 | 22 | [Asi Esta la Cosa](https://open.spotify.com/track/2WdqnZOLjFtfunFv3SkLnY) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Asi Esta la Cosa](https://open.spotify.com/album/4AIaRa9LBZsHF4QRoOeDWR) | 3:03 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 33 | [Vuela](https://open.spotify.com/track/5JOM3Q1tbLSx9xFqhrz5tp) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Vuela](https://open.spotify.com/album/68SO1BrZ2nPzYo76nnY1Af) | 2:51 |
 | 34 | [Mas De Lo Que Aposte](https://open.spotify.com/track/0ZixDqWw4qS7NcxUc9zhRa) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Aitana](https://open.spotify.com/album/36LMY34MvQVWfJbOuAVYQK) | 6:40 |
 
-Snapshot ID: `Mjg0NTU5NzAsMDAwMDAwMDA1MGY1MWQyNzEzZTBiMTRjM2YzY2M1YTFiZWYyYTBhMA==`
+Snapshot ID: `Mjg0NTc0MTAsMDAwMDAwMDBmZmRiNjEwMjg3MDZjZTYzZTkyYTE3ODE3MjlmMjkxMw==`

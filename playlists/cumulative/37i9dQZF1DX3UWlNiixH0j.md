@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 新東京\(SHINTOKYO\)
 
-1,305 songs - 3 day 9 hr 7 min
+1,306 songs - 3 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,7 +635,8 @@
 | [Samurai](https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal Your Heart](https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as) | 3:25 | 2023-12-05 | 2023-12-13 |
 | [samurai](https://open.spotify.com/track/7I8cqnhGcAvgGrZpQ9m0yC) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal your heart](https://open.spotify.com/album/7DMwYGYZLwTPLhgPibhEkq) | 3:25 | 2023-12-05 | 2023-12-07 |
 | [SANTA CRUZ](https://open.spotify.com/track/4sTCT8IQf37u4bgQRvY2Ro) | [KLEPTO](https://open.spotify.com/artist/07H9uLG0M04L6lnXuWYa9V) | [SANTA CRUZ](https://open.spotify.com/album/1Nal11G0mv1AnW8wjiAFkd) | 3:01 | 2023-05-23 | 2023-06-07 |
-| [Sanzameku](https://open.spotify.com/track/09rGKRSeUIxhbD6AIJoJDK) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Sanzameku](https://open.spotify.com/album/6aQcVCTEE1ps7pME44kVpO) | 3:05 | 2024-01-30 |  |
+| [Sanzameku](https://open.spotify.com/track/09rGKRSeUIxhbD6AIJoJDK) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Sanzameku](https://open.spotify.com/album/6aQcVCTEE1ps7pME44kVpO) | 3:05 | 2024-01-30 | 2024-02-09 |
+| [Sanzameku](https://open.spotify.com/track/0XWKTGEZy1UxKERL4ZuPEz) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv) | 3:05 | 2024-02-06 |  |
 | [Sashiiro](https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:05 | 2023-03-30 |  |
 | [Saṃsāra](https://open.spotify.com/track/3ZzYexiaE8Py8cbpG4Y8Ft) | [RiL](https://open.spotify.com/artist/5nT4QCGLJJmkpt8RrniCqe) | [HERO](https://open.spotify.com/album/72JpHj3i11LfEfRGtq25DI) | 3:20 | 2023-01-31 | 2023-02-17 |
 | [SCENE!](https://open.spotify.com/track/56WASWOmOq6PGDA0NWuZOO) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [SCENE!](https://open.spotify.com/album/08O2jixS5hkpjsI0KZUzP2) | 2:26 | 2023-05-18 | 2023-10-11 |

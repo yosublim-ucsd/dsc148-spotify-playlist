@@ -4,7 +4,7 @@
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-293 songs - 19 hr 20 min
+294 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,12 +195,13 @@
 | [Ni Una Más](https://open.spotify.com/track/4WvhYvgVKgtLG7TFsJO0KI) | [DaJuana Band](https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm) | [Ni Una Más](https://open.spotify.com/album/4EzZTsc7MkOjbwpIfGZuzK) | 4:41 | 2021-09-24 | 2022-07-24 |
 | [Ni una Más](https://open.spotify.com/track/7cPkHalT3WoPhCtrbMHWI7) | [Moni Gonzalez](https://open.spotify.com/artist/6SgDt8leboqHgLSIqSYAmf) | [Ni una Más](https://open.spotify.com/album/751K6hRMzzMKr7AMppIFaz) | 3:40 | 2021-09-24 | 2022-07-06 |
 | [Niñx](https://open.spotify.com/track/2sKurE9yCmgFfdP4vW0rgy) | [La Lira Libertaria](https://open.spotify.com/artist/61Ewa0d7We1xxubqaqKBUW) | [Homonimo](https://open.spotify.com/album/45SyOhvUtpGhEkYvdN1YWr) | 3:46 | 2021-09-24 | 2024-01-15 |
+| [Niñx](https://open.spotify.com/track/5YdwhRwik4FMlzlU4RbYHo) | [La Lira Libertaria](https://open.spotify.com/artist/61Ewa0d7We1xxubqaqKBUW) | [La Lira Libertaria](https://open.spotify.com/album/7n57o4N90R6N9m6Sbgqn59) | 3:46 | 2023-10-13 |  |
 | [No Me Olvides](https://open.spotify.com/track/5R6sjTCRaLKIqyfjNk9i92) | [Sergio Arau](https://open.spotify.com/artist/0jhIKk9XnAbISKcMZX9pl6), [Los Heavy Mex](https://open.spotify.com/artist/3grq85LlvvQAiis6m9t7Ef) | [Rudo](https://open.spotify.com/album/5v5iSRb3oNKcIiUoAphFHe) | 4:18 | 2021-09-24 | 2022-07-25 |
 | [No Se Olvida](https://open.spotify.com/track/75zmQFVowX4BkUcZnDrY9j) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Desviaciones de la Canción Informal](https://open.spotify.com/album/6QNSq8LfQj4AfqZnbqQxQv) | 3:58 | 2021-09-24 | 2022-07-25 |
 | [No Soy De Aquí, Ni Soy De Allá](https://open.spotify.com/track/3f3n1w7qtnfeeYRDxe0lX9) | [Facundo Cabral](https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx) | [Personalidad](https://open.spotify.com/album/6xGJWNg7MXLm3mceXXqzxa) | 4:50 | 2021-09-24 | 2022-07-29 |
 | [Nuestro Amo Juega al Esclavo](https://open.spotify.com/track/0xt7T3rqNolRjO0AUWqBiD) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [¡Bang! ¡Bang!..\. Estás Liquidado](https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb) | 3:59 | 2021-09-24 | 2024-01-04 |
 | [Nuestro Amo Juega al Esclavo](https://open.spotify.com/track/14UY2VvUlmEmSd9ILCqyUz) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [¡Bang! ¡Bang!..\. Estás Liquidado](https://open.spotify.com/album/0lafFIfGSFtYsXFIVoIyl5) | 3:59 | 2023-10-13 |  |
-| [Octubre](https://open.spotify.com/track/36Mq1PveDyp8vsdbnBHDRb) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Octubre](https://open.spotify.com/album/4ds5vTznbduvC2aTg041Or) | 3:48 | 2021-09-24 |  |
+| [Octubre](https://open.spotify.com/track/36Mq1PveDyp8vsdbnBHDRb) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Octubre](https://open.spotify.com/album/4ds5vTznbduvC2aTg041Or) | 3:48 | 2021-09-24 | 2024-02-09 |
 | [Octubre 68](https://open.spotify.com/track/1gbPPseEPr7MqjBDL4ckx8) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [La Fiesta](https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8) | 3:11 | 2021-09-24 | 2022-07-29 |
 | [Odio](https://open.spotify.com/track/4JOE0U3uVUGWCO89HUJuLr) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Odio](https://open.spotify.com/album/4xpXEgXkCPInBeqf9aDwno) | 3:15 | 2021-09-24 | 2022-07-21 |
 | [Odio](https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:15 | 2021-09-24 | 2023-03-25 |

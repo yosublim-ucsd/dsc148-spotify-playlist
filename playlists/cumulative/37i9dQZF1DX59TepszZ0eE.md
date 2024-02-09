@@ -4,7 +4,7 @@
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC?si=UoGh5yS4SryIbJNb32jmhA">Mahalia Buchanan</a>
 
-188 songs - 18 hr 59 min
+190 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Isazelo Singishiye Ngedwa](https://open.spotify.com/track/7LWLrnHh0nMayLZblimXMy) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Isazelo Singishiye Ngedwa](https://open.spotify.com/album/4CXvH3FjVBhDiLKiEcjjLe) | 11:15 | 2023-09-22 | 2024-02-02 |
 | [Izandla Zethu Ziyakubanjwa](https://open.spotify.com/track/3l8KixA9Yzo4WlGSSkmFQ2) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Izandla Zethu Ziyakubanjwa](https://open.spotify.com/album/1ZF3qPtV1Hx0pRquLM6oYX) | 5:05 | 2023-12-29 |  |
 | [Izulu Namafu](https://open.spotify.com/track/2HdBnHBcws3jgAL66NP2pJ) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Izulu Namafu](https://open.spotify.com/album/3ybwmG4efxqlHlvrT48unW) | 4:35 | 2023-09-22 | 2024-02-02 |
+| [Jabulani Sesingabantwana \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/6av4onqqefCvfPob7iiC8L) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jabulani Sesingabantwana \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/1pKQ3u99NvR1u1qj7b1Y5u) | 7:35 | 2024-02-09 |  |
 | [Jehova](https://open.spotify.com/track/0W9Fy1ylmJUkNwi49iL9jm) | [Isibane Se Afrika](https://open.spotify.com/artist/63LPBHXvNYilxnYECGPvC5) | [Sawubona](https://open.spotify.com/album/3hLWA2uTxJrcLlHYkDKiqh) | 3:39 | 2023-09-01 | 2023-09-15 |
 | [Jehova Retshepile Wena \- Live](https://open.spotify.com/track/41VfsXDe70EMrh0j4aLnuM) | [Neyi Zimu](https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt) | [Another Level of Worship \(Live\)](https://open.spotify.com/album/1IjS2iFryRCTlyUbG20PGX) | 5:41 | 2019-12-09 |  |
 | [Jehovah Is Your Name \(Live\)](https://open.spotify.com/track/0kL3Q9FIhGS8vplV3HMGrK) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Spirit and Life](https://open.spotify.com/album/5LXmSfdbz5yTJD6TgnSPaC) | 7:38 | 2018-09-24 | 2023-04-09 |
@@ -125,6 +126,7 @@
 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 | 2018-09-24 |  |
 | [Sibabaza Wena \- Live](https://open.spotify.com/track/1gDzT790azKHH5wkHCYOaW) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Sibabaza Wena \(Live\)](https://open.spotify.com/album/3MwJ24l4rzuioInlgNwgf2) | 5:40 | 2020-03-13 | 2023-05-06 |
 | [Silapha](https://open.spotify.com/track/2wJUqVEPkLXTVw261oQE8c) | [Zodwa Twecu](https://open.spotify.com/artist/1iFGoRhMvpam8PfZ00epet) | [Andijiki](https://open.spotify.com/album/1V279WPZP6AlIETJxQJ4pF) | 5:49 | 2023-05-05 | 2023-06-09 |
+| [Silifuze Elobandla\(Acts 2:42\-47\)](https://open.spotify.com/track/0Fyt8lAORpZJqPRciHHa0Y) | [lulama lofani](https://open.spotify.com/artist/5tUxz69IpVRSjorHKiAFFC), [Girly Sibiya](https://open.spotify.com/artist/2FxLvFgLUJzmXZjMh3EsEU) | [Silifuze Elobandla\(Acts 2:42\-47\)](https://open.spotify.com/album/2e74E0qcVor3plRWUnCpMP) | 5:03 | 2024-02-09 |  |
 | [Simbona Ngothando Lwakhe \- Medley 5](https://open.spotify.com/track/172mC4BMtR3eLkAU9BVWuT) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Simbona Ngothando Lwakhe \(Medley 5\)](https://open.spotify.com/album/3UPce4KDwaZsWJnmWXbMji) | 5:42 | 2024-01-05 |  |
 | [Simbonga Ngothando](https://open.spotify.com/track/0AIxiKh3tOVohb2Zy3aUVB) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71), [Vusi Nova](https://open.spotify.com/artist/2C8mhxSmlfxCMCthQqvp5Z) | [The Grace Encounter, Vol\. 1](https://open.spotify.com/album/64aG7RnhvozvS4OezWOljc) | 5:19 | 2022-09-22 |  |
 | [Sixolele](https://open.spotify.com/track/77DtZoPVPzsetJnfN7Gzn6) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i) | [Izililo](https://open.spotify.com/album/6thyPQyQMTgLI3TzkRh4GP) | 5:00 | 2023-06-16 | 2023-07-07 |

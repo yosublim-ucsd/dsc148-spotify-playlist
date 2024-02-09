@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 14301,
+  "2024-02-09": 14351,
   "date_first_scraped": "2021-12-28",
   "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002\u4eca\u6708\u306e\u30a2\u30f3\u30d0\u30b5\u30c0\u30fc: TOMOKO IDA",
   "name": "EQUAL Japan",
@@ -9896,6 +9896,24 @@
     },
     {
       "album": {
+        "name": "Planet",
+        "url": "https://open.spotify.com/album/1Rz5hGKTRAn5NaBEoasR5U"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216268,
+      "name": "Planet",
+      "url": "https://open.spotify.com/track/2JBvAB9MRddsTnvKPxO1bk"
+    },
+    {
+      "album": {
         "name": "Palette",
         "url": "https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S"
       },
@@ -19275,7 +19293,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 216268,
       "name": "\u60d1\u661f",
       "url": "https://open.spotify.com/track/2xifiMVguiMdv7b42sWFCN"

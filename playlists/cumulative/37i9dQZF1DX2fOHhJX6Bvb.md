@@ -4,7 +4,7 @@
 
 > Instrumental piano versions of famous songs to make you fall asleep.
 
-125 songs - 6 hr 34 min
+133 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [About a girl](https://open.spotify.com/track/0FZ1UyCM42tEduMDozioVD) | [June Hall](https://open.spotify.com/artist/13rPht9NVTTbIU7w4YNKGN) | [About a girl](https://open.spotify.com/album/6EIhyvYZ0Qgx2gtDIZXUCf) | 2:44 | 2023-09-29 |  |
 | [Again](https://open.spotify.com/track/6SIvvPRlPqidyGaCwQZuVE) | [Regina Scallí](https://open.spotify.com/artist/6z4uxWlsx9rzh24RYxntWy) | [Again](https://open.spotify.com/album/3OAhdqxBWtmLJGEUheN5Pj) | 3:02 | 2023-09-29 |  |
 | [Against All Odds](https://open.spotify.com/track/35BLTLHdlD60LAk90bTUmE) | [Tom Powers](https://open.spotify.com/artist/5tqJLLaSDpdhDAwqWgAdXM) | [Against All Odds](https://open.spotify.com/album/4LeHYuZNVhTHaV9VzoDos4) | 3:48 | 2023-09-29 |  |
+| [Angels Like You](https://open.spotify.com/track/5m5l6WFIilVG2t4Xo4FnWj) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Angels Like You](https://open.spotify.com/album/2s0SDoQYnjhG7r1kHeGgnO) | 3:51 | 2024-02-09 |  |
 | [As it was](https://open.spotify.com/track/7wwSfI1U4kMKf3u5UP2owx) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Rediscovered](https://open.spotify.com/album/4rRZvUGhvvRASQecmf5nWc) | 3:21 | 2023-09-29 |  |
 | [As Long As You Love Me](https://open.spotify.com/track/2RJi3pWg858aWyv0h9WFIC) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Baby One More Time](https://open.spotify.com/album/2L1zanjl6Dp1Q0z1y6cmrv) | 3:54 | 2023-09-29 | 2024-01-19 |
 | [As Tears Go By](https://open.spotify.com/track/6TIOZDqaVXcShZFz4K94ft) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [As Tears Go By](https://open.spotify.com/album/08b8NRRkOuQwjgDiq2yUn4) | 3:31 | 2023-09-29 |  |
@@ -25,6 +26,7 @@
 | [Blessings](https://open.spotify.com/track/1Li49MRO6HwKVMS5GnjKqZ) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Blessings](https://open.spotify.com/album/0YVoCMCJAPE1GpUZVtWA0w) | 3:23 | 2023-09-29 |  |
 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/4JGD5NiVmKVGBjVysCvKIw) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/1oFuXts0JAGBn1OhcWZp2F) | 2:59 | 2023-09-29 |  |
 | [Both Sides Now](https://open.spotify.com/track/1wYZ8W9n7JJEz6alRFDZvz) | [Nilo Almeida](https://open.spotify.com/artist/1FFwV2WdNXvSTHJAI0CZlF) | [Both Sides Now](https://open.spotify.com/album/3zuVNU7l84bO9LtocuRdHA) | 2:16 | 2023-10-20 |  |
+| [Bridge Over Troubled Water](https://open.spotify.com/track/2hf6gQjGCxvwVmNsQ8c8Yo) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Bridge Over Troubled Water](https://open.spotify.com/album/1XGXCsHk3k6YH3ktr1ylA9) | 2:29 | 2024-02-09 |  |
 | [Californication](https://open.spotify.com/track/6KF0ASfUw7mzIIWOmRFI7z) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Viva La Vida](https://open.spotify.com/album/5tU4IeqW5okLOFooZqzAFF) | 3:17 | 2023-09-29 |  |
 | [Can't Help Falling In Love](https://open.spotify.com/track/5b8ysaeSV1Hs0jo3zoKkr9) | [Noah Walsh](https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY) | [Can't Help Falling In Love](https://open.spotify.com/album/05Fg2jM0E5fmpR2XBY9mwl) | 2:39 | 2023-09-29 |  |
 | [Ceilings](https://open.spotify.com/track/7aN6kodJ7XchFIhIBy7Zbr) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Ceilings](https://open.spotify.com/album/0HGBolWimrL2GOslTEDhlU) | 3:00 | 2023-12-08 |  |
@@ -35,6 +37,7 @@
 | [deja vu](https://open.spotify.com/track/778jLXEk9gyetQoHYOUHBs) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [deja vu](https://open.spotify.com/album/1Jhq2Pmfisb2OiXFujRHrI) | 3:45 | 2024-01-05 |  |
 | [Diamonds](https://open.spotify.com/track/27KOvI2gU9fAMddgSTpQw4) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 3:09 | 2023-09-29 |  |
 | [Die 4 Me](https://open.spotify.com/track/6UFkfO4Hn0RCiUoL270dpq) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Die 4 Me](https://open.spotify.com/album/4zluT7uuTQrgz55gESxfZe) | 2:36 | 2023-09-29 |  |
+| [Does Your Mother Know](https://open.spotify.com/track/6juhT2a3M7NmCA085Kb1w0) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Does Your Mother Know](https://open.spotify.com/album/7LF6CwL6GELbzGZKcchpiK) | 3:18 | 2024-02-09 |  |
 | [Don't Dream It's Over](https://open.spotify.com/track/4OECCOjePxmHXVGo54go9F) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Don't Dream It's Over](https://open.spotify.com/album/4Tn2th2kFSCl3dbHNFdE3y) | 3:08 | 2023-09-29 |  |
 | [Don't Know Why](https://open.spotify.com/track/12XFOelqiJscv38MPyMqjf) | [Giorgia Montagner](https://open.spotify.com/artist/5TIL6KAyK9cmkOqiHwj7Yu) | [Don't Know Why](https://open.spotify.com/album/3Ps2GzZx1pI6WgBaEaILrL) | 2:43 | 2023-09-29 |  |
 | [Don't You Worry Child](https://open.spotify.com/track/3J7sFURDzIfnRmyLW8xAzF) | [Steve Dawson](https://open.spotify.com/artist/0k7ltXZL0tbVfeO3Qhp21c) | [Don't You Worry Child](https://open.spotify.com/album/3lkTUg2cqPr4Mqt4uXienx) | 3:38 | 2023-09-29 |  |
@@ -58,6 +61,7 @@
 | [Hello](https://open.spotify.com/track/1efHwagPxIFfADSjRqndUs) | [Elodie Malabul](https://open.spotify.com/artist/1QijYE17aztDpSt76Tak8p) | [Hello](https://open.spotify.com/album/2rGcI5Yw0RehWAigKLPFY4) | 2:01 | 2023-09-29 |  |
 | [Hey Jude](https://open.spotify.com/track/5hbXs1fy9p1oDohdiVIf2H) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [The winner takes it all](https://open.spotify.com/album/3xdpsGHwPNSYQk5c7HKdK3) | 3:58 | 2023-09-29 |  |
 | [Holy](https://open.spotify.com/track/39iUn2KhFa7aKiI0mJrrv5) | [Jade Crowley](https://open.spotify.com/artist/5TrocNkTBQ5FOssBB0BXfB) | [Holy](https://open.spotify.com/album/5Zrfscw6w38zpd0AYGfW27) | 2:41 | 2023-09-29 |  |
+| [Home](https://open.spotify.com/track/6S7EWPyRZ0RoEIX2LMItu8) | [Nilo Almeida](https://open.spotify.com/artist/1FFwV2WdNXvSTHJAI0CZlF) | [Home](https://open.spotify.com/album/0wdQZAisc6HEXKd77mL4z1) | 3:36 | 2024-02-09 |  |
 | [Hot Stuff](https://open.spotify.com/track/7LPicH0obO6vabRfbMorYf) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Smells Like Teen Spirit](https://open.spotify.com/album/47A6gfz2DtzXSV0HpHQUiY) | 3:30 | 2023-09-29 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/7fMWxDPD58F8goBvmHheSe) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [How Deep Is Your Love](https://open.spotify.com/album/36XmOrVk3emXrh5nG8RGPL) | 3:05 | 2023-09-29 |  |
 | [I Can't Make You Love Me](https://open.spotify.com/track/1n4ExWaFfgudUSyGVlH5nE) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [I Can't Make You Love Me](https://open.spotify.com/album/4uWU5s11VFZySwedeqOFuD) | 2:36 | 2023-09-29 |  |
@@ -90,7 +94,9 @@
 | [One Call Away](https://open.spotify.com/track/3stzNtSMb9XSwbeEQVG3Ck) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [One Call Away](https://open.spotify.com/album/51sNNeB6Nq65506cNGEE0m) | 3:28 | 2023-11-17 |  |
 | [Out of Reach](https://open.spotify.com/track/1YJy6ofVeKjNk1SxudWgg3) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Out of Reach](https://open.spotify.com/album/5piCyCGSfoap2QpQPt0NCD) | 2:37 | 2023-10-06 |  |
 | [Payphone](https://open.spotify.com/track/2UwA54hqWikeB4cnSD9Pje) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Payphone](https://open.spotify.com/album/1UOZ6SGMGW1NWkq9vM3JTt) | 3:24 | 2023-09-29 |  |
+| [Piano Man](https://open.spotify.com/track/0VQsMDssKFEUG57CZ31YcD) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Piano Man](https://open.spotify.com/album/3BqnXRksYjWugaqusDNrML) | 2:31 | 2024-02-09 |  |
 | [Redbone](https://open.spotify.com/track/37jmM5yYmTqETXCbi4Ko5U) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Redbone](https://open.spotify.com/album/4SOJm1GEbnhfHC1ggGjT9K) | 3:18 | 2023-09-29 |  |
+| [Right Here Waiting](https://open.spotify.com/track/34qR9YyC7FxLfkfq8JQS6p) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Right Here Waiting](https://open.spotify.com/album/3rPEZpmAnrGOvZWlAyfwAj) | 2:57 | 2024-02-09 |  |
 | [Roar](https://open.spotify.com/track/1IaC5cHREG8T3GCu6cNQq1) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Roar](https://open.spotify.com/album/7hfurqRQar16Zd0JXrCncb) | 3:48 | 2023-11-17 |  |
 | [Rocket Man](https://open.spotify.com/track/6ff2TinoXWHCn0JnfUAp2b) | [Fiona Greenly](https://open.spotify.com/artist/1o7MqXOsAEoLkc9YEj7m9c) | [Rocket Man](https://open.spotify.com/album/1AvBbSVmZXYJtEt5GePDMR) | 3:04 | 2023-09-29 |  |
 | [Rockstar](https://open.spotify.com/track/2uM09IwC6W4Txne0cCZWmp) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Rockstar](https://open.spotify.com/album/3BUyqgRsdfypzDEeNISpe5) | 2:55 | 2023-09-29 |  |
@@ -112,6 +118,8 @@
 | [The First Cut Is The Deepest](https://open.spotify.com/track/2AOwriifqUUyINxFwNqItE) | [Mick Fazio](https://open.spotify.com/artist/62ZayiWK1lr4ROa7YqpKkx) | [Songs for Sunday](https://open.spotify.com/album/0NqYqAmh1MwXEoJJPYBFwt) | 3:16 | 2023-09-29 |  |
 | [The Joke](https://open.spotify.com/track/3Sq6BHPQVRWE9WHvFDQzNz) | [Zola Davis](https://open.spotify.com/artist/78EI36rEoD1ZiOHSgYroWP) | [The Joke](https://open.spotify.com/album/5jPbLh8xYOuczLIsnHeDng) | 3:31 | 2023-09-29 |  |
 | [The long and winding road](https://open.spotify.com/track/2WL3AT2ai6udaUhw7CjwbW) | [Laura Hanson](https://open.spotify.com/artist/2PaeMuShS6wgfLp465LQU3) | [The long and winding road](https://open.spotify.com/album/5TutzM4ffUT9H5MxzqzC23) | 2:28 | 2023-09-29 |  |
+| [The Rose](https://open.spotify.com/track/1BlvRT7JUtpNQUZHrVUPwJ) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Rose](https://open.spotify.com/album/3S58P2blfAWXqcRtxzkHm7) | 2:38 | 2024-02-09 |  |
+| [The Sound of Silence](https://open.spotify.com/track/0YTPlP7MjW8pPBGdARXuIJ) | [Morgan Fleich](https://open.spotify.com/artist/0fA5ejVShbNdZWiw5CB1l1) | [The Sound of Silence](https://open.spotify.com/album/7zFQhoJ9Disc3upcoiNnJu) | 2:16 | 2024-02-09 |  |
 | [The Winner Takes It All](https://open.spotify.com/track/35BWRKTZMjgPxRo37w9Bf7) | [Elodie Malabul](https://open.spotify.com/artist/1QijYE17aztDpSt76Tak8p) | [The Winner Takes It All](https://open.spotify.com/album/3I4yYesF2A1myDIb0eqIj1) | 3:32 | 2023-09-29 |  |
 | [Titanium](https://open.spotify.com/track/7HpOhVbSYn8BNAEiSdvTFv) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Titanium](https://open.spotify.com/album/02eiU5EW1pa8QDg7mczqPk) | 2:34 | 2023-09-29 |  |
 | [Tough Love](https://open.spotify.com/track/6fiJcteH6fErcmD13PmiPq) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Tough Love](https://open.spotify.com/album/6yMais1OVuoMMei5VUH6Bt) | 2:45 | 2023-09-29 |  |

@@ -4,7 +4,7 @@
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Rawayana con Danny Ocean
 
-105 songs - 6 hr 44 min
+106 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Things You Can't Control](https://open.spotify.com/track/5UjEmU8sBAJEr1q34eHqc4) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Trevor Young](https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 4:04 | 2022-07-01 | 2023-07-16 |
 | [Things You Can't Control](https://open.spotify.com/track/7Ll4gdgKSLGayN7BGhyuSh) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Trevor Young](https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ) | [Things You Can’t Control](https://open.spotify.com/album/1kykxJG3NLwarnxrt7hb2K) | 4:04 | 2022-05-13 | 2022-07-29 |
 | [Three Little Birds](https://open.spotify.com/track/6A9mKXlFRPMPem6ygQSt7z) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:00 | 2022-05-13 | 2022-07-29 |
-| [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2022-07-01 |  |
+| [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2022-07-01 | 2024-02-09 |
+| [Three Little Birds](https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 3:00 | 2024-01-24 |  |
 | [Three Little Birds](https://open.spotify.com/track/7G50pcN2iGxpJGVY34otOK) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Hopeful Music](https://open.spotify.com/album/2KLYTP6Lm6Sgsc4oCxWYO4) | 3:00 | 2022-07-01 | 2022-11-13 |
 | [Tierra de Jaguares](https://open.spotify.com/track/3MRTSZkWkTG4SJi7QNXPmF) | [Delasierra](https://open.spotify.com/artist/5fe8FJ3C3lkMkSKiOZkopk), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Tierra de Jaguares](https://open.spotify.com/album/1f3bD7mMnjIXgNcKbCk9KF) | 3:47 | 2022-06-03 | 2024-01-25 |
 | [Todo Lo Que Se Fue](https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Todo Lo Que Se Fue](https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r) | 3:21 | 2022-05-13 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 148050,
+  "2024-02-09": 148115,
   "date_first_scraped": "2021-12-21",
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:6CQGrt3AJ2gx5oMSR0mwbl\">1K Phew</a>",
   "name": "The Flow",
@@ -5413,6 +5413,24 @@
       "duration_ms": 155206,
       "name": "Foolproof",
       "url": "https://open.spotify.com/track/6mdFd07gXHAfZgB6tPrdj6"
+    },
+    {
+      "album": {
+        "name": "For A Reason",
+        "url": "https://open.spotify.com/album/7nAaP5Pj1OIdl8Zwl0oDVV"
+      },
+      "artists": [
+        {
+          "name": "Starringo",
+          "url": "https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161872,
+      "name": "For A Reason",
+      "url": "https://open.spotify.com/track/4F1jcSm2zz4hAXUsR1UgIX"
     },
     {
       "album": {
@@ -15285,7 +15303,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 153194,
       "name": "Step Into the Light",
       "url": "https://open.spotify.com/track/0Rf66EMPXCwEcTDjL6qKQK"
@@ -16921,7 +16939,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 140122,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC"
@@ -17037,7 +17055,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 142500,
       "name": "Troops",
       "url": "https://open.spotify.com/track/1ubC4rypxA8o5M2hRj5mg4"

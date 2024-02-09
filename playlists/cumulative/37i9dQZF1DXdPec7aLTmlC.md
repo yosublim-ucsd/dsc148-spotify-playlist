@@ -2,7 +2,7 @@
 
 ### [Happy Hits!](https://open.spotify.com/playlist/37i9dQZF1DXdPec7aLTmlC)
 
-> Éxitos para levantarte el ánimo y llenarte de felicidad.
+> Hits to boost your mood and fill you with happiness!
 
 766 songs - 1 day 16 hr 28 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Bella Poarch & 6arleyhuman
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,881 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,929 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 11 | [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/track/5YUsCI2mTieO4KJbLeQFR7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/album/21QcWrXk821IkKiL73BZre) | 2:43 |
 | 12 | [All Night Long](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [All Night Long](https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7) | 2:58 |
 | 13 | [Never Be Alone](https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Never Be Alone](https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM) | 3:09 |
-| 14 | [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 |
+| 14 | [Head Up](https://open.spotify.com/track/3zieOwCrap1s2sIpxWlx92) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/7FQA4DGX7aIfT8b8f8GVhp) | 3:09 |
 | 15 | [Serious](https://open.spotify.com/track/6hkoQqLTPQwpVmGvLIAPGD) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Serious](https://open.spotify.com/album/6nmFhzScrtVHU5gyXekNtW) | 2:44 |
 | 16 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 |
 | 17 | [Waterslides](https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Waterslides](https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 49 | [One Of Your Girls \- Felix Jaehn Remix](https://open.spotify.com/track/2g9QPGMEe9WTAMtvotuD1e) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [One Of Your Girls \(Felix Jaehn Remix\)](https://open.spotify.com/album/2osZd5UmUxgyeQYN5Dr9bb) | 3:03 |
 | 50 | [Don't Call Me Up](https://open.spotify.com/track/2fCTMmtNWFPR49sXkzwB4g) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Don't Call Me Up](https://open.spotify.com/album/7x51vYN8rt6vrpIwwQWcU2) | 2:23 |
 
-Snapshot ID: `MCxlYTg4M2NjYzdmODk5N2RmNDVkZTk5YmEyZjRmMzI3NWQxZjMzOTdk`
+Snapshot ID: `MCxhYTk5OTUzM2E5OTdkMjA2YTIxYzA3NjRmNWZmYWE3MjU3OTcxNWYy`

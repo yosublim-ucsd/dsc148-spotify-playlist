@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Charlotte Sands
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,383 likes - 70 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,412 likes - 70 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 54 | [i only smoke to feel bad](https://open.spotify.com/track/5gtAq2cTH1MpT2Ek8zv7mt) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [SPILT MILK](https://open.spotify.com/album/7bjMUmI8UUbAMWUIW0GCkk) | 3:00 |
 | 55 | [crawl](https://open.spotify.com/track/6PdNcUnU7szJ0uU5GBCLe8) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [crawl](https://open.spotify.com/album/3rf35ZOJylG4lrQ74sCdJS) | 3:01 |
 | 56 | [Bittersweet](https://open.spotify.com/track/2MZfkqDwZdK3nD0YJtJ9Fp) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Bittersweet](https://open.spotify.com/album/5P3vj5MI6yS0FzFo9QomFb) | 2:58 |
-| 57 | [Pink Noise](https://open.spotify.com/track/79SnA3wt0c7znm70kwRxEm) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Baby Teeth](https://open.spotify.com/album/71irsFKcf0lvzG4DO2jDUL) | 2:19 |
+| 57 | [Pink Noise](https://open.spotify.com/track/7d5NtzOMqntN9keGOZiipO) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Baby Teeth](https://open.spotify.com/album/5ICVD6930PEKXa6iwb1JAt) | 2:19 |
 | 58 | [NO HANDS \(SIDE A\)](https://open.spotify.com/track/322B6Not1OsMLCCxHg6sZl) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES](https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y) | 2:17 |
 | 59 | [Mirror, Mirror](https://open.spotify.com/track/1HYIkeqybKZM2QrkOBQcML) | [Abigail Barlow](https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu) | [Mirror, Mirror](https://open.spotify.com/album/1sifnBb5fKCS0o4fD9LCDg) | 1:54 |
 | 60 | [SPOOKED](https://open.spotify.com/track/5z7WYNGTHyrJEPweEuSotD) | [XTINA GG](https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril) | [SPOOKED](https://open.spotify.com/album/1QDMoJMquUqbvL6VmWKffu) | 2:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 69 | [Pretty Little Addict](https://open.spotify.com/track/5n59pNtDnIQeGj3EgLjqgP) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Pretty Little Addict](https://open.spotify.com/album/2WtrBqmfYs3OJlMnCPjoUS) | 2:47 |
 | 70 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
 
-Snapshot ID: `MCxmMThkZGYyYjgxYTRiNDgyOWI2YjliODkyNTQyOTU3MzllYjI3NzY5`
+Snapshot ID: `MCxhNDk3NWYxMGUyMDE2MjhlOTY5YzMzMGI3ZmQyMTU3MGU0NGEyNDE0`

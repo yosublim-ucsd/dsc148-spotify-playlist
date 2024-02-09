@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,658 likes - 72 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,659 likes - 72 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kura Kura](https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kura Kura](https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen) | 3:11 |
+| 1 | [クラクラ](https://open.spotify.com/track/7lcXrOj9HdsHFQfNNBR4XS) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:11 |
 | 2 | [めぐれ](https://open.spotify.com/track/0FJ4AAilywAVRuVEGXefCT) | [葉音](https://open.spotify.com/artist/5MkJ3ycBZl6A7sXr4AG5TD) | [めぐれ](https://open.spotify.com/album/2Xg8JgbL6tsAM8qd8edrEY) | 4:16 |
 | 3 | [TANK! \- Flix Mix](https://open.spotify.com/track/3FOLJJqtFaOqyvcGRv5B8f) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/539jKDvQomLMWGBEkjyTWX) | 2:08 |
 | 4 | [Lion](https://open.spotify.com/track/1ux8Y96cV5Qs0kdOCq4cZ2) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6), [Megumi Nakajima](https://open.spotify.com/artist/26ZuiIbHV0OGNX3EYsYeES) | [MACROSS FRONTIER Opening Theme Lion](https://open.spotify.com/album/36hcAxhOV7yBUdRquz4hj0) | 5:03 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 71 | [Ranka to Bobby no SMS Shoutai no Uta](https://open.spotify.com/track/4Z2UGK0tmXr4R0iUtQVh4X) | [Ranka Lee with Bobby Margo](https://open.spotify.com/artist/3zxmHKGd8fsi8XXYDaYgaK) | [MACROSS FRONTIER Ranka to Bobby no SMS Shoutai no Uta Nado.](https://open.spotify.com/album/09TpsQuLrcuECkeQaurAd3) | 1:00 |
 | 72 | [おてもやん](https://open.spotify.com/track/19kZmy3DQQxLbsHdAot5I6) | [Sayuri Ishikawa](https://open.spotify.com/artist/1tYbvS6Nkq4Rxvx8ZRTzJP) | [民 ～Tami～](https://open.spotify.com/album/7fOVjAaS7rqZFoVpyr6wZK) | 3:36 |
 
-Snapshot ID: `MCxkYzA3MjE0MGVkODUwMGQxMmMyNjQ3ZjQyYzdjYmM2MjE2NjhlZWZl`
+Snapshot ID: `MCxkOTJjODVlMWJlNGYxOTUwZWZkYjZlYmM5YTQ4NDBkOThmY2Q0NWY2`

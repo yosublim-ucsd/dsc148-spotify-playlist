@@ -2,9 +2,9 @@
 
 ### [Local Hype](https://open.spotify.com/playlist/37i9dQZF1DWUjxn1SsdJYZ)
 
-> The best drill, trap and genre bending rap from Australia and NZ\. Cover: 808Riot
+> The best drill, trap and genre bending rap from Australia and NZ\. Cover: Masi Rooc
 
-656 songs - 1 day 6 hr 34 min
+660 songs - 1 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [A Hoochie Tale](https://open.spotify.com/track/4WRPcEvn4VoajAwr0WmQmw) | [Tokyo Vendetta](https://open.spotify.com/artist/0qYhGiA7BARkaoJbklqLG7) | [A Hoochie Tale](https://open.spotify.com/album/45nkru8SAn2PqXy1Y6uWtq) | 2:46 | 2023-10-26 |  |
 | [ABGz](https://open.spotify.com/track/2UuCc79U1gMcK1koGAPH2N) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [FS Type Beats](https://open.spotify.com/album/2r0tKVKRCyof88kyiyFNUL) | 3:14 | 2022-05-01 | 2022-08-12 |
 | [AF1](https://open.spotify.com/track/41TCFuF8KNNcMSi0w8hU3k) | [Baby Lane](https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA), [OD](https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9) | [AF1](https://open.spotify.com/album/7wBBZY4zAjlFThctx2y4yY) | 2:47 | 2023-10-19 |  |
+| [af1 2.0](https://open.spotify.com/track/4tBAAUWP6gpdF3sMxGVvET) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [af1 2.0](https://open.spotify.com/album/22HwMRzge4xsM8Fv5ZPTOj) | 3:00 | 2024-02-08 |  |
 | [Against All Odds](https://open.spotify.com/track/6Lv3we4ylEG00UbHPLfYBC) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9) | [Against All Odds](https://open.spotify.com/album/5snGj1BTvW1WulJQbT31pi) | 2:38 | 2022-03-21 | 2022-08-12 |
 | [All Three Eyes](https://open.spotify.com/track/5ZYLuWpHYXDx5NYj21nHrd) | [Vida Sunshyne](https://open.spotify.com/artist/4HmDdowCSXsHMjXtbKS4FZ) | [All Three Eyes](https://open.spotify.com/album/7eLKNmCLp1dG8Mo11pW3Oi) | 2:32 | 2023-09-18 | 2023-11-24 |
 | [And We](https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [And We](https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W) | 2:41 | 2023-07-27 |  |
@@ -215,6 +216,7 @@
 | [FREESTYLE \(Notorious\)](https://open.spotify.com/track/1FAs9qJUhkaIegROPh79QM) | [DOU T](https://open.spotify.com/artist/4CbMyLAbcoQyZzLZozpK92) | [FREESTYLE \(Notorious\)](https://open.spotify.com/album/09tUlAFPfJziKIngl4XoSf) | 2:08 | 2022-06-09 | 2022-10-28 |
 | [FRENEMIES](https://open.spotify.com/track/2hwAugT0B9Xu7VGZnPh3Ur) | [Mac11](https://open.spotify.com/artist/2W3wMkNKFpC45vIpuFcjc0) | [PUBLIC ENEMY](https://open.spotify.com/album/55SIX2DV1xWxf5Qn3lPmrN) | 3:01 | 2022-04-14 | 2022-09-30 |
 | [FRIDAY](https://open.spotify.com/track/1qBbrjiU5ZWIA5NJUAV8b7) | [Th4 W3st](https://open.spotify.com/artist/49a6yPIQOQhPDL6e6d0hCB) | [FRIDAY](https://open.spotify.com/album/0zQvIfYMosxDoCVap48SkU) | 3:41 | 2022-03-21 | 2022-07-15 |
+| [FULL EFFECT](https://open.spotify.com/track/3cW9VuItRwuHILeeCsCZeJ) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [FULL EFFECT](https://open.spotify.com/album/0hB81fE583hZGbJ1V18cv9) | 2:15 | 2024-02-08 |  |
 | [FUSH AND CHIPS](https://open.spotify.com/track/39insgdUU1RB5CJZUdg8kE) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [FUSH AND CHIPS](https://open.spotify.com/album/5U438YMyYMa55plD5tdsM8) | 1:53 | 2022-12-15 | 2023-03-18 |
 | [G Like Me](https://open.spotify.com/track/41yG2gsOzmWIMs4yZghZSj) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej) | [G Like Me](https://open.spotify.com/album/3jtV7g2VYS2N4MctRQG5R3) | 2:42 | 2023-05-11 | 2023-10-06 |
 | [G\-WAGON \(feat\. Wombat\)](https://open.spotify.com/track/56A51DVwMTzuzdqDpiXx8O) | [Tbi$h](https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U), [Wombat](https://open.spotify.com/artist/001o475CIcdKHkvgKc9t8H) | [G\-WAGON \(feat\. Wombat\)](https://open.spotify.com/album/2ZocmqDOfpR1i9ZK27hpm3) | 3:10 | 2023-07-21 | 2023-11-03 |
@@ -237,6 +239,7 @@
 | [Godfather](https://open.spotify.com/track/0lVDR07FAYZDzwgR8YYXWQ) | [J Verse](https://open.spotify.com/artist/4HGo8l4MbcAYghnxg5kZmB) | [Godfather](https://open.spotify.com/album/2l3sShuabwGviFlkoqMliT) | 2:38 | 2023-12-14 |  |
 | [Going Back](https://open.spotify.com/track/1A2ZIRUtEVHHBj6ElsSysV) | [ENZO](https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe) | [Going Back](https://open.spotify.com/album/0NTtjYRlK8beG6UUsynAHP) | 2:26 | 2022-05-02 | 2022-11-11 |
 | [GOLDEN TAN](https://open.spotify.com/track/0BGpFyx94bloTixpSc2Fl3) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [GOLDEN TAN](https://open.spotify.com/album/0g1TUTFKhCXhjrbRVgD51W) | 2:16 | 2023-11-23 |  |
+| [Good Girls Stay At Home](https://open.spotify.com/track/4fB3fwk7cBaCVp6NWrMeWa) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Good Girls Stay At Home](https://open.spotify.com/album/07S9GQMxJywu4q14McF4zP) | 2:32 | 2024-02-08 |  |
 | [GOTTA GET IT](https://open.spotify.com/track/17NTiRYELek2oBy1O8itwV) | [Txmmy](https://open.spotify.com/artist/5grusMtV0pDYCTusPLrWM2) | [GOTTA GET IT](https://open.spotify.com/album/3PDam9SE8QxMjI5uqlLWiE) | 2:37 | 2022-07-28 | 2022-11-11 |
 | [GREEKo FREAKo](https://open.spotify.com/track/2PSChERR09PP6NXXIwmLOW) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm) | [GREEKo FREAKo](https://open.spotify.com/album/0Qm3bjooBoS38mEE6rQbN3) | 2:24 | 2022-08-11 | 2022-11-11 |
 | [Greenlight](https://open.spotify.com/track/39TuodfVE3fwcjbBL6JeDu) | [Kay\-M](https://open.spotify.com/artist/4E6NjZtPhoaV7n4SQ3FP58), [Hoodllandsz](https://open.spotify.com/artist/5mzjS8h7chFyWJFtA1HbcZ), [Kizza](https://open.spotify.com/artist/6nKaovPLk97FgrsrYMtxtG) | [Greenlight](https://open.spotify.com/album/68wWX5kWx8LfF0pdFQpQxS) | 2:41 | 2023-01-09 | 2023-02-24 |
@@ -536,6 +539,7 @@
 | [Smoke](https://open.spotify.com/track/2ibDEUmWjwdu7MfA0PfeeO) | [Ivan Ooze](https://open.spotify.com/artist/3ZIlpGT2OUwyvxiCWJhIel), [Yung Shogun](https://open.spotify.com/artist/36FoSt7DBnQar4gankr8t2) | [Smoke](https://open.spotify.com/album/3PFsfVM5QjIBKmr0AZHPVy) | 2:48 | 2023-06-29 | 2023-07-28 |
 | [SMOKE \(feat\. Jasiah\)](https://open.spotify.com/track/4NIKjGaP987XcVCQwm17eH) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [SMOKE \(feat\. Jasiah\)](https://open.spotify.com/album/59hgBzoddZgZ1NcZV5F1IF) | 2:16 | 2024-01-25 |  |
 | [Sneaky Link \(feat\. Hooks & Lisi\)](https://open.spotify.com/track/6mdexAmqt5bv08E3gem5ON) | [Colcci](https://open.spotify.com/artist/2lJOX4tJ4zpcLgZTNmHhTG), [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u), [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Sneaky Link \(feat\. Hooks & Lisi\)](https://open.spotify.com/album/0b87eEoV2PjgmVCQRmRdXJ) | 2:59 | 2022-05-19 | 2022-10-21 |
+| [Solid & Real](https://open.spotify.com/track/7K9hmxpLhsyppfdlVL7PXN) | [Sexton](https://open.spotify.com/artist/0k4gmF1Uhpyb8uCHz2fGU2) | [Solid & Real](https://open.spotify.com/album/3Gm4wxREElxLSFDmE4qA46) | 3:24 | 2024-02-08 |  |
 | [Solid Rock \(feat\. William Barton\)](https://open.spotify.com/track/1j1gXN6uHuzNkdqLQ9fPl6) | [Goanna](https://open.spotify.com/artist/4kmYEa0DFPDv2Opcpjv5el), [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1), [William Barton](https://open.spotify.com/artist/25p0odX5tWrZUfcgQNLXT2) | [Solid Rock \(feat\. William Barton\)](https://open.spotify.com/album/7kb4YUxaTwhZb97foUd1SU) | 3:52 | 2023-02-02 | 2023-04-21 |
 | [SOUTHSIDE DILLA](https://open.spotify.com/track/4ypmJ7f8TGY4cZzYn3YVyP) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [SOUTHSIDE DILLA](https://open.spotify.com/album/0GfTdUYEfSFuJ3Stc3LZQl) | 2:09 | 2023-10-19 |  |
 | [Spaceship](https://open.spotify.com/track/5PNLuATNp9KSGYIG7c1n0o) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [SMOOVE KILLA](https://open.spotify.com/album/0xbefplN6nQ5af0mMGHpXK) | 2:45 | 2023-03-23 | 2023-08-25 |

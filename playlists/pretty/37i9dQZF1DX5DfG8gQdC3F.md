@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from BADBADNOTGOOD, USHER, 24kGoldn, TALK and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,026 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,052 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 26 | [tell me](https://open.spotify.com/track/6CI16mxAWyzW1pMpCV4Qfw) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [tell me](https://open.spotify.com/album/2R3RQcOjyKQQUBb91Qv0bR) | 2:42 |
 | 27 | [Frank Miller \(Kill Again\)](https://open.spotify.com/track/7HZl2VrEC0wODesG5W5q0o) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Frank Miller \(Kill Again\) / I'm So Glad](https://open.spotify.com/album/39hIwDeKCBkErqbUJ7Q5pJ) | 2:11 |
 | 28 | [Point Em Out \(with DaBaby\)](https://open.spotify.com/track/1oaV97SzklGWVLi9LdW4Hf) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Point Em Out \(with DaBaby\)](https://open.spotify.com/album/4OokZs4MaEgyCHN35wJtew) | 2:13 |
-| 29 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 |
+| 29 | [I GOT YOU \(Original\)](https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 2:53 |
 | 30 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 |
 | 31 | [Beautiful Lie](https://open.spotify.com/track/6eibOwTf1aqlGP9rLA9cSz) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Beautiful Lie](https://open.spotify.com/album/5xiUKbfmVqDq5JGM7qVs8F) | 3:18 |
 | 32 | [Twerk It](https://open.spotify.com/track/6rLKyWvXsfslRtXZstg18p) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [I AM CHIPPY](https://open.spotify.com/album/3V4n0IbSDvg9v1RLzbwabT) | 2:46 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 74 | [T’étais où ?](https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [T’étais où ?](https://open.spotify.com/album/4YzgzJggoHU1azpDoUMMf5) | 3:41 |
 | 75 | [BULLSEYE](https://open.spotify.com/track/3OatXXexrQMaW6Hr3iQU4k) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [BULLSEYE](https://open.spotify.com/album/1BgDxKB8upXtUxGlNoUp57) | 3:36 |
 | 76 | [Emily](https://open.spotify.com/track/59emeHfChQT6Tekq9oxitd) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Emily](https://open.spotify.com/album/63f8W3p8wGIPv5x3izeTCd) | 3:57 |
-| 77 | [Try](https://open.spotify.com/track/0VA4DwyLGCpZWe71zoP5bh) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO), [SonReal](https://open.spotify.com/artist/22yqDoM2Rd7MGZ53Vanwgc) | [Try](https://open.spotify.com/album/1vNuIMAjHkJA5xhKvsGmqv) | 3:51 |
+| 77 | [Try](https://open.spotify.com/track/0VA4DwyLGCpZWe71zoP5bh) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO), [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [Try](https://open.spotify.com/album/1vNuIMAjHkJA5xhKvsGmqv) | 3:51 |
 | 78 | [Hated](https://open.spotify.com/track/0cJL0kn2i96yYwAklbGudP) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Hated](https://open.spotify.com/album/1kwvbU0CtOAFkzaug8szjI) | 3:09 |
 | 79 | [Next Time](https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Next Time](https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL) | 5:18 |
 | 80 | [Baby I Love You](https://open.spotify.com/track/0OZUOHveCKcJ0QDDA5NAfP) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Baby I Love You](https://open.spotify.com/album/0x1A7vjuUSkQUqMd0ziPrr) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [One Drink at a Time](https://open.spotify.com/track/7FhL2olVe7ddfcle92XTYe) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [One Drink at a Time](https://open.spotify.com/album/1jRfid8WhTJjVcTUCam1Ip) | 3:21 |
 | 100 | [OMG! \(Freestyle\)](https://open.spotify.com/track/7oLzEMNTnR9AC8ggvV5eGL) | [Shareef](https://open.spotify.com/artist/1JH0doF0KQYyUyRmiykBqi) | [OMG! \(Freestyle\)](https://open.spotify.com/album/3UoICZ03kjUEzA1iyOL75H) | 2:26 |
 
-Snapshot ID: `MCw1NWE0NmU0ODY5NTUzZGMyNmY4NWZmNGM2YmRiYjlhMWZhZDVkOTY2`
+Snapshot ID: `MCxhZWNlM2NjMzg5YTZiMDlmYzBlOWE3ZDM1ZTZkY2M2ZDc3NDM2ZDNl`

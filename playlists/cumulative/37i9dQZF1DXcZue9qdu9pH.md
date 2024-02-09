@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-68 songs - 3 hr 56 min
+70 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Diani](https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX), [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H) | [Diani](https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu) | 3:00 | 2023-12-15 |  |
 | [Dream Awake](https://open.spotify.com/track/7M5R2ZlSmpqDsCJfulhN6Z) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Sun & Moon](https://open.spotify.com/album/6f22BsAjuWxAKdEbJCuQ6X) | 4:28 | 2023-06-30 |  |
 | [Enemy](https://open.spotify.com/track/6F5eJTix3ms5lvH71omyS3) | [TornPockets](https://open.spotify.com/artist/6pUEc7BVEFA6b6hUw4RMxA), [ach13ng'](https://open.spotify.com/artist/7nXNiHraAkhLlIMCFaBGc0) | [Enemy](https://open.spotify.com/album/2RgIw1IxjLtEn4U9YGoSNF) | 3:31 | 2023-06-30 |  |
+| [Eyes Kubwa](https://open.spotify.com/track/28zuGbSlhWOAqnh6NQYCsE) | [Nah Eeto](https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV), [Sumgii](https://open.spotify.com/artist/2Qvj1it0OQswQ4zu836oWw) | [Eyes Kubwa](https://open.spotify.com/album/0OzxUgftqnlSp7RmWDj0cC) | 4:11 | 2024-02-08 |  |
 | [Faith](https://open.spotify.com/track/5XyjPieJxZ3nkaAYotAQ2r) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Few & Far Between](https://open.spotify.com/album/1TsOQ7nu8nuEPYTZ3Xx6qK) | 3:33 | 2023-12-15 |  |
 | [Faith](https://open.spotify.com/track/7412Sp0DWo9Sc70hidP1jw) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Few & Far Between](https://open.spotify.com/album/0Jiq0Tpj8SN3rsMhe52RKp) | 3:33 | 2023-11-10 | 2023-12-24 |
 | [Find Your Way \- Acoustic](https://open.spotify.com/track/2dE4C4x6itFc1Lxops4Hgy) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Presha \(Acoustic\)](https://open.spotify.com/album/3tXc0EcWrNJIWMQMSz8bF6) | 3:39 | 2023-06-30 | 2023-09-02 |
@@ -48,7 +49,7 @@
 | [Pineapple Drink](https://open.spotify.com/track/3EiV7BXmyIEJbUYpulc7Kj) | [Ras Amor](https://open.spotify.com/artist/196LafXHcjwZnGudGOtcA4), [Katelyn Skye](https://open.spotify.com/artist/32GN439n6P2c3lwfWJMYi2) | [The Lost Tapes](https://open.spotify.com/album/5gKtx3nrdXfYNrZPI4b42h) | 3:04 | 2023-06-30 |  |
 | [Playing With Fire](https://open.spotify.com/track/13ampMIuI5NynkDnUa4CGe) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn), [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5) | [Playing With Fire](https://open.spotify.com/album/1tNjqUWWiP4BCd6JotQMEo) | 3:51 | 2023-09-01 |  |
 | [Presha](https://open.spotify.com/track/1OelLLNoOJNYnukzOPYSct) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Presha](https://open.spotify.com/album/5QlAwtL0kaP0JPEe93PN4A) | 2:56 | 2023-06-30 |  |
-| [Round and Round](https://open.spotify.com/track/6dUfGg8LPOTtsGNDY4q8hT) | [Tetu Shani](https://open.spotify.com/artist/4PATOXrnfnClxoIKMoRSHG) | [Round and Round](https://open.spotify.com/album/5BqzrvY0FQ2n3JT4zu7mgK) | 4:29 | 2023-06-30 |  |
+| [Round and Round](https://open.spotify.com/track/6dUfGg8LPOTtsGNDY4q8hT) | [Tetu Shani](https://open.spotify.com/artist/4PATOXrnfnClxoIKMoRSHG) | [Round and Round](https://open.spotify.com/album/5BqzrvY0FQ2n3JT4zu7mgK) | 4:29 | 2023-06-30 | 2024-02-09 |
 | [Run](https://open.spotify.com/track/4pHXSEahOasITwRbwWePta) | [Gathuru Gitema](https://open.spotify.com/artist/0KkdhbWTLEsThAKdRuwZt1) | [Run](https://open.spotify.com/album/3jtUo5zpNxH0Rom0xR0dXX) | 4:11 | 2023-06-30 |  |
 | [Runaway](https://open.spotify.com/track/3T6SSkt8wFNAbRXr059GEL) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Why Am I](https://open.spotify.com/album/0UpzcwYzTv2bexQrNwboyh) | 4:00 | 2023-06-30 |  |
 | [s\_t\_h](https://open.spotify.com/track/6Psl0ZE8kSih75nrk0D97m) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [The Universe is Holding You](https://open.spotify.com/album/3EoCnLU9v6MkcoQsplFecN) | 3:32 | 2023-06-30 |  |
@@ -73,7 +74,8 @@
 | [Tugi Track](https://open.spotify.com/track/3oTCklg2zTuc2DuKaVsORp) | [Kelele Kollektiv](https://open.spotify.com/artist/09FoPL4eU26Morxu4yPkzl) | [Kelele, Vol\. 1](https://open.spotify.com/album/0fawT8nfXczFQ8b3DcOgNk) | 4:53 | 2023-06-30 | 2023-11-11 |
 | [UCHUMI NI MBAYA](https://open.spotify.com/track/6DXRuErErntN421fotfSY4) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [UCHUMI NI MBAYA](https://open.spotify.com/album/5tqDC86E1wrPERlqZMO2Rn) | 2:33 | 2023-06-30 |  |
 | [Unga](https://open.spotify.com/track/31wcbX1ryS3piaC3FN4oZI) | [Michelle Gatuiku](https://open.spotify.com/artist/04KS7CODE7DDZ3VvgRrbiT) | [Unga](https://open.spotify.com/album/5ZzEvegnSkHHKseHWJBk1G) | 3:34 | 2023-06-30 |  |
-| [Wanting You](https://open.spotify.com/track/7hmU5Fney0C23kqklkXeHt) | [Ondi](https://open.spotify.com/artist/0Kmrssj2JXxBoJ6W2MlW63) | [Tangawizi](https://open.spotify.com/album/5P2OgT54MbjstTwfl6nw27) | 4:59 | 2023-06-30 |  |
+| [Uwanja wa Mchezo \(Pieces of Me\)](https://open.spotify.com/track/5Z8CRMyENwmwn82JXS7Ffj) | [Le'Laika](https://open.spotify.com/artist/21wMFiTF8hZHW1ZM2XE6Ul), [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl) | [Uwanja wa Mchezo \(Pieces of Me\)](https://open.spotify.com/album/1uSU3Vj8y76b2KnbYg9Rw5) | 2:57 | 2024-02-08 |  |
+| [Wanting You](https://open.spotify.com/track/7hmU5Fney0C23kqklkXeHt) | [Ondi](https://open.spotify.com/artist/0Kmrssj2JXxBoJ6W2MlW63) | [Tangawizi](https://open.spotify.com/album/5P2OgT54MbjstTwfl6nw27) | 4:59 | 2023-06-30 | 2024-02-09 |
 | [Would You Mind](https://open.spotify.com/track/0GdY20C8oDprKmrIwDeNNc) | [Ondi](https://open.spotify.com/artist/0Kmrssj2JXxBoJ6W2MlW63) | [Tangawizi](https://open.spotify.com/album/5P2OgT54MbjstTwfl6nw27) | 3:42 | 2023-06-30 |  |
 | [Your Turn](https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Your Turn](https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e) | 3:54 | 2023-06-30 |  |
 

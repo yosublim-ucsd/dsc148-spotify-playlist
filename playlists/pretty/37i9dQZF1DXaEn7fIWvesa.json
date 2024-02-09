@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Chacal en portada.",
-  "num_followers": 6323,
+  "num_followers": 6346,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzBkZGNkYTgwYWI3NTc4ZmIyZTZjMjY5Mjk0YzAwYWM5MjgyMjQ2",
+  "snapshot_id": "MCw1MTI4MmYxZmFiZDYyYjhjYmFkMDdlOTNjOGFlZjE1MTNjOTdkZTZk",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -447,30 +447,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Agua Noche Remix",
-        "url": "https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM"
+        "name": "The Hits Kings",
+        "url": "https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH"
       },
       "artists": [
         {
-          "name": "Yulien Oviedo",
-          "url": "https://open.spotify.com/artist/0AglxiiP1X55pczgFkgdC4"
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
         },
         {
-          "name": "Fixty Ordara y Ja Rulay",
-          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
-        },
-        {
-          "name": "Ja Rulay",
-          "url": "https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV"
-        },
-        {
-          "name": "Fixty Ordara",
-          "url": "https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E"
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
         }
       ],
-      "duration_ms": 238269,
-      "name": "Agua Noche Remix",
-      "url": "https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9"
+      "duration_ms": 183131,
+      "name": "Ganas de Ti",
+      "url": "https://open.spotify.com/track/6mzR2nbLrfzNw3BQ3puq4D"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -523,22 +515,30 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "The Hits Kings",
-        "url": "https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH"
+        "name": "Agua Noche Remix",
+        "url": "https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM"
       },
       "artists": [
         {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+          "name": "Yulien Oviedo",
+          "url": "https://open.spotify.com/artist/0AglxiiP1X55pczgFkgdC4"
         },
         {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+          "name": "Fixty Ordara y Ja Rulay",
+          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
+        },
+        {
+          "name": "Ja Rulay",
+          "url": "https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV"
+        },
+        {
+          "name": "Fixty Ordara",
+          "url": "https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E"
         }
       ],
-      "duration_ms": 183131,
-      "name": "Ganas de Ti",
-      "url": "https://open.spotify.com/track/6mzR2nbLrfzNw3BQ3puq4D"
+      "duration_ms": 238269,
+      "name": "Agua Noche Remix",
+      "url": "https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9"
     },
     {
       "added_at": "2024-01-26 05:00:00",

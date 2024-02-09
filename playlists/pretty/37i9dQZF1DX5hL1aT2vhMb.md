@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Olivia Belli
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,175 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,189 likes - 75 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 | 72 | [Serenade in D Major: II\. Scherzo\. Allegro vivace](https://open.spotify.com/track/5NxgXaEt0t2K7sYvVo7q1u) | [Dame Ethel Smyth](https://open.spotify.com/artist/0x6hX5r8QJdP9dAbKx3Ck9), [Odaline de la Martinez](https://open.spotify.com/artist/1fQgbE1iYZ2CsTbxXS2TlA), [BBC Philharmonic](https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X) | [Smyth: Orchestral Works](https://open.spotify.com/album/1H1JR9BAkm4HvpKyYBBHU9) | 6:09 |
 | 73 | [String Quartet No\. 1 in D Minor: III\. Adagio](https://open.spotify.com/track/3gmhJL9nKwiJp12nxY1D9z) | [Nancy Dalberg](https://open.spotify.com/artist/5c2fprcH1JdoFaXY6zT7kI), [Nordic String Quartet](https://open.spotify.com/artist/2JvNhy3OMHR6sQHcyo7ZRy), [Heiðrun Petersen](https://open.spotify.com/artist/3yD36ftSK7YH9HfAImzHLU), [Mads Haugsted Hansen](https://open.spotify.com/artist/180DAQhaCXmtjLV1PAPDLn), [Daniel Eklund](https://open.spotify.com/artist/6D9wDsJ8G3mdSfko0WoQ30), [Lea Emilie Brøndal](https://open.spotify.com/artist/7yMoeaCfiaQmKR1FEA6V2v) | [Dalberg: The String Quartets](https://open.spotify.com/album/64S47XzarMQWJ3HWRI6hkG) | 5:36 |
 | 74 | [Twelve Preludes For Piano \(1953\): I](https://open.spotify.com/track/0WSWXSsIoIRe0grvGTE43T) | [Galina Ustvolskaya](https://open.spotify.com/artist/43FqjuAdZNLw8BKi4YPJt6), [Marianne Schroeder](https://open.spotify.com/artist/59bnSGgBPFGzTZjYQNdKrA) | [Galina Ustvolskaya: 2](https://open.spotify.com/album/4lBE0md9NuXIiS6XmB7NjI) | 2:56 |
-| 75 | [Vespers for a New Dark Age: I\. Wayward Free Radical Dreams](https://open.spotify.com/track/7s4rXsF2uAeechqkvLrwK6) | [Missy Mazzoli](https://open.spotify.com/artist/61O7PTMoyars8V5kcaYov4), [Victoire](https://open.spotify.com/artist/7K9iFURUa9rPbdlX3WLfQW), [Glenn Kotche](https://open.spotify.com/artist/6upBn4tokWBDF9diqbYJZs), [Lorna Dune](https://open.spotify.com/artist/4kqHmnvE50ZrmByhpLktXU) | [Missy Mazzoli: Vespers for a New Dark Age](https://open.spotify.com/album/0j7PNuSnzWiX6edoVzVfL2) | 5:13 |
+| 75 | [Vespers for a New Dark Age: I\. Wayward Free Radical Dreams](https://open.spotify.com/track/7b6xE7t521ODKENgiXLNrC) | [Missy Mazzoli](https://open.spotify.com/artist/61O7PTMoyars8V5kcaYov4), [Victoire](https://open.spotify.com/artist/7K9iFURUa9rPbdlX3WLfQW), [Glenn Kotche](https://open.spotify.com/artist/6upBn4tokWBDF9diqbYJZs) | [Missy Mazzoli: Vespers for a New Dark Age](https://open.spotify.com/album/2KUhXIGILGNUQ68zCs3Ht1) | 5:13 |
 
-Snapshot ID: `MCw2YzQyMjk2MmM5YjJlZGEwMzU2ZmJkNjM2NjIzM2ZiODZjYzU5MzZh`
+Snapshot ID: `MCw1Y2ZhN2UzMGEwZjcxZGFjNTMwMmNkN2QzMGY5Y2Q3MjlmYWI5MTBi`

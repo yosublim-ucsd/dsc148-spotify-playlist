@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=oxVRZqtmRIKOC2d2p86sXw\"> Maandy</a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap?si=8dd7iGMpSI2p1AsOuMGCyA\"> Savara</a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -801,6 +801,28 @@
     },
     {
       "album": {
+        "name": "Blue Ticks",
+        "url": "https://open.spotify.com/album/7yUN9QojYlTRScLSQdSHfA"
+      },
+      "artists": [
+        {
+          "name": "Joefes",
+          "url": "https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318"
+        },
+        {
+          "name": "Unspoken Salaton",
+          "url": "https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Blue Ticks",
+      "url": "https://open.spotify.com/track/7FPdxcLYkwlHLgCSYNlLsT"
+    },
+    {
+      "album": {
         "name": "Blueticks",
         "url": "https://open.spotify.com/album/4PZ32ERekuiOH4K0QyPyG5"
       },
@@ -1090,6 +1112,28 @@
       "duration_ms": 165407,
       "name": "CAPITAL",
       "url": "https://open.spotify.com/track/5KbKAM16Hc1V5U3viBVZyr"
+    },
+    {
+      "album": {
+        "name": "Chachisha",
+        "url": "https://open.spotify.com/album/7wHBVQUeOi5P5a0l5AYAAw"
+      },
+      "artists": [
+        {
+          "name": "Kaa La Moto",
+          "url": "https://open.spotify.com/artist/7jvdp7S94qyfvChivF4ua9"
+        },
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183535,
+      "name": "Chachisha",
+      "url": "https://open.spotify.com/track/0VJorjvhUSRFmLTMJtUX3W"
     },
     {
       "album": {
@@ -3914,7 +3958,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 210350,
       "name": "Matime",
       "url": "https://open.spotify.com/track/451PAVNFC26WxDS8zKS7as"
@@ -3954,7 +3998,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 234947,
       "name": "Matokeo",
       "url": "https://open.spotify.com/track/1fcist535HjFco6ntIxKEH"
@@ -4210,7 +4254,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 156225,
       "name": "Mother In Law",
       "url": "https://open.spotify.com/track/0YnRiJ6vElTXerNKSjt5Fu"
@@ -5204,6 +5248,32 @@
       "duration_ms": 169644,
       "name": "Pandemik",
       "url": "https://open.spotify.com/track/4brFh0GOyGxdh6qfUDOpGK"
+    },
+    {
+      "album": {
+        "name": "Parapanda",
+        "url": "https://open.spotify.com/album/5KfKwpJ5q5NkZoCzPiESJq"
+      },
+      "artists": [
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Wakadinali",
+          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216113,
+      "name": "Parapanda",
+      "url": "https://open.spotify.com/track/7bdXLS6siHEqbFG5krd6oI"
     },
     {
       "album": {

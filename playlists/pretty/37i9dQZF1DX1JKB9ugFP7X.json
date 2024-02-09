@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23870,
+  "num_followers": 23872,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjliYjU4MjZiNWVmZTIxNTdjZTQxMjgyNjdmNTE1MDBkNmEyNmVh",
+  "snapshot_id": "MCw4ZWRkYjYxYmY4NGMxYTJjZGQxYzU4ZTQ4YzQxZWNhNmVmYzgzYjMz",
   "tracks": [
     {
       "added_at": "2024-02-02 03:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Trinchera Avanzada",
-        "url": "https://open.spotify.com/album/7g8RJEDSBDwG7Xz3s0ncq1"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 167420,
-      "name": "Cicatriz #23",
-      "url": "https://open.spotify.com/track/34u0T0mr5tTAOG8olordHY"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Nico Valdi produciendo a Ruggero y Bernardita",
         "url": "https://open.spotify.com/album/33ekTyVf1xcrbvEof3WClm"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 163124,
       "name": "Nico Valdi produciendo a Ruggero y Bernardita",
       "url": "https://open.spotify.com/track/08S5L7YbAGwNxDJJ9yU9ZK"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Trinchera Avanzada",
+        "url": "https://open.spotify.com/album/7g8RJEDSBDwG7Xz3s0ncq1"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 167420,
+      "name": "Cicatriz #23",
+      "url": "https://open.spotify.com/track/34u0T0mr5tTAOG8olordHY"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "2 Son 3",
+        "url": "https://open.spotify.com/album/2cUzWOspLcV5jj7lBuO51G"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 165455,
+      "name": "2 Son 3",
+      "url": "https://open.spotify.com/track/4kxj9KZS04HYOdJOgawFTT"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Bye Bye (Juan Hansen Remix)",
         "url": "https://open.spotify.com/album/2midg6u0xxE7KBnTCNqT98"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 367131,
       "name": "Bye Bye - Juan Hansen Remix",
       "url": "https://open.spotify.com/track/7CKu9iA2e0tCjd1Qw7s8dX"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "2 Son 3",
-        "url": "https://open.spotify.com/album/2cUzWOspLcV5jj7lBuO51G"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 165455,
-      "name": "2 Son 3",
-      "url": "https://open.spotify.com/track/4kxj9KZS04HYOdJOgawFTT"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "MOTIVEISHON",
+        "url": "https://open.spotify.com/album/0g59CBu6GWWJO8QGWS2uhD"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 158035,
+      "name": "MOTIVEISHON",
+      "url": "https://open.spotify.com/track/35bxOftuO0ljnk35fJCbCY"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "ACUARIO",
         "url": "https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr"
       },
@@ -615,26 +631,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Dejarte Estar (Pyura Remix)",
-        "url": "https://open.spotify.com/album/12S0HzVMapdyKJ7WCkevpD"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        },
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        }
-      ],
-      "duration_ms": 175804,
-      "name": "Dejarte Estar (Pyura Remix)",
-      "url": "https://open.spotify.com/track/4HdaqE9B6ljQefhcVMy2bo"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "PARA AFUERA",
         "url": "https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9"
       },
@@ -655,18 +651,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "MOTIVEISHON",
-        "url": "https://open.spotify.com/album/0g59CBu6GWWJO8QGWS2uhD"
+        "name": "Dejarte Estar (Pyura Remix)",
+        "url": "https://open.spotify.com/album/12S0HzVMapdyKJ7WCkevpD"
       },
       "artists": [
         {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        },
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
         }
       ],
-      "duration_ms": 158035,
-      "name": "MOTIVEISHON",
-      "url": "https://open.spotify.com/track/35bxOftuO0ljnk35fJCbCY"
+      "duration_ms": 175804,
+      "name": "Dejarte Estar (Pyura Remix)",
+      "url": "https://open.spotify.com/track/4HdaqE9B6ljQefhcVMy2bo"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Delfines",
-        "url": "https://open.spotify.com/album/2wBW2z26H62mqXz6CA5eJL"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Guzm\u00e1n",
-          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
-        }
-      ],
-      "duration_ms": 278274,
-      "name": "Delfines",
-      "url": "https://open.spotify.com/track/5LqVs6hiodD5YXRGV5rNzc"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Desaparecer",
         "url": "https://open.spotify.com/album/0yuO4ugzCbvXyyJLSfLHqh"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 260000,
       "name": "Desaparecer",
       "url": "https://open.spotify.com/track/1mbA8WPUU8vUQzjyULTTCd"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Delfines",
+        "url": "https://open.spotify.com/album/2wBW2z26H62mqXz6CA5eJL"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Guzm\u00e1n",
+          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
+        }
+      ],
+      "duration_ms": 278274,
+      "name": "Delfines",
+      "url": "https://open.spotify.com/track/5LqVs6hiodD5YXRGV5rNzc"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Postal",
-        "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        }
-      ],
-      "duration_ms": 210002,
-      "name": "TODO LO QUE HICIMOS.",
-      "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Bajo Cero",
         "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
       },
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Postal",
+        "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        }
+      ],
+      "duration_ms": 210002,
+      "name": "TODO LO QUE HICIMOS.",
+      "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Chicos de la Luz",
         "url": "https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe"
       },
@@ -1219,26 +1219,6 @@
       "duration_ms": 279600,
       "name": "Caribbean",
       "url": "https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Poncholandia",
-        "url": "https://open.spotify.com/album/7IY4JeLJedz5xyMDi0gfzW"
-      },
-      "artists": [
-        {
-          "name": "Poncho",
-          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
-        },
-        {
-          "name": "Karina Vismara",
-          "url": "https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Sola por la Ciudad",
-      "url": "https://open.spotify.com/track/1UH3xWxB8T2kTZlg37tfFs"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1259,6 +1239,26 @@
       "duration_ms": 201706,
       "name": "blablablablabla",
       "url": "https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Poncholandia",
+        "url": "https://open.spotify.com/album/7IY4JeLJedz5xyMDi0gfzW"
+      },
+      "artists": [
+        {
+          "name": "Poncho",
+          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
+        },
+        {
+          "name": "Karina Vismara",
+          "url": "https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Sola por la Ciudad",
+      "url": "https://open.spotify.com/track/1UH3xWxB8T2kTZlg37tfFs"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Cuando Se Apague Todo",
-        "url": "https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        },
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        }
-      ],
-      "duration_ms": 228443,
-      "name": "Cuando Se Apague Todo",
-      "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "SHAMPOO",
         "url": "https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 448000,
       "name": "No Van a Parar - Remix",
       "url": "https://open.spotify.com/track/3zY3SqG8uQdD2zhNQi98NY"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Cuando Se Apague Todo",
+        "url": "https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        }
+      ],
+      "duration_ms": 228443,
+      "name": "Cuando Se Apague Todo",
+      "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "MA\u00d1ANA ES PEOR :(",
+        "url": "https://open.spotify.com/album/3QT37bIN5jVM4cZ0MgHeGd"
+      },
+      "artists": [
+        {
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
+        }
+      ],
+      "duration_ms": 225746,
+      "name": "PARQUE DE LA COSTA",
+      "url": "https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Trampa",
         "url": "https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 183500,
       "name": "Trampa",
       "url": "https://open.spotify.com/track/24fcNlKEIRBrKvVk1OYCiM"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "MA\u00d1ANA ES PEOR :(",
-        "url": "https://open.spotify.com/album/3QT37bIN5jVM4cZ0MgHeGd"
-      },
-      "artists": [
-        {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
-        }
-      ],
-      "duration_ms": 225746,
-      "name": "PARQUE DE LA COSTA",
-      "url": "https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT"
-      },
-      "artists": [
-        {
-          "name": "ZEBRA 93",
-          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
-        }
-      ],
-      "duration_ms": 226464,
-      "name": "M\u00edstico Mezcal",
-      "url": "https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Formas",
         "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 213018,
       "name": "Housie",
       "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT"
+      },
+      "artists": [
+        {
+          "name": "ZEBRA 93",
+          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
+        }
+      ],
+      "duration_ms": 226464,
+      "name": "M\u00edstico Mezcal",
+      "url": "https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Lucidez",
-        "url": "https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD"
+        "name": "Guazatumba",
+        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
       },
       "artists": [
         {
-          "name": "Antonia Navarro",
-          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
         }
       ],
-      "duration_ms": 371735,
-      "name": "Lucidez",
-      "url": "https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8"
+      "duration_ms": 229726,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
     }
   ],
   "unique_name": "ElectroPop",

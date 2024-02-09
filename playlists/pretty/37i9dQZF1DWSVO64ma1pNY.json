@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296565,
+  "num_followers": 296564,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmViYTBhZDJjMWViMTc4NjJhNWM0MzQ0NWYwOTU3MmVhMGFkMWJh",
+  "snapshot_id": "MCxjMjFjYmVmYTFmMDM4MGE1NGYzZjRlMjFiODViMzMzYWE3YzNkMWM4",
   "tracks": [
     {
       "added_at": "2024-01-23 13:23:45",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Scars & Souvenirs (Special Edition)",
-        "url": "https://open.spotify.com/album/2d4tYx2ulDP1Kgudxsrs7B"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "Bad Girlfriend",
-      "url": "https://open.spotify.com/track/5m7on0zpnmeAXy72ANrmfU"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "Take Off Your Pants And Jacket",
         "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 227200,
       "name": "Anthem Part Two",
       "url": "https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
+        "name": "Scars & Souvenirs (Special Edition)",
+        "url": "https://open.spotify.com/album/2d4tYx2ulDP1Kgudxsrs7B"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Bad Girlfriend",
+      "url": "https://open.spotify.com/track/5m7on0zpnmeAXy72ANrmfU"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "The Battle Of Los Angeles",
-        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Testify",
-      "url": "https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "The Heroin Diaries Soundtrack",
         "url": "https://open.spotify.com/album/2sHrTFehGvpj3sLoZn9ZBy"
       },
@@ -435,18 +419,18 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Overcome",
-        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
+        "name": "The Battle Of Los Angeles",
+        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
         }
       ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
+      "duration_ms": 210133,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -463,6 +447,22 @@
       "duration_ms": 218560,
       "name": "Face to the Floor",
       "url": "https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
+        "name": "Seal The Deal & Let's Boogie",
+        "url": "https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 238653,
+      "name": "The Devil's Bleeding Crown",
+      "url": "https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
         "name": "Contraband",
         "url": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 248306,
       "name": "Slither",
       "url": "https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
-        "name": "Without You I'm Nothing",
-        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 254760,
-      "name": "Pure Morning",
-      "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -563,18 +563,18 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Seal The Deal & Let's Boogie",
-        "url": "https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI"
+        "name": "Without You I'm Nothing",
+        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
       },
       "artists": [
         {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
         }
       ],
-      "duration_ms": 238653,
-      "name": "The Devil's Bleeding Crown",
-      "url": "https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ"
+      "duration_ms": 254760,
+      "name": "Pure Morning",
+      "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Revelations",
-        "url": "https://open.spotify.com/album/6Ys6uRTMti54CH8VEo2xEt"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/53Qn747V1G16yJvN363RZA"
       },
       "artists": [
         {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
         }
       ],
-      "duration_ms": 252106,
-      "name": "Revelations",
-      "url": "https://open.spotify.com/track/22wnEMAQaNrbot1dwmeucH"
+      "duration_ms": 209542,
+      "name": "Skeletons",
+      "url": "https://open.spotify.com/track/3xxM2OEHAAYnpr2KiPdW4B"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/53Qn747V1G16yJvN363RZA"
+        "name": "Revelations",
+        "url": "https://open.spotify.com/album/6Ys6uRTMti54CH8VEo2xEt"
       },
       "artists": [
         {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
         }
       ],
-      "duration_ms": 209542,
-      "name": "Skeletons",
-      "url": "https://open.spotify.com/track/3xxM2OEHAAYnpr2KiPdW4B"
+      "duration_ms": 252106,
+      "name": "Revelations",
+      "url": "https://open.spotify.com/track/22wnEMAQaNrbot1dwmeucH"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Head Up",
-        "url": "https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc"
+        "name": "Happiness is an Inside Job",
+        "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
       },
       "artists": [
         {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
         }
       ],
-      "duration_ms": 169977,
-      "name": "Head Up",
-      "url": "https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG"
+      "duration_ms": 187460,
+      "name": "Love Abuser (Save Me)",
+      "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Happiness is an Inside Job",
-        "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
+        "name": "Head Up",
+        "url": "https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc"
       },
       "artists": [
         {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
         }
       ],
-      "duration_ms": 187460,
-      "name": "Love Abuser (Save Me)",
-      "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
+      "duration_ms": 169977,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Times Like These",
-        "url": "https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 209976,
-      "name": "Times Like These",
-      "url": "https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "Ours Is Chrome",
         "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 244358,
       "name": "Next To Nothing",
       "url": "https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
+        "name": "Times Like These",
+        "url": "https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 209976,
+      "name": "Times Like These",
+      "url": "https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Never Ending Moment",
-        "url": "https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW"
-      },
-      "artists": [
-        {
-          "name": "Des Rocs",
-          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
-        }
-      ],
-      "duration_ms": 257946,
-      "name": "Never Ending Moment",
-      "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "Here's What You Could Have Won",
         "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 218400,
       "name": "New England",
       "url": "https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
+        "name": "Never Ending Moment",
+        "url": "https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "duration_ms": 257946,
+      "name": "Never Ending Moment",
+      "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"
     },
     {
       "added_at": "2024-01-23 13:23:45",

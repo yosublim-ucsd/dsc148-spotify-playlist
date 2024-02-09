@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 351759,
+  "num_followers": 351834,
   "original_name": "Energy Booster: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2JjOTcwYTY2NWNkMWFiYWFjOGY3NTM3MTcxYTRkYzkyMDkzZGNk",
+  "snapshot_id": "MCw2YzcxZjYyMThlZDNmNjc2M2Q2YWEzNTdlNTVmMjY2NDZjZjZhZTM3",
   "tracks": [
     {
       "added_at": "2024-01-23 11:07:19",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-01-23 11:07:19",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 200146,
-      "name": "I Am Machine",
-      "url": "https://open.spotify.com/track/2UDumaw7osnyjH7RZ2DLpB"
-    },
-    {
-      "added_at": "2024-01-23 11:07:19",
-      "album": {
         "name": "Crooked Teeth",
         "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 214797,
       "name": "Help",
       "url": "https://open.spotify.com/track/0IbiFpXPFpvCAIs9WMX5wC"
+    },
+    {
+      "added_at": "2024-01-23 11:07:19",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "I Am Machine",
+      "url": "https://open.spotify.com/track/2UDumaw7osnyjH7RZ2DLpB"
     },
     {
       "added_at": "2024-01-23 11:07:19",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-01-23 11:07:19",
       "album": {
+        "name": "Moral Panic",
+        "url": "https://open.spotify.com/album/6afyaK8ihj33Chr7A7LqNI"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 237645,
+      "name": "Is Everybody Going Crazy?",
+      "url": "https://open.spotify.com/track/75yY1Ghs6E32WC4kSikXRJ"
+    },
+    {
+      "added_at": "2024-01-23 11:07:19",
+      "album": {
         "name": "Veni Vidi Vicious",
         "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
       },
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2024-01-23 11:07:19",
       "album": {
-        "name": "Moral Panic",
-        "url": "https://open.spotify.com/album/6afyaK8ihj33Chr7A7LqNI"
+        "name": "The Reason (20th Anniversary)",
+        "url": "https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
         }
       ],
-      "duration_ms": 237645,
-      "name": "Is Everybody Going Crazy?",
-      "url": "https://open.spotify.com/track/75yY1Ghs6E32WC4kSikXRJ"
+      "duration_ms": 162106,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/166u1Cs46FmXoOaTGxh8aB"
     },
     {
       "added_at": "2024-01-23 11:07:19",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2024-01-23 11:07:19",
       "album": {
-        "name": "The Reason (20th Anniversary)",
-        "url": "https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8"
-      },
-      "artists": [
-        {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/166u1Cs46FmXoOaTGxh8aB"
-    },
-    {
-      "added_at": "2024-01-23 11:07:19",
-      "album": {
         "name": "Phobia (Explicit Version)",
         "url": "https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c"
       },
@@ -1307,22 +1307,6 @@
       "duration_ms": 199253,
       "name": "Why Worry",
       "url": "https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F"
-    },
-    {
-      "added_at": "2024-01-23 11:07:19",
-      "album": {
-        "name": "Royal Blood",
-        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 183602,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
     },
     {
       "added_at": "2024-01-23 11:07:19",
@@ -1387,6 +1371,22 @@
       "duration_ms": 320626,
       "name": "Down Rodeo",
       "url": "https://open.spotify.com/track/40L8L7344pPMCjlZc19RQU"
+    },
+    {
+      "added_at": "2024-01-23 11:07:19",
+      "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 183602,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
     },
     {
       "added_at": "2024-01-23 11:07:19",

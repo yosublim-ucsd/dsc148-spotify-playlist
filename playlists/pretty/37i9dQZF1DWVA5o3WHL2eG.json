@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: ana\u00efs",
-  "num_followers": 33027,
+  "num_followers": 33030,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGRlMDhmNzM1NGI4YmU3MWYyNGJkNGE2NThmMDY1YzU4MTY4Y2Fi",
+  "snapshot_id": "MCwzM2M0YjI0Y2Q3NmEwM2U4NjQ3Y2NkNWViOTBhNTFkMmNjYWIxYzRm",
   "tracks": [
     {
       "added_at": "2024-02-07 10:53:25",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-02-07 10:53:25",
       "album": {
-        "name": "BAUM",
-        "url": "https://open.spotify.com/album/4JGG9900H46EBP4vR0GYyI"
-      },
-      "artists": [
-        {
-          "name": "Mine",
-          "url": "https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ"
-        }
-      ],
-      "duration_ms": 188489,
-      "name": "BAUM",
-      "url": "https://open.spotify.com/track/4fH8xERQuzAh1pfn5ZEQkS"
-    },
-    {
-      "added_at": "2024-02-07 10:53:25",
-      "album": {
         "name": "Unterwegs",
         "url": "https://open.spotify.com/album/0YLHd9ODNz4Ym6s0puZhZm"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 180689,
       "name": "Unterwegs",
       "url": "https://open.spotify.com/track/2IXYCofJeVgh5r2y0JXOMN"
+    },
+    {
+      "added_at": "2024-02-07 10:53:25",
+      "album": {
+        "name": "BAUM",
+        "url": "https://open.spotify.com/album/4JGG9900H46EBP4vR0GYyI"
+      },
+      "artists": [
+        {
+          "name": "Mine",
+          "url": "https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ"
+        }
+      ],
+      "duration_ms": 188489,
+      "name": "BAUM",
+      "url": "https://open.spotify.com/track/4fH8xERQuzAh1pfn5ZEQkS"
     },
     {
       "added_at": "2024-02-07 10:53:25",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-02-07 10:53:25",
       "album": {
-        "name": "Mit Dir",
-        "url": "https://open.spotify.com/album/4yzMntUkyuX8gYyWFlNMLO"
-      },
-      "artists": [
-        {
-          "name": "MOLLY SUE",
-          "url": "https://open.spotify.com/artist/1UmeDUPF1A9xnmyzE8O2fA"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Mit Dir",
-      "url": "https://open.spotify.com/track/0mcsqmNDZrdOPUvVnwpo9h"
-    },
-    {
-      "added_at": "2024-02-07 10:53:25",
-      "album": {
         "name": "find mich",
         "url": "https://open.spotify.com/album/2Z8dDJt41rXa5xCET8mdn7"
       },
@@ -307,6 +291,42 @@
       "duration_ms": 124850,
       "name": "find mich",
       "url": "https://open.spotify.com/track/03S9KJa8pBjjV7K71pNQgf"
+    },
+    {
+      "added_at": "2024-02-07 10:53:25",
+      "album": {
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/4yzMntUkyuX8gYyWFlNMLO"
+      },
+      "artists": [
+        {
+          "name": "MOLLY SUE",
+          "url": "https://open.spotify.com/artist/1UmeDUPF1A9xnmyzE8O2fA"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/0mcsqmNDZrdOPUvVnwpo9h"
+    },
+    {
+      "added_at": "2024-02-07 10:53:25",
+      "album": {
+        "name": "Kaiserschnitt",
+        "url": "https://open.spotify.com/album/2qJEwShgYaABgzEj9djsXH"
+      },
+      "artists": [
+        {
+          "name": "Alexa Feser",
+          "url": "https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD"
+        },
+        {
+          "name": "Ava Ion",
+          "url": "https://open.spotify.com/artist/4U2Nq8u4KncAY0jYKvUje2"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Kaiserschnitt (feat. Ava Ion)",
+      "url": "https://open.spotify.com/track/4piBK9ccPo1wo7tWM4KTJX"
     },
     {
       "added_at": "2024-02-07 10:53:25",
@@ -343,26 +363,6 @@
       "duration_ms": 123839,
       "name": "Oh mein Gott",
       "url": "https://open.spotify.com/track/4YBPf11XttGdZFOGEh4TQe"
-    },
-    {
-      "added_at": "2024-02-07 10:53:25",
-      "album": {
-        "name": "Kaiserschnitt",
-        "url": "https://open.spotify.com/album/2qJEwShgYaABgzEj9djsXH"
-      },
-      "artists": [
-        {
-          "name": "Alexa Feser",
-          "url": "https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD"
-        },
-        {
-          "name": "Ava Ion",
-          "url": "https://open.spotify.com/artist/4U2Nq8u4KncAY0jYKvUje2"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Kaiserschnitt (feat. Ava Ion)",
-      "url": "https://open.spotify.com/track/4piBK9ccPo1wo7tWM4KTJX"
     },
     {
       "added_at": "2024-02-07 10:53:25",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-02-07 10:53:25",
       "album": {
-        "name": "MONEY BAGS",
-        "url": "https://open.spotify.com/album/2okuQSEo20KIwqHafU48vi"
-      },
-      "artists": [
-        {
-          "name": "TRINA",
-          "url": "https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ"
-        }
-      ],
-      "duration_ms": 150167,
-      "name": "MONEY BAGS",
-      "url": "https://open.spotify.com/track/6cbl94N6hnZ7Opr6GcEeBa"
-    },
-    {
-      "added_at": "2024-02-07 10:53:25",
-      "album": {
         "name": "Lovely",
         "url": "https://open.spotify.com/album/2Ol7eVHaVtcwqr3sBTSmC3"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 187853,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/07lVT57m4NGsFvZWMv2vxQ"
+    },
+    {
+      "added_at": "2024-02-07 10:53:25",
+      "album": {
+        "name": "MONEY BAGS",
+        "url": "https://open.spotify.com/album/2okuQSEo20KIwqHafU48vi"
+      },
+      "artists": [
+        {
+          "name": "TRINA",
+          "url": "https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ"
+        }
+      ],
+      "duration_ms": 150167,
+      "name": "MONEY BAGS",
+      "url": "https://open.spotify.com/track/6cbl94N6hnZ7Opr6GcEeBa"
     },
     {
       "added_at": "2024-02-07 10:53:25",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-02-07 10:53:25",
       "album": {
-        "name": "oh my messy mind",
-        "url": "https://open.spotify.com/album/0B2JJ0hBxgTgExfN859HQt"
-      },
-      "artists": [
-        {
-          "name": "Philippa Kinsky",
-          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
-        }
-      ],
-      "duration_ms": 167233,
-      "name": "oh my messy mind",
-      "url": "https://open.spotify.com/track/70YcgcIRmCzux3UNwiGCPV"
-    },
-    {
-      "added_at": "2024-02-07 10:53:25",
-      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/19TnzXcSCLzpSGtS1CzsOW"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 163933,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/3LgHqvm344AweV924Zcgd9"
+    },
+    {
+      "added_at": "2024-02-07 10:53:25",
+      "album": {
+        "name": "oh my messy mind",
+        "url": "https://open.spotify.com/album/0B2JJ0hBxgTgExfN859HQt"
+      },
+      "artists": [
+        {
+          "name": "Philippa Kinsky",
+          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
+        }
+      ],
+      "duration_ms": 167233,
+      "name": "oh my messy mind",
+      "url": "https://open.spotify.com/track/70YcgcIRmCzux3UNwiGCPV"
     },
     {
       "added_at": "2024-02-07 10:53:25",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-02-07 10:53:25",
       "album": {
+        "name": "Zeit steht",
+        "url": "https://open.spotify.com/album/1yO3lLVbRky3el8nFBfWZw"
+      },
+      "artists": [
+        {
+          "name": "MODULAR",
+          "url": "https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot"
+        }
+      ],
+      "duration_ms": 200288,
+      "name": "Zeit Steht",
+      "url": "https://open.spotify.com/track/5FPEVMCJ86BZUvhlZVOGNe"
+    },
+    {
+      "added_at": "2024-02-07 10:53:25",
+      "album": {
         "name": "Parasol",
         "url": "https://open.spotify.com/album/6SJeS83n9HgC4nmtwHyTjE"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2024-02-07 10:53:25",
       "album": {
-        "name": "Zeit steht",
-        "url": "https://open.spotify.com/album/1yO3lLVbRky3el8nFBfWZw"
+        "name": "Green Blue Violet (Love Is Pain)",
+        "url": "https://open.spotify.com/album/6ugCyZdalUQiJf52EfEuez"
       },
       "artists": [
         {
-          "name": "MODULAR",
-          "url": "https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot"
+          "name": "CHRISTL",
+          "url": "https://open.spotify.com/artist/7umYHv93hQAIJaGD7qUf6W"
         }
       ],
-      "duration_ms": 200288,
-      "name": "Zeit Steht",
-      "url": "https://open.spotify.com/track/5FPEVMCJ86BZUvhlZVOGNe"
+      "duration_ms": 178806,
+      "name": "Green Blue Violet (Love Is Pain)",
+      "url": "https://open.spotify.com/track/0bpykpzP4TNPhOkQaGwXo0"
     },
     {
       "added_at": "2024-02-07 10:53:25",
@@ -691,22 +707,6 @@
     {
       "added_at": "2024-02-07 10:53:25",
       "album": {
-        "name": "Green Blue Violet (Love Is Pain)",
-        "url": "https://open.spotify.com/album/6ugCyZdalUQiJf52EfEuez"
-      },
-      "artists": [
-        {
-          "name": "CHRISTL",
-          "url": "https://open.spotify.com/artist/7umYHv93hQAIJaGD7qUf6W"
-        }
-      ],
-      "duration_ms": 178806,
-      "name": "Green Blue Violet (Love Is Pain)",
-      "url": "https://open.spotify.com/track/0bpykpzP4TNPhOkQaGwXo0"
-    },
-    {
-      "added_at": "2024-02-07 10:53:25",
-      "album": {
         "name": "Don't Wanna",
         "url": "https://open.spotify.com/album/2rt8p7jfKZf51IYPjKWC6t"
       },
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-02-07 10:53:25",
       "album": {
+        "name": "SCHWARZLICHT",
+        "url": "https://open.spotify.com/album/5U5btzd10yQGK1qrx4n3Fo"
+      },
+      "artists": [
+        {
+          "name": "IUMA",
+          "url": "https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a"
+        }
+      ],
+      "duration_ms": 142988,
+      "name": "SCHWARZLICHT",
+      "url": "https://open.spotify.com/track/5vnYW09ymKioMNoS0xbKOd"
+    },
+    {
+      "added_at": "2024-02-07 10:53:25",
+      "album": {
         "name": "The Table",
         "url": "https://open.spotify.com/album/4DpxaAuDPgbgLDhsULAzEf"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2024-02-07 10:53:25",
       "album": {
-        "name": "SCHWARZLICHT",
-        "url": "https://open.spotify.com/album/5U5btzd10yQGK1qrx4n3Fo"
+        "name": "Film",
+        "url": "https://open.spotify.com/album/4EdbljEbqVZUlxYZpBDmu4"
       },
       "artists": [
         {
-          "name": "IUMA",
-          "url": "https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a"
+          "name": "Yellow",
+          "url": "https://open.spotify.com/artist/7zjrMyYoQlzR3h32TW6gxZ"
         }
       ],
-      "duration_ms": 142988,
-      "name": "SCHWARZLICHT",
-      "url": "https://open.spotify.com/track/5vnYW09ymKioMNoS0xbKOd"
+      "duration_ms": 155000,
+      "name": "Film",
+      "url": "https://open.spotify.com/track/1hsZ8XkMqSCa9xfBYcf7A7"
     },
     {
       "added_at": "2024-02-07 10:53:25",
@@ -787,22 +803,6 @@
       "duration_ms": 388571,
       "name": "Alright - Bianka Banks Remix",
       "url": "https://open.spotify.com/track/5CrWADigr7bV0oy09aodT6"
-    },
-    {
-      "added_at": "2024-02-07 10:53:25",
-      "album": {
-        "name": "Film",
-        "url": "https://open.spotify.com/album/4EdbljEbqVZUlxYZpBDmu4"
-      },
-      "artists": [
-        {
-          "name": "Yellow",
-          "url": "https://open.spotify.com/artist/7zjrMyYoQlzR3h32TW6gxZ"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Film",
-      "url": "https://open.spotify.com/track/1hsZ8XkMqSCa9xfBYcf7A7"
     },
     {
       "added_at": "2024-02-07 10:53:25",

@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 9358,
+  "2024-02-09": 9358,
   "date_first_scraped": "2022-05-31",
   "description": "Bluesy blips and blops",
   "name": "Bluestronica",
@@ -1449,10 +1449,28 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 191412,
       "name": "We'r Gonna Have (a Good Time)",
       "url": "https://open.spotify.com/track/3AbawelgHpuAm3VTz7vAgF"
+    },
+    {
+      "album": {
+        "name": "We'r Gonna Have (A Good Time)",
+        "url": "https://open.spotify.com/album/5ppQwO8UwO15NrEpDlVg88"
+      },
+      "artists": [
+        {
+          "name": "Freedust",
+          "url": "https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191412,
+      "name": "We'r Gonna Have (a Good Time)",
+      "url": "https://open.spotify.com/track/3fxmPJD9uAhBmQLPqxsW3g"
     },
     {
       "album": {

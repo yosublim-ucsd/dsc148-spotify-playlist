@@ -4,7 +4,7 @@
 
 > chill piano melodies and cozy lofi beats
 
-111 songs - 4 hr 14 min
+112 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [The Comeback Kid!](https://open.spotify.com/track/6fO3hA8EZ9xlMkuJWFLX2E) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [The Comeback Kid!](https://open.spotify.com/album/6QjDkjlTwBWIYvdHPf94G0) | 2:39 | 2023-09-22 |  |
 | [Thinking Of You](https://open.spotify.com/track/5lTR1HXtYNiOYkZUGJfW4T) | [asanatobi](https://open.spotify.com/artist/6LeJY3URhc2QOx8vPAB2Ou) | [Thinking Of You](https://open.spotify.com/album/49M4f8YLFk6hwcvZCL9NxV) | 2:16 | 2023-11-24 |  |
 | [to float](https://open.spotify.com/track/0mlKE6Ye4DDsmxsraCexcM) | [Gramercy](https://open.spotify.com/artist/7tazsVXyiv13qgBbmDRtHI) | [to float](https://open.spotify.com/album/6r0Gj5Vvbk2S7zyk5E9ZWz) | 2:33 | 2023-09-22 |  |
+| [Trineos](https://open.spotify.com/track/45qPHGAfaTDAyg11FMFkwY) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [L'hiver](https://open.spotify.com/album/1fDNUQK2rYH2FKo4Ga6TL3) | 1:31 | 2024-02-09 |  |
 | [Trust Spring](https://open.spotify.com/track/79SRBZJ8mQo6cxpqNRjfv3) | [ATONED](https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM) | [Trust Spring](https://open.spotify.com/album/2I3IoVyZOTVuSGOr5SX9kK) | 2:13 | 2024-02-02 |  |
 | [Tulips](https://open.spotify.com/track/7HdTphbSIaxvCS3rSPnUqA) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Tulips](https://open.spotify.com/album/2E1OnMBa7jtAztSiWHoDnB) | 1:38 | 2023-09-22 |  |
 | [undertheparasol](https://open.spotify.com/track/3UizsFODsw6Jdhwxj8lez4) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [undertheparasol](https://open.spotify.com/album/7ytiWK7Kjl9xldcXsIEZ5a) | 2:34 | 2023-09-22 |  |

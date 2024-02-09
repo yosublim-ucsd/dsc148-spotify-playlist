@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 17779,
+  "2024-02-09": 17792,
   "date_first_scraped": "2023-11-24",
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u305b\u304d\u3089\u3089",
@@ -39,6 +39,24 @@
       "duration_ms": 227728,
       "name": "Aiai",
       "url": "https://open.spotify.com/track/2fk7HoBZPtoeqIl54CLTR7"
+    },
+    {
+      "album": {
+        "name": "Ambiguous",
+        "url": "https://open.spotify.com/album/3ny9YuGHA0QNn4F9zWC7Bz"
+      },
+      "artists": [
+        {
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220856,
+      "name": "Ambiguous",
+      "url": "https://open.spotify.com/track/36Kj0vrp2MnYICExdK1lN9"
     },
     {
       "album": {
@@ -1005,7 +1023,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 220856,
       "name": "\u3042\u3084\u3075\u3084",
       "url": "https://open.spotify.com/track/1UvCeSlHieprSfrjlREJdS"

@@ -2,9 +2,9 @@
 
 ### [Stay Tuned!](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: FRIDAY
+> Luister naar nieuwe songs en hits van dit moment! Cover: Stephen Sanchez
 
-353 songs - 20 hr 26 min
+358 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Amsterdam](https://open.spotify.com/track/3ZG2ofDgouMnIcoPT8xgFz) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Amsterdam](https://open.spotify.com/album/5J8fTRkYJXCNJNxW7sFaOC) | 3:30 | 2023-08-24 | 2023-11-10 |
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-11 | 2024-02-03 |
 | [Annie](https://open.spotify.com/track/2BI1yb0fTu6RhGvP1nzHOM) | [St\. Solaire](https://open.spotify.com/artist/5QsBtdXbeZMaAjXd7GBPL8) | [Keep On Waiting](https://open.spotify.com/album/0fl59lgIVG87k4Knq9BKyQ) | 3:13 | 2023-03-17 | 2023-08-04 |
+| [Another Day](https://open.spotify.com/track/4sClnnhC23yXMFMvE7lhc0) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Another Day](https://open.spotify.com/album/5IdiLQkgPHbTl5ukYAYhXg) | 2:48 | 2024-02-08 |  |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2023-02-23 | 2023-03-31 |
 | [Aphrodite](https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ) | [Donna Blue](https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd) | [Aphrodite](https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ) | 3:18 | 2024-02-05 |  |
 | [Are You Done Running](https://open.spotify.com/track/0EFoiBHj3kP9WoVhojklW6) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Deena & Jim](https://open.spotify.com/album/6f40F9LdGKDXjVl3mJkXun) | 3:37 | 2023-11-02 |  |
@@ -51,6 +52,7 @@
 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 | 2023-04-20 | 2023-05-05 |
 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 | 2023-06-01 | 2024-01-30 |
 | [Broken Promises](https://open.spotify.com/track/269deQv0LzWjMK4R1Zvb2b) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Actually, I Can.](https://open.spotify.com/album/0L0JffGJcm2ybbDcd6BJmO) | 3:02 | 2023-02-23 | 2023-03-25 |
+| [Brothers And Sisters](https://open.spotify.com/track/6gWZRpSmXOckVGYgAXTBid) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers And Sisters](https://open.spotify.com/album/6NByB6YHGM24ZZppqUDC3o) | 3:55 | 2024-02-08 |  |
 | [Built And Broken](https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Built And Broken](https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m) | 4:28 | 2023-02-23 | 2023-05-10 |
 | [Burning Daylight](https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep) | [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ), [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj) | [Burning Daylight](https://open.spotify.com/album/5FdecV9YIP62njz9sgfyWK) | 3:04 | 2023-03-02 | 2023-08-18 |
 | [California Lover](https://open.spotify.com/track/6sOUBEr73j84UAotmBDqRD) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [California Lover](https://open.spotify.com/album/07fYJ01cntYss2ihjfz64x) | 2:21 | 2024-01-29 |  |
@@ -86,6 +88,7 @@
 | [Do Me Like You Do](https://open.spotify.com/track/1wWuRniG0pYjpQbQ7BqOjf) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Do Me Like You Do](https://open.spotify.com/album/6AvaCvysF20atKfAswyGYA) | 3:02 | 2023-09-15 | 2023-12-22 |
 | [Doesn’t Do Me Any Good](https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:52 | 2023-09-21 | 2024-02-03 |
 | [Don't Forget Me](https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:10 | 2023-06-22 | 2024-01-26 |
+| [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 | 2024-02-08 |  |
 | [Don't Let Me Go](https://open.spotify.com/track/7cnPWKugkvngck0zKReuW8) | [Typh Barrow](https://open.spotify.com/artist/1LyPW0dCTQJJSfF8FIHKlM) | [Don't Let Me Go](https://open.spotify.com/album/7a9CySuWBrCloiW8XC2aa1) | 2:54 | 2023-02-23 | 2023-06-02 |
 | [Don't Walk Away](https://open.spotify.com/track/5wuV0R9HBRuz01Vd8ZFJoE) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Don't Walk Away](https://open.spotify.com/album/13SnQDDikQjAW9rTZiW6Of) | 3:23 | 2023-03-09 | 2023-07-15 |
 | [Down Down Down Down](https://open.spotify.com/track/2N0P1fCYL7tnxq4RiPAz2l) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Down Down Down Down](https://open.spotify.com/album/4dggVrjDYcUArNkVpqdHKU) | 3:11 | 2023-02-23 | 2023-07-21 |
@@ -131,6 +134,7 @@
 | [Heart Attack](https://open.spotify.com/track/4JJyspZ4EulL5b02rvaLdy) | [Oliver Pesch](https://open.spotify.com/artist/26tOE9bbYwhN5SRHcAic97) | [Heart Attack](https://open.spotify.com/album/6OWwjI57DMRsv42xKJvq5m) | 3:33 | 2024-01-25 |  |
 | [Heartaches](https://open.spotify.com/track/356RuMLuflEhfFuK2CrzZd) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Heartaches](https://open.spotify.com/album/68taUYP2jqsYXxBwTcth54) | 3:37 | 2023-04-20 | 2023-10-06 |
 | [Heartbeat](https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat](https://open.spotify.com/album/6BK9a0A1iFK11y9FvFDTvl) | 3:18 | 2023-02-23 | 2023-07-07 |
+| [heat](https://open.spotify.com/track/0qB6vfLUW11bMGjz8SHvtt) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [heat](https://open.spotify.com/album/7N1nx9qGHk0KpDDgJNtG6z) | 3:06 | 2024-02-08 |  |
 | [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 | 2023-06-08 | 2024-02-03 |
 | [Hello](https://open.spotify.com/track/6WOWlW3yUqyobe5t60CMNu) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Hello](https://open.spotify.com/album/5ktE0WaMW40T9mcr7MM6Ic) | 3:34 | 2023-08-24 | 2023-11-17 |
 | [Hello](https://open.spotify.com/track/6kIl5WZtEdImIcEarhs9iZ) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW) | 3:34 | 2023-11-13 |  |
@@ -327,6 +331,7 @@
 | [Try To Love Again](https://open.spotify.com/track/6dPgYbtjAQumco8bMJBlXX) | [Moving Into Tucson](https://open.spotify.com/artist/5mFtVrSOmWy0NRUTMZ7JRY) | [Try To Love Again](https://open.spotify.com/album/5BdA4DGeDB7X3qVT6mDZAq) | 4:07 | 2023-10-12 |  |
 | [Turn the Lights Back On](https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turn the Lights Back On](https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC) | 3:58 | 2024-02-05 |  |
 | [Tussendoor](https://open.spotify.com/track/5ejOlSH4f8M5Tqrisvjpsz) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Tussendoor](https://open.spotify.com/album/1uiD722Lty54S0hMv6DAXS) | 3:05 | 2023-09-21 |  |
+| [Undecided](https://open.spotify.com/track/67HfJMTt2jley2uzWzocKe) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Undecided](https://open.spotify.com/album/4rOBvkbMvjHEtQByHEUx4V) | 2:40 | 2024-02-08 |  |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-02-23 | 2023-08-18 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-31 | 2024-02-03 |
 | [Voor Mijn Hart](https://open.spotify.com/track/7ikORk2VQ1J3uD7JhzJnxs) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Voor Mijn Hart](https://open.spotify.com/album/3GIvLv9vHbiWk96h7zWGkL) | 3:04 | 2023-03-30 | 2023-08-25 |

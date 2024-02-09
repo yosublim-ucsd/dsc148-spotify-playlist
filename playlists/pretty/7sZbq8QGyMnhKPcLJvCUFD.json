@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 741890,
+  "num_followers": 741910,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "NTU0NixmMmUzOTY0MDQ1Nzg2NWI1M2M4ODhjYjkzYzE0NGU1OWVmZjJlMGJk",
+  "snapshot_id": "NTU0OCxkZjgxZGNkOGY2MWE3MDg5NTRhMzg3YTUyZmQwY2NmNzYwM2UwZjg3",
   "tracks": [
     {
       "added_at": "2024-02-06 11:40:07",
@@ -67,6 +67,26 @@
       "duration_ms": 192413,
       "name": "Never Have I Felt This - VIP",
       "url": "https://open.spotify.com/track/6WSwigBgXcpDVkEZ05cWuH"
+    },
+    {
+      "added_at": "2024-02-08 10:22:24",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/4ndufOeALEZHWH2LfvWFQ0"
+      },
+      "artists": [
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "SGAR",
+          "url": "https://open.spotify.com/artist/3HhCTUgUQh6tLfQAqCTEmm"
+        }
+      ],
+      "duration_ms": 230528,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1OZLLfRrvELLaTowXNsg30"
     },
     {
       "added_at": "2024-02-06 11:40:07",
@@ -1899,22 +1919,6 @@
       "duration_ms": 256620,
       "name": "Firefly",
       "url": "https://open.spotify.com/track/1YB2NnK2KrK9PdrJ0czdDB"
-    },
-    {
-      "added_at": "2024-02-06 11:40:07",
-      "album": {
-        "name": "The Ghost",
-        "url": "https://open.spotify.com/album/6aafdp1vFltSsbBVm3TrEF"
-      },
-      "artists": [
-        {
-          "name": "NIVIRO",
-          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "The Ghost",
-      "url": "https://open.spotify.com/track/2Rmisp1rkVF9GFWQy6LJLQ"
     }
   ],
   "unique_name": "NCS Releases",

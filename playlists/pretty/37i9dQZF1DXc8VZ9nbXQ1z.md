@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,321 likes - 75 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,399 likes - 75 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 74 | [I'm Fallin \(feat\. RY X\) \(feat\. RY X\)](https://open.spotify.com/track/5QnQSKDvXTvJzfHQDikskY) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 7:42 |
 | 75 | [Lost](https://open.spotify.com/track/5Cdzz2yJ5f23ojyCkvh0vS) | [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r), [QT\-HIGH](https://open.spotify.com/artist/4NO2QKQ3zchF7KVU0a5cXo), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [Lost](https://open.spotify.com/album/7y2WNzMjuRPaN6ozvOuvp1) | 3:32 |
 
-Snapshot ID: `MCwxMDNmMDc3YjA3Mjg3NWJjYmFhM2QyM2E1YTUzYzVlZjljYzhiNmY3`
+Snapshot ID: `MCw3MDRmZDE2NzkxM2MxNzdmYWExYTZkODcwYTlhMzkyYjg1ODg2N2I5`

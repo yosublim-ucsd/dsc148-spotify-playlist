@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Del Water Gap & Holly Humberstone",
-  "num_followers": 1688104,
+  "num_followers": 1688214,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDQ3ODMzZGRkZDQ2ZmIyOGEyMGNhZTY5ODU4ZGNmOTZhOWQ1MGZm",
+  "snapshot_id": "MCxjZWU0YWQzY2Q5MTM4YzIzNDY1ZWU3OTU2NGI4MjI2MjYwYTYyYTQx",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
+        "name": "It\u2019s Never Fair, Always True",
+        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 155997,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB"
+    },
+    {
+      "added_at": "2024-01-05 19:31:17",
+      "album": {
         "name": "Learning",
         "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
       },
@@ -699,18 +715,18 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "It\u2019s Never Fair, Always True",
-        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
       },
       "artists": [
         {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 155997,
-      "name": "strawberry chainsaw",
-      "url": "https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB"
+      "duration_ms": 270314,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -747,22 +763,6 @@
       "duration_ms": 118787,
       "name": "Hot in NY",
       "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
-    },
-    {
-      "added_at": "2024-01-05 19:31:17",
-      "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 270314,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "to love in the 21st century: the epilogue",
-        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "july",
-      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
-    },
-    {
-      "added_at": "2024-01-05 19:31:17",
-      "album": {
         "name": "Rainbow Mixtape",
         "url": "https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 173320,
       "name": "Sagittarius Superstar",
       "url": "https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6"
+    },
+    {
+      "added_at": "2024-01-05 19:31:17",
+      "album": {
+        "name": "to love in the 21st century: the epilogue",
+        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "july",
+      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
-      "added_at": "2024-01-05 19:31:17",
-      "album": {
-        "name": "HATELOVE",
-        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
-      },
-      "artists": [
-        {
-          "name": "Alex Porat",
-          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
-        }
-      ],
-      "duration_ms": 171925,
-      "name": "HATELOVE",
-      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Moon Girl",
@@ -935,6 +919,22 @@
       "duration_ms": 206042,
       "name": "Moon Girl",
       "url": "https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9"
+    },
+    {
+      "added_at": "2024-01-05 19:31:17",
+      "album": {
+        "name": "HATELOVE",
+        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
+      },
+      "artists": [
+        {
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
+        }
+      ],
+      "duration_ms": 171925,
+      "name": "HATELOVE",
+      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1017,6 +1017,22 @@
       "url": "https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL"
     },
     {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "How Have You Been?",
+        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 201467,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw"
+    },
+    {
       "added_at": "2024-01-05 19:31:17",
       "album": {
         "name": "When We Were Younger",
@@ -1065,54 +1081,6 @@
       "url": "https://open.spotify.com/track/2ROJw0Y9Ypl79RYsYuqT3w"
     },
     {
-      "added_at": "2024-01-05 19:31:17",
-      "album": {
-        "name": "Into Your Room",
-        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 209787,
-      "name": "Into Your Room",
-      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "How Have You Been?",
-        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 201467,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw"
-    },
-    {
-      "added_at": "2024-01-05 19:31:17",
-      "album": {
-        "name": "i wanna be your right hand",
-        "url": "https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 148533,
-      "name": "i wanna be your right hand",
-      "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Willow (feat. Lucy Rose)",
@@ -1133,6 +1101,38 @@
       "url": "https://open.spotify.com/track/7m1qFwzJnebBiWkzE7RgDq"
     },
     {
+      "added_at": "2024-01-05 19:31:17",
+      "album": {
+        "name": "Into Your Room",
+        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 209787,
+      "name": "Into Your Room",
+      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
+    },
+    {
+      "added_at": "2024-01-05 19:31:17",
+      "album": {
+        "name": "i wanna be your right hand",
+        "url": "https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 148533,
+      "name": "i wanna be your right hand",
+      "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
+    },
+    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Fred Perry Girl",
@@ -1147,6 +1147,38 @@
       "duration_ms": 179750,
       "name": "Fred Perry Girl",
       "url": "https://open.spotify.com/track/3lcGMZrsd3fqWjcX8Nmkog"
+    },
+    {
+      "added_at": "2024-01-20 00:58:43",
+      "album": {
+        "name": "Rave Angel",
+        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Rave Angel",
+      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
+    },
+    {
+      "added_at": "2024-01-05 19:31:17",
+      "album": {
+        "name": "The Earth is a Very Small Dot",
+        "url": "https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 236100,
+      "name": "The Earth is a Very Small Dot",
+      "url": "https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1183,22 +1215,6 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "The Earth is a Very Small Dot",
-        "url": "https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 236100,
-      "name": "The Earth is a Very Small Dot",
-      "url": "https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh"
-    },
-    {
-      "added_at": "2024-01-05 19:31:17",
-      "album": {
         "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
         "url": "https://open.spotify.com/album/17RkZnWlgVY355jiCG8m1e"
       },
@@ -1223,38 +1239,6 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "Paint My Bedroom Black",
-        "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 229713,
-      "name": "Paint My Bedroom Black",
-      "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
-    },
-    {
-      "added_at": "2024-01-20 00:58:43",
-      "album": {
-        "name": "Rave Angel",
-        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Rave Angel",
-      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
-    },
-    {
-      "added_at": "2024-01-05 19:31:17",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 213271,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
+    },
+    {
+      "added_at": "2024-01-05 19:31:17",
+      "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 229713,
+      "name": "Paint My Bedroom Black",
+      "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
+        "name": "Don\u2019t Wanna Love U",
+        "url": "https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 209418,
+      "name": "Don\u2019t Wanna Love U",
+      "url": "https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA"
+    },
+    {
+      "added_at": "2024-01-05 19:31:17",
+      "album": {
         "name": "You\u2019d Be Stars (feat. chloe moriondo)",
         "url": "https://open.spotify.com/album/0BiwIMzRsVUWQFl2taiScY"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 222899,
       "name": "You\u2019d Be Stars (feat. chloe moriondo)",
       "url": "https://open.spotify.com/track/6qsIkaOBHaQByY3jiNZSaA"
-    },
-    {
-      "added_at": "2024-01-05 19:31:17",
-      "album": {
-        "name": "Don\u2019t Wanna Love U",
-        "url": "https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 209418,
-      "name": "Don\u2019t Wanna Love U",
-      "url": "https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1661,20 +1661,24 @@
       "url": "https://open.spotify.com/track/0bor8Slyl8zfU40Y2uJeaV"
     },
     {
-      "added_at": "2024-01-05 19:31:17",
+      "added_at": "2024-01-20 00:58:43",
       "album": {
-        "name": "Drop Cherries",
-        "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/4XSsqfGgX7wHPubb2l61DI"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "charlieeeee",
+          "url": "https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
         }
       ],
-      "duration_ms": 206427,
-      "name": "I Can't Get My Head Around You",
-      "url": "https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts"
+      "duration_ms": 194333,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/04Dko7XP8nPEMfwIJFVpES"
     }
   ],
   "unique_name": "Indie Pop",

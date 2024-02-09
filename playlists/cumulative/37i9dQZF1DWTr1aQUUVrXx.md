@@ -4,7 +4,7 @@
 
 > Your favourite café with that warm and cozy Jazz vibe.
 
-182 songs - 10 hr 44 min
+186 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 | 2023-03-03 |  |
 | [Clear Out](https://open.spotify.com/track/0YEVAn2vGbx9jI7xY6Fguf) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Clear Out](https://open.spotify.com/album/2UAUzLv0n1w1QQ8U6iR2JU) | 3:25 | 2023-09-22 |  |
 | [Closing Time](https://open.spotify.com/track/2qLTH8o4woaUd81rgUAeZp) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Closing Time](https://open.spotify.com/album/6uvsg6dcwLw85DY6z4jMvh) | 3:36 | 2023-10-20 |  |
+| [Clouds Got In Our Way](https://open.spotify.com/track/56oTEnXtzyX81TQbv95xnZ) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Clouds Got In Our Way](https://open.spotify.com/album/6ypEs7KXI72ol1kWWFX6nq) | 3:19 | 2024-02-09 |  |
 | [Cloudy Water](https://open.spotify.com/track/6peWV8hO9r1FUP0VvBZb6u) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Cloudy Water](https://open.spotify.com/album/3YmMnjmRZ7NOQMlbt7fuVs) | 5:00 | 2023-12-15 |  |
 | [Clowns And Crowns](https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Clowns And Crowns](https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p) | 4:01 | 2023-03-16 |  |
 | [Coffee with My Baby](https://open.spotify.com/track/6Bp14zQZMHbZGOSuTIHkyF) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Winter in New York](https://open.spotify.com/album/1bZWiXD71om6CskjaZWcpF) | 2:47 | 2023-03-03 |  |
@@ -76,6 +77,7 @@
 | [I'll never stop loving you](https://open.spotify.com/track/0MYJbAm4cQxWzKVGmIp7KS) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [I'll never stop loving you](https://open.spotify.com/album/7D7IqqcmJPkvbxjQFBxZDk) | 3:51 | 2023-03-03 |  |
 | [i've got a crush on you](https://open.spotify.com/track/79S9Ea6Q347UAPTIWnLmV2) | [Hunter Paige](https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ) | [i've got a crush on you](https://open.spotify.com/album/3bdegMUGxFxJbgKocQE2G4) | 3:36 | 2023-03-03 |  |
 | [If I Ask You Now?](https://open.spotify.com/track/3yyVqUxOKGgH47iUGNEyVB) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [If I Ask You Now?](https://open.spotify.com/album/6ntxSpTO4JPirtRAZ0SFQH) | 3:26 | 2023-09-29 |  |
+| [If You Could See Me Now](https://open.spotify.com/track/0l1K6sAVycWbe2K1oWQgU4) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [If You Could See Me Now](https://open.spotify.com/album/22ndy4PP1O9LVJuqq7dN6W) | 4:36 | 2024-02-09 |  |
 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 | 2023-03-03 |  |
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2023-03-03 |  |
 | [In Your Arms](https://open.spotify.com/track/3mTsbs8DiR6OoLCz2KlzZI) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [In Your Arms](https://open.spotify.com/album/7vkvgxXf1y12Y3eejsMU49) | 3:33 | 2023-12-08 |  |
@@ -105,6 +107,7 @@
 | [Mellow Moments](https://open.spotify.com/track/3YGVTfSxTCuDykWrENqmGp) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Mellow Moments](https://open.spotify.com/album/1ewVy7oBv5CLUM7htj4oFk) | 3:08 | 2023-04-27 |  |
 | [Memories Of Her Music](https://open.spotify.com/track/11Ya486KvEdIaYgsT8cwsw) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Memories Of Her Music](https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV) | 3:33 | 2023-03-03 |  |
 | [Missed The Last Dance With You](https://open.spotify.com/track/7mbGcxb8cInNijyo4nO6eu) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [Missed The Last Dance With You](https://open.spotify.com/album/6eDr3Uh3GuGGLURUqrV1k3) | 5:04 | 2023-11-24 |  |
+| [Moon Dreams](https://open.spotify.com/track/4rfo4qyursWWHQrhSo2gbh) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Moon Dreams](https://open.spotify.com/album/7fMFlrnRt1zrBDdeqTZe5i) | 3:22 | 2024-02-09 |  |
 | [Moon Side](https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 3:03 | 2023-03-03 |  |
 | [Moved by Performance](https://open.spotify.com/track/1X5VaV9u5071WW9D9vDE8n) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Moved by Performance](https://open.spotify.com/album/51ooDFroTRMYe2lM2hhjfn) | 2:38 | 2023-09-08 |  |
 | [Muddy Trail](https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Muddy Trail](https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J) | 3:40 | 2023-03-03 |  |
@@ -176,6 +179,7 @@
 | [We Talk Later](https://open.spotify.com/track/0ypKIgecf2ubbenc0qcuj7) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [We Talk Later](https://open.spotify.com/album/7xnclPUMXH1kocR3SJhZBK) | 2:50 | 2023-09-29 |  |
 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 | 2023-03-03 |  |
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2023-03-03 |  |
+| [When You Come Home](https://open.spotify.com/track/1TlWfTGEALeyG39A9qHokR) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [When You Come Home](https://open.spotify.com/album/40kyT8n1MAUF56KmpkQeqs) | 3:36 | 2024-02-09 |  |
 | [Where is Jack?](https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Where is Jack?](https://open.spotify.com/album/6IAwrExHAogD5ayPqjQc1S) | 3:35 | 2023-03-03 |  |
 | [Where or When](https://open.spotify.com/track/5ABObbZnTJIMSOfaNcu0xm) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Where or when](https://open.spotify.com/album/1Q1UqyRWrgL4JK2hbyiTQA) | 3:28 | 2023-12-22 |  |
 | [Whispers of the Forest](https://open.spotify.com/track/5SJm0GUkKjN3GzJQdwY8RS) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Whispers of the Forest](https://open.spotify.com/album/6j4y9U6qH8AiJPOudBRWLR) | 3:27 | 2024-02-02 |  |

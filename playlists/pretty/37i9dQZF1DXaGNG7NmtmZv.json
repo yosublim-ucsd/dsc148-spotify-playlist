@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 208959,
+  "num_followers": 209041,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODhmZDE2MzBmYmJhZjZkNmE4MzNmZDIzNjkwYWZlOTM1MmQ2MzNm",
+  "snapshot_id": "MCxmNDk5NzhiYTdhYjE5ZDQ2OTY1NDkzNDBkYzA5Y2E4OWI5Y2FiYjcx",
   "tracks": [
     {
       "added_at": "2024-02-07 16:33:52",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Manic Compression",
-        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 156693,
-      "name": "Thorn In My Side",
-      "url": "https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Check Your People",
         "url": "https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 153173,
       "name": "Pure Trauma",
       "url": "https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Manic Compression",
+        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 156693,
+      "name": "Thorn In My Side",
+      "url": "https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/2OTTz23owLC2seOMfgJbqR"
-      },
-      "artists": [
-        {
-          "name": "H2O",
-          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
-        }
-      ],
-      "duration_ms": 175413,
-      "name": "Family Tree",
-      "url": "https://open.spotify.com/track/1lqzyOQ3QRX0lNXHk5kzGp"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Bulldog Edition",
         "url": "https://open.spotify.com/album/74l9m4ne74mMiqqSgiWtrH"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 144413,
       "name": "Here to Stay",
       "url": "https://open.spotify.com/track/4XMYrzvwERu7QdF4lMSOv7"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/2OTTz23owLC2seOMfgJbqR"
+      },
+      "artists": [
+        {
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+        }
+      ],
+      "duration_ms": 175413,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/1lqzyOQ3QRX0lNXHk5kzGp"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "For Those Who Were Crucified",
-        "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
+        "name": "Death Knows Your Name",
+        "url": "https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK"
       },
       "artists": [
         {
-          "name": "All Out War",
-          "url": "https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV"
+          "name": "The Hope Conspiracy",
+          "url": "https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d"
         }
       ],
-      "duration_ms": 116173,
-      "name": "Burning Season",
-      "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
+      "duration_ms": 220413,
+      "name": "Animal Farm",
+      "url": "https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -699,34 +699,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Death Knows Your Name",
-        "url": "https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK"
+        "name": "For Those Who Were Crucified",
+        "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
       },
       "artists": [
         {
-          "name": "The Hope Conspiracy",
-          "url": "https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d"
+          "name": "All Out War",
+          "url": "https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV"
         }
       ],
-      "duration_ms": 220413,
-      "name": "Animal Farm",
-      "url": "https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Break Down The Walls",
-        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
-      },
-      "artists": [
-        {
-          "name": "Youth Of Today",
-          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
-        }
-      ],
-      "duration_ms": 100800,
-      "name": "Take a Stand",
-      "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
+      "duration_ms": 116173,
+      "name": "Burning Season",
+      "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -763,6 +747,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "Break Down The Walls",
+        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
+      },
+      "artists": [
+        {
+          "name": "Youth Of Today",
+          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
+        }
+      ],
+      "duration_ms": 100800,
+      "name": "Take a Stand",
+      "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Get It Away",
         "url": "https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Set Your Goals",
-        "url": "https://open.spotify.com/album/5iQwtthhrBr9UIPD717vda"
+        "name": "Count Me In",
+        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
       },
       "artists": [
         {
-          "name": "CIV",
-          "url": "https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9"
+          "name": "Death Before Dishonor",
+          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
         }
       ],
-      "duration_ms": 148880,
-      "name": "Choices Made",
-      "url": "https://open.spotify.com/track/0r4jDnFTGZCwXiUiiPx7WL"
+      "duration_ms": 181226,
+      "name": "Break Through It All",
+      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
     }
   ],
   "unique_name": "Classic Hardcore",

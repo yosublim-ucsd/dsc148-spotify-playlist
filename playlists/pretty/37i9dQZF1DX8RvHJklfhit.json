@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 175163,
+  "num_followers": 175196,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTExMzQ0MWY2NDAxZWJjY2RlMzU1YjNjY2IxMjFhOGRiMzMwZDBk",
+  "snapshot_id": "MCwwMzAyODk0ODg5ZTkyZmZjNmY0YzRmZmM4YmE2NjRiOWNmMjM1MWE0",
   "tracks": [
     {
       "added_at": "2023-10-12 20:02:07",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Confidently Lost",
-        "url": "https://open.spotify.com/album/6Y0sR4pj7mxRN0EudJnMQw"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 209885,
-      "name": "Confidently Lost",
-      "url": "https://open.spotify.com/track/3cQmqM0awej9iAESjhKrI9"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 254993,
       "name": "Azul",
       "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Confidently Lost",
+        "url": "https://open.spotify.com/album/6Y0sR4pj7mxRN0EudJnMQw"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 209885,
+      "name": "Confidently Lost",
+      "url": "https://open.spotify.com/track/3cQmqM0awej9iAESjhKrI9"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Gardenia",
-        "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Regresa",
         "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 168755,
       "name": "Ta Que Tiembla",
       "url": "https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Gardenia",
+        "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Gran Santiago",
-        "url": "https://open.spotify.com/album/5s2GRs98fAVUwyu2vru7dF"
-      },
-      "artists": [
-        {
-          "name": "Teleradio Donoso",
-          "url": "https://open.spotify.com/artist/6SwRy6PTx8ehNGCdcDp3mt"
-        }
-      ],
-      "duration_ms": 228098,
-      "name": "Eras mi persona favorita",
-      "url": "https://open.spotify.com/track/45gEiG1445vFC7EPtN0YMN"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Baile de Magos",
         "url": "https://open.spotify.com/album/07GEY91tPdA08EVlRmqQ1f"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 265433,
       "name": "Mi F\u00e1brica de Baile",
       "url": "https://open.spotify.com/track/2n5CQoGVbKyiVyA0AabeZH"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Gran Santiago",
+        "url": "https://open.spotify.com/album/5s2GRs98fAVUwyu2vru7dF"
+      },
+      "artists": [
+        {
+          "name": "Teleradio Donoso",
+          "url": "https://open.spotify.com/artist/6SwRy6PTx8ehNGCdcDp3mt"
+        }
+      ],
+      "duration_ms": 228098,
+      "name": "Eras mi persona favorita",
+      "url": "https://open.spotify.com/track/45gEiG1445vFC7EPtN0YMN"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Bah\u00eda Margarita",
-        "url": "https://open.spotify.com/album/0wAN9WxtYgJUdIEczdzF2l"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 237652,
-      "name": "Daikiri",
-      "url": "https://open.spotify.com/track/44HnCocL3nA1J795oIdNgu"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
         "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 242760,
       "name": "Cuidado",
       "url": "https://open.spotify.com/track/5IZC2HQDKPhVkpAotDJBHM"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Bah\u00eda Margarita",
+        "url": "https://open.spotify.com/album/0wAN9WxtYgJUdIEczdzF2l"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 237652,
+      "name": "Daikiri",
+      "url": "https://open.spotify.com/track/44HnCocL3nA1J795oIdNgu"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Raffolution",
         "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 220306,
       "name": "Latino & Proud",
       "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Ahomale",
         "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 236786,
       "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
       "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
     },
     {
       "added_at": "2023-10-12 20:02:07",

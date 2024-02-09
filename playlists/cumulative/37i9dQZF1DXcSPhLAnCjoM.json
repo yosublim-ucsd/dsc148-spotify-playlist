@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Eddy de Pretto au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
+  "description": "Hoshi au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -150,6 +150,28 @@
       "duration_ms": 154346,
       "name": "Celui qui part",
       "url": "https://open.spotify.com/track/3iJQzmcPnLrTC7WOQ2kYUt"
+    },
+    {
+      "album": {
+        "name": "Ceux qu'on \u00e9tait",
+        "url": "https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        },
+        {
+          "name": "Star Academy",
+          "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174106,
+      "name": "Ceux qu'on \u00e9tait",
+      "url": "https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr"
     },
     {
       "album": {
@@ -1736,7 +1758,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 145412,
       "name": "Stigmate - Radio Edit",
       "url": "https://open.spotify.com/track/1CCglTzgQP2UCQtRwkpHOc"

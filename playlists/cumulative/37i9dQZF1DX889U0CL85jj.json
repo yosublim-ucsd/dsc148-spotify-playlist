@@ -830,7 +830,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 192158,
       "name": "Aver\u00edo De Ti",
       "url": "https://open.spotify.com/track/45PSB45t9c5XcDZ0Abft6X"
@@ -5170,6 +5170,24 @@
       "duration_ms": 196765,
       "name": "J'aime les filles",
       "url": "https://open.spotify.com/track/6GiwLIxSRc3bEBaLj2RPjK"
+    },
+    {
+      "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/5JvejhNPdxVVPTP9P8bxXf"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206285,
+      "name": "Jag vill ha allt",
+      "url": "https://open.spotify.com/track/5LQqxkVZnA5kvbzHOMFjde"
     },
     {
       "album": {

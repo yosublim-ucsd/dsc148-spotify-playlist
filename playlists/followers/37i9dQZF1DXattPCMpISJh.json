@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 109831,
+  "2024-02-09": 110083,
   "date_first_scraped": "2022-08-06",
   "description": "A new take on a classic sound. Cover: Idina Menzel",
   "name": "Nu-Disco",
@@ -1521,7 +1521,7 @@
     {
       "album": {
         "name": "Feel This",
-        "url": "https://open.spotify.com/album/16mrraWea47jlXf8nPwNyu"
+        "url": "https://open.spotify.com/album/3eBDDlG2zu5llGGPBJ0JYG"
       },
       "artists": [
         {
@@ -1536,6 +1536,28 @@
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206355,
+      "name": "Feel This",
+      "url": "https://open.spotify.com/track/34gwWYhg66Zw6hcQlfvDPp"
+    },
+    {
+      "album": {
+        "name": "Feel This",
+        "url": "https://open.spotify.com/album/16mrraWea47jlXf8nPwNyu"
+      },
+      "artists": [
+        {
+          "name": "Martin Eigenberg",
+          "url": "https://open.spotify.com/artist/23J5hZ2N7m0UpmdziiYAc2"
+        },
+        {
+          "name": "Ryan Shade",
+          "url": "https://open.spotify.com/artist/73lC9QGob3QCyXallwiSWl"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-08",
       "duration_ms": 206355,
       "name": "Feel This",
       "url": "https://open.spotify.com/track/6Dca0REtMaazrwoI5YS0ib"

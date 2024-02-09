@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Neck Deep
 
-361 songs - 17 hr 53 min
+362 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe) | [MY BRAIN AFTER THERAPY](https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag) | 2:21 | 2022-07-18 | 2022-08-26 |
 | [againagainagain](https://open.spotify.com/track/1KJao1U5lALGcswmhJLzV2) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [againagainagain](https://open.spotify.com/album/3cxnAcVLZaW3tAnIl5pfJB) | 2:35 | 2023-06-20 | 2023-07-07 |
 | [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 | 2023-07-06 |  |
+| [Alpha Beta Sigma](https://open.spotify.com/track/5XVK6Qn09ECprvV7EFBrvb) | [Cherym](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5) | [Alpha Beta Sigma](https://open.spotify.com/album/3yCzLLEDZHiLzRIIj8qUA5) | 3:05 | 2024-02-05 |  |
 | [Anemia](https://open.spotify.com/track/1TfGgQOfUUc0EpRqAkMykU) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Anemia](https://open.spotify.com/album/3EJPukArWrGXomGYPqZFeu) | 3:56 | 2023-08-10 | 2024-02-06 |
 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 | 2023-10-19 |  |
 | [Arm's Length](https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Arm's Length](https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA) | 4:33 | 2023-10-19 |  |
@@ -204,7 +205,7 @@
 | [Levity](https://open.spotify.com/track/50VmAefTGokvpBLNTBhN9Y) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Levity](https://open.spotify.com/album/661ymP9Uncq9ZFjFUYxefv) | 3:20 | 2022-10-06 | 2022-12-13 |
 | [Life Goes On!!](https://open.spotify.com/track/4BUMZqK5EvcqlRg1SfJ2v3) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Life Goes On!!](https://open.spotify.com/album/17wLO3F6j4PAW07uUVc7Ng) | 2:04 | 2021-12-20 | 2022-03-01 |
 | [Life's a Brittany](https://open.spotify.com/track/71LUSp3iOUP66Cv3V8S75B) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [Life's a Brittany](https://open.spotify.com/album/3MdcvaLP5rnjGunuwkOATO) | 2:42 | 2023-04-21 | 2023-09-15 |
-| [Life's a Pill](https://open.spotify.com/track/4XvNALxzCzwFymLvN9Daes) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Life's a Pill](https://open.spotify.com/album/3vH68KoocrWeWtYoQsL60s) | 3:37 | 2023-09-15 |  |
+| [Life's a Pill](https://open.spotify.com/track/4XvNALxzCzwFymLvN9Daes) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Life's a Pill](https://open.spotify.com/album/3vH68KoocrWeWtYoQsL60s) | 3:37 | 2023-09-15 | 2024-02-09 |
 | [Light Switch](https://open.spotify.com/track/43YhUeHATriN0vyiEZUZ82) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Light Switch](https://open.spotify.com/album/7yBLWbLDEZp3ZLNKC1oB35) | 3:08 | 2022-07-04 | 2023-07-07 |
 | [Like I'm Okay](https://open.spotify.com/track/4z7m5fHKANtRtr8CGnckLd) | [Dance! No Thanks](https://open.spotify.com/artist/0885hgEwstYF6vz2qHbSpC) | [Like I'm Okay](https://open.spotify.com/album/1wYkIgcLpMG9DggdMQw62n) | 2:49 | 2022-09-29 | 2022-11-13 |
 | [Love Bumps \(feat\. Pouya\)](https://open.spotify.com/track/3n0JNGdzWj8fPlSV19mFN1) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [Love Bumps \(feat\. Pouya\)](https://open.spotify.com/album/10MpTsKSnmXOtQhRRGEyTN) | 2:47 | 2023-08-10 |  |

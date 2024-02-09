@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-653 songs - 1 day 13 hr 51 min
+654 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Heartbeat](https://open.spotify.com/track/26g9KhoTTaEG4IM1uTkwZ4) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Heartbeat](https://open.spotify.com/album/5ZP5RXBdCFckiXwXN6tWp8) | 3:13 | 2022-08-30 | 2022-11-03 |
 | [HEAT](https://open.spotify.com/track/2GqpGnSsaS4WY4wgURygHO) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [HEAT](https://open.spotify.com/album/0LNjCowJXfTpBCyNyG65vR) | 3:15 | 2023-07-06 | 2023-12-14 |
 | [Heaven](https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Heaven](https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul) | 4:12 | 2024-01-12 |  |
+| [Heavy Heart](https://open.spotify.com/track/2Cg5nw3PsrHYudEux8IBcT) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus), [your friend polly](https://open.spotify.com/artist/7BMiTAo49FakImrjEyEFFN) | [Heavy Heart](https://open.spotify.com/album/6W3jyRwWtdd7ZIOATdzkOt) | 3:25 | 2024-02-08 |  |
 | [Here For Now](https://open.spotify.com/track/4cU8YjbtwlAFBlPlKBaJ8W) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Here For Now](https://open.spotify.com/album/2imHKzs8s94B6vGL0DTtlf) | 3:49 | 2022-08-11 | 2022-10-25 |
 | [Hero](https://open.spotify.com/track/0gU1afVwFWTspbHNot3yLa) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Hero](https://open.spotify.com/album/5All8BvGGdApHlpnuELjmP) | 3:18 | 2023-06-29 | 2023-09-26 |
 | [Hexed Opera](https://open.spotify.com/track/2nLIjKSv9zudWVd2EKAd01) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Hexed Opera](https://open.spotify.com/album/4ObAFSjROlclG1vSyQXPi7) | 3:16 | 2023-11-22 |  |
@@ -293,7 +294,7 @@
 | [INNER FYRE](https://open.spotify.com/track/2vjlkBX5B8Lv1wskNiFrcg) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Plsma](https://open.spotify.com/artist/5d1nm4nMdbbwYMg3NHvJkc) | [Bleach](https://open.spotify.com/album/3VXSmuGlhlCYmhA9mouesP) | 2:34 | 2023-06-15 | 2023-09-26 |
 | [Integration Sequence](https://open.spotify.com/track/0daZirXuEz8FVBlZFu9MsE) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:58 | 2022-11-15 | 2022-11-22 |
 | [Invane](https://open.spotify.com/track/5GXQKVMqoz4jBQA6Botohj) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Invane](https://open.spotify.com/album/4ZPn0tMUiC7uaLFotARGIW) | 3:42 | 2022-10-13 | 2022-12-13 |
-| [IRL](https://open.spotify.com/track/1TWo3biVjxcOMoJpG1u7TG) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [IRL](https://open.spotify.com/album/26OLnXoPybuXQIqWXWBCbz) | 3:01 | 2023-10-26 |  |
+| [IRL](https://open.spotify.com/track/1TWo3biVjxcOMoJpG1u7TG) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [IRL](https://open.spotify.com/album/26OLnXoPybuXQIqWXWBCbz) | 3:01 | 2023-10-26 | 2024-02-09 |
 | [IT ISN'T ME](https://open.spotify.com/track/7KJ4sdjdKQdXgM47Ifd5RK) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [VOLPETRON ASCENDS EP](https://open.spotify.com/album/3KspUuYZY7CFg2BF72Tt03) | 3:07 | 2023-08-24 | 2023-12-14 |
 | [It's Not Love](https://open.spotify.com/track/7mv9t5XQUSHa4akJAwdmiZ) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Roee Yeger](https://open.spotify.com/artist/532H5OS6W0NQak3xMOp7fz), [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [It's Not Love](https://open.spotify.com/album/3jUr6DL5fNek9PGfdKwxiE) | 4:49 | 2023-01-09 | 2023-03-23 |
 | [it’s not easy when you’re alone](https://open.spotify.com/track/1T44fRUBJqwWjZDttsMbJv) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV), [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [this feeling that never ends](https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv) | 2:09 | 2022-12-03 | 2023-02-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Katzi, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,135 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,147 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Ravers of the Universe](https://open.spotify.com/track/1q3ohBcWaW8WxUtgO42s1C) | [Ben Evers](https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43) | [Ravers of the Universe](https://open.spotify.com/album/527n3cqITL0S9wEQ0EjZhP) | 7:50 |
 | 80 | [panik in der diskothek](https://open.spotify.com/track/7f3xeKTNAIilb5qoCZCeJZ) | [Kerobin](https://open.spotify.com/artist/6pYYaZuYjWGK2jmEksbUY8) | [panik in der diskothek](https://open.spotify.com/album/64Z2YSL9SFouQsyy4pktsg) | 2:25 |
 
-Snapshot ID: `MCw5MzFhNDU3NmZhNTEzM2E5ZDZiODVjNDZhODgwODZlMDFlNDc5ODhl`
+Snapshot ID: `MCw0N2Q0NDgwNTk5ZjExMzdiMzYyYWMyNjliMGVhMTQzNThhZGUwNDBl`

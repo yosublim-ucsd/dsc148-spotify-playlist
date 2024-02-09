@@ -2,9 +2,9 @@
 
 ### [Hot Alternative](https://open.spotify.com/playlist/37i9dQZF1DWUa8WMYIRY8Y)
 
-> Les meilleurs morceaux alternatifs du moment\. Photo : The Last Dinner Party
+> Les meilleurs morceaux alternatifs du moment\. Photo : Etta Marcus
 
-137 songs - 8 hr 28 min
+142 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [All The Same](https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [All The Same](https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt) | 2:55 | 2024-01-11 | 2024-01-19 |
 | [Another good year for the roses](https://open.spotify.com/track/1YoOb9usnbDLSAACSSCwzP) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Another good year for the roses](https://open.spotify.com/album/56qRporNZTzZiqwfJaEsV0) | 5:34 | 2023-10-19 | 2023-12-22 |
 | [Another Victim](https://open.spotify.com/track/2QxdR5kas7UBRzKDjNz3zA) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Another Victim](https://open.spotify.com/album/6fdeB3pBnXfZrLimBZGpBT) | 3:52 | 2023-09-28 | 2023-11-03 |
-| [Artschool](https://open.spotify.com/track/2sXSfa8TIXgadMsS0Cu9p2) | [Hoorsees](https://open.spotify.com/artist/2jEi3FU5iGeVWxOCm9BTX4) | [Artschool](https://open.spotify.com/album/777lgsIpK2gGjr1oL4SsG7) | 3:19 | 2023-11-30 |  |
+| [Artschool](https://open.spotify.com/track/2sXSfa8TIXgadMsS0Cu9p2) | [Hoorsees](https://open.spotify.com/artist/2jEi3FU5iGeVWxOCm9BTX4) | [Artschool](https://open.spotify.com/album/777lgsIpK2gGjr1oL4SsG7) | 3:19 | 2023-11-30 | 2024-02-09 |
 | [Barbaric](https://open.spotify.com/track/1vDnhuoFPLK3Vgf64yO8fG) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF) | 4:08 | 2023-09-28 | 2023-11-03 |
 | [Beautiful Everything](https://open.spotify.com/track/73RorSjAZnRkFzUWYFx4yg) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Beautiful Everything](https://open.spotify.com/album/6h6vVbN20Moi61HDllYhR9) | 4:18 | 2024-01-18 |  |
 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-11 |  |
@@ -43,11 +43,13 @@
 | [Don't You Want To Sleep With Someone Normal?](https://open.spotify.com/track/0UwDwiamblRdcYyzfDJS4k) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Don't You Want To Sleep With Someone Normal?](https://open.spotify.com/album/3pZbBTlwXWw77Tj5Euwe3s) | 3:48 | 2023-12-08 | 2024-01-19 |
 | [DooM Dance \(feat\. Carpenter Brut, Gavin Rossdale\)](https://open.spotify.com/track/20JIsSw5ZYDg6ikx91vnVV) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS), [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Gavin Rossdale](https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6) | [DooM Dance \(feat\. Carpenter Brut, Gavin Rossdale\)](https://open.spotify.com/album/23pEJLlwOx3z0qOw3rT1AY) | 3:36 | 2023-09-28 | 2023-10-27 |
 | [Doubt](https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 2:35 | 2023-12-21 |  |
+| [DUST OFF / START AGAIN](https://open.spotify.com/track/5vyDsprQI2koIpWbFIrAqI) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [DUST OFF / START AGAIN](https://open.spotify.com/album/4DX48GxWm0UadGrp1dDT3O) | 3:44 | 2024-02-08 |  |
 | [Exits Blocked](https://open.spotify.com/track/6ZjQr2u2refwSwIE1Y2FFQ) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Hot Air Balloon EP](https://open.spotify.com/album/6FQhPhyUfZcfqvjeGd4lhC) | 3:29 | 2024-01-04 |  |
 | [Fairlies](https://open.spotify.com/track/5GxHieECgT7L3Uo92HHUef) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Chaos For The Fly](https://open.spotify.com/album/0lYFv5JDwH0NwiufmU4GKj) | 4:10 | 2023-09-28 |  |
 | [Faraway](https://open.spotify.com/track/0pgUhVXiLkbnmyRPBrk3A3) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [Faraway](https://open.spotify.com/album/4X90ucwF3x1z3eTinhK4w4) | 5:08 | 2024-01-04 |  |
 | [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 | 2023-09-28 | 2023-10-20 |
-| [Fried Rice](https://open.spotify.com/track/1mE0VuGu21W63oGEnJ7hq2) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Fried Rice](https://open.spotify.com/album/4i1Tx8xN9dlwNmMaa8KLPj) | 3:27 | 2023-10-05 |  |
+| [Fishbrain](https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Fishbrain](https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc) | 4:37 | 2024-02-08 |  |
+| [Fried Rice](https://open.spotify.com/track/1mE0VuGu21W63oGEnJ7hq2) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Fried Rice](https://open.spotify.com/album/4i1Tx8xN9dlwNmMaa8KLPj) | 3:27 | 2023-10-05 | 2024-02-09 |
 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 | 2024-01-11 |  |
 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 | 2023-09-28 | 2023-11-03 |
 | [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 | 2023-12-08 |  |
@@ -58,7 +60,7 @@
 | [Heaven \- feat\. Damon Albarn](https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 5:22 | 2023-10-19 | 2023-11-17 |
 | [Heaven In Your Hands](https://open.spotify.com/track/0Bfu8xiBLLtNk66S0CWnPY) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Heaven In Your Hands](https://open.spotify.com/album/57ZBVLIHtcXfBdicj7K1Tr) | 2:58 | 2024-02-01 |  |
 | [Hello](https://open.spotify.com/track/0AvmYTwL16E2CAqCrXP0dW) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Hello](https://open.spotify.com/album/2dVvbYd3dfLWqDhFDLRK5S) | 3:16 | 2023-10-19 | 2024-01-27 |
-| [Hello](https://open.spotify.com/track/0p3DnWActE2qcJDqs6sI4k) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Hello, Everyday Changes](https://open.spotify.com/album/3vFfRZ6BS2xsYTSrTrvUUw) | 3:16 | 2024-01-25 |  |
+| [Hello](https://open.spotify.com/track/0p3DnWActE2qcJDqs6sI4k) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Hello, Everyday Changes](https://open.spotify.com/album/3vFfRZ6BS2xsYTSrTrvUUw) | 3:16 | 2024-01-25 | 2024-02-09 |
 | [Her Father and Her](https://open.spotify.com/track/2qZKtduc9kHdWz4Uwp9csE) | [Ben Kweller](https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn) | [Her Father and Her](https://open.spotify.com/album/0GdBjd1DWArDPXvzzNTb4q) | 3:13 | 2023-11-09 | 2023-11-24 |
 | [I COULDN'T CARE](https://open.spotify.com/track/0ikSWphMqweqLxsGa0cLjs) | [SHADESOFBLUE](https://open.spotify.com/artist/3e6Ols9XnX8XpR1dDFsRt6) | [I Couldn't Care](https://open.spotify.com/album/416pePvAcGPEqundwgHGtG) | 4:19 | 2023-09-28 | 2023-12-08 |
 | [I Don't Remember](https://open.spotify.com/track/14ZOrTzkLV7rfTsdFiBqXj) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [I Don't Remember](https://open.spotify.com/album/1CPbjSbGXKqOzIgj3BBj62) | 3:57 | 2023-11-30 | 2024-01-26 |
@@ -82,6 +84,7 @@
 | [Mother Nature](https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Mother Nature](https://open.spotify.com/album/0wnCqHJiAp8c2XWK0yuFA1) | 3:56 | 2023-11-02 | 2023-12-15 |
 | [Mourir Demain](https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mourir Demain](https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw) | 3:27 | 2024-01-25 |  |
 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-09-28 | 2023-10-27 |
+| [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 | 2024-02-08 |  |
 | [My Best Friend](https://open.spotify.com/track/2vYAKGRyybrFQL1rdHXxM2) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [My Best Friend](https://open.spotify.com/album/5eZNZwivm3Ux6EHvLfK3ba) | 3:16 | 2024-01-11 |  |
 | [My Golden Years](https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [My Golden Years](https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj) | 3:13 | 2024-01-04 |  |
 | [My Lady of Mercy](https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [My Lady Of Mercy](https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0) | 2:55 | 2023-11-16 | 2024-01-05 |
@@ -133,9 +136,11 @@
 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 | 2024-02-01 |  |
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-09-28 |  |
 | [The Thief](https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [People Who Aren’t There Anymore](https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM) | 3:21 | 2024-01-25 |  |
-| [The Tower](https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Tower](https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD) | 3:36 | 2023-10-26 |  |
+| [The Tower](https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Tower](https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD) | 3:36 | 2023-10-26 | 2024-02-09 |
+| [The Whole Story](https://open.spotify.com/track/32nJA8poeqnOofwpmdnl5k) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [The Whole Story](https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal) | 2:32 | 2024-02-08 |  |
+| [Theatre](https://open.spotify.com/track/7sb94ZGWPLYRaVYRqOgfQC) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 2:59 | 2024-02-08 |  |
 | [Time Of Your Life](https://open.spotify.com/track/3MANuRQlw4dMMENY8gzcYl) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Time Of Your Life](https://open.spotify.com/album/7o2pbWYW58zhZiSHi6op6b) | 3:07 | 2023-10-19 | 2024-01-26 |
-| [TREES](https://open.spotify.com/track/1ncnbhT16pKyQV73MK9wHY) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [TREES](https://open.spotify.com/album/6vZAJX21PTGk70FR4IZ7De) | 2:53 | 2023-12-14 |  |
+| [TREES](https://open.spotify.com/track/1ncnbhT16pKyQV73MK9wHY) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [TREES](https://open.spotify.com/album/6vZAJX21PTGk70FR4IZ7De) | 2:53 | 2023-12-14 | 2024-02-09 |
 | [Unwanted](https://open.spotify.com/track/4rB5KgmlQ1Zr2qbxh8VRuR) | [Waves](https://open.spotify.com/artist/6OAt6nE577DixeDhfNFVkH) | [Unwanted](https://open.spotify.com/album/5sl41tm6B1uqOx7PB0sAas) | 3:47 | 2023-11-02 | 2023-11-24 |
 | [Velvet](https://open.spotify.com/track/5sNlEPRZEB1Nl4k1zCr1wT) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Velvet](https://open.spotify.com/album/5trdvQcIQiP8u6ivMTTEin) | 2:11 | 2024-01-18 |  |
 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 | 2023-11-16 | 2023-11-24 |

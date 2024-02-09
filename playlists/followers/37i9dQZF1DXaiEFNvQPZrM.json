@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 736575,
+  "2024-02-09": 736792,
   "date_first_scraped": "2022-02-19",
   "description": "Traditional country sounds from artists of yesterday and today.",
   "name": "Traditional Country",
@@ -753,6 +753,24 @@
       "duration_ms": 179600,
       "name": "Every Light In The House",
       "url": "https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0nFyIqvzHgoHPnIuDNbh0O"
+      },
+      "artists": [
+        {
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Fishin' in the Dark",
+      "url": "https://open.spotify.com/track/15jhnquhNS1IZMlM493UBW"
     },
     {
       "album": {
@@ -2163,7 +2181,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 197044,
       "name": "Over Drinkin\u2019 Under Thinkin\u2019",
       "url": "https://open.spotify.com/track/0RRMFJUWVI7Iu0Wd0DkHTs"

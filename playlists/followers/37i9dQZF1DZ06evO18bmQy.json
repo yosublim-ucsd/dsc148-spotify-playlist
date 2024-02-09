@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 192460,
+  "2024-02-09": 192532,
   "date_first_scraped": "2023-09-19",
   "description": "This is Djonga. The essential tracks, all in one playlist.",
   "name": "This Is Djonga",
@@ -537,7 +537,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 310375,
       "name": "Eu",
       "url": "https://open.spotify.com/track/0GTPvFFQDJdBzdy1mGew4m"
@@ -1337,7 +1337,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 155003,
       "name": "Respeita",
       "url": "https://open.spotify.com/track/24suhwFB6JEluRbB8IKTbQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Lukas Agustinho, Gabriela Rocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021,370 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,021,834 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 51 | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y) | 5:12 |
 | 52 | [O Nome de Jesus \- Ao Vivo](https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Nome de Jesus \(Ao Vivo\)](https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI) | 8:48 |
 | 53 | [Minha Essência](https://open.spotify.com/track/78LeIXA2DNk2FsgXko16kE) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Minha Essência](https://open.spotify.com/album/3UgzGMBPgRGe7GY2mdQKOQ) | 4:33 |
-| 54 | [Você Nasceu Pra Dar Certo](https://open.spotify.com/track/21oPwXcfY81BrGhrr105os) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Você Nasceu Pra Dar Certo](https://open.spotify.com/album/0yW9gXrE07qjNVwIVTWFww) | 4:16 |
-| 55 | [Quebro Meu Vaso](https://open.spotify.com/track/6g88LTq36Dhe7Dgl3mRph3) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Quebro Meu Vaso](https://open.spotify.com/album/13Wq5d9gRK2l5SScsiiXO2) | 5:13 |
+| 54 | [Quebro Meu Vaso](https://open.spotify.com/track/6g88LTq36Dhe7Dgl3mRph3) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Quebro Meu Vaso](https://open.spotify.com/album/13Wq5d9gRK2l5SScsiiXO2) | 5:13 |
+| 55 | [Você Nasceu Pra Dar Certo](https://open.spotify.com/track/21oPwXcfY81BrGhrr105os) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Você Nasceu Pra Dar Certo](https://open.spotify.com/album/0yW9gXrE07qjNVwIVTWFww) | 4:16 |
 | 56 | [Deus de Milagres \- Ao Vivo](https://open.spotify.com/track/2pniWHcFFrhNfR5SlUB5Ba) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Deus de Milagres \(Ao Vivo\)](https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9) | 5:48 |
 | 57 | [Quero Voltar Pra Casa \- Ao Vivo](https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Quero Voltar Pra Casa \(Ao Vivo\)](https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4) | 6:05 |
 | 58 | [Águas Purificadoras/Oceanos \- Ao Vivo](https://open.spotify.com/track/7zqF7owVpOCqpCd51iYyUJ) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [John Dias](https://open.spotify.com/artist/3einRPzp7ZMWn7M360r8zc) | [Águas Purificadoras/Oceanos \(Ao Vivo\)](https://open.spotify.com/album/7aOm27XpVLbrF6c5oRRun5) | 6:38 |
 | 59 | [Inflama \- Ao Vivo](https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Inflama \(Ao Vivo\)](https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8) | 6:51 |
-| 60 | [Pra Sempre YHWH](https://open.spotify.com/track/3WT5NnA09K10tgY7O17RF4) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Pra Sempre YHWH](https://open.spotify.com/album/7FrnuDNVM4ME4NzotXKxlO) | 7:33 |
-| 61 | [Espírito, Enche a Minha Vida](https://open.spotify.com/track/5vui0rUNNhaYWzGKsYYq8H) | [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh), [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN) | [Deus Não Falhará](https://open.spotify.com/album/6WddTfFBjojKQZ7VMztSah) | 4:03 |
+| 60 | [Espírito, Enche a Minha Vida](https://open.spotify.com/track/5vui0rUNNhaYWzGKsYYq8H) | [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh), [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN) | [Deus Não Falhará](https://open.spotify.com/album/6WddTfFBjojKQZ7VMztSah) | 4:03 |
+| 61 | [Pra Sempre YHWH](https://open.spotify.com/track/3WT5NnA09K10tgY7O17RF4) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Pra Sempre YHWH](https://open.spotify.com/album/7FrnuDNVM4ME4NzotXKxlO) | 7:33 |
 | 62 | [Nem Um Segundo](https://open.spotify.com/track/7epXtZHT9aSqU4WRpbNrBA) | [Gabriel Pompeo](https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nem Um Segundo](https://open.spotify.com/album/1L0d5ejVgEd1og01wwET1u) | 5:49 |
 | 63 | [Ele Vem / A Cidade Santa \- Ao Vivo](https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Ele Vem / A Cidade Santa \(Ao Vivo\)](https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ) | 5:29 |
 | 64 | [O Amor Tem Um Nome \- Ao Vivo](https://open.spotify.com/track/6iNLDkJjEGaqguwPWwfrXx) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [O Amor Tem Um Nome \(Ao Vivo\)](https://open.spotify.com/album/1pYPXvssuXozUQKxQu5xt2) | 7:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 99 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 |
 | 100 | [O Grande Eu Sou](https://open.spotify.com/track/4bvgiKYPehGp4OUSflTPTt) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Grande Eu Sou](https://open.spotify.com/album/62QQniKZ3Sw4SAR2s6Er89) | 6:28 |
 
-Snapshot ID: `MCw4YzYwNWZmYzAwOTUyZjAyNzJlMzFlNzg0MWYyMmQyNmEzY2JmNTUy`
+Snapshot ID: `MCw0ODVhODVjN2M2N2JlNTY2YTZiZGMwZDNjN2RjZjgxZjVkYjhmZjIw`

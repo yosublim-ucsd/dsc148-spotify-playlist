@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 
 > Let the songs speak\. Cover: VEDO
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,245 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,241 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 65 | [Waterfalls](https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Love Scars II](https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs) | 2:41 |
 | 66 | [How Many](https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [How Many](https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm) | 3:18 |
 | 67 | [Swerve](https://open.spotify.com/track/1szukOBC3EGeotj9HEVbjS) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | ['95 Civic](https://open.spotify.com/album/4UoHIrUDmQa9WTLsKg7q6T) | 3:19 |
-| 68 | [Timeless](https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Timeless](https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47) | 3:14 |
-| 69 | [Just Like Me](https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3) | [Ivory Scott](https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Just Like Me](https://open.spotify.com/album/4GwFV6yUGdX5sJBJILATNZ) | 2:30 |
+| 68 | [Just Like Me](https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3) | [Ivory Scott](https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Just Like Me](https://open.spotify.com/album/4GwFV6yUGdX5sJBJILATNZ) | 2:30 |
+| 69 | [Timeless](https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Timeless](https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47) | 3:14 |
 | 70 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 |
 | 71 | [Satisfied](https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Satisfied](https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn) | 2:38 |
 | 72 | [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 77 | [Presence](https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD) | [Gemaine](https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03), [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [Presence](https://open.spotify.com/album/7qLaG83ajGXlT4qwVwZNXs) | 3:04 |
 | 78 | [For Now](https://open.spotify.com/track/443THossCBCsZQ91AKnBDP) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [For Now](https://open.spotify.com/album/0Ge8tR0lq1n6wVtYZTzWL1) | 2:46 |
 | 79 | [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 |
-| 80 | [Maddest Hoes](https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Maddest Hoes](https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU) | 2:34 |
-| 81 | [New Nigga](https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 2:29 |
+| 80 | [New Nigga](https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 2:29 |
+| 81 | [Maddest Hoes](https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Maddest Hoes](https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU) | 2:34 |
 | 82 | [Pretty Ass Bish](https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Pretty Ass Bish](https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8) | 2:23 |
 | 83 | [Hurt Before](https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Hurt Before](https://open.spotify.com/album/5Pp8b3ejvglrVW7D8EXOoV) | 2:02 |
 | 84 | [3am](https://open.spotify.com/track/1pXiO2TJZw3n2BzstJxWao) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [More Than Friends](https://open.spotify.com/album/0WWhWyHvnWbxXl3lTDGQJN) | 2:59 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 93 | [Alone](https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:01 |
 | 94 | [Care](https://open.spotify.com/track/1SGEUpFPiZJZLGPrEkxD0R) | [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb) | [LOVERS WAVE VOL\. 1](https://open.spotify.com/album/7sxvlwZt8v20dIbwxBVj1B) | 1:48 |
 | 95 | [Go Get Her](https://open.spotify.com/track/2N3vxwIxjMKYCFJfGwucnf) | [SHRETA](https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Go Get Her](https://open.spotify.com/album/7zTr0d1lb0Wak529YFKBCm) | 2:43 |
-| 96 | [Opps](https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk) | [From Me, To Me](https://open.spotify.com/album/4IQMv39CumpjHwaqr9yvhI) | 3:16 |
+| 96 | [Either Way](https://open.spotify.com/track/3RS5YuY2AD0Fbz9VxLd9zj) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Either Way](https://open.spotify.com/album/3qnBJIsT0jCcTtRVAUMGTv) | 2:55 |
 | 97 | [212](https://open.spotify.com/track/3onifXN13iI8OG6PblmC3m) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [212](https://open.spotify.com/album/1m33fAX1CPDc9hydoXaVDV) | 2:26 |
-| 98 | [Either Way](https://open.spotify.com/track/3RS5YuY2AD0Fbz9VxLd9zj) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Either Way](https://open.spotify.com/album/3qnBJIsT0jCcTtRVAUMGTv) | 2:55 |
+| 98 | [Opps](https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk) | [From Me, To Me](https://open.spotify.com/album/4IQMv39CumpjHwaqr9yvhI) | 3:16 |
 | 99 | [Life](https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Life](https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi) | 2:55 |
 | 100 | [My Luv Freestyle](https://open.spotify.com/track/45V6vfnJyC6Pmi1H4jFPZU) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [S2ML](https://open.spotify.com/album/1G51luYDLyckmDyBuntQdL) | 3:46 |
 
-Snapshot ID: `MCw5NzRjZGQ0YWU0NDc2MjE4ZDc4YzRlMjA5ZDM2ZWM0YzE4NjBhZDYz`
+Snapshot ID: `MCw3MjA4ODhmZjA2ZmU0YjA0YWI0M2UzYjM1YjcyZjFkYzNjYzhhYjYz`

@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Moa Rivera & Lenier",
-  "num_followers": 1809984,
+  "num_followers": 1810008,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTBkZDlmOTViNTg4ZmYxYmM1NTE5YjliM2QwODE4M2E3YWIyZTFm",
+  "snapshot_id": "MCw1OGViMDM0ZDQxY2IxNmRhYTM2NjhkYmFkZTg5NDA3MTA4MmJlZWEz",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Exploring Latin Heritage, Vol.3",
-        "url": "https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saboreo",
-          "url": "https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9"
-        }
-      ],
-      "duration_ms": 335626,
-      "name": "La Vamo a Tumbar",
-      "url": "https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Soy",
         "url": "https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 263631,
       "name": "Soy",
       "url": "https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Exploring Latin Heritage, Vol.3",
+        "url": "https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saboreo",
+          "url": "https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9"
+        }
+      ],
+      "duration_ms": 335626,
+      "name": "La Vamo a Tumbar",
+      "url": "https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Calle Linda (Golden Edition)",
-        "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
-      },
-      "artists": [
-        {
-          "name": "Pirulo y la Tribu",
-          "url": "https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO"
-        }
-      ],
-      "duration_ms": 383040,
-      "name": "Loco Pero Feliz",
-      "url": "https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Debut y Segunda Tanda, Vol.1",
         "url": "https://open.spotify.com/album/1m8xBkNoOgnAPnHL5VLdem"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 276186,
       "name": "Bailando A Tu Son",
       "url": "https://open.spotify.com/track/3vrPR7zhJKvVG5INzVu8l6"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Calle Linda (Golden Edition)",
+        "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
+      },
+      "artists": [
+        {
+          "name": "Pirulo y la Tribu",
+          "url": "https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO"
+        }
+      ],
+      "duration_ms": 383040,
+      "name": "Loco Pero Feliz",
+      "url": "https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t"
     },
     {
       "added_at": "2024-02-02 05:00:00",

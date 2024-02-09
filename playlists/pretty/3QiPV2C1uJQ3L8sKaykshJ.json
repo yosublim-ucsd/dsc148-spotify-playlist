@@ -1,13 +1,29 @@
 {
   "description": "Listen to A-List tracks from RCA Records featuring music from Doja Cat, Latto, Tate McRae, SZA, and more. Cover: Doja Cat",
-  "num_followers": 13638,
+  "num_followers": 13639,
   "original_name": "The RCA-List",
   "owner": {
     "name": "RCA Records",
     "url": "https://open.spotify.com/user/rcarecords"
   },
-  "snapshot_id": "MjQwMywzMWNiOWQ3ZTllMTE3Njg1NmIxZDliMDdiOTIzYTdlNTFiNzE0YmEy",
+  "snapshot_id": "MjQwNSwwYzNiZTY0NDI0MWM0Yjk5ZDA4MGVjMmNhYTA5ZWRmZjUxN2U0YjYy",
   "tracks": [
+    {
+      "added_at": "2024-02-08 20:53:05",
+      "album": {
+        "name": "Never Lose Me",
+        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
+    },
     {
       "added_at": "2023-09-21 20:50:45",
       "album": {

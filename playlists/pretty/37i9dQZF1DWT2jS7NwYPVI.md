@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your rock/alt cheat sheet feat\. the 2024 Rock Artists to Watch  \| Cover: Softcult
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,546 likes - 102 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,686 likes - 102 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 101 | [BACKSTABBER](https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [BACKSTABBER](https://open.spotify.com/album/1RFijpHOUqGPZ3hdvcm8IM) | 3:08 |
 | 102 | [Apollo](https://open.spotify.com/track/6NMUkluQ4ZI6XwGuqH2Z2n) | [Slow Fiction](https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW) | [Apollo](https://open.spotify.com/album/4x11dM49Sq4awkswFoJfoR) | 3:19 |
 
-Snapshot ID: `MCwwMjVjNTczNTE0ZTdkZjg0OGNmNDZjMDQ3NjhjMGU0MjU3ZWUwMzM0`
+Snapshot ID: `MCwzYmU5ZTE1MWI0NGNhY2Q3NGEwMjgwMGZhMDcxMzAwMjUzMjZiYzVm`

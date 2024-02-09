@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 903275,
+  "2024-02-09": 903283,
   "date_first_scraped": "2021-12-21",
   "description": "Game day is our favorite day of the week.",
   "name": "Tailgate Party",
@@ -3298,6 +3298,24 @@
     },
     {
       "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223093,
+      "name": "Red (Taylor's Version)",
+      "url": "https://open.spotify.com/track/4OAuvHryIVv4kMDNSLuPt6"
+    },
+    {
+      "album": {
         "name": "#1s ... and then some",
         "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
@@ -4957,7 +4975,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 231124,
       "name": "You Belong With Me (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA"

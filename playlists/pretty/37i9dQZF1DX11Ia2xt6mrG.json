@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Lex en portada.",
-  "num_followers": 55914,
+  "num_followers": 55930,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDQ5MTBmZDNhZDNlOGZiYTA1NGQwNzljZmY3NTg2OTE1YWFjYTYx",
+  "snapshot_id": "MCxmMWJjMTFjYmU3ZTFjZDk4NzEwZTQyZDNjNmVkMzhkYzY5YWI3NGM0",
   "tracks": [
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
-      },
-      "artists": [
-        {
-          "name": "Juan Soto",
-          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
-        },
-        {
-          "name": "Lemon Mint",
-          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
-        }
-      ],
-      "duration_ms": 252579,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Where Have U Been",
         "url": "https://open.spotify.com/album/2er4rYBJ0a39zDEj0rElN5"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 222957,
       "name": "Where Have U Been",
       "url": "https://open.spotify.com/track/4NN9USZjAv2dPRX3t7DWhX"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
+      },
+      "artists": [
+        {
+          "name": "Juan Soto",
+          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
+        },
+        {
+          "name": "Lemon Mint",
+          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
+        }
+      ],
+      "duration_ms": 252579,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1547,22 +1547,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Thousand Drums",
-        "url": "https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd"
+        "name": "M13D0!!!",
+        "url": "https://open.spotify.com/album/4aTl3DWFahOvOjDALn1hgp"
       },
       "artists": [
         {
-          "name": "Orjan Nilsen",
-          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+          "name": "Tzunami",
+          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
         },
         {
-          "name": "ANG",
-          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+          "name": "Mikeanyway",
+          "url": "https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M"
         }
       ],
-      "duration_ms": 201230,
-      "name": "Thousand Drums",
-      "url": "https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr"
+      "duration_ms": 213031,
+      "name": "M13D0!!!",
+      "url": "https://open.spotify.com/track/3Z9FCYR83E8qPTOp8CPmaO"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1587,22 +1587,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "M13D0!!!",
-        "url": "https://open.spotify.com/album/4aTl3DWFahOvOjDALn1hgp"
+        "name": "Thousand Drums",
+        "url": "https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd"
       },
       "artists": [
         {
-          "name": "Tzunami",
-          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
         },
         {
-          "name": "Mikeanyway",
-          "url": "https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M"
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
         }
       ],
-      "duration_ms": 213031,
-      "name": "M13D0!!!",
-      "url": "https://open.spotify.com/track/3Z9FCYR83E8qPTOp8CPmaO"
+      "duration_ms": 201230,
+      "name": "Thousand Drums",
+      "url": "https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr"
     },
     {
       "added_at": "2024-02-02 06:00:00",

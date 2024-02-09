@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Corridor",
-  "num_followers": 4045,
+  "num_followers": 4054,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDVmNGI2YWU5MmUxMzdmNmZiZmMwOWM4MzE0MGM5MzgzOTZhYTVm",
+  "snapshot_id": "MCwzNzA0Y2U1N2VhYjY1NTYyYmMwYTAxZDhiMjdiZDAwMmExYzZlMDUw",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "\u00c0 demain peut-\u00eatre",
+        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
+      },
+      "artists": [
+        {
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "Anomie",
+      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Elle vit dans les bois",
         "url": "https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 122253,
       "name": "Celui qui attend",
       "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "\u00c0 demain peut-\u00eatre",
-        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
-      },
-      "artists": [
-        {
-          "name": "Galaxie",
-          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Anomie",
-      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Pink Dogs on the Green Grass",
-        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
-      },
-      "artists": [
-        {
-          "name": "Paul Jacobs",
-          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
-        }
-      ],
-      "duration_ms": 225249,
-      "name": "Christopher Robbins",
-      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Fleur de l'\u00c2ge",
         "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
       },
@@ -515,34 +499,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Tu ne mourras pas",
-        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
+        "name": "Pink Dogs on the Green Grass",
+        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
       },
       "artists": [
         {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+          "name": "Paul Jacobs",
+          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
         }
       ],
-      "duration_ms": 200765,
-      "name": "Demande-moi",
-      "url": "https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
-        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
-      },
-      "artists": [
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        }
-      ],
-      "duration_ms": 149226,
-      "name": "Entre mes jambes",
-      "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
+      "duration_ms": 225249,
+      "name": "Christopher Robbins",
+      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -567,6 +535,54 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
+        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "duration_ms": 149226,
+      "name": "Entre mes jambes",
+      "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Tu ne mourras pas",
+        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 200765,
+      "name": "Demande-moi",
+      "url": "https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
+      },
+      "artists": [
+        {
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "tu penses-tu + veux veux pas",
         "url": "https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 190284,
       "name": "veux veux pas",
       "url": "https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Maison ouverte",
-        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
-      },
-      "artists": [
-        {
-          "name": "Simon Kearney",
-          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
-        }
-      ],
-      "duration_ms": 239573,
-      "name": "Maison ouverte",
-      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -615,6 +615,22 @@
       "duration_ms": 298336,
       "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
       "url": "https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Maison ouverte",
+        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
+      },
+      "artists": [
+        {
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+        }
+      ],
+      "duration_ms": 239573,
+      "name": "Maison ouverte",
+      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -667,22 +683,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Darl\u00e8ne",
         "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
       },
@@ -695,38 +695,6 @@
       "duration_ms": 145936,
       "name": "Ton h\u00f4tel",
       "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "mile \u200eend (kiss ur friends)",
-        "url": "https://open.spotify.com/album/04EpaHiU3NdHePUCmxKyzJ"
-      },
-      "artists": [
-        {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "\u200emile \u200eend",
-      "url": "https://open.spotify.com/track/3lqVjU8Shn7UGlqY9ZDvpP"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Les gens qu'on aime",
-        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
-      },
-      "artists": [
-        {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Un peu de magie",
-      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -747,6 +715,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "mile \u200eend (kiss ur friends)",
+        "url": "https://open.spotify.com/album/04EpaHiU3NdHePUCmxKyzJ"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "\u200emile \u200eend",
+      "url": "https://open.spotify.com/track/3lqVjU8Shn7UGlqY9ZDvpP"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Isumagijunnaitaungituq (The Unforgiven)",
         "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 273997,
       "name": "Isumagijunnaitaungituq (The Unforgiven)",
       "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "Un peu de magie",
+      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "PICTURA DE IPSE : Musique directe",
-        "url": "https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN"
+        "name": "Quand la nuit tombe",
+        "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
       },
       "artists": [
         {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
         }
       ],
-      "duration_ms": 189712,
-      "name": "DIMANCHE SOIR",
-      "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
+      "duration_ms": 279397,
+      "name": "La photo",
+      "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Quand la nuit tombe",
-        "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
+        "name": "PICTURA DE IPSE : Musique directe",
+        "url": "https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN"
       },
       "artists": [
         {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
         }
       ],
-      "duration_ms": 279397,
-      "name": "La photo",
-      "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
+      "duration_ms": 189712,
+      "name": "DIMANCHE SOIR",
+      "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Chicout",
-        "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
-      },
-      "artists": [
-        {
-          "name": "Chassepareil",
-          "url": "https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u"
-        }
-      ],
-      "duration_ms": 220607,
-      "name": "Feu de for\u00eat",
-      "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "sadguitar_V777.wav",
         "url": "https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 237022,
       "name": "sadguitar_V777.wav",
       "url": "https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Chicout",
+        "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
+      },
+      "artists": [
+        {
+          "name": "Chassepareil",
+          "url": "https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u"
+        }
+      ],
+      "duration_ms": 220607,
+      "name": "Feu de for\u00eat",
+      "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
     },
     {
       "added_at": "2024-02-02 05:00:00",

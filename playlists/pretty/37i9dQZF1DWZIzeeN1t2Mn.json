@@ -1,12 +1,12 @@
 {
   "description": "Hymns and anthems of artists stepping  into the culture at large! Speak truth. Cover; Joshua Luke Smith",
-  "num_followers": 52926,
+  "num_followers": 52927,
   "original_name": "Speak Into Chaos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWVhZjk3YTk1OGVjNDQ0MmU3ZDAwN2I4NTZlZDU1NThmYjYzOGQx",
+  "snapshot_id": "MCxiMTczN2E4N2JkYTRkZjQxZTA1ZGIzYjY0MDM5MDgwZTI3ZDY0OTUw",
   "tracks": [
     {
       "added_at": "2020-06-17 12:51:10",
@@ -455,14 +455,10 @@
     {
       "added_at": "2020-06-17 12:51:10",
       "album": {
-        "name": "Moody",
-        "url": "https://open.spotify.com/album/7r35SQX9UlGneWZ8zssDNg"
+        "name": "Not Normal",
+        "url": "https://open.spotify.com/album/3JJaILxOsjmjTAbH42h9sE"
       },
       "artists": [
-        {
-          "name": "Ilish",
-          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
-        },
         {
           "name": "Wes Harris",
           "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
@@ -470,11 +466,15 @@
         {
           "name": "Rapzilla",
           "url": "https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav"
+        },
+        {
+          "name": "Ilish",
+          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
         }
       ],
       "duration_ms": 169841,
       "name": "Not Normal",
-      "url": "https://open.spotify.com/track/4y91MyrwtphpODTtsgfvup"
+      "url": "https://open.spotify.com/track/5AtxqV1YiSWeeummpFFGQs"
     },
     {
       "added_at": "2020-06-17 12:51:10",

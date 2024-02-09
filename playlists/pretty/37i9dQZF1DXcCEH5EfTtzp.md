@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCEH5EfTtzp.md) - [plain]
 
 > Energetic drum & bass to keep your rhythm pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,777 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,869 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCEH5EfTtzp.md) - [plain]
 | 15 | [Black & Blue \- Netsky Remix](https://open.spotify.com/track/4y77n84Mlpb77Kf8dDu2BB) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J), [Boris Daenen](https://open.spotify.com/artist/4Zvz7mkxAtK7CJG0SYq2JV) | [Black & Blue](https://open.spotify.com/album/75gd3ez1KPjlnHqGnzYnRR) | 5:14 |
 | 16 | [Knowhow](https://open.spotify.com/track/75s49AukLTQKYZku9nycXJ) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Knowhow \(Liquicity Drum & Bass 2017\)](https://open.spotify.com/album/1DgB918UR7I5uNrJGjOJz2) | 4:28 |
 | 17 | [Freak \- Used Remix](https://open.spotify.com/track/48261IylfaueSdk1XKX0nh) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Freak \(Used Remix\)](https://open.spotify.com/album/0y7mYfre8eBAUSpHVCRFXY) | 4:12 |
-| 18 | [Pjanoo \- High Contrast Remix](https://open.spotify.com/track/1WU024wFloAyMpldxpIWRx) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 7:04 |
+| 18 | [We Can Have It All \- Sigma Remix](https://open.spotify.com/track/2tjmXoZlWjtqJCIyhr4Oq8) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG) | [Rave Digger \(Special Edition\)](https://open.spotify.com/album/36xBHpakmB89bWWOB572IV) | 5:37 |
 | 19 | [Freak](https://open.spotify.com/track/2WCU5Lt6pKZwbkK4ElwWpw) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Freak](https://open.spotify.com/album/6arnhhGtFAB6jQqWf5eO27) | 4:07 |
-| 20 | [We Can Have It All \- Sigma Remix](https://open.spotify.com/track/2tjmXoZlWjtqJCIyhr4Oq8) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG) | [Rave Digger \(Special Edition\)](https://open.spotify.com/album/36xBHpakmB89bWWOB572IV) | 5:37 |
+| 20 | [Pjanoo \- High Contrast Remix](https://open.spotify.com/track/1WU024wFloAyMpldxpIWRx) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 7:04 |
 | 21 | [Higher](https://open.spotify.com/track/60nlkWTIXD0mgz65j99wnR) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Higher / Stronger](https://open.spotify.com/album/05zavL6fMzYtkzUnIFlpd3) | 4:30 |
 | 22 | [Just a Thought](https://open.spotify.com/track/2EbqiDj1qphX79aYluZqtw) | [Fred V & Grafix](https://open.spotify.com/artist/1wzBqAvtFexgKHjt7i3ena), [Reija Lee](https://open.spotify.com/artist/19Lu0quNl0YH77llcXOiDB) | [Just a Thought](https://open.spotify.com/album/2rFUzgJlwZI9mc2Q9Wyh95) | 5:46 |
 | 23 | [Embers feat\. Jill Harris \- Feint Remix](https://open.spotify.com/track/1fnY8pVtFE5pnmzI8uVBTP) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Jill Harris](https://open.spotify.com/artist/0sS6vdjySCo7woMsZ1rWtx) | [Bloodless](https://open.spotify.com/album/38RBUsybcjNmmNyquxSoU0) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCEH5EfTtzp.md) - [plain]
 | 49 | [Futurism](https://open.spotify.com/track/0TzjN3TEKHd5Ewb2OLHpzQ) | [GEST](https://open.spotify.com/artist/0MmQJrFB85cY6DCj3wjCtk) | [Futurism](https://open.spotify.com/album/4TFqV5gUh7qoMhKa2FZBlM) | 5:13 |
 | 50 | [Revolution Not Televised](https://open.spotify.com/track/0J1odRZupjNiGiQZyCYCl3) | [Sweetpea](https://open.spotify.com/artist/62wR4mvjXztHU3tQ3Lhxgh), [Iris](https://open.spotify.com/artist/5PDWYfx3o05zDhOvruFS6N) | [Sampler 1: Sofa King Sick, Chapter 3](https://open.spotify.com/album/1myJoorvSNwRXaadYUs9kd) | 5:18 |
 
-Snapshot ID: `MCwzMGYzMTI0ZDAxMDE3MmNmNDc2ZmRkOTg0YzY3ZGQ2MjZhMjhiNzY3`
+Snapshot ID: `MCxjYmFiOWZhMTdiNDNlNTQwY2U2MjMxOWVhZDFkNmE4MTAyZDZjZDc2`

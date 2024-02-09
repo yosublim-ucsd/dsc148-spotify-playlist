@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629. \u063a\u0644\u0627\u0641: \u0645\u0635\u0637\u0641\u0649 \u0627\u0644\u0631\u0628\u064a\u0639\u064a\t",
+  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629. \u063a\u0644\u0627\u0641: \u0633\u064a\u0641 \u0646\u0628\u064a\u0644\t",
   "name": "\u0639\u0631\u0627\u0642\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 214615,
       "name": "Aalnnha Rasmi",
       "url": "https://open.spotify.com/track/2uzCSwQxPhUA7lGoiH7WlG"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 169811,
       "name": "Aljawu Ahrkah",
       "url": "https://open.spotify.com/track/1QLpo1Uz5zqngmxQ3SrRYW"
@@ -806,6 +806,24 @@
       "duration_ms": 170000,
       "name": "Anti Awel Warda",
       "url": "https://open.spotify.com/track/57aiYKSUJwT9cJImesS6vz"
+    },
+    {
+      "album": {
+        "name": "Aqatel Aleik",
+        "url": "https://open.spotify.com/album/4saD4MRfnhAtjUSMf3x49T"
+      },
+      "artists": [
+        {
+          "name": "Saif Nabeel",
+          "url": "https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213151,
+      "name": "Aqatel Aleik",
+      "url": "https://open.spotify.com/track/728GAuaucK6fCGTO4WNlNW"
     },
     {
       "album": {
@@ -2749,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "Kharetat Rohi",
+        "url": "https://open.spotify.com/album/4QrsKBnixRWc2fPzDL1Ozu"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Al Turky",
+          "url": "https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Kharetat Rohi",
+      "url": "https://open.spotify.com/track/1WsM8j2SPwxZES5qYDUChG"
+    },
+    {
+      "album": {
         "name": "khayef Akhsarah",
         "url": "https://open.spotify.com/album/6UiAuY0uUdbQkRlgfqDrYs"
       },
@@ -4682,7 +4718,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 193882,
       "name": "Yamak Mazaji",
       "url": "https://open.spotify.com/track/2bXithodmiWrEaTjOqcteg"

@@ -6,7 +6,7 @@
     "name": "Houseium Playlists",
     "url": "https://open.spotify.com/user/jayke0108"
   },
-  "snapshot_id": "NjIyNiw1MGIyOWM1ZjkwNDIwOTU0YmJmNzhiZGU3NjI2NDY1NmY5MjJjOTgw",
+  "snapshot_id": "NjIyNyw0MDUwNDVhMjMxNDQ1M2I5Y2I4Y2Y5NzdkYjlhNGVhMzcyMDBiYzVk",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:37",
@@ -619,6 +619,30 @@
       "duration_ms": 196363,
       "name": "Power",
       "url": "https://open.spotify.com/track/1s4oafjoXxEWHYN9lY4hzp"
+    },
+    {
+      "added_at": "2024-02-08 19:03:03",
+      "album": {
+        "name": "SHOTGUN (Remixed)",
+        "url": "https://open.spotify.com/album/2pkvS30fdBtvUDOmdhPlEG"
+      },
+      "artists": [
+        {
+          "name": "MixMason",
+          "url": "https://open.spotify.com/artist/5fIkkT8UZFZRKYGLdySPck"
+        },
+        {
+          "name": "Rogelio Douglas, Jr.",
+          "url": "https://open.spotify.com/artist/0ePXfiVMc8gLup2N453TiB"
+        },
+        {
+          "name": "Tyron Woods",
+          "url": "https://open.spotify.com/artist/4ESooQLvSkfCgHH19TCzmD"
+        }
+      ],
+      "duration_ms": 190539,
+      "name": "SHOTGUN - Tyron Woods Remix",
+      "url": "https://open.spotify.com/track/6X4AeotC8BoeBtE4OUeOaF"
     },
     {
       "added_at": "2024-01-29 18:58:26",

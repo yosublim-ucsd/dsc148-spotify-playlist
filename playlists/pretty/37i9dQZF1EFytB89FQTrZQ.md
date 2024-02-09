@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,436 likes - 301 songs - 16 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,437 likes - 301 songs - 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,9 +126,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 116 | [Paradise](https://open.spotify.com/track/3u8mSMVk5l74Nq6eHI0thL) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 4:28 |
 | 117 | [World To Me](https://open.spotify.com/track/67wOrrhEBS2jY5jn4P8lV8) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Luke James](https://open.spotify.com/artist/4E7AV8mtElSjHZP3xA9kyU) | [World To Me](https://open.spotify.com/album/4cxTDxRmzl5MokAiErrjyl) | 5:02 |
 | 118 | [Common Emotion \(feat\. MNEK\) \- The Golden Pony Remix](https://open.spotify.com/track/2Uu7xInCLYm2pgjNhBw909) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [The Golden Pony](https://open.spotify.com/artist/4nsYiXTOF3R7mfla5uxrTZ) | [Common Emotion \(feat\. MNEK\) \[Remixes\]](https://open.spotify.com/album/2FA9nxa3KLuiYtkoZj6WPd) | 4:11 |
-| 119 | [Hold Tight](https://open.spotify.com/track/1MSDYFqzCsVkXAU5BgKs63) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:37 |
-| 120 | [Change My Love](https://open.spotify.com/track/5z4G37A29NpXvYVUY8BnZX) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:24 |
-| 121 | [You Love Who You Love](https://open.spotify.com/track/05P2XnfYsMtbvajPRcLTzO) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [You Love Who You Love](https://open.spotify.com/album/5Qz6ewHWcFWlQ89R0aeTDb) | 3:05 |
+| 119 | [You Love Who You Love](https://open.spotify.com/track/05P2XnfYsMtbvajPRcLTzO) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [You Love Who You Love](https://open.spotify.com/album/5Qz6ewHWcFWlQ89R0aeTDb) | 3:05 |
+| 120 | [Hold Tight](https://open.spotify.com/track/1MSDYFqzCsVkXAU5BgKs63) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:37 |
+| 121 | [Change My Love](https://open.spotify.com/track/5z4G37A29NpXvYVUY8BnZX) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:24 |
 | 122 | [The Funk](https://open.spotify.com/track/7vnKb4rhd90PDvGcCyyRGk) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [The Funk](https://open.spotify.com/album/6BmTVoSgxOuPwBHwqXhthj) | 2:52 |
 | 123 | [Warm](https://open.spotify.com/track/5CfnI6FoZAE6PSB8goCEU0) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Warm](https://open.spotify.com/album/50T0VJB6biUODCulrsPOGn) | 3:26 |
 | 124 | [Revive \(Say Something\)](https://open.spotify.com/track/3ULbFYODpZrIYOmbCYho96) | [LuvBug](https://open.spotify.com/artist/6ci8SqTgjPrl4jetI82yqP) | [Revive \(Say Something\)](https://open.spotify.com/album/6qSimDc9IL5q0XWr6AeCSN) | 3:38 |
@@ -275,9 +275,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 265 | [The Flame \(Feat\. Siegal\)](https://open.spotify.com/track/0jD8NoEdV3msBb7yiuNay0) | [Messy Marv](https://open.spotify.com/artist/5QoPmqq8UfE0zsTWkM3CQD), [Siegal](https://open.spotify.com/artist/0crPGfFVQvuEi4oDF8EIbK) | [Disobayish](https://open.spotify.com/album/5L9rRqVeBmLeyv42SYQSBY) | 4:16 |
 | 266 | [GUESS MY FRIENDS WERE RIGHT](https://open.spotify.com/track/13lfAMNkn4JFgD5GlNNDXX) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM) | [GUESS MY FRIENDS WERE RIGHT](https://open.spotify.com/album/339eos66z4R7TFNQqJOXMH) | 3:01 |
 | 267 | [Heartbreaker](https://open.spotify.com/track/73DLxK3dXVqy37MZcIY3zP) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Heartbreaker](https://open.spotify.com/album/72C7xboUSQLQAJgILsuYXN) | 3:28 |
-| 268 | [Is It Wrong \- Main Mix](https://open.spotify.com/track/2myKcFWoAgze1hHO6QOQb1) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Is It Wrong](https://open.spotify.com/album/14tRqV2OKEE7HJSF1uH5N1) | 5:19 |
-| 269 | [Simulation](https://open.spotify.com/track/1nWVz4QTSIMYcdkUvllivw) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Modern Warfare \(EPs 1\-3\)](https://open.spotify.com/album/3xJIXGonvx4OfwZ8Rsbmzt) | 5:39 |
-| 270 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [Tyler Lewis](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
+| 268 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [Tyler Lewis](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
+| 269 | [Is It Wrong \- Main Mix](https://open.spotify.com/track/2myKcFWoAgze1hHO6QOQb1) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Is It Wrong](https://open.spotify.com/album/14tRqV2OKEE7HJSF1uH5N1) | 5:19 |
+| 270 | [Simulation](https://open.spotify.com/track/1nWVz4QTSIMYcdkUvllivw) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Modern Warfare \(EPs 1\-3\)](https://open.spotify.com/album/3xJIXGonvx4OfwZ8Rsbmzt) | 5:39 |
 | 271 | [Blinded by Your Grace, Pt\. 2](https://open.spotify.com/track/7hEGqdsqOgWTJ7PoESju4A) | [Rap Game](https://open.spotify.com/artist/3lZvE3KGexDe47RbK63aEK) | [Today's Hip\-Hop Radio Hits](https://open.spotify.com/album/04McrN5S0m8xeCs3NvZwtC) | 3:51 |
 | 272 | [True](https://open.spotify.com/track/6cfjl8xNdsiezl3Pq4f7sg) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP) | [True](https://open.spotify.com/album/1qcpuMHOqLXA1yitavP0xI) | 2:48 |
 | 273 | [Melody Of Us](https://open.spotify.com/track/7zZyFYpFPn0PZvKqVgm6YT) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Boombox Eternal: Halcyon Deluxe Edition](https://open.spotify.com/album/0hcLDyv4BKi3IlRXusqxzT) | 3:47 |
@@ -310,4 +310,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 300 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 | 301 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 
-Snapshot ID: `Mjg0NTU5NzAsMDAwMDAwMDAzYzBjMzUxYjJiY2EyNjlmMjE2NjIyZTVkYWIwYzA1ZQ==`
+Snapshot ID: `Mjg0NTc0MTAsMDAwMDAwMDA0MWQ1OTYyOGE5ZTJmYjFhMmY3NjQ2MmZhNDdkMDM5OA==`

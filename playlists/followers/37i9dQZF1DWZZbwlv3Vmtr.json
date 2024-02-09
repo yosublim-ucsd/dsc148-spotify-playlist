@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 427980,
+  "2024-02-09": 428155,
   "date_first_scraped": "2022-04-20",
   "description": "Uptempo instrumental hip hop beats.",
   "name": "Focus Flow",
@@ -7987,7 +7987,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 133468,
       "name": "MELT YOURSELF DOWN",
       "url": "https://open.spotify.com/track/7gZsCJTQQfqBMraiyvazHn"
@@ -12273,6 +12273,24 @@
       "duration_ms": 131411,
       "name": "Show Me Happiness",
       "url": "https://open.spotify.com/track/36IEUB6k3V3XmZpbdm2Jwk"
+    },
+    {
+      "album": {
+        "name": "signals",
+        "url": "https://open.spotify.com/album/5Z5NNGYHiOFFDjEu6AmUcO"
+      },
+      "artists": [
+        {
+          "name": "ex-pansive",
+          "url": "https://open.spotify.com/artist/4BZ2WJhxazwJCRGq3nzczV"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160874,
+      "name": "signals",
+      "url": "https://open.spotify.com/track/3TE7g7pg2i1E5WLhmAVfcF"
     },
     {
       "album": {

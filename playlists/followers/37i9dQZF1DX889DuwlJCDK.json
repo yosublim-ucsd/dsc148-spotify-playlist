@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 11937,
+  "2024-02-09": 11948,
   "date_first_scraped": "2023-07-30",
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: Bye-Bye-Hand\u306e\u65b9\u7a0b\u5f0f",
   "name": "\u9752\u6625\u3068\u4e00\u77ac",
@@ -856,6 +856,24 @@
     },
     {
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/16a4yEozxkuenTZ2EZ9fkw"
+      },
+      "artists": [
+        {
+          "name": "KOTORI",
+          "url": "https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267841,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/3xFka9Fj3vn299vIBqFUVu"
+    },
+    {
+      "album": {
         "name": "DAWN",
         "url": "https://open.spotify.com/album/728AONhuNSuYDoo6AH4q6E"
       },
@@ -867,7 +885,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 267841,
       "name": "DAWN",
       "url": "https://open.spotify.com/track/7qu2sVmtyhtUZIwh607B9w"
@@ -2845,7 +2863,7 @@
     {
       "album": {
         "name": "Oh Baby",
-        "url": "https://open.spotify.com/album/6a3sfW2toT55Z7N67b6GWI"
+        "url": "https://open.spotify.com/album/4mEjkhOzS5pRCjOlaiyQVj"
       },
       "artists": [
         {
@@ -2856,6 +2874,24 @@
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 253500,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/07u3NefB8uoyXaodhkIaEH"
+    },
+    {
+      "album": {
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/6a3sfW2toT55Z7N67b6GWI"
+      },
+      "artists": [
+        {
+          "name": "KALMA",
+          "url": "https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-08",
       "duration_ms": 253500,
       "name": "Oh Baby",
       "url": "https://open.spotify.com/track/0NutSBugy23p6qZrqFzx6P"
@@ -3672,6 +3708,24 @@
     },
     {
       "album": {
+        "name": "Super Sonic Girl",
+        "url": "https://open.spotify.com/album/2riAHViLvNHM09LsZuYyFl"
+      },
+      "artists": [
+        {
+          "name": "ZOOKARADERU",
+          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "Super Sonic Girl",
+      "url": "https://open.spotify.com/track/2Hiiy3oTMeqQg5hLQLw4bJ"
+    },
+    {
+      "album": {
         "name": "Sweet sweet candy time",
         "url": "https://open.spotify.com/album/57YQjhQNWCkmpt0OTUG9d6"
       },
@@ -4047,6 +4101,24 @@
       "duration_ms": 167045,
       "name": "YE",
       "url": "https://open.spotify.com/track/4sRaUXv7tUbO9h2zwMq9SB"
+    },
+    {
+      "album": {
+        "name": "Yell",
+        "url": "https://open.spotify.com/album/60y9C21RHhHnMMdWXunkav"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "Yell",
+      "url": "https://open.spotify.com/track/6jbW0l3nlZ3uh26p8vsC1K"
     },
     {
       "album": {
@@ -5123,7 +5195,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 203293,
       "name": "\u30a8\u30fc\u30eb",
       "url": "https://open.spotify.com/track/1EdXeXyIU56YKBP3kfmHB9"
@@ -5537,7 +5609,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 181826,
       "name": "\u30b9\u30fc\u30d1\u30fc\u30bd\u30cb\u30c3\u30af\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/7rwKeQuNEAvVGXhWthB0Wq"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl?si=IgtagbcLR92kynLsa_qxPw\">Nyota Parker</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL?si=8zZ92xoZQpeQsFsyEoUR7A\">The Big Hash</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -448,6 +448,24 @@
       "duration_ms": 232320,
       "name": "Abada Capoeira",
       "url": "https://open.spotify.com/track/6HXbeLz73RNj4TCHed7D4v"
+    },
+    {
+      "album": {
+        "name": "Severance Package",
+        "url": "https://open.spotify.com/album/3NlxHp2WiwQHxODvyCgDCy"
+      },
+      "artists": [
+        {
+          "name": "UYIHLO",
+          "url": "https://open.spotify.com/artist/5fYFLQeVq7PTOteHexySJ4"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95007,
+      "name": "Aberfeldy Avenue",
+      "url": "https://open.spotify.com/track/3rFo0UVfynxesJZMOHntfM"
     },
     {
       "album": {
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 151182,
       "name": "Bank Account",
       "url": "https://open.spotify.com/track/5tPuNGrJdBtrbydT1B4nuQ"
@@ -5748,6 +5766,24 @@
       "duration_ms": 248790,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/44J21DskWA212kLphA4gQr"
+    },
+    {
+      "album": {
+        "name": "Incomplete",
+        "url": "https://open.spotify.com/album/5ogp6XLYCgFt3wSsGBqjgQ"
+      },
+      "artists": [
+        {
+          "name": "2lee Stark",
+          "url": "https://open.spotify.com/artist/6YfEEVzlV2j4KImBCRI0TV"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Incomplete",
+      "url": "https://open.spotify.com/track/2zhCM6EhSYhIYYYxfqyXic"
     },
     {
       "album": {
@@ -10411,6 +10447,24 @@
     },
     {
       "album": {
+        "name": "Saphalaza",
+        "url": "https://open.spotify.com/album/2bRy7Gc7u4Igr54k6nXlyN"
+      },
+      "artists": [
+        {
+          "name": "Kiddo CSA",
+          "url": "https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111350,
+      "name": "Saphalaza",
+      "url": "https://open.spotify.com/track/15cXnboC3Mpzif7MetGtiA"
+    },
+    {
+      "album": {
         "name": "SAUCE (feat. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK)",
         "url": "https://open.spotify.com/album/12ErBakQQDRspBJCN3NulR"
       },
@@ -11777,6 +11831,36 @@
     },
     {
       "album": {
+        "name": "STEPE",
+        "url": "https://open.spotify.com/album/11Dq1QkfpfaXqRcAIK1CWA"
+      },
+      "artists": [
+        {
+          "name": "AB Moch",
+          "url": "https://open.spotify.com/artist/4TmMIr014UHoZSz3E4rX7x"
+        },
+        {
+          "name": "Mochen",
+          "url": "https://open.spotify.com/artist/7DkwT8IpIAjcquKnCwyFRg"
+        },
+        {
+          "name": "Treviyon",
+          "url": "https://open.spotify.com/artist/4NLTmwMi1nfnW9IW7o3cfe"
+        },
+        {
+          "name": "Maryson",
+          "url": "https://open.spotify.com/artist/3yLSL5lsc7fGyImXdT51vE"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191281,
+      "name": "STEPE",
+      "url": "https://open.spotify.com/track/2oz79OuC7HCrNTVpSsbHwK"
+    },
+    {
+      "album": {
         "name": "The Return of Soshangane Skywalker, Vol. 2",
         "url": "https://open.spotify.com/album/5T9MkoRRoBHsvKwK7zcaY7"
       },
@@ -12416,6 +12500,40 @@
       "duration_ms": 322746,
       "name": "THAT'S WASSUP",
       "url": "https://open.spotify.com/track/4suhCex4pekxVMgzpZ2sQj"
+    },
+    {
+      "album": {
+        "name": "THAT'S WASSUP (feat. Thato Saul, YoungstaCPT, Tyson Sybateli & ZRi.)",
+        "url": "https://open.spotify.com/album/2UbdeleCG2ygETKWANvkOH"
+      },
+      "artists": [
+        {
+          "name": "The Big Hash",
+          "url": "https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL"
+        },
+        {
+          "name": "Thato Saul",
+          "url": "https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn"
+        },
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        },
+        {
+          "name": "Tyson Sybateli",
+          "url": "https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy"
+        },
+        {
+          "name": "ZRi.",
+          "url": "https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322746,
+      "name": "THAT'S WASSUP (feat. Thato Saul, YoungstaCPT, Tyson Sybateli & ZRi.)",
+      "url": "https://open.spotify.com/track/320Y857NSRG3QtS9ggTG8E"
     },
     {
       "album": {

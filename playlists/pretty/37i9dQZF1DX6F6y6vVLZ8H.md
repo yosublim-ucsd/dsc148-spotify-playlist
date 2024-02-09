@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,026 likes - 53 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,047 likes - 53 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 23 | [Sedona](https://open.spotify.com/track/3oQMwKCFTi3wKi9VANfTbE) | [JunkBunny](https://open.spotify.com/artist/2UdPcvUuTpvrq7flh94PaE) | [Junk Rock](https://open.spotify.com/album/1uxlk6rLTGtccpbOyv6h6J) | 3:09 |
 | 24 | [May 16](https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg) | [Lagwagon](https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf) | [Let's Talk About Feelings](https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz) | 2:56 |
 | 25 | [Bomb Drop](https://open.spotify.com/track/1U9DTcVgCPu7GEZXMeQ4Uu) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Sound the Alarm](https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61) | 3:06 |
-| 26 | [bloody valentine](https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 3:25 |
+| 26 | [bloody valentine](https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 3:25 |
 | 27 | [Bass \(feat\. Tech N9ne & Hopsin\)](https://open.spotify.com/track/6oOX1c2fcsYbdgxUkI80h0) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT) | [Special Occasion](https://open.spotify.com/album/41EeKSi50U1kVWCq08Cqav) | 3:53 |
 | 28 | [No Cigar](https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:43 |
 | 29 | [Let's Ride](https://open.spotify.com/track/7fZBLUmhCMvIWQbigBPpOo) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Let's Ride](https://open.spotify.com/album/2m1guXMoPRTLjxzOhiJ765) | 3:24 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 52 | [Slow Learner](https://open.spotify.com/track/79W8lW8xyYayXfi8TTbtoD) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:11 |
 | 53 | [All My Friends Are Nobodies](https://open.spotify.com/track/0ImdOZzfzWSIkB4ToC2buF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [All My Friends Are Nobodies](https://open.spotify.com/album/6VTNdekziQXzcf4gvy9hcM) | 3:03 |
 
-Snapshot ID: `MCw2NTAyNDg4MDNjYmZhNmY3NzQ0Y2U4MDBmNDEyOGQ0ZGE3ZTc3ZmQ2`
+Snapshot ID: `MCxlYTY1MmUyMGU3NWE0MDhjNTQ4N2VmYjRmZWRiNDc2NTU0YzQzODYw`

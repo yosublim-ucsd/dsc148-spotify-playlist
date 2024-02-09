@@ -1,12 +1,12 @@
 {
   "description": "La pluma sensible detr\u00e1s de tus favoritas de regional mexicano.",
-  "num_followers": 102007,
+  "num_followers": 102042,
   "original_name": "Cancionero Horacio Palencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWRiMjEwOWQ1YTQxMjhiYzE5MDI3NjM2MDRiNjI0ODlhNjUzODQy",
+  "snapshot_id": "MCxjZTU2MWY2OWY0OTNhNDgyODRmZmM3OGE4OTM1MTA2ZDg3M2NjYTQz",
   "tracks": [
     {
       "added_at": "2021-11-11 19:24:28",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Sinaloense Hasta Las Cachas",
-        "url": "https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf"
-      },
-      "artists": [
-        {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Todo Porque Te Amo",
-      "url": "https://open.spotify.com/track/2W2mcZJZ250M9fSk0S1hKA"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 209906,
       "name": "Mi Raz\u00f3n De Ser",
       "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Sinaloense Hasta Las Cachas",
+        "url": "https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "Todo Porque Te Amo",
+      "url": "https://open.spotify.com/track/2W2mcZJZ250M9fSk0S1hKA"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -887,6 +887,26 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
+        "name": "De Fiesta Con La Sonora Dinamita",
+        "url": "https://open.spotify.com/album/3lFZeCRwiWkvCz4vUh9DgR"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Horacio Palencia",
+          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
+        }
+      ],
+      "duration_ms": 180682,
+      "name": "No Pasa Nada",
+      "url": "https://open.spotify.com/track/0W0SWGtoy0TZngx6p9LSNK"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
         "name": "Mujer De Todos, Mujer De Nadie",
         "url": "https://open.spotify.com/album/4bEnkTA8yQyyaAIkk0ZiVC"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 159626,
       "name": "Si Te Vas Ya No Regresas",
       "url": "https://open.spotify.com/track/4gVwidKQ2RK7WYyc3IRaF6"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
-        "name": "De Fiesta Con La Sonora Dinamita",
-        "url": "https://open.spotify.com/album/3lFZeCRwiWkvCz4vUh9DgR"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Horacio Palencia",
-          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
-        }
-      ],
-      "duration_ms": 180682,
-      "name": "No Pasa Nada",
-      "url": "https://open.spotify.com/track/0W0SWGtoy0TZngx6p9LSNK"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "M\u00e1s Adelante",
-        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Como Pez En El Agua",
-      "url": "https://open.spotify.com/track/2CpfZ5y47gaY5iGFGdIi6a"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "Amor Enfermo",
         "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 205666,
       "name": "De Ti Enamorado",
       "url": "https://open.spotify.com/track/3LkdhRNCXimKvOrO5vl0rC"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "M\u00e1s Adelante",
+        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Como Pez En El Agua",
+      "url": "https://open.spotify.com/track/2CpfZ5y47gaY5iGFGdIi6a"
     },
     {
       "added_at": "2021-11-11 19:24:28",

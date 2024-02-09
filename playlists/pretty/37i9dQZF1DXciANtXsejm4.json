@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 230071,
+  "num_followers": 230244,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWRkMDdkOWQ2YTAxYTllOTdiZTcxYjhlNjQ0ZjZmZjcyOTYwNTk5",
+  "snapshot_id": "MCxiODRlMGI4NWVhZTRlZjlkMjI0ODk0ODg3MDMyOTNiY2MyZWRlMTUz",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
+        "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
+      },
+      "artists": [
+        {
+          "name": "Grupo Trinidad",
+          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
+        }
+      ],
+      "duration_ms": 211986,
+      "name": "Tu Mujer En Mi Cama",
+      "url": "https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "25 A\u00f1os",
         "url": "https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 242501,
       "name": "A Decirme Qu\u00e9",
       "url": "https://open.spotify.com/track/0usHK6nqUWU1PLkKi1Gy7c"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
-        "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
-      },
-      "artists": [
-        {
-          "name": "Grupo Trinidad",
-          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
-        }
-      ],
-      "duration_ms": 211986,
-      "name": "Tu Mujer En Mi Cama",
-      "url": "https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -851,18 +851,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Placer y Olvido",
-        "url": "https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm"
+        "name": "\u00c9xitos Santafesinos Enganchados ATR",
+        "url": "https://open.spotify.com/album/0k6pbTWKg8k9qeAdYpTfzH"
       },
       "artists": [
         {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Grupo Trinidad",
+          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
         }
       ],
-      "duration_ms": 233429,
-      "name": "Placer y Olvido",
-      "url": "https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw"
+      "duration_ms": 236435,
+      "name": "\u00c9xitos Santafesinos Enganchados ATR",
+      "url": "https://open.spotify.com/track/2cBvpjA37H8AGuVhSpWbMv"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -883,22 +887,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "\u00c9xitos Santafesinos Enganchados ATR",
-        "url": "https://open.spotify.com/album/0k6pbTWKg8k9qeAdYpTfzH"
+        "name": "Placer y Olvido",
+        "url": "https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Grupo Trinidad",
-          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
         }
       ],
-      "duration_ms": 236435,
-      "name": "\u00c9xitos Santafesinos Enganchados ATR",
-      "url": "https://open.spotify.com/track/2cBvpjA37H8AGuVhSpWbMv"
+      "duration_ms": 233429,
+      "name": "Placer y Olvido",
+      "url": "https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "No se va",
-        "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 258937,
-      "name": "No se va",
-      "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "C\u00f3mo Le Gusta A Mi Gente",
         "url": "https://open.spotify.com/album/3DTqYBYOIkV3lq14dJDckg"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 253800,
       "name": "Que Precio Tiene El Cielo",
       "url": "https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "No se va",
+        "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 258937,
+      "name": "No se va",
+      "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
-      },
-      "artists": [
-        {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "Un Velero Llamado Libertad",
-      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Ritmo, Pasi\u00f3n y Sentimiento",
         "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 237949,
       "name": "Ella Dijo",
       "url": "https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Un Velero Llamado Libertad",
+      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1123,22 +1123,6 @@
       "duration_ms": 255465,
       "name": "Me Dediqu\u00e9 a Perderte - En Vivo",
       "url": "https://open.spotify.com/track/7JiYdbPQK2G4sDskpcrtC2"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/2HYbtLvbsiMkRMCIWOIR3R"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 219434,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/2HYbtLvbsiMkRMCIWOIR3R"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 219434,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Una Eterna Pasi\u00f3n",
         "url": "https://open.spotify.com/album/6rYOGgU9UPgjVhmpbBFVfn"
       },
@@ -1203,6 +1203,26 @@
       "duration_ms": 239595,
       "name": "Qu\u00e9 Se Siente",
       "url": "https://open.spotify.com/track/0sL2C1WvJnmrvE9F3hTZaw"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Te Sorprender\u00e1s",
+        "url": "https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel El Brujo",
+          "url": "https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk"
+        },
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "duration_ms": 188140,
+      "name": "Te Sorprender\u00e1s",
+      "url": "https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1235,26 +1255,6 @@
       "duration_ms": 241705,
       "name": "Esta Noche Quiero Brandy",
       "url": "https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Te Sorprender\u00e1s",
-        "url": "https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel El Brujo",
-          "url": "https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk"
-        },
-        {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
-        }
-      ],
-      "duration_ms": 188140,
-      "name": "Te Sorprender\u00e1s",
-      "url": "https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Mensajes del Corazon",
-        "url": "https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 262803,
-      "name": "Flor P\u00e1lida",
-      "url": "https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Rico y Suave",
         "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 457826,
       "name": "Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo",
       "url": "https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Mensajes del Corazon",
+        "url": "https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 262803,
+      "name": "Flor P\u00e1lida",
+      "url": "https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq"
     },
     {
       "added_at": "2023-12-15 03:00:00",

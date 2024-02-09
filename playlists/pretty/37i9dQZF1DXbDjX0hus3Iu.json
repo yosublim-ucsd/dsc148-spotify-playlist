@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 491940,
+  "num_followers": 492000,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzY5MjQyNjYwMGJkMGY1MjA0MTNiYTU0MjE0YzFmY2EzNzg3MDY5",
+  "snapshot_id": "MCwzZWM1Yjk4MmY4ODViODEwYmRiNjM3MmM2NDI1OWM1OTIwZTI3NTRi",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Til the Medicine Takes",
-        "url": "https://open.spotify.com/album/2JaUecwsXmm2x9eLfVLu7Z"
-      },
-      "artists": [
-        {
-          "name": "Widespread Panic",
-          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
-        }
-      ],
-      "duration_ms": 281640,
-      "name": "Climb to Safety",
-      "url": "https://open.spotify.com/track/2tKvbXiqQM7aYhbpEWLbTf"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Stacked Deck (Remastered)",
         "url": "https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 201826,
       "name": "Third Rate Romance - Remastered",
       "url": "https://open.spotify.com/track/1oRvLqwJowH9JU0uO1iVzA"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Til the Medicine Takes",
+        "url": "https://open.spotify.com/album/2JaUecwsXmm2x9eLfVLu7Z"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "duration_ms": 281640,
+      "name": "Climb to Safety",
+      "url": "https://open.spotify.com/track/2tKvbXiqQM7aYhbpEWLbTf"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Ain't Life Grand",
-        "url": "https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU"
-      },
-      "artists": [
-        {
-          "name": "Widespread Panic",
-          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Ain't Life Grand",
-      "url": "https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of The Rossington Collins Band",
         "url": "https://open.spotify.com/album/5x7R9IRVTa2Yb1IT14vNoH"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 236200,
       "name": "Don't Misunderstand Me",
       "url": "https://open.spotify.com/track/7uODrkf1XnlIGMyUSCLbLU"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Champagne Jam",
+        "url": "https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "duration_ms": 273226,
+      "name": "Champagne Jam",
+      "url": "https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Champagne Jam",
-        "url": "https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt"
+        "name": "Ain't Life Grand",
+        "url": "https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU"
       },
       "artists": [
         {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
         }
       ],
-      "duration_ms": 273226,
-      "name": "Champagne Jam",
-      "url": "https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS"
+      "duration_ms": 287040,
+      "name": "Ain't Life Grand",
+      "url": "https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -967,6 +967,22 @@
       "duration_ms": 161506,
       "name": "Jim Dandy",
       "url": "https://open.spotify.com/track/0JFEn4sPozptBShOuqMQVs"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Quinella",
+        "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "duration_ms": 253560,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/1gA9l5loCNn8fOFIzXb6T2"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1047,22 +1063,6 @@
       "duration_ms": 242773,
       "name": "Rattlesnake Rock 'N' Roller",
       "url": "https://open.spotify.com/track/1qDqZxOGB335PJYjIUvwP3"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Quinella",
-        "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
-      },
-      "artists": [
-        {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
-        }
-      ],
-      "duration_ms": 253560,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/1gA9l5loCNn8fOFIzXb6T2"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Snake in the Grass",
-        "url": "https://open.spotify.com/album/22q4E2pBBit8i66rRml0l0"
-      },
-      "artists": [
-        {
-          "name": "Southern Bitch",
-          "url": "https://open.spotify.com/artist/5zpWZ217cRQHwQlSZSdKnR"
-        }
-      ],
-      "duration_ms": 243453,
-      "name": "Come On",
-      "url": "https://open.spotify.com/track/1hMRwlLk8GqPx5yo6n3QZS"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Pattern Disruptive",
         "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 341933,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Snake in the Grass",
+        "url": "https://open.spotify.com/album/22q4E2pBBit8i66rRml0l0"
+      },
+      "artists": [
+        {
+          "name": "Southern Bitch",
+          "url": "https://open.spotify.com/artist/5zpWZ217cRQHwQlSZSdKnR"
+        }
+      ],
+      "duration_ms": 243453,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/1hMRwlLk8GqPx5yo6n3QZS"
     },
     {
       "added_at": "2023-01-18 21:52:55",

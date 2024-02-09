@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-446 songs - 1 day 5 hr 17 min
+447 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Midnight Summer Jam](https://open.spotify.com/track/1KAhsLqLYiqCZ1G8ljKDtB) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 5:12 | 2024-01-29 |  |
 | [Midsection](https://open.spotify.com/track/7xn9uXfYkFXfMJgaQxgbCN) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 4:49 | 2024-01-29 |  |
 | [Milkshake \- Radio Mix](https://open.spotify.com/track/2s0ouHqJebHfiQ6C1GUFJd) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:02 | 2024-01-29 |  |
+| [Minion Mambo](https://open.spotify.com/track/5xa0XnAwF3wIv3XiLf1GdS) | [The Minions](https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ) | [Despicable Me](https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m) | 3:03 | 2024-02-08 |  |
 | [Momma I Hit A Lick \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/7jKUnzzOGhAlPjr7LkIUlE) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Rap Or Go To The League](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) | 2:53 | 2024-01-29 |  |
 | [MONEY](https://open.spotify.com/track/5yGSjQrpkqeayvLVywdQtG) | [MALARKEY](https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV) | [MONEY](https://open.spotify.com/album/0ZMZvxj46DfhG7uO9Sv3lG) | 3:27 | 2024-01-30 |  |
 | [Money](https://open.spotify.com/track/2AhKFNKiRxk2NZNF47bFjn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Killfake](https://open.spotify.com/artist/5iQ5zOYomcR6F3gYon6GNW) | [Money](https://open.spotify.com/album/7jt2ZSsqgR2VG6s1XkWw7E) | 2:50 | 2024-01-29 |  |

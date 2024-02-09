@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف:حسين الجسمي
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,431 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,458 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Wesh Fini](https://open.spotify.com/track/595iet95ZCUsYsHBYjyOZA) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Wesh Fini](https://open.spotify.com/album/1y0u5gcePiOuiKRHZLHnWR) | 3:11 |
 | 50 | [Mara Aan Malioun \(feat\. Daffy\)](https://open.spotify.com/track/3qCKXqyJjrc2qWVITysP6i) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC) | [Mara Aan Malioun \(feat\. Daffy\)](https://open.spotify.com/album/0pTDbXQGqK3li48QMqAoFr) | 2:20 |
 
-Snapshot ID: `MCw4MDNhMGM0ODRmOTU1MGIwNjYyNjMzYmRkN2ZlYmYwNGIzODA4Yjlm`
+Snapshot ID: `MCw2OWNjN2ZiZjhiNjgxZjNiZmJhOTRhYjlhZWE2MzQwNzkxODgzYjI2`

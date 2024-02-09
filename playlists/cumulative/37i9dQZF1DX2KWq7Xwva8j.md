@@ -2,9 +2,9 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro está aquí\. Foto: shego, pablopablo, Samuraï, Charlie USG, Mushkaa, Luis Cortés
+> El futuro está aquí\. Foto: pablopablo
 
-222 songs - 10 hr 48 min
+223 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Si Quieren Frontear](https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Si Quieren Frontear](https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy) | 3:20 | 2022-03-31 | 2022-04-14 |
 | [Si Quieres](https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Si Quieres](https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl) | 2:47 | 2021-12-31 | 2022-04-01 |
 | [si tiene que ser será.](https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [si tiene que ser será.](https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3) | 3:21 | 2023-02-07 | 2024-02-07 |
+| [Sidekick](https://open.spotify.com/track/6KUasBYtaeWOdIbC1FZNbI) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Sidekick](https://open.spotify.com/album/2cLxzF1ceQ3T8X8tgbR7mN) | 2:56 | 2024-02-08 |  |
 | [Sin Freno](https://open.spotify.com/track/2ywURcm20LeyocKwrkUr0c) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Sin Freno](https://open.spotify.com/album/1PrVcgRrDssHFanLszDKqz) | 2:40 | 2022-01-27 | 2022-06-07 |
 | [Sol de Ayer](https://open.spotify.com/track/7JuH6cT4H9Go3hvdGY4BbG) | [Adiós Amores](https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT) | [Sol de Ayer](https://open.spotify.com/album/4vJaartlG3Oor3hWN425eA) | 3:10 | 2022-02-24 | 2022-09-23 |
 | [Solo](https://open.spotify.com/track/2JYAvxXyyubnbY4H7rrqiS) | [Mario Summers](https://open.spotify.com/artist/6pZjGGAy8faU8zEw4b3wfH) | [Solo](https://open.spotify.com/album/37tpMp9kscG5f1xTnGaN7D) | 3:53 | 2021-12-31 | 2022-02-18 |

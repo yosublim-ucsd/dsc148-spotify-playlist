@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 90670,
+  "num_followers": 90704,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGE5YzU3NjQ5MjZlMDUxNDg4ODc2NTFkODU1YTdiMTIwZTA4NTM4",
+  "snapshot_id": "MCxkNzcxOWI2ZTc3Mzc2YjA1ZmYyNTYwOTdiNDI0ZDVjY2VmM2QxYzQ0",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Autumn Love",
-        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
-      },
-      "artists": [
-        {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
-        }
-      ],
-      "duration_ms": 295120,
-      "name": "Autumn Love",
-      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Good As Gone",
         "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 239400,
       "name": "Good As Gone",
       "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Autumn Love",
+        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
+      },
+      "artists": [
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "duration_ms": 295120,
+      "name": "Autumn Love",
+      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
     },
     {
       "added_at": "2020-09-04 04:02:00",

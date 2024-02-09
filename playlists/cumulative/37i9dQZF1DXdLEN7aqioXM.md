@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-469 songs - 1 day 9 hr 23 min
+470 songs - 1 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Closer](https://open.spotify.com/track/6pB59ef67FGX7zALUxATo4) | [JODA](https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ), [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs), [Jono Grant](https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E) | [Closer](https://open.spotify.com/album/1x7e6XjzMelvkqSJVMkQve) | 4:59 | 2022-07-29 |  |
 | [Coming Alive](https://open.spotify.com/track/3TBC8LrdpJCQ1yn07K1yMV) | [JODA](https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ), [Jono Grant](https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E), [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI) | [JODA](https://open.spotify.com/album/5QoX8eEaLS9XKFFzYcFC6B) | 4:45 | 2022-08-26 | 2023-01-14 |
 | [Communication](https://open.spotify.com/track/4C9lZarwkYUM0eQZysI4lI) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Communication](https://open.spotify.com/album/6sIU7SxKLLjjXkZ0jn33WO) | 3:17 | 2021-10-15 | 2022-07-29 |
-| [Communication](https://open.spotify.com/track/71z55WQyp9EDfGe7U2bHkm) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Start Computer](https://open.spotify.com/album/1qDI1pOetrsLc5GMxSO0TD) | 3:17 | 2023-10-23 |  |
+| [Communication](https://open.spotify.com/track/71z55WQyp9EDfGe7U2bHkm) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Start Computer](https://open.spotify.com/album/1qDI1pOetrsLc5GMxSO0TD) | 3:17 | 2023-10-23 | 2024-02-09 |
 | [Communication](https://open.spotify.com/track/7iNcWFcBzOuUpw7S80nl1M) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Start Computer](https://open.spotify.com/album/0li071U8F6zngkai5EMZNI) | 3:17 | 2022-07-22 | 2022-08-03 |
 | [Contact](https://open.spotify.com/track/1j7YLlEbojw8RGhpqRSv0z) | [Downtown Binary](https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv) | [Contact](https://open.spotify.com/album/3lzJ3fjoEil0E1K5VuI1aP) | 3:57 | 2022-07-08 |  |
 | [Continuous Wave](https://open.spotify.com/track/1N2P27RuYcD1yCN5z0aGjg) | [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Continuous Wave](https://open.spotify.com/album/1ffc0X3WOwDloLTq7EsCQw) | 5:04 | 2022-02-04 | 2022-07-29 |
@@ -161,6 +161,7 @@
 | [Flashing Sirens](https://open.spotify.com/track/2Qo0EdObfe4sCsiR7grstZ) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz), [Tima](https://open.spotify.com/artist/1rDy96MTvvmWDAbIg6B6o4), [YOUTH 83](https://open.spotify.com/artist/5Yn2L5pqTDEymWBHXfor7f) | [Flashing Sirens](https://open.spotify.com/album/4bNmE4x4vOL6oY32I33dvf) | 2:42 | 2021-10-15 |  |
 | [Flight](https://open.spotify.com/track/5I9K0eZ8dT8dzzK973XQkK) | [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [Flight](https://open.spotify.com/album/4lp6QsrXTu9GEBgEUQVHQY) | 3:20 | 2022-02-04 | 2022-05-02 |
 | [Floating Point](https://open.spotify.com/track/74to5kEhZdvStCc9bS9hSG) | [Massive Z](https://open.spotify.com/artist/0h2KwV1qVRmGgMwVJig5Gv), [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5) | [Floating Point](https://open.spotify.com/album/5wjAYZF4Qns8OBlycPcccu) | 4:28 | 2023-04-07 |  |
+| [Fluorescence](https://open.spotify.com/track/4K3onPe55qb2WsgrvOZmu7) | [Odyssette](https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Fluorescence](https://open.spotify.com/album/5TVBn9QpUdKzjGYtI3snGw) | 3:55 | 2023-11-27 |  |
 | [Flying Trains](https://open.spotify.com/track/4kmQYVEcnRdXq9rWJ2f3T4) | [8WS](https://open.spotify.com/artist/5HhDLqnHCHu66fXNxYGEoR) | [Flying Trains](https://open.spotify.com/album/4BCgUI70osfHqYMOkbDQ1h) | 4:17 | 2023-10-23 |  |
 | [Foggy Beach Memories](https://open.spotify.com/track/5VnDVoshMrB0hv6xDZ37bx) | [Cassetter](https://open.spotify.com/artist/6rzOP8pWzUuXlniCGCtrcE), [Zane Alexander](https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7) | [Parallel Reality](https://open.spotify.com/album/0Az4ZauP73xbD8xGTgbRn0) | 6:46 | 2023-10-23 |  |
 | [Forever in a Dream](https://open.spotify.com/track/44WZP6f4DW2g4GxnTPF1IJ) | [John Noseda](https://open.spotify.com/artist/1GHQDN0HXk1MVl7zyhqlXA) | [Forever in a Dream](https://open.spotify.com/album/3zPZDwIYxL5a5KIgvoiZJv) | 5:23 | 2022-04-01 | 2022-04-21 |

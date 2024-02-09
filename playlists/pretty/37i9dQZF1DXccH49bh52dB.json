@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 547576,
+  "num_followers": 547803,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWUzOTdiMjQ0NWQ0ZjllN2IxNmY0YWYxMWI2NDM2MTYwMTdlZWVh",
+  "snapshot_id": "MCwyMzU2MGZjNGU3YzViNjA0MzViYzYwMzcwZTBlY2I2NGQzZDY2YzA2",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -167,26 +167,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Middle",
-      "url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/4ZD1KnBqghtSAEyqrZAkU4"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 259933,
       "name": "My Love",
       "url": "https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Middle",
+      "url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "All We Know",
         "url": "https://open.spotify.com/album/0xmaV6EtJ4M3ebZUPRnhyb"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 194080,
       "name": "All We Know",
       "url": "https://open.spotify.com/track/2rizacJSyD9S1IQUxUxnsK"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "The Last Dance, Pt 2",
+        "url": "https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 193608,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "The Ocean (feat. Shy Martin)",
         "url": "https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 183414,
       "name": "The Ocean (feat. Shy Martin)",
       "url": "https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "The Last Dance, Pt 2",
-        "url": "https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 193608,
-      "name": "The Chase",
-      "url": "https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1207,6 +1207,30 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "A Moment Apart",
+        "url": "https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "WYNNE",
+          "url": "https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 236470,
+      "name": "Line Of Sight",
+      "url": "https://open.spotify.com/track/2WWfjbHALIb3e7FMcj9mr4"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "The Veldt Cinema (BYNX Edit)",
         "url": "https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg"
       },
@@ -1231,30 +1255,6 @@
       "duration_ms": 277298,
       "name": "The Veldt Cinema - BYNX Edit",
       "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "A Moment Apart",
-        "url": "https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "WYNNE",
-          "url": "https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS"
-        },
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 236470,
-      "name": "Line Of Sight",
-      "url": "https://open.spotify.com/track/2WWfjbHALIb3e7FMcj9mr4"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Cut Your Teeth (Kygo Remix)",
-        "url": "https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h"
-      },
-      "artists": [
-        {
-          "name": "Kyla La Grange",
-          "url": "https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp"
-        },
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        }
-      ],
-      "duration_ms": 399013,
-      "name": "Cut Your Teeth - Kygo Remix",
-      "url": "https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Skin: The Remixes",
         "url": "https://open.spotify.com/album/0dXzrOfFmSXgqqnSA9r3dN"
       },
@@ -1535,6 +1515,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Cut Your Teeth (Kygo Remix)",
+        "url": "https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h"
+      },
+      "artists": [
+        {
+          "name": "Kyla La Grange",
+          "url": "https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp"
+        },
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "duration_ms": 399013,
+      "name": "Cut Your Teeth - Kygo Remix",
+      "url": "https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Where I Find My Mind",
         "url": "https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM"
       },
@@ -1547,22 +1547,6 @@
       "duration_ms": 212500,
       "name": "Where I Find My Mind",
       "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Gonna Love Ya",
-      "url": "https://open.spotify.com/track/1rDETmcizen79JghAEm1Se"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1583,6 +1567,22 @@
       "duration_ms": 187126,
       "name": "Heatwave (feat. Akon)",
       "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Gonna Love Ya",
+      "url": "https://open.spotify.com/track/1rDETmcizen79JghAEm1Se"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "There's Another Life 4 U / So Long",
+        "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 213987,
+      "name": "There's Another Life 4 U",
+      "url": "https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "September Song (Remixes)",
         "url": "https://open.spotify.com/album/2Gq7KJ5yRicUfoDL4LR3K1"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 215030,
       "name": "September Song - Indian Summer Mix",
       "url": "https://open.spotify.com/track/1d33rv3YwKEoc7rtTVWCqt"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "There's Another Life 4 U / So Long",
-        "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 213987,
-      "name": "There's Another Life 4 U",
-      "url": "https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -2203,6 +2203,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/2TLZzh2JoU0hiQKEpFPxrW"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Kimberly Anne",
+          "url": "https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt"
+        }
+      ],
+      "duration_ms": 181855,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/2UsnjLHBKPaaRjZiWYUCpj"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Cold Water (Remixes)",
         "url": "https://open.spotify.com/album/33Td2oa2lLAeblqViPpEVL"
       },
@@ -2227,26 +2247,6 @@
       "duration_ms": 236333,
       "name": "Cold Water - Lost Frequencies Remix",
       "url": "https://open.spotify.com/track/4HMfSzk0UsiRhulF0eb1M9"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/2TLZzh2JoU0hiQKEpFPxrW"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Kimberly Anne",
-          "url": "https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt"
-        }
-      ],
-      "duration_ms": 181855,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/2UsnjLHBKPaaRjZiWYUCpj"
     },
     {
       "added_at": "2023-09-08 04:00:00",

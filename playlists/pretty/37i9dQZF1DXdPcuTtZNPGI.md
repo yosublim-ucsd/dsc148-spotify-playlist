@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPcuTtZNPGI.md) - [plain]
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,673 likes - 64 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,841 likes - 64 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chocolat Cadabra](https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Chocolat Cadabra](https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9) | 3:03 |
-| 2 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 |
+| 2 | [唱](https://open.spotify.com/track/7o0TPSw494RG2Q4iWmd1v6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:09 |
 | 3 | [unravel](https://open.spotify.com/track/0Cez33GqDU7Pw5rqOVUPpU) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:58 |
 | 4 | [Usseewa](https://open.spotify.com/track/61KYsWS25JXUO4fGb1138X) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 3:26 |
-| 5 | [Kura Kura](https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kura Kura](https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen) | 3:11 |
+| 5 | [クラクラ](https://open.spotify.com/track/7lcXrOj9HdsHFQfNNBR4XS) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:11 |
 | 6 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 |
 | 7 | [Odo](https://open.spotify.com/track/37bNBNB332HXbSy6079cws) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 3:30 |
 | 8 | [Show \- Jax Jones Remix](https://open.spotify.com/track/6dp3IPheUZdVbusysJ5CbW) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Show \(Jax Jones Remix\)](https://open.spotify.com/album/39RbmQuAmqNG6787RZ1Vqp) | 2:34 |
@@ -28,17 +28,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPcuTtZNPGI.md) - [plain]
 | 18 | [God\-ish](https://open.spotify.com/track/17hYqocEK8xnY858FXd8uI) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:24 |
 | 19 | [Buriki No Dance](https://open.spotify.com/track/5m3EBf4cWHWxzjBTCG1gHx) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:18 |
 | 20 | [Dawn and Fireflies](https://open.spotify.com/track/3i1dqflrqcLVxZeWi7r0pm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 5:08 |
-| 21 | [All Night Radio](https://open.spotify.com/track/7GRfiALpnehkSNn34LDeci) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [All Night Radio](https://open.spotify.com/album/2kEK5J1Njg3r0Ramvj3GDq) | 3:33 |
+| 21 | [オールナイトレディオ](https://open.spotify.com/track/7cojiKLtAxeBttS2zDPsYd) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:33 |
 | 22 | [Love ka?](https://open.spotify.com/track/1HVKbxwcF6VeP7n9CBzO9k) | [HiiragiKirai](https://open.spotify.com/artist/2GRRmz1dTswdlbdmpsveqK), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Love ka?](https://open.spotify.com/album/60kWJEUezrtiM3czq7ubDI) | 3:05 |
 | 23 | [Himawari](https://open.spotify.com/track/4CEg2ZSlsQaO8zOCai89gA) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Himawari](https://open.spotify.com/album/2w8Y2kdC21njltt0Wt6em9) | 4:19 |
 | 24 | [Readymade](https://open.spotify.com/track/3gKtkQp6cQ4wqsx3bzs4tk) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 4:03 |
 | 25 | [Tot Musica](https://open.spotify.com/track/4eChbtoFoOmWQt03aRDzaJ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:15 |
-| 26 | [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 |
+| 26 | [リベリオン](https://open.spotify.com/track/3JTIwNusgtT95H26DDadkc) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 2:58 |
 | 27 | [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 |
 | 28 | [Ibara](https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ibara](https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw) | 4:21 |
 | 29 | [うっせぇわ \- Giga Remix](https://open.spotify.com/track/0DT1nb0hytfdzS1J9piX1W) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [うっせぇわ \(Giga Remix\)](https://open.spotify.com/album/0LfBw9oEr73hmJzQS6QBqr) | 3:10 |
 | 30 | [Fleeting Lullaby](https://open.spotify.com/track/1pnXMEGyw85jtg9fFZf4GP) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 2:53 |
-| 31 | [I’m a Controversy](https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [I’m a Controversy](https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd) | 3:14 |
+| 31 | [アタシは問題作](https://open.spotify.com/track/3owf91Zuzs67UzJRTRYeNg) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:14 |
 | 32 | [KokoroToIuNaNoFukakai](https://open.spotify.com/track/5b2Zd5mH2MNYohcWYfnUze) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 4:29 |
 | 33 | [永遠のあくる日](https://open.spotify.com/track/5WaSJKCZhmRZ8Pxn1oTjA5) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [永遠のあくる日](https://open.spotify.com/album/4jFVggky7sWAA2JVf34gXf) | 4:06 |
 | 34 | [DIGNITY](https://open.spotify.com/track/1BDCBbdTDQo3JxC0kVDSqP) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [DIGNITY](https://open.spotify.com/album/0yeSKha3HfhzdjVNnrqLks) | 4:12 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPcuTtZNPGI.md) - [plain]
 | 63 | [コールボーイ](https://open.spotify.com/track/6vdtMuSOG9chmNbGvmkmjz) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado/PARED/まひる/ゆっけ presents PALETTE4](https://open.spotify.com/album/5N3pr0Jv026t7JwI3u86lt) | 3:29 |
 | 64 | [絶え間なく藍色](https://open.spotify.com/track/45LyS1iWuyYUGBlcFsyqyV) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado/PARED/まひる/ゆっけ presents PALETTE4](https://open.spotify.com/album/5N3pr0Jv026t7JwI3u86lt) | 3:41 |
 
-Snapshot ID: `MCw5NzVjNjdkYjYwYWRjYjg1ODY2MzAzYjdiMTZlNTNiYjUxOTUxZDc1`
+Snapshot ID: `MCxiNjQxNzQ5ZjBlNTdmYTZiMTU2YTQ5NDczOGQxNWJkZjViZGVjOTU2`

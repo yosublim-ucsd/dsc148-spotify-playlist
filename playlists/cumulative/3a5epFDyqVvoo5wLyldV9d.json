@@ -5029,6 +5029,24 @@
     },
     {
       "album": {
+        "name": "Ebo Taylor",
+        "url": "https://open.spotify.com/album/5FOShBCFRekNYPZwzKWLB2"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365680,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6V8mQGMlteOnomLViyIRwU"
+    },
+    {
+      "album": {
         "name": "France ch\u00e9bran: French Boogie (1982 - 1989), Vol. 2",
         "url": "https://open.spotify.com/album/4jjz6MAd8xmKKBWDnqQiEy"
       },

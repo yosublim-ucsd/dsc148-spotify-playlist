@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,138 songs - 2 day 15 hr 48 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,139 songs - 2 day 15 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1146,5 +1146,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1136 | [You Remind Me](https://open.spotify.com/track/2iOJy7OPFt37NwPW3eVIgs) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n), [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [You Remind Me](https://open.spotify.com/album/46KjtBkJWrva321fovmw7P) | 3:02 |
 | 1137 | [Feel So Lucky \- Bounce Remix](https://open.spotify.com/track/4MIQhn388K7qETZfEZcAcF) | [SethroW](https://open.spotify.com/artist/5arxTnV31qhagUdKYYiLH8) | [Feel So Lucky \(Bounce Remix\)](https://open.spotify.com/album/2d0vqWv2CMxx35TvmkA4xE) | 4:48 |
 | 1138 | [Feel That Way](https://open.spotify.com/track/6veCZ5JcevKHSVcenPjnVt) | [Hartshorn](https://open.spotify.com/artist/26CaaT8FqbEIzi3hlD8MKc), [RAVE'N](https://open.spotify.com/artist/7iXQ2Om9F2qfFpnSELT2BJ) | [Feel That Way](https://open.spotify.com/album/5czVbSvLG8IlTCubPx6IXD) | 3:41 |
+| 1139 | [Game Of Hate](https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Game Of Hate](https://open.spotify.com/album/2sm4kctw7K0HbT1cRpiHYu) | 3:00 |
 
-Snapshot ID: `MTE4MSwxMzc0NzlhYTE0Yzk5NzA4OGRlNWVlNGU5Y2FlMTc5MTY1MDU4ZWM4`
+Snapshot ID: `MTE4Miw1YzdmOTQxYWFmZDE3OGQyZDlmNDgyZmUxYzU5YzM5NTczOWJlZGM1`

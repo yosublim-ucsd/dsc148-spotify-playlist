@@ -228,7 +228,7 @@
     {
       "album": {
         "name": "Al Estilo Charleston",
-        "url": "https://open.spotify.com/album/05m5xLX6qpwdMqIXj2LgGJ"
+        "url": "https://open.spotify.com/album/155oxBEEvXh36zNbnivHJ9"
       },
       "artists": [
         {
@@ -239,6 +239,24 @@
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 176487,
+      "name": "Al Estilo Charleston",
+      "url": "https://open.spotify.com/track/0EfNoTxavdXzuNkekwkqzy"
+    },
+    {
+      "album": {
+        "name": "Al Estilo Charleston",
+        "url": "https://open.spotify.com/album/05m5xLX6qpwdMqIXj2LgGJ"
+      },
+      "artists": [
+        {
+          "name": "DanyAraujo",
+          "url": "https://open.spotify.com/artist/6nwG1sN2MjVkjGBKTFONyq"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-09",
       "duration_ms": 176487,
       "name": "Al Estilo Charleston",
       "url": "https://open.spotify.com/track/5QKn5nIu6pRrQWH6G68jKW"

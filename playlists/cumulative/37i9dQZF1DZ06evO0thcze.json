@@ -627,6 +627,28 @@
     },
     {
       "album": {
+        "name": "Levantame el Castigo",
+        "url": "https://open.spotify.com/album/59PL3YSCHIMlXewJktY30P"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200571,
+      "name": "Levantame el Castigo",
+      "url": "https://open.spotify.com/track/3clJ2E29mHyrmXSha77l6G"
+    },
+    {
+      "album": {
         "name": "Lo F\u00e1cil Es Dif\u00edcil",
         "url": "https://open.spotify.com/album/2tCrAb6z2az7bolBJuGe2V"
       },

@@ -1,15 +1,31 @@
 {
   "description": "Les meilleurs titres du moment en version acoustique.",
-  "num_followers": 238986,
+  "num_followers": 239016,
   "original_name": "Hit Acoustique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWJkMmUzMTAxMmQ2YTRhZWVlYTY1OGM5Zjc3YzEzN2Y2ZjdhYjdm",
+  "snapshot_id": "MCwyYzcwY2RjMTkxMjg5MzE1OWQxMjQ2NzExYzY4YWIxYmE5YzY2Y2Yx",
   "tracks": [
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "greedy (remixes)",
+        "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 142363,
+      "name": "greedy acoustic",
+      "url": "https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Gimme Love (Sofiane Pamart Remix)",
         "url": "https://open.spotify.com/album/1pD0juD4fXUUIDsgGt9xrI"
@@ -29,39 +45,27 @@
       "url": "https://open.spotify.com/track/6QLU9PDrb6DwJauVvExLSu"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Secret (sad orchestra)",
-        "url": "https://open.spotify.com/album/1nzeYc8gvWMvGvmJeXLRx0"
+        "name": "Overdrive (feat. Norma Jean Martine) [Acoustic Version]",
+        "url": "https://open.spotify.com/album/2NDVKadwJzVmaA0TMXzP3G"
       },
       "artists": [
         {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "Secret - sad orchestra",
-      "url": "https://open.spotify.com/track/5PbI70YyDqhCYCN2QArxG5"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Dancing Queen",
-        "url": "https://open.spotify.com/album/4hczd0jX66BRXeZ6Gbk6Fl"
-      },
-      "artists": [
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
         {
-          "name": "Hannah Grace",
-          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
         }
       ],
-      "duration_ms": 193043,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/6FIevL8p5LBywjfWZs5rlM"
+      "duration_ms": 127619,
+      "name": "Overdrive (feat. Norma Jean Martine) - Acoustic Version",
+      "url": "https://open.spotify.com/track/2C48i664TyRtr77PBzW6cS"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Acoustic",
         "url": "https://open.spotify.com/album/28rVoKui34rygR8weIfjVl"
@@ -77,7 +81,55 @@
       "url": "https://open.spotify.com/track/7w4YExaFOqzTGQ1Y5fCoNv"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Dancing Queen",
+        "url": "https://open.spotify.com/album/4hczd0jX66BRXeZ6Gbk6Fl"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grace",
+          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
+        }
+      ],
+      "duration_ms": 193043,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/6FIevL8p5LBywjfWZs5rlM"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Secret (sad orchestra)",
+        "url": "https://open.spotify.com/album/1nzeYc8gvWMvGvmJeXLRx0"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "Secret - sad orchestra",
+      "url": "https://open.spotify.com/track/5PbI70YyDqhCYCN2QArxG5"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Daylight (Reimagined)",
+        "url": "https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Daylight - Acoustic",
+      "url": "https://open.spotify.com/track/38rp6FLYxF43GhnLcb99wu"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Tattoo (Acoustic)",
         "url": "https://open.spotify.com/album/6EtQsunaDhISsreHCSplVY"
@@ -93,7 +145,23 @@
       "url": "https://open.spotify.com/track/5V2wCtKTQEQlWr0igELU4x"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Alibi (Live Acoustic Version)",
+        "url": "https://open.spotify.com/album/4508odBEojE3ak0ADZRoKy"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 210400,
+      "name": "Alibi - Live Acoustic Version",
+      "url": "https://open.spotify.com/track/0WUZr9ZJBtxNlk1dtUh1Xo"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "THIS YEAR (Blessings) [Acoustic Version]",
         "url": "https://open.spotify.com/album/3Zqrx0J4rWBHXpv4HZIlea"
@@ -113,7 +181,7 @@
       "url": "https://open.spotify.com/track/3TawMDALb9pwBKoBWkZWLE"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "In the Stars [(French Version) [Acoustique]]",
         "url": "https://open.spotify.com/album/3LNJA1b8J3s59MELa8u5BV"
@@ -129,39 +197,7 @@
       "url": "https://open.spotify.com/track/3ZHKBOIFBtFM0HFpAwQRbe"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Daylight (Reimagined)",
-        "url": "https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Daylight - Acoustic",
-      "url": "https://open.spotify.com/track/38rp6FLYxF43GhnLcb99wu"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Emiliana",
-        "url": "https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 199517,
-      "name": "Emiliana - Acoustic",
-      "url": "https://open.spotify.com/track/5o2eHgbRzQbeZKMFfgy1nn"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Cold Heart (Acoustic)",
         "url": "https://open.spotify.com/album/78pahaG6oQu93YqFLVYGEv"
@@ -181,7 +217,23 @@
       "url": "https://open.spotify.com/track/0k6LV1ohcK2hlNPwu1nVw9"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Emiliana",
+        "url": "https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 199517,
+      "name": "Emiliana - Acoustic",
+      "url": "https://open.spotify.com/track/5o2eHgbRzQbeZKMFfgy1nn"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Everything I Wanted (Live Version)",
         "url": "https://open.spotify.com/album/0VOsH3JbQkbd5ba3kHSu4i"
@@ -197,23 +249,7 @@
       "url": "https://open.spotify.com/track/7yHQWI18l9t7u6nXUpQPGP"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Black Friday EP",
-        "url": "https://open.spotify.com/album/0g5N9f6FpdYuON9ahdmu5n"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 224053,
-      "name": "Black Friday (Mahogany Session)",
-      "url": "https://open.spotify.com/track/7ymcTupikH8sq5OtHWCLZK"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
@@ -229,7 +265,55 @@
       "url": "https://open.spotify.com/track/1ZJwhLQLt2quexYKP2Q3gk"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Black Friday EP",
+        "url": "https://open.spotify.com/album/0g5N9f6FpdYuON9ahdmu5n"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 224053,
+      "name": "Black Friday (Mahogany Session)",
+      "url": "https://open.spotify.com/track/7ymcTupikH8sq5OtHWCLZK"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "The Ballet Girl",
+        "url": "https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "duration_ms": 176338,
+      "name": "The Ballet Girl (Adagio)",
+      "url": "https://open.spotify.com/track/6D3t3tNZNcyxAdbH38IEfd"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Control (Acoustic Versions)",
+        "url": "https://open.spotify.com/album/0GfYuFknkNUEPIbmV9rCef"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 231386,
+      "name": "Control - Acoustic Guitar Version",
+      "url": "https://open.spotify.com/track/7LsJd6JUzWy3SUvy33g6yQ"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Spotify OUTSIDE",
         "url": "https://open.spotify.com/album/6iAheP6Xd45D2CocnMGMmE"
@@ -245,7 +329,7 @@
       "url": "https://open.spotify.com/track/1gMv5QSRDJ6SwcQGbTtAtB"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Strangers (sad acoustic version)",
         "url": "https://open.spotify.com/album/5r46y111iubU3MZRsC5ZPK"
@@ -261,7 +345,7 @@
       "url": "https://open.spotify.com/track/2BRgLIB3KV9EYdUkOgDgWs"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "I'm Sorry (Live Version)",
         "url": "https://open.spotify.com/album/6XkjRKuAMUKLH22JRqUMqR"
@@ -277,7 +361,7 @@
       "url": "https://open.spotify.com/track/4kjlQ7qSPLHjgxJTSmJIJv"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "I'm Good (Blue) [Acoustic]",
         "url": "https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY"
@@ -297,59 +381,7 @@
       "url": "https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "The Ballet Girl",
-        "url": "https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0"
-      },
-      "artists": [
-        {
-          "name": "Aden Foyer",
-          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
-        }
-      ],
-      "duration_ms": 176338,
-      "name": "The Ballet Girl (Adagio)",
-      "url": "https://open.spotify.com/track/6D3t3tNZNcyxAdbH38IEfd"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Control (Acoustic Versions)",
-        "url": "https://open.spotify.com/album/0GfYuFknkNUEPIbmV9rCef"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 231386,
-      "name": "Control - Acoustic Guitar Version",
-      "url": "https://open.spotify.com/track/7LsJd6JUzWy3SUvy33g6yQ"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Sauver ma vie",
-        "url": "https://open.spotify.com/album/20Mk9Z3Ezo0u0dzmUzsYCI"
-      },
-      "artists": [
-        {
-          "name": "Jean-Pierre Armanet",
-          "url": "https://open.spotify.com/artist/5O1JnG6IYbdlG2ZmcPeEQr"
-        },
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "Sauver ma vie",
-      "url": "https://open.spotify.com/track/1eCkkVeleQ2Hl84xKGfLFt"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Gold (Acoustic Version)",
         "url": "https://open.spotify.com/album/1sSiCaSrHOKFRUhrBOjsFi"
@@ -365,7 +397,7 @@
       "url": "https://open.spotify.com/track/4kv0HqEYUX4lvTEzO6KGzw"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
@@ -381,7 +413,7 @@
       "url": "https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Wish You The Best EP",
         "url": "https://open.spotify.com/album/46ksJlfXcOQTlSUo7EWIYE"
@@ -397,39 +429,7 @@
       "url": "https://open.spotify.com/track/3rOGAAipcIGs9p75v9wDPq"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Trying (Live Version)",
-        "url": "https://open.spotify.com/album/2okKFrbb0aI61Id07GRVdZ"
-      },
-      "artists": [
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 126980,
-      "name": "Trying - Live Version",
-      "url": "https://open.spotify.com/track/0G7yKhzehjrEwMWYmINXPH"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "I Sent My Therapist To Therapy (Acoustic)",
-        "url": "https://open.spotify.com/album/5Lwg53mX2B56t694xYZzuc"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 188979,
-      "name": "I Sent My Therapist To Therapy - Acoustic",
-      "url": "https://open.spotify.com/track/3h0yZkd3cbDXKAR4eb1bsL"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Trip Tape",
         "url": "https://open.spotify.com/album/707cK3j40hIquI15sOcYXP"
@@ -445,27 +445,39 @@
       "url": "https://open.spotify.com/track/1X6Kmaa2Yq70vF0cIQ6V0f"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Hold Me Closer (Acoustic)",
-        "url": "https://open.spotify.com/album/1vN546nWNaesS0pAAL017l"
+        "name": "Trying (Live Version)",
+        "url": "https://open.spotify.com/album/2okKFrbb0aI61Id07GRVdZ"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
         }
       ],
-      "duration_ms": 202245,
-      "name": "Hold Me Closer - Acoustic",
-      "url": "https://open.spotify.com/track/5kXZv2JwuZ0qgqNalgwvJt"
+      "duration_ms": 126980,
+      "name": "Trying - Live Version",
+      "url": "https://open.spotify.com/track/0G7yKhzehjrEwMWYmINXPH"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "I Sent My Therapist To Therapy (Acoustic)",
+        "url": "https://open.spotify.com/album/5Lwg53mX2B56t694xYZzuc"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 188979,
+      "name": "I Sent My Therapist To Therapy - Acoustic",
+      "url": "https://open.spotify.com/track/3h0yZkd3cbDXKAR4eb1bsL"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Where Are You Now (Acoustic)",
         "url": "https://open.spotify.com/album/4Am155SZjwvCP6zPnnVZqH"
@@ -485,7 +497,7 @@
       "url": "https://open.spotify.com/track/4jU6qkh8stB9uqXEPMqnJL"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
@@ -501,7 +513,7 @@
       "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "A Little More Lost (Acoustic)",
         "url": "https://open.spotify.com/album/2iczM0WSgNtsVklHPe1ETc"
@@ -517,7 +529,7 @@
       "url": "https://open.spotify.com/track/70NbSCzRvtTy3Sxcf3Gx1e"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Eyes Closed (Piano Version)",
         "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
@@ -533,7 +545,7 @@
       "url": "https://open.spotify.com/track/1C0Uqh9cRMLPw9WpZzL4Z1"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Happier (Piano Version)",
         "url": "https://open.spotify.com/album/1zdzQkGXsNjwSUoUcOw16S"
@@ -549,27 +561,23 @@
       "url": "https://open.spotify.com/track/2oX4P8Oh5u0JCinsyNOWOY"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "On My Love (Live Acoustic)",
-        "url": "https://open.spotify.com/album/4dBBsaKdTO58KorP8Z9qc3"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 224428,
-      "name": "On My Love - Live Acoustic",
-      "url": "https://open.spotify.com/track/0CZ0NcS4jXLR4I2zM3FKGq"
+      "duration_ms": 206187,
+      "name": "As It Was - Spotify Singles",
+      "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Desire (with Sam Smith) [Acoustic]",
         "url": "https://open.spotify.com/album/15fFDWyVcxknsTGmJ2q354"
@@ -589,23 +597,7 @@
       "url": "https://open.spotify.com/track/5EUZq2pJJi1X2yRHzAeDWJ"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 206187,
-      "name": "As It Was - Spotify Singles",
-      "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/1F0usgSkjLQNKW7wRsNvRY"
@@ -621,7 +613,7 @@
       "url": "https://open.spotify.com/track/7fAoDr6naastKUtqo75SNm"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Following the Sun",
         "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
@@ -641,7 +633,7 @@
       "url": "https://open.spotify.com/track/3v5ZzxwENtgyJkrwR5JW4N"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Light Switch (Acoustic)",
         "url": "https://open.spotify.com/album/0H6pdORxZ735HztupqklPx"
@@ -657,7 +649,7 @@
       "url": "https://open.spotify.com/track/42nDnUAPjhZFlj5wt2BjJm"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "If We Ever Broke Up (Acoustic)",
         "url": "https://open.spotify.com/album/6TiPoqyrGIzXke5FLATpAj"
@@ -673,7 +665,7 @@
       "url": "https://open.spotify.com/track/4EmQjaL9qkniq3YO1EKmCR"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Living In A Haze (Acoustic Version)",
         "url": "https://open.spotify.com/album/4Csna5Mo6vzOZlwCGCc2we"
@@ -689,7 +681,7 @@
       "url": "https://open.spotify.com/track/7xJWAuyry7xJnmySKUnMiu"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Love Me Now (feat. FAST BOY) [Acoustic]",
         "url": "https://open.spotify.com/album/6PQlOCoekOPHXh7fLuMs8f"
@@ -709,7 +701,7 @@
       "url": "https://open.spotify.com/track/7Eu1ryblKF85zn7xpnst3P"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Love Nwantiti (Acoustic Version)",
         "url": "https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6"
@@ -725,31 +717,7 @@
       "url": "https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Selfish Love (with Selena Gomez) EP",
-        "url": "https://open.spotify.com/album/5gaTlwqxtq9ciRVqgOfusR"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Mateus Asato",
-          "url": "https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Selfish Love (with Selena Gomez) - Acoustic Mix",
-      "url": "https://open.spotify.com/track/4Am0QoksGA70r4ZdsgV2Y9"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Heat Waves (Acoustic)",
         "url": "https://open.spotify.com/album/4UFCNxjO9gA2SvQ6YV2mro"
@@ -765,7 +733,7 @@
       "url": "https://open.spotify.com/track/0QzY6rP7C8IWMnpEyuQmC6"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Can't Tame Her (Acoustic)",
         "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
@@ -781,7 +749,7 @@
       "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Forget Me (Piano Acoustic)",
         "url": "https://open.spotify.com/album/69REZAzvlxLHqPYGrH7wr4"
@@ -797,7 +765,7 @@
       "url": "https://open.spotify.com/track/3fHvOiVB4KfakM0Iaw3u2D"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
@@ -813,7 +781,7 @@
       "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Sweet but Psycho (Acoustic)",
         "url": "https://open.spotify.com/album/2oKx85K5SRVksSS9aN1Lon"
@@ -829,7 +797,7 @@
       "url": "https://open.spotify.com/track/10WVEHOf1FZf5XgK6dUWvN"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Breaking Me (Remixes)",
         "url": "https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT"
@@ -849,7 +817,7 @@
       "url": "https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm"
     },
     {
-      "added_at": "2024-01-25 23:00:00",
+      "added_at": "2024-02-08 23:00:00",
       "album": {
         "name": "Lonely (with benny blanco) [Main + Acoustic]",
         "url": "https://open.spotify.com/album/7HWrpFGNHEaylb0DK0xrkH"

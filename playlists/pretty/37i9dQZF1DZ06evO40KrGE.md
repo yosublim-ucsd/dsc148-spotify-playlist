@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,063 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,075 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 42 | [Transformada](https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 4:54 |
 | 43 | [Se Cristo Comigo Vai](https://open.spotify.com/track/5nWxAj8qbYBGUUFoIF4Bf7) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 5:56 |
 | 44 | [Louvor sem Fim](https://open.spotify.com/track/5wJHuTjDSIRgIPsCVBegqm) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 5:21 |
-| 45 | [Não Negue a Jesus](https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:21 |
+| 45 | [Tremendo e Santo](https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:25 |
 | 46 | [Unidos Pelo Amor](https://open.spotify.com/track/58JbyiEMEfi9SfOAmnvyeV) | [Marina De Oliveira](https://open.spotify.com/artist/2Nj5eY05IUPK0AZKBzR9xB), [Novo Som](https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl), [Alex Gonzaga](https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Brother Simion](https://open.spotify.com/artist/1pEaPL16IqfzG8ze1Xp3gZ), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Banda & Voz](https://open.spotify.com/artist/4NAh7PnUxqDfRCM2DfQg5E), [Ellas](https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT), [Raquel Mello](https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Marina de Oliveira \- Gospel Collection Ao Vivo](https://open.spotify.com/album/4PcFH8X4A19i8WMtkT967n) | 3:02 |
-| 47 | [Jesus Está no Barco \(Ao Vivo\)](https://open.spotify.com/track/77bI4fOKEk3fFUgTKQ1dXk) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Jesus Está no Barco \(Ao Vivo\)](https://open.spotify.com/album/6TzyI0uQvnWWn5w6ATvoNi) | 4:33 |
-| 48 | [Dia Inesquecível](https://open.spotify.com/track/0t8RFvYHiLd5AEVPS5Iobp) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 5:40 |
-| 49 | [Tremendo e Santo](https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:25 |
+| 47 | [Dia Inesquecível](https://open.spotify.com/track/0t8RFvYHiLd5AEVPS5Iobp) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 5:40 |
+| 48 | [Jesus Está no Barco \(Ao Vivo\)](https://open.spotify.com/track/77bI4fOKEk3fFUgTKQ1dXk) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Jesus Está no Barco \(Ao Vivo\)](https://open.spotify.com/album/6TzyI0uQvnWWn5w6ATvoNi) | 4:33 |
+| 49 | [Não Negue a Jesus](https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:21 |
 | 50 | [O Abraço do Noivo](https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 7:26 |
 
-Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDA5MjFiOTQ1NmNlZjhiNWZmNGVlNDBjZDdmOTI1YzBiNA==`
+Snapshot ID: `Mjg0NTY1OTMsMDAwMDAwMDA3Y2E4NDRlMDkxOWRhNjBhMDk1ZmEwMzczOWUxNzhhNQ==`

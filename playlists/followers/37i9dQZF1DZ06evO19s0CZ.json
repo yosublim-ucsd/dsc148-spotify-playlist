@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 1010193,
+  "2024-02-09": 1010313,
   "date_first_scraped": "2022-01-11",
   "description": "This is The Rolling Stones. The essential tracks, all in one playlist.",
   "name": "This Is The Rolling Stones",
@@ -1257,7 +1257,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 140400,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/1FRP8d6l2jm3DS5f78ZrhK"
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 232533,
       "name": "Sway - 2009 Mix",
       "url": "https://open.spotify.com/track/1ZS5HBMAmZk3gjFcedts66"

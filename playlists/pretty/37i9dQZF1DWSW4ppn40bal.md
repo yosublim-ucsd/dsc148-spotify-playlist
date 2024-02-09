@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Colored noise to help you sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,097 likes - 340 songs - 17 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,107 likes - 340 songs - 17 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 37 | [Stormy Ocean Pink Noise](https://open.spotify.com/track/3VQ13NVz6w98nsg3YWJ8XG) | [Dream Birds](https://open.spotify.com/artist/6exdDygZZLI2xuOyLPCNnn) | [Oceans of Noise](https://open.spotify.com/album/2O3z9vxbbjBl1KmTJnFews) | 3:12 |
 | 38 | [Pink Noise Regensturm](https://open.spotify.com/track/2xGl4UKIluuRFMRuCdhLS1) | [Falling into Pink](https://open.spotify.com/artist/6GpFiBAVovOVJfK7OTWnxN) | [Pink Noise Rumble](https://open.spotify.com/album/1AkvpXpuJKitJiRdAX8E5z) | 3:12 |
 | 39 | [Noisy Heart](https://open.spotify.com/track/0h6vTpXxtdYJp6lcTkvjIO) | [Recordings From Earth](https://open.spotify.com/artist/3ZQb2yyHzgU02WZWbMOnyU) | [Loud Tile](https://open.spotify.com/album/4Huv5Bvn7wtHzuAZRv7X8m) | 2:21 |
-| 40 | [Pink Noise for the Mind](https://open.spotify.com/track/6buETKVKKfBlCDE8Nov0SO) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Pink Noise for the Mind](https://open.spotify.com/album/3obQ62KjC0sPlbRl1tCh2V) | 3:12 |
+| 40 | [Pink Noise for the Mind](https://open.spotify.com/track/6buETKVKKfBlCDE8Nov0SO) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Pink Noise for the Mind](https://open.spotify.com/album/3obQ62KjC0sPlbRl1tCh2V) | 3:12 |
 | 41 | [Flowing Pink Noise](https://open.spotify.com/track/1VtxGYNZcXdnZnO9p6Fxaj) | [Fredrik Koch](https://open.spotify.com/artist/7pfJtUmBYcPYTRjXGKeujY) | [Baby Sleep Noise Kit](https://open.spotify.com/album/3tMcFcLTvWGZHNUfcBvDFS) | 2:14 |
 | 42 | [Pink Noise 2am \(REMASTERED\)](https://open.spotify.com/track/1GOBcNeiL8wOUn8IWwYTwq) | [WWW.PINK.NOISE](https://open.spotify.com/artist/3pzYnmOW5l9QII4mFjJtd1) | [Pink Noise Vol\. 3](https://open.spotify.com/album/2TdSHQtFRD35jFTj8EJuAk) | 2:40 |
 | 43 | [Hypnotic Pink Noise](https://open.spotify.com/track/5zI9RizL0alpJ31sc0Go0f) | [Technical Sleep](https://open.spotify.com/artist/1ZsuYhFu8JGCi3NBaGL61v) | [Zone Out With Noise](https://open.spotify.com/album/58wMiCMcTWQU7oc2drG3NO) | 3:03 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 55 | [Platinum Pink Noise](https://open.spotify.com/track/5HBoYUk0wRJ6ZEQ5GVYqkA) | [Noise Design](https://open.spotify.com/artist/4L5Dto2z6lWOgm19IXWNDr) | [Platinum Pink Noise](https://open.spotify.com/album/5M9aPdazI7SLaSkC00lGgW) | 2:58 |
 | 56 | [Zone Out 400 Hz](https://open.spotify.com/track/5dqbBy7lYDGIMb0GYEmzEs) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Zone Out Pink Noise](https://open.spotify.com/album/4LQMN5vLlJCPCcOJeXwJ3X) | 2:44 |
 | 57 | [Clear Pink Noise](https://open.spotify.com/track/11kEPdwIh9f4ZxvaB0szBq) | [BBVB](https://open.spotify.com/artist/1uMU5JVDiS1brp2XOicvPP) | [Peaceful Pink Noise](https://open.spotify.com/album/4NpXIPIO0Hgz1QKvNuXtCP) | 2:01 |
-| 58 | [Candy Sky \(Pink Noise\)](https://open.spotify.com/track/4ZyEceyE8ra9qwM3B8wzEn) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Pink Noise for the Mind](https://open.spotify.com/album/3obQ62KjC0sPlbRl1tCh2V) | 3:12 |
+| 58 | [Candy Sky \(Pink Noise\)](https://open.spotify.com/track/4ZyEceyE8ra9qwM3B8wzEn) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Pink Noise for the Mind](https://open.spotify.com/album/3obQ62KjC0sPlbRl1tCh2V) | 3:12 |
 | 59 | [Soft Focus](https://open.spotify.com/track/4QiVR1RwRyU2FMsts13gyq) | [Trapture](https://open.spotify.com/artist/57566QTg37Kl2Qx9kppxks) | [Pink Bliss](https://open.spotify.com/album/25UT1S5bbBeVvBDbYbsEkT) | 3:04 |
 | 60 | [Wide Pink Noise](https://open.spotify.com/track/3iUZRdqydcjzXBZHaCE1iz) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Pink Noise Concentration](https://open.spotify.com/album/5AGgUXH6rsmcBfGF2LMLEp) | 2:21 |
 | 61 | [Fluffy Pink](https://open.spotify.com/track/4u9d04CkITBZq0CKxouPOP) | [Chroma World](https://open.spotify.com/artist/3TIBtUQE47OmudD95MhKS2) | [Pink Dreams](https://open.spotify.com/album/53KCxVWdq7Zd0Swxzgbzac) | 3:11 |
@@ -208,7 +208,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 198 | [Brown Noise Klangspiel](https://open.spotify.com/track/2fDFI6ijeWLkeg3vJSop2x) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [Brown Noise Klangspiel](https://open.spotify.com/album/0NMguE2U7Kn6vPchNbpspE) | 3:54 |
 | 199 | [Brown Noise Sleep Tunnel](https://open.spotify.com/track/6IqUgsHtCLRmkxcrURAFz2) | [Brown Luz](https://open.spotify.com/artist/540r5D4B326bdvWPe550Po) | [Aeroplane Brown Noise](https://open.spotify.com/album/66D3tjBkovXOzIcBFniK2g) | 4:26 |
 | 200 | [Brown Noise Baby](https://open.spotify.com/track/32jLpAriwqWXQu7uRFQPDF) | [Science Noise](https://open.spotify.com/artist/21rKXFXyX0IWKpYmoOaP8Q) | [Ambient Brown Noise](https://open.spotify.com/album/6QYNjdZuKZYigTitGT38bG) | 2:21 |
-| 201 | [Lo\-Air 200 Hz](https://open.spotify.com/track/0ugO16i5v9dKCO5g5S5itQ) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
+| 201 | [Lo\-Air 200 Hz](https://open.spotify.com/track/0ugO16i5v9dKCO5g5S5itQ) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
 | 202 | [I can only sleep with Brown Noise](https://open.spotify.com/track/6TamoYwBwe2lCUtSB06znG) | [Sacred Ambience](https://open.spotify.com/artist/53jXkqVPz2iz5g9vJclJlJ) | [Brown Noise in the Air](https://open.spotify.com/album/6f3Ua6cXKYg1S8ohptHtH0) | 4:19 |
 | 203 | [Way Down Deep 240 Hz](https://open.spotify.com/track/123VXXgsLsUFKoZ49rEhBg) | [Dormant Clouds](https://open.spotify.com/artist/08MfBIg9r4Dzm2ISLs1Us7) | [Way Down Deep](https://open.spotify.com/album/1CtBpLMV3kM3KROr0cr9JJ) | 2:57 |
 | 204 | [Water Brown Noise](https://open.spotify.com/track/3HJiyNzdB6VPaLJQwi7iml) | [Naturelle](https://open.spotify.com/artist/2ZqIdeQMZpsr1jAruu22fI) | [Water Brown Noise](https://open.spotify.com/album/2sirmPYaTcdpsYrvL99oYd) | 2:21 |
@@ -349,4 +349,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 339 | [Windy Cave](https://open.spotify.com/track/0WrXSw3Ktkevf8k6Fb5953) | [True White](https://open.spotify.com/artist/5vhaG8WchlssMkNH1VefUl) | [Brown Comfort](https://open.spotify.com/album/3E10zcfQkAdmeEpVhkEs3t) | 3:58 |
 | 340 | [Brown Noise 250 Hz Smooth Q \- Seamless](https://open.spotify.com/track/1RauFf2NZTjZgPzsjl9W8q) | [Waves Of Time](https://open.spotify.com/artist/5doCIxxFrIe9mTSjcGKmQd) | [Tranquil Brown](https://open.spotify.com/album/2p2VzgpoN035uU2XzvVzEZ) | 2:56 |
 
-Snapshot ID: `MCxlZjVhY2EyMjYwNTY4MzNlNmI2MmJjY2UyZGQxN2RkM2RiMTdhM2Nm`
+Snapshot ID: `MCxlOTQ4YjljYTdkOGExOWI2YjgxNWEyNTM1ZjU2ZDcwOTRiMGFjN2Jm`

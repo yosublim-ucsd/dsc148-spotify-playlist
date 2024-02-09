@@ -2817,6 +2817,24 @@
     },
     {
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/4z3b2ipdkf4WijSlYcI6Gv"
+      },
+      "artists": [
+        {
+          "name": "Ghita",
+          "url": "https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158798,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/2du5P5ONNBbrn4vHiqV0dY"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/5p5RkbJwuXyM5lfmgfoPF6"
       },

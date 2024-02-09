@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,415,609 likes - 85 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,416,207 likes - 85 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 48 | [nitari](https://open.spotify.com/track/1ZKoFnft58Ak3jujRlUGJQ) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [nitari](https://open.spotify.com/album/17ecQayWxTwcz9o25u8HHE) | 2:43 |
 | 49 | [恋してる自分すら愛せるんだ](https://open.spotify.com/track/62dL2rUkI4T7mAgwCVclJi) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [恋してる自分すら愛せるんだ](https://open.spotify.com/album/5c8jlwAovhxg04NiOVotCb) | 3:32 |
 | 50 | [Fixer](https://open.spotify.com/track/1YbKeP9f10A8cDmHHIugwI) | [Yui Ninomiya](https://open.spotify.com/artist/7HCJJr9kZs3qiKJVxjRXsk) | [Fixer](https://open.spotify.com/album/1hlrglBu9F6A3Wai9VeT3m) | 3:36 |
-| 51 | [ステゴロ](https://open.spotify.com/track/4WRPyGX4Ihz78H0Vg3hH98) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [ステゴロ](https://open.spotify.com/album/5lf1lZAzjWi5X1VeU5poUt) | 2:41 |
+| 51 | [おーる・ざ・やんぐ・ぎーくす](https://open.spotify.com/track/5eMZFpCA34CjojOSMwtLTQ) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [おーる・ざ・やんぐ・ぎーくす](https://open.spotify.com/album/7DdO9kXkzARuAeVDc15Ibs) | 4:03 |
 | 52 | [LOVE OR HATE?](https://open.spotify.com/track/1FrIwTf4qanLZ291r5aaIV) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [LOVE OR HATE? OPENING THEME FROM TV SERIES ”VILLAINESS LEVEL 99”](https://open.spotify.com/album/5GLpjMK7c1giXA9GFDD99t) | 3:08 |
 | 53 | [大胆](https://open.spotify.com/track/0SMtNovWLTRkt9UXMY3SCO) | [WANDS](https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7) | [大胆](https://open.spotify.com/album/4jzrfUDZNu71SR9pkcMPSF) | 4:01 |
 | 54 | [スーパーウルトラ I LOVE YOU](https://open.spotify.com/track/1rMbW3ri5rFPwIaWXjeOi6) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [スーパーウルトラ I LOVE YOU](https://open.spotify.com/album/659ErKMuWO7zJkEkjbjxkW) | 3:16 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 65 | [Lover's Eye](https://open.spotify.com/track/6nVjkeGNoMwVLfDByTi9zm) | [Sizuk](https://open.spotify.com/artist/5UNvWvt9sIB2DmhHzpkwBM), [AYAME\(from AliA\)](https://open.spotify.com/artist/1nmWIgaPaOYHw2YjBJKvvl) | [Lover's Eye](https://open.spotify.com/album/73sDpnepY5gmlt2g2jwhdI) | 4:23 |
 | 66 | [My Factor](https://open.spotify.com/track/5CWKezKmBJlclkNnrka4sL) | [Kent Ito](https://open.spotify.com/artist/3UQapJyENH6KwfJbjA0krM) | [My Factor](https://open.spotify.com/album/3SOuDYmtoR7JKEvF1dYXbP) | 4:15 |
 | 67 | [Ura Omote Aquarium](https://open.spotify.com/track/3o7VAschPtdpAEbOnzrRfX) | [otonari](https://open.spotify.com/artist/1PVlHWMrl8nmwEq4HfWHZd), [RIRIKO](https://open.spotify.com/artist/7Ag3A1k5zkpwMeB3S9DrCm), [佐高陵平](https://open.spotify.com/artist/4dSoW05s3zX3tA20IMqgcY) | [Ura Omote Aquarium](https://open.spotify.com/album/7CYVV7qr4jwSz4mw8psXSP) | 3:02 |
-| 68 | [Immortal](https://open.spotify.com/track/0OnBxDVmTg16bqklhVnRsJ) | [JUVENILE](https://open.spotify.com/artist/2wppgeQgm2DSP4ZkEIo9rn) | [Immortal](https://open.spotify.com/album/19mWviXzRwoBHrJlcbR2la) | 3:18 |
+| 68 | [Immortal](https://open.spotify.com/track/0OnBxDVmTg16bqklhVnRsJ) | [JUVENILE](https://open.spotify.com/artist/2Wj83ZkeRUYtTq0kaPOoQW) | [Immortal](https://open.spotify.com/album/19mWviXzRwoBHrJlcbR2la) | 3:18 |
 | 69 | [Showdown](https://open.spotify.com/track/5jv9HMHFuV8nIi7KwF6X1Y) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Showdown](https://open.spotify.com/album/2eXZ7BdhPyF7g3krHL5uPC) | 3:23 |
 | 70 | [God Mode](https://open.spotify.com/track/02bRlgNPp9ctqByOhAMs9d) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [God Mode](https://open.spotify.com/album/3j6i1vKHTjehKad1kwqdJV) | 3:34 |
 | 71 | [明日は明日の風が吹く](https://open.spotify.com/track/7fNzd4Dk11gz0Bw1K1PrzD) | [LEEVELLES](https://open.spotify.com/artist/18fdEUD62UUaQx0RP57dog) | [明日は明日の風が吹く](https://open.spotify.com/album/43qRtHShY0CnF3wtKKTuEA) | 3:05 |
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 77 | [Day Off](https://open.spotify.com/track/51qR61A8e4sBvNBSnMI9QO) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [Day Off](https://open.spotify.com/album/4PGkGGLBfmgOJ7E1m46Vga) | 3:28 |
 | 78 | [果てのない旅](https://open.spotify.com/track/558Rz2INvrgzVBEBdUFLZk) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [果てのない旅](https://open.spotify.com/album/4HaR7cxuaOgD7hnst95Wgw) | 2:41 |
 | 79 | [Green jade](https://open.spotify.com/track/3cGLkrUEaEWIMCNVMpCtt2) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [Green jade](https://open.spotify.com/album/6UIQ9fd4GiywsQ0Tg9MOvB) | 3:39 |
-| 80 | [Muchauman no Theme](https://open.spotify.com/track/6yjINBA8ANAe6daFoPSeOb) | [Hironobu Kageyama](https://open.spotify.com/artist/6qTKdHuHW9MFnjfV3JYmz8) | [Muchauman no Theme](https://open.spotify.com/album/4JT0mrCRYo1tE1pUNsqIQe) | 0:34 |
-| 81 | [遊歩](https://open.spotify.com/track/642mV6IqqtzGZ2SmIv5Jtt) | [いゔどっと](https://open.spotify.com/artist/1IgcHRzXg2POh5QKM1p7mj) | [遊歩](https://open.spotify.com/album/5cC2wqULeAw93vRHUh5mtk) | 3:09 |
-| 82 | [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 |
-| 83 | [ストレイト](https://open.spotify.com/track/46Qfr2EcTsB0H7I1h2XLoc) | [syh](https://open.spotify.com/artist/3bKQgwripMGjcjH3hTjRkW) | [ストレイト](https://open.spotify.com/album/5FigjD6aBPtmy4pHivXAdk) | 2:16 |
-| 84 | [MISSION](https://open.spotify.com/track/4nhIjg2wDZpbZWb6J2X3FW) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [MISSION](https://open.spotify.com/album/1rUpgKR4NnFImLnAvglIHl) | 3:22 |
-| 85 | [Otowa](https://open.spotify.com/track/1zSDvAdbpQoSuVJ9jLHGJD) | [太陽と踊れ月夜に唄え](https://open.spotify.com/artist/6FD9cAv3nEw3sK6mSmIAjV) | [Otowa](https://open.spotify.com/album/2nYVX9H4mPqz2a8A9efxzW) | 3:56 |
+| 80 | [遊歩](https://open.spotify.com/track/642mV6IqqtzGZ2SmIv5Jtt) | [いゔどっと](https://open.spotify.com/artist/1IgcHRzXg2POh5QKM1p7mj) | [遊歩](https://open.spotify.com/album/5cC2wqULeAw93vRHUh5mtk) | 3:09 |
+| 81 | [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 |
+| 82 | [ストレイト](https://open.spotify.com/track/46Qfr2EcTsB0H7I1h2XLoc) | [syh](https://open.spotify.com/artist/3bKQgwripMGjcjH3hTjRkW) | [ストレイト](https://open.spotify.com/album/5FigjD6aBPtmy4pHivXAdk) | 2:16 |
+| 83 | [Otowa](https://open.spotify.com/track/1zSDvAdbpQoSuVJ9jLHGJD) | [太陽と踊れ月夜に唄え](https://open.spotify.com/artist/6FD9cAv3nEw3sK6mSmIAjV) | [Otowa](https://open.spotify.com/album/2nYVX9H4mPqz2a8A9efxzW) | 3:56 |
+| 84 | [ステゴロ](https://open.spotify.com/track/4WRPyGX4Ihz78H0Vg3hH98) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [ステゴロ](https://open.spotify.com/album/5lf1lZAzjWi5X1VeU5poUt) | 2:41 |
+| 85 | [Muchauman no Theme](https://open.spotify.com/track/6yjINBA8ANAe6daFoPSeOb) | [Hironobu Kageyama](https://open.spotify.com/artist/6qTKdHuHW9MFnjfV3JYmz8) | [Muchauman no Theme](https://open.spotify.com/album/4JT0mrCRYo1tE1pUNsqIQe) | 0:34 |
 
-Snapshot ID: `MCxhMjljM2QzYTIwMTZiZTczN2ZiOWM2MzgzN2ZiMGMwNTU3YWU4NmY0`
+Snapshot ID: `MCxiYzE5OTc2Mzc1NjcwYTdmNjg0YTFiYThiMzAyN2FhNzVhOWY3YTA2`

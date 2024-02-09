@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-384 songs - 1 day 1 hr 22 min
+385 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [原來我很愛你 \- 電視劇《原來我很愛你》同名主題曲](https://open.spotify.com/track/5Hy3Smqt5cYG70B2evnLGi) | [林彥俊](https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih) | [原來我很愛你 \(電視劇《原來我很愛你》同名主題曲\)](https://open.spotify.com/album/7jpgg7xGcOBE9bYJBw8CGq) | 3:40 | 2022-07-28 |  |
 | [原地踏步](https://open.spotify.com/track/3dxnJ9fxpCUlhSPTwUjlEi) | [郭真榕](https://open.spotify.com/artist/6tQ9tgGfydvXjNqnzYJ5lH) | [時間之流](https://open.spotify.com/album/2WfZiYWH472LiwWVYG1iUC) | 4:20 | 2023-06-15 | 2023-07-11 |
 | [只有我的天空有烏雲 \- Acoustic Version](https://open.spotify.com/track/6qNrzQxuN6XPJji8d8TCAf) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [只有我的天空有烏雲 \(Acoustic Version\)](https://open.spotify.com/album/4hZ41yLZ6DD70g9T5pVYRY) | 4:09 | 2023-05-25 | 2023-06-09 |
-| [只要你願意回頭我都在](https://open.spotify.com/track/2VKOms1UfMdaq7bwT9FTeq) | [Lil RAD](https://open.spotify.com/artist/02eMETTb4dkr9wE0utyggc), [Zoma](https://open.spotify.com/artist/27ScV4GsE5DatNFzTNz9Y2) | [只要你願意回頭我都在](https://open.spotify.com/album/2Pk1W00itfJOMlngFxBrKx) | 3:35 | 2024-02-02 |  |
+| [只要你願意回頭我都在](https://open.spotify.com/track/2VKOms1UfMdaq7bwT9FTeq) | [Lil RAD](https://open.spotify.com/artist/02eMETTb4dkr9wE0utyggc), [Zoma](https://open.spotify.com/artist/27ScV4GsE5DatNFzTNz9Y2) | [只要你願意回頭我都在](https://open.spotify.com/album/2Pk1W00itfJOMlngFxBrKx) | 3:35 | 2024-02-02 | 2024-02-09 |
 | [可不可以你也剛好喜歡我 \(電影《可不可以,你也剛好喜歡我》宣傳曲\)](https://open.spotify.com/track/61wIEHBhxCURz08r0E4pzg) | [FS \(Fuying & Sam\)](https://open.spotify.com/artist/0vWI4yyM1HXGoK0tkHqbGi) | [可不可以你也剛好喜歡我 \(電影《可不可以,你也剛好喜歡我》宣傳曲\)](https://open.spotify.com/album/3JDLRMAREurKUXxHpdeDw1) | 4:35 | 2022-07-21 | 2022-07-27 |
 | [可惜不愛了](https://open.spotify.com/track/1KmlwGRzoI8OhzBUTIvJtX) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [來者何人n!](https://open.spotify.com/album/6PzBtNMygnrKVLoQGxLgsj) | 3:54 | 2022-06-10 | 2022-07-09 |
 | [可能是比較內向而已](https://open.spotify.com/track/1gYOBa9nInmoo52hOn4veq) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [可能是比較內向而已](https://open.spotify.com/album/666sGx1Lrs4viYlxA4EjDN) | 3:51 | 2022-10-06 | 2023-05-17 |
@@ -198,6 +198,7 @@
 | [悲傷的五個步驟 \- Live Session](https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [悲傷的五個步驟 \(Live Session\)](https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh) | 3:09 | 2022-08-11 |  |
 | [想和你一起](https://open.spotify.com/track/5fktrJ3Sds9nmhyVva2irU) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [如果你也愛我就好了](https://open.spotify.com/album/5s3lkz5pkdwPir6BwFqFDb) | 3:53 | 2022-06-02 | 2022-07-29 |
 | [想和你一起 \(feat\. 洪安妮\)](https://open.spotify.com/track/3m51Vc66fUIorBDsck4LwC) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [想和你一起 \(feat\. 洪安妮\)](https://open.spotify.com/album/79uriKWKqmAdmFaSed84rV) | 3:52 | 2022-06-23 | 2022-07-12 |
+| [想回家的時候](https://open.spotify.com/track/3qBCr8BDyEqEZjSDNGW5op) | [Dadado Huang](https://open.spotify.com/artist/3C8yUWotyLh2Kjkood3xYN) | [一切平常](https://open.spotify.com/album/33TkgPZWkWleCmNCchXHVQ) | 4:06 | 2024-02-08 |  |
 | [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 | 2022-06-02 | 2024-02-08 |
 | [想把空白的日子留给你](https://open.spotify.com/track/4Mw26chMpfO6JvbFgFpKUF) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [想把空白的日子留给你](https://open.spotify.com/album/0yMMA9HWHFVFGkkOs8nxSI) | 4:19 | 2022-06-02 | 2022-07-29 |
 | [想見就能相見 \- Live 版](https://open.spotify.com/track/46hRFXILthnANbKUrbGWtb) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [想見就能相見 \(Live 版\)](https://open.spotify.com/album/7tKrxlXdVdep0w6dHibgMO) | 5:04 | 2023-02-16 | 2023-03-03 |

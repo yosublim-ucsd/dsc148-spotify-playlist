@@ -4,7 +4,7 @@
 
 > 
 
-1,138 songs - 2 day 15 hr 48 min
+1,139 songs - 2 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Funky Fat Beat](https://open.spotify.com/track/2hmQgMkndqDueyACwxRLN3) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Funky Fat Beat](https://open.spotify.com/album/6djg59GSUTyLJRhoZL8qyy) | 4:15 | 2023-03-21 |  |
 | [Funky Sh!t](https://open.spotify.com/track/096nThwJtpWjmWgaxAte3Q) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Tha Mechanic](https://open.spotify.com/artist/4Nhqao0AUSRpuHCSVQA2my) | [Funky Sh!t](https://open.spotify.com/album/1GLUAwgER0CsHfZ1GzEoRD) | 2:30 | 2023-06-02 |  |
 | [Future Downloader v2.0](https://open.spotify.com/track/1lRv3eDgBqsNLBfNXQ58rl) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb) | [SUPER KEY GENERATOR](https://open.spotify.com/album/0QQVwPaGD5Vr33bYXy60lY) | 3:29 | 2023-05-02 |  |
+| [Game Of Hate](https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Game Of Hate](https://open.spotify.com/album/2sm4kctw7K0HbT1cRpiHYu) | 3:00 | 2024-02-08 |  |
 | [Game Over](https://open.spotify.com/track/0pcIExB9WDMsgRopRZQshN) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Game Over](https://open.spotify.com/album/1XtkukXNhbUhVve9Ue9KVg) | 2:11 | 2023-11-20 |  |
 | [Game Over](https://open.spotify.com/track/1N62PRlZcr5PoISOnSdLeL) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3) | [Defqon.1 2022](https://open.spotify.com/album/0IIZiAU8DR9Jk586zHolw2) | 2:28 | 2022-11-07 |  |
 | [Gang Shit](https://open.spotify.com/track/6GKiVx0LfPEWIuQ8a9jAMt) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs) | [Gang Shit](https://open.spotify.com/album/5QtJqXVnKEf2zYcgu7NYDV) | 2:37 | 2023-11-26 |  |

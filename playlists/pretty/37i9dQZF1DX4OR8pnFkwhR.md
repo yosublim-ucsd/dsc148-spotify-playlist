@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 離婚伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,172 likes - 69 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,232 likes - 69 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 64 | [トロイメライ](https://open.spotify.com/track/1rRxrmH2wtziYvJXDJMoi1) | [pachae](https://open.spotify.com/artist/7lqLvJ6yvMDwu307APLILI) | [トロイメライ](https://open.spotify.com/album/7fog8kTHEyyPMbCPdFuFoh) | 3:18 |
 | 65 | [ケセラセラ](https://open.spotify.com/track/5FQq6dRSKGAaSzafAB0yjb) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [ケセラセラ](https://open.spotify.com/album/6mo8CnobC5XIJH7rN9GHMl) | 3:13 |
 | 66 | [純情](https://open.spotify.com/track/51gs6ICIvYvSPz22cREjup) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [夢の中で、夢から醒めて](https://open.spotify.com/album/2Gje9p6OLGFQoqSovlwfEb) | 3:27 |
-| 67 | [Sanzameku](https://open.spotify.com/track/09rGKRSeUIxhbD6AIJoJDK) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Sanzameku](https://open.spotify.com/album/6aQcVCTEE1ps7pME44kVpO) | 3:05 |
+| 67 | [Sanzameku](https://open.spotify.com/track/0XWKTGEZy1UxKERL4ZuPEz) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv) | 3:05 |
 | 68 | [シンシャ](https://open.spotify.com/track/5jAHFipcLURLl4NiEWpjaV) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [シンシャ](https://open.spotify.com/album/2Wbjn9gW8to9OtHHzcNkHF) | 3:56 |
 | 69 | [transistor radio](https://open.spotify.com/track/4pbgZCsGIdL9UIxhfI5OTG) | [The Derbies](https://open.spotify.com/artist/6OYj0Uw0gi7Wl4WrwpxyQK) | [transistor radio](https://open.spotify.com/album/6ikw6U3hV8LcmqGkgsUYXW) | 3:20 |
 
-Snapshot ID: `MCwyZmZlMDA2MmNmN2E2ZWViMWVhODgxY2U2NWU4MDkzZTdhOTgzYmJj`
+Snapshot ID: `MCw0MmNiNDRlNDBhOGM1NDZjNGIzMzQ4MWFlMGY1NmNmZjRmMDk3YjYx`

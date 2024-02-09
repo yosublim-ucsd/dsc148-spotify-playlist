@@ -1,12 +1,12 @@
 {
   "description": "Canciones para emocionarnos, reflexionar y celebrar, elegidas por <a href=\"spotify:show:5GfRxX2kl2BJVB1e7AgcDh\"> Marco Antonio Regil</a>",
-  "num_followers": 16310,
+  "num_followers": 16319,
   "original_name": "Insp\u00edrate con Marco Antonio Regil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDQ0MWM0ZThiOTJmZjAyZmZjNzk4ODRmZDhiMjBlMDg5Y2VjYWQ3",
+  "snapshot_id": "MCxhNGY0MmU5N2Y0NmY5NjBkMmNmMzAyOGM1ZjZkZjE0ZjlmZjNiYTYx",
   "tracks": [
     {
       "added_at": "2024-01-16 19:35:43",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-01-16 19:35:43",
       "album": {
+        "name": "Obras Cumbres",
+        "url": "https://open.spotify.com/album/7MqDgagaBfm7Cjlg7uzlAa"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 345533,
+      "name": "En la Ciudad de la Furia",
+      "url": "https://open.spotify.com/track/5wjiZSbxaLyLpGimpwqh1H"
+    },
+    {
+      "added_at": "2024-01-16 19:35:43",
+      "album": {
         "name": "Best of Volume 1",
         "url": "https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 313706,
       "name": "Wrapped Around Your Finger - Remastered 2003",
       "url": "https://open.spotify.com/track/400ZJAUFuEuIGXhr7ie4xf"
-    },
-    {
-      "added_at": "2024-01-16 19:35:43",
-      "album": {
-        "name": "Obras Cumbres",
-        "url": "https://open.spotify.com/album/7MqDgagaBfm7Cjlg7uzlAa"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 345533,
-      "name": "En la Ciudad de la Furia",
-      "url": "https://open.spotify.com/track/5wjiZSbxaLyLpGimpwqh1H"
     },
     {
       "added_at": "2024-01-16 19:35:43",

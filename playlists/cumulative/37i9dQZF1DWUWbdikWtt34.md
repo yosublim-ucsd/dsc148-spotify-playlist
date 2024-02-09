@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Sridevi DA5, Kier King
+> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
 
-145 songs - 11 hr 12 min
+146 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Ada Dia Antara Kita](https://open.spotify.com/track/5NBFdXpSQM9bcJPFvU4Rrb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Ada Dia Antara Kita](https://open.spotify.com/album/60eciJ0xs7alQ8NhJFz9pc) | 3:43 | 2021-08-23 | 2023-08-18 |
 | [Akhir Cerita Cinta](https://open.spotify.com/track/6p8zr8fyGBWtRZsVp2cc4d) | [Fania Putri](https://open.spotify.com/artist/7kciVBb9QDsMO8PqYGhuim) | [Akhir Cerita Cinta](https://open.spotify.com/album/0JMTGUWGp2V5u233WV7AsT) | 6:24 | 2023-04-28 | 2023-09-15 |
 | [Aku Cah Kerjo](https://open.spotify.com/track/5lFBEfhO3S846OWXoF8kgH) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Bojoku Galak](https://open.spotify.com/album/2PF24cRBneDg0TBN2WKTh3) | 6:16 | 2021-08-23 | 2023-02-03 |
-| [Aku Tenang](https://open.spotify.com/track/75lsA8cwe9Pa7AhkFlgMMF) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Aku Tenang](https://open.spotify.com/album/1m7WB75FF5bN5IsijB996S) | 5:16 | 2021-08-23 |  |
+| [Aku Tenang](https://open.spotify.com/track/75lsA8cwe9Pa7AhkFlgMMF) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Aku Tenang](https://open.spotify.com/album/1m7WB75FF5bN5IsijB996S) | 5:16 | 2021-08-23 | 2024-02-09 |
 | [Angel](https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Angel](https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq) | 4:47 | 2021-08-23 |  |
 | [Angin](https://open.spotify.com/track/3k0oCzfjIxqOBZIfwzSWhb) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Angin](https://open.spotify.com/album/461V9891s3vWJrkfouthY0) | 4:47 | 2024-01-11 |  |
 | [Bagaikan Pohon Tumbang](https://open.spotify.com/track/4tCohy6Vn1HjkETV2Ycis4) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q) | [Bagaikan Pohon Tumbang](https://open.spotify.com/album/2LEt2hpwsalwWYyKpnpsU8) | 4:03 | 2023-08-24 |  |
@@ -79,7 +79,7 @@
 | [Lagi Syantik](https://open.spotify.com/track/2whJ6VW0y0EGhp1XYElDCp) | [Siti Badriah](https://open.spotify.com/artist/7uFoXSuGpa1zjda9SgmqFk) | [Lagi Syantik](https://open.spotify.com/album/5DIDVNHJvI0dc2HxgjxBzF) | 3:49 | 2021-08-23 | 2022-07-29 |
 | [LDR \( layang dungo restu \)](https://open.spotify.com/track/0tcEJ791a3aF6pTusqkJep) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [LDR \( layang dungo restu \)](https://open.spotify.com/album/4e5KcsAGBMNwbfuDBspCRe) | 5:29 | 2021-08-23 |  |
 | [Madu Merah \- Cover](https://open.spotify.com/track/0718TQnNieFp7nFiCA8I9h) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q), [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z) | [Madu Merah \(Cover\)](https://open.spotify.com/album/49Kxl3GeB7k29szPUzxWvo) | 4:18 | 2023-08-03 |  |
-| [MANDI MADU](https://open.spotify.com/track/3pp46cFnbZd0gFm6FwvPyL) | [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [MANDI MADU](https://open.spotify.com/album/2QPyodnyZngiTLtR5l5L5L) | 3:57 | 2021-08-23 |  |
+| [MANDI MADU](https://open.spotify.com/track/3pp46cFnbZd0gFm6FwvPyL) | [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [MANDI MADU](https://open.spotify.com/album/2QPyodnyZngiTLtR5l5L5L) | 3:57 | 2021-08-23 | 2024-02-09 |
 | [Marlina](https://open.spotify.com/track/4aqSBMVmU6mYvAnIbnyOHr) | [Thomas Djorghi](https://open.spotify.com/artist/1PgpMO3k0MFsIbKT3sQFkI) | [Marlina](https://open.spotify.com/album/7myo2qt1Y3C97HsnmQCONr) | 4:05 | 2023-02-02 | 2023-08-25 |
 | [Mataharimu](https://open.spotify.com/track/7hrrK9IGXA1V30nLkLI7Ei) | [Sridevi](https://open.spotify.com/artist/4Ad1vLhZo1fEqoXhmHb1n3) | [Mataharimu](https://open.spotify.com/album/2vmrg3VSTLe3uMvwofdVQq) | 5:17 | 2023-02-16 | 2023-07-14 |
 | [Matamu](https://open.spotify.com/track/4567XBj0AIseDcylxH3VMD) | [Meli](https://open.spotify.com/artist/11s9ZlR5AfrRW2vXUkpBO4) | [Matamu](https://open.spotify.com/album/08kfLLPvmYHfr8Zaqcrrsf) | 3:06 | 2023-05-18 | 2023-08-25 |
@@ -112,6 +112,7 @@
 | [Pintu Berkah](https://open.spotify.com/track/3WyOay9X5Nnd43HHvSCNvy) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p), [Hari Putra](https://open.spotify.com/artist/7rghk7Vdh0DpjZOpp9zSwN) | [Pintu Berkah](https://open.spotify.com/album/49GYCqpTtiXImRZnB3lKRI) | 4:15 | 2023-10-26 |  |
 | [Racun Asmara](https://open.spotify.com/track/4snJpcd1vXnhlrSF3tZA4W) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Racun Asmara](https://open.spotify.com/album/5aH9pPOs9g6K63DZYBpJBf) | 6:11 | 2023-08-03 |  |
 | [Rasa Yang Salah](https://open.spotify.com/track/2j0nGluWGv7bUS7CihEPXH) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Rasa Yang Salah](https://open.spotify.com/album/6jVMOyooGnu49SsAZyuObH) | 4:47 | 2021-08-23 | 2023-09-15 |
+| [Rindu Tapi Malu \- Live At Ska Reggae](https://open.spotify.com/track/3T1Fyxl2WPQLmEv8JKFxO2) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Rindu Tapi Malu \(Live At Ska Reggae\)](https://open.spotify.com/album/5XMn6JEGTJJDP4JuzjGUCj) | 4:15 | 2024-02-08 |  |
 | [Rumit](https://open.spotify.com/track/33TCMtMtSaA3svfYfdkMHo) | [Anggi Rayns](https://open.spotify.com/artist/0WzERYbfqhfsmcg6axzGvT) | [Rumit](https://open.spotify.com/album/1IrWJfXPkvTimTDo3eCMEg) | 4:28 | 2023-09-07 |  |
 | [Salah Apa Aku \- DJ Version](https://open.spotify.com/track/4TZ6sKMb5qdsBijn7GAosK) | [Ilir7](https://open.spotify.com/artist/2Qq9xKJKNbWzXQpO9ueKwc) | [Salah Apa Aku \(DJ Version\)](https://open.spotify.com/album/6jgucnuziyH4ihofeI625E) | 4:20 | 2021-08-23 | 2023-11-04 |
 | [Salahkah Aku](https://open.spotify.com/track/377ZMIKzLmBAYx3BTdNISv) | [Imam S Arifin](https://open.spotify.com/artist/0kR8oZ9mW15tKZnYJhFCS9) | [Salahkah Aku](https://open.spotify.com/album/6TdZuqZQ4wdzTL0rl3WmzP) | 5:27 | 2023-05-18 | 2023-12-01 |
@@ -128,7 +129,7 @@
 | [Simpati Cinta](https://open.spotify.com/track/5e2GK1AWsrqqmQd0bZE3lP) | [Imam S Arifin](https://open.spotify.com/artist/0kR8oZ9mW15tKZnYJhFCS9) | [Simpati Cinta](https://open.spotify.com/album/3dBT1zmQ9QOqx4PtLF9TPw) | 5:56 | 2023-04-28 |  |
 | [Singget](https://open.spotify.com/track/1s69jZHwfpgPopf2pGYEoS) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Nella Kharisma Album, Vol\. 3](https://open.spotify.com/album/2NzestN2ZSOAOIxn9EfHlm) | 4:45 | 2023-03-30 | 2023-08-25 |
 | [Singget](https://open.spotify.com/track/0I2YNuPlmHa6TRB2zMYEgk) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Mencla Mencle](https://open.spotify.com/album/6hWZu25i1sVgsbLxn0phE5) | 4:48 | 2021-08-23 | 2023-04-01 |
-| [Sugeng Dalu](https://open.spotify.com/track/0qyzO8E6IBxZv48FG9R3KQ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/1dZX3QreXQ3V257tr93SJI) | 5:23 | 2021-08-23 |  |
+| [Sugeng Dalu](https://open.spotify.com/track/0qyzO8E6IBxZv48FG9R3KQ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/1dZX3QreXQ3V257tr93SJI) | 5:23 | 2021-08-23 | 2024-02-09 |
 | [Surgaku](https://open.spotify.com/track/3IYqAgn7ENaDH9uTZGomQO) | [Aulia](https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6) | [Surgaku](https://open.spotify.com/album/4ItlHPYdgaJuYN5MD1tlm0) | 5:33 | 2023-03-30 |  |
 | [Tak Ikhlasno](https://open.spotify.com/track/4h8rT4tUL27KwIznPur58B) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Ikhlasno](https://open.spotify.com/album/2n0favF8lI3Tv4y8dIQBbY) | 4:31 | 2021-08-23 | 2023-02-17 |
 | [Tak Lalekne Kowe](https://open.spotify.com/track/5Qj0PtT0uCwEX3IuWiHLt9) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Lalekne Kowe](https://open.spotify.com/album/7Mrs9ngZquGRsZSkR1HIE7) | 5:41 | 2021-08-23 | 2023-09-15 |

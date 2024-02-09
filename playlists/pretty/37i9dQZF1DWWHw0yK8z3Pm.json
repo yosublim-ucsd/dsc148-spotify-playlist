@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Allison Russell",
-  "num_followers": 60800,
+  "num_followers": 60798,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGJmZDg0NmQ0NzQ0YjY3ZWU3M2NhOWU3MzFlYzNlZDA0ZTE1MWQ0",
+  "snapshot_id": "MCxhMTY0YmJkY2E1YWYwZTkyMWU2NzRmYzc1NGZmYTE5YTQ0NTVjYzY4",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Mean Old Sun",
-        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Mean Old Sun",
-      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Tides of a Teardrop",
         "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 285786,
       "name": "Golden Embers",
       "url": "https://open.spotify.com/track/4OkKz8LhKo846kN3nncNZs"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Mean Old Sun",
+        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Mean Old Sun",
+      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Among Other Things",
-        "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 288402,
-      "name": "Rhododendron",
-      "url": "https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Working On My Tan",
         "url": "https://open.spotify.com/album/0Bao2JWD4FrEx495tuftGc"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 263436,
       "name": "Working On My Tan",
       "url": "https://open.spotify.com/track/1x4SJb7Z9d9SUZokNaCDR2"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Among Other Things",
+        "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 288402,
+      "name": "Rhododendron",
+      "url": "https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Among Other Things",
-        "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 268622,
-      "name": "Numbers",
-      "url": "https://open.spotify.com/track/1IcMEQNw8ZuXZtfLGnrKcq"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Little Songs",
         "url": "https://open.spotify.com/album/7aLyCKBgtyqjC1r8K8b8iT"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 279796,
       "name": "Easy as Hello",
       "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Among Other Things",
+        "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 268622,
+      "name": "Numbers",
+      "url": "https://open.spotify.com/track/1IcMEQNw8ZuXZtfLGnrKcq"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "DANCING IN THE DARK",
+        "url": "https://open.spotify.com/album/08AjlivRrk28r7U8j5eI8p"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "CAMPFIRE",
+      "url": "https://open.spotify.com/track/5LzJ0hTz5LBYjSKT7YUQLU"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 208053,
       "name": "Kingdom For A Fool",
       "url": "https://open.spotify.com/track/6WxeGuCYRAXijpeLGPGx62"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "DANCING IN THE DARK",
-        "url": "https://open.spotify.com/album/08AjlivRrk28r7U8j5eI8p"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "CAMPFIRE",
-      "url": "https://open.spotify.com/track/5LzJ0hTz5LBYjSKT7YUQLU"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1535,24 +1535,8 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Bequest",
-        "url": "https://open.spotify.com/album/6RdTiE9ukZ5h6owKsuGDte"
-      },
-      "artists": [
-        {
-          "name": "John Muirhead",
-          "url": "https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0"
-        }
-      ],
-      "duration_ms": 238473,
-      "name": "Bequest",
-      "url": "https://open.spotify.com/track/03Hyfti0W36eu4oHZUwrte"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Honest Love",
-        "url": "https://open.spotify.com/album/7at93U2OD7nuYVVWhwFFZV"
+        "name": "Dom Louis",
+        "url": "https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6"
       },
       "artists": [
         {
@@ -1560,25 +1544,9 @@
           "url": "https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph"
         }
       ],
-      "duration_ms": 234248,
-      "name": "Honest Love",
-      "url": "https://open.spotify.com/track/4dIAlqPSxi5DiIEjOhzNV1"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Bobtail Road",
-        "url": "https://open.spotify.com/album/37pFeBTwztjSqMzYqTcEqV"
-      },
-      "artists": [
-        {
-          "name": "Wyatt C. Louis",
-          "url": "https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB"
-        }
-      ],
-      "duration_ms": 212183,
-      "name": "Bobtail Road",
-      "url": "https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU"
+      "duration_ms": 175423,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1595,6 +1563,38 @@
       "duration_ms": 339040,
       "name": "Pretending",
       "url": "https://open.spotify.com/track/7DWiZj8PrmJF5pA16htFEF"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB"
+      },
+      "artists": [
+        {
+          "name": "Lost Dog Street Band",
+          "url": "https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq"
+        }
+      ],
+      "duration_ms": 184785,
+      "name": "Fighting Like Hell to Be Free",
+      "url": "https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Bequest",
+        "url": "https://open.spotify.com/album/6RdTiE9ukZ5h6owKsuGDte"
+      },
+      "artists": [
+        {
+          "name": "John Muirhead",
+          "url": "https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0"
+        }
+      ],
+      "duration_ms": 238473,
+      "name": "Bequest",
+      "url": "https://open.spotify.com/track/03Hyfti0W36eu4oHZUwrte"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB"
+        "name": "Bobtail Road",
+        "url": "https://open.spotify.com/album/37pFeBTwztjSqMzYqTcEqV"
       },
       "artists": [
         {
-          "name": "Lost Dog Street Band",
-          "url": "https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq"
+          "name": "Wyatt C. Louis",
+          "url": "https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB"
         }
       ],
-      "duration_ms": 184785,
-      "name": "Fighting Like Hell to Be Free",
-      "url": "https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ"
+      "duration_ms": 212183,
+      "name": "Bobtail Road",
+      "url": "https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU"
     },
     {
       "added_at": "2024-02-02 05:00:00",

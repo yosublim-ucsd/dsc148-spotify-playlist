@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 25234,
+  "2024-02-09": 25260,
   "date_first_scraped": "2022-08-06",
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
   "name": "This Is Howlin' Wolf",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 135600,
       "name": "All Night Boogie (All Night Long)",
       "url": "https://open.spotify.com/track/6UXUwb2mZK0LFsColT6uup"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 173533,
       "name": "Back Door Man",
       "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 191194,
       "name": "Color And Kind",
       "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 173706,
       "name": "Evil (Is Going On)",
       "url": "https://open.spotify.com/track/7LdbDjg6esKNAsnFElpFnB"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 170000,
       "name": "Forty Four",
       "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 162093,
       "name": "I Better Go Now - Single Version",
       "url": "https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 253857,
       "name": "I Can't Stop Loving You - Live",
       "url": "https://open.spotify.com/track/3fUhPjw5vgRRpTLBRBFlxx"
@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 180960,
       "name": "I'm Leavin You",
       "url": "https://open.spotify.com/track/3CDa8cJPIxA2jFiwqzFyzb"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 134600,
       "name": "I've Been Abused - Single Version",
       "url": "https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16"
@@ -1251,7 +1251,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 168293,
       "name": "Little Baby",
       "url": "https://open.spotify.com/track/0JeHI9bAxvgT64ITqNth2q"
@@ -1699,7 +1699,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 156733,
       "name": "Poor Boy",
       "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
@@ -1829,7 +1829,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 139760,
       "name": "Shake For Me",
       "url": "https://open.spotify.com/track/5kj3Q1fVwgb2f8SxFT6bD5"
@@ -1979,7 +1979,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 179400,
       "name": "Tail Dragger",
       "url": "https://open.spotify.com/track/4NOGASaEbMZftUAq3u8mVB"
@@ -2261,7 +2261,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 146173,
       "name": "Who's Been Talking?",
       "url": "https://open.spotify.com/track/7aHS9MdIBgmkedKRFhjFEK"

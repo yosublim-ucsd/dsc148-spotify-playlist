@@ -1,12 +1,12 @@
 {
   "description": "Relaxing piano works by Chopin.",
-  "num_followers": 177845,
+  "num_followers": 177884,
   "original_name": "Relaxing Chopin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTMyN2ZiNzBkNWJlYzI4NzhkYTc2NTVkYWI5ZWE1ZWI2NjM2MWFm",
+  "snapshot_id": "MCw5MDUzNTNlNzE0NDEwZDY4ZTA5MWE3YTY0NzBhMDY3ZTc4MTk3ZWEw",
   "tracks": [
     {
       "added_at": "2022-08-19 10:20:11",
@@ -803,46 +803,6 @@
       "duration_ms": 726600,
       "name": "Ballade No. 4 in F Minor, Op. 52",
       "url": "https://open.spotify.com/track/5mBbZk0Nft6z1ZtxK9YOqB"
-    },
-    {
-      "added_at": "2022-08-19 10:20:11",
-      "album": {
-        "name": "Chopin: Polonaises; Andante spianato;Minor Works",
-        "url": "https://open.spotify.com/album/1gAU8fHpTCco6SgNnsR5tm"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        }
-      ],
-      "duration_ms": 296266,
-      "name": "Andante spianato et Grande polonaise brillante, Op. 22: Andante spianato. Tranquillo",
-      "url": "https://open.spotify.com/track/06sDDrEwEG9ewXmV5fkETR"
-    },
-    {
-      "added_at": "2022-08-19 10:20:11",
-      "album": {
-        "name": "Chopin: Late Works, Opp. 59-64",
-        "url": "https://open.spotify.com/album/6Wzf1byg16zWinXnxldir8"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Maurizio Pollini",
-          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
-        }
-      ],
-      "duration_ms": 120106,
-      "name": "Mazurka in F Minor, Op. Posth. 68: No. 4 Andantino",
-      "url": "https://open.spotify.com/track/4bN6MHbUqqFS7tG5clItYc"
     }
   ],
   "unique_name": "Relaxing Chopin",

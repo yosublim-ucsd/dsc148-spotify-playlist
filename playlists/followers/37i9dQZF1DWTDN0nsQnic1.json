@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 25056,
+  "2024-02-09": 25064,
   "date_first_scraped": "2022-01-01",
   "description": "Lush, shimmery guitars. Cover: Ichika Nito",
   "name": "Shimmer",
@@ -69,6 +69,24 @@
       "duration_ms": 223146,
       "name": "ALAMAIM",
       "url": "https://open.spotify.com/track/6wAgZUGobl1IKDPMFV7btz"
+    },
+    {
+      "album": {
+        "name": "Bodega Shuffle",
+        "url": "https://open.spotify.com/album/27dRZ5LzncVhAXG8nxtypd"
+      },
+      "artists": [
+        {
+          "name": "Sam Blakelock",
+          "url": "https://open.spotify.com/artist/4f11jn3jO1VfqCaRPvqfsR"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69547,
+      "name": "Bodega Shuffle",
+      "url": "https://open.spotify.com/track/17vHrKfLg5kIHyx67UuypY"
     },
     {
       "album": {
@@ -714,6 +732,24 @@
     },
     {
       "album": {
+        "name": "Late Night Walk",
+        "url": "https://open.spotify.com/album/5CQFzGrUqgVH2M37vTx39t"
+      },
+      "artists": [
+        {
+          "name": "Ichika Nito",
+          "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170837,
+      "name": "Late Night Walk",
+      "url": "https://open.spotify.com/track/3G3WYux2jy8Yp0ICjcKpwb"
+    },
+    {
+      "album": {
         "name": "Lemon Squeezy / Afrique",
         "url": "https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp"
       },
@@ -821,6 +857,32 @@
       "duration_ms": 198823,
       "name": "Lovespell",
       "url": "https://open.spotify.com/track/37w7whht8ii8yxGfqkSf1d"
+    },
+    {
+      "album": {
+        "name": "Moods",
+        "url": "https://open.spotify.com/album/0pzxSRM9GJFKhCmOp1zEWk"
+      },
+      "artists": [
+        {
+          "name": "Dogzout",
+          "url": "https://open.spotify.com/artist/2uxETqQsr1BzC0iaeHeu2P"
+        },
+        {
+          "name": "Ashton Sellars",
+          "url": "https://open.spotify.com/artist/0yihh2mdPS2cIc1DoCktHm"
+        },
+        {
+          "name": "Sa\u00ef T",
+          "url": "https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170232,
+      "name": "Moods",
+      "url": "https://open.spotify.com/track/2x8tlGPk76ss4OeSuePzfP"
     },
     {
       "album": {
@@ -1147,6 +1209,24 @@
       "duration_ms": 180000,
       "name": "Second Wind",
       "url": "https://open.spotify.com/track/4u8JJlRQ4WF6XLH5geEiyL"
+    },
+    {
+      "album": {
+        "name": "Explorations, Pt. 1",
+        "url": "https://open.spotify.com/album/5dhplM8o5KbeJBkb5GGDpS"
+      },
+      "artists": [
+        {
+          "name": "Jake Fine",
+          "url": "https://open.spotify.com/artist/43Bw9eMbgU3flCZxlk238n"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99246,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/0zL39eDfT21jnAk2jibv9n"
     },
     {
       "album": {

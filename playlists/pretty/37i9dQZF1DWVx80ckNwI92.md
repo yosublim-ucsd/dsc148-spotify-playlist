@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative\. Cover: Digital Sangoma
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,190 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,196 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,25 +39,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 29 | [Love Me or Die](https://open.spotify.com/track/2cBHL4166AAaVN57hXlOkc) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Love Me or Die](https://open.spotify.com/album/1qfrOp11Qy09gcyBDS1o5w) | 3:39 |
 | 30 | [HURTING](https://open.spotify.com/track/3V2qkG0MbPwwMHUJNsxcuR) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [HURTING](https://open.spotify.com/album/4xpvcoxHFtD7JjRs0FyJ42) | 2:38 |
 | 31 | [Your Way](https://open.spotify.com/track/7a47pdpj2oVqHMpt6yUgA7) | [ApolloAwe](https://open.spotify.com/artist/7KMXyp935QuONhhhaxGtYP) | [Your Way](https://open.spotify.com/album/6T1P8GTIcQ3LhNA85EdORq) | 3:06 |
-| 32 | [Play It Cool](https://open.spotify.com/track/1pkX9NtzyU9fkmEPdYxDt3) | [Miss Sxvage](https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo) | [Play It Cool](https://open.spotify.com/album/3j1vdXv8b0C1JNbpdHGUSa) | 2:43 |
-| 33 | [Local Celebrity Freestyle](https://open.spotify.com/track/0I2LREO8Z4vGRyrwDKUqNA) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Local Celebrity Freestyle](https://open.spotify.com/album/53QY4bP99xuye3uEJpzVoc) | 1:15 |
-| 34 | [Ice Cream](https://open.spotify.com/track/4sBvb7ckoQyRw5PNIHZx7V) | [Zaiigoh](https://open.spotify.com/artist/2y1M4qSsjvWQ8FcqRoX2cr) | [Ice Cream](https://open.spotify.com/album/6ZfcCguyjUUnnGzndPgk8j) | 3:28 |
-| 35 | [THE MORNING AFTER](https://open.spotify.com/track/1ewqOSdMAgdjFCksr1tRts) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [THE MORNING AFTER](https://open.spotify.com/album/0s4AN3UDeP6wTPceysr0Jj) | 2:22 |
-| 36 | [Flowers](https://open.spotify.com/track/2KFbxmVIFmT586l1i0DgdT) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Flowers](https://open.spotify.com/album/2c0CnSrHNgM7nk4mI7i1Iv) | 2:57 |
-| 37 | [The Caring](https://open.spotify.com/track/5rhrqRbrZkhIrHp8IbiJUm) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Bastard Jargon](https://open.spotify.com/album/6JGb1JtCcQ0hco81PKvYqf) | 3:06 |
-| 38 | [Alone At A Party](https://open.spotify.com/track/2wBIK0D4z1VMTXQ33MixSJ) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Alone At A Party](https://open.spotify.com/album/7A02kpN7DcoNEjUan9gjZf) | 3:31 |
-| 39 | [ALL MINE](https://open.spotify.com/track/3NZtzTfqjbTaNt15451Vs8) | [Micah Acosta](https://open.spotify.com/artist/30rb4ntsbRjqjlPquWtskg) | [ALL MINE](https://open.spotify.com/album/19xxFr7lY0iCr3DpzRc5zN) | 2:47 |
-| 40 | [Cincinatti Pumpin!!](https://open.spotify.com/track/2tsmBwTvtJ0pU1IViRvsWJ) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:51 |
-| 41 | [acting wild.](https://open.spotify.com/track/1pSJpxkh8wLL9fsWMBgq1q) | [tswai](https://open.spotify.com/artist/3xw3vchdbFdB7q7yeCfkVS), [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN) | [acting wild.](https://open.spotify.com/album/1hWSN9ZiBIYZCeuKwVPpRb) | 2:21 |
-| 42 | [We Should've Talked About Saturday](https://open.spotify.com/track/1SI38tpcZbWCtxeqqEB8AM) | [Ndung'u Mbithi](https://open.spotify.com/artist/1Xae29olA5X6qpDX6MOvHO) | [We Should've Talked About Saturday](https://open.spotify.com/album/1MxPoF95ecdKumtef1QGGJ) | 3:58 |
-| 43 | [Sapio\-Medula](https://open.spotify.com/track/4O5EL0Ih7QTWDfU51XUGvB) | [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [Sapio\-Medula](https://open.spotify.com/album/5UqlwxwUB2lyCuFWBRqryI) | 2:52 |
-| 44 | [Ondine's Curse](https://open.spotify.com/track/4qxteXCD4RAGbJQH95eRRw) | [SEI SIREN](https://open.spotify.com/artist/70Z1TUPHxHkADZaWyJVlAl) | [Orca](https://open.spotify.com/album/7JSAAgAho49VU5dDRjCQxE) | 2:44 |
-| 45 | [Galatea](https://open.spotify.com/track/6DpzJLvpEoQ8JHYBT7UFqO) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/5knaY5eUPXeY51TN6lyUIG) | 3:46 |
-| 46 | [I Like](https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [I Like](https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p) | 3:19 |
-| 47 | [Special](https://open.spotify.com/track/7I6XUPmFLP99J5LxTJDmcQ) | [Gabriela Diamond](https://open.spotify.com/artist/0L7Ck6i3Zr1UBztHOYQRoo) | [Special](https://open.spotify.com/album/56DtRfqO1chs9KwEJHuWSm) | 2:43 |
-| 48 | [radio silence](https://open.spotify.com/track/3WhmrxCpab3VwyjDwWDhd2) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [what's different\. // radio silence.](https://open.spotify.com/album/5XBSkHZDG6Jo1D8ylFZdad) | 2:10 |
-| 49 | [BETTER ALONE](https://open.spotify.com/track/63GMEfty0JTpj3K3h4hRpU) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Alainite](https://open.spotify.com/artist/0jz2Kq6n1hX6kAahNkutXH) | [BETTER ALONE](https://open.spotify.com/album/4VYfGqjme7LhRtizdBtOEC) | 2:37 |
-| 50 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
-| 51 | [Find You There](https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Find You There](https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3) | 3:05 |
+| 32 | [PAST](https://open.spotify.com/track/34qOsOXR6mn4AMuS4COfc4) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [PAST](https://open.spotify.com/album/17mhziFzMsiur9WMF8PI00) | 2:56 |
+| 33 | [Play It Cool](https://open.spotify.com/track/1pkX9NtzyU9fkmEPdYxDt3) | [Miss Sxvage](https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo) | [Play It Cool](https://open.spotify.com/album/3j1vdXv8b0C1JNbpdHGUSa) | 2:43 |
+| 34 | [Local Celebrity Freestyle](https://open.spotify.com/track/0I2LREO8Z4vGRyrwDKUqNA) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Local Celebrity Freestyle](https://open.spotify.com/album/53QY4bP99xuye3uEJpzVoc) | 1:15 |
+| 35 | [Ice Cream](https://open.spotify.com/track/4sBvb7ckoQyRw5PNIHZx7V) | [Zaiigoh](https://open.spotify.com/artist/2y1M4qSsjvWQ8FcqRoX2cr) | [Ice Cream](https://open.spotify.com/album/6ZfcCguyjUUnnGzndPgk8j) | 3:28 |
+| 36 | [THE MORNING AFTER](https://open.spotify.com/track/1ewqOSdMAgdjFCksr1tRts) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [THE MORNING AFTER](https://open.spotify.com/album/0s4AN3UDeP6wTPceysr0Jj) | 2:22 |
+| 37 | [Flowers](https://open.spotify.com/track/2KFbxmVIFmT586l1i0DgdT) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Flowers](https://open.spotify.com/album/2c0CnSrHNgM7nk4mI7i1Iv) | 2:57 |
+| 38 | [The Caring](https://open.spotify.com/track/5rhrqRbrZkhIrHp8IbiJUm) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Bastard Jargon](https://open.spotify.com/album/6JGb1JtCcQ0hco81PKvYqf) | 3:06 |
+| 39 | [Alone At A Party](https://open.spotify.com/track/2wBIK0D4z1VMTXQ33MixSJ) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Alone At A Party](https://open.spotify.com/album/7A02kpN7DcoNEjUan9gjZf) | 3:31 |
+| 40 | [ALL MINE](https://open.spotify.com/track/3NZtzTfqjbTaNt15451Vs8) | [Micah Acosta](https://open.spotify.com/artist/30rb4ntsbRjqjlPquWtskg) | [ALL MINE](https://open.spotify.com/album/19xxFr7lY0iCr3DpzRc5zN) | 2:47 |
+| 41 | [Cincinatti Pumpin!!](https://open.spotify.com/track/2tsmBwTvtJ0pU1IViRvsWJ) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:51 |
+| 42 | [acting wild.](https://open.spotify.com/track/1pSJpxkh8wLL9fsWMBgq1q) | [tswai](https://open.spotify.com/artist/3xw3vchdbFdB7q7yeCfkVS), [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN) | [acting wild.](https://open.spotify.com/album/1hWSN9ZiBIYZCeuKwVPpRb) | 2:21 |
+| 43 | [We Should've Talked About Saturday](https://open.spotify.com/track/1SI38tpcZbWCtxeqqEB8AM) | [Ndung'u Mbithi](https://open.spotify.com/artist/1Xae29olA5X6qpDX6MOvHO) | [We Should've Talked About Saturday](https://open.spotify.com/album/1MxPoF95ecdKumtef1QGGJ) | 3:58 |
+| 44 | [Sapio\-Medula](https://open.spotify.com/track/4O5EL0Ih7QTWDfU51XUGvB) | [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [Sapio\-Medula](https://open.spotify.com/album/5UqlwxwUB2lyCuFWBRqryI) | 2:52 |
+| 45 | [Ondine's Curse](https://open.spotify.com/track/4qxteXCD4RAGbJQH95eRRw) | [SEI SIREN](https://open.spotify.com/artist/70Z1TUPHxHkADZaWyJVlAl) | [Orca](https://open.spotify.com/album/7JSAAgAho49VU5dDRjCQxE) | 2:44 |
+| 46 | [Galatea](https://open.spotify.com/track/6DpzJLvpEoQ8JHYBT7UFqO) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/5knaY5eUPXeY51TN6lyUIG) | 3:46 |
+| 47 | [I Like](https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [I Like](https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p) | 3:19 |
+| 48 | [Special](https://open.spotify.com/track/7I6XUPmFLP99J5LxTJDmcQ) | [Gabriela Diamond](https://open.spotify.com/artist/0L7Ck6i3Zr1UBztHOYQRoo) | [Special](https://open.spotify.com/album/56DtRfqO1chs9KwEJHuWSm) | 2:43 |
+| 49 | [radio silence](https://open.spotify.com/track/3WhmrxCpab3VwyjDwWDhd2) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [what's different\. // radio silence.](https://open.spotify.com/album/5XBSkHZDG6Jo1D8ylFZdad) | 2:10 |
+| 50 | [BETTER ALONE](https://open.spotify.com/track/63GMEfty0JTpj3K3h4hRpU) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Alainite](https://open.spotify.com/artist/0jz2Kq6n1hX6kAahNkutXH) | [BETTER ALONE](https://open.spotify.com/album/4VYfGqjme7LhRtizdBtOEC) | 2:37 |
+| 51 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
+| 52 | [Find You There](https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Find You There](https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3) | 3:05 |
 
-Snapshot ID: `MCwxYWQyZWFmNTc1NzAyNGU4OTJlYjE5OTM1OTc3MDc3YTJhOTQ1MTRl`
+Snapshot ID: `MCwyNGY3MjQ2ZTA2NDA0MzNiMjY3MDNjMjIwNDRjNDM0ZDM1ODZkZjJm`

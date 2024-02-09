@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 16394,
+  "2024-02-09": 16402,
   "date_first_scraped": "2022-12-17",
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\nTHE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
   "name": "THE IDOLM@STER MILLION LIVE! \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",
@@ -213,6 +213,24 @@
       "duration_ms": 311466,
       "name": "Arrive You \uff5e\u305d\u308c\u304c\u904b\u547d\u3067\u3082\uff5e",
       "url": "https://open.spotify.com/track/15bnvXKZYELjdZctyfy34X"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 05",
+        "url": "https://open.spotify.com/album/1m5z7P6KlQzsmoGEIfRyO9"
+      },
+      "artists": [
+        {
+          "name": "Rio Momose (CV: Rikako Yamaguchi)",
+          "url": "https://open.spotify.com/artist/4nMZGzn6WqI033nRyHoZvV"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241320,
+      "name": "Be My Boy",
+      "url": "https://open.spotify.com/track/1TDvkZrSVGBTLT38UFCbvI"
     },
     {
       "album": {
@@ -701,6 +719,32 @@
       "duration_ms": 268973,
       "name": "CHEER UP! HEARTS UP!",
       "url": "https://open.spotify.com/track/4AU6aS29cO0oSuDbHMytO4"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 04 Sherry 'n Cherry",
+        "url": "https://open.spotify.com/album/6sSOBO1MujX5DaNgbEq0mZ"
+      },
+      "artists": [
+        {
+          "name": "Sherry 'n Cherry",
+          "url": "https://open.spotify.com/artist/6idGBSEeLYtLCWPdwqnhZ4"
+        },
+        {
+          "name": "Konomi Baba (CV: Minami Takahashi)",
+          "url": "https://open.spotify.com/artist/71gXraRrIXOxtuvIGPhQKw"
+        },
+        {
+          "name": "Rio Momose (CV: Rikako Yamaguchi)",
+          "url": "https://open.spotify.com/artist/4nMZGzn6WqI033nRyHoZvV"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240613,
+      "name": "Cherry Colored Love",
+      "url": "https://open.spotify.com/track/5Resjvj2AzujqR57LdaTgA"
     },
     {
       "album": {
@@ -1735,7 +1779,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 252586,
       "name": "Hang In There!",
       "url": "https://open.spotify.com/track/6XJcD5pc2afKXqL0iH24ZC"
@@ -2315,7 +2359,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 269013,
       "name": "Nageki no FRACTION",
       "url": "https://open.spotify.com/track/26JYTayVQpGek000FyJMaC"
@@ -2487,6 +2531,44 @@
       "duration_ms": 276413,
       "name": "PRETTY DREAMER",
       "url": "https://open.spotify.com/track/4QKS4SZo1brO5rAtHQs8YX"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 04 PRINCESS STARS",
+        "url": "https://open.spotify.com/album/1dlsJFFLT7LFRUbeIJH1xs"
+      },
+      "artists": [
+        {
+          "name": "PRINCESS STARS",
+          "url": "https://open.spotify.com/artist/4OVCY7JiucZACb4XhcuYbK"
+        },
+        {
+          "name": "Mirai Kasuga (CV: Haruka Yamazaki)",
+          "url": "https://open.spotify.com/artist/3JuayHx0kZxDWrUzCslgvn"
+        },
+        {
+          "name": "Matsuri Tokugawa (CV: Ayaka Suwa)",
+          "url": "https://open.spotify.com/artist/3oi4yaQskHaDkubVyDPX7O"
+        },
+        {
+          "name": "Yuriko Nanao (CV: Miku Ito)",
+          "url": "https://open.spotify.com/artist/6QaH6xMAiRcPLwngGK4aI8"
+        },
+        {
+          "name": "Kana Yabuki (CV: Ibuki Kido)",
+          "url": "https://open.spotify.com/artist/3x67a8whel5V68sXtDbNC9"
+        },
+        {
+          "name": "Emily Stewart (CV: Yu Kahara)",
+          "url": "https://open.spotify.com/artist/3jvOFNGI0dXp8e9Htp1T1r"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300346,
+      "name": "Princess Be Ambitious!!",
+      "url": "https://open.spotify.com/track/3p9OnWeVVM5QWxBvsGqdFQ"
     },
     {
       "album": {
@@ -2871,7 +2953,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 262000,
       "name": "Saku-wa Ukiyo-no Kimi-HANABI",
       "url": "https://open.spotify.com/track/73AM6lXTL5fOU85AWVX44X"
@@ -3155,7 +3237,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 275453,
       "name": "smiley days",
       "url": "https://open.spotify.com/track/21Kd9M68Wjtd4u9TbKh8nb"
@@ -3247,7 +3329,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 250240,
       "name": "Super Duper",
       "url": "https://open.spotify.com/track/4n8jkskobMDH030u8YTX3w"

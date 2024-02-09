@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Zlatan",
+  "description": "Tracks popping off in the Afro scene. Cover: Victony",
   "name": "Afro Station",
   "tracks": [
     {
@@ -162,7 +162,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 176387,
       "name": "Al\u00f3",
       "url": "https://open.spotify.com/track/1PCqgmYwQQfZtDXSYvcAXy"
@@ -202,7 +202,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 196211,
       "name": "Amaria",
       "url": "https://open.spotify.com/track/14E6VXR7nqhhdybb57asuu"
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 144312,
       "name": "Designer",
       "url": "https://open.spotify.com/track/4IMmrj6wSiWwmPUGCDzXZU"
@@ -1903,6 +1903,28 @@
     },
     {
       "album": {
+        "name": "Egwu",
+        "url": "https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136132,
+      "name": "Egwu",
+      "url": "https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh"
+    },
+    {
+      "album": {
         "name": "Just Pop Hits",
         "url": "https://open.spotify.com/album/60oLjos6nFcbMOQAykbxdN"
       },
@@ -1988,6 +2010,24 @@
       "duration_ms": 270086,
       "name": "Etema",
       "url": "https://open.spotify.com/track/6ziIY7sfJeEl2mDQoR8WUp"
+    },
+    {
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
     },
     {
       "album": {
@@ -2690,6 +2730,28 @@
       "duration_ms": 202491,
       "name": "I Dey Slide",
       "url": "https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7"
+    },
+    {
+      "album": {
+        "name": "I FEEL FOR YA",
+        "url": "https://open.spotify.com/album/5tyizixpYddHZy0omGyLse"
+      },
+      "artists": [
+        {
+          "name": "Dejour",
+          "url": "https://open.spotify.com/artist/2qPE1cHelmMHiIqKHhQdK4"
+        },
+        {
+          "name": "Its Natascha",
+          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136948,
+      "name": "I FEEL FOR YA",
+      "url": "https://open.spotify.com/track/1pPphDvF5z2BeUyAD1qgxn"
     },
     {
       "album": {
@@ -3642,7 +3704,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 147169,
       "name": "Ma Jo Lo",
       "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
@@ -4925,6 +4987,28 @@
     },
     {
       "album": {
+        "name": "Prettiest Problem",
+        "url": "https://open.spotify.com/album/0HrZA9VzyAIBSyWhKDSJNm"
+      },
+      "artists": [
+        {
+          "name": "Amadi Blue",
+          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
+        },
+        {
+          "name": "Monq",
+          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Prettiest Problem",
+      "url": "https://open.spotify.com/track/1uXaXGpwGPqnXdI5Z5aKki"
+    },
+    {
+      "album": {
         "name": "Problems",
         "url": "https://open.spotify.com/album/3CIFG7DN9QuTAl6UgiqS12"
       },
@@ -5100,6 +5184,28 @@
       "duration_ms": 212631,
       "name": "Rowanda",
       "url": "https://open.spotify.com/track/32W2XSNHGRMPm3GKEuHm3r"
+    },
+    {
+      "album": {
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176200,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
     },
     {
       "album": {
@@ -6196,7 +6302,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 181016,
       "name": "Viens b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/5T4YWAQoY0F3aX6LscU2uL"

@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 163134,
+  "num_followers": 163250,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDM0YjNkMDhiYjM0NGJkN2JhNDFiMzgxZTkwZDI1NWIyODE5OWU4",
+  "snapshot_id": "MCw0ZTYzNTBjOGQ2OTk3MGM5MjdjZTczODVmZDZiNmU2ZTY0NGI2YTJi",
   "tracks": [
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Asuntos de Familia",
-        "url": "https://open.spotify.com/album/2K8wTPG1Ca0CadebWMf2Jo"
-      },
-      "artists": [
-        {
-          "name": "Los Perez Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
-        }
-      ],
-      "duration_ms": 255315,
-      "name": "Magdalena",
-      "url": "https://open.spotify.com/track/5TSZARtbGtoYOHLFDqeYLG"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 199573,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/7JvKnVhM6qksNREXInCsXo"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Asuntos de Familia",
+        "url": "https://open.spotify.com/album/2K8wTPG1Ca0CadebWMf2Jo"
+      },
+      "artists": [
+        {
+          "name": "Los Perez Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
+        }
+      ],
+      "duration_ms": 255315,
+      "name": "Magdalena",
+      "url": "https://open.spotify.com/track/5TSZARtbGtoYOHLFDqeYLG"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "No Se Lo Cuentes a Nadie",
-        "url": "https://open.spotify.com/album/6D8HxOLAJntQgxD0NLX49p"
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
       },
       "artists": [
         {
-          "name": "Los Perez Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
         }
       ],
-      "duration_ms": 222729,
-      "name": "La Ca\u00f1ada",
-      "url": "https://open.spotify.com/track/535yV2PsP1kwPji586uUK4"
+      "duration_ms": 215440,
+      "name": "Todo Sigue Igual",
+      "url": "https://open.spotify.com/track/6ClmH50s8nc7fEcYNkk2kI"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Oro",
-        "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
+        "name": "No Se Lo Cuentes a Nadie",
+        "url": "https://open.spotify.com/album/6D8HxOLAJntQgxD0NLX49p"
       },
       "artists": [
         {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+          "name": "Los Perez Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
         }
       ],
-      "duration_ms": 215440,
-      "name": "Todo Sigue Igual",
-      "url": "https://open.spotify.com/track/6ClmH50s8nc7fEcYNkk2kI"
+      "duration_ms": 222729,
+      "name": "La Ca\u00f1ada",
+      "url": "https://open.spotify.com/track/535yV2PsP1kwPji586uUK4"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1367,6 +1367,22 @@
       "duration_ms": 259039,
       "name": "Reflejo",
       "url": "https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 264106,
+      "name": "Homero",
+      "url": "https://open.spotify.com/track/3Ld5CT9BdPUqTkd9dnxny4"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Buen Recuerdo",
-        "url": "https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR"
-      },
-      "artists": [
-        {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 251843,
-      "name": "Buen Recuerdo",
-      "url": "https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Probame (Demo)",
         "url": "https://open.spotify.com/album/2fs5He9XpcqbqLud8QSRyv"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 126426,
       "name": "Cuando Me Muera",
       "url": "https://open.spotify.com/track/3gvaShbCuEoL51efZWtpIs"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Buen Recuerdo",
+        "url": "https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 251843,
+      "name": "Buen Recuerdo",
+      "url": "https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Oro",
-        "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 264106,
-      "name": "Homero",
-      "url": "https://open.spotify.com/track/3Ld5CT9BdPUqTkd9dnxny4"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "3 Acordes",
         "url": "https://open.spotify.com/album/5oKMFaF7iCoq2JGZuOabNR"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 192891,
       "name": "3 Acordes",
       "url": "https://open.spotify.com/track/69OeKslZFI2RPaYDQUGFHh"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 339933,
+      "name": "Lo Artesanal",
+      "url": "https://open.spotify.com/track/0TP3GRBiXt5aTS0J6f7Onj"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1559,22 +1575,6 @@
       "duration_ms": 258540,
       "name": "No Me Dejes Caer",
       "url": "https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
-        "name": "Oro",
-        "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 339933,
-      "name": "Lo Artesanal",
-      "url": "https://open.spotify.com/track/0TP3GRBiXt5aTS0J6f7Onj"
     },
     {
       "added_at": "2024-01-26 03:00:00",

@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 438299,
+  "2024-02-09": 438283,
   "date_first_scraped": "2022-01-24",
   "description": "The hottest Hip-Hop of today all over the world. (Cover: 24kGoldn)",
   "name": "Beats & Rhymes",
@@ -24886,6 +24886,24 @@
     },
     {
       "album": {
+        "name": "2 Faced",
+        "url": "https://open.spotify.com/album/3v7vNJp4YPbuZM9L5eLf4M"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119998,
+      "name": "PAIDNFULL",
+      "url": "https://open.spotify.com/track/7I3qbhPnoesyyqQdFJjjDb"
+    },
+    {
+      "album": {
         "name": "Fullypaid",
         "url": "https://open.spotify.com/album/053HzmIMhZRYsevJICHjvd"
       },
@@ -24897,7 +24915,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 119998,
       "name": "Paidnfull",
       "url": "https://open.spotify.com/track/60XgS89eNaLvK5rUfYD4Jh"

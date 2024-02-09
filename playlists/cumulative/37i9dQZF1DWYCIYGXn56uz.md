@@ -2,7 +2,7 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Matteo Romano
+> ✨giovane✨pop✨z✨ Cover: Alfa
 
 338 songs - 15 hr 37 min
 

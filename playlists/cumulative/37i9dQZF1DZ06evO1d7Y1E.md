@@ -4,7 +4,7 @@
 
 > This is Mc Poze do Rodo\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 1 min
+51 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [No Baile Nós É Mídia](https://open.spotify.com/track/2SfBmQExwL1AnjWCBPL7UZ) | [DJ Henrique da VK](https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [No Baile Nós É Mídia](https://open.spotify.com/album/1hxxKAvd67Ww2m1p3neVSr) | 2:02 | 2023-09-18 |  |
 | [Novinha Gostosa](https://open.spotify.com/track/48IZMU43BfTfdT8KijmYk5) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Novinha Gostosa](https://open.spotify.com/album/5Ud3mT8253HW0NfeVheEjG) | 2:29 | 2023-09-18 |  |
 | [O Chamado](https://open.spotify.com/track/56xYjxmkJxnpBVQi6pLSiL) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [O Chamado](https://open.spotify.com/album/0GIsAsZO8aiEK5ZfqIzW08) | 3:26 | 2023-09-18 |  |
+| [Ordem do Mano](https://open.spotify.com/track/5dq5AD4ijms2xZTP6a71ho) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Ordem do Mano](https://open.spotify.com/album/7A6mhzGxqp111NGQ5q1fGF) | 3:15 | 2024-02-08 |  |
 | [Os Coringas do Flamengo](https://open.spotify.com/track/4rXfZWzgv6L4IoZ23bdkal) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Os Coringas do Flamengo](https://open.spotify.com/album/0YvThXdoFZVq3K435DQ2HM) | 2:52 | 2023-09-18 |  |
 | [Pesadão](https://open.spotify.com/track/5X4PNc9g7KIQSRk4crioOO) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sábio](https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W) | 3:49 | 2023-09-18 |  |
 | [Poesia Acústica 11: Nada Mudou](https://open.spotify.com/track/6giaOyDFbE4J8iclhCdW7E) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica 11: Nada Mudou](https://open.spotify.com/album/3716y3qiVChUSJv24nvCUB) | 10:00 | 2023-09-18 |  |

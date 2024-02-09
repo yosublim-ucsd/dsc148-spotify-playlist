@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 225413,
+  "2024-02-09": 225492,
   "date_first_scraped": "2023-11-11",
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
   "name": "This Is Danny Ocean",
@@ -207,7 +207,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
@@ -647,10 +647,48 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 246947,
       "name": "Midsummer Madness 20 (feat. Joji, Rich Brian, Higher Brothers & AUGUST 08)",
       "url": "https://open.spotify.com/track/5qaDbDqAwvJZgn1I15Wk3L"
+    },
+    {
+      "album": {
+        "name": "Midsummer Madness 20 (feat. Joji, Rich Brian, Higher Brothers & AUGUST 08)",
+        "url": "https://open.spotify.com/album/6poPSXNGSa5b9KOpB4YPyZ"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Higher Brothers",
+          "url": "https://open.spotify.com/artist/07ZhipyrvoyNoJejeyM0PQ"
+        },
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246947,
+      "name": "Midsummer Madness 20 (feat. Joji, Rich Brian, Higher Brothers & AUGUST 08)",
+      "url": "https://open.spotify.com/track/0VmMIGnMGIwOEiqueyS9vw"
     },
     {
       "album": {

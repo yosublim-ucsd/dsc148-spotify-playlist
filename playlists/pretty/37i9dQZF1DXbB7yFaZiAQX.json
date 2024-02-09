@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1016270,
+  "num_followers": 1016491,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGYxMmIxMTRmNWYxY2UzNGFhNDJiMjMwMDIyOThhMjQ1ZWM3MWQ1",
+  "snapshot_id": "MCw0Njg5MWMzNGI4MzViMGE1NTI1MThjNmU1ZGY3MDQxZDY5OWMxNDIz",
   "tracks": [
     {
       "added_at": "2023-05-03 07:47:14",
@@ -99,18 +99,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+        "name": "Billy Idol",
+        "url": "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k"
       },
       "artists": [
         {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
         }
       ],
-      "duration_ms": 222426,
-      "name": "Rock the Casbah - Remastered",
-      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
+      "duration_ms": 252200,
+      "name": "White Wedding - Pt. 1",
+      "url": "https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Billy Idol",
-        "url": "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k"
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
       "artists": [
         {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 252200,
-      "name": "White Wedding - Pt. 1",
-      "url": "https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX"
+      "duration_ms": 222426,
+      "name": "Rock the Casbah - Remastered",
+      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Love Will Tear Us Apart",
-        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Love Will Tear Us Apart - 2020 Remaster",
-      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Please: Further Listening 1984 - 1986 (2018 Remaster)",
         "url": "https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 285906,
       "name": "West End Girls - 2018 Remaster",
       "url": "https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Love Will Tear Us Apart - 2020 Remaster",
+      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "It's My Life - 1997 Remaster",
-      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Bleach",
         "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 215203,
       "name": "Love Buzz",
       "url": "https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "It's My Life - 1997 Remaster",
+      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Visage",
-        "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
-      },
-      "artists": [
-        {
-          "name": "Visage",
-          "url": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "Fade To Grey",
-      "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 244120,
       "name": "Dancing with Tears in My Eyes",
       "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Visage",
+        "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
+      },
+      "artists": [
+        {
+          "name": "Visage",
+          "url": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Fade To Grey",
+      "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Fehler im System (2023 Remaster)",
+        "url": "https://open.spotify.com/album/7KDpHLxa1aLFJuw8pt3Yy2"
+      },
+      "artists": [
+        {
+          "name": "Peter Schilling",
+          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
+        }
+      ],
+      "duration_ms": 303903,
+      "name": "Major Tom (V\u00f6llig losgel\u00f6st) - 2022 Remaster",
+      "url": "https://open.spotify.com/track/3pR29mXC5gp0UjJSRePU2f"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "The Bela Session",
         "url": "https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 227653,
       "name": "Mandinka",
       "url": "https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Fehler im System (2023 Remaster)",
-        "url": "https://open.spotify.com/album/7KDpHLxa1aLFJuw8pt3Yy2"
-      },
-      "artists": [
-        {
-          "name": "Peter Schilling",
-          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
-        }
-      ],
-      "duration_ms": 303903,
-      "name": "Major Tom (V\u00f6llig losgel\u00f6st) - 2022 Remaster",
-      "url": "https://open.spotify.com/track/3pR29mXC5gp0UjJSRePU2f"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Hurting",
-        "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/2JhIaeltCDCcp02K936tgx"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Surfer Rosa",
         "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 235706,
       "name": "Gigantic - Remastered",
       "url": "https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Hurting",
+        "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/2JhIaeltCDCcp02K936tgx"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Chris Isaak",
-        "url": "https://open.spotify.com/album/3dIasrAuimko9R2t4Z4N0N"
-      },
-      "artists": [
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 253906,
-      "name": "Lie To Me",
-      "url": "https://open.spotify.com/track/0fnY4MQat2zJsb8FKyLM9D"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "New Gold Dream (81/82/83/84)",
         "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 277688,
       "name": "Someone Somewhere (In Summertime)",
       "url": "https://open.spotify.com/track/4wJq75UFYtFYbMO2KBBnlw"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Chris Isaak",
+        "url": "https://open.spotify.com/album/3dIasrAuimko9R2t4Z4N0N"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 253906,
+      "name": "Lie To Me",
+      "url": "https://open.spotify.com/track/0fnY4MQat2zJsb8FKyLM9D"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
-        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 290480,
-      "name": "Fashion - 2017 Remaster",
-      "url": "https://open.spotify.com/track/1MMYuuvnD3O9Sn90gDabv9"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "New Clear Days",
         "url": "https://open.spotify.com/album/0vAu0PT8xKotNhKDzYXJHA"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 224106,
       "name": "Turning Japanese - Non Stop Edit",
       "url": "https://open.spotify.com/track/1MANhf0nwr6gFwsRJMeDbr"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
+        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 290480,
+      "name": "Fashion - 2017 Remaster",
+      "url": "https://open.spotify.com/track/1MMYuuvnD3O9Sn90gDabv9"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "I Won't Let You Down",
-        "url": "https://open.spotify.com/album/6MDuT3grIiSWTMzKoKjo95"
-      },
-      "artists": [
-        {
-          "name": "Ph.D.",
-          "url": "https://open.spotify.com/artist/2S4OQZxRbWsQ5SLnmMs0GO"
-        }
-      ],
-      "duration_ms": 242534,
-      "name": "I Won't Let You Down",
-      "url": "https://open.spotify.com/track/1NXHwS75sCmkMZAE0zvwl0"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "ESP: The 808 State Effect",
         "url": "https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 351400,
       "name": "Pacific State",
       "url": "https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "I Won't Let You Down",
+        "url": "https://open.spotify.com/album/6MDuT3grIiSWTMzKoKjo95"
+      },
+      "artists": [
+        {
+          "name": "Ph.D.",
+          "url": "https://open.spotify.com/artist/2S4OQZxRbWsQ5SLnmMs0GO"
+        }
+      ],
+      "duration_ms": 242534,
+      "name": "I Won't Let You Down",
+      "url": "https://open.spotify.com/track/1NXHwS75sCmkMZAE0zvwl0"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Dirty Blvd.",
-      "url": "https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "London Town 1983-1993",
         "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 297066,
       "name": "This Is the Day",
       "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Dirty Blvd.",
+      "url": "https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Lifes Rich Pageant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "Fall On Me - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Non-Stop Erotic Cabaret",
         "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 323866,
       "name": "Say Hello, Wave Goodbye - 7\" Single Version",
       "url": "https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Lifes Rich Pageant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 169920,
+      "name": "Fall On Me - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "English Settlement",
-        "url": "https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM"
-      },
-      "artists": [
-        {
-          "name": "XTC",
-          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
-        }
-      ],
-      "duration_ms": 290667,
-      "name": "Senses Working Overtime - Remastered 2001",
-      "url": "https://open.spotify.com/track/0XDv7SLyMkGcAnb12fMHa1"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Singles (2016 Remaster)",
         "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 252053,
       "name": "True Faith - 2015 Remaster",
       "url": "https://open.spotify.com/track/5uyJ7fbjk6xZzt5UL5jcQg"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "English Settlement",
+        "url": "https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "duration_ms": 290667,
+      "name": "Senses Working Overtime - Remastered 2001",
+      "url": "https://open.spotify.com/track/0XDv7SLyMkGcAnb12fMHa1"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Joined Up Writing/The Sitting Room",
-        "url": "https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ"
-      },
-      "artists": [
-        {
-          "name": "Anne Clark",
-          "url": "https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL"
-        }
-      ],
-      "duration_ms": 324600,
-      "name": "Our Darkness",
-      "url": "https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "The Best Of...",
         "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 243800,
       "name": "Cities In Dust - Single Version",
       "url": "https://open.spotify.com/track/0LvH53IYMdkQ2VHanpCiBi"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Joined Up Writing/The Sitting Room",
+        "url": "https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ"
+      },
+      "artists": [
+        {
+          "name": "Anne Clark",
+          "url": "https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL"
+        }
+      ],
+      "duration_ms": 324600,
+      "name": "Our Darkness",
+      "url": "https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Playlist: The Very Best of A Flock of Seagulls",
-        "url": "https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb"
-      },
-      "artists": [
-        {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
-        }
-      ],
-      "duration_ms": 330426,
-      "name": "Wishing (If I Had a Photograph of You)",
-      "url": "https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Throw the Warped Wheel Out",
         "url": "https://open.spotify.com/album/345hZBqG7vIgLMHJcMZSZM"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 214047,
       "name": "(Feels Like) Heaven",
       "url": "https://open.spotify.com/track/3bkcq1VrFlcoqa04VBs4J8"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Playlist: The Very Best of A Flock of Seagulls",
+        "url": "https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb"
+      },
+      "artists": [
+        {
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
+        }
+      ],
+      "duration_ms": 330426,
+      "name": "Wishing (If I Had a Photograph of You)",
+      "url": "https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv"
     },
     {
       "added_at": "2023-05-03 07:47:14",

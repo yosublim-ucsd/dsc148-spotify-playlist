@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 59788,
+  "num_followers": 59914,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2UyMzQ0NmZlOWE1MTUxNzM0MzFlODY3Yjk0ZjE0Zjc2YTVhZmFm",
+  "snapshot_id": "MCxmZGQyZGFkZmY5N2RhMDJhZGIwNWMzNGExZTBlMmM2Zjk0NDcyYTY2",
   "tracks": [
     {
       "added_at": "2024-01-05 17:02:31",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "You'll Lose A Good Thing",
-        "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lynn",
-          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "You'll Lose A Good Thing",
-      "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Earth Angel",
         "url": "https://open.spotify.com/album/42uu50W2ko5aQriXh7naAd"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 171066,
       "name": "Earth Angel",
       "url": "https://open.spotify.com/track/7GnMzVWOHLBPcfco4L1GtE"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "You'll Lose A Good Thing",
+        "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lynn",
+          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "You'll Lose A Good Thing",
+      "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Thin Line Between Love & Hate: Golden Classics",
-        "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
-      },
-      "artists": [
-        {
-          "name": "The Persuaders",
-          "url": "https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB"
-        }
-      ],
-      "duration_ms": 207653,
-      "name": "Thin Line Between Love and Hate",
-      "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The Never Ending Impressions",
         "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 171506,
       "name": "I'm So Proud",
       "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Thin Line Between Love & Hate: Golden Classics",
+        "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
+      },
+      "artists": [
+        {
+          "name": "The Persuaders",
+          "url": "https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB"
+        }
+      ],
+      "duration_ms": 207653,
+      "name": "Thin Line Between Love and Hate",
+      "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1115,42 +1115,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Do You Love",
-        "url": "https://open.spotify.com/album/7gs58h7gcR2HL5tlFC3YT7"
-      },
-      "artists": [
-        {
-          "name": "Trish Toledo",
-          "url": "https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah"
-        },
-        {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        }
-      ],
-      "duration_ms": 270856,
-      "name": "Do You Love",
-      "url": "https://open.spotify.com/track/7IUv36NL5erXotT7sTQ5MD"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "All the Greatest Hits",
-        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
-      },
-      "artists": [
-        {
-          "name": "Roger",
-          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
-        }
-      ],
-      "duration_ms": 249866,
-      "name": "I Want to Be Your Man",
-      "url": "https://open.spotify.com/track/3C6xVHlZ8Z7cAzt63xdxH3"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "All the Greatest Hits",
         "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
       },
@@ -1179,6 +1143,42 @@
       "duration_ms": 216760,
       "name": "Hey There Lonely Girl",
       "url": "https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "All the Greatest Hits",
+        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
+      },
+      "artists": [
+        {
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+        }
+      ],
+      "duration_ms": 249866,
+      "name": "I Want to Be Your Man",
+      "url": "https://open.spotify.com/track/3C6xVHlZ8Z7cAzt63xdxH3"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Do You Love",
+        "url": "https://open.spotify.com/album/7gs58h7gcR2HL5tlFC3YT7"
+      },
+      "artists": [
+        {
+          "name": "Trish Toledo",
+          "url": "https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah"
+        },
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        }
+      ],
+      "duration_ms": 270856,
+      "name": "Do You Love",
+      "url": "https://open.spotify.com/track/7IUv36NL5erXotT7sTQ5MD"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Will You Still Love Me Tomorrow",
         "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 124186,
       "name": "Dedicated To The One I Love",
       "url": "https://open.spotify.com/track/4HdRMye6yPWOFrfLLM7W6b"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Number Ones",
+        "url": "https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky"
+      },
+      "artists": [
+        {
+          "name": "Love Unlimited",
+          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/2hEEvYikDJKfwQVXGj8mTK"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "Thee Only One",
         "url": "https://open.spotify.com/album/4ztSd9IONvZJ1kq4sdDkVp"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 216913,
       "name": "Thee Only One",
       "url": "https://open.spotify.com/track/3T7nX7qDSC7LDPC18lWOku"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Number Ones",
-        "url": "https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky"
-      },
-      "artists": [
-        {
-          "name": "Love Unlimited",
-          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/2hEEvYikDJKfwQVXGj8mTK"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2011,26 +2011,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Takin' All My Lovin'",
-        "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
-      },
-      "artists": [
-        {
-          "name": "Mikey Jimenez",
-          "url": "https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL"
-        },
-        {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "Takin' All My Lovin'",
-      "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Blue Eyes Crying In the Rain",
         "url": "https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC"
       },
@@ -2059,6 +2039,26 @@
       "duration_ms": 172560,
       "name": "The Bells",
       "url": "https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Takin' All My Lovin'",
+        "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
+      },
+      "artists": [
+        {
+          "name": "Mikey Jimenez",
+          "url": "https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL"
+        },
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "Takin' All My Lovin'",
+      "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "I Do Love You",
-        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
-      },
-      "artists": [
-        {
-          "name": "Billy Stewart",
-          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
-        }
-      ],
-      "duration_ms": 133693,
-      "name": "Strange Feeling",
-      "url": "https://open.spotify.com/track/5nEr8XUI4oWHD4VLZ8ec3c"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Talk to Me",
         "url": "https://open.spotify.com/album/58KDtRZBc0rtcIAMamtrnT"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 167400,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/5JHwqC86I4RA1cPEBEJRDz"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "I Do Love You",
+        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
+      },
+      "artists": [
+        {
+          "name": "Billy Stewart",
+          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
+        }
+      ],
+      "duration_ms": 133693,
+      "name": "Strange Feeling",
+      "url": "https://open.spotify.com/track/5nEr8XUI4oWHD4VLZ8ec3c"
     },
     {
       "added_at": "2024-01-05 17:02:31",

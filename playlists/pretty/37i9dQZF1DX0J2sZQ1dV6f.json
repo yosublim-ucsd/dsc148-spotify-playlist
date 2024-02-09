@@ -1,12 +1,12 @@
 {
   "description": "Bien alucin con el electro, perreo y el dembow belico. La nueva ola de la fiesta.",
-  "num_followers": 97685,
+  "num_followers": 97808,
   "original_name": "Electro Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWMzYmFjNzFiNzdlM2IyODYwYzYyYjY4ODIyM2VlOGU3M2I4MTgx",
+  "snapshot_id": "MCw1MDI1ZDQzYzcyM2YzYWViZjExMjg2MjMxZGE2M2EzNzgyZmFmN2Y2",
   "tracks": [
     {
       "added_at": "2024-02-02 05:01:00",
@@ -292,16 +292,16 @@
       },
       "artists": [
         {
-          "name": "Hector Vargas",
-          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
-        },
-        {
           "name": "Fend",
           "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
         },
         {
           "name": "Bruno Brunette",
           "url": "https://open.spotify.com/artist/4rBLu7EtzIkpCuVSqYXTtc"
+        },
+        {
+          "name": "Hector Vargas",
+          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
         }
       ],
       "duration_ms": 140000,

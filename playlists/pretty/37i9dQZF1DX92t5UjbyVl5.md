@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92t5UjbyVl5.md) - [plain]
 
 > ¿Tienes flow, tienes rimas? Dale play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,085 likes - 74 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,086 likes - 74 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92t5UjbyVl5.md) - [plain]
 | 7 | [Go Slower](https://open.spotify.com/track/3GTULhR5jCPYUP76rg8Hzz) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Outa Line](https://open.spotify.com/album/0jiFjAVfMeIeahtYFu6BSC) | 3:43 |
 | 8 | [Ahora \(Disfruta Pt\. II\) \- Instrumental](https://open.spotify.com/track/5blWCIus5xbP66kunAKq2y) | [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [L.O.V: La Otra Vida \(Instrumental\)](https://open.spotify.com/album/3yOo3LUo6BkjxuB5Jf8EaM) | 3:58 |
 | 9 | [Frosty](https://open.spotify.com/track/2dKPfoHjqpVwHPKhoLueZV) | [Producer33k](https://open.spotify.com/artist/4QXoTMxoCsN0cTUeOFZTIm) | [Strictly Beats, Vol.1](https://open.spotify.com/album/4uKTs1st4A2sOwVsLm4Ayn) | 3:19 |
-| 10 | [Deep Side Ride](https://open.spotify.com/track/23jYwABwBBN0nGPk7tjC8M) | [ToMC Beatz](https://open.spotify.com/artist/6TF2oQqLYnYhqJdwQqE0im) | [Deep Side Ride](https://open.spotify.com/album/5k6DxW1GiFoikKCFbjltDp) | 3:23 |
+| 10 | [Deep Side Ride](https://open.spotify.com/track/2tNdQWZKbSJoe7pcPnReAF) | [ToMC Beatz](https://open.spotify.com/artist/6TF2oQqLYnYhqJdwQqE0im) | [Deep Side Ride](https://open.spotify.com/album/06FuoOWyJAYsYofC9ej6y8) | 3:23 |
 | 11 | [Anthem](https://open.spotify.com/track/3RzP8F3H5Y8S1UevHx24mC) | [Jahlil Beats](https://open.spotify.com/artist/6v6X5pIJyWGrB10C9PZbSj) | [808 God](https://open.spotify.com/album/7A33Kpb1cEZTynfbZXEwnQ) | 5:34 |
 | 12 | [Format](https://open.spotify.com/track/1W2919zs8SBCLTrOB1ftQT) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Space Spine](https://open.spotify.com/album/49ax7HUaKuueaVtZBkEZD4) | 2:40 |
 | 13 | [Astroworld](https://open.spotify.com/track/6CI7qe3gt0IsJIbMt6y3Gm) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v), [MASTAH WILLIAM!](https://open.spotify.com/artist/0I4mdhh1hCqjr8w9rIMG9T) | [Astroworld](https://open.spotify.com/album/1CT2ulUX6wFSE5S2js79kj) | 2:32 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92t5UjbyVl5.md) - [plain]
 | 73 | [Tour Bus](https://open.spotify.com/track/4rcHftFyDKbrf6IcTyfhRJ) | [Homebody](https://open.spotify.com/artist/6JHNIy8sGnVh5YrdVVAIuY) | [Tour Bus](https://open.spotify.com/album/7pCW7yDNvN39iQaHZHYBrq) | 2:54 |
 | 74 | [Jokes on Me](https://open.spotify.com/track/4k4QnjkHrlOrMF08lpk09H) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Rudimentary](https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy) | 2:16 |
 
-Snapshot ID: `MCwyNmIzNDQ1OGQxYjI2MGU4OTFmYTQ3MmMyZDMzNTcwYmI5Y2U1ZWJl`
+Snapshot ID: `MCxmYTRlNzAzNDM5OGUzYWViOGIyNWYwMDc4MmFlYzdhMjBjZDI1ZmQw`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Ashley Henry",
+  "description": "The best jazz new releases. Cover: Gr\u00e9gory Privat",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -2597,6 +2597,28 @@
     },
     {
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Tao3yLEob26cvlhpeQNEt"
+      },
+      "artists": [
+        {
+          "name": "Laurent Bardainne",
+          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
+        },
+        {
+          "name": "Tigre d'Eau Douce",
+          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292325,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/0r8TX1atVqi2VW4VVz1j1c"
+    },
+    {
+      "album": {
         "name": "El Jonito",
         "url": "https://open.spotify.com/album/6ssT3ZX7pn4Ud0V1JWeHuW"
       },
@@ -3142,7 +3164,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 271487,
       "name": "Fray",
       "url": "https://open.spotify.com/track/2FRJTSOJjRGZx5i9MhBI6E"
@@ -3364,6 +3386,24 @@
       "duration_ms": 251888,
       "name": "Funky",
       "url": "https://open.spotify.com/track/7pN5j3DyZ9IohLdCkX5cGM"
+    },
+    {
+      "album": {
+        "name": "Game On",
+        "url": "https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301925,
+      "name": "Game On",
+      "url": "https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK"
     },
     {
       "album": {
@@ -3842,7 +3882,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 197906,
       "name": "High Tide",
       "url": "https://open.spotify.com/track/6u4YK1eF9AmsSexltZsfQo"
@@ -5096,6 +5136,28 @@
       "duration_ms": 291891,
       "name": "Lights Away from Home",
       "url": "https://open.spotify.com/track/1MddW2SVQk0AklDHArtN3v"
+    },
+    {
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241560,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk"
     },
     {
       "album": {
@@ -7826,7 +7888,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 305581,
       "name": "Summer Me, Winter Me",
       "url": "https://open.spotify.com/track/4Kx1kfAPsEM6Mw2cow70ez"
@@ -8723,6 +8785,24 @@
     },
     {
       "album": {
+        "name": "Shades of Yesterday",
+        "url": "https://open.spotify.com/album/1IcqyDz4QNFHVipsoYcArU"
+      },
+      "artists": [
+        {
+          "name": "DJ Harrison",
+          "url": "https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162751,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/6TkQrtwNlr9BhsovTflSir"
+    },
+    {
+      "album": {
         "name": "Tom Sawyer (feat. Chris Thile)",
         "url": "https://open.spotify.com/album/5BixI41jRQeNxOCG4IqoLQ"
       },
@@ -9438,7 +9518,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 236696,
       "name": "What Are You Doing New Year\u2019s Eve?",
       "url": "https://open.spotify.com/track/23EYzUDHSg24UfDRDnDES3"

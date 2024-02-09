@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 20564,
+  "num_followers": 20590,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmI0YjNmNzFjMzBlZGI5ODYzZDdlZDExYWQwMjJlYzIwNjljNmIx",
+  "snapshot_id": "MCxkZmVkN2YyYjA0ZjhmMjAwYjY1YzI4Yzg1MWRkN2ZlNjBlMTNjM2Rh",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Choral",
-        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
-      },
-      "artists": [
-        {
-          "name": "Mountains",
-          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Sheets Two",
-      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Riceboy Sleeps",
         "url": "https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 229933,
       "name": "Oto",
       "url": "https://open.spotify.com/track/0VhkCytrhq2EjntoAkbjvZ"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Choral",
+        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
+      },
+      "artists": [
+        {
+          "name": "Mountains",
+          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Sheets Two",
+      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Solaris (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW"
-      },
-      "artists": [
-        {
-          "name": "Cliff Martinez",
-          "url": "https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf"
-        }
-      ],
-      "duration_ms": 300680,
-      "name": "Will She Come Back",
-      "url": "https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Grinning Cat",
         "url": "https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 154493,
       "name": "I Imagine",
       "url": "https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Solaris (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW"
+      },
+      "artists": [
+        {
+          "name": "Cliff Martinez",
+          "url": "https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf"
+        }
+      ],
+      "duration_ms": 300680,
+      "name": "Will She Come Back",
+      "url": "https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Sings Reign Rebuilder",
-        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
+        "name": "Venice",
+        "url": "https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ"
       },
       "artists": [
         {
-          "name": "Set Fire To Flames",
-          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
         }
       ],
-      "duration_ms": 169439,
-      "name": "Fading Lights Are Fading... / Reign Rebuilder (Tail Out)",
-      "url": "https://open.spotify.com/track/6K15unc1vl82m4O5CcKykE"
+      "duration_ms": 282106,
+      "name": "Rivers of Sand",
+      "url": "https://open.spotify.com/track/3enFTlwkCRF5HUM8xX6FKB"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Venice",
-        "url": "https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ"
+        "name": "Sings Reign Rebuilder",
+        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
       },
       "artists": [
         {
-          "name": "Fennesz",
-          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+          "name": "Set Fire To Flames",
+          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
         }
       ],
-      "duration_ms": 282106,
-      "name": "Rivers of Sand",
-      "url": "https://open.spotify.com/track/3enFTlwkCRF5HUM8xX6FKB"
+      "duration_ms": 169439,
+      "name": "Fading Lights Are Fading... / Reign Rebuilder (Tail Out)",
+      "url": "https://open.spotify.com/track/6K15unc1vl82m4O5CcKykE"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Playthroughs",
+        "url": "https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW"
+      },
+      "artists": [
+        {
+          "name": "Keith Fullerton Whitman",
+          "url": "https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl"
+        }
+      ],
+      "duration_ms": 481266,
+      "name": "Fib01a",
+      "url": "https://open.spotify.com/track/4IJCUAfJub0AmmN15YJwmQ"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Altar",
         "url": "https://open.spotify.com/album/0v2IQBEPQqlKFiAa5rj1AC"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 229933,
       "name": "N.L.T.",
       "url": "https://open.spotify.com/track/3OIRQC5qvLCXwJzj9JC1k2"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Playthroughs",
-        "url": "https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW"
-      },
-      "artists": [
-        {
-          "name": "Keith Fullerton Whitman",
-          "url": "https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl"
-        }
-      ],
-      "duration_ms": 481266,
-      "name": "Fib01a",
-      "url": "https://open.spotify.com/track/4IJCUAfJub0AmmN15YJwmQ"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "October Language",
-        "url": "https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r"
-      },
-      "artists": [
-        {
-          "name": "Belong",
-          "url": "https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW"
-        }
-      ],
-      "duration_ms": 313866,
-      "name": "I'm Too Sleepy...Shall We Swim?",
-      "url": "https://open.spotify.com/track/6bSDsTjVh6RIfYqHDxUyD3"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Lambent Material",
         "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 278173,
       "name": "The Unfinished",
       "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "October Language",
+        "url": "https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r"
+      },
+      "artists": [
+        {
+          "name": "Belong",
+          "url": "https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW"
+        }
+      ],
+      "duration_ms": 313866,
+      "name": "I'm Too Sleepy...Shall We Swim?",
+      "url": "https://open.spotify.com/track/6bSDsTjVh6RIfYqHDxUyD3"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Streichelfisch (Remastered)",
-        "url": "https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54"
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
       "artists": [
         {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 74246,
-      "name": "Anfangtastisch (Remastered)",
-      "url": "https://open.spotify.com/track/4Nal4GnS7niDUpjRXOAH4w"
+      "duration_ms": 410933,
+      "name": "Warmed By the Drift",
+      "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1139,34 +1139,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+        "name": "Streichelfisch (Remastered)",
+        "url": "https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54"
       },
       "artists": [
         {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "duration_ms": 410933,
-      "name": "Warmed By the Drift",
-      "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "I Am a Man Who Will Fight for Your Honor",
-        "url": "https://open.spotify.com/album/6loc604vNMnAaCwxgl8G85"
-      },
-      "artists": [
-        {
-          "name": "Chris Zabriskie",
-          "url": "https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka"
-        }
-      ],
-      "duration_ms": 424760,
-      "name": "The Sun Is Scheduled to Come Out Tomorrow",
-      "url": "https://open.spotify.com/track/5E62oQ051vOnn6UDVthTot"
+      "duration_ms": 74246,
+      "name": "Anfangtastisch (Remastered)",
+      "url": "https://open.spotify.com/track/4Nal4GnS7niDUpjRXOAH4w"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1183,6 +1167,22 @@
       "duration_ms": 330666,
       "name": "Calm Of The Cast-Light Cloud",
       "url": "https://open.spotify.com/track/5e5lDuehzdZRJaoRjCmwPj"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "I Am a Man Who Will Fight for Your Honor",
+        "url": "https://open.spotify.com/album/6loc604vNMnAaCwxgl8G85"
+      },
+      "artists": [
+        {
+          "name": "Chris Zabriskie",
+          "url": "https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka"
+        }
+      ],
+      "duration_ms": 424760,
+      "name": "The Sun Is Scheduled to Come Out Tomorrow",
+      "url": "https://open.spotify.com/track/5E62oQ051vOnn6UDVthTot"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3"
-      },
-      "artists": [
-        {
-          "name": "Philip Jeck",
-          "url": "https://open.spotify.com/artist/17Woab4l0eJybbj5ymknYK"
-        }
-      ],
-      "duration_ms": 506760,
-      "name": "Wholesome",
-      "url": "https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Chessa",
         "url": "https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 418880,
       "name": "chessa",
       "url": "https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3"
+      },
+      "artists": [
+        {
+          "name": "Philip Jeck",
+          "url": "https://open.spotify.com/artist/17Woab4l0eJybbj5ymknYK"
+        }
+      ],
+      "duration_ms": 506760,
+      "name": "Wholesome",
+      "url": "https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Mist",
-        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
-      },
-      "artists": [
-        {
-          "name": "Tor Lundvall",
-          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "The Mist",
-      "url": "https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Varde",
         "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 158080,
       "name": "Arves\u00f8lv",
       "url": "https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Mist",
+        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
+      },
+      "artists": [
+        {
+          "name": "Tor Lundvall",
+          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "The Mist",
+      "url": "https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Von Schn\u00e4beln",
-      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Through the Cardial Window",
         "url": "https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 350360,
       "name": "Coral Gables",
       "url": "https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Von Schn\u00e4beln",
+      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Betrayed in the Octagon",
+        "url": "https://open.spotify.com/album/0ixr1lXtxFcj31ZGmtqjue"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 524468,
+      "name": "Woe is the Transgression I",
+      "url": "https://open.spotify.com/track/5f64HunynQvPdqsLFs2wcx"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Varde",
         "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
       },
@@ -1575,6 +1591,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 378840,
+      "name": "Welk",
+      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "As Good As Gone",
         "url": "https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ"
       },
@@ -1587,22 +1619,6 @@
       "duration_ms": 45986,
       "name": "Verdantique",
       "url": "https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Betrayed in the Octagon",
-        "url": "https://open.spotify.com/album/0ixr1lXtxFcj31ZGmtqjue"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 524468,
-      "name": "Woe is the Transgression I",
-      "url": "https://open.spotify.com/track/5f64HunynQvPdqsLFs2wcx"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1635,22 +1651,6 @@
       "duration_ms": 143973,
       "name": "So Long Orpheus",
       "url": "https://open.spotify.com/track/1LQKgRnOvDnghW6I4Hs6GV"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 378840,
-      "name": "Welk",
-      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
     },
     {
       "added_at": "2023-08-04 12:53:28",

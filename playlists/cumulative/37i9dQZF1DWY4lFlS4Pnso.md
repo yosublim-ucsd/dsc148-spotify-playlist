@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Ella Henderson & Rudimental
+> The UK's biggest playlist\. Cover: Benson Boone
 
 81 songs - 4 hr 21 min
 

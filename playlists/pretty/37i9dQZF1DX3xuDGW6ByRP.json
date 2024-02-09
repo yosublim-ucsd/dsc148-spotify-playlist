@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 47680,
+  "num_followers": 47679,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzczNGUyNzI2MTIwNjY4MzU2YWJkY2FjOTg0NjA0YTMzY2JhNmNi",
+  "snapshot_id": "MCxiNmQwMzNkZjc1MzE1Y2ZlYTkyOWUzZjA5NGE5ZTAwNDk3N2UwZmQx",
   "tracks": [
     {
       "added_at": "2024-01-26 17:06:16",
@@ -303,26 +303,18 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "MALVADONA",
-        "url": "https://open.spotify.com/album/7BgO5sEJpQIjrrAwxqUKUM"
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
       },
       "artists": [
         {
-          "name": "O Grilo",
-          "url": "https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO"
-        },
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 204870,
-      "name": "MALVADONA",
-      "url": "https://open.spotify.com/track/3V1XdOJVcvtupbYLzOaulm"
+      "duration_ms": 187140,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -343,18 +335,26 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "Sleepwalking",
-        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
+        "name": "MALVADONA",
+        "url": "https://open.spotify.com/album/7BgO5sEJpQIjrrAwxqUKUM"
       },
       "artists": [
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+          "name": "O Grilo",
+          "url": "https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
         }
       ],
-      "duration_ms": 187140,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
+      "duration_ms": 204870,
+      "name": "MALVADONA",
+      "url": "https://open.spotify.com/track/3V1XdOJVcvtupbYLzOaulm"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "Hoje eu n\u00e3o vim falar de Amor",
-        "url": "https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Hoje eu n\u00e3o vim falar de Amor",
-      "url": "https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
         "name": "SEMPRE ESTRAGO TUDO + CARENTE PRA SEMPRE",
         "url": "https://open.spotify.com/album/3ZMnjFJjAodqKyzFzn55kK"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 188729,
       "name": "sempre estrago tudo",
       "url": "https://open.spotify.com/track/1We5W9pJwrKFmFfI0c0v2y"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "Hoje eu n\u00e3o vim falar de Amor",
+        "url": "https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "Hoje eu n\u00e3o vim falar de Amor",
+      "url": "https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -703,18 +703,22 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "NUNCA VOU TE PERDOAR",
-        "url": "https://open.spotify.com/album/0HFNiOy2tabQwDMTqRxmOD"
+        "name": "Dona da Minha Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil"
       },
       "artists": [
         {
-          "name": "TINN",
-          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+          "name": "Maglore",
+          "url": "https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj"
+        },
+        {
+          "name": "Lu\u00ea",
+          "url": "https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj"
         }
       ],
-      "duration_ms": 156000,
-      "name": "NUNCA VOU TE PERDOAR",
-      "url": "https://open.spotify.com/track/375FOAahZKZhCvBAGnEb7t"
+      "duration_ms": 235008,
+      "name": "Dona da Minha Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -735,22 +739,18 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "Dona da Minha Cabe\u00e7a",
-        "url": "https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil"
+        "name": "NUNCA VOU TE PERDOAR",
+        "url": "https://open.spotify.com/album/0HFNiOy2tabQwDMTqRxmOD"
       },
       "artists": [
         {
-          "name": "Maglore",
-          "url": "https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj"
-        },
-        {
-          "name": "Lu\u00ea",
-          "url": "https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj"
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
         }
       ],
-      "duration_ms": 235008,
-      "name": "Dona da Minha Cabe\u00e7a",
-      "url": "https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV"
+      "duration_ms": 156000,
+      "name": "NUNCA VOU TE PERDOAR",
+      "url": "https://open.spotify.com/track/375FOAahZKZhCvBAGnEb7t"
     },
     {
       "added_at": "2024-01-26 17:06:16",

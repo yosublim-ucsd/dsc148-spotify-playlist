@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 26014,
+  "num_followers": 26021,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWU4NzY2MjJjODdkODMzOGFmZTkxZjkxZjQ1ZTA4Mzg0YTU0OGFl",
+  "snapshot_id": "MCwxMGZiOTBkOTVkMzc1YzVjNTFkOWMzNDVmMzVkYzY4MmZmNzJmMDM4",
   "tracks": [
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
+        "name": "Pangea",
+        "url": "https://open.spotify.com/album/6atAn3qbgkoDZqeJW7qbj2"
+      },
+      "artists": [
+        {
+          "name": "Spaghetti Western",
+          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/2ithPgILb0VqnA8N944jHg"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
         "name": "Espacios",
         "url": "https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 178000,
       "name": "Debilidad",
       "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
-        "name": "Pangea",
-        "url": "https://open.spotify.com/album/6atAn3qbgkoDZqeJW7qbj2"
-      },
-      "artists": [
-        {
-          "name": "Spaghetti Western",
-          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/2ithPgILb0VqnA8N944jHg"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
-      },
-      "artists": [
-        {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
-        }
-      ],
-      "duration_ms": 131315,
-      "name": "Droga",
-      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
         "name": "Melod\u00edas",
         "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 185312,
       "name": "Melod\u00edas",
       "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+      },
+      "artists": [
+        {
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+        }
+      ],
+      "duration_ms": 131315,
+      "name": "Droga",
+      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "La Nave",
-        "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
       },
       "artists": [
         {
-          "name": "Fonky Taxi",
-          "url": "https://open.spotify.com/artist/4jeGMG6b45WZuaLCk1QCre"
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
         }
       ],
-      "duration_ms": 272373,
-      "name": "Todo Atr\u00e1s",
-      "url": "https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8"
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
+        "name": "La Nave",
+        "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
       },
       "artists": [
         {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
+          "name": "Fonky Taxi",
+          "url": "https://open.spotify.com/artist/4jeGMG6b45WZuaLCk1QCre"
         }
       ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
+      "duration_ms": 272373,
+      "name": "Todo Atr\u00e1s",
+      "url": "https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8"
     },
     {
       "added_at": "2024-01-12 16:14:58",

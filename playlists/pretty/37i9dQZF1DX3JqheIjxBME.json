@@ -1,12 +1,12 @@
 {
   "description": "El cancionero que retrata las batalles y personajes que dejaron huella en M\u00e9xico.",
-  "num_followers": 21760,
+  "num_followers": 21765,
   "original_name": "Corridos de la Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDUyZmY5OGQ1ZTJkYzI0ODVhMmMwNGE4Njg3MzU5YzdiZmNkYmQ3",
+  "snapshot_id": "MCwwZTE3MmVmNmEzNjg3ZDliNGRkYWYwNTZkNGE0YzJkNTI1NGVmNjdj",
   "tracks": [
     {
       "added_at": "2022-08-02 23:07:07",
@@ -380,17 +380,13 @@
       },
       "artists": [
         {
-          "name": "Lucha Reyes",
-          "url": "https://open.spotify.com/artist/28fsPBiCL1h647XqcwmSN0"
-        },
-        {
-          "name": "El Mariachi Tapat\u00edo",
-          "url": "https://open.spotify.com/artist/7Ix0AZDnZxIwrMr7bj7poU"
+          "name": "Hermanas Villa Oro",
+          "url": "https://open.spotify.com/artist/45P2CfSKnIplQU0tBZp3xw"
         }
       ],
-      "duration_ms": 157986,
-      "name": "Canci\u00f3n Mexicana",
-      "url": "https://open.spotify.com/track/2LncnfV034Z4R8HtdGGFcY"
+      "duration_ms": 176000,
+      "name": "Toma de Torre\u00f3n",
+      "url": "https://open.spotify.com/track/1JjnL63tZZmH2u01N2V1ni"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -416,13 +412,17 @@
       },
       "artists": [
         {
-          "name": "Hermanas Villa Oro",
-          "url": "https://open.spotify.com/artist/45P2CfSKnIplQU0tBZp3xw"
+          "name": "Lucha Reyes",
+          "url": "https://open.spotify.com/artist/28fsPBiCL1h647XqcwmSN0"
+        },
+        {
+          "name": "El Mariachi Tapat\u00edo",
+          "url": "https://open.spotify.com/artist/7Ix0AZDnZxIwrMr7bj7poU"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Toma de Torre\u00f3n",
-      "url": "https://open.spotify.com/track/1JjnL63tZZmH2u01N2V1ni"
+      "duration_ms": 157986,
+      "name": "Canci\u00f3n Mexicana",
+      "url": "https://open.spotify.com/track/2LncnfV034Z4R8HtdGGFcY"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Los Corridos de la Revolucion",
-        "url": "https://open.spotify.com/album/3MH3L1ihhbIbseblDpqIaP"
-      },
-      "artists": [
-        {
-          "name": "Chayito Valdez",
-          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
-        }
-      ],
-      "duration_ms": 168809,
-      "name": "Jacinto Trevi\u00f1o",
-      "url": "https://open.spotify.com/track/7Iq8o1mtT0RidYLNw3nMzW"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
         "name": "Canciones de la Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/5AIynt1Sq2vs6tw8Y21jYb"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 128986,
       "name": "Ciudad Victoria",
       "url": "https://open.spotify.com/track/13hYo4tWuDp7Zb6fMC3cWg"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "Los Corridos de la Revolucion",
+        "url": "https://open.spotify.com/album/3MH3L1ihhbIbseblDpqIaP"
+      },
+      "artists": [
+        {
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
+        }
+      ],
+      "duration_ms": 168809,
+      "name": "Jacinto Trevi\u00f1o",
+      "url": "https://open.spotify.com/track/7Iq8o1mtT0RidYLNw3nMzW"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Canciones de la Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5AIynt1Sq2vs6tw8Y21jYb"
-      },
-      "artists": [
-        {
-          "name": "Voces del Pueblo",
-          "url": "https://open.spotify.com/artist/2QY4NmI7vuthYSPxZHHfC8"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "El Mayor de los Dorados",
-      "url": "https://open.spotify.com/track/6NJVsy7jJUcSuzdEIWwP64"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
         "name": "Canciones de la Revoluci\u00f3n Mexicana",
         "url": "https://open.spotify.com/album/1MB9BxG32VA63pJooqsIFh"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 112036,
       "name": "La Norte\u00f1a",
       "url": "https://open.spotify.com/track/1jsL0EnzE18ba3NSvHm9rx"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "Canciones de la Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5AIynt1Sq2vs6tw8Y21jYb"
+      },
+      "artists": [
+        {
+          "name": "Voces del Pueblo",
+          "url": "https://open.spotify.com/artist/2QY4NmI7vuthYSPxZHHfC8"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "El Mayor de los Dorados",
+      "url": "https://open.spotify.com/track/6NJVsy7jJUcSuzdEIWwP64"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1192,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 149304,
-      "name": "Estoy Presente General",
-      "url": "https://open.spotify.com/track/5kYyxKIeGQ3Fm7ASYtNbq5"
+      "duration_ms": 154319,
+      "name": "Corrido Villista",
+      "url": "https://open.spotify.com/track/2uzVGE2nCKOWodQmbIj0Hz"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 154319,
-      "name": "Corrido Villista",
-      "url": "https://open.spotify.com/track/2uzVGE2nCKOWodQmbIj0Hz"
+      "duration_ms": 149304,
+      "name": "Estoy Presente General",
+      "url": "https://open.spotify.com/track/5kYyxKIeGQ3Fm7ASYtNbq5"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 185446,
-      "name": "La Toma De Zacatecas",
-      "url": "https://open.spotify.com/track/7JPnfBUaOniky8WIn4U48c"
+      "duration_ms": 158882,
+      "name": "El Centauro De Oro",
+      "url": "https://open.spotify.com/track/3QuujadEZ52El7vMb4t6SH"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1256,9 +1256,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 158882,
-      "name": "El Centauro De Oro",
-      "url": "https://open.spotify.com/track/3QuujadEZ52El7vMb4t6SH"
+      "duration_ms": 185446,
+      "name": "La Toma De Zacatecas",
+      "url": "https://open.spotify.com/track/7JPnfBUaOniky8WIn4U48c"
     },
     {
       "added_at": "2022-08-02 23:07:07",

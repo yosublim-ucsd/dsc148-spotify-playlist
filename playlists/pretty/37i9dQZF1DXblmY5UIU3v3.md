@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,335 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,613 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 24 | [Die Slow](https://open.spotify.com/track/5N3miUm4C10nb8CXEFfmLZ) | [Soda](https://open.spotify.com/artist/3hnbNJJnN1jFk3MmBvcn9Z), [Voyage](https://open.spotify.com/artist/3Ruev6M4tYJtGSInO2xkSt) | [Die Slow](https://open.spotify.com/album/1c9f0oKHV367vgBypmYQoV) | 2:22 |
 | 25 | [Gangsta's Paradise](https://open.spotify.com/track/0LrL7mzCA0iOYGKl12OxvF) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Gangsta's Paradise](https://open.spotify.com/album/38FYUgLqzuJH0gUUpy29zx) | 3:17 |
 | 26 | [Sztoj Pa Moru](https://open.spotify.com/track/3BHe1jnaW3hocrfMqytTP2) | [BROHM](https://open.spotify.com/artist/33cjmfhkyHbulkQwkuxe3i), [Thingstad](https://open.spotify.com/artist/4nl0BnCSRpuneTf0d7fV3G) | [Sztoj Pa Moru](https://open.spotify.com/album/6jqIGpQn1A00DdYut4vCNs) | 2:18 |
-| 27 | [ULETAY](https://open.spotify.com/track/6Pv2ssBWBcj2QFgmPl42gx) | [ONEIL](https://open.spotify.com/artist/7kzcAiYqxBV5J25vTYeOxA), [ORGAN](https://open.spotify.com/artist/1YKl8e8MJE5TK28LC4UyC6), [Titov](https://open.spotify.com/artist/3SuQprUc8N1kIOs2Hm2mAk), [FAVIA](https://open.spotify.com/artist/1FTXwgjHR8LAr13cnjWp7m) | [ULETAY](https://open.spotify.com/album/35VhiKDtvhfredQm0zWb2m) | 2:41 |
-| 28 | [Overthinking](https://open.spotify.com/track/3KWV5kY52CQ4KwunPeH9Mz) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Haribo](https://open.spotify.com/artist/4iYIZQP0f6Ec6gupaJ4SQm) | [Camels / Overthinking](https://open.spotify.com/album/0Tl8BA4JRmdGy1m32BMH1m) | 3:44 |
-| 29 | [S.O.M.F](https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [S.O.M.F](https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb) | 2:30 |
+| 27 | [S.O.M.F](https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [S.O.M.F](https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb) | 2:30 |
+| 28 | [ULETAY](https://open.spotify.com/track/6Pv2ssBWBcj2QFgmPl42gx) | [ONEIL](https://open.spotify.com/artist/7kzcAiYqxBV5J25vTYeOxA), [ORGAN](https://open.spotify.com/artist/1YKl8e8MJE5TK28LC4UyC6), [Titov](https://open.spotify.com/artist/3SuQprUc8N1kIOs2Hm2mAk), [FAVIA](https://open.spotify.com/artist/1FTXwgjHR8LAr13cnjWp7m) | [ULETAY](https://open.spotify.com/album/35VhiKDtvhfredQm0zWb2m) | 2:41 |
+| 29 | [Overthinking](https://open.spotify.com/track/3KWV5kY52CQ4KwunPeH9Mz) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Haribo](https://open.spotify.com/artist/4iYIZQP0f6Ec6gupaJ4SQm) | [Camels / Overthinking](https://open.spotify.com/album/0Tl8BA4JRmdGy1m32BMH1m) | 3:44 |
 | 30 | [Mafia \- Remix](https://open.spotify.com/track/3rkSjkhFvhRt4BZKXq99d4) | [JVLA](https://open.spotify.com/artist/24D8gx0257CDd1HAuqNuHu), [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX) | [Mafia \(Remix\)](https://open.spotify.com/album/5f1JJTRqqYQVC1stqR869n) | 2:02 |
 | 31 | [Close Ya](https://open.spotify.com/track/3KK71qLRNq9A0H3Zoj2jY3) | [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM) | [Close Ya](https://open.spotify.com/album/6cQ3bvLmo96impgeIfqkqX) | 2:50 |
 | 32 | [Jump Up](https://open.spotify.com/track/0oDRLwXOjJ0B879sOkEDoO) | [Ad Voca](https://open.spotify.com/artist/04LFpk0NPwhUVezsZDcdkx) | [Jump Up](https://open.spotify.com/album/5rjVS6Aaus2JOw5Mc9FzmJ) | 2:46 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 47 | [Let It Go](https://open.spotify.com/track/44EZq7xrWPvMsNCnqNXAQS) | [SUER](https://open.spotify.com/artist/1rDU02wIRYl8HsfyOTEs4I), [VOLB3X](https://open.spotify.com/artist/29nkqEfPr4KzAnoDcKriTu) | [Let It Go](https://open.spotify.com/album/70YGL5tFmT2lNNLxUrmC8P) | 2:41 |
 | 48 | [SAMURAI](https://open.spotify.com/track/0o04dCBHGlZwi816oogv6U) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT) | [SAMURAI](https://open.spotify.com/album/74FCnSJTNgzJYv9vIShlHy) | 2:49 |
 | 49 | [Ethnic](https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [Ethnic](https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj) | 3:37 |
-| 50 | [My Skyline](https://open.spotify.com/track/6EXYMLHG0Xhe1aNFphyayQ) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [My Skyline](https://open.spotify.com/album/7v9aoGWmGNRFwgwHQTr6ya) | 2:24 |
+| 50 | [Night Tales](https://open.spotify.com/track/2Xc6xRbyiBpVCgShumtXpV) | [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM), [WONGA](https://open.spotify.com/artist/4xq4vuvsEgo8UzaAn8HlIY) | [Night Tales](https://open.spotify.com/album/0ByvoTP8BJwZG3P09gaKMO) | 2:34 |
 
-Snapshot ID: `MCxmMmVhZjY4ODM2YzU1MDY2YTgwZTE2N2MxY2EzMDUzZmMyZTE4YzRk`
+Snapshot ID: `MCwxOWVkZDdlZWJhODVkMmYyOTNjNTBhY2U0Zjg2NWJmMjEyZmI1ZDg5`

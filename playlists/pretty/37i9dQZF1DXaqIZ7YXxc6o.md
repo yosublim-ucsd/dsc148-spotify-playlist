@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: SACHI
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,608 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,618 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 29 | [Care About Us \(feat\. Ebenezer\)](https://open.spotify.com/track/7rztNRexBl8QEdtKB6Cr91) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Ebenezer](https://open.spotify.com/artist/2vik8lyw8WiALKMJK7C3hn) | [London Sound](https://open.spotify.com/album/5jguHiPnYKnCubpuOZskLY) | 2:28 |
 | 30 | [Cheeky](https://open.spotify.com/track/7xePsiaOdxT9lkTck9Uv8t) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Cheeky](https://open.spotify.com/album/6lLyrH0Und9dYATr4F9Pjh) | 2:22 |
 | 31 | [Bring That Back](https://open.spotify.com/track/0zoSIutqFnFhDuUVrkIG7X) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Bring That Back](https://open.spotify.com/album/4mdooGwGTnkUJT01QY5K8L) | 3:08 |
-| 32 | [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 |
+| 32 | [Head Up](https://open.spotify.com/track/3zieOwCrap1s2sIpxWlx92) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/7FQA4DGX7aIfT8b8f8GVhp) | 3:09 |
 | 33 | [HOLLER](https://open.spotify.com/track/3orvFPnojxfKoERuNyvdke) | [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [HOLLER](https://open.spotify.com/album/7CiNp8IdfmHoOhNNSl3oOB) | 2:46 |
 | 34 | [Tonic \(Edit\)](https://open.spotify.com/track/4b9disSqE7Yvxgpo4W7lB5) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Tonic](https://open.spotify.com/album/4xbLjgXZNRWrMhWcWe7ww1) | 4:39 |
 | 35 | [Drums \(Feat\. Kim Petras\) \- Wh0 Remix](https://open.spotify.com/track/6MMWo7QxyXXmwT39mmLhVJ) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Drums \(Feat\. Kim Petras\) \[Wh0 Remix\]](https://open.spotify.com/album/5hKgd8c1Pac9VT0UqRQA3k) | 3:18 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 98 | [Mas Que Nada](https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Mas Que Nada](https://open.spotify.com/album/44wLGCkvr83VxYsioCROFf) | 2:07 |
 | 99 | [Best Thing](https://open.spotify.com/track/3ZDpJbRqKXrk3tL4kHBHpT) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Best Thing](https://open.spotify.com/album/2iM4du2HvU2hmHzdn7s0Ys) | 2:16 |
 
-Snapshot ID: `MCxjOGVlMGZjOGQzMDk3MGJjOWNkODJkNjRkY2FkNzVmN2E1OGQ5YjZh`
+Snapshot ID: `MCxlNWRlZmQ4YjQxMGM2NDU0NDlkMDZhM2JlYzdkODJhYTVhNmIyMjE2`

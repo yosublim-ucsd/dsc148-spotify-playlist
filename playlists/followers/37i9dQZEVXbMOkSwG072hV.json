@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 353458,
+  "2024-02-09": 353455,
   "date_first_scraped": "2022-01-18",
   "description": "Your daily update of the most viral tracks right now - Brazil.",
   "name": "Viral 50 - Brazil",
@@ -11341,7 +11341,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 197711,
       "name": "Diz ai qual \u00e9 o Plano",
       "url": "https://open.spotify.com/track/7I9NBy6CEsFixm002qPdYX"
@@ -26235,7 +26235,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 127523,
       "name": "NA SUA VIDA SOU O PROBLEMA",
       "url": "https://open.spotify.com/track/6MLf0qQuv2HugbRcUOEZZc"
@@ -34407,7 +34407,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 125723,
       "name": "Sarra Pros Bandido",
       "url": "https://open.spotify.com/track/0DvNF3jz0NTvaZWZR58wsz"
@@ -35809,6 +35809,24 @@
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
+    {
+      "album": {
+        "name": "She Likes a Boy",
+        "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129056,
+      "name": "She Likes a Boy",
+      "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
     },
     {
       "album": {

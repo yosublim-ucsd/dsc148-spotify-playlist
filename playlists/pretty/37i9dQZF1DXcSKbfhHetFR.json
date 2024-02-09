@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 9865,
+  "num_followers": 9866,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODNiMjNhMTBjMTFiMzQ4NmRlNzkxMDI3ZGFiMjRhODdhYzM2YmQ1",
+  "snapshot_id": "MCw0MjUwMDJjMjZiNjJhM2ViOGQwNGMzMmU0MzBkMDUwNTU5ZTFlNTQw",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -207,22 +207,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Fieldtrip",
-        "url": "https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV"
-      },
-      "artists": [
-        {
-          "name": "GrimSkunk",
-          "url": "https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL"
-        }
-      ],
-      "duration_ms": 190040,
-      "name": "Gros tas d'marde",
-      "url": "https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Danse sociale",
         "url": "https://open.spotify.com/album/43HrZpsHePmMfgN69PTnFR"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 235440,
       "name": "J'ai oubli\u00e9",
       "url": "https://open.spotify.com/track/0fxyIaAHcZg6uBlFSHYyJM"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Fieldtrip",
+        "url": "https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV"
+      },
+      "artists": [
+        {
+          "name": "GrimSkunk",
+          "url": "https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "Gros tas d'marde",
+      "url": "https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -383,18 +383,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Manifestif",
-        "url": "https://open.spotify.com/album/0Nq5kr6yBG63Gu4ATEXjn4"
+        "name": "Le Trashy Saloon",
+        "url": "https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3"
       },
       "artists": [
         {
-          "name": "Loco Locass",
-          "url": "https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD"
+          "name": "Anik Jean",
+          "url": "https://open.spotify.com/artist/6IHeGZkZLc9DQ4INpVyDpa"
         }
       ],
-      "duration_ms": 273000,
-      "name": "Sheila, ch'us l\u00e0",
-      "url": "https://open.spotify.com/track/73JkbiHMyyvGWgtpNvD1NB"
+      "duration_ms": 201800,
+      "name": "Je suis partie",
+      "url": "https://open.spotify.com/track/0l90WIAkOhMlPSEvqX0YGV"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -415,18 +415,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Le Trashy Saloon",
-        "url": "https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3"
+        "name": "Manifestif",
+        "url": "https://open.spotify.com/album/0Nq5kr6yBG63Gu4ATEXjn4"
       },
       "artists": [
         {
-          "name": "Anik Jean",
-          "url": "https://open.spotify.com/artist/6IHeGZkZLc9DQ4INpVyDpa"
+          "name": "Loco Locass",
+          "url": "https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD"
         }
       ],
-      "duration_ms": 201800,
-      "name": "Je suis partie",
-      "url": "https://open.spotify.com/track/0l90WIAkOhMlPSEvqX0YGV"
+      "duration_ms": 273000,
+      "name": "Sheila, ch'us l\u00e0",
+      "url": "https://open.spotify.com/track/73JkbiHMyyvGWgtpNvD1NB"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Projet Orange",
-        "url": "https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM"
-      },
-      "artists": [
-        {
-          "name": "Projet Orange",
-          "url": "https://open.spotify.com/artist/3XHkd4Nmrha9giC22Sg8NF"
-        }
-      ],
-      "duration_ms": 236373,
-      "name": "Myst\u00e8re a\u00e9rosol",
-      "url": "https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Sur quelle plan\u00e8te",
         "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 323400,
       "name": "Dans les airs",
       "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Projet Orange",
+        "url": "https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM"
+      },
+      "artists": [
+        {
+          "name": "Projet Orange",
+          "url": "https://open.spotify.com/artist/3XHkd4Nmrha9giC22Sg8NF"
+        }
+      ],
+      "duration_ms": 236373,
+      "name": "Myst\u00e8re a\u00e9rosol",
+      "url": "https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Le Nombre",
-        "url": "https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG"
-      },
-      "artists": [
-        {
-          "name": "Le Nombre",
-          "url": "https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Laissez venir \u00e0 moi les grandes brunes",
-      "url": "https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Thermoplastique",
         "url": "https://open.spotify.com/album/2vLUguDFIoI1xVLvaRJhSc"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 173626,
       "name": "Thermoplastique",
       "url": "https://open.spotify.com/track/6JjlCErZUO79Ra0yqDL4pH"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Le Nombre",
+        "url": "https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG"
+      },
+      "artists": [
+        {
+          "name": "Le Nombre",
+          "url": "https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Laissez venir \u00e0 moi les grandes brunes",
+      "url": "https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB"
     },
     {
       "added_at": "2020-06-23 14:47:30",

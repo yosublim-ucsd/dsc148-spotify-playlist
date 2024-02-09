@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Captain Miller
 
-201 songs - 13 hr 15 min
+202 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Naan Gaali \- From "Good Night"](https://open.spotify.com/track/2jG1qOcH57ZAsWARKfminr) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Naan Gaali \(From "Good Night"\)](https://open.spotify.com/album/4AjbDxRpAqUcm6GObKKmnm) | 4:30 | 2023-04-04 |  |
 | [Naan Pizhai \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/1UUgngRGzFWfgpyN0WAN1r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Naan Pizhai \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/2R8F4wxJzpyQuN6fxUUwT1) | 4:03 | 2022-01-03 | 2023-05-03 |
 | [Naanum \- From "Navarasa"](https://open.spotify.com/track/2S5GlyMhp7tUbOFU4Kf1kJ) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Naanum \(From "Navarasa"\)](https://open.spotify.com/album/1A1DHdbo5BcG2JqNKB88iB) | 3:34 | 2021-11-29 | 2022-10-19 |
+| [Nandanandanaa \(From "The Family Star"\)](https://open.spotify.com/track/0uc62z7kafdH5sCri8qlDq) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Nandanandanaa \(From "The Family Star"\)](https://open.spotify.com/album/4b4CeCF3AsME3i4qCpV0tS) | 4:59 | 2024-02-08 |  |
 | [Naracha Mudi](https://open.spotify.com/track/4wsJc2zTc8343T4JgMPzdW) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Srilekha Parthasarathy](https://open.spotify.com/artist/4Q1srPVPObLkyNrevKLi5Q) | [Dhruva Natchathiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/03vZNwmbPH0VKg5sHtDtac) | 2:59 | 2024-01-04 |  |
 | [Naracha Mudi \(From "Dhruva Natchathiram"\)](https://open.spotify.com/track/5qDMGa2JB49NANJJvc4ICU) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Srilekha Parthasarathy](https://open.spotify.com/artist/4Q1srPVPObLkyNrevKLi5Q) | [Naracha Mudi \(From "Dhruva Natchathiram"\)](https://open.spotify.com/album/7KZHEijOAQKEWRLsQYaWX0) | 3:00 | 2023-11-06 |  |
 | [Natchathiram Nagargirathu](https://open.spotify.com/track/1vzOAqyprXwN1Yw5vxBaQV) | [Tenma](https://open.spotify.com/artist/2DrwyYWGYEu3ULzRzEGajY), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Sharanya Srinivas](https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB) | [Natchathiram Nagargirathu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QgQOj0xKEHOEQzHvjj2ml) | 4:53 | 2022-08-23 | 2023-03-25 |

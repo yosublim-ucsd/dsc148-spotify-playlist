@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv?si=egVP3snNRzOlaJxSO2VPvw>Yoyo Michael</a> ",
+  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q?si=iXij6B_eQHq9EArbpLXrcw>Spillz Ochai</a> ",
   "name": "Testify",
   "tracks": [
     {
@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 228856,
       "name": "BIG BIG WAY",
       "url": "https://open.spotify.com/track/0XGZvAtlH8kT6NseNoNLA8"
@@ -3750,6 +3750,32 @@
       "duration_ms": 370964,
       "name": "Too Faithful",
       "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
+    },
+    {
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/0fysW24DQvmfDWN1WFxpNE"
+      },
+      "artists": [
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "Glochi",
+          "url": "https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY"
+        },
+        {
+          "name": "Jayclassic",
+          "url": "https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150379,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/64g7yZSdEEU5EctgNSXoat"
     },
     {
       "album": {

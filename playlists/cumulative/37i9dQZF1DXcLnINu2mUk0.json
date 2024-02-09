@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 121000,
       "name": "1 Cor\u00edntios 13",
       "url": "https://open.spotify.com/track/2FmiCpiXBdFR46rfpxz16h"
@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Aprendi a Amar",
+        "url": "https://open.spotify.com/album/07Xhxbh0q271QHx5iPJctj"
+      },
+      "artists": [
+        {
+          "name": "Oestrela",
+          "url": "https://open.spotify.com/artist/4OHp25KOzOBF38Uq4CNtNE"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179176,
+      "name": "Aprendi a Amar",
+      "url": "https://open.spotify.com/track/25eaNnUtxQhnoisuKglAtA"
+    },
+    {
+      "album": {
         "name": "Aproximar",
         "url": "https://open.spotify.com/album/6Dus4s197Sp6WNgkfH4mD2"
       },
@@ -898,6 +916,36 @@
       "duration_ms": 198832,
       "name": "aventura",
       "url": "https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8"
+    },
+    {
+      "album": {
+        "name": "B4U",
+        "url": "https://open.spotify.com/album/43RReczlsprLlicvPx8xnC"
+      },
+      "artists": [
+        {
+          "name": "St. James Park",
+          "url": "https://open.spotify.com/artist/4WGxfbDkaRQOFN0uriUXDF"
+        },
+        {
+          "name": "C\u00e1lculo",
+          "url": "https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI"
+        },
+        {
+          "name": "y.azz",
+          "url": "https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U"
+        },
+        {
+          "name": "Birou",
+          "url": "https://open.spotify.com/artist/6MZjeFl9psA2ncl3ennNbx"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192214,
+      "name": "B4U",
+      "url": "https://open.spotify.com/track/4htFvo798QAxy9iUBoTJPg"
     },
     {
       "album": {
@@ -1256,7 +1304,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 183717,
       "name": "Black Butterfly",
       "url": "https://open.spotify.com/track/2SPL4QXXmzq1MiGIeLVXrH"
@@ -1442,6 +1490,24 @@
       "duration_ms": 182550,
       "name": "BUNUNU",
       "url": "https://open.spotify.com/track/27RbLCNT9NqJFAqkCD2dEq"
+    },
+    {
+      "album": {
+        "name": "C'La Perfecion",
+        "url": "https://open.spotify.com/album/5qDrbiudT2Cd8ZUfpNCfQl"
+      },
+      "artists": [
+        {
+          "name": "Nello Fellirio",
+          "url": "https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180837,
+      "name": "C'La Perfecion",
+      "url": "https://open.spotify.com/track/5aNyNvjhs3ieGT1b6geApO"
     },
     {
       "album": {
@@ -2134,6 +2200,28 @@
     {
       "album": {
         "name": "Contigo",
+        "url": "https://open.spotify.com/album/59FAPnQlBADxOZsaaHkdXb"
+      },
+      "artists": [
+        {
+          "name": "Supa Squad",
+          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208119,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/05O2kCMeVH9SwXzmUCs0dB"
+    },
+    {
+      "album": {
+        "name": "Contigo",
         "url": "https://open.spotify.com/album/2cnzVmOOCiZfse0SMcMGkC"
       },
       "artists": [
@@ -2144,7 +2232,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 162191,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/4lbjQJBECRzR8WP3vVWZth"
@@ -3424,6 +3512,32 @@
       "duration_ms": 184505,
       "name": "Faltou Mais Amor",
       "url": "https://open.spotify.com/track/3Q38gjfJGqWMh792iL6Owg"
+    },
+    {
+      "album": {
+        "name": "7.83Hz",
+        "url": "https://open.spotify.com/album/2wTXxQkoieXJNyIyRL5Qd6"
+      },
+      "artists": [
+        {
+          "name": "Maison V\u00ebrt",
+          "url": "https://open.spotify.com/artist/3Cy9Lx1rIFy8alkXjVLq9S"
+        },
+        {
+          "name": "Frank Lucas",
+          "url": "https://open.spotify.com/artist/6tpjAPaF1K2nDrixml8l0R"
+        },
+        {
+          "name": "Birou",
+          "url": "https://open.spotify.com/artist/6MZjeFl9psA2ncl3ennNbx"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251612,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/2p4bamqictuUYxWRq7UawI"
     },
     {
       "album": {
@@ -4822,7 +4936,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 206315,
       "name": "La\u00e7os",
       "url": "https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ"
@@ -5314,7 +5428,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 206315,
       "name": "Madruga",
       "url": "https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B"
@@ -7473,6 +7587,28 @@
     },
     {
       "album": {
+        "name": "Quem Tu Mereces",
+        "url": "https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7"
+      },
+      "artists": [
+        {
+          "name": "zzzcadu",
+          "url": "https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf"
+        },
+        {
+          "name": "Kuptz",
+          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212331,
+      "name": "Quem Tu Mereces",
+      "url": "https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9"
+    },
+    {
+      "album": {
         "name": "Quero Mais",
         "url": "https://open.spotify.com/album/7fRIESyi6XlgpQVpnCXXk6"
       },
@@ -7752,7 +7888,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 215839,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/48uh3bC8i1GZRnKuEJiCUP"
@@ -8453,6 +8589,24 @@
     },
     {
       "album": {
+        "name": "Miguela",
+        "url": "https://open.spotify.com/album/5bqBMrmLgZKzvMKvsTyvyL"
+      },
+      "artists": [
+        {
+          "name": "Silly",
+          "url": "https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178023,
+      "name": "Sil\u00eancio",
+      "url": "https://open.spotify.com/track/7weWL4qWlqHmwwk6NNVUGd"
+    },
+    {
+      "album": {
         "name": "SINAIS",
         "url": "https://open.spotify.com/album/4TQEeYV8ixyAnV2s4MOmFI"
       },
@@ -8556,7 +8710,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 128571,
       "name": "SLOW DOWN",
       "url": "https://open.spotify.com/track/09J2GaoKUhH4MV3xbBlhj8"
@@ -8596,7 +8750,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 195685,
       "name": "So Flawless",
       "url": "https://open.spotify.com/track/1plyo1KCOcXS92FItfyXMx"
@@ -9176,7 +9330,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 199376,
       "name": "Tequila - Studio Version",
       "url": "https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx"

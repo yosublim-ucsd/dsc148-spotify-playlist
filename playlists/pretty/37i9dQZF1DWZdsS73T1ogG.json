@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Paloma Mami\n",
-  "num_followers": 508308,
+  "num_followers": 508356,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Yjc2YWY1MTNhZmM5MGU4MjgwNjY5YjZlNWZjZWUyNWFhOTI4NmM4",
+  "snapshot_id": "MCwyMmNkMjhhNWNhYjllMTI5MzE2ZTBjMjRlZDNjMDA0MmE2ZGE2ZTkz",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/711qEIa036lsAw3BRqk0jO"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/49l4Lh25VxAf5RQMaiRnoh"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "DE LA P*TA",
         "url": "https://open.spotify.com/album/4EQQS0BePhv05UCnGivIFt"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 188572,
       "name": "DE LA P*TA",
       "url": "https://open.spotify.com/track/6hcCUm6ZQSVtKhpMBT3CNm"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/711qEIa036lsAw3BRqk0jO"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/49l4Lh25VxAf5RQMaiRnoh"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -907,46 +907,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "escribiendo TKM",
-        "url": "https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO"
-      },
-      "artists": [
-        {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
-        },
-        {
-          "name": "D3llano",
-          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "escribiendo TKM",
-      "url": "https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "WLGS",
-        "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 260415,
-      "name": "Bandida Fina (with Ozuna)",
-      "url": "https://open.spotify.com/track/0L6Zw2BaYITtCMn63Yggh1"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Mi Otra Mitad (Remix)",
         "url": "https://open.spotify.com/album/668u02QByaBqOr2YiJE0hW"
       },
@@ -967,6 +927,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "escribiendo TKM",
+        "url": "https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "escribiendo TKM",
+      "url": "https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "UNA NOTi",
         "url": "https://open.spotify.com/album/3lxVIFq3Bv8oMoLwyFKbwG"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 200000,
       "name": "UNA NOTi",
       "url": "https://open.spotify.com/track/3siASmLFyTye8QbGkZQOlz"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "WLGS",
+        "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 260415,
+      "name": "Bandida Fina (with Ozuna)",
+      "url": "https://open.spotify.com/track/0L6Zw2BaYITtCMn63Yggh1"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "MILLAS",
+        "url": "https://open.spotify.com/album/71ANhRl5U4jM8vBUTvQTsZ"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "PASEITO",
+      "url": "https://open.spotify.com/track/0fVq4JpeZEdU8ZSv27PZPd"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Band\u00fblera",
         "url": "https://open.spotify.com/album/0rxeTyPj7IPCYPUMLe6Tl1"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 244328,
       "name": "Band\u00fblera",
       "url": "https://open.spotify.com/track/28Lrm2zqh827fpRmmPKBfq"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "MILLAS",
-        "url": "https://open.spotify.com/album/71ANhRl5U4jM8vBUTvQTsZ"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "PASEITO",
-      "url": "https://open.spotify.com/track/0fVq4JpeZEdU8ZSv27PZPd"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Shirakawa-Go",
+        "url": "https://open.spotify.com/album/7q0GwugGY44jX0rgcbDq9C"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 171798,
+      "name": "SHIRAKAWA-GO",
+      "url": "https://open.spotify.com/track/16tfnFPsRG8vgbaAG3kpET"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Salsero",
         "url": "https://open.spotify.com/album/6hgWDZZV6Nz5x34yps6HkD"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 225671,
       "name": "Salsero",
       "url": "https://open.spotify.com/track/2oAlelTgCCe6wIgUHOWM6E"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Shirakawa-Go",
-        "url": "https://open.spotify.com/album/7q0GwugGY44jX0rgcbDq9C"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 171798,
-      "name": "SHIRAKAWA-GO",
-      "url": "https://open.spotify.com/track/16tfnFPsRG8vgbaAG3kpET"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Complicado",
+        "url": "https://open.spotify.com/album/4MyHfAPhaeb4AwPU2XHvTU"
+      },
+      "artists": [
+        {
+          "name": "VICE MENTA",
+          "url": "https://open.spotify.com/artist/5Aw0EHnWZ9YBfsYN3bjZJH"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Complicado",
+      "url": "https://open.spotify.com/track/0odJehbwynq5ywdEnnWywx"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/1BPyyJBqKAwk0iXnxgQeTN"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 227708,
       "name": "Amen",
       "url": "https://open.spotify.com/track/2mRn3oiaFSVLPV1keXkjkP"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Complicado",
-        "url": "https://open.spotify.com/album/4MyHfAPhaeb4AwPU2XHvTU"
-      },
-      "artists": [
-        {
-          "name": "VICE MENTA",
-          "url": "https://open.spotify.com/artist/5Aw0EHnWZ9YBfsYN3bjZJH"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Complicado",
-      "url": "https://open.spotify.com/track/0odJehbwynq5ywdEnnWywx"
     },
     {
       "added_at": "2024-02-02 05:00:00",

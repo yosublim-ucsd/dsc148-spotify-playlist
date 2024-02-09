@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and more! | Updated weekly on Friday Cover: NIIKO &amp; SWAE and TRAIN",
+  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and more! | Updated weekly on Friday Cover: David Guetta, Mason,  Princess Superstar",
   "name": "Armada Today",
   "tracks": [
     {
@@ -672,6 +672,32 @@
       "duration_ms": 169911,
       "name": "Always And Forever - UK Radio Edit",
       "url": "https://open.spotify.com/track/1YVUM5pSCaJJSvyGhSMP8H"
+    },
+    {
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/1EZ8u81fnSUv5FXUn1XeCl"
+      },
+      "artists": [
+        {
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        },
+        {
+          "name": "Hyzteria",
+          "url": "https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd"
+        },
+        {
+          "name": "Ekko",
+          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179047,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/6KFmvbvjOGFxfp76X9o1aW"
     },
     {
       "album": {
@@ -1538,7 +1564,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 179538,
       "name": "Blow Ya Mind",
       "url": "https://open.spotify.com/track/5YdjqXqyI1WmUbKPhtw3lq"
@@ -1960,7 +1986,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 157440,
       "name": "Bring The Heat",
       "url": "https://open.spotify.com/track/2YUb24AGQWDddLbTfsYnOm"
@@ -2682,10 +2708,44 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 253233,
       "name": "Come Too Far",
       "url": "https://open.spotify.com/track/3otrrqE6sLMxpbr7QRh5ak"
+    },
+    {
+      "album": {
+        "name": "Coming On Strong",
+        "url": "https://open.spotify.com/album/3DYvaLx7E8JxzoruBfcnQL"
+      },
+      "artists": [
+        {
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        },
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "Paul Findlay",
+          "url": "https://open.spotify.com/artist/5PmrFNfi36ip2rjbGyY0AL"
+        },
+        {
+          "name": "Signum",
+          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
+        },
+        {
+          "name": "Scott Mac",
+          "url": "https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Coming On Strong",
+      "url": "https://open.spotify.com/track/0W3Z0w7u8rad8EKwCfgqfx"
     },
     {
       "album": {
@@ -2758,7 +2818,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 179498,
       "name": "Computers Take Over The World - Cat Dealers Remix",
       "url": "https://open.spotify.com/track/1EMJQUJy57fHZ4dyqrFvjN"
@@ -3004,7 +3064,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 177560,
       "name": "DANGEROUS (So Dare Me)",
       "url": "https://open.spotify.com/track/1OZ9eQn7mSVQaKCKEzx5n2"
@@ -3246,7 +3306,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 134285,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/5FN4yel9Y0rZEgWA0yrJoI"
@@ -3390,7 +3450,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 212017,
       "name": "Dirty Dancing",
       "url": "https://open.spotify.com/track/1PBzexAEzjvhgwYWRTQ4Jg"
@@ -3722,7 +3782,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 142101,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/1ANiI74xQ3bcd8VJ9WHf8q"
@@ -5484,7 +5544,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 169838,
       "name": "Fun Fun",
       "url": "https://open.spotify.com/track/1oN2ufd3KdxqhyPoqERHu2"
@@ -5964,7 +6024,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 170000,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i"
@@ -6078,7 +6138,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 162712,
       "name": "Got a Friend",
       "url": "https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5"
@@ -6590,7 +6650,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 193124,
       "name": "Happy People - Fedde Le Grand Remix",
       "url": "https://open.spotify.com/track/0mGah2x8Fk5GaBU7uM4Diq"
@@ -7544,7 +7604,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 173360,
       "name": "I Can Feel",
       "url": "https://open.spotify.com/track/0vwueCPNGUYtAgKWDwqONC"
@@ -7728,6 +7788,24 @@
       "duration_ms": 214746,
       "name": "I Wanna Be U",
       "url": "https://open.spotify.com/track/6d7UDsObdkWB82h4TGCG5Y"
+    },
+    {
+      "album": {
+        "name": "I Wanna Go",
+        "url": "https://open.spotify.com/album/7uJuvRMIeDOyUg7RVLEzMG"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144752,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/2U5Z2QzBu9pqJx04ln1zez"
     },
     {
       "album": {
@@ -7956,7 +8034,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 272007,
       "name": "Ice Walls",
       "url": "https://open.spotify.com/track/2TqZy9rUQ2ITZmUvfhVol9"
@@ -8096,7 +8174,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 200371,
       "name": "If You Only Knew",
       "url": "https://open.spotify.com/track/5ZF5rGJ00V81AmLYAIgO2D"
@@ -8148,7 +8226,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 218004,
       "name": "In And Out Of Love - Innellea Remix",
       "url": "https://open.spotify.com/track/13z0WuyNhDPQlwXSr8EY4S"
@@ -8336,7 +8414,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 179769,
       "name": "It Could Be - Kevin Saunderson & Dantiez Club Mix",
       "url": "https://open.spotify.com/track/6ie7D1AvuUS0Uv8bXWzMZS"
@@ -8754,7 +8832,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 172857,
       "name": "Keloke",
       "url": "https://open.spotify.com/track/3yNYNsWY72kqDrVS3v8iB2"
@@ -9734,7 +9812,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 178186,
       "name": "Listen to Me",
       "url": "https://open.spotify.com/track/7usCSLFTINmqoyne3AfKgZ"
@@ -10370,6 +10448,28 @@
       "duration_ms": 223128,
       "name": "Love Seeking",
       "url": "https://open.spotify.com/track/0taOpWhjPof90UrY0V3HUp"
+    },
+    {
+      "album": {
+        "name": "Love The Rain Days",
+        "url": "https://open.spotify.com/album/1DhGpe5z4rr9yLNwtxMDGe"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        },
+        {
+          "name": "Ost & Kjex",
+          "url": "https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205289,
+      "name": "Love The Rain Days",
+      "url": "https://open.spotify.com/track/3doKxZuW2B3SpcHvaHqgW3"
     },
     {
       "album": {
@@ -11762,7 +11862,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 185047,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/2pu6BYv9V4npbbutVoIPif"
@@ -11851,7 +11951,7 @@
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 389535,
+      "duration_ms": 303553,
       "name": "Offshore - Symphonic Rehearsal Mix",
       "url": "https://open.spotify.com/track/6lJwuDZiM42gUnIhULvNIm"
     },
@@ -12214,7 +12314,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 219130,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4mKV2PUwOBunCjDEAKGmjO"
@@ -12780,6 +12880,32 @@
       "duration_ms": 174505,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/3Yiqps8YQhLL0EQXZGq2P7"
+    },
+    {
+      "album": {
+        "name": "Perfect (Exceeder)",
+        "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151929,
+      "name": "Perfect (Exceeder)",
+      "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
     },
     {
       "album": {
@@ -14136,7 +14262,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 165000,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3umVRp5FJtkvh6VUZpra8C"
@@ -14870,7 +14996,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 149320,
       "name": "Shatterproof",
       "url": "https://open.spotify.com/track/628oCsEqVPJIbmew7hpTno"
@@ -16697,6 +16823,28 @@
     },
     {
       "album": {
+        "name": "Take Off",
+        "url": "https://open.spotify.com/album/350F8g1oIRWzdUs8gMfmsc"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237401,
+      "name": "Take Off",
+      "url": "https://open.spotify.com/track/1Qew5n9FSPxpiqu0Og4R3J"
+    },
+    {
+      "album": {
         "name": "Stimulate (Deluxe)",
         "url": "https://open.spotify.com/album/1n3V1SMu8hLeccUhgTunwx"
       },
@@ -17314,7 +17462,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 227200,
       "name": "The Story",
       "url": "https://open.spotify.com/track/1mvDRmVpbraXMC6TFpJLpF"
@@ -17652,7 +17800,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 271508,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522"
@@ -19200,7 +19348,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 202391,
       "name": "What If I Want You",
       "url": "https://open.spotify.com/track/6oUpN1TABswmcWijWC24cR"
@@ -19852,7 +20000,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 154110,
       "name": "You In My Mind",
       "url": "https://open.spotify.com/track/1Zih3XQzeqqGZgwTxFSSnD"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV?si=wWs8MCk2TIa6Gbm27wSltA\">Felo Le Tee</a>, <a href=\"https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju?si=bM2Y8krKTh2zgUo1GnAckw\">Focalistic</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1?si=FJadowUgS1eQ-YJM-bwJTw\">Ch'cco</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -8864,7 +8864,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 429034,
       "name": "Gojasi",
       "url": "https://open.spotify.com/track/0z2QglVOqge7D0Mo7Pqvow"
@@ -9627,6 +9627,32 @@
     },
     {
       "album": {
+        "name": "Heh Bafwethu",
+        "url": "https://open.spotify.com/album/3eJ8UoQNQ1e1Tkro6456lK"
+      },
+      "artists": [
+        {
+          "name": "Sfarzo Rtee",
+          "url": "https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj"
+        },
+        {
+          "name": "T&T Musiq",
+          "url": "https://open.spotify.com/artist/3k3KeoodrBUAOusGGcBnHI"
+        },
+        {
+          "name": "Mpho Spizzy",
+          "url": "https://open.spotify.com/artist/6or3L6AbGx83tADuwcS3PF"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384408,
+      "name": "Heh Bafwethu",
+      "url": "https://open.spotify.com/track/4yGTZcXskKbcvTzOBHG1yq"
+    },
+    {
+      "album": {
         "name": "Hey Siri",
         "url": "https://open.spotify.com/album/7m7EaQ9SmkaD8j2SVuxNr7"
       },
@@ -9862,7 +9888,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 356814,
       "name": "Howa You (feat. Myztro & Xduppy)",
       "url": "https://open.spotify.com/track/57T2jbt9nqR6VCeOH72wuG"
@@ -12865,13 +12891,13 @@
     },
     {
       "album": {
-        "name": "Jealousy (feat. Leemckrazy & Khalil Harrison)",
+        "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
         "url": "https://open.spotify.com/album/0prfEaQxPCu9UqPSnscpoS"
       },
       "artists": [
         {
-          "name": "Ceeka RSA",
-          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
         },
         {
           "name": "Tyler ICU",
@@ -12882,15 +12908,15 @@
           "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
         },
         {
-          "name": "Khalil Harrison",
-          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
         }
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 390873,
-      "name": "Jealousy (feat. Leemckrazy & Khalil Harrison)",
+      "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
       "url": "https://open.spotify.com/track/6OGNF7mro80pMi5q1HhylS"
     },
     {
@@ -14192,6 +14218,28 @@
       "duration_ms": 398582,
       "name": "Konnichiwa (feat. TNK MusiQ, Malum.Hypeman & Ultrasoft)",
       "url": "https://open.spotify.com/track/3Ukwgh8Fv5EOqQgx9mhsEp"
+    },
+    {
+      "album": {
+        "name": "KONTROL (feat. ToooValid)",
+        "url": "https://open.spotify.com/album/0OUUV6OBK96e9FrnTpdTio"
+      },
+      "artists": [
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "ToooValid",
+          "url": "https://open.spotify.com/artist/7CYydjPjVoH7oEvJMldUkG"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280421,
+      "name": "KONTROL (feat. ToooValid)",
+      "url": "https://open.spotify.com/track/7eDf0HFE8ymjBPEyp4gLTO"
     },
     {
       "album": {
@@ -18610,6 +18658,32 @@
       "duration_ms": 416327,
       "name": "Nduma Ndumane",
       "url": "https://open.spotify.com/track/4QgyThcnKndiqqB5n6zx9d"
+    },
+    {
+      "album": {
+        "name": "Jan Fever",
+        "url": "https://open.spotify.com/album/0iV9RYFlZfhR99cCayt0te"
+      },
+      "artists": [
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "Amzin Deep",
+          "url": "https://open.spotify.com/artist/0VTpYaMYfaKBiS0hPBjz3R"
+        },
+        {
+          "name": "Kaytee NA",
+          "url": "https://open.spotify.com/artist/5lmSHCFdEpmCD5HljbBB4m"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420048,
+      "name": "Need For Speed",
+      "url": "https://open.spotify.com/track/1sitt7v4R1zCRKpjJce3PD"
     },
     {
       "album": {
@@ -30410,7 +30484,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 484285,
       "name": "Woza La!",
       "url": "https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I"

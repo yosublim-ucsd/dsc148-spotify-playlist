@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Blanco Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,146 likes - 128 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,248 likes - 128 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 127 | [See You in Church](https://open.spotify.com/track/6KncYAsbwJj852e0gyajOE) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [See You in Church.](https://open.spotify.com/album/0EY9R4wwDyk8crB65GYfKv) | 3:08 |
 | 128 | [You Got a Small Town](https://open.spotify.com/track/4XETfjmA6u9yy3CSfh1oFL) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 2:59 |
 
-Snapshot ID: `MCwzZmY3YmJjNTdlM2M2MDAyZjZhMjc1ZTcyOTY3MTg0Y2YyMWVlNDAx`
+Snapshot ID: `MCxkZDJiMWNmMzg1ZGIzZTAzMmVhOTYzZWNjM2I3NDFlZTY0YzdlODQ5`

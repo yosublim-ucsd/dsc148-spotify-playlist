@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 | 33 | [Outside](https://open.spotify.com/track/5ZuP7gjwZlBcGsxcSOtpfa) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Outside](https://open.spotify.com/album/4hoY7EvJ5DFDNGlN2eG2MN) | 2:16 |
 | 34 | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/track/2uZUFhEOjWOUHSoxmrlzMt) | [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/album/7dYqsPwOXNU2PXl00fkaAG) | 3:24 |
 
-Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDA4ZGRhZmJkYzBmMzYyYTJmMDhhNzlkYzc2OTY1M2JmZg==`
+Snapshot ID: `Mjg0NTY1OTMsMDAwMDAwMDA0YTAwOTE2NTVkYWIyMDllODE5MDEyODRiMjcxZTI2Nw==`

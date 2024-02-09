@@ -2,7 +2,7 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Lauryyn
+> Il meglio dell'R&B italiano\. Cover: sigarettewest
 
 471 songs - 23 hr 21 min
 

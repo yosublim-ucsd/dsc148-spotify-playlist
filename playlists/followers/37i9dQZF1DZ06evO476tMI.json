@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 597526,
+  "2024-02-09": 597648,
   "date_first_scraped": "2023-07-29",
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
   "name": "This Is Whitney Houston",
@@ -471,7 +471,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 271093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 277409,
       "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
       "url": "https://open.spotify.com/track/6rDQtMkwq8UEIWnhNY2JYx"

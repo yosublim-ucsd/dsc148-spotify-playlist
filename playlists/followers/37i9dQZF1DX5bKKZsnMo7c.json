@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 368073,
+  "2024-02-09": 368352,
   "date_first_scraped": "2022-05-30",
   "description": "All eyes on you. Cover: Jagwar Twin",
   "name": "Limelight",
@@ -21,6 +21,24 @@
       "duration_ms": 146654,
       "name": "1985",
       "url": "https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS"
+    },
+    {
+      "album": {
+        "name": "2 days into college",
+        "url": "https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3"
+      },
+      "artists": [
+        {
+          "name": "Aimee Carty",
+          "url": "https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168113,
+      "name": "2 days into college",
+      "url": "https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU"
     },
     {
       "album": {
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 229667,
       "name": "Caesar on a TV Screen",
       "url": "https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G"

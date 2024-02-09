@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 454065,
+  "num_followers": 454434,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzU5MzA4ZDBiZjZjNDhlNTI5OTJjYTgzZTk3YTU5OTFmZjdiN2Vm",
+  "snapshot_id": "MCw5YmMwNmM1ZTlkYjJiZmY3YWE0Mjg5MjViYmQ2ZTc5YWNmMGZkYzEz",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -431,6 +431,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Evacuate The Dancefloor",
+        "url": "https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 205884,
+      "name": "Evacuate The Dancefloor - Radio Edit",
+      "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Tongue N' Cheek (Dirtee Deluxe Edition)",
         "url": "https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 204093,
       "name": "Dance Wiv Me - Radio Edit",
       "url": "https://open.spotify.com/track/6pTg4H8juKV9iSzrcVUbM3"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Evacuate The Dancefloor",
-        "url": "https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 205884,
-      "name": "Evacuate The Dancefloor - Radio Edit",
-      "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -543,6 +543,26 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Tongue N' Cheek (Dirtee Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC"
+      },
+      "artists": [
+        {
+          "name": "Dizzee Rascal",
+          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "duration_ms": 177573,
+      "name": "Bonkers",
+      "url": "https://open.spotify.com/track/6ddQ5KCkvCggk3j6KdA0zL"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "A Funk Odyssey",
         "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
       },
@@ -555,22 +575,6 @@
       "duration_ms": 199600,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 197124,
-      "name": "Everytime We Touch",
-      "url": "https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -607,22 +611,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Tongue N' Cheek (Dirtee Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC"
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
       },
       "artists": [
         {
-          "name": "Dizzee Rascal",
-          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
         }
       ],
-      "duration_ms": 177573,
-      "name": "Bonkers",
-      "url": "https://open.spotify.com/track/6ddQ5KCkvCggk3j6KdA0zL"
+      "duration_ms": 197124,
+      "name": "Everytime We Touch",
+      "url": "https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -759,6 +759,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Magikal Journey -The Hits Collection 1998 - 2008",
+        "url": "https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "Adagio For Strings - Radio Edit",
+      "url": "https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 234400,
       "name": "Starlight - Radio Edit",
       "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Magikal Journey -The Hits Collection 1998 - 2008",
-        "url": "https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "Adagio For Strings - Radio Edit",
-      "url": "https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -911,6 +911,38 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Rock This Party (Everybody Dance Now)",
+        "url": "https://open.spotify.com/album/57mlkm7WBwmoT0DZ6EDYpH"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Cutee B.",
+          "url": "https://open.spotify.com/artist/5PTDGbHPxxXf81RrubpIOO"
+        },
+        {
+          "name": "DollarMan",
+          "url": "https://open.spotify.com/artist/0TsTesOYlZmHOLnFPLPKLZ"
+        },
+        {
+          "name": "Big Ali",
+          "url": "https://open.spotify.com/artist/4LqXqd68BBoEk9RDYeS0ls"
+        },
+        {
+          "name": "Makedah",
+          "url": "https://open.spotify.com/artist/0f5cjky3a6ee9e0WicpzhW"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Rock This Party (Everybody Dance Now)",
+      "url": "https://open.spotify.com/track/5qiIxojpo8YTFgOOcDuOaB"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "No More Idols",
         "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
       },
@@ -967,38 +999,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Rock This Party (Everybody Dance Now)",
-        "url": "https://open.spotify.com/album/57mlkm7WBwmoT0DZ6EDYpH"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Cutee B.",
-          "url": "https://open.spotify.com/artist/5PTDGbHPxxXf81RrubpIOO"
-        },
-        {
-          "name": "DollarMan",
-          "url": "https://open.spotify.com/artist/0TsTesOYlZmHOLnFPLPKLZ"
-        },
-        {
-          "name": "Big Ali",
-          "url": "https://open.spotify.com/artist/4LqXqd68BBoEk9RDYeS0ls"
-        },
-        {
-          "name": "Makedah",
-          "url": "https://open.spotify.com/artist/0f5cjky3a6ee9e0WicpzhW"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Rock This Party (Everybody Dance Now)",
-      "url": "https://open.spotify.com/track/5qiIxojpo8YTFgOOcDuOaB"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Armin Anthems Top 100 (Ultimate Singles Collected)",
         "url": "https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a"
       },
@@ -1015,6 +1015,42 @@
       "duration_ms": 181680,
       "name": "In And Out Of Love",
       "url": "https://open.spotify.com/track/57nKL06bKwjaM5Y0aMtY9v"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Love Generation (Radio Edit)",
+        "url": "https://open.spotify.com/album/65crznT6OSNgS5riyglAKu"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Gary Pine",
+          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
+        }
+      ],
+      "duration_ms": 204105,
+      "name": "Love Generation - Radio Edit",
+      "url": "https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Jumping All Over The World",
+        "url": "https://open.spotify.com/album/3iMFrl2X1m9XF2sLnq793X"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 228821,
+      "name": "Jumping All Over The World",
+      "url": "https://open.spotify.com/track/6bIkBV2Wpw08A8KDJA7psE"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1043,22 +1079,6 @@
       "duration_ms": 331240,
       "name": "Tarantula - Original Mix",
       "url": "https://open.spotify.com/track/0G7qyvqwjfMdHZn4RwiAdf"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Jumping All Over The World",
-        "url": "https://open.spotify.com/album/3iMFrl2X1m9XF2sLnq793X"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 228821,
-      "name": "Jumping All Over The World",
-      "url": "https://open.spotify.com/track/6bIkBV2Wpw08A8KDJA7psE"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1147,26 +1167,6 @@
       "duration_ms": 216893,
       "name": "Love Don't Let Me Go",
       "url": "https://open.spotify.com/track/5lgS45xqkTk2HVm7Jph9ya"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Love Generation (Radio Edit)",
-        "url": "https://open.spotify.com/album/65crznT6OSNgS5riyglAKu"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Gary Pine",
-          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
-        }
-      ],
-      "duration_ms": 204105,
-      "name": "Love Generation - Radio Edit",
-      "url": "https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF"
     },
     {
       "added_at": "2021-04-29 18:40:15",

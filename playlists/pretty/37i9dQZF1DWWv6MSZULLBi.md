@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Norah Jones, Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,445 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,446 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Birds Of San Francisco](https://open.spotify.com/track/7j3cj3HJThPKIu6yqSJvm0) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Birds Of San Francisco](https://open.spotify.com/album/3qdgHPEHBc8QgfU5nCtEDS) | 3:30 |
 | 100 | [Wasn’t Easy](https://open.spotify.com/track/4WFgUozeQqYpohlO0T09Av) | [Sorry Girls](https://open.spotify.com/artist/5tMARXM4XOsODrCmJ0zI2M) | [Wasn’t Easy](https://open.spotify.com/album/6MCd261C9Nuk0K3Ckjr6Nv) | 2:19 |
 
-Snapshot ID: `MCw3OGVjMjU2MDViNTcwM2UzNjU5YWM2YWU1OWYzOGQzNDZkNzRjZTM0`
+Snapshot ID: `MCxhZjIwYzFjZTI2ZTQxN2EyZWYxOWM4NGJhMGQzOWJmZGFiZTdlNzg4`

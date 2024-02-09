@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: Dannii Minogue
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,509 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,526 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 16 | [ALL NIGHT](https://open.spotify.com/track/7JUNheFeoB0wTzBcq9BvF8) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [QUEEN DEGENERATE](https://open.spotify.com/album/4ZDAY6ZwhHKpy3W7e6Yo4g) | 2:56 |
 | 17 | [The Tower](https://open.spotify.com/track/4IUMSDTVvUellFQ7RxI3kZ) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [The Tower](https://open.spotify.com/album/1tLg7dKobGBkc9O6BhjMQl) | 3:00 |
 | 18 | [Rare](https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Rare](https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1) | 3:41 |
-| 19 | [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 |
+| 19 | [Head Up](https://open.spotify.com/track/3zieOwCrap1s2sIpxWlx92) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/7FQA4DGX7aIfT8b8f8GVhp) | 3:09 |
 | 20 | [Off With Her Tits](https://open.spotify.com/track/0PZUINY8mTRYx7rM5hDRmV) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Off With Her Tits](https://open.spotify.com/album/7kOZaeeScV8NhGDlq06Qqr) | 3:16 |
 | 21 | [Polly Pocket](https://open.spotify.com/track/7uwYghkyYw9nGJPa39ruX7) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [LIVE, RAFF, LOVE \(Act II\)](https://open.spotify.com/album/1DuQMGJEdkhILvziIoJfai) | 2:15 |
 | 22 | [Heartache](https://open.spotify.com/track/3xIkCaoRNqRd4J2YtYYmag) | [Farida](https://open.spotify.com/artist/1TBqlc2KwgI8pEkTdkTwGH) | [Heartache](https://open.spotify.com/album/10lqvANS2Cq1DTYdrZf3dN) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 99 | [Hypnotized](https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [Hypnotized](https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U) | 3:02 |
 | 100 | [lay all your love on me](https://open.spotify.com/track/3wrWJ4cpGWSL2JZieVXhdR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [lay all your love on me](https://open.spotify.com/album/1yP0udrcDvWX6xizCtWgJH) | 2:58 |
 
-Snapshot ID: `MCwzMzFkNjFmZGFjNzI3NjhmNTkxYWIxMjUzNzg1YTY5YWZiODk0ZmVi`
+Snapshot ID: `MCxiNzlmMDU1ZDhhNjkxZGI4OWZkZjQ3ZGU5NWEyY2I3MTM0MjQ1NTUy`

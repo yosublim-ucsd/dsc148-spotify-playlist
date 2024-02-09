@@ -1,12 +1,12 @@
 {
   "description": "Os lan\u00e7amentos dessa semana incluem Dilsinho com Ana Castela, LUDMILLA com Mari Fernandez, Teto e muito mais!",
-  "num_followers": 1906831,
+  "num_followers": 1907448,
   "original_name": "Novidades da Semana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGIzYmQ5Zjk0YzY0M2QxMTg1MWU2MTAyOGU0Yjg3ODQzZGFkZjBj",
+  "snapshot_id": "MCxmMWYyZTY3Yjk5N2Y0NTE5ZjU1MWNhZWI4ZDM4YzhmZjIyMTJiODYy",
   "tracks": [
     {
       "added_at": "2024-02-02 16:45:04",
@@ -151,8 +151,8 @@
     {
       "added_at": "2024-02-02 16:45:04",
       "album": {
-        "name": "I GOT YOU",
-        "url": "https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL"
+        "name": "I GOT YOU (Voyage ver.)",
+        "url": "https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P"
       },
       "artists": [
         {
@@ -161,8 +161,8 @@
         }
       ],
       "duration_ms": 173240,
-      "name": "I GOT YOU",
-      "url": "https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx"
+      "name": "I GOT YOU (Original)",
+      "url": "https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA"
     },
     {
       "added_at": "2024-02-02 16:45:04",
@@ -916,16 +916,16 @@
           "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
         },
         {
-          "name": "Pique Raro",
-          "url": "https://open.spotify.com/artist/1M82o9NddxXzH1dUvlPb1x"
-        },
-        {
           "name": "Pedro Bala",
           "url": "https://open.spotify.com/artist/2PyMbAyHhTofwt07234U0f"
         },
         {
           "name": "Taleko",
           "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        },
+        {
+          "name": "Pique Raro",
+          "url": "https://open.spotify.com/artist/1M82o9NddxXzH1dUvlPb1x"
         }
       ],
       "duration_ms": 176554,

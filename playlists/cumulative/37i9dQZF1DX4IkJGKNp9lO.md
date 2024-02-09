@@ -4,7 +4,7 @@
 
 > 
 
-267 songs - 12 hr 46 min
+269 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Alaska](https://open.spotify.com/track/6Le2xknWbtNI3yRmiBs03U) | [EPA](https://open.spotify.com/artist/6vLwmfijKpOf0xR8Mv79aj) | [Tretton Övningar i Mindfulness](https://open.spotify.com/album/4LQH4X3UEoOPQG5YNI9RrV) | 2:40 | 2023-05-04 |  |
 | [Alderland \(NO\)](https://open.spotify.com/track/1m7AguIMU7bffCcc8j17sK) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv), [Renate](https://open.spotify.com/artist/2Y8wXdNaw1DlGZvbwGgh5n) | [Alderland \(NO\)](https://open.spotify.com/album/6szx99wRMChXhT3p6arm2L) | 3:28 | 2023-11-16 |  |
 | [Alla vill till himmelen men ingen vill dö](https://open.spotify.com/track/0bdo2vF0PUZ9k0WaK9kKuu) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv), [Martin Westerstrand](https://open.spotify.com/artist/5t6WDMTCzu4scrQiLn3rPC) | [Grit](https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod) | 2:57 | 2021-12-14 |  |
+| [Allt brinner](https://open.spotify.com/track/7dORssXsZyQAKwXxzMwljM) | [Vidro](https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8) | [Upp till dans](https://open.spotify.com/album/18L1bqPh5qwlWXx7LMfib4) | 1:11 | 2024-02-08 |  |
 | [Allt jag säger](https://open.spotify.com/track/31r9OFgLc1d0zQG0aoX6Dk) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Hobbydiktatorn](https://open.spotify.com/album/1BCAvvVtURz8zlaZZNR3uP) | 2:30 | 2021-12-14 | 2022-07-23 |
 | [Allting](https://open.spotify.com/track/3RcOF4HdKHLqFrG0h9Fjcj) | [Spader Kung](https://open.spotify.com/artist/2mEFbDp6rw4nL1p3RRGZ6t) | [Allting](https://open.spotify.com/album/4TeP1PFOOZ9piaT5K1n6jk) | 3:26 | 2021-12-14 | 2022-07-04 |
 | [Amelia](https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83) | [Barbaras Grannar](https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u) | [Amelia](https://open.spotify.com/album/4WR5DkdrAaD5okww70B1xY) | 4:11 | 2021-12-14 |  |
@@ -75,6 +76,7 @@
 | [En Ensam Cowboy](https://open.spotify.com/track/3A9OvdJHkB2RnwkpoQTlhy) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [En Ensam Cowboy](https://open.spotify.com/album/6XiuE97XZXgUCLbvwN3F1G) | 3:31 | 2021-12-14 | 2022-07-28 |
 | [En ny tid](https://open.spotify.com/track/5NXuVdeeL7tEbImY6FmZ5K) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [På andra sidan horisonten](https://open.spotify.com/album/3gw5VNsnGzWs5QQankjLQ6) | 3:28 | 2021-12-14 | 2022-07-27 |
 | [En slemmig torsk](https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 1:49 | 2021-12-14 |  |
+| [En sån här chans får man bara en gång i livet](https://open.spotify.com/track/4c3g4uYQFyvfiNX7cWP24m) | [Korslagda Kukar](https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv) | [En sån här chans får man bara en gång i livet](https://open.spotify.com/album/4gu1frxTMWmraodGnLnr7s) | 2:55 | 2024-02-08 |  |
 | [En vacker död stad](https://open.spotify.com/track/3HFzjAO51qwy6m0B5dMmhV) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Det är ni som e dom konstiga, det är jag som e normal](https://open.spotify.com/album/1U7Ov48AUaL2hGaczvCr8H) | 3:13 | 2021-12-14 |  |
 | [Enhetsfront](https://open.spotify.com/track/4XDbvtP0KonCUSJlPvEmSg) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [Enhetsfront](https://open.spotify.com/album/6h24e7yWlYDOwzg9mQMtbt) | 1:24 | 2021-12-14 | 2022-07-08 |
 | [Ett meningsfullt liv](https://open.spotify.com/track/5IhtBlUlrruUbcfS3zREnN) | [Alonzo Fas 3](https://open.spotify.com/artist/6amxZFxzytUc3GVCsDHt0y) | [Alonzo Fas 3](https://open.spotify.com/album/1oeWv1woYpjp861pQXzbhR) | 2:57 | 2021-12-14 | 2022-07-29 |
@@ -116,7 +118,7 @@
 | [Jag Vill Ha En Slav](https://open.spotify.com/track/4xO1DQ3opSAtufO7oNP0C4) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj) | 2:32 | 2023-05-04 |  |
 | [Jag Vill Ha En Slav](https://open.spotify.com/track/6kviUfqwA8C6rbwP3fod1b) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6GvLNIV56ZJgbxU1E5THiH) | 2:32 | 2021-12-14 | 2023-04-30 |
 | [Jag Vill Ha En Slav](https://open.spotify.com/track/0P6UhoZknVBvw7jKzLuwtP) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ), [Ulke](https://open.spotify.com/artist/6KjoityQl9NkVhPZ8isDlw), [Per Granberg](https://open.spotify.com/artist/0TAfL2lQzxByP4TUCEhgVw), [Mongo](https://open.spotify.com/artist/2S2M3JoiDwZRKqD592x3oy), [Curre Sandgren](https://open.spotify.com/artist/48OCQMmwurPMuSxrS8eqBP), [Mart Hällgren](https://open.spotify.com/artist/3j9Yn1hzjWZThZ0Ohjvzjc) | [Krymplings](https://open.spotify.com/album/2l3gu0JPCyey6ztaXsdwvc) | 2:32 | 2021-12-14 | 2022-07-29 |
-| [Jane Doe, Östersund](https://open.spotify.com/track/4tzLVTf3Cw3hi2C6oINeQS) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Jane Doe, Östersund](https://open.spotify.com/album/3Se4PLem67i9Do45OPzWu0) | 3:09 | 2023-10-12 |  |
+| [Jane Doe, Östersund](https://open.spotify.com/track/4tzLVTf3Cw3hi2C6oINeQS) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Jane Doe, Östersund](https://open.spotify.com/album/3Se4PLem67i9Do45OPzWu0) | 3:09 | 2023-10-12 | 2024-02-09 |
 | [Johanna](https://open.spotify.com/track/2ekTSYW68ShERRzsPBbRaF) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 2:34 | 2021-12-14 |  |
 | [Kaos](https://open.spotify.com/track/1JgMOH0eqEeFZLTdOrNUd9) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM) | 2:16 | 2023-10-26 |  |
 | [Kaos](https://open.spotify.com/track/3fuHnBzzEgUgNYlwt5FPuv) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/0oD3URB9nBxNSI6p79HE5m) | 2:16 | 2021-12-14 | 2022-07-25 |
@@ -193,7 +195,7 @@
 | [Pyramiden](https://open.spotify.com/track/2GqTG7uvySACF325U0Xh0r) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Parasit](https://open.spotify.com/album/2zX4NO879mq7qvcBomEpqK) | 2:59 | 2024-01-04 |  |
 | [Pyramiden](https://open.spotify.com/track/7GbwZ7jTR2w4G4GekS9OHa) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Pyramiden](https://open.spotify.com/album/1feSgkNqTaKXXAxgjy6vsK) | 2:59 | 2023-11-16 | 2024-01-21 |
 | [Revolt](https://open.spotify.com/track/1VwFou4F5pU4ABwqytvOHB) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Revolt](https://open.spotify.com/album/23JQxqGj0Xva3gm0Vx48g8) | 2:41 | 2021-12-14 | 2022-07-29 |
-| [Rosita](https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53) | [The Manikins](https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu) | [Rosita](https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg) | 3:10 | 2023-10-26 |  |
+| [Rosita](https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53) | [The Manikins](https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu) | [Rosita](https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg) | 3:10 | 2023-10-26 | 2024-02-09 |
 | [Räknar till hundra](https://open.spotify.com/track/1bLFrKOklGDLtysIG1werv) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Räknar till hundra](https://open.spotify.com/album/38ybfkkUthGM93y9QH90GP) | 2:52 | 2021-12-14 | 2022-07-27 |
 | [Rätt eller fel](https://open.spotify.com/track/4owIvrzKy4uNuvTpqwvlhF) | [Moment 23](https://open.spotify.com/artist/5QK1ZB27Vlm35TK2hVC1HP) | [Allting kommer tillbaka](https://open.spotify.com/album/0XJkh6t7YDtbYAgQn3Jhl1) | 2:48 | 2021-12-14 | 2022-07-27 |
 | [Rättvisans lotteri](https://open.spotify.com/track/40s5smFUB8DuC9pfidqnnt) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Hobbydiktatorn](https://open.spotify.com/album/1BCAvvVtURz8zlaZZNR3uP) | 2:53 | 2021-12-14 | 2022-02-07 |

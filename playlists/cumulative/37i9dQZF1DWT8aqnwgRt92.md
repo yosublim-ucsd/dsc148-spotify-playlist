@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,206 songs - 3 day 3 hr 54 min
+1,207 songs - 3 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Ignition!!! \- feat\. 松野家6兄弟 & ヒピポ族と赤塚区の仲間たち](https://open.spotify.com/track/6C4o9z0wwUCoohbwNgfEiu) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Ignition!!! \(feat\. 松野家6兄弟 & ヒピポ族と赤塚区の仲間たち\)](https://open.spotify.com/album/21HSg6v7NUE1KMijeF9BNd) | 3:37 | 2022-07-07 | 2022-07-29 |
 | [Ijigen BIGBANG](https://open.spotify.com/track/3QRii5A35ZfsGGiPrv9k0j) | [Uzuki Shimamura \(CV: Ayaka Ohashi\)](https://open.spotify.com/artist/3xoyWve1jtl6V6v5vJ0jzj), [Shizuka Mogami \(CV: Azusa Tadokoro\)](https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l), [KOGANE TSUKIOKA \(CV: Karin Isobe\)](https://open.spotify.com/artist/4r40eoNekBoDSFuPtMaZf1), [Chika Takami \(CV: Anju Inami\)](https://open.spotify.com/artist/1j1qyF4vDxo871CSuHzgY5), [Ayumu Uehara \(CV: Aguri Onishi\)](https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF), [Kanon Shibuya \(CV: Sayuri Date\)](https://open.spotify.com/artist/0d6TVcK3Wq84iMZ3T1kHHR), [Kaho Hinoshita \(CV: Nozomi Nirei\)](https://open.spotify.com/artist/5VnkGk25NC41GkZEEZzQXy) | [Ijigen BIGBANG](https://open.spotify.com/album/5viWiiX3YocnLLAz9kICRH) | 5:16 | 2023-11-07 | 2023-11-22 |
 | [Ikenai Etranger \- TV Size](https://open.spotify.com/track/1NUNDPl0ImLjQJ0WGveIWo) | [Yui Hizuki](https://open.spotify.com/artist/2wtrCZG4SWwmzDng6PDSGC) | [Ikenai Etranger \(TV Size\)](https://open.spotify.com/album/52acpP2vuRs1Im9taZcS59) | 1:30 | 2023-10-05 | 2023-10-11 |
-| [Immortal](https://open.spotify.com/track/0OnBxDVmTg16bqklhVnRsJ) | [JUVENILE](https://open.spotify.com/artist/2wppgeQgm2DSP4ZkEIo9rn) | [Immortal](https://open.spotify.com/album/19mWviXzRwoBHrJlcbR2la) | 3:18 | 2024-01-09 |  |
+| [Immortal](https://open.spotify.com/track/0OnBxDVmTg16bqklhVnRsJ) | [JUVENILE](https://open.spotify.com/artist/2Wj83ZkeRUYtTq0kaPOoQW) | [Immortal](https://open.spotify.com/album/19mWviXzRwoBHrJlcbR2la) | 3:18 | 2024-01-09 |  |
 | [In the Back Room](https://open.spotify.com/track/086iznqzaVOAmuYMYyjUpn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [In the Back Room](https://open.spotify.com/album/3lr5rhG5M4hTvwQ5RzGLqw) | 3:26 | 2022-11-08 | 2022-12-07 |
 | [In the Core of My Heart](https://open.spotify.com/track/0DLr3MyMwfW30PTlhnXbqj) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [「アリスとテレスのまぼろし工場」オリジナルサウンドトラック](https://open.spotify.com/album/2uz6oICkcSVEE0QQaboneg) | 5:28 | 2023-09-26 | 2023-10-25 |
 | [infinite Resonance](https://open.spotify.com/track/4CBD4tn1O6D7nGEGMBnSmX) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite Resonance](https://open.spotify.com/album/3SBliHSDqNktNFoTPQyQPO) | 4:02 | 2022-09-06 | 2022-10-19 |
@@ -402,7 +402,7 @@
 | [mirAI wave!](https://open.spotify.com/track/7F91SZDGZADt6ZMElk2LsY) | [PathTLive](https://open.spotify.com/artist/5vKv9YNyQoWhxIhYFsRF8Y) | [mirAI wave!](https://open.spotify.com/album/3ZfXfeq7cDJoC83EpuLtYu) | 4:23 | 2023-04-04 | 2023-05-17 |
 | [Mirai=Teleport](https://open.spotify.com/track/0yNEe6VDJvBxEwzDCkfghN) | [ねんね](https://open.spotify.com/artist/6N4L6jhhiQKd4ZPWKxbXFL) | [Mirai=Teleport](https://open.spotify.com/album/41CiOjakS7smAEqxt8TTIo) | 3:13 | 2023-07-18 | 2023-09-29 |
 | [mirrors](https://open.spotify.com/track/5GQcnKp2nftw5o96wNa34X) | [Soma Saito](https://open.spotify.com/artist/1O2VCqaEfk91iBO0Sgchvb) | [陰/陽](https://open.spotify.com/album/3jjCpP3z1nfa8wpUd3O6j3) | 4:31 | 2022-12-06 | 2023-01-06 |
-| [MISSION](https://open.spotify.com/track/4nhIjg2wDZpbZWb6J2X3FW) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [MISSION](https://open.spotify.com/album/1rUpgKR4NnFImLnAvglIHl) | 3:22 | 2024-01-16 |  |
+| [MISSION](https://open.spotify.com/track/4nhIjg2wDZpbZWb6J2X3FW) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [MISSION](https://open.spotify.com/album/1rUpgKR4NnFImLnAvglIHl) | 3:22 | 2024-01-16 | 2024-02-09 |
 | [Mission\~DIACLONE Cheering Song\~](https://open.spotify.com/track/7pYigeHCODTgL66G4F0A7R) | [Kainene](https://open.spotify.com/artist/32XJWMxX53e5V40tzlJPQz) | [Mission\~DIACLONE Cheering Song\~](https://open.spotify.com/album/40kMktQp8H6w125Q30SRLr) | 4:16 | 2023-06-27 | 2023-07-05 |
 | [Momoiro Kataomoi \- From CrosSing](https://open.spotify.com/track/3w9Y16TCQvLe3HXc1b3whd) | [Tachibana Hina](https://open.spotify.com/artist/3A6gmtAT07cw8v4QP25sCo) | [Momoiro Kataomoi \- From CrosSing](https://open.spotify.com/album/5vAJTeQLsiaYLWCzaoVW1D) | 4:18 | 2023-11-14 | 2023-11-29 |
 | [Monster Disco](https://open.spotify.com/track/4WRAOt2Z3hXq7M8YerWXWq) | [Suga Shikao](https://open.spotify.com/artist/6FLRqfzwvP0AmpGhAuTB2e), [Hyadain](https://open.spotify.com/artist/3P8XlKjP5uFoGdo6elPTxn) | [Monster Disco](https://open.spotify.com/album/0gOMkoBaclSCoOH091zrXW) | 3:15 | 2022-07-28 | 2022-08-24 |
@@ -734,6 +734,7 @@
 | [うれしくて](https://open.spotify.com/track/25C3HZIvRGGtkasbrZe7D1) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [うれしくて／ときめき](https://open.spotify.com/album/6Wm8TQQ90CrHqHrp9vmkwz) | 6:23 | 2023-09-12 | 2023-11-22 |
 | [おどる ひかり](https://open.spotify.com/track/5vKeKeMQEOVVHvWoboCWdK) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [おどる ひかり](https://open.spotify.com/album/70dxLOHCgr6kXq9PU6v1er) | 4:41 | 2023-04-06 | 2023-05-26 |
 | [おれはジャイアンさまだ! \- 2022](https://open.spotify.com/track/4twohb62NBcXxAEAPF4lF6) | [ジャイアン \(CV: 木村 昴\)](https://open.spotify.com/artist/4dqkQ7WY5gXehLHawc7ht6) | [ジャイアントドリーム/おれはジャイアンさまだ!2022](https://open.spotify.com/album/7dnlGbyQpyFRRwcI7hUV3p) | 2:08 | 2022-07-19 | 2022-08-17 |
+| [おーる・ざ・やんぐ・ぎーくす](https://open.spotify.com/track/5eMZFpCA34CjojOSMwtLTQ) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [おーる・ざ・やんぐ・ぎーくす](https://open.spotify.com/album/7DdO9kXkzARuAeVDc15Ibs) | 4:03 | 2024-02-08 |  |
 | [かえりみちの色](https://open.spotify.com/track/3bLVwyhaJuRyxZAGWO0vv0) | [渋谷ハル](https://open.spotify.com/artist/6mXvoLGqYh8T8As0LYuU8s) | [かえりみちの色](https://open.spotify.com/album/15V9z87xbRv1SECaxMDxrs) | 4:09 | 2022-07-07 | 2022-07-29 |
 | [かかった魔法はアマノジャク](https://open.spotify.com/track/2tSjz7fRrvwTfQWaElC1xX) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [AIMI SOUND](https://open.spotify.com/album/7MdsF6SQF5LIkZK82DhaDr) | 3:32 | 2022-07-12 | 2022-08-24 |
 | [かたち](https://open.spotify.com/track/70sWTc5SHGVpbV0K56LMC6) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [TVアニメ「メイドインアビス 烈日の黄金郷」オープニングテーマ「かたち」](https://open.spotify.com/album/3TUSn0hWiEhS7AnFGUOWB7) | 3:32 | 2022-08-23 | 2022-08-25 |

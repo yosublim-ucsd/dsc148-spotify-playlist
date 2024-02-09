@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 308251,
+  "num_followers": 308260,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTIyMGUwMGM4M2EwOGM1MjU0NDM2YTJjMTE5MWEyN2IyNzRlODI3",
+  "snapshot_id": "MCw2NzY4NjZlZTE4MDg5MTUyZmIyOGM2MjI2MmEzNzdmMDFkM2U0ZGQ1",
   "tracks": [
     {
       "added_at": "2023-11-24 17:02:27",
@@ -471,34 +471,6 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "N\u00e3o Tenho Tempo",
-        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        }
-      ],
-      "duration_ms": 125624,
-      "name": "N\u00e3o Tenho Tempo",
-      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
         "name": "Love 66",
         "url": "https://open.spotify.com/album/74xvo4Pvay6Adp8h1NHEPp"
       },
@@ -523,6 +495,34 @@
       "duration_ms": 322560,
       "name": "Love 66",
       "url": "https://open.spotify.com/track/6xqEi8MYklEc6N2sU61lqY"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
+        "name": "N\u00e3o Tenho Tempo",
+        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "duration_ms": 125624,
+      "name": "N\u00e3o Tenho Tempo",
+      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
     },
     {
       "added_at": "2023-11-24 17:02:27",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
+        "name": "Dona de mim",
+        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 197073,
+      "name": "Voc\u00ea n\u00e3o vive sem",
+      "url": "https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
         "name": "Apela\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1dFNG3V6K51mOWtwZAPO4v"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 137333,
       "name": "Apela\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
-        "name": "Dona de mim",
-        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 197073,
-      "name": "Voc\u00ea n\u00e3o vive sem",
-      "url": "https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0"
     },
     {
       "added_at": "2023-11-24 17:02:27",

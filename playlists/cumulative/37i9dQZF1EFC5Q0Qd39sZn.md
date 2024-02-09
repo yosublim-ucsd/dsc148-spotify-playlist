@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-517 songs - 1 day 11 hr 55 min
+518 songs - 1 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Through the Storm \(with Elton John\)](https://open.spotify.com/track/2xTzFWaVvNzmz1JXbhOt64) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Through the Storm](https://open.spotify.com/album/0K8kAGeIofQOUkWiMOYr8P) | 4:21 | 2023-12-30 |  |
 | [Ti Amo](https://open.spotify.com/track/0gAbf0NL9no1Urk1Wj8Uui) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [E' nell' aria…ti amo](https://open.spotify.com/album/4mtA5ClPItnUF8yfg5uygI) | 4:05 | 2023-12-30 |  |
 | [Til It Happens To You](https://open.spotify.com/track/0bCCGLHflR08UVA6oJJc8I) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Til It Happens To You](https://open.spotify.com/album/00qjYaNSNpQCZHhCpAlH60) | 4:18 | 2023-12-30 |  |
+| [Till Somebody Loves You](https://open.spotify.com/track/3j1AJQSbFp6oDYWo79w9cK) | [Henry Lee Summer](https://open.spotify.com/artist/7wtiiuXdnWtATBrAxU9fnQ) | [Way Past Midnight](https://open.spotify.com/album/3THWD4bmH97uCn9TyzBShB) | 3:35 | 2024-02-08 |  |
 | [Time Stand Still \(feat\. Kiara Sasso\) \- Ao Vivo](https://open.spotify.com/track/1QvRz7oDgrWHiretTburFX) | [Daniel Boaventura](https://open.spotify.com/artist/6zhFFESLaKmtRCQ1VVi3kw), [Kiara Sasso](https://open.spotify.com/artist/4BsQ1RsulvNRosBibZeTY5) | [Your Song \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4Mi7oqkGF1vsixn6zry7eI) | 3:57 | 2023-12-30 |  |
 | [Time Will](https://open.spotify.com/track/76h0PJfdpdPNPErt70hWlk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 5:47 | 2023-12-30 |  |
 | [Time, Love and Tenderness \- Single Version](https://open.spotify.com/track/6Tsf4gyepJ1BvIKUKjqvuv) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Greatest Hits 1985\-1995](https://open.spotify.com/album/0hrk0BZceIsZVVCmiXMaTa) | 4:17 | 2023-12-30 |  |

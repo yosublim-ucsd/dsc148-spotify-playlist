@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 
 > Some heists, like some love stories, are irresistible\. Listen to the music from La Casa de Papel and Berlin, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,821 likes - 98 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,980 likes - 98 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 43 | [Trained to Kill](https://open.spotify.com/track/228nvElbY7zWEJoyYii9hg) | [Andrew Britton](https://open.spotify.com/artist/1W8rzmv9lhOEkwtRMAzZtw), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [David Goldsmith](https://open.spotify.com/artist/53I9STCG46PNT88ubfdSLj) | [Universal Trailer Series \- Spy\-Crime Thriller](https://open.spotify.com/album/7w8Iutd4Cq6CUTYYA39mg0) | 3:04 |
 | 44 | [Black Hole Ceremony](https://open.spotify.com/track/7AmR7EPk7PtCl0RIMkfYfD) | [Emmanuel David Lipszyc](https://open.spotify.com/artist/0xH5PprEyVDsTXU1tCN5ga), [Sébastien Lipszyc](https://open.spotify.com/artist/4TKLeyMsrfRvCFclPyplao) | [Electronic Blockbusters](https://open.spotify.com/album/1oaM3AzQjkJxexuKEW8yGo) | 3:21 |
 | 45 | [Magnetic Hurricane](https://open.spotify.com/track/2H1VKoFzet2cWylWNvrJaw) | [Emmanuel David Lipszyc](https://open.spotify.com/artist/0xH5PprEyVDsTXU1tCN5ga), [Klas Johan Wahl](https://open.spotify.com/artist/74PUwAcMdO3wVdx10gmdB5), [Sébastien Lipszyc](https://open.spotify.com/artist/4TKLeyMsrfRvCFclPyplao) | [Electronic Blockbusters](https://open.spotify.com/album/1oaM3AzQjkJxexuKEW8yGo) | 2:45 |
-| 46 | [Loud and Clear](https://open.spotify.com/track/3f3q3ywCx7cU0W9FaxIsgY) | [Bob Bradley](https://open.spotify.com/artist/3aSi27q0US6Cr2gysxeRkL), [Matt Sanchez](https://open.spotify.com/artist/2yqtLsOODLccKUK4vlecT2), [Steve Dymond](https://open.spotify.com/artist/375326xwKvi6S7jTGZLz2S) | [The Lie Detective \(Music from the Original TV Series\)](https://open.spotify.com/album/4Mk6Uiamchf9TeCIfjVrfe) | 2:02 |
+| 46 | [Loud and Clear](https://open.spotify.com/track/3f3q3ywCx7cU0W9FaxIsgY) | [Bob Bradley](https://open.spotify.com/artist/3aSi27q0US6Cr2gysxeRkL), [Matt Sanchez](https://open.spotify.com/artist/5swTYubzYQQP4Al6uJjc94), [Steve Dymond](https://open.spotify.com/artist/375326xwKvi6S7jTGZLz2S) | [The Lie Detective \(Music from the Original TV Series\)](https://open.spotify.com/album/4Mk6Uiamchf9TeCIfjVrfe) | 2:02 |
 | 47 | [Boom](https://open.spotify.com/track/06iBEeAvZXnByI9GWMb823) | [Ofi La Melodia](https://open.spotify.com/artist/2tH1VzCRDKsXhm6MhuAhY5) | [Boom](https://open.spotify.com/album/7mIAY7o0BiPwlT2S3gCQo3) | 3:31 |
 | 48 | [Symphony No\. 9 in D Minor, Op.125 'Choral': Ode to Joy](https://open.spotify.com/track/5G2RyS5wHOHh8JjLg13AnJ) | [Westminster Choir](https://open.spotify.com/artist/7bOkvwxa2SjdbvMvNawSMZ), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1), [Riccardo Muti](https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1), [James Morris](https://open.spotify.com/artist/3LfFjEpR0faktlCgr2LPc2) | [Essential Beethoven](https://open.spotify.com/album/3mfKaQqoDzM2LhQ7Df6uYh) | 6:14 |
 | 49 | [The Entertainer \(Scott Joplin\)](https://open.spotify.com/track/7scONDwVvlfi9mvbz6FDS5) | [Ragtime Music Unlimited](https://open.spotify.com/artist/0jv9zdJnU4bz9zRfq5Usuu) | [50 Ragtime Piano Classics \(Best Of Scott Joplin, Joseph Lamb & James Scott\)](https://open.spotify.com/album/0h4EqyysSt7O1YgXMH7a3P) | 3:40 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 97 | [La banda estuvo ahí](https://open.spotify.com/track/6f7bF4BZ64OtwDeDJuykIP) | [Manel Santisteban](https://open.spotify.com/artist/1oMHqBHYtghHDjRzSmy4BR), [Iván M\. Lacámara](https://open.spotify.com/artist/0aewCDYNWq4vdp8RPWg47h) | [La Casa de Papel \(Soundtrack de la serie de Netflix\)](https://open.spotify.com/album/5mYheUBalLjf9h29OEWlk5) | 3:37 |
 | 98 | [Es el fin \(End Credits\)](https://open.spotify.com/track/0Xmmv8HdMb51xAhSPR8GGx) | [Manel Santisteban](https://open.spotify.com/artist/1oMHqBHYtghHDjRzSmy4BR), [Iván M\. Lacámara](https://open.spotify.com/artist/0aewCDYNWq4vdp8RPWg47h) | [La Casa de Papel \(Soundtrack de la serie de Netflix\)](https://open.spotify.com/album/5mYheUBalLjf9h29OEWlk5) | 5:00 |
 
-Snapshot ID: `MCw4ZDk1NGQ5OGFlMThjNGMyYzg0NGMwOTIyODE5YTgyOGMyYmRmODE1`
+Snapshot ID: `MCxjOTc0MDc0YjdjMWU4MzZhOWU2NGYzOWI4OThkNzNhMjk3YWU0MzU4`

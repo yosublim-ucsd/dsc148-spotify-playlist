@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-424 songs - 20 hr 38 min
+425 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Fate](https://open.spotify.com/track/1QCV9ndrHVnqtMcqXszEN6) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Fate](https://open.spotify.com/album/4ReLbue8ShBMjIGbJjGGAw) | 2:58 | 2023-09-14 | 2023-09-22 |
 | [Feelin' Good](https://open.spotify.com/track/2KWGNI029ESvNYdcBbmzSr) | [Zotto](https://open.spotify.com/artist/6rsvaN73Iw2t9otnsdhT4Y), [Ohene Parker](https://open.spotify.com/artist/2BrgnYd9IX1KW0qqyfV6uM) | [Feelin' Good](https://open.spotify.com/album/0uiqxHP5viuvSuwrlouCsK) | 2:56 | 2023-02-23 | 2023-03-18 |
 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 | 2021-07-05 | 2022-10-14 |
-| [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-03-03 |  |
+| [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-03-03 | 2024-02-09 |
 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 | 2022-03-03 | 2022-07-29 |
 | [Finesse](https://open.spotify.com/track/6H4z94Rq4Gz7SzL7VmpGRR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Top Hits UK](https://open.spotify.com/album/49d0Ii0oCrS9BshhcpLRhr) | 2:35 | 2022-03-03 | 2022-11-14 |
 | [Finesse \- feat\. French Montana](https://open.spotify.com/track/1K1nl1dGNDX5LuLcDbT9ED) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Finesse \(feat\. French Montana\)](https://open.spotify.com/album/39ali1KqU7VkiJW2pAXv3b) | 2:06 | 2022-12-02 | 2023-01-20 |
@@ -248,6 +248,7 @@
 | [MAKAVELI](https://open.spotify.com/track/1PfJV9r696a5sNZDr6w4Fu) | [T\-Classic](https://open.spotify.com/artist/2nR9FjLTz90sFqGrhYdzXE) | [MAKAVELI](https://open.spotify.com/album/6m1Or4HcLLjFLFhLLBNT96) | 2:18 | 2021-09-03 | 2023-04-28 |
 | [Make a Way](https://open.spotify.com/track/6KCczXRB9QHnBgCW99N2uI) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Sounds from the Slums](https://open.spotify.com/album/1xLyVixg49I9c99vL3CNgu) | 2:52 | 2022-10-30 | 2023-01-20 |
 | [Malaika](https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Malaika](https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV) | 3:23 | 2023-11-03 |  |
+| [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1) | 2:27 | 2024-02-09 |  |
 | [Man of The Year](https://open.spotify.com/track/4UdDJ77xjH9ru5r5F9kfOG) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1EUh0evo2sfC0Y8T0cnPAd) | 2:24 | 2023-06-27 | 2023-11-23 |
 | [Man of The Year](https://open.spotify.com/track/6OhEAnxF6FzPoUU3KxH44F) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn) | 2:24 | 2023-11-17 |  |
 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 | 2022-06-30 | 2022-10-14 |

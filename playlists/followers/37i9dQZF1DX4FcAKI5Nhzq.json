@@ -1,7 +1,7 @@
 {
-  "2024-02-08": 796521,
+  "2024-02-09": 796686,
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: BABYMONSTER",
+  "description": "Future K-Pop hits! Cover: DK",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -8590,6 +8590,24 @@
     },
     {
       "album": {
+        "name": "Killin' It",
+        "url": "https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176133,
+      "name": "Killin' It",
+      "url": "https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06"
+    },
+    {
+      "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW"
       },
@@ -9815,6 +9833,24 @@
       "duration_ms": 192765,
       "name": "Lovesick Girls",
       "url": "https://open.spotify.com/track/4Vhvlhomv8fTp2e6I4XTpe"
+    },
+    {
+      "album": {
+        "name": "LTNS",
+        "url": "https://open.spotify.com/album/4zOvnmkhhITTtuXTZuMjGm"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/5kS21D4GeBHLdpvPSaK9RF"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "LTNS",
+      "url": "https://open.spotify.com/track/6yb0WXBl0zuabg0sd4HKga"
     },
     {
       "album": {
@@ -11595,6 +11631,24 @@
       "duration_ms": 209026,
       "name": "ONE AND A HALF",
       "url": "https://open.spotify.com/track/0yfhVon5XPlCRYNihFIUwu"
+    },
+    {
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/2rfrtvdyqwMHPLrwUnqMQA"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295520,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/5TvzBJWwU6L1MaWYcpVdx3"
     },
     {
       "album": {
@@ -14261,7 +14315,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 209546,
       "name": "Smoke (Prod. Dynamicduo, Padi)",
       "url": "https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C"
@@ -14379,7 +14433,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 212773,
       "name": "Snowball",
       "url": "https://open.spotify.com/track/1leUcadFG0xkJXoA6KDLlJ"
@@ -14601,7 +14655,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 173053,
       "name": "So\u00f1ar (Breaker)",
       "url": "https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq"
@@ -16985,7 +17039,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 158800,
       "name": "Wait",
       "url": "https://open.spotify.com/track/1KkC3Nzxv3OZorm5m1843p"
@@ -18459,6 +18513,28 @@
       "duration_ms": 197373,
       "name": "\ubbf8\uccd0\ubc84\ub9ac\uaca0\ub2e4 (MAD)",
       "url": "https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8"
+    },
+    {
+      "album": {
+        "name": "\uc9112 (\ubaa8\ub450\uc758 \uc6b0\uc8fc\ub97c Respect)",
+        "url": "https://open.spotify.com/album/3BrwayMpLO8t5HADvz2h31"
+      },
+      "artists": [
+        {
+          "name": "Kim Chang-Wan",
+          "url": "https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH"
+        },
+        {
+          "name": "Changbin (Stray Kids)",
+          "url": "https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200053,
+      "name": "\uc9112 (\ubaa8\ub450\uc758 \uc6b0\uc8fc\ub97c Respect)",
+      "url": "https://open.spotify.com/track/2VsieHO9dhPrP8VwubHozt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq"

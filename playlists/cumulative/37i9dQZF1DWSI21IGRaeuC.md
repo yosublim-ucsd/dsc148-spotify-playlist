@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-271 songs - 22 hr 12 min
+272 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Inertia](https://open.spotify.com/track/6kcysA1uaHhFBv9vu1Lt3f) | [GRRL](https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg), [Made of Oak](https://open.spotify.com/artist/6dWVt38ueCw46cGnWDbTl8) | [Inertia](https://open.spotify.com/album/4iM8Xi48cQyUyizWfoGb1I) | 3:32 | 2022-07-08 | 2022-07-29 |
 | [Into The Hood](https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG) | [Into The Hood](https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp) | 6:02 | 2023-06-30 | 2023-11-12 |
 | [Its Time to Move](https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Its Time to Move](https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya) | 2:42 | 2023-09-22 |  |
+| [Jump In](https://open.spotify.com/track/7KPM73DEawK8fsogmx87HX) | [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [Jump In](https://open.spotify.com/album/07BxOVzzyMBEkff8GEczSG) | 2:46 | 2024-02-02 |  |
 | [Jump Ship](https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp) | 6:21 | 2022-06-03 | 2023-10-15 |
 | [Jump Ship](https://open.spotify.com/track/5V6srZGdQEeOMbwlcEOLqy) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/4BvWZEC1BIYEq0GM7Bw3qC) | 6:21 | 2023-10-27 |  |
 | [Kick It](https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7) | [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Kick It EP](https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ) | 7:02 | 2022-07-08 | 2022-10-22 |
@@ -144,7 +145,7 @@
 | [Moody Fuse](https://open.spotify.com/track/6MDaMEgEVbKk5POEdY3TN5) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd) | [Moody Fuse](https://open.spotify.com/album/7KCjICJnDLfwOvGOLZZRlh) | 6:51 | 2022-07-15 | 2022-10-30 |
 | [Moon](https://open.spotify.com/track/181XnwgJTJpeKkpS2zQOAF) | [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Moon](https://open.spotify.com/album/1Qy0K3GpyxtAyG2u4s53VH) | 2:58 | 2023-10-13 |  |
 | [Moonlight](https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Moonlight](https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng) | 5:37 | 2023-12-08 |  |
-| [Music4TheMasses \- Andrea Oliva Remix](https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Music4TheMasses \(Andrea Oliva Remix\)](https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9) | 3:07 | 2022-07-01 |  |
+| [Music4TheMasses \- Andrea Oliva Remix](https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Music4TheMasses \(Andrea Oliva Remix\)](https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9) | 3:07 | 2022-07-01 | 2024-02-09 |
 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 | 2022-06-03 |  |
 | [Nana](https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Nana](https://open.spotify.com/album/75QMJvIqtyhVSYD3EdnBmt) | 2:47 | 2022-09-09 | 2023-09-02 |
 | [Narangi](https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b) | [Amotik](https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO) | [XVII](https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ) | 6:34 | 2023-05-26 | 2023-09-01 |

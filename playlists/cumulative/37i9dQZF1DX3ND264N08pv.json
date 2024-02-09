@@ -225,6 +225,28 @@
     },
     {
       "album": {
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2"
+      },
+      "artists": [
+        {
+          "name": "D-Frek",
+          "url": "https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd"
+        },
+        {
+          "name": "Da Mouth of Madness",
+          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4AuEotNw42YumygG85tYyV"
+    },
+    {
+      "album": {
         "name": "Battle For The Mind EP",
         "url": "https://open.spotify.com/album/4cnqX9Xi3GeQVsf1gVHmvk"
       },
@@ -1020,7 +1042,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 186098,
       "name": "DON'T BE SCARED",
       "url": "https://open.spotify.com/track/7acXF1WBYmFqqbgExXLQ98"
@@ -1537,6 +1559,32 @@
     },
     {
       "album": {
+        "name": "Game Of Hate",
+        "url": "https://open.spotify.com/album/2sm4kctw7K0HbT1cRpiHYu"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "BOMBSQUAD",
+          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
+        },
+        {
+          "name": "Barber",
+          "url": "https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180571,
+      "name": "Game Of Hate",
+      "url": "https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD"
+    },
+    {
+      "album": {
         "name": "Generavers",
         "url": "https://open.spotify.com/album/0MoBA9jfilDabb6JZ9DqaF"
       },
@@ -1886,7 +1934,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 196903,
       "name": "HARI HARI (2024 RMX)",
       "url": "https://open.spotify.com/track/7huXZkJSKKIdk9kEQ5jvYU"
@@ -2054,7 +2102,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 206285,
       "name": "HYPER",
       "url": "https://open.spotify.com/track/4GbecipoI4oyDE148vjkde"
@@ -3798,7 +3846,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 170742,
       "name": "Slugs 4 Snitches",
       "url": "https://open.spotify.com/track/6MHMcWZdrG6ZqqNdfLh2RM"

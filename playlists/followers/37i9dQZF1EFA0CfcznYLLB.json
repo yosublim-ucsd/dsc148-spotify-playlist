@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 12972,
+  "2024-02-09": 12970,
   "date_first_scraped": "2023-12-14",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC\">Murda Beatz</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Murda Beatz",
@@ -1115,6 +1115,24 @@
       "duration_ms": 183149,
       "name": "California Breeze",
       "url": "https://open.spotify.com/track/2Y3NB7AkXBMU69rzIjxMWY"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3F6LzIUy8kBTnmM6sWAMdr"
+      },
+      "artists": [
+        {
+          "name": "Young Egypt",
+          "url": "https://open.spotify.com/artist/1SkSmIdJFSJuKNChsKLEYD"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275285,
+      "name": "Can't Believe",
+      "url": "https://open.spotify.com/track/3fFJxd7Y5idzuuJzL6ykm1"
     },
     {
       "album": {

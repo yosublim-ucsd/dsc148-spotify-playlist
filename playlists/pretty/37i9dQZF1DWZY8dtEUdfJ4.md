@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 
 > Tous les plus grands succès de la chanson française des années 60\. Photo : Claude François
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,205 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,236 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 | 39 | [La plus belle pour aller danser](https://open.spotify.com/track/7gmYsqbN1hrrSOsxNlvq4W) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Sylvie Vartan](https://open.spotify.com/album/06FWWMSdXEmoQaBrTihM0B) | 2:36 |
 | 40 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/2CLeotsLhEUu0qkj56vbUj) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Il est cinq heures](https://open.spotify.com/album/6uZABwQhmEllK5otzX9ONK) | 2:55 |
 | 41 | [Ivan, Boris et moi](https://open.spotify.com/track/1SkYwxD8JDtrQUBbdS2eGO) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [Marie](https://open.spotify.com/album/38QCHcOkMQqJPrYUpv1jIv) | 2:16 |
-| 42 | [For Me Formidable](https://open.spotify.com/track/7xx7mUGAPcMd6gGqHzoec9) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Qui ?](https://open.spotify.com/album/70PEHw90vbLwoHMFBEbI3x) | 2:19 |
+| 42 | [For Me..\. Formidable](https://open.spotify.com/track/7xx7mUGAPcMd6gGqHzoec9) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Qui ?](https://open.spotify.com/album/70PEHw90vbLwoHMFBEbI3x) | 2:19 |
 | 43 | [Le bal des laze](https://open.spotify.com/track/4F7sAuWOLpyL1EzuwFDeL8) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Le Bal Des Laze](https://open.spotify.com/album/2D4WkWi5BAGSDrKXO8drBS) | 4:56 |
 | 44 | [Les copains d'abord](https://open.spotify.com/track/5MRyPM2k1lvwt3noWp0GXJ) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Les Copains D'Abord](https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn) | 4:01 |
 | 45 | [Céline](https://open.spotify.com/track/6IgZ9zDxJ6H0IUQ6HKBa8A) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 | 49 | [D'aventures en aventures](https://open.spotify.com/track/5Dy32R8nCKyoPcLlfkwbNW) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [A La Vie, A L'Amour](https://open.spotify.com/album/1ShHXfJDZw4qbbr0t69rvs) | 3:30 |
 | 50 | [Chez Laurette](https://open.spotify.com/track/5wFRjYT36LES0ks92OeXyD) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Chez Laurette](https://open.spotify.com/album/0Jk7WSIVTnppDevKYjEpOv) | 3:29 |
 
-Snapshot ID: `MCw2OWFmNzM4NTQ4Y2U0YjY1MDQ2YmE4MTU3YjgyZDZkODkwNjYwNTlm`
+Snapshot ID: `MCxkMjNhNzkxMjc0ZWQwM2FiZTE2NWQ0ZGRhNDU1OGNmY2NkYTQ2YTBl`

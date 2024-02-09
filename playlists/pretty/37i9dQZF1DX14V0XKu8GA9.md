@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: That Mexican OT
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,172 likes - 43 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,200 likes - 43 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 14 | [Letra](https://open.spotify.com/track/4ZCu8JZqdtQANWLHXuCIwY) | [Chito Rana$](https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz) | [Letra](https://open.spotify.com/album/56zw7V9Ld7C4px4hSonOAl) | 2:50 |
 | 15 | [Suburbia](https://open.spotify.com/track/03gPKmCsX7NzLHdOmA0H1B) | [Tweak on the Beat](https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Suburbia](https://open.spotify.com/album/4yo9aKLTCfN9HeNWnd4jpo) | 1:43 |
 | 16 | [Better Than](https://open.spotify.com/track/2nAUw0C51DCo4Tp4IgWT8v) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Better Than](https://open.spotify.com/album/29BKk6Khm5WPSId5DnhaSf) | 3:23 |
-| 17 | [CERTIFIED STEPPER](https://open.spotify.com/track/69fRdCsd4PfbKAD3CqFnwp) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [CERTIFIED STEPPER](https://open.spotify.com/album/1s3oom7PaW8sE7ff2w8JCi) | 2:00 |
+| 17 | [CERTIFIED STEPPER \(prod\. BENJIROW\)](https://open.spotify.com/track/69fRdCsd4PfbKAD3CqFnwp) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [CERTIFIED STEPPER \(prod\. BENJIROW\)](https://open.spotify.com/album/1s3oom7PaW8sE7ff2w8JCi) | 2:00 |
 | 18 | [Baby Blue](https://open.spotify.com/track/6BzgbCe14JI0T330AEeTP5) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [Baby Blue](https://open.spotify.com/album/5wZxAZ5p4CuTjSZ3PHVUYd) | 2:20 |
 | 19 | [PLAYMAKER PT.2](https://open.spotify.com/track/1tP8v0BZQCnag97DnzLWII) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [PLAYMAKER PT.2](https://open.spotify.com/album/15wZIGdnEszokWI7R8knwN) | 2:45 |
 | 20 | [Go Ghost, Pt\. 2](https://open.spotify.com/track/4JBa0MlcNUy3p7bQovI8o7) | [Karlaaa](https://open.spotify.com/artist/0lCjXVMo21Jb79tBcVoSr1) | [Go Ghost, Pt\. 2](https://open.spotify.com/album/6KDUVFXJ3c1NzxWfvFeYl6) | 3:15 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 42 | [bigger thën everything](https://open.spotify.com/track/11B7WTuoInwUvuP1BnnGWW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [bigger thën everything](https://open.spotify.com/album/5bVIz2j5nOioetMjM0T4F9) | 3:38 |
 | 43 | [This Is What I Need](https://open.spotify.com/track/174sKBWy1cMVxUapeaD1SC) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [Muriel](https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov) | [This Is What I Need](https://open.spotify.com/album/5xlnkITJKmXqDETUJB9qQw) | 2:14 |
 
-Snapshot ID: `MCwzODM1NzM0Y2U3ZDEwZDI4ODI1NjVmOTE5MzFmNWJhZWZmY2VlNzUz`
+Snapshot ID: `MCwzNmRhMTliOTZiMGViZDdkMmQ2NmFhM2NiZmI1MWFkMjQ1ZTk4M2Jh`

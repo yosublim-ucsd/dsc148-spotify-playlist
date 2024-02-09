@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,211 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,215 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 54 | [iris](https://open.spotify.com/track/63mR8YjEoMajP2hlQMgCUu) | [Ami Kusakari](https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [iris / pray for peace](https://open.spotify.com/album/4SxRwAlnfZVpPF7DEVrvtZ) | 3:27 |
 | 55 | [For the Dead Maiden II](https://open.spotify.com/track/6esiy5jyJod4NlGgjCMOtu) | [samayuzame](https://open.spotify.com/artist/35rpDiXIsvLFJx0KaGvxK2) | [For the Dead Maiden II](https://open.spotify.com/album/0FLAyFEzek7sR8fn5IQNop) | 3:20 |
 | 56 | [Namida no kuni](https://open.spotify.com/track/4CEiimOyFU2W6oo0m1R7ge) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [Namida no kuni](https://open.spotify.com/album/2Wv8DIQeQQy8ri7NosTaRN) | 3:54 |
-| 57 | [Sanzameku](https://open.spotify.com/track/09rGKRSeUIxhbD6AIJoJDK) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Sanzameku](https://open.spotify.com/album/6aQcVCTEE1ps7pME44kVpO) | 3:05 |
+| 57 | [Sanzameku](https://open.spotify.com/track/0XWKTGEZy1UxKERL4ZuPEz) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv) | 3:05 |
 | 58 | [Yotei](https://open.spotify.com/track/0sUt0usKLBjhcNjtetMU3g) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Yotei](https://open.spotify.com/album/2FFYUv7eZ1pGgmwbVAGMFQ) | 4:24 |
 | 59 | [らぶじゅてーむ](https://open.spotify.com/track/2NSp2dpqGXBJYTuYccld5G) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [らぶじゅてーむ](https://open.spotify.com/album/2TsUpJ4YDzsX9hBLllwMCa) | 3:15 |
 | 60 | [Yumemiru AM](https://open.spotify.com/track/31RqGblCvSOnfIp5AGX6yw) | [UNIDOTS](https://open.spotify.com/artist/2uByNuOCgzpdf1JOf1M3LZ) | [Ito to Toi](https://open.spotify.com/album/7sEtVaRCudampf5CiIKlLa) | 3:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Sunset](https://open.spotify.com/track/2nwGKQXEtkTwXAD6MlVzbf) | [相谷レイナ](https://open.spotify.com/artist/5Hm5GfaTrjt3IlzOcZVX2A), [Show Chick Boy](https://open.spotify.com/artist/0JEcGdbz3QOur7R1meQYuS) | [Time Machine](https://open.spotify.com/album/15OXrNhV3wKPrsPKoEgi89) | 3:34 |
 | 80 | [chamomile](https://open.spotify.com/track/30RQQRih5uPGeiLN9PXZ5Y) | [yourmythos](https://open.spotify.com/artist/7sKi5L9PF9v0VfRcvPUMEn) | [chamomile](https://open.spotify.com/album/1BN4HWW81lC8zkJkL6RPaO) | 4:15 |
 
-Snapshot ID: `MCxmMWYzYTEzMDYwMjg3YzQ2MTQzYzQ5MmE1NjRmNDNkNDMxYWQyOGY2`
+Snapshot ID: `MCw2NjM1ZmQxODU2ZmQyYTViZmQ2M2M3ZjQ5NDVkZDdiNGMyZWNlN2Vh`

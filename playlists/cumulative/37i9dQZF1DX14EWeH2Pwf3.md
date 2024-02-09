@@ -2,7 +2,7 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> La playlist urban più grande d'Italia 🔥 Cover: Vale Lambo
+> La playlist urban più grande d'Italia 🔥 Cover: Geolier
 
 445 songs - 22 hr 1 min
 

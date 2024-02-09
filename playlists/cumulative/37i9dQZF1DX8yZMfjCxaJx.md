@@ -4,7 +4,7 @@
 
 > Las favoritas de los patrones\. Markitos Toys, Pantera de Culiacán en portada.
 
-78 songs - 4 hr 11 min
+79 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [El Vocho](https://open.spotify.com/track/31Q8g39em3t71EvBvwN3GE) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [El Vocho](https://open.spotify.com/album/6STegWJxkTwumApW32e8hl) | 3:10 | 2024-01-26 |  |
 | [En la Meza una Flor](https://open.spotify.com/track/6HNWy3KVc067j2aLqt3wp3) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [En la Meza una Flor](https://open.spotify.com/album/0zXKdGgyDm6gSdZiUPgagr) | 3:44 | 2024-01-26 |  |
 | [Estilo Especial \- En Vivo](https://open.spotify.com/track/5jSK8BMzUXMlcFCukMi7Wm) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Estilo Especial \(En Vivo\)](https://open.spotify.com/album/29FmR3eNWdNhR0Yw368j6W) | 4:07 | 2024-01-26 |  |
-| [Estilo Guzmán](https://open.spotify.com/track/1JGy92ftziV5hdHP0rwOwh) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Estilo Guzmán](https://open.spotify.com/album/4WfTUStZ0n7EgeqZrcIekI) | 2:51 | 2024-01-26 |  |
+| [Estilo Guzmán](https://open.spotify.com/track/1JGy92ftziV5hdHP0rwOwh) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Estilo Guzmán](https://open.spotify.com/album/4WfTUStZ0n7EgeqZrcIekI) | 2:51 | 2024-01-26 | 2024-02-09 |
 | [Fresas De La Capital](https://open.spotify.com/track/3HIL8kXH7d56lMcl9wEOpb) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew) | [Fresas De La Capital](https://open.spotify.com/album/6Zpv9HFhV78xWi58Gi3E8B) | 2:53 | 2024-01-26 |  |
 | [Fuga Del Jefe](https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Contrato A La Vida](https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD) | 2:43 | 2024-01-26 |  |
 | [Guerreros Aztecas](https://open.spotify.com/track/2BKTRdo32SFyNrDjcHgVFW) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Guerreros Aztecas](https://open.spotify.com/album/2C8J91k1UfZpeONBHE6UTi) | 3:53 | 2024-01-26 |  |
@@ -63,6 +63,7 @@
 | [Kikil Caro](https://open.spotify.com/track/1hhKgDJ6LNHdUyyowg8EZX) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra Y Yo](https://open.spotify.com/album/5RzfxZNDUrlruKHo1kYGq1) | 3:35 | 2024-01-26 | 2024-02-07 |
 | [LA 701](https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [LA 701](https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3) | 2:44 | 2024-01-26 |  |
 | [La Belikada](https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Belikada](https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn) | 2:33 | 2024-01-26 |  |
+| [La Capi](https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [La Capi](https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2) | 3:09 | 2024-01-26 |  |
 | [La Firma del Flaquito](https://open.spotify.com/track/5GfpRloodPPJPbivrI5qZa) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [La Firma del Flaquito](https://open.spotify.com/album/6nYtatxhdFZ78HqdWVr3n3) | 3:51 | 2024-01-26 |  |
 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 | 2024-01-26 |  |
 | [Los Brothers](https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [Los Brothers](https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH) | 3:33 | 2024-01-26 |  |

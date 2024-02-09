@@ -4,7 +4,7 @@
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Herencia de Patrones en portada.
 
-419 songs - 22 hr 44 min
+420 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [AGDREZ](https://open.spotify.com/track/3tvrBMdrl9M5kFjvTCs4m3) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [AGDREZ](https://open.spotify.com/album/3NttwP3MLtQPtEPofkqDn9) | 2:25 | 2023-11-17 |  |
 | [Ahogándome en Alcohol](https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ahogándome en Alcohol](https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS) | 4:17 | 2022-09-30 | 2023-08-05 |
 | [Aka Entre el Humo](https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Aka Entre el Humo](https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K) | 3:19 | 2022-09-23 | 2023-08-05 |
-| [Al Estilo Charleston](https://open.spotify.com/track/5QKn5nIu6pRrQWH6G68jKW) | [DanyAraujo](https://open.spotify.com/artist/6nwG1sN2MjVkjGBKTFONyq) | [Al Estilo Charleston](https://open.spotify.com/album/05m5xLX6qpwdMqIXj2LgGJ) | 2:56 | 2024-01-26 |  |
+| [Al Estilo Charleston](https://open.spotify.com/track/0EfNoTxavdXzuNkekwkqzy) | [DanyAraujo](https://open.spotify.com/artist/6nwG1sN2MjVkjGBKTFONyq) | [Al Estilo Charleston](https://open.spotify.com/album/155oxBEEvXh36zNbnivHJ9) | 2:56 | 2024-01-26 |  |
+| [Al Estilo Charleston](https://open.spotify.com/track/5QKn5nIu6pRrQWH6G68jKW) | [DanyAraujo](https://open.spotify.com/artist/6nwG1sN2MjVkjGBKTFONyq) | [Al Estilo Charleston](https://open.spotify.com/album/05m5xLX6qpwdMqIXj2LgGJ) | 2:56 | 2024-01-26 | 2024-02-09 |
 | [Al Estilo GTA](https://open.spotify.com/track/2CS9Kn5YLi5rfrR7MFXIfz) | [Grupo Rocket](https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Al Estilo GTA](https://open.spotify.com/album/1ctMPPjX7lB5HcsxjTBIdK) | 2:26 | 2022-12-05 | 2023-01-28 |
 | [Al Estilo GTA](https://open.spotify.com/track/0IAqjS7Crv5VOKBBKAllYt) | [Grupo Rocket](https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Al Estilo GTA](https://open.spotify.com/album/4GaZxMACCSJNnKHCp1rQFU) | 2:27 | 2022-12-05 | 2023-01-23 |
 | [ALFOMBRA ROJA](https://open.spotify.com/track/3wS0JIapaGqM2zqsRi3p86) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:45 | 2024-01-26 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-1,860 songs - 4 day 4 hr 33 min
+1,861 songs - 4 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1854,6 +1854,7 @@
 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 | 2021-08-05 |  |
 | [You'll miss me when I'm not around](https://open.spotify.com/track/0Sqh9dVJMFJRwz4K0jeoOR) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 2:41 | 2023-01-01 |  |
 | [You've Got Everything Now \- 2011 Remaster](https://open.spotify.com/track/2DYCM1sNmGliRszlzPkMiG) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:59 | 2021-09-08 |  |
+| [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2024-02-08 |  |
 | [Your favorite sidekick](https://open.spotify.com/track/0VNjaRcmIowjLbPtYDhLuh) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 2:30 | 2021-11-14 |  |
 | [Your New Boyfriend](https://open.spotify.com/track/4vLBnQtece15fFhqWxZvJP) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Your New Boyfriend](https://open.spotify.com/album/7krAqKWEJpVnJfH4eOqA6F) | 3:59 | 2021-08-05 |  |
 | [Yung and Writhing](https://open.spotify.com/track/2uNGH4c3KdOZARA4giRX4a) | [Rew](https://open.spotify.com/artist/0pKGL4bTFl7l7fac3x7PoT) | [Rew](https://open.spotify.com/album/3lktooIhlunBExr1a6PHlc) | 3:12 | 2022-07-10 |  |

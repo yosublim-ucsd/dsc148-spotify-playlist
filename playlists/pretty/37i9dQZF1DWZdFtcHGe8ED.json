@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 536188,
+  "num_followers": 536355,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODE0YmU0Y2M0Yzg4MWVlZGNmZjZhMGQ3NWVmZTg2YjhhMDE1YjM5",
+  "snapshot_id": "MCwxY2RlZTY5NTZlOGViZmRjY2MyOGJlMWNiMGIyMGM5YzY3YmM4MWUz",
   "tracks": [
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "If The Sky Came Down",
-        "url": "https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF"
-      },
-      "artists": [
-        {
-          "name": "Lost Society",
-          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "112",
-      "url": "https://open.spotify.com/track/2BXNFsE0wupk3RqkdPLg4K"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Year of the Goat",
         "url": "https://open.spotify.com/album/3vcSAW1Y7YNi9isFfRCWyb"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 206653,
       "name": "Year of the Goat",
       "url": "https://open.spotify.com/track/7D0wXdVm5aMwOgArdzBMcQ"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "If The Sky Came Down",
+        "url": "https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF"
+      },
+      "artists": [
+        {
+          "name": "Lost Society",
+          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "112",
+      "url": "https://open.spotify.com/track/2BXNFsE0wupk3RqkdPLg4K"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Extreme Aggression",
-        "url": "https://open.spotify.com/album/5aqF2FuhCmFa3AGg8mLFON"
-      },
-      "artists": [
-        {
-          "name": "Kreator",
-          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
-        }
-      ],
-      "duration_ms": 283466,
-      "name": "Extreme Aggression",
-      "url": "https://open.spotify.com/track/1kGGgsepNQzIw3ObRl4NC2"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Ten Black Years - Best Of",
         "url": "https://open.spotify.com/album/2wqXsiFeAsqhEuzHfE1VvR"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 364626,
       "name": "Agent Orange",
       "url": "https://open.spotify.com/track/4TeBqPv7xL3To59h65prgK"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Extreme Aggression",
+        "url": "https://open.spotify.com/album/5aqF2FuhCmFa3AGg8mLFON"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "duration_ms": 283466,
+      "name": "Extreme Aggression",
+      "url": "https://open.spotify.com/track/1kGGgsepNQzIw3ObRl4NC2"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Mental Vortex",
-        "url": "https://open.spotify.com/album/56gqMPiLXiyHNUCPnVeoX9"
-      },
-      "artists": [
-        {
-          "name": "Coroner",
-          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
-        }
-      ],
-      "duration_ms": 330986,
-      "name": "Semtex Revolution",
-      "url": "https://open.spotify.com/track/6ZpcI3ZJtbbONbJ6LQm1XO"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Eternal Nightmare",
         "url": "https://open.spotify.com/album/2qB9lQZEfYOHEXGD2HhExH"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 370400,
       "name": "Eternal Nightmare",
       "url": "https://open.spotify.com/track/0kJVVyz73lZau2zbr4kmIX"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Mental Vortex",
+        "url": "https://open.spotify.com/album/56gqMPiLXiyHNUCPnVeoX9"
+      },
+      "artists": [
+        {
+          "name": "Coroner",
+          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
+        }
+      ],
+      "duration_ms": 330986,
+      "name": "Semtex Revolution",
+      "url": "https://open.spotify.com/track/6ZpcI3ZJtbbONbJ6LQm1XO"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Purified by Fire",
-        "url": "https://open.spotify.com/album/3X36qaXZS5brpKUg1LPfBw"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Angels",
-          "url": "https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2"
-        }
-      ],
-      "duration_ms": 285013,
-      "name": "Purified by Fire",
-      "url": "https://open.spotify.com/track/6zhXx6Shn5BgKjPjcvSXDU"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "No Absolution",
         "url": "https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 234578,
       "name": "Blood On Our Hands",
       "url": "https://open.spotify.com/track/7y2XV9uAnhqMAUAYhHklRP"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Purified by Fire",
+        "url": "https://open.spotify.com/album/3X36qaXZS5brpKUg1LPfBw"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Angels",
+          "url": "https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2"
+        }
+      ],
+      "duration_ms": 285013,
+      "name": "Purified by Fire",
+      "url": "https://open.spotify.com/track/6zhXx6Shn5BgKjPjcvSXDU"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "No Place For Disgrace",
-        "url": "https://open.spotify.com/album/5Cx6bwvBkfgZfNZbQSnx1e"
-      },
-      "artists": [
-        {
-          "name": "Flotsam & Jetsam",
-          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
-        }
-      ],
-      "duration_ms": 373013,
-      "name": "No Place for Disgrace",
-      "url": "https://open.spotify.com/track/4JoAPkFkBRnRNLeoUSG89X"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Do-Over",
         "url": "https://open.spotify.com/album/1zndMZYyzhEbEVe4I9fB4D"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 189280,
       "name": "Black Metal Sucks",
       "url": "https://open.spotify.com/track/62f5Wr85zS0rEhnh7Ege1Z"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "No Place For Disgrace",
+        "url": "https://open.spotify.com/album/5Cx6bwvBkfgZfNZbQSnx1e"
+      },
+      "artists": [
+        {
+          "name": "Flotsam & Jetsam",
+          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+        }
+      ],
+      "duration_ms": 373013,
+      "name": "No Place for Disgrace",
+      "url": "https://open.spotify.com/track/4JoAPkFkBRnRNLeoUSG89X"
     },
     {
       "added_at": "2024-01-12 15:30:29",

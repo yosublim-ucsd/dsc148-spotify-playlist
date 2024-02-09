@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Damares",
-  "num_followers": 543660,
+  "num_followers": 543801,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGUzOTU0ZDNlOGUzN2M1YzFhMjMyYmY5OWVmZjFhYTRiZWVmN2Iw",
+  "snapshot_id": "MCxlZWQ1MDk0ZTgyOTg5NGFlNTkwZThjOTNlMzVkNTRjY2FmYTIwMzc3",
   "tracks": [
     {
       "added_at": "2023-10-13 16:02:51",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Deus Cuida de Mim",
-        "url": "https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae"
-      },
-      "artists": [
-        {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
-        }
-      ],
-      "duration_ms": 245063,
-      "name": "Deus Cuida de Mim",
-      "url": "https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Primeiro Passo",
         "url": "https://open.spotify.com/album/3lJ1BI6U6HNDjeG57HIPau"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 287506,
       "name": "No Sil\u00eancio",
       "url": "https://open.spotify.com/track/3BolY0shO32lLUW1qX8oPO"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Deus Cuida de Mim",
+        "url": "https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae"
+      },
+      "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "duration_ms": 245063,
+      "name": "Deus Cuida de Mim",
+      "url": "https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Sinais de Deus",
-        "url": "https://open.spotify.com/album/2MgcX0tcdZVRVmko1x4goX"
-      },
-      "artists": [
-        {
-          "name": "Raquel Mello",
-          "url": "https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd"
-        }
-      ],
-      "duration_ms": 288960,
-      "name": "Quero Descer",
-      "url": "https://open.spotify.com/track/1kKh1EbODBQfL9gEjmnSlT"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Consagra\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 381318,
       "name": "Consagra\u00e7\u00e3o / Louvor ao Rei",
       "url": "https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Sinais de Deus",
+        "url": "https://open.spotify.com/album/2MgcX0tcdZVRVmko1x4goX"
+      },
+      "artists": [
+        {
+          "name": "Raquel Mello",
+          "url": "https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd"
+        }
+      ],
+      "duration_ms": 288960,
+      "name": "Quero Descer",
+      "url": "https://open.spotify.com/track/1kKh1EbODBQfL9gEjmnSlT"
     },
     {
       "added_at": "2023-10-13 16:02:51",

@@ -1,12 +1,12 @@
 {
   "description": "Viento en la cara, pies en el agua y canciones tranqui para disfrutar del paseo.",
-  "num_followers": 20728,
+  "num_followers": 20768,
   "original_name": "Caminata playera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzkzZTEwNjgzNDAzZjkwNmM4ZGI4NWZkM2RjYTY4NzE1MTdjMDRj",
+  "snapshot_id": "MCw2M2I5Y2Y2YTEzNTIwNDM1NzI5OWY1ZjlmNGRkMzU1ODZlZDUxNzU1",
   "tracks": [
     {
       "added_at": "2024-01-25 20:42:15",
@@ -63,6 +63,26 @@
     {
       "added_at": "2024-01-25 20:42:15",
       "album": {
+        "name": "Caja de M\u00fasica",
+        "url": "https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 260079,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk"
+    },
+    {
+      "added_at": "2024-01-25 20:42:15",
+      "album": {
         "name": "TOCO Y ME VOY",
         "url": "https://open.spotify.com/album/0bvRbFXgJO6qOGTCSP53qj"
       },
@@ -83,26 +103,6 @@
       "duration_ms": 226082,
       "name": "TOCO Y ME VOY",
       "url": "https://open.spotify.com/track/7jiZV8G6LpEGdiPY2zs6BV"
-    },
-    {
-      "added_at": "2024-01-25 20:42:15",
-      "album": {
-        "name": "Caja de M\u00fasica",
-        "url": "https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 260079,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk"
     },
     {
       "added_at": "2024-01-25 20:42:15",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-01-25 20:42:15",
       "album": {
+        "name": "ESTO NO TIENE NADA QUE VER CON eduardo",
+        "url": "https://open.spotify.com/album/1DcIhob7podzXMZMcvBcOj"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "HOY SOMOS NUEVOS SERES (MASTER 2)",
+      "url": "https://open.spotify.com/track/4xvItApfGEtsIs8zY8BrEX"
+    },
+    {
+      "added_at": "2024-01-25 20:42:15",
+      "album": {
         "name": "Pa La Playita",
         "url": "https://open.spotify.com/album/1bDDpIDQCKSB9J46d5fpcP"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 196663,
       "name": "Pa La Playita",
       "url": "https://open.spotify.com/track/4kAL6Cp1rKIQjZ6iGUpanE"
-    },
-    {
-      "added_at": "2024-01-25 20:42:15",
-      "album": {
-        "name": "ESTO NO TIENE NADA QUE VER CON eduardo",
-        "url": "https://open.spotify.com/album/1DcIhob7podzXMZMcvBcOj"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "HOY SOMOS NUEVOS SERES (MASTER 2)",
-      "url": "https://open.spotify.com/track/4xvItApfGEtsIs8zY8BrEX"
     },
     {
       "added_at": "2024-01-25 20:42:15",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-01-25 20:42:15",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 150859,
-      "name": "Am\u00e1ndote",
-      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
-    },
-    {
-      "added_at": "2024-01-25 20:42:15",
-      "album": {
         "name": "Musikita del Cielo",
         "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 180500,
       "name": "Musikita del Cielo",
       "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
+    },
+    {
+      "added_at": "2024-01-25 20:42:15",
+      "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 150859,
+      "name": "Am\u00e1ndote",
+      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
     },
     {
       "added_at": "2024-01-25 20:42:15",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-01-25 20:42:15",
       "album": {
-        "name": "yen3",
-        "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "yen3",
-      "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
-    },
-    {
-      "added_at": "2024-01-25 20:42:15",
-      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 196044,
       "name": "Nunca Quise",
       "url": "https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx"
+    },
+    {
+      "added_at": "2024-01-25 20:42:15",
+      "album": {
+        "name": "yen3",
+        "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "yen3",
+      "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
     },
     {
       "added_at": "2024-01-25 20:42:15",

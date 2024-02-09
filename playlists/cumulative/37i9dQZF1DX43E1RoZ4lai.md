@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Aaron Diehl
 
-416 songs - 1 day 12 hr 57 min
+417 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Christina](https://open.spotify.com/track/4xwtUMVMVMAqrZG7E8Dzto) | [George Colligan](https://open.spotify.com/artist/6uBYC2SHo3OZBzXShYrEol) | [Again With Attitude](https://open.spotify.com/album/0dULk5XH1xkUltnA4N2wa4) | 7:26 | 2022-02-10 | 2022-07-23 |
 | [Combat Breathing](https://open.spotify.com/track/2oaXpRxldp4SZDBy6lw5s2) | [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Linda May Han Oh](https://open.spotify.com/artist/3ItwOheFhoNjZRCpnY5O9I), [Tyshawn Sorey](https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu) | [Uneasy](https://open.spotify.com/album/1MasELWlBKjqok0ysgHduk) | 7:50 | 2022-02-10 |  |
 | [Conception](https://open.spotify.com/track/6KEvzpIWASLeth3AkG5uNg) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM) | [TRIO](https://open.spotify.com/album/08wqEgpg6llw85TKA3OLAj) | 5:25 | 2022-02-10 |  |
-| [Conversation](https://open.spotify.com/track/3uM9ShtWKLOEpvGBkLVYqf) | [Yaniv Taubenhouse](https://open.spotify.com/artist/5EmzSgnKdfQh0wEZ5aiGLo) | [Hope](https://open.spotify.com/album/5nLRUq3Pk3XmuImkg7ekla) | 6:00 | 2022-02-23 |  |
+| [Conversation](https://open.spotify.com/track/3uM9ShtWKLOEpvGBkLVYqf) | [Yaniv Taubenhouse](https://open.spotify.com/artist/5EmzSgnKdfQh0wEZ5aiGLo) | [Hope](https://open.spotify.com/album/5nLRUq3Pk3XmuImkg7ekla) | 6:00 | 2022-02-23 | 2024-02-09 |
 | [Counting Sheep](https://open.spotify.com/track/4Z1gZdDIGrnV7OvHdSyzJM) | [Addison Frei](https://open.spotify.com/artist/4NfMAQV9vkPudAdPGTDKSq), [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P) | [Time and Again](https://open.spotify.com/album/7AbI9I8qhECFl9dxFnphs6) | 4:08 | 2022-02-10 |  |
 | [Craw Daddy](https://open.spotify.com/track/6rAf0y4DpOdI1FuPCMSbXh) | [Ray Gallon](https://open.spotify.com/artist/1FBv8rfOaEEwZO9ExqHAsX) | [Craw Daddy](https://open.spotify.com/album/1h9yKwrsu18Ze2EYIjYLdp) | 6:07 | 2022-02-10 | 2022-12-03 |
 | [Crazeology](https://open.spotify.com/track/4SzaiMHyOzA9CeFYNvd8Bl) | [Alan Broadbent Trio](https://open.spotify.com/artist/2hYe90veE7CgFfElwnp48p) | [New York Notes](https://open.spotify.com/album/4usyxUVMIPVNqP4Lv7OlCA) | 5:11 | 2022-02-10 | 2022-09-03 |
@@ -103,6 +103,7 @@
 | [Ewige Wiederkunft](https://open.spotify.com/track/6oD04GSbvkKJhKftU6THxx) | [Kilian Kemmer Trio](https://open.spotify.com/artist/6zmCAuOs8ughM18ryScvdm) | [Und Zarathustra Tanzte](https://open.spotify.com/album/0ZlritXzGMoiRAlFE9hU7i) | 3:57 | 2022-02-10 | 2022-12-01 |
 | [Ewige Wiederkunft](https://open.spotify.com/track/5AkCJt1ZoENVwMdRQkntuh) | [Kilian Kemmer Trio](https://open.spotify.com/artist/6zmCAuOs8ughM18ryScvdm), [Masaki Kai](https://open.spotify.com/artist/77xAmIHjNBZcZFXEFDmT30), [Matthias Gmelin](https://open.spotify.com/artist/68VI3j5rxdRsJVQ3CREQui) | [Ewige Wiederkunft](https://open.spotify.com/album/2NdSdGjCVJExrCvdlk8egj) | 3:57 | 2022-02-10 | 2022-07-29 |
 | [Except For](https://open.spotify.com/track/1lusviXepVGyOaVRWZ6zir) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Except For](https://open.spotify.com/album/6ye7Y2pTMNpCELmDwxRuPA) | 7:01 | 2022-02-10 | 2022-07-12 |
+| [Except For](https://open.spotify.com/track/79sF2WcTynaq58PYWt63WC) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/0ILAAcet8xZuw1h5LBgseA) | 7:01 | 2022-02-10 |  |
 | [Falling Mercy](https://open.spotify.com/track/0ufgPuVmBhgAtEjXhy6Foe) | [Noé Sécula](https://open.spotify.com/artist/42oNZcA15gTKwBDdGtH6qZ), [Felipe Silva Mena](https://open.spotify.com/artist/2i0hPQxQGiEvHLoyvctR4w), [Adrien Bernet](https://open.spotify.com/artist/1JAA7WXzR8qUv2qgObX0yS) | [Eternity in Human Flesh](https://open.spotify.com/album/45vcrmhmHGuAkTQoescY1z) | 5:12 | 2022-02-10 | 2022-07-29 |
 | [Family](https://open.spotify.com/track/0hqegMKRZkf3JFPot6lgtC) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Monday](https://open.spotify.com/album/6MLTVkvJZuAGeKp5ckAFGt) | 3:20 | 2022-05-20 |  |
 | [Family](https://open.spotify.com/track/6M2hoBo4ht5YeNMt2tgSgo) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Family](https://open.spotify.com/album/5ByTI6yusgbPzvAhHi0Qaq) | 3:20 | 2022-05-20 | 2022-11-07 |

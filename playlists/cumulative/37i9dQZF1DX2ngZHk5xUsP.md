@@ -4,7 +4,7 @@
 
 > Temukan musisi kesayanganmu dari berbagai penjuru Jawa Barat\. Cover: Rossa
 
-91 songs - 5 hr 44 min
+94 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,9 @@
 | [Berona](https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2) | 2:15 | 2023-07-13 |  |
 | [Bertaruh Pada Api](https://open.spotify.com/track/0TblrOwGd4j8YK0cdTRo5v) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Bertaruh Pada Api](https://open.spotify.com/album/2VOfBP9LA5KsNMFyM35iR1) | 4:30 | 2023-03-16 |  |
 | [best](https://open.spotify.com/track/3uEBGhWCNso3D2rC1znd4H) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [best](https://open.spotify.com/album/3gcGZY4TK0erIrHrtCaTl9) | 3:35 | 2023-06-08 |  |
+| [Broken Symphony](https://open.spotify.com/track/5o3rAUNDKlgGtBoEqNLzKq) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Divine](https://open.spotify.com/album/5CWrPEZ7Rta2YA4Lh6tLhI) | 4:22 | 2024-02-08 |  |
 | [Bubuy Bulan](https://open.spotify.com/track/2Xs2Bu0gQ0mLFDwa26Sx7j) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Bubuy Bulan](https://open.spotify.com/album/5ISliUkLTFhFa3lPA2mAJY) | 4:35 | 2023-07-06 | 2023-07-14 |
+| [Bulan Dikekang Malam \- From ''Ayat Ayat Cinta 2''](https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Bulan Dikekang Malam \(From ''Ayat Ayat Cinta 2''\)](https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69) | 3:54 | 2024-02-08 |  |
 | [Cerita Cinta](https://open.spotify.com/track/5PccS3eocPF3x4dfayUU7A) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Be My Valentine](https://open.spotify.com/album/544XgrdVXO7eH0Jf1S3oNP) | 4:22 | 2023-03-16 |  |
 | [Cinta Lelaki](https://open.spotify.com/track/0WlcH70o6KRwLOmX0RPNh1) | [Angie Zelena](https://open.spotify.com/artist/7HHWWA6zywWp8FBUTDRQXz) | [Cinta Lelaki](https://open.spotify.com/album/0uNkjdPP9BixPIG7fZLeZt) | 3:19 | 2023-08-03 |  |
 | [Dan Bandung \(feat\. Danilla\)](https://open.spotify.com/track/3qmIfhZnHenyTcWzWu8IJP) | [The Panasdalam Bank](https://open.spotify.com/artist/0sfi4c54RwQVfvfq6yz8fc), [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Dan Bandung \(feat\. Danilla\)](https://open.spotify.com/album/0wTyAlIVylu3Q88tWEUdeM) | 2:36 | 2023-03-16 |  |
@@ -71,6 +73,7 @@
 | [Repetitif](https://open.spotify.com/track/77fJ3Feec0pJOFgdkn1VZI) | [A Curious Voynich](https://open.spotify.com/artist/3KGbrizFEqtuCV3EzBYxlp) | [Fase Kedua](https://open.spotify.com/album/2b7ZUDBepcJhFZt2fAciTp) | 2:18 | 2023-03-16 |  |
 | [Representasi](https://open.spotify.com/track/46QJytZHZONUQcqQVT3cMl) | [Topi Jerami](https://open.spotify.com/artist/6ZRpCV3WWjGXBhOgIvZqIA) | [Get In...](https://open.spotify.com/album/5odymU3r3v9fqnmrew7Leg) | 0:58 | 2023-03-16 |  |
 | [Romantic Purple](https://open.spotify.com/track/1jcAWxx7IYrKXvECW4MwXt) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS) | [Let Me Begin](https://open.spotify.com/album/0tqaPIvkArC3EZ8sYmkLAy) | 6:14 | 2023-03-16 |  |
+| [SANTAIKAN SAJA](https://open.spotify.com/track/43pbB3WIe5C6aY65XTgfB1) | [Elcaff](https://open.spotify.com/artist/4FgJjHIh89lNEQdraaVbgx), [Ebith Beat A](https://open.spotify.com/artist/2PWNcj7gOPhtuNaltDU53D), [Manshur Angklung](https://open.spotify.com/artist/0JUo0aLjp9xWAO4Z9zZJNl), [DJ SuLFuric](https://open.spotify.com/artist/4O8IrS26zJUkZ7MgDDwtt5) | [SANTAIKAN SAJA](https://open.spotify.com/album/0zZx1FZxft5ZnJuxnOTcZ6) | 4:03 | 2024-02-08 |  |
 | [Secercah Asa](https://open.spotify.com/track/1GMJSFfscBMvvOJjimfPhH) | [Rasukma](https://open.spotify.com/artist/4Ry4dtcZAYudS7HZTtyCOE) | [Ramu Waktu](https://open.spotify.com/album/7H0neemclan1YAoMNSLxum) | 3:09 | 2023-05-02 |  |
 | [Segar](https://open.spotify.com/track/23SH0rxlb47odl9HHmufOr) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Jeruk Segar](https://open.spotify.com/album/2eyvObKjsKZx7Fe3VIPbxe) | 3:00 | 2023-06-08 |  |
 | [Semua Tentang Kita](https://open.spotify.com/track/6ULZ6Hw2eYaiq1tlR5thcW) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Taman Langit](https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC) | 4:28 | 2023-08-09 |  |

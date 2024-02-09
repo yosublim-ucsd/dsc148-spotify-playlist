@@ -2372,7 +2372,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 154453,
       "name": "Lets Stay out Tonight",
       "url": "https://open.spotify.com/track/6EN2izjvx1QpyM7JTz7mij"
@@ -3532,6 +3532,24 @@
       "duration_ms": 200482,
       "name": "Troubled Son",
       "url": "https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm"
+    },
+    {
+      "album": {
+        "name": "Universal Credit",
+        "url": "https://open.spotify.com/album/5GBhIOSB3AQRXWfjkNJcXa"
+      },
+      "artists": [
+        {
+          "name": "Shambolics",
+          "url": "https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198088,
+      "name": "Universal Credit",
+      "url": "https://open.spotify.com/track/272KzgZU381dedN18b7qzT"
     },
     {
       "album": {

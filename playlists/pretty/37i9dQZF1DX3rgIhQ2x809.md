@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,345 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,364 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 65 | [TRAPPHONE](https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [TRAPPHONE](https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk) | 1:47 |
 | 66 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 |
 | 67 | [Ronca](https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Ronca](https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw) | 2:25 |
-| 68 | [Toma](https://open.spotify.com/track/48iWXYdWMFNenABULLtopW) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Toma](https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF) | 2:42 |
-| 69 | [Orgullo](https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Orgullo](https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3) | 3:43 |
+| 68 | [Orgullo](https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Orgullo](https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3) | 3:43 |
+| 69 | [Toma](https://open.spotify.com/track/48iWXYdWMFNenABULLtopW) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Toma](https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF) | 2:42 |
 | 70 | [Palestina](https://open.spotify.com/track/4MFjw5MqTZTiX3iOAk4mAA) | [Oken](https://open.spotify.com/artist/6paE2t0If1wcufBS2OE0b3), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Castiel](https://open.spotify.com/artist/6qi0AljxDOa1MnO8rv4dK2) | [UNBROKEN](https://open.spotify.com/album/1rncm29FDkVNHn4je7YEln) | 3:54 |
-| 71 | [Inseparables](https://open.spotify.com/track/4AoJmA5TNnqjwTZIb8vX8l) | [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be), [Carlitos Rossy](https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED), [Veterano Music](https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT) | [Inseparables](https://open.spotify.com/album/0OUlso6XqDSGVETWB19zdh) | 2:57 |
-| 72 | [Tan Rico](https://open.spotify.com/track/71OoXq0nOq1044lycb1Kz9) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Clandestino & Yailemm](https://open.spotify.com/artist/62nI6AYd7LkBD9JAufr7yi) | [Tan Rico](https://open.spotify.com/album/2fGm8wI8Datqlq8sK6leF0) | 4:06 |
+| 71 | [Tan Rico](https://open.spotify.com/track/71OoXq0nOq1044lycb1Kz9) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Clandestino & Yailemm](https://open.spotify.com/artist/62nI6AYd7LkBD9JAufr7yi) | [Tan Rico](https://open.spotify.com/album/2fGm8wI8Datqlq8sK6leF0) | 4:06 |
+| 72 | [Inseparables](https://open.spotify.com/track/4AoJmA5TNnqjwTZIb8vX8l) | [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be), [Carlitos Rossy](https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED), [Veterano Music](https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT) | [Inseparables](https://open.spotify.com/album/0OUlso6XqDSGVETWB19zdh) | 2:57 |
 | 73 | [19 Crema](https://open.spotify.com/track/3Toeb72Jvw4o5duxvPwYJP) | [Freestyle Mania](https://open.spotify.com/artist/0bK53vxFcHrFiBJuZqZ4xp), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Cepeda](https://open.spotify.com/artist/2E9hwPtyTPDffPQ3l3rCj3), [Chen](https://open.spotify.com/artist/7yrMw8g7TuUeLmDdAfQO1y), [Lil Cotto](https://open.spotify.com/artist/08WpFnxalBUyWvMNWKErwc) | [19 Crema](https://open.spotify.com/album/69lwdO2wfRE7UICTvC2nC6) | 4:06 |
 | 74 | [Invicta](https://open.spotify.com/track/28yQZfH9hoSvZLOKnEODlU) | [Josephlee](https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Freestyle Mania](https://open.spotify.com/artist/0bK53vxFcHrFiBJuZqZ4xp), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [Invicta](https://open.spotify.com/album/164fsq8P3kfsSluv7q21rZ) | 4:46 |
 | 75 | [IDGAF](https://open.spotify.com/track/076GBcif3AM1IHfBJs545o) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [IDGAF](https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA) | 2:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 99 | [Nena Buena](https://open.spotify.com/track/1LipU0DjCXaCK8yBfmglm6) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Nena Buena](https://open.spotify.com/album/6H0y2FOaj4tPcZTQ1VRTUU) | 3:28 |
 | 100 | [For You](https://open.spotify.com/track/0Bvaux1uoiR3ID2C9rMzxB) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [For You](https://open.spotify.com/album/7mwjFFFHrC2r2oCpnoMHR4) | 2:30 |
 
-Snapshot ID: `MCxlNTI3OGUxODFiNjUxMzExZTU1OWQ1YmQ3NTE3YjgxZmU5YTBiOGE3`
+Snapshot ID: `MCwyYzhlMmIyNzEzMDAxNDU3NDhlZTQxNGMwZDY4NTVjNTEwMTVjZGMy`

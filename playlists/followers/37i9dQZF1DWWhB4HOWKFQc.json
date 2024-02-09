@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 1229770,
+  "2024-02-09": 1230761,
   "date_first_scraped": "2023-03-26",
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Henry Moodie",
   "name": "Lagi Viral",
@@ -919,6 +919,24 @@
       "duration_ms": 242124,
       "name": "Bukan Begitu Caramu",
       "url": "https://open.spotify.com/track/3NdCAbNYphC9p2gSKPV877"
+    },
+    {
+      "album": {
+        "name": "Bulan Dikekang Malam (From ''Ayat Ayat Cinta 2'')",
+        "url": "https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234010,
+      "name": "Bulan Dikekang Malam - From ''Ayat Ayat Cinta 2''",
+      "url": "https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn"
     },
     {
       "album": {
@@ -1920,6 +1938,24 @@
     },
     {
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256799,
+      "name": "Favorite Girl",
+      "url": "https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI"
+    },
+    {
+      "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
@@ -2751,7 +2787,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 229718,
       "name": "Kasar",
       "url": "https://open.spotify.com/track/7pPzSbQlg1b8VQFnUFyHQ7"
@@ -6819,7 +6855,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"

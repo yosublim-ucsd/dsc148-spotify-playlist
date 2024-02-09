@@ -2081,6 +2081,28 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/59T65v0ZNe7z8dDd5kR2Kq"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6CebMvPnu1c7CPCAaSXFuY"
+    },
+    {
+      "album": {
         "name": "Energy (feat. Bay-C)",
         "url": "https://open.spotify.com/album/0PS5JxokId6B3FsRjycHfs"
       },
@@ -3944,7 +3966,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 176250,
       "name": "Let Me Be Your Fantasy",
       "url": "https://open.spotify.com/track/4fGOsBz3c3d3CXAmc1kLob"
@@ -5734,7 +5756,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 167460,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/5skiAxLWcY6CgiBBD3Ciyz"
@@ -5782,7 +5804,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 248571,
       "name": "Push It",
       "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
@@ -7128,7 +7150,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 164090,
       "name": "Spitfire",
       "url": "https://open.spotify.com/track/7j9J5wZI8xVd9H8iy8fHES"
@@ -8458,6 +8480,32 @@
       "duration_ms": 181896,
       "name": "We Are Here Now",
       "url": "https://open.spotify.com/track/4UVuGgYk3qlAfR8DGH30C4"
+    },
+    {
+      "album": {
+        "name": "We Can't Stop",
+        "url": "https://open.spotify.com/album/27LVMe5wMsHddairHoCux2"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122200,
+      "name": "We Can't Stop",
+      "url": "https://open.spotify.com/track/7b5FO1uKhuJE0ZUJPKLWtI"
     },
     {
       "album": {

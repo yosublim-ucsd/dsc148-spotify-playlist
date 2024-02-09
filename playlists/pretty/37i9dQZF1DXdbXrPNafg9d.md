@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Hovvdy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,270,335 likes - 175 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,270,383 likes - 175 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [don't let me take my time](https://open.spotify.com/track/0d0BCIa1gWViE3jZLNaMmq) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [don't let me take my time](https://open.spotify.com/album/6p013AhVt4sEjwz98LA6in) | 2:40 |
 | 175 | [I Saw You](https://open.spotify.com/track/1q0xqMfpiJlMgnvM0o95tz) | [Sonya](https://open.spotify.com/artist/1sxq3PHS2sb0jQhAQRv3TA) | [I Saw You](https://open.spotify.com/album/48rgxq8beswwmYtJIM2Zh8) | 2:21 |
 
-Snapshot ID: `MCwyNTBhOWMzZTU4YTllYjM0YzZjZDJjN2VjYjNmMGM4ZmEwMjU2MWUw`
+Snapshot ID: `MCwzMGE5N2IxNWE2MzBiODFiMWVkNzMzZGU0MGEyYzUxMjFiMmE0MjQ0`

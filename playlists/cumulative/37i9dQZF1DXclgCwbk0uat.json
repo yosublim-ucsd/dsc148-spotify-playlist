@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Feid.",
+  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Kidd Voodoo & Pablo Chill E",
   "name": "\u00c9xitos Chile",
   "tracks": [
     {
@@ -2176,6 +2176,28 @@
       "duration_ms": 159753,
       "name": "GATA ONLY",
       "url": "https://open.spotify.com/track/168MV3IHHPbkhhkvI9htP3"
+    },
+    {
+      "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
       "album": {
@@ -6776,7 +6798,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 165500,
       "name": "Venga Pa' Ac\u00e1",
       "url": "https://open.spotify.com/track/6aiFYVWZZVVckJEfvdmiu8"

@@ -4,7 +4,7 @@
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-799 songs - 1 day 23 hr 51 min
+804 songs - 2 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 | 2022-09-29 |  |
 | [Close Your Eyes](https://open.spotify.com/track/3VSMYAVSnUHMgNonipRcsQ) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Close Your Eyes](https://open.spotify.com/album/2AKnOIZeclPvfNySSo7ANk) | 3:46 | 2022-04-11 | 2023-02-10 |
 | [Closing Doors](https://open.spotify.com/track/5Bjhtzgcewszhdw5COwnIm) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Closing Doors](https://open.spotify.com/album/1MKxoZMGkMo2lmubT8KwQM) | 3:00 | 2022-06-14 |  |
+| [Clouds Got In Our Way](https://open.spotify.com/track/56oTEnXtzyX81TQbv95xnZ) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Clouds Got In Our Way](https://open.spotify.com/album/6ypEs7KXI72ol1kWWFX6nq) | 3:19 | 2024-02-09 |  |
 | [Cloudy Days](https://open.spotify.com/track/1pODhqs4Aha6fD3Suxfv0d) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Cloudy Days](https://open.spotify.com/album/542dNOx7fG1JsFFiEZaW2j) | 4:36 | 2023-10-06 |  |
 | [Clowns And Crowns](https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Clowns And Crowns](https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p) | 4:01 | 2023-03-16 |  |
 | [Coffee Break](https://open.spotify.com/track/3d5AaKfto6cBmNjBVzBgFC) | [Vince Glen](https://open.spotify.com/artist/6Pm6y2MWQf8dMQJKJqSTic) | [Coffee Break](https://open.spotify.com/album/0d3mmV0a3l6uBdPOJndjjX) | 5:04 | 2021-12-14 |  |
@@ -323,6 +324,7 @@
 | [Icelandic time](https://open.spotify.com/track/1oZkKgfZDvBYVlAyR1Yszq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Icelandic time](https://open.spotify.com/album/3RGokP0Ax8RaawZZQ3pmct) | 3:32 | 2023-04-27 |  |
 | [If I Ask You Now?](https://open.spotify.com/track/3yyVqUxOKGgH47iUGNEyVB) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [If I Ask You Now?](https://open.spotify.com/album/6ntxSpTO4JPirtRAZ0SFQH) | 3:26 | 2023-09-29 |  |
 | [If You Could See Me Now](https://open.spotify.com/track/3k1fRAaUFBPMNkulplHupK) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc) | 4:29 | 2021-12-14 | 2023-01-13 |
+| [If You Could See Me Now](https://open.spotify.com/track/0l1K6sAVycWbe2K1oWQgU4) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [If You Could See Me Now](https://open.spotify.com/album/22ndy4PP1O9LVJuqq7dN6W) | 4:36 | 2024-02-09 |  |
 | [Ill Wind](https://open.spotify.com/track/2UnqYqJgyjElVUmX87rbrW) | [Will Mays](https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil) | [Ill Wind](https://open.spotify.com/album/67pWoIBLiaOKLb6OozeStz) | 2:31 | 2023-09-22 |  |
 | [Imagination](https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Imagination](https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx) | 4:33 | 2022-11-24 |  |
 | [Impressive\-looking](https://open.spotify.com/track/1uM5EU6CdbnOVtPKVvqnI2) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Impressive\-looking](https://open.spotify.com/album/4HKAiMUq49tLZdkNd4njZs) | 3:24 | 2023-08-10 |  |
@@ -396,6 +398,7 @@
 | [Let The Right One In](https://open.spotify.com/track/3KYTL4n5b1RPDa2GURS9HC) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Let The Right One In](https://open.spotify.com/album/3h0tWrv1ko1zSrilfunEum) | 4:33 | 2023-05-25 |  |
 | [Let's Fall In Love](https://open.spotify.com/track/23DcHmLNaFGDZgwvDGFZAr) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Let's Fall In Love](https://open.spotify.com/album/7G0rXg3K3k85sqOLOeBokT) | 2:50 | 2023-12-08 |  |
 | [Let's go uptown](https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Let's go uptown](https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3) | 2:20 | 2023-01-26 |  |
+| [Let's Have Lunch at the Counter](https://open.spotify.com/track/7GsguN3kbzxm2n4kCEbXUf) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Let's Have Lunch at the Counter](https://open.spotify.com/album/3YcoF3yc2mpOsBCBO1dOwE) | 2:46 | 2024-02-09 |  |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-06-08 |  |
 | [Life At Point Nemo](https://open.spotify.com/track/31SW7BwZNGQau7Tmydxzfl) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Life At Point Nemo](https://open.spotify.com/album/2Y39wUJVAIJP0QcTgB8mpj) | 3:54 | 2022-09-20 | 2023-09-29 |
 | [Life In Paradise](https://open.spotify.com/track/7DhwU4DOhVLPI30Rj2X6e4) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [Life In Paradise](https://open.spotify.com/album/5TNHvnh6yY5FwDBqo3g59W) | 4:34 | 2022-05-31 |  |
@@ -711,6 +714,7 @@
 | [There Will Be Better Days](https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [There Will Be Better Days](https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli) | 4:59 | 2023-09-22 |  |
 | [These Foolish Things](https://open.spotify.com/track/1JgLeExcYdY77a9m5fhls2) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [These Foolish Things](https://open.spotify.com/album/5bHOv2bIx20K3sVVbEYQcb) | 4:24 | 2022-01-18 |  |
 | [This isn’t home](https://open.spotify.com/track/7FJiPlX1unkR69o7SwYJa4) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This isn’t home](https://open.spotify.com/album/6cfSkl9nRlvkdVvOdTE3un) | 2:46 | 2023-03-02 |  |
+| [This Morning](https://open.spotify.com/track/2kpki79GZZ2BNg5dNcvRUO) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [This Morning](https://open.spotify.com/album/7mYQhnbJorRqvOtmOepChZ) | 3:21 | 2024-02-09 |  |
 | [This sweet pet](https://open.spotify.com/track/2Bv8LgnuZkVg6P6ZPsfuwB) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [This sweet pet](https://open.spotify.com/album/6VgGGR4IdKoHtxmuDRtTvK) | 3:38 | 2023-06-08 |  |
 | [This tape is good](https://open.spotify.com/track/07TfDT1EBdvlZ0yBwdiLkI) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This tape is good](https://open.spotify.com/album/7H56DNh2zsZbm0UR1Y2ODw) | 3:41 | 2023-04-27 |  |
 | [Thoughts Of You](https://open.spotify.com/track/1ca7uFXnN2yDZu9TgMy04N) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Thoughts Of You](https://open.spotify.com/album/1qwTOSaVVrRVW4vBjjzbza) | 2:56 | 2023-09-08 |  |
@@ -766,6 +770,7 @@
 | [When I Fall In Love](https://open.spotify.com/track/7wAFHu3ueBLEebC5NEOk9z) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [When I Fall In Love](https://open.spotify.com/album/6rCnmJjhEashCYVazkSK7g) | 4:49 | 2021-12-14 | 2023-01-06 |
 | [When we danced](https://open.spotify.com/track/2pcDGklI3mOVMZrvnUF2t5) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [When we danced](https://open.spotify.com/album/1nx9sZzwa022j2IF1leM6D) | 4:29 | 2022-11-17 |  |
 | [When We Were Young](https://open.spotify.com/track/509DJTmdSrynAqzm5c1m3K) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [When We Were Young](https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn) | 2:59 | 2022-11-10 |  |
+| [When You Come Home](https://open.spotify.com/track/1TlWfTGEALeyG39A9qHokR) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [When You Come Home](https://open.spotify.com/album/40kyT8n1MAUF56KmpkQeqs) | 3:36 | 2024-02-09 |  |
 | [When Your Lover Has Gone](https://open.spotify.com/track/0TgEPps1Z86WY2henEcH2T) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [When Your Lover Has Gone](https://open.spotify.com/album/37JPTyLv4CmNEQzlQfjSRI) | 2:43 | 2023-04-13 |  |
 | [Where Are You \- Remastered](https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 5:10 | 2021-12-14 | 2022-01-06 |
 | [Where or When](https://open.spotify.com/track/5ABObbZnTJIMSOfaNcu0xm) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Where or when](https://open.spotify.com/album/1Q1UqyRWrgL4JK2hbyiTQA) | 3:28 | 2023-12-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17TxDoLeXxl.md) - [plain]
 
 > for wandering through nature's playground 🏔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,152 likes - 150 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,200 likes - 150 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17TxDoLeXxl.md) - [plain]
 | 76 | [Mykonos](https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 4:35 |
 | 77 | [Chinese Translation](https://open.spotify.com/track/66bI8teVSntNwjQGv3pRtF) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Post\-War](https://open.spotify.com/album/7q74XeNS40vgLZhLrCdnuv) | 3:58 |
 | 78 | [An Alien In Minneapolis \- Edit](https://open.spotify.com/track/7lt8wWfuAFUnrzkNFJXBU7) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Spanish Villager No\. 3](https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU) | 4:19 |
-| 79 | [Love & War in Your Twenties](https://open.spotify.com/track/3m9al81IVXLFCF4vG8Nqjw) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/7ls3OeXqL0DtUSxVVfqLdQ) | 4:10 |
+| 79 | [Love & War in Your Twenties](https://open.spotify.com/track/14uhiVl5NwPDCmlRUgo4l6) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/3GpYjmjSigXrSRG4aLjyg4) | 4:10 |
 | 80 | [Summer Lover \(North Woods\)](https://open.spotify.com/track/2mR4jiV2CFlm9ioWpkGIKp) | [Harbor & Home](https://open.spotify.com/artist/2zwTFhb1SlPSuER7CMNOiV) | [Summer Lover \(North Woods\)](https://open.spotify.com/album/1XWILmOgNlZoKqNhRz1RfF) | 4:02 |
 | 81 | [Rearrange Us](https://open.spotify.com/track/1uZIL52W5zXEF55fCh5lqP) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9) | 3:08 |
 | 82 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17TxDoLeXxl.md) - [plain]
 | 149 | [Rest of Our Lives](https://open.spotify.com/track/4cyAExtJSCr01jJiQ8Luw0) | [The Light the Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [Wide Awake](https://open.spotify.com/album/1xxbUuZJN4BGfZDWiRcStm) | 2:54 |
 | 150 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 |
 
-Snapshot ID: `MCxkYWJmOTgzYmIzNGQ3NTA2ZDZmZjY3OGU0NzUwNjI3ZjQ5MDFlNDlh`
+Snapshot ID: `MCxiYTY4MDEzZDJjYTNjMGQ2ZTViYTk0Yzc5Y2QxMjJiZTUwZTEwY2E2`

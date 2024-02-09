@@ -4,7 +4,7 @@
 
 > 
 
-748 songs - 2 day 10 hr 3 min
+749 songs - 2 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Haydar Haydar](https://open.spotify.com/track/7syaCNriqwhd8JMOar0vTE) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [Haydar Haydar](https://open.spotify.com/album/2gHGFvvbULh5yldskbJI39) | 4:24 | 2022-02-28 |  |
 | [Haydi Bastir](https://open.spotify.com/track/1SfK87lT6vymCjBPuBBm0b) | [Figen Han](https://open.spotify.com/artist/7CR2Zz4MqIyoM8alBapKil) | [Pisi Pisi \- Haydi Bastir](https://open.spotify.com/album/53v3KmyHhKyz8JLisGzTMQ) | 2:12 | 2019-08-26 |  |
 | [Hayeelin](https://open.spotify.com/track/7IAgfdPRFX0EG34LtDMeax) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Volume 5](https://open.spotify.com/album/1duYR1BKAr0ZNX35kEnk9Y) | 5:40 | 2023-10-30 |  |
+| [Heaven](https://open.spotify.com/track/6V8mQGMlteOnomLViyIRwU) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Ebo Taylor](https://open.spotify.com/album/5FOShBCFRekNYPZwzKWLB2) | 6:05 | 2024-02-08 |  |
 | [Hedi Bled Noum](https://open.spotify.com/track/17taTggvvhrwrTvE0LIMsG) | [Shams Dinn](https://open.spotify.com/artist/1nYTfvRcasFFOJ4YNefQSE) | [France chébran: French Boogie \(1982 \- 1989\), Vol\. 2](https://open.spotify.com/album/4jjz6MAd8xmKKBWDnqQiEy) | 4:01 | 2021-11-29 |  |
 | [Hei! Você](https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy) | [Dom Salvador & Abolição](https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6) | [Série Samba Soul](https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A) | 2:32 | 2020-11-17 |  |
 | [Hey! Hey! Hey! \- Extended Vocal](https://open.spotify.com/track/5LiLQNSHx5QtOVX6ypMimA) | [Captain Mosez](https://open.spotify.com/artist/5fjLj3cWhEaVSrw1zpiK20) | [Fly Cherry Fly](https://open.spotify.com/album/3ePbiomuYQpsS2eVbPsUnI) | 7:19 | 2022-01-04 |  |

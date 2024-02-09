@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,857 songs - 4 day 4 hr 22 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,858 songs - 4 day 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1865,5 +1865,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1855 | [Birthday Music for Sigurd Rascher: Molto vivace](https://open.spotify.com/track/1ly1sOkrlCDwVwcutLlaYF) | [Lawrence Gwozdz](https://open.spotify.com/artist/2gs8Ak7REWbYwnr7Iqo82Q), [Steffen Hass](https://open.spotify.com/artist/1vQcviiulxIF7WBhswoHBn), [Lois Leventhal](https://open.spotify.com/artist/41oUPjQ6WpUVU3NNDibdbe) | [Rascher International](https://open.spotify.com/album/3tCatEDB8l8xXBT7pUfrbw) | 2:20 |
 | 1856 | [Beware](https://open.spotify.com/track/2ASygm7048ssav4ekbehPS) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ) | 6:00 |
 | 1857 | [$uicideboy$ Were Better In 2015](https://open.spotify.com/track/6LoaYlv0bC1TyctuADqNFh) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 2:23 |
+| 1858 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
 
-Snapshot ID: `NzA4LGI5ZjdiZjg3NGFjNzdlMTFiMDNkYTE1YmU2OTM4MjEwNDZiMGRmNjM=`
+Snapshot ID: `NzA5LDA3MGYxMjg4N2Y0Mjc1MDllMGQ4ZGVlYTVmY2FlMzdhNDJiOTgyNDM=`

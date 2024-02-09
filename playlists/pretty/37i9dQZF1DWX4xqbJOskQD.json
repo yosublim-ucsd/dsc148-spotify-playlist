@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjk0NTNhZTE2ZTViNGQzYjM1MTlmYWMyMWI4OGU5YWJlYzIzZjY0",
+  "snapshot_id": "MCxkNmYxMDMxYmQyNjY3MWQ3ZDdjMDc5NzUzYmE0MmQyZjg1YmM5NzY1",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -599,6 +599,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "Jump & Jive 'Til One O'Clock - Anthology, Vol. 2",
+        "url": "https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9"
+      },
+      "artists": [
+        {
+          "name": "The Delta Rhythm Boys",
+          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Ain't Gonna Worry 'Bout a Soul",
+      "url": "https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "Remember Pearl Harbor: Classic Songs Of World War II",
         "url": "https://open.spotify.com/album/4esQCA7GCIC2NBUq8ndw87"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 159173,
       "name": "A G.I. Wish",
       "url": "https://open.spotify.com/track/2TVIvoDLrq3adZBeDyFbl9"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "Jump & Jive 'Til One O'Clock - Anthology, Vol. 2",
-        "url": "https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9"
-      },
-      "artists": [
-        {
-          "name": "The Delta Rhythm Boys",
-          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Ain't Gonna Worry 'Bout a Soul",
-      "url": "https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg"
     },
     {
       "added_at": "2020-08-17 22:49:59",

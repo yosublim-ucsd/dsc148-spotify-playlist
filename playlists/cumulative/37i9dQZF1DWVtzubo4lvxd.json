@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 124675,
       "name": "Like Silk",
       "url": "https://open.spotify.com/track/4fWrsDm064nI1enpa6zTsb"
@@ -3680,6 +3680,24 @@
       "duration_ms": 90529,
       "name": "sunday morning vibes",
       "url": "https://open.spotify.com/track/5tQ5qokHOPrk0sySwuijrq"
+    },
+    {
+      "album": {
+        "name": "sunny",
+        "url": "https://open.spotify.com/album/1aJys6ueJUxPYrnPOCFK5q"
+      },
+      "artists": [
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139130,
+      "name": "sunny",
+      "url": "https://open.spotify.com/track/55lbyYwgGo6gwwYjyki8iP"
     },
     {
       "album": {

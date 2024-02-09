@@ -1367,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/40Jp5bfHyrSJIBmAsINA3X"
+      },
+      "artists": [
+        {
+          "name": "Donato Cipriano",
+          "url": "https://open.spotify.com/artist/4DOxNvOqA6pgNLBfhtk81s"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207931,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/57Mnm7uuPh5JhOWNjMFc1e"
+    },
+    {
+      "album": {
         "name": "Bebe",
         "url": "https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs"
       },

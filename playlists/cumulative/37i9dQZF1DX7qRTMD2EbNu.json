@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover:  Sarkodie",
+  "description": "Hottest bars coming live from the 233.  Cover:  Beeztrap KOTM",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -1813,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "Comfort Zone",
+        "url": "https://open.spotify.com/album/7xPCHfTiNWOvQ2PSd7KkNS"
+      },
+      "artists": [
+        {
+          "name": "Jahplaka",
+          "url": "https://open.spotify.com/artist/7LHtDuHQxPma5xK94mexGk"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179310,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/5yGFcaXbnOpc4k1mQZvNel"
+    },
+    {
+      "album": {
         "name": "Condemn (feat. City Boy, O'Kenneth, reggie & Kwaku DMC)",
         "url": "https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d"
       },
@@ -3104,7 +3122,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 275780,
       "name": "Frodo Baggins",
       "url": "https://open.spotify.com/track/6psxms6SF70V1tnuKc6wUl"
@@ -4012,6 +4030,24 @@
       "duration_ms": 148116,
       "name": "Kai Me",
       "url": "https://open.spotify.com/track/0rJa955M9QtlA6tNOSBDzy"
+    },
+    {
+      "album": {
+        "name": "Kasapa",
+        "url": "https://open.spotify.com/album/6uPPmlyfrQkGAH4jzi8OJM"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152659,
+      "name": "Kasapa",
+      "url": "https://open.spotify.com/track/25LQCtFin5sJl6AERRvLD8"
     },
     {
       "album": {
@@ -6355,6 +6391,24 @@
     },
     {
       "album": {
+        "name": "Prodigy",
+        "url": "https://open.spotify.com/album/1WosT5FWrSYcFHLbt3VEy4"
+      },
+      "artists": [
+        {
+          "name": "Marince Omario",
+          "url": "https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162763,
+      "name": "Prodigy",
+      "url": "https://open.spotify.com/track/3mJP2ejsQtYioV8hAiXqfc"
+    },
+    {
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/23XvGYaFe7fU1bRteOPIVj"
       },
@@ -7839,6 +7893,24 @@
     },
     {
       "album": {
+        "name": "Time To Love Again",
+        "url": "https://open.spotify.com/album/4DkV7VjFbEg0n4AsHVLtz9"
+      },
+      "artists": [
+        {
+          "name": "Pure Akan",
+          "url": "https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155106,
+      "name": "Time To Love Again",
+      "url": "https://open.spotify.com/track/0LaCgmzJqzWymrvuXrimkd"
+    },
+    {
+      "album": {
         "name": "TLP",
         "url": "https://open.spotify.com/album/4k1QJXa6dFejkqpLT4T52C"
       },
@@ -8552,6 +8624,28 @@
       "duration_ms": 207086,
       "name": "Yaa Baby",
       "url": "https://open.spotify.com/track/4qSEMCwQCvv2BTsMQN6Wyv"
+    },
+    {
+      "album": {
+        "name": "YaaCross Won Part II",
+        "url": "https://open.spotify.com/album/7ql3KAdzGVQZkxLLpi5eOX"
+      },
+      "artists": [
+        {
+          "name": "Slim Drumz",
+          "url": "https://open.spotify.com/artist/26aYXu5NRqjKJUrDzGxRVT"
+        },
+        {
+          "name": "Teephlow",
+          "url": "https://open.spotify.com/artist/765WbdRs651BXTSFu0gYKi"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "YaaCross Won Part II",
+      "url": "https://open.spotify.com/track/1jikb4yHocmQWCxwbE905J"
     },
     {
       "album": {

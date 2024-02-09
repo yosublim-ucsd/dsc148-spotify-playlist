@@ -4,7 +4,7 @@
 
 > The biggest Dance hits and the ones to come\. Cover: HBz
 
-512 songs - 23 hr 41 min
+513 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,8 @@
 | [Hardcore Vibes \- Radio Edit](https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX) | [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y) | [Hardcore Vibes](https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2) | 2:41 | 2021-12-15 | 2022-03-03 |
 | [Hasta La Vista](https://open.spotify.com/track/0PTO7jQosM3VY3Orohun9y) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Hasta La Vista](https://open.spotify.com/album/6LaIGzezV5snMxCCjqEfwo) | 2:36 | 2022-02-23 | 2022-04-07 |
 | [Havana](https://open.spotify.com/track/2cMH4ENPzIeKqXS0PbKLoY) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Havana](https://open.spotify.com/album/5RK7gHsV6IJ54NBJxan4fk) | 2:40 | 2022-08-17 | 2022-12-15 |
-| [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 | 2024-01-31 |  |
+| [Head Up](https://open.spotify.com/track/3zieOwCrap1s2sIpxWlx92) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/7FQA4DGX7aIfT8b8f8GVhp) | 3:09 | 2024-02-07 |  |
+| [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 | 2024-01-31 | 2024-02-09 |
 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 | 2022-02-23 | 2022-07-14 |
 | [Heart of Stone](https://open.spotify.com/track/2DDV7onp5VbQsOU9JSRhuw) | [Andreas Kümmert](https://open.spotify.com/artist/7z66axlw21NlGzJ18VPmzj), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3) | [Heart of Stone](https://open.spotify.com/album/3kyxRW8cFeFHxfPgP0u6Hs) | 2:15 | 2023-07-12 | 2023-08-10 |
 | [Heart Swipe](https://open.spotify.com/track/7FqvWKsTvL7r570vVcgRK0) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Heart Swipe](https://open.spotify.com/album/0C80olGjoYEU8hJ82wwuHA) | 2:26 | 2022-12-21 | 2023-03-16 |

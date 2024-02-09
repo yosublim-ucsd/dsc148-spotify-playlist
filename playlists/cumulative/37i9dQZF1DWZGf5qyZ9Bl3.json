@@ -1719,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "L'hiver",
+        "url": "https://open.spotify.com/album/1fDNUQK2rYH2FKo4Ga6TL3"
+      },
+      "artists": [
+        {
+          "name": "Made in M",
+          "url": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91490,
+      "name": "Trineos",
+      "url": "https://open.spotify.com/track/45qPHGAfaTDAyg11FMFkwY"
+    },
+    {
+      "album": {
         "name": "Trust Spring",
         "url": "https://open.spotify.com/album/2I3IoVyZOTVuSGOr5SX9kK"
       },

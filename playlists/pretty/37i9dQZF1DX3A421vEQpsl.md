@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Hits, repackaged by Bollywood\. Cover \- Badrinath Ki Dulhania
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,285 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,437 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 | 49 | [Tenu Lehenga \(From "Satyameva Jayate 2"\)](https://open.spotify.com/track/2FlkFn2YRzTQ13Fu2tfHb0) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Tenu Lehenga \(From "Satyameva Jayate 2"\)](https://open.spotify.com/album/5tul86eaJyQKvgzoRemZtv) | 4:07 |
 | 50 | [Hasina Pagal Deewani \(From "Indoo Ki Jawani"\)](https://open.spotify.com/track/5DXdMe87gdsoN4MSqWRcnt) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Hasina Pagal Deewani \(From "Indoo Ki Jawani"\)](https://open.spotify.com/album/2SsdnisdqpAXBvdkiMc5wp) | 3:08 |
 
-Snapshot ID: `MCw1YTRlNmFmOWM1YWQzOWQxNDI3NTRjNmIxYWIzODk0NTA1NzM0Njlh`
+Snapshot ID: `MCxiOTZiODY4OGEzMDY2YWMxZDk4NDY4YzY0MGEyY2E5YmQ4OWZjNDk1`

@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 8485,
+  "2024-02-09": 8487,
   "date_first_scraped": "2022-06-02",
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
   "name": "This Is El Potro De Sinaloa",
@@ -133,7 +133,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 210626,
       "name": "Cien Por Uno",
       "url": "https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 181720,
       "name": "El Bar\u00f3n De Babonica",
       "url": "https://open.spotify.com/track/1SSGZ3in0ATCOkmp9r8iKy"
@@ -1469,7 +1469,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 189160,
       "name": "Lamberto Verdugo - En Vivo Desde Las Tapias",
       "url": "https://open.spotify.com/track/7gUCp7tdGA63B6VqXvTjyE"
@@ -1593,6 +1593,28 @@
       "duration_ms": 211213,
       "name": "Me Va A Extra\u00f1ar",
       "url": "https://open.spotify.com/track/5q4107DEo8FfcZkvNtQLKR"
+    },
+    {
+      "album": {
+        "name": "Desde el Rancho Bella Vista",
+        "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
+      },
+      "artists": [
+        {
+          "name": "Inteligencia Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230038,
+      "name": "Ni el Dinero Ni Nada",
+      "url": "https://open.spotify.com/track/0YiNEnEmLo3gHc7w2USFua"
     },
     {
       "album": {

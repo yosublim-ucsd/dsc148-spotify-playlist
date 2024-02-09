@@ -4,7 +4,7 @@
 
 > let the dj set u free
 
-263 songs - 17 hr 4 min
+264 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,8 +82,9 @@
 | [Gonna Be Good](https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Gonna Be Good](https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E) | 2:52 | 2023-06-30 | 2023-10-06 |
 | [Goodbye](https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Goodbye](https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs) | 2:24 | 2021-04-02 |  |
 | [Grains](https://open.spotify.com/track/65kSgWVGY4JIWNLWnfEwbe) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Rogue](https://open.spotify.com/album/7mDi1BM9wnm55QUTedTelk) | 4:44 | 2021-08-14 | 2022-07-28 |
+| [Head Up](https://open.spotify.com/track/3zieOwCrap1s2sIpxWlx92) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/7FQA4DGX7aIfT8b8f8GVhp) | 3:09 | 2024-02-02 |  |
 | [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 | 2024-01-26 | 2024-01-30 |
-| [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 | 2024-01-26 |  |
+| [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 | 2024-01-26 | 2024-02-09 |
 | [HEART ATTACK](https://open.spotify.com/track/4F8wogXmIgCXEsi1FK0gH4) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [BRONSON](https://open.spotify.com/album/7zUK6seRiiD2x2HhzOLdrg) | 3:29 | 2021-05-29 |  |
 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 | 2021-05-28 | 2022-04-13 |
 | [Heartbreak On The Dancefloor \(feat\. Frances\)](https://open.spotify.com/track/7LgOkzv8NTDeInrCLJnNru) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 3:15 | 2021-04-06 | 2022-10-02 |

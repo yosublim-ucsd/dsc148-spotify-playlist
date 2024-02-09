@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 61516,
+  "2024-02-09": 61566,
   "date_first_scraped": "2022-05-30",
   "description": "Unwind to the best Indian classical sounds out there.",
   "name": "Raga Lounge",
@@ -1946,6 +1946,32 @@
     },
     {
       "album": {
+        "name": "Kagaz",
+        "url": "https://open.spotify.com/album/1kfXcMO0yTbkpHx8XO6VZZ"
+      },
+      "artists": [
+        {
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213857,
+      "name": "Kagaz",
+      "url": "https://open.spotify.com/track/7kF41c0FB7LJMs6ilrWqt2"
+    },
+    {
+      "album": {
         "name": "Kahaani",
         "url": "https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah"
       },
@@ -3775,7 +3801,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 2311680,
       "name": "Raga Bageshri (feat. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat)",
       "url": "https://open.spotify.com/track/12kp3v0Xv5SwvChcJl7M2l"

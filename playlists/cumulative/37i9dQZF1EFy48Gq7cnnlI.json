@@ -319,6 +319,28 @@
     },
     {
       "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx"
+      },
+      "artists": [
+        {
+          "name": "Savana Santos",
+          "url": "https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm"
+        },
+        {
+          "name": "Alex Hope",
+          "url": "https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133259,
+      "name": "die!",
+      "url": "https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU"
+    },
+    {
+      "album": {
         "name": "Diss and Disappoint",
         "url": "https://open.spotify.com/album/7oaEeaY8WIXyHbV72oLHfk"
       },
@@ -886,6 +908,24 @@
       "duration_ms": 194826,
       "name": "Keep Them Close 'Cause They Will Fuck You Too",
       "url": "https://open.spotify.com/track/2QZml0QtO2dkbhkoaBTUqW"
+    },
+    {
+      "album": {
+        "name": "MELTING POINT",
+        "url": "https://open.spotify.com/album/3GIcmFqY3eL1cKOys4IpxJ"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149138,
+      "name": "Kidz Zone",
+      "url": "https://open.spotify.com/track/5Bsm5nmisiChMvmOfyuIHn"
     },
     {
       "album": {

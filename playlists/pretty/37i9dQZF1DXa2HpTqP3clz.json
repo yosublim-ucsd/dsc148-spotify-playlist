@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Molly Tuttle & Bronwyn Keith-Hynes of Molly Tuttle & Golden Highway",
-  "num_followers": 131559,
+  "num_followers": 131573,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWQ2OGVhNDRhMzVlNjZjNmY3NTQ4ZjY3MTc3YjA1ZTkxN2EzMjUx",
+  "snapshot_id": "MCw3N2Y2NGYxYWJkNzk5NmY0ZDBhYWFmYmYwNjc3MTQzZGRlZjgyYWQ2",
   "tracks": [
     {
       "added_at": "2024-02-05 18:11:11",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Any Old Time",
-      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
-    },
-    {
-      "added_at": "2024-02-05 18:11:11",
-      "album": {
         "name": "Twisted Pine",
         "url": "https://open.spotify.com/album/0Wqmu0yvCdbcd9Vgsq3G3i"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 252428,
       "name": "When I Called Your Name",
       "url": "https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq"
+    },
+    {
+      "added_at": "2024-02-05 18:11:11",
+      "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Any Old Time",
+      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -967,30 +967,6 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "For Your Love",
-        "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
-      },
-      "artists": [
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Jeff White",
-          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
-        }
-      ],
-      "duration_ms": 306440,
-      "name": "For Your Love",
-      "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
-    },
-    {
-      "added_at": "2024-02-05 18:11:11",
-      "album": {
         "name": "My Bluegrass Heart",
         "url": "https://open.spotify.com/album/1vO0hRLuOKXKHrMbDBlJjc"
       },
@@ -1011,6 +987,30 @@
       "duration_ms": 255369,
       "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
       "url": "https://open.spotify.com/track/6Ws3pJjE9MeiR8WYEC4hPw"
+    },
+    {
+      "added_at": "2024-02-05 18:11:11",
+      "album": {
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Jeff White",
+          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
+        }
+      ],
+      "duration_ms": 306440,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 300676,
-      "name": "Orphan Annie",
-      "url": "https://open.spotify.com/track/7tsWLFSZ7HNUDDF5UxUSZE"
-    },
-    {
-      "added_at": "2024-02-05 18:11:11",
-      "album": {
         "name": "Places I've Been",
         "url": "https://open.spotify.com/album/0kgijOwaBq1rAWv8lfqEqw"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 300676,
+      "name": "Orphan Annie",
+      "url": "https://open.spotify.com/track/7tsWLFSZ7HNUDDF5UxUSZE"
+    },
+    {
+      "added_at": "2024-02-05 18:11:11",
+      "album": {
         "name": "Jubilation",
         "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 179140,
       "name": "Graveyard Fields",
       "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
+    },
+    {
+      "added_at": "2024-02-05 18:11:11",
+      "album": {
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 263662,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV"
+        "name": "Rhinestone Revival",
+        "url": "https://open.spotify.com/album/7cblTcbIValrJcdwLdUDvv"
       },
       "artists": [
         {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+          "name": "The Kody Norris Show",
+          "url": "https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha"
         }
       ],
-      "duration_ms": 263662,
-      "name": "Sweet Spot",
-      "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
+      "duration_ms": 173233,
+      "name": "I Call Her Sunshine",
+      "url": "https://open.spotify.com/track/3kFQ9eRvWehIy2vweECLPY"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "Rhinestone Revival",
-        "url": "https://open.spotify.com/album/7cblTcbIValrJcdwLdUDvv"
+        "name": "Down the Road",
+        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
       },
       "artists": [
         {
-          "name": "The Kody Norris Show",
-          "url": "https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 173233,
-      "name": "I Call Her Sunshine",
-      "url": "https://open.spotify.com/track/3kFQ9eRvWehIy2vweECLPY"
+      "duration_ms": 195573,
+      "name": "Down the Road",
+      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "Down the Road",
-        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Down the Road",
-      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
-    },
-    {
-      "added_at": "2024-02-05 18:11:11",
-      "album": {
         "name": "Ain\u2019t Through Honky Tonkin\u2019 Yet",
         "url": "https://open.spotify.com/album/3sSHGWiYpEhC0W2MvWISop"
       },
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "Well",
-        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Well",
-      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
-    },
-    {
-      "added_at": "2024-02-05 18:11:11",
-      "album": {
         "name": "Fall Like Rain",
         "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 262640,
       "name": "Fall Like Rain",
       "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+    },
+    {
+      "added_at": "2024-02-05 18:11:11",
+      "album": {
+        "name": "Well",
+        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Well",
+      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "Maria with a \"J\"",
-        "url": "https://open.spotify.com/album/0Ly2w49tSOoIUOtdAzGsFk"
-      },
-      "artists": [
-        {
-          "name": "Marija Droze",
-          "url": "https://open.spotify.com/artist/0BbnQu7WSJhCsdvBxMq0um"
-        }
-      ],
-      "duration_ms": 239601,
-      "name": "Broken Glass",
-      "url": "https://open.spotify.com/track/6imryh6uZsIVmYb2EfZ8Ym"
-    },
-    {
-      "added_at": "2024-02-05 18:11:11",
-      "album": {
         "name": "Muscle Car",
         "url": "https://open.spotify.com/album/4BfxrawQAJaRWmhQkYBOSY"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 328560,
       "name": "Muscle Car",
       "url": "https://open.spotify.com/track/6mfeARNWhTrYAt0nDc3l9f"
+    },
+    {
+      "added_at": "2024-02-05 18:11:11",
+      "album": {
+        "name": "Maria with a \"J\"",
+        "url": "https://open.spotify.com/album/0Ly2w49tSOoIUOtdAzGsFk"
+      },
+      "artists": [
+        {
+          "name": "Marija Droze",
+          "url": "https://open.spotify.com/artist/0BbnQu7WSJhCsdvBxMq0um"
+        }
+      ],
+      "duration_ms": 239601,
+      "name": "Broken Glass",
+      "url": "https://open.spotify.com/track/6imryh6uZsIVmYb2EfZ8Ym"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "Delta Queen",
-        "url": "https://open.spotify.com/album/1aqtpnB29kzr9bFD4XWHgm"
-      },
-      "artists": [
-        {
-          "name": "Billy Gilman",
-          "url": "https://open.spotify.com/artist/6OqQbeNe7Pi7Zi7SNTi9ko"
-        }
-      ],
-      "duration_ms": 233946,
-      "name": "Delta Queen",
-      "url": "https://open.spotify.com/track/1neDKJYqYoDCNyiecOXBjy"
-    },
-    {
-      "added_at": "2024-02-05 18:11:11",
-      "album": {
         "name": "I'll Blame It on the Rain",
         "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 223586,
       "name": "I'll Blame It on the Rain",
       "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
+    },
+    {
+      "added_at": "2024-02-05 18:11:11",
+      "album": {
+        "name": "Delta Queen",
+        "url": "https://open.spotify.com/album/1aqtpnB29kzr9bFD4XWHgm"
+      },
+      "artists": [
+        {
+          "name": "Billy Gilman",
+          "url": "https://open.spotify.com/artist/6OqQbeNe7Pi7Zi7SNTi9ko"
+        }
+      ],
+      "duration_ms": 233946,
+      "name": "Delta Queen",
+      "url": "https://open.spotify.com/track/1neDKJYqYoDCNyiecOXBjy"
     },
     {
       "added_at": "2024-02-05 18:11:11",
@@ -1759,42 +1759,6 @@
     {
       "added_at": "2024-02-05 18:11:11",
       "album": {
-        "name": "These Ole Blues",
-        "url": "https://open.spotify.com/album/7pOUqo4VhWgWlHCGCzGoaS"
-      },
-      "artists": [
-        {
-          "name": "Missy Raines",
-          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
-        },
-        {
-          "name": "Missy Raines & Allegheny",
-          "url": "https://open.spotify.com/artist/3GGiBJf0fcf8j1U19j2ek1"
-        },
-        {
-          "name": "Danny Paisley",
-          "url": "https://open.spotify.com/artist/3Pp575HZ7OzFO8xZZtB4Vi"
-        },
-        {
-          "name": "Darol Anger",
-          "url": "https://open.spotify.com/artist/2Qu0gRrkqyff7e7JXOVNWf"
-        },
-        {
-          "name": "Shad Cobb",
-          "url": "https://open.spotify.com/artist/7jOAerTS5LBS24HXDrD58u"
-        },
-        {
-          "name": "Ellie Hakanson",
-          "url": "https://open.spotify.com/artist/2Co6Ms0rTsymHegZCNVWIu"
-        }
-      ],
-      "duration_ms": 255178,
-      "name": "These Ole Blues",
-      "url": "https://open.spotify.com/track/7v773znNvjE1Gx6cIgcmYA"
-    },
-    {
-      "added_at": "2024-02-05 18:11:11",
-      "album": {
         "name": "Chasin' Skies",
         "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
       },
@@ -1811,6 +1775,22 @@
       "duration_ms": 158693,
       "name": "Chasin' Skies",
       "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
+    },
+    {
+      "added_at": "2024-02-05 18:11:11",
+      "album": {
+        "name": "Small Towns",
+        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
+      },
+      "artists": [
+        {
+          "name": "Stillhouse Junkies",
+          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Colorado Bound",
+      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
     }
   ],
   "unique_name": "Grass Roots",

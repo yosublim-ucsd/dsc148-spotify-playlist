@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-247 songs - 9 hr 32 min
+248 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Last Minute](https://open.spotify.com/track/0ajivWGaEclxYXd9OmTrFJ) | [Who Needs to Chill](https://open.spotify.com/artist/2Rat0jk683QeFOMTWuIzlE), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Last Minute](https://open.spotify.com/album/7BJlD7rEWrN0HpmK5F7CcC) | 1:36 | 2022-04-15 | 2022-07-29 |
 | [Leave My Home](https://open.spotify.com/track/3XnhFQRvNH5LyR9fBKjjh7) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Leave My Home](https://open.spotify.com/album/17StXxDFzxjhcuCLM1Ih4b) | 3:41 | 2022-04-15 | 2022-07-28 |
 | [Leave My Home](https://open.spotify.com/track/6mp9DV7vsQtdqR35RYSpdz) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Leave My Home](https://open.spotify.com/album/2WMV7jPy8XKRtchqqBCheP) | 3:41 | 2022-04-15 |  |
-| [Like Silk](https://open.spotify.com/track/4fWrsDm064nI1enpa6zTsb) | [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90), [Gudo Rewinds](https://open.spotify.com/artist/5t9Tf04Sbxfmj7vab2Z4Om) | [B\-Sides](https://open.spotify.com/album/2RMqKPkF3VYUlsUT5nl2AJ) | 2:04 | 2022-04-15 |  |
+| [Like Silk](https://open.spotify.com/track/4fWrsDm064nI1enpa6zTsb) | [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90), [Gudo Rewinds](https://open.spotify.com/artist/5t9Tf04Sbxfmj7vab2Z4Om) | [B\-Sides](https://open.spotify.com/album/2RMqKPkF3VYUlsUT5nl2AJ) | 2:04 | 2022-04-15 | 2024-02-09 |
 | [Lime](https://open.spotify.com/track/2oCzA1QslvSVEoBoV2Gmjp) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/3q5CZdmVxP6hE0mlBcYEU1) | 2:55 | 2022-04-15 | 2022-07-29 |
 | [Linden](https://open.spotify.com/track/3ly2OfaKp8wRb124D2Idam) | [Kou](https://open.spotify.com/artist/0Voo6nIodCoqVzS8LlEKX7) | [Linden](https://open.spotify.com/album/4qEkiqAmO4t2PA86qEpEmR) | 1:50 | 2022-04-15 | 2022-07-29 |
 | [long ago.](https://open.spotify.com/track/7BdazOnsFvAkQGyrp2djJM) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB) | [long ago.](https://open.spotify.com/album/63BlmEk69qFmjJbO9n4Jb6) | 2:06 | 2022-04-15 |  |
@@ -199,6 +199,7 @@
 | [summer nights.](https://open.spotify.com/track/7pDspg2l98EwYQRcBpmQWK) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB), [Nion](https://open.spotify.com/artist/7J1oHSQmZhh69nOXC3RiM0) | [summer nights.](https://open.spotify.com/album/0hv3pidFBxSn1ZFLzD2irc) | 1:24 | 2022-04-15 |  |
 | [sunday morning vibes](https://open.spotify.com/track/4K6aHm8TzVYm55b6bPM6eb) | [IKE](https://open.spotify.com/artist/6A3a14zZMLZUo87xtzzKJt) | [sunday morning vibes](https://open.spotify.com/album/5lRvO7AufpEDUZH2uNt2pK) | 1:30 | 2022-04-15 | 2022-07-29 |
 | [sunday morning vibes](https://open.spotify.com/track/5tQ5qokHOPrk0sySwuijrq) | [IKE](https://open.spotify.com/artist/6A3a14zZMLZUo87xtzzKJt) | [sunday morning vibes](https://open.spotify.com/album/0az7EHTxxaCsSHzCaZKeJw) | 1:30 | 2022-04-15 | 2022-08-07 |
+| [sunny](https://open.spotify.com/track/55lbyYwgGo6gwwYjyki8iP) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [sunny](https://open.spotify.com/album/1aJys6ueJUxPYrnPOCFK5q) | 2:19 | 2022-04-15 |  |
 | [sunny](https://open.spotify.com/track/0cZcOtDqLaavK7LowhTBsa) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [sunny](https://open.spotify.com/album/0enwhVDrDgNf2QpeleSUSZ) | 2:19 | 2022-04-15 | 2024-01-31 |
 | [Sunset \(Dedicated to J Dilla\)](https://open.spotify.com/track/3lxeK9XIrzMlxLgrG60BK5) | [Siirbaz](https://open.spotify.com/artist/7xURIiVo2JwZ1wIBLE2tYs) | [Sunset \(Dedicated to J Dilla\)](https://open.spotify.com/album/14rRku6dlxMwOrvocRe6B7) | 1:10 | 2022-04-15 | 2022-07-29 |
 | [sunset drive](https://open.spotify.com/track/6HVnsENMWuewoZvCGMsghQ) | [nytø](https://open.spotify.com/artist/1HZSZHE4C1vJymt4CWEfHH), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [sunset drive](https://open.spotify.com/album/19UjFDsYwAY4vJvCpgR2Pu) | 2:17 | 2022-04-15 | 2022-07-29 |

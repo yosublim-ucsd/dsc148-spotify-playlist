@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 316184,
+  "num_followers": 316206,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGE3MTU2ZTFkOWQ0NmZmMDllY2JjZjk0YTU4ZWI1YzYzNzk3MmIy",
+  "snapshot_id": "MCxhZDNjMWIzMzRlZTY0ZjNiNGViYzhkYjlmYzBmMzc5ZDhiYTM5ZjNj",
   "tracks": [
     {
       "added_at": "2023-10-11 08:48:19",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "Gang",
+        "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "duration_ms": 275906,
+      "name": "Je te promets",
+      "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "Il suffit d'y croire (Version deluxe)",
         "url": "https://open.spotify.com/album/6jQJaCZB3mCM73p7JE5XNJ"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 172626,
       "name": "Je vous trouve un charme fou - En duo avec Ga\u00ebtan Roussel",
       "url": "https://open.spotify.com/track/0C2yaSWVgCUiiqPyYxSOkd"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "Gang",
-        "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hallyday",
-          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
-        }
-      ],
-      "duration_ms": 275906,
-      "name": "Je te promets",
-      "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -307,38 +307,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "\u00c9toile flippante (Version deluxe)",
-        "url": "https://open.spotify.com/album/3exYaNDjha1sFreVSqlWGW"
-      },
-      "artists": [
-        {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Et m\u00eame apr\u00e8s je t'aimerai",
-      "url": "https://open.spotify.com/track/5Pl4OxV9RGWNMO8MGmAoDP"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
-      },
-      "artists": [
-        {
-          "name": "Lara Fabian",
-          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
-        }
-      ],
-      "duration_ms": 261106,
-      "name": "Je T\u2019aime",
-      "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Les Dix Commandements (L'int\u00e9grale)",
         "url": "https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l"
       },
@@ -355,6 +323,22 @@
       "duration_ms": 388840,
       "name": "L'envie d'aimer",
       "url": "https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "duration_ms": 261106,
+      "name": "Je T\u2019aime",
+      "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -387,6 +371,22 @@
       "duration_ms": 214826,
       "name": "S'il suffisait d'aimer",
       "url": "https://open.spotify.com/track/5zvrDC409YAzhLjgMiDTy4"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "\u00c9toile flippante (Version deluxe)",
+        "url": "https://open.spotify.com/album/3exYaNDjha1sFreVSqlWGW"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Et m\u00eame apr\u00e8s je t'aimerai",
+      "url": "https://open.spotify.com/track/5Pl4OxV9RGWNMO8MGmAoDP"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "15 Ans D'Amour",
-        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
+        "name": "La Maladie D'Amour",
+        "url": "https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf"
       },
       "artists": [
         {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
         }
       ],
-      "duration_ms": 153666,
-      "name": "Quand on n'a que l'amour - Arrangements diff\u00e9rents",
-      "url": "https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14"
+      "duration_ms": 210186,
+      "name": "La maladie d'amour",
+      "url": "https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "La Maladie D'Amour",
-        "url": "https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf"
+        "name": "15 Ans D'Amour",
+        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
       },
       "artists": [
         {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
         }
       ],
-      "duration_ms": 210186,
-      "name": "La maladie d'amour",
-      "url": "https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj"
+      "duration_ms": 153666,
+      "name": "Quand on n'a que l'amour - Arrangements diff\u00e9rents",
+      "url": "https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "1966-1968",
-        "url": "https://open.spotify.com/album/7DhSbnt6OJo7jr4QGtSELF"
-      },
-      "artists": [
-        {
-          "name": "Marie Lafor\u00eat",
-          "url": "https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx"
-        }
-      ],
-      "duration_ms": 138520,
-      "name": "Mon amour, mon ami",
-      "url": "https://open.spotify.com/track/3c9zBIo62hAanrLLlMLEfB"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 217640,
       "name": "Quelques mots d'amour - Remasteris\u00e9 en 2002",
       "url": "https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "1966-1968",
+        "url": "https://open.spotify.com/album/7DhSbnt6OJo7jr4QGtSELF"
+      },
+      "artists": [
+        {
+          "name": "Marie Lafor\u00eat",
+          "url": "https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx"
+        }
+      ],
+      "duration_ms": 138520,
+      "name": "Mon amour, mon ami",
+      "url": "https://open.spotify.com/track/3c9zBIo62hAanrLLlMLEfB"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Qui s\u00e8me le vent r\u00e9colte le tempo",
-        "url": "https://open.spotify.com/album/5hM61fBUA5OIMJUUuMrzyH"
-      },
-      "artists": [
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "40 succ\u00e8s en or",
         "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Joe",
-        "url": "https://open.spotify.com/album/1AX6ugtUs8xZXXBJV2HLbt"
+        "name": "Qui s\u00e8me le vent r\u00e9colte le tempo",
+        "url": "https://open.spotify.com/album/5hM61fBUA5OIMJUUuMrzyH"
       },
       "artists": [
         {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
         }
       ],
-      "duration_ms": 241933,
-      "name": "Salut les amoureux - City of New Orleans",
-      "url": "https://open.spotify.com/track/2cCtyPE0ZgoW9qWcI8YUvU"
+      "duration_ms": 283493,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -931,6 +915,22 @@
       "duration_ms": 331800,
       "name": "Pas toi",
       "url": "https://open.spotify.com/track/0UcPuBlICvhGbCjnGOHyHj"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Joe",
+        "url": "https://open.spotify.com/album/1AX6ugtUs8xZXXBJV2HLbt"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Salut les amoureux - City of New Orleans",
+      "url": "https://open.spotify.com/track/2cCtyPE0ZgoW9qWcI8YUvU"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "C'est d\u00e9j\u00e0 \u00e7a",
+        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "L'amour \u00e0 la machine",
+      "url": "https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "15 Ans D'Amour",
         "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 201066,
       "name": "Les feuilles mortes",
       "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "C'est d\u00e9j\u00e0 \u00e7a",
-        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "L'amour \u00e0 la machine",
-      "url": "https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye"
     },
     {
       "added_at": "2023-10-11 08:48:19",

@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 12488,
+  "num_followers": 12525,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTA4ODJjNTFhNjk1MjZhNWE5YzUzMmUwZGQwMzU1OTkxMzA5YmVi",
+  "snapshot_id": "MCw2MTJiNjI1ZDE3MGEwODYyYzBhZTNjNTdhY2FjZWE0YjRhYTY0NWJj",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/1vrTCUyXVNRarmtEGJwER2"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh"
-    },
-    {
       "added_at": "2024-02-02 00:01:00",
       "album": {
         "name": "Amazing Grace",
@@ -667,6 +651,22 @@
       "duration_ms": 176822,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/1vrTCUyXVNRarmtEGJwER2"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh"
     },
     {
       "added_at": "2023-12-15 00:01:00",

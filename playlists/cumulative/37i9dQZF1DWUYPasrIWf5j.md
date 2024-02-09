@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-149 songs - 8 hr 31 min
+151 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Somewhere Over the Rainbow](https://open.spotify.com/track/0WnCo4TNZXyOqbh7fadKzy) | [Laura Hoovers](https://open.spotify.com/artist/5hw4kl01y0BUVJf8q6edNQ) | [Somewhere Over the Rainbow](https://open.spotify.com/album/3CylnBlxs0Y4rDWzJkO2Il) | 3:11 | 2022-05-20 |  |
 | [Stand By Me](https://open.spotify.com/track/0ual4TIPtov7056Mb7p616) | [Fred Turnquist](https://open.spotify.com/artist/5RNnYnh4Or0AIHzE3Zz13J) | [Stand By Me](https://open.spotify.com/album/5OOlenAp1WQiqSzbmUZgYj) | 3:06 | 2022-05-20 |  |
 | [Stand By Me](https://open.spotify.com/track/1jQvX5M88xqtc9b8Hl9UB0) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Stand By Me](https://open.spotify.com/album/0VFco39u9Q1HnS5adiknEP) | 3:36 | 2022-07-01 | 2023-04-28 |
+| [Stay With Me](https://open.spotify.com/track/1AnRPb0v84ErmAQLn9FyTB) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [Stay With Me](https://open.spotify.com/album/0nksUnQIyLmTrtgIHM7oTu) | 2:32 | 2024-02-09 |  |
 | [Sugar sugar](https://open.spotify.com/track/4O8SoEr3OfBGAPDOpbb9Ci) | [Livia Lund](https://open.spotify.com/artist/61eLIARqPNspkv2XKnsc7z) | [Sugar sugar](https://open.spotify.com/album/2oW30T170km9R38AM78d8N) | 2:16 | 2022-05-20 | 2023-06-15 |
 | [Sunroof](https://open.spotify.com/track/25qansdY69RpqRXFJVVtN9) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Sunroof](https://open.spotify.com/album/3YBMeHUVpagQgXI8MBxo65) | 2:28 | 2022-12-01 | 2023-04-28 |
 | [Sunshine Superman](https://open.spotify.com/track/1EnLRToE3ecicHWleYow1d) | [Jack Adeline](https://open.spotify.com/artist/46IufC6lZGWAWbbLzy0COP) | [Sunshine Superman](https://open.spotify.com/album/4ynXAjJpx6QJTiJ6w1h3ey) | 3:47 | 2022-05-20 |  |
@@ -152,6 +153,7 @@
 | [Wild World](https://open.spotify.com/track/600Ii6Xs0MoILjUlcKBrX8) | [Agalipe](https://open.spotify.com/artist/7cdMrWrv70SgsvloDBbmOa) | [Wild World](https://open.spotify.com/album/0VOwzs047lYa3PluEQlD2D) | 2:35 | 2022-05-20 |  |
 | [Wonderwall](https://open.spotify.com/track/3xPnYmzD1hTbkOu9omY1mk) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Wonderwall](https://open.spotify.com/album/7ohyq2hWw1wwEqMPyoSgUG) | 3:28 | 2022-07-01 | 2023-04-28 |
 | [Wouldn't It Be Nice \- Ukulele Style](https://open.spotify.com/track/3gc4FHv3yl9EJS5QfwS416) | [The Shady Ukulele Band](https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I) | [Hawaiian Ukulele Hits Vol.2](https://open.spotify.com/album/1GSNJSMlFGGsymzFbppwsB) | 2:14 | 2022-05-20 | 2022-12-02 |
+| [Yellow](https://open.spotify.com/track/0sTQXBg6RLuPrHI5jmuqyA) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Yellow](https://open.spotify.com/album/1RJsXLUI6EVcPAIyNsnpwZ) | 2:48 | 2024-02-09 |  |
 | [Yellow](https://open.spotify.com/track/5kaYZfHdgfMLAcy7lu8Myi) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Yellow](https://open.spotify.com/album/0Ig64Va8dh4Nt1mIJTAvse) | 4:24 | 2022-07-01 | 2023-04-28 |
 | [You Are My Sunshine](https://open.spotify.com/track/04gUsUY4i2Ub6UISNOOB5h) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [You Are My Sunshine](https://open.spotify.com/album/5V0h41DsGHXiwNiMKSU3d1) | 2:40 | 2023-12-08 |  |
 | [You Are the Best Thing](https://open.spotify.com/track/6NiWQMv5NynlLse0kgt58K) | [Fred Turnquist](https://open.spotify.com/artist/5RNnYnh4Or0AIHzE3Zz13J) | [You Are The Best Thing](https://open.spotify.com/album/0eHW7867FHphe1vSyp2uAk) | 3:29 | 2024-01-05 |  |

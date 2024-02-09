@@ -2,7 +2,7 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲！Cover: Nancy Kwai
+> 持續發掘世一超新聲！Cover: Lolly Talk
 
 163 songs - 9 hr 31 min
 

@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-770 songs - 2 day 2 hr 49 min
+771 songs - 2 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,8 @@
 | [Saihate](https://open.spotify.com/track/1jcSB32MP8GhWnqfLRndIJ) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [Saihate](https://open.spotify.com/album/71QVVWnO8BDQIkBLD1U1ex) | 3:44 | 2022-11-08 | 2022-11-16 |
 | [Saitei Na Drama](https://open.spotify.com/track/01yyhN908OiuvbFjCtBBXA) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [Saitei Na Drama](https://open.spotify.com/album/5bfDxgPMtsIbWp6Rj5TPPZ) | 3:45 | 2023-02-26 | 2023-03-01 |
 | [SANDIE](https://open.spotify.com/track/5q5guN8XfOeRUnzVBcXcRt) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y) | [SANDIE](https://open.spotify.com/album/2BsnkWZSqQsMHxz9zx915T) | 4:47 | 2022-05-24 | 2023-03-22 |
-| [Sanzameku](https://open.spotify.com/track/09rGKRSeUIxhbD6AIJoJDK) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Sanzameku](https://open.spotify.com/album/6aQcVCTEE1ps7pME44kVpO) | 3:05 | 2024-01-30 |  |
+| [Sanzameku](https://open.spotify.com/track/09rGKRSeUIxhbD6AIJoJDK) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Sanzameku](https://open.spotify.com/album/6aQcVCTEE1ps7pME44kVpO) | 3:05 | 2024-01-30 | 2024-02-09 |
+| [Sanzameku](https://open.spotify.com/track/0XWKTGEZy1UxKERL4ZuPEz) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv) | 3:05 | 2024-02-06 |  |
 | [SCRAMBLE CROSS](https://open.spotify.com/track/2svcuXkuP1Y8CSTvjWZ8CB) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ANOTHER SUMMER REMIX](https://open.spotify.com/album/2WBgDzIFNojmCZqKgRm3Gy) | 4:22 | 2023-03-28 | 2023-04-05 |
 | [Seaside Hotel](https://open.spotify.com/track/70lScDkHEcMOQuNqNMQEey) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [TOKYO TOWER](https://open.spotify.com/album/54r1yKfQSmUOHiConU2Heb) | 4:49 | 2023-01-24 | 2023-03-25 |
 | [Season](https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:28 | 2023-11-10 |  |

@@ -10259,6 +10259,24 @@
     },
     {
       "album": {
+        "name": "Como Me Sorprendes",
+        "url": "https://open.spotify.com/album/7Ldhatq1rPuuWMKF68yn7V"
+      },
+      "artists": [
+        {
+          "name": "Luis Damon",
+          "url": "https://open.spotify.com/artist/05v2Uod7NM8KGsNb8EOPNq"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238750,
+      "name": "Como Me Sorprendes",
+      "url": "https://open.spotify.com/track/6MwAchl4iw5GGsHST7iw2L"
+    },
+    {
+      "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/16HYUeWDdsIYunousi5lG1"
       },
@@ -17096,6 +17114,24 @@
       "duration_ms": 223920,
       "name": "Fire Escape",
       "url": "https://open.spotify.com/track/7J8rcTIa2nfNvksZwsyqBS"
+    },
+    {
+      "album": {
+        "name": "Fire on Cloud 9",
+        "url": "https://open.spotify.com/album/0kZlwBg1bhIPEVNosyXmwV"
+      },
+      "artists": [
+        {
+          "name": "Karhys",
+          "url": "https://open.spotify.com/artist/02cRmlKhgMxlQmpH7MnT4Y"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217552,
+      "name": "Fire on Cloud 9",
+      "url": "https://open.spotify.com/track/7rnfP3Cq6zxXbOW6z6NIC1"
     },
     {
       "album": {
@@ -34588,7 +34624,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 242908,
       "name": "No Hay M\u00e1s",
       "url": "https://open.spotify.com/track/47QU3WYkUsPrtlLrw5MrjL"
@@ -45532,6 +45568,24 @@
       "duration_ms": 212391,
       "name": "Stuck on You",
       "url": "https://open.spotify.com/track/2rDLmRfQ5ePrrI0PfDj5hT"
+    },
+    {
+      "album": {
+        "name": "Stuck on You",
+        "url": "https://open.spotify.com/album/49wouYxcIx4VRrfnoeoZ7j"
+      },
+      "artists": [
+        {
+          "name": "Rhod",
+          "url": "https://open.spotify.com/artist/1KTjrGlve6k7CTe3nR1u9F"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247230,
+      "name": "Stuck on You",
+      "url": "https://open.spotify.com/track/0Ng667EptlsKLfPHXkMmLt"
     },
     {
       "album": {

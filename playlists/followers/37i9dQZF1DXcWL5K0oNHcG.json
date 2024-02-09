@@ -1,7 +1,7 @@
 {
-  "2024-02-08": 208706,
+  "2024-02-09": 208740,
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Salin. Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Lawrence Fields Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -10081,7 +10081,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 370493,
       "name": "HYPNOSIS",
       "url": "https://open.spotify.com/track/1BN4yBmqYDOAWRPtEfNjax"
@@ -12393,6 +12393,24 @@
       "duration_ms": 394500,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/6jP5WPo0D87AGFTHwdrC10"
+    },
+    {
+      "album": {
+        "name": "KOSMOCHOOJUWA",
+        "url": "https://open.spotify.com/album/0QaHoz7aYfIaBEuHH4LtUT"
+      },
+      "artists": [
+        {
+          "name": "Kosmonauci",
+          "url": "https://open.spotify.com/artist/283semIr4NG8yUDW5zRAol"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168977,
+      "name": "KOSMOCHOOJUWA",
+      "url": "https://open.spotify.com/track/7Mre23VuQDkvaLxXRKcECe"
     },
     {
       "album": {
@@ -15192,6 +15210,24 @@
     },
     {
       "album": {
+        "name": "To the Surface",
+        "url": "https://open.spotify.com/album/6V6ize3i50A084GZA7UZy8"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Fields",
+          "url": "https://open.spotify.com/artist/6Gx8FEiq4GWxQibFuSzmeY"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 539133,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/4jTOEKRSmjIzeB8uFI5d07"
+    },
+    {
+      "album": {
         "name": "Flexibilidad de la Forma",
         "url": "https://open.spotify.com/album/67V2W5HSBysnzQtiSk0MUJ"
       },
@@ -16315,7 +16351,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 251786,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/6qUpHqV6aHTSZRDjcYSoUV"
@@ -19309,7 +19345,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 177201,
       "name": "Routes To Knowledge",
       "url": "https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN"
@@ -19349,6 +19385,24 @@
       "duration_ms": 430306,
       "name": "Rush",
       "url": "https://open.spotify.com/track/5sD62sGY6Tq4Ll0ZsYdpgw"
+    },
+    {
+      "album": {
+        "name": "TAPES of ACES - Side A",
+        "url": "https://open.spotify.com/album/1yjAcsYQJsIV0clinEa7XC"
+      },
+      "artists": [
+        {
+          "name": "4Aces",
+          "url": "https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409000,
+      "name": "S.Y.P.T. (Show Your PentaTonic)",
+      "url": "https://open.spotify.com/track/0gFKed5Y8BJrJ8EB34SNT4"
     },
     {
       "album": {
@@ -20593,6 +20647,28 @@
       "duration_ms": 199506,
       "name": "So It Goes",
       "url": "https://open.spotify.com/track/7CXZXvUCFKAUF1lQXb7OPY"
+    },
+    {
+      "album": {
+        "name": "Soar",
+        "url": "https://open.spotify.com/album/5FLNHUP6N4lNCGbQdd6Vdu"
+      },
+      "artists": [
+        {
+          "name": "Chiminyo",
+          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
+        },
+        {
+          "name": "Uniri",
+          "url": "https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154038,
+      "name": "Soar",
+      "url": "https://open.spotify.com/track/7F8HGHuxgKJ6ISlbX2NJuW"
     },
     {
       "album": {
@@ -21939,7 +22015,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 155333,
       "name": "Superstar Fish Bar",
       "url": "https://open.spotify.com/track/6oYOlXxEjFuA6j7oObInS9"
@@ -22283,7 +22359,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 187166,
       "name": "Taivshral",
       "url": "https://open.spotify.com/track/0Q6JH1gDVsDRiDpES28Dqc"
@@ -24269,6 +24345,24 @@
       "duration_ms": 533748,
       "name": "Thursday Surrender",
       "url": "https://open.spotify.com/track/3Bqy1xr2AcpaDW3r92bEWK"
+    },
+    {
+      "album": {
+        "name": "Time's Arrow",
+        "url": "https://open.spotify.com/album/1h6YqHwAYlkgOMBE0NfMDh"
+      },
+      "artists": [
+        {
+          "name": "Nick Biello",
+          "url": "https://open.spotify.com/artist/1d6ygnyhi2BsKUsNpdVe0y"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329622,
+      "name": "Time's Arrow",
+      "url": "https://open.spotify.com/track/2vRg6acFFC8BWfcnOEbjpw"
     },
     {
       "album": {

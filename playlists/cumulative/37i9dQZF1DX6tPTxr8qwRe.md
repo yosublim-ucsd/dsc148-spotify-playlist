@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Charlotte Sands
 
-585 songs - 1 day 2 hr 51 min
+586 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,7 +390,8 @@
 | [perfect communicators](https://open.spotify.com/track/0J30WAjo9JNAhVXHGqRS7R) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [perfect communicators](https://open.spotify.com/album/6AY0N5mt3Uq40cbmRW3eua) | 2:31 | 2023-06-02 | 2023-08-19 |
 | [PHUCKBOI REJECTS](https://open.spotify.com/track/05NA0nspTPyXKBAAWqUsIr) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [PHUCKBOI REJECTS](https://open.spotify.com/album/6Q9dzZJNVPb194wy59f0DG) | 2:07 | 2022-01-07 | 2022-03-12 |
 | [Pink \(Freak\) \(feat\. GIRLI\) \- GIRLI Remix](https://open.spotify.com/track/439OoVge6koA2fON3GQmpb) | [Elliot Lee](https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5), [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Pink \(Freak\) \(feat\. GIRLI\) \[GIRLI Remix\]](https://open.spotify.com/album/7G8tSjcMTO5Gokr7GT6Eyz) | 3:42 | 2022-01-07 | 2022-03-18 |
-| [Pink Noise](https://open.spotify.com/track/79SnA3wt0c7znm70kwRxEm) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Baby Teeth](https://open.spotify.com/album/71irsFKcf0lvzG4DO2jDUL) | 2:19 | 2023-11-10 |  |
+| [Pink Noise](https://open.spotify.com/track/79SnA3wt0c7znm70kwRxEm) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Baby Teeth](https://open.spotify.com/album/71irsFKcf0lvzG4DO2jDUL) | 2:19 | 2023-11-10 | 2024-02-09 |
+| [Pink Noise](https://open.spotify.com/track/7d5NtzOMqntN9keGOZiipO) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Baby Teeth](https://open.spotify.com/album/5ICVD6930PEKXa6iwb1JAt) | 2:19 | 2024-02-02 |  |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 | 2022-10-08 |
 | [PITY PARTY](https://open.spotify.com/track/4UQVHnvC9UD4jYYSjwTbp7) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [PITY PARTY](https://open.spotify.com/album/5qCV7EtFCsNheI3dl5Z1oV) | 2:19 | 2023-09-15 | 2023-12-09 |
 | [Playground \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5S09u7HLG7mNfkchjnc5uz) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/1hQaM7OHSXpXcNK7qExkW5) | 3:50 | 2021-11-12 | 2022-03-26 |

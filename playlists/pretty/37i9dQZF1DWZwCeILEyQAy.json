@@ -1,12 +1,12 @@
 {
   "description": "Real Rap. All Pressure. Cover: ScarLip",
-  "num_followers": 489962,
+  "num_followers": 489969,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTkzNGFkNmY1MjE5NTM2ZjRlODIwNmFhMDc4YTQzMzg1ZGFjNTI2",
+  "snapshot_id": "MCw4NTM4MzNiNTIwOTNlYTkzNGE1MjZlZWU0YzIzMjBkYzhlOGQyMzI4",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -679,6 +679,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "BING BONG (Remix) [feat. Sexyy Red]",
+        "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
+      },
+      "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "BING BONG (Remix) [feat. Sexyy Red]",
+      "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
@@ -699,22 +719,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "BING BONG (Remix) [feat. Sexyy Red]",
-        "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
       },
       "artists": [
         {
-          "name": "BlakeIANA",
-          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
-        },
-        {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
         }
       ],
-      "duration_ms": 166956,
-      "name": "BING BONG (Remix) [feat. Sexyy Red]",
-      "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
+      "duration_ms": 157523,
+      "name": "I Don't Wanna Be Saved (feat. Tay Keith)",
+      "url": "https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -739,26 +759,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "N.A.L.B. (feat. chriseanrock)",
-        "url": "https://open.spotify.com/album/5G4HL8phOrQCQjEvnYYqsI"
-      },
-      "artists": [
-        {
-          "name": "Gloss Up",
-          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
-        },
-        {
-          "name": "chriseanrock",
-          "url": "https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa"
-        }
-      ],
-      "duration_ms": 150422,
-      "name": "N.A.L.B. (feat. chriseanrock)",
-      "url": "https://open.spotify.com/track/73Sv0RLGr1MsFEykKcIvVR"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Throw Dat",
         "url": "https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK"
       },
@@ -775,22 +775,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Hood Hottest Princess (Deluxe)",
-        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+        "name": "N.A.L.B. (feat. chriseanrock)",
+        "url": "https://open.spotify.com/album/5G4HL8phOrQCQjEvnYYqsI"
       },
       "artists": [
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
         },
         {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+          "name": "chriseanrock",
+          "url": "https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa"
         }
       ],
-      "duration_ms": 157523,
-      "name": "I Don't Wanna Be Saved (feat. Tay Keith)",
-      "url": "https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST"
+      "duration_ms": 150422,
+      "name": "N.A.L.B. (feat. chriseanrock)",
+      "url": "https://open.spotify.com/track/73Sv0RLGr1MsFEykKcIvVR"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 140756,
+      "name": "Sexyy Red For President",
+      "url": "https://open.spotify.com/track/7p1A4L2XrwfswpkWOxCzaw"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 150413,
       "name": "No Angels (with Lola Brooke)",
       "url": "https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Hood Hottest Princess (Deluxe)",
-        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 140756,
-      "name": "Sexyy Red For President",
-      "url": "https://open.spotify.com/track/7p1A4L2XrwfswpkWOxCzaw"
     },
     {
       "added_at": "2024-02-02 05:00:00",

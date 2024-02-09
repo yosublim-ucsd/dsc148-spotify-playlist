@@ -2,7 +2,7 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Bridget Blue
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Bensoul
 
 157 songs - 8 hr 48 min
 

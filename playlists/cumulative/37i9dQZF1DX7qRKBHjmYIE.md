@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Santi Muk.
 
-650 songs - 1 day 11 hr 17 min
+651 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Amores de droga](https://open.spotify.com/track/4oEnLgK3RaH6On3ErWxuWS) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Amores de droga](https://open.spotify.com/album/1TZCJDQzEZoJWy4NmaXBjO) | 3:07 | 2021-12-02 | 2022-01-25 |
 | [Amuleto](https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Amuleto](https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp) | 3:11 | 2022-09-06 | 2023-02-17 |
 | [Angel](https://open.spotify.com/track/15zIyFyJLwcoxxFYU2fT3I) | [LULÚ](https://open.spotify.com/artist/0WbhCU7N9haH6aBYhdqP8a), [Adrian Be](https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF) | [Angel](https://open.spotify.com/album/0g0qRFGKy3XoZ3B0xCa1Zi) | 2:24 | 2022-05-06 | 2022-07-29 |
+| [Antes De Partir](https://open.spotify.com/track/2mbxifzlODJWwSG5O6LMuY) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC), [Julian Carrion](https://open.spotify.com/artist/6A9coo36yFEB0cfxZT8cih) | [Antes De Partir](https://open.spotify.com/album/5vcN3zxTsyTPZcIlVDNhOq) | 5:27 | 2024-02-02 |  |
 | [Apple](https://open.spotify.com/track/7CBlZqB7b1AcXksVCoiWZX) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [Apple](https://open.spotify.com/album/4E2SOsnj6v1tGlWOZGNbCK) | 3:24 | 2022-02-01 | 2023-02-17 |
 | [aquí andamos](https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [aquí andamos](https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux) | 2:15 | 2023-11-10 |  |
 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-08-25 | 2023-09-30 |
@@ -398,7 +399,7 @@
 | [Mxfix G5](https://open.spotify.com/track/6RvdPXkp63MIt9oNFJBRIz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mxfix G5](https://open.spotify.com/album/6i7nZXIeKaSBLXl5b3UirN) | 2:34 | 2023-07-21 | 2023-08-12 |
 | [Míralo](https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Míralo](https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl) | 2:13 | 2023-10-13 |  |
 | [Nada Es Seguro](https://open.spotify.com/track/2sgX9FxhIoApouX3SSZjUB) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [Nada Es Seguro](https://open.spotify.com/album/705j5AXqZiXVqH58MidH5J) | 3:24 | 2021-12-02 | 2022-01-25 |
-| [NADIE SABE](https://open.spotify.com/track/6ukzpHQFuOdunB44sZeIQg) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [NADIE SABE](https://open.spotify.com/album/7o8JYrIIqI1KwW5l8cNVsp) | 2:35 | 2024-02-02 |  |
+| [NADIE SABE](https://open.spotify.com/track/6ukzpHQFuOdunB44sZeIQg) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [NADIE SABE](https://open.spotify.com/album/7o8JYrIIqI1KwW5l8cNVsp) | 2:35 | 2024-02-02 | 2024-02-09 |
 | [Naranja](https://open.spotify.com/track/5OLU4AqakHYnXfEJ1QbmYL) | [MI$HA](https://open.spotify.com/artist/7jojyXUh1Yl4Sw2Y5KfGYQ) | [Naranja](https://open.spotify.com/album/3m7lsfXaho3G2EVz4mwZF1) | 3:04 | 2021-12-02 | 2022-01-25 |
 | [NEFERTITI](https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [NEFERTITI](https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE) | 2:36 | 2024-01-26 |  |
 | [Nela](https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Nela](https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID) | 2:43 | 2022-07-22 | 2022-10-28 |

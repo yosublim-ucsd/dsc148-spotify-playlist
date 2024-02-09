@@ -1,12 +1,12 @@
 {
   "description": "Even through heartbreak and pain, God\u2019s love remains. Here are songs that cover the crossroads of hope and heartbreak.",
-  "num_followers": 13955,
+  "num_followers": 13986,
   "original_name": "Hope & Heartbreak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjA3MDk3YzdmODZkOTljNGM0MzI2ZGVkMDQ1ZmU4ZDljZTBiNjM4",
+  "snapshot_id": "MCwxYjg3YzlkNGQ3MjdlMzcwY2FlMTc2ZTgzZmQ1MzBhMzdhYmFlOWVj",
   "tracks": [
     {
       "added_at": "2024-02-03 03:32:22",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "fast forward",
-        "url": "https://open.spotify.com/album/0p5weycPUThEvVxrdyMNrs"
-      },
-      "artists": [
-        {
-          "name": "zachy",
-          "url": "https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4"
-        }
-      ],
-      "duration_ms": 127878,
-      "name": "fast forward",
-      "url": "https://open.spotify.com/track/046316TMJn8PQ3QD3WSBEf"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Over And Underneath",
         "url": "https://open.spotify.com/album/6owfUdoDWVCB7S00NDKPKM"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 239880,
       "name": "Hold My Heart",
       "url": "https://open.spotify.com/track/7bDhyD2NkZXPcebpTZj2fP"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "fast forward",
+        "url": "https://open.spotify.com/album/0p5weycPUThEvVxrdyMNrs"
+      },
+      "artists": [
+        {
+          "name": "zachy",
+          "url": "https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4"
+        }
+      ],
+      "duration_ms": 127878,
+      "name": "fast forward",
+      "url": "https://open.spotify.com/track/046316TMJn8PQ3QD3WSBEf"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
+        "name": "Maybe Tables Turn (demo)",
+        "url": "https://open.spotify.com/album/3elMZvgMAgsJEj2oUXC56M"
+      },
+      "artists": [
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 157727,
+      "name": "Maybe Tables Turn (demo)",
+      "url": "https://open.spotify.com/track/1xOLUgp4pb9SsH5kPiTHfS"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/3BIidQamOV0tESTXQJaHFa"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 215200,
       "name": "Broken",
       "url": "https://open.spotify.com/track/2EfEa3TJlpPUX9pY95KQxI"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
-        "name": "Coffee & Cherries",
-        "url": "https://open.spotify.com/album/4kPbI0DiBzMrGeFJMrlPAu"
-      },
-      "artists": [
-        {
-          "name": "Kylie Odetta",
-          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
-        }
-      ],
-      "duration_ms": 141290,
-      "name": "Coffee & Cherries",
-      "url": "https://open.spotify.com/track/7gucyUOtnBppG9Kdx452ya"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Maybe Tables Turn (demo)",
-        "url": "https://open.spotify.com/album/3elMZvgMAgsJEj2oUXC56M"
+        "name": "Coffee & Cherries",
+        "url": "https://open.spotify.com/album/4kPbI0DiBzMrGeFJMrlPAu"
       },
       "artists": [
         {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+          "name": "Kylie Odetta",
+          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
         }
       ],
-      "duration_ms": 157727,
-      "name": "Maybe Tables Turn (demo)",
-      "url": "https://open.spotify.com/track/1xOLUgp4pb9SsH5kPiTHfS"
+      "duration_ms": 141290,
+      "name": "Coffee & Cherries",
+      "url": "https://open.spotify.com/track/7gucyUOtnBppG9Kdx452ya"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
+        "name": "Pa Ti",
+        "url": "https://open.spotify.com/album/6xKgiaM1HJjmrBCWHsIsiw"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        }
+      ],
+      "duration_ms": 157161,
+      "name": "Pa Ti",
+      "url": "https://open.spotify.com/track/0AOJ5APhQCmpXetxUgQn3v"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
         "name": "Best Days",
         "url": "https://open.spotify.com/album/2fTp1q0tcEb6igeh90hW81"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 184035,
       "name": "Triggered",
       "url": "https://open.spotify.com/track/3XMhg6Hn1iFjQASD0HEkwp"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
-        "name": "Pa Ti",
-        "url": "https://open.spotify.com/album/6xKgiaM1HJjmrBCWHsIsiw"
-      },
-      "artists": [
-        {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
-        }
-      ],
-      "duration_ms": 157161,
-      "name": "Pa Ti",
-      "url": "https://open.spotify.com/track/0AOJ5APhQCmpXetxUgQn3v"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "TAKE A CHANCE",
-        "url": "https://open.spotify.com/album/3hXhvsQ8LkRvFHlFyyd6Py"
-      },
-      "artists": [
-        {
-          "name": "Spencer Kane",
-          "url": "https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb"
-        }
-      ],
-      "duration_ms": 149142,
-      "name": "TAKE A CHANCE",
-      "url": "https://open.spotify.com/track/27j28hzT9pzB0rx2lJR5u8"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Running Out Of Love",
         "url": "https://open.spotify.com/album/3Wg67wKrBJBUud8rZtIEy0"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 166054,
       "name": "Running Out Of Love",
       "url": "https://open.spotify.com/track/7BjwOpg3xCcSYyKbnNAbyE"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "TAKE A CHANCE",
+        "url": "https://open.spotify.com/album/3hXhvsQ8LkRvFHlFyyd6Py"
+      },
+      "artists": [
+        {
+          "name": "Spencer Kane",
+          "url": "https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb"
+        }
+      ],
+      "duration_ms": 149142,
+      "name": "TAKE A CHANCE",
+      "url": "https://open.spotify.com/track/27j28hzT9pzB0rx2lJR5u8"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/0vMCaROMM23vQHgjTArSOn"
+      },
+      "artists": [
+        {
+          "name": "Jemimah Paine",
+          "url": "https://open.spotify.com/artist/4KsMnVZJDA21NtWFMXwQin"
+        }
+      ],
+      "duration_ms": 203809,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/2WBHmEgFHvzYFM24L4m9BO"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
         "name": "Giving You All Of Me",
         "url": "https://open.spotify.com/album/2UVi0PUYG7ggVrhoaXuF59"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/0vMCaROMM23vQHgjTArSOn"
+        "name": "Boring People",
+        "url": "https://open.spotify.com/album/2n2RVSI0VghVBvPzdyw9iN"
       },
       "artists": [
         {
-          "name": "Jemimah Paine",
-          "url": "https://open.spotify.com/artist/4KsMnVZJDA21NtWFMXwQin"
+          "name": "sunnytheduo",
+          "url": "https://open.spotify.com/artist/22PL7GHGfcMNB75oLBkFR2"
         }
       ],
-      "duration_ms": 203809,
-      "name": "Closure",
-      "url": "https://open.spotify.com/track/2WBHmEgFHvzYFM24L4m9BO"
+      "duration_ms": 190739,
+      "name": "Boring People",
+      "url": "https://open.spotify.com/track/34n2HfHMrHlN8wRJTPTWCc"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1343,26 +1359,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/1FRvaZuaDcgvdwzYhsWiqh"
-      },
-      "artists": [
-        {
-          "name": "Luke Alexander",
-          "url": "https://open.spotify.com/artist/0aIaLxspYFrwb1GD3nOWY4"
-        },
-        {
-          "name": "Gabby Callwood",
-          "url": "https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/37lNRW3CLtw08GcBtIlvoJ"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/4lIL3O7bwzUsG036jsXr4A"
       },
@@ -1375,22 +1371,6 @@
       "duration_ms": 201874,
       "name": "Like That",
       "url": "https://open.spotify.com/track/3pLDuAz6GEFNnGWVfX6KSO"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
-        "name": "Boring People",
-        "url": "https://open.spotify.com/album/2n2RVSI0VghVBvPzdyw9iN"
-      },
-      "artists": [
-        {
-          "name": "sunnytheduo",
-          "url": "https://open.spotify.com/artist/22PL7GHGfcMNB75oLBkFR2"
-        }
-      ],
-      "duration_ms": 190739,
-      "name": "Boring People",
-      "url": "https://open.spotify.com/track/34n2HfHMrHlN8wRJTPTWCc"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1411,6 +1391,26 @@
       "duration_ms": 163862,
       "name": "Memories!",
       "url": "https://open.spotify.com/track/16ZMv3xUd3iXrN2fSy9WDe"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/1FRvaZuaDcgvdwzYhsWiqh"
+      },
+      "artists": [
+        {
+          "name": "Luke Alexander",
+          "url": "https://open.spotify.com/artist/0aIaLxspYFrwb1GD3nOWY4"
+        },
+        {
+          "name": "Gabby Callwood",
+          "url": "https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/37lNRW3CLtw08GcBtIlvoJ"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
+        "name": "Love Parables",
+        "url": "https://open.spotify.com/album/4SKqQVUdD8GGRDrQbz7Ls4"
+      },
+      "artists": [
+        {
+          "name": "Ilish",
+          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
+        },
+        {
+          "name": "Jay Sanon",
+          "url": "https://open.spotify.com/artist/369EvegFopl9qWl1QPEHzu"
+        }
+      ],
+      "duration_ms": 157465,
+      "name": "Fables",
+      "url": "https://open.spotify.com/track/794TOghUvz5JLRJlLeTpGA"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
         "name": "Love You, Still",
         "url": "https://open.spotify.com/album/5fYsh7JcLm4oIA5N5dkG1f"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 330822,
       "name": "Uncharted",
       "url": "https://open.spotify.com/track/4Sab6e6jf4wosrhWMynBYZ"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
-        "name": "Love Parables",
-        "url": "https://open.spotify.com/album/4SKqQVUdD8GGRDrQbz7Ls4"
-      },
-      "artists": [
-        {
-          "name": "Ilish",
-          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
-        },
-        {
-          "name": "Jay Sanon",
-          "url": "https://open.spotify.com/artist/369EvegFopl9qWl1QPEHzu"
-        }
-      ],
-      "duration_ms": 157465,
-      "name": "Fables",
-      "url": "https://open.spotify.com/track/794TOghUvz5JLRJlLeTpGA"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Tell Me To Go",
-        "url": "https://open.spotify.com/album/1eu7uuZ9dgJ3EVL7M1gnn7"
-      },
-      "artists": [
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        },
-        {
-          "name": "Moflo Music",
-          "url": "https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a"
-        }
-      ],
-      "duration_ms": 111673,
-      "name": "Tell Me To Go",
-      "url": "https://open.spotify.com/track/5XT4Jav7IcUirhKKSbxFj7"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Just Like That",
         "url": "https://open.spotify.com/album/54lXnnA9VeI9hBd0NSmRGN"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 206819,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/1te4ZBKhvm1lq5wL0vecWt"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Tell Me To Go",
+        "url": "https://open.spotify.com/album/1eu7uuZ9dgJ3EVL7M1gnn7"
+      },
+      "artists": [
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        },
+        {
+          "name": "Moflo Music",
+          "url": "https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a"
+        }
+      ],
+      "duration_ms": 111673,
+      "name": "Tell Me To Go",
+      "url": "https://open.spotify.com/track/5XT4Jav7IcUirhKKSbxFj7"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/7eoAw7Mk6wpc7RZG3WdJqW"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/0MA3ooeTuRjMxF0IHgPeT4"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Losing Myself",
         "url": "https://open.spotify.com/album/5z6DQNfq8kAIrDK6KJJrxw"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 140624,
       "name": "DON'T HAVE TO LISTEN",
       "url": "https://open.spotify.com/track/0DHaymgPUqiFr4NqcR8a5C"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/7eoAw7Mk6wpc7RZG3WdJqW"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0MA3ooeTuRjMxF0IHgPeT4"
     },
     {
       "added_at": "2024-02-03 03:32:22",

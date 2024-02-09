@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Rozal\u00e9n.",
-  "num_followers": 321613,
+  "num_followers": 321649,
   "original_name": "Cantautoras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDE1Nzc5NzM4NDlmZTlhZGY1N2IxNTI3NGMxYTMwOTU1MWU3YWE5",
+  "snapshot_id": "MCwwN2M5ZjM5OTExNDM5NDg3YzcxZWQzYzdjNmYwNDMzMjc5YWE2M2Uw",
   "tracks": [
     {
       "added_at": "2024-02-01 23:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Oceano De Sol",
+        "url": "https://open.spotify.com/album/0Bh08k9p3L0X9mUU3iDUyp"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "El Sitio De Mi Recreo",
+      "url": "https://open.spotify.com/track/0uWLyUK9WECq0nKz0DiA4A"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Antolog\u00eda Desordenada",
         "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 192840,
       "name": "Lucia (with Silvio Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Oceano De Sol",
-        "url": "https://open.spotify.com/album/0Bh08k9p3L0X9mUU3iDUyp"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "El Sitio De Mi Recreo",
-      "url": "https://open.spotify.com/track/0uWLyUK9WECq0nKz0DiA4A"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1563,38 +1563,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 294095,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Soy Un Coraz\u00f3n Tendido Al Sol",
-        "url": "https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
-        }
-      ],
-      "duration_ms": 264493,
-      "name": "Soy un Coraz\u00f3n Tendido al Sol",
-      "url": "https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Maldita Vocaci\u00f3n",
         "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
       },
@@ -1615,18 +1583,18 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Qu\u00e9 bonito",
-        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Qu\u00e9 bonito",
-      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
+      "duration_ms": 294095,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1643,6 +1611,38 @@
       "duration_ms": 365986,
       "name": "Mi Problema",
       "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Qu\u00e9 bonito",
+        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Qu\u00e9 bonito",
+      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Soy Un Coraz\u00f3n Tendido Al Sol",
+        "url": "https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 264493,
+      "name": "Soy un Coraz\u00f3n Tendido al Sol",
+      "url": "https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
-        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
+        "name": "Deseos de cosas imposibles",
+        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 251666,
-      "name": "Solo Pienso en Ti",
-      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
+      "duration_ms": 214881,
+      "name": "Deseos de cosas imposibles",
+      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
     }
   ],
   "unique_name": "Cantautoras",

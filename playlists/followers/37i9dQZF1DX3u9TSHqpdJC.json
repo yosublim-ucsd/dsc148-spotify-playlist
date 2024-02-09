@@ -1,7 +1,7 @@
 {
-  "2024-02-08": 205332,
+  "2024-02-09": 205403,
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: Lillian Hepler. Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: Grace Power. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -4287,6 +4287,24 @@
       "duration_ms": 187600,
       "name": "Bad Habit (Don't Make Me Bad)",
       "url": "https://open.spotify.com/track/4pLK4OgSRf2LjxsKUvFM32"
+    },
+    {
+      "album": {
+        "name": "BAD KARMA",
+        "url": "https://open.spotify.com/album/1s7LXlHTRTF4UVLh02haTn"
+      },
+      "artists": [
+        {
+          "name": "My Name Is Alex",
+          "url": "https://open.spotify.com/artist/1MaDqHjCtpHgPJHQz5bV2C"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "BAD KARMA",
+      "url": "https://open.spotify.com/track/3NONd2k32jYHxuSPGENaJU"
     },
     {
       "album": {
@@ -26866,6 +26884,24 @@
     },
     {
       "album": {
+        "name": "I'm Trying",
+        "url": "https://open.spotify.com/album/5KnD1N7X7C354kUSpgPmEO"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6rmaid",
+          "url": "https://open.spotify.com/artist/2JIx9WZoZX8BE9yJW560x5"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282661,
+      "name": "I'm Trying",
+      "url": "https://open.spotify.com/track/2oAEkesjJB7QtX9GjdmEil"
+    },
+    {
+      "album": {
         "name": "another EP",
         "url": "https://open.spotify.com/album/0SUdp9CiSPBkdUAfntxRDm"
       },
@@ -27317,6 +27353,24 @@
       "duration_ms": 179715,
       "name": "IKEA",
       "url": "https://open.spotify.com/track/1pwjJhu3zwoWNsD7oXUTXo"
+    },
+    {
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/4z3b2ipdkf4WijSlYcI6Gv"
+      },
+      "artists": [
+        {
+          "name": "Ghita",
+          "url": "https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158798,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/2du5P5ONNBbrn4vHiqV0dY"
     },
     {
       "album": {
@@ -49750,6 +49804,24 @@
     },
     {
       "album": {
+        "name": "Student",
+        "url": "https://open.spotify.com/album/7gqXdRXMyLGGWQJFaASiog"
+      },
+      "artists": [
+        {
+          "name": "Georgie & Joe",
+          "url": "https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199533,
+      "name": "Student",
+      "url": "https://open.spotify.com/track/4w0WVJWw1cm1n5FLox2Yjp"
+    },
+    {
+      "album": {
         "name": "Stupid Little Party Girl",
         "url": "https://open.spotify.com/album/2DmyC6CwLfrnhUuv6cE0bi"
       },
@@ -56243,6 +56315,24 @@
       "duration_ms": 184500,
       "name": "Venice",
       "url": "https://open.spotify.com/track/1W5xuDGaa5CEx7eaPnKgNA"
+    },
+    {
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/4kbbT0b2ORMOulej4sdUON"
+      },
+      "artists": [
+        {
+          "name": "Emily Mei",
+          "url": "https://open.spotify.com/artist/3PPvyQnDRHIwwzCWwONgRk"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147387,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/2pJBg4Qxgj7Rl7y4HPGTUw"
     },
     {
       "album": {

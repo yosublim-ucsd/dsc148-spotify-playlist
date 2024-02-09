@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq?si=kMra_ARaTXqkgg75udSQAA\"> Tems</a> ",
+  "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=kxBgQcr1Sqasp_6DZCsG1w\"> Black Sherif </a> and <a href=\"https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4?si=4oMj4ZMGQQ2IvBl0mur3QA\"> Mabel </a> ",
   "name": "Tantalizers",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 190140,
       "name": "Anogo",
       "url": "https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf"
@@ -2496,7 +2496,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 192108,
       "name": "Guava Rose",
       "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
@@ -4571,6 +4571,24 @@
     },
     {
       "album": {
+        "name": "overdose",
+        "url": "https://open.spotify.com/album/5SnkdRhNhYmzgWkaIGQijn"
+      },
+      "artists": [
+        {
+          "name": "Rowlene",
+          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203265,
+      "name": "overdose",
+      "url": "https://open.spotify.com/track/2yAkgFcID5XoXF3yRcu8tc"
+    },
+    {
+      "album": {
         "name": "Part2 (Dinner in Maui)",
         "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
       },
@@ -4898,6 +4916,24 @@
       "duration_ms": 220206,
       "name": "Raha",
       "url": "https://open.spotify.com/track/7uLsJ8BMEi78BNMUFJgsZq"
+    },
+    {
+      "album": {
+        "name": "LOVRBOY",
+        "url": "https://open.spotify.com/album/4b6RqYu2RjfGqrcB9NH3Rf"
+      },
+      "artists": [
+        {
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/59Dr6KNsWhcygOZ8yr8zLO"
     },
     {
       "album": {
@@ -5986,7 +6022,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 176283,
       "name": "To Last",
       "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
@@ -6666,6 +6702,28 @@
       "duration_ms": 218160,
       "name": "Your Dream",
       "url": "https://open.spotify.com/track/5adGSGSECey89gMxhbm1tZ"
+    },
+    {
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176692,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5"

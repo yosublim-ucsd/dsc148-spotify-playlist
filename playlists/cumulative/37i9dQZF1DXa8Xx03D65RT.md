@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-761 songs - 1 day 8 hr 1 min
+762 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [die kleine Raupe](https://open.spotify.com/track/4x0UFoPofsiqTndmsZpG2h) | [Tristen Longfellow](https://open.spotify.com/artist/7peSX5RUOIXrawTG5Ax3Lv) | [die kleine Raupe](https://open.spotify.com/album/627NSKjlFXyOS3AX801vp3) | 2:37 | 2022-05-27 | 2022-07-21 |
 | [Die Spieluhr](https://open.spotify.com/track/5nhgTDW8J5y8ZsoVm58hGv) | [Sebastian Brehm](https://open.spotify.com/artist/2nateaCtBWxcGrxgNPPjoX) | [Die Spieluhr](https://open.spotify.com/album/4LeNmjBqKBkNNSlUT10knC) | 2:39 | 2022-05-27 | 2022-09-24 |
 | [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2022-05-27 | 2023-12-02 |
-| [Dimman](https://open.spotify.com/track/0VCR5yJWXT3FQHuBFPhTm2) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:31 | 2022-05-27 |  |
+| [Dimman](https://open.spotify.com/track/0VCR5yJWXT3FQHuBFPhTm2) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:31 | 2022-05-27 | 2024-02-09 |
 | [Dinant](https://open.spotify.com/track/6OMDq58l1Aj0NfutF14Kcq) | [Willa Jacobs](https://open.spotify.com/artist/3kC9ly7aDuSfEPXmPIemvc) | [Dinant](https://open.spotify.com/album/2KaWMPt1cekOlzNy3H47fG) | 2:11 | 2022-05-27 | 2023-10-02 |
 | [Distance](https://open.spotify.com/track/3NywRjjYjyrTjCvV1CcPjD) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Distance](https://open.spotify.com/album/3Jal7rGnVgw21HuUs14Knd) | 2:26 | 2022-05-27 | 2022-08-10 |
 | [Divided](https://open.spotify.com/track/6ZsneTepMm115P6isojL6R) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Divided](https://open.spotify.com/album/1s5iJHPOqx0gCVVwwXR82B) | 2:11 | 2022-05-27 | 2022-08-10 |
@@ -666,6 +666,7 @@
 | [The Slow Down](https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [The Slow Down](https://open.spotify.com/album/1SWBVisYgwJoj0e3Xiu0Db) | 2:09 | 2023-02-20 |  |
 | [The Stars And The Sea](https://open.spotify.com/track/3qKxRzPbXwEG3AFnpOFCVq) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [The Stars And The Sea](https://open.spotify.com/album/0cqCFH41n3f5RllKGazO8u) | 2:24 | 2023-06-19 |  |
 | [There and Then](https://open.spotify.com/track/2sTPEZ07GXOaHASVh9qRPa) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [I Will Keep Sailing](https://open.spotify.com/album/6SdP8WiS8kYFKHnPOsRg27) | 2:24 | 2023-12-18 |  |
+| [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 | 2024-02-05 |  |
 | [They'll be out for us](https://open.spotify.com/track/1kaj6oW9veB9lAvUuy52TC) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [They'll be out for us](https://open.spotify.com/album/35CFT5d4Vus6953tBe0eYJ) | 2:17 | 2023-03-20 |  |
 | [Thirsty Conversation](https://open.spotify.com/track/16fE7hNcwAY1jLN8eJJ22a) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Thirsty Conversation](https://open.spotify.com/album/7EEPkMNW7fV2EODmZB0Kuz) | 2:14 | 2023-09-04 |  |
 | [Those Moments](https://open.spotify.com/track/6LBeWgaeVS1VpxEcFp7FJH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Those Moments](https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g) | 2:05 | 2022-05-27 | 2023-03-18 |

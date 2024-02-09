@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 
 > This is Danny Ocean\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,413 likes - 45 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,492 likes - 45 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 44 | [Midsummer Madness 20 \(feat\. Joji, Rich Brian, Higher Brothers & AUGUST 08\)](https://open.spotify.com/track/0VmMIGnMGIwOEiqueyS9vw) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Higher Brothers](https://open.spotify.com/artist/07ZhipyrvoyNoJejeyM0PQ), [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Midsummer Madness 20 \(feat\. Joji, Rich Brian, Higher Brothers & AUGUST 08\)](https://open.spotify.com/album/6poPSXNGSa5b9KOpB4YPyZ) | 4:06 |
 | 45 | [que lo que](https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [que lo que](https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu) | 2:04 |
 
-Snapshot ID: `Mjg0NTUxMzMsMDAwMDAwMDAwMTNkNTQ4YTU2NTExMWE1N2QzNjgzYmUxY2ViNGI2OQ==`
+Snapshot ID: `Mjg0NTY1OTMsMDAwMDAwMDA3ZmU0OWFmMTI1MmQ3NmM4NDQ0MGQ0MGVjM2Y3OTQ1Mw==`

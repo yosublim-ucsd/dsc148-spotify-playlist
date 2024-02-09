@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-170 songs - 10 hr 2 min
+171 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Once again](https://open.spotify.com/track/0397OJPbHsKQVMYK7P34vI) | [Haeun Jang](https://open.spotify.com/artist/2qYrryru6IIfZVMN8HyGnn) | [Once again](https://open.spotify.com/album/2N2GWrRzPjpcEr6Ihy6tpB) | 3:59 | 2022-12-26 | 2023-01-11 |
 | [Our Endless Sea \(All the way to you\)](https://open.spotify.com/track/3LcdUoTKft3YWEtD0kZsLm) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Endless Sea \(All the way to you\)](https://open.spotify.com/album/0Z0gQleFzsGTfWQFWfq3mM) | 3:24 | 2022-05-03 | 2022-07-27 |
 | [Our love](https://open.spotify.com/track/4z5ym2rgXuOUKh7za9ktx2) | [CHOYEORAE](https://open.spotify.com/artist/0MVuyeZLOvw6KzkcO7pbqv) | [Our love](https://open.spotify.com/album/4fuN6kPyGZIDuSN1hQyqw5) | 2:56 | 2022-07-04 | 2022-07-09 |
-| [People](https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 3:25 | 2023-04-07 |  |
+| [People](https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 3:25 | 2023-04-07 | 2024-02-09 |
 | [poet](https://open.spotify.com/track/0lwTmD4lQHQMzTaUiwuZAw) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6XTJ0oUripnxcG2X0jCWKo) | 2:41 | 2022-05-03 | 2022-07-18 |
 | [Quince Tree](https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu) | [Yozoh](https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7) | [Quince Tree](https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF) | 3:07 | 2022-05-03 | 2023-11-26 |
 | [right now](https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [right now](https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs) | 2:15 | 2022-10-05 | 2023-07-08 |
@@ -109,6 +109,7 @@
 | [River](https://open.spotify.com/track/5PIjg4JMTmXKDaSB2NHz7W) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [River](https://open.spotify.com/album/53WCVemmNJoLH2ptEs1csA) | 4:11 | 2022-07-04 | 2022-07-29 |
 | [River Flows In You](https://open.spotify.com/track/2V05KB0icP3LeekILjSqhR) | [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [On you 1/2](https://open.spotify.com/album/4uq7CfGxIbppRq3wa2r0z4) | 4:14 | 2022-05-03 | 2022-07-27 |
 | [Rocking Chair](https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Rocking Chair](https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU) | 3:54 | 2022-08-29 | 2022-09-06 |
+| [Sapporo](https://open.spotify.com/track/0x0Ph3JNjxQ4I2qZalZaUQ) | [Kim Pil Sun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [Sapporo](https://open.spotify.com/album/1NmKy8eYwYsSZ9QQ87fjPk) | 3:44 | 2023-11-04 |  |
 | [Sapporo 삿포로에 갈까요](https://open.spotify.com/track/6ru1W8qsMTLAvTrHC907A2) | [Kim Pil Sun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [Sapporo 삿포로에 갈까요](https://open.spotify.com/album/5V3jrh1Td4XjWNszBcUaPu) | 3:44 | 2022-05-03 | 2022-07-19 |
 | [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 | 2022-07-04 | 2023-07-08 |
 | [Shadow](https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg) | [Jo eunsae](https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj) | [Shadow](https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q) | 3:27 | 2023-01-25 |  |

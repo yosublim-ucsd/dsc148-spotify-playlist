@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177 likes - 341 songs - 16 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 177 likes - 340 songs - 16 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,8 +206,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 196 | [Fica de Boaça \- Ao Vivo](https://open.spotify.com/track/78aVJXnlZSXmIq7YBcZD7R) | [Thiago Martins](https://open.spotify.com/artist/6YC7cpdxB25jOfSXC8JQCd), [Jeito Moleque](https://open.spotify.com/artist/3V7U1x0TRBn7spzHDQiZhi) | [7550 Dias \(Ao Vivo\)](https://open.spotify.com/album/4h8Xr4AE0gZWazLvT2liCn) | 2:39 |
 | 197 | [Beijo Copiado](https://open.spotify.com/track/30u65Sc9NT96nZu6sURWsa) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Beijo Copiado](https://open.spotify.com/album/5dePgI40qsgDa83TUSgKzf) | 2:38 |
 | 198 | [Amnésia](https://open.spotify.com/track/7ItPVupi4vvJPG5bRoKoOp) | [Wallas Arrais](https://open.spotify.com/artist/33GsYMJgWMgIt4vbhUwTEe) | [Vibrations](https://open.spotify.com/album/4KUSZZs7eDgNK2OlCUdBhZ) | 2:37 |
-| 199 | [Admito](https://open.spotify.com/track/5k9jYrPAEzfKgwsPQIM36Y) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [10/10](https://open.spotify.com/album/1vtCgnZBLk7Vio272EhOr4) | 3:16 |
-| 200 | [Eu Tô Com Você](https://open.spotify.com/track/2xYeevuVaGyf8C6ZlBuWh8) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:04 |
+| 199 | [Eu Tô Com Você](https://open.spotify.com/track/2xYeevuVaGyf8C6ZlBuWh8) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:04 |
+| 200 | [Admito](https://open.spotify.com/track/5k9jYrPAEzfKgwsPQIM36Y) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [10/10](https://open.spotify.com/album/1vtCgnZBLk7Vio272EhOr4) | 3:16 |
 | 201 | [Nunca Foi Tão Gostoso \- Ao Vivo](https://open.spotify.com/track/5RpAYFxIR8vMfdRBIeVTDF) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [SIM \(Ao Vivo\)](https://open.spotify.com/album/6kszUny79kdRIfzTCEYnHK) | 2:42 |
 | 202 | [SE ENROLOU \(Ao Vivo\)](https://open.spotify.com/track/1kD5rjmVqa5DugtWQSCmOB) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [SOM DE FACULDADE PRA VOCÊ \(Ao Vivo\)](https://open.spotify.com/album/6FnUBVHRvKPTk901s0JiR4) | 2:35 |
 | 203 | [Vida de Solteiro \- Ao Vivo](https://open.spotify.com/track/0gFuMjx6xR1zHxrcPwfdrz) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl) | [Quem Sabe Faz ao Vivo](https://open.spotify.com/album/6JinqrxXHOFHFz0U8mprqp) | 2:50 |
@@ -342,12 +342,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 332 | [Estilo American Pie](https://open.spotify.com/track/0gf7roKbD6H1VUkyRu6GMZ) | [Ruann Veras](https://open.spotify.com/artist/50pcuS0C1MrFnGNhvg8zEI) | [O Don Ruann](https://open.spotify.com/album/6DYbSEwv28Q98JQ0OT90vY) | 2:47 |
 | 333 | [Se Eu Piscar Ela Volta](https://open.spotify.com/track/0uGH74ABGXxVxWQYJaPzHQ) | [Alessandro Maia](https://open.spotify.com/artist/3GzZtVg9uutebpuoFID1Ew) | [Alessandro Maia](https://open.spotify.com/album/5e7I0iIlxGGDMwhIvAkjqK) | 2:17 |
 | 334 | [Sai da Minha Vida](https://open.spotify.com/track/4JiLohBkjT1teY0TcIbmEQ) | [Marcelo Café](https://open.spotify.com/artist/7lwErY3K9TVRyF71Cz1nLX) | [Depois do Samba](https://open.spotify.com/album/6QV7T2mC6NrmXiR1V3JzQf) | 3:16 |
-| 335 | [Atiradinha \- Ao Vivo](https://open.spotify.com/track/1tAyd99jKjRkXWyNxZyF3a) | [Roniel & Rafael](https://open.spotify.com/artist/4z1aUeMY7RekXdGPu41qZf) | [Arrastão \(Ao Vivo\)](https://open.spotify.com/album/1U40IXgYkRS2g2npfi8lAC) | 2:19 |
-| 336 | [Erro Consciente](https://open.spotify.com/track/69t8CfIP2pLEQeLNTvhABF) | [Fabrício Rodrigues](https://open.spotify.com/artist/0ionm2jgpodXYcKXeJaSfI) | [Erro Consciente](https://open.spotify.com/album/1ttOux7y2bIHDuAXeLoWFS) | 2:32 |
-| 337 | [A Mala](https://open.spotify.com/track/63c83YDpAv9lNMki7WxpvD) | [Banda Os3](https://open.spotify.com/artist/11h78bXFcmu3cQrNsRSulG) | [A Mala](https://open.spotify.com/album/4g6F3WuVRHQVHQSKaDxVmK) | 2:44 |
-| 338 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
-| 339 | [Pra Mim Já Deu](https://open.spotify.com/track/5pqxxqrimhw4MvWt2VpF5N) | [Marcos Junior](https://open.spotify.com/artist/21qtIXMQloy90K1297vwAx) | [Terceiro Disco](https://open.spotify.com/album/0gL5IspFhmEyN44gjTvHfs) | 2:43 |
-| 340 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
-| 341 | [Até Nunca Mais](https://open.spotify.com/track/1KpJLFtyb5vILOtDHPHTYC) | [Luis Morall](https://open.spotify.com/artist/4znAbxlWOo5iilmf7yVh2X), [Vinícius o Baixinho](https://open.spotify.com/artist/6abOe7bMUkJaJNNdUkFRVq) | [Antes Só do Que Mal Acompanhado](https://open.spotify.com/album/3pZSgI8oEeP7Xa6937gqug) | 3:15 |
+| 335 | [Erro Consciente](https://open.spotify.com/track/69t8CfIP2pLEQeLNTvhABF) | [Fabrício Rodrigues](https://open.spotify.com/artist/0ionm2jgpodXYcKXeJaSfI) | [Erro Consciente](https://open.spotify.com/album/1ttOux7y2bIHDuAXeLoWFS) | 2:32 |
+| 336 | [A Mala](https://open.spotify.com/track/63c83YDpAv9lNMki7WxpvD) | [Banda Os3](https://open.spotify.com/artist/11h78bXFcmu3cQrNsRSulG) | [A Mala](https://open.spotify.com/album/4g6F3WuVRHQVHQSKaDxVmK) | 2:44 |
+| 337 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
+| 338 | [Pra Mim Já Deu](https://open.spotify.com/track/5pqxxqrimhw4MvWt2VpF5N) | [Marcos Junior](https://open.spotify.com/artist/21qtIXMQloy90K1297vwAx) | [Terceiro Disco](https://open.spotify.com/album/0gL5IspFhmEyN44gjTvHfs) | 2:43 |
+| 339 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
+| 340 | [Até Nunca Mais](https://open.spotify.com/track/1KpJLFtyb5vILOtDHPHTYC) | [Luis Morall](https://open.spotify.com/artist/4znAbxlWOo5iilmf7yVh2X), [Vinícius o Baixinho](https://open.spotify.com/artist/6abOe7bMUkJaJNNdUkFRVq) | [Antes Só do Que Mal Acompanhado](https://open.spotify.com/album/3pZSgI8oEeP7Xa6937gqug) | 3:15 |
 
-Snapshot ID: `Mjg0NTU5NzAsMDAwMDAwMDAwMGZiM2M2NzRhZDU4NDkxY2JiYzJmM2JiNGE2YmRhNQ==`
+Snapshot ID: `Mjg0NTc0MTAsMDAwMDAwMDA1ODNlYzVhMDk5M2Q0OGM3ODUyM2JmMDA3YWU3NjBmNw==`

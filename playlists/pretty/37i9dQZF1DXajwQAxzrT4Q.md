@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,362 likes - 75 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,506 likes - 75 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 13 | [Need \(Bonus Track\)](https://open.spotify.com/track/01aojvlRe3mwlEwTnLVUbs) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [B2B](https://open.spotify.com/album/51Esh2ddbUkN2u9P00PFR8) | 2:37 |
 | 14 | [All My Ladies](https://open.spotify.com/track/3rIrIajLfPH2pom9OLlJwY) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [All My Ladies](https://open.spotify.com/album/1l1zRxLqhq4woSMIwK5VwG) | 1:13 |
 | 15 | [I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:32 |
-| 16 | [NO IDEA \#jerseyclub](https://open.spotify.com/track/0CL7inoRs82nkhuRyxjqmg) | [SUKI](https://open.spotify.com/artist/343XMDCksvdaU1XrNmthr3) | [NO IDEA \#jerseyclub](https://open.spotify.com/album/1jVuBD5qkC4WYWYjtcwtXq) | 2:36 |
+| 16 | [NO IDEA \#jerseyclub](https://open.spotify.com/track/2knQV910pRApBTskceof9W) | [SUKI](https://open.spotify.com/artist/343XMDCksvdaU1XrNmthr3) | [NO IDEA \#jerseyclub](https://open.spotify.com/album/6K1pTq3tBvXMYu3kGClcWJ) | 2:36 |
 | 17 | [Pretty Ones](https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU) | 3:41 |
 | 18 | [Boy's a Liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 |
 | 19 | [Beat it Up 2k23](https://open.spotify.com/track/7dW44unUq1kL0Hku6wq7uj) | [DJ Difficult](https://open.spotify.com/artist/6n5uPTOp1khc829NG6tQ39), [A.B.E](https://open.spotify.com/artist/6xZs87XR7vPelRzsbyz17R), [Slice ThaHitMaker](https://open.spotify.com/artist/6Vmkl1MWtu88DAcSWoMmul) | [Beat it Up 2k23](https://open.spotify.com/album/2MW2quIyd72cp0Gv8vtc4n) | 3:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 74 | [Birthday](https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Kajun Waters](https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY) | [Birthday](https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs) | 2:20 |
 | 75 | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/track/1dZfpzXVhQetMDqEavVvoA) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/album/2bLhwd0GP1ok9qIrBlT6CV) | 2:24 |
 
-Snapshot ID: `MCxkNGJhZjc2N2EwMmFjNjMyMTBjOTkwMDc2ZTU3ZWU1MmM5NTYxNzFm`
+Snapshot ID: `MCw4YjY4MzliM2RkMmI4OTM3YTZjYTJkNTI4NTIyYjNlZDc0YmY4ZjA1`

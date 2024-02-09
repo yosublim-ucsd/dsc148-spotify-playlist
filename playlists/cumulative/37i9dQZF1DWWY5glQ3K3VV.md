@@ -4,7 +4,7 @@
 
 > Canzoni rap per party fino al mattino! Cover: Rhove, ANNA
 
-227 songs - 11 hr 30 min
+228 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Diamond In The Dark \- DJ Premier Remix](https://open.spotify.com/track/3hBargI0gaRpRDWWdfGGD3) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Diamond In The Dark EP](https://open.spotify.com/album/45fmMoYeRg2MU3zSBIeRfF) | 3:24 | 2022-12-30 | 2023-01-11 |
 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 | 2022-12-30 | 2023-01-11 |
 | [Diet Coke](https://open.spotify.com/track/2qDTVDLjK4PctCvC8Mg19x) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 3:00 | 2022-12-30 | 2023-01-11 |
-| [DIOSA \(feat\. Peppe Soks\) \- Remix](https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys) | [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [DIOSA \(feat\. Peppe Soks\) \[Remix\]](https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE) | 2:23 | 2022-05-01 |  |
+| [DIOSA \(feat\. Peppe Soks\) \- Remix](https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys) | [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [DIOSA \(feat\. Peppe Soks\) \[Remix\]](https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE) | 2:23 | 2022-05-01 | 2024-02-09 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-12-30 | 2023-01-11 |
 | [Dorado \(feat\. Sfera Ebbasta & Feid\)](https://open.spotify.com/track/1kI7mZAziaRfBeAOraRW1i) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Dorado \(feat\. Sfera Ebbasta & Feid\)](https://open.spotify.com/album/1AlYgD1SjWC0r4xpgnI4WF) | 2:58 | 2022-05-01 | 2023-06-09 |
 | [Down In Atlanta](https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Down In Atlanta](https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp) | 2:44 | 2022-12-30 | 2023-01-11 |
@@ -116,6 +116,7 @@
 | [Hotline Bling](https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:27 | 2022-05-01 |  |
 | [I Find It Hard](https://open.spotify.com/track/3HXMz5tYDJtmNonmSgHHDQ) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [I Find It Hard](https://open.spotify.com/album/4qzkCfIM5aVj23w3BzKYC8) | 2:58 | 2022-12-30 | 2023-01-11 |
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2024-01-25 |  |
+| [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 | 2024-02-08 |  |
 | [Il Doc 2 \(feat\. Tony Effe & Guè\)](https://open.spotify.com/track/2mKxTSrVPzc6dS8VqNTIYZ) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Il Doc 2 \(feat\. Tony Effe & Guè\)](https://open.spotify.com/album/1Ldy8KRZOLtwLJP3NmIR3q) | 2:54 | 2022-05-01 | 2023-06-04 |
 | [IMPORTANTE](https://open.spotify.com/track/7tsTlt7Kwj2tFvpukBtZd4) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI \(Deluxe\)](https://open.spotify.com/album/1qfURwkRukKvemVbObKJXy) | 3:21 | 2022-12-30 | 2023-01-11 |
 | [In My Feelings](https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:37 | 2022-07-28 |  |

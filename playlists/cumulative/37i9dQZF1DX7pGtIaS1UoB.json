@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 273950,
       "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB"
@@ -3456,6 +3456,28 @@
       "duration_ms": 186122,
       "name": "\u5fc3\u52d5\u62cd\u62cd",
       "url": "https://open.spotify.com/track/7sUbenrBzw6retvleBHvUB"
+    },
+    {
+      "album": {
+        "name": "\u5fc3\u5f15\u529b",
+        "url": "https://open.spotify.com/album/5oy4TAALay9YdGkPP292sS"
+      },
+      "artists": [
+        {
+          "name": "\u738b\u4fca\u51f1",
+          "url": "https://open.spotify.com/artist/0rVLyv4xouX9M4GCq3VuP5"
+        },
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257785,
+      "name": "\u5fc3\u5f15\u529b",
+      "url": "https://open.spotify.com/track/57izWRQXkuKYpQ4RHNYi24"
     },
     {
       "album": {

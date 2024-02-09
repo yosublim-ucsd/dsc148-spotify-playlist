@@ -1,7 +1,7 @@
 {
-  "2024-02-08": 50354,
+  "2024-02-09": 50361,
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Alchemy, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: maahi, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -351,7 +351,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 212692,
       "name": "Aangan",
       "url": "https://open.spotify.com/track/5fQ68f0syCRx6dJoJvyxEh"
@@ -1055,7 +1055,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 247077,
       "name": "All Afternoon",
       "url": "https://open.spotify.com/track/2bHH3I9iNj9fGJ65v84SmS"
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 149333,
       "name": "All Love",
       "url": "https://open.spotify.com/track/2nuzw8kbyXIv1NbFsQEdz9"
@@ -3430,6 +3430,28 @@
     },
     {
       "album": {
+        "name": "Chupke Se",
+        "url": "https://open.spotify.com/album/4HtzchXd1UF5p6v8qZe2k2"
+      },
+      "artists": [
+        {
+          "name": "Apurva Krishna",
+          "url": "https://open.spotify.com/artist/4Mv4apQaWzG4FtYA5XsJch"
+        },
+        {
+          "name": "Manya Narang",
+          "url": "https://open.spotify.com/artist/2WZl1N4qrNuqiLpX74fcQY"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181997,
+      "name": "Chupke Se",
+      "url": "https://open.spotify.com/track/5L0MhrWySbzU5qgo0Zjhvo"
+    },
+    {
+      "album": {
         "name": "Cigarettes",
         "url": "https://open.spotify.com/album/18432lCOudmllYiXV7nQ3p"
       },
@@ -4349,7 +4371,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 224470,
       "name": "Dil Ki Dastan",
       "url": "https://open.spotify.com/track/3S0kZyO86KTfKae540RV3I"
@@ -5841,7 +5863,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 138000,
       "name": "Foolin Me",
       "url": "https://open.spotify.com/track/5G5szalMicxBteuENyeSzI"
@@ -7101,6 +7123,24 @@
       "duration_ms": 280250,
       "name": "Humnasheen",
       "url": "https://open.spotify.com/track/6tZ4vuMAQBfC7wjuu3lXTY"
+    },
+    {
+      "album": {
+        "name": "Humsafar",
+        "url": "https://open.spotify.com/album/2cCpOQ5sudES90c2PpiZSR"
+      },
+      "artists": [
+        {
+          "name": "Akarsh Sahay",
+          "url": "https://open.spotify.com/artist/5DUELRrlNCZJVzpPDviyOA"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179624,
+      "name": "Humsafar",
+      "url": "https://open.spotify.com/track/4wkWDjIrSPTZD7JGidmoGQ"
     },
     {
       "album": {
@@ -8730,6 +8770,24 @@
     },
     {
       "album": {
+        "name": "Jo Tu Mere Paas Hai",
+        "url": "https://open.spotify.com/album/0o4QiTAQaLXZdlXR0PlI0K"
+      },
+      "artists": [
+        {
+          "name": "Yohan Marshall",
+          "url": "https://open.spotify.com/artist/69FVuMNh5n6YNPq6Qf42rD"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Jo Tu Mere Paas Hai",
+      "url": "https://open.spotify.com/track/5e8LGG7AenfzV7Yq44wbkZ"
+    },
+    {
+      "album": {
         "name": "Jo Tum Ho",
         "url": "https://open.spotify.com/album/0enBHmgJ2zbBGgx5EtrIM0"
       },
@@ -9742,6 +9800,46 @@
     },
     {
       "album": {
+        "name": "Karwaan",
+        "url": "https://open.spotify.com/album/5LkI9Xo5tT9chCbN1poIX4"
+      },
+      "artists": [
+        {
+          "name": "Antariksh",
+          "url": "https://open.spotify.com/artist/4RzIOJu74yNYeSHL3ri60l"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205449,
+      "name": "Karwaan",
+      "url": "https://open.spotify.com/track/7rX6leu4GjfI4ETEk7na8T"
+    },
+    {
+      "album": {
+        "name": "Kashtiyan",
+        "url": "https://open.spotify.com/album/6T3yx6DupQnBVyuNvMbCcO"
+      },
+      "artists": [
+        {
+          "name": "Saurabh Verma",
+          "url": "https://open.spotify.com/artist/34i113bxc0TjAIi5rnyCQu"
+        },
+        {
+          "name": "Lakshay Kathayat",
+          "url": "https://open.spotify.com/artist/5o2jdHlY9RsfT7NT8CXxNb"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125805,
+      "name": "Kashtiyan",
+      "url": "https://open.spotify.com/track/2ObF1rWJ3lrtgrzUQRL9NG"
+    },
+    {
+      "album": {
         "name": "Kerala Gold",
         "url": "https://open.spotify.com/album/1qLZpZCcblnRufxswkNLBn"
       },
@@ -10078,6 +10176,28 @@
     },
     {
       "album": {
+        "name": "Khoyi Rahun",
+        "url": "https://open.spotify.com/album/7BaoJCES7QmkjmjovymEZ0"
+      },
+      "artists": [
+        {
+          "name": "Heer",
+          "url": "https://open.spotify.com/artist/0uH1LJjLJyf6KcY2i2iftp"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182790,
+      "name": "Khoyi Rahun",
+      "url": "https://open.spotify.com/track/0QnYhoGvcUlNh3PDPZAlHP"
+    },
+    {
+      "album": {
         "name": "Khud Se Mohabbat",
         "url": "https://open.spotify.com/album/2vZNU2mvb3AcSwQUIb9N2O"
       },
@@ -10325,7 +10445,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 196173,
       "name": "Khwahishein",
       "url": "https://open.spotify.com/track/6lR3PXxzHicxf6h3a5Rbip"
@@ -11477,7 +11597,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 144705,
       "name": "Maan Ja Zara",
       "url": "https://open.spotify.com/track/6c3brBDVASgStziYbSJ66o"
@@ -11877,6 +11997,28 @@
       "duration_ms": 250410,
       "name": "Mann",
       "url": "https://open.spotify.com/track/0wnbfXjvkiDBbKhzefKSoW"
+    },
+    {
+      "album": {
+        "name": "Mann Hi Mann",
+        "url": "https://open.spotify.com/album/4BlnC44oK34POOEd3Qe9ap"
+      },
+      "artists": [
+        {
+          "name": "Amisha Gupta",
+          "url": "https://open.spotify.com/artist/4Qr0ib42pDD8xJ98ig167m"
+        },
+        {
+          "name": "Hari",
+          "url": "https://open.spotify.com/artist/0hkjRsDyjzLYytCwmcMFbb"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Mann Hi Mann",
+      "url": "https://open.spotify.com/track/2VNBxLsVaPnIn0AV7dLfbd"
     },
     {
       "album": {
@@ -14092,6 +14234,24 @@
     },
     {
       "album": {
+        "name": "Pass Aao Na",
+        "url": "https://open.spotify.com/album/34WOu1Sn5tMYUzoPbGYvbN"
+      },
+      "artists": [
+        {
+          "name": "Aryan Singh",
+          "url": "https://open.spotify.com/artist/4cekoMaIUuCxNHwA1qOJmR"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175718,
+      "name": "Pass Aao Na",
+      "url": "https://open.spotify.com/track/5dMgtiJuf0imrt6pOguxtb"
+    },
+    {
+      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/6vGx08lVqzvjtL9Q07hN6N"
       },
@@ -14780,6 +14940,24 @@
     },
     {
       "album": {
+        "name": "Raaton Mein Ojhal",
+        "url": "https://open.spotify.com/album/3dpOjEIxsKy5hn3DzbcEvs"
+      },
+      "artists": [
+        {
+          "name": "Antara Ansuna",
+          "url": "https://open.spotify.com/artist/0l9ZEXWJf65ojEUN4goWLq"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230307,
+      "name": "Raaton Mein Ojhal",
+      "url": "https://open.spotify.com/track/2Y4JIYsQApYzzmvCWo9r2z"
+    },
+    {
+      "album": {
         "name": "Raaz Tera Mera",
         "url": "https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK"
       },
@@ -15413,6 +15591,24 @@
       "duration_ms": 145000,
       "name": "Roya - Unplugged",
       "url": "https://open.spotify.com/track/7yLB8LVWVl45FVw6UbIgrB"
+    },
+    {
+      "album": {
+        "name": "Roye Mera Mann",
+        "url": "https://open.spotify.com/album/7Hp7ZfXZN0cl8TaPoJ6jeR"
+      },
+      "artists": [
+        {
+          "name": "Vincent Boral",
+          "url": "https://open.spotify.com/artist/0ZWcvDl5x0q79wjTREH2IH"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129024,
+      "name": "Roye Mera Mann",
+      "url": "https://open.spotify.com/track/7J0ZVT3BxoNz2B2MSoAmCR"
     },
     {
       "album": {
@@ -16912,6 +17108,24 @@
     },
     {
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/2vrd17KOyWQn8MRuk4ic1a"
+      },
+      "artists": [
+        {
+          "name": "maahi",
+          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197850,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/5lhaut6siOfKf5qlkDMaY2"
+    },
+    {
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/6PVYVEqMnMn6QHZ0Vyh3XA"
       },
@@ -17863,7 +18077,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 111999,
       "name": "Teri Aankhein",
       "url": "https://open.spotify.com/track/59TIrEZy3cj0mj09ynvCqb"
@@ -18257,7 +18471,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 235808,
       "name": "This Is All We've Got",
       "url": "https://open.spotify.com/track/6mbIvoUeLHH4gLLXuSLnXN"
@@ -18799,7 +19013,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 147000,
       "name": "Tu Jaavi Na",
       "url": "https://open.spotify.com/track/5Y1BwVhDDC2cTiAcMozPNj"
@@ -18923,6 +19137,28 @@
       "duration_ms": 211303,
       "name": "Tu Na Mile",
       "url": "https://open.spotify.com/track/3Heka6vahzY7CFGmr6Jl6L"
+    },
+    {
+      "album": {
+        "name": "Tu Paas Hai",
+        "url": "https://open.spotify.com/album/2MUYflaUyFr2Zm8vgizQK1"
+      },
+      "artists": [
+        {
+          "name": "SSD",
+          "url": "https://open.spotify.com/artist/481cjO2pjxf0U1eUVnmH6H"
+        },
+        {
+          "name": "Diptanshu Tiwari",
+          "url": "https://open.spotify.com/artist/59mS8hSfhbkJoQNQ4BwaDk"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212724,
+      "name": "Tu Paas Hai",
+      "url": "https://open.spotify.com/track/16o2ASTSiJOpHp225xHvPI"
     },
     {
       "album": {
@@ -20885,7 +21121,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 253793,
       "name": "You",
       "url": "https://open.spotify.com/track/55LeP0y5vSOkdYCttdD6Q2"
@@ -21073,7 +21309,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 178220,
       "name": "Zaai Go?",
       "url": "https://open.spotify.com/track/7D4ANCfZ9XG2lZynrZUYCz"

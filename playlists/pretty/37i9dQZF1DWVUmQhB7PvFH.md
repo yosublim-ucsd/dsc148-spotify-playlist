@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 陶喆 \(David Tao\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,037 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,131 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 49 | [死了都要愛](https://open.spotify.com/track/3ACOnPSMkn60ll5r2w6IaX) | [信樂團](https://open.spotify.com/artist/1YfpT6Dl8tJDmYQKWRoxjn) | [挑信](https://open.spotify.com/album/3VEr3aGiOuU9l1UEghIsai) | 4:29 |
 | 50 | [黑色幽默](https://open.spotify.com/track/2VEqGDT1sCjL3pE18PNlPL) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/1Q4Kv3F8xwz7oxRP48grON) | 4:43 |
 
-Snapshot ID: `MCw1NTFlMmRkOTY1YWY0NDY2MmI0YmRkOTBjMDdkOTQzZmM4ZTUwYTAy`
+Snapshot ID: `MCxkZmI0MWFiYWM0YThlOWJjNThiYjNlNzAxNzEwYTE0MGY1NTgwNjli`

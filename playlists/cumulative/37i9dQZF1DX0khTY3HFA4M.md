@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-703 songs - 1 day 3 hr 30 min
+708 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [BreakPause](https://open.spotify.com/track/6bp8HVzGSmBifuGUv7E9VY) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [BreakPause](https://open.spotify.com/album/5RHs5tObjDPgnw7hPdhc9s) | 1:54 | 2023-01-13 |  |
 | [Breath](https://open.spotify.com/track/1kxlTggsWeb3gJyvWfiAeH) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [Breath](https://open.spotify.com/album/1Wge7xinxIFw8XQ4rOfaa5) | 2:10 | 2023-01-13 | 2023-10-06 |
 | [Breathe](https://open.spotify.com/track/5BvZc6BAl9mNTxhos2uPDZ) | [Suede Wallet](https://open.spotify.com/artist/2oTCWOKOMia5kg2jep7nKY) | [Breathe](https://open.spotify.com/album/7IAS1XLDJ0vxbdISd1FvLG) | 2:11 | 2023-01-13 | 2023-09-29 |
+| [Brief](https://open.spotify.com/track/6caIcf9eRI7X8wHp7GeWNZ) | [Tuva Sersh](https://open.spotify.com/artist/7iM8O4ZKvjeOFDPBkxncPk) | [Brief](https://open.spotify.com/album/6atjEq08QMtLbB8PKqQQKl) | 2:22 | 2024-02-09 |  |
 | [bublee](https://open.spotify.com/track/68PhAtE0qKcoi2ZeQsfXsH) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [bublee](https://open.spotify.com/album/6xr1sPMwIVBzjP1rTbfHjN) | 2:34 | 2023-07-19 |  |
 | [Building Castles](https://open.spotify.com/track/6XRtSSqhBLX8ooT50BvgWM) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [Some Place Else](https://open.spotify.com/artist/1SC2zBKG1R2xvtxpCO7W11) | [Building Castles](https://open.spotify.com/album/6FRrNn04Rtn2YScAU8D0mw) | 2:26 | 2023-01-13 | 2023-09-16 |
 | [bulb](https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bulb](https://open.spotify.com/album/6oBfJtYLWBE3f3fY8dK7Pl) | 2:05 | 2023-01-13 |  |
@@ -244,9 +245,11 @@
 | [Gin and Juice](https://open.spotify.com/track/577eS1qX7KavxnPQ8VzHHq) | [Nivla](https://open.spotify.com/artist/3VkGnJN59AU5YmXltksYR5) | [Gin and Juice](https://open.spotify.com/album/25ClORT43tMu5YEhddfUn0) | 1:32 | 2023-01-13 |  |
 | [GIN BASIL SMASH](https://open.spotify.com/track/4Zq8GBwC9oZZNo15i8P5ne) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [GIN BASIL SMASH](https://open.spotify.com/album/0A5jQiXL9zaGXsO4zSGY6R) | 2:18 | 2023-09-04 | 2023-09-08 |
 | [GINGERBREAD BLUES](https://open.spotify.com/track/6K4DpteiYnqkUPthcDH8fS) | [tonierki](https://open.spotify.com/artist/3Qx6Bz5YA5r33ZYefoU0bY) | [GINGERBREAD BLUES](https://open.spotify.com/album/4HSkwkMKwjUWybEYbM7CnT) | 2:04 | 2023-01-13 |  |
+| [Glitch Flower](https://open.spotify.com/track/5FILcC4AkPVuPdEqINDWNX) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Glitch Flower](https://open.spotify.com/album/4dwzeOvMJCTIBGiUFw82rO) | 2:52 | 2024-02-09 |  |
 | [Glitter](https://open.spotify.com/track/04jmtfMsshOdbhevoSzBxG) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Glitter](https://open.spotify.com/album/4q6i13TRVpaE0xDBOpJAhM) | 1:35 | 2023-01-13 | 2023-09-16 |
 | [Global High](https://open.spotify.com/track/2FNVT0ug04lPM1pR4jnww8) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Yea Yeh Yeah](https://open.spotify.com/album/3ubTgGUXl1nkxQ1kGyShFH) | 1:34 | 2023-04-11 | 2023-10-20 |
 | [gm](https://open.spotify.com/track/7tRXsjW8Yoz6xMaxprsQYm) | [DupsU](https://open.spotify.com/artist/3exFwW4ib4gy068VQZYAgg) | [gm](https://open.spotify.com/album/14p1U9dldMnEXP1ToIx8YA) | 2:09 | 2023-01-13 |  |
+| [Golden](https://open.spotify.com/track/04KynVoyrEf4OU48Dw9hgS) | [francesca rose](https://open.spotify.com/artist/47i0uOrWb8XXMYQIa9R9qA) | [Golden](https://open.spotify.com/album/7yK2AwASUtViC4CvC3r7qE) | 2:10 | 2024-02-09 |  |
 | [Golden Leaves](https://open.spotify.com/track/7lY30OriUEqDsaywYkEaee) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Golden Leaves](https://open.spotify.com/album/7II0W0CARooGYHE40NIHyU) | 2:34 | 2023-01-13 |  |
 | [Golden Times](https://open.spotify.com/track/7joi6u7WqoYvqLRTzUaAE4) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA) | [Golden Times](https://open.spotify.com/album/1PSeWm89phT1LKuH0aX6NR) | 2:07 | 2023-01-13 | 2023-09-29 |
 | [Golden Touch](https://open.spotify.com/track/04OsEYtxUCpWsvGORU0Ej7) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Inertia](https://open.spotify.com/album/0QV1IZPIoPUYtIFq2ERzX9) | 2:20 | 2023-07-19 |  |
@@ -510,7 +513,7 @@
 | [Salacia](https://open.spotify.com/track/78xZY4HHoTSExoEpLjSmaE) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm) | [Salacia](https://open.spotify.com/album/1nl9INTWDldCSy1UMHOcBh) | 2:10 | 2023-01-13 | 2023-09-22 |
 | [Salsa and Margaritas](https://open.spotify.com/track/4emRz2NnFLlM64Oz1M7wGH) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Salsa and Margaritas](https://open.spotify.com/album/48EmSHNxbhR4aY9TrMTe2R) | 2:20 | 2023-01-13 |  |
 | [Salt](https://open.spotify.com/track/7pBSIcM1RHRkBLhDE6UJSg) | [oopiie](https://open.spotify.com/artist/29EJ2RABrsV5Do2YXqTlv1) | [Salt](https://open.spotify.com/album/0Vc8j3BVeiSurlrkrpLVSV) | 2:17 | 2023-01-13 |  |
-| [sambas song](https://open.spotify.com/track/6BJM6iNyj2nSKrLGP9w3mA) | [ben buru](https://open.spotify.com/artist/5mRaT6rnqIeeuE6Io3mVRS) | [sambas song](https://open.spotify.com/album/1dr6yK67Stnx9YaFiF212T) | 1:58 | 2023-01-13 |  |
+| [sambas song](https://open.spotify.com/track/6BJM6iNyj2nSKrLGP9w3mA) | [ben buru](https://open.spotify.com/artist/5mRaT6rnqIeeuE6Io3mVRS) | [sambas song](https://open.spotify.com/album/1dr6yK67Stnx9YaFiF212T) | 1:58 | 2023-01-13 | 2024-02-09 |
 | [Santino](https://open.spotify.com/track/5QKDIzfyW02WRcA3Ag9kDe) | [Oops 123](https://open.spotify.com/artist/617zYYWCbL7eE07lP9O8rH) | [Santino](https://open.spotify.com/album/5HYlvWpJTGR9s4LobjeleM) | 3:11 | 2023-01-13 |  |
 | [Satellites](https://open.spotify.com/track/1ESZb823Uv9ezWplQpHadG) | [Cavement](https://open.spotify.com/artist/72v38PSKL8GSurLwsJW19j) | [Satellites](https://open.spotify.com/album/1z2KaAX8nMis2zAIaKRPt1) | 1:44 | 2023-01-20 |  |
 | [Satisfying](https://open.spotify.com/track/4w63bAIhUhrwF8naOpBpzH) | [slvmdunk](https://open.spotify.com/artist/6xWPNNIPMMeXMqzJ8o0T3w) | [Satisfying](https://open.spotify.com/album/6DNw8LeOn3EfGByDmXOw8T) | 2:13 | 2023-01-13 |  |
@@ -607,6 +610,7 @@
 | [Teardrops](https://open.spotify.com/track/4AdoufaT15nd4nF46HIlGv) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Belonging](https://open.spotify.com/album/50ntE3JLQSYXpxHqzd2hLl) | 2:20 | 2023-09-15 |  |
 | [Teardrops](https://open.spotify.com/track/595azR8qp2Igyd8YashsEv) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Belonging](https://open.spotify.com/album/4Vcaz8PUgRuo0BR36zKeLU) | 2:20 | 2023-01-13 | 2023-09-16 |
 | [Technological Jazz](https://open.spotify.com/track/5VCEGZ2HQOY3SMWXlGT8uw) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Technological Jazz](https://open.spotify.com/album/0z71M5doa8M9G39UIWiSTl) | 1:18 | 2023-04-11 | 2023-07-20 |
+| [Tell Me](https://open.spotify.com/track/1I5EnQrDoeo6txl9bo8Wea) | [Serena Kayleah](https://open.spotify.com/artist/1UxgzBXu0TEFYGecOFWKAg) | [Tell Me](https://open.spotify.com/album/7n5d3Fu6lIJTHNVtjZj7rX) | 2:41 | 2024-02-09 |  |
 | [Thaw](https://open.spotify.com/track/2kGKVAd23PKWVbe1TOVuOi) | [Gaslamp](https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE), [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Thaw](https://open.spotify.com/album/05uaTuNccDUbZiPffs9Zi7) | 2:03 | 2023-07-19 |  |
 | [The Ball](https://open.spotify.com/track/7qsKo7fJGPHrhlbZTuAORe) | [Suzi Quizas](https://open.spotify.com/artist/0uIPCZ3Iae8JJDDmEEuIon) | [The Ball](https://open.spotify.com/album/67o5BaGBWBSqIZUYs7fiSD) | 2:27 | 2023-01-13 |  |
 | [The Dubble](https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [The Dubble](https://open.spotify.com/album/4PFrstLSNUox98INthlTQT) | 2:56 | 2023-09-04 | 2023-09-08 |
@@ -615,6 +619,7 @@
 | [The Martian Nextdoor](https://open.spotify.com/track/1t31EP9jDCaleagcRsq2Zn) | [Keyser](https://open.spotify.com/artist/52XeGIGAMhVqec1ev8t3Qc) | [Through The Lense](https://open.spotify.com/album/1h0hx2D61dW17Cymqzmxoy) | 1:47 | 2023-01-13 | 2023-07-20 |
 | [The most beautiful](https://open.spotify.com/track/3tpoNCIIFVUEIeVhdlHybp) | [Önigirisu](https://open.spotify.com/artist/2wrReMufBFCidJ3Sy1UzPe) | [The most beautiful](https://open.spotify.com/album/3zkOeYARIDLOf9f7ZXDW40) | 1:45 | 2023-01-13 | 2023-10-06 |
 | [the neighborhood](https://open.spotify.com/track/6nZIx6Ck3oNPR1L5FblIY0) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [the neighborhood](https://open.spotify.com/album/4fvFegKW9QME1hmJVigINz) | 2:09 | 2023-09-29 |  |
+| [The Return](https://open.spotify.com/track/6plHV3oQN20BmAracIOUe5) | [Nishimura Blaze](https://open.spotify.com/artist/0UkVabqymwYoKqA9FtrTYa) | [The Return](https://open.spotify.com/album/7iR2WVooAnVND6Ho31wMxa) | 2:36 | 2024-02-09 |  |
 | [The Understudy](https://open.spotify.com/track/7GmbbEqIR30e3kUYNh23m8) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [The Understudy](https://open.spotify.com/album/0guZjSwqWuFMigag0dK7Zw) | 2:14 | 2023-01-13 | 2023-10-20 |
 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 | 2023-09-29 |  |
 | [Thoughts](https://open.spotify.com/track/5A9BhOGp4Xz71QwcXRpef3) | [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q) | [Thoughts](https://open.spotify.com/album/5RwYUk1Uh68n1DkauBHmQf) | 2:54 | 2023-01-13 |  |
@@ -648,7 +653,7 @@
 | [Underwater Lovers](https://open.spotify.com/track/4h6ziqPs5sARaEbkUxiEVN) | [MZERA](https://open.spotify.com/artist/7xJs9lbHChKSJ9cHvW95tK) | [Underwater Lovers](https://open.spotify.com/album/6ko8o2KmeP9Or2G3wbo6WZ) | 2:04 | 2023-09-08 | 2023-09-16 |
 | [Unfair Ways](https://open.spotify.com/track/5szxQkFES2xCKVgyVfM7YM) | [Mysolar](https://open.spotify.com/artist/6Mn6XV2oKxar2RnbvDRSqi) | [Musique Aquarelle](https://open.spotify.com/album/0jSiLY1h1Y7KLSvwT1Bd1f) | 2:00 | 2023-01-13 |  |
 | [Unité](https://open.spotify.com/track/6Jlc02b7tLgqFqH0vXCeJ5) | [Her Name is Sage](https://open.spotify.com/artist/6OVjImRqgRTTCRYi4vTHs9) | [Unité](https://open.spotify.com/album/0oGkWxnTIWWYLcC4CmLa0c) | 2:00 | 2023-01-13 |  |
-| [Unknown Species](https://open.spotify.com/track/7nps23pqoryfRaiA2CbYq6) | [ex\-pansive](https://open.spotify.com/artist/4BZ2WJhxazwJCRGq3nzczV) | [Unknown Species](https://open.spotify.com/album/1GiI2eCyjXxflD9gFm1yW1) | 2:33 | 2023-01-13 |  |
+| [Unknown Species](https://open.spotify.com/track/7nps23pqoryfRaiA2CbYq6) | [ex\-pansive](https://open.spotify.com/artist/4BZ2WJhxazwJCRGq3nzczV) | [Unknown Species](https://open.spotify.com/album/1GiI2eCyjXxflD9gFm1yW1) | 2:33 | 2023-01-13 | 2024-02-09 |
 | [unmellow yellow](https://open.spotify.com/track/5TXDVoAdfLRzv7OM7mfhXW) | [lazer lemon](https://open.spotify.com/artist/2NSxM4R70yorSYTJMoRpzX) | [unmellow yellow](https://open.spotify.com/album/27HTunr8tmVCGb7AReXxBM) | 2:26 | 2023-01-13 |  |
 | [Untouched Forests](https://open.spotify.com/track/7miIY9N2p0EaY6xu2cXjfY) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Ouska](https://open.spotify.com/artist/1BhytEyR0LxnxXoeQPxGVV) | [Untouched Forests](https://open.spotify.com/album/3ltelqdRX4G3Edam3p5n7F) | 2:24 | 2023-04-11 |  |
 | [Unwind](https://open.spotify.com/track/29FJzCW7Uj2VmwW4uroaiC) | [Jesse Houghton](https://open.spotify.com/artist/7LuufjFkjNN1Qwol9eOBvq) | [Unwind](https://open.spotify.com/album/5PrhLUjoJ1YGI2LjfAIZ1O) | 2:03 | 2023-01-13 |  |
@@ -703,7 +708,7 @@
 | [wondering why](https://open.spotify.com/track/1vbi7y9KK9tfOKNP5pmc2Q) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [wondering why](https://open.spotify.com/album/2hay8mrICqXjK0ZOps3bjC) | 2:04 | 2024-02-02 |  |
 | [Woollen Potato](https://open.spotify.com/track/5WSBqCeXfUE6A7siQZewYK) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Woollen Potato](https://open.spotify.com/album/0Hp5rOXs5sNNdgYmUVdsu2) | 2:30 | 2023-09-22 |  |
 | [Woula](https://open.spotify.com/track/6PIWM7JvAifZM8aunm73NA) | [Hammocks & Lime](https://open.spotify.com/artist/3sHx5xJC4akld5WXlIis2Y) | [Woula](https://open.spotify.com/album/1Qt5xDPOZT8keXpZ7qRMYb) | 2:49 | 2024-01-12 |  |
-| [x\-mas ham](https://open.spotify.com/track/2GqQyRsB7IBvLpnVwI2h2i) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [x\-mas ham](https://open.spotify.com/album/70k2nvYZKzl9UXw7Gyw2Pf) | 2:05 | 2023-01-13 |  |
+| [x\-mas ham](https://open.spotify.com/track/2GqQyRsB7IBvLpnVwI2h2i) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [x\-mas ham](https://open.spotify.com/album/70k2nvYZKzl9UXw7Gyw2Pf) | 2:05 | 2023-01-13 | 2024-02-09 |
 | [yo!](https://open.spotify.com/track/76Bwn0o3omms1v8BmIryYL) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [yo!](https://open.spotify.com/album/3Ud214zFe6QW4agzbC0UnK) | 2:00 | 2023-09-22 |  |
 | [You](https://open.spotify.com/track/3XRCQEEbMTDb6w41x2BXNn) | [Pantone](https://open.spotify.com/artist/3LgulNXWnXp7Tre4Col8RP) | [You](https://open.spotify.com/album/6RXXi4q2BVlsaM3iIEVIGj) | 2:22 | 2023-01-13 | 2023-10-20 |
 | [Your Jacket Though](https://open.spotify.com/track/1uiK8qFJkHkC3OASMBPzvG) | [wahzaf:tru](https://open.spotify.com/artist/1PZFqQ7hbIOK3Drq2aXKuC) | [Your Jacket Though](https://open.spotify.com/album/7FyNe1k7S2nSp34iszDkr2) | 2:58 | 2023-01-13 |  |

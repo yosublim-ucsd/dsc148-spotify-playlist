@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 3889423,
+  "2024-02-09": 3889738,
   "date_first_scraped": "2021-12-21",
   "description": "Great songs by indisputable music legends. Cover: The Beatles",
   "name": "Legendary",
@@ -2507,7 +2507,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 178933,
       "name": "Oh, Pretty Woman",
       "url": "https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy"
@@ -4247,7 +4247,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 258411,
       "name": "You're So Vain",
       "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"

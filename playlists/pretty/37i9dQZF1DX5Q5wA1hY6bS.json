@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1461219,
+  "num_followers": 1461223,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjhlZjkwMzJlZTkyZTVjZTFmM2RhMDhhOTZjNDVjOTYzMWFkNzFm",
+  "snapshot_id": "MCwzYThkMTdlMzBhNjQ4MDg5ZWY4ZGJiN2VlNjBmOTE1ZWUxYjE0Nzk4",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Living Mirage",
         "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 214653,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -851,6 +835,22 @@
       "duration_ms": 244960,
       "name": "Horse to Water",
       "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "The Pool",
-        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 242562,
-      "name": "The Pool",
-      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/4SmMh0Tq0OKGijhlmhoQN7"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 212053,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/232jHX8vA3qU8DaxaxvHL9"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "The Pool",
+        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 242562,
+      "name": "The Pool",
+      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "All the Things That I Did and All the Things That I Didn't Do",
-        "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Younger Years",
-      "url": "https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Heart Beats",
         "url": "https://open.spotify.com/album/3tt2SVYuamD48tewEdDqza"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 200400,
       "name": "Don't Let It Get You Down",
       "url": "https://open.spotify.com/track/4jjvUXBBqQDFRGX4SR5OhS"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "All the Things That I Did and All the Things That I Didn't Do",
+        "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Younger Years",
+      "url": "https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6"
-      },
-      "artists": [
-        {
-          "name": "AVEC",
-          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
-        }
-      ],
-      "duration_ms": 203673,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/6HbXjawbH9bTwsCXAZgpDc"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Jade Bird",
         "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Hundred Acres",
-        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
+        "name": "Still",
+        "url": "https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6"
       },
       "artists": [
         {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+          "name": "AVEC",
+          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
         }
       ],
-      "duration_ms": 243733,
-      "name": "More I See",
-      "url": "https://open.spotify.com/track/24l2W4vP77LGaQGKy9PYmU"
+      "duration_ms": 203673,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6HbXjawbH9bTwsCXAZgpDc"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 279500,
       "name": "Moving Mountains",
       "url": "https://open.spotify.com/track/6PRr6dzkiaLTGbkLSdQCvL"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Hundred Acres",
+        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 243733,
+      "name": "More I See",
+      "url": "https://open.spotify.com/track/24l2W4vP77LGaQGKy9PYmU"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Lion's Den",
-        "url": "https://open.spotify.com/album/3j3lKIWIoQozFm1UHJ6mUf"
-      },
-      "artists": [
-        {
-          "name": "Little Chief",
-          "url": "https://open.spotify.com/artist/5oYrefc0gr24yRUMCDBZkB"
-        }
-      ],
-      "duration_ms": 296796,
-      "name": "Mountain Song",
-      "url": "https://open.spotify.com/track/2ZsKcXPYFPMF9RIh12XLCh"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Dancing For The Answers - EP",
         "url": "https://open.spotify.com/album/7J8GMfGTfVzoSdZsUgt0Bg"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 216753,
       "name": "Punta Cometa - Dancing For The Answers Alt Version",
       "url": "https://open.spotify.com/track/0oiiHes8LMjKbofgD1aDcA"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Lion's Den",
+        "url": "https://open.spotify.com/album/3j3lKIWIoQozFm1UHJ6mUf"
+      },
+      "artists": [
+        {
+          "name": "Little Chief",
+          "url": "https://open.spotify.com/artist/5oYrefc0gr24yRUMCDBZkB"
+        }
+      ],
+      "duration_ms": 296796,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2ZsKcXPYFPMF9RIh12XLCh"
     },
     {
       "added_at": "2023-11-17 05:00:00",

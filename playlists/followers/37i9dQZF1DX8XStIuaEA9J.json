@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 172541,
+  "2024-02-09": 172584,
   "date_first_scraped": "2023-11-25",
   "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u30de\u30eb\u30b7\u30a3",
   "name": "Teen Culture",
@@ -75,6 +75,24 @@
       "duration_ms": 226274,
       "name": "Ai need your love",
       "url": "https://open.spotify.com/track/5IKcZuIuzKyx7hyqKTY7cg"
+    },
+    {
+      "album": {
+        "name": "Ambiguous",
+        "url": "https://open.spotify.com/album/3ny9YuGHA0QNn4F9zWC7Bz"
+      },
+      "artists": [
+        {
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220856,
+      "name": "Ambiguous",
+      "url": "https://open.spotify.com/track/36Kj0vrp2MnYICExdK1lN9"
     },
     {
       "album": {
@@ -432,6 +450,24 @@
     },
     {
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/16a4yEozxkuenTZ2EZ9fkw"
+      },
+      "artists": [
+        {
+          "name": "KOTORI",
+          "url": "https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267841,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/3xFka9Fj3vn299vIBqFUVu"
+    },
+    {
+      "album": {
         "name": "DAWN",
         "url": "https://open.spotify.com/album/728AONhuNSuYDoo6AH4q6E"
       },
@@ -443,7 +479,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 267841,
       "name": "DAWN",
       "url": "https://open.spotify.com/track/7qu2sVmtyhtUZIwh607B9w"
@@ -1396,6 +1432,28 @@
     },
     {
       "album": {
+        "name": "Nightmare feat. Kizuna",
+        "url": "https://open.spotify.com/album/1DEkyCkFvd2kT3DKPhXT6M"
+      },
+      "artists": [
+        {
+          "name": "A\u590f\u76ee",
+          "url": "https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH"
+        },
+        {
+          "name": "Kizuna",
+          "url": "https://open.spotify.com/artist/3IGTT411rHs9RcGiGho3nd"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193845,
+      "name": "Nightmare feat. Kizuna",
+      "url": "https://open.spotify.com/track/3a6bh9lIlWQrbepwggW6kq"
+    },
+    {
+      "album": {
         "name": "Nightmare feat. \u30ad\u30ba\u30ca",
         "url": "https://open.spotify.com/album/4HpgkhANOkLIveYc5hsuAj"
       },
@@ -1411,7 +1469,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 193845,
       "name": "Nightmare feat. \u30ad\u30ba\u30ca",
       "url": "https://open.spotify.com/track/3PHvvjuFOyZbZoCG8LI6CS"
@@ -1495,7 +1553,7 @@
     {
       "album": {
         "name": "Oh Baby",
-        "url": "https://open.spotify.com/album/6a3sfW2toT55Z7N67b6GWI"
+        "url": "https://open.spotify.com/album/4mEjkhOzS5pRCjOlaiyQVj"
       },
       "artists": [
         {
@@ -1506,6 +1564,24 @@
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 253500,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/07u3NefB8uoyXaodhkIaEH"
+    },
+    {
+      "album": {
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/6a3sfW2toT55Z7N67b6GWI"
+      },
+      "artists": [
+        {
+          "name": "KALMA",
+          "url": "https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-08",
       "duration_ms": 253500,
       "name": "Oh Baby",
       "url": "https://open.spotify.com/track/0NutSBugy23p6qZrqFzx6P"
@@ -2308,6 +2384,24 @@
     },
     {
       "album": {
+        "name": "Yell",
+        "url": "https://open.spotify.com/album/60y9C21RHhHnMMdWXunkav"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "Yell",
+      "url": "https://open.spotify.com/track/6jbW0l3nlZ3uh26p8vsC1K"
+    },
+    {
+      "album": {
         "name": "Yotei",
         "url": "https://open.spotify.com/album/2FFYUv7eZ1pGgmwbVAGMFQ"
       },
@@ -2445,7 +2539,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 220856,
       "name": "\u3042\u3084\u3075\u3084",
       "url": "https://open.spotify.com/track/1UvCeSlHieprSfrjlREJdS"
@@ -2705,7 +2799,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 203293,
       "name": "\u30a8\u30fc\u30eb",
       "url": "https://open.spotify.com/track/1EdXeXyIU56YKBP3kfmHB9"

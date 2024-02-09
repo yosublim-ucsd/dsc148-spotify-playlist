@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Marca MP
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,119 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,188 likes - 49 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 13 | [La escuela de mi apá](https://open.spotify.com/track/1deKB5A7FtWcD6PHGYHu6e) | [Vena De Rey](https://open.spotify.com/artist/4jsKRYQ2PjDJiMV1NjHEhl), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [La escuela de mi apá](https://open.spotify.com/album/6imeC5sxh8Bg3IcMgvnglW) | 2:50 |
 | 14 | [Maliante](https://open.spotify.com/track/5e4DLrcw1GS04hM6Tt5F0D) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Said Norzagaray](https://open.spotify.com/artist/3hK6sVmdFt15ORCDg503Yp), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Maliante](https://open.spotify.com/album/0hUm0XNmb7nfSGbE75muhS) | 2:47 |
 | 15 | [Que Empiece El Juego](https://open.spotify.com/track/6d4we28oTHN8qrkJXkZwrS) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Que Empiece El Juego](https://open.spotify.com/album/4b1B9h0jg1yaWQHkO9fdcf) | 2:29 |
-| 16 | [Oye Mujer](https://open.spotify.com/track/7qF096Tq5IT3hUaCsrFb76) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [El Cuartito de Javi](https://open.spotify.com/artist/72wvy91HlolDBhdcbx82I2) | [Oye Mujer](https://open.spotify.com/album/3YP3toCXb9KsMueuPiX57G) | 4:06 |
+| 16 | [Oye Mujer](https://open.spotify.com/track/7qF096Tq5IT3hUaCsrFb76) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [El Cuartito de Javy](https://open.spotify.com/artist/0vWyUqfgqun3Q6aK3P4o9c) | [Oye Mujer](https://open.spotify.com/album/3YP3toCXb9KsMueuPiX57G) | 4:06 |
 | 17 | [Alfredo Beltran](https://open.spotify.com/track/4KWPYBd6aIZLK8u27WA8PT) | [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Alfredo Beltran](https://open.spotify.com/album/2LALhqkhDeeRQQEHeO5NcI) | 3:15 |
 | 18 | [El Mundo Es Mio](https://open.spotify.com/track/0amvnodNqzrIYlruQXQyeL) | [Eduardo Soto](https://open.spotify.com/artist/2iCcqtXpDIFCLn1DnvUGQR), [Joshua Cerezo](https://open.spotify.com/artist/2X3PEsxK2lW72rMqslgXzu) | [El Mundo Es Mio](https://open.spotify.com/album/5qhR1xn6l8226i9m2FUE5E) | 3:17 |
 | 19 | [Bolsita Rosita](https://open.spotify.com/track/6hxn7RsbsxqwuZCHqzKSUV) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bolsita Rosita](https://open.spotify.com/album/3unMmtTDq5aauuwk3cfUvK) | 2:48 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 48 | [Cuando Andaba Recio \(El Cholo\)](https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:19 |
 | 49 | [Bandido](https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Bandido](https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF) | 3:25 |
 
-Snapshot ID: `MCw4M2YzNGVmODM3N2FkYjJjYmIxYzA0NDExZGE3NjBkY2ZkMjc2NjY1`
+Snapshot ID: `MCxlYWQ3NmJjMDM1MWEyYmVhZGU1YzQ2ZDY1YmRlZDI4ZDhhOTlmMGIx`

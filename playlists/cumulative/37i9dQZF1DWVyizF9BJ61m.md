@@ -4,7 +4,7 @@
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-87 songs - 7 hr 13 min
+88 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,5 +95,6 @@
 | [You Are My Heart](https://open.spotify.com/track/0Ky98GMSlZQdctbAhU3I0Z) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/3oMy0b5i9EbBUR02bYIKZv) | 3:13 | 2019-03-22 | 2022-07-29 |
 | [You Are My Heart](https://open.spotify.com/track/5r2cbcTE0HhvRO2avP8GAh) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 3:13 | 2019-03-22 |  |
 | [You Better Know](https://open.spotify.com/track/3eDKAKSjpTFVESPkMlfNXa) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:30 | 2019-03-22 |  |
+| [Zum Zum](https://open.spotify.com/track/56p5H8xnOPGDSMjIGjYmF0) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Mermans Mosengo](https://open.spotify.com/artist/1F1ezryBLCpGjEm4hFnaDc) | [Chimera](https://open.spotify.com/album/1nqEB1PcVRdPTxHAlnZ2kN) | 5:16 | 2024-02-08 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Vibey indie tracks for just hanging out.",
-  "num_followers": 820989,
+  "num_followers": 821120,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTUzNDFiMWZhZGI0ZWIyN2EwNjUxYWQ4MDBjMDY4Yjg4ODliODNj",
+  "snapshot_id": "MCxmNTExZTJjYmYyMjg4YjE4Y2VhMmIyNzc0Yzc3NzI1ZTEwNjU2MDJl",
   "tracks": [
     {
       "added_at": "2024-01-12 17:05:09",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Simulation Swarm",
-      "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "Asc. Scorpio",
         "url": "https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 166601,
       "name": "Asc. Scorpio",
       "url": "https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Simulation Swarm",
+      "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO"
     },
     {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 228853,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
-    },
-    {
       "added_at": "2024-01-12 17:12:27",
       "album": {
         "name": "Jinx",
@@ -567,6 +551,22 @@
       "duration_ms": 111986,
       "name": "Cracking",
       "url": "https://open.spotify.com/track/3VwgtTh9D0CubY32jdhI5U"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap"
     },
     {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
-        "name": "Casita",
-        "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Casita",
-      "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
-    },
-    {
       "added_at": "2024-01-16 16:54:52",
       "album": {
         "name": "Loved",
@@ -683,6 +667,22 @@
       "duration_ms": 243263,
       "name": "Loved",
       "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "Casita",
+        "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Casita",
+      "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-01-12 17:12:27",
       "album": {
+        "name": "Coastal Grooves",
+        "url": "https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 292373,
+      "name": "Champagne Coast",
+      "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
+    },
+    {
+      "added_at": "2024-01-12 17:12:27",
+      "album": {
         "name": "Separate Ways (feat. The Mar\u00edas)",
         "url": "https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 206833,
       "name": "Separate Ways (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S"
-    },
-    {
-      "added_at": "2024-01-12 17:12:27",
-      "album": {
-        "name": "Coastal Grooves",
-        "url": "https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 292373,
-      "name": "Champagne Coast",
-      "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "EP III",
-        "url": "https://open.spotify.com/album/4nrWWmcF5QbROgZ7YitJ2q"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "In Camera",
-      "url": "https://open.spotify.com/track/34PIoWUkKuAUbGTozZsxvB"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "Vampire Empire / Born For Loving You",
         "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 214073,
       "name": "Born For Loving You",
       "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "EP III",
+        "url": "https://open.spotify.com/album/4nrWWmcF5QbROgZ7YitJ2q"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "In Camera",
+      "url": "https://open.spotify.com/track/34PIoWUkKuAUbGTozZsxvB"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "NYE [Feat. Suki Waterhouse]",
-        "url": "https://open.spotify.com/album/1xdMTJSRqMwXYFl580FuHP"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        },
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 175020,
-      "name": "NYE [Feat. Suki Waterhouse]",
-      "url": "https://open.spotify.com/track/3qruUcemmywHKW2jQ7EV6J"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "Half Life",
         "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 189651,
       "name": "Drag",
       "url": "https://open.spotify.com/track/0blezul9oOOb2rEohK6G2v"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "NYE [Feat. Suki Waterhouse]",
+        "url": "https://open.spotify.com/album/1xdMTJSRqMwXYFl580FuHP"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        },
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 175020,
+      "name": "NYE [Feat. Suki Waterhouse]",
+      "url": "https://open.spotify.com/track/3qruUcemmywHKW2jQ7EV6J"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb"
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
       },
       "artists": [
         {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
         }
       ],
-      "duration_ms": 183080,
-      "name": "Madonna",
-      "url": "https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng"
+      "duration_ms": 206012,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1395,22 +1411,6 @@
       "duration_ms": 169133,
       "name": "Like the Sun",
       "url": "https://open.spotify.com/track/7LItXkhy2jee3EU8Nx7XPU"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 206012,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Kimosab\u00e8",
-        "url": "https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 293339,
-      "name": "Miami Baby",
-      "url": "https://open.spotify.com/track/5A9OHrIpG3dSlYC1jppFRo"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "Worst Case Kid",
         "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
+        "name": "Kimosab\u00e8",
+        "url": "https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 293339,
+      "name": "Miami Baby",
+      "url": "https://open.spotify.com/track/5A9OHrIpG3dSlYC1jppFRo"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
         "name": "Oas",
         "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 240262,
       "name": "Mormor",
       "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/0sBrrAq7fTOEVF0Z4RCMCy"
+      },
+      "artists": [
+        {
+          "name": "NOT THE TWOS",
+          "url": "https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/584Ud7cLe6qQEi9SrcfTzC"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1611,22 +1627,6 @@
       "duration_ms": 127458,
       "name": "It Could Be Me",
       "url": "https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
-        "name": "PARADISE",
-        "url": "https://open.spotify.com/album/0sBrrAq7fTOEVF0Z4RCMCy"
-      },
-      "artists": [
-        {
-          "name": "NOT THE TWOS",
-          "url": "https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "PARADISE",
-      "url": "https://open.spotify.com/track/584Ud7cLe6qQEi9SrcfTzC"
     },
     {
       "added_at": "2024-01-12 17:05:09",

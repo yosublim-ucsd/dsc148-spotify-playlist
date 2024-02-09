@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 4608,
+  "2024-02-09": 4607,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -9599,7 +9599,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 170006,
       "name": "FAYN",
       "url": "https://open.spotify.com/track/3kfDwcbSxotCy9VgaBlVOY"
@@ -10903,6 +10903,24 @@
       "duration_ms": 240693,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
+    },
+    {
+      "album": {
+        "name": "Gangster",
+        "url": "https://open.spotify.com/album/0OExuZI0PvSakCNVCyujbE"
+      },
+      "artists": [
+        {
+          "name": "Nico Benz",
+          "url": "https://open.spotify.com/artist/3TLH7kooWQnVKX1rdeEH8W"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184166,
+      "name": "Gangster",
+      "url": "https://open.spotify.com/track/67WqF7aOqgsjjPdspYpn18"
     },
     {
       "album": {
@@ -12973,10 +12991,28 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
       "album": {
@@ -17298,6 +17334,24 @@
     },
     {
       "album": {
+        "name": "Live @ Need 4 Beat",
+        "url": "https://open.spotify.com/album/0fmNrkBP5fAqgWqf6ID6Jl"
+      },
+      "artists": [
+        {
+          "name": "CheapeX",
+          "url": "https://open.spotify.com/artist/23UUsIhRcUSiJ9zazaIjiU"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 990928,
+      "name": "Live @ Need 4 Beat",
+      "url": "https://open.spotify.com/track/2O6fZ1UQeoH7DrmeUbYmWc"
+    },
+    {
+      "album": {
         "name": "Living Life, In The Night",
         "url": "https://open.spotify.com/album/1YgzO5Y6YxzXoHN2yCZIpD"
       },
@@ -20259,7 +20313,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
@@ -24455,7 +24509,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 207752,
       "name": "Pond\u011bl\u00ed a\u017e ned\u011ble - Sped Up",
       "url": "https://open.spotify.com/track/3lcCxnxPqh0Rp7vsrD7KD6"
@@ -28773,10 +28827,28 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/3nGIGnJd7jFZaPFdfyQLF2"
+    },
+    {
+      "album": {
+        "name": "Soaked",
+        "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
+      },
+      "artists": [
+        {
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179449,
+      "name": "Soaked",
+      "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
     },
     {
       "album": {
@@ -29735,7 +29807,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -30787,6 +30859,28 @@
       "duration_ms": 216258,
       "name": "Terapeuta",
       "url": "https://open.spotify.com/track/6YW9qgEJrkr3eGXYcZ8uXC"
+    },
+    {
+      "album": {
+        "name": "Teresa & Maria",
+        "url": "https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB"
+      },
+      "artists": [
+        {
+          "name": "alyona alyona",
+          "url": "https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8"
+        },
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179473,
+      "name": "Teresa & Maria",
+      "url": "https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF"
     },
     {
       "album": {
@@ -35861,7 +35955,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 121200,
       "name": "\u017eeleznice",
       "url": "https://open.spotify.com/track/5izJDJcEHfJGORuXGGyXs9"

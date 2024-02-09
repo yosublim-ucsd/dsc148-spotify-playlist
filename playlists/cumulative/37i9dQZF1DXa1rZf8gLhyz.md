@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-479 songs - 1 day 0 hr 51 min
+484 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Don't Blame Me](https://open.spotify.com/track/5RuKvZoJv8uDrMcVECOcIZ) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Don't Blame Me](https://open.spotify.com/album/0RWlDYTkb9pdpOqw08se8R) | 3:32 | 2023-02-16 | 2023-11-17 |
 | [Don't Go To Strangers](https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Don't Go To Strangers](https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE) | 3:41 | 2022-11-24 |  |
 | [Don't Know Why](https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe) | [Stephen Rogerson](https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk) | [Moon Over Brooklyn](https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM) | 2:20 | 2021-12-07 | 2022-02-12 |
+| [Downtown](https://open.spotify.com/track/5DRqPuThkW9vLtsm7tRozq) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [Downtown](https://open.spotify.com/album/4YtOKRkyUM2AAII3jfvALT) | 2:42 | 2024-02-09 |  |
 | [Dreaming Of You](https://open.spotify.com/track/28QoRmgNTP79BmBMK0k3ng) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Dreaming Of You](https://open.spotify.com/album/0HbKqBR48CLjGYvR0EUtxA) | 2:36 | 2023-12-22 |  |
 | [Dreams](https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Dreams](https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6) | 2:27 | 2022-10-13 |  |
 | [Dreams](https://open.spotify.com/track/1d1lfPt3kdB2DInFt1mhVe) | [Darius Briley](https://open.spotify.com/artist/0SlMXLjZNuSRZJ3VvpbQit) | [Dreams](https://open.spotify.com/album/17nFGc4cZJcr61JbeWFTLk) | 2:23 | 2023-01-19 |  |
@@ -270,6 +271,7 @@
 | [Memories of You](https://open.spotify.com/track/0eu43TeVxnxOqHj3nBVus2) | [Kay Lohman](https://open.spotify.com/artist/4RAH5bMhyvkgartz47YVcy) | [I Get Along Without You Very Well](https://open.spotify.com/album/3TA20v06xIbqbfTqIG48do) | 2:45 | 2022-01-04 |  |
 | [Meuse](https://open.spotify.com/track/271aR2CbQyhO36eXkHstzy) | [Aron Finneas](https://open.spotify.com/artist/5eL2qDCUxC7emQsTp17aDx) | [Meuse](https://open.spotify.com/album/71eY3XLNP4ixRL96BLNnWU) | 2:07 | 2023-08-10 |  |
 | [Midnight City Lights](https://open.spotify.com/track/3JFk3pN15IteQgQ4nUdib6) | [Kyrie Barnes](https://open.spotify.com/artist/2h0vYX95bmDrALzCLg3Qn6) | [Midnight City Lights](https://open.spotify.com/album/2X7qsOAIRO17i3NIetHmwy) | 2:17 | 2023-08-10 |  |
+| [Milano](https://open.spotify.com/track/2ZkXZZCNcLIW4bOhPBEyCG) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [Milano](https://open.spotify.com/album/3WFRMcOkcfyq3rCpDrGzsL) | 3:12 | 2024-02-09 |  |
 | [Misty](https://open.spotify.com/track/0fGNaE47Hx1SO8kEKtkGxb) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Misty](https://open.spotify.com/album/3zOiXs8f5OfRasBgZ7VNcJ) | 2:13 | 2021-12-07 |  |
 | [Misty Mornings](https://open.spotify.com/track/6G3iMQqvvrsNNDb5c9Zd1u) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Misty Mornings](https://open.spotify.com/album/4jZUkBLZ52yl1NXC4k4ZHq) | 4:03 | 2024-01-12 |  |
 | [Moon River](https://open.spotify.com/track/3qBUFn6AgcHTI3tkg99lDD) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Moon River](https://open.spotify.com/album/0wFFjyx3YaqOLMZnBt3CQx) | 3:31 | 2021-12-07 |  |
@@ -357,8 +359,10 @@
 | [September Song](https://open.spotify.com/track/0I4fzEcHoiQTuvWw928Z6C) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [September Song](https://open.spotify.com/album/6JnRwXgYca3ywxqOmhuR1B) | 3:17 | 2023-01-12 |  |
 | [She's Funny That Way](https://open.spotify.com/track/0ntMtObu5NMlzV17NSvhPg) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [She's Funny That Way](https://open.spotify.com/album/5yYAlWUjZX4PR2gHMaPyh6) | 2:23 | 2023-08-24 |  |
 | [Si nous vivons](https://open.spotify.com/track/5vtgdFd6HsxfCZaVfGElRP) | [Sholiha](https://open.spotify.com/artist/03bXfVH9PnjzravJ7UJpD4) | [Si nous vivons](https://open.spotify.com/album/1OFhNarYwv2I2Yig4xcwLT) | 3:56 | 2021-12-07 | 2023-05-12 |
+| [Silent Call](https://open.spotify.com/track/5rhov9NtT0zwqbLp7mcdba) | [George Gower](https://open.spotify.com/artist/5dY3RsdO6LWXjhYitTgX8b) | [Silent Call](https://open.spotify.com/album/0xLTLcBS1IsAcdxwfaaMbC) | 2:42 | 2024-02-09 |  |
 | [Skating in Central Park](https://open.spotify.com/track/5DL2qEB0QeLlMNFjcYfcDm) | [Sean Eastman](https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint) | [Skating in Central Park](https://open.spotify.com/album/3dgfesW8kzGn0ePWdsZlMo) | 2:58 | 2023-01-05 |  |
 | [Skylark](https://open.spotify.com/track/5XzlyI2iS6Km2SNsEQ4O91) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [Skylark](https://open.spotify.com/album/6DEaWap07T8LIFfnHVSVIr) | 3:29 | 2021-12-07 |  |
+| [Skyline](https://open.spotify.com/track/1eOYDB1NzYYHihk3u5VAsc) | [Eleanor Rivers](https://open.spotify.com/artist/0PZjFVd7k6PROjrjVtVFU2) | [Skyline](https://open.spotify.com/album/5JafOFZrDTHPUb6z8NuEQM) | 2:18 | 2024-02-09 |  |
 | [Sleep Warm](https://open.spotify.com/track/5lt4NedCUCfgU48VU25fTN) | [M\. Birkeland](https://open.spotify.com/artist/0JldzuwP5NF3nsxjnlLCTS) | [Sleep Warm](https://open.spotify.com/album/21JzK3UXvkY3Bq7TzuSnbi) | 2:25 | 2023-08-10 |  |
 | [Slowing Down](https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Slowing Down](https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt) | 3:28 | 2023-04-27 |  |
 | [Small Hours](https://open.spotify.com/track/0QWQfOY7qO0YvA6Uspn9bP) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Small Hours](https://open.spotify.com/album/2vgcZW7MMDbkfHXelDzvEY) | 2:55 | 2021-12-07 | 2022-11-25 |
@@ -478,6 +482,7 @@
 | [yalla](https://open.spotify.com/track/1MDVmD8jfZhFy084VF7hO4) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [yalla](https://open.spotify.com/album/3emFO8aqqG7TQiacdILJTc) | 3:14 | 2024-01-12 |  |
 | [Yesterdays](https://open.spotify.com/track/6o5QXX3jRdzZRSS2WLYTWZ) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Yesterdays](https://open.spotify.com/album/1v5RhDJlT3IAAx0qXVzzzr) | 2:37 | 2023-06-08 |  |
 | [You and I](https://open.spotify.com/track/3QF1JAkRF11UY4k64dtQUD) | [Mason Olsen](https://open.spotify.com/artist/6wYWUf5SSJPtK0XAOjPgET) | [You and I](https://open.spotify.com/album/6Iq2usdsUcLgrTBd2cDdOW) | 2:35 | 2023-11-24 |  |
+| [You and Me](https://open.spotify.com/track/6sTFLrB048mB8tWwC2xs20) | [Natalie Meir](https://open.spotify.com/artist/3olbeTBaHv78vZXeoDPq4B) | [You and Me](https://open.spotify.com/album/3r44IoYPqqurFEL8Uh8atQ) | 3:10 | 2024-02-09 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/4t85eFNgqV0nqtImOix3X5) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [You Are Too Beautiful](https://open.spotify.com/album/2uG5Jnbvge8kWBxar1TTad) | 3:32 | 2021-12-07 |  |
 | [You Could Stay If You Want To](https://open.spotify.com/track/7161s2i9EU8DN8U95qLl8q) | [Zachary Ronin](https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx) | [You Could Stay If You Want To](https://open.spotify.com/album/028nyeG5bPwDuBA8apckk9) | 3:18 | 2023-02-16 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/0QX4Wc3m1WlNxwEQqFmagK) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [You Don't Know What Love Is](https://open.spotify.com/album/3KdujtfsTqGw9eLtUDGnnz) | 3:42 | 2021-12-07 |  |

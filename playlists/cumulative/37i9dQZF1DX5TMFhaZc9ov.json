@@ -1720,10 +1720,28 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 165557,
       "name": "jacob killed a cat",
       "url": "https://open.spotify.com/track/3nE26bDb6bnowMRyo6qGsa"
+    },
+    {
+      "album": {
+        "name": "Downers Grove - EP",
+        "url": "https://open.spotify.com/album/5OMHXvYoClLQUmFwqBav71"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165557,
+      "name": "jacob killed a cat",
+      "url": "https://open.spotify.com/track/5jbYfN6JNQgz6rBq8tdbTj"
     },
     {
       "album": {

@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Baa Baa White Lamb",
+        "url": "https://open.spotify.com/album/5A6IkOZLEO2c0xkUU71P6Y"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jesse",
+          "url": "https://open.spotify.com/artist/4vBI6SlaXWOvwH8XmWl4El"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95476,
+      "name": "Baa Baa White Lamb",
+      "url": "https://open.spotify.com/track/3YjKSyeVWUXrmnsUntqUdb"
+    },
+    {
+      "album": {
         "name": "Baby Bear",
         "url": "https://open.spotify.com/album/3FSBkPEBTJ9XKV8MBSBJok"
       },
@@ -362,6 +380,24 @@
       "duration_ms": 58624,
       "name": "Baby Dreams",
       "url": "https://open.spotify.com/track/2OCSQoa1w5dp3Qx14pD7VQ"
+    },
+    {
+      "album": {
+        "name": "Baby Emanuel",
+        "url": "https://open.spotify.com/album/7gpqdB7cKzPjSbv7qEE7mn"
+      },
+      "artists": [
+        {
+          "name": "Maurice Marsipano",
+          "url": "https://open.spotify.com/artist/3kYoyPRiKgh8gEqKxXOWSr"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74536,
+      "name": "Baby Emanuel",
+      "url": "https://open.spotify.com/track/5ewAfM8qnH8xzGmBCkPbZ8"
     },
     {
       "album": {
@@ -2684,6 +2720,24 @@
       "duration_ms": 204126,
       "name": "My Grandfather's Clock",
       "url": "https://open.spotify.com/track/2JkK9MpwEoU1JuhWFsnUrG"
+    },
+    {
+      "album": {
+        "name": "My Hat has Three Edges",
+        "url": "https://open.spotify.com/album/6jVgiLNjnxq52CXJpfAu3Y"
+      },
+      "artists": [
+        {
+          "name": "Wilda Sigridsdottir",
+          "url": "https://open.spotify.com/artist/5BRw3Nw9N9xMeukUV9rw5S"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74456,
+      "name": "My Hat has Three Edges",
+      "url": "https://open.spotify.com/track/3f1rRIlBM4xRyrzrXSdQGl"
     },
     {
       "album": {

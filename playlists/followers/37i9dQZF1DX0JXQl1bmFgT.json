@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 125001,
+  "2024-02-09": 125147,
   "date_first_scraped": "2022-08-20",
   "description": "The official playlist for 365 Days trilogy. Watch now on Netflix!",
   "name": "365 Days Official Playlist",
@@ -221,10 +221,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 308590,
       "name": "Barbara Wants",
       "url": "https://open.spotify.com/track/0fx5TUxwrHlz6hKjNZfQpp"
+    },
+    {
+      "album": {
+        "name": "Beverly & Barbara",
+        "url": "https://open.spotify.com/album/3mYNeSrhzU9qpDE1gdqWmZ"
+      },
+      "artists": [
+        {
+          "name": "The Sometimes Island",
+          "url": "https://open.spotify.com/artist/3SqtHH9uGzfm9UIc7veyuK"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308590,
+      "name": "Barbara Wants",
+      "url": "https://open.spotify.com/track/2fEmm2oaywnpyVSRdsVI6W"
     },
     {
       "album": {
@@ -1321,6 +1339,24 @@
     {
       "album": {
         "name": "Beverly & Barbara",
+        "url": "https://open.spotify.com/album/3mYNeSrhzU9qpDE1gdqWmZ"
+      },
+      "artists": [
+        {
+          "name": "The Sometimes Island",
+          "url": "https://open.spotify.com/artist/3SqtHH9uGzfm9UIc7veyuK"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/2CCVbsCzLDnTL2CMXxmF86"
+    },
+    {
+      "album": {
+        "name": "Beverly & Barbara",
         "url": "https://open.spotify.com/album/7xjC8FefVplGzNy7bTENm4"
       },
       "artists": [
@@ -1331,7 +1367,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 156923,
       "name": "The Worst",
       "url": "https://open.spotify.com/track/2iZfLHceRaPLsVLNgp0b5o"

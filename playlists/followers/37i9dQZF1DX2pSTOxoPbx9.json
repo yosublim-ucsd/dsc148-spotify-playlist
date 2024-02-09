@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 806630,
+  "2024-02-09": 806857,
   "date_first_scraped": "2021-12-21",
   "description": "Beautifully dark, dramatic tracks.",
   "name": "Dark & Stormy",
@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 203360,
       "name": "Beautiful Undone",
       "url": "https://open.spotify.com/track/3v8V9sj0bGB4xNtAWvdyNO"
@@ -298,6 +298,24 @@
     },
     {
       "album": {
+        "name": "This Empty Northern Hemisphere",
+        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217466,
+      "name": "Big Black Car",
+      "url": "https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH"
+    },
+    {
+      "album": {
         "name": "Pony",
         "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
       },
@@ -313,6 +331,24 @@
       "duration_ms": 212258,
       "name": "Big Sky",
       "url": "https://open.spotify.com/track/6CoVyYMT1M7S9DBRYp8HJL"
+    },
+    {
+      "album": {
+        "name": "Big Sigh",
+        "url": "https://open.spotify.com/album/5eoEqqiZy86YGeZvI2f1ST"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229280,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/2nkAjiZKgqEtcezjXypwmV"
     },
     {
       "album": {
@@ -717,7 +753,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 307520,
       "name": "Dark",
       "url": "https://open.spotify.com/track/61KJrjXrNooCvc65CkSuTk"
@@ -771,7 +807,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 230379,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/0lTmVz7A8YJM2fI9k1iMcV"
@@ -969,7 +1005,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 140034,
       "name": "Don't Know Who I Am",
       "url": "https://open.spotify.com/track/0BlWn4ZadRmT6Ksnvzc7Jp"
@@ -1297,6 +1333,24 @@
       "duration_ms": 280497,
       "name": "Fire of Love",
       "url": "https://open.spotify.com/track/58Wk9WXpOiObwEC9yHTQkp"
+    },
+    {
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232373,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM"
     },
     {
       "album": {
@@ -1683,6 +1737,24 @@
       "duration_ms": 266853,
       "name": "Hymnal",
       "url": "https://open.spotify.com/track/4dSi4VGaDAeknj8E5Q30ZP"
+    },
+    {
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314662,
+      "name": "I Always Wanna Die (Sometimes)",
+      "url": "https://open.spotify.com/track/7iPlcFvOMOzt6v0QvcAueZ"
     },
     {
       "album": {

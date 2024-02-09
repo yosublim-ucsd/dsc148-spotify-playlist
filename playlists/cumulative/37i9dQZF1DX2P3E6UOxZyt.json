@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: Jocelyn 9.4.0",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: L\u00dcCY",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -628,10 +628,40 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 215567,
       "name": "Donut - \u300a\u6b64\u6642\u6b64\u523b\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/3RCxeAvPSEGGid6OaklZDG"
+    },
+    {
+      "album": {
+        "name": "DOSE ME (with \u5433\u601d\u8ce2, Jinbo & \u9ec3\u795d\u8ce2\u5112)",
+        "url": "https://open.spotify.com/album/2XsonfEoZXfQPVpD0T3UdF"
+      },
+      "artists": [
+        {
+          "name": "\u653f\u5b66Zed-X",
+          "url": "https://open.spotify.com/artist/7DAjUaK40De066EOFR6fxB"
+        },
+        {
+          "name": "Ben Wu",
+          "url": "https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM"
+        },
+        {
+          "name": "\u9ec3\u795d\u8ce2\u5112",
+          "url": "https://open.spotify.com/artist/79Yhu3qWKYYxguxCTyd88K"
+        },
+        {
+          "name": "Jinbo",
+          "url": "https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167692,
+      "name": "DOSE ME (with \u5433\u601d\u8ce2, Jinbo & \u9ec3\u795d\u8ce2\u5112)",
+      "url": "https://open.spotify.com/track/77pS53R8n659PX7RQZe2Ap"
     },
     {
       "album": {
@@ -1328,6 +1358,24 @@
       "duration_ms": 196625,
       "name": "IDFK",
       "url": "https://open.spotify.com/track/44E9HHcE62Bd4wQH95BtgV"
+    },
+    {
+      "album": {
+        "name": "tbh",
+        "url": "https://open.spotify.com/album/6HjV1YoD29GqhlpcYV3Lym"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Yen",
+          "url": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161612,
+      "name": "idk",
+      "url": "https://open.spotify.com/track/12swMq56NGWq4yf0bRFyKx"
     },
     {
       "album": {
@@ -2352,7 +2400,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 270625,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/1GwuQihIuhqGSYO4Y5FZJM"
@@ -2610,7 +2658,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 187200,
       "name": "Summer Party",
       "url": "https://open.spotify.com/track/1jMfT6oXPPabXkhKPQVqen"
@@ -4064,7 +4112,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 237601,
       "name": "\u5169\u5168",
       "url": "https://open.spotify.com/track/63LL3macgL8pFzqiqPrFvD"
@@ -4176,7 +4224,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 208833,
       "name": "\u524d\u9762\u8f6c\u4e2a\u5f2f",
       "url": "https://open.spotify.com/track/1R5L6GWG5ir4UoiP7sosEp"
@@ -4422,7 +4470,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 126534,
       "name": "\u5531\u4e00\u500bHook",
       "url": "https://open.spotify.com/track/5clGcT1WPdWHHRnfteNNSW"
@@ -5658,7 +5706,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 227000,
       "name": "\u6163\u6027\u5014\u5f37",
       "url": "https://open.spotify.com/track/0cFQjkOWJHL9Foigvlw0IQ"
@@ -6864,7 +6912,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 226250,
       "name": "\u6dda ft. \u9673\u5ffb\u73a5 Vicky Chen",
       "url": "https://open.spotify.com/track/3ZWsSvDyKxyjGy6IGrCpBt"
@@ -6944,6 +6992,24 @@
       "duration_ms": 140864,
       "name": "\u6f02\u5411\u5317\u65b9",
       "url": "https://open.spotify.com/track/4MG4NuRAiA3mDb29LMEMbH"
+    },
+    {
+      "album": {
+        "name": "\u6f02\u6d41\u6728",
+        "url": "https://open.spotify.com/album/6dgOQF7zMiL2T9uuJlUItQ"
+      },
+      "artists": [
+        {
+          "name": "L\u00dcCY",
+          "url": "https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260778,
+      "name": "\u6f02\u6d41\u6728",
+      "url": "https://open.spotify.com/track/6YCBSjzVSspsPj3cOVPHGN"
     },
     {
       "album": {
@@ -7996,7 +8062,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 271565,
       "name": "\u8acb\u96e2\u958b\u6211",
       "url": "https://open.spotify.com/track/0rlLkJ8H6vDCTvbS8tF8Kp"
@@ -8202,7 +8268,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 196000,
       "name": "\u8ddf\u6211\u4f86",
       "url": "https://open.spotify.com/track/3hSnIxdAhRl1NpGTVJgqdO"
@@ -8666,7 +8732,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 235280,
       "name": "\u96fb\u7dda\u687f\u4e0a\u7684\u9ce5",
       "url": "https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk"

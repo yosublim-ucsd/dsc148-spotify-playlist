@@ -1,13 +1,29 @@
 {
   "description": "where folk flowers bloom.  cover: Noah Kahan \ud83c\udf42",
-  "num_followers": 90487,
+  "num_followers": 90699,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWI3MTU4M2RmMjc2NGY3MGRhZmQ0OTYwMWU5NDk0MDI1MjdlYmRm",
+  "snapshot_id": "MCwxY2FlNmQ0YzUwYzA0YzAxNzk4ZDVmMWIzODUwNmQ0N2U5ZDA5MzI0",
   "tracks": [
+    {
+      "added_at": "2024-02-08 17:45:35",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
+    },
     {
       "added_at": "2024-02-02 22:05:16",
       "album": {

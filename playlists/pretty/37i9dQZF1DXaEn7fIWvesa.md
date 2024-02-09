@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 
 > A lo cubano 🔥 Con El Chacal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,323 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,346 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 19 | [Feliz](https://open.spotify.com/track/0s91c0rPN7ATKJPaYsLN2C) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Feliz](https://open.spotify.com/album/7jfQRBzVv3xO6phlTk6VrB) | 3:22 |
 | 20 | [Plan B \- Prod\. by Ernesto Losa](https://open.spotify.com/track/1E5TcIHAZXbcepOW9T8fy5) | [Orlenis 22k](https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS) | [Plan B](https://open.spotify.com/album/2sQCPEQ0fuyLyCmbBbcaX8) | 2:55 |
 | 21 | [El Men2 Remix](https://open.spotify.com/track/2gZgg2MnrUYtmlUYuaqWlY) | [EL YORDY DK](https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8), [La Tankeria](https://open.spotify.com/artist/46zSeracS4TMCzr21OKLiu), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [El Men2 Remix](https://open.spotify.com/album/2xli8e3TDgvnF2zUIWt2Vg) | 3:38 |
-| 22 | [Agua Noche Remix](https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9) | [Yulien Oviedo](https://open.spotify.com/artist/0AglxiiP1X55pczgFkgdC4), [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH), [Ja Rulay](https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV), [Fixty Ordara](https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E) | [Agua Noche Remix](https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM) | 3:58 |
+| 22 | [Ganas de Ti](https://open.spotify.com/track/6mzR2nbLrfzNw3BQ3puq4D) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [The Hits Kings](https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH) | 3:03 |
 | 23 | [Funimate \- Prod\. by Ernesto Losa](https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL) | [Charly & Johayron](https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG), [Pokercito](https://open.spotify.com/artist/0HEBlBt0wpPln5krAyG0B4), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS) | [Funimate](https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9) | 3:15 |
 | 24 | [Southwezzzt](https://open.spotify.com/track/0ClMpKvozc99kihtCRt3ya) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [El Yonki](https://open.spotify.com/artist/5Dcy46qDr77Bkep7KHRJIR), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Southwezzzt](https://open.spotify.com/album/22L7ZRrPWvRnpdP8WFuHLi) | 3:07 |
-| 25 | [Ganas de Ti](https://open.spotify.com/track/6mzR2nbLrfzNw3BQ3puq4D) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [The Hits Kings](https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH) | 3:03 |
+| 25 | [Agua Noche Remix](https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9) | [Yulien Oviedo](https://open.spotify.com/artist/0AglxiiP1X55pczgFkgdC4), [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH), [Ja Rulay](https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV), [Fixty Ordara](https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E) | [Agua Noche Remix](https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM) | 3:58 |
 | 26 | [Piña Colada](https://open.spotify.com/track/67h0pnnJczXLsNqmew78lw) | [Orlenis 22k](https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s), [Charly & Johayron](https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG) | [Piña Colada](https://open.spotify.com/album/2aRxTjGSC7zwgIiCuoQh4E) | 3:02 |
 | 27 | [Pornosotros](https://open.spotify.com/track/7DTnxzUjeho8NYE0IsoDw1) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf), [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv), [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH) | [Pornosotros](https://open.spotify.com/album/0VIN822VobCM6QGwNlCRhx) | 3:18 |
 | 28 | [Otro Trago](https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Tamoarriba](https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 49 | [Te Quiero Pa' Mi](https://open.spotify.com/track/6f1iOMpbJFItdBug6CepDl) | [El Kimiko y Yordy](https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn) | [Te Quiero Pa' Mi](https://open.spotify.com/album/7HWJg3Yznnix51OBoq4BRP) | 3:21 |
 | 50 | [El Verdadero Palo](https://open.spotify.com/track/73lOC7Sg5p7hiVo05jjILM) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Marvin Freddy](https://open.spotify.com/artist/3I0QgDOz7H5a93lvRagnRe) | [El Verdadero Palo](https://open.spotify.com/album/6Wurfg3vmjhrTdhdf9XkOO) | 3:14 |
 
-Snapshot ID: `MCxmMzBkZGNkYTgwYWI3NTc4ZmIyZTZjMjY5Mjk0YzAwYWM5MjgyMjQ2`
+Snapshot ID: `MCw1MTI4MmYxZmFiZDYyYjhjYmFkMDdlOTNjOGFlZjE1MTNjOTdkZTZk`

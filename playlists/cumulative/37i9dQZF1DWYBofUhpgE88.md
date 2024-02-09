@@ -2,7 +2,7 @@
 
 ### [Rap Motivazionale](https://open.spotify.com/playlist/37i9dQZF1DWYBofUhpgE88)
 
-> Jannik Sinner, vincitore slam! Rap per non smettere mai di crederci 💪🏋️🏃‍♀
+> Rap per non smettere mai di crederci 💪🏋️🏃‍♀
 
 193 songs - 10 hr 42 min
 

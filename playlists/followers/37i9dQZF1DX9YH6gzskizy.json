@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 16211,
+  "2024-02-09": 16232,
   "date_first_scraped": "2023-05-19",
   "description": "You are a mood, so is this playlist. \u2728 Cover - Kayan",
   "name": "#GRWM Indie",
@@ -425,10 +425,28 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 194400,
       "name": "Dreaming In My Mind",
       "url": "https://open.spotify.com/track/5d0vzUSG3l87BRtGR726RN"
+    },
+    {
+      "album": {
+        "name": "Dreaming In My Mind",
+        "url": "https://open.spotify.com/album/6gZ98UMX5CCibRMf1tvrdo"
+      },
+      "artists": [
+        {
+          "name": "Jaden Maskie",
+          "url": "https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Dreaming In My Mind",
+      "url": "https://open.spotify.com/track/7c6CIO6AcuxKeeWasffOxO"
     },
     {
       "album": {

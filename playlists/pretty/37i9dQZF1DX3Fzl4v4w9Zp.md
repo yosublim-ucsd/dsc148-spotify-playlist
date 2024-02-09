@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Jason Isbell and the 400 Unit
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,583 likes - 150 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,630 likes - 150 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [Burlesque Desert Window](https://open.spotify.com/track/2VRlBQCorJfk9QNWVyCMpy) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [A Lifetime to Find](https://open.spotify.com/album/3lxavXQElVKfCmqZSIrRV1) | 2:59 |
 | 150 | [Long Journey Home](https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Long Journey Home / Life To Go](https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C) | 2:57 |
 
-Snapshot ID: `MCw5MjkzMDY0YmM5NTY2ZDczMWY5ODE5OGY2NWQ4YmE3NGZlMzk5OWE4`
+Snapshot ID: `MCxkYWMxNjY5NjM5MmQxZjE4NzllNjQzYTFhZGUwNjJkY2MwZGFhOGU3`

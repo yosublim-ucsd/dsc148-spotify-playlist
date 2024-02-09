@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Layto",
-  "num_followers": 475150,
+  "num_followers": 475242,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjAxZmU3MTc5MGI1NDNmMjFmMGNmN2Q3OTU5NWYwZDI5ZTg5NWY0",
+  "snapshot_id": "MCxjNTUwMTFmYTBjYzVkZjdlZWRjZDc0ZTcxMmRiOGUxYmFjNzk5OGQ5",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -415,26 +415,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Someone Else",
-        "url": "https://open.spotify.com/album/43PrBCExe9DKwdI9TJKAtc"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 198947,
-      "name": "Someone Else",
-      "url": "https://open.spotify.com/track/4hR3hQKELrARHNZJ51D14s"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Rain (from The Suicide Squad)",
         "url": "https://open.spotify.com/album/3RofvYZbV6xjU5H4RMNPap"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 236040,
       "name": "Rain (from The Suicide Squad)",
       "url": "https://open.spotify.com/track/6gi7qsHSH2JWZsTRHndxqm"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/43PrBCExe9DKwdI9TJKAtc"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 198947,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/4hR3hQKELrARHNZJ51D14s"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "BOO HOO",
-        "url": "https://open.spotify.com/album/340DkD2ALkoIfq553m5lgl"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        },
-        {
-          "name": "RIELL",
-          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
-        }
-      ],
-      "duration_ms": 170502,
-      "name": "BOO HOO",
-      "url": "https://open.spotify.com/track/72JlIpEVjdNwFtffVJP2kK"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Strange Disciple",
         "url": "https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK"
       },
@@ -847,22 +827,6 @@
       "duration_ms": 255438,
       "name": "Weak In Your Light",
       "url": "https://open.spotify.com/track/4odb2UIgc0u22MNV7p4iQq"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Armatron",
-        "url": "https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 252603,
-      "name": "Armatron",
-      "url": "https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -887,6 +851,26 @@
       "duration_ms": 219745,
       "name": "Heaven Angel",
       "url": "https://open.spotify.com/track/7sky3fJ4SA5CiGY905vphj"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "BOO HOO",
+        "url": "https://open.spotify.com/album/340DkD2ALkoIfq553m5lgl"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        },
+        {
+          "name": "RIELL",
+          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
+        }
+      ],
+      "duration_ms": 170502,
+      "name": "BOO HOO",
+      "url": "https://open.spotify.com/track/72JlIpEVjdNwFtffVJP2kK"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -927,6 +911,22 @@
       "duration_ms": 178920,
       "name": "Monster",
       "url": "https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Armatron",
+        "url": "https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 252603,
+      "name": "Armatron",
+      "url": "https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "alternative psycho (deluxe)",
-        "url": "https://open.spotify.com/album/1OxbOHfmwNB0oG1UycR5pS"
-      },
-      "artists": [
-        {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
-        }
-      ],
-      "duration_ms": 180093,
-      "name": "save urself (runaway)",
-      "url": "https://open.spotify.com/track/5CtZQtRHLuHKkzMqsm0Tva"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Fanfare",
         "url": "https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 145414,
       "name": "Idolize",
       "url": "https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "alternative psycho (deluxe)",
+        "url": "https://open.spotify.com/album/1OxbOHfmwNB0oG1UycR5pS"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        }
+      ],
+      "duration_ms": 180093,
+      "name": "save urself (runaway)",
+      "url": "https://open.spotify.com/track/5CtZQtRHLuHKkzMqsm0Tva"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Can You Feel The Sun",
+        "url": "https://open.spotify.com/album/0P4sHlkN6qkLxWAcEKYqPx"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 223671,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/7gq2VoVnIcT2jd8JWAEjrj"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "IDFLU",
         "url": "https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 172235,
       "name": "IDFLU",
       "url": "https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Can You Feel The Sun",
-        "url": "https://open.spotify.com/album/0P4sHlkN6qkLxWAcEKYqPx"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 223671,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/7gq2VoVnIcT2jd8JWAEjrj"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "BELIEVE",
-        "url": "https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK"
-      },
-      "artists": [
-        {
-          "name": "NEFFEX",
-          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "BELIEVE",
-      "url": "https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "flowers",
         "url": "https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "BELIEVE",
+        "url": "https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "BELIEVE",
+      "url": "https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "the last laugh",
         "url": "https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL"
       },
@@ -1455,30 +1455,6 @@
       "duration_ms": 196880,
       "name": "deadly ever after",
       "url": "https://open.spotify.com/track/1sGT7SHoxtjk18oSNSItBq"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Palm Reader",
-        "url": "https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ"
-      },
-      "artists": [
-        {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
-        },
-        {
-          "name": "Big Boi",
-          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
-        },
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 180667,
-      "name": "Palm Reader",
-      "url": "https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1523,6 +1499,30 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Palm Reader",
+        "url": "https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ"
+      },
+      "artists": [
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 180667,
+      "name": "Palm Reader",
+      "url": "https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy"
       },
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 206687,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "When You & Me Dance",
         "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
       },
@@ -1567,6 +1583,30 @@
       "duration_ms": 221142,
       "name": "When You & Me Dance",
       "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 174620,
+      "name": "Mr Regular",
+      "url": "https://open.spotify.com/track/0DBXMMwNYbo0O8wCzpVXkC"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1591,22 +1631,6 @@
       "duration_ms": 251707,
       "name": "Lightning Over Mexico",
       "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 206687,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1643,30 +1667,6 @@
       "duration_ms": 195735,
       "name": "Die For A Night",
       "url": "https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 174620,
-      "name": "Mr Regular",
-      "url": "https://open.spotify.com/track/0DBXMMwNYbo0O8wCzpVXkC"
     },
     {
       "added_at": "2024-01-19 05:00:00",

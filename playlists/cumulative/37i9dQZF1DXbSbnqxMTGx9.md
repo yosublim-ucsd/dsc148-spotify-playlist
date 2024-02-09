@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-617 songs - 1 day 10 hr 19 min
+618 songs - 1 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [I Am What I Am](https://open.spotify.com/track/0gyszXQXBJ73GUAhMmnSwM) | [Greyhound](https://open.spotify.com/artist/24m8te3cM8e8cSABOrakXG) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:45 | 2022-09-22 | 2023-11-11 |
 | [I Am What I Am](https://open.spotify.com/track/2tryECearyb7IhKsF4jX9Q) | [Greyhound](https://open.spotify.com/artist/24m8te3cM8e8cSABOrakXG) | [Black and White: The Best of Greyhound](https://open.spotify.com/album/2p3CA9buNw92L0gR7z3ISc) | 2:46 | 2022-09-22 | 2024-01-30 |
 | [I Can See Clearly Now](https://open.spotify.com/track/2FS9HJtu9giWPwVyMk0KFw) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [Summer Throwback](https://open.spotify.com/album/6uUEbDbH7X3mVqx7WkF7VV) | 2:55 | 2022-09-22 | 2022-11-13 |
-| [I Can See Clearly Now \- Edit](https://open.spotify.com/track/7BECNKQnIHCREUGA0Zty7g) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 2:41 | 2021-03-02 | 2024-01-30 |
+| [I Can See Clearly Now \- Edit](https://open.spotify.com/track/7BECNKQnIHCREUGA0Zty7g) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 2:41 | 2021-03-02 |  |
 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 | 2021-03-02 | 2022-11-27 |
 | [I Love King Selassie](https://open.spotify.com/track/1m8km5zdC0WDsdwKnCZ6sa) | [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:29 | 2022-09-22 | 2024-01-30 |
 | [I Love You Madly](https://open.spotify.com/track/4oQqhPHN4Q8QeKZYrjRNKr) | [Busty Brown](https://open.spotify.com/artist/0ox6JRx6pHMdRTZnMblCIg) | [I Love You Madly](https://open.spotify.com/album/52HBRmrgNY4QjWIK2aGNVC) | 3:23 | 2022-09-22 | 2024-01-30 |
@@ -501,7 +501,7 @@
 | [Sunshine Reggae](https://open.spotify.com/track/3VXtRTAn8RyKM5qTa5Tazi) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:14 | 2022-09-22 | 2023-06-12 |
 | [Sunshine Reggae](https://open.spotify.com/track/0z0JSkE5Nw3i3nin3BBSuG) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 4:17 | 2021-03-02 |  |
 | [Superman](https://open.spotify.com/track/4E6TkulZSnor5RzOkkW32U) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Contagious](https://open.spotify.com/album/46fXrRFxFf1L5LycVoOetx) | 4:22 | 2022-08-18 | 2022-09-23 |
-| [Suzanne Beware of the Devil](https://open.spotify.com/track/71RlrObaNXUK8EbREgJHm8) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [Suzanne Beware of the Devil \- The Best of Dandy Livingstone](https://open.spotify.com/album/2OyxYqLTT5HBqd3FxYsmvu) | 2:35 | 2022-09-22 |  |
+| [Suzanne Beware of the Devil](https://open.spotify.com/track/71RlrObaNXUK8EbREgJHm8) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [Suzanne Beware of the Devil \- The Best of Dandy Livingstone](https://open.spotify.com/album/2OyxYqLTT5HBqd3FxYsmvu) | 2:35 | 2022-09-22 | 2024-02-09 |
 | [Suzanne Beware of the Devil](https://open.spotify.com/track/6WNT9qmTeBBXl9VpN9UCgE) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:35 | 2021-03-02 | 2023-11-11 |
 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:47 | 2021-03-02 | 2023-09-18 |
 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/3QmetavYzJize7uwkNlzEW) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Bad to the Bone](https://open.spotify.com/album/4vbOi44Tw0IHqMNoN7Zrbm) | 3:47 | 2022-09-22 | 2023-09-23 |
@@ -549,7 +549,8 @@
 | [This Monday Morning Feeling](https://open.spotify.com/track/5T1OzO9SUcmCnz3xibdTQG) | [Tito Simon](https://open.spotify.com/artist/7JZMp0snEYYOcYSHd2lkz5) | [Reggae Chartbusters, Vol\. 5](https://open.spotify.com/album/079kR7Egz6DWvTNyEge3qg) | 3:16 | 2022-09-22 | 2024-01-24 |
 | [This Monday Morning Feeling](https://open.spotify.com/track/0sGVA4yzcmscn32zW7rcr3) | [Tito Simon](https://open.spotify.com/artist/7JZMp0snEYYOcYSHd2lkz5) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:17 | 2022-09-22 | 2023-11-11 |
 | [This Monday Morning Feeling](https://open.spotify.com/track/2NNsgxm81UMtbIOtBK4vyu) | [Tito Simon](https://open.spotify.com/artist/7JZMp0snEYYOcYSHd2lkz5) | [Ska & Reggae Classics](https://open.spotify.com/album/0SIpGRJxmn6tYe9o6xf9lZ) | 3:17 | 2022-09-22 | 2024-01-30 |
-| [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2021-03-02 |  |
+| [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2021-03-02 | 2024-02-09 |
+| [Three Little Birds](https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 3:00 | 2024-01-29 |  |
 | [Three Little Birds](https://open.spotify.com/track/7G50pcN2iGxpJGVY34otOK) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Hopeful Music](https://open.spotify.com/album/2KLYTP6Lm6Sgsc4oCxWYO4) | 3:00 | 2022-09-22 | 2022-11-13 |
 | [Till Then](https://open.spotify.com/track/4avroLEAQBpzWSKqx2xCme) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/0huf3sYKbAoFaY1S83ezyX) | 3:20 | 2021-03-02 | 2022-07-08 |
 | [Till Then](https://open.spotify.com/track/56o2Y7yCupDH4uqn4vayMc) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/5oGtxusqxowETVnVokdqME) | 3:21 | 2022-09-22 |  |

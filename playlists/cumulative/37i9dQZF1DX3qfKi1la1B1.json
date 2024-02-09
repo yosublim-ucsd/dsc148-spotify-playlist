@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 270484,
       "name": "Dekoboko",
       "url": "https://open.spotify.com/track/51CXq1aLX96DMZszfTAxy9"
@@ -2101,6 +2101,24 @@
     },
     {
       "album": {
+        "name": "Hardin",
+        "url": "https://open.spotify.com/album/1JYul6dcetZLNknw8P9lVG"
+      },
+      "artists": [
+        {
+          "name": "Kayl Garcia",
+          "url": "https://open.spotify.com/artist/2b9sNBOKOO52limWBKI84i"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305364,
+      "name": "Hardin",
+      "url": "https://open.spotify.com/track/2wc7oHFR9KTsfLVm53Kokn"
+    },
+    {
+      "album": {
         "name": "Summing Up",
         "url": "https://open.spotify.com/album/3i2iavFSYOci10RdJoNSnX"
       },
@@ -2344,6 +2362,24 @@
       "duration_ms": 193360,
       "name": "I Hate Myself",
       "url": "https://open.spotify.com/track/4o3MnZozzXONhO8hkB58Vn"
+    },
+    {
+      "album": {
+        "name": "Her Thoughts",
+        "url": "https://open.spotify.com/album/6O0Yg7vMVL9txMkxXGwjtD"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168200,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5tBbxTvjJ2e1gc4vLnRzEF"
     },
     {
       "album": {
@@ -5326,7 +5362,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 231819,
       "name": "Sur",
       "url": "https://open.spotify.com/track/1WFBVAU9j3JU3Z3rCyP6GO"

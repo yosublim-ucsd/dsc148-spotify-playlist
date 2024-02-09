@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Ruben Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,282 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,319 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 17 | [In The End](https://open.spotify.com/track/09CLSLAHnRuFQUgoXeAiCz) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [In The End](https://open.spotify.com/album/4yKDRnMv0vIj5FlsREicz4) | 3:10 |
 | 18 | [Just How It Should Go](https://open.spotify.com/track/5EOhkb3wQQj1YvpazFNxde) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C) | [Just How It Should Go](https://open.spotify.com/album/4qwzL7WHxoFWLNp71xjyQN) | 3:15 |
 | 19 | [Cicadas](https://open.spotify.com/track/7EzcfykkDX0h56x4U0ZRym) | [Emily Chambers](https://open.spotify.com/artist/1C06ksRGDW6ZsByvvmlIDI), [Griffin Dean](https://open.spotify.com/artist/3YMhdYax92u9VPuqjwOaeS), [Stoop Kids](https://open.spotify.com/artist/1Rxe2OboMb1Bx2n49182AJ) | [Cicadas](https://open.spotify.com/album/6yNtlbPAdV6k2O4sNL1ea7) | 3:27 |
-| 20 | [sensación \- Freak That](https://open.spotify.com/track/70zh9S1vB7IcUnp7tQRQXb) | [Prophex](https://open.spotify.com/artist/4QeD9XFoPEHht1Mj8InACT) | [sensación \(Freak That\)](https://open.spotify.com/album/7vRUsbkRQqkgq4bOfD4vwk) | 3:46 |
+| 20 | [Sensación \- Freak That](https://open.spotify.com/track/70zh9S1vB7IcUnp7tQRQXb) | [Prophex](https://open.spotify.com/artist/4QeD9XFoPEHht1Mj8InACT) | [Sensación \(Freak That\)](https://open.spotify.com/album/7vRUsbkRQqkgq4bOfD4vwk) | 3:46 |
 | 21 | [Sick As Your Secrets](https://open.spotify.com/track/1tfbXcqMhvdB2YYkpz54Np) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Sick As Your Secrets](https://open.spotify.com/album/2vPyzhvkgoNoRaub67x6Ic) | 4:03 |
 | 22 | [If I Could](https://open.spotify.com/track/4nZMeepw63QIEHf5R8rRUr) | [Jessica Heine](https://open.spotify.com/artist/3HZQRiJyJPr0glBJQrbVVb) | [Build Again](https://open.spotify.com/album/6qoMDaqggEd6NTqpEL6Uek) | 5:12 |
 | 23 | [Coca Cola](https://open.spotify.com/track/5BxsiZlSaoUtjAhjiEqjhe) | [Les Passagers](https://open.spotify.com/artist/1j6mG2Flo2QsSNV8FykBqJ) | [Coca cola](https://open.spotify.com/album/2ZAGKPJyN843FTVbyY4o1t) | 4:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [Met Myself](https://open.spotify.com/track/37WWujaXn7jkt5A9nQ5uem) | [Anna Melva](https://open.spotify.com/artist/5sIlE9krqBgJphctYv2W4d) | [Met Myself](https://open.spotify.com/album/6EjNPWifatOL47vc7zqDhe) | 3:52 |
 | 75 | [What A Way To Go](https://open.spotify.com/track/1BRaaNsHfcAFVZPJkmJgVp) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR), [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [What A Way To Go](https://open.spotify.com/album/0GqEB3z6bCc2OlR6aR8w5d) | 2:50 |
 
-Snapshot ID: `MCw3Y2M3YzhjMTA4MDJiN2JiNzQ3YzQ5MDY2ZWEzZWQ1OGIxZjhjNTky`
+Snapshot ID: `MCxmMDE2NjQ5NmNjNWI5NWViYmFmMjU1ZDc2YTEzNGZmMmU3MzNkMzU1`

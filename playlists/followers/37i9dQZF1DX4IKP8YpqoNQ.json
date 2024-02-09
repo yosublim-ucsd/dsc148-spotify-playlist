@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 28896,
+  "2024-02-09": 28895,
   "date_first_scraped": "2022-07-10",
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
   "name": "Soul Live",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 220546,
       "name": "Add To Me - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 236026,
       "name": "Feeling Good - Live",
       "url": "https://open.spotify.com/track/3mPaCNDaL3PhzpLbS9Xnwj"
@@ -2003,7 +2003,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 223232,
       "name": "Love Calls - Anniversary \u2013 Live",
       "url": "https://open.spotify.com/track/3N5SwICIY2ZVCQsXatCmPw"
@@ -3277,7 +3277,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 484858,
       "name": "Untitled (How Does It Feel)",
       "url": "https://open.spotify.com/track/74EBtxAMvsJVTzh3pPXZwr"
@@ -3475,7 +3475,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 289600,
       "name": "What's Going On - Live At Oakland Coliseum, CA / 1974",
       "url": "https://open.spotify.com/track/5HKeylrH9lOy90PXK3KmAn"
@@ -3637,7 +3637,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 215800,
       "name": "You Don't Know My Name - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
       "url": "https://open.spotify.com/track/2YpcIMAlj3xnB1Vr3qFYL1"

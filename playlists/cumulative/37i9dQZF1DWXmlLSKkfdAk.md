@@ -4,7 +4,7 @@
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-324 songs - 19 hr 41 min
+325 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Despacito](https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Despacito](https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3) | 2:50 | 2021-11-12 |  |
 | [Dire Wolf \- Bonus Track](https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [Crooked Tree \(Deluxe Edition\)](https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6) | 3:32 | 2022-12-02 | 2024-01-10 |
 | [Don't Dream It's Over](https://open.spotify.com/track/6QArEKofNPvQcI1bWn9MAS) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Don't Dream It's Over](https://open.spotify.com/album/21wasMSzv1uqkmqO4NhndJ) | 3:52 | 2022-05-27 | 2022-10-13 |
-| [Don't Dream It's Over](https://open.spotify.com/track/6irzQ68l0WZxY4SHMAZSK9) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Don't Dream It's Over](https://open.spotify.com/album/7gCk3DHHivlyObqAfOwPGH) | 3:52 | 2022-07-27 |  |
+| [Don't Dream It's Over](https://open.spotify.com/track/6UPaUWgjbo5Xp76GWh7Aic) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Don't Dream It's Over](https://open.spotify.com/album/2BKhqVTBpYxGCvfG5P8LJd) | 3:52 | 2024-01-09 |  |
+| [Don't Dream It's Over](https://open.spotify.com/track/6irzQ68l0WZxY4SHMAZSK9) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Don't Dream It's Over](https://open.spotify.com/album/7gCk3DHHivlyObqAfOwPGH) | 3:52 | 2022-07-27 | 2024-02-09 |
 | [Don't Start Now](https://open.spotify.com/track/5rcjnQLlh7AhGFdZrK07tU) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Don't Start Now](https://open.spotify.com/album/1H9JRwVysbzsH2AUTULZNh) | 3:47 | 2021-11-12 | 2024-01-10 |
 | [Don't Worry Baby](https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Don't Worry Baby](https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw) | 3:00 | 2021-11-12 | 2024-01-10 |
 | [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 | 2022-07-27 |  |

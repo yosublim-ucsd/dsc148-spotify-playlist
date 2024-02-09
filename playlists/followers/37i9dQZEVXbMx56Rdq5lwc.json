@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 27263,
+  "2024-02-09": 27269,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Lithuania.",
   "name": "Top 50 - Lithuania",
@@ -7509,7 +7509,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -20409,7 +20409,7 @@
       ],
       "date_added": "2021-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 162079,
       "name": "Rugpj\u016btis",
       "url": "https://open.spotify.com/track/2psbE7Ds01Xz2MaMIk7APk"

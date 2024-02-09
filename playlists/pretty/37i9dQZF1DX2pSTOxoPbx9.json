@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 806630,
+  "num_followers": 806857,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTM4ZDFiODMxMmVkMTE4NjRlNDI2MjA5NzZlNWNjODM4NjVhZWQ3",
+  "snapshot_id": "MCw4ODJiMjhmNzUyODM1YmUyMTUzMzBkZWM0ZmVkMTViOTU3NTU1ZTUx",
   "tracks": [
     {
       "added_at": "2024-02-07 18:16:41",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-02-07 18:16:41",
       "album": {
+        "name": "Seven + Mary",
+        "url": "https://open.spotify.com/album/5krQbJqzCCOxCGOQ3W8Tr6"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Devil Like Me",
+      "url": "https://open.spotify.com/track/5VJe8OKFcPBBjNEAPUeDuJ"
+    },
+    {
+      "added_at": "2024-02-07 18:16:41",
+      "album": {
         "name": "Jenny of Oldstones (Game of Thrones)",
         "url": "https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB"
       },
@@ -471,6 +487,22 @@
       "duration_ms": 188638,
       "name": "Jenny of Oldstones (Game of Thrones)",
       "url": "https://open.spotify.com/track/1u0THw5xaGd7sYzJEh48Lt"
+    },
+    {
+      "added_at": "2024-02-07 18:16:41",
+      "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 207718,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
     },
     {
       "added_at": "2024-02-07 18:16:41",
@@ -507,38 +539,6 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
-    },
-    {
-      "added_at": "2024-02-07 18:16:41",
-      "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 207718,
-      "name": "Waiting Game",
-      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
-    },
-    {
-      "added_at": "2024-02-07 18:16:41",
-      "album": {
-        "name": "Seven + Mary",
-        "url": "https://open.spotify.com/album/5krQbJqzCCOxCGOQ3W8Tr6"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "Devil Like Me",
-      "url": "https://open.spotify.com/track/5VJe8OKFcPBBjNEAPUeDuJ"
     },
     {
       "added_at": "2024-02-07 18:16:41",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-02-07 18:16:41",
       "album": {
-        "name": "Noonday Dream",
-        "url": "https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 394320,
-      "name": "Nica Libres At Dusk",
-      "url": "https://open.spotify.com/track/5eSH7Aubn6Ol80ynF4MV2L"
-    },
-    {
-      "added_at": "2024-02-07 18:16:41",
-      "album": {
         "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
         "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 196613,
       "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
       "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
+    },
+    {
+      "added_at": "2024-02-07 18:16:41",
+      "album": {
+        "name": "Noonday Dream",
+        "url": "https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 394320,
+      "name": "Nica Libres At Dusk",
+      "url": "https://open.spotify.com/track/5eSH7Aubn6Ol80ynF4MV2L"
     },
     {
       "added_at": "2024-02-07 18:16:41",

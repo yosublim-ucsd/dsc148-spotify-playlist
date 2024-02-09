@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-556 songs - 1 day 12 hr 22 min
+557 songs - 1 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Hot Rotten Grass Smell](https://open.spotify.com/track/16weYq1yI3d7pyjkRLYlrY) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 1:35 | 2023-04-19 | 2024-01-02 |
 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 | 2024-01-01 |  |
 | [Hyacinth](https://open.spotify.com/track/2EirKrb1mZS0Wmk7Wt3dHV) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:19 | 2024-01-18 |  |
+| [Hymne \- Remastered](https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 2:44 | 2024-02-09 |  |
 | [I](https://open.spotify.com/track/67eZrCOBvnQtURCkICXySb) | [Rocks and Waves Song Circle](https://open.spotify.com/artist/3IGl0j2I9KKjiOgtiBFmv7) | [Songs I\-V](https://open.spotify.com/album/6hHKEiQIKkcelLnUPjpy71) | 5:40 | 2024-01-18 |  |
 | [I Believe \(When I Fall In Love It Will Be Forever\)](https://open.spotify.com/track/1fdQg2yrTYCMOviVCw1Xdh) | [Art Garfunkel](https://open.spotify.com/artist/6kEsKkXuE4olX7m3mNLZkS) | [Breakaway](https://open.spotify.com/album/1XrVWVKKfRlD0waskKj5uy) | 3:51 | 2022-07-27 |  |
 | [I bled on stage at first ave](https://open.spotify.com/track/5HSOM17OTzUpD9PYXWupXj) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [another triumph of ghetto engineering](https://open.spotify.com/album/6el9i3xYmiw1OjTMS3Fynx) | 2:45 | 2023-08-25 | 2023-12-14 |

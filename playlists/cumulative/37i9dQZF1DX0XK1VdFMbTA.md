@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
-889 songs - 2 day 13 hr 45 min
+890 songs - 2 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Beware Of Darkness \- Remastered 2014](https://open.spotify.com/track/6TRZDhDxS4PJs3nxh9FBzk) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:51 | 2022-01-05 | 2023-02-19 |
 | [Billion Dollar Babies](https://open.spotify.com/track/6FOGRNfOgaubrZNc9MW19K) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Billion Dollar Babies \(Deluxe Reissue\)](https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep) | 3:43 | 2022-01-05 |  |
 | [Birdland](https://open.spotify.com/track/4UcCvuacrweynfWohap8NR) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 9:13 | 2022-01-05 | 2022-07-26 |
+| [Bitch \- 2009 Mix](https://open.spotify.com/track/01JYvQ6udfhUw9Jed9EzoK) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:37 | 2022-11-17 |  |
 | [Bitch \- 2009 Mix](https://open.spotify.com/track/6INfdnbwEOEDmNxm56p9O2) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Deluxe\)](https://open.spotify.com/album/5t59EkgjG0CEwuiCCQRkOj) | 3:37 | 2022-01-05 | 2022-07-29 |
 | [Black Diamond](https://open.spotify.com/track/6PmckFG2BhEELc5OM7O7DS) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 5:14 | 2022-01-05 |  |
 | [Black Friday](https://open.spotify.com/track/1kn4dN91ha8qZS3pPYqjug) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Katy Lied](https://open.spotify.com/album/12N6IsuqIJzbTXdIrJnc9b) | 3:41 | 2022-01-05 |  |
@@ -860,7 +861,7 @@
 | [Who Needs You \- Remastered 2011](https://open.spotify.com/track/02lvTeAFIIsOd0wVNoRkQ5) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 3:06 | 2022-01-05 | 2022-07-29 |
 | [Why Can't I Touch It? \- 2001 Remastered Version](https://open.spotify.com/track/037DAJ2ClglNQbEvXpGav4) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Singles Going Steady](https://open.spotify.com/album/6TxgQwGrbG3XZLNPOEhg7E) | 6:36 | 2022-01-05 |  |
 | [Why Does It Hurt When I Pee?](https://open.spotify.com/track/21CXijjRjUaegeKhfPF7uX) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Joe's Garage Acts I, II & III](https://open.spotify.com/album/6uJkCskko3O83SRYWQVsjS) | 2:22 | 2022-01-05 | 2023-04-16 |
-| [Wild Horses \- Acoustic Version](https://open.spotify.com/track/6iMqdc7qFspNW9Y5wnQP8d) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Deluxe\)](https://open.spotify.com/album/5t59EkgjG0CEwuiCCQRkOj) | 5:47 | 2022-01-05 |  |
+| [Wild Horses \- Acoustic Version](https://open.spotify.com/track/6iMqdc7qFspNW9Y5wnQP8d) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Deluxe\)](https://open.spotify.com/album/5t59EkgjG0CEwuiCCQRkOj) | 5:47 | 2022-01-05 | 2024-02-09 |
 | [Wild Mountain Honey](https://open.spotify.com/track/6lELCr5OEudkNijuNqm14G) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 4:49 | 2022-01-05 |  |
 | [Wild West End](https://open.spotify.com/track/5EoD2H4HEX3lQd0l7CsHA1) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 4:41 | 2022-01-05 |  |
 | [Wild West End](https://open.spotify.com/track/6yVnpVWuT3NdhAmQe05T33) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/2rCS6Xwx32V27pvgFzLzlT) | 4:41 | 2022-01-05 | 2022-07-29 |

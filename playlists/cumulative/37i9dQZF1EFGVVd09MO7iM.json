@@ -5589,6 +5589,24 @@
     },
     {
       "album": {
+        "name": "Despicable Me",
+        "url": "https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m"
+      },
+      "artists": [
+        {
+          "name": "The Minions",
+          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183973,
+      "name": "Minion Mambo",
+      "url": "https://open.spotify.com/track/5xa0XnAwF3wIv3XiLf1GdS"
+    },
+    {
+      "album": {
         "name": "Rap Or Go To The League",
         "url": "https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg"
       },

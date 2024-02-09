@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Stuck in the Sound",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Dynamite Shakers",
   "name": "VOLUME FRANCE",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 185360,
       "name": "700m\u00b2",
       "url": "https://open.spotify.com/track/572uU6bg1zMbcwSA8ML67d"
+    },
+    {
+      "album": {
+        "name": "A THOUSAND DREAMS AWAY",
+        "url": "https://open.spotify.com/album/79NfBx8hqAlC2ml2m5Rzg3"
+      },
+      "artists": [
+        {
+          "name": "Greyborn",
+          "url": "https://open.spotify.com/artist/5hV2xBm2AojCQ0EF6jDqis"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335696,
+      "name": "A THOUSAND DREAMS AWAY",
+      "url": "https://open.spotify.com/track/03VkCrbicuL4AMuOaO3e9p"
     },
     {
       "album": {
@@ -56,6 +74,24 @@
       "duration_ms": 233520,
       "name": "Acting Real Nice",
       "url": "https://open.spotify.com/track/0OVxgI1b8dhbA0NK5m6DWv"
+    },
+    {
+      "album": {
+        "name": "Aha (it's ok)",
+        "url": "https://open.spotify.com/album/17TOyoj109pxs3pjjgLUrH"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Carwash",
+          "url": "https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196177,
+      "name": "Aha (it's ok)",
+      "url": "https://open.spotify.com/track/25hjwH9ePERli6DDv8x7Kf"
     },
     {
       "album": {
@@ -160,7 +196,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 162000,
       "name": "B/W Rainbow",
       "url": "https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd"
@@ -232,7 +268,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 135340,
       "name": "BIG",
       "url": "https://open.spotify.com/track/5zPzmBPamaT9eDGduGtxqG"
@@ -380,7 +416,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 201305,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/11KdG302ZtlT6LUC0NpaAW"
@@ -888,7 +924,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 207740,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/3plpIWQeDa8ptI5u0YOmDF"
@@ -1072,6 +1108,24 @@
       "duration_ms": 185800,
       "name": "It's Gonna Be Alright",
       "url": "https://open.spotify.com/track/1adglBbuQQaCbUORdvYjdZ"
+    },
+    {
+      "album": {
+        "name": "JACK IS A SOCIOPATH",
+        "url": "https://open.spotify.com/album/6j04zM167yp6INtUTKHdej"
+      },
+      "artists": [
+        {
+          "name": "W!ZARD",
+          "url": "https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238133,
+      "name": "JACK IS A SOCIOPATH",
+      "url": "https://open.spotify.com/track/780GSelCfBHsMGof0SiPvm"
     },
     {
       "album": {
@@ -1273,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "More Than Bliss (Edit)",
+        "url": "https://open.spotify.com/album/4UAL40llEwK3rP2KJ94jgM"
+      },
+      "artists": [
+        {
+          "name": "FUZETA",
+          "url": "https://open.spotify.com/artist/1qlyhk1POBMOFpQ7LNANSO"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211560,
+      "name": "More Than Bliss - Edit",
+      "url": "https://open.spotify.com/track/3pUP0yCxQ1zwId3votN1PH"
+    },
+    {
+      "album": {
         "name": "Motel Way of Life",
         "url": "https://open.spotify.com/album/4TqCIDinCXhpoDuDKI5ENg"
       },
@@ -1468,6 +1540,24 @@
       "duration_ms": 119053,
       "name": "Perdu !",
       "url": "https://open.spotify.com/track/3PIF5IalvXFUmghnlRqRMY"
+    },
+    {
+      "album": {
+        "name": "Poings en l'air",
+        "url": "https://open.spotify.com/album/4LYM0auAK3OdbxnWGiO3ot"
+      },
+      "artists": [
+        {
+          "name": "Darcy",
+          "url": "https://open.spotify.com/artist/5ywHMPFQxs6TM3iPSvX4l8"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204226,
+      "name": "Poings en l'air",
+      "url": "https://open.spotify.com/track/3rm9b1Djmm6wt9G3DZ1o5I"
     },
     {
       "album": {
@@ -1752,7 +1842,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 239080,
       "name": "Silly Dreams",
       "url": "https://open.spotify.com/track/1tuZGEBipGpUXYcz5u3lIx"
@@ -2022,10 +2112,28 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 208920,
       "name": "Summery Land",
       "url": "https://open.spotify.com/track/1Uiq5cFvLUwCMAqVY77oPR"
+    },
+    {
+      "album": {
+        "name": "Talking About Yourself",
+        "url": "https://open.spotify.com/album/65xjHrH8fJLIuB5xsdJ1Ra"
+      },
+      "artists": [
+        {
+          "name": "Opinion",
+          "url": "https://open.spotify.com/artist/3K0sSzYbcJdN3FXAtjTXpm"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448151,
+      "name": "Talking About Yourself",
+      "url": "https://open.spotify.com/track/6EtBVM2yar5xDFf2BaGl0b"
     },
     {
       "album": {
@@ -2271,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Tourne en Rond",
+        "url": "https://open.spotify.com/album/3bsm7f5URNTrL8JEZBXoai"
+      },
+      "artists": [
+        {
+          "name": "Sweet Needles",
+          "url": "https://open.spotify.com/artist/0D4Rvt7mBwqu04r8S3Vfum"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216990,
+      "name": "Tourne en Rond",
+      "url": "https://open.spotify.com/track/02jm4UBLHRyQuCSa2iGLPI"
+    },
+    {
+      "album": {
         "name": "Bitter Memory",
         "url": "https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE"
       },
@@ -2426,7 +2552,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 223124,
       "name": "What's Wrong With Me",
       "url": "https://open.spotify.com/track/1u3Bj7UCVMHaqbnmmpPmsX"

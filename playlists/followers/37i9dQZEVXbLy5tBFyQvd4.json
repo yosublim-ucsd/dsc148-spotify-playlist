@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 80861,
+  "2024-02-09": 80875,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Guatemala.",
   "name": "Top 50 - Guatemala",
@@ -2803,7 +2803,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2E9bJ7vsFylaYwLwf6dH4f"
@@ -8957,7 +8957,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 267194,
       "name": "MONACO",
       "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6SK0frMbyQXljpwhhXP4KD">Jessie Reyez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,056 likes - 64 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,057 likes - 64 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 16 | [Shutter Island](https://open.spotify.com/track/0LDFH1WLQ6NPEMH556LUGs) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Kiddo](https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw) | 3:07 |
 | 17 | [Hard to Love \(feat\. Jessie Reyez\)](https://open.spotify.com/track/6KdmNK9MogmGcnO3wNZHhp) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:50 |
 | 18 | [Apple Juice](https://open.spotify.com/track/1PxE9RK6FBEp42F9QwzZyn) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:00 |
-| 19 | [Go For Broke \(feat\. James Arthur\)](https://open.spotify.com/track/7w1JDEjmXYw2DwllK1EwCg) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [bloom](https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp) | 3:30 |
+| 19 | [Go For Broke \(feat\. James Arthur\)](https://open.spotify.com/track/7w1JDEjmXYw2DwllK1EwCg) | [MGK](https://open.spotify.com/artist/0jn47ZZH4HhX8JIGJUWSr0), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [bloom](https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp) | 3:30 |
 | 20 | [Body Count \(feat\. Normani & Kehlani\) \- Remix](https://open.spotify.com/track/4o7WXic8yAQWOV7iJXZ4jD) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 2:38 |
 | 21 | [LOVE IN THE DARK](https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:59 |
 | 22 | [Pretending \(feat\. Jessie Reyez\)](https://open.spotify.com/track/0brzJEyCEVzjAQsCgCqxqb) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [International Artist](https://open.spotify.com/album/6opJjTuHd4tQ1h2qrus7jH) | 2:57 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 63 | [Coffin](https://open.spotify.com/track/2CWZ7nG31mNqWyvM2RcdLr) | [Yaielle Golden](https://open.spotify.com/artist/79nlaaiSCwAMxb3PlsjVvV) | [Bedroom Studio Covers](https://open.spotify.com/album/4N6b3CWuyGjsG2DaMfw4RP) | 2:59 |
 | 64 | [Rain](https://open.spotify.com/track/1HErjwORTBL6V4YwdLNASN) | [J\-Benji3](https://open.spotify.com/artist/6ywzkeo5qo0eG2MjT6UeVP) | [Blue Benji](https://open.spotify.com/album/7o39Uat02zV7woX9uzUamH) | 2:49 |
 
-Snapshot ID: `Mjg0NTU5NzAsMDAwMDAwMDBiZjkxNzJlNWIxNWJkYjE2ZmIxNWZhOGIxYTUyZDg0Yw==`
+Snapshot ID: `Mjg0NTc0MTAsMDAwMDAwMDAxMjFlZTViNmFmMmY4YzlhMTEzN2NkYjNlODY1OTkyNA==`

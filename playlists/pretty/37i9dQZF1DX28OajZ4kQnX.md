@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,427 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,429 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 21 | [HATE MY PRESENCE](https://open.spotify.com/track/4Kh061Mh6TxmcqyxvumXPJ) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE) | [HATE MY PRESENCE](https://open.spotify.com/album/7gkApDSiucm6IUpKvaIVp0) | 2:12 |
 | 22 | [Street](https://open.spotify.com/track/1Whqh8FYChDUfc0WWdtzwt) | [Prince Ghetto](https://open.spotify.com/artist/4eMzMqx857Dz0v0UUktdKN) | [Street](https://open.spotify.com/album/6vNNGsH4eBjFjsO4JEsc6H) | 3:43 |
 | 23 | [Welcome to Ug \(Poa Remix\)](https://open.spotify.com/track/3VLLom5tY6D7vTMmJQz4oN) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Giovani Kiyingi](https://open.spotify.com/artist/72IhajuC3cvuHWwQdkJrYP), [Ebrahim Soul'O](https://open.spotify.com/artist/7C1uPFQwrkX5D88Gsc3jhe), [Agami Tonny](https://open.spotify.com/artist/2ntQ7o9imq9REY4by45eGH), [Poa](https://open.spotify.com/artist/2VCjA3p1oisG2Icg3xImMH) | [Welcome to Ug \(Poa Remix\)](https://open.spotify.com/album/6X0McZ1kH41i53IR9IjhFf) | 3:35 |
-| 24 | [Mubire](https://open.spotify.com/track/709bcWwT5PaVkz1R0ykrKg) | [Small Q](https://open.spotify.com/artist/7ltlgswsQ4Q6Mdcw8GoFZn), [Fresh Kid Ug](https://open.spotify.com/artist/4qNgSGAZglFBFQbcqYG9ZX) | [Church Boy](https://open.spotify.com/album/5FqLdR3exCWZYptLPrlZH0) | 3:14 |
+| 24 | [Mubire](https://open.spotify.com/track/709bcWwT5PaVkz1R0ykrKg) | [Small Q](https://open.spotify.com/artist/7ltlgswsQ4Q6Mdcw8GoFZn), [Fresh Kid Ug](https://open.spotify.com/artist/0wvkMEzBET0t77C5FqpMKO) | [Church Boy](https://open.spotify.com/album/5FqLdR3exCWZYptLPrlZH0) | 3:14 |
 | 25 | [Are We Still Good?](https://open.spotify.com/track/4q6xJtT4ZWR00sryFu570w) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Not From This Planet](https://open.spotify.com/album/0g3lhvegS6iXoxX41qn5Q0) | 3:32 |
 | 26 | [Till the Sun Come Up](https://open.spotify.com/track/7hfmd4M2UqADLZkCVI4KVr) | [Baru](https://open.spotify.com/artist/24SGSn5dBrSqZ4qzakxMrj), [Julius Sese](https://open.spotify.com/artist/00Y8QKiQhDuuJLQrEmrE2k), [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp) | [Chwez Funk](https://open.spotify.com/album/5JjbFmQFnJYzKBOTz1Dqw0) | 4:10 |
 | 27 | [Make Dat Money](https://open.spotify.com/track/70zWk3h9fZmUYxLrWlfoJZ) | [Pryce Teeba](https://open.spotify.com/artist/7LZeZZQTTiqOuxCN30dlGX), [Blessed San](https://open.spotify.com/artist/6ZCmGsvdReqqz3Iz789x9n) | [Make Dat Money](https://open.spotify.com/album/2tZKDepib0nmCVv41VYwBa) | 3:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 59 | [Tough Timez](https://open.spotify.com/track/6HlV4tWyzvYsjhJqALInJJ) | [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz), [Lenoirbois](https://open.spotify.com/artist/4NinFBdaIbsWHe8OnsXlSQ) | [Tough Timez](https://open.spotify.com/album/79Z6HX577GPeUdKD4CUWgW) | 3:41 |
 | 60 | [Zinge](https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk) | [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG), [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo) | [Zinge](https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo) | 3:25 |
 
-Snapshot ID: `MCwxYWM4ODhiNTcxZTVkYzQ3YjY0ZGU0NGIxMWI5NzFjYTk3MTQ3NGM3`
+Snapshot ID: `MCxmZThiYWVjYmEwYTA1NGNiNDM2MmIwZmZlZTcxMjU1MmNmMGI4NmJi`

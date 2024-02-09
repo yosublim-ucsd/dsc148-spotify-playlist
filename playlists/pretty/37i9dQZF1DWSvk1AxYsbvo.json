@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 13260,
+  "num_followers": 13267,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTA0OGExNTc3MDhjOGNlZWZlOTk3MGQ3NDFkNmZmZTljNzQ4NzA1",
+  "snapshot_id": "MCw2MjYzOTU2YWRmYzExMTliMmIxNTNjNTg5OGM3NTJkMmIxZTdhMWRm",
   "tracks": [
     {
       "added_at": "2023-11-04 06:04:29",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "If",
-        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "If",
-      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "\ub108\ub294 \uc5b4\ub5bb\uac8c How Did You",
         "url": "https://open.spotify.com/album/1s3RA9wdbVXkSVHYPBIk8E"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 249723,
       "name": "\ub108\ub294 \uc5b4\ub5bb\uac8c How Did You (feat. Yerin Baek)",
       "url": "https://open.spotify.com/track/3rkH2oQnehYxTA0Vk50D1Z"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "If",
+        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "If",
+      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
         "name": "Stay (Feat. Youlakk)",
         "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 208771,
       "name": "Stay (Feat. Youlakk)",
       "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
-        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
-      },
-      "artists": [
-        {
-          "name": "J Rabbit",
-          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
+        "name": "What Should I do",
+        "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "What Should I do",
+      "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
         "name": "i and i",
         "url": "https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 193039,
       "name": "To You",
       "url": "https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
-        "name": "What Should I do",
-        "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "What Should I do",
-      "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "When It's Cold",
-        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
-      },
-      "artists": [
-        {
-          "name": "Bily Acoustie",
-          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
-        }
-      ],
-      "duration_ms": 183824,
-      "name": "When It\u2019s Cold",
-      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "Beautiful Now (Original Television Soundtrack) Pt. 9",
         "url": "https://open.spotify.com/album/2X9zquczSyputp24lpjLkr"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 219939,
       "name": "beautiful inside",
       "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "When It's Cold",
+        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
+      },
+      "artists": [
+        {
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+        }
+      ],
+      "duration_ms": 183824,
+      "name": "When It\u2019s Cold",
+      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
-      },
-      "artists": [
-        {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "To My Friend",
-      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "\uac74\uac15\ud558\uc138\ubaa8 Take care",
         "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 186441,
       "name": "\uc9c0\ucce4\uc5b4 Burned out",
       "url": "https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "To My Friend",
+      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Hi, I am Deulre Jang",
-        "url": "https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9"
+        "name": "Sapporo",
+        "url": "https://open.spotify.com/album/1NmKy8eYwYsSZ9QQ87fjPk"
       },
       "artists": [
         {
-          "name": "deulrejang",
-          "url": "https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM"
+          "name": "Kim Pil Sun",
+          "url": "https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih"
         }
       ],
-      "duration_ms": 205756,
-      "name": "People",
-      "url": "https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc"
+      "duration_ms": 224736,
+      "name": "Sapporo",
+      "url": "https://open.spotify.com/track/0x0Ph3JNjxQ4I2qZalZaUQ"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",

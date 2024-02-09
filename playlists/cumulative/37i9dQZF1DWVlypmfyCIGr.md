@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-5,183 songs - 13 day 1 hr 47 min
+5,184 songs - 13 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2304,7 +2304,8 @@
 | [SANDWICH](https://open.spotify.com/track/3CgZuSNy8cG6Br5rtxO1u7) | [シロクロミーアキャット](https://open.spotify.com/artist/1Df09q3nInMTxbmnre927z) | [SANDWICH](https://open.spotify.com/album/0Fj0CSjPefAuogImTmsZXv) | 2:45 | 2022-12-12 | 2022-12-21 |
 | [Sanity](https://open.spotify.com/track/4V5rnnJQpGEkP3WNTYW3N1) | [gummies](https://open.spotify.com/artist/46tpBoazh3XMLJSjJhpVbO) | [Sanity](https://open.spotify.com/album/3JPQWJhGSfbSBTvAHwRJ7H) | 2:06 | 2023-06-26 | 2023-07-04 |
 | [Santa Sanda feat\. sakana](https://open.spotify.com/track/4kcSOSmlQA1ls7nCM4XdZO) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [sakana](https://open.spotify.com/artist/7ynWqUtYVEl1GOhC4LmsT9) | [Santa Sanda feat\. sakana](https://open.spotify.com/album/0yVFwp3OCNbLZ8uZrkWkku) | 1:47 | 2022-12-27 | 2023-01-17 |
-| [Sanzameku](https://open.spotify.com/track/09rGKRSeUIxhbD6AIJoJDK) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Sanzameku](https://open.spotify.com/album/6aQcVCTEE1ps7pME44kVpO) | 3:05 | 2024-02-05 |  |
+| [Sanzameku](https://open.spotify.com/track/09rGKRSeUIxhbD6AIJoJDK) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Sanzameku](https://open.spotify.com/album/6aQcVCTEE1ps7pME44kVpO) | 3:05 | 2024-02-05 | 2024-02-09 |
+| [Sanzameku](https://open.spotify.com/track/0XWKTGEZy1UxKERL4ZuPEz) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv) | 3:05 | 2024-02-05 |  |
 | [Sapphire \- Acoustic Version](https://open.spotify.com/track/2qheXI11Xjc3fx3MCNkiQb) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Sapphire \(Acoustic Version\)](https://open.spotify.com/album/1TRgojBxeFMEDc6uMpMfM4) | 3:33 | 2022-04-19 | 2022-04-26 |
 | [Sarabauchuu, Kanatamirai](https://open.spotify.com/track/21FxZMihT73t6MYipd21V4) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Sarabauchuu, Kanatamirai](https://open.spotify.com/album/1Z9MKhAkSc01HOwJgPAuHc) | 2:51 | 2022-12-05 | 2022-12-13 |
 | [Sarracenia](https://open.spotify.com/track/1ZGqDkDwBr8APzB4inZ8RQ) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:08 | 2023-09-11 | 2023-09-20 |

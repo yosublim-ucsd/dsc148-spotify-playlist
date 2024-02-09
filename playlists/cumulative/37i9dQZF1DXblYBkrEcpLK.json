@@ -3132,7 +3132,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 191105,
       "name": "Kura Kura",
       "url": "https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm"
@@ -3528,7 +3528,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 263960,
       "name": "Memories - From CrosSing",
       "url": "https://open.spotify.com/track/0xnJ9seuo8polxcsURVsYd"
@@ -5008,7 +5008,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 275800,
       "name": "Sincerely",
       "url": "https://open.spotify.com/track/4thBZp9kEDqeSwLtwcAZgk"
@@ -6250,7 +6250,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 209766,
       "name": "Y\u263au & I",
       "url": "https://open.spotify.com/track/657ejjdXyOZakkC1S1cgKV"
@@ -6606,6 +6606,24 @@
       "duration_ms": 263253,
       "name": "\u304a\u3082\u3044\u3067\u3057\u308a\u3068\u308a",
       "url": "https://open.spotify.com/track/21I2N3whjE3lanhe0CuJNH"
+    },
+    {
+      "album": {
+        "name": "\u304a\u30fc\u308b\u30fb\u3056\u30fb\u3084\u3093\u3050\u30fb\u304e\u30fc\u304f\u3059",
+        "url": "https://open.spotify.com/album/7DdO9kXkzARuAeVDc15Ibs"
+      },
+      "artists": [
+        {
+          "name": "Earphones",
+          "url": "https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243667,
+      "name": "\u304a\u30fc\u308b\u30fb\u3056\u30fb\u3084\u3093\u3050\u30fb\u304e\u30fc\u304f\u3059",
+      "url": "https://open.spotify.com/track/5eMZFpCA34CjojOSMwtLTQ"
     },
     {
       "album": {
@@ -8048,7 +8066,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 202500,
       "name": "\u30c1\u30ad\u30c1\u30ad\u30d0\u30f3\u30d0\u30f3",
       "url": "https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY"

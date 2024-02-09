@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:6Sw43ZkxX0u3t4cjxlzbzs">PAULA ROMA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,126 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,166 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Płonę](https://open.spotify.com/track/0xEjng5qh5HdVhRo6LKRb8) | [PAULA ROMA](https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs) | [Płonę](https://open.spotify.com/album/1Lh4Zdn7pkwS0wJhvN1WaS) | 3:29 |
+| 1 | [Płonę](https://open.spotify.com/track/3iwQY0Kd07B1JfqLa17NCj) | [PAULA ROMA](https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs) | [Ta, co płonie z Miłości](https://open.spotify.com/album/4tXV3ndpU786KGwaE9OVPA) | 3:29 |
 | 2 | [Mine](https://open.spotify.com/track/1K4W4T2b5mTzvmrVzVa7yH) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Mine](https://open.spotify.com/album/61brdiy3qEnUfbWWALxipD) | 2:41 |
 | 3 | [MAMA MI MÓWIŁA](https://open.spotify.com/track/3CsgwSk7PEFHfT7noqWPhb) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [MAMA MI MÓWIŁA](https://open.spotify.com/album/1ISKoGgtP6kGnDReCubHRh) | 2:53 |
 | 4 | [Ponad chmurami](https://open.spotify.com/track/7JQBv71czXs8d0BmZxiG8w) | [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD) | [Wifey MIXTAPE](https://open.spotify.com/album/5jPvX8LbvvEafViHM0A7bC) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Po Tobie zapach](https://open.spotify.com/track/2LGhIZMEBdPPVHxvh2NzDW) | [LINA](https://open.spotify.com/artist/6lBBKOkpTnfVKIP0e0CrOQ) | [Po Tobie zapach](https://open.spotify.com/album/3TQ553CnWJfENddnBrfOG9) | 3:44 |
 | 50 | [Na moment](https://open.spotify.com/track/03FZzoql4VtkNEwVLwR8bA) | [Żaneta Chełminiak](https://open.spotify.com/artist/4Lpo3zMUTdH69eWhxN3sfr), [Fonai](https://open.spotify.com/artist/5QbdMXdaPE564Gpp7XEzPq) | [Chłopaki płaczą](https://open.spotify.com/album/6zLqp3vDpCbMNjGuL2lFmX) | 3:09 |
 
-Snapshot ID: `MCxhN2Y2ODA4NmQyN2Q4OTVkYjM4MzJmOTMyMjIwOGVmMjI5YTY4ZDk2`
+Snapshot ID: `MCwxOTJlODlmMjg3ZjIwMGRmZWY4MzBlNzQzZDJiOTgyOWYzODliZGJh`

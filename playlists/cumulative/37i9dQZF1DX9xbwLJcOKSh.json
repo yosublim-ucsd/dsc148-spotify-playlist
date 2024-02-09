@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 191105,
       "name": "Kura Kura",
       "url": "https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm"
@@ -1502,6 +1502,24 @@
       "duration_ms": 293765,
       "name": "\u30aa\u30c8\u30b3\u306e\u30b3 \u30aa\u30f3\u30ca\u306e\u30b3",
       "url": "https://open.spotify.com/track/6Qc4tw9GpdqIwn1XHB2Zvb"
+    },
+    {
+      "album": {
+        "name": "Ado \"Ready For My Show Playlist\"",
+        "url": "https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191105,
+      "name": "\u30af\u30e9\u30af\u30e9",
+      "url": "https://open.spotify.com/track/7lcXrOj9HdsHFQfNNBR4XS"
     },
     {
       "album": {

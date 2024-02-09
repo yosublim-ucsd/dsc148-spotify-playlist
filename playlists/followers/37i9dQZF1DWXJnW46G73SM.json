@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 122271,
+  "2024-02-09": 122417,
   "date_first_scraped": "2021-12-28",
   "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0623\u0635\u0627\u0644\u0629\n",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 191578,
       "name": "3 \u0633\u0627\u0639\u0627\u062a \u0645\u062a\u0648\u0627\u0635\u0644\u0647",
       "url": "https://open.spotify.com/track/3QIV4kh9CzPOnjdqTU3boL"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 166874,
       "name": "Akhuya - \u0627\u062e\u0648\u064a\u0627",
       "url": "https://open.spotify.com/track/5Xei35cn3yZQG0YwnlVDt5"
@@ -4407,7 +4407,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 179368,
       "name": "Habba Fo2",
       "url": "https://open.spotify.com/track/0vpfvsnG73kMqYJQLhECgc"
@@ -6431,7 +6431,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 204631,
       "name": "Lw Bs",
       "url": "https://open.spotify.com/track/04vLfXyzK8LKCYlx0GRLen"
@@ -11815,7 +11815,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 224800,
       "name": "\u0627\u0647\u064a \u0645\u0634\u064a\u062a",
       "url": "https://open.spotify.com/track/55AsAf4UgULhtMrr50SBRH"
@@ -12746,6 +12746,24 @@
     },
     {
       "album": {
+        "name": "\u0633\u0628\u0628\u0647 \u0627\u064a\u0647 \u0627\u0644\u0631\u062c\u0648\u0639",
+        "url": "https://open.spotify.com/album/3boMht5R7HxYfHLoj37V7z"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u064a\u0631\u0646\u0627 \u0634\u0644\u0628\u064a",
+          "url": "https://open.spotify.com/artist/7mpMNCmlEYg58G4NkPYEcR"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192137,
+      "name": "\u0633\u0628\u0628\u0647 \u0627\u064a\u0647 \u0627\u0644\u0631\u062c\u0648\u0639",
+      "url": "https://open.spotify.com/track/0jMkBuPHVbRb1QaZmf780Z"
+    },
+    {
+      "album": {
         "name": "\u0633\u062a \u0627\u0644\u0628\u0646\u0627\u062a (\u0645\u0646 \u0641\u064a\u0644\u0645 \u062d\u0645\u0635 \u0648\u062d\u0644\u0627\u0648\u0629)",
         "url": "https://open.spotify.com/album/2oxlsSucqhSky72BZ9Iff2"
       },
@@ -12805,6 +12823,24 @@
       "duration_ms": 186046,
       "name": "\u0633\u062e\u0646\u062a",
       "url": "https://open.spotify.com/track/3XAUmK0uUZKIWET53ty42t"
+    },
+    {
+      "album": {
+        "name": "\u0633\u0633\u062a\u0645\u0647\u0627 ( \u0645\u0646 \u0641\u064a\u0644\u0645 \u0627\u0644\u0633\u064a\u0633\u062a\u0645 )",
+        "url": "https://open.spotify.com/album/358wjgICFxLbU5e0zENfwJ"
+      },
+      "artists": [
+        {
+          "name": "Abu",
+          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218437,
+      "name": "\u0633\u0633\u062a\u0645\u0647\u0627 ( \u0645\u0646 \u0641\u064a\u0644\u0645 \u0627\u0644\u0633\u064a\u0633\u062a\u0645 )",
+      "url": "https://open.spotify.com/track/4aMKcs0hBBmUIH1MfRw9dw"
     },
     {
       "album": {
@@ -13919,7 +13955,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 260571,
       "name": "\u0643\u0644\u0645\u0629 \u0631\u062c\u0648\u0639\u0646\u0627",
       "url": "https://open.spotify.com/track/57rNoEZbQ4KT8kyfrTLunG"
@@ -14103,7 +14139,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 221020,
       "name": "\u0645\u0627 \u0627\u062a\u0641\u0642\u0646\u0627\u0634",
       "url": "https://open.spotify.com/track/1NgXSCMvPWPYvewx5m2Oyr"
@@ -15049,6 +15085,28 @@
       "duration_ms": 197500,
       "name": "\u064a\u0627 \u0632\u064a\u0646 \u0627\u0644\u0639\u0627\u0628\u062f\u064a\u0646",
       "url": "https://open.spotify.com/track/1EqcgbV20mqyMiZihldXfe"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0627 \u0633\u0627\u062a\u0631",
+        "url": "https://open.spotify.com/album/1hzmp6AsJRcG7pz9eQko19"
+      },
+      "artists": [
+        {
+          "name": "Ali Loka",
+          "url": "https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1"
+        },
+        {
+          "name": "Muslim",
+          "url": "https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "\u064a\u0627 \u0633\u0627\u062a\u0631",
+      "url": "https://open.spotify.com/track/2ohn9s2Wuv3XHS4OwOsZ4c"
     },
     {
       "album": {

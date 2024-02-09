@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 80. \n\n",
-  "num_followers": 135994,
+  "num_followers": 136163,
   "original_name": "Rock en Espa\u00f1ol: Los 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmVlNjdkYTI0YWFlMzMyZjZjNjA3ZTUwOGI1NGYyY2YxN2Q0YmFl",
+  "snapshot_id": "MCwxNWQ3MGE1ZDlmMDlkNWM0OWM5YTY1MWM3M2UzZTA2ZmVhMzk5OTEz",
   "tracks": [
     {
       "added_at": "2022-03-29 18:50:52",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "Solos en Am\u00e9rica",
-        "url": "https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM"
-      },
-      "artists": [
-        {
-          "name": "Miguel Mateos - Zas",
-          "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
-        }
-      ],
-      "duration_ms": 265706,
-      "name": "Cuando Seas Grande",
-      "url": "https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
         "name": "El Momento",
         "url": "https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 248373,
       "name": "Lucha De Gigantes",
       "url": "https://open.spotify.com/track/4nheObMzE4K8AIxIICoLgd"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "Solos en Am\u00e9rica",
+        "url": "https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM"
+      },
+      "artists": [
+        {
+          "name": "Miguel Mateos - Zas",
+          "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
+        }
+      ],
+      "duration_ms": 265706,
+      "name": "Cuando Seas Grande",
+      "url": "https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB"
     },
     {
       "added_at": "2022-03-29 18:50:52",

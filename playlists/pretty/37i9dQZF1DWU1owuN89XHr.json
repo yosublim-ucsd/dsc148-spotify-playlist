@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 270810,
+  "num_followers": 270845,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDIwNTY4YzkzMGQyMWE5ZDExMTA2NDQzMDM4NmM2MGYxMDhhY2Nk",
+  "snapshot_id": "MCw1Njk4NTkwNzNhZmVhZWQwYjFiOTUzZTVkMjM5Mzk1MmNlNmI4ZTQx",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -203,22 +203,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Antolog\u00eda Desordenada",
-        "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/3PG4hwXoSc0ElxiMslu4jy"
       },
       "artists": [
         {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+          "name": "Facundo Cabral",
+          "url": "https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx"
         }
       ],
-      "duration_ms": 192840,
-      "name": "Lucia (with Silvio Rodr\u00edguez)",
-      "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
+      "duration_ms": 224346,
+      "name": "No Soy De Aqui, Ni Soy De Alla",
+      "url": "https://open.spotify.com/track/70xSLxbCLBQSxBtP46AuZq"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -239,18 +235,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/3PG4hwXoSc0ElxiMslu4jy"
+        "name": "Antolog\u00eda Desordenada",
+        "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
       },
       "artists": [
         {
-          "name": "Facundo Cabral",
-          "url": "https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx"
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 224346,
-      "name": "No Soy De Aqui, Ni Soy De Alla",
-      "url": "https://open.spotify.com/track/70xSLxbCLBQSxBtP46AuZq"
+      "duration_ms": 192840,
+      "name": "Lucia (with Silvio Rodr\u00edguez)",
+      "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
     },
     {
       "added_at": "2021-07-29 16:46:05",

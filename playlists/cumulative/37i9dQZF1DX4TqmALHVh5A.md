@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Zaho de Sagazan
+> La scène française branchée sur courant alternatif\. Photo : VoX LoW
 
-124 songs - 6 hr 40 min
+126 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Attitude](https://open.spotify.com/track/7x5V1JR3yO7QwpwuXOYQLC) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Attitude](https://open.spotify.com/album/7qYCBUiH3uVK3gNpusRZiF) | 2:29 | 2023-11-09 |  |
 | [Au Top](https://open.spotify.com/track/65QYWkPPVLsFj0pFGoLSSO) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G) | [Une Nouvelle Chance](https://open.spotify.com/album/2y0CqT7wxeJ4xXGEt9OpEl) | 2:59 | 2023-09-28 | 2023-10-20 |
 | [Bagarre](https://open.spotify.com/track/5E7GDG7h7WcIbDqbvpntoU) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Bagarre](https://open.spotify.com/album/5iNxyLikg53HwIGOhnxqs6) | 2:24 | 2023-10-26 | 2024-01-27 |
-| [Birthday Party](https://open.spotify.com/track/4YcBDlhIXz3reul1Z9WW8N) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Birthday Party](https://open.spotify.com/album/7E1aeTMLqIi9F7weLZAz82) | 3:30 | 2023-11-30 |  |
+| [Birthday Party](https://open.spotify.com/track/4YcBDlhIXz3reul1Z9WW8N) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Birthday Party](https://open.spotify.com/album/7E1aeTMLqIi9F7weLZAz82) | 3:30 | 2023-11-30 | 2024-02-09 |
 | [Bliss](https://open.spotify.com/track/0EmKhO8Mnd4o4ErUfFDPdC) | [Dead.](https://open.spotify.com/artist/0utyVWsLcppQJm5U2U1hMu) | [Bliss](https://open.spotify.com/album/1vmKg53JyZ1NJy0cFOmrYv) | 5:14 | 2023-12-08 |  |
 | [Boule à facettes](https://open.spotify.com/track/6Q14MRNmR6ojGBpsXl465t) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Boule à facettes](https://open.spotify.com/album/57PMenm8EzPiBoKgCNxRwr) | 2:39 | 2024-01-26 |  |
 | [Brumeux](https://open.spotify.com/track/1LTH3ADSAIl9tLLyfQnbTu) | [Magenta Club](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [Brumeux](https://open.spotify.com/album/6fjGcQ0v3HrzHE1DMDkqpV) | 3:14 | 2023-10-26 | 2024-01-19 |
@@ -45,17 +45,18 @@
 | [Désolé, mon cœur](https://open.spotify.com/track/2E2sgLXYIFUAEtBtgv0KMT) | [TOMASI](https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5) | [Désolé, mon cœur](https://open.spotify.com/album/0P2z4rhMsoaNmOIFSbGuIl) | 3:01 | 2023-10-26 | 2023-11-24 |
 | [Encore](https://open.spotify.com/track/4unYRu63NeZhNtGo58BCCU) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Encore](https://open.spotify.com/album/2vVTXNxUtGmHacca457lb7) | 3:02 | 2023-11-02 | 2023-11-24 |
 | [fermer les yeux](https://open.spotify.com/track/71lrP6Unh3jKzRDyTPU6ov) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [fermer les yeux](https://open.spotify.com/album/3ROY9Wamd7k7dFoPYzp4I6) | 2:10 | 2024-02-01 |  |
-| [Fire In Higher Ground](https://open.spotify.com/track/4dlJOy0IXON6qP4XsDwmpT) | [Chester Remington](https://open.spotify.com/artist/2SsHmYd28pfHyHeec39mBM) | [Fire In Higher Ground](https://open.spotify.com/album/6S1FL1pvdpss8fVA6cK5a8) | 4:52 | 2024-01-18 |  |
+| [Fire In Higher Ground](https://open.spotify.com/track/4dlJOy0IXON6qP4XsDwmpT) | [Chester Remington](https://open.spotify.com/artist/2SsHmYd28pfHyHeec39mBM) | [Fire In Higher Ground](https://open.spotify.com/album/6S1FL1pvdpss8fVA6cK5a8) | 4:52 | 2024-01-18 | 2024-02-09 |
 | [Flèche Argentée](https://open.spotify.com/track/56F782Sp56OhuQT9yREuvz) | [Order89](https://open.spotify.com/artist/6ayzB6RMcaJM7POpMjRtTW) | [Flèche Argentée](https://open.spotify.com/album/5RpOAd4JdkkG0cLP5DTJcz) | 3:05 | 2023-11-02 | 2023-12-08 |
 | [Gare à la nuit](https://open.spotify.com/track/4G6dlO9xjCklF062LILK7J) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [Gare à la nuit](https://open.spotify.com/album/2O4SxhHbq8BlWSV5mNyPG2) | 3:58 | 2023-11-16 |  |
 | [Girlfriend](https://open.spotify.com/track/3BvnwJMDF3MxPVGSitA4f3) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [Encore](https://open.spotify.com/album/5g010EGj82UnGrOTxaHveU) | 2:43 | 2023-09-28 | 2023-11-10 |
 | [GROTSUNAMI](https://open.spotify.com/track/3SphPiIKHwnlCgAtBViaXU) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [GROTSUNAMI](https://open.spotify.com/album/3fMcKhyPKV3Snp09s2BuaB) | 2:03 | 2024-01-11 |  |
+| [Hooligan](https://open.spotify.com/track/5INfcVg4x5o8Qfo8LD0nvY) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Pop Sauvage](https://open.spotify.com/album/1HkAZ5h4jCXuRKa239zPuw) | 3:32 | 2024-02-08 |  |
 | [I'm A Mess](https://open.spotify.com/track/0xP0O0ODyEaBDLOQoexHWp) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [I'm A Mess](https://open.spotify.com/album/71OvVTA988kQ9R2xTfhC7M) | 2:26 | 2023-11-23 | 2024-02-02 |
 | [Idiot du quartier de lune](https://open.spotify.com/track/2rD3JBQh4lkVj0qvSbZzw0) | [Ian Caulfield](https://open.spotify.com/artist/4jcI2D2oUbSyQYB4isUZiz) | [Idiot du quartier de lune](https://open.spotify.com/album/6fig2z3viSXQIukDe36Hwo) | 3:21 | 2023-10-12 |  |
 | [Ikea Boy](https://open.spotify.com/track/64NFlmUuFlT9HPhshsvQk3) | [Hoorsees](https://open.spotify.com/artist/2jEi3FU5iGeVWxOCm9BTX4) | [Ikea Boy](https://open.spotify.com/album/5L2BWyQDdBO1GPERRBjqrU) | 3:29 | 2023-11-02 | 2023-12-08 |
 | [It's Over](https://open.spotify.com/track/1ZpbVeGleNHviKOyPQhMkU) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [Player Non Player](https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K) | 4:57 | 2023-09-28 | 2023-10-13 |
 | [J'ai plus peur](https://open.spotify.com/track/68Bx21Flk7AhI9PCnNI775) | [TOMASI](https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Adulescent Fluorescent](https://open.spotify.com/album/7CN4CQaAH8OlV2vEFGNXhf) | 3:23 | 2023-09-28 |  |
-| [J'aimerais tellement](https://open.spotify.com/track/50iCUpHSFtwJ7SAgil8MXx) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [J'aimerais tellement](https://open.spotify.com/album/2tJlAcgwyoxrAa2iASbviH) | 3:15 | 2023-12-14 |  |
+| [J'aimerais tellement](https://open.spotify.com/track/50iCUpHSFtwJ7SAgil8MXx) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [J'aimerais tellement](https://open.spotify.com/album/2tJlAcgwyoxrAa2iASbviH) | 3:15 | 2023-12-14 | 2024-02-09 |
 | [Jamais Je Ne Viens](https://open.spotify.com/track/5dSLiCcetFe3LGrnhbh9fZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Léon](https://open.spotify.com/album/48OOvBs7jVOAWitbHAQ9Ll) | 2:28 | 2023-09-28 | 2023-10-06 |
 | [Je cours](https://open.spotify.com/track/51Gt7yGGiV4wEH9C8YgwBd) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Je cours](https://open.spotify.com/album/4mjbfmCjIffHSLbZRqNWNf) | 2:57 | 2023-09-28 | 2023-11-03 |
 | [Je Voulais](https://open.spotify.com/track/26LEDUBccqiAj28QDjzOod) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Je Voulais](https://open.spotify.com/album/6v0EOkmlVsamzKicsn8m2R) | 3:02 | 2023-09-28 | 2023-12-01 |
@@ -108,6 +109,7 @@
 | [Sans toi](https://open.spotify.com/track/1FNZ9bDeAOBDjgtAwoR2Nr) | [Ravage Club](https://open.spotify.com/artist/74RDJyFxXw9okuAnO6zXWm) | [Sans toi](https://open.spotify.com/album/71mDIX5mOHi5xoeJPvX255) | 2:46 | 2023-11-16 |  |
 | [Serie A](https://open.spotify.com/track/0D3MTS7Ea2EgXy6O9Horqc) | [Th Da Freak](https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd) | [Serie A](https://open.spotify.com/album/6AQIcVtbI9gxFbRIKyr1i6) | 2:41 | 2023-09-28 | 2023-11-03 |
 | [Serpent Mental](https://open.spotify.com/track/7Mmfq4pv4eaQRqXPjOl3WJ) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Serpent Mental](https://open.spotify.com/album/4japQNj9fIt6eZo9673y1h) | 3:55 | 2023-10-26 |  |
+| [Shake It](https://open.spotify.com/track/71UX9MrQd3iCROyiWgUIuE) | [Chester Remington](https://open.spotify.com/artist/2SsHmYd28pfHyHeec39mBM) | [Shake It](https://open.spotify.com/album/3RBuzCHdEXspCfVkuyc7er) | 3:51 | 2024-02-08 |  |
 | [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 | 2023-09-28 | 2023-11-17 |
 | [Si j'avais su](https://open.spotify.com/track/6ZmquJRJGfeimrtQnLMQ64) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Si j'avais su](https://open.spotify.com/album/1NE8tgtqwz0hYV0q3PXf0i) | 3:41 | 2023-09-28 | 2023-11-24 |
 | [Soleil](https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Jour](https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS) | 3:25 | 2024-02-01 |  |

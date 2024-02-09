@@ -4,11 +4,12 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-60 songs - 2 hr 39 min
+61 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+7\(952\)812](https://open.spotify.com/track/74JfQsOBIs7z4y6jDrbDmh) | [ALBLAK 52](https://open.spotify.com/artist/0tkZJURRnsezR78T9uHDjq) | [LONG LIVE 812](https://open.spotify.com/album/7poRbXyDV1xiGudb1QtxOJ) | 1:47 | 2024-01-29 |  |
+| [Black Siemens](https://open.spotify.com/track/3mhA3HuRldiEtTvCpJ2Act) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [Black Siemens](https://open.spotify.com/album/1TOJ9ovpiEAt7RAAykYVRy) | 3:10 | 2024-02-08 |  |
 | [Cold city](https://open.spotify.com/track/63ZIpQQxSPeAyYqSxY1v0J) | [Dide](https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4) | [Cold city](https://open.spotify.com/album/0L4rAoQci86u1OmgC2El9s) | 2:58 | 2024-02-06 | 2024-02-08 |
 | [CRANKI](https://open.spotify.com/track/1dwuA3034avUaHBlIOUSlg) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [MIND UP!](https://open.spotify.com/album/2ErQkuMncjeG2DQ7mxoGih) | 1:50 | 2024-01-29 |  |
 | [DANCE FLOOR](https://open.spotify.com/track/39oIdZOwFwe1NwUeaYRjm8) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [IN MY DNA](https://open.spotify.com/album/1iccPHXLRk2mRsdqf2dfke) | 1:46 | 2024-01-29 |  |
@@ -21,7 +22,7 @@
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2024-01-29 |  |
 | [Miu Miu](https://open.spotify.com/track/71QJGJwpOwzpZEEinX345r) | [VisaGangBeatz](https://open.spotify.com/artist/5DlS0oWdN1UCcF7uiMzLuN), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [Miu Miu](https://open.spotify.com/album/4mCdKqEsGhI7i7ZneWdQcC) | 2:21 | 2024-01-30 | 2024-02-01 |
 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2024-01-29 |  |
-| [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2024-01-29 |  |
+| [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2024-01-29 | 2024-02-09 |
 | [TryToFriend](https://open.spotify.com/track/7vD6fJg66dEzbYXVvEyQCh) | [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [TryToFriend](https://open.spotify.com/album/6MqxxhntIjn3kDZCctIMrN) | 1:52 | 2024-01-29 |  |
 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2024-01-29 | 2024-02-07 |
 | [Антидепрессант](https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 2:00 | 2024-01-29 |  |
@@ -42,7 +43,7 @@
 | [Мечты](https://open.spotify.com/track/48Mtf0Vuc3H7yI56Iz1OhU) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z), [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg) | [AA LANGUAGE 2](https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na) | 1:50 | 2024-01-29 |  |
 | [На заре](https://open.spotify.com/track/4qlMFQs9oEp5bVxERhTZBU) | [Basta](https://open.spotify.com/artist/7as5DY4Rz9jac9tgoTrj9H) | [На заре](https://open.spotify.com/album/0L83BLsfw7ftALYjVcOYmf) | 5:06 | 2024-01-29 |  |
 | [немерено](https://open.spotify.com/track/6KRiMyT78RNeatgjnI7sPM) | [лампабикт](https://open.spotify.com/artist/5guNMQUAnAosad9G9wVjoW), [Элли на маковом поле](https://open.spotify.com/artist/6mlRoShVf1DHo0SsntzTkr) | [добраться до него](https://open.spotify.com/album/5ApMHZ83bd5lLH02pPGRIN) | 3:24 | 2024-02-05 |  |
-| [Нон стоп](https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:33 | 2024-01-29 | 2024-02-07 |
+| [Нон стоп](https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:33 | 2024-01-29 |  |
 | [Остров](https://open.spotify.com/track/0uhI1APF1D4scWNrOUCMIw) | [My](https://open.spotify.com/artist/3WGL5CRtgYd8Tm5elcbsdV) | [Ближе Part2](https://open.spotify.com/album/01uAUykKCf6D42apWGMxhk) | 2:26 | 2024-01-29 |  |
 | [Отпускай](https://open.spotify.com/track/1yrQI5Ycgi7xU9P4i98NXL) | [Три дня дождя](https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ) | [Байполар](https://open.spotify.com/album/4nH2r0VNehreKjeCQoKrqY) | 3:27 | 2024-01-31 | 2024-02-04 |
 | [Плачут Небеса](https://open.spotify.com/track/6euqOfQXC3YdneT6bGTyI6) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [Доминик Джокер](https://open.spotify.com/artist/5YF9ggs1BDRHNx7OiLCvxe) | [Плачут Небеса](https://open.spotify.com/album/2d5EJLlYd2KLRhijE8gaZk) | 2:47 | 2024-01-30 | 2024-02-04 |
@@ -53,7 +54,7 @@
 | [Пыяла](https://open.spotify.com/track/1nZHWDoDoP0Dtgup8jTW2u) | [AIGEL](https://open.spotify.com/artist/1gpjSKJC0UekvhaI8fAcoq) | [Пыяла](https://open.spotify.com/album/4QgrwWHm4ivBW2c0p1aUU0) | 3:30 | 2024-01-29 |  |
 | [Разноцветные таблетки](https://open.spotify.com/track/1Za23uNH9LP4gcflnvAGCE) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая яма](https://open.spotify.com/album/6z5gnL9E2kbHV0A7nJ3SIP) | 1:57 | 2024-01-29 |  |
 | [Самый лучший день](https://open.spotify.com/track/6aZw4hMz6ZZqjALf0GAbKy) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Эскапист](https://open.spotify.com/album/0QbaRQInDgZOAjogD0Ku7V) | 1:33 | 2024-01-29 |  |
-| [СЕЙЧАС](https://open.spotify.com/track/6HVQNzaVnJdreqdaezdD39) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [IN MY DNA](https://open.spotify.com/album/1iccPHXLRk2mRsdqf2dfke) | 1:39 | 2024-01-29 |  |
+| [СЕЙЧАС](https://open.spotify.com/track/6HVQNzaVnJdreqdaezdD39) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [IN MY DNA](https://open.spotify.com/album/1iccPHXLRk2mRsdqf2dfke) | 1:39 | 2024-01-29 | 2024-02-09 |
 | [Снег растаял на плечах](https://open.spotify.com/track/6mC2PY4sm4M0YFL9dsBMGc) | [DEAD BLONDE](https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z) | [Снег растаял на плечах](https://open.spotify.com/album/4V5ZrTCDnhpsL4Oyi3R7Hs) | 2:28 | 2024-01-29 |  |
 | [Спой](https://open.spotify.com/track/4h64grHEML9fbatKjFVHXr) | [A.V.G](https://open.spotify.com/artist/3a4bEvoyyeZPOLxCkSgPO6), [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [Спой](https://open.spotify.com/album/0e1o7fUyITBNMcFzTICOhN) | 2:25 | 2024-01-29 |  |
 | [Таро](https://open.spotify.com/track/4M4zuhpRODqsfRJcdySb00) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [Tenderlybae](https://open.spotify.com/artist/1Z4CxuvNuVKnKrGQfRcEFl), [Егорик](https://open.spotify.com/artist/16nlHRcQVC5W9X8Mr0iTnY) | [Таро](https://open.spotify.com/album/07si0ibZYD3rpaLcoFToEj) | 3:20 | 2024-01-29 | 2024-02-05 |

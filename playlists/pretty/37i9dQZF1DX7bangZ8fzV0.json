@@ -1,141 +1,13 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=pphLIMmRTsC8V3YEt4oJ8A\">Brendan Peyper</a>  ",
-  "num_followers": 94899,
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ?si=cCiw0omDSEiNWZ77Alp6cA\">Bok Van Blerk</a>  & <a href=\"https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx?si=TUbo2rQPRaC6MibVMaRoLg\">Bernice West</a>",
+  "num_followers": 94969,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmQzN2VjODk1MWI4ZjExZjMzMzEwY2E4YmViODUxMWRhNzFhZWZi",
+  "snapshot_id": "MCxhMWM0ZjRjOWUxNjkyNjlkZDBlOWMwOTFmMTA2MGMwYTUxOTEyYjJm",
   "tracks": [
-    {
-      "added_at": "2024-02-01 22:00:00",
-      "album": {
-        "name": "Soen Soos Wat Jy Dans",
-        "url": "https://open.spotify.com/album/2td5HHRkCc3bcSvN9YO3IB"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 215217,
-      "name": "Soen Soos Wat Jy Dans",
-      "url": "https://open.spotify.com/track/4yCS6Pqvpg9EaLQcvOPz40"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Hart Breek",
-        "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
-      },
-      "artists": [
-        {
-          "name": "Demi Lee Moore",
-          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "Hart Breek",
-      "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
-    },
-    {
-      "added_at": "2023-11-30 22:00:00",
-      "album": {
-        "name": "Vlerke",
-        "url": "https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 192567,
-      "name": "Vlerke",
-      "url": "https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT"
-    },
-    {
-      "added_at": "2023-12-14 22:00:00",
-      "album": {
-        "name": "Country Girl Van Bloem",
-        "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
-      },
-      "artists": [
-        {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Country Girl Van Bloem",
-      "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Boksemdais",
-        "url": "https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 188553,
-      "name": "Boksemdais",
-      "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
-    },
-    {
-      "added_at": "2023-08-17 22:01:39",
-      "album": {
-        "name": "Almal Gly",
-        "url": "https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX"
-      },
-      "artists": [
-        {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
-        }
-      ],
-      "duration_ms": 221067,
-      "name": "Inge 2",
-      "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
-    },
-    {
-      "added_at": "2023-11-30 22:00:00",
-      "album": {
-        "name": "Helemal",
-        "url": "https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR"
-      },
-      "artists": [
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        }
-      ],
-      "duration_ms": 227999,
-      "name": "Helemal",
-      "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
-    },
-    {
-      "added_at": "2023-09-21 21:59:00",
-      "album": {
-        "name": "Moegdans",
-        "url": "https://open.spotify.com/album/2PZIORUBXjaeRTuepRjTvq"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 201777,
-      "name": "Moegdans",
-      "url": "https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b"
-    },
     {
       "added_at": "2024-02-01 22:00:00",
       "album": {
@@ -155,6 +27,134 @@
       "duration_ms": 179867,
       "name": "Die Afrikaner Maak So",
       "url": "https://open.spotify.com/track/64tRSmtHGKaCuoO1BljWKk"
+    },
+    {
+      "added_at": "2023-11-30 22:00:00",
+      "album": {
+        "name": "Vlerke",
+        "url": "https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 192567,
+      "name": "Vlerke",
+      "url": "https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Hart Breek",
+        "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
+      },
+      "artists": [
+        {
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
+        }
+      ],
+      "duration_ms": 200347,
+      "name": "Hart Breek",
+      "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
+    },
+    {
+      "added_at": "2023-12-14 22:00:00",
+      "album": {
+        "name": "Country Girl Van Bloem",
+        "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
+      },
+      "artists": [
+        {
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Country Girl Van Bloem",
+      "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
+    },
+    {
+      "added_at": "2024-02-01 22:00:00",
+      "album": {
+        "name": "Soen Soos Wat Jy Dans",
+        "url": "https://open.spotify.com/album/2td5HHRkCc3bcSvN9YO3IB"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 215217,
+      "name": "Soen Soos Wat Jy Dans",
+      "url": "https://open.spotify.com/track/4yCS6Pqvpg9EaLQcvOPz40"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Boksemdais",
+        "url": "https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 188553,
+      "name": "Boksemdais",
+      "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
+    },
+    {
+      "added_at": "2023-11-30 22:00:00",
+      "album": {
+        "name": "Helemal",
+        "url": "https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "duration_ms": 227999,
+      "name": "Helemal",
+      "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
+    },
+    {
+      "added_at": "2023-08-17 22:01:39",
+      "album": {
+        "name": "Almal Gly",
+        "url": "https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "duration_ms": 221067,
+      "name": "Inge 2",
+      "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
+    },
+    {
+      "added_at": "2023-09-21 21:59:00",
+      "album": {
+        "name": "Moegdans",
+        "url": "https://open.spotify.com/album/2PZIORUBXjaeRTuepRjTvq"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 201777,
+      "name": "Moegdans",
+      "url": "https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b"
     },
     {
       "added_at": "2023-08-24 21:59:00",
@@ -253,26 +253,6 @@
       "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
     },
     {
-      "added_at": "2024-01-25 22:00:00",
-      "album": {
-        "name": "Neem My Op Vlerke (SENSASIE Remix)",
-        "url": "https://open.spotify.com/album/0FFaZbNOjCRU9oJLWfcAPW"
-      },
-      "artists": [
-        {
-          "name": "Anneli Van Rooyen",
-          "url": "https://open.spotify.com/artist/6a7yFEdaUPfs8WpUQI4zfK"
-        },
-        {
-          "name": "SENSASIE",
-          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
-        }
-      ],
-      "duration_ms": 202648,
-      "name": "Neem My Op Vlerke - SENSASIE Remix",
-      "url": "https://open.spotify.com/track/5d759QCP2C5N2jsFYb79HO"
-    },
-    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Foute",
@@ -305,6 +285,22 @@
       "url": "https://open.spotify.com/track/3ACYgEkC2uFq5FY6GRM46r"
     },
     {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
+        "name": "H2O\u00eb",
+        "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 175375,
+      "name": "H2O\u00eb",
+      "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
+    },
+    {
       "added_at": "2023-11-23 22:00:00",
       "album": {
         "name": "Haar Naam Was Somer",
@@ -323,18 +319,18 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
-        "name": "H2O\u00eb",
-        "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
+        "name": "Koue Kole",
+        "url": "https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE"
       },
       "artists": [
         {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
         }
       ],
-      "duration_ms": 175375,
-      "name": "H2O\u00eb",
-      "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
+      "duration_ms": 230080,
+      "name": "Koue Kole",
+      "url": "https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3"
     },
     {
       "added_at": "2023-12-28 22:00:00",
@@ -355,18 +351,18 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
-        "name": "Koue Kole",
-        "url": "https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE"
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
       },
       "artists": [
         {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
         }
       ],
-      "duration_ms": 230080,
-      "name": "Koue Kole",
-      "url": "https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3"
+      "duration_ms": 238615,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -415,22 +411,6 @@
       "duration_ms": 186495,
       "name": "Khaki",
       "url": "https://open.spotify.com/track/5YtFnh2RwQNFh5G35DntZZ"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 238615,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -497,6 +477,26 @@
       "url": "https://open.spotify.com/track/181RlW4FYWSzaV9xt8xUPQ"
     },
     {
+      "added_at": "2024-01-25 22:00:00",
+      "album": {
+        "name": "Neem My Op Vlerke (SENSASIE Remix)",
+        "url": "https://open.spotify.com/album/0FFaZbNOjCRU9oJLWfcAPW"
+      },
+      "artists": [
+        {
+          "name": "Anneli Van Rooyen",
+          "url": "https://open.spotify.com/artist/6a7yFEdaUPfs8WpUQI4zfK"
+        },
+        {
+          "name": "SENSASIE",
+          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
+        }
+      ],
+      "duration_ms": 202648,
+      "name": "Neem My Op Vlerke - SENSASIE Remix",
+      "url": "https://open.spotify.com/track/5d759QCP2C5N2jsFYb79HO"
+    },
+    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Weer",
@@ -531,22 +531,6 @@
       "duration_ms": 184026,
       "name": "ATKV",
       "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
-    },
-    {
-      "added_at": "2023-11-09 22:00:00",
-      "album": {
-        "name": "OASE",
-        "url": "https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "Slukkie Inspirasie",
-      "url": "https://open.spotify.com/track/6RUiu6xeHqpsxbXJoZeu7s"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -597,6 +581,22 @@
       "url": "https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J"
     },
     {
+      "added_at": "2023-11-09 22:00:00",
+      "album": {
+        "name": "OASE",
+        "url": "https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "Slukkie Inspirasie",
+      "url": "https://open.spotify.com/track/6RUiu6xeHqpsxbXJoZeu7s"
+    },
+    {
       "added_at": "2023-08-10 21:59:00",
       "album": {
         "name": "Boer In My Hart",
@@ -611,22 +611,6 @@
       "duration_ms": 230163,
       "name": "Boer In My Hart",
       "url": "https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Ek Wonder",
-        "url": "https://open.spotify.com/album/07wqaVr50Sy5ke6YhxnIF4"
-      },
-      "artists": [
-        {
-          "name": "Riana Nel",
-          "url": "https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ"
-        }
-      ],
-      "duration_ms": 212941,
-      "name": "Ek Wonder",
-      "url": "https://open.spotify.com/track/7d1dnWCYBxIkLHYkxjF6Yd"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -659,22 +643,6 @@
       "duration_ms": 207736,
       "name": "Stout Vir ...",
       "url": "https://open.spotify.com/track/5IWqYabOkbAXOAUd5RsY8o"
-    },
-    {
-      "added_at": "2023-11-16 22:00:00",
-      "album": {
-        "name": "Als Is Okay",
-        "url": "https://open.spotify.com/album/1V7vyyFiCCPYav5PHinkNb"
-      },
-      "artists": [
-        {
-          "name": "Karlien Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
-        }
-      ],
-      "duration_ms": 181250,
-      "name": "Als Is Okay",
-      "url": "https://open.spotify.com/track/4qgi2zxMxeVoBJ2QT7abuE"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -871,6 +839,22 @@
       "duration_ms": 183729,
       "name": "Rowwe Bliksem",
       "url": "https://open.spotify.com/track/0RwvdQ3H9kSo1lk9IFTBqf"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Ek Wonder",
+        "url": "https://open.spotify.com/album/07wqaVr50Sy5ke6YhxnIF4"
+      },
+      "artists": [
+        {
+          "name": "Riana Nel",
+          "url": "https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ"
+        }
+      ],
+      "duration_ms": 212941,
+      "name": "Ek Wonder",
+      "url": "https://open.spotify.com/track/7d1dnWCYBxIkLHYkxjF6Yd"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -1089,6 +1073,22 @@
       "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
     },
     {
+      "added_at": "2023-11-16 22:00:00",
+      "album": {
+        "name": "Als Is Okay",
+        "url": "https://open.spotify.com/album/1V7vyyFiCCPYav5PHinkNb"
+      },
+      "artists": [
+        {
+          "name": "Karlien Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "Als Is Okay",
+      "url": "https://open.spotify.com/track/4qgi2zxMxeVoBJ2QT7abuE"
+    },
+    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Lieflik",
@@ -1119,6 +1119,22 @@
       "duration_ms": 210319,
       "name": "Hey Sonneblom",
       "url": "https://open.spotify.com/track/4vyQOF8wGtDV6eHsOqWaCG"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
+        "name": "Sonop-Blom",
+        "url": "https://open.spotify.com/album/2ni5omeo7ALatZxwUy180p"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Sonop-Blom",
+      "url": "https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -1187,6 +1203,22 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
+        "name": "Afrikaans is Groot Vol. 14",
+        "url": "https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Keeza",
+      "url": "https://open.spotify.com/track/4U6CKDrBPhG0PpPgqXLp3e"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
         "name": "Spontaan",
         "url": "https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl"
       },
@@ -1203,22 +1235,6 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
-        "name": "Sonop-Blom",
-        "url": "https://open.spotify.com/album/2ni5omeo7ALatZxwUy180p"
-      },
-      "artists": [
-        {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Sonop-Blom",
-      "url": "https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
         "name": "Vuur Op Die Water",
         "url": "https://open.spotify.com/album/40vvsgbIIr5XKof5iKCBr2"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 216795,
       "name": "Vuur Op Die Water",
       "url": "https://open.spotify.com/track/7hnO1itqe41tDT0tuEOgVV"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Afrikaans is Groot Vol. 14",
-        "url": "https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Keeza",
-      "url": "https://open.spotify.com/track/4U6CKDrBPhG0PpPgqXLp3e"
     }
   ],
   "unique_name": "Afrikaanse Hits",

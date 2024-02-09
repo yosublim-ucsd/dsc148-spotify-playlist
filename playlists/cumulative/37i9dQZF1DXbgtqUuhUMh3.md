@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Dana Salah
 
-629 songs - 1 day 12 hr 16 min
+631 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Wana](https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [Wana](https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm) | 3:39 | 2023-09-14 | 2023-12-09 |
 | [Wana Lewahdy](https://open.spotify.com/track/70z2Zrg6oDt0oDWOhUMB5m) | [Wafaa](https://open.spotify.com/artist/4VgYG6D2QMDpKm1h81NQaf) | [Wana Lewahdy](https://open.spotify.com/album/7zRBh6T6ogJr1bK6cy1oky) | 3:58 | 2024-02-01 |  |
 | [Wara Kol Nagah](https://open.spotify.com/track/3mRHFu05SyAc4Y7cQPorON) | [Shereen Yehia](https://open.spotify.com/artist/6sI8bEic5Dp7EQjiZNzqMY) | [Wara Kol Nagah](https://open.spotify.com/album/3IZoThcaZ81nAYTuxLXfXU) | 2:45 | 2023-10-03 | 2023-12-09 |
+| [Warda Hamra](https://open.spotify.com/track/2Etq4FJfvStNpbqToz6McT) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tekfa La Tezaal](https://open.spotify.com/album/1pqCeLwE1qJMFaM06F5umO) | 5:25 | 2024-02-09 |  |
 | [Wayak Wayak](https://open.spotify.com/track/4yMY3INVgDXfDUIRuuIMRC) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Rezq El Wared](https://open.spotify.com/album/3URkpUufiqInzAGBhFn9Az) | 4:00 | 2023-01-25 | 2024-01-30 |
 | [Wayyak](https://open.spotify.com/track/1zQBbLzIE77m5kjm7BPYet) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Mouthakerti](https://open.spotify.com/album/4bS80nF6fc85gq8MBsWLGW) | 3:28 | 2023-08-02 | 2023-12-09 |
 | [Weino](https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino](https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj) | 2:25 | 2021-12-23 | 2022-03-02 |
@@ -526,6 +527,7 @@
 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 | 2022-07-21 | 2023-04-11 |
 | [الا قلبي](https://open.spotify.com/track/5D8y7if4bfLuBDoJgnDhH8) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [الا قلبي](https://open.spotify.com/album/4BuPfZI61xaTcTFgvKv9Ox) | 4:12 | 2023-05-16 | 2023-05-26 |
 | [الحيلة](https://open.spotify.com/track/5JGPBZF9E9A1hRwhxPBpga) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [الحيلة](https://open.spotify.com/album/4P1CiqYMFvMvMsNxKQWJce) | 2:57 | 2023-05-25 | 2023-06-03 |
+| [الدهب](https://open.spotify.com/track/6Xw3zZd7uXObNVeDox4ZpT) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [الدهب](https://open.spotify.com/album/6LCL6l60ELVYSucbUDwL0P) | 3:09 | 2024-02-09 |  |
 | [الشوق](https://open.spotify.com/track/64WFp5DnkD3kSjHPj0IXzL) | [هبة بلمقادم](https://open.spotify.com/artist/2ErgG7JPJ662kZxFCa5tT2) | [الشوق \- Single](https://open.spotify.com/album/6hDoFUGm1D19yGcAFXTtD1) | 3:52 | 2021-12-23 | 2022-02-28 |
 | [العين يا نور العين](https://open.spotify.com/track/0FH3HZnLtOsirwMDpZAEXQ) | [فرح شريم](https://open.spotify.com/artist/05xj0n89xCSoCIyH42n1uN), [Ahmad H Music](https://open.spotify.com/artist/7uX4GJ4dsIR1SxV2V5t0Fr) | [العين يا نور العين](https://open.spotify.com/album/2ygZaiQo51akgXIZLG3XmS) | 1:54 | 2021-12-23 | 2022-03-02 |
 | [الغربة](https://open.spotify.com/track/7HLtsXWAIbj4bvSzCh22Z2) | [جميلة سعد](https://open.spotify.com/artist/31zyGXZDfPNOIQks6nG7Ac) | [الغربة](https://open.spotify.com/album/1VsOrYmrP0gy0Qh9KZJNze) | 3:47 | 2021-12-23 | 2022-03-02 |

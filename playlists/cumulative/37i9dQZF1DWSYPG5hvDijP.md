@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-221 songs - 11 hr 39 min
+223 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Capital](https://open.spotify.com/track/2rWXHzfYluOCWfEch3D9YH) | [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF) | [Capital](https://open.spotify.com/album/3TljnADIAMqIhChYqZacge) | 2:32 | 2024-01-19 |  |
 | [Chhod Dala](https://open.spotify.com/track/5jv5MBWejIF8DX9huv5tKv) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Chhod Dala](https://open.spotify.com/album/4so9xrFmNkNW58CfxtjkbT) | 3:56 | 2023-04-24 |  |
 | [Choke Slam](https://open.spotify.com/track/49ci49d2SaiwpcvZVMfbnM) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Apocalypse](https://open.spotify.com/album/5s9DfBDESB5DWNXPbQBKwB) | 2:15 | 2023-04-24 | 2023-06-02 |
-| [Classy Chapri](https://open.spotify.com/track/4qKKIJ8VLxreHQbDSJB3xo) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets](https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e) | 2:55 | 2023-06-09 |  |
+| [Classy Chapri](https://open.spotify.com/track/4qKKIJ8VLxreHQbDSJB3xo) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets](https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e) | 2:55 | 2023-06-09 | 2024-02-09 |
 | [COLORS](https://open.spotify.com/track/6iWuzQWaaccsdX5veQZxxt) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [THE BRIDGE](https://open.spotify.com/album/1R3EK42SOA9RcbgugF3BBN) | 2:09 | 2023-04-28 | 2023-06-02 |
 | [COMING UP](https://open.spotify.com/track/5Slg73y7Ul41nQ4rY9QHlg) | [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [RAP GODDESS](https://open.spotify.com/album/1H2Cs63eKn7PPuBCjHZCu1) | 2:57 | 2023-05-12 | 2023-06-02 |
 | [Company](https://open.spotify.com/track/1eHkjvvyncnmjgwCSGI0el) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Company](https://open.spotify.com/album/7jgPKe6FNO62URMNko4jsL) | 3:42 | 2023-03-29 | 2023-07-21 |
@@ -147,6 +147,7 @@
 | [Mallika](https://open.spotify.com/track/173nYuVjLhF6kdFTCA0huj) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Mallika](https://open.spotify.com/album/42jjlqtU48ozL5wCaRVDJW) | 3:24 | 2023-10-27 | 2023-11-18 |
 | [Mar Jaayega](https://open.spotify.com/track/4IkkAPhs4otYakD7FAYSqv) | [Dhruv Sthetick](https://open.spotify.com/artist/4g8Z4if0DrwN5H83ZGpZ44), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Mar Jaayega](https://open.spotify.com/album/1LojtEahZCJwHFFClFp1iz) | 4:03 | 2023-03-29 | 2023-07-21 |
 | [Masroor](https://open.spotify.com/track/4fKz9mqdGS6pqhv0F1VjGj) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Katoptris](https://open.spotify.com/artist/5Rtg50egrb0YqbkbNuxOgI) | [Masroor](https://open.spotify.com/album/28lPquTGiDRyQtWD1Wt9pJ) | 3:00 | 2023-07-04 | 2023-11-18 |
+| [Mastikhor](https://open.spotify.com/track/05s9rHSjYuhM5jWL7OWMro) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Jai](https://open.spotify.com/artist/0mNpRIxJZqQmcB0UCTU59S) | [Midtown Madness](https://open.spotify.com/album/1HNeKGeOzyTWpLVxZJexRL) | 3:10 | 2024-02-08 |  |
 | [Maula](https://open.spotify.com/track/1mOiy7cD3rgEn4iBf5AjMu) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 2:10 | 2023-11-06 | 2023-12-14 |
 | [Mazze Me](https://open.spotify.com/track/3K08GyP1TOm2Cl8uiXdKEJ) | [Hellac](https://open.spotify.com/artist/2VMayBYkzi84MFU7SAUBwH) | [Mazze Me](https://open.spotify.com/album/6gyv6Ae7By40RVl3Wb7E61) | 4:32 | 2023-03-29 | 2023-04-25 |
 | [Mehenga](https://open.spotify.com/track/2TI6aZH0P90P0Hl1LH4Lsn) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [KAURA \(Aura Of Kaur\)](https://open.spotify.com/album/3BEx6TlerpLR8UizNMD5s1) | 3:05 | 2024-01-12 | 2024-01-18 |
@@ -194,7 +195,8 @@
 | [SLATT](https://open.spotify.com/track/6lvgkN6qlE9RDp0BzfPUDu) | [Ynxiety](https://open.spotify.com/artist/2csj16wTsXZ6kmvAw6R86s) | [SLATT](https://open.spotify.com/album/16KxB4wDVIwGSwhUqftEAs) | 4:57 | 2023-04-21 | 2023-11-23 |
 | [Sod Lacharicha Paksh](https://open.spotify.com/track/6EpvszQYY47iT6hZzwF3hK) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Sod Lacharicha Paksh](https://open.spotify.com/album/33nEaGaN27RBcHlTAzhkz4) | 6:08 | 2023-07-20 |  |
 | [Spaceship](https://open.spotify.com/track/5qox4CsUE4Lq669aGbZDnm) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Spaceship](https://open.spotify.com/album/3ITMvDdM7ZeOsLzv96tKZP) | 3:11 | 2023-03-29 |  |
-| [Speed Dial](https://open.spotify.com/track/1uTcgABqGIlkE3HzFM2TTq) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Qaab](https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6) | [Speed Dial](https://open.spotify.com/album/2vAemOhIAe4odQzkKOLkdc) | 2:05 | 2024-01-19 |  |
+| [Speed 206](https://open.spotify.com/track/4YQyuUSoQr9K4uAzItZ3XF) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [UZIII](https://open.spotify.com/artist/6hhR6XYqpTeAohXM4FVjhZ) | [Midtown Madness](https://open.spotify.com/album/1HNeKGeOzyTWpLVxZJexRL) | 3:47 | 2024-02-08 |  |
+| [Speed Dial](https://open.spotify.com/track/1uTcgABqGIlkE3HzFM2TTq) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Qaab](https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6) | [Speed Dial](https://open.spotify.com/album/2vAemOhIAe4odQzkKOLkdc) | 2:05 | 2024-01-19 | 2024-02-09 |
 | [STAY DOWN](https://open.spotify.com/track/6IhL06ppOuyRHEXJ8BlUXe) | [ZZ](https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V) | [STAY DOWN](https://open.spotify.com/album/3tM9xF7q94gk2nYQjAT1sx) | 3:08 | 2023-06-06 | 2023-10-10 |
 | [STILL NUMBER 1](https://open.spotify.com/track/0nXYmY9YtiHkFGlR3cusur) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [STILL NUMBER 1](https://open.spotify.com/album/6pJ9lDsQqTMlcvxqbMbmtM) | 3:55 | 2023-10-27 |  |
 | [STRAP](https://open.spotify.com/track/1GmaStjvbOzszpxINI8oTi) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [STRAP](https://open.spotify.com/album/4S53T78rr9YNwFGG08bkNI) | 2:42 | 2023-10-26 | 2024-01-13 |

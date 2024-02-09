@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198 likes - 120 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 199 likes - 120 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 17 | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6) | 2:42 |
 | 18 | [Reason To Stay](https://open.spotify.com/track/7wEXKF8ltyhpiGlUfa3RGh) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [I'm Sorry, I'm Not Sorry](https://open.spotify.com/album/2D23kwwoy2JpZVuJwzE42B) | 3:08 |
 | 19 | [Brighter Days](https://open.spotify.com/track/4a25whbKpCkO3CQ8odSGHD) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Let's Say For Instance](https://open.spotify.com/album/5Z6szusddxn6ySgFMzd837) | 2:50 |
-| 20 | [Moving Mountains \(feat\. Ollie Green\) \- GATTÜSO Remix](https://open.spotify.com/track/0V3hcG44S4Qg5QgJfQgrEq) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Ollie Green](https://open.spotify.com/artist/2PCKbRUI5rGUwOkGXX2W5U), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Moving Mountains \(feat\. Ollie Green\) \[GATTÜSO Remix\]](https://open.spotify.com/album/3cPMzHoZFWnBKeOUVMCTrq) | 3:02 |
-| 21 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 |
+| 20 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 |
+| 21 | [Moving Mountains \(feat\. Ollie Green\) \- GATTÜSO Remix](https://open.spotify.com/track/0V3hcG44S4Qg5QgJfQgrEq) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Ollie Green](https://open.spotify.com/artist/2PCKbRUI5rGUwOkGXX2W5U), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Moving Mountains \(feat\. Ollie Green\) \[GATTÜSO Remix\]](https://open.spotify.com/album/3cPMzHoZFWnBKeOUVMCTrq) | 3:02 |
 | 22 | [Call Your Name](https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Call Your Name](https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO) | 2:50 |
 | 23 | [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 |
 | 24 | [Handful of Gold \- Hounded Remix](https://open.spotify.com/track/6z9RhyRdakj1A3UFrHMvaY) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Handful of Gold \(feat\. Jones\) \[Remixes II\]](https://open.spotify.com/album/22J3gaeefBAvE29SxCAljW) | 4:10 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 119 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 120 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `Mjg0NTU5NzAsMDAwMDAwMDAxOTU4YmFhYTcxNmUyMDljMmIxMjY0ZDQxOTk2MmNmZQ==`
+Snapshot ID: `Mjg0NTc0MTAsMDAwMDAwMDAzYzkxNGViMzU3YWUyYjZkM2EzNWVjOWNmMDA1MzZmYw==`

@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3694264,
+  "num_followers": 3694770,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWYwZjUxN2FkMWVmMDMzM2Y1NjlhMGM0OThiMzU4Mzg0ODEyNjAy",
+  "snapshot_id": "MCxlMGMyMGNmY2FlOWVmNTA2OGYxZTgyNWJkNTI1Yzc3ZGZlMjIzYjFi",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Spring Embers",
-        "url": "https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "Spring Embers",
-      "url": "https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Another Time",
         "url": "https://open.spotify.com/album/4rqr9zrFHD4fd2Y1hv6RKK"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 255789,
       "name": "Another Time",
       "url": "https://open.spotify.com/track/67f7gMWZ2PJI7IsUBs3mNQ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Spring Embers",
+        "url": "https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "Spring Embers",
+      "url": "https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Growth",
-        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 174344,
-      "name": "Just Over",
-      "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Colorize 2023 Spring Sampler",
         "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 240448,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 174344,
+      "name": "Just Over",
+      "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "High On You",
-        "url": "https://open.spotify.com/album/0bIGlLKPLcgmEt2YBsL0nt"
-      },
-      "artists": [
-        {
-          "name": "Lonely in the Rain",
-          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
-        },
-        {
-          "name": "LissA",
-          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
-        }
-      ],
-      "duration_ms": 186472,
-      "name": "High On You",
-      "url": "https://open.spotify.com/track/3pT7FxFWaHYbxUIAmZbY5V"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/4tja9y8DTcIwetXDI8Lalm"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 178604,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "High On You",
+        "url": "https://open.spotify.com/album/0bIGlLKPLcgmEt2YBsL0nt"
+      },
+      "artists": [
+        {
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+        },
+        {
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
+        }
+      ],
+      "duration_ms": 186472,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/3pT7FxFWaHYbxUIAmZbY5V"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Waiting All My Life",
-        "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Waiting All My Life",
-      "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "I Can Make It",
         "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 249012,
       "name": "I Can Make It",
       "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Waiting All My Life",
+        "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Waiting All My Life",
+      "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Why Does My Heart",
-        "url": "https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd"
-      },
-      "artists": [
-        {
-          "name": "LYOD",
-          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
-        }
-      ],
-      "duration_ms": 172454,
-      "name": "Why Does My Heart",
-      "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "IOU",
         "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 212906,
       "name": "IOU",
       "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Why Does My Heart",
+        "url": "https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd"
+      },
+      "artists": [
+        {
+          "name": "LYOD",
+          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
+        }
+      ],
+      "duration_ms": 172454,
+      "name": "Why Does My Heart",
+      "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1495,22 +1495,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Nothing To Lose (feat. Circa Waves)",
-        "url": "https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw"
+        "name": "Before Dawn",
+        "url": "https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
         },
         {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Sansa",
+          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
         }
       ],
-      "duration_ms": 258284,
-      "name": "Nothing To Lose (feat. Circa Waves)",
-      "url": "https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F"
+      "duration_ms": 198574,
+      "name": "Before Dawn",
+      "url": "https://open.spotify.com/track/4eAz5Na2BaEVpPxhOrq5pc"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1551,46 +1555,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Before Dawn",
-        "url": "https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb"
+        "name": "Nothing To Lose (feat. Circa Waves)",
+        "url": "https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw"
       },
       "artists": [
         {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         },
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Sansa",
-          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
         }
       ],
-      "duration_ms": 198574,
-      "name": "Before Dawn",
-      "url": "https://open.spotify.com/track/4eAz5Na2BaEVpPxhOrq5pc"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Rule The World",
-        "url": "https://open.spotify.com/album/1tXbZl7KpKIsBcNfYi2qth"
-      },
-      "artists": [
-        {
-          "name": "ricky retro",
-          "url": "https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8"
-        },
-        {
-          "name": "Scorz",
-          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
-        }
-      ],
-      "duration_ms": 176341,
-      "name": "Rule The World",
-      "url": "https://open.spotify.com/track/5h0uSprKS095tjlzkVhG3t"
+      "duration_ms": 258284,
+      "name": "Nothing To Lose (feat. Circa Waves)",
+      "url": "https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1631,6 +1611,46 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Rule The World",
+        "url": "https://open.spotify.com/album/1tXbZl7KpKIsBcNfYi2qth"
+      },
+      "artists": [
+        {
+          "name": "ricky retro",
+          "url": "https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8"
+        },
+        {
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
+        }
+      ],
+      "duration_ms": 176341,
+      "name": "Rule The World",
+      "url": "https://open.spotify.com/track/5h0uSprKS095tjlzkVhG3t"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Favourite Place",
+        "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        },
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        }
+      ],
+      "duration_ms": 180100,
+      "name": "Favourite Place",
+      "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Perfect World",
         "url": "https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc"
       },
@@ -1667,26 +1687,6 @@
       "duration_ms": 162338,
       "name": "Company",
       "url": "https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Favourite Place",
-        "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        },
-        {
-          "name": "Fractures",
-          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
-        }
-      ],
-      "duration_ms": 180100,
-      "name": "Favourite Place",
-      "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
     },
     {
       "added_at": "2024-01-26 05:00:00",

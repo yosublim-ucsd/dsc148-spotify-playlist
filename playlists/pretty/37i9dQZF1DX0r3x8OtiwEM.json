@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 926241,
+  "num_followers": 926406,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2VkNGNkNWJkMDQwMDMzNjIzYzhiOTAxZGFkMGU3MTI5NDQ3YWFi",
+  "snapshot_id": "MCxhOTZlN2E0OTBjNmUwMjEwMzg5MDU0NDRkMWU2MTVmMjVmNzAyODJj",
   "tracks": [
     {
       "added_at": "2023-11-27 18:33:25",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "DREAMER",
-        "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 339013,
-      "name": "DREAMER",
-      "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
-    },
-    {
-      "added_at": "2023-11-27 18:33:25",
-      "album": {
         "name": "MORE D4TA",
         "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 219014,
       "name": "FAST LAND",
       "url": "https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB"
+    },
+    {
+      "added_at": "2023-11-27 18:33:25",
+      "album": {
+        "name": "DREAMER",
+        "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 339013,
+      "name": "DREAMER",
+      "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-        }
-      ],
-      "duration_ms": 269752,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44"
-    },
-    {
-      "added_at": "2023-11-27 18:33:25",
-      "album": {
         "name": "When the Lights Go (Deluxe)",
         "url": "https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf"
       },
@@ -767,22 +747,22 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
-        "url": "https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm"
       },
       "artists": [
         {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
         },
         {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
         }
       ],
-      "duration_ms": 216106,
-      "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
-      "url": "https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg"
+      "duration_ms": 269752,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -807,6 +787,26 @@
       "duration_ms": 212903,
       "name": "Alone - Stephan Jolk Remix",
       "url": "https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu"
+    },
+    {
+      "added_at": "2023-11-27 18:33:25",
+      "album": {
+        "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
+        "url": "https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
+      "url": "https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 217369,
-      "name": "Cold Blooded",
-      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
-    },
-    {
-      "added_at": "2023-11-27 18:33:25",
-      "album": {
         "name": "Dreamcast",
         "url": "https://open.spotify.com/album/56QCxS7cxFlJqLNnsmAoqF"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 325744,
       "name": "Dreamcast",
       "url": "https://open.spotify.com/track/4B7Hi7TY2Bl76SI3tojI5e"
+    },
+    {
+      "added_at": "2023-11-27 18:33:25",
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 217369,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
     },
     {
       "added_at": "2023-11-27 18:33:25",

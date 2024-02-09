@@ -1,12 +1,12 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Reik y Ha*Ash en portada.",
-  "num_followers": 65150,
+  "num_followers": 65168,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDExZTY4ODI5NDQzYTYzN2YyMDc2ZjU3M2QwNjA0NWQ4YWFkNWFl",
+  "snapshot_id": "MCw4NTY2OTViODM1ZWM3MjM5MmE3NTM5YzI0MDRjNGE2MWI3ZGQ2MzBm",
   "tracks": [
     {
       "added_at": "2023-09-26 16:29:26",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
+        "name": "tal vez el amor",
+        "url": "https://open.spotify.com/album/5qu0izFsk48Fo3vIvfJqu0"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        },
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 213230,
+      "name": "tal vez el amor",
+      "url": "https://open.spotify.com/track/28HWPrCDObbNmNwLH92hKZ"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
         "name": "Qu\u00e9 Es Amor? My Love",
         "url": "https://open.spotify.com/album/7m0M9LnoMYv8Fb03BrMM4Y"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 311618,
       "name": "Hubo Algo",
       "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
-        "name": "tal vez el amor",
-        "url": "https://open.spotify.com/album/5qu0izFsk48Fo3vIvfJqu0"
-      },
-      "artists": [
-        {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
-        },
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 213230,
-      "name": "tal vez el amor",
-      "url": "https://open.spotify.com/track/28HWPrCDObbNmNwLH92hKZ"
     },
     {
       "added_at": "2023-09-26 16:29:26",

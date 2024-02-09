@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Lauryyn
+> Il meglio dell'R&B italiano\. Cover: sigarettewest
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,205 likes - 55 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,209 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Liar](https://open.spotify.com/track/1HCJgMSEiB94WKUIw9B5YW) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw) | [Liar](https://open.spotify.com/album/2dV8ZXGws3TLABKp4qvh7e) | 1:56 |
-| 2 | [Difenderti](https://open.spotify.com/track/3kwQ577i2mY0JlUeazrLha) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR) | [Aurora Boreale](https://open.spotify.com/album/0PD2JnNa4bsQEG9QWvlOuR) | 2:05 |
-| 3 | [Non c'è vino](https://open.spotify.com/track/6jppOX6H6bwKOKDwPhX3Lt) | [Asiabel](https://open.spotify.com/artist/491HAKV720PSqmM2Cii1F7) | [Non c'è vino](https://open.spotify.com/album/6jeY2nHztiXwdq1of0IyKa) | 4:00 |
-| 4 | [Rosso Iberico](https://open.spotify.com/track/1Wp1xqEszHebh4EB8S8Syo) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Rosso Iberico](https://open.spotify.com/album/3ellgGmI2awcUPPz0jRxA2) | 2:54 |
+| 1 | [Rosso Iberico](https://open.spotify.com/track/1Wp1xqEszHebh4EB8S8Syo) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Rosso Iberico](https://open.spotify.com/album/3ellgGmI2awcUPPz0jRxA2) | 2:54 |
+| 2 | [Liar](https://open.spotify.com/track/1HCJgMSEiB94WKUIw9B5YW) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw) | [Liar](https://open.spotify.com/album/2dV8ZXGws3TLABKp4qvh7e) | 1:56 |
+| 3 | [Difenderti](https://open.spotify.com/track/3kwQ577i2mY0JlUeazrLha) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR) | [Aurora Boreale](https://open.spotify.com/album/0PD2JnNa4bsQEG9QWvlOuR) | 2:05 |
+| 4 | [Non c'è vino](https://open.spotify.com/track/6jppOX6H6bwKOKDwPhX3Lt) | [Asiabel](https://open.spotify.com/artist/491HAKV720PSqmM2Cii1F7) | [Non c'è vino](https://open.spotify.com/album/6jeY2nHztiXwdq1of0IyKa) | 4:00 |
 | 5 | [Panamá](https://open.spotify.com/track/5p2R1pakFNPPE5wIjaXUk9) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [Panamá](https://open.spotify.com/album/5u0LW7WxogeeSuXtSh0W7d) | 3:39 |
 | 6 | [M’AMA](https://open.spotify.com/track/4M9QcyOAf0dxDOzUr71DSS) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG) | [M’AMA](https://open.spotify.com/album/0dxzTx9DQbOdYHKRfH7umG) | 3:25 |
 | 7 | [ieri/oggi/domani](https://open.spotify.com/track/5bRgaTI1IKf0x1nVFWKRZn) | [Francesco Kairos](https://open.spotify.com/artist/3QBDBs8DuZaSAt9qj3b53M) | [ieri/oggi/domani](https://open.spotify.com/album/4r4q6jwhhoh3TGWcBrG3V4) | 3:01 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 54 | [Labirinto](https://open.spotify.com/track/1558E3L8hQXfsFGwEz8e1N) | [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C), [Dnvr](https://open.spotify.com/artist/1n0CqqaVfCYalfX1VOr940), [Pellerito](https://open.spotify.com/artist/7l6pS28UBNcLASGW2LsKC5) | [Elisir](https://open.spotify.com/album/4JWKkR4KvAB4LrrOetczfj) | 2:48 |
 | 55 | [Resterò](https://open.spotify.com/track/2x1OhhXXw3wrmXXSNioXk4) | [Cristina Lizzul](https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze) | [American Femmena](https://open.spotify.com/album/0ZnY6qxrNhcuE3gOedyBDb) | 3:13 |
 
-Snapshot ID: `MCxmMmNkYjcyMWNmNzdkZWY4NDI5ZTI5Y2E4MzVlZmVhOWU5ZTRiYmY5`
+Snapshot ID: `MCxhODM3ZDZhYTM1ODVhNGRkZTIyZWJlMDQzY2NhMDI3MzA2MmZkYjJl`

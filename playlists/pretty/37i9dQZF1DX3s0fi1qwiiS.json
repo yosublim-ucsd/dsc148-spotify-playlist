@@ -1,12 +1,12 @@
 {
   "description": "Who order Azul?",
-  "num_followers": 3141,
+  "num_followers": 3142,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDAxNTEzZWM1NmIxMzU4YWU5NmQ2OWU4ZWRhMTYyMDJmNDQwZmEw",
+  "snapshot_id": "MCxmZWM2NGQxZDI3ODAwNmNlMmZhOWE3NTUxZDMzYTFhMzlmMDA3Mzk2",
   "tracks": [
     {
       "added_at": "2023-12-08 08:55:17",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Adonai (Remix) [feat. Castro]",
-        "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Castro",
-          "url": "https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3"
-        }
-      ],
-      "duration_ms": 288130,
-      "name": "Adonai (Remix) [feat. Castro]",
-      "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
         "name": "Yaba Buluku (feat. Preck & Nelson Tivane) [Remix]",
         "url": "https://open.spotify.com/album/1vc9def4aoS2RJZJzyw5Vi"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 214408,
       "name": "Yaba Buluku (feat. Preck & Nelson Tivane) - Remix",
       "url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Adonai (Remix) [feat. Castro]",
+        "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3"
+        }
+      ],
+      "duration_ms": 288130,
+      "name": "Adonai (Remix) [feat. Castro]",
+      "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -847,18 +847,22 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Turn On The Lights",
-        "url": "https://open.spotify.com/album/7J1jyEOZjy5DJwPk3bXuou"
+        "name": "Don't Keep Me Waiting",
+        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
       },
       "artists": [
         {
           "name": "Kwesi Arthur",
           "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
         }
       ],
-      "duration_ms": 170887,
-      "name": "Turn On The Lights",
-      "url": "https://open.spotify.com/track/6RstYH2vOXeXnz5hj3Ppnv"
+      "duration_ms": 227864,
+      "name": "Don't Keep Me Waiting",
+      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -923,6 +927,22 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Wiase (Y3d3 Remix)",
         "url": "https://open.spotify.com/album/5iKIckXV57WUQ3LC6Ejd5x"
       },
@@ -963,22 +983,6 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "After the Storm",
-        "url": "https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 235598,
-      "name": "Mahama Paper",
-      "url": "https://open.spotify.com/track/5vA0BlTP16GqJsieTaPRzp"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
         "name": "Happy Day",
         "url": "https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk"
       },
@@ -999,58 +1003,6 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Eboso",
-        "url": "https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Eboso",
-      "url": "https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Don't Keep Me Waiting",
-        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 227864,
-      "name": "Don't Keep Me Waiting",
-      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
         "name": "Odo",
         "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
       },
@@ -1063,6 +1015,54 @@
       "duration_ms": 186990,
       "name": "Odo",
       "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "After the Storm",
+        "url": "https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 235598,
+      "name": "Mahama Paper",
+      "url": "https://open.spotify.com/track/5vA0BlTP16GqJsieTaPRzp"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Turn On The Lights",
+        "url": "https://open.spotify.com/album/7J1jyEOZjy5DJwPk3bXuou"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Turn On The Lights",
+      "url": "https://open.spotify.com/track/6RstYH2vOXeXnz5hj3Ppnv"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Eboso",
+        "url": "https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Eboso",
+      "url": "https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI"
     },
     {
       "added_at": "2023-12-08 08:55:17",

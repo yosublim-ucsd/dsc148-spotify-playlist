@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Mong Tong
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: RayRay
 
-53 songs - 3 hr 3 min
+54 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Everytime](https://open.spotify.com/track/43l6cr0F3VdjBLDOWq081Q) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g), [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Everytime](https://open.spotify.com/album/5QYcLdudlnlpQPJ7IzQg9t) | 3:30 | 2024-01-25 |  |
 | [Expired 〜期限切れの愛〜 \(OT：我還繞著你在旋轉\)](https://open.spotify.com/track/4PFWjoTHEFAfhonI5TUgAs) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [Expired 〜期限切れの愛〜](https://open.spotify.com/album/2ixCuTOpX8vP1iCai1Tecz) | 5:24 | 2024-01-25 |  |
 | [Feather \(Live\)](https://open.spotify.com/track/4ikymzMUcAficaye4PprT0) | [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [TOKYO ACOUSTIC SESSION](https://open.spotify.com/album/3wLZWpTgaMF0qbRMtNGbui) | 3:53 | 2024-01-25 |  |
+| [Feel It](https://open.spotify.com/track/04LKP5NozL90CGOfjwxASX) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Feel It](https://open.spotify.com/album/5kGOAASVomzriytdsAT08e) | 2:53 | 2024-02-08 |  |
 | [FLAME \(feat\. MANDARK\)](https://open.spotify.com/track/3xk02Q61AHrcptZEAnKBAc) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [FLAME \(feat\. MANDARK\)](https://open.spotify.com/album/0kzjxi4mX2pWh5WOJU29M7) | 3:40 | 2024-01-25 |  |
 | [frozen in time](https://open.spotify.com/track/1DEaum9DNltFAEzvkzUmQy) | [Elin Lee](https://open.spotify.com/artist/4SwNIde9PXmYXhcBJjPjFx), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [frozen in time](https://open.spotify.com/album/6bXW0qAirQQSNJmN5WkiNe) | 3:28 | 2024-01-25 |  |
 | [GOOD LOOKING](https://open.spotify.com/track/2mEk627nf8k8K7zTBYy6XI) | [POPO J](https://open.spotify.com/artist/3asn0DBHRjY3cHdlbm5kuu) | [GOOD LOOKING](https://open.spotify.com/album/4gMmT8HIwXPuDt5cwWp3S9) | 2:10 | 2024-01-25 |  |
@@ -37,7 +38,7 @@
 | [Not4U \(A\_LIVE PASS Session\)](https://open.spotify.com/track/0BiIzoPONZILYyD4XZhkXo) | [Edelyn](https://open.spotify.com/artist/70Bc8yYTfXV3n8AtUH6xZG) | [Not4U \(A\_LIVE PASS Session\)](https://open.spotify.com/album/61lCpEzYELyoQnZ98nDQdN) | 8:27 | 2024-01-25 |  |
 | [Oh Why](https://open.spotify.com/track/6bNSDf3jZ7ThziVCbq0Mq2) | [The Fur.​](https://open.spotify.com/artist/0neVDcSdi4GMgFduUudWve) | [Serene Reminder](https://open.spotify.com/album/2TB1J2Q397wIpztQvyH5D1) | 3:36 | 2024-01-25 |  |
 | [One More](https://open.spotify.com/track/1POXmbYNyr8cWmXHMNOnOh) | [LEO37](https://open.spotify.com/artist/1K4p8nRSSUoO6e3Npn77U6), [Robot Swing](https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV), [DCIV](https://open.spotify.com/artist/1ek0Tv8frXGgW6GCCE2jit), [Dac](https://open.spotify.com/artist/0nWX29koulPYFLJoMxIpJx), [Lazy Habits](https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP), [Star Wu](https://open.spotify.com/artist/41imUY7LVjxTpJwTDgDR6v), [Minyen Hsieh](https://open.spotify.com/artist/6AcI6agoeBhaaVo0GbjSFp) | [One More](https://open.spotify.com/album/23ricY0LkT2mI0A1Txt2dl) | 3:48 | 2024-01-25 |  |
-| [Out of Love](https://open.spotify.com/track/2a7tWwfJeOmiQB0AryaKB3) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [Out of Love](https://open.spotify.com/album/6iyHxcHCZ1LoNMhxz95a2s) | 2:18 | 2024-01-25 |  |
+| [Out of Love](https://open.spotify.com/track/2a7tWwfJeOmiQB0AryaKB3) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [Out of Love](https://open.spotify.com/album/6iyHxcHCZ1LoNMhxz95a2s) | 2:18 | 2024-01-25 | 2024-02-09 |
 | [Paradise \(電影《我的天堂城市》主題曲\)](https://open.spotify.com/track/1sPe0BW8Ob7lZ1lTY5M44V) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [Paradise \(電影《我的天堂城市》主題曲\)](https://open.spotify.com/album/6SYatLOX94QtaZtiCVjseA) | 3:45 | 2024-01-25 |  |
 | [Race of Faith \(ft\. YELLOW黃宣\)](https://open.spotify.com/track/4hGtlu2iutnwbHFjs91B1r) | [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq), [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [Race of Faith \(ft\. YELLOW黃宣\)](https://open.spotify.com/album/3iddxJeDMT2wCg08x8kRpZ) | 3:50 | 2024-01-25 |  |
 | [Real World](https://open.spotify.com/track/230yOdZnpGaoeOtE6JEXoy) | [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [Real World](https://open.spotify.com/album/4FFBtcgedztmXGbnpe79Gh) | 4:19 | 2024-01-25 |  |

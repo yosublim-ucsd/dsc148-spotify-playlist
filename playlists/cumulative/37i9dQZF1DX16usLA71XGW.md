@@ -2,9 +2,9 @@
 
 ### [Malkia](https://open.spotify.com/playlist/37i9dQZF1DX16usLA71XGW)
 
-> East Africa queens in their music bag\. Cover: Jowy Landa
+> East Africa queens in their music bag\. Cover: Liboi
 
-115 songs - 6 hr 0 min
+116 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Matozo](https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Matozo](https://open.spotify.com/album/42JVY8b8306tmGSbdOwrog) | 2:21 | 2022-12-16 | 2023-05-14 |
 | [Mbikka](https://open.spotify.com/track/0aX9cCnSbOK71jbkIoTdnL) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Mbikka](https://open.spotify.com/album/1HZpwYR92F4Krb8d1R7FrZ) | 2:54 | 2022-07-18 | 2022-09-30 |
 | [Milele](https://open.spotify.com/track/0GRikCkCDjo6KZflphU4J6) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Milele](https://open.spotify.com/album/19bugQdphaPV2owzpESgWb) | 3:37 | 2023-09-14 |  |
-| [Money](https://open.spotify.com/track/5wXGMc37E8zPQahBiZGu87) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Effji](https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK) | [MONEY](https://open.spotify.com/album/1C4342P9N6QgqnQezg8Ony) | 2:54 | 2022-07-18 |  |
+| [Money](https://open.spotify.com/track/5wXGMc37E8zPQahBiZGu87) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Effji](https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK) | [MONEY](https://open.spotify.com/album/1C4342P9N6QgqnQezg8Ony) | 2:54 | 2022-07-18 | 2024-02-09 |
 | [Moyo](https://open.spotify.com/track/22COxRY6jsNPJDtCSX7xUd) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7) | [Moyo](https://open.spotify.com/album/6G4pydEf93kthE5qJlxQ8i) | 2:26 | 2022-07-18 | 2023-09-02 |
 | [Mufele \- Radio Edit](https://open.spotify.com/track/2MSgpEYfJpDa4j9g6R32Lm) | [Angella Katatumba](https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH) | [Mufele](https://open.spotify.com/album/2FyvNRC4xnpeWTIMRXWxEA) | 2:21 | 2022-09-22 | 2023-03-31 |
 | [My Cherrie](https://open.spotify.com/track/4k7pec9Cchlj8kxi0vJd0D) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [My Cherie](https://open.spotify.com/album/1l7rj6E7ai2q5wPKGWis2S) | 4:38 | 2022-11-24 |  |
@@ -123,5 +123,6 @@
 | [Wildin'](https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali \(Sweeter\)](https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R) | 3:01 | 2023-10-19 |  |
 | [With You](https://open.spotify.com/track/2kmrovjpIxVb59ULNmEaeB) | [Maryolive](https://open.spotify.com/artist/3fzxNKewoLZJwJUVrnQY27) | [With You](https://open.spotify.com/album/0FCSf4X8qXB2vOXgKB3r7L) | 3:28 | 2022-07-18 | 2022-10-28 |
 | [Yamenizidi](https://open.spotify.com/track/52Hrsu0VFAePA3n2iBJMTF) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Yamenizidi](https://open.spotify.com/album/0zYMkOpb7gzgoNzWyZ0yxq) | 3:35 | 2023-04-13 |  |
+| [Yule](https://open.spotify.com/track/5cBeuaV4kPJEvu4AuIZt1B) | [Liboi](https://open.spotify.com/artist/6HOD1hSjJf0TNjnWmt4nAp) | [Yule](https://open.spotify.com/album/5LHtoRzSsA6IQWF32z7ByY) | 5:09 | 2024-02-08 |  |
 
 \*This playlist was first scraped on 2022-07-20. Prior content cannot be recovered.

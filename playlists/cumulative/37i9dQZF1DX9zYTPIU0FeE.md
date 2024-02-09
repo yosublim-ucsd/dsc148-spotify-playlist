@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ?si=z4\_euryvR\_mfJ0N81OzznA">Abdullah Ibrahim</a>
 
-192 songs - 20 hr 46 min
+193 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Brunch In Harlem](https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9) | [Jazzgroupiez](https://open.spotify.com/artist/2SmWARs3Ky24E8bfpqj5QM), [Saul Madiope](https://open.spotify.com/artist/2BbonfFXXMlwfcLemarFh3), [Stephen Richard](https://open.spotify.com/artist/4OO982yjCXgY3K3zFqflp3) | [The Crossover II](https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE) | 2:09 | 2023-08-25 |  |
 | [Butterscotch](https://open.spotify.com/track/1fHjb4JsAuno8LTSWCV6i6) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In the Moment](https://open.spotify.com/album/6etxf5sFetv1fKaOT5TtWe) | 2:39 | 2023-11-01 | 2023-11-17 |
 | [Cabin Fever](https://open.spotify.com/track/7erj4S9e7ps3Ha9TWf3LAD) | [MUNGO BUNGO](https://open.spotify.com/artist/38zmC7oufF1B8WCBaHWqsz) | [Cabin Fever](https://open.spotify.com/album/43dmHtuJLgnXl6BTG3YuIy) | 3:52 | 2023-09-29 |  |
+| [Champagne Kisses](https://open.spotify.com/track/6gQ6dZf0iA8pAcJGagcgPh) | [Elna Myburg](https://open.spotify.com/artist/7MTbe0rf19hObBAIFCV2YR) | [Champagne Kisses](https://open.spotify.com/album/4o2g3Jm21NCkUZRgsxCJoO) | 2:31 | 2024-02-08 |  |
 | [Chanel's Mood](https://open.spotify.com/track/6vWowjcocZCZWuMlbbH08k) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Leagan Starchild](https://open.spotify.com/artist/463uy2bD1rR0u2GbG8AMxS), [Marcus Wyatt](https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4), [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm) | [Skemerdans, Season 1 \(Music from the Showmax Original Series\)](https://open.spotify.com/album/0mNEoS45dcBIdQ5SAtzmV1) | 2:44 | 2022-04-28 | 2023-05-09 |
 | [Choices](https://open.spotify.com/track/1FFO1fM3Y8JuaQOhtZd8ne) | [Nobuhle Ashanti](https://open.spotify.com/artist/1j0veQcW4sD1PKkfSCJiop), [Shaw Komori](https://open.spotify.com/artist/38Ke1hHsORcBqMK6zs1RgN) | [Bait For Steps Forward](https://open.spotify.com/album/1rfJh3x1Bia6M2r4nert9m) | 5:46 | 2023-08-25 |  |
 | [Chosi](https://open.spotify.com/track/0VXVa4Xzf9DUyEjJ9wOx6j) | [Thesis ZA](https://open.spotify.com/artist/1WWnGqSNzDgePBza5THZHm) | [Chosi](https://open.spotify.com/album/4GWzyQiFsfojuInUn28tFn) | 5:06 | 2022-04-28 | 2023-03-18 |

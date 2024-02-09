@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Angels Like You",
+        "url": "https://open.spotify.com/album/2s0SDoQYnjhG7r1kHeGgnO"
+      },
+      "artists": [
+        {
+          "name": "Ron Marks",
+          "url": "https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "Angels Like You",
+      "url": "https://open.spotify.com/track/5m5l6WFIilVG2t4Xo4FnWj"
+    },
+    {
+      "album": {
         "name": "Rediscovered",
         "url": "https://open.spotify.com/album/4rRZvUGhvvRASQecmf5nWc"
       },
@@ -311,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/1XGXCsHk3k6YH3ktr1ylA9"
+      },
+      "artists": [
+        {
+          "name": "John Crome",
+          "url": "https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149108,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/2hf6gQjGCxvwVmNsQ8c8Yo"
+    },
+    {
+      "album": {
         "name": "Viva La Vida",
         "url": "https://open.spotify.com/album/5tU4IeqW5okLOFooZqzAFF"
       },
@@ -488,6 +524,24 @@
       "duration_ms": 156500,
       "name": "Die 4 Me",
       "url": "https://open.spotify.com/track/6UFkfO4Hn0RCiUoL270dpq"
+    },
+    {
+      "album": {
+        "name": "Does Your Mother Know",
+        "url": "https://open.spotify.com/album/7LF6CwL6GELbzGZKcchpiK"
+      },
+      "artists": [
+        {
+          "name": "Lana Jax",
+          "url": "https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198874,
+      "name": "Does Your Mother Know",
+      "url": "https://open.spotify.com/track/6juhT2a3M7NmCA085Kb1w0"
     },
     {
       "album": {
@@ -902,6 +956,24 @@
       "duration_ms": 161095,
       "name": "Holy",
       "url": "https://open.spotify.com/track/39iUn2KhFa7aKiI0mJrrv5"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0wdQZAisc6HEXKd77mL4z1"
+      },
+      "artists": [
+        {
+          "name": "Nilo Almeida",
+          "url": "https://open.spotify.com/artist/1FFwV2WdNXvSTHJAI0CZlF"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216329,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6S7EWPyRZ0RoEIX2LMItu8"
     },
     {
       "album": {
@@ -1481,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "Piano Man",
+        "url": "https://open.spotify.com/album/3BqnXRksYjWugaqusDNrML"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor",
+          "url": "https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151591,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/0VQsMDssKFEUG57CZ31YcD"
+    },
+    {
+      "album": {
         "name": "Redbone",
         "url": "https://open.spotify.com/album/4SOJm1GEbnhfHC1ggGjT9K"
       },
@@ -1496,6 +1586,24 @@
       "duration_ms": 198375,
       "name": "Redbone",
       "url": "https://open.spotify.com/track/37jmM5yYmTqETXCbi4Ko5U"
+    },
+    {
+      "album": {
+        "name": "Right Here Waiting",
+        "url": "https://open.spotify.com/album/3rPEZpmAnrGOvZWlAyfwAj"
+      },
+      "artists": [
+        {
+          "name": "Christian Lindquist",
+          "url": "https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177123,
+      "name": "Right Here Waiting",
+      "url": "https://open.spotify.com/track/34qR9YyC7FxLfkfq8JQS6p"
     },
     {
       "album": {
@@ -1874,6 +1982,42 @@
       "duration_ms": 148000,
       "name": "The long and winding road",
       "url": "https://open.spotify.com/track/2WL3AT2ai6udaUhw7CjwbW"
+    },
+    {
+      "album": {
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/3S58P2blfAWXqcRtxzkHm7"
+      },
+      "artists": [
+        {
+          "name": "A Little Time",
+          "url": "https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158783,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/1BlvRT7JUtpNQUZHrVUPwJ"
+    },
+    {
+      "album": {
+        "name": "The Sound of Silence",
+        "url": "https://open.spotify.com/album/7zFQhoJ9Disc3upcoiNnJu"
+      },
+      "artists": [
+        {
+          "name": "Morgan Fleich",
+          "url": "https://open.spotify.com/artist/0fA5ejVShbNdZWiw5CB1l1"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136385,
+      "name": "The Sound of Silence",
+      "url": "https://open.spotify.com/track/0YTPlP7MjW8pPBGdARXuIJ"
     },
     {
       "album": {

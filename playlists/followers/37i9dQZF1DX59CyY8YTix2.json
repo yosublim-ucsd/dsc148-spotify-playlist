@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 47920,
+  "2024-02-09": 47942,
   "date_first_scraped": "2022-05-30",
   "description": "\u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Japanese women rock icons. Cover: \u9ed2\u5b50\u9996(Hockrockb)",
   "name": "She Rocks",
@@ -1315,6 +1315,24 @@
       "duration_ms": 213870,
       "name": "Band Music",
       "url": "https://open.spotify.com/track/7dNNG12RobAL4jLXJCYnli"
+    },
+    {
+      "album": {
+        "name": "Namiutsu Kokoro o Mochinagara",
+        "url": "https://open.spotify.com/album/2AqgPeRgCAYar0Yh6pVedu"
+      },
+      "artists": [
+        {
+          "name": "Kaneyorimasaru",
+          "url": "https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "Bangai Hen",
+      "url": "https://open.spotify.com/track/2oFpPPGoIMwpo76ksUH8h1"
     },
     {
       "album": {
@@ -2660,6 +2678,24 @@
     },
     {
       "album": {
+        "name": "Mystery of Pop",
+        "url": "https://open.spotify.com/album/0TnGSxTin66Aq2mJlOcgAd"
+      },
+      "artists": [
+        {
+          "name": "N.K.W.O.R.S",
+          "url": "https://open.spotify.com/artist/2ZIL2feR0ndAwDAS8g3rkZ"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170468,
+      "name": "door",
+      "url": "https://open.spotify.com/track/3w05GA8GXQP9jboZw6rOc8"
+    },
+    {
+      "album": {
         "name": "door",
         "url": "https://open.spotify.com/album/4lycjMMaKA1imPO6Wm4OUc"
       },
@@ -2707,7 +2743,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 170468,
       "name": "door",
       "url": "https://open.spotify.com/track/7gWbHtFvjBypz4kGaqtgDR"
@@ -23981,7 +24017,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 200466,
       "name": "\u756a\u5916\u7de8",
       "url": "https://open.spotify.com/track/5f6WHaRAKc8kQXiWB5YNkU"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> Rap napoletano e il meglio della scena campana\. Nicola Siciliano in cover.
+> Rap napoletano e il meglio della scena campana\. Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,943 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,019 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 42 | [Te penso ancora](https://open.spotify.com/track/3ULxZjqSg06WTPjhurRA1G) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Rivoluzione](https://open.spotify.com/album/1bFodetEZ0nZP3A7COgZ9x) | 2:28 |
 | 43 | [Primma](https://open.spotify.com/track/7GY5uK8LtZGIA4IiGg5Li2) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [Primma](https://open.spotify.com/album/12uUkIYJag0ui0vWd48zdw) | 3:24 |
 | 44 | [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 |
-| 45 | [Notte](https://open.spotify.com/track/7nYGZHYEtYUpdJ29GOntX0) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ) | [Notte](https://open.spotify.com/album/3XzpceqOSp5QJI9KTo6iIl) | 2:33 |
-| 46 | [MARIANELLA](https://open.spotify.com/track/6BylpMONqUzxVVC3mzx1Am) | [LIUAN](https://open.spotify.com/artist/4EWwWCzNKwF2hJMjNtldWt) | [MARIANELLA](https://open.spotify.com/album/0F2CZADWos1brXQTY7ExeS) | 3:05 |
-| 47 | [ESAME DI COSCIENZA](https://open.spotify.com/track/43yj12NGdqBcizo5rGE71D) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX), [Sio](https://open.spotify.com/artist/5h1ppfMPwMGC0gT9vPUrI2) | [ESAME DI COSCIENZA](https://open.spotify.com/album/6x5LrOvqh7U92hLFUGc88z) | 2:41 |
+| 45 | [AMULETO](https://open.spotify.com/track/4jVS1c9TPM5Yrjq8DOSxti) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX), [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [AMULETO](https://open.spotify.com/album/66s1GBupIh6wKOoO3hFMeX) | 3:10 |
+| 46 | [Notte](https://open.spotify.com/track/7nYGZHYEtYUpdJ29GOntX0) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ) | [Notte](https://open.spotify.com/album/3XzpceqOSp5QJI9KTo6iIl) | 2:33 |
+| 47 | [MARIANELLA](https://open.spotify.com/track/6BylpMONqUzxVVC3mzx1Am) | [LIUAN](https://open.spotify.com/artist/4EWwWCzNKwF2hJMjNtldWt) | [MARIANELLA](https://open.spotify.com/album/0F2CZADWos1brXQTY7ExeS) | 3:05 |
 | 48 | [Fino a quando non muoio \(feat\. Vaz Tè\)](https://open.spotify.com/track/7aJUttpLAxSOrlCmYSVz5X) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [47Milano](https://open.spotify.com/artist/0A3F67rGTvyUTqCCuiFLV1), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY) | [Via Piombai](https://open.spotify.com/album/4RBnfg3OcCrv5a0J1FbNoQ) | 2:33 |
 | 49 | [SUD ITALIAN DREAM](https://open.spotify.com/track/35woYksQFAx5OhYKzNXxRy) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [SUD ITALIAN DREAM](https://open.spotify.com/album/4pGk4pX9muBUKwki6JnBut) | 3:06 |
 | 50 | [Leale e Infame](https://open.spotify.com/track/47eglSPfqHvnA4O3L9O5g2) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn) | [Leale e Infame](https://open.spotify.com/album/7ihxGS8fgircOQzGLQvtWV) | 2:24 |
 
-Snapshot ID: `MCxhM2Y0ZTEzNjgwMTg5ZDI0NDI2NmFmMjliNDgwMmVlYTJiYzQyZDY2`
+Snapshot ID: `MCxkNGU0ZWJlMjJhZDJhMDFkMzQ1MWNiNGRjODA3MGJmN2NiZjU5MTUx`

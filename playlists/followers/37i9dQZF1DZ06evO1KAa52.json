@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 607647,
+  "2024-02-09": 607846,
   "date_first_scraped": "2023-07-29",
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
   "name": "This Is Justin Timberlake",
@@ -869,7 +869,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 240600,
       "name": "Just Sing (Trolls World Tour)",
       "url": "https://open.spotify.com/track/773kKMbHhQGq7LIw3P5Xmy"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 267266,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"

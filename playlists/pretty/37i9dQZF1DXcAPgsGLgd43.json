@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWIxMzdkZWI0OGI2ZjMwMTMxMzFhM2ZmMjI3YTRhMDUxMDJmNDc4",
+  "snapshot_id": "MCwwODU4YjE1YTdkNWQ2YmJhOTc0NDBlZDYwMTE5YTgxMGFjNWE3NGRh",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Maracuya",
-        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "Maracuya",
-      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Viagem Ao Centro Do Eu (Coragem)",
         "url": "https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 253770,
       "name": "Viagem Ao Centro Do Eu (Coragem)",
       "url": "https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Maracuya",
+        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "Maracuya",
+      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Senta Relaxa",
+        "url": "https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0"
+      },
+      "artists": [
+        {
+          "name": "De Qualite",
+          "url": "https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 180014,
+      "name": "Senta Relaxa",
+      "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Wimbo",
         "url": "https://open.spotify.com/album/1g0MngSgjz9ZiPEe8thh87"
       },
@@ -1275,30 +1295,6 @@
       "duration_ms": 150488,
       "name": "Wimbo",
       "url": "https://open.spotify.com/track/7iTDDrMZszyVaTowWShuwf"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
-        "url": "https://open.spotify.com/album/4mbBidN8p7hQbRC1Cf519J"
-      },
-      "artists": [
-        {
-          "name": "Daveartt",
-          "url": "https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87"
-        },
-        {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
-        },
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 198214,
-      "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
-      "url": "https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1323,6 +1319,30 @@
       "duration_ms": 168750,
       "name": "Morena",
       "url": "https://open.spotify.com/track/1D0pCmlp5TnFaCTifJGAHW"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
+        "url": "https://open.spotify.com/album/4mbBidN8p7hQbRC1Cf519J"
+      },
+      "artists": [
+        {
+          "name": "Daveartt",
+          "url": "https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87"
+        },
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 198214,
+      "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
+      "url": "https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1359,26 +1379,6 @@
       "duration_ms": 228214,
       "name": "Ecua",
       "url": "https://open.spotify.com/track/56WrCLZKVR4Lm34r5qgTYC"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Senta Relaxa",
-        "url": "https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0"
-      },
-      "artists": [
-        {
-          "name": "De Qualite",
-          "url": "https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 180014,
-      "name": "Senta Relaxa",
-      "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Jaleo",
-        "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
-      },
-      "artists": [
-        {
-          "name": "Kenny Brian",
-          "url": "https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc"
-        },
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Jaleo",
-      "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Desconocidos",
         "url": "https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 322501,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Jaleo",
+        "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
+      },
+      "artists": [
+        {
+          "name": "Kenny Brian",
+          "url": "https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc"
+        },
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Jaleo",
+      "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Quema Quema",
-        "url": "https://open.spotify.com/album/5NRmxv41JcMSN7ZznTEVAZ"
-      },
-      "artists": [
-        {
-          "name": "Mister Pancho",
-          "url": "https://open.spotify.com/artist/4NtBRx1ZiUjghjkMEEgRGe"
-        }
-      ],
-      "duration_ms": 126707,
-      "name": "Quema Quema",
-      "url": "https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 201720,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Quema Quema",
+        "url": "https://open.spotify.com/album/5NRmxv41JcMSN7ZznTEVAZ"
+      },
+      "artists": [
+        {
+          "name": "Mister Pancho",
+          "url": "https://open.spotify.com/artist/4NtBRx1ZiUjghjkMEEgRGe"
+        }
+      ],
+      "duration_ms": 126707,
+      "name": "Quema Quema",
+      "url": "https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Caliente",
-        "url": "https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE"
-      },
-      "artists": [
-        {
-          "name": "Saffron Stone",
-          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Caliente",
-      "url": "https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/1P8rURJ1RIue0LD5k8iALc"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 195826,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Caliente",
+        "url": "https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE"
+      },
+      "artists": [
+        {
+          "name": "Saffron Stone",
+          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj"
-      },
-      "artists": [
-        {
-          "name": "BeMore",
-          "url": "https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Envolvid\u00e3o",
-      "url": "https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Sandia",
         "url": "https://open.spotify.com/album/7csNLiVDk128lLGoJgd3Bp"
       },
@@ -1775,22 +1759,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Tikitro",
-        "url": "https://open.spotify.com/album/5urqD5lw9nAIFh5QQDWECs"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj"
       },
       "artists": [
         {
-          "name": "Band&dos",
-          "url": "https://open.spotify.com/artist/68OOyVnaUOq7m4cxQmZslI"
-        },
-        {
-          "name": "Tony Guerra",
-          "url": "https://open.spotify.com/artist/5qURuhcV6ZjUfe1iYsC2Py"
+          "name": "BeMore",
+          "url": "https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY"
         }
       ],
-      "duration_ms": 332307,
-      "name": "Tikitro",
-      "url": "https://open.spotify.com/track/3PUNw4b3t5xgANXPhvOioW"
+      "duration_ms": 221538,
+      "name": "Envolvid\u00e3o",
+      "url": "https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1811,6 +1791,26 @@
       "duration_ms": 370000,
       "name": "Coraz\u00f3n Parti\u00f3 (feat. Dateless)",
       "url": "https://open.spotify.com/track/2BCOH9nwaqUadJLOhSRBWP"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Tikitro",
+        "url": "https://open.spotify.com/album/5urqD5lw9nAIFh5QQDWECs"
+      },
+      "artists": [
+        {
+          "name": "Band&dos",
+          "url": "https://open.spotify.com/artist/68OOyVnaUOq7m4cxQmZslI"
+        },
+        {
+          "name": "Tony Guerra",
+          "url": "https://open.spotify.com/artist/5qURuhcV6ZjUfe1iYsC2Py"
+        }
+      ],
+      "duration_ms": 332307,
+      "name": "Tikitro",
+      "url": "https://open.spotify.com/track/3PUNw4b3t5xgANXPhvOioW"
     },
     {
       "added_at": "2024-02-02 05:00:00",

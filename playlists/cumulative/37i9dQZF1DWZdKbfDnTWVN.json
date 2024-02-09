@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 180804,
       "name": "Gabbana",
       "url": "https://open.spotify.com/track/1o3LdudmUYfDKRoePUjHeD"
@@ -1156,6 +1156,28 @@
       "duration_ms": 270000,
       "name": "Geri Inengi",
       "url": "https://open.spotify.com/track/3mMCfqlXkDzH8jE9mjIu7d"
+    },
+    {
+      "album": {
+        "name": "Girl Power Freestyle (feat. Joefes)",
+        "url": "https://open.spotify.com/album/5N6rbpwEEFtvq7wTlchhDD"
+      },
+      "artists": [
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        },
+        {
+          "name": "Joefes",
+          "url": "https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120350,
+      "name": "Girl Power Freestyle (feat. Joefes)",
+      "url": "https://open.spotify.com/track/2BsrMWOdFAtdBnZOxhrMX5"
     },
     {
       "album": {
@@ -1296,7 +1318,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 161102,
       "name": "Hadharani",
       "url": "https://open.spotify.com/track/4itiO6J4bjyHFiQOzkYtSB"
@@ -1746,6 +1768,32 @@
       "duration_ms": 113449,
       "name": "Lost Cause Rap Freestyle",
       "url": "https://open.spotify.com/track/0wWuNPHklbfVZb5ddsrhl0"
+    },
+    {
+      "album": {
+        "name": "MaABC",
+        "url": "https://open.spotify.com/album/0y2jpUTJTX9rGK4nZTff2r"
+      },
+      "artists": [
+        {
+          "name": "Boeyylee",
+          "url": "https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN"
+        },
+        {
+          "name": "Taurus Bluu",
+          "url": "https://open.spotify.com/artist/0w3Nm6LHvwFbBFupWu255p"
+        },
+        {
+          "name": "Jayjay",
+          "url": "https://open.spotify.com/artist/5uKNt3lgTexWBDBNUpA37o"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161776,
+      "name": "MaABC",
+      "url": "https://open.spotify.com/track/0uIM0BF0XouLFDFZFfMPhW"
     },
     {
       "album": {

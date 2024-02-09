@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Jarina De Marco en portada.",
-  "num_followers": 36384,
+  "num_followers": 36395,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjdlNGY1YzdmYTQ5NzM2MzkxZTU4MTAyNzM3M2QzN2JmNjE2Njdl",
+  "snapshot_id": "MCxlNGE5NDUwNzcyNTc2ZWJjZjY5MDM2Njk1OTBkM2IyMTVmZDk3MmJm",
   "tracks": [
     {
       "added_at": "2023-12-07 01:08:32",
@@ -795,26 +795,18 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Sal de Mar",
-        "url": "https://open.spotify.com/album/21NRPLtRhSOKiBXbPM3yRU"
+        "name": "Alma Carnavalera",
+        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "Iusef",
-          "url": "https://open.spotify.com/artist/7hxdYH7NvvQKn5ZcMTE52b"
+          "name": "Stephanie Santiago",
+          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
         }
       ],
-      "duration_ms": 206590,
-      "name": "Sal de Mar",
-      "url": "https://open.spotify.com/track/42ji13UfpBT4Gntboni1HX"
+      "duration_ms": 234655,
+      "name": "Alma Carnavalera",
+      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -867,18 +859,26 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Alma Carnavalera",
-        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
+        "name": "Sal de Mar",
+        "url": "https://open.spotify.com/album/21NRPLtRhSOKiBXbPM3yRU"
       },
       "artists": [
         {
-          "name": "Stephanie Santiago",
-          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Iusef",
+          "url": "https://open.spotify.com/artist/7hxdYH7NvvQKn5ZcMTE52b"
         }
       ],
-      "duration_ms": 234655,
-      "name": "Alma Carnavalera",
-      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
+      "duration_ms": 206590,
+      "name": "Sal de Mar",
+      "url": "https://open.spotify.com/track/42ji13UfpBT4Gntboni1HX"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Sorpresa",
-        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 256947,
-      "name": "Todo el D\u00eda en la Cama",
-      "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Te Olvidaste",
         "url": "https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 182470,
       "name": "Te Olvidaste",
       "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Sorpresa",
+        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 256947,
+      "name": "Todo el D\u00eda en la Cama",
+      "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/33cDr0F2NZHw0HonZ24aZh"
     },
     {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "Miss Universos",
-        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Desastre Comunal",
-      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
-    },
-    {
       "added_at": "2023-05-05 23:46:53",
       "album": {
         "name": "Taurus",
@@ -1205,20 +1189,20 @@
       "url": "https://open.spotify.com/track/35dti3qmFz9CoPueVni1iW"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
+      "added_at": "2023-12-07 01:08:32",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
+        "name": "Miss Universos",
+        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
       },
       "artists": [
         {
-          "name": "Battle of Santiago",
-          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
         }
       ],
-      "duration_ms": 198048,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
+      "duration_ms": 185920,
+      "name": "Desastre Comunal",
+      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -1235,6 +1219,22 @@
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "duration_ms": 198048,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1273,6 +1273,22 @@
       "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
     },
     {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "So\u00f1ando",
+        "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 242215,
+      "name": "So\u00f1ando",
+      "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
+    },
+    {
       "added_at": "2023-11-23 02:53:45",
       "album": {
         "name": "Monumento",
@@ -1293,22 +1309,6 @@
       "url": "https://open.spotify.com/track/1Lb0j0vG9oNCvZYqhXLa4s"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "So\u00f1ando",
-        "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 242215,
-      "name": "So\u00f1ando",
-      "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
-    },
-    {
       "added_at": "2023-12-07 01:08:32",
       "album": {
         "name": "Thinking About You",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "Noest\u00e1saqu\u00ed",
+        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
+      },
+      "artists": [
+        {
+          "name": "Caramelo Haze",
+          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "Manifest Tone EP",
         "url": "https://open.spotify.com/album/0rzUB5TzTLGYryGbry7YAE"
       },
@@ -1339,26 +1355,6 @@
       "duration_ms": 255435,
       "name": "Dilo Como Yo (Te Est\u00e1n Llamando)",
       "url": "https://open.spotify.com/track/4wJF4rXSEidU6ZlZKp8Nre"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Sagitario",
-        "url": "https://open.spotify.com/album/0caakYqzmMN6U2kOsdBugO"
-      },
-      "artists": [
-        {
-          "name": "Mila La Morena",
-          "url": "https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P"
-        },
-        {
-          "name": "C\u2206IRNS",
-          "url": "https://open.spotify.com/artist/0VWzC7LRAtMuSYC5wndrPb"
-        }
-      ],
-      "duration_ms": 265187,
-      "name": "Sagitario",
-      "url": "https://open.spotify.com/track/47o3EFBMHF6d7HgKbmA0oo"
     },
     {
       "added_at": "2023-05-05 23:46:53",

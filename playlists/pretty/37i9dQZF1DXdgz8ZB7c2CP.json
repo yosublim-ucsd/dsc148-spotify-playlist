@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Elohim",
-  "num_followers": 765064,
+  "num_followers": 765135,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODQ3YjBiODUzYzkzOTRkMGNhNmIzNTUzNDdiMTczMWViOGUwYWJi",
+  "snapshot_id": "MCw0Y2IwYThmOThlYTExMGQ3ZTE0YTJhZWJkNjdiZTFjZTEyMWNlZjA1",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Someone You Can Count On",
+        "url": "https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 173609,
+      "name": "Rewind.. (But I Love You)",
+      "url": "https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "I Found You",
         "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 176548,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Someone You Can Count On",
-        "url": "https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 173609,
-      "name": "Rewind.. (But I Love You)",
-      "url": "https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Silver Thread Golden Needle",
-        "url": "https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 596775,
-      "name": "Silver Thread Golden Needle",
-      "url": "https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 156500,
       "name": "Out Of Options (feat. midwxst)",
       "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Silver Thread Golden Needle",
+        "url": "https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 596775,
+      "name": "Silver Thread Golden Needle",
+      "url": "https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/2Wbe1NCFxulDpLb08X7taJ"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        },
-        {
-          "name": "Emilia Ali",
-          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
-        }
-      ],
-      "duration_ms": 221772,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/7aarAImx6lJIDIYPGanjH0"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Mr. Brightside",
         "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 165517,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/2Wbe1NCFxulDpLb08X7taJ"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        },
+        {
+          "name": "Emilia Ali",
+          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
+        }
+      ],
+      "duration_ms": 221772,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/7aarAImx6lJIDIYPGanjH0"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "pullmecloser",
-        "url": "https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        },
-        {
-          "name": "Diamond Pistols",
-          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
-        }
-      ],
-      "duration_ms": 150909,
-      "name": "pullmecloser",
-      "url": "https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Blow The Roof (with Kasbo & EVAN GIIA)",
         "url": "https://open.spotify.com/album/3wsZl7oZ9obf53nPRj6FaA"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 184919,
       "name": "Blow The Roof (with Kasbo & EVAN GIIA)",
       "url": "https://open.spotify.com/track/6sooxXwLEwh812Ve4L5ovr"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "pullmecloser",
+        "url": "https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "Diamond Pistols",
+          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
+        }
+      ],
+      "duration_ms": 150909,
+      "name": "pullmecloser",
+      "url": "https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "BLEACH [Hi-Fi]",
-        "url": "https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 180668,
-      "name": "RUN INTO MY ARMS",
-      "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Aurora (Justin Hawkes Remix)",
         "url": "https://open.spotify.com/album/7lym9DZABBsuh37cWosYFi"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 181998,
       "name": "Skrt",
       "url": "https://open.spotify.com/track/2f4GKuEzyCEKq2zqlzqmkB"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "BLEACH [Hi-Fi]",
+        "url": "https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "duration_ms": 180668,
+      "name": "RUN INTO MY ARMS",
+      "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "feelthisway / 3000 miles",
-        "url": "https://open.spotify.com/album/49dKlTV0eyQYHi7E9kcYaB"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "feelthisway",
-      "url": "https://open.spotify.com/track/3JVtezFwcpFAqvr4pdBBrd"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/2SMHHkfwPVK8wLpmuY1BPK"
       },
@@ -1823,22 +1807,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/4ppeM7jmOH2YmkshVfPxhn"
+        "name": "anywhere but here",
+        "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
       },
       "artists": [
         {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
         }
       ],
-      "duration_ms": 202394,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/0sWniVm3HUdyxClGcyJEUM"
+      "duration_ms": 131612,
+      "name": "anywhere but here",
+      "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1863,6 +1843,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/4ppeM7jmOH2YmkshVfPxhn"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 202394,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/0sWniVm3HUdyxClGcyJEUM"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "all you'll get from me is my company",
         "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
       },
@@ -1875,6 +1875,22 @@
       "duration_ms": 159375,
       "name": "all you'll get from me is my company",
       "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "feelthisway / 3000 miles",
+        "url": "https://open.spotify.com/album/49dKlTV0eyQYHi7E9kcYaB"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "feelthisway",
+      "url": "https://open.spotify.com/track/3JVtezFwcpFAqvr4pdBBrd"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1911,22 +1927,6 @@
       "duration_ms": 220875,
       "name": "Do or Die",
       "url": "https://open.spotify.com/track/7dysHvjVrHkpLhamDe1HJz"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "anywhere but here",
-        "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
-      },
-      "artists": [
-        {
-          "name": "demotapes",
-          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
-        }
-      ],
-      "duration_ms": 131612,
-      "name": "anywhere but here",
-      "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
     },
     {
       "added_at": "2024-02-02 05:00:00",

@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 553785,
+  "2024-02-09": 554030,
   "date_first_scraped": "2023-07-28",
   "description": "und macht laune",
   "name": "schiebt anders",
@@ -1167,6 +1167,28 @@
       "duration_ms": 137647,
       "name": "EWIGKEIT - REMIX",
       "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
+    },
+    {
+      "album": {
+        "name": "Feels Like (La La La)",
+        "url": "https://open.spotify.com/album/5Fshe1YTYoyg6xJULVRxjn"
+      },
+      "artists": [
+        {
+          "name": "Repiet",
+          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
+        },
+        {
+          "name": "Julia Kleijn",
+          "url": "https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Feels Like (La La La)",
+      "url": "https://open.spotify.com/track/66xH0ZJHR3GzjXdTWfpuCP"
     },
     {
       "album": {
@@ -3175,7 +3197,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 138181,
       "name": "TABU RMX",
       "url": "https://open.spotify.com/track/7DsflyKZZAMXFUzZtho9mr"

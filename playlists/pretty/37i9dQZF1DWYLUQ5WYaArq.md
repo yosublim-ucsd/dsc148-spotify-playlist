@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 ### [Throwback Thursday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWYLUQ5WYaArq)
 
-> Uplifting, motivational soul classics to lift your day higher!!
+> Motivational Soul classics to lift your day even higher!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,717 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,771 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 49 | [\(It's Just\) Your Love](https://open.spotify.com/track/1Q3VVXz8jP1AQ9YiHlVmfW) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Jump to It \(Expanded Edition\)](https://open.spotify.com/album/10uiEA15LdTEsjO1xJZVt4) | 4:49 |
 | 50 | [Stand By Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
 
-Snapshot ID: `MCxhNWU5YjhhMzVlN2UwM2I1Y2VjNTVlMWVkM2RmZjZkYjY4MWQ0NWI5`
+Snapshot ID: `MCxlMGJmYWY0MmU0MjI3YjVkYjQ2OGQ0YTQwMGQ1OTRjYTRmMjVkYmQ2`

@@ -4,7 +4,7 @@
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-121 songs - 8 hr 0 min
+122 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Agolo \- Shimza Remix](https://open.spotify.com/track/4A0PF9HheeAoVHlAqEQVaV) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Agolo \(Shimza Remix\)](https://open.spotify.com/album/630OKkty5BNUedtiQIAra5) | 5:43 | 2022-06-29 | 2022-07-18 |
 | [Ahan](https://open.spotify.com/track/2g1PzerypMGvjcR518ZGNv) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Queen of Sheba](https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB) | 4:04 | 2022-06-25 | 2023-02-01 |
 | [Alikama](https://open.spotify.com/track/2TCPfiaoY9FW1cc8lPHE8x) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Queen of Sheba](https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB) | 5:39 | 2022-10-12 | 2023-01-20 |
+| [Alphaman Redemption](https://open.spotify.com/track/32hFFOkBaxdtXUbUpkocUO) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Human Race](https://open.spotify.com/album/35qoT4g2wmXFzvKRrvhJ1Y) | 5:05 | 2024-02-08 |  |
 | [Alphaman Redemption \(feat\. Angélique Kidjo\)](https://open.spotify.com/track/4jGl7gpSXzO1CkZVH0g8Wm) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Human Race](https://open.spotify.com/album/6DTsQ3rzC6BXgfRxoqomFa) | 5:05 | 2021-12-28 | 2023-09-10 |
 | [Ami Oh! \(feat\. Angélique Kidjo & Papa Wemba\)](https://open.spotify.com/track/3cTOcVSED8x5psHFY5xGcg) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:38 | 2021-12-30 |  |
 | [Azan Nan Kpe](https://open.spotify.com/track/4ddVa6ZSL8uMuJfGAOdote) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aye](https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza) | 4:10 | 2022-01-07 | 2022-10-07 |
@@ -51,7 +52,7 @@
 | [Gimme Shelter](https://open.spotify.com/track/3yFCAbInpUiqR1AqfUHizw) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 4:08 | 2022-03-30 | 2022-07-24 |
 | [Houses in Motion](https://open.spotify.com/track/0jvRTmaJPpR3DdrzhZgiML) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 4:33 | 2021-12-30 | 2022-10-11 |
 | [Idje Idje](https://open.spotify.com/track/0DghtnUvSyAB0oLPu2rcYt) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aye](https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza) | 5:48 | 2022-01-02 | 2022-10-13 |
-| [Iemanja](https://open.spotify.com/track/6G4KjSrcdbzrdh1SOMBXZ0) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 4:26 | 2021-12-28 |  |
+| [Iemanja](https://open.spotify.com/track/6G4KjSrcdbzrdh1SOMBXZ0) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 4:26 | 2021-12-28 | 2024-02-09 |
 | [Ife](https://open.spotify.com/track/6zfQjiEITpwiTf5qragUNj) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Queen of Sheba](https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB) | 5:52 | 2022-06-26 | 2022-10-17 |
 | [Itarafo](https://open.spotify.com/track/1OgQX533cNtEUObx36QkUq) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 4:45 | 2023-02-23 |  |
 | [Iwoya \(feat\. Dave Matthews\)](https://open.spotify.com/track/69Fn1hfYXOe8qJxqzsl9gE) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 3:46 | 2021-12-28 |  |

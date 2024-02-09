@@ -2,7 +2,7 @@
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ YUNGBLUD in cover
+> Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ LA SAD in cover
 
 794 songs - 1 day 12 hr 34 min
 

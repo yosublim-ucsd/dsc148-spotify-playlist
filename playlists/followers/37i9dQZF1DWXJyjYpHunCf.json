@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 889566,
+  "2024-02-09": 889939,
   "date_first_scraped": "2021-12-21",
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Henrik",
   "name": "Folk Pop",
@@ -3620,6 +3620,24 @@
     },
     {
       "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/3R6tZohZ0UgpffwNA9Q54e"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124503,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/0jHnEevYYvE7B2YJoBwz1S"
+    },
+    {
+      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -4746,6 +4764,24 @@
     },
     {
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/6NPLTIUzyvIsn7r8cXycR9"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/7HjU833ZEDExWGm6XkNbXI"
+    },
+    {
+      "album": {
         "name": "so it goes...",
         "url": "https://open.spotify.com/album/4r9nkAAU6oKLRsGAltedIu"
       },
@@ -4775,7 +4811,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 190843,
       "name": "same old eyes",
       "url": "https://open.spotify.com/track/6nrtAP312bEU352crkOQtu"
@@ -6257,7 +6293,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 176321,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq"

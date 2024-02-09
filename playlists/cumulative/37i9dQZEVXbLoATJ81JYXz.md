@@ -1725,7 +1725,7 @@
 | [Åtta shots](https://open.spotify.com/track/3yEStDgucd72WiJNUZWDw5) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [Åtta shots](https://open.spotify.com/album/0t9cNdvFs8fv4V8sUgEtkk) | 2:28 | 2023-01-28 | 2023-02-28 |
 | [Évidemment](https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Évidemment](https://open.spotify.com/album/1V6nmlYGcUbCOfzfhofGPI) | 3:01 | 2023-05-15 | 2023-05-17 |
 | [Öppna landskap](https://open.spotify.com/track/1rudppuYTKpVCtWoocDiS1) | [Ulf Lundell](https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A) | [Kär Och Galen](https://open.spotify.com/album/0bNI0XNRiQPRIuTAlNqqHH) | 4:39 | 2021-06-27 | 2022-06-27 |
-| [Överallt](https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Bestämda Kliv](https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG) | 2:04 | 2024-02-03 |  |
 | [Överallt](https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Överallt](https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM) | 2:05 | 2023-11-02 | 2024-02-04 |
+| [Överallt](https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Bestämda Kliv](https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG) | 2:05 | 2024-02-03 |  |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

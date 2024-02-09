@@ -4,7 +4,7 @@
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-705 songs - 1 day 1 hr 18 min
+706 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [All That Glitters \(Ben Jammin' Beats Remix\)](https://open.spotify.com/track/4IpKLLEqnuM2iwD6JfbvKI) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Sonus Vibes](https://open.spotify.com/artist/3Lj74BC4DEJSQxE6eWujUa), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Afterthoughts \(Sonus Vibes Remix EP\)](https://open.spotify.com/album/0U08LPLkxxogawAsGwnXy3) | 1:36 | 2023-12-20 | 2024-01-03 |
 | [Almost Blue \(\#0094f4\)](https://open.spotify.com/track/4VIEBvtsjOswaLO38nL1SO) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [Lock](https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A) | [Almost Blue \(\#0094f4\)](https://open.spotify.com/album/4vo4hP12kuLv9C1pBNXeNw) | 2:37 | 2023-12-15 | 2024-01-29 |
 | [Aloe](https://open.spotify.com/track/1ksjL1rc51Pp9zI6RmzNik) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Aloe](https://open.spotify.com/album/0J1FWQlCtjwmHRF10kogvA) | 1:51 | 2024-02-05 |  |
+| [Along The Waves](https://open.spotify.com/track/6TFjJYWEzsK129Qx3qXnat) | [l'eupe](https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9), [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R) | [Along The Waves](https://open.spotify.com/album/5z8eobDM4uM0fPEphOcnFh) | 2:30 | 2024-02-08 |  |
 | [An Evening in Paris](https://open.spotify.com/track/0JjjVSWGiJZNSEQJgT4Tgv) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK), [Superglue](https://open.spotify.com/artist/7BqBBLHGWZquOBSunMwRsp) | [An Evening in Paris](https://open.spotify.com/album/3aNBA19MfaiaYHjMo7HR2S) | 3:26 | 2023-12-07 |  |
 | [anemone](https://open.spotify.com/track/7eQC4Xi8zW4l8Z9Q0Yf2zA) | [sova](https://open.spotify.com/artist/2faHRauqSytUfbaGk7EKBC) | [anemone](https://open.spotify.com/album/4aYCqWjjPdVUmO4p8Tvmuv) | 2:12 | 2024-01-28 |  |
 | [anomaly](https://open.spotify.com/track/20ujs0fDYggSKIu75vKLUi) | [AWAO](https://open.spotify.com/artist/5T91zn3zBmfUwRCl0jyfDv), [Alexander Liebe](https://open.spotify.com/artist/7bGpscd3Wvem3i5JuWwVwG), [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX) | [anomaly](https://open.spotify.com/album/27M3topxqABB8CsEG2Up3g) | 2:13 | 2024-01-28 | 2024-02-06 |
@@ -309,7 +310,7 @@
 | [kevin parker](https://open.spotify.com/track/2FqgIG4zvaLkqMmMhZZU7R) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [kevin parker](https://open.spotify.com/album/50teEeRaPQ3Ga7Vwjzn5CZ) | 2:21 | 2023-12-07 | 2023-12-16 |
 | [Kille](https://open.spotify.com/track/2nMspYqR9QofLDJR1gHSbO) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR), [Smuff Tha Quiz](https://open.spotify.com/artist/3RoPCko9qLmfQiDg8mHaZn) | [Kille](https://open.spotify.com/album/5TzGcJ9JIPxsH9oztf7aYC) | 2:17 | 2024-01-23 |  |
 | [Kizakura](https://open.spotify.com/track/76CplFVOJS1yJki948YikF) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Kizakura](https://open.spotify.com/album/42y7NqUJLUsqdRiqunBznD) | 3:05 | 2023-12-07 |  |
-| [L'aventure](https://open.spotify.com/track/0alRW83yFhWrcSrGASKPxk) | [Dan Foster](https://open.spotify.com/artist/7AXGrRprGakmPJest9m1vI) | [L'aventure](https://open.spotify.com/album/0ZrZureJC5Icy8rEcUEXtT) | 2:59 | 2023-12-20 |  |
+| [L'aventure](https://open.spotify.com/track/0alRW83yFhWrcSrGASKPxk) | [Dan Foster](https://open.spotify.com/artist/7AXGrRprGakmPJest9m1vI) | [L'aventure](https://open.spotify.com/album/0ZrZureJC5Icy8rEcUEXtT) | 2:59 | 2023-12-20 | 2024-02-09 |
 | [Laguna](https://open.spotify.com/track/46aRIXAgixACys9qxHFptT) | [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq), [Cosmonkey](https://open.spotify.com/artist/2UX9FU9sbDc4FwWVaCyaYB) | [Laguna](https://open.spotify.com/album/20tzubiWkexYptZwCwWKkR) | 2:30 | 2023-12-07 | 2023-12-16 |
 | [laid back](https://open.spotify.com/track/22hNqbcdZ8ZxSgWTbnmkYf) | [Decisions](https://open.spotify.com/artist/3juecQH8XvNfubU1vEnNrE), [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG) | [laid back](https://open.spotify.com/album/5sCFHUUYCPCsPCqNgzjxLv) | 2:35 | 2024-02-05 |  |
 | [Laidback](https://open.spotify.com/track/4m9jblUj3gs3FWIScji4tZ) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [IONA](https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r), [Jason Masoud](https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1) | [Laidback](https://open.spotify.com/album/1hOZLvVtxrusTKNBoiPCXi) | 2:02 | 2024-01-28 |  |

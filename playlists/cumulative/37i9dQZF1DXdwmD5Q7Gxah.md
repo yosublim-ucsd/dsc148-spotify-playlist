@@ -4,7 +4,7 @@
 
 > congrats to the boys! cover: boygenius, taylor swift, jack antonoff
 
-2,596 songs - 5 day 19 hr 50 min
+2,597 songs - 5 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [DEATHWISH](https://open.spotify.com/track/1OwAfrgAN5H0PVF3OSPY6I) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [i think there's something wrong with joshy](https://open.spotify.com/album/1iero6O9P7g7IFkY96TGU4) | 2:30 | 2023-02-03 | 2023-03-07 |
 | [Decide](https://open.spotify.com/track/02lKe7OF80iSFAicx70AJr) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Decide](https://open.spotify.com/album/3RovfS06CsdDKGzT34Pusi) | 2:58 | 2019-12-04 | 2020-01-10 |
 | [Deep End](https://open.spotify.com/track/1SfP1Z4kAi13YqQQbZ3g5k) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Deep End](https://open.spotify.com/album/7LHDsa9C6lKPdhQoJtdCoH) | 3:05 | 2021-04-15 | 2021-08-14 |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-08 |  |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-02 | 2022-01-08 |
 | [Delete Forever](https://open.spotify.com/track/5B1qeFOEeUCMudPEVeasHp) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Delete Forever](https://open.spotify.com/album/5OKalQQmeRzxR9YIWsrbzL) | 3:57 | 2020-02-13 | 2020-04-09 |
 | [Demons at the Dinner Table](https://open.spotify.com/track/03J7Tq3IWvGel6tvXTYsqm) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [Demons at the Dinner Table](https://open.spotify.com/album/2QxLfEiN0Uo4TXpTBUVDJI) | 2:04 | 2022-10-28 | 2022-11-12 |

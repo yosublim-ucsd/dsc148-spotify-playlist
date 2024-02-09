@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 569100,
+  "2024-02-09": 569297,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Chile.",
   "name": "Top 50 - Chile",
@@ -5607,7 +5607,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
@@ -7159,7 +7159,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
@@ -7713,7 +7713,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
@@ -10202,6 +10202,32 @@
     },
     {
       "album": {
+        "name": "Lo Que Valgo Es Caro (Parte 1)",
+        "url": "https://open.spotify.com/album/5ppdsdLjz1GB8ISiY9huJ8"
+      },
+      "artists": [
+        {
+          "name": "Giuliano Yankees",
+          "url": "https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Valdi",
+          "url": "https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121447,
+      "name": "Me Pide M\u00e1s",
+      "url": "https://open.spotify.com/track/5gKzZi9JbiTmJ5pE63ZKzK"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -10615,7 +10641,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
@@ -11037,6 +11063,32 @@
       "duration_ms": 190496,
       "name": "MODELITO",
       "url": "https://open.spotify.com/track/559YUIWxUc8Mx4lsla13Ff"
+    },
+    {
+      "album": {
+        "name": "Lo Que Valgo Es Caro (Parte 1)",
+        "url": "https://open.spotify.com/album/5ppdsdLjz1GB8ISiY9huJ8"
+      },
+      "artists": [
+        {
+          "name": "Giuliano Yankees",
+          "url": "https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        },
+        {
+          "name": "Valdi",
+          "url": "https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205264,
+      "name": "Mod\u00e9lame",
+      "url": "https://open.spotify.com/track/6pFRC8BRu88aXYHoKMyOPX"
     },
     {
       "album": {
@@ -12490,6 +12542,28 @@
     },
     {
       "album": {
+        "name": "Lo Que Valgo Es Caro (Parte 1)",
+        "url": "https://open.spotify.com/album/5ppdsdLjz1GB8ISiY9huJ8"
+      },
+      "artists": [
+        {
+          "name": "Giuliano Yankees",
+          "url": "https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B"
+        },
+        {
+          "name": "Daimi",
+          "url": "https://open.spotify.com/artist/26ftg6PkGMPIW8CCgkmQ1W"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122506,
+      "name": "Par De Bebas",
+      "url": "https://open.spotify.com/track/2aLcIFjiCpYFE480zm3x0J"
+    },
+    {
+      "album": {
         "name": "Par de Veces",
         "url": "https://open.spotify.com/album/4zz7Q2jwt3I3PMd99K5XwL"
       },
@@ -12993,6 +13067,32 @@
       "duration_ms": 185412,
       "name": "Pensandote",
       "url": "https://open.spotify.com/track/70tBlRh8oOY0v5swyQquDI"
+    },
+    {
+      "album": {
+        "name": "Lo Que Valgo Es Caro (Parte 1)",
+        "url": "https://open.spotify.com/album/5ppdsdLjz1GB8ISiY9huJ8"
+      },
+      "artists": [
+        {
+          "name": "Giuliano Yankees",
+          "url": "https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B"
+        },
+        {
+          "name": "Jossi",
+          "url": "https://open.spotify.com/artist/51ZHU1EKuVtXdVO561U7zJ"
+        },
+        {
+          "name": "Valdi",
+          "url": "https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Pens\u00e1ndote",
+      "url": "https://open.spotify.com/track/2RP6HIb4Nv2GiyVh83xcw6"
     },
     {
       "album": {
@@ -14856,6 +14956,32 @@
     },
     {
       "album": {
+        "name": "Lo Que Valgo Es Caro (Parte 1)",
+        "url": "https://open.spotify.com/album/5ppdsdLjz1GB8ISiY9huJ8"
+      },
+      "artists": [
+        {
+          "name": "Giuliano Yankees",
+          "url": "https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B"
+        },
+        {
+          "name": "Gio Valentinno",
+          "url": "https://open.spotify.com/artist/3wQF7KVBpof2yR1Rk31mCt"
+        },
+        {
+          "name": "Valdi",
+          "url": "https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131418,
+      "name": "Salgo En El Meche",
+      "url": "https://open.spotify.com/track/5et4k9UC96cMyVGuhxA051"
+    },
+    {
+      "album": {
         "name": "Salimo de Noche",
         "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
       },
@@ -16107,7 +16233,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 152104,
       "name": "Somos Diferentes",
       "url": "https://open.spotify.com/track/0bS0fLAHqIdaiYYLBiWUw3"

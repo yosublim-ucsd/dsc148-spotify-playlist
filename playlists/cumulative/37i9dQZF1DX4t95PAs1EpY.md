@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-487 songs - 18 hr 44 min
+488 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Buzz](https://open.spotify.com/track/4l9tBmE0kfF7pHQ0BavAGB) | [Ritsou Lalai](https://open.spotify.com/artist/5aO7hHRToXlsRMfZ3Ah6aa) | [Buzz](https://open.spotify.com/album/4PSW7vbPagqu8fc81R7Nvw) | 2:34 | 2021-12-07 |  |
 | [By The Window](https://open.spotify.com/track/5luRT0zNET58JyDhfS7ZJQ) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0), [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [On The Road](https://open.spotify.com/album/62qnuk8RRmDTwsKOEMsD9y) | 2:20 | 2022-06-24 | 2022-08-19 |
 | [Calling](https://open.spotify.com/track/3tAiBkFY38ZBNFX5Muvd3I) | [icey wavs](https://open.spotify.com/artist/5bH4uA7ERJ2A6EIWa7eHwQ), [Calmas Records](https://open.spotify.com/artist/3xHHNJkwyots8LoDMxGD9k) | [Calling](https://open.spotify.com/album/00rulHU7qgndlBm2murpz3) | 1:25 | 2023-01-20 |  |
+| [Calm Chant](https://open.spotify.com/track/6LXREhnAfgOA9G52mrxaIl) | [Michelle Edi](https://open.spotify.com/artist/5wSncNZzSo31oeEKOFENFE) | [Calm Chant](https://open.spotify.com/album/771kKbrUorveg5kLew4EaZ) | 2:33 | 2024-02-09 |  |
 | [Calm Journey](https://open.spotify.com/track/4LgeEcSRLIwHNHQLbivmIf) | [Blumen](https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Plenitude](https://open.spotify.com/album/5g62q4lcEL127ajXQAUbp4) | 1:52 | 2022-04-15 |  |
 | [calm under the waves](https://open.spotify.com/track/3ZzVDui02aDM48L6RfQeST) | [Pete Mac](https://open.spotify.com/artist/1VH2tnoymN5uu7iNLGGte3), [No Mic](https://open.spotify.com/artist/1Y3A1PoGXSWW6nmI1DNMoT), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [calm under the waves](https://open.spotify.com/album/1CEUmdAdqrFdNadplU7TNe) | 2:00 | 2022-11-25 |  |
 | [Calma](https://open.spotify.com/track/3pcGSIMVgx1ZQX3Ouou084) | [Elaine D.](https://open.spotify.com/artist/2rf4obxtEI5MrQ8T6t98Ox) | [Calma](https://open.spotify.com/album/1N7MyTPZMJZ8aUvtXFeCdl) | 2:25 | 2021-12-07 | 2023-11-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1QBiXlEscYkB1YauNmOcUS.md) - [plain]
 
 > All of the Top Party Hits  on one playlist! Featuring, Lizzo, Ed Sheeran, <a href="https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we?si=BUaA00TfR56UlLKwdmVspQ"> Dua Lipa</a>, David Guetta,  Jack Harlow, Tiësto, Kenny Grace, Nathan Dawe, Bebe Rexha and many more!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 13,648 likes - 85 songs - 4 hr 4 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 13,649 likes - 85 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

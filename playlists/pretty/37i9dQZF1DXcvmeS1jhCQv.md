@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: SPIDER
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,197 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,218 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 79 | [Funeka](https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [Funeka](https://open.spotify.com/album/2xwYWGQYsWdjQTI9Wxacr5) | 4:03 |
 | 80 | [Open Ended](https://open.spotify.com/track/5SlEyBuGTGWvCCY7igLmny) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Open Ended](https://open.spotify.com/album/0ofMe7xxj2EZiFR9YVmBrw) | 3:24 |
 
-Snapshot ID: `MCwwMGQ4MjU1ZWU3YTZhZmE5NTIxZTcyMjA5MGU5NWZkN2FlZGIxNjgz`
+Snapshot ID: `MCw0ZTc3ZTUwM2E1YThhMjg4MjcxYjE4MWVkNThhYjI3MzExZmI2NWUz`

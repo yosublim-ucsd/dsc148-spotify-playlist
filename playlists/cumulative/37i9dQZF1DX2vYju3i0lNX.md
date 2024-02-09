@@ -4,7 +4,7 @@
 
 > Mellow jazz to stay focused or unwind.
 
-830 songs - 2 day 0 hr 57 min
+837 songs - 2 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Déjà vu](https://open.spotify.com/track/4LJuCbx2qKSBOK3xpuZ2Pq) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Déjà vu](https://open.spotify.com/album/4gIfw2WilJEWpAZLoDqosk) | 3:48 | 2022-09-19 | 2023-05-05 |
 | [Early Morning Thoughts](https://open.spotify.com/track/4QUlDSxJVMTYKaz3xBQ8F9) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 6:44 | 2022-09-13 |  |
 | [Earnestly](https://open.spotify.com/track/1cwJs07Bx640tEkvHfDemy) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Earnestly](https://open.spotify.com/album/4MdQCiNqlEXsbXxf3w08Nn) | 4:12 | 2023-06-08 |  |
+| [East Of Eden](https://open.spotify.com/track/6rW3GIbMfkNZkGHN1hRh1B) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [East Of Eden](https://open.spotify.com/album/03T0Njwa8ccjBA5pDAeXsB) | 3:47 | 2024-02-09 |  |
 | [East Of Eden](https://open.spotify.com/track/3ZfNBaQNS9OvWfp3WeGEX4) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [East Of Eden](https://open.spotify.com/album/47jkLzDiD7Ho9LZpYfrvW0) | 3:24 | 2023-03-30 |  |
 | [East Of The Sun](https://open.spotify.com/track/0OuZzvIHAKYit34s4NH7WH) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [East Of The Sun](https://open.spotify.com/album/6zbwpm4yJFfaNiuHQyc9Ld) | 3:09 | 2022-08-30 |  |
 | [Easy](https://open.spotify.com/track/6IP328KWUVyrLfKLtx6kA0) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Easy](https://open.spotify.com/album/6GbLOzfl3k3hHOhOsm42m9) | 2:19 | 2021-12-07 | 2023-06-02 |
@@ -335,6 +336,7 @@
 | [If I Ask You Now?](https://open.spotify.com/track/3yyVqUxOKGgH47iUGNEyVB) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [If I Ask You Now?](https://open.spotify.com/album/6ntxSpTO4JPirtRAZ0SFQH) | 3:26 | 2023-09-29 |  |
 | [If I could just go back](https://open.spotify.com/track/6GqR4kbLTMfwJ2hFDZclMv) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [If I could just go back](https://open.spotify.com/album/6pt2EdumSP5OK6gyUEXnaH) | 2:59 | 2023-01-19 |  |
 | [If you could see me now](https://open.spotify.com/track/4GsV07Q6UYJWVP0GdIrsHX) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Michelle](https://open.spotify.com/album/1kyRkGoAl8eNKQYe549dSU) | 4:32 | 2021-12-07 | 2022-09-07 |
+| [If You Could See Me Now](https://open.spotify.com/track/0l1K6sAVycWbe2K1oWQgU4) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [If You Could See Me Now](https://open.spotify.com/album/22ndy4PP1O9LVJuqq7dN6W) | 4:36 | 2024-02-09 |  |
 | [If You Say Goodbye](https://open.spotify.com/track/2spKTHzzPhXETINp5L43JY) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Don't Leave Me Alone](https://open.spotify.com/album/1dhSMp8BQM346Re594UVIq) | 3:00 | 2021-12-07 | 2023-06-09 |
 | [Ill Wind](https://open.spotify.com/track/2UnqYqJgyjElVUmX87rbrW) | [Will Mays](https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil) | [Ill Wind](https://open.spotify.com/album/67pWoIBLiaOKLb6OozeStz) | 2:31 | 2023-09-22 |  |
 | [Imagination](https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Imagination](https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx) | 4:33 | 2022-11-24 |  |
@@ -418,6 +420,7 @@
 | [Lesters's Tears](https://open.spotify.com/track/4h4NyGcAmkInin8wNidCfS) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [Lesters's Tears](https://open.spotify.com/album/4QV6IWuWigFnh8XXrPyMRX) | 3:52 | 2023-05-11 |  |
 | [Let's Fall In Love](https://open.spotify.com/track/23DcHmLNaFGDZgwvDGFZAr) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Let's Fall In Love](https://open.spotify.com/album/7G0rXg3K3k85sqOLOeBokT) | 2:50 | 2023-12-08 |  |
 | [Let's go uptown](https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Let's go uptown](https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3) | 2:20 | 2023-01-26 |  |
+| [Let's Have Lunch at the Counter](https://open.spotify.com/track/7GsguN3kbzxm2n4kCEbXUf) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Let's Have Lunch at the Counter](https://open.spotify.com/album/3YcoF3yc2mpOsBCBO1dOwE) | 2:46 | 2024-02-09 |  |
 | [Like a Starfish in the Sea](https://open.spotify.com/track/3BoZ25lh3CE3wkrkVl49qT) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Beauty Becomes You](https://open.spotify.com/album/4sBnW9DTjFjoZQQtVRedpm) | 3:07 | 2023-10-20 |  |
 | [Like Naomi](https://open.spotify.com/track/4iSBCmDWlP2Pp30uDg34vZ) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Like Naomi](https://open.spotify.com/album/3HqJKYNSlszttPwKtghxFC) | 3:52 | 2023-01-12 |  |
 | [Lily\-white](https://open.spotify.com/track/68Pfz62lgw8iaV4r9rAiC5) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Lily\-white](https://open.spotify.com/album/7kvJgDGsdssa8n3Rv5HFNI) | 2:22 | 2023-08-24 |  |
@@ -531,6 +534,7 @@
 | [Nimble](https://open.spotify.com/track/1zu9xkOabMyxkXvGutY0Tf) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Nimble](https://open.spotify.com/album/3TMKIfoKOKUfjOojRwV32p) | 3:33 | 2022-10-06 | 2023-03-31 |
 | [Nine Days Before](https://open.spotify.com/track/4yld9ovOfGTAi4HXKlU0nS) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Nine Days Before](https://open.spotify.com/album/18DjBqUbuPhualp3VFsiS9) | 2:47 | 2023-06-15 |  |
 | [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 | 2022-02-01 |  |
+| [Nobody's Darling](https://open.spotify.com/track/0W4NNnvJgFcWYW3Tmp8pP5) | [Billie Shaw](https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku) | [Nobody's Darling](https://open.spotify.com/album/5UdjszhOeIQb0j6HTtZZZy) | 3:11 | 2024-02-09 |  |
 | [Nocturnal Whispers](https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Nocturnal Whispers](https://open.spotify.com/album/05VITsYb1YmKoBQuZCoGr9) | 4:27 | 2023-10-27 |  |
 | [North again](https://open.spotify.com/track/1KsztYFy4WJZ7ZbuTIfrMH) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [North again](https://open.spotify.com/album/54cLqLRb50nAibPwJWBjyV) | 2:37 | 2023-04-13 |  |
 | [Nostalgia](https://open.spotify.com/track/5CX7Ndfp4IJT94jdKSdair) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [Nostalgia](https://open.spotify.com/album/40TSaISQjPsgp7y10MtdwD) | 3:41 | 2023-02-16 |  |
@@ -706,6 +710,7 @@
 | [The Fool That Fell For You](https://open.spotify.com/track/6I55pPROwwFjd5rPTwMHlH) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [The Fool That Fell For You](https://open.spotify.com/album/5uY11ROa2tDY8XYnD4cj2R) | 4:30 | 2023-08-10 |  |
 | [The Foolish Heart](https://open.spotify.com/track/1tNLxWFOh4XBS2xnyVyaCQ) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [The Foolish Heart](https://open.spotify.com/album/7BuobZ0EqYrV7XKEMqFctt) | 3:03 | 2023-12-08 |  |
 | [The Golden Hour](https://open.spotify.com/track/3Oix5aCSmnkLIVZVB63tzm) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [The Golden Hour](https://open.spotify.com/album/0EjdDvcwBTbnzU84bUdfSS) | 3:08 | 2024-02-02 |  |
+| [The Great Ennui](https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [The Great Ennui](https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U) | 3:21 | 2024-02-09 |  |
 | [The Last Call](https://open.spotify.com/track/31ojaZG2e30V671L4Z5ntW) | [Nicholas Fischer](https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb) | [The Last Call](https://open.spotify.com/album/3ifBBmWsuoHqpXnfYJ4YwS) | 3:36 | 2023-08-10 |  |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2021-12-07 |  |
 | [The Masquerade Is Over](https://open.spotify.com/track/3Sg76cvYesfYDtHcMQ2fxn) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [The Masquerade Is Over](https://open.spotify.com/album/0A7QiAU3NJBMHzlZliGrKp) | 4:05 | 2022-03-16 |  |
@@ -738,6 +743,7 @@
 | [This Autumn](https://open.spotify.com/track/2FpRHKUzbXejH9vUK0TX0G) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [This Autumn](https://open.spotify.com/album/1DmsuXnSvAWqUS9Z3W2JzY) | 2:52 | 2022-12-01 | 2023-08-11 |
 | [This Is New](https://open.spotify.com/track/6fYwCP9RSKhbOkLmGwX41N) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [This Is New](https://open.spotify.com/album/3Lt4cW6ig50NtOBGtsBO7V) | 3:15 | 2021-12-07 |  |
 | [This isn’t home](https://open.spotify.com/track/7FJiPlX1unkR69o7SwYJa4) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This isn’t home](https://open.spotify.com/album/6cfSkl9nRlvkdVvOdTE3un) | 2:46 | 2023-03-02 |  |
+| [This Morning](https://open.spotify.com/track/2kpki79GZZ2BNg5dNcvRUO) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [This Morning](https://open.spotify.com/album/7mYQhnbJorRqvOtmOepChZ) | 3:21 | 2024-02-09 |  |
 | [This sweet pet](https://open.spotify.com/track/2Bv8LgnuZkVg6P6ZPsfuwB) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [This sweet pet](https://open.spotify.com/album/6VgGGR4IdKoHtxmuDRtTvK) | 3:38 | 2023-06-08 |  |
 | [Thoughts Of You](https://open.spotify.com/track/1ca7uFXnN2yDZu9TgMy04N) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Thoughts Of You](https://open.spotify.com/album/1qwTOSaVVrRVW4vBjjzbza) | 2:56 | 2023-09-08 |  |
 | [Through the Fog](https://open.spotify.com/track/6IpDhWlat8ugH1ApRcrgq1) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [In the Distance](https://open.spotify.com/album/7jWHmfsFMsxlvkgtS1WxNs) | 3:49 | 2023-04-13 | 2023-05-05 |
@@ -795,6 +801,7 @@
 | [When We Were Young](https://open.spotify.com/track/509DJTmdSrynAqzm5c1m3K) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [When We Were Young](https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn) | 2:59 | 2022-11-10 |  |
 | [When We Were Young](https://open.spotify.com/track/30UZLHtCtfBOQy6TAnivr2) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [When We Were Young](https://open.spotify.com/album/33LjvM51YwNH5PgqXgSOxu) | 3:34 | 2021-12-07 |  |
 | [When You Are Around](https://open.spotify.com/track/3WUrXHDowLk25UtALiohVD) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [When You Are Around](https://open.spotify.com/album/3v6ovPPFtr6E6vpVuBw2bi) | 3:11 | 2021-12-07 | 2023-06-02 |
+| [When You Come Home](https://open.spotify.com/track/1TlWfTGEALeyG39A9qHokR) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [When You Come Home](https://open.spotify.com/album/40kyT8n1MAUF56KmpkQeqs) | 3:36 | 2024-02-09 |  |
 | [When You're Not Around Me](https://open.spotify.com/track/6DixEJXg93VyLrtJopHzsg) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [When You're Not Around Me](https://open.spotify.com/album/6xNJFhbq0YmZcDcAnlVuTL) | 3:45 | 2023-12-08 |  |
 | [Where or When](https://open.spotify.com/track/5ABObbZnTJIMSOfaNcu0xm) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Where or when](https://open.spotify.com/album/1Q1UqyRWrgL4JK2hbyiTQA) | 3:28 | 2023-12-22 |  |
 | [Where Two Oceans Meet](https://open.spotify.com/track/6zYKe47ZWgbHRdwUUr52TJ) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Where Two Oceans Meet](https://open.spotify.com/album/3EMRqLCAtf4AviavLTrQlw) | 3:13 | 2023-08-10 |  |

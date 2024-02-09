@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-143 songs - 8 hr 14 min
+145 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 | 2022-12-22 |  |
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2022-12-22 | 2023-03-18 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-12-22 | 2023-05-05 |
-| [No Time to Look at You](https://open.spotify.com/track/2y7BiJKbpLp1ooF5dZ25eZ) | [MAUGER](https://open.spotify.com/artist/0xYTp14znacYOEZ1ieRsvD) | [Sunday Competition](https://open.spotify.com/album/05eSwrzxGxXVGgs7MW6YyQ) | 3:13 | 2022-12-22 |  |
+| [No Time to Look at You](https://open.spotify.com/track/2y7BiJKbpLp1ooF5dZ25eZ) | [MAUGER](https://open.spotify.com/artist/0xYTp14znacYOEZ1ieRsvD) | [Sunday Competition](https://open.spotify.com/album/05eSwrzxGxXVGgs7MW6YyQ) | 3:13 | 2022-12-22 | 2024-02-09 |
 | [One Day At A Time](https://open.spotify.com/track/2aunBTpmXeh0UVITDQSyVz) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Deena & Jim](https://open.spotify.com/album/6f40F9LdGKDXjVl3mJkXun) | 5:17 | 2023-11-16 |  |
 | [Open Hearts](https://open.spotify.com/track/7MeGQWcetCusGKRiVqTWTq) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Open Hearts](https://open.spotify.com/album/6weIQdeQfPdsVPv4SptiVE) | 3:23 | 2022-12-22 |  |
 | [Out of the Blue](https://open.spotify.com/track/4LWrnnStSFx4dsiVLsgPun) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Songs I Wrote](https://open.spotify.com/album/3ZayM8IDlNqLlDdwYWIGa0) | 3:36 | 2023-12-24 |  |
@@ -129,9 +129,10 @@
 | [The Sweet Sound of You](https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [The Sweet Sound of You](https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF) | 4:57 | 2023-02-23 | 2023-09-04 |
 | [The Way I Love You](https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [The Way I Love You](https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B) | 2:32 | 2022-12-22 |  |
 | [The Way You Take Time \- Acoustic](https://open.spotify.com/track/7c6XagC4ZxfiK3p9I2nD1i) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [The Way You Take Time \(Acoustic\)](https://open.spotify.com/album/37r6ntMm6ejXyke5VPSfXP) | 3:15 | 2022-12-22 |  |
+| [The Wedding Song](https://open.spotify.com/track/5QdPm7hJxZj3YvumMBLhsV) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Wedding Song](https://open.spotify.com/album/7MHyuzz7zHhGvbgWfXWKAR) | 3:16 | 2024-02-08 |  |
 | [The Writer](https://open.spotify.com/track/1MMMOeCempeTI2Ss3d6XDi) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [The Writer](https://open.spotify.com/album/72Pi6GJ3vRijpmBuKGH0z2) | 2:56 | 2022-12-22 |  |
 | [they only talk about the weather](https://open.spotify.com/track/7KgQS17rDK7gjWtOgNL2V1) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [they only talk about the weather](https://open.spotify.com/album/6fAwhVuJzrG19uLkfWopkR) | 2:35 | 2022-12-22 |  |
-| [this song should not exist](https://open.spotify.com/track/24pQ7W3aHv18U0i7qyce1M) | [Ruxley](https://open.spotify.com/artist/1STiTeuda0CtQf1DDh7F8P) | [this song should not exist](https://open.spotify.com/album/5zV1ICSYofEArHOXWX6Cv9) | 2:56 | 2023-05-25 |  |
+| [this song should not exist](https://open.spotify.com/track/24pQ7W3aHv18U0i7qyce1M) | [Ruxley](https://open.spotify.com/artist/1STiTeuda0CtQf1DDh7F8P) | [this song should not exist](https://open.spotify.com/album/5zV1ICSYofEArHOXWX6Cv9) | 2:56 | 2023-05-25 | 2024-02-09 |
 | [Those Were The Times](https://open.spotify.com/track/2vQwvuPDgsxyJyzsg8bKNG) | [Inkt](https://open.spotify.com/artist/23QHt3jgvqWKAeJaNjp4dQ), [Aron Hannes](https://open.spotify.com/artist/3YWoe6haPoiQdq7GaQz2OR) | [Those Were The Times](https://open.spotify.com/album/0bku58FOu05QQ989yvKWDI) | 3:01 | 2023-07-13 |  |
 | [Those Were The Times](https://open.spotify.com/track/4bmo3t5W9JSZMNYhmm5yhK) | [Inkt](https://open.spotify.com/artist/23QHt3jgvqWKAeJaNjp4dQ), [Aron Hannes](https://open.spotify.com/artist/3YWoe6haPoiQdq7GaQz2OR) | [Those Were The Times](https://open.spotify.com/album/69X4yVKaGRxvQToqwK0R9N) | 3:01 | 2023-06-01 | 2023-08-18 |
 | [Throw Me a Line](https://open.spotify.com/track/51fMhyYj71hpLnhn3YOij6) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Throw Me a Line](https://open.spotify.com/album/6W6Koawu49kcqmsJHec9xe) | 5:15 | 2022-12-22 |  |
@@ -141,6 +142,7 @@
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2022-12-22 | 2023-02-24 |
 | [Wasn't Expecting That](https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR) | 3:21 | 2022-12-22 | 2023-04-26 |
 | [Weathered \- Stripped](https://open.spotify.com/track/3AnaM2KjdnVzEsyZJeWpa3) | [James Walker](https://open.spotify.com/artist/08cmuH6uJGH9dQjvvdkTvR) | [Weathered \(Stripped\)](https://open.spotify.com/album/5EwUclGhBBOHWtVbu8AIGu) | 4:08 | 2022-12-22 | 2023-12-16 |
+| [what it is to love](https://open.spotify.com/track/1D8EkYBlvHNhdZ5bEYxO12) | [Ruxley](https://open.spotify.com/artist/1STiTeuda0CtQf1DDh7F8P) | [what it is to love](https://open.spotify.com/album/76qrFblYh2LPN1k5whi6Lp) | 3:07 | 2024-02-08 |  |
 | [When I Feel This Way](https://open.spotify.com/track/4lpOGqNlKHARTJa4fYcDis) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [When I Feel This Way](https://open.spotify.com/album/0tIUxcgbx06IQKAk8x7lM6) | 3:19 | 2022-12-22 |  |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2022-12-22 |  |
 | [Wide Awake & Dreaming \- Stripped Duet](https://open.spotify.com/track/0E8afAKop5kTWKQ6BL9fub) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq), [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Honeymoon Phase / Wide Awake & Dreaming](https://open.spotify.com/album/6uMJVg0n7lQAT0X8XBLMEV) | 3:15 | 2022-12-22 |  |

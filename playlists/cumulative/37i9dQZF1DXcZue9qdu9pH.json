@@ -253,6 +253,28 @@
     },
     {
       "album": {
+        "name": "Eyes Kubwa",
+        "url": "https://open.spotify.com/album/0OzxUgftqnlSp7RmWDj0cC"
+      },
+      "artists": [
+        {
+          "name": "Nah Eeto",
+          "url": "https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV"
+        },
+        {
+          "name": "Sumgii",
+          "url": "https://open.spotify.com/artist/2Qvj1it0OQswQ4zu836oWw"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251020,
+      "name": "Eyes Kubwa",
+      "url": "https://open.spotify.com/track/28zuGbSlhWOAqnh6NQYCsE"
+    },
+    {
+      "album": {
         "name": "Few & Far Between",
         "url": "https://open.spotify.com/album/1TsOQ7nu8nuEPYTZ3Xx6qK"
       },
@@ -824,7 +846,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 269994,
       "name": "Round and Round",
       "url": "https://open.spotify.com/track/6dUfGg8LPOTtsGNDY4q8hT"
@@ -1299,6 +1321,28 @@
     },
     {
       "album": {
+        "name": "Uwanja wa Mchezo (Pieces of Me)",
+        "url": "https://open.spotify.com/album/1uSU3Vj8y76b2KnbYg9Rw5"
+      },
+      "artists": [
+        {
+          "name": "Le'Laika",
+          "url": "https://open.spotify.com/artist/21wMFiTF8hZHW1ZM2XE6Ul"
+        },
+        {
+          "name": "Steph Kapela",
+          "url": "https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177560,
+      "name": "Uwanja wa Mchezo (Pieces of Me)",
+      "url": "https://open.spotify.com/track/5Z8CRMyENwmwn82JXS7Ffj"
+    },
+    {
+      "album": {
         "name": "Tangawizi",
         "url": "https://open.spotify.com/album/5P2OgT54MbjstTwfl6nw27"
       },
@@ -1310,7 +1354,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 299171,
       "name": "Wanting You",
       "url": "https://open.spotify.com/track/7hmU5Fney0C23kqklkXeHt"

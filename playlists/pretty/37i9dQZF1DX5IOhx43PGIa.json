@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: thuy.",
-  "num_followers": 284415,
+  "num_followers": 284426,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjBjOTgwYjAyMzBjNTEwM2Q1NjBhZTJjZjM1YWViNDA0ZmNjMzUx",
+  "snapshot_id": "MCw4NjQxZGIxNjFmMjM5OGIzYTliNjE3MDZhNmZlYTc2ZGI1MTJiZjU2",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "I say bye",
-        "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 180596,
-      "name": "I say bye",
-      "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Pop Star (Chaeyoung Remix)",
         "url": "https://open.spotify.com/album/6r0xsy4FAx4p2Fc2WZxVR0"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 208640,
       "name": "Pop Star - Chaeyoung Remix",
       "url": "https://open.spotify.com/track/1vQOTeTQlZ5NWX2el2RmlG"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "I say bye",
+        "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 180596,
+      "name": "I say bye",
+      "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Flashback feat. Daichi Yamamoto",
-        "url": "https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        },
-        {
-          "name": "Daichi Yamamoto",
-          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
-        }
-      ],
-      "duration_ms": 284478,
-      "name": "Flashback feat. Daichi Yamamoto",
-      "url": "https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "CHIVALRY IS DEAD",
         "url": "https://open.spotify.com/album/7L4qkkUL8dr979LA7hzV9W"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 183977,
       "name": "CHIVALRY IS DEAD",
       "url": "https://open.spotify.com/track/48KAjFkydsuZHkG7ftt8GW"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Flashback feat. Daichi Yamamoto",
+        "url": "https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        }
+      ],
+      "duration_ms": 284478,
+      "name": "Flashback feat. Daichi Yamamoto",
+      "url": "https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2"
+      },
+      "artists": [
+        {
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
+        }
+      ],
+      "duration_ms": 166941,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "If I Say I Love You",
         "url": "https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP"
       },
@@ -1871,22 +1887,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2"
-      },
-      "artists": [
-        {
-          "name": "Chloe Tang",
-          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
-        }
-      ],
-      "duration_ms": 166941,
-      "name": "2.0",
-      "url": "https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "House on a Hill",
         "url": "https://open.spotify.com/album/0h8Vq0ZgnV8W5H3skqwArY"
       },
@@ -1899,6 +1899,26 @@
       "duration_ms": 198973,
       "name": "House on a Hill",
       "url": "https://open.spotify.com/track/45j87ToTmijZzMNxtotmXa"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Swapping Socks",
+        "url": "https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        },
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 218762,
+      "name": "Swapping Socks",
+      "url": "https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1967,26 +1987,6 @@
       "duration_ms": 144489,
       "name": "I Just Wanna Know",
       "url": "https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Swapping Socks",
-        "url": "https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5"
-      },
-      "artists": [
-        {
-          "name": "Andr",
-          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
-        },
-        {
-          "name": "mindfreakkk",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
-        }
-      ],
-      "duration_ms": 218762,
-      "name": "Swapping Socks",
-      "url": "https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Bloomingtale",
-        "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
-      },
-      "artists": [
-        {
-          "name": "Vira Talisa",
-          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
-        }
-      ],
-      "duration_ms": 208136,
-      "name": "More & More",
-      "url": "https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Cellulite",
         "url": "https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 190398,
       "name": "Cellulite",
       "url": "https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Bloomingtale",
+        "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
+      },
+      "artists": [
+        {
+          "name": "Vira Talisa",
+          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
+        }
+      ],
+      "duration_ms": 208136,
+      "name": "More & More",
+      "url": "https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "OUT OF BODY",
-        "url": "https://open.spotify.com/album/6Vn4kSaFkyRbNToiLEtNiX"
-      },
-      "artists": [
-        {
-          "name": "Rhea Raj",
-          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
-        }
-      ],
-      "duration_ms": 127985,
-      "name": "OUT OF BODY",
-      "url": "https://open.spotify.com/track/6UHF567WPxGMnBYLy87G7w"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Accent",
         "url": "https://open.spotify.com/album/3ZlOvZjzsj4ylB6y6mARja"
       },
@@ -2399,6 +2383,38 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "OUT OF BODY",
+        "url": "https://open.spotify.com/album/6Vn4kSaFkyRbNToiLEtNiX"
+      },
+      "artists": [
+        {
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+        }
+      ],
+      "duration_ms": 127985,
+      "name": "OUT OF BODY",
+      "url": "https://open.spotify.com/track/6UHF567WPxGMnBYLy87G7w"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Unreal",
+        "url": "https://open.spotify.com/album/2IjTLiLnqonRQxxCqiO0pR"
+      },
+      "artists": [
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/61B4mVUvs1m3WvtIbOzHzp"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Anybody Out There (feat. HENRY & Sara Phillips)",
         "url": "https://open.spotify.com/album/6SL1Xp1uM3kHmKxfEWzPh2"
       },
@@ -2419,22 +2435,6 @@
       "duration_ms": 190666,
       "name": "Anybody Out There (feat. HENRY & Sara Phillips)",
       "url": "https://open.spotify.com/track/05tOx5wW2LGBOExPe37wdI"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Unreal",
-        "url": "https://open.spotify.com/album/2IjTLiLnqonRQxxCqiO0pR"
-      },
-      "artists": [
-        {
-          "name": "Lucy Tun",
-          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "ADHD",
-      "url": "https://open.spotify.com/track/61B4mVUvs1m3WvtIbOzHzp"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2567,6 +2567,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Kulture Klub",
+        "url": "https://open.spotify.com/album/2sm4TXmoscpZ6i3rFcDUO4"
+      },
+      "artists": [
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "duration_ms": 133888,
+      "name": "Kulture Klub",
+      "url": "https://open.spotify.com/track/5JB470bDe4AvruKK2J3Pkv"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "DawaN",
         "url": "https://open.spotify.com/album/4dHjGQlzKApdCchkkHyu0M"
       },
@@ -2579,26 +2595,6 @@
       "duration_ms": 120139,
       "name": "DawaN",
       "url": "https://open.spotify.com/track/7mFbfAxNEbD4zxiIAnI9Uh"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "FIRST CLASS (feat. The Crane)",
-        "url": "https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9"
-      },
-      "artists": [
-        {
-          "name": "Gordon Flanders",
-          "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
-        },
-        {
-          "name": "The Crane",
-          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
-        }
-      ],
-      "duration_ms": 184512,
-      "name": "FIRST CLASS (feat. The Crane)",
-      "url": "https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq"
     }
   ],
   "unique_name": "Jasmine",

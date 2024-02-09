@@ -1,12 +1,12 @@
 {
   "description": "Indie folk songs to help your worries get lost in the woods.",
-  "num_followers": 279765,
+  "num_followers": 279823,
   "original_name": "Lost In The Woods",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGU2MTI0MDdiMjM4NWJlMzZjNTI0MzA1ZTdjZGFjYzZlNTczNjVl",
+  "snapshot_id": "MCw0MDQ3MGIzNGY3MGM2M2Y4ZmU5ZjVjN2VjYzNlMTUxYjE0MmI5YzY2",
   "tracks": [
     {
       "added_at": "2024-02-06 20:53:21",
@@ -71,6 +71,22 @@
       "duration_ms": 139857,
       "name": "Heather On The Hill",
       "url": "https://open.spotify.com/track/7N3emAP0mWt2OYqxs0XYpc"
+    },
+    {
+      "added_at": "2024-02-09 00:00:00",
+      "album": {
+        "name": "Stick Season (Forever)",
+        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 268353,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
     },
     {
       "added_at": "2024-02-06 20:53:21",
@@ -139,22 +155,6 @@
     {
       "added_at": "2024-02-06 20:53:21",
       "album": {
-        "name": "Brutally",
-        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 208105,
-      "name": "Brutally",
-      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
-    },
-    {
-      "added_at": "2024-02-06 20:53:21",
-      "album": {
         "name": "Scared To Start",
         "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-02-06 20:53:21",
       "album": {
+        "name": "Brutally",
+        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 208105,
+      "name": "Brutally",
+      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
+    },
+    {
+      "added_at": "2024-02-06 20:53:21",
+      "album": {
         "name": "I have more than enough",
         "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
       },
@@ -199,6 +215,22 @@
       "duration_ms": 328098,
       "name": "I have more than enough",
       "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
+    },
+    {
+      "added_at": "2024-02-06 20:53:21",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd"
+      },
+      "artists": [
+        {
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+        }
+      ],
+      "duration_ms": 122267,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC"
     },
     {
       "added_at": "2024-02-06 20:53:21",
@@ -235,38 +267,6 @@
     {
       "added_at": "2024-02-06 20:53:21",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/4LV7GkCFobpwaguOcbRRKI"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/6kGLWfGeZQ9RZHcGis9KN6"
-    },
-    {
-      "added_at": "2024-02-06 20:53:21",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd"
-      },
-      "artists": [
-        {
-          "name": "Paper Planes",
-          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
-        }
-      ],
-      "duration_ms": 122267,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC"
-    },
-    {
-      "added_at": "2024-02-06 20:53:21",
-      "album": {
         "name": "That Golden Time",
         "url": "https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6"
       },
@@ -279,6 +279,22 @@
       "duration_ms": 290632,
       "name": "That Golden Time",
       "url": "https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60"
+    },
+    {
+      "added_at": "2024-02-06 20:53:21",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/4LV7GkCFobpwaguOcbRRKI"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/6kGLWfGeZQ9RZHcGis9KN6"
     },
     {
       "added_at": "2024-02-06 20:53:21",
@@ -311,6 +327,26 @@
       "duration_ms": 146810,
       "name": "Margaux",
       "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
+    },
+    {
+      "added_at": "2024-02-09 00:00:00",
+      "album": {
+        "name": "Philadelphia (with Searows)",
+        "url": "https://open.spotify.com/album/6FGCL7fcqEcGhXjI7IhQZF"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        },
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 182513,
+      "name": "Philadelphia (with Searows)",
+      "url": "https://open.spotify.com/track/7areyJPur83YJOJLhvSXvH"
     },
     {
       "added_at": "2024-02-06 20:53:21",
@@ -443,6 +479,22 @@
     {
       "added_at": "2024-02-06 20:53:21",
       "album": {
+        "name": "Cairngorms",
+        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 252878,
+      "name": "Cairngorms",
+      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
+    },
+    {
+      "added_at": "2024-02-06 20:53:21",
+      "album": {
         "name": "Songs For The Canyon",
         "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
       },
@@ -471,22 +523,6 @@
       "duration_ms": 171789,
       "name": "My Heart Can't Take A Hint",
       "url": "https://open.spotify.com/track/7zi22N2Bi5wxc6dZgZTcnv"
-    },
-    {
-      "added_at": "2024-02-06 20:53:21",
-      "album": {
-        "name": "Cairngorms",
-        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 252878,
-      "name": "Cairngorms",
-      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
     },
     {
       "added_at": "2024-02-06 20:53:21",
@@ -555,22 +591,6 @@
     {
       "added_at": "2024-02-06 20:53:21",
       "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/58GJ648X070rfl1apkW3MT"
-      },
-      "artists": [
-        {
-          "name": "Fran Lusty",
-          "url": "https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK"
-        }
-      ],
-      "duration_ms": 227497,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/0FvVaTrZMaXm7qsQQh8HXe"
-    },
-    {
-      "added_at": "2024-02-06 20:53:21",
-      "album": {
         "name": "Blame The Moon",
         "url": "https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2"
       },
@@ -583,6 +603,22 @@
       "duration_ms": 163783,
       "name": "Blame The Moon",
       "url": "https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4"
+    },
+    {
+      "added_at": "2024-02-06 20:53:21",
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/58GJ648X070rfl1apkW3MT"
+      },
+      "artists": [
+        {
+          "name": "Fran Lusty",
+          "url": "https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK"
+        }
+      ],
+      "duration_ms": 227497,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/0FvVaTrZMaXm7qsQQh8HXe"
     },
     {
       "added_at": "2024-02-06 20:53:21",
@@ -635,6 +671,22 @@
     {
       "added_at": "2024-02-06 20:53:21",
       "album": {
+        "name": "The Pilgrim, Their God and The King of My Decrepit Mountain",
+        "url": "https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb"
+      },
+      "artists": [
+        {
+          "name": "Tapir!",
+          "url": "https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/15emae2T8lWbQClJ5m29Nm"
+    },
+    {
+      "added_at": "2024-02-06 20:53:21",
+      "album": {
         "name": "Our Time",
         "url": "https://open.spotify.com/album/7AvyzgmBfIOyRRBqY85puH"
       },
@@ -681,20 +733,20 @@
       "url": "https://open.spotify.com/track/3AZ3iDuNNkxIKYZJiFzYvc"
     },
     {
-      "added_at": "2024-02-06 20:53:21",
+      "added_at": "2024-02-09 00:00:00",
       "album": {
-        "name": "The Pilgrim, Their God and The King of My Decrepit Mountain",
-        "url": "https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb"
+        "name": "You Never Know",
+        "url": "https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD"
       },
       "artists": [
         {
-          "name": "Tapir!",
-          "url": "https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 213640,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/15emae2T8lWbQClJ5m29Nm"
+      "duration_ms": 290584,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9"
     },
     {
       "added_at": "2024-02-06 20:53:21",
@@ -715,22 +767,6 @@
     {
       "added_at": "2024-02-06 20:53:21",
       "album": {
-        "name": "Young",
-        "url": "https://open.spotify.com/album/6J0Giau2BxwhGBYS4UDcic"
-      },
-      "artists": [
-        {
-          "name": "Nanuk",
-          "url": "https://open.spotify.com/artist/5k64JTFIHR64agZZUTinI7"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/1p4iQ1vXaXtoM8SyOamNNU"
-    },
-    {
-      "added_at": "2024-02-06 20:53:21",
-      "album": {
         "name": "Gin & Tonics",
         "url": "https://open.spotify.com/album/4mwPWJ52L7ZZ06QNoQxrza"
       },
@@ -743,6 +779,22 @@
       "duration_ms": 151304,
       "name": "Gin & Tonics",
       "url": "https://open.spotify.com/track/2yyDkQwTDkrf9B6t53dgb6"
+    },
+    {
+      "added_at": "2024-02-06 20:53:21",
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/6J0Giau2BxwhGBYS4UDcic"
+      },
+      "artists": [
+        {
+          "name": "Nanuk",
+          "url": "https://open.spotify.com/artist/5k64JTFIHR64agZZUTinI7"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/1p4iQ1vXaXtoM8SyOamNNU"
     },
     {
       "added_at": "2024-02-06 20:53:21",
@@ -795,6 +847,22 @@
     {
       "added_at": "2024-02-06 20:53:21",
       "album": {
+        "name": "Corduroy",
+        "url": "https://open.spotify.com/album/499Z1f8EJDdAsABRtIEigH"
+      },
+      "artists": [
+        {
+          "name": "Memorial",
+          "url": "https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc"
+        }
+      ],
+      "duration_ms": 195940,
+      "name": "Corduroy",
+      "url": "https://open.spotify.com/track/2qwMUXVtNkvvtyR0QVVuGg"
+    },
+    {
+      "added_at": "2024-02-06 20:53:21",
+      "album": {
         "name": "strawberries for two",
         "url": "https://open.spotify.com/album/1kMlsA7I3l7LiskTVSlRNX"
       },
@@ -807,22 +875,6 @@
       "duration_ms": 161500,
       "name": "strawberries for two",
       "url": "https://open.spotify.com/track/33AqMQTISnP1daTHunLVKO"
-    },
-    {
-      "added_at": "2024-02-06 20:53:21",
-      "album": {
-        "name": "Alone With You",
-        "url": "https://open.spotify.com/album/2HkPoPfr3EynrPWKamNn8j"
-      },
-      "artists": [
-        {
-          "name": "Morgan Harper-Jones",
-          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "Alone With You",
-      "url": "https://open.spotify.com/track/4QrqR0jGwhhnGi8IPyyvnV"
     },
     {
       "added_at": "2024-02-06 20:53:21",
@@ -843,18 +895,18 @@
     {
       "added_at": "2024-02-06 20:53:21",
       "album": {
-        "name": "Corduroy",
-        "url": "https://open.spotify.com/album/499Z1f8EJDdAsABRtIEigH"
+        "name": "Alone With You",
+        "url": "https://open.spotify.com/album/2HkPoPfr3EynrPWKamNn8j"
       },
       "artists": [
         {
-          "name": "Memorial",
-          "url": "https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc"
+          "name": "Morgan Harper-Jones",
+          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
         }
       ],
-      "duration_ms": 195940,
-      "name": "Corduroy",
-      "url": "https://open.spotify.com/track/2qwMUXVtNkvvtyR0QVVuGg"
+      "duration_ms": 229306,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/4QrqR0jGwhhnGi8IPyyvnV"
     },
     {
       "added_at": "2024-02-06 20:53:21",
@@ -1131,22 +1183,6 @@
     {
       "added_at": "2024-02-06 20:53:21",
       "album": {
-        "name": "oMo (Man)",
-        "url": "https://open.spotify.com/album/4HbYYzLD9gLtWOvUVjuBhI"
-      },
-      "artists": [
-        {
-          "name": "Daudi Matsiko",
-          "url": "https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL"
-        }
-      ],
-      "duration_ms": 188506,
-      "name": "oMo (Man)",
-      "url": "https://open.spotify.com/track/373XAEtCUiQCCHQZxOjihL"
-    },
-    {
-      "added_at": "2024-02-06 20:53:21",
-      "album": {
         "name": "So I've Been Told",
         "url": "https://open.spotify.com/album/1p2ZmvbGwG4u3bKQfbvfpN"
       },
@@ -1175,6 +1211,22 @@
       "duration_ms": 196000,
       "name": "June in July",
       "url": "https://open.spotify.com/track/08eZYNlEShS5cV2zKTe2ys"
+    },
+    {
+      "added_at": "2024-02-06 20:53:21",
+      "album": {
+        "name": "oMo (Man)",
+        "url": "https://open.spotify.com/album/4HbYYzLD9gLtWOvUVjuBhI"
+      },
+      "artists": [
+        {
+          "name": "Daudi Matsiko",
+          "url": "https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL"
+        }
+      ],
+      "duration_ms": 188506,
+      "name": "oMo (Man)",
+      "url": "https://open.spotify.com/track/373XAEtCUiQCCHQZxOjihL"
     },
     {
       "added_at": "2024-02-06 20:53:21",
@@ -1227,22 +1279,6 @@
     {
       "added_at": "2024-02-06 20:53:21",
       "album": {
-        "name": "Derby's Dose",
-        "url": "https://open.spotify.com/album/62s4yMS26LGe6DFcWyWAdW"
-      },
-      "artists": [
-        {
-          "name": "Daudi Matsiko",
-          "url": "https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL"
-        }
-      ],
-      "duration_ms": 186266,
-      "name": "Derby's Dose",
-      "url": "https://open.spotify.com/track/3XWtrpRAyfF6ZoHAsdlao1"
-    },
-    {
-      "added_at": "2024-02-06 20:53:21",
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0EzgsLTpps8HovqZA1aMNK"
       },
@@ -1255,42 +1291,6 @@
       "duration_ms": 205003,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/25otaaQaySgAkOW61WibDs"
-    },
-    {
-      "added_at": "2024-02-06 20:53:21",
-      "album": {
-        "name": "i went outside",
-        "url": "https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25"
-      },
-      "artists": [
-        {
-          "name": "Arny Margret",
-          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "i went outside",
-      "url": "https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL"
-    },
-    {
-      "added_at": "2024-02-06 20:53:21",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/3UzTNYbKZTzQgA3i0hqVUM"
-      },
-      "artists": [
-        {
-          "name": "Jacob Cook",
-          "url": "https://open.spotify.com/artist/5xLTivLR2tV4I9PX1n554k"
-        },
-        {
-          "name": "The Patch",
-          "url": "https://open.spotify.com/artist/5xVEUK25VQi7wj4RQyFgqQ"
-        }
-      ],
-      "duration_ms": 233080,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/3LN4IPqwKfNaZh6eyc1arz"
     }
   ],
   "unique_name": "Lost In The Woods",

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 184927,
+  "num_followers": 185010,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmFhYWMxNWZhMjYzMTYzNDVmMGE0NGRkZDlhNGM2ZWI1OTljMTFk",
+  "snapshot_id": "MCwzODNjMjMwZDgwNGY3ZmNiZDc0ZjhkMDNlZWFiYjNiYzIwOTZkYjZj",
   "tracks": [
     {
       "added_at": "2022-02-18 16:03:15",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
+        "name": "Qu\u00e9 Pena",
+        "url": "https://open.spotify.com/album/5JtBd2d34ueQOa0VHr13I5"
+      },
+      "artists": [
+        {
+          "name": "Lebr\u00f3n Brothers",
+          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
+        }
+      ],
+      "duration_ms": 295206,
+      "name": "Qu\u00e9 Pena",
+      "url": "https://open.spotify.com/track/2BiPX58VlbUBfiu7hlbomO"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
         "name": "Fuego en el 23!",
         "url": "https://open.spotify.com/album/0c3F6OlWKJnkRTb78nswUt"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 284640,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
-        "name": "Qu\u00e9 Pena",
-        "url": "https://open.spotify.com/album/5JtBd2d34ueQOa0VHr13I5"
-      },
-      "artists": [
-        {
-          "name": "Lebr\u00f3n Brothers",
-          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
-        }
-      ],
-      "duration_ms": 295206,
-      "name": "Qu\u00e9 Pena",
-      "url": "https://open.spotify.com/track/2BiPX58VlbUBfiu7hlbomO"
     },
     {
       "added_at": "2022-02-18 16:03:15",

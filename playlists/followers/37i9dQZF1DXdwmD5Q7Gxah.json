@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 1134920,
+  "2024-02-09": 1134998,
   "date_first_scraped": "2019-07-30",
   "description": "congrats to the boys! cover: boygenius, taylor swift, jack antonoff",
   "name": "Lorem",
@@ -13223,7 +13223,7 @@
     {
       "album": {
         "name": "Even When The Sun is Dead",
-        "url": "https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn"
+        "url": "https://open.spotify.com/album/0aIrTtrBqrEHggWVEtErqb"
       },
       "artists": [
         {
@@ -13234,6 +13234,24 @@
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 136771,
+      "name": "Even When The Sun is Dead",
+      "url": "https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30"
+    },
+    {
+      "album": {
+        "name": "Even When The Sun is Dead",
+        "url": "https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-08",
       "duration_ms": 136771,
       "name": "Even When The Sun is Dead",
       "url": "https://open.spotify.com/track/7zH3Qm6lu296i2owAENBLk"
@@ -19085,10 +19103,28 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
       "album": {
@@ -37297,6 +37333,24 @@
       "duration_ms": 206000,
       "name": "Slow Amnesia",
       "url": "https://open.spotify.com/track/4p0IASuyV6phpRHicEJMAb"
+    },
+    {
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201808,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE"
     },
     {
       "album": {

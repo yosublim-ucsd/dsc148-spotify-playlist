@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Sempre aggiornata. Con nuovi brani di Geolier, Ghali, Il Tre e tanti altri. ",
+  "description": "Sempre aggiornata. Con nuovi brani di Il Tre, Geolier, Ghali, Artie 5ive e tanti altri. ",
   "name": "Novit\u00e0 Rap Italiano",
   "tracks": [
     {
@@ -4143,6 +4143,28 @@
     },
     {
       "album": {
+        "name": "AMULETO",
+        "url": "https://open.spotify.com/album/66s1GBupIh6wKOoO3hFMeX"
+      },
+      "artists": [
+        {
+          "name": "Kunta",
+          "url": "https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX"
+        },
+        {
+          "name": "Hosawa",
+          "url": "https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "AMULETO",
+      "url": "https://open.spotify.com/track/4jVS1c9TPM5Yrjq8DOSxti"
+    },
+    {
+      "album": {
         "name": "ANAKIN",
         "url": "https://open.spotify.com/album/4d4R95602qOqHPLfCs7P87"
       },
@@ -6162,7 +6184,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 140160,
       "name": "bambino perfetto",
       "url": "https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy"
@@ -6408,7 +6430,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 122630,
       "name": "BARACK OBAMA",
       "url": "https://open.spotify.com/track/7b3n858pamY9dX0nYhlIC8"
@@ -7228,7 +7250,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 136666,
       "name": "Bellingham",
       "url": "https://open.spotify.com/track/0gtb0nnDrELFYBpL43DSR6"
@@ -7616,6 +7638,28 @@
       "duration_ms": 170183,
       "name": "Big Stepper",
       "url": "https://open.spotify.com/track/4uoPBzJREyfecRrFwyA2n7"
+    },
+    {
+      "album": {
+        "name": "Big Steppers",
+        "url": "https://open.spotify.com/album/0D9H95jvcBZdUqtxkgzayg"
+      },
+      "artists": [
+        {
+          "name": "Ayo Mich",
+          "url": "https://open.spotify.com/artist/3TCtxMB7XKS9QmSZmcJQ3a"
+        },
+        {
+          "name": "Bobby True",
+          "url": "https://open.spotify.com/artist/3pyy0n3sJoMoGMgGsdwsJC"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162644,
+      "name": "Big Steppers",
+      "url": "https://open.spotify.com/track/4s6UbAqGMEJ2LiPy6zw256"
     },
     {
       "album": {
@@ -9914,6 +9958,24 @@
       "duration_ms": 201160,
       "name": "C'EST PAS FACIL",
       "url": "https://open.spotify.com/track/2XvuRXS2yd2E8RanepS7SJ"
+    },
+    {
+      "album": {
+        "name": "DALLA BOCCA DEL LEONE",
+        "url": "https://open.spotify.com/album/10Isrb0QFfC3MGw9hgiRiK"
+      },
+      "artists": [
+        {
+          "name": "A1",
+          "url": "https://open.spotify.com/artist/6rTM68RrcrscQ8LNIBhPsK"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "C'\u00c8 POSTA PER TE",
+      "url": "https://open.spotify.com/track/4HZL9Zb8qPHIcADmEVbXws"
     },
     {
       "album": {
@@ -13741,6 +13803,24 @@
     },
     {
       "album": {
+        "name": "Com For\u00e7a",
+        "url": "https://open.spotify.com/album/70r4iqvJFfNO8wV5XdyTfo"
+      },
+      "artists": [
+        {
+          "name": "JUICY&RYZZO",
+          "url": "https://open.spotify.com/artist/5iXBPEA1HCOt7JcaL6yNkK"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139850,
+      "name": "Com For\u00e7a",
+      "url": "https://open.spotify.com/track/2x5bWtNU2l9ZgIhNx480uG"
+    },
+    {
+      "album": {
         "name": "Come a Dakar",
         "url": "https://open.spotify.com/album/20jMLLeQuGTntObzVBXyzW"
       },
@@ -14683,6 +14763,24 @@
     },
     {
       "album": {
+        "name": "COSA C'\u00c8",
+        "url": "https://open.spotify.com/album/2u0ZbOSp2KKxMdZPkMlaQq"
+      },
+      "artists": [
+        {
+          "name": "PRACI",
+          "url": "https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "COSA C'\u00c8",
+      "url": "https://open.spotify.com/track/4TYfpaSZNmImjl6PGuGsbJ"
+    },
+    {
+      "album": {
         "name": "Cosa Diresti",
         "url": "https://open.spotify.com/album/5MyGfDTtsdnVHcDs1miHAo"
       },
@@ -14840,6 +14938,24 @@
       "duration_ms": 165454,
       "name": "Cose Losche",
       "url": "https://open.spotify.com/track/0Q0gqAXmbdjs3Jg0RqLxSl"
+    },
+    {
+      "album": {
+        "name": "Cosplay",
+        "url": "https://open.spotify.com/album/53DBsThzvH5JdI5VflfhuU"
+      },
+      "artists": [
+        {
+          "name": "Cimo",
+          "url": "https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133815,
+      "name": "Cosplay",
+      "url": "https://open.spotify.com/track/2dfK5jGdb0w9i3YuqABKCg"
     },
     {
       "album": {
@@ -15490,7 +15606,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 185168,
       "name": "C\u2019era Una Volta In Italia",
       "url": "https://open.spotify.com/track/6qECCt8d4AQt0cEv307MLa"
@@ -18259,6 +18375,28 @@
     },
     {
       "album": {
+        "name": "Drygin",
+        "url": "https://open.spotify.com/album/4SHxw2xfk9TXOpz5HFhass"
+      },
+      "artists": [
+        {
+          "name": "Laurent",
+          "url": "https://open.spotify.com/artist/5EbWc3Au5NHTphhLPASFxT"
+        },
+        {
+          "name": "KosmoKrew",
+          "url": "https://open.spotify.com/artist/11kJyrEEcK3ei750URYTIH"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132519,
+      "name": "Drygin",
+      "url": "https://open.spotify.com/track/7uzs6FuwnUvfEBLo9NoEOg"
+    },
+    {
+      "album": {
         "name": "Ds Ep.10",
         "url": "https://open.spotify.com/album/3IU8H7IwVflsGdg8xizXqu"
       },
@@ -19288,7 +19426,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 236307,
       "name": "Essere Uomo",
       "url": "https://open.spotify.com/track/3JabmJnSjdGxOLJv8CStc8"
@@ -19786,7 +19924,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 193725,
       "name": "Face to face 2",
       "url": "https://open.spotify.com/track/3Y9w1o3DIroJsJN3WG5RMy"
@@ -20008,7 +20146,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 189602,
       "name": "Fama e Street",
       "url": "https://open.spotify.com/track/2E5xiblGkZDcSn3JMw7Ace"
@@ -20429,6 +20567,24 @@
     },
     {
       "album": {
+        "name": "Federico",
+        "url": "https://open.spotify.com/album/4doOQDtIkkjGr2Hz77cjLT"
+      },
+      "artists": [
+        {
+          "name": "Rafil\u00f9",
+          "url": "https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191489,
+      "name": "Federico",
+      "url": "https://open.spotify.com/track/4ERrFf4AtLQAcLlsgtv29z"
+    },
+    {
+      "album": {
         "name": "FEEDBACK",
         "url": "https://open.spotify.com/album/1T00Bt7K2BkCcwZMFcHN4v"
       },
@@ -20816,7 +20972,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 192181,
       "name": "Fiducia",
       "url": "https://open.spotify.com/track/5HMGqC3rBoSWi8gPRwEJC6"
@@ -22330,6 +22486,32 @@
       "duration_ms": 177313,
       "name": "FUEGO",
       "url": "https://open.spotify.com/track/2k0lyGHBhhH0oqlQO89jpZ"
+    },
+    {
+      "album": {
+        "name": "FUJIN E RAIJIN",
+        "url": "https://open.spotify.com/album/6XgAqYLMYUtmxkU292VexM"
+      },
+      "artists": [
+        {
+          "name": "Roile",
+          "url": "https://open.spotify.com/artist/0AzIVU4A342TG6528cWIxq"
+        },
+        {
+          "name": "Fiore Akamono",
+          "url": "https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB"
+        },
+        {
+          "name": "85Prod",
+          "url": "https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131465,
+      "name": "FUJIN E RAIJIN",
+      "url": "https://open.spotify.com/track/6HbnP7T6iCCsIZct67nRJR"
     },
     {
       "album": {
@@ -24909,6 +25091,28 @@
     },
     {
       "album": {
+        "name": "GUCCI & FENDI",
+        "url": "https://open.spotify.com/album/4JmjSdgIdfEj83vfivldn1"
+      },
+      "artists": [
+        {
+          "name": "SixOneSix",
+          "url": "https://open.spotify.com/artist/5QK6u3vdOJBt4hJjJoYCLd"
+        },
+        {
+          "name": "Bresom Ice",
+          "url": "https://open.spotify.com/artist/0STTk0qnMvm6jxJFFbez4e"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "GUCCI & FENDI",
+      "url": "https://open.spotify.com/track/0Dp5WkKwiWJUwrsW5FN3cY"
+    },
+    {
+      "album": {
         "name": "GUERRA",
         "url": "https://open.spotify.com/album/2GFZh6hkFCFQSaI6MOphzr"
       },
@@ -24946,6 +25150,24 @@
       "duration_ms": 114753,
       "name": "GUERRA",
       "url": "https://open.spotify.com/track/3jsnqaZI1liYePMnHyhZF4"
+    },
+    {
+      "album": {
+        "name": "Guerra Con Me Stesso",
+        "url": "https://open.spotify.com/album/1UHR9djVH1lY3iaJycPVng"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129315,
+      "name": "Guerra Con Me Stesso",
+      "url": "https://open.spotify.com/track/6ByL4vOXiTkHyCShfEvwcE"
     },
     {
       "album": {
@@ -26498,7 +26720,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 137186,
       "name": "IAU (feat. Noyz Narcos)",
       "url": "https://open.spotify.com/track/5kPRBzfbzjY2aHRWoo4scu"
@@ -28857,6 +29079,24 @@
     },
     {
       "album": {
+        "name": "KAYROS",
+        "url": "https://open.spotify.com/album/0JSXR7YGCfK3uNSqzYRvMS"
+      },
+      "artists": [
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206127,
+      "name": "KAYROS",
+      "url": "https://open.spotify.com/track/5RAgQjHD4D892wj1VFu6uk"
+    },
+    {
+      "album": {
         "name": "KE LO KE",
         "url": "https://open.spotify.com/album/5KpePKTCCMGkehcOvyfsWS"
       },
@@ -28938,6 +29178,24 @@
       "duration_ms": 173913,
       "name": "Khabib",
       "url": "https://open.spotify.com/track/4lZ8j1DNJKW0Rvz3gSC0Qo"
+    },
+    {
+      "album": {
+        "name": "KHABIB FREESTYLE",
+        "url": "https://open.spotify.com/album/22NKXbFAD0AwAHsq93WVEL"
+      },
+      "artists": [
+        {
+          "name": "Diesse",
+          "url": "https://open.spotify.com/artist/5mhiD3ESMrPVj2uXz2DPa1"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89583,
+      "name": "KHABIB FREESTYLE",
+      "url": "https://open.spotify.com/track/7AdfQ9ghKtTVBuDv8QlO1d"
     },
     {
       "album": {
@@ -33710,7 +33968,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 185586,
       "name": "Mafia Del Boom Bap",
       "url": "https://open.spotify.com/track/5aCfe1vmMzmCc916WKWar3"
@@ -36994,7 +37252,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 157983,
       "name": "MIO FRATELLO (feat. Helmi sa7bi)",
       "url": "https://open.spotify.com/track/6c9IcU5IC43o80gHzjUtjU"
@@ -38733,6 +38991,24 @@
     },
     {
       "album": {
+        "name": "Nati per uccidere",
+        "url": "https://open.spotify.com/album/4TA9WcydNbzCJzL7ibeiNH"
+      },
+      "artists": [
+        {
+          "name": "MatRayden",
+          "url": "https://open.spotify.com/artist/2vUGFWcPtQSYHNZP0qe9II"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179553,
+      "name": "Nati per uccidere",
+      "url": "https://open.spotify.com/track/3DVBsNXg9WNjzTqHW2Bun2"
+    },
+    {
+      "album": {
         "name": "Nato Per Questo",
         "url": "https://open.spotify.com/album/3nrUsKXZlLAEKE5HUeoc0v"
       },
@@ -38792,7 +39068,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 226732,
       "name": "Nato Per Questo (feat. Marracash)",
       "url": "https://open.spotify.com/track/2orGI5VXRF4uplYVuvdRyU"
@@ -40826,10 +41102,28 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 219428,
       "name": "NON\u00c9GUCCI",
       "url": "https://open.spotify.com/track/2hUti3PQg30zR0EjKIBgIb"
+    },
+    {
+      "album": {
+        "name": "Normale",
+        "url": "https://open.spotify.com/album/7L8DyWZigR4lmW5WLRpmCf"
+      },
+      "artists": [
+        {
+          "name": "Blocage",
+          "url": "https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "Normale",
+      "url": "https://open.spotify.com/track/0C2qmnrEGUQ8hbcdJcCYUK"
     },
     {
       "album": {
@@ -42581,6 +42875,24 @@
     },
     {
       "album": {
+        "name": "ORMAI",
+        "url": "https://open.spotify.com/album/2T5LTATAl3rPJIJins2Gws"
+      },
+      "artists": [
+        {
+          "name": "Friman",
+          "url": "https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127001,
+      "name": "ORMAI",
+      "url": "https://open.spotify.com/track/3M7tqi0Ebb4AoSEhuYaY1f"
+    },
+    {
+      "album": {
         "name": "Oro di Milano",
         "url": "https://open.spotify.com/album/6qjD9tUvU9LBR0eemNexNY"
       },
@@ -42940,6 +43252,24 @@
       "duration_ms": 126112,
       "name": "Pachino Capitale",
       "url": "https://open.spotify.com/track/1IScmqeUqe3aVAdSpOr9hD"
+    },
+    {
+      "album": {
+        "name": "PACK A PUNCH FREESTYLE",
+        "url": "https://open.spotify.com/album/3GmoaUUFRJHHAKt9CJW0uB"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229031,
+      "name": "PACK A PUNCH FREESTYLE",
+      "url": "https://open.spotify.com/track/0lJQZj69WzLXcvjTEGLB4D"
     },
     {
       "album": {
@@ -46959,6 +47289,24 @@
     },
     {
       "album": {
+        "name": "Primo piatto",
+        "url": "https://open.spotify.com/album/7lUv1T4uUmerfiyT6NmFry"
+      },
+      "artists": [
+        {
+          "name": "Carechainz",
+          "url": "https://open.spotify.com/artist/1BFWRU3JNI5RyMuRMg2K4S"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216473,
+      "name": "Primo piatto",
+      "url": "https://open.spotify.com/track/7fvTc1g0XM6thzVyIvOnbM"
+    },
+    {
+      "album": {
         "name": "Princess",
         "url": "https://open.spotify.com/album/2Tx028YKR0bmIdM2nHWHeg"
       },
@@ -49739,6 +50087,32 @@
     },
     {
       "album": {
+        "name": "Seductive",
+        "url": "https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191133,
+      "name": "Risk (feat. UZI & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/4UwT5GziuMCCtnMHxg0Hsf"
+    },
+    {
+      "album": {
         "name": "Rispetto",
         "url": "https://open.spotify.com/album/1eizn1yJWS4FVl1z03C0Wq"
       },
@@ -51149,6 +51523,28 @@
     },
     {
       "album": {
+        "name": "SANTI QUA (feat. Ddusi)",
+        "url": "https://open.spotify.com/album/0WpqSfnWekbpI85035PCYa"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Ddusi",
+          "url": "https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162758,
+      "name": "SANTI QUA (feat. Ddusi)",
+      "url": "https://open.spotify.com/track/3plovXEUjBSuwxEjcx3EYz"
+    },
+    {
+      "album": {
         "name": "Santo",
         "url": "https://open.spotify.com/album/1ycdEAPw38yS2ANEGKBd4U"
       },
@@ -51718,7 +52114,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 159183,
       "name": "Se Non Fosse Per Il Rap",
       "url": "https://open.spotify.com/track/1UCPLE6BezOoQYy9NnYne5"
@@ -53169,6 +53565,28 @@
     },
     {
       "album": {
+        "name": "Shh",
+        "url": "https://open.spotify.com/album/21AVCMh5PHBIcrvQQ6bG57"
+      },
+      "artists": [
+        {
+          "name": "MURWI",
+          "url": "https://open.spotify.com/artist/74Xc17AXn5iG9hWakDfZ4d"
+        },
+        {
+          "name": "JWar",
+          "url": "https://open.spotify.com/artist/0qAbbuu4T1Kq9r3gweW2ZC"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122589,
+      "name": "Shh",
+      "url": "https://open.spotify.com/track/62xRllpRv7BVJpzOaK6Guq"
+    },
+    {
+      "album": {
         "name": "SHOOTER",
         "url": "https://open.spotify.com/album/2Iz0qEGU7bgGfNHPSxajEx"
       },
@@ -54014,7 +54432,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 194094,
       "name": "Snow (feat. SAC1)",
       "url": "https://open.spotify.com/track/7z00SvvjEOPKA0SSRIZKvL"
@@ -55976,7 +56394,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 149112,
       "name": "STEP BY STEP",
       "url": "https://open.spotify.com/track/6azRsazhYFpDXcjOcEaqdC"

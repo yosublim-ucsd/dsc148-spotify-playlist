@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 679369,
+  "num_followers": 679572,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjJiYjEyYTNkZGQ0NDY5MzUzMWJhY2U5N2FlOWZmNzVhMWQ4MzBj",
+  "snapshot_id": "MCw3MDE0MWJlNjg3NDRmMjVjOTZlYTFkNjcyYWVjZGNmMDIyODZjNWQ2",
   "tracks": [
     {
       "added_at": "2024-01-25 17:05:45",
@@ -155,6 +155,22 @@
       "duration_ms": 261911,
       "name": "Rose Pink Cadillac",
       "url": "https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -363,22 +379,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 187388,
-      "name": "Certainty",
-      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 244186,
       "name": "Can I Believe You",
       "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 187388,
+      "name": "Certainty",
+      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -607,6 +623,22 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
+        "name": "How Have You Been?",
+        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 201467,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
       },
@@ -755,8 +787,8 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "How Have You Been?",
-        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
+        "name": "New Estate",
+        "url": "https://open.spotify.com/album/6bBdlXIj1C6nON50J8TMb7"
       },
       "artists": [
         {
@@ -764,9 +796,9 @@
           "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
         }
       ],
-      "duration_ms": 201467,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw"
+      "duration_ms": 258260,
+      "name": "Mia & Keira (Days To Come)",
+      "url": "https://open.spotify.com/track/3am2Y5mLijaA94DaKBX1QA"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -835,22 +867,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "New Estate",
-        "url": "https://open.spotify.com/album/6bBdlXIj1C6nON50J8TMb7"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 258260,
-      "name": "Mia & Keira (Days To Come)",
-      "url": "https://open.spotify.com/track/3am2Y5mLijaA94DaKBX1QA"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "Blue Hours",
         "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
       },
@@ -915,6 +931,22 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
+        "name": "Rio Grande",
+        "url": "https://open.spotify.com/album/1Pj0IcGeKirKVwqKPe4dK3"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 271593,
+      "name": "Rio Grande",
+      "url": "https://open.spotify.com/track/0dxauDDDoSPJqmKJlNRjPu"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
         "name": "postcard from Berlin",
         "url": "https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko"
       },
@@ -931,22 +963,6 @@
       "duration_ms": 194092,
       "name": "grapejuice",
       "url": "https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
-        "name": "Rio Grande",
-        "url": "https://open.spotify.com/album/1Pj0IcGeKirKVwqKPe4dK3"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 271593,
-      "name": "Rio Grande",
-      "url": "https://open.spotify.com/track/0dxauDDDoSPJqmKJlNRjPu"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/4mhvs37yJYqOKs0c6Bunvk"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        }
-      ],
-      "duration_ms": 264045,
-      "name": "Spark",
-      "url": "https://open.spotify.com/track/6ccpBKLyviHQyhK4o4pbX0"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "Out of My Head",
         "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 214000,
       "name": "Out of My Head",
       "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/4mhvs37yJYqOKs0c6Bunvk"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        }
+      ],
+      "duration_ms": 264045,
+      "name": "Spark",
+      "url": "https://open.spotify.com/track/6ccpBKLyviHQyhK4o4pbX0"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "Blue Hours",
-        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "Green Eyes",
         "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 197524,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "Blue Hours",
+        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -1243,38 +1259,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "Unpack Your Bags (Radio Edit)",
-        "url": "https://open.spotify.com/album/2oCc55ntQAwff7LHwnBQWU"
-      },
-      "artists": [
-        {
-          "name": "Lemony Rug",
-          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
-        }
-      ],
-      "duration_ms": 184692,
-      "name": "Unpack Your Bags - Radio Edit",
-      "url": "https://open.spotify.com/track/5BJClY9W1julZmgjWaNFb3"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "Gold Past Life",
         "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 198306,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6maswXqaxmZmrVnr2B82ii"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "Unpack Your Bags (Radio Edit)",
+        "url": "https://open.spotify.com/album/2oCc55ntQAwff7LHwnBQWU"
+      },
+      "artists": [
+        {
+          "name": "Lemony Rug",
+          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
+        }
+      ],
+      "duration_ms": 184692,
+      "name": "Unpack Your Bags - Radio Edit",
+      "url": "https://open.spotify.com/track/5BJClY9W1julZmgjWaNFb3"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -1307,22 +1307,18 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "Quarantine at El Ganzo",
-        "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
       "artists": [
         {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
-        },
-        {
-          "name": "Sebastian Maschat & Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK"
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
         }
       ],
-      "duration_ms": 228059,
-      "name": "Price",
-      "url": "https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO"
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -1339,6 +1335,26 @@
       "duration_ms": 218738,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/3RGdTJbr4eWMS0upJntQAn"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "Quarantine at El Ganzo",
+        "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
+      },
+      "artists": [
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        },
+        {
+          "name": "Sebastian Maschat & Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK"
+        }
+      ],
+      "duration_ms": 228059,
+      "name": "Price",
+      "url": "https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -1511,6 +1527,22 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
+        "name": "Le temps se fuit",
+        "url": "https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "duration_ms": 210706,
+      "name": "Le temps se fuit",
+      "url": "https://open.spotify.com/track/1BQcGLosFe4mZrXwr2wDSZ"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
         "name": "At the Roadhouse",
         "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
       },
@@ -1591,22 +1623,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "Le temps se fuit",
-        "url": "https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt"
-      },
-      "artists": [
-        {
-          "name": "Black Sea Dahu",
-          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
-        }
-      ],
-      "duration_ms": 210706,
-      "name": "Le temps se fuit",
-      "url": "https://open.spotify.com/track/1BQcGLosFe4mZrXwr2wDSZ"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "Hole Digger",
         "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 249693,
       "name": "Man of the Universe",
       "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 399082,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3"
     }
   ],
   "unique_name": "Van Life",

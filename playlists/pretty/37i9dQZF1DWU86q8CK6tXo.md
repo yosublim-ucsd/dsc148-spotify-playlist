@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,679 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,725 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,19 +34,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 24 | [SHOW ME OUT](https://open.spotify.com/track/6h0yJ8bTlpxfwiJ0aXbKxG) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [talking to the wind](https://open.spotify.com/album/1cVxRuTFcepbaLF1Tc1C47) | 2:13 |
 | 25 | [Dollar Bill Bar](https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Dollar Bill Bar](https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47) | 3:29 |
 | 26 | [Blick](https://open.spotify.com/track/0ZCfZ4o34HQiFvJAW7HyG6) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [Blick](https://open.spotify.com/album/6JB6RYhuWSOOISlJ5sMfvq) | 2:14 |
-| 27 | [You’re My Texas](https://open.spotify.com/track/6SaffSEZJMBX31dd3wLugm) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [You're My Texas](https://open.spotify.com/album/7sk2FcYfRPMEof4Ytknom5) | 3:19 |
-| 28 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 |
+| 27 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 |
+| 28 | [You’re My Texas](https://open.spotify.com/track/6SaffSEZJMBX31dd3wLugm) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [You're My Texas](https://open.spotify.com/album/7sk2FcYfRPMEof4Ytknom5) | 3:19 |
 | 29 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 |
 | 30 | [IN THE LIGHT](https://open.spotify.com/track/5GRJci91Qsc14761s6f4Nv) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [STEPPIN in the LIGHT](https://open.spotify.com/album/5PmSxoI4vbgq6hWz0EWV5I) | 2:46 |
 | 31 | [Blessings](https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings](https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA) | 2:42 |
 | 32 | [Potential \- Lolo Zouaï Remix](https://open.spotify.com/track/3R4mUtY9p1yl5YHomb9ix4) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Potential \(Lolo Zouaï Remix\)](https://open.spotify.com/album/6R1g40C2TPZnNx1JyuTBnM) | 2:03 |
-| 33 | [Mean Well](https://open.spotify.com/track/2fZjJ78yaF8CbjBRcIC3rY) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Mean Well](https://open.spotify.com/album/1e1Iwj8gw8pFe7Ba0PvQiy) | 2:52 |
-| 34 | [Cut 'Em Off](https://open.spotify.com/track/0EIjQy9ifrBLscYBSVCr1M) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Koryn Hawthorne Bundle](https://open.spotify.com/album/2WnXB1FLl2M3JwHqNLpy0b) | 2:14 |
-| 35 | [White Lies, White Jesus And You](https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [White Lies, White Jesus And You](https://open.spotify.com/album/4PxGWmuTtzAxkPCzmWQ5Al) | 4:24 |
-| 36 | [Cartagena](https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Cartagena](https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx) | 3:32 |
+| 33 | [Cut 'Em Off](https://open.spotify.com/track/0EIjQy9ifrBLscYBSVCr1M) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Koryn Hawthorne Bundle](https://open.spotify.com/album/2WnXB1FLl2M3JwHqNLpy0b) | 2:14 |
+| 34 | [Mean Well](https://open.spotify.com/track/2fZjJ78yaF8CbjBRcIC3rY) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Mean Well](https://open.spotify.com/album/1e1Iwj8gw8pFe7Ba0PvQiy) | 2:52 |
+| 35 | [Cartagena](https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Cartagena](https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx) | 3:32 |
+| 36 | [White Lies, White Jesus And You](https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [White Lies, White Jesus And You](https://open.spotify.com/album/4PxGWmuTtzAxkPCzmWQ5Al) | 4:24 |
 | 37 | [Polly Pocket](https://open.spotify.com/track/7uwYghkyYw9nGJPa39ruX7) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [LIVE, RAFF, LOVE \(Act II\)](https://open.spotify.com/album/1DuQMGJEdkhILvziIoJfai) | 2:15 |
 | 38 | [Moonstruck](https://open.spotify.com/track/1kM0YPEPUmZfV7WAl6HH0i) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [Moonstruck](https://open.spotify.com/album/03TpK5HO3kLKg7jSTsKjoD) | 3:05 |
 | 39 | [Un Dia](https://open.spotify.com/track/3B9d4ZOgxxDIqKgjY7UbAg) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [More Flowers](https://open.spotify.com/album/7ssjsADiKQFYwDU8QgqTuL) | 3:15 |
 | 40 | [I've Changed a Lot](https://open.spotify.com/track/24nOWJI4FCRuAtMSGcDQxU) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [I've Changed a Lot](https://open.spotify.com/album/1mnDUOBwlCuibZOhb6lfs2) | 2:46 |
 
-Snapshot ID: `MCw4OTQ5YzRlMjZlNmNiYjhkOTUwYjMxNWJmMWU2OGZiYTJiNzliMjU2`
+Snapshot ID: `MCwwZTEyMWE5ZDM0ZWYyNzc5ZTFmNTM5ODYyNDYzZjE3ZTYyZDZkM2Yx`

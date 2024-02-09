@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: Brandon Nembhard. Artwork by Isu Kim.\n",
-  "num_followers": 1181780,
+  "num_followers": 1181972,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzA2N2I2NGYwNTdhZDZjMDgwZmU2YTAyYTkzNWZlOWFhMzRlOGQ2",
+  "snapshot_id": "MCxkNjlhZjM2MmYxMzk2M2MxYmQyYzNkNTQ5NjkxNDIxNTVlMTAyNjg4",
   "tracks": [
     {
       "added_at": "2024-02-07 15:25:55",
@@ -55,6 +55,22 @@
       "duration_ms": 279984,
       "name": "The Brown Eyed Driver",
       "url": "https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS"
+    },
+    {
+      "added_at": "2024-02-08 18:56:09",
+      "album": {
+        "name": "Eros",
+        "url": "https://open.spotify.com/album/75QVJiDzOyz7Pjpp7Vi3Hg"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "Eros",
+      "url": "https://open.spotify.com/track/3D0EaeT9iyT1g9Bt75KgtM"
     },
     {
       "added_at": "2024-02-07 15:25:55",
@@ -151,6 +167,26 @@
       "duration_ms": 286261,
       "name": "little green garden",
       "url": "https://open.spotify.com/track/0bIU1uDooCQyqemv0NHAaW"
+    },
+    {
+      "added_at": "2024-02-08 18:56:09",
+      "album": {
+        "name": "Moment (Just a Little Longer)",
+        "url": "https://open.spotify.com/album/7Ak6gIYbRd86ovbxaTylXx"
+      },
+      "artists": [
+        {
+          "name": "Flourish",
+          "url": "https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7"
+        },
+        {
+          "name": "CHAR",
+          "url": "https://open.spotify.com/artist/2eoOPfVAXP5jraE3VEbWon"
+        }
+      ],
+      "duration_ms": 174624,
+      "name": "Moment (Just a Little Longer)",
+      "url": "https://open.spotify.com/track/2zOv8eprFsEOcXg9YXE2pN"
     },
     {
       "added_at": "2024-02-07 15:25:55",
@@ -329,6 +365,26 @@
       "url": "https://open.spotify.com/track/6AYNmsHwCWmfYrniipNAWe"
     },
     {
+      "added_at": "2024-02-08 18:56:09",
+      "album": {
+        "name": "Don't Leave",
+        "url": "https://open.spotify.com/album/1023h6LdMEZq4bN9Iwu8dt"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Drinks On Me",
+          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/3nOooNnW2KRVS7D4OUPJId"
+    },
+    {
       "added_at": "2024-01-31 18:35:54",
       "album": {
         "name": "Clich\u00e9 (No eres tu, soy yo)",
@@ -459,6 +515,22 @@
       "duration_ms": 196179,
       "name": "pretty little psycho",
       "url": "https://open.spotify.com/track/2VwGgxJ6TcgLU8Gqk4bTsu"
+    },
+    {
+      "added_at": "2024-02-08 18:56:09",
+      "album": {
+        "name": "Secret Agent",
+        "url": "https://open.spotify.com/album/0fhaC3wVOhEkNzHGmHCWhL"
+      },
+      "artists": [
+        {
+          "name": "Mr.Diamond",
+          "url": "https://open.spotify.com/artist/7tZrVSJlj3BmTYpQJim4c6"
+        }
+      ],
+      "duration_ms": 160629,
+      "name": "Secret Agent",
+      "url": "https://open.spotify.com/track/67QqFdwxeN7uz4enselJQV"
     },
     {
       "added_at": "2024-02-07 15:25:55",
@@ -619,6 +691,22 @@
       "duration_ms": 179870,
       "name": "Sippin'",
       "url": "https://open.spotify.com/track/5kTFaEuTd6eNUPktiSDm1k"
+    },
+    {
+      "added_at": "2024-02-08 18:56:09",
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/2qfoZjWQfXkFml3ZgwkID0"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 202202,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/54vzUEcuM3CmIVnrBiYABn"
     },
     {
       "added_at": "2024-01-24 16:00:00",
@@ -1559,70 +1647,6 @@
       "duration_ms": 183696,
       "name": "Beso de Luna",
       "url": "https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz"
-    },
-    {
-      "added_at": "2024-01-24 16:00:00",
-      "album": {
-        "name": "thru with u",
-        "url": "https://open.spotify.com/album/6arX7ixS2NedK2JT9ufL0y"
-      },
-      "artists": [
-        {
-          "name": "benten",
-          "url": "https://open.spotify.com/artist/7MFLynuNlKGSveS2w8ZOfF"
-        }
-      ],
-      "duration_ms": 114666,
-      "name": "thru with u",
-      "url": "https://open.spotify.com/track/6fcVPxYdYHQ9YioRXagiQB"
-    },
-    {
-      "added_at": "2024-01-31 18:35:54",
-      "album": {
-        "name": "The Pilgrim, Their God and The King of My Decrepit Mountain",
-        "url": "https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb"
-      },
-      "artists": [
-        {
-          "name": "Tapir!",
-          "url": "https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd"
-        }
-      ],
-      "duration_ms": 259959,
-      "name": "On A Grassy Knoll (We'll Bow Together)",
-      "url": "https://open.spotify.com/track/2w7ytZGD2i3xHXFpy5sJye"
-    },
-    {
-      "added_at": "2024-01-31 18:35:54",
-      "album": {
-        "name": "5555",
-        "url": "https://open.spotify.com/album/5BGpC1K1Edhh4X3X8KGUpL"
-      },
-      "artists": [
-        {
-          "name": "..villa?",
-          "url": "https://open.spotify.com/artist/4GNV4dCNqiSvw6sCzSa5nR"
-        }
-      ],
-      "duration_ms": 195771,
-      "name": "5555",
-      "url": "https://open.spotify.com/track/1s2J8T4R7McYkfOXgjQP1q"
-    },
-    {
-      "added_at": "2024-01-31 18:35:54",
-      "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/6NrMHKEEj6bSmrj5QmLEz4"
-      },
-      "artists": [
-        {
-          "name": "VENUS GRRRLS",
-          "url": "https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9"
-        }
-      ],
-      "duration_ms": 157762,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/0bFjFLAlwvmtmNIU0Hn8kI"
     }
   ],
   "unique_name": "Fresh Finds",

@@ -1,12 +1,12 @@
 {
   "description": "Monsieur Dusse, ce qui ne va pas, c'est le plant\u00e9 de b\u00e2ton.",
-  "num_followers": 49818,
+  "num_followers": 49880,
   "original_name": "Balec !",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjVkNGM2ZjJjNTQ5MTljM2E2ZWE5MjRjYjJkOGQyOGFlYTkzOTE4",
+  "snapshot_id": "MCxlNWZkZjJlYWU2YTBiYzJiOGM4NTkwYjcxMjA3ZjZiYmQ5YTUzMzlh",
   "tracks": [
     {
       "added_at": "2024-02-07 22:54:15",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-02-07 22:54:15",
       "album": {
-        "name": "The Paramour Sessions",
-        "url": "https://open.spotify.com/album/2Aa1nPsSmQpQHjc9VdeGCl"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "...To Be Loved",
-      "url": "https://open.spotify.com/track/4yUUVfwvxtMecOQ2fI7a7j"
-    },
-    {
-      "added_at": "2024-02-07 22:54:15",
-      "album": {
         "name": "The Black And White Album",
         "url": "https://open.spotify.com/album/0kGG0cYU829iWwfpQFm6Ue"
       },
@@ -959,18 +943,34 @@
     {
       "added_at": "2024-02-07 22:54:15",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+        "name": "The Paramour Sessions",
+        "url": "https://open.spotify.com/album/2Aa1nPsSmQpQHjc9VdeGCl"
       },
       "artists": [
         {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 220373,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA"
+      "duration_ms": 182120,
+      "name": "...To Be Loved",
+      "url": "https://open.spotify.com/track/4yUUVfwvxtMecOQ2fI7a7j"
+    },
+    {
+      "added_at": "2024-02-07 22:54:15",
+      "album": {
+        "name": "Cathexis",
+        "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "duration_ms": 183741,
+      "name": "Doomsday Blue",
+      "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
     }
   ],
   "unique_name": "Balec !",

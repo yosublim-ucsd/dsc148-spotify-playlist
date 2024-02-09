@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 63187,
+  "num_followers": 63202,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODAzYmY3ZDczMGQ3NDZkZjQwYmZkM2FkMjlmMzhlODNhZDk3MWU0",
+  "snapshot_id": "MCxiYjA5NjBjYTcxYThjYjUzNjIwNGE5NTQyNDViNjI3ZjU1NmEyYWRl",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -607,6 +607,26 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Inglorious Express EP",
+        "url": "https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt"
+      },
+      "artists": [
+        {
+          "name": "Biesmans",
+          "url": "https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz"
+        },
+        {
+          "name": "Vandesande",
+          "url": "https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm"
+        }
+      ],
+      "duration_ms": 400259,
+      "name": "Prisoner Of Love",
+      "url": "https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Solar Nights - The Remixes",
         "url": "https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 316097,
       "name": "Curb Dog '88",
       "url": "https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Inglorious Express EP",
-        "url": "https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt"
-      },
-      "artists": [
-        {
-          "name": "Biesmans",
-          "url": "https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz"
-        },
-        {
-          "name": "Vandesande",
-          "url": "https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm"
-        }
-      ],
-      "duration_ms": 400259,
-      "name": "Prisoner Of Love",
-      "url": "https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka"
     },
     {
       "added_at": "2021-08-27 15:45:01",

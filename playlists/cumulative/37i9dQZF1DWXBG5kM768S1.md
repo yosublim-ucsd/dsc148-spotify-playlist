@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-231 songs - 14 hr 48 min
+232 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Sommernatt](https://open.spotify.com/track/5Upqdh6PJoI1SA3ihFERiu) | [Kine Hellebust](https://open.spotify.com/artist/1xt1wtsor2VKjhcQebd9Ec) | [Det Hainnle Om Å Leve \- Mellom Anna](https://open.spotify.com/album/5FnjxMOH7N4FpHcaH0POY9) | 4:09 | 2022-03-23 | 2022-07-19 |
 | [Stilla](https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Nærmere](https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W) | 4:48 | 2022-11-10 | 2023-01-13 |
 | [Stille Vann](https://open.spotify.com/track/6EbPwM0nNa6T3Hy1pDBvl0) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 3:01 | 2022-01-06 | 2022-11-13 |
-| [Stor gutt](https://open.spotify.com/track/4HmsGVkxxjkzGMowmMbRyx) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Stor gutt](https://open.spotify.com/album/70HTt1jxS1o6OrCLojBtL5) | 5:34 | 2023-08-31 |  |
+| [Stor gutt](https://open.spotify.com/track/4HmsGVkxxjkzGMowmMbRyx) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Stor gutt](https://open.spotify.com/album/70HTt1jxS1o6OrCLojBtL5) | 5:34 | 2023-08-31 | 2024-02-09 |
 | [Stormens Øye](https://open.spotify.com/track/6NUSlWdJJXjtZK4rUmzlyu) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Stormens Øye](https://open.spotify.com/album/6Fp9e8OcPdzlOCDgtUpntI) | 3:36 | 2022-09-19 | 2022-11-21 |
 | [SUPER 8](https://open.spotify.com/track/5dbP3o1bqkIz5pbjnMwLek) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA) | [SUPER 8](https://open.spotify.com/album/11yMIAowUPX1Q3inE8qCSl) | 3:28 | 2021-12-16 | 2022-07-14 |
 | [Svarte Skyer](https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5) | [Hanne Sørvaag](https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH) | [Svarte Skyer](https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R) | 3:00 | 2021-12-16 | 2024-02-02 |
@@ -213,6 +213,7 @@
 | [Ting er som de er](https://open.spotify.com/track/2gfDYYhGLTEIY2oD9ZJXed) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Ting er som de er](https://open.spotify.com/album/2FrtdxsSn21OUAOvo9I7TK) | 3:55 | 2022-05-12 | 2022-07-20 |
 | [Tir n'a Noir](https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk), [Rita Eriksen](https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da) | [Godmorgen, søster](https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G) | 4:30 | 2021-12-16 |  |
 | [To over tolv](https://open.spotify.com/track/4UJssXJzy7oUAkPz0A0R1R) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [To over tolv](https://open.spotify.com/album/4GTkEgihqBor6a1tLBLWXM) | 4:55 | 2024-01-04 | 2024-02-01 |
+| [Toget nå i kveld](https://open.spotify.com/track/2bAx3pp4uq4lSTvecH4CsB) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [VI](https://open.spotify.com/album/337O8Z5wmzCmppT5jNCm4t) | 5:20 | 2024-02-08 |  |
 | [Togsang](https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kæm va du?](https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ) | 2:59 | 2022-03-23 | 2023-02-01 |
 | [Tre pakker sigaretter](https://open.spotify.com/track/4IrUGDg2xUSyp5r2I5eJZv) | [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Tre Pakker Sigaretter](https://open.spotify.com/album/7C4j0qTmR7bSpn2uebJmjj) | 3:13 | 2023-01-26 | 2023-05-24 |
 | [Trenger deg](https://open.spotify.com/track/5W8zfT3Y2KushWkYemWKvt) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Sanger du skal få når vi er vektløse](https://open.spotify.com/album/3w3etFROeWCKBeeBIN229z) | 4:13 | 2022-02-17 | 2022-04-21 |

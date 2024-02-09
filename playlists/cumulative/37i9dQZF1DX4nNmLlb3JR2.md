@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-226 songs - 9 hr 5 min
+227 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Meet Me At Our Spot](https://open.spotify.com/track/4zbDddvck9LUqoh1nojkVh) | [Dab Rosser](https://open.spotify.com/artist/1rIG28M0NJsbl5DDp6x8GA) | [Meet Me At Our Spot](https://open.spotify.com/album/5zu8UTGoKBr1NiJyfuJdGR) | 1:57 | 2022-10-28 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/45atCi3vYyXtz9ijskqGN5) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Mr\. Brightside](https://open.spotify.com/album/4P0Osalw7TaQLM0JKIyHOy) | 2:04 | 2022-09-02 | 2023-09-08 |
 | [my girl](https://open.spotify.com/track/2tmwtHHqbNYtZTMhGrINgW) | [Idris Jem](https://open.spotify.com/artist/0TsDkwnB2mr1kbQKAU4XcY) | [my girl](https://open.spotify.com/album/00BGyfJc3D9WMFHrox5g86) | 1:32 | 2023-06-09 |  |
+| [My Love Mine All Mine \- Lo\-Fi](https://open.spotify.com/track/2jTF88RCLLIx5kVDXi2gPM) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [My Love Mine All Mine \(Lo\-Fi\)](https://open.spotify.com/album/1QnjnDG89CKI0eAc56VAWY) | 2:18 | 2024-02-09 |  |
 | [My Mind & Me](https://open.spotify.com/track/43M3Hb61vb3BQVLKPx5zqC) | [Miro Mas](https://open.spotify.com/artist/4Nh6HRskIln2gWtk2KB0fL) | [Portals pt 2](https://open.spotify.com/album/7yOQ2GIiEZz4nVo4BF7CPb) | 2:38 | 2023-01-13 |  |
 | [Never Gonna Give You Up](https://open.spotify.com/track/6mb3ei1PSzzZgZyOeQN5QA) | [Phatazza Cat](https://open.spotify.com/artist/3dV8aCIrUUtXrOnU6qo3rN) | [Never Gonna Give You Up](https://open.spotify.com/album/6k9mZX2jUO3e2xkQTDVScA) | 2:08 | 2022-09-02 | 2024-01-19 |
 | [No Surprises](https://open.spotify.com/track/4TVrdSsBbr4RYWBqyVdATT) | [Granlund](https://open.spotify.com/artist/2dZvcVqJDI3Lbxnwg5hQ8m) | [My Name Is Spruce](https://open.spotify.com/album/6wTSNipQRO7zT58J0uQJGE) | 2:56 | 2022-09-02 | 2023-10-19 |

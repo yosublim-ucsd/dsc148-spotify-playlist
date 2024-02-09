@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-716 songs - 1 day 19 hr 8 min
+717 songs - 1 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Fix](https://open.spotify.com/track/3F0ACOu8cK3lAGZCsiqIP5) | [Market](https://open.spotify.com/artist/718sBQLH9imJLX0m0fFuwH) | [Fix](https://open.spotify.com/album/6CKq16BRYNBXaUlFHTVvwz) | 4:07 | 2020-12-21 | 2022-04-19 |
 | [Float Back To You](https://open.spotify.com/track/53eXqDDn8ADIbukIJWN2Dw) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 4:15 | 2023-10-17 | 2023-11-18 |
 | [FLOOR \- SLOWED](https://open.spotify.com/track/07E4f2egAF0ZfjJXHFTvTL) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv), [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC) | [FLOOR PACK](https://open.spotify.com/album/37kebuUfyLKqJEUcF9ZSy5) | 2:27 | 2023-05-25 | 2023-11-18 |
+| [Flow](https://open.spotify.com/track/0NTlrh71EoG5wGBZkP6uBW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Flow](https://open.spotify.com/album/2pAsVVVtQe4MyuazsoclcH) | 3:08 | 2024-01-04 |  |
 | [Flower Girl](https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu) | [Lionel Boy](https://open.spotify.com/artist/3UaINrj5Lmv7F7meQPuIGh) | [Lionel Boy](https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759) | 3:44 | 2023-10-17 |  |
 | [Flowers & Honey Interlude](https://open.spotify.com/track/6DsvXic2O817vrPB0btljC) | [Duñe](https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh) | [Hundred Fifty Roses](https://open.spotify.com/album/5SCpPAXLERpGRtQpM6d1MR) | 1:36 | 2023-08-18 |  |
 | [Fool's Gold](https://open.spotify.com/track/4c3zxAgmvnSHRqesr14tdZ) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/7J2oRTfH14BbakDbmqMgiM) | 4:14 | 2020-12-21 | 2022-04-17 |
@@ -615,7 +616,7 @@
 | [Sunsetz](https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 3:34 | 2020-12-21 | 2022-07-13 |
 | [Supermodel](https://open.spotify.com/track/5wTVNpi5WDByxBgKgUE6MU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:01 | 2020-12-21 | 2022-07-09 |
 | [Sutphin Boulevard](https://open.spotify.com/track/2NtqI3Ylig7bB36esIwYuE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 3:34 | 2023-05-25 | 2023-10-24 |
-| [swan hug \(feat\. jjared\)](https://open.spotify.com/track/1JTUU1q0ilxfcsqAQKh9Lm) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [jjared](https://open.spotify.com/artist/2lCi1gAqy8tw0g4zEZtUxp) | [Goûter](https://open.spotify.com/album/4abjv34MTztlQVxJAmcfij) | 4:32 | 2023-05-25 |  |
+| [swan hug \(feat\. jjared\)](https://open.spotify.com/track/1JTUU1q0ilxfcsqAQKh9Lm) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [jjared](https://open.spotify.com/artist/2lCi1gAqy8tw0g4zEZtUxp) | [Goûter](https://open.spotify.com/album/4abjv34MTztlQVxJAmcfij) | 4:32 | 2023-05-25 | 2024-02-09 |
 | [SWEET / I THOUGHT YOU WANTED TO DANCE \(feat\. Brent Faiyaz & Fana Hues\)](https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 9:48 | 2021-07-01 | 2022-05-21 |
 | [Swing Lo Magellan](https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Swing Lo Magellan](https://open.spotify.com/album/5zQgu9qi6mK8KuleuzM22C) | 2:37 | 2020-12-21 | 2022-04-20 |
 | [Take the Blame so I Don't Have To](https://open.spotify.com/track/7GaQ0XyNfVEzFaGTGTNrCU) | [Spooky Black](https://open.spotify.com/artist/62TFj06qes00QmQuKmK7c2) | [Leaving](https://open.spotify.com/album/34jUAKMBHMCl3hjzb9rsut) | 3:21 | 2023-05-25 | 2023-11-18 |

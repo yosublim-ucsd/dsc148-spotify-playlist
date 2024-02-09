@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 115745,
+  "2024-02-09": 115919,
   "date_first_scraped": "2022-06-30",
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Fabiana Cantilo",
   "name": "Baladas Rock",
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 185590,
       "name": "La Canci\u00f3n que Peg\u00f3 en el Palo",
       "url": "https://open.spotify.com/track/22vZWcv2TDPn0qocJgbvVj"
@@ -1731,6 +1731,24 @@
       "duration_ms": 363120,
       "name": "Mujer Amante",
       "url": "https://open.spotify.com/track/4eCrF1FgVL4se3AkHOnLDL"
+    },
+    {
+      "album": {
+        "name": "Magos, Espadas Y Rosas",
+        "url": "https://open.spotify.com/album/4ZVdhrTnRFM8OYwB9lp71x"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365173,
+      "name": "Mujer Amante",
+      "url": "https://open.spotify.com/track/7xUw3j3VBUhbMmoo3re0cU"
     },
     {
       "album": {

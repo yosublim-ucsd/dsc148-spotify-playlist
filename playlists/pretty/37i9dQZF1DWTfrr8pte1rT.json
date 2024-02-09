@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Steve Aoki and Yellowcard \\m/",
-  "num_followers": 322561,
+  "num_followers": 322583,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjE2ZGVkNjlmMjk5YTJjNGI5YWMxNDQzODg2NDJmMzQxZmZlZWIw",
+  "snapshot_id": "MCw3OTI5YmM0NGE5NTgyYTQyYmFiZTljNTQ3N2U2MmY2ZTE2NDlhMjk3",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "JUMP OUT",
+        "url": "https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        }
+      ],
+      "duration_ms": 129776,
+      "name": "JUMP OUT",
+      "url": "https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Light Up The Sky (feat. Scott Stapp)",
         "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
       },
@@ -1603,26 +1623,6 @@
       "duration_ms": 284425,
       "name": "Light Up The Sky (feat. Scott Stapp)",
       "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "JUMP OUT",
-        "url": "https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        },
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        }
-      ],
-      "duration_ms": 129776,
-      "name": "JUMP OUT",
-      "url": "https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        }
-      ],
-      "duration_ms": 230344,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Werewolf: Synthwave Edition",
         "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 211387,
       "name": "Werewolf: Synthwave Edition",
       "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        }
+      ],
+      "duration_ms": 230344,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/0ZaiDvYtUSXN9AFFQnAeHj"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        }
+      ],
+      "duration_ms": 195254,
+      "name": "War",
+      "url": "https://open.spotify.com/track/65NKOYrzh6Gz7rtiLmMMek"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Angst",
         "url": "https://open.spotify.com/album/7shS9BkAsDD0jVjWnc7iQn"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 240000,
       "name": "Angst - RMX by twocolors",
       "url": "https://open.spotify.com/track/1kqx2Z9AXjbUCbPkUVbIRM"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/0ZaiDvYtUSXN9AFFQnAeHj"
-      },
-      "artists": [
-        {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
-        }
-      ],
-      "duration_ms": 195254,
-      "name": "War",
-      "url": "https://open.spotify.com/track/65NKOYrzh6Gz7rtiLmMMek"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "WARNING",
-        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "WARNING",
-      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Beautiful Nothing",
         "url": "https://open.spotify.com/album/0MaD5lTQ32Np46N7qTmR4f"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 211862,
       "name": "Beautiful Nothing",
       "url": "https://open.spotify.com/track/0x5j3PoYG2Hex2bUrbBX3v"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2175,26 +2175,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "DANCEFLOOR",
-        "url": "https://open.spotify.com/album/1POG70eBb9W3K3BHhGKNMO"
-      },
-      "artists": [
-        {
-          "name": "NOISY",
-          "url": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "DANCEFLOOR",
-      "url": "https://open.spotify.com/track/1Pvq76uvP8iMC7K0BXNE1c"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/4z3ceRR57zSeebnwkZaH7o"
       },
@@ -2211,6 +2191,26 @@
       "duration_ms": 196500,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/79xFgpCUqxYSQJcJBXFWSd"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "DANCEFLOOR",
+        "url": "https://open.spotify.com/album/1POG70eBb9W3K3BHhGKNMO"
+      },
+      "artists": [
+        {
+          "name": "NOISY",
+          "url": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "DANCEFLOOR",
+      "url": "https://open.spotify.com/track/1Pvq76uvP8iMC7K0BXNE1c"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "FIMBULVETR",
-        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
-      },
-      "artists": [
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 233203,
-      "name": "FIMBULVETR",
-      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 240044,
       "name": "Superhuman (with K.Flay)",
       "url": "https://open.spotify.com/track/64moA9zwEfhBADmxLZvVhH"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2431,26 +2431,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq"
-      },
-      "artists": [
-        {
-          "name": "AWAY",
-          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
-        },
-        {
-          "name": "Echos",
-          "url": "https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR"
-        }
-      ],
-      "duration_ms": 246193,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Tear You Apart (feat. Aaron Gillespie)",
         "url": "https://open.spotify.com/album/2bJnYJCrS8T5TimCq7gXcP"
       },
@@ -2467,6 +2447,26 @@
       "duration_ms": 143180,
       "name": "Tear You Apart (feat. Aaron Gillespie)",
       "url": "https://open.spotify.com/track/6JZe3sy9UXaYVysRTHss6l"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq"
+      },
+      "artists": [
+        {
+          "name": "AWAY",
+          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
+        },
+        {
+          "name": "Echos",
+          "url": "https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR"
+        }
+      ],
+      "duration_ms": 246193,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2507,22 +2507,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Hollow Skull",
-        "url": "https://open.spotify.com/album/45bk3MnJLpVBEvWogvR3jM"
+        "name": "you\u2019ve changed, i\u2019ve changed",
+        "url": "https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu"
       },
       "artists": [
         {
-          "name": "Nimda",
-          "url": "https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
         },
         {
-          "name": "Bound in Fear",
-          "url": "https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL"
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
         }
       ],
-      "duration_ms": 226252,
-      "name": "Hollow Skull",
-      "url": "https://open.spotify.com/track/5mBKo3c5Q7sRa8DS7qXQpL"
+      "duration_ms": 311625,
+      "name": "you\u2019ve changed, i\u2019ve changed",
+      "url": "https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv"
     }
   ],
   "unique_name": "Rocktronic",

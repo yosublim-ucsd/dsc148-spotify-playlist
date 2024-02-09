@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 
 > Enjoy the electric, amplified sound that is Chicago Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,772 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,816 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 39 | [That's All Right](https://open.spotify.com/track/7zkmkHaRU236uNKwzWmmH6) | [Bonnie Lee](https://open.spotify.com/artist/6p4aQSzYlLjwqvP5CVi0Ri) | [Sweetheart Of The Blues](https://open.spotify.com/album/2TPXKCWVedKR07MyfVWBZP) | 5:39 |
 | 40 | [Little Red Rooster](https://open.spotify.com/track/3dwWMDLZlZxtkvTjVA5J1Z) | [Aron Burton](https://open.spotify.com/artist/5MtZAGnIXaVV2GaVkSFXxb) | [Aron Burton Live](https://open.spotify.com/album/7h72Z9ynR6pYW7zhGlbChV) | 6:18 |
 | 41 | [44 Blues](https://open.spotify.com/track/1iIKiEJ0JYsnV3ydvdxPvD) | [Little Arthur Duncan](https://open.spotify.com/artist/4Kikasw7Byz45UsiQwjTLk) | [Live at Rosa's Blues Lounge](https://open.spotify.com/album/5y0HxCdpNri2AEY7iQ36b4) | 3:46 |
-| 42 | [I Wish I Had Somebody](https://open.spotify.com/track/1jmUDgvrdOKpz1JxlEH7Qz) | [Good Rockin' Charles](https://open.spotify.com/artist/0RVvc29Nt39V4pjvMab6Y8) | [American Blues Legends 79](https://open.spotify.com/album/08wMsEomV865Vdabc98gPw) | 4:46 |
-| 43 | [Night Life](https://open.spotify.com/track/6tbhUMSYaqy5Enl0XDkJkO) | [Hip Linkchain](https://open.spotify.com/artist/3b0MiHp4LNaHJqDeu0YyLZ), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Change My Blues](https://open.spotify.com/album/6U3s4tNpNDKygphGvQnmye) | 4:48 |
+| 42 | [Night Life](https://open.spotify.com/track/6tbhUMSYaqy5Enl0XDkJkO) | [Hip Linkchain](https://open.spotify.com/artist/3b0MiHp4LNaHJqDeu0YyLZ), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Change My Blues](https://open.spotify.com/album/6U3s4tNpNDKygphGvQnmye) | 4:48 |
+| 43 | [I Wish I Had Somebody](https://open.spotify.com/track/1jmUDgvrdOKpz1JxlEH7Qz) | [Good Rockin' Charles](https://open.spotify.com/artist/0RVvc29Nt39V4pjvMab6Y8) | [American Blues Legends 79](https://open.spotify.com/album/08wMsEomV865Vdabc98gPw) | 4:46 |
 | 44 | [Slow Down Baby](https://open.spotify.com/track/3hEqk9Uh4SBj0TZLcwxixB) | [Lester Davenport](https://open.spotify.com/artist/5HAs3PXvcSdFY57ey4glmF) | [When The Blues Hit You](https://open.spotify.com/album/6rxjk3V22DyOH6nTNcd331) | 5:58 |
 | 45 | [Bad Avenue](https://open.spotify.com/track/6QVQ98K8JrqHfImepOeQ6L) | [Lefty Dizz](https://open.spotify.com/artist/7IfuL3VRS5L6fnVTY3UV7R) | [Ain't It Nice To Be Loved](https://open.spotify.com/album/4xw7nz7O6NK6NK04wkCRUN) | 8:35 |
 | 46 | [First Time I Met The Blues \- Single Version](https://open.spotify.com/track/2jgmBkJC0PhRWzn7X26WNZ) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [20th Century Masters: The Millennium Collection: Best of Buddy Guy](https://open.spotify.com/album/3iXDIrZsFitJCltwmfkrks) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 49 | [Farther Up The Road](https://open.spotify.com/track/0NqQU0BPlVb8HMNmcHnQPD) | [Andrew Odom](https://open.spotify.com/artist/3edYUdDu4mSxpqjfBhAtV8) | [Earl Hooker: Simply The Best](https://open.spotify.com/album/0TGgq70vAHg6mvS51TjYKH) | 4:58 |
 | 50 | [Dark Road](https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo) | [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O) | 3:37 |
 
-Snapshot ID: `MCw3NGRlNDZkNzJiYTliYTE5ZTFhODdiZjMwMmQwMjc2YTVjOWQ3OWVh`
+Snapshot ID: `MCw1MWEyODgwNjQ4Yzg2NDA3YjVmMTgwMjcwOTNiNzU2OGQwZTQxN2U1`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,378 songs - 2 day 15 hr 39 min
+1,379 songs - 2 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [bankai](https://open.spotify.com/track/1qwAvf8LsXY7H1sD5rRXGO) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [bankai](https://open.spotify.com/album/59nx25qYi62hyVrvvNYkEc) | 1:57 | 2022-04-18 | 2022-04-28 |
 | [bankai](https://open.spotify.com/track/6tlU1yG1HdSrbbbfQN3NH3) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [bankai](https://open.spotify.com/album/0OZXlr5uiKMAwFzyHbwXM9) | 1:57 | 2022-04-02 | 2022-04-19 |
 | [Banyak](https://open.spotify.com/track/7mwifeICJFfHpwKWPh4rjA) | [Clonnex](https://open.spotify.com/artist/3NOlXM7t15vx8M9hwmQc9L) | [MEDIV Luff N Sip](https://open.spotify.com/album/6oKn91CSNeDdZHyc2VQnyh) | 1:46 | 2022-08-20 | 2022-08-24 |
-| [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-07 |  |
+| [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-07 | 2024-02-09 |
 | [Beauty](https://open.spotify.com/track/0ipVeLBnrx1oYyVLLR80mm) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE), [Showbiz School](https://open.spotify.com/artist/014QuYvSWcdqx4lhe17MX6) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 3:04 | 2021-04-11 | 2021-04-13 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-05-30 | 2021-10-23 |
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-08-31 | 2021-09-02 |
@@ -978,6 +978,7 @@
 | [Квіти](https://open.spotify.com/track/1BBXxqH8gdhsic0GeKD11U) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Квіти](https://open.spotify.com/album/7oSD0T1aolSFWD1nYwM4YQ) | 2:01 | 2023-06-17 | 2023-06-19 |
 | [Киллер \(Prod\. by malenkiyyarche x kayyo\)](https://open.spotify.com/track/3d67iioYf1Hvt2b7ncDzZv) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [ЗАПРАВКА КИД 2](https://open.spotify.com/album/2Fw2CNrwvmKKoEIgtnaara) | 1:08 | 2021-03-27 | 2021-03-29 |
 | [кискис](https://open.spotify.com/track/6yUw6FLB1g8DqZUv7S5TKA) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [кискис](https://open.spotify.com/album/6ursd41l2w1YvIgiYIVtDK) | 2:50 | 2021-04-03 | 2021-04-28 |
+| [Кисти](https://open.spotify.com/track/3WIWqQMBUBQgmJERv3xTMV) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032) | [Кисти](https://open.spotify.com/album/7MknjLHIoWLa3hn4F7S4EE) | 2:51 | 2024-02-08 |  |
 | [кладбище](https://open.spotify.com/track/1xASDcZcb869OkSu86Wbw8) | [вышел покурить](https://open.spotify.com/artist/1YMUxFiaKsU85N9YolW0W9) | [кладбище](https://open.spotify.com/album/4XqaS0ByH0TBCu22mR4KTw) | 1:49 | 2021-09-21 | 2022-04-20 |
 | [КОГДА НАС ОТПУСТИТ](https://open.spotify.com/track/7EhsIpv1vEaclEeP19gbMu) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:49 | 2021-05-30 | 2021-06-05 |
 | [Кожура](https://open.spotify.com/track/1OeGvzNcGC2s6F41lmCdjA) | [ZAPOMNI](https://open.spotify.com/artist/4V8bQXsHrlkgPwjTLSmgYU) | [BACKGROUND](https://open.spotify.com/album/2JoaHoCGIfFErAD74QjsOT) | 2:23 | 2021-12-21 | 2022-04-08 |
@@ -1034,7 +1035,7 @@
 | [Матильда](https://open.spotify.com/track/48DqTa5F3e21LdVhTlNL8Q) | [lil krystalll](https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA) | [Матильда](https://open.spotify.com/album/6qNMXsKNHHNnrCbuKcLxsS) | 1:31 | 2021-12-12 | 2021-12-19 |
 | [маша](https://open.spotify.com/track/64epifHS5CvRUVgKEDbRJm) | [ПОЛМАТЕРИ](https://open.spotify.com/artist/3NDasZQ8ZbOssdAPNkZgW1) | [маша](https://open.spotify.com/album/0wcEoN1N8t2IpmeFIRa3Fy) | 1:55 | 2023-01-03 | 2023-01-18 |
 | [Маяк](https://open.spotify.com/track/73yFhVfJGEuFbLcJlXvysO) | [The Hardkiss](https://open.spotify.com/artist/4IJcztNtY5L7G3qK4yu1qt) | [Маяк](https://open.spotify.com/album/6PSB8QBCTsz961PJ0KMLoq) | 3:26 | 2023-05-13 | 2023-06-03 |
-| [Мефистофель](https://open.spotify.com/track/6hqHMxZAXwS2FqwmluUSi3) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая Яма 2](https://open.spotify.com/album/4HPtCceldRKrNLeJcBuSWk) | 1:26 | 2023-12-29 |  |
+| [Мефистофель](https://open.spotify.com/track/6hqHMxZAXwS2FqwmluUSi3) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая Яма 2](https://open.spotify.com/album/4HPtCceldRKrNLeJcBuSWk) | 1:26 | 2023-12-29 | 2024-02-09 |
 | [Мечты](https://open.spotify.com/track/48Mtf0Vuc3H7yI56Iz1OhU) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z), [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg) | [AA LANGUAGE 2](https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na) | 1:50 | 2023-10-28 | 2023-11-03 |
 | [Миллионы](https://open.spotify.com/track/3F3bEnE5mney9PyuFU7LS8) | [THRILL PILL](https://open.spotify.com/artist/3pONzjQKqFrh3zTQBTMeWd) | [Миллионы](https://open.spotify.com/album/7pOUv2vU4BblWMDRLApVTA) | 2:08 | 2021-04-18 | 2021-05-22 |
 | [Мне по\*уй](https://open.spotify.com/track/4WK8Rnu4d2vyNj3GFy7LTX) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms), [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Мне по\*уй](https://open.spotify.com/album/2LZhCdDd6Zzuayl01X451m) | 2:48 | 2021-08-15 | 2021-08-22 |
@@ -1313,7 +1314,7 @@
 | [ХОТЕЛ ТЕБЕ СКАЗАТЬ...](https://open.spotify.com/track/6oDrOjhRPuKNy80r6iOCTY) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh) | [ХОТЕЛ ТЕБЕ СКАЗАТЬ...](https://open.spotify.com/album/0dsmPGQpqvQWamUEWbJiV6) | 2:05 | 2021-10-03 | 2021-10-12 |
 | [Хочеш](https://open.spotify.com/track/2R8CylfWLqBcejsXu2mdcW) | [Після Дощу](https://open.spotify.com/artist/7vUQFioWvCavqy0WKpo1yD) | [Хочеш](https://open.spotify.com/album/2rJgsuytbx0DNv1ngQ2w6I) | 2:27 | 2023-03-30 | 2024-01-31 |
 | [Хочеш](https://open.spotify.com/track/5DJXnr5BBPx2DWgl9UoWxp) | [Після Дощу](https://open.spotify.com/artist/7vUQFioWvCavqy0WKpo1yD) | [Хочеш](https://open.spotify.com/album/0wDtl3Sdzer5tXAfauYfPK) | 2:27 | 2024-01-30 | 2024-02-03 |
-| [Хто ти](https://open.spotify.com/track/2DHoodRL3ttSQDFLx60QPl) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0) | [Бережи мене](https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb) | 2:14 | 2023-10-12 | 2024-02-06 |
+| [Хто ти](https://open.spotify.com/track/2DHoodRL3ttSQDFLx60QPl) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0) | [Бережи мене](https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb) | 2:14 | 2023-10-12 |  |
 | [ХУДРИЧ](https://open.spotify.com/track/7Ia618v9vTRNpaZXtBsHrt) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi) | [ХУДРИЧ](https://open.spotify.com/album/3yhmLyUNT9SHNBd4cg72D9) | 2:18 | 2023-10-14 | 2023-10-17 |
 | [Хэллоу Китти](https://open.spotify.com/track/2zHLOJoeSs3OpW8aR19AuS) | [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Хэллоу Китти](https://open.spotify.com/album/473DLb6Gjj0aHISsdqD7kZ) | 2:06 | 2022-11-22 | 2022-12-14 |
 | [Царица](https://open.spotify.com/track/1sgGy5HcUAdYoWGj3RXmYb) | [ANNA ASTI](https://open.spotify.com/artist/40YXr3tdSqFv0kfmgjj8vP) | [Царица](https://open.spotify.com/album/2rnuTMnUTPZOZQUw99TleP) | 3:35 | 2023-10-27 | 2023-11-07 |

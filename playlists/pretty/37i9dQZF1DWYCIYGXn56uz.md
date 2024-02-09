@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Matteo Romano
+> ✨giovane✨pop✨z✨ Cover: Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,385 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,376 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 16 | [Fila indiana](https://open.spotify.com/track/1H36kJUqLOHLSL98XQBRFU) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Fila indiana](https://open.spotify.com/album/68GC0n66xwvHhuAL8aJ9rM) | 3:13 |
 | 17 | [Bella](https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Bella](https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP) | 3:01 |
 | 18 | [La rabbia non ti basta](https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [La rabbia non ti basta](https://open.spotify.com/album/7rex9i7hSRRzJAlRdm3xle) | 3:09 |
-| 19 | [Si è spenta anche la luna \- LUNA](https://open.spotify.com/track/2nWVJWO9bQRH6OsvG5bWIO) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Si è spenta anche la luna \- LUNA](https://open.spotify.com/album/0XMf0lGQAJmxdo2r9x1ob0) | 3:23 |
-| 20 | [MERCOLEDÌ MAI](https://open.spotify.com/track/6QxdN1k7aMhkFiTmuFRUPs) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [MERCOLEDÌ MAI](https://open.spotify.com/album/7Ib2YfkSm802GqCNw5RNnk) | 2:54 |
-| 21 | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs) | 3:10 |
-| 22 | [Viole e Violini](https://open.spotify.com/track/60ir328nxqnjOLXxvsqmHm) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Viole e Violini](https://open.spotify.com/album/6FPMkD4uAvcGVYxLQ0bm7Y) | 2:50 |
-| 23 | [DIMMI CHE NON È UN ADDIO](https://open.spotify.com/track/3nIDXarK9FuClYwZQTSoK2) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [DIMMI CHE NON È UN ADDIO](https://open.spotify.com/album/6U5GyoLm2UlkuMFAWMQ0s7) | 2:57 |
-| 24 | [CHE FAI](https://open.spotify.com/track/2sTg9dCPOJKJ52BnZGRoBt) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [CHE FAI](https://open.spotify.com/album/0ZuHFQf7VRevzAHfXBbjah) | 2:21 |
-| 25 | [quando realizzi che non ti aveva capito](https://open.spotify.com/track/0dv8XKmRsUY86EKBDiiqRI) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [quando realizzi che non ti aveva capito](https://open.spotify.com/album/1XZ2XLLCU20UJHFix4Wbiy) | 2:46 |
-| 26 | [VIVO](https://open.spotify.com/track/5Z94e6QpyQI50ehSfeeLy3) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [VIVO](https://open.spotify.com/album/2IokIZBdDMvu0nayy0ZEEB) | 3:23 |
+| 19 | [MERCOLEDÌ MAI](https://open.spotify.com/track/6QxdN1k7aMhkFiTmuFRUPs) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [MERCOLEDÌ MAI](https://open.spotify.com/album/7Ib2YfkSm802GqCNw5RNnk) | 2:54 |
+| 20 | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs) | 3:10 |
+| 21 | [Viole e Violini](https://open.spotify.com/track/60ir328nxqnjOLXxvsqmHm) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Viole e Violini](https://open.spotify.com/album/6FPMkD4uAvcGVYxLQ0bm7Y) | 2:50 |
+| 22 | [DIMMI CHE NON È UN ADDIO](https://open.spotify.com/track/3nIDXarK9FuClYwZQTSoK2) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [DIMMI CHE NON È UN ADDIO](https://open.spotify.com/album/6U5GyoLm2UlkuMFAWMQ0s7) | 2:57 |
+| 23 | [CHE FAI](https://open.spotify.com/track/2sTg9dCPOJKJ52BnZGRoBt) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [CHE FAI](https://open.spotify.com/album/0ZuHFQf7VRevzAHfXBbjah) | 2:21 |
+| 24 | [quando realizzi che non ti aveva capito](https://open.spotify.com/track/0dv8XKmRsUY86EKBDiiqRI) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [quando realizzi che non ti aveva capito](https://open.spotify.com/album/1XZ2XLLCU20UJHFix4Wbiy) | 2:46 |
+| 25 | [VIVO](https://open.spotify.com/track/5Z94e6QpyQI50ehSfeeLy3) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [VIVO](https://open.spotify.com/album/2IokIZBdDMvu0nayy0ZEEB) | 3:23 |
+| 26 | [Si è spenta anche la luna \- LUNA](https://open.spotify.com/track/2nWVJWO9bQRH6OsvG5bWIO) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Si è spenta anche la luna \- LUNA](https://open.spotify.com/album/0XMf0lGQAJmxdo2r9x1ob0) | 3:23 |
 | 27 | [americana](https://open.spotify.com/track/0VEcCKqnXUU2yALEhsYq2X) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [americana](https://open.spotify.com/album/3U8aGMcvbUxvyngs3Jamv4) | 2:39 |
 | 28 | [Non dimenticare](https://open.spotify.com/track/1cxwdeMHwOJx1L6U9UVEwx) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Non dimenticare](https://open.spotify.com/album/3vTRhTcI2ieRik3jcxw4er) | 2:55 |
 | 29 | [ODIAMI](https://open.spotify.com/track/2e8mCMd3Dihg0EkFzeRS61) | [NDG](https://open.spotify.com/artist/6VSx5Yd2AO0fhm0h6xxeGi) | [ODIAMI](https://open.spotify.com/album/02kvSxum7hIbUSSmmc3qxh) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 49 | [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 |
 | 50 | [Ancora](https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Ancora](https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6) | 2:51 |
 
-Snapshot ID: `MCw1NGY1N2U1YTMyOGIwZTUyZGE0ZDY3NjA5MjJkYWI0YWI3NTUyYmI1`
+Snapshot ID: `MCw5YzEyY2QzNjE5NTEzN2JjMDE0YTU3YmY0ZDZiNzNjOWFkNjM5NTJj`

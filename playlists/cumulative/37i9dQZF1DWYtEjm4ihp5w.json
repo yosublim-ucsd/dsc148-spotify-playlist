@@ -886,7 +886,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 196206,
       "name": "Docteur - Spotify Singles",
       "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 260000,
       "name": "Fawda",
       "url": "https://open.spotify.com/track/64icnQSqsWkz0d7oQeNlB9"
@@ -2233,6 +2233,28 @@
     },
     {
       "album": {
+        "name": "Minuit",
+        "url": "https://open.spotify.com/album/2ubz38hd8GzoT6nFs50NeA"
+      },
+      "artists": [
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207240,
+      "name": "Minuit",
+      "url": "https://open.spotify.com/track/4Qwzw8eFrFYUkegexOtyNm"
+    },
+    {
+      "album": {
         "name": "MON LOVE OHO",
         "url": "https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9"
       },
@@ -2422,6 +2444,28 @@
       "duration_ms": 185552,
       "name": "Nichane",
       "url": "https://open.spotify.com/track/18mE2O1ogNq2OFW71jfyS0"
+    },
+    {
+      "album": {
+        "name": "ICEBERG",
+        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Dizzy DROS",
+          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273454,
+      "name": "NIKEY",
+      "url": "https://open.spotify.com/track/3pkKb7bj2eVQjNaHOGzYSf"
     },
     {
       "album": {
@@ -2792,7 +2836,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 199215,
       "name": "R.I.P",
       "url": "https://open.spotify.com/track/4dUiCEFw6hzX1EIHeN0x8J"
@@ -2814,6 +2858,28 @@
       "duration_ms": 187182,
       "name": "RADAR",
       "url": "https://open.spotify.com/track/7D1oLt3qqyjnxwOHUeqyNS"
+    },
+    {
+      "album": {
+        "name": "ICEBERG",
+        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "RALLY DAKAR",
+      "url": "https://open.spotify.com/track/6RFjHcQlq5ielUHwYec9xS"
     },
     {
       "album": {

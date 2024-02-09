@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Keith Urban, Kenny Chesney, Gabby Barrett and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,924 likes - 72 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,075 likes - 72 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 30 | [I Had It All](https://open.spotify.com/track/1h3p4de0h9HDlV05wHutTa) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [I Had It All](https://open.spotify.com/album/3iUyCc0AI3528emsWrOLI7) | 3:21 |
 | 31 | [It's You](https://open.spotify.com/track/6IaU01HjdIQimBmOdAjdcf) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [VK](https://open.spotify.com/artist/4CYxG1N5jv7OtBX8Ql2wly) | [It's You](https://open.spotify.com/album/313CwbceayWkGkp8G97ciF) | 3:21 |
 | 32 | [Neon Cowboy \- DJ CHILL Remix](https://open.spotify.com/track/1uQe1EHrQ6Rxd6EC7npQMQ) | [The Kentucky Gentlemen](https://open.spotify.com/artist/5Jyxuj6Ho7xmNPrDub1U86) | [Neon Cowboy \(DJ CHILL Remix\)](https://open.spotify.com/album/00fs4XB0x4SAKO5LOizuRa) | 3:22 |
-| 33 | [Try](https://open.spotify.com/track/0VA4DwyLGCpZWe71zoP5bh) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO), [SonReal](https://open.spotify.com/artist/22yqDoM2Rd7MGZ53Vanwgc) | [Try](https://open.spotify.com/album/1vNuIMAjHkJA5xhKvsGmqv) | 3:51 |
+| 33 | [Try](https://open.spotify.com/track/0VA4DwyLGCpZWe71zoP5bh) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO), [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [Try](https://open.spotify.com/album/1vNuIMAjHkJA5xhKvsGmqv) | 3:51 |
 | 34 | [dear dolly \(acoustic\)](https://open.spotify.com/track/21Y4Wk5tAfn7GIFZLScDyf) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [dear dolly \(acoustic\)](https://open.spotify.com/album/7MC7VHT3gNkzG7hrc0fx6d) | 3:53 |
 | 35 | [Down Here](https://open.spotify.com/track/1rit7R4jihrRlOBsXnSTri) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Down Here](https://open.spotify.com/album/7nlknl85Ot1h5XVCYzoDfI) | 2:04 |
 | 36 | [Whiskey In The Dirt](https://open.spotify.com/track/03dRyEfmymSthaTCj8hZUZ) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [From The Writin' Room](https://open.spotify.com/album/4lyLy6TQ4gxsvOjV5acAuI) | 2:54 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 71 | [Hurricane](https://open.spotify.com/track/119a4i4LHVRmxPu3hmdmJz) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Hurricane](https://open.spotify.com/album/5WVYLlEHHKBQPvOfR0f2FY) | 4:20 |
 | 72 | [Devil's Money](https://open.spotify.com/track/50YJ1k4Xi4b4DmzQhyKlPL) | [Mary Kutter](https://open.spotify.com/artist/0rTX0ieS2m0gUGLlLe4kQP) | [Devil's Money](https://open.spotify.com/album/2Vnruy8SLnV6iHlrgDDQSb) | 2:32 |
 
-Snapshot ID: `MCwwMjZlYWNmOTJjMGYyZDE3YWIzMWJlYmI2NGYxNjFlODI0MmFiNTEy`
+Snapshot ID: `MCxjZDNjYWFiODU1MjYyZjYwY2RhZjcxZmM2OGQwMjk2ZjFjMTNmZDI0`

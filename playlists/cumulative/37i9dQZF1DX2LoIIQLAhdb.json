@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Nej",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda",
   "name": "R&Bae",
   "tracks": [
     {
@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "Un peu de moi (Pt. 2)",
+        "url": "https://open.spotify.com/album/41JxwnXG0TtCKaTi5LGimZ"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172120,
+      "name": "Beau parleur",
+      "url": "https://open.spotify.com/track/1dxLarvU0YHWPH0PuwQWUN"
+    },
+    {
+      "album": {
         "name": "Bloqu\u00e9",
         "url": "https://open.spotify.com/album/4BaV2ubS575EMm2qcXSqD2"
       },
@@ -538,6 +556,24 @@
       "duration_ms": 131480,
       "name": "C'est toi - Bonus",
       "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
+    },
+    {
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/75Q2UhYj53Mjqc7DXeGEY3"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/0U8PAXrNktnPR0aQEmfV5P"
     },
     {
       "album": {
@@ -1224,7 +1260,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 206720,
       "name": "D\u00e9lire (feat. Tiakola)",
       "url": "https://open.spotify.com/track/5JzxQS6OW4GEruKqShvUo8"
@@ -1474,6 +1510,24 @@
       "duration_ms": 137437,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz"
+    },
+    {
+      "album": {
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/7evqrdGMYlXOOJi7Ozu1gs"
+      },
+      "artists": [
+        {
+          "name": "Scridge",
+          "url": "https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177311,
+      "name": "GHOST & TOMMY",
+      "url": "https://open.spotify.com/track/7FWIpbdui2fXi54J0GJ6o6"
     },
     {
       "album": {
@@ -1883,6 +1937,28 @@
     },
     {
       "album": {
+        "name": "Jamais yensak",
+        "url": "https://open.spotify.com/album/6EcswaZItJn3EL53VYpU0w"
+      },
+      "artists": [
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        },
+        {
+          "name": "Numidia Lezoul",
+          "url": "https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168365,
+      "name": "Jamais yensak",
+      "url": "https://open.spotify.com/track/1aoiOAlXOV3slSPbqACbp5"
+    },
+    {
+      "album": {
         "name": "Japonais",
         "url": "https://open.spotify.com/album/5F1Br2g4h6tiMyz3p8FzVV"
       },
@@ -1894,7 +1970,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 165078,
       "name": "Japonais",
       "url": "https://open.spotify.com/track/4L6GFaHKWwJBeaD6FEKaXh"
@@ -3146,7 +3222,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 168998,
       "name": "On sait jamais",
       "url": "https://open.spotify.com/track/3KJ09hhKE2fLIxcoLS4sAD"

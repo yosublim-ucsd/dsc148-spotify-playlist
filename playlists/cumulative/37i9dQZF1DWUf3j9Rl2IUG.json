@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover: Zlatan & Asake",
+  "description": "Afrobeats' hottest singles. Cover: Victony",
   "name": "Gbedu",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 301950,
       "name": "APALA DISCO",
       "url": "https://open.spotify.com/track/1SiBHQQkkySXWZfARVr6Pz"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 175135,
       "name": "at your Service",
       "url": "https://open.spotify.com/track/4VgxquZG0O1G2PhNYND7s9"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 152595,
       "name": "Big Baller",
       "url": "https://open.spotify.com/track/3U0AYNEpt2cumbDILVFiBz"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 172113,
       "name": "Busy",
       "url": "https://open.spotify.com/track/207EjYJwVSc0ypijvKBMic"
@@ -1875,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
+    },
+    {
+      "album": {
         "name": "Ex Convict",
         "url": "https://open.spotify.com/album/1ZNJEECHv1mt8ktam5iX6i"
       },
@@ -2120,7 +2138,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 194400,
       "name": "FIREGUN (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk"
@@ -2218,7 +2236,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 164745,
       "name": "Gelato",
       "url": "https://open.spotify.com/track/0CYRz5xyGFopF14SnrrINF"
@@ -2978,7 +2996,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 145910,
       "name": "La Pio Pio",
       "url": "https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ"
@@ -3492,7 +3510,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 193500,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
@@ -4324,7 +4342,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 177931,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"

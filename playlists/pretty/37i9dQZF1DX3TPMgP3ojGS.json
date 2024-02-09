@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 403322,
+  "num_followers": 403468,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTgwYmE1ZWQwYTVkMjVlMDMyMzBjZDFlMDFhYzhmOTA4MzZlOGJk",
+  "snapshot_id": "MCxjNGQxNjMxNmQ1M2QzMTE3NDgxNDc0OWIzNjI1ODkzNWM4M2I3MDI2",
   "tracks": [
     {
       "added_at": "2024-02-06 15:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "For A Moment",
-        "url": "https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO"
-      },
-      "artists": [
-        {
-          "name": "Haley Morrison",
-          "url": "https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET"
-        }
-      ],
-      "duration_ms": 201874,
-      "name": "For A Moment",
-      "url": "https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "Archipelago",
         "url": "https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 158000,
       "name": "Archipelago",
       "url": "https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "For A Moment",
+        "url": "https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO"
+      },
+      "artists": [
+        {
+          "name": "Haley Morrison",
+          "url": "https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET"
+        }
+      ],
+      "duration_ms": 201874,
+      "name": "For A Moment",
+      "url": "https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
-      },
-      "artists": [
-        {
-          "name": "Floyd Nova",
-          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "To Bring Rest",
         "url": "https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 137749,
       "name": "To Bring Rest",
       "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "duration_ms": 151750,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
         "name": "Dancing Dreams",
         "url": "https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 147098,
       "name": "Le Recueillement",
       "url": "https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU"
-      },
-      "artists": [
-        {
-          "name": "Floyd Nova",
-          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
-        }
-      ],
-      "duration_ms": 151750,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Serene",
-        "url": "https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov"
-      },
-      "artists": [
-        {
-          "name": "Will Kaufman",
-          "url": "https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU"
-        }
-      ],
-      "duration_ms": 146745,
-      "name": "Serene",
-      "url": "https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "My Little Treasure",
         "url": "https://open.spotify.com/album/1E2bAyJoZ5GU7VGGbIu3NF"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 90717,
       "name": "My Little Treasure",
       "url": "https://open.spotify.com/track/7A6mWq885WLJUngzwxfQXW"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Serene",
+        "url": "https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov"
+      },
+      "artists": [
+        {
+          "name": "Will Kaufman",
+          "url": "https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU"
+        }
+      ],
+      "duration_ms": 146745,
+      "name": "Serene",
+      "url": "https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Lisser",
-        "url": "https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8"
-      },
-      "artists": [
-        {
-          "name": "Miran",
-          "url": "https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q"
-        }
-      ],
-      "duration_ms": 125041,
-      "name": "Lisser",
-      "url": "https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "Fiume",
         "url": "https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 140124,
       "name": "Fiume",
       "url": "https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Lisser",
+        "url": "https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8"
+      },
+      "artists": [
+        {
+          "name": "Miran",
+          "url": "https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q"
+        }
+      ],
+      "duration_ms": 125041,
+      "name": "Lisser",
+      "url": "https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Light of wintertime",
-        "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
-      },
-      "artists": [
-        {
-          "name": "Josephe Burke",
-          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
-        }
-      ],
-      "duration_ms": 131295,
-      "name": "Light of wintertime",
-      "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "Onward",
         "url": "https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 134000,
       "name": "Onward",
       "url": "https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Light of wintertime",
+        "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
+      },
+      "artists": [
+        {
+          "name": "Josephe Burke",
+          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
+        }
+      ],
+      "duration_ms": 131295,
+      "name": "Light of wintertime",
+      "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Quiet Eyes",
-        "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
-      },
-      "artists": [
-        {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
-        }
-      ],
-      "duration_ms": 141451,
-      "name": "Quiet Eyes",
-      "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "Whispering Oaks",
         "url": "https://open.spotify.com/album/1jg0lKpBFgPpgww85JzDNz"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 128724,
       "name": "Evening Star",
       "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Quiet Eyes",
+        "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 141451,
+      "name": "Quiet Eyes",
+      "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Woods",
-          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
-        }
-      ],
-      "duration_ms": 163916,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "Deja",
         "url": "https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 123216,
       "name": "Just Stay",
       "url": "https://open.spotify.com/track/61PEtXxbmpaVQDRNxcE0IJ"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Woods",
+          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
+        }
+      ],
+      "duration_ms": 163916,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "From Home",
-        "url": "https://open.spotify.com/album/4s631bf05BJesvz6XT3iDT"
-      },
-      "artists": [
-        {
-          "name": "Vivian Roost",
-          "url": "https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I"
-        }
-      ],
-      "duration_ms": 202732,
-      "name": "From Home",
-      "url": "https://open.spotify.com/track/0EgbLbMqBzyEjIySBupBqH"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "Release from silence",
         "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 137642,
       "name": "Release from silence",
       "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "From Home",
+        "url": "https://open.spotify.com/album/4s631bf05BJesvz6XT3iDT"
+      },
+      "artists": [
+        {
+          "name": "Vivian Roost",
+          "url": "https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I"
+        }
+      ],
+      "duration_ms": 202732,
+      "name": "From Home",
+      "url": "https://open.spotify.com/track/0EgbLbMqBzyEjIySBupBqH"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
+        "name": "A Gentle Sunlight",
+        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
+      },
+      "artists": [
+        {
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+        }
+      ],
+      "duration_ms": 117625,
+      "name": "A Gentle Sunlight",
+      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
         "name": "Balloon",
         "url": "https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 125248,
       "name": "Poesia",
       "url": "https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
-        "name": "A Gentle Sunlight",
-        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
-      },
-      "artists": [
-        {
-          "name": "James Quinn",
-          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
-        }
-      ],
-      "duration_ms": 117625,
-      "name": "A Gentle Sunlight",
-      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
       "added_at": "2024-02-06 15:00:00",

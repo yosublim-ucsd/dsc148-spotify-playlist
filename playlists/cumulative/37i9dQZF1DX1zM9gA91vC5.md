@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-956 songs - 1 day 17 hr 26 min
+957 songs - 1 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -777,7 +777,7 @@
 | [Steady The Ship](https://open.spotify.com/track/4tZrXQIEgv3dydaHjKL6Le) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [Steady The Ship](https://open.spotify.com/album/2fqZv1JTdNdpJj399PdLuH) | 2:36 | 2020-09-16 |  |
 | [Still Water](https://open.spotify.com/track/63KkU73FviWsVToFs1LYRI) | [Dexter Osborne](https://open.spotify.com/artist/2qw3ztTjf7LHNKoTNvij4q) | [Still Water](https://open.spotify.com/album/0mgSTKjCwRcraBkXmIBteu) | 2:45 | 2021-05-06 | 2022-03-31 |
 | [Stirling](https://open.spotify.com/track/1lBZFfbME5sIHKtgNuXq2I) | [Tuga Topić](https://open.spotify.com/artist/30nHhrHqaesxWRiNzW4g6O) | [Stirling](https://open.spotify.com/album/6JHOTIWdn1UyUZYys8HEpO) | 1:59 | 2020-08-14\* | 2022-06-08 |
-| [Storytelling](https://open.spotify.com/track/4rhOJ6KXbzenI63eYKjdrw) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Storytelling](https://open.spotify.com/album/0msgHgZpWhe5InxDJIauQ8) | 2:21 | 2021-04-22 |  |
+| [Storytelling](https://open.spotify.com/track/4rhOJ6KXbzenI63eYKjdrw) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Storytelling](https://open.spotify.com/album/0msgHgZpWhe5InxDJIauQ8) | 2:21 | 2021-04-22 | 2024-02-09 |
 | [Strejfer](https://open.spotify.com/track/2YabKanL5OYJLGosyYTWdR) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Strejfer](https://open.spotify.com/album/1aeDkp0m42y4wfJ69fX9H3) | 2:08 | 2021-10-01 |  |
 | [Stundom](https://open.spotify.com/track/1OJmKyPXayT4TID0XE2uxt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Stundom](https://open.spotify.com/album/5WYK03J5fXQzuSx67C1Npu) | 2:28 | 2021-09-29 |  |
 | [Sublime](https://open.spotify.com/track/22ifgaP1tUahdVaIn1K4ik) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Valentina](https://open.spotify.com/album/3JTXSEftjN2uXDc44BKYMW) | 2:17 | 2022-09-14 |  |
@@ -841,6 +841,7 @@
 | [The Year of Unravelling](https://open.spotify.com/track/0e66Y7BTyvFt5iskJrTVpY) | [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [The Year of Unravelling](https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD) | 2:08 | 2023-06-20 |  |
 | [Theme From the Lost Ones](https://open.spotify.com/track/10BBR0z2jaktbBja3l08Dy) | [Justin Withers](https://open.spotify.com/artist/2e8b9iLS5udzTZSlIVRxVb) | [Theme From the Lost Ones](https://open.spotify.com/album/3I8SD1DiFu87iLBaQA8zvB) | 1:51 | 2020-08-14\* | 2020-09-16 |
 | [There and Then](https://open.spotify.com/track/1sF09Ih9eA9R7sIsYRMlqg) | [Yelena Delarosa](https://open.spotify.com/artist/3qTAPQWKzfKcA3LEI21B9e) | [There and Then](https://open.spotify.com/album/1dqZlgnGdPTw0JxSXSUBPF) | 1:57 | 2021-06-04 | 2021-08-05 |
+| [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 | 2024-02-05 |  |
 | [Things Unsaid](https://open.spotify.com/track/1HDwUXmzoVXyBV8onqUyUv) | [Marcos Betancourt](https://open.spotify.com/artist/7JjCfmLQHeuWreo08C7hBt) | [Walking Home](https://open.spotify.com/album/7HEfIdgk9TQjlnnroQAgzM) | 2:41 | 2020-11-12 | 2022-06-08 |
 | [Through The Wind](https://open.spotify.com/track/4SYqypJlOI3mhf6zinkaUL) | [Michael Ottosson](https://open.spotify.com/artist/3dz4vgXeam9Ba1Bo7gud9b) | [Three Waltzes](https://open.spotify.com/album/28DqpGRLUjFtNPTaSs2rgr) | 2:51 | 2020-08-14\* | 2022-09-24 |
 | [Ticino](https://open.spotify.com/track/1GWs7zZprhLpLjwt7l6hfF) | [Daniel Hueber](https://open.spotify.com/artist/353QccwX4aD1y6B2r4tgaU) | [Ticino](https://open.spotify.com/album/5IPgCj1LZiJwcheVMAV7bc) | 1:44 | 2020-08-14\* | 2020-09-02 |

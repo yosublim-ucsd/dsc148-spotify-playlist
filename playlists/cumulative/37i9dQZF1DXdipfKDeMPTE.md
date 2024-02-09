@@ -4,7 +4,7 @@
 
 > Smooth beats for sleepless nights.
 
-578 songs - 21 hr 54 min
+582 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [adjustment](https://open.spotify.com/track/3a61DHhrJhe7jpgWrSW0ln) | [Ryder 003](https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz) | [adjustment](https://open.spotify.com/album/5P8KfJz3ZGTwTFUoR4J8Dz) | 2:13 | 2023-09-08 |  |
 | [after dark](https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [after dark](https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM) | 2:21 | 2023-10-27 |  |
 | [After Hours](https://open.spotify.com/track/4xIA6rtVQukSRpcYjsUS9A) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Embrasser](https://open.spotify.com/album/6VcrwQODoxJbkotX3DFJOk) | 2:07 | 2022-05-20 | 2023-01-18 |
+| [afterthought](https://open.spotify.com/track/2pyIsphe6DooZRSExreQEJ) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [afterthought](https://open.spotify.com/album/23QpEq74jS4B7MpJRT1CEv) | 2:50 | 2024-02-09 |  |
 | [airless](https://open.spotify.com/track/0QSGGX0o7FnXZvjNiuTrKv) | [msnthrp](https://open.spotify.com/artist/3hNukJKdVdigIS2mbhHrP3), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [airless](https://open.spotify.com/album/1wMk0osZHmLq6SFU5Oy8j4) | 1:46 | 2022-10-14 | 2022-11-24 |
 | [airless](https://open.spotify.com/track/6mQ7nxbrTeDirFw3wvdFyW) | [msnthrp](https://open.spotify.com/artist/3hNukJKdVdigIS2mbhHrP3), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [kidnapped lofigirl](https://open.spotify.com/album/0QRZoZCgMb4LPmE1ypHKpB) | 1:46 | 2022-11-11 |  |
 | [Alien Signals](https://open.spotify.com/track/3W2uAyn3ifuzD1r5ulraHM) | [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc), [Simax](https://open.spotify.com/artist/5xvzwrBVjP32lf7rOuKPbB) | [Alien Signals](https://open.spotify.com/album/1KBMGiW3su49XLXY4NyjZB) | 2:21 | 2022-05-20 | 2022-06-10 |
@@ -71,6 +72,7 @@
 | [Bottled Up Emotions, Part 2](https://open.spotify.com/track/12nj9lHWHO9y8668gT0iR1) | [KVMTZ](https://open.spotify.com/artist/1D8kPNLkel9FZFCwSHkZ95) | [Bottled Up Emotions, Part 2](https://open.spotify.com/album/599cNTxGgXMhT154dLyGaU) | 1:50 | 2022-05-20 | 2022-11-26 |
 | [Brainstorm](https://open.spotify.com/track/2Ia7BnMIQdFR7VBnLUTSyV) | [yourneighborsclassicbeats](https://open.spotify.com/artist/07YwFEZfj3G4ZRQ08iFDAM) | [Childhood](https://open.spotify.com/album/7c4IX4kVawxqxkYlLt1RRo) | 1:58 | 2022-09-09 | 2023-09-26 |
 | [Break](https://open.spotify.com/track/0r9lZcq4khAYHolIT4IAGr) | [Sitza](https://open.spotify.com/artist/3KeghQlQsaQ4ANmN9v80CC) | [Break](https://open.spotify.com/album/0MBfs6wwiujJjBJvIFLuw6) | 1:55 | 2022-05-20 | 2022-07-08 |
+| [breathtaking](https://open.spotify.com/track/6NqnGKb8x3PMCWqn2oJizA) | [mello joints](https://open.spotify.com/artist/3SvvTbg5Gj3UDGNxtqTsfd) | [breathtaking](https://open.spotify.com/album/7A4dRVpZAS3T4Az0Xus2sT) | 2:10 | 2024-02-09 |  |
 | [Bright Sky](https://open.spotify.com/track/0rWRAaYfMwogD3OkRuVrCt) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Bright Sky](https://open.spotify.com/album/3NMHhUtirBqaXGowIqMkMa) | 2:45 | 2023-01-20 |  |
 | [Broken Guitar](https://open.spotify.com/track/5Ff8NqmOnCmaFuiuC1XSE6) | [Stratotune](https://open.spotify.com/artist/4jj5GyEzbV9KzXTu5nXyi0) | [Broken Guitar](https://open.spotify.com/album/7a4dFyQv07iHmk8hEGQo26) | 2:12 | 2022-12-23 | 2023-01-18 |
 | [Bronco](https://open.spotify.com/track/6guKuoVFVI7s1VTZqjHk3K) | [just johnny](https://open.spotify.com/artist/6YPHr3HaETn60rZZ3snnd5) | [Bronco](https://open.spotify.com/album/6XqkrUjPorwLnmy3rEj0k1) | 1:36 | 2022-06-24 | 2023-09-26 |
@@ -274,6 +276,7 @@
 | [Lazy Lynx](https://open.spotify.com/track/3W6BlBlyJDtN9t4tmI4k5C) | [Elffire](https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA) | [Lazy Lynx](https://open.spotify.com/album/6LWQOPyDeTRkFbegXdGKkj) | 1:39 | 2023-04-11 | 2023-09-16 |
 | [left staring](https://open.spotify.com/track/1aKmyCgZQbhVeN9aH6co0I) | [bugdawn](https://open.spotify.com/artist/3iB5oTLzBMSaNQ2CajhcGz) | [left staring](https://open.spotify.com/album/0qRiHtoEzskxs1lcKzLIml) | 2:12 | 2022-05-20 | 2023-01-18 |
 | [Lego](https://open.spotify.com/track/6qdYRJZesimF7fPkTaGSFL) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Lego](https://open.spotify.com/album/6D4m3UGV2LVloI7Vmh3fQv) | 2:04 | 2022-05-20 | 2023-01-18 |
+| [Let's stay here forever](https://open.spotify.com/track/5M4NSsW6J63KGMHc1y0c6c) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Let's stay here forever](https://open.spotify.com/album/7f6G4nEcP8zfHdFE61MABP) | 2:29 | 2024-02-09 |  |
 | [Levitate](https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Levitate](https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX) | 2:11 | 2023-09-08 |  |
 | [leyawiin](https://open.spotify.com/track/6VqChVa40ZOFZyve05Zq0m) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [leyawiin](https://open.spotify.com/album/24u2vd97YmlbRVHeLbxLte) | 1:28 | 2022-05-20 | 2022-09-20 |
 | [leyawiin](https://open.spotify.com/track/6ZQ6OSk8nA6iPoE6rDhili) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [leyawiin](https://open.spotify.com/album/0SUtI8v2vOliyEU2WO2yMn) | 1:28 | 2022-09-16 | 2022-11-26 |
@@ -334,6 +337,7 @@
 | [Morgana](https://open.spotify.com/track/3DYyHUe3wG4F1ahZf2XLCm) | [En Rie](https://open.spotify.com/artist/3P18mn1T53JU82867PDYbM), [Lobi9](https://open.spotify.com/artist/3QO5tWYbDbzZ4jer6EDqUq) | [Mediado](https://open.spotify.com/album/5VDUfxSdbWaCOcrq0eFGMS) | 1:33 | 2022-05-20 | 2022-06-10 |
 | [Morning Mist](https://open.spotify.com/track/0ROMwF8gNj8dCog0D8zStX) | [Jelika](https://open.spotify.com/artist/3eJdbQVaYyybG0aBrDdI5u) | [Morning Mist](https://open.spotify.com/album/7czewPa3OyAV9f4kBbUqFR) | 1:40 | 2022-05-20 | 2023-01-18 |
 | [moth](https://open.spotify.com/track/2cIUDGUdIV5TsFGa7FbDsX) | [benny yu](https://open.spotify.com/artist/5IIHfmIpUekEkjUethyUN0) | [moth](https://open.spotify.com/album/5NpnJyCssyy0BizGiOo0Ri) | 2:05 | 2022-05-20 | 2023-01-18 |
+| [mumbling](https://open.spotify.com/track/5Rcl118NjsWCa1PIQSnztI) | [Meliona](https://open.spotify.com/artist/7GvCcfowrxriTXXoNaiHle) | [mumbling](https://open.spotify.com/album/7MtsoEAye6t4geRJMi89Sj) | 2:00 | 2024-02-09 |  |
 | [Mystery Room](https://open.spotify.com/track/5Wr6kkpDjvUkgJa4RmRWV0) | [Merlin on the beat](https://open.spotify.com/artist/6DCj7gPdhAycyf6FXtDUBx), [smoke bunny](https://open.spotify.com/artist/7kca8Ze9vonJL7ptIShwxI) | [Mystery Room](https://open.spotify.com/album/7BZaWbhBHHJwiO54DI7Ug9) | 2:59 | 2022-09-02 | 2023-09-26 |
 | [Mystic Kush](https://open.spotify.com/track/00DlqX8lQx1qGnyOYTvzkQ) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [In Your Head](https://open.spotify.com/album/08pzGhysC0jaWMuqkZVLkp) | 2:14 | 2022-05-20 | 2022-06-10 |
 | [Mystiqa](https://open.spotify.com/track/4RwJDAOh06mjuEGXjr9JbL) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Mystiqa](https://open.spotify.com/album/6M3oABRnIDaxJs6K6g0NJ4) | 2:21 | 2022-05-20 | 2023-01-18 |

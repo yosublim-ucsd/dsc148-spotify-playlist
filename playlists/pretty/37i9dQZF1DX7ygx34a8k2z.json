@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 202569,
+  "num_followers": 202831,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTVlYmZmY2Y0YzFmOTA5ZTViNGQ1NjZlMDZhYmVlYzRlOWM1ZDM1",
+  "snapshot_id": "MCw4N2E3ZTNlNzkxYzEyZmFjMmIxNTk2NTg5MGM3NjliMmJkMzA3MjUw",
   "tracks": [
     {
       "added_at": "2024-02-07 18:19:28",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Marcy Playground",
-        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
-      },
-      "artists": [
-        {
-          "name": "Marcy Playground",
-          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
-        }
-      ],
-      "duration_ms": 173493,
-      "name": "Sex & Candy",
-      "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
         "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 134200,
       "name": "Lump",
       "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Marcy Playground",
+        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
+      },
+      "artists": [
+        {
+          "name": "Marcy Playground",
+          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Sex & Candy",
+      "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 212888,
-      "name": "The Hardest Button to Button",
-      "url": "https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "The Mollusk",
         "url": "https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 126946,
       "name": "Ocean Man",
       "url": "https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 212888,
+      "name": "The Hardest Button to Button",
+      "url": "https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 358773,
+      "name": "Coffee & TV",
+      "url": "https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 260333,
       "name": "Let Me Ride",
       "url": "https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 358773,
-      "name": "Coffee & TV",
-      "url": "https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Transmissions From the Satellite Heart",
-        "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 222278,
-      "name": "She Don't Use Jelly",
-      "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Heaven or Las Vegas",
         "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 198666,
       "name": "Iceblink Luck",
       "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Transmissions From the Satellite Heart",
+        "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 222278,
+      "name": "She Don't Use Jelly",
+      "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "Only Shallow",
-      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "American Thighs",
         "url": "https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 196573,
       "name": "Seether",
       "url": "https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "Only Shallow",
+      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
+        "name": "Pleased to Meet Me (Expanded)",
+        "url": "https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv"
+      },
+      "artists": [
+        {
+          "name": "The Replacements",
+          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
+        }
+      ],
+      "duration_ms": 188146,
+      "name": "Can't Hardly Wait - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
         "name": "Ill Communication",
         "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 245626,
       "name": "Get It Together",
       "url": "https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
-        "name": "Pleased to Meet Me (Expanded)",
-        "url": "https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv"
-      },
-      "artists": [
-        {
-          "name": "The Replacements",
-          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
-        }
-      ],
-      "duration_ms": 188146,
-      "name": "Can't Hardly Wait - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
+        "name": "Crooked Rain, Crooked Rain",
+        "url": "https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP"
+      },
+      "artists": [
+        {
+          "name": "Pavement",
+          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+        }
+      ],
+      "duration_ms": 159706,
+      "name": "Gold Soundz",
+      "url": "https://open.spotify.com/track/3QVtDnXU5zqGWxWDFBMiDj"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
         "name": "Hello Nasty (Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 180373,
       "name": "I Don't Know - Remastered 2009",
       "url": "https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
-        "name": "Crooked Rain, Crooked Rain",
-        "url": "https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP"
-      },
-      "artists": [
-        {
-          "name": "Pavement",
-          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
-        }
-      ],
-      "duration_ms": 159706,
-      "name": "Gold Soundz",
-      "url": "https://open.spotify.com/track/3QVtDnXU5zqGWxWDFBMiDj"
     },
     {
       "added_at": "2024-02-07 18:19:28",

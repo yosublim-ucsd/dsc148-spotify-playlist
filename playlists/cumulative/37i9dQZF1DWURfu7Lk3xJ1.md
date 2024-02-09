@@ -4,7 +4,7 @@
 
 > Focus the mind with these calming beats.
 
-471 songs - 18 hr 22 min
+474 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [after dark](https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [after dark](https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM) | 2:21 | 2023-10-27 |  |
 | [After the Storm](https://open.spotify.com/track/2rGwaR8B2lMFvaITV87uxu) | [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6), [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0) | [After the Storm](https://open.spotify.com/album/617l8QGitmDeLXCNEGexkb) | 2:17 | 2022-10-28 | 2023-10-06 |
 | [afterglow](https://open.spotify.com/track/2VK6aUwSCVCyMEuLYPWgoB) | [Parth](https://open.spotify.com/artist/4zwPxQ2RjoZaHRiorx99i6), [Nessen](https://open.spotify.com/artist/2WX7ariBgaxbv7XOjO8GGt) | [afterglow](https://open.spotify.com/album/3XtigdUDyNTpYAjImpsanU) | 2:43 | 2022-11-11 | 2022-11-19 |
+| [afterthought](https://open.spotify.com/track/2pyIsphe6DooZRSExreQEJ) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [afterthought](https://open.spotify.com/album/23QpEq74jS4B7MpJRT1CEv) | 2:50 | 2024-02-09 |  |
 | [against the tide](https://open.spotify.com/track/0IPf9wes4r5NA1xwX5FxKb) | [steenhoff](https://open.spotify.com/artist/3J24HdM0kVVmwkh4jdumZi) | [against the tide](https://open.spotify.com/album/3lecFA5VmUcLe8T3vD1f2A) | 2:22 | 2022-09-09 | 2023-08-30 |
 | [All The What Ifs](https://open.spotify.com/track/0q81gA7hGOGaIyOCLbYayb) | [Project AER](https://open.spotify.com/artist/0iMWUBpWAGKAenBVePrZFP), [v i v](https://open.spotify.com/artist/3Zieh1I7GDWSW8MGSDGApX) | [I'm Okay](https://open.spotify.com/album/4xgwXLSmSQPhaOZZ3mMoEZ) | 2:40 | 2022-10-07 | 2023-09-22 |
 | [Along the lines](https://open.spotify.com/track/33UVNXx0dE5Bx3dzhz4DjX) | [eugenio izzi](https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Along the lines](https://open.spotify.com/album/1NWkFsGdaQGyD86slsaSCE) | 2:24 | 2023-01-20 |  |
@@ -44,6 +45,7 @@
 | [Aquamarine](https://open.spotify.com/track/56wMtsglhlddfHVEHH2kYc) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Mavi](https://open.spotify.com/album/592PD7BO3MG7TLFV30sImZ) | 2:50 | 2022-09-09 | 2023-10-06 |
 | [Arctic Tundra](https://open.spotify.com/track/6muvuOIHhSe0hfxlnbA3SH) | [Dj Screech](https://open.spotify.com/artist/3JFTmv6ilkFBBwgCYBXxlI) | [Arctic Tundra](https://open.spotify.com/album/2qddX8I6KxRnlUFITUgESS) | 2:21 | 2022-12-02 | 2023-10-06 |
 | [Are We There Yet](https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV) | [Velvet Haven](https://open.spotify.com/artist/4jTDHfmofsM4W1Bc0m5L4F) | [Are We There Yet](https://open.spotify.com/album/4fFqmS7Kk1R2qcZmLVxSJQ) | 2:34 | 2023-10-20 |  |
+| [arise](https://open.spotify.com/track/4KZvJKxqVcN4W2ZEWv87Lv) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [arise](https://open.spotify.com/album/5o5ZzmhIA3qie7Xvri32iM) | 2:03 | 2024-02-09 |  |
 | [As a Friend](https://open.spotify.com/track/30rfKLLYkq4OtrRWTYAu2c) | [Eamon Lee](https://open.spotify.com/artist/48L5RaQhOrbyJQg3ZC0lo9) | [Real Down Tropical](https://open.spotify.com/album/3xEqVBh6H0vw0HBXOloHvu) | 1:59 | 2022-09-09 | 2022-10-29 |
 | [At Least We Made It This Far](https://open.spotify.com/track/4imJMlTU4PUeEGliil2e34) | [Sweenei](https://open.spotify.com/artist/0fDLOHnf7xd4HWunyBi8J2) | [All Creatures](https://open.spotify.com/album/24G9IRMiW5mT7Xc42t4Xza) | 2:14 | 2023-01-20 | 2023-08-30 |
 | [At The Hoffman's](https://open.spotify.com/track/2rTCp6VfOIqzzOJ2cvV16o) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [At The Hoffman's](https://open.spotify.com/album/4qSGLzKVXWdATYMG2T8HfM) | 2:20 | 2022-09-09 |  |
@@ -95,6 +97,7 @@
 | [Come Down, for Now](https://open.spotify.com/track/07U50Pzu6ZmqXOCWgIXUIb) | [Angel's Pulse](https://open.spotify.com/artist/5wg3xOzYEtJriJs7OFp3Fb) | [Come Down, for Now](https://open.spotify.com/album/1hlxYWIwgjJg8Msq24UB95) | 2:46 | 2022-12-09 | 2023-11-17 |
 | [Comfort Zone](https://open.spotify.com/track/0F6HXlgi62fWkBiwb9Dxb5) | [Chill West](https://open.spotify.com/artist/2bHB1ylsCPTxalKwQ9u9Py), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm) | [Comfort Zone](https://open.spotify.com/album/0zfGc3ZKyRk3ETHWA2135D) | 2:26 | 2023-10-06 |  |
 | [Coming Back](https://open.spotify.com/track/2bd4DXfUSO4W8PnHq4hcZN) | [August Sky](https://open.spotify.com/artist/6hm8yEY43m6Q5aq1O8oLwI) | [Coming Back](https://open.spotify.com/album/0RZtebJU73sTyieZXfxaop) | 3:27 | 2022-09-09 |  |
+| [Cortana's Nap](https://open.spotify.com/track/1UwTK3zUw4sKSZjRtwwLEz) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Cortana's Nap](https://open.spotify.com/album/4Mgc8gBn6jiU5TLR6V7ztl) | 3:01 | 2024-02-09 |  |
 | [couch sitters](https://open.spotify.com/track/0jImgMHObhq0VhS6f9Qlla) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [couch sitters](https://open.spotify.com/album/25RSOMykbvd0dc9fTK8qkG) | 2:34 | 2023-11-17 |  |
 | [Cozy](https://open.spotify.com/track/2nnvLlqu5dkTLUQKbILu1V) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Cozy](https://open.spotify.com/album/65nE0DoQdTP3RfgoBYMYfO) | 2:10 | 2022-09-09 | 2023-09-22 |
 | [crescent moon](https://open.spotify.com/track/68Qo325WI09Qzs2UURmvAW) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [overthemoon](https://open.spotify.com/artist/3wvbWEn9z1AcCS2sGF5fgz) | [crescent moon](https://open.spotify.com/album/4gyyMixuCeXLjiIEiMa2Xm) | 2:37 | 2022-11-25 |  |

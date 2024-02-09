@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 285893,
       "name": "By The Time This Night Is Over (with Peabo Bryson)",
       "url": "https://open.spotify.com/track/1ayBTblH8cbaAGYpXTeaQR"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 299493,
       "name": "Forever in Love",
       "url": "https://open.spotify.com/track/13cpOnmccZGVGFngLxYN4I"
@@ -386,6 +386,24 @@
       "duration_ms": 300466,
       "name": "In The Rain",
       "url": "https://open.spotify.com/track/41bWhFyo0NndpMMedZGMl0"
+    },
+    {
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238426,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM"
     },
     {
       "album": {

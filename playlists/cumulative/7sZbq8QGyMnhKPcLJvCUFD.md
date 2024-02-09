@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-496 songs - 1 day 1 hr 28 min
+497 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All Night](https://open.spotify.com/track/31KAh8M3Oo2ojqV3fY0xFa) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [All Night](https://open.spotify.com/album/7aMZWSmXeJEqU7RMLxALvc) | 2:36 | 2023-04-22 | 2023-08-10 |
 | [All or Nothing](https://open.spotify.com/track/0Kwq7KPBeyMbV38q9LQnaq) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP), [SGNLS](https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74) | [All or Nothing](https://open.spotify.com/album/7cnlX7Jz1kd1VbIzI6w2R2) | 3:03 | 2023-07-13 | 2023-08-10 |
 | [Alone](https://open.spotify.com/track/1HynKU9h7mM3nhtLlnVDFu) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Alone](https://open.spotify.com/album/6lfzz0LHtj7dVCeidrcGoX) | 2:37 | 2022-12-09 | 2023-04-28 |
+| [Alone](https://open.spotify.com/track/1OZLLfRrvELLaTowXNsg30) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [SGAR](https://open.spotify.com/artist/3HhCTUgUQh6tLfQAqCTEmm) | [Alone](https://open.spotify.com/album/4ndufOeALEZHWH2LfvWFQ0) | 3:50 | 2024-02-08 |  |
 | [Alone](https://open.spotify.com/track/4kvIwyqoAVaho3Ea7feClh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 3:34 | 2022-05-19 | 2023-04-28 |
 | [Alright](https://open.spotify.com/track/2pgcIWzePTTC2a99dRrTzd) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Sync](https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13), [Marky Style](https://open.spotify.com/artist/30rdwRJSoSZicHb4xOCrme) | [Alright](https://open.spotify.com/album/0UQjd1grnKWmHS6OFY1Qqh) | 3:14 | 2024-01-09 |  |
 | [Annabelle's Tea Party](https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Annabelle's Tea Party](https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24) | 3:08 | 2022-10-28 | 2023-04-28 |
@@ -427,7 +428,7 @@
 | [Tension](https://open.spotify.com/track/3PqHYu8WVkYgzvXuuUPiAr) | [EXXO](https://open.spotify.com/artist/1BxtvQL2w4dn5CnbtkYsGb) | [Tension](https://open.spotify.com/album/4Dy2wATW6kv9fRrjiG5ljD) | 2:40 | 2023-01-11 | 2023-04-28 |
 | [Testify](https://open.spotify.com/track/41aahVnQ5oRhIU5LEc9hfh) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [EXYT](https://open.spotify.com/artist/19ykklbtr7n55Ix9klgevw) | [Testify](https://open.spotify.com/album/2shXXyUgDDl14LykrpWewi) | 3:23 | 2023-05-26 | 2023-08-10 |
 | [The Feeling](https://open.spotify.com/track/5O3ulpsbyoXtjyVdC7Xip4) | [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [The Feeling](https://open.spotify.com/album/31geBMaHgWPfzWmvGuykNz) | 2:28 | 2022-07-22 | 2023-04-28 |
-| [The Ghost](https://open.spotify.com/track/2Rmisp1rkVF9GFWQy6LJLQ) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Ghost](https://open.spotify.com/album/6aafdp1vFltSsbBVm3TrEF) | 3:07 | 2023-08-08 |  |
+| [The Ghost](https://open.spotify.com/track/2Rmisp1rkVF9GFWQy6LJLQ) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Ghost](https://open.spotify.com/album/6aafdp1vFltSsbBVm3TrEF) | 3:07 | 2023-08-08 | 2024-02-09 |
 | [The Other Side](https://open.spotify.com/track/5j661JNn79J2mcNrgZZEfW) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [The Other Side](https://open.spotify.com/album/10i8tgXRPvPt3CXxz4p4KL) | 2:39 | 2022-12-29 | 2023-04-28 |
 | [The Path](https://open.spotify.com/track/2ijSdxRsWpBjMpZ7HNQD3U) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw), [Agassi](https://open.spotify.com/artist/6Ts1uqQmSrpQ9YedHKrreu) | [The Path](https://open.spotify.com/album/74bnjTLKVFndWnu0gRASDj) | 4:03 | 2022-06-02 | 2023-04-28 |
 | [The Rage](https://open.spotify.com/track/46rsDvRdmRS4gT0B3FjYtO) | [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK), [Awon](https://open.spotify.com/artist/3PHUMTV0xDmeztu4D3fhbz), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [The Rage](https://open.spotify.com/album/3BVuOvZv08198bgIlFe9u7) | 2:46 | 2023-03-23 | 2023-08-10 |

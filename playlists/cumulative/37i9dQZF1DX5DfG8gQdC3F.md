@@ -4,7 +4,7 @@
 
 > New music from BADBADNOTGOOD, USHER, 24kGoldn, TALK and more.
 
-10,645 songs - 23 day 14 hr 12 min
+10,646 songs - 23 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4355,7 +4355,8 @@
 | [I Got Paid Today](https://open.spotify.com/track/0e956pEKFmTCHO5fSwFXP8) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [I Got Paid Today](https://open.spotify.com/album/4DsaSDzXR06Zr1IBVFPa0i) | 3:32 | 2023-10-27 | 2023-11-04 |
 | [I Got U \(feat\. Niska\)](https://open.spotify.com/track/1jSJOq8PEYMnSdonuMz4eK) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [I Got U \(feat\. Niska\)](https://open.spotify.com/album/0Iq4aDgUWAe4uz4zdpA6JR) | 3:22 | 2023-11-17 | 2023-11-25 |
 | [I Got You](https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sounds of My World \(Deluxe\)](https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY) | 2:32 | 2022-08-05 | 2022-08-13 |
-| [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 | 2024-02-02 |  |
+| [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 | 2024-02-02 | 2024-02-09 |
+| [I GOT YOU \(Original\)](https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 2:53 | 2024-02-02 |  |
 | [I Grew Up On A Farm](https://open.spotify.com/track/3pBvU01semQ9Aia5KzoVGn) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [I Grew Up On A Farm](https://open.spotify.com/album/3qMRbYb6ZnZlgVMMAOyppv) | 3:11 | 2024-02-02 |  |
 | [I Guess](https://open.spotify.com/track/1Q8UhAL4Ebspx05qAFGyTn) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM) | [I Guess](https://open.spotify.com/album/1KCGlttwZbhgs9WfNoHitL) | 2:38 | 2022-12-16 | 2022-12-24 |
 | [I GUESS IT'S LOVE?](https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I GUESS IT'S LOVE?](https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW) | 2:17 | 2023-02-24 | 2023-03-04 |
@@ -9605,7 +9606,7 @@
 | [TRUTH OR DARE](https://open.spotify.com/track/5FNgzQI7b3PqEBrL9RHjBP) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [TRUTH OR DARE](https://open.spotify.com/album/5BJ69eEkaAShh1YxodOnb8) | 4:05 | 2023-06-30 | 2023-07-08 |
 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2023-12-01 | 2023-12-09 |
 | [Truzza \(feat\. Polina Grace\)](https://open.spotify.com/track/4PIimj8VC7QexfiobipYuc) | [Tava](https://open.spotify.com/artist/05vdnPUOduqa2XslgbtU4R), [Polina Grace](https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug) | [Truzza \(feat\. Polina Grace\)](https://open.spotify.com/album/4n7bOg24bCUZfMaK61JsTT) | 1:48 | 2023-07-14 | 2023-07-22 |
-| [Try](https://open.spotify.com/track/0VA4DwyLGCpZWe71zoP5bh) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO), [SonReal](https://open.spotify.com/artist/22yqDoM2Rd7MGZ53Vanwgc) | [Try](https://open.spotify.com/album/1vNuIMAjHkJA5xhKvsGmqv) | 3:51 | 2024-02-02 |  |
+| [Try](https://open.spotify.com/track/0VA4DwyLGCpZWe71zoP5bh) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO), [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [Try](https://open.spotify.com/album/1vNuIMAjHkJA5xhKvsGmqv) | 3:51 | 2024-02-02 |  |
 | [try again](https://open.spotify.com/track/0S09s70YzPQOKChK4ybdMZ) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [try again](https://open.spotify.com/album/5mB0WqDGxpdEvhvEgZlUOL) | 4:14 | 2023-03-03 | 2023-03-11 |
 | [Try Love](https://open.spotify.com/track/72Y7oxX8vyMkDvdU6rr5Nt) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Try Love](https://open.spotify.com/album/7o7pRQzbNbv3lRcFLlLISW) | 4:32 | 2023-08-25 | 2023-09-02 |
 | [Try Me](https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Try Me](https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx) | 3:33 | 2023-04-14 | 2023-04-22 |

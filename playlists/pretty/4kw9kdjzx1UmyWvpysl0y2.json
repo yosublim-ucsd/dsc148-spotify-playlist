@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126429,
+  "num_followers": 126424,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDU1MSxhODNhNzk1MGZmZWQ2NDc4NzdiNDY0OTgxMzg1MjhlZWRhYWZjYmU4",
+  "snapshot_id": "NDU1Myw1YWQ4ZTkwYmE3ZDRlNGQwNzRiMTQ3NDZmZjdjODQyODBhMmJkODYy",
   "tracks": [
+    {
+      "added_at": "2024-02-08 17:55:39",
+      "album": {
+        "name": "Heavy Heart",
+        "url": "https://open.spotify.com/album/6W3jyRwWtdd7ZIOATdzkOt"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Grant",
+          "url": "https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus"
+        },
+        {
+          "name": "your friend polly",
+          "url": "https://open.spotify.com/artist/7BMiTAo49FakImrjEyEFFN"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Heavy Heart",
+      "url": "https://open.spotify.com/track/2Cg5nw3PsrHYudEux8IBcT"
+    },
     {
       "added_at": "2024-02-07 18:14:24",
       "album": {
@@ -1131,30 +1155,6 @@
       "duration_ms": 194558,
       "name": "Strictly 4 Tha",
       "url": "https://open.spotify.com/track/0qBIwcab1a5J8RDczBALuW"
-    },
-    {
-      "added_at": "2023-10-26 15:17:45",
-      "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/26OLnXoPybuXQIqWXWBCbz"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 181532,
-      "name": "IRL",
-      "url": "https://open.spotify.com/track/1TWo3biVjxcOMoJpG1u7TG"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

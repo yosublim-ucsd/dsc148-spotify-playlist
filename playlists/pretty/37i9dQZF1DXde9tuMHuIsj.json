@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Lyanno, Anubiis & Hades66",
-  "num_followers": 1494473,
+  "num_followers": 1494477,
   "original_name": "Trap Land",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjQxNDVlODk1YWE2MDJlY2IyOGJkMGQzMjdjZjk5NjFiYjgwNzY3",
+  "snapshot_id": "MCw3ZmZjMTRmM2Y1YmViMjM2N2UwN2RjYmRiZWEwYjM2OTg5MGQ3NDJj",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -755,26 +755,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
+        "name": "El Rey De La Rapidas",
+        "url": "https://open.spotify.com/album/50bcMYI7pmJHrhlaD1LnDa"
       },
       "artists": [
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
         }
       ],
-      "duration_ms": 305333,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
+      "duration_ms": 149424,
+      "name": "El Rey De La Rapidas",
+      "url": "https://open.spotify.com/track/06K5Vl4Ui4QhMEHD6IW9U2"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -799,18 +791,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "El Rey De La Rapidas",
-        "url": "https://open.spotify.com/album/50bcMYI7pmJHrhlaD1LnDa"
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
       },
       "artists": [
         {
-          "name": "Pressure 9X19",
-          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 149424,
-      "name": "El Rey De La Rapidas",
-      "url": "https://open.spotify.com/track/06K5Vl4Ui4QhMEHD6IW9U2"
+      "duration_ms": 305333,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/2TZv7gq1Xnp8c2IVTRy8Zp"
-      },
-      "artists": [
-        {
-          "name": "Yeruza",
-          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/5V42ESWm6CPVldc1vzKwAU"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Mu\u00e9velo Lento",
         "url": "https://open.spotify.com/album/4k8gHF7uSMQZ5YVnvjCs4m"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 182903,
       "name": "Mu\u00e9velo Lento",
       "url": "https://open.spotify.com/track/7nxcnlwklosgjwpVSl5Bty"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2TZv7gq1Xnp8c2IVTRy8Zp"
+      },
+      "artists": [
+        {
+          "name": "Yeruza",
+          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/5V42ESWm6CPVldc1vzKwAU"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1623,30 +1623,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "CODA",
-        "url": "https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1"
-      },
-      "artists": [
-        {
-          "name": "Yeruza",
-          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Hydro",
-          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "White Socks",
-      "url": "https://open.spotify.com/track/2sEBxymOvbJIDHOfnZFzCS"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Juanito Alima\u00f1a",
         "url": "https://open.spotify.com/album/7xtJVNE6hI95g28ldo2WoV"
       },
@@ -1667,6 +1643,42 @@
       "duration_ms": 193332,
       "name": "Juanito Alima\u00f1a",
       "url": "https://open.spotify.com/track/0qyBcGtF6GrRwnfRH8ezzK"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Quien Va a Frontiar (Remix)",
+        "url": "https://open.spotify.com/album/7BEWbSJ0k1CCHTXcH4KxZ8"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Quien Va a Frontiar - Remix",
+      "url": "https://open.spotify.com/track/7v181skWxE4NxTrVVGtzNk"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1719,38 +1731,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Quien Va a Frontiar (Remix)",
-        "url": "https://open.spotify.com/album/7BEWbSJ0k1CCHTXcH4KxZ8"
+        "name": "CODA",
+        "url": "https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Yeruza",
+          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
         },
         {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         },
         {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        },
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+          "name": "Hydro",
+          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
         }
       ],
-      "duration_ms": 317000,
-      "name": "Quien Va a Frontiar - Remix",
-      "url": "https://open.spotify.com/track/7v181skWxE4NxTrVVGtzNk"
+      "duration_ms": 197500,
+      "name": "White Socks",
+      "url": "https://open.spotify.com/track/2sEBxymOvbJIDHOfnZFzCS"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2079,18 +2079,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "CODA",
-        "url": "https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1"
+        "name": "CC",
+        "url": "https://open.spotify.com/album/7DlQeN6nryMuBbkyept0z3"
       },
       "artists": [
         {
-          "name": "Yeruza",
-          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 141889,
-      "name": "Estilo de Vida",
-      "url": "https://open.spotify.com/track/1muTEUeGKeiS6PlVHFBIWq"
+      "duration_ms": 191434,
+      "name": "CC",
+      "url": "https://open.spotify.com/track/5GX0pPQ3ci4DyzItOpaJo7"
     }
   ],
   "unique_name": "Trap Land",

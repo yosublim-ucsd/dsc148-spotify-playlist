@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-655 songs - 1 day 1 hr 21 min
+656 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [dust](https://open.spotify.com/track/76WzrbAXwASwxE4Ftszx3Q) | [Big Nose](https://open.spotify.com/artist/6ETg05TrMGqIUd30ehlAvx) | [dust](https://open.spotify.com/album/0HBEidWufJ5f4hQZDlhQVA) | 2:54 | 2022-08-19 | 2022-10-08 |
 | [dusty](https://open.spotify.com/track/0mTrn2K2gohKeKf89BuWHT) | [cudlz](https://open.spotify.com/artist/4heHOS8ybxsPh3TBtw9gf0) | [slides](https://open.spotify.com/album/4mSK0k4Fm4teKDJurE4hMA) | 2:54 | 2023-03-24 | 2023-09-29 |
 | [duvet jazz](https://open.spotify.com/track/2MJlRDXBlir2kS0TUB7pnu) | [Curly Tree](https://open.spotify.com/artist/4YjWmgjadiQn7HLwkb9UbQ) | [duvet jazz](https://open.spotify.com/album/7pGJmOAftLhH7qExJv1Lmt) | 2:15 | 2023-06-06 |  |
+| [early hours](https://open.spotify.com/track/6OiddswMqjTCV1YlSexWYb) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [early hours](https://open.spotify.com/album/16O7hGuxkYXgdjeyPXf7vW) | 2:23 | 2024-02-09 |  |
 | [Earth](https://open.spotify.com/track/47grvGTNigrMww35L06LJa) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Earth](https://open.spotify.com/album/3akTQPLju7tOIB1YRLz3p1) | 2:30 | 2022-05-20 | 2022-12-12 |
 | [Eat Me](https://open.spotify.com/track/6NdX1iXLTKjruEuoG3fIvO) | [wind\-up bird](https://open.spotify.com/artist/66UE5LrivDsDSLdDcK9Qri), [LUXID AXID](https://open.spotify.com/artist/6yZIMRBmAHdrstkuapdrc0) | [Eat Me](https://open.spotify.com/album/1GeJlNugKY4qEcCTKXJkKt) | 2:19 | 2022-10-28 |  |
 | [elevation](https://open.spotify.com/track/7spTNUW2VouHtkboiO30sF) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [elevation](https://open.spotify.com/album/6bfqiDky9JqXxkfs6VCKst) | 2:10 | 2022-05-20 |  |

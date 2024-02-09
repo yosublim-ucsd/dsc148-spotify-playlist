@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 3302916,
+  "2024-02-09": 3303263,
   "date_first_scraped": "2022-10-25",
   "description": "This is The Beatles. The essential tracks, all in one playlist.",
   "name": "This Is The Beatles",
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 163600,
       "name": "Eight Days A Week - Remastered 2009",
       "url": "https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 140400,
       "name": "I Feel Fine - Remastered 2009",
       "url": "https://open.spotify.com/track/4gxs9En3aoaOm2J5wNMMm9"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 189680,
       "name": "Ticket To Ride - Remastered 2009",
       "url": "https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 133506,
       "name": "Till There Was You - Remastered 2009",
       "url": "https://open.spotify.com/track/0ESIjVxnDnCDaTPo6sStHm"

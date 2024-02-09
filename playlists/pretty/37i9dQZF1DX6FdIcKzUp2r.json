@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 225161,
+  "num_followers": 225233,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDgzNjA4OWE4NzY0MmFmNWRkMGQzM2ZhMGU2ZmQyZmNlZTk0ODc5",
+  "snapshot_id": "MCxhYzFiYzU3NTQ0NWE0ZTY0N2RlMjdlMmQwMTAwY2E0Nzk3ZDJlZGYw",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -107,22 +107,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Heartbeat City",
-        "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Night Nurse (Expanded Edition)",
         "url": "https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 249533,
       "name": "Night Nurse",
       "url": "https://open.spotify.com/track/4DQttwipnILl88cru3BRZx"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Heartbeat City",
+        "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -871,22 +871,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Legend (2003 - Remaster)",
-        "url": "https://open.spotify.com/album/7enmtrbP0bVki5Pjc7GMjV"
-      },
-      "artists": [
-        {
-          "name": "Clannad",
-          "url": "https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Lady Marian (2003 - Remaster)",
-      "url": "https://open.spotify.com/track/4Y8bMbwPVrdYlMNJBSXR9c"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
         "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 200466,
       "name": "Abraham's Theme",
       "url": "https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Legend (2003 - Remaster)",
+        "url": "https://open.spotify.com/album/7enmtrbP0bVki5Pjc7GMjV"
+      },
+      "artists": [
+        {
+          "name": "Clannad",
+          "url": "https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Lady Marian (2003 - Remaster)",
+      "url": "https://open.spotify.com/track/4Y8bMbwPVrdYlMNJBSXR9c"
     },
     {
       "added_at": "2018-12-12 11:36:39",

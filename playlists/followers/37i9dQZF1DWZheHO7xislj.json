@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 139643,
+  "2024-02-09": 139659,
   "date_first_scraped": "2023-04-28",
   "description": "Classic and new soul music for the perfect dinner.",
   "name": "Soulful Dinner",
@@ -731,7 +731,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 189920,
       "name": "Beware",
       "url": "https://open.spotify.com/track/5j4DOzCdYv62mueHs6kezI"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 278855,
       "name": "Come To My Door - Acoustic Version",
       "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
@@ -1477,7 +1477,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
@@ -1885,6 +1885,24 @@
       "duration_ms": 153600,
       "name": "Got to Get You off My Mind",
       "url": "https://open.spotify.com/track/2aBa2XO23shN0lQjpL0G1K"
+    },
+    {
+      "album": {
+        "name": "Hits & Rarities",
+        "url": "https://open.spotify.com/album/5Pxfeg7GAycBGJCeJf0XgQ"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Got to Get You Off My Mind",
+      "url": "https://open.spotify.com/track/3EdEYvz51HZMhdClyyJFlB"
     },
     {
       "album": {
@@ -2613,7 +2631,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 125040,
       "name": "I'll Come Running Back (Mr Scruff Edit)",
       "url": "https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj"
@@ -3303,7 +3321,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 258834,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
@@ -3411,7 +3429,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 247533,
       "name": "Long Weekend",
       "url": "https://open.spotify.com/track/0BLyr2LI3CJACYcP6xbFMY"
@@ -3649,7 +3667,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 238013,
       "name": "Lovestreet 55",
       "url": "https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1"
@@ -3919,7 +3937,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
@@ -4323,7 +4341,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 252600,
       "name": "One in a Million You",
       "url": "https://open.spotify.com/track/1CzgvJvt2JRy4uEX3SVaxO"
@@ -5951,7 +5969,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 228640,
       "name": "Trouble Man",
       "url": "https://open.spotify.com/track/15pYj5ZiUJgBydzD7w6NbJ"
@@ -6761,7 +6779,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 187266,
       "name": "Your Precious Love",
       "url": "https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k"

@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - Global.",
-  "num_followers": 1769369,
+  "num_followers": 1769504,
   "original_name": "Viral 50 - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzYwNjcwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYwNzU2ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "Katchi Sera (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Katchi Sera - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
@@ -25,7 +41,31 @@
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "Ve Haaniyaan",
+        "url": "https://open.spotify.com/album/6ViHWV1ADObbcYBF7Aq1B5"
+      },
+      "artists": [
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ve Haaniyaan",
+      "url": "https://open.spotify.com/track/2C6CJGFLbisteRuY6Plb7b"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "ZORRA",
         "url": "https://open.spotify.com/album/5DyJyPd1uYQrE0iWTkhmRf"
@@ -41,7 +81,7 @@
       "url": "https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
@@ -57,7 +97,7 @@
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Hazbin Hotel Original Soundtrack (Part 1)",
         "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
@@ -85,23 +125,7 @@
       "url": "https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "2 days into college",
-        "url": "https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3"
-      },
-      "artists": [
-        {
-          "name": "Aimee Carty",
-          "url": "https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl"
-        }
-      ],
-      "duration_ms": 168113,
-      "name": "2 days into college",
-      "url": "https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Dance You Outta My Head",
         "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
@@ -117,7 +141,39 @@
       "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "2 days into college",
+        "url": "https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3"
+      },
+      "artists": [
+        {
+          "name": "Aimee Carty",
+          "url": "https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl"
+        }
+      ],
+      "duration_ms": 168113,
+      "name": "2 days into college",
+      "url": "https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "Soaked",
+        "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
+      },
+      "artists": [
+        {
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+        }
+      ],
+      "duration_ms": 179449,
+      "name": "Soaked",
+      "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "I'd Rather Overdose",
         "url": "https://open.spotify.com/album/37h5HOEyfLYcGb1QRG3dUF"
@@ -137,23 +193,7 @@
       "url": "https://open.spotify.com/track/792RoRzlyIP29zz03556Ja"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "Soaked",
-        "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
-      },
-      "artists": [
-        {
-          "name": "Shy Smith",
-          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
-        }
-      ],
-      "duration_ms": 179449,
-      "name": "Soaked",
-      "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Poison (Hazbin Hotel Original Soundtrack)",
         "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
@@ -177,7 +217,7 @@
       "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -193,7 +233,7 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Yat\u0131ya",
         "url": "https://open.spotify.com/album/2YjYHiGyyAxgX41SsmLEGl"
@@ -209,7 +249,7 @@
       "url": "https://open.spotify.com/track/51yVTZAAXjMuOCiBvN980F"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Peak of Love",
         "url": "https://open.spotify.com/album/2gfunzuGEA4l3A6CJPQJ48"
@@ -225,7 +265,7 @@
       "url": "https://open.spotify.com/track/0aK5EUC1MYp4MHp1IbFwS2"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Bling-Bang-Bang-Born",
         "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
@@ -241,7 +281,7 @@
       "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Buscando Money",
         "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
@@ -261,7 +301,7 @@
       "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Hazbin Hotel Original Soundtrack (Part 1)",
         "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
@@ -293,7 +333,7 @@
       "url": "https://open.spotify.com/track/2Evk4YMwD4zjjha2k3dbV7"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Hazbin Hotel Original Soundtrack (Part 1)",
         "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
@@ -321,39 +361,7 @@
       "url": "https://open.spotify.com/track/4mXGc27x5d6uzStIiIohGX"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "Ghetto Fabulous",
-        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
-      },
-      "artists": [
-        {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
-        }
-      ],
-      "duration_ms": 121399,
-      "name": "ONE CALL",
-      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "She Likes a Boy",
         "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
@@ -369,7 +377,39 @@
       "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "Ghetto Fabulous",
+        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Meet The Lilithz",
         "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
@@ -385,7 +425,39 @@
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 158822,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "\u0e23\u0e16\u0e44\u0e1f\u0e1a\u0e19\u0e1f\u0e49\u0e32",
+        "url": "https://open.spotify.com/album/5boT1tGdFqjrzzDSqLrrsC"
+      },
+      "artists": [
+        {
+          "name": "D Gerrard",
+          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+        }
+      ],
+      "duration_ms": 256178,
+      "name": "\u0e23\u0e16\u0e44\u0e1f\u0e1a\u0e19\u0e1f\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Koi Si",
         "url": "https://open.spotify.com/album/4HYXhgflBVtGl3cYL2eJIm"
@@ -405,7 +477,7 @@
       "url": "https://open.spotify.com/track/0rY5TEzbVFwphIzMhMh7hX"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "act ii: date @ 8",
         "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
@@ -421,23 +493,7 @@
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 158822,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Hazbin Hotel Original Soundtrack (Part 1)",
         "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
@@ -469,7 +525,7 @@
       "url": "https://open.spotify.com/track/6UTPUfrTvKzD7GhLAhi1x7"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
@@ -485,7 +541,7 @@
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Baby Eu Tava na Rua da \u00c1gua",
         "url": "https://open.spotify.com/album/6HIPvZhnf9Pb6rFLQb7vmD"
@@ -509,7 +565,7 @@
       "url": "https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "ARABA",
         "url": "https://open.spotify.com/album/6qk5ajwfXB8QplASyF7lXH"
@@ -525,7 +581,7 @@
       "url": "https://open.spotify.com/track/5tjWDHOCqsbKPuiivil0BM"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Made For Me",
         "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
@@ -541,43 +597,7 @@
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "FIRST LOVE",
-        "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
-      },
-      "artists": [
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "FIRST LOVE",
-      "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-        "url": "https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr"
-      },
-      "artists": [
-        {
-          "name": "Mitraz",
-          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
-        }
-      ],
-      "duration_ms": 171147,
-      "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-      "url": "https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Diferent\u00e3o",
         "url": "https://open.spotify.com/album/4GEKE1p87kk2tSgMAvubVl"
@@ -597,227 +617,43 @@
       "url": "https://open.spotify.com/track/6fcQIY5VSFNrK4YzDoljPQ"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
-        "name": "Kapak Olsun",
-        "url": "https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B"
+        "name": "FIRST LOVE",
+        "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
       },
       "artists": [
         {
-          "name": "Defkhan",
-          "url": "https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS"
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
         },
         {
-          "name": "NELLIE",
-          "url": "https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3"
-        },
-        {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 147136,
-      "name": "Kapak Olsun",
-      "url": "https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1"
+      "duration_ms": 169440,
+      "name": "FIRST LOVE",
+      "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
-        "name": "Husn",
-        "url": "https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W"
+        "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+        "url": "https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr"
       },
       "artists": [
         {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
         }
       ],
-      "duration_ms": 217894,
-      "name": "Husn",
-      "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
+      "duration_ms": 171147,
+      "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "url": "https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "rain",
-        "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
-      },
-      "artists": [
-        {
-          "name": "PiXXiE",
-          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
-        }
-      ],
-      "duration_ms": 196896,
-      "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19 (rain)",
-      "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 184027,
-      "name": "M.A.I",
-      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "Eulogize",
-        "url": "https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE"
-      },
-      "artists": [
-        {
-          "name": "Shaya Zamora",
-          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
-        }
-      ],
-      "duration_ms": 218031,
-      "name": "Cigarette",
-      "url": "https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "Like I Do",
-        "url": "https://open.spotify.com/album/4AT7V0zZ0B3xWDef7sPCyJ"
-      },
-      "artists": [
-        {
-          "name": "J.Tajor",
-          "url": "https://open.spotify.com/artist/0VpMOC5IZU06u29fWjv3qJ"
-        }
-      ],
-      "duration_ms": 149142,
-      "name": "Like I Do",
-      "url": "https://open.spotify.com/track/1TiZWEsxN85yLJBq56K8mG"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "Never Lose Me",
-        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 125901,
-      "name": "Never Lose Me",
-      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "Prelude to Ecstasy",
-        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 182623,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "Christell",
-        "url": "https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz"
-      },
-      "artists": [
-        {
-          "name": "Christell",
-          "url": "https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V"
-        }
-      ],
-      "duration_ms": 226103,
-      "name": "Dubidubidu (Chipi Chipi Chapa Chapa)",
-      "url": "https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 260370,
-      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
-      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "VVS Switch",
-        "url": "https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg"
-      },
-      "artists": [
-        {
-          "name": "Pressure 9X19",
-          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
-        }
-      ],
-      "duration_ms": 168178,
-      "name": "VVS Switch",
-      "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "MICHAEL",
         "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
@@ -845,7 +681,223 @@
       "url": "https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "Kapak Olsun",
+        "url": "https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B"
+      },
+      "artists": [
+        {
+          "name": "Defkhan",
+          "url": "https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS"
+        },
+        {
+          "name": "NELLIE",
+          "url": "https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3"
+        },
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6"
+        }
+      ],
+      "duration_ms": 147136,
+      "name": "Kapak Olsun",
+      "url": "https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "Husn",
+        "url": "https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 217894,
+      "name": "Husn",
+      "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "duration_ms": 196896,
+      "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19 (rain)",
+      "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "Like I Do",
+        "url": "https://open.spotify.com/album/4AT7V0zZ0B3xWDef7sPCyJ"
+      },
+      "artists": [
+        {
+          "name": "J.Tajor",
+          "url": "https://open.spotify.com/artist/0VpMOC5IZU06u29fWjv3qJ"
+        }
+      ],
+      "duration_ms": 149142,
+      "name": "Like I Do",
+      "url": "https://open.spotify.com/track/1TiZWEsxN85yLJBq56K8mG"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 184027,
+      "name": "M.A.I",
+      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "Never Lose Me",
+        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "Eulogize",
+        "url": "https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE"
+      },
+      "artists": [
+        {
+          "name": "Shaya Zamora",
+          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
+        }
+      ],
+      "duration_ms": 218031,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "VVS Switch",
+        "url": "https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        }
+      ],
+      "duration_ms": 168178,
+      "name": "VVS Switch",
+      "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 182623,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "Christell",
+        "url": "https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz"
+      },
+      "artists": [
+        {
+          "name": "Christell",
+          "url": "https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V"
+        }
+      ],
+      "duration_ms": 226103,
+      "name": "Dubidubidu (Chipi Chipi Chapa Chapa)",
+      "url": "https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
+      "album": {
+        "name": "pVg",
+        "url": "https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "duration_ms": 243779,
+      "name": "pVg",
+      "url": "https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe"
+    },
+    {
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "Yes or No",
         "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
@@ -869,7 +921,7 @@
       "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"
     },
     {
-      "added_at": "2024-02-07 14:55:58",
+      "added_at": "2024-02-08 14:48:14",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -883,62 +935,6 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "pVg",
-        "url": "https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6"
-      },
-      "artists": [
-        {
-          "name": "Motive",
-          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
-        }
-      ],
-      "duration_ms": 243779,
-      "name": "pVg",
-      "url": "https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "Urugi Urugi (From \"Joe\")",
-        "url": "https://open.spotify.com/album/4gKYKbIsDeQSlWIiukYV3P"
-      },
-      "artists": [
-        {
-          "name": "Siddhu Kumar",
-          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
-        },
-        {
-          "name": "Vignesh Ramakrishna",
-          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
-        },
-        {
-          "name": "Anand Aravindakshan",
-          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "Urugi Urugi - From \"Joe\"",
-      "url": "https://open.spotify.com/track/1pTkmFDgxz09fg6Mu1mBpH"
-    },
-    {
-      "added_at": "2024-02-07 14:55:58",
-      "album": {
-        "name": "Read My Lips",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Murder On The Dancefloor",
-      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
     }
   ],
   "unique_name": "Viral 50 - Global",

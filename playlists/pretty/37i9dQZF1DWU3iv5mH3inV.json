@@ -1,33 +1,13 @@
 {
   "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Rochy RD",
-  "num_followers": 100367,
+  "num_followers": 100423,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODAxYzYwMGZhMTVlNjhmZGZjZWQzYzUxODdjYzFjZTFlODVmZWFk",
+  "snapshot_id": "MCwwYTc0OTIwZDc3MjkyNTUwYmU4NGY4NmJjOWE1MDVmODRiMmRmNTQ4",
   "tracks": [
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "Flow Sexy",
-        "url": "https://open.spotify.com/album/78HK77TtSPMxqAi6yH6jOP"
-      },
-      "artists": [
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 165123,
-      "name": "Flow Sexy",
-      "url": "https://open.spotify.com/track/1aaNLFSkrqqM6KtBFjS2Hj"
-    },
     {
       "added_at": "2024-02-01 23:53:43",
       "album": {
@@ -113,6 +93,22 @@
       "url": "https://open.spotify.com/track/3qPmdcPp5yVnNjZ2hIlUE4"
     },
     {
+      "added_at": "2024-02-08 22:40:39",
+      "album": {
+        "name": "Van 3 D\u00eda",
+        "url": "https://open.spotify.com/album/6ast2TToWEm7stjuQ1Qyqg"
+      },
+      "artists": [
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        }
+      ],
+      "duration_ms": 135360,
+      "name": "Van 3 D\u00eda",
+      "url": "https://open.spotify.com/track/6JEc3AZdPqI9srmmmILjk8"
+    },
+    {
       "added_at": "2024-01-18 21:46:59",
       "album": {
         "name": "Chivirika",
@@ -133,6 +129,34 @@
       "url": "https://open.spotify.com/track/7GY9BCk8P624bRSl045dTR"
     },
     {
+      "added_at": "2024-02-08 22:40:39",
+      "album": {
+        "name": "Marcelo",
+        "url": "https://open.spotify.com/album/0y5KiZQQJbOYamsrReBtRY"
+      },
+      "artists": [
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        },
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "Onguito Wa",
+          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "duration_ms": 120130,
+      "name": "Marcelo",
+      "url": "https://open.spotify.com/track/2QM3dHYntJ0qmnjKsOq0sE"
+    },
+    {
       "added_at": "2023-12-22 05:09:41",
       "album": {
         "name": "No Hay Recreo",
@@ -147,6 +171,30 @@
       "duration_ms": 118168,
       "name": "No Hay Recreo",
       "url": "https://open.spotify.com/track/6soUhucfoNsgxze4fzA24p"
+    },
+    {
+      "added_at": "2024-02-08 22:40:39",
+      "album": {
+        "name": "Hoy Si",
+        "url": "https://open.spotify.com/album/0mjCzgtlh0uduQTNKLeqBs"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        },
+        {
+          "name": "OG DETRUYELO",
+          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
+        }
+      ],
+      "duration_ms": 124285,
+      "name": "Hoy Si",
+      "url": "https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N"
     },
     {
       "added_at": "2024-02-01 23:53:43",
@@ -167,6 +215,26 @@
       "duration_ms": 155357,
       "name": "Maldad y Tiniebla",
       "url": "https://open.spotify.com/track/0wVTFmvtKzjFX3QNEkzIZ9"
+    },
+    {
+      "added_at": "2023-12-22 05:09:41",
+      "album": {
+        "name": "Flow Sexy",
+        "url": "https://open.spotify.com/album/78HK77TtSPMxqAi6yH6jOP"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 165123,
+      "name": "Flow Sexy",
+      "url": "https://open.spotify.com/track/1aaNLFSkrqqM6KtBFjS2Hj"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -203,6 +271,26 @@
       "duration_ms": 146442,
       "name": "Sangundeo",
       "url": "https://open.spotify.com/track/7jvAjZkb2q0PQmCIZR3Shb"
+    },
+    {
+      "added_at": "2024-02-08 22:40:39",
+      "album": {
+        "name": "Te la robe",
+        "url": "https://open.spotify.com/album/6m2znuMx5QTfbxzJIykRHY"
+      },
+      "artists": [
+        {
+          "name": "Kazz Flow",
+          "url": "https://open.spotify.com/artist/4VE3CEaTL63WgqNCFEYiPX"
+        },
+        {
+          "name": "HeoLuih",
+          "url": "https://open.spotify.com/artist/3rtsHRk4xZmdUGQKypI8T9"
+        }
+      ],
+      "duration_ms": 120526,
+      "name": "Te la robe",
+      "url": "https://open.spotify.com/track/4uo1pUHNY70hPYKRuviCwS"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -683,34 +771,6 @@
     {
       "added_at": "2023-12-22 05:09:41",
       "album": {
-        "name": "Que Te Funda",
-        "url": "https://open.spotify.com/album/2JCXm6Il7maQNrBt4SXKPp"
-      },
-      "artists": [
-        {
-          "name": "Kreizy k",
-          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
-        },
-        {
-          "name": "Gran Memin",
-          "url": "https://open.spotify.com/artist/7BG2m5BOanO3yVMeSi4n7G"
-        },
-        {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
-        },
-        {
-          "name": "La Creencia",
-          "url": "https://open.spotify.com/artist/0jmJ4njAcUbbkVs3hSyXsc"
-        }
-      ],
-      "duration_ms": 145606,
-      "name": "Que Te Funda",
-      "url": "https://open.spotify.com/track/2xnkD9rG8IkRTHMHjKvcVA"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
         "name": "Capotilla",
         "url": "https://open.spotify.com/album/4dbYPyxPDICeR7NricPqDn"
       },
@@ -763,26 +823,6 @@
       "duration_ms": 124871,
       "name": "Bala",
       "url": "https://open.spotify.com/track/3Ndp9BryXxb9K0uN6eIGu6"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "Sicaria Que No Me La Saca",
-        "url": "https://open.spotify.com/album/76EKJ7J8DQ0pbuxza27wgl"
-      },
-      "artists": [
-        {
-          "name": "Onguito Wa",
-          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
-        },
-        {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
-        }
-      ],
-      "duration_ms": 148608,
-      "name": "Sicaria Que No Me La Saca",
-      "url": "https://open.spotify.com/track/5mU8kpDVPPdDTMZBcnY7pC"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -919,26 +959,6 @@
     {
       "added_at": "2023-12-22 05:09:41",
       "album": {
-        "name": "Tumba Ya",
-        "url": "https://open.spotify.com/album/3A5C4hvw1KjECYOELXFVwD"
-      },
-      "artists": [
-        {
-          "name": "Quimico Ultra Mega",
-          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
-        },
-        {
-          "name": "Mestizo Is Back",
-          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
-        }
-      ],
-      "duration_ms": 128938,
-      "name": "Tumba Ya",
-      "url": "https://open.spotify.com/track/30jSkXM8Xi6kB2lOJoab6m"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
         "name": "Pikete",
         "url": "https://open.spotify.com/album/6zWNerNE94kJsr142w2oEU"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 157005,
       "name": "Mala De Verdad (Tik Tak)",
       "url": "https://open.spotify.com/track/4Q8gwcvgyDo1dbxxETrsYE"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "Que Pale",
-        "url": "https://open.spotify.com/album/1fB6LLqUp9BuNtmavZybqI"
-      },
-      "artists": [
-        {
-          "name": "El De La Hache",
-          "url": "https://open.spotify.com/artist/6P0DwHB3CeM4Jh14xuJmEA"
-        },
-        {
-          "name": "Most Wanted La Familia",
-          "url": "https://open.spotify.com/artist/57yFqDKqy5QnBIBAjy2qz6"
-        }
-      ],
-      "duration_ms": 136045,
-      "name": "Que Pale",
-      "url": "https://open.spotify.com/track/5gorLpRstyOJ2Nyy0qYV3g"
     }
   ],
   "unique_name": "Rep\u00fablica Dembow",

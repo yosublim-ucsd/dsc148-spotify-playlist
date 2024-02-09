@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 47669,
+  "num_followers": 47673,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjljMzcxNDVlMWNhOTNiMzg1YWQzZDQwMTI1MDRlZDgyMWQ2M2E5",
+  "snapshot_id": "MCwxMWY4NTYzM2ExY2JhZjhhY2JlM2U3NTZlOGQ3NWZkZWZmYzliMmQy",
   "tracks": [
     {
       "added_at": "2024-02-07 14:43:04",
@@ -167,22 +167,18 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
-        "name": "Lightning To Strike",
-        "url": "https://open.spotify.com/album/5ziGWAOle0QNNJw1iQRWgJ"
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
       },
       "artists": [
         {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+          "name": "Cookie Crumble",
+          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
         }
       ],
-      "duration_ms": 178721,
-      "name": "Lightning To Strike",
-      "url": "https://open.spotify.com/track/2MAjcMaiYJdwFT3oAYLo03"
+      "duration_ms": 175169,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -223,18 +219,22 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
+        "name": "Lightning To Strike",
+        "url": "https://open.spotify.com/album/5ziGWAOle0QNNJw1iQRWgJ"
       },
       "artists": [
         {
-          "name": "Cookie Crumble",
-          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
         }
       ],
-      "duration_ms": 175169,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
+      "duration_ms": 178721,
+      "name": "Lightning To Strike",
+      "url": "https://open.spotify.com/track/2MAjcMaiYJdwFT3oAYLo03"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -371,30 +371,6 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
-        "name": "Someday (Latroit Edition)",
-        "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
-      },
-      "artists": [
-        {
-          "name": "Lliam Taylor",
-          "url": "https://open.spotify.com/artist/2n01f3fehDpSvUQB3oYFFe"
-        },
-        {
-          "name": "Latroit",
-          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
-        },
-        {
-          "name": "Brea",
-          "url": "https://open.spotify.com/artist/5nVSKWXkINmkKxSSWfiPwM"
-        }
-      ],
-      "duration_ms": 201656,
-      "name": "Someday (Latroit Edition)",
-      "url": "https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
         "name": "Found It With You",
         "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
       },
@@ -415,6 +391,30 @@
       "duration_ms": 163410,
       "name": "Found It With You",
       "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
+        "name": "Someday (Latroit Edition)",
+        "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
+      },
+      "artists": [
+        {
+          "name": "Lliam Taylor",
+          "url": "https://open.spotify.com/artist/2n01f3fehDpSvUQB3oYFFe"
+        },
+        {
+          "name": "Latroit",
+          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
+        },
+        {
+          "name": "Brea",
+          "url": "https://open.spotify.com/artist/5nVSKWXkINmkKxSSWfiPwM"
+        }
+      ],
+      "duration_ms": 201656,
+      "name": "Someday (Latroit Edition)",
+      "url": "https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
-        "name": "Thousand Lullabies",
-        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        }
-      ],
-      "duration_ms": 129573,
-      "name": "Thousand Lullabies",
-      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
         "name": "I Blame You",
         "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 132927,
       "name": "I Blame You",
       "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
+        "name": "Thousand Lullabies",
+        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        }
+      ],
+      "duration_ms": 129573,
+      "name": "Thousand Lullabies",
+      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Light A Fire",
+      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
         "name": "Dollar For A Dime",
         "url": "https://open.spotify.com/album/1mU5hNit7ZSklzvUjEkZko"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 148965,
       "name": "Dollar For A Dime",
       "url": "https://open.spotify.com/track/11O5rC66Yk7sszOrQ7tB4r"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
-        "name": "Light A Fire",
-        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Light A Fire",
-      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
-        "name": "Black & Blue",
-        "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Black & Blue",
-      "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 178909,
       "name": "Madness",
       "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
+        "name": "Black & Blue",
+        "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 279960,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/2OrmvwrqfGH0C0I70w4SRZ"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
         "name": "Scent of Wood (Bound to Divide Remix)",
         "url": "https://open.spotify.com/album/3F5raVu3wkj29XJ8UKa9o3"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 208548,
       "name": "Scent of Wood (Bound to Divide Remix)",
       "url": "https://open.spotify.com/track/10ziUOuysPmpB3mNtCpNTA"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 279960,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/2OrmvwrqfGH0C0I70w4SRZ"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -1431,22 +1431,18 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
-        "name": "STAY",
-        "url": "https://open.spotify.com/album/013a6sw3mwlatsiiMDvoJV"
+        "name": "Eagle",
+        "url": "https://open.spotify.com/album/4Crz6njLs2cLjs3OTdpzKs"
       },
       "artists": [
         {
-          "name": "Ayko",
-          "url": "https://open.spotify.com/artist/7DoGkyQETbcynITmyOlWJf"
-        },
-        {
-          "name": "George",
-          "url": "https://open.spotify.com/artist/3sedn32ScoPV1uUo54el2E"
+          "name": "Mats Westbroek",
+          "url": "https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA"
         }
       ],
-      "duration_ms": 162393,
-      "name": "STAY",
-      "url": "https://open.spotify.com/track/2t0wgon3zNi2rK5RmBI6PB"
+      "duration_ms": 184994,
+      "name": "Eagle",
+      "url": "https://open.spotify.com/track/5Hvj61IXD0Y4MBGossQ2Zk"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -1471,18 +1467,38 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
-        "name": "Eagle",
-        "url": "https://open.spotify.com/album/4Crz6njLs2cLjs3OTdpzKs"
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/013a6sw3mwlatsiiMDvoJV"
       },
       "artists": [
         {
-          "name": "Mats Westbroek",
-          "url": "https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA"
+          "name": "Ayko",
+          "url": "https://open.spotify.com/artist/7DoGkyQETbcynITmyOlWJf"
+        },
+        {
+          "name": "George",
+          "url": "https://open.spotify.com/artist/3sedn32ScoPV1uUo54el2E"
         }
       ],
-      "duration_ms": 184994,
-      "name": "Eagle",
-      "url": "https://open.spotify.com/track/5Hvj61IXD0Y4MBGossQ2Zk"
+      "duration_ms": 162393,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/2t0wgon3zNi2rK5RmBI6PB"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
+        "name": "Summer Stars",
+        "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
+      },
+      "artists": [
+        {
+          "name": "Mauve",
+          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
+        }
+      ],
+      "duration_ms": 150394,
+      "name": "Summer Stars",
+      "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -1507,22 +1523,6 @@
       "duration_ms": 115297,
       "name": "Down from this High",
       "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
-        "name": "Summer Stars",
-        "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
-      },
-      "artists": [
-        {
-          "name": "Mauve",
-          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
-        }
-      ],
-      "duration_ms": 150394,
-      "name": "Summer Stars",
-      "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
     },
     {
       "added_at": "2024-02-07 14:43:04",

@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 676844,
+  "2024-02-09": 677056,
   "date_first_scraped": "2022-01-21",
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
   "name": "Bachata Classics",
@@ -327,10 +327,28 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 171082,
       "name": "Con el Pecho y el Corazon",
       "url": "https://open.spotify.com/track/0TycDAQAhlrHloRKzaqQQD"
+    },
+    {
+      "album": {
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/24vwcC0H1qn93o3z0tSyGa"
+      },
+      "artists": [
+        {
+          "name": "Marino Perez",
+          "url": "https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170693,
+      "name": "Con el Pecho y el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/79RuRcwIaX1iPAqERqdSYr"
     },
     {
       "album": {

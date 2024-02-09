@@ -2,7 +2,7 @@
 
 ### [Ethereal](https://open.spotify.com/playlist/37i9dQZF1DXao0JEaClQq9)
 
-> Modern heavenly sounds\. Cover: Youth Lagoon
+> Modern heavenly sounds\. Cover: Caroline Polachek + Weyes Blood
 
 560 songs - 1 day 11 hr 9 min
 

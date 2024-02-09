@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > 
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,275 likes - 708 songs - 1 day 16 hr 42 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,279 likes - 708 songs - 1 day 16 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -408,7 +408,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 | 398 | [What It Sound Like \(feat\. B\-Real\)](https://open.spotify.com/track/4wnXIdWJnzomFK6u00cT5Y) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [RICO](https://open.spotify.com/album/0J3hclSnZfuOPYi0SMJLjH) | 4:13 |
 | 399 | [Vibes \(feat\. Slimmy B & Yhung T.O.\)](https://open.spotify.com/track/5lFFk4Y021bldEef4AX8rr) | [SOB X RBE](https://open.spotify.com/artist/2TImI3DW7o5MdRXJs4D37h), [Slimmy B](https://open.spotify.com/artist/0BfxMYdkqRuwPXsSwEf5RE), [Yhung T.O.](https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l) | [Vibes \(feat\. Slimmy B & Yhung T.O.\)](https://open.spotify.com/album/77TNx1A4wmlRA5YxDZDS6Z) | 2:10 |
 | 400 | [Killshot](https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Killshot](https://open.spotify.com/album/0RejlT9bmqcXGrqMaJRos0) | 4:13 |
-| 401 | [RAP DEVIL](https://open.spotify.com/track/43TP6JCWXgkc2D7Xjz5hBr) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [BINGE](https://open.spotify.com/album/5YuscmEJSgkwWzBafTBKse) | 4:41 |
+| 401 | [RAP DEVIL](https://open.spotify.com/track/43TP6JCWXgkc2D7Xjz5hBr) | [MGK](https://open.spotify.com/artist/0jn47ZZH4HhX8JIGJUWSr0) | [BINGE](https://open.spotify.com/album/5YuscmEJSgkwWzBafTBKse) | 4:41 |
 | 402 | [Yes Indeed](https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:22 |
 | 403 | [Jefe \(feat\. Meek Mill\)](https://open.spotify.com/track/595Sl1FDWMXRUktv5LO2gD) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Jefe \(feat\. Meek Mill\)](https://open.spotify.com/album/0w8e11rirSSfWBuYGBUINl) | 3:28 |
 | 404 | [New Patek](https://open.spotify.com/track/0Fpen1PTuEnCmOJtUU9Iud) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [New Patek](https://open.spotify.com/album/64eE6FnNj7UJ9LEkN4EbvS) | 5:43 |

@@ -385,6 +385,28 @@
     },
     {
       "album": {
+        "name": "All Over Me",
+        "url": "https://open.spotify.com/album/0MMIfH7pfJDV5tCIzXzhG5"
+      },
+      "artists": [
+        {
+          "name": "Fancy Fingers",
+          "url": "https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208085,
+      "name": "All Over Me",
+      "url": "https://open.spotify.com/track/4QDWaYYFZBng9u5HTVXBRY"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg"
       },
@@ -524,6 +546,28 @@
       "duration_ms": 186000,
       "name": "Angelus",
       "url": "https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6"
+    },
+    {
+      "album": {
+        "name": "Seductive",
+        "url": "https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163013,
+      "name": "Another Vibe (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3"
     },
     {
       "album": {
@@ -2094,7 +2138,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 152079,
       "name": "Faaji",
       "url": "https://open.spotify.com/track/1I1UC0ljqNUEHTfVsZNJCU"
@@ -2794,7 +2838,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 202491,
       "name": "I Dey Slide",
       "url": "https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7"
@@ -3946,7 +3990,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 237346,
       "name": "MEDITATE",
       "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
@@ -4447,6 +4491,24 @@
     },
     {
       "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
+    },
+    {
+      "album": {
         "name": "OLE",
         "url": "https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy"
       },
@@ -4706,7 +4768,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 208692,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
@@ -6497,6 +6559,24 @@
     },
     {
       "album": {
+        "name": "Time To Love Again",
+        "url": "https://open.spotify.com/album/4DkV7VjFbEg0n4AsHVLtz9"
+      },
+      "artists": [
+        {
+          "name": "Pure Akan",
+          "url": "https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155106,
+      "name": "Time To Love Again",
+      "url": "https://open.spotify.com/track/0LaCgmzJqzWymrvuXrimkd"
+    },
+    {
+      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -7192,7 +7272,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 152941,
       "name": "Whine",
       "url": "https://open.spotify.com/track/5p02f6vHykfCMMY6XRb21n"
@@ -7628,6 +7708,28 @@
       "duration_ms": 166153,
       "name": "Your Mind, You're Mine",
       "url": "https://open.spotify.com/track/7kLXpVUA53AiHFKhGqUjrx"
+    },
+    {
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176692,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2YOadVouRc8"

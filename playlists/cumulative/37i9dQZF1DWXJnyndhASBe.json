@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Young Multi, Szpaku, Kubi Producent",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Aleshen",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -474,6 +474,32 @@
       "duration_ms": 130500,
       "name": "Benzyna",
       "url": "https://open.spotify.com/track/7r4c4Rb7qdLLHAOziS5a5R"
+    },
+    {
+      "album": {
+        "name": "Best I Can",
+        "url": "https://open.spotify.com/album/2HbaEeC40u3SYVK1BxZaYj"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        },
+        {
+          "name": "M\u0142ody Olisadebe",
+          "url": "https://open.spotify.com/artist/1f2P6GqB8gtU4wtYmDhPHD"
+        },
+        {
+          "name": "LUCK7",
+          "url": "https://open.spotify.com/artist/7fc8TYJ594GZ2lyVGSs76l"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224346,
+      "name": "Best I Can",
+      "url": "https://open.spotify.com/track/2PCDFgW9IJpLXcZ8TsRHDp"
     },
     {
       "album": {
@@ -1246,6 +1272,36 @@
       "duration_ms": 162000,
       "name": "Death note",
       "url": "https://open.spotify.com/track/7dgt6RI3o5QCB7xuXMVMxS"
+    },
+    {
+      "album": {
+        "name": "SAFE",
+        "url": "https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Opa\u0142",
+          "url": "https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/4kcMDgaU8xb4otoDv5c4kD"
     },
     {
       "album": {
@@ -2680,7 +2736,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 215675,
       "name": "MIZANTROP",
       "url": "https://open.spotify.com/track/62nDbbCuUxzq6j5gj24cNr"
@@ -2972,6 +3028,32 @@
       "duration_ms": 217846,
       "name": "Nicea",
       "url": "https://open.spotify.com/track/5OYaQw9IS8MMDFRgTPqDnR"
+    },
+    {
+      "album": {
+        "name": "NIE BIERZ TEGO DO SIEBIE",
+        "url": "https://open.spotify.com/album/1pXClnsvqJSd280YsfFd3U"
+      },
+      "artists": [
+        {
+          "name": "\u0106PAJ STAJL",
+          "url": "https://open.spotify.com/artist/1mAoRpDy7J3s5jX96Bm5jF"
+        },
+        {
+          "name": "Cool P",
+          "url": "https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV"
+        },
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142722,
+      "name": "NIE BIERZ TEGO DO SIEBIE",
+      "url": "https://open.spotify.com/track/0ZBIprMHNepuw803CNM90t"
     },
     {
       "album": {
@@ -3274,7 +3356,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 155999,
       "name": "Pam&Tommy",
       "url": "https://open.spotify.com/track/7l1JE5yvi2DEjoscP20SbU"
@@ -4164,7 +4246,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 131052,
       "name": "TenTen",
       "url": "https://open.spotify.com/track/5zIHV3EPHI4K15kzz3DLuQ"

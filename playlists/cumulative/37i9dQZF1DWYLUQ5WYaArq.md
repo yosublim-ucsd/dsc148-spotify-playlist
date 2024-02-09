@@ -2,7 +2,7 @@
 
 ### [Throwback Thursday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWYLUQ5WYaArq)
 
-> Uplifting, motivational soul classics to lift your day higher!!
+> Motivational Soul classics to lift your day even higher!!
 
 1,089 songs - 2 day 21 hr 54 min
 

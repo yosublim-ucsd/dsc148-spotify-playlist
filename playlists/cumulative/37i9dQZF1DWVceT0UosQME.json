@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 162253,
       "name": "Backwards",
       "url": "https://open.spotify.com/track/3kiPyaxjjdXnR7SAvQvy5W"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 112551,
       "name": "blurred",
       "url": "https://open.spotify.com/track/1y9eslcDsTi75UfkTHuyQZ"
@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 145421,
       "name": "Eye\u00b4s on the Price",
       "url": "https://open.spotify.com/track/4BEk85p0hvQtzGzJbHxBHP"
@@ -2404,7 +2404,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 146193,
       "name": "fantasize",
       "url": "https://open.spotify.com/track/6YTpB8MmcAwNmet2FtfuTm"
@@ -3388,7 +3388,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 143571,
       "name": "Guidance",
       "url": "https://open.spotify.com/track/02tOh7uEWKJ6NmbbU8bRbp"
@@ -6086,6 +6086,24 @@
       "duration_ms": 138624,
       "name": "Park Life",
       "url": "https://open.spotify.com/track/6TrmKrBHA1UcepoLAoCa7A"
+    },
+    {
+      "album": {
+        "name": "Particles",
+        "url": "https://open.spotify.com/album/0wVaLUlQyunU42SVFMlnj5"
+      },
+      "artists": [
+        {
+          "name": "with_myself",
+          "url": "https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Particles",
+      "url": "https://open.spotify.com/track/5iutyPUPT8BD6NmUjMVVj2"
     },
     {
       "album": {

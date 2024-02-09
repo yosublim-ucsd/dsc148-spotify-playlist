@@ -2,9 +2,9 @@
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> Rap napoletano e il meglio della scena campana\. Nicola Siciliano in cover.
+> Rap napoletano e il meglio della scena campana\. Geolier in cover.
 
-285 songs - 13 hr 16 min
+286 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Aggio Perzo 'o Suonno \(feat\. Coez, prod\. TY1\)](https://open.spotify.com/track/2rfVX4zjVnfUOr1k3txKNG) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP) | [Aggio Perzo 'o Suonno \(feat\. Coez, prod\. TY1\)](https://open.spotify.com/album/23GqccME4E9ej9vaBVzKSY) | 3:02 | 2022-05-10 | 2022-10-14 |
 | [Amiezavj](https://open.spotify.com/track/4849FNFdAkoMPNq3CnP2gY) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [Amiezavj](https://open.spotify.com/album/6VosHcDVPa48e8YhMC6l2x) | 3:19 | 2022-05-10 | 2022-06-10 |
 | [Ammor Malat](https://open.spotify.com/track/10B0i3T2S9gyKWGgA80zd4) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn), [Drew](https://open.spotify.com/artist/63AMqq6suxV7uvDizOFweZ) | [Ammor Malat](https://open.spotify.com/album/0pLAW1kmhZ5qiaYLy7e7Fe) | 2:53 | 2022-05-10 | 2023-01-13 |
+| [AMULETO](https://open.spotify.com/track/4jVS1c9TPM5Yrjq8DOSxti) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX), [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [AMULETO](https://open.spotify.com/album/66s1GBupIh6wKOoO3hFMeX) | 3:10 | 2024-02-08 |  |
 | [ANAKIN](https://open.spotify.com/track/4KEbf87OaKRMUYXprWPhQG) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [ANAKIN](https://open.spotify.com/album/4d4R95602qOqHPLfCs7P87) | 2:03 | 2023-09-28 | 2023-11-03 |
 | [Ancora ccà](https://open.spotify.com/track/0W17TDYYspigcSiChTy9ln) | [Paco6x](https://open.spotify.com/artist/07XOQTC2IEP8nI0NPvmjtK), [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [It's Classic Mixtape, Vol\. 2](https://open.spotify.com/album/7rCZE6SYOzDRkxyd306oQp) | 2:54 | 2023-11-02 | 2023-11-17 |
 | [ATM \(feat\. MV Killa\)](https://open.spotify.com/track/6jV1tdQXiQ87WPO5uqjSyq) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 2:34 | 2023-08-31 | 2023-10-06 |
@@ -77,7 +78,7 @@
 | [Eclissi \(feat\. J Lord & Speranza\)](https://open.spotify.com/track/0azAYaqLS3VSN6KCvsdIfc) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:14 | 2022-05-10 | 2022-07-01 |
 | [EMIRATES](https://open.spotify.com/track/3xncdlgBxm4jnDHUA6nUyD) | [Meth](https://open.spotify.com/artist/7mP77CbmESx0WtAFLvRTZP) | [EMIRATES](https://open.spotify.com/album/2FeMXivnB7SG2PnT3Sq4LH) | 2:31 | 2022-09-01 | 2022-09-16 |
 | [Emirates \(feat\. Rocco Hunt\)](https://open.spotify.com/track/0qDJ4qOa1xisB7oMmJhD2n) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:24 | 2022-05-10 | 2022-11-11 |
-| [ESAME DI COSCIENZA](https://open.spotify.com/track/43yj12NGdqBcizo5rGE71D) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX), [Sio](https://open.spotify.com/artist/5h1ppfMPwMGC0gT9vPUrI2) | [ESAME DI COSCIENZA](https://open.spotify.com/album/6x5LrOvqh7U92hLFUGc88z) | 2:41 | 2023-12-14 |  |
+| [ESAME DI COSCIENZA](https://open.spotify.com/track/43yj12NGdqBcizo5rGE71D) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX), [Sio](https://open.spotify.com/artist/5h1ppfMPwMGC0gT9vPUrI2) | [ESAME DI COSCIENZA](https://open.spotify.com/album/6x5LrOvqh7U92hLFUGc88z) | 2:41 | 2023-12-14 | 2024-02-09 |
 | [Fake \(con Geolier & Luchè\)](https://open.spotify.com/track/0xKBCd6EttVyRv1Sdgo9PX) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:57 | 2022-09-15 | 2023-03-18 |
 | [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 | 2023-03-23 |  |
 | [Fino a quando non muoio \(feat\. Vaz Tè\)](https://open.spotify.com/track/7aJUttpLAxSOrlCmYSVz5X) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [47Milano](https://open.spotify.com/artist/0A3F67rGTvyUTqCCuiFLV1), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY) | [Via Piombai](https://open.spotify.com/album/4RBnfg3OcCrv5a0J1FbNoQ) | 2:33 | 2024-01-11 |  |

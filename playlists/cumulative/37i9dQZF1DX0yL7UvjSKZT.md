@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Lindsay Lou
 
-379 songs - 23 hr 38 min
+380 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Everything Changed](https://open.spotify.com/track/2a69GIAmyBciRjmCquCDPZ) | [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ) | [Ionia](https://open.spotify.com/album/3e5lY3xDNMVrcoQTPR3Deg) | 4:05 | 2022-07-22 |  |
 | [Everything Changed](https://open.spotify.com/track/75lG0mNxn3YH7MD4qcLkA6) | [Lindsay Lou & the Flatbellys](https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3) | [Ionia](https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ) | 4:05 | 2021-10-01 | 2022-07-29 |
 | [Fall, Fall, Fall](https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Fall, Fall, Fall](https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY) | 4:41 | 2021-10-01 | 2022-01-22 |
-| [Father Time](https://open.spotify.com/track/2BtUVOfF9KJdFoUfR7VIqb) | [Highland Reverie](https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2) | [Father Time](https://open.spotify.com/album/4hAgFDtiwPdjzIMxnbK7lJ) | 2:24 | 2022-01-21 |  |
+| [Father Time](https://open.spotify.com/track/2BtUVOfF9KJdFoUfR7VIqb) | [Highland Reverie](https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2) | [Father Time](https://open.spotify.com/album/4hAgFDtiwPdjzIMxnbK7lJ) | 2:24 | 2022-01-21 | 2024-02-09 |
+| [Father Time](https://open.spotify.com/track/3RDkbfE2OJTGdYWqFAkELg) | [Highland Reverie](https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2) | [Highland Reverie](https://open.spotify.com/album/12vzpkWTObSLDmFcp2XUUS) | 2:24 | 2024-02-02 |  |
 | [Ferris Wheel](https://open.spotify.com/track/1AjZqb7Tq31ImmqQBvCJot) | [George Jackson](https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7), [Eli Broxham](https://open.spotify.com/artist/1TgFBajZtGKOwhEONz9n8G), [Frank Evans](https://open.spotify.com/artist/1sOuG3dLwdgmh53W0NPaGO), [John Mailander](https://open.spotify.com/artist/4MYqkPU4l4Gpohaub6mGFr) | [Ferris Wheel](https://open.spotify.com/album/3SqYsi0HttqFNoIai2LomV) | 3:44 | 2023-09-22 |  |
 | [Firewood](https://open.spotify.com/track/19e3bfpKwSnvw4JEFQTihp) | [April Verch](https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8), [Cody Walters](https://open.spotify.com/artist/5dh7cV8PwHgi7aw1VN5KZj) | [Firewood](https://open.spotify.com/album/01p20IYbDXu5GZuKZQ5s6H) | 3:30 | 2023-06-23 | 2023-12-24 |
 | [Firewood](https://open.spotify.com/track/5wWACwkc0PchNpyBOzE0xx) | [April Verch](https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8), [Cody Walters](https://open.spotify.com/artist/5dh7cV8PwHgi7aw1VN5KZj) | [Passages and Partings](https://open.spotify.com/album/6GdhqVOKnuALlouLCqtZlx) | 3:30 | 2023-12-15 |  |

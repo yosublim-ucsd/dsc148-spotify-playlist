@@ -2,9 +2,9 @@
 
 ### [Rap Español](https://open.spotify.com/playlist/37i9dQZF1DXcd2Vmhfon1w)
 
-> Lo mejor del hip hop español\. Feat\. EZVIT 810
+> Lo mejor del hip hop español\. Feat\. Natos y Waor, Israel B
 
-254 songs - 14 hr 0 min
+255 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Lollypop](https://open.spotify.com/track/1K6H2Tpdnd27SJWZz2JS96) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [Lollypop](https://open.spotify.com/album/1BTOi1Ido10cMMM7i9MCCp) | 1:41 | 2023-09-14 | 2023-10-24 |
 | [Madame Bovary](https://open.spotify.com/track/6Pu1EJORDSkTgVhZXx9V8U) | [Ayax](https://open.spotify.com/artist/1lVofHO8O8nEygHTwJ2tnU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Madame Bovary](https://open.spotify.com/album/0SxFte5a7xpVWJtKFfW3cs) | 2:25 | 2023-09-04 | 2023-12-09 |
 | [Mal Agüero](https://open.spotify.com/track/1eg8EWKfaRltn806sZvuDa) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Mal Agüero](https://open.spotify.com/album/0o0Kw1aYR6GShDsEk1jML9) | 3:41 | 2022-01-21 |  |
+| [Mal de amores](https://open.spotify.com/track/0Lo7sfCdYizVfbg4vKIeYI) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B) | [Mal de amores](https://open.spotify.com/album/49kiAoJwBMwETNu6BvnBbi) | 4:15 | 2024-02-08 |  |
 | [Mala Rata](https://open.spotify.com/track/1k87K4HuqbvBwRoDOAr9Cl) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Tork](https://open.spotify.com/artist/2gZByjNu2u3Zs9x3BUdCzY) | [Mala Rata](https://open.spotify.com/album/284jtZLcOUO8oq72sUB4PF) | 3:20 | 2022-08-04 | 2022-09-17 |
 | [MAMITA](https://open.spotify.com/track/0k7K5AQ6mn6JeRDFmYlhZQ) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [LACOSTA](https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc) | 3:03 | 2023-11-13 | 2023-12-09 |
 | [MAMITA](https://open.spotify.com/track/12aPSqJT6ECU9Wq6rG8sQU) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [MAMITA](https://open.spotify.com/album/2aXtUydfywc4SNl3g0UlWF) | 3:03 | 2023-10-23 | 2023-11-11 |

@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-259 songs - 6 hr 36 min
+262 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,10 @@
 | [As You Fall Asleep](https://open.spotify.com/track/5IN2z7VbAJU1swuJxv3mX5) | [Robert Lansky](https://open.spotify.com/artist/0KvC4eGmYHgj33vFtAlcaY) | [Giver of All Dreams](https://open.spotify.com/album/2QowJgu3GkclkMVYNsdKeV) | 1:48 | 2022-02-10 |  |
 | [Auntie Elsie](https://open.spotify.com/track/4ALRNmKLlBtWR3estJPqYB) | [Annie Carr](https://open.spotify.com/artist/6EBgGvgb0VVGC7rOlBziTR) | [Auntie Elsie](https://open.spotify.com/album/5GeRufrHnQSPQQ4SdBhss5) | 1:00 | 2022-04-22 |  |
 | [Aurora's Dream](https://open.spotify.com/track/2uAKy47nXZKys23TydVmqU) | [Poppy's Box](https://open.spotify.com/artist/2y3fdY1Oj1x6YNbJB82THh) | [Aurora's Dream](https://open.spotify.com/album/09nhKTVX3WLxztIdxtgrrl) | 1:21 | 2024-01-05 |  |
+| [Baa Baa White Lamb](https://open.spotify.com/track/3YjKSyeVWUXrmnsUntqUdb) | [Daisy Jesse](https://open.spotify.com/artist/4vBI6SlaXWOvwH8XmWl4El) | [Baa Baa White Lamb](https://open.spotify.com/album/5A6IkOZLEO2c0xkUU71P6Y) | 1:35 | 2024-02-09 |  |
 | [Baby Bear](https://open.spotify.com/track/5UpHz8cxbWTNIwu0zbxSqk) | [Mette Enoksen](https://open.spotify.com/artist/3UjM6XtripEYdUAzSBCKmf) | [Baby Bear](https://open.spotify.com/album/3FSBkPEBTJ9XKV8MBSBJok) | 1:25 | 2022-02-10 |  |
 | [Baby Dreams](https://open.spotify.com/track/2OCSQoa1w5dp3Qx14pD7VQ) | [Hillary Nic](https://open.spotify.com/artist/63ALojLOh3rjtkUEBUFITk) | [Baby Dreams](https://open.spotify.com/album/71xPRfWxOhGhZoRhErRbjr) | 0:58 | 2022-02-10 | 2022-04-23 |
+| [Baby Emanuel](https://open.spotify.com/track/5ewAfM8qnH8xzGmBCkPbZ8) | [Maurice Marsipano](https://open.spotify.com/artist/3kYoyPRiKgh8gEqKxXOWSr) | [Baby Emanuel](https://open.spotify.com/album/7gpqdB7cKzPjSbv7qEE7mn) | 1:14 | 2024-02-09 |  |
 | [Baby Swan Dreams](https://open.spotify.com/track/4iR3wPEbv4hY91LfCaZb8U) | [Luna Ull](https://open.spotify.com/artist/3WCRwq0tALrJmzA0N09HaV) | [Baby Swan Dreams](https://open.spotify.com/album/7E6IbMz51uTaQlnUa59fvc) | 1:45 | 2022-12-09 |  |
 | [Baby Waltz](https://open.spotify.com/track/5iYqthNAUpzgCFZrogSr79) | [Lullaby Hill](https://open.spotify.com/artist/5ffOn1wNgnjN6W1hJWTYzR) | [Baby Waltz](https://open.spotify.com/album/3lHX0ykuoph6qtYCS1nmrW) | 1:44 | 2022-02-10 | 2023-01-20 |
 | [Babysteps](https://open.spotify.com/track/2zqHqxPQhECCWTwuCNzNHK) | [Teodora Mills](https://open.spotify.com/artist/5UhCZHhiDEfKoh45KAskwT) | [Babysteps](https://open.spotify.com/album/0q2LDg44aoY0G8DwjY9nxJ) | 0:56 | 2022-02-10 | 2022-04-23 |
@@ -157,6 +159,7 @@
 | [My Bonny is over the ocean](https://open.spotify.com/track/7ztbL1bA5mHNrxmFHJedkP) | [Beatrice Björkman](https://open.spotify.com/artist/2SdRSEuy0pwKedI6cZyTPI) | [Every Breath You Take](https://open.spotify.com/album/1OlKIxUf4J99nPCFVC6DMS) | 1:13 | 2023-03-16 |  |
 | [My Dream](https://open.spotify.com/track/4vZgef3PS0jcTTYYBfcRj5) | [Soothing Sandman](https://open.spotify.com/artist/2hXy2uPUnu9UEnYUwGTNZy) | [My Dream](https://open.spotify.com/album/6TEVwQyFgEcllIXemrNZbx) | 1:06 | 2022-11-25 |  |
 | [My Grandfather's Clock](https://open.spotify.com/track/2JkK9MpwEoU1JuhWFsnUrG) | [Philip Stuart](https://open.spotify.com/artist/0jvpyMCQkgCjMtOUdd8RoJ) | [Girls and Boys Come Out to Play](https://open.spotify.com/album/22ytu5JUFTp0aBdzFuHd8v) | 3:24 | 2022-02-10 | 2023-01-20 |
+| [My Hat has Three Edges](https://open.spotify.com/track/3f1rRIlBM4xRyrzrXSdQGl) | [Wilda Sigridsdottir](https://open.spotify.com/artist/5BRw3Nw9N9xMeukUV9rw5S) | [My Hat has Three Edges](https://open.spotify.com/album/6jVgiLNjnxq52CXJpfAu3Y) | 1:14 | 2024-02-09 |  |
 | [My Kitty Cat Kate](https://open.spotify.com/track/2IRZ8zO4uCRUFsseRhGqLy) | [Selby Petersen](https://open.spotify.com/artist/5p2vvsASYdfPaCQ8ewBBJp) | [My Kitty Cat Kate](https://open.spotify.com/album/2H3NXQTp7cG4XtUqP3Qute) | 1:21 | 2022-02-10 |  |
 | [My Little Prince](https://open.spotify.com/track/4FOYVgJJn7bIMJnJGWJM6a) | [Cecilia Ness](https://open.spotify.com/artist/6FJsBO9iw7CuXvNkLh73o2) | [My Little Prince](https://open.spotify.com/album/3ynDD4j4fuZIG25ZO4E97M) | 1:11 | 2023-03-16 |  |
 | [My Sweet Sweet Angel](https://open.spotify.com/track/0pkmiHR34jvHpoTu9MjWQy) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box Vol 2](https://open.spotify.com/album/6i60rEg1H3MI6LG4c2lUHF) | 1:27 | 2022-02-10 |  |

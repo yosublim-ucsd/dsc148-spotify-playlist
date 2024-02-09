@@ -789,6 +789,24 @@
     },
     {
       "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
+    },
+    {
+      "album": {
         "name": "Differences Aside",
         "url": "https://open.spotify.com/album/60hjoFRYc1Q1wnFMGXQmlg"
       },
@@ -800,7 +818,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 235397,
       "name": "Differences Aside",
       "url": "https://open.spotify.com/track/0olICfJFNxKfPeZtNgPa7G"
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 223053,
       "name": "Little Things Mean A Lot",
       "url": "https://open.spotify.com/track/221XgJXCVkZ1ERPyfO3OlO"
@@ -2892,7 +2910,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -3044,7 +3062,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 161396,
       "name": "Stockholmsvy",
       "url": "https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd"
@@ -3386,6 +3404,24 @@
       "duration_ms": 202084,
       "name": "The Right Words",
       "url": "https://open.spotify.com/track/6kHeWaJ0nSpOIwOx2HNg7R"
+    },
+    {
+      "album": {
+        "name": "The Wedding Song",
+        "url": "https://open.spotify.com/album/7MHyuzz7zHhGvbgWfXWKAR"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196719,
+      "name": "The Wedding Song",
+      "url": "https://open.spotify.com/track/5QdPm7hJxZj3YvumMBLhsV"
     },
     {
       "album": {

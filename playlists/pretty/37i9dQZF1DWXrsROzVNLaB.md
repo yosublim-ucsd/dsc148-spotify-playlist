@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,839 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,840 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 64 | [Doxology](https://open.spotify.com/track/6s2nM4DuZmhwceOzXwb6R1) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Stars Go Dim](https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr) | 4:38 |
 | 65 | [Above All](https://open.spotify.com/track/4UKkXhpY3knx2S4KDrsRSP) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr) | [The Writer's Collection](https://open.spotify.com/album/1ztavDrZMEGJubkYFKcmZv) | 5:23 |
 | 66 | [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 |
-| 67 | [Forever](https://open.spotify.com/track/4v3SzdNUZLpocZxK6oZEkW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Tides](https://open.spotify.com/album/1JS4S79J7ZNDKRUkf2tFl6) | 5:26 |
-| 68 | [Easter Song](https://open.spotify.com/track/4Uv19eDb9Os5UQODqb0edh) | [Keith Green](https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay) | [The Greatest Hits](https://open.spotify.com/album/72W8NheOUCQH4neNpQdkTm) | 3:57 |
+| 67 | [O The Blood](https://open.spotify.com/track/3O6kRLNGZlN1I02JAx1ifU) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Women Of Faith Presents Gateway Worship A Collection](https://open.spotify.com/album/02Dzh1mJtEVEQqCcRtMslq) | 5:29 |
+| 68 | [Forever](https://open.spotify.com/track/4v3SzdNUZLpocZxK6oZEkW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Tides](https://open.spotify.com/album/1JS4S79J7ZNDKRUkf2tFl6) | 5:26 |
 | 69 | [You Were On The Cross](https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:15 |
-| 70 | [The Cross Has The Final Word](https://open.spotify.com/track/5vqBJKU4U3OLvm2anticiy) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Cross Has The Final Word](https://open.spotify.com/album/43PHsVjv7xGRZNbD9TGha6) | 4:12 |
-| 71 | [How Great Thou Art \- Live](https://open.spotify.com/track/4XWA4VGeNYIOlbOfy9wr4P) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Charlie Hall](https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV) | [Hymns Ancient And Modern \(Live\)](https://open.spotify.com/album/1ABQb99YyGRAKq0z3VXgoA) | 4:40 |
-| 72 | [O The Blood](https://open.spotify.com/track/3O6kRLNGZlN1I02JAx1ifU) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Women Of Faith Presents Gateway Worship A Collection](https://open.spotify.com/album/02Dzh1mJtEVEQqCcRtMslq) | 5:29 |
+| 70 | [Easter Song](https://open.spotify.com/track/4Uv19eDb9Os5UQODqb0edh) | [Keith Green](https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay) | [The Greatest Hits](https://open.spotify.com/album/72W8NheOUCQH4neNpQdkTm) | 3:57 |
+| 71 | [The Cross Has The Final Word](https://open.spotify.com/track/5vqBJKU4U3OLvm2anticiy) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Cross Has The Final Word](https://open.spotify.com/album/43PHsVjv7xGRZNbD9TGha6) | 4:12 |
+| 72 | [How Great Thou Art \- Live](https://open.spotify.com/track/4XWA4VGeNYIOlbOfy9wr4P) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Charlie Hall](https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV) | [Hymns Ancient And Modern \(Live\)](https://open.spotify.com/album/1ABQb99YyGRAKq0z3VXgoA) | 4:40 |
 | 73 | [Hallelujah Amen \(feat\. Jon Guerra\)](https://open.spotify.com/track/78wyAJJM6TsN428S5ScPg7) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Hallelujah Amen \(feat\. Jon Guerra\)](https://open.spotify.com/album/7Dfu32GbtgxM3asJTI8zlZ) | 5:18 |
 | 74 | [Glorious](https://open.spotify.com/track/1jOzjWWNdIEKfX8g48FDEu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning](https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi) | 4:01 |
 | 75 | [Ashes \(feat\. Chris McClarney\)](https://open.spotify.com/track/01F2MJzSFzD0Wqhg2bpmvG) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Ashes \(feat\. Chris McClarney\)](https://open.spotify.com/album/1SFDjdhnnT087ZPbKL33st) | 4:39 |
 
-Snapshot ID: `MCxjNmFlMWQ3ODMxOGM2NjQ5NmMyNDliYjRkMTU4Y2Y0ZGNhZTE0NmVm`
+Snapshot ID: `MCxlYzA5N2FmZmQyM2ZhM2IzOWNkMWQwZTVlOGUwZmRlNTViODM3ODEx`

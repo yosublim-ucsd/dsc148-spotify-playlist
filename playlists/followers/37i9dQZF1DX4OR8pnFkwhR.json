@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 67172,
+  "2024-02-09": 67232,
   "date_first_scraped": "2022-02-21",
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u96e2\u5a5a\u4f1d\u8aac",
   "name": "RADAR: Early Noise ",
@@ -5044,6 +5044,24 @@
     },
     {
       "album": {
+        "name": "Gitai",
+        "url": "https://open.spotify.com/album/0COJzOjpXjcBhQPZFgiRUx"
+      },
+      "artists": [
+        {
+          "name": "\u304a\u98a8\u5442\u3067\u30d4\u30fc\u30ca\u30c3\u30c4",
+          "url": "https://open.spotify.com/artist/6k0zURWsJhaiI1PWVt8CV4"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182293,
+      "name": "Gitai",
+      "url": "https://open.spotify.com/track/10UqUYADXNPn7ycjvH2R6A"
+    },
+    {
+      "album": {
         "name": "GLOW",
         "url": "https://open.spotify.com/album/6Oiw07ZgO01snzERxSWwRk"
       },
@@ -7682,6 +7700,24 @@
     },
     {
       "album": {
+        "name": "LOVELY",
+        "url": "https://open.spotify.com/album/4TrfWYsP8LRU10Rw6usFJL"
+      },
+      "artists": [
+        {
+          "name": "MONONOKE",
+          "url": "https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218649,
+      "name": "LOVELY",
+      "url": "https://open.spotify.com/track/2p6mMrccBiWuwtpWCyVPbq"
+    },
+    {
+      "album": {
         "name": "Lucky Police Day",
         "url": "https://open.spotify.com/album/5Wvqz82UIUPwBjW9O7mVKF"
       },
@@ -10065,6 +10101,24 @@
       "duration_ms": 312840,
       "name": "Pixie",
       "url": "https://open.spotify.com/track/0cY7dMIDQEvJpm9QLhwUJ5"
+    },
+    {
+      "album": {
+        "name": "Planet",
+        "url": "https://open.spotify.com/album/1Rz5hGKTRAn5NaBEoasR5U"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216268,
+      "name": "Planet",
+      "url": "https://open.spotify.com/track/2JBvAB9MRddsTnvKPxO1bk"
     },
     {
       "album": {
@@ -19737,7 +19791,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 218649,
       "name": "\u30e9\u30d6\u30ea\u30fc",
       "url": "https://open.spotify.com/track/4wTeVlzNPyvTwxdJ52AI6D"
@@ -22069,7 +22123,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 216268,
       "name": "\u60d1\u661f",
       "url": "https://open.spotify.com/track/2xifiMVguiMdv7b42sWFCN"
@@ -22541,7 +22595,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 182293,
       "name": "\u64ec\u614b",
       "url": "https://open.spotify.com/track/6GMylYf6sVWwnKYwgirLb9"

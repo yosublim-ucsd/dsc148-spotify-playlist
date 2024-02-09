@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-339 songs - 22 hr 2 min
+341 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 | 2022-10-20 |  |
 | [Connected](https://open.spotify.com/track/27OsoxZ8JX6WtxBm7NpSCW) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Josh Arcoleo](https://open.spotify.com/artist/1QLZJdUJBKFcoxWa6FYWsn) | [Connected](https://open.spotify.com/album/5EHfdq9uX18TXCdkNOPI9t) | 5:27 | 2023-06-29 | 2023-08-18 |
 | [Dark Energy](https://open.spotify.com/track/3kdhlzVT1e8XGFGSawkKPO) | [Shōtaro Aoyama](https://open.spotify.com/artist/48nPAklNBehqatqsLAf2fR) | [Dark Energy](https://open.spotify.com/album/4OmjTbUvRXLA5KJmklQhdb) | 6:14 | 2023-06-06 | 2023-11-17 |
-| [Dekoboko](https://open.spotify.com/track/51CXq1aLX96DMZszfTAxy9) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 4:30 | 2023-01-25 |  |
+| [Dekoboko](https://open.spotify.com/track/51CXq1aLX96DMZszfTAxy9) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 4:30 | 2023-01-25 | 2024-02-09 |
 | [Destiny](https://open.spotify.com/track/1267Pke9jDa1KeUQC5ARkp) | [Jonathan Bree](https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh) | [Destiny](https://open.spotify.com/album/4pDt55Zy4TqdGco2lZf3yY) | 2:58 | 2022-10-20 | 2022-12-14 |
 | [Details in the Fabric \(Demo\)](https://open.spotify.com/track/3qvDtHQWoiJNB4lUED4HoQ) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Details in the Fabric \(Demo\)](https://open.spotify.com/album/7dpACGvlOgh6Rlh6zjHuna) | 5:47 | 2023-09-07 | 2023-09-15 |
 | [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 | 2023-05-23 | 2023-06-30 |
@@ -116,6 +116,7 @@
 | [Green Jewel](https://open.spotify.com/track/443DP06PvfXbDqq9nVmtnK) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Green Jewel](https://open.spotify.com/album/3MGkpENNs3mkpjSj7R2TZ2) | 4:09 | 2023-06-01 | 2023-07-14 |
 | [Guess Who I Saw Today \(feat\. Gerald Clayton\) \- Duo Version](https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Guess Who I Saw Today \(Duo Version\)](https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI) | 4:45 | 2023-03-09 | 2023-04-14 |
 | [Hadaka no Yume](https://open.spotify.com/track/4hpkSK1MZyzFUlNxN6FN1I) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:45 | 2022-12-06 | 2022-12-14 |
+| [Hardin](https://open.spotify.com/track/2wc7oHFR9KTsfLVm53Kokn) | [Kayl Garcia](https://open.spotify.com/artist/2b9sNBOKOO52limWBKI84i) | [Hardin](https://open.spotify.com/album/1JYul6dcetZLNknw8P9lVG) | 5:05 | 2024-02-08 |  |
 | [Head Down](https://open.spotify.com/track/3OxhqogH8yybYJzwpKvPxr) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6) | [Summing Up](https://open.spotify.com/album/3i2iavFSYOci10RdJoNSnX) | 4:12 | 2023-09-14 | 2023-11-10 |
 | [Head Down](https://open.spotify.com/track/7EH3MSHMhHqKTZe7KKsZJO) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6) | [Head Down](https://open.spotify.com/album/44DqhmfygUnvzStDyjORAq) | 4:12 | 2023-08-22 | 2023-09-19 |
 | [Heiwa](https://open.spotify.com/track/6q4ZgpCedbtY0HRdX9G178) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Heiwa](https://open.spotify.com/album/0PaVCQT043VZB8CKdXHPuv) | 3:23 | 2023-08-10 | 2023-09-01 |
@@ -129,6 +130,7 @@
 | [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-06 | 2023-05-17 |
 | [I Hate Myself](https://open.spotify.com/track/0oW8vPVlQ0qeQeiJT8VSKx) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Love Hallucination](https://open.spotify.com/album/0nNTcdbzi1dqnNZcJR6uS2) | 3:13 | 2023-07-27 | 2023-08-18 |
 | [I Hate Myself](https://open.spotify.com/track/4o3MnZozzXONhO8hkB58Vn) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Love Hallucination](https://open.spotify.com/album/2uB92XqtrzI9tf2J0wIzgQ) | 3:13 | 2023-07-27 | 2023-07-29 |
+| [I Hate U](https://open.spotify.com/track/5tBbxTvjJ2e1gc4vLnRzEF) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Her Thoughts](https://open.spotify.com/album/6O0Yg7vMVL9txMkxXGwjtD) | 2:48 | 2024-02-08 |  |
 | [I Inhabit My Life \(And It Feels So Good\)](https://open.spotify.com/track/1guarMYBLktq8irSVW7VN5) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl) | [I Inhabit My Life \(And It Feels So Good\)](https://open.spotify.com/album/5oOB78P3SfrUIIYag71Mbq) | 2:19 | 2024-01-25 |  |
 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 | 2023-04-27 | 2023-07-12 |
 | [I swear, I Really Wanted To Make A "Rap" Album But This Is Literally The Way The Wind Blew Me This Time](https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 12:20 | 2023-11-16 | 2023-12-22 |
@@ -277,7 +279,7 @@
 | [Stuck Wit U](https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Stuck Wit U](https://open.spotify.com/album/29vqF5DQuNIzcYM0tept6C) | 3:33 | 2023-05-11 | 2023-06-09 |
 | [Sunbursting](https://open.spotify.com/track/5i35BpUHPzdgWY6YJNFige) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Óskar Guðjónsson](https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N) | [Sunbursting](https://open.spotify.com/album/4YjPkjnA20KAcFmYa3Jz04) | 3:19 | 2023-08-22 | 2023-10-18 |
 | [Super Fresh](https://open.spotify.com/track/3LnFzIurGFJBqNexZodUg0) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz) | 2:52 | 2024-01-10 |  |
-| [Sur](https://open.spotify.com/track/1WFBVAU9j3JU3Z3rCyP6GO) | [Masatomo Yoshizawa](https://open.spotify.com/artist/5AtXWRTyAGHgpdQSnt8jyL), [XTAL](https://open.spotify.com/artist/2t07wCTjaVSrObNSvgMyLi) | [Tangle](https://open.spotify.com/album/1NrCxfNA536ebbuDA4P39E) | 3:51 | 2023-11-30 |  |
+| [Sur](https://open.spotify.com/track/1WFBVAU9j3JU3Z3rCyP6GO) | [Masatomo Yoshizawa](https://open.spotify.com/artist/5AtXWRTyAGHgpdQSnt8jyL), [XTAL](https://open.spotify.com/artist/2t07wCTjaVSrObNSvgMyLi) | [Tangle](https://open.spotify.com/album/1NrCxfNA536ebbuDA4P39E) | 3:51 | 2023-11-30 | 2024-02-09 |
 | [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Take me home](https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns) | 3:20 | 2022-12-15 | 2023-10-13 |
 | [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 | 2023-09-14 | 2023-10-03 |
 | [Tell Me](https://open.spotify.com/track/1OxaAC72au0z2HORS9yt1m) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Tell Me](https://open.spotify.com/album/2nBHaQWoC341spJHji7dgz) | 3:16 | 2022-12-13 | 2023-05-16 |

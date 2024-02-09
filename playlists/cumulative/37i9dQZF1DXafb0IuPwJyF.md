@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: 乃紫
 
-1,220 songs - 3 day 4 hr 8 min
+1,221 songs - 3 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,7 +538,7 @@
 | [SHIWAKUCHA](https://open.spotify.com/track/3tRunVnKgrnK0fdNLEXMlq) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [FOREVER DAZE](https://open.spotify.com/album/1z0j3oxUKw4OgebZM5m2GD) | 4:05 | 2021-12-19 | 2021-12-27 |
 | [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 | 2023-01-08 | 2023-01-23 |
 | [SHOOTING STAR](https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:23 | 2023-01-29 | 2023-03-10 |
-| [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-09-10 |  |
+| [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-09-10 | 2024-02-09 |
 | [SHOZEN](https://open.spotify.com/track/016rLtnTe7IChoF8f0l0Nu) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [SHOZEN](https://open.spotify.com/album/6FEJoTviFUPHucUfGgbJT9) | 3:43 | 2023-12-10 | 2023-12-18 |
 | [Signpost](https://open.spotify.com/track/2YE14p83b6aY6nbuM57ryc) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Signpost](https://open.spotify.com/album/0wwZ8gbLXAvOMDSSB11UgH) | 3:32 | 2022-07-25 | 2022-08-01 |
 | [Simple](https://open.spotify.com/track/2VUQEplQ848X6lFLzBxQT8) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Simple](https://open.spotify.com/album/1iDwrrlZImFqxWHjcPOriH) | 4:45 | 2022-05-15 | 2022-07-11 |
@@ -998,6 +998,7 @@
 | [君を想う](https://open.spotify.com/track/3ixdjc1sGw0uC1X9ojyjMa) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [君を想う](https://open.spotify.com/album/0gSLZpyo9KKGpVfdy1mwSY) | 4:24 | 2022-06-19 | 2022-07-04 |
 | [告白](https://open.spotify.com/track/1wSx4QJ82TQpT2WAjAa2fA) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA), [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [告白](https://open.spotify.com/album/605KBeQ7Mxy1vvgrcxWZgv) | 4:00 | 2022-01-30 | 2022-02-28 |
 | [命日](https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [命日](https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui) | 3:21 | 2023-08-13 | 2023-08-19 |
+| [唱](https://open.spotify.com/track/7o0TPSw494RG2Q4iWmd1v6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:09 | 2024-02-04 |  |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-04-10 | 2022-07-18 |
 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 | 2022-06-19 | 2022-06-28 |
 | [回春](https://open.spotify.com/track/2pLINOdB1UVzBrgKMLpE4D) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [十二次元](https://open.spotify.com/album/54OOd6x03hdIYeHWYajNyP) | 5:00 | 2023-04-30 | 2023-05-08 |

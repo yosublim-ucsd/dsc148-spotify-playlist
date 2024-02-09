@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Champagne Kisses",
+        "url": "https://open.spotify.com/album/4o2g3Jm21NCkUZRgsxCJoO"
+      },
+      "artists": [
+        {
+          "name": "Elna Myburg",
+          "url": "https://open.spotify.com/artist/7MTbe0rf19hObBAIFCV2YR"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151714,
+      "name": "Champagne Kisses",
+      "url": "https://open.spotify.com/track/6gQ6dZf0iA8pAcJGagcgPh"
+    },
+    {
+      "album": {
         "name": "Skemerdans, Season 1 (Music from the Showmax Original Series)",
         "url": "https://open.spotify.com/album/0mNEoS45dcBIdQ5SAtzmV1"
       },

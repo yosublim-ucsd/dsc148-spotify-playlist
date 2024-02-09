@@ -1,12 +1,12 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 20888,
+  "num_followers": 20938,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDUzMmE2OTJjNjBiZjNkOTlhMjM5NmE4NmRiNzVkZGI2MzQyZGIx",
+  "snapshot_id": "MCxkZGMwYTRmNTkzZTgwNDZhMjk0OTUzMWY4NWNlOTUzODBiZDcyZGYz",
   "tracks": [
     {
       "added_at": "2024-01-12 05:26:27",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
+        "name": "RU The World",
+        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 175254,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/31jkD22MNUrpebszwU7ZFz"
+    },
+    {
+      "added_at": "2024-01-12 05:26:27",
+      "album": {
         "name": "Summers",
         "url": "https://open.spotify.com/album/3DGeD2ap8hARpbFZZpmwVb"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 209605,
       "name": "4 Nothin'",
       "url": "https://open.spotify.com/track/4MNoQpjih78o8s5RYhhUrL"
-    },
-    {
-      "added_at": "2024-01-12 05:26:27",
-      "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 197972,
-      "name": "Leg Over",
-      "url": "https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa"
     },
     {
       "added_at": "2024-01-12 05:26:27",
@@ -243,18 +243,18 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
-        "name": "RU The World",
-        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 175254,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/31jkD22MNUrpebszwU7ZFz"
+      "duration_ms": 197972,
+      "name": "Leg Over",
+      "url": "https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa"
     },
     {
       "added_at": "2024-01-12 05:26:27",
@@ -307,26 +307,6 @@
       "duration_ms": 165000,
       "name": "Certified Loner (No Competition)",
       "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
-    },
-    {
-      "added_at": "2024-01-12 05:26:27",
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 176766,
-      "name": "Miss You Bad",
-      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
     },
     {
       "added_at": "2024-01-12 05:26:27",
@@ -407,6 +387,26 @@
       "duration_ms": 174545,
       "name": "understand",
       "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
+    },
+    {
+      "added_at": "2024-01-12 05:26:27",
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 176766,
+      "name": "Miss You Bad",
+      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
     },
     {
       "added_at": "2024-01-12 05:26:27",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168159,
-      "name": "Pour Me Water",
-      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
-    },
-    {
-      "added_at": "2024-01-12 05:26:27",
-      "album": {
         "name": "Compilation",
         "url": "https://open.spotify.com/album/5plKeEs2bHRz44nTFkByhg"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 304000,
       "name": "Olufunmi",
       "url": "https://open.spotify.com/track/7dFvxW8AlUz5X4xqe6kqcY"
+    },
+    {
+      "added_at": "2024-01-12 05:26:27",
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
     },
     {
       "added_at": "2024-01-12 05:26:27",
@@ -675,30 +675,6 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
-        "name": "One Day You Will Understand",
-        "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "emPawa Africa",
-          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Baby I'm Jealous",
-      "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
-    },
-    {
-      "added_at": "2024-01-12 05:26:27",
-      "album": {
         "name": "My Own (feat. Blaqbonez)",
         "url": "https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 168275,
       "name": "Pour Me a Drink",
       "url": "https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P"
+    },
+    {
+      "added_at": "2024-01-12 05:26:27",
+      "album": {
+        "name": "One Day You Will Understand",
+        "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "emPawa Africa",
+          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Baby I'm Jealous",
+      "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
     },
     {
       "added_at": "2024-01-12 05:26:27",
@@ -839,26 +839,18 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T"
+        "name": "Boo of the Booless",
+        "url": "https://open.spotify.com/album/1iH80GKyvJBUWvpQ7KTtl4"
       },
       "artists": [
         {
-          "name": "NATIVE Sound System",
-          "url": "https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 220894,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm"
+      "duration_ms": 180022,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/2MeVZdxJKJrMGxMryaXH6r"
     },
     {
       "added_at": "2024-01-12 05:26:27",
@@ -883,18 +875,26 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
-        "name": "Boo of the Booless",
-        "url": "https://open.spotify.com/album/1iH80GKyvJBUWvpQ7KTtl4"
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T"
       },
       "artists": [
         {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "NATIVE Sound System",
+          "url": "https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 180022,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/2MeVZdxJKJrMGxMryaXH6r"
+      "duration_ms": 220894,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm"
     },
     {
       "added_at": "2024-01-12 05:26:27",

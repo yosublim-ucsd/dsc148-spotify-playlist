@@ -1117,28 +1117,6 @@
     },
     {
       "album": {
-        "name": "Lace Up",
-        "url": "https://open.spotify.com/album/3A9kcRzKS8zQtbQ0JwksuS"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Ester Dean",
-          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185733,
-      "name": "Invincible",
-      "url": "https://open.spotify.com/track/1zBBo7indT2foQGQUoloWj"
-    },
-    {
-      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/1Keh14VbjPSLoTOmhmOr0z"
       },
@@ -1158,6 +1136,28 @@
       "duration_ms": 187187,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/5Ap72TwyLi30ldAxevbZJi"
+    },
+    {
+      "album": {
+        "name": "Lace Up",
+        "url": "https://open.spotify.com/album/3A9kcRzKS8zQtbQ0JwksuS"
+      },
+      "artists": [
+        {
+          "name": "MGK",
+          "url": "https://open.spotify.com/artist/0jn47ZZH4HhX8JIGJUWSr0"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185733,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/1zBBo7indT2foQGQUoloWj"
     },
     {
       "album": {

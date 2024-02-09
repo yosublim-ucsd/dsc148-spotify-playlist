@@ -3149,6 +3149,24 @@
     },
     {
       "album": {
+        "name": "early hours",
+        "url": "https://open.spotify.com/album/16O7hGuxkYXgdjeyPXf7vW"
+      },
+      "artists": [
+        {
+          "name": "hinako fukushi",
+          "url": "https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143633,
+      "name": "early hours",
+      "url": "https://open.spotify.com/track/6OiddswMqjTCV1YlSexWYb"
+    },
+    {
+      "album": {
         "name": "Earth",
         "url": "https://open.spotify.com/album/3akTQPLju7tOIB1YRLz3p1"
       },

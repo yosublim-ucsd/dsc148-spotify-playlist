@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 
 > Reggae music for dogs that know what’s up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,674 likes - 52 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,671 likes - 52 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 | 9 | [Love Overdue](https://open.spotify.com/track/0ClaCaTK8BdOSsP4FZbkio) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Love Overdue](https://open.spotify.com/album/4Gf8tEQ1cRQq9qnErm0TfA) | 3:27 |
 | 10 | [Rubble Rebel \(Champion\)](https://open.spotify.com/track/4Z5n21KUp7pcMVMaRS4ntJ) | [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih), [The Expanders](https://open.spotify.com/artist/6TofIIqBhodHJAZU6vh9sT), [Randy Valentine](https://open.spotify.com/artist/6qPjo0iKI9TQoc4vlCzYk1) | [Walshy Fire & The Expanders Present Thanks For Life](https://open.spotify.com/album/0fl9DMj0gxIiueUMgPNZ7i) | 4:32 |
 | 11 | [My Conversation](https://open.spotify.com/track/5pcn42rKqM1RqI2VAERxwA) | [The Uniques](https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb) | [The Best of Trojan Rock Steady Vol\. 1](https://open.spotify.com/album/1twlPYFf3w3BahM5p8KGtg) | 3:28 |
-| 12 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 |
+| 12 | [Three Little Birds](https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 3:00 |
 | 13 | [Heaven In Her Eyes](https://open.spotify.com/track/3wxiErKtQ7sJr3nRKJf53S) | [Gappy Ranks](https://open.spotify.com/artist/4rkmaLySgI7sl9cKfJ3tT8) | [The Biggest Reggae One\-Drop Anthems 2009](https://open.spotify.com/album/5PflSb21RJ8rz40LcdKeOx) | 3:47 |
 | 14 | [Waiting In Vain](https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 4:16 |
 | 15 | [Here Comes Trouble](https://open.spotify.com/track/5Wwr2S7QZTR5PVJn6jhgdk) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Dread & Terrible](https://open.spotify.com/album/4zYr71y5wIjnoizuJ4o6ZK) | 3:54 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 | 42 | [Brown Skin](https://open.spotify.com/track/1m2c9ZjrXRGRvvPhVOUXrV) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:39 |
 | 43 | [That Day Will Come](https://open.spotify.com/track/6chKRJFe2qXIFHZKBDWqtw) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Universal Message Vol\. 3](https://open.spotify.com/album/24Be7w6AnOelK8QRfvVMPX) | 4:03 |
 | 44 | [Mirror Dub](https://open.spotify.com/track/11JpHKvLriD2imIxPb13ti) | [Vibronics](https://open.spotify.com/artist/1nLw9CVpFRIjloeNQZteT3) | [Show Me A Purpose Version](https://open.spotify.com/album/1si4Eb2rp5RXGUQNgBELRV) | 3:31 |
-| 45 | [Waiting In Vain](https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 4:16 |
+| 45 | [Waiting In Vain](https://open.spotify.com/track/09Nck1nvRcg1Y14SNfWwtJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 4:16 |
 | 46 | [Please Stop Your Lying](https://open.spotify.com/track/723YUzwgj9dGeLZeaVlA6h) | [Errol Dunkley](https://open.spotify.com/artist/228y2DiGvQkteqDD2dUZDD) | [Reggae Anthology \- Joe Gibbs: Scorchers From The Early Years \[1967\-73\]](https://open.spotify.com/album/1nsFKVT2CRmB2eC6dvl0p7) | 2:54 |
 | 47 | [Love and Inity](https://open.spotify.com/track/6npcU8CzBWlnpL1Iik4mqA) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Mr\. Marley](https://open.spotify.com/album/1ggWmG1iMZCdSQxutY86is) | 4:02 |
 | 48 | [Rastafari Anthem](https://open.spotify.com/track/3pn1vCQMA2wNQiaPkiIHI7) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Soul Pirate](https://open.spotify.com/album/3hhWPRjFBsNYm3v3nbOqQC) | 3:26 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 | 51 | [Red Sea Dub](https://open.spotify.com/track/1UowzBmHmTgvWW1kViLDLJ) | [Dub Syndicate](https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4) | [Displaced Masters](https://open.spotify.com/album/0WTyiC4nrGXraWRJIj4HLq) | 4:41 |
 | 52 | [It Mek](https://open.spotify.com/track/2KLQHmIj0ncGRdnLbbqi9B) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:32 |
 
-Snapshot ID: `MCwzZDQzZmJjYTc3MjNjNzQ2MzQ3YzE3MDBiOGZjZGE3MjIxYjM5NjE4`
+Snapshot ID: `MCwwZWZiNTAzOTRhMjJlNzQ5OWRmMzI1NDMyZjFlYzhmNmM3YjI1OTQ4`

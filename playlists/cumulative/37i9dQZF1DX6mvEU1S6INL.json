@@ -1813,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
+    },
+    {
+      "album": {
         "name": "The Amazing Spider-Man 2 (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/11c2pVVBENFMufPqJMIC3R"
       },
@@ -3860,7 +3878,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 182973,
       "name": "Swing",
       "url": "https://open.spotify.com/track/3UKIiR93VUGPRcrAmCHU2Y"
@@ -4308,8 +4326,8 @@
       },
       "artists": [
         {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "MGK",
+          "url": "https://open.spotify.com/artist/0jn47ZZH4HhX8JIGJUWSr0"
         }
       ],
       "date_added": "2022-05-18",

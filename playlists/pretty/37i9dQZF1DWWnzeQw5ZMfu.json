@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Taylor Swift",
-  "num_followers": 68700,
+  "num_followers": 68746,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWRmNDBkYzdhNzdjY2Q4OTMwNmExYmEyOTkwMGY0Y2U4Nzc4YzBl",
+  "snapshot_id": "MCw2NGRmZDRmNzg3YjBjZjM3MTFlYmQ4OWQ4YzVkZDI0YjRiMWM5ZThl",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Where the Light Is: John Mayer Live In Los Angeles",
-        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 230800,
-      "name": "Waiting On the World to Change - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
-      "url": "https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "In The Stars (Live Version)",
         "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 255139,
       "name": "In The Stars - Live Version",
       "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Where the Light Is: John Mayer Live In Los Angeles",
+        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 230800,
+      "name": "Waiting On the World to Change - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "url": "https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Serious Hits...Live! (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 393146,
-      "name": "In the Air Tonight - Live from the Serious Tour 1990; 2019 Remaster",
-      "url": "https://open.spotify.com/track/0izmGVy9X7JVY3Eh44s84B"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 234657,
       "name": "Nothing Breaks Like a Heart - Live",
       "url": "https://open.spotify.com/track/3qbPpK2s3PSw0jPPdZTTTW"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Serious Hits...Live! (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 393146,
+      "name": "In the Air Tonight - Live from the Serious Tour 1990; 2019 Remaster",
+      "url": "https://open.spotify.com/track/0izmGVy9X7JVY3Eh44s84B"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Progress Live",
-        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
-      },
-      "artists": [
-        {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
-        }
-      ],
-      "duration_ms": 314240,
-      "name": "Back For Good - Progress Tour Live / 2011",
-      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Live Friday The 13th",
         "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 379013,
       "name": "She Will Be Loved - Live",
       "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Progress Live",
+        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "duration_ms": 314240,
+      "name": "Back For Good - Progress Tour Live / 2011",
+      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "#3 Deluxe Version",
-        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 304973,
-      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
-      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Live \u00e0 Paris",
         "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 285466,
       "name": "The Power Of Love - Live \u00e0 Paris",
       "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "#3 Deluxe Version",
+        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 304973,
+      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
+      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "New Rules (Live)",
-        "url": "https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 275101,
-      "name": "New Rules - Live",
-      "url": "https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
         "url": "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 211240,
       "name": "Waking Up In Vegas - Live At MTV Unplugged, 2009",
       "url": "https://open.spotify.com/track/532jcgk0ZQgRze05omDsqo"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "New Rules (Live)",
+        "url": "https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 275101,
+      "name": "New Rules - Live",
+      "url": "https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "The Confessions Tour",
+        "url": "https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 295546,
+      "name": "Erotica - Live",
+      "url": "https://open.spotify.com/track/0JeP4JsmR8CzQY3anExYgQ"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "LM5 - EP",
         "url": "https://open.spotify.com/album/4H9aW9bRNBV49fusgFUBGz"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 251378,
       "name": "Woman Like Me (feat. Ms Banks) - Live from the BRITs 2019",
       "url": "https://open.spotify.com/track/1uPPsGRjwqyWGTZ7TDy674"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "The Confessions Tour",
-        "url": "https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 295546,
-      "name": "Erotica - Live",
-      "url": "https://open.spotify.com/track/0JeP4JsmR8CzQY3anExYgQ"
     },
     {
       "added_at": "2023-11-03 04:00:00",

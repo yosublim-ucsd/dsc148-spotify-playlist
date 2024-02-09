@@ -6,7 +6,7 @@
     "name": "Atlantic Records",
     "url": "https://open.spotify.com/user/atlanticrecords"
   },
-  "snapshot_id": "NjA1NSxkN2IxZWUzMjY0MmFhNTFmMjJkMTM4ZWM2NGJlMTllNjEwODZkMjhk",
+  "snapshot_id": "NjA4MiwxMjdlM2YwZTdkZWRiMjNmMDNhZjE0NDE2MDA2MWU1NmNmNTk1N2Mz",
   "tracks": [
     {
       "added_at": "2023-11-13 20:25:50",
@@ -25,6 +25,58 @@
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
+      "added_at": "2024-02-08 18:38:54",
+      "album": {
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 172246,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
+    },
+    {
+      "added_at": "2024-02-08 18:40:35",
+      "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 147746,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+    },
+    {
+      "added_at": "2024-02-08 18:40:48",
+      "album": {
+        "name": "The Ceremony",
+        "url": "https://open.spotify.com/album/3GTWAs19Lb1OVnPeFxc3l4"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Lil Yea",
+      "url": "https://open.spotify.com/track/1MLZBL9ZTB4PiPmfjtkMda"
+    },
+    {
       "added_at": "2024-01-03 16:22:27",
       "album": {
         "name": "PORTALS",
@@ -39,6 +91,26 @@
       "duration_ms": 284770,
       "name": "TUNNEL VISION",
       "url": "https://open.spotify.com/track/183WuVX0zsr0dHydHkKtGQ"
+    },
+    {
+      "added_at": "2024-02-08 18:40:59",
+      "album": {
+        "name": "Spicy Margarita",
+        "url": "https://open.spotify.com/album/0axDmm6r0mlrw4SRIXpIER"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 154376,
+      "name": "Spicy Margarita",
+      "url": "https://open.spotify.com/track/6TFUhEcEsqGVMZeZtAeUzN"
     },
     {
       "added_at": "2023-09-11 19:06:44",
@@ -59,6 +131,22 @@
       "duration_ms": 175099,
       "name": "Bongos (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
+    },
+    {
+      "added_at": "2024-02-08 18:39:47",
+      "album": {
+        "name": "Sunglasses at Night",
+        "url": "https://open.spotify.com/album/2WL25jOF2CEzuH1D7oJIYM"
+      },
+      "artists": [
+        {
+          "name": "Heidi Klum",
+          "url": "https://open.spotify.com/artist/7gmNO7Sv6EFNtxJ7JTgeaC"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "Sunglasses at Night",
+      "url": "https://open.spotify.com/track/1LiMNzbo4XYzsZ0Odg3OW7"
     },
     {
       "added_at": "2023-08-29 18:27:53",
@@ -125,24 +213,104 @@
       "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
     },
     {
-      "added_at": "2024-01-03 16:23:17",
+      "added_at": "2023-09-26 18:20:08",
       "album": {
-        "name": "The Grinch Freestyle (feat. Latto)",
-        "url": "https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1"
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
       "artists": [
         {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 146673,
-      "name": "The Grinch Freestyle (feat. Latto)",
-      "url": "https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl"
+      "duration_ms": 153346,
+      "name": "City Boys",
+      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+    },
+    {
+      "added_at": "2023-11-08 22:27:45",
+      "album": {
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 176479,
+      "name": "In The City",
+      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
+    },
+    {
+      "added_at": "2023-09-11 19:08:02",
+      "album": {
+        "name": "B4 BOA",
+        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "Her Birthday",
+      "url": "https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd"
+    },
+    {
+      "added_at": "2024-02-08 18:39:59",
+      "album": {
+        "name": "I'm So Good At Being Alone?",
+        "url": "https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 198022,
+      "name": "Not The 1975",
+      "url": "https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4"
+    },
+    {
+      "added_at": "2024-02-08 22:43:00",
+      "album": {
+        "name": "DISC TWO (SCRATCHED UP)",
+        "url": "https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "duration_ms": 144489,
+      "name": "BIRTHDAY DANCE",
+      "url": "https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq"
+    },
+    {
+      "added_at": "2024-02-08 18:41:22",
+      "album": {
+        "name": "Candyman",
+        "url": "https://open.spotify.com/album/1Y0U9tzLmjG3x0RVhyGElR"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "duration_ms": 172115,
+      "name": "Candyman",
+      "url": "https://open.spotify.com/track/3Zt0VZcBR4DGmuEzpJh7PR"
     },
     {
       "added_at": "2023-09-11 19:07:25",
@@ -167,74 +335,6 @@
       "duration_ms": 157508,
       "name": "You Wish (with Missy Elliott & Kaliii) \u2013 Remix",
       "url": "https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR"
-    },
-    {
-      "added_at": "2023-11-08 22:27:45",
-      "album": {
-        "name": "In The City",
-        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 176479,
-      "name": "In The City",
-      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
-    },
-    {
-      "added_at": "2023-09-26 18:20:08",
-      "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 153346,
-      "name": "City Boys",
-      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
-    },
-    {
-      "added_at": "2023-09-11 19:08:02",
-      "album": {
-        "name": "B4 BOA",
-        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Her Birthday",
-      "url": "https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd"
-    },
-    {
-      "added_at": "2023-10-10 17:53:41",
-      "album": {
-        "name": "Big One",
-        "url": "https://open.spotify.com/album/1ztl6Ly7lUmGWX2wJrpu9h"
-      },
-      "artists": [
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        }
-      ],
-      "duration_ms": 111322,
-      "name": "Big One",
-      "url": "https://open.spotify.com/track/6PfFBEztSncke8MSCohK26"
     },
     {
       "added_at": "2023-10-10 17:53:22",
@@ -299,6 +399,26 @@
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "added_at": "2024-01-03 16:23:17",
+      "album": {
+        "name": "The Grinch Freestyle (feat. Latto)",
+        "url": "https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146673,
+      "name": "The Grinch Freestyle (feat. Latto)",
+      "url": "https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl"
     },
     {
       "added_at": "2023-07-05 21:26:53",
@@ -1313,22 +1433,6 @@
       "url": "https://open.spotify.com/track/0PU4uOzbHVnGsRHyGhiDCr"
     },
     {
-      "added_at": "2023-04-10 14:22:01",
-      "album": {
-        "name": "Hyperfixations",
-        "url": "https://open.spotify.com/album/6JmO57rWensoCLLngSqju1"
-      },
-      "artists": [
-        {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        }
-      ],
-      "duration_ms": 195221,
-      "name": "Hyperfixations",
-      "url": "https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR"
-    },
-    {
       "added_at": "2023-04-10 14:22:40",
       "album": {
         "name": "Nosebleed",
@@ -1637,22 +1741,6 @@
       "url": "https://open.spotify.com/track/3EYGT2jL6afEPBohmfnEIE"
     },
     {
-      "added_at": "2023-06-15 18:32:02",
-      "album": {
-        "name": "Comedy & Tragedy: Act 1",
-        "url": "https://open.spotify.com/album/0miTgAlKXFn0IGE0axbSOh"
-      },
-      "artists": [
-        {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        }
-      ],
-      "duration_ms": 159870,
-      "name": "Comedy & Tragedy",
-      "url": "https://open.spotify.com/track/3YnLzYtTnUwjCpgmZ2EKqh"
-    },
-    {
       "added_at": "2023-09-06 21:36:39",
       "album": {
         "name": "Essence (feat. Super Computer)",
@@ -1671,6 +1759,26 @@
       "duration_ms": 168359,
       "name": "Essence (feat. Super Computer)",
       "url": "https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n"
+    },
+    {
+      "added_at": "2024-02-08 22:47:07",
+      "album": {
+        "name": "Touchin' (feat. Kaliii)",
+        "url": "https://open.spotify.com/album/46dCBNUNDnajk5pK0i0VgN"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 214712,
+      "name": "Touchin' (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/7KY0PsHITl98gztGO1fh5Z"
     }
   ],
   "unique_name": "Atlantic Records: Presents",

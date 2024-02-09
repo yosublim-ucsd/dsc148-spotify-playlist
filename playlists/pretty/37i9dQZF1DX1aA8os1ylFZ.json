@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 240907,
+  "num_followers": 240922,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjcyNzk2ODM5NTk2ZWEwMjhjMDM5MGYxNDA1NDdjZGI4YTg0NGUz",
+  "snapshot_id": "MCxlZmE4OTA1ZDg2NmZmZDg1Njc2NGE2ZjFmNWEwOGM4Y2ZiN2U1ZDM0",
   "tracks": [
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Something True",
-        "url": "https://open.spotify.com/album/7EmWV14OIISnZwqlg4ySa5"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 163040,
-      "name": "Something True",
-      "url": "https://open.spotify.com/track/237j3OLZr3rfH0iHdxm2Xl"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "Online",
         "url": "https://open.spotify.com/album/2U4iDmJzwom2wsG7u0bN0v"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 165146,
       "name": "Online",
       "url": "https://open.spotify.com/track/7oPafvnkhwW6BPEmIvdzVk"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "Something True",
+        "url": "https://open.spotify.com/album/7EmWV14OIISnZwqlg4ySa5"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "duration_ms": 163040,
+      "name": "Something True",
+      "url": "https://open.spotify.com/track/237j3OLZr3rfH0iHdxm2Xl"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "SOLO",
-      "url": "https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "Bag (with Lucky Daye)",
         "url": "https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 211400,
       "name": "Bag (with Lucky Daye)",
       "url": "https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1167,26 +1167,6 @@
       "duration_ms": 212574,
       "name": "Out of Touch",
       "url": "https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Overture",
-        "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        },
-        {
-          "name": "Joshua J",
-          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
-        }
-      ],
-      "duration_ms": 221492,
-      "name": "Say Yes (Turquoise) (feat. Joshua J)",
-      "url": "https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1251,6 +1231,26 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
+        "name": "Overture",
+        "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        },
+        {
+          "name": "Joshua J",
+          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
+        }
+      ],
+      "duration_ms": 221492,
+      "name": "Say Yes (Turquoise) (feat. Joshua J)",
+      "url": "https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
         "name": "I Love You And Its Getting Worse",
         "url": "https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu"
       },
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "We're through",
-        "url": "https://open.spotify.com/album/4wPDZWxj7CB4xUBLQ7hIJn"
-      },
-      "artists": [
-        {
-          "name": "Kyara Shereen",
-          "url": "https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q"
-        },
-        {
-          "name": "This is Lema",
-          "url": "https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "We're Through",
-      "url": "https://open.spotify.com/track/0rQKB1uvWhq4CAVNQxjPuj"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4XyrBfLYVSRYIAIeAEJWF1"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 169727,
       "name": "Peace",
       "url": "https://open.spotify.com/track/2jVophLAvSRFwiC0bhk8K4"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "We're through",
+        "url": "https://open.spotify.com/album/4wPDZWxj7CB4xUBLQ7hIJn"
+      },
+      "artists": [
+        {
+          "name": "Kyara Shereen",
+          "url": "https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q"
+        },
+        {
+          "name": "This is Lema",
+          "url": "https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "We're Through",
+      "url": "https://open.spotify.com/track/0rQKB1uvWhq4CAVNQxjPuj"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "hoe bedoel je?",
-        "url": "https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3"
-      },
-      "artists": [
-        {
-          "name": "Danny Dubb",
-          "url": "https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe"
-        }
-      ],
-      "duration_ms": 137846,
-      "name": "hoe bedoel je?",
-      "url": "https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "Do They Know",
         "url": "https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Muted Chaos.",
-        "url": "https://open.spotify.com/album/4y17DEPHYBNF1zBqRVOnHn"
+        "name": "hoe bedoel je?",
+        "url": "https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3"
       },
       "artists": [
         {
-          "name": "Lyna",
-          "url": "https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV"
+          "name": "Danny Dubb",
+          "url": "https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe"
         }
       ],
-      "duration_ms": 165586,
-      "name": "Seduction",
-      "url": "https://open.spotify.com/track/0QKK4eotVSqKUHJWHizP6z"
+      "duration_ms": 137846,
+      "name": "hoe bedoel je?",
+      "url": "https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1463,6 +1447,22 @@
       "duration_ms": 158901,
       "name": "Private",
       "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "Muted Chaos.",
+        "url": "https://open.spotify.com/album/4y17DEPHYBNF1zBqRVOnHn"
+      },
+      "artists": [
+        {
+          "name": "Lyna",
+          "url": "https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "Seduction",
+      "url": "https://open.spotify.com/track/0QKK4eotVSqKUHJWHizP6z"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Baeside",
-        "url": "https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ"
-      },
-      "artists": [
-        {
-          "name": "LORNZO",
-          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Baeside",
-      "url": "https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "Flexible",
         "url": "https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 141176,
       "name": "Flexible",
       "url": "https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "Baeside",
+        "url": "https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ"
+      },
+      "artists": [
+        {
+          "name": "LORNZO",
+          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Baeside",
+      "url": "https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Fierce",
-        "url": "https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY"
-      },
-      "artists": [
-        {
-          "name": "Romy Dya",
-          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
-        }
-      ],
-      "duration_ms": 142615,
-      "name": "Fierce",
-      "url": "https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "Freak Pack",
         "url": "https://open.spotify.com/album/2VaXsrVlaa1JTCmskan7Yk"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 179374,
       "name": "Don\u2019t Mind",
       "url": "https://open.spotify.com/track/4yq7RXjF9M5nmkYPiVo0oV"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "Fierce",
+        "url": "https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY"
+      },
+      "artists": [
+        {
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+        }
+      ],
+      "duration_ms": 142615,
+      "name": "Fierce",
+      "url": "https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT"
     }
   ],
   "unique_name": "R&B Magic",

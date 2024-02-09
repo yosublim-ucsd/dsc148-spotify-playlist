@@ -1505,6 +1505,32 @@
     },
     {
       "album": {
+        "name": "Cold Nights",
+        "url": "https://open.spotify.com/album/1hREBt9rjIktCyLQtyh1Oo"
+      },
+      "artists": [
+        {
+          "name": ".multibeat",
+          "url": "https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj"
+        },
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        },
+        {
+          "name": "Jon Ari",
+          "url": "https://open.spotify.com/artist/1mIExdFD1z8x2QqX2NcKSf"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183286,
+      "name": "Cold Nights",
+      "url": "https://open.spotify.com/track/1iR2KYd4xQJdoVG7GICA1F"
+    },
+    {
+      "album": {
         "name": "Come Over",
         "url": "https://open.spotify.com/album/0oHUs3J4ctv827KteZGkI0"
       },
@@ -1970,7 +1996,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 221533,
       "name": "Falling Off You",
       "url": "https://open.spotify.com/track/7mRsuVy3oqbfSLKXYHJCXV"
@@ -3829,6 +3855,24 @@
     },
     {
       "album": {
+        "name": "Lorelei",
+        "url": "https://open.spotify.com/album/2Xs0Q5Wg7g2zidwzo9Q2Ez"
+      },
+      "artists": [
+        {
+          "name": "MRCY",
+          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264275,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/0ZmzyGzZwofhjqNRPr9bLj"
+    },
+    {
+      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/375zZDGd2aYiTXCnxIKQRM"
       },
@@ -5490,7 +5534,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 176363,
       "name": "Screw My Head Back On",
       "url": "https://open.spotify.com/track/2tlhFFTqAcM2OgAF4NOAtY"

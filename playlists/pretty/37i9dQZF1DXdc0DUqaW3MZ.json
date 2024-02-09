@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 328598,
+  "num_followers": 328661,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGVlODg1ZDIxMDQ4ZjdlNTkxNmJkMzEwOThjNGY0MjFiYjhkYzgx",
+  "snapshot_id": "MCw5YjM2Y2QzOGNhZmI3OWU1OGMzZWIxODI2NDc0ZDk0NjZlMWVhMjY3",
   "tracks": [
     {
       "added_at": "2024-01-25 16:48:43",
@@ -543,18 +543,26 @@
     {
       "added_at": "2024-01-25 16:48:43",
       "album": {
-        "name": "Ghostin'",
-        "url": "https://open.spotify.com/album/3YojHVyjYoxUShLLzi5KOd"
+        "name": "soulboy (IZCO Remix)",
+        "url": "https://open.spotify.com/album/63sYFrw1yLHU0k3IkCPUdX"
       },
       "artists": [
         {
-          "name": "Wesley Joseph",
-          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        },
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        },
+        {
+          "name": "IZCO",
+          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
         }
       ],
-      "duration_ms": 197675,
-      "name": "Ghostin'",
-      "url": "https://open.spotify.com/track/02oUEbDQXcVITlLQKMPN1F"
+      "duration_ms": 229320,
+      "name": "soulboy - IZCO Remix",
+      "url": "https://open.spotify.com/track/3G1YAm52YxIp0jlxalE0hK"
     },
     {
       "added_at": "2024-01-25 16:48:43",
@@ -579,26 +587,18 @@
     {
       "added_at": "2024-01-25 16:48:43",
       "album": {
-        "name": "soulboy (IZCO Remix)",
-        "url": "https://open.spotify.com/album/63sYFrw1yLHU0k3IkCPUdX"
+        "name": "Ghostin'",
+        "url": "https://open.spotify.com/album/3YojHVyjYoxUShLLzi5KOd"
       },
       "artists": [
         {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
-        },
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        },
-        {
-          "name": "IZCO",
-          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
         }
       ],
-      "duration_ms": 229320,
-      "name": "soulboy - IZCO Remix",
-      "url": "https://open.spotify.com/track/3G1YAm52YxIp0jlxalE0hK"
+      "duration_ms": 197675,
+      "name": "Ghostin'",
+      "url": "https://open.spotify.com/track/02oUEbDQXcVITlLQKMPN1F"
     },
     {
       "added_at": "2024-01-25 16:48:43",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2024-01-25 16:48:43",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI"
-      },
-      "artists": [
-        {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB"
-    },
-    {
-      "added_at": "2024-01-25 16:48:43",
-      "album": {
         "name": "What Kinda Music (Bonus Tracks)",
         "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
       },
@@ -1279,38 +1259,22 @@
     {
       "added_at": "2024-01-25 16:48:43",
       "album": {
-        "name": "Beato Classico",
-        "url": "https://open.spotify.com/album/0dZhnLbdVByf9r4vAdMALB"
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI"
       },
       "artists": [
         {
-          "name": "J Lloyd",
-          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
-        }
-      ],
-      "duration_ms": 208959,
-      "name": "Beato Classico",
-      "url": "https://open.spotify.com/track/7I3PUsLHsP6RCp44lcOvI9"
-    },
-    {
-      "added_at": "2024-01-25 16:48:43",
-      "album": {
-        "name": "Girls FM",
-        "url": "https://open.spotify.com/album/7clnPpJ3KkLh5GWwzNNWF8"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
         },
         {
-          "name": "Olivia Louise",
-          "url": "https://open.spotify.com/artist/6E1v7RmEYvZIvhauy9v0sd"
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
         }
       ],
-      "duration_ms": 194103,
-      "name": "I Don't Wanna Lose You - Edit",
-      "url": "https://open.spotify.com/track/182XaJsxNfIeVXPAvBxHPp"
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB"
     },
     {
       "added_at": "2024-01-25 16:48:43",
@@ -1347,6 +1311,42 @@
       "duration_ms": 193000,
       "name": "FVR105 - p-rallel Remix",
       "url": "https://open.spotify.com/track/5F4jNQAtcorOBctGgpcjNh"
+    },
+    {
+      "added_at": "2024-01-25 16:48:43",
+      "album": {
+        "name": "Beato Classico",
+        "url": "https://open.spotify.com/album/0dZhnLbdVByf9r4vAdMALB"
+      },
+      "artists": [
+        {
+          "name": "J Lloyd",
+          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
+        }
+      ],
+      "duration_ms": 208959,
+      "name": "Beato Classico",
+      "url": "https://open.spotify.com/track/7I3PUsLHsP6RCp44lcOvI9"
+    },
+    {
+      "added_at": "2024-01-25 16:48:43",
+      "album": {
+        "name": "Girls FM",
+        "url": "https://open.spotify.com/album/7clnPpJ3KkLh5GWwzNNWF8"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Olivia Louise",
+          "url": "https://open.spotify.com/artist/6E1v7RmEYvZIvhauy9v0sd"
+        }
+      ],
+      "duration_ms": 194103,
+      "name": "I Don't Wanna Lose You - Edit",
+      "url": "https://open.spotify.com/track/182XaJsxNfIeVXPAvBxHPp"
     }
   ],
   "unique_name": "Soultronic",

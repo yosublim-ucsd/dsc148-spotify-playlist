@@ -1,12 +1,12 @@
 {
   "description": "Budah, Sotam, Aka Rasta e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 225738,
+  "num_followers": 225787,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDUzNTM0MmRiNTcxNjk0MTZiZDNmYTU1ZTY2ODllOTljMmViODY4",
+  "snapshot_id": "MCxmYWJjNDRjZTUzYjk1MWY4MTc1MTUzYjc5ZGM1MDhjZGViMDkwM2Y3",
   "tracks": [
     {
       "added_at": "2024-02-04 17:10:42",
@@ -267,6 +267,30 @@
     {
       "added_at": "2024-02-04 17:10:42",
       "album": {
+        "name": "Foto da Unha",
+        "url": "https://open.spotify.com/album/2ch0bK9veGHOPlDQCYLAln"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Foto da Unha",
+      "url": "https://open.spotify.com/track/6CQWmtVuHcGGdWLfcpOpbp"
+    },
+    {
+      "added_at": "2024-02-04 17:10:42",
+      "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
       },
@@ -299,30 +323,6 @@
       "duration_ms": 188497,
       "name": "Engana Dizendo Que Ama",
       "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
-    },
-    {
-      "added_at": "2024-02-04 17:10:42",
-      "album": {
-        "name": "Foto da Unha",
-        "url": "https://open.spotify.com/album/2ch0bK9veGHOPlDQCYLAln"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Foto da Unha",
-      "url": "https://open.spotify.com/track/6CQWmtVuHcGGdWLfcpOpbp"
     },
     {
       "added_at": "2024-02-04 17:10:42",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2024-02-04 17:10:42",
       "album": {
+        "name": "Xuxu",
+        "url": "https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O"
+      },
+      "artists": [
+        {
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 172523,
+      "name": "Xuxu",
+      "url": "https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv"
+    },
+    {
+      "added_at": "2024-02-04 17:10:42",
+      "album": {
         "name": "TRAP DE MALOKA",
         "url": "https://open.spotify.com/album/5mDbL5J9Unm0GVZnZCMLmH"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 288000,
       "name": "TRAP DE MALOKA",
       "url": "https://open.spotify.com/track/7t0GcNEgTvKsBHP2EzWb4G"
-    },
-    {
-      "added_at": "2024-02-04 17:10:42",
-      "album": {
-        "name": "Xuxu",
-        "url": "https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O"
-      },
-      "artists": [
-        {
-          "name": "Filhos De Jorge",
-          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 172523,
-      "name": "Xuxu",
-      "url": "https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv"
     },
     {
       "added_at": "2024-02-04 17:10:42",

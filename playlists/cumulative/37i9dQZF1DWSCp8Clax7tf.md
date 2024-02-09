@@ -4,7 +4,7 @@
 
 > The Women who put Country Music on the map\. Cover: Loretta Lynn
 
-126 songs - 7 hr 3 min
+127 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Still Woman Enough \(feat\. Reba McEntire & Carrie Underwood\)](https://open.spotify.com/track/4Cd03bl3Q3hIu3rn25TtaP) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Still Woman Enough](https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv) | 3:37 | 2022-03-18 |  |
 | [Strawberry Wine](https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Deana Carter Collection](https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd) | 4:50 | 2021-10-22 |  |
 | [Tell Me Why](https://open.spotify.com/track/3Vfj2JGXayXgc0c9J4gJ8m) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Tell Me Why](https://open.spotify.com/album/0118657h8IVC4b37XaOjBp) | 3:50 | 2021-10-22 |  |
-| [Tennessee Flat Top Box](https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:15 | 2021-10-22 |  |
+| [Tennessee Flat Top Box](https://open.spotify.com/track/2m25daTa9vh2G3kR4ZnSSS) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [King's Record Shop](https://open.spotify.com/album/2UKzyeTTIPTmhgMawl3iag) | 3:09 | 2023-02-13 |  |
+| [Tennessee Flat Top Box](https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:15 | 2021-10-22 | 2024-02-09 |
 | [Texas \(When I Die\)](https://open.spotify.com/track/2JqxrHRAtnrkczEZEzAKV2) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [20th Century Masters: The Millennium Collection: Best Of Tanya Tucker](https://open.spotify.com/album/4MREa9Uxe46kfg2Ig9GBNp) | 4:50 | 2021-10-22 |  |
 | [The Greatest Man I Never Knew](https://open.spotify.com/track/2X24Lnb48oWOzMQBBan1qY) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [50 Greatest Hits](https://open.spotify.com/album/2Fs8kfD1oFmBpQxf5XIYgR) | 3:13 | 2021-10-22 | 2022-07-29 |
 | [The Greatest Man I Never Knew](https://open.spotify.com/track/43z33yJDu1dCyE50sPzErp) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [For My Broken Heart](https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5) | 3:14 | 2022-03-18 |  |

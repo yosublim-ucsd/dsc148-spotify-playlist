@@ -1397,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Brief",
+        "url": "https://open.spotify.com/album/6atjEq08QMtLbB8PKqQQKl"
+      },
+      "artists": [
+        {
+          "name": "Tuva Sersh",
+          "url": "https://open.spotify.com/artist/7iM8O4ZKvjeOFDPBkxncPk"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142986,
+      "name": "Brief",
+      "url": "https://open.spotify.com/track/6caIcf9eRI7X8wHp7GeWNZ"
+    },
+    {
+      "album": {
         "name": "bublee",
         "url": "https://open.spotify.com/album/6xr1sPMwIVBzjP1rTbfHjN"
       },
@@ -4481,6 +4499,24 @@
     },
     {
       "album": {
+        "name": "Glitch Flower",
+        "url": "https://open.spotify.com/album/4dwzeOvMJCTIBGiUFw82rO"
+      },
+      "artists": [
+        {
+          "name": "Brief & Breezy",
+          "url": "https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172124,
+      "name": "Glitch Flower",
+      "url": "https://open.spotify.com/track/5FILcC4AkPVuPdEqINDWNX"
+    },
+    {
+      "album": {
         "name": "Glitter",
         "url": "https://open.spotify.com/album/4q6i13TRVpaE0xDBOpJAhM"
       },
@@ -4532,6 +4568,24 @@
       "duration_ms": 129128,
       "name": "gm",
       "url": "https://open.spotify.com/track/7tRXsjW8Yoz6xMaxprsQYm"
+    },
+    {
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/7yK2AwASUtViC4CvC3r7qE"
+      },
+      "artists": [
+        {
+          "name": "francesca rose",
+          "url": "https://open.spotify.com/artist/47i0uOrWb8XXMYQIa9R9qA"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/04KynVoyrEf4OU48Dw9hgS"
     },
     {
       "album": {
@@ -9456,7 +9510,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 118235,
       "name": "sambas song",
       "url": "https://open.spotify.com/track/6BJM6iNyj2nSKrLGP9w3mA"
@@ -11259,6 +11313,24 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7n5d3Fu6lIJTHNVtjZj7rX"
+      },
+      "artists": [
+        {
+          "name": "Serena Kayleah",
+          "url": "https://open.spotify.com/artist/1UxgzBXu0TEFYGecOFWKAg"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/1I5EnQrDoeo6txl9bo8Wea"
+    },
+    {
+      "album": {
         "name": "Thaw",
         "url": "https://open.spotify.com/album/05uaTuNccDUbZiPffs9Zi7"
       },
@@ -11408,6 +11480,24 @@
       "duration_ms": 129600,
       "name": "the neighborhood",
       "url": "https://open.spotify.com/track/6nZIx6Ck3oNPR1L5FblIY0"
+    },
+    {
+      "album": {
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/7iR2WVooAnVND6Ho31wMxa"
+      },
+      "artists": [
+        {
+          "name": "Nishimura Blaze",
+          "url": "https://open.spotify.com/artist/0UkVabqymwYoKqA9FtrTYa"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156551,
+      "name": "The Return",
+      "url": "https://open.spotify.com/track/6plHV3oQN20BmAracIOUe5"
     },
     {
       "album": {
@@ -12040,7 +12130,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 153000,
       "name": "Unknown Species",
       "url": "https://open.spotify.com/track/7nps23pqoryfRaiA2CbYq6"
@@ -13082,7 +13172,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 125142,
       "name": "x-mas ham",
       "url": "https://open.spotify.com/track/2GqQyRsB7IBvLpnVwI2h2i"

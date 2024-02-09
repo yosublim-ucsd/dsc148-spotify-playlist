@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 
 > Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,685 likes - 39 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,808 likes - 39 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 | 12 | [Quemando Papel](https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [Quemando Papel](https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9) | 3:14 |
 | 13 | [No Hay Falla Puro Fire](https://open.spotify.com/track/6w4IGeKLBWTMeTsODLWkfh) | [Misael Gutiérrez](https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS), [Charly Barraza](https://open.spotify.com/artist/0lt4tPr7zkjrESUVY4zEBY) | [No Hay Falla Puro Fire](https://open.spotify.com/album/6IoOtCSEgOIINK8TWumspy) | 3:05 |
 | 14 | [ONTAS BB](https://open.spotify.com/track/3IHSOgqSplOCtN2NiGlp0q) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [ONTAS BB](https://open.spotify.com/album/2sbHi7VQ7U7uohlhAo0gax) | 3:27 |
-| 15 | [Pacas y Pacas](https://open.spotify.com/track/1hFg6ilfrckIhcz0IBmp2b) | [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq), [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Bruno Brunette](https://open.spotify.com/artist/4rBLu7EtzIkpCuVSqYXTtc) | [Pacas y Pacas](https://open.spotify.com/album/7jL1caHfpQfZdJrNtsnbAm) | 2:20 |
+| 15 | [Pacas y Pacas](https://open.spotify.com/track/1hFg6ilfrckIhcz0IBmp2b) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Bruno Brunette](https://open.spotify.com/artist/4rBLu7EtzIkpCuVSqYXTtc), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [Pacas y Pacas](https://open.spotify.com/album/7jL1caHfpQfZdJrNtsnbAm) | 2:20 |
 | 16 | [TENGO A LAS BARBIES](https://open.spotify.com/track/1KbBjQNxVz5cNc7mgstbDR) | [Gabriel Silva](https://open.spotify.com/artist/1NVLrvVSGd2ukeQ69T7gDE) | [TENGO A LAS BARBIES](https://open.spotify.com/album/2dhztpdGQWjqaK9Wyw396V) | 3:00 |
 | 17 | [C ARMO](https://open.spotify.com/track/1jM2U517tfgPyoCrnRqa2m) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ) | [C ARMO](https://open.spotify.com/album/5kzK7xsCCuNueER2C9Hc7g) | 3:02 |
 | 18 | [SSDBARRIO](https://open.spotify.com/track/2DaQcRsoWQCW89yYMatwVo) | [Gery Ochoa](https://open.spotify.com/artist/5Lc4sh3AVficEBSqHZvgXP), [Iván Borja](https://open.spotify.com/artist/1FY1tDuWgZK8KCFkGJhmHN), [Art Fernand](https://open.spotify.com/artist/28yZ74VWIaEAqhNlptUE6W) | [SSDBARRIO](https://open.spotify.com/album/01aa07JdFwFhRxb8dsTg0u) | 3:30 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 | 38 | [Corrido Espacial](https://open.spotify.com/track/2kArNwB6naa7LrKBlEe65P) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Rockport Espacial 2](https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6) | 3:42 |
 | 39 | [Bien Loco](https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bien Loco](https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA) | 2:49 |
 
-Snapshot ID: `MCw0YWMzYmFjNzFiNzdlM2IyODYwYzYyYjY4ODIyM2VlOGU3M2I4MTgx`
+Snapshot ID: `MCw1MDI1ZDQzYzcyM2YzYWViZjExMjg2MjMxZGE2M2EzNzgyZmFmN2Y2`

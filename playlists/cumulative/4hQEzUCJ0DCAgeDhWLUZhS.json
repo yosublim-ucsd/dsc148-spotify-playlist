@@ -2963,6 +2963,24 @@
     },
     {
       "album": {
+        "name": "I Forgot To Be Your Lover",
+        "url": "https://open.spotify.com/album/0QfT7WOAHM5CPZPL9ci2E1"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147985,
+      "name": "I Forgot To Be Your Lover",
+      "url": "https://open.spotify.com/track/756ziR2z4iXkK35qwBLUiY"
+    },
+    {
+      "album": {
         "name": "I Got Love / Stay Behind",
         "url": "https://open.spotify.com/album/291rt10ZQsv8QnAhS5e115"
       },
@@ -7238,7 +7256,7 @@
           "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         },
         {
-          "name": "Machine Gun Kelly",
+          "name": "mgk",
           "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],

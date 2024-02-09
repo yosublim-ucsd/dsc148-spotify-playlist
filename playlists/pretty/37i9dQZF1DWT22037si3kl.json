@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: MC Caverinha",
-  "num_followers": 136518,
+  "num_followers": 136535,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2E4YTQwODE4ODBkYWY5ZDBiZTM3M2RiZDQ5ZDUyM2RjYWQ3ZTQ2",
+  "snapshot_id": "MCwyY2QwZTdmMDEyMWJiOGRmZDZkNGYwZTk0NmJjYTE3ODg2YzBiMTk2",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -115,6 +115,34 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Mandona (Se eu te dissesse)",
+        "url": "https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Mandona (Se eu te dissesse)",
+      "url": "https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -143,34 +171,6 @@
       "duration_ms": 160000,
       "name": "Desfile na Favela",
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Mandona (Se eu te dissesse)",
-        "url": "https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Mandona (Se eu te dissesse)",
-      "url": "https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -559,6 +559,42 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Na Minha Blunt",
+        "url": "https://open.spotify.com/album/57lNHVtrf0nAijRYg9KRdp"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "Ayo Th",
+          "url": "https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty"
+        },
+        {
+          "name": "MATHINVOKER",
+          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Na Minha Blunt",
+      "url": "https://open.spotify.com/track/22c34TVqA1nkCZrjtPLjmJ"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Sem Compaix\u00e3o",
         "url": "https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2"
       },
@@ -575,26 +611,6 @@
       "duration_ms": 202451,
       "name": "Sem Compaix\u00e3o",
       "url": "https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "O Bagulho \u00c9 Trap II",
-        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
-        },
-        {
-          "name": "TrapHits",
-          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
-        }
-      ],
-      "duration_ms": 154789,
-      "name": "Porsche \"Ye Yo\"",
-      "url": "https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -651,6 +667,26 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        }
+      ],
+      "duration_ms": 154789,
+      "name": "Porsche \"Ye Yo\"",
+      "url": "https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Mimo Caro",
         "url": "https://open.spotify.com/album/48rbpMh7icB1q0eDGPXzcB"
       },
@@ -671,42 +707,6 @@
       "duration_ms": 249600,
       "name": "Mimo Caro",
       "url": "https://open.spotify.com/track/3ps209XATTFuOMkokgGywM"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Na Minha Blunt",
-        "url": "https://open.spotify.com/album/57lNHVtrf0nAijRYg9KRdp"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Ryu, the Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        },
-        {
-          "name": "Ayo Th",
-          "url": "https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty"
-        },
-        {
-          "name": "MATHINVOKER",
-          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
-        },
-        {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Na Minha Blunt",
-      "url": "https://open.spotify.com/track/22c34TVqA1nkCZrjtPLjmJ"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Bem-vindo a Armadilha Brasileira",
+        "url": "https://open.spotify.com/album/6djuaxmB22F71KPU0A7CrU"
+      },
+      "artists": [
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF"
+        },
+        {
+          "name": "Cloudsnobeat",
+          "url": "https://open.spotify.com/artist/4tSKK04OWnbdlhJday79wH"
+        }
+      ],
+      "duration_ms": 105631,
+      "name": "FILME MAFIOSO",
+      "url": "https://open.spotify.com/track/3jDruglRjyE4P2aIZgtm8Y"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Fora de Vista",
         "url": "https://open.spotify.com/album/6ke66rMS4Ns6GfbLX2GKVa"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 151270,
       "name": "Fora de Vista",
       "url": "https://open.spotify.com/track/4b1rbUIPTNk3jh9Mpwo1ZK"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Bem-vindo a Armadilha Brasileira",
-        "url": "https://open.spotify.com/album/6djuaxmB22F71KPU0A7CrU"
-      },
-      "artists": [
-        {
-          "name": "LX",
-          "url": "https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF"
-        },
-        {
-          "name": "Cloudsnobeat",
-          "url": "https://open.spotify.com/artist/4tSKK04OWnbdlhJday79wH"
-        }
-      ],
-      "duration_ms": 105631,
-      "name": "FILME MAFIOSO",
-      "url": "https://open.spotify.com/track/3jDruglRjyE4P2aIZgtm8Y"
     },
     {
       "added_at": "2024-02-02 03:01:00",

@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 29156,
+  "2024-02-09": 29164,
   "date_first_scraped": "2022-06-10",
   "description": "",
   "name": "Ninja Tune // New Releases",
@@ -3135,6 +3135,28 @@
       "duration_ms": 249261,
       "name": "Push Power ( a 1 )",
       "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
+    },
+    {
+      "album": {
+        "name": "Real Hot n Naughty",
+        "url": "https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
+        {
+          "name": "Felix Mufti",
+          "url": "https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214925,
+      "name": "Real Hot n Naughty",
+      "url": "https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW"
     },
     {
       "album": {

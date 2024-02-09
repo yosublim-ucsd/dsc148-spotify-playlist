@@ -6,8 +6,24 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTc1NSxiZmM1OGNkMWE2ZmI4YWJmZDc4NzQ0YmU1OWU0ZWM4N2EyM2RhZWNk",
+  "snapshot_id": "MTc1NiwxZmE5MTk5ZTQxNjdjNmIyOWY5YzRiZGNjOGUyYzhiYTI4NmUzM2U0",
   "tracks": [
+    {
+      "added_at": "2024-02-08 23:52:17",
+      "album": {
+        "name": "I Forgot To Be Your Lover",
+        "url": "https://open.spotify.com/album/0QfT7WOAHM5CPZPL9ci2E1"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 147985,
+      "name": "I Forgot To Be Your Lover",
+      "url": "https://open.spotify.com/track/756ziR2z4iXkK35qwBLUiY"
+    },
     {
       "added_at": "2024-01-18 22:38:19",
       "album": {
@@ -3584,7 +3600,7 @@
           "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         },
         {
-          "name": "Machine Gun Kelly",
+          "name": "mgk",
           "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],

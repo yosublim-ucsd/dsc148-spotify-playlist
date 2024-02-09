@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 12780,
+  "2024-02-09": 12780,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Bolivia.",
   "name": "Viral 50 - Bolivia",
@@ -380,6 +380,24 @@
     },
     {
       "album": {
+        "name": "De Qui\u00e9n Ser\u00e1s",
+        "url": "https://open.spotify.com/album/6nOqZUM9NVmD5HywOht55z"
+      },
+      "artists": [
+        {
+          "name": "Darviin",
+          "url": "https://open.spotify.com/artist/6dL0CCjAn3nxhZpGVmcO4E"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174459,
+      "name": "De Qui\u00e9n Ser\u00e1s",
+      "url": "https://open.spotify.com/track/31qUOytzAm4MOQgxxHFSVo"
+    },
+    {
+      "album": {
         "name": "DELIRIO",
         "url": "https://open.spotify.com/album/0rkjPXEAaZpOGqfJXm5D6m"
       },
@@ -569,7 +587,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 114782,
       "name": "Gustarme Tanto",
       "url": "https://open.spotify.com/track/0fcibnTsBtSPMqLLsrwdPh"
@@ -683,7 +701,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 165714,
       "name": "Hoy Me Levante",
       "url": "https://open.spotify.com/track/47XJCOFQ2XDuceQya7xDU1"
@@ -1292,6 +1310,40 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 1)",
+        "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Christian Borle",
+          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
+        },
+        {
+          "name": "Amir Talai",
+          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
+        },
+        {
+          "name": "Joel Perez",
+          "url": "https://open.spotify.com/artist/2W9W8wwOXJCux8sfyptX2p"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180475,
+      "name": "Stayed Gone",
+      "url": "https://open.spotify.com/track/2Evk4YMwD4zjjha2k3dbV7"
+    },
+    {
+      "album": {
         "name": "Tacata (Remix)",
         "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
       },
@@ -1347,7 +1399,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 192240,
       "name": "TRUE",
       "url": "https://open.spotify.com/track/2oAmC0f5DWBDyXqsKO00ov"
@@ -1465,7 +1517,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 645363,
       "name": "Unci\u00f3n en el aire",
       "url": "https://open.spotify.com/track/5HueTmhUbaXJQpM33wdQ6P"
@@ -1553,6 +1605,24 @@
       "duration_ms": 177426,
       "name": "Voil\u00e0",
       "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w"
+    },
+    {
+      "album": {
+        "name": "VVS Switch",
+        "url": "https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168178,
+      "name": "VVS Switch",
+      "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"
     },
     {
       "album": {
@@ -1651,7 +1721,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 179600,
       "name": "Ya No Estoy Dolido",
       "url": "https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt"

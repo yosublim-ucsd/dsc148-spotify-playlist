@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 
 > Enjoy music & episodes of "SPY×FAMILY"! /「SPY×FAMILY」の楽曲とエピソードを１つのプレイリストに。©2023「劇場版 SPY×FAMILY」製作委員会　©遠藤達哉／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,524 likes - 67 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,556 likes - 67 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 | 2 | [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 |
 | 3 | [公開中『劇場版 SPY×FAMILY CODE: White』スペシャルメッセージ！](https://open.spotify.com/track/4EsU9GtLP4jM5j2cGs9Xv0) | [『劇場版 SPY×FAMILY CODE: White』](https://open.spotify.com/artist/16AwjLUzJT8iLBo6LDLCse) | [『劇場版 SPY×FAMILY CODE: White』スペシャルメッセージ！](https://open.spotify.com/album/1OKiciCC6AscQfSTJBOqU4) | 0:29 |
 | 4 | [Why](https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Why / Life](https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz) | 4:10 |
-| 5 | [Kura Kura](https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kura Kura](https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen) | 3:11 |
+| 5 | [クラクラ](https://open.spotify.com/track/7lcXrOj9HdsHFQfNNBR4XS) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:11 |
 | 6 | [トドメの一撃](https://open.spotify.com/track/7sd09c4dFK5dLHRsySex9L) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:10 |
 | 7 | [STRIX \(Season2\)](https://open.spotify.com/track/3V8MSbTxaQOPJ14s8pNA98) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [Animation『SPY×FAMILY』Season 2 Original Soundtrack](https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp) | 2:13 |
 | 8 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 | 66 | [Find the ingredients!](https://open.spotify.com/track/6E8fLOminxclTsJ3LYPCfm) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY CODE: White \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6sApHKoZZ6mQfA9Nef2xfg) | 2:11 |
 | 67 | [Snow Smoke](https://open.spotify.com/track/1vO7qAzy2xMAqDXYa7KcgT) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY CODE: White \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6sApHKoZZ6mQfA9Nef2xfg) | 2:03 |
 
-Snapshot ID: `MCwwZDhmOTczNzAxNWJkZmEwZjdkOWNlNzc1YWEyMDM3NzQ4NDQzMDU3`
+Snapshot ID: `MCwwMDgzYWJlM2NhOWZkOTE0MDE3YzZhZjVkNDEyMDAyNTYyZTc1OWMz`

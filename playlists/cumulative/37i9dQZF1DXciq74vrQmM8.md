@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Bambie Thug
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Mimi Barks
 
-742 songs - 1 day 11 hr 17 min
+744 songs - 1 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 | 2022-03-18 | 2022-08-05 |
 | [Clique](https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Seize the Power](https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j) | 2:19 | 2022-09-22 | 2023-07-07 |
 | [clones](https://open.spotify.com/track/4AsTCZVFI6KEYLgaAvbHpf) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [soft like steel](https://open.spotify.com/album/68gXvU5xZ9X2bqzUeFQMUk) | 3:05 | 2023-03-24 | 2023-06-16 |
-| [CODE MISTAKE](https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [CODE MISTAKE](https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl) | 2:45 | 2023-06-29 |  |
+| [CODE MISTAKE](https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [CODE MISTAKE](https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl) | 2:45 | 2023-06-29 | 2024-02-09 |
 | [COKEHEAD](https://open.spotify.com/track/31rtGzjxNxjaMlI1ylfrKH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [COKEHEAD](https://open.spotify.com/album/4JFfwqsgySYq0uYEokchgy) | 2:14 | 2024-01-26 |  |
 | [Colour of Moonlight \(Antiochus\)](https://open.spotify.com/track/6d9nQK2zdlQtsV0pnjq7k9) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Doldrums](https://open.spotify.com/artist/1YAv2yohpdjlPVbtqZCGLY) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 3:59 | 2022-02-21 | 2022-03-04 |
 | [Come 2 Me](https://open.spotify.com/track/1QtFsnrZWSAXdQPS7yjvk1) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Voulez\-Vous](https://open.spotify.com/album/55g6d5fjLBIJK8g27aqSSI) | 2:38 | 2022-02-18 | 2022-08-19 |
@@ -250,6 +250,7 @@
 | [FRIDAY \(Reloaded\)](https://open.spotify.com/track/3Pf28cD5MjAuQzkBnYviCj) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [FRIDAY \(Reloaded\)](https://open.spotify.com/album/3XSKnyN9nvtxA2LFQOdTCu) | 1:40 | 2021-12-27 | 2022-02-18 |
 | [Friendly Machine](https://open.spotify.com/track/1HwDXo5LrML3NYmYQiboCB) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Friendly Machine](https://open.spotify.com/album/0K4D8UZiHwXH2c1cKNXnXZ) | 3:46 | 2021-12-27 | 2022-01-19 |
 | [Froglake](https://open.spotify.com/track/0PQbOcnO2MwbqvJRQq3ksK) | [Vanessa Weisz](https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA) | [Froglake](https://open.spotify.com/album/3u1TiYQgE20HLmiL5uXrTL) | 3:16 | 2021-12-27 | 2022-02-04 |
+| [FSU](https://open.spotify.com/track/3GtVAWHLN0Jve9y0zzjcyG) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [FSU](https://open.spotify.com/album/3XIr7xFwP0tJCV59ez5j3B) | 3:04 | 2024-02-09 |  |
 | [Fuck the Hollywood Cult](https://open.spotify.com/track/5SoxOODF9bvcb7vEBkG6dz) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Fuck the Hollywood Cult](https://open.spotify.com/album/36CVtGbnMvnZphHX7IiRPJ) | 3:10 | 2021-12-27 | 2022-01-29 |
 | [FUCK! AH!](https://open.spotify.com/track/19yreeli7OWd6qpZug1Y06) | [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv), [N8NOFACE](https://open.spotify.com/artist/0HlRzJcjY69mM3nW2Xvrzi) | [FUCK! AH!](https://open.spotify.com/album/4gkd7JUhIPkirbX9AZz7L5) | 1:19 | 2024-01-19 |  |
 | [FUCKYOU!](https://open.spotify.com/track/6BtDU1nkjCcc1Ko8ADERxM) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH) | [FUCKYOU!](https://open.spotify.com/album/4Vdf6QbH9pCruj1FEfE7rc) | 1:17 | 2022-07-28 | 2022-10-14 |
@@ -419,7 +420,7 @@
 | [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX) | 4:18 | 2023-07-13 |  |
 | [lock](https://open.spotify.com/track/6uyLlMgGbTpZ8cOpdWlzVl) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [lock](https://open.spotify.com/album/265AleMWrh4uPL0IQuPdQ1) | 2:13 | 2024-01-26 |  |
 | [Loner](https://open.spotify.com/track/1VDpzf4lahkZqdkFwdmXiY) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Silly Little Dream, Pt\. 1](https://open.spotify.com/album/7EA7NiPEaF7LXUueRDfRo6) | 3:16 | 2022-04-07 | 2022-06-24 |
-| [Loose](https://open.spotify.com/track/6NSUDjjx22ZobxJqRHynpL) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004), [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [Loose](https://open.spotify.com/album/1ZzBNSEcqoxFqoedZoYXpG) | 4:07 | 2023-08-24 |  |
+| [Loose](https://open.spotify.com/track/6NSUDjjx22ZobxJqRHynpL) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004), [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [Loose](https://open.spotify.com/album/1ZzBNSEcqoxFqoedZoYXpG) | 4:07 | 2023-08-24 | 2024-02-09 |
 | [Loser Deadbeat](https://open.spotify.com/track/2PyWgTGWMJ8tLygUNZXS09) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Loser Deadbeat](https://open.spotify.com/album/7fHqMXilgXLPBIj2XbK59g) | 3:05 | 2023-04-27 | 2023-06-23 |
 | [Losing My Grip \(Feat\. Jason Aalon Butler of Fever 333\)](https://open.spotify.com/track/1sh5yKwsSfddAumS4rJyZi) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Losing My Grip \(Feat\. Jason Aalon Butler of Fever 333\)](https://open.spotify.com/album/5Hx7U2s7DySYx1KYGJjIzR) | 2:47 | 2024-01-19 |  |
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-04 | 2023-11-18 |
@@ -631,6 +632,7 @@
 | [SUICIDE](https://open.spotify.com/track/4atpzYOS3lR8a99kgp1kcC) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [SUICIDE](https://open.spotify.com/album/1vQpCZWCnmYWgF1ZVRCUFt) | 3:47 | 2021-12-27 | 2022-04-01 |
 | [Super Fiend](https://open.spotify.com/track/2JOYAjpbutUFqxHYncleLf) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:28 | 2022-09-07 | 2022-10-14 |
 | [superdeadfriends](https://open.spotify.com/track/1mgvj05QVQdO7dPgHTooXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:20 | 2022-05-17 | 2022-08-26 |
+| [supernAtural](https://open.spotify.com/track/6pqbW62SKuIGJxiYjHTx6l) | [dye](https://open.spotify.com/artist/76YHUJWHU2wgGBZjIg3itT) | [supernAtural](https://open.spotify.com/album/0yFDcLCs2xq8RR48hWNpOu) | 2:39 | 2024-02-09 |  |
 | [Superstar \- Myspace Version](https://open.spotify.com/track/0bktNoQ2TiHAvjmRWOX1cI) | [Hadouken!](https://open.spotify.com/artist/1369EOxSlL69yV9Yp1nVaR) | [Superstar \(Myspace Version\)](https://open.spotify.com/album/1Lwgrd9TBKMTimajpy6hYv) | 3:07 | 2023-04-20 | 2023-05-19 |
 | [SuperVillain Origin Story](https://open.spotify.com/track/4BNU2dQZoERjlDiiMNeZhZ) | [whatyoudid.](https://open.spotify.com/artist/7ruKYQV7xvAw9vFNsSrbUr) | [SuperVillain Origin Story](https://open.spotify.com/album/0UNwMMe8WP9miakqN5LSJT) | 2:53 | 2022-10-27 | 2023-08-25 |
 | [Supply/Demand](https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Supply/Demand](https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd) | 2:39 | 2023-03-10 | 2023-03-31 |

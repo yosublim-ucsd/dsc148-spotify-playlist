@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Kota The Friend
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,307,625 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,307,715 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [ART OF SEDUCTION](https://open.spotify.com/track/40OcWS4cakpvJ4ZYfwHWSP) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 3:23 |
 | 100 | [WHAT A DAY](https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:36 |
 
-Snapshot ID: `MCw2NzRlNjc0YzdmMmFkNzBiNDlmN2M0MzQ2OGUwNTBkYWNmZjFiYjE1`
+Snapshot ID: `MCw5NTg3NTllZjg1OTQ1YjYwYjg5ZWI2YTVhODI1MzA5MWRiNWIxNjEw`

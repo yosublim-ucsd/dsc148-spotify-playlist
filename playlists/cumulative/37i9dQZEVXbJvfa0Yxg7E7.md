@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,479 songs - 3 day 4 hr 56 min
+1,480 songs - 3 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1059,8 +1059,9 @@
 | [Pinne for landet](https://open.spotify.com/track/0jefzmTNGgqmxVgMbNWdOa) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Pinne for landet](https://open.spotify.com/album/1ekZkKGOkHcbZY9aHr5Xsj) | 3:17 | 2022-04-16 | 2023-04-12 |
 | [Pinne for landet](https://open.spotify.com/track/0oXVouNs5TbKXbeZfgkpzi) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Pinne for landet](https://open.spotify.com/album/6mxmtvGf8ED28YVNMo8xY7) | 2:59 | 2023-01-09 | 2023-01-29 |
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-06 |
+| [Piruss \(Hjemmesnekk\)](https://open.spotify.com/track/63lf9AhjpI4lI2JGPsGK19) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW), [Joe Rock](https://open.spotify.com/artist/2l5ZAGdHNQnBS3YWnAMchH), [HUNKS](https://open.spotify.com/artist/6NwfkxMpOT39moOpzTznDM), [Pi$h](https://open.spotify.com/artist/5hlQ75tehrfiRANSAA9gFQ) | [PIRUSS 2024](https://open.spotify.com/album/07UE6BcEut3B0XyPlCruND) | 2:46 | 2024-02-08 |  |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-02-14 | 2023-03-14 |
-| [Plz](https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Plz](https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb) | 2:22 | 2024-02-03 |  |
+| [Plz](https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Plz](https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb) | 2:22 | 2024-02-03 | 2024-02-09 |
 | [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2022-12-03 | 2022-12-11 |
 | [Polisen](https://open.spotify.com/track/4wr2HgyYMvJourcfOMzPCb) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Polisen](https://open.spotify.com/album/4dVz4LIb33QKCJoxQPYyNL) | 2:34 | 2021-04-11 | 2021-05-21 |
 | [popstjerner](https://open.spotify.com/track/5aaz7Q04d09DQ3GXyabxqw) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [SÅ KLART DET GJØR VONDT](https://open.spotify.com/album/2oumu4rB71r7F0KwVc8WEj) | 2:54 | 2022-10-01 | 2022-10-03 |

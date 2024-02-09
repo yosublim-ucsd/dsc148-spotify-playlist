@@ -2,7 +2,7 @@
 
 ### [Classic Punk](https://open.spotify.com/playlist/37i9dQZF1DX3LDIBRoaCDQ)
 
-> Classic songs that built the foundations of punk.
+> Classic songs that built the foundations of punk\. Cover: Johnny Rotten
 
 182 songs - 8 hr 37 min
 

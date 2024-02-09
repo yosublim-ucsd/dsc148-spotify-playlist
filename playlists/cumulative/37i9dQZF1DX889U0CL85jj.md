@@ -4,7 +4,7 @@
 
 > Just chill, and potentially disassociate, in 2023.
 
-590 songs - 1 day 10 hr 8 min
+591 songs - 1 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [As It Was](https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP) | [As It Was](https://open.spotify.com/album/0vfdK80R66YlGqR7SmlZMl) | 3:10 | 2022-10-08 | 2023-05-23 |
 | [Astray](https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Astray](https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz) | 3:53 | 2023-08-18 |  |
 | [Automatic \- Orion Sun Remix](https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Automatic \(Orion Sun Remix\)](https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ) | 2:04 | 2021-06-07 | 2022-01-22 |
-| [Averío De Ti](https://open.spotify.com/track/45PSB45t9c5XcDZ0Abft6X) | [Carolina Sarta](https://open.spotify.com/artist/38Tnki67cV9yqRdfTv1JxF), [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Averío De Ti](https://open.spotify.com/album/3EcmfOJQR9kIQRSbxQQe3v) | 3:12 | 2022-09-02 |  |
+| [Averío De Ti](https://open.spotify.com/track/45PSB45t9c5XcDZ0Abft6X) | [Carolina Sarta](https://open.spotify.com/artist/38Tnki67cV9yqRdfTv1JxF), [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Averío De Ti](https://open.spotify.com/album/3EcmfOJQR9kIQRSbxQQe3v) | 3:12 | 2022-09-02 | 2024-02-09 |
 | [Awake](https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9) | 4:43 | 2023-10-13 |  |
 | [Azul](https://open.spotify.com/track/5ft3oLnoWPgrH7xMf5auO7) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Azul](https://open.spotify.com/album/4SQJqQE51LU9pTWX0zC7s6) | 3:06 | 2020-07-31 | 2022-01-22 |
 | [Baby Blue Eyes](https://open.spotify.com/track/1cQvQwl6KNmXQuD69ytYX1) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Baby Blue Eyes](https://open.spotify.com/album/4Ime9yylJOlanUElSsvltm) | 3:29 | 2022-11-11 | 2023-03-07 |
@@ -278,6 +278,7 @@
 | [I’ll Keep You Safe](https://open.spotify.com/track/3YfNhioGntblm6ciPsCwC9) | [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [I’ll Keep You Safe](https://open.spotify.com/album/1Eknsv39uic7Fkyn9PfsG1) | 2:20 | 2021-01-14 | 2022-07-29 |
 | [I’ll Keep You Safe](https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq) | [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [I’ll Keep You Safe](https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX) | 2:20 | 2022-06-10 | 2023-04-12 |
 | [J'aime les filles](https://open.spotify.com/track/6GiwLIxSRc3bEBaLj2RPjK) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [J'aime les filles](https://open.spotify.com/album/6dPvgLmDxBa52kR1MPJoQ0) | 3:16 | 2023-01-13 | 2023-09-08 |
+| [Jag vill ha allt](https://open.spotify.com/track/5LQqxkVZnA5kvbzHOMFjde) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Orion](https://open.spotify.com/album/5JvejhNPdxVVPTP9P8bxXf) | 3:26 | 2024-02-08 |  |
 | [James](https://open.spotify.com/track/0crjAWE1C7tHdQArfhSMut) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo) | 2:55 | 2022-06-10 | 2022-09-17 |
 | [James](https://open.spotify.com/track/3yQmQSliq7uJhJet0YGmeX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me](https://open.spotify.com/album/1ZSqGiN0icYQ9AjMRCAiRo) | 2:55 | 2021-06-07 | 2022-07-29 |
 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 | 2021-06-07 | 2022-10-22 |

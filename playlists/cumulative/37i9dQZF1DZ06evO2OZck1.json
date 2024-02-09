@@ -64,6 +64,32 @@
     {
       "album": {
         "name": "Freaks",
+        "url": "https://open.spotify.com/album/5Z2m5xN45b5OvINBkhaUBE"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133802,
+      "name": "Freaks",
+      "url": "https://open.spotify.com/track/33uyQcKrKlGSOQSO3hrtpj"
+    },
+    {
+      "album": {
+        "name": "Freaks",
         "url": "https://open.spotify.com/album/31KJXQUrbyRqkNJxKHYQB0"
       },
       "artists": [
@@ -82,7 +108,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 133802,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/7IdKSSqLyFsDCe5wKYe0aG"
@@ -284,10 +310,28 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 193877,
       "name": "NAINAINAI",
       "url": "https://open.spotify.com/track/4LnMz836E4F1Z3qIPxUGVR"
+    },
+    {
+      "album": {
+        "name": "NAINAINAI",
+        "url": "https://open.spotify.com/album/2oPLzwhrlQP7twoamxxlhN"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193877,
+      "name": "NAINAINAI",
+      "url": "https://open.spotify.com/track/4tkhZR7YJfvpvD5D8o2MUY"
     },
     {
       "album": {

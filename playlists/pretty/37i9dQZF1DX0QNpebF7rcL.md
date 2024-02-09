@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,350 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,374 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Warm Me Up](https://open.spotify.com/track/5FfUJfRvU5qQ7xxjzJJjQ6) | [Mike Clark & the Sugar Sounds](https://open.spotify.com/artist/01RocYhqTJzt3gzdpVM2MJ) | [Warm Me Up](https://open.spotify.com/album/4SHFOYqlrh2RPH8BOeV8zM) | 3:47 |
 | 100 | [She Calls Me Kingfish](https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:12 |
 
-Snapshot ID: `MCw4YzQ4YzdiNmZkNzE2NDAwODc1NWJlYTNjMjlkODE3ODg0N2NhNGMz`
+Snapshot ID: `MCw5YTc0YTk5MDlmNGRiYzA1Njc5ZDlkN2E3ODkzZTA2MTdlMzQ2NmIy`

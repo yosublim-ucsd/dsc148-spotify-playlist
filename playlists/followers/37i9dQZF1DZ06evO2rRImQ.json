@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 190573,
+  "2024-02-09": 190589,
   "date_first_scraped": "2022-06-02",
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
   "name": "This Is Banda Los Recoditos",
@@ -622,6 +622,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/6niDeCvPYEWqC8SlfbzhDC"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145613,
+      "name": "Lo Que Hacemos En Tu Cama",
+      "url": "https://open.spotify.com/track/6Wg40tUtPPacPNVgY22xRH"
+    },
+    {
+      "album": {
         "name": "Los Gustos Que Me Doy",
         "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
       },
@@ -687,7 +705,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 133200,
       "name": "Me Siento A Todo Dar",
       "url": "https://open.spotify.com/track/4UkEbKZ1YbtDnrLGWXp0LJ"

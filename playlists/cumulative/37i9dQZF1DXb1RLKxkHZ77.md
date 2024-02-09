@@ -2,7 +2,7 @@
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Projector Band
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: Hael Husaini
 
 380 songs - 1 day 0 hr 1 min
 

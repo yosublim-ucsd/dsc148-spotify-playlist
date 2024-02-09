@@ -4,7 +4,7 @@
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:6Sw43ZkxX0u3t4cjxlzbzs">PAULA ROMA</a>
 
-1,415 songs - 3 day 4 hr 33 min
+1,416 songs - 3 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -983,7 +983,8 @@
 | [Pętla](https://open.spotify.com/track/3U0RksRf5UWIbNyOZdcDs9) | [Natalia Nykiel](https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj) | [Pętla](https://open.spotify.com/album/56Ltk6jRklV7ELFLFCRyrQ) | 3:35 | 2022-02-01 | 2022-03-08 |
 | [Płacz Mi w Kark](https://open.spotify.com/track/2GrXmvblDEMiC7tlIo8yYd) | [Wolka](https://open.spotify.com/artist/6Qq1C077nPtMtiC9vH07b9) | [Płacz Mi w Kark](https://open.spotify.com/album/2irAgbjJdOovkA1zW4OLfG) | 3:53 | 2022-03-07 | 2022-04-06 |
 | [Płaska Ziemia](https://open.spotify.com/track/6k4MizJDs5LU3hsEET5PJY) | [Anja Pham](https://open.spotify.com/artist/77kc3ojDhzIdKO5mifxftT), [Kacezet](https://open.spotify.com/artist/0UtonDPYQQEx6BFqVQfw4u) | [Płaska Ziemia](https://open.spotify.com/album/2YSBbRWF0FRh1xtewV4FV3) | 2:36 | 2022-01-04 | 2022-02-02 |
-| [Płonę](https://open.spotify.com/track/0xEjng5qh5HdVhRo6LKRb8) | [PAULA ROMA](https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs) | [Płonę](https://open.spotify.com/album/1Lh4Zdn7pkwS0wJhvN1WaS) | 3:29 | 2024-02-06 |  |
+| [Płonę](https://open.spotify.com/track/0xEjng5qh5HdVhRo6LKRb8) | [PAULA ROMA](https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs) | [Płonę](https://open.spotify.com/album/1Lh4Zdn7pkwS0wJhvN1WaS) | 3:29 | 2024-02-06 | 2024-02-09 |
+| [Płonę](https://open.spotify.com/track/3iwQY0Kd07B1JfqLa17NCj) | [PAULA ROMA](https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs) | [Ta, co płonie z Miłości](https://open.spotify.com/album/4tXV3ndpU786KGwaE9OVPA) | 3:29 | 2024-02-08 |  |
 | [Płyń Córeczko](https://open.spotify.com/track/3uFEa37A7v7KoJIp5GAeZr) | [jucho](https://open.spotify.com/artist/77vikLG5M479F4GJeXPmjJ) | [Płyń Córeczko](https://open.spotify.com/album/6Gi56ytrfBtNSINCKMLK9P) | 3:01 | 2023-11-07 | 2023-11-30 |
 | [RAMY](https://open.spotify.com/track/3SVUmN795WOW0JnOcAhAvE) | [Sophie Szklarska](https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan) | [RAMY](https://open.spotify.com/album/58yLVeoG0iY6UpCCgJaG7b) | 3:44 | 2022-09-06 | 2022-10-05 |
 | [Rany](https://open.spotify.com/track/2sljntsgtfVA7hyG6Ty0CO) | [Iza Iprzeciw](https://open.spotify.com/artist/3raVcdcIJSBZXirctZ2Ooq) | [Rany](https://open.spotify.com/album/0zeydfAAubv8FX6the5A6q) | 2:53 | 2022-05-03 | 2022-06-01 |

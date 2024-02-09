@@ -4,7 +4,7 @@
 
 > 
 
-587 songs - 1 day 3 hr 28 min
+588 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Goin' To Hell](https://open.spotify.com/track/3opC4kS9RpbNJw7aORFmGF) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Oxy & Codeine](https://open.spotify.com/album/35UOSWUudVMViGWMUXiNQC) | 1:08 | 2022-05-24 | 2023-05-09 |
 | [Golden Child!](https://open.spotify.com/track/6SB97vEyrYAd6sjnwoeLqj) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 2:03 | 2022-08-27 | 2023-08-20 |
 | [Got rich](https://open.spotify.com/track/37WtW8yj9PfLuM4YMnMIj1) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:01 | 2023-01-06 | 2023-05-09 |
-| [Gotta Blast \(feat\. Diego Money & Bandman Fari\)](https://open.spotify.com/track/7de1qGSxUfnKLNqncRksuk) | [Tay \- K](https://open.spotify.com/artist/1tOeyQZJzNa3EpA3Jkkgt7), [Diego Money](https://open.spotify.com/artist/0SVbeXuRTG8bc7NJ33JYB6), [Bandmanfari](https://open.spotify.com/artist/6h5EZQ3OJCVadk8yOKSUPx) | [\#SantanaWorld \(+\)](https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv) | 2:11 | 2022-05-16 |  |
+| [Gotta Blast \(feat\. Diego Money & Bandman Fari\)](https://open.spotify.com/track/7de1qGSxUfnKLNqncRksuk) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB), [Diego Money](https://open.spotify.com/artist/0SVbeXuRTG8bc7NJ33JYB6), [Bandmanfari](https://open.spotify.com/artist/6h5EZQ3OJCVadk8yOKSUPx) | [\#SantanaWorld \(+\)](https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv) | 2:11 | 2022-05-16 |  |
 | [Goyard](https://open.spotify.com/track/5nBBdfEP8RYglPxTClmvW7) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Im Still Serious](https://open.spotify.com/album/6vAdaRFZy95JxZqmt9q0wk) | 2:18 | 2022-12-25 | 2023-12-14 |
 | [Grab Da Door!](https://open.spotify.com/track/3CVy14A3kKJpS0VnrygIQr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:29 | 2023-12-27 |  |
 | [Great](https://open.spotify.com/track/1LPiF0OU0DcQpkXmFgrfG5) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [D Savage 3900](https://open.spotify.com/artist/3oGynnWhEGK08xqXbhyYmZ) | [Ultraviolet.](https://open.spotify.com/album/2BTEr1ARUMwQG4Bdu6wmW2) | 1:31 | 2022-07-22 | 2023-04-12 |
@@ -505,6 +505,7 @@
 | [SWAG LIKE OHIO PT.2 \(feat\. Lil B\)](https://open.spotify.com/track/0rJ4zjiG51JPL0XhbbJ62i) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 3:00 | 2023-01-20 | 2023-04-24 |
 | [Swag Overload](https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:32 | 2022-10-31 | 2023-05-09 |
 | [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 | 2023-10-03 |  |
+| [SYDNEY SWEENEY](https://open.spotify.com/track/4NE3atZAntDJAdReIar6bN) | [Ceru](https://open.spotify.com/artist/6asghv8lFCRDHUGMUPoRWe) | [SYDNEY SWEENEY](https://open.spotify.com/album/6EJm1GLrf3LRFMotzaD1ji) | 2:17 | 2024-02-08 |  |
 | [Take Care](https://open.spotify.com/track/5sIRKku7AvqAjXhwarDo3X) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Remember Who Started The Wave](https://open.spotify.com/album/6nysREY0T9gDFJoQY1sAEr) | 2:44 | 2023-01-07 | 2023-04-12 |
 | [Take It To Trial](https://open.spotify.com/track/5oIc9JH730QeKxjtjkXv2y) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Rr](https://open.spotify.com/album/4WxOXS9ss9F4pTxXsEM3nH) | 2:04 | 2022-07-10 | 2023-12-14 |
 | [Talkin Like](https://open.spotify.com/track/6atDGm94dfeC7qwmL3TFoq) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [Talkin Like](https://open.spotify.com/album/2TcwUosUrtDDQHi50Z1PCU) | 2:34 | 2022-12-01 | 2023-12-14 |

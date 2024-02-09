@@ -2,9 +2,9 @@
 
 ### [DZ Hits](https://open.spotify.com/playlist/37i9dQZF1DX7ZqKP81pHlu)
 
-> Les hits algériens du moment\. Cover: Moha K, Lyna Mahyem
+> Les hits algériens du moment\. Cover: Lyna Mahyem, Numidia Lezoul
 
-187 songs - 11 hr 27 min
+188 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Héréditaire](https://open.spotify.com/track/6T76ooly64vILBrarOWqFY) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Héréditaire](https://open.spotify.com/album/0u1x3zt7EstMjWxfPxLf3A) | 3:58 | 2023-07-09 |  |
 | [I Wanna Go](https://open.spotify.com/track/3stVq7jycIeOwgtxUiweCD) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [I Wanna Go](https://open.spotify.com/album/7AIkWWjVVsrVk9vATMuFVo) | 3:50 | 2023-08-14 |  |
 | [Jacuzzi](https://open.spotify.com/track/0tHcl65zImDRYFFRkfxrNz) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 3:05 | 2022-11-03 | 2023-02-07 |
+| [Jamais yensak](https://open.spotify.com/track/1aoiOAlXOV3slSPbqACbp5) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Jamais yensak](https://open.spotify.com/album/6EcswaZItJn3EL53VYpU0w) | 2:48 | 2024-02-08 |  |
 | [Juliana](https://open.spotify.com/track/1nnTJkIOWw6GAdsQapQgsD) | [Fyanso](https://open.spotify.com/artist/28I9J1TfdmN27XgRPhnmQe) | [Juliana](https://open.spotify.com/album/12cEHJk2Xga5QRVh7M8l1G) | 3:14 | 2022-08-22 | 2022-09-20 |
 | [Jwabi](https://open.spotify.com/track/0HWqu8kIr5iitYHd62RkJH) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Atlantis](https://open.spotify.com/album/0AYqFxV365fsq7rVnW9nt0) | 4:22 | 2021-12-09 | 2022-12-31 |
 | [Jwabi](https://open.spotify.com/track/5g1Szjr5nWLKCm6P4Avyht) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Atlantis](https://open.spotify.com/album/2rPedzPOYgNlH7jjwF6bSL) | 4:22 | 2022-12-27 | 2023-02-07 |

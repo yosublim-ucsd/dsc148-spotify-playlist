@@ -2373,6 +2373,24 @@
     },
     {
       "album": {
+        "name": "My Love Mine All Mine (Lo-Fi)",
+        "url": "https://open.spotify.com/album/1QnjnDG89CKI0eAc56VAWY"
+      },
+      "artists": [
+        {
+          "name": "meadowzz",
+          "url": "https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "My Love Mine All Mine - Lo-Fi",
+      "url": "https://open.spotify.com/track/2jTF88RCLLIx5kVDXi2gPM"
+    },
+    {
+      "album": {
         "name": "Portals pt 2",
         "url": "https://open.spotify.com/album/7yOQ2GIiEZz4nVo4BF7CPb"
       },

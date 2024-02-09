@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 129692,
       "name": "1981",
       "url": "https://open.spotify.com/track/5p5lAB6YJioo8gJIck84JJ"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 189535,
       "name": "Ally's Song",
       "url": "https://open.spotify.com/track/7KHWN1YP0PY8deaq0IykBe"
@@ -9177,6 +9177,24 @@
     },
     {
       "album": {
+        "name": "Penith (The DAVE Soundtrack)",
+        "url": "https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe"
+      },
+      "artists": [
+        {
+          "name": "Lil Dicky",
+          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226707,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/6qZOQKoGnQUpY5BHIOOtPB"
+    },
+    {
+      "album": {
         "name": "HONEY (ARE U COMING?)",
         "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
       },
@@ -12082,7 +12100,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 126143,
       "name": "Living in the '20s",
       "url": "https://open.spotify.com/track/7BL0Cr69HYGInkytQ3lAWj"
@@ -17061,6 +17079,44 @@
     },
     {
       "album": {
+        "name": "Root Of The Wu Tang",
+        "url": "https://open.spotify.com/album/6BjMnvRG4ilXfAIRiw1MgS"
+      },
+      "artists": [
+        {
+          "name": "Lama Beatz",
+          "url": "https://open.spotify.com/artist/4xXY3AI7etGeduOTzudWBB"
+        },
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Killah Priest",
+          "url": "https://open.spotify.com/artist/0JYmatsiEQMn2v5KchV8u2"
+        },
+        {
+          "name": "Cappadonna",
+          "url": "https://open.spotify.com/artist/0mEZ83UVaUccETjVSyGepG"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246315,
+      "name": "Root Of The Wu Tang",
+      "url": "https://open.spotify.com/track/6etHHIZVi0cgLFq4N02ihj"
+    },
+    {
+      "album": {
         "name": "Blood Money Part Zer0",
         "url": "https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt"
       },
@@ -21890,7 +21946,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 274098,
       "name": "V.A.N",
       "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Del Water Gap & Holly Humberstone
 
-1,751 songs - 3 day 20 hr 19 min
+1,752 songs - 3 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [ease your mind](https://open.spotify.com/track/4VA9yqBTQjjAZL4fQhlK9M) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [ease your mind](https://open.spotify.com/album/4wYxQMGyGCQn4L9i9MjxCR) | 2:52 | 2020-10-20 | 2020-10-21 |
 | [Easier To Lie](https://open.spotify.com/track/2oTYHOVAq3HcHvwb3a9L1j) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Easier To Lie](https://open.spotify.com/album/7fJTu9UzXo6UqAeZw8NIHP) | 2:38 | 2021-01-25 | 2021-10-09 |
 | [easy](https://open.spotify.com/track/1Tsx0p2tR01ygNRbHx8NZA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [easy](https://open.spotify.com/album/4d579OmXKgovYV9JhdaTyz) | 2:10 | 2022-11-04 | 2022-11-12 |
+| [EASY](https://open.spotify.com/track/04Dko7XP8nPEMfwIJFVpES) | [charlieeeee](https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [EASY](https://open.spotify.com/album/4XSsqfGgX7wHPubb2l61DI) | 3:14 | 2024-01-20 |  |
 | [Easy](https://open.spotify.com/track/2QZIrVL1RnFFrl3YuP6DiP) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Easy](https://open.spotify.com/album/70HeUV33B447KbycGdxC6D) | 3:17 | 2022-06-17 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/1fP3bbDuZBE2hiih9ZQhb1) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Easy](https://open.spotify.com/album/4mTRZFgxyEK6EZrC0P2yit) | 2:54 | 2021-02-24 | 2021-05-30 |
 | [Easy](https://open.spotify.com/track/3gwoz4xZuye0agjYgrC2je) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Easy](https://open.spotify.com/album/25bVTJuPSWiiwdxgjJGRUi) | 3:46 | 2020-10-16 | 2022-07-29 |
@@ -734,7 +735,7 @@
 | [I Believe](https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:07 | 2023-02-21 | 2023-07-29 |
 | [I Believe in You](https://open.spotify.com/track/0Ml7rd3x4n1CVqqqWa1OVj) | [more\*](https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i) | [I Believe in You](https://open.spotify.com/album/7r4vwcfdbzyR1L2tHugI6G) | 4:09 | 2022-06-17 | 2022-07-29 |
 | [I Believe In You \(feat\. Francis and The Lights\)](https://open.spotify.com/track/6RVfUzvTSESecF5ESmVRh8) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [I Believe In You \(feat\. Francis and The Lights\)](https://open.spotify.com/album/61bKlCe2mqLCWI24BFCA9k) | 3:35 | 2020-10-20 | 2021-05-28 |
-| [I Can't Get My Head Around You](https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:26 | 2023-03-24 |  |
+| [I Can't Get My Head Around You](https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:26 | 2023-03-24 | 2024-02-09 |
 | [I Can't Get My Head Around You](https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can't Get My Head Around You](https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e) | 3:26 | 2023-03-24 | 2023-04-10 |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2021-03-19 | 2021-05-05 |
 | [I Can’t Grow Up](https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [I Can't Grow Up](https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm) | 3:20 | 2022-10-21 | 2022-11-12 |

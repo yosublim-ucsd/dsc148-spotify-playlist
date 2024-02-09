@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-381 songs - 1 day 0 hr 7 min
+383 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Gold](https://open.spotify.com/track/1t3nMYYdEvbubaD5FMDglq) | [Marble Arch](https://open.spotify.com/artist/6Oy6CwwhQqijvzAjpkoazG) | [Gold](https://open.spotify.com/album/6EdZhElKoxn50sa83NFDIZ) | 4:50 | 2019-11-19\* | 2020-09-19 |
 | [Hang On](https://open.spotify.com/track/2DSxutganHw57vSdvmgjZt) | [Quicksilver Daydream](https://open.spotify.com/artist/7iqMkZYGHvYvfFexsXZrsL) | [Fly Oblivion](https://open.spotify.com/album/5NpTFT0dZpm5w2hcHhLcEG) | 2:59 | 2019-11-19\* | 2024-01-14 |
 | [Hang On](https://open.spotify.com/track/5g6PqhkeTyARGPROM5Gosp) | [Quicksilver Daydream](https://open.spotify.com/artist/7iqMkZYGHvYvfFexsXZrsL) | [Hang On](https://open.spotify.com/album/1hL39aGR9yHmhs39OO7w3y) | 2:59 | 2019-11-19\* | 2020-11-25 |
+| [Happy on Mars](https://open.spotify.com/track/5jgrg6367ewS0BgsP6eIgx) | [Carpark](https://open.spotify.com/artist/6wNKTp1adxnPYP5L3Vja3b) | [Happy on Mars](https://open.spotify.com/album/1y5S6U7FaBA73iGx1EdQQO) | 3:35 | 2024-02-09 |  |
 | [Heaven](https://open.spotify.com/track/1gczbgaCmw15h3ZG4awluK) | [Brothertiger](https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE) | [Heaven](https://open.spotify.com/album/12ehvPg4PDufuo4FhfAWgr) | 4:50 | 2021-09-23 | 2023-01-06 |
 | [Heavy Days](https://open.spotify.com/track/0nGmz6gDOZdRh0rYd623P9) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Heavy Days](https://open.spotify.com/album/5B2eSjpDpzAmIxfpGndPHe) | 3:47 | 2023-03-24 |  |
 | [Heavy Days](https://open.spotify.com/track/6Nr8U7LKb4B07ZTbXA1RbX) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Heavy Days](https://open.spotify.com/album/6qkZLHCIMcG8dFSWLTnteo) | 3:47 | 2021-09-23 | 2023-04-07 |
@@ -276,7 +277,7 @@
 | [Quite Like You](https://open.spotify.com/track/7B6jRQYFeJR4eUe2LBZfr4) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Quite Like You](https://open.spotify.com/album/5mja6AsqxnYjorZZ9eG77X) | 2:59 | 2024-01-26 |  |
 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 | 2023-03-24 |  |
 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 | 2020-09-19 |  |
-| [rest up](https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [rest up](https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue) | 3:24 | 2020-12-22 |  |
+| [rest up](https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [rest up](https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue) | 3:24 | 2020-12-22 | 2024-02-09 |
 | [Roll With The Punches](https://open.spotify.com/track/0R1NENmGu9tjHRq1S0bXX8) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 3:46 | 2022-07-06 |  |
 | [Roll with the Punches](https://open.spotify.com/track/0On15a5CZ9FJdlMIWrrZgm) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Roll with the Punches](https://open.spotify.com/album/6khdFMTakDvOnAqqHCdRxA) | 3:51 | 2020-12-22 | 2022-07-29 |
 | [Run](https://open.spotify.com/track/0nxv9drRoW2CqfCGzpjfKi) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Besides](https://open.spotify.com/album/6PV6OH3PUa0BwkpquBZJnm) | 3:34 | 2021-03-06 | 2022-04-21 |
@@ -320,6 +321,7 @@
 | [Space Between Us](https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Space Between Us](https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8) | 3:59 | 2021-12-22 |  |
 | [Starboard Square](https://open.spotify.com/track/3QNkkruVrn8sXLicRKg6P9) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Sycco 1/2](https://open.spotify.com/album/4itVCsufn0Vziz0lQph2j5) | 3:35 | 2019-11-19\* | 2020-08-09 |
 | [Stay And Rest For A While](https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Stay And Rest For A While](https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL) | 2:53 | 2020-09-19 |  |
+| [Studio 54](https://open.spotify.com/track/3mxvUliPDlHWk9kCVRjwNJ) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Studio 54](https://open.spotify.com/album/0eP9LS0GwxgVtSuJBkEf67) | 3:14 | 2024-02-09 |  |
 | [Suddenly](https://open.spotify.com/track/14IN2apSi57uPG9hAC8kfL) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Suddenly](https://open.spotify.com/album/5FIsJmUeD5KVcc4aMOqkEh) | 4:10 | 2019-11-19\* | 2020-12-22 |
 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2021-09-02 | 2023-12-17 |
 | [Sugar](https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP) | 2:56 | 2023-07-21 |  |
@@ -379,7 +381,7 @@
 | [Wrong At Last](https://open.spotify.com/track/3bseWERc5aydzlM6B9o7bp) | [Melpo Mene](https://open.spotify.com/artist/6Ur5BsJW8sUICtONqIqfwj) | [Wrong At Last](https://open.spotify.com/album/2Ss6Lv2PF0RvhdfJE2PGzC) | 3:28 | 2021-03-29 | 2022-06-19 |
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2022-07-06 |  |
 | [YKWIM?](https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w) | 3:32 | 2021-03-26 | 2022-06-14 |
-| [You and Me](https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [You and Me](https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ) | 3:45 | 2021-02-26 |  |
+| [You and Me](https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [You and Me](https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ) | 3:45 | 2021-02-26 | 2024-02-09 |
 | [You Were Bored](https://open.spotify.com/track/5BIWF6L3DnPkcuEuZmLHDz) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [You Were Bored](https://open.spotify.com/album/6N35D3J6BIw7ulHo6mrzkj) | 4:23 | 2020-07-31 | 2021-03-06 |
 | [You'd Be Mine](https://open.spotify.com/track/3bcrlAFw712dO397aCAmle) | [Boshe](https://open.spotify.com/artist/2qFtSSi6zc8jGg8P1CXyAl), [Sam Shaw](https://open.spotify.com/artist/0BmKEHacAbCKmzCGvwZ2sw) | [You'd Be Mine](https://open.spotify.com/album/2vrqOyI5qUVebBhVhiajE0) | 2:59 | 2021-02-06 | 2022-07-27 |
 | [You're Lookin' at My Guy](https://open.spotify.com/track/2f2gL9OPgMnW8ogzU3w6xa) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [You're Lookin' at My Guy](https://open.spotify.com/album/0j2euZ9XdjyniLdvaZBuq3) | 2:54 | 2020-08-09 | 2021-02-26 |

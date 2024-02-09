@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 819376,
+  "num_followers": 819912,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzMwNGFiODMxNzViZDZmZmY0NThiNjFkNjk5OWEyNWU3YTM2OGRk",
+  "snapshot_id": "MCwwOWMzM2ZhNzg5NTAzMDZlN2FhMjUxMzlhY2QyYjRhMWVhNjQzNWE1",
   "tracks": [
     {
       "added_at": "2023-07-03 13:15:34",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Kiss It Better (Dance Remix)",
+        "url": "https://open.spotify.com/album/0S5abZEIJQhjcKcyFvHhp4"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Kiss It Better - R3hab Remix",
+      "url": "https://open.spotify.com/track/2f7HKQh8zptKYnO6aIhErl"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 162081,
       "name": "Beautiful People (feat. Khalid) - NOTD Remix",
       "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Kiss It Better (Dance Remix)",
-        "url": "https://open.spotify.com/album/0S5abZEIJQhjcKcyFvHhp4"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Kiss It Better - R3hab Remix",
-      "url": "https://open.spotify.com/track/2f7HKQh8zptKYnO6aIhErl"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1091,22 +1091,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Faded (Remixes)",
-        "url": "https://open.spotify.com/album/1iyzvyJg2grVy8cMdRSL08"
+        "name": "Kings & Queens (The Remixes)",
+        "url": "https://open.spotify.com/album/5LHvfHjTwvVNSgZsi3QHxT"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
         }
       ],
-      "duration_ms": 250280,
-      "name": "Faded - Tiesto's Northern Lights Remix",
-      "url": "https://open.spotify.com/track/7MDobIiZKLbDDibHDA1fl8"
+      "duration_ms": 180952,
+      "name": "Kings & Queens - MOTi Remix",
+      "url": "https://open.spotify.com/track/31LLpb0q1phhd3sRxIsdLz"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1135,22 +1135,42 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Kings & Queens (The Remixes)",
-        "url": "https://open.spotify.com/album/5LHvfHjTwvVNSgZsi3QHxT"
+        "name": "Faded (Remixes)",
+        "url": "https://open.spotify.com/album/1iyzvyJg2grVy8cMdRSL08"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 180952,
-      "name": "Kings & Queens - MOTi Remix",
-      "url": "https://open.spotify.com/track/31LLpb0q1phhd3sRxIsdLz"
+      "duration_ms": 250280,
+      "name": "Faded - Tiesto's Northern Lights Remix",
+      "url": "https://open.spotify.com/track/7MDobIiZKLbDDibHDA1fl8"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "If I Can't Have You (Gryffin Remix)",
+        "url": "https://open.spotify.com/album/4QxzbfSsVryEQwvPFEV5Iu"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "duration_ms": 253040,
+      "name": "If I Can't Have You - Gryffin Remix",
+      "url": "https://open.spotify.com/track/1IXGILkPm0tOCNeq00kCPa"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1175,26 +1195,6 @@
       "duration_ms": 155840,
       "name": "Let Me Love You - Ti\u00ebsto's AFTR:HRS Mix",
       "url": "https://open.spotify.com/track/7srwQKnqYsIY26Aatbazaq"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "If I Can't Have You (Gryffin Remix)",
-        "url": "https://open.spotify.com/album/4QxzbfSsVryEQwvPFEV5Iu"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        }
-      ],
-      "duration_ms": 253040,
-      "name": "If I Can't Have You - Gryffin Remix",
-      "url": "https://open.spotify.com/track/1IXGILkPm0tOCNeq00kCPa"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Castles (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/6ruvuVGAWDMD94djRnP7Mh"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Castles - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Youngblood (R3HAB Remix)",
         "url": "https://open.spotify.com/album/2RMSI4zHlR5bSVuFnOr9MH"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 150528,
       "name": "Youngblood - R3HAB Remix",
       "url": "https://open.spotify.com/track/2vIzH4NfFGoJHA5rn1dFWT"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Castles (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/6ruvuVGAWDMD94djRnP7Mh"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Castles - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -2143,26 +2143,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Ruin My Life (Remixes)",
-        "url": "https://open.spotify.com/album/6rWRg6yLGcLdG0IRaCB9LN"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Steve James",
-          "url": "https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY"
-        }
-      ],
-      "duration_ms": 177096,
-      "name": "Ruin My Life - Steve James Remix",
-      "url": "https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Lose Control (The Remixes, Pt. 2)",
         "url": "https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX"
       },
@@ -2191,6 +2171,26 @@
       "duration_ms": 207021,
       "name": "Lose Control - ChildsPlay & Badd Dimes Remix",
       "url": "https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Ruin My Life (Remixes)",
+        "url": "https://open.spotify.com/album/6rWRg6yLGcLdG0IRaCB9LN"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Steve James",
+          "url": "https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY"
+        }
+      ],
+      "duration_ms": 177096,
+      "name": "Ruin My Life - Steve James Remix",
+      "url": "https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7"
     }
   ],
   "unique_name": "Remix Hits",

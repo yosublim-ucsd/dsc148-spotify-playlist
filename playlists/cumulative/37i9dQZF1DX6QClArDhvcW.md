@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-493 songs - 18 hr 39 min
+496 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Breeze 52](https://open.spotify.com/track/0rNTOI1K11CSPTj3dvq1tU) | [Pluto Tracks](https://open.spotify.com/artist/1JFmZ9XvgZnVttQHe8RSj1) | [Breeze 52](https://open.spotify.com/album/1qRVaci6Oqo43ssMt88MwZ) | 1:58 | 2022-05-20 |  |
 | [bulb](https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bulb](https://open.spotify.com/album/6oBfJtYLWBE3f3fY8dK7Pl) | 2:05 | 2022-05-20 | 2023-09-08 |
 | [BUREAU](https://open.spotify.com/track/1G2S9S4zkyjWZ4o7UFxKEN) | [C L A E S](https://open.spotify.com/artist/7l7padJSxJNVmAgHnrvo7E) | [BUREAU](https://open.spotify.com/album/3wm25SygTk8pNHDEcW5zF2) | 1:16 | 2023-01-06 |  |
+| [cabin weather](https://open.spotify.com/track/0gDrjkBGC61kkPHJhKyctN) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [cabin weather](https://open.spotify.com/album/0O0oH4FTGiqwi3Z0PhD1KL) | 2:57 | 2024-02-09 |  |
 | [Calm Place](https://open.spotify.com/track/5jMaiafNplK9eO77RGlGeF) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Calm Place](https://open.spotify.com/album/1teYIUuYhKfTE2i3GiWUZb) | 2:40 | 2023-04-20 | 2023-11-24 |
 | [camping trip](https://open.spotify.com/track/1SadNNfKugUYlaXTZO9g7c) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [camping trip](https://open.spotify.com/album/3lnVeBLRm0cAmHwiAZt5yI) | 2:39 | 2024-01-19 |  |
 | [Candy](https://open.spotify.com/track/6JD16eoMFjKNU9OVmSL2eq) | [Ada Vula](https://open.spotify.com/artist/79KlmpJEbaL2Eif2lceNLv) | [Candy](https://open.spotify.com/album/38oI19U6Dm87afeEMF5f9N) | 1:46 | 2022-09-02 |  |
@@ -198,6 +199,7 @@
 | [In His Hands](https://open.spotify.com/track/5QuVkuYILtBdcwURWDF3xw) | [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd) | [In His Hands](https://open.spotify.com/album/7raff7KIazUqJcxIOZttP2) | 3:52 | 2023-02-24 | 2023-09-22 |
 | [In His Hands](https://open.spotify.com/track/5c0x1OUR0CxdrkuYTVruvB) | [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd) | [In His Hands](https://open.spotify.com/album/0hkZvsnTjDDHH7tMzeTKTy) | 3:52 | 2022-11-11 | 2023-03-02 |
 | [in the blink of an eye](https://open.spotify.com/track/5MBfOXuYBd43bQseqvL2yo) | [Summer Clarke](https://open.spotify.com/artist/5VJreBDjx8zamtY3YyZyMr) | [in the blink of an eye](https://open.spotify.com/album/1ckuvr9YJHuv0IleVxJLkd) | 2:27 | 2022-05-20 | 2022-10-29 |
+| [in the shadows](https://open.spotify.com/track/26Wu26lCBd5Pf5bMyhlDPP) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [in the shadows](https://open.spotify.com/album/1aJZsbwArORSxptMMAsksU) | 2:29 | 2024-02-09 |  |
 | [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 | 2023-10-20 |  |
 | [Indigo](https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Indigo](https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair) | 2:14 | 2023-09-22 |  |
 | [Inside](https://open.spotify.com/track/0DiDjssgoqdmowJ73cjaw7) | [bripp](https://open.spotify.com/artist/0d3thvBL4aAaPp5bFuHfrt) | [Inside](https://open.spotify.com/album/1RY9NbBgLH23EQ15LI08lu) | 2:27 | 2023-07-17 |  |
@@ -421,6 +423,7 @@
 | [Take\-Off](https://open.spotify.com/track/43cjyflvrThmrtUxb4AhGd) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [Ferge](https://open.spotify.com/artist/0U1ooChssjTDk8BMTYEfHy) | [Take\-Off](https://open.spotify.com/album/1U0n6WwRKpDDqhrGiRJi4A) | 1:45 | 2023-06-09 | 2023-11-17 |
 | [Tall Grass](https://open.spotify.com/track/2EQkLsBElVQZU35xdsTr45) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Tall Grass](https://open.spotify.com/album/0693VKyfsOAqKY6MXJAPbn) | 2:06 | 2022-05-20 |  |
 | [Tea Tree](https://open.spotify.com/track/55mpA2gpXm8lnifAvhGmro) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Tea Tree](https://open.spotify.com/album/1KHbsf2RfIBpoWAqLgudbU) | 2:04 | 2022-05-20 |  |
+| [Tender Times](https://open.spotify.com/track/6ctX10iWWXVvTM4vOnXAwc) | [Chuttersnap](https://open.spotify.com/artist/3AMiRynEiWSUzZ5yNkV4ku) | [Tender Times](https://open.spotify.com/album/1ej8XQjJ9AxClxwCqyIZZp) | 2:41 | 2024-02-09 |  |
 | [That was Almost Real](https://open.spotify.com/track/4SDUbFWAMTFvrM4ze8HSo2) | [JIM](https://open.spotify.com/artist/6Oe3h56XEcbobLLuyIyCNQ) | [Dream](https://open.spotify.com/album/3yJjpqy1CDNTFSZwSyiRII) | 2:22 | 2023-06-09 | 2023-12-22 |
 | [the clearing](https://open.spotify.com/track/3oY2RXnYoPhtf6r552KfbN) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [the clearing](https://open.spotify.com/album/4KtXivGbPCcyyzs8mb54CJ) | 2:28 | 2023-11-24 |  |
 | [The Daily News](https://open.spotify.com/track/3CFE8CIX6xG52LolmQWUEt) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [The Daily News](https://open.spotify.com/album/5bfuQMLLbJoryVcNEbplt5) | 1:14 | 2022-05-20 |  |

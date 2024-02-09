@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=pphLIMmRTsC8V3YEt4oJ8A">Brendan Peyper</a>
+> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ?si=cCiw0omDSEiNWZ77Alp6cA">Bok Van Blerk</a>  & <a href="https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx?si=TUbo2rQPRaC6MibVMaRoLg">Bernice West</a>
 
 193 songs - 10 hr 47 min
 

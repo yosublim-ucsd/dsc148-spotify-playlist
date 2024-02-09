@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 黒子首\(Hockrockb\)
 
-1,445 songs - 3 day 18 hr 33 min
+1,446 songs - 3 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,13 +512,14 @@
 | [Radio Star](https://open.spotify.com/track/1YeYZVR8zjv8K7iABHP6sD) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Radio Star](https://open.spotify.com/album/3Og5gta9zMnchjl4FX1RIe) | 3:02 | 2022-12-07 | 2022-12-08 |
 | [Radio Star](https://open.spotify.com/track/6sBKJKgBllikmmtVIVWOyN) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Radio Star](https://open.spotify.com/album/1YwAZ2D2cjHApWSZcAeXON) | 3:02 | 2022-12-08 | 2023-01-11 |
 | [rainy](https://open.spotify.com/track/7Hjyszt5KtLywfswsmkXeA) | [LIGHTERS](https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq) | [rainy](https://open.spotify.com/album/4H6V1w7bBvx3hfz9pJ4Lhk) | 2:26 | 2022-11-15 | 2022-12-07 |
+| [Rainy day](https://open.spotify.com/track/3H0g8NGWRURyaTrmqK3wg2) | [レイラ](https://open.spotify.com/artist/1q6rCB21jRvn4eofLLuWOf) | [つづく](https://open.spotify.com/album/66RmXSah1dTWy5of0GzZpj) | 3:16 | 2024-02-08 |  |
 | [rainy rainy rainy blues](https://open.spotify.com/track/5VAwJOVU4TvBKOUFzDJSGR) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [KOE](https://open.spotify.com/album/0GaqQrJcL8TAPuOckmcPqs) | 5:20 | 2022-06-02 | 2022-07-28 |
 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 | 2023-08-08 |  |
 | [Rasenkaidan](https://open.spotify.com/track/6jOcB5lgSOYafLshylJaKU) | [School Girls End](https://open.spotify.com/artist/4vcyluVTBX2nluJwETsRMZ) | [Lawliet](https://open.spotify.com/album/1ITyr5uxFH8tVB5fE1ufax) | 2:43 | 2023-09-26 | 2023-10-04 |
 | [re:call](https://open.spotify.com/track/3z1jobirQVRmajrMRHClhj) | [ЯeaL](https://open.spotify.com/artist/3kcuGX6Jv5AOsJQTQGxoYL) | [re:call](https://open.spotify.com/album/0jn1VyhIkwDJq4sgttjgDO) | 3:35 | 2022-11-03 | 2022-11-09 |
 | [Re:Paint of the \[Heart:Hurt\]](https://open.spotify.com/track/00xKBZWtQNKMQAOJtgjonF) | [WAGAMAMA RAKIA](https://open.spotify.com/artist/0bnpBtGlXC8mn5fGHokarD) | [Re:Paint of the \[Heart:Hurt\]](https://open.spotify.com/album/3F2tCXRTlgNkgwzgDD1lY8) | 4:02 | 2023-10-17 | 2023-10-25 |
 | [Re:Paint of the \[Heart:Hurt\]](https://open.spotify.com/track/4ChUoyQOGK7osFEEk16Dj9) | [WAGAMAMA RAKIA](https://open.spotify.com/artist/0bnpBtGlXC8mn5fGHokarD) | [Re:Paint of the \[Heart:Hurt\]](https://open.spotify.com/album/5fXq7ApWzkbCN6X0xXiE1y) | 4:02 | 2023-10-17 | 2023-10-19 |
-| [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 | 2022-10-04 |  |
+| [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 | 2022-10-04 | 2024-02-09 |
 | [RED](https://open.spotify.com/track/1jWFyVDcJMsrJhOvSCZpLo) | [EOW](https://open.spotify.com/artist/3hufeT9qrBonKU5iZxAeHI) | [RED](https://open.spotify.com/album/6PqoriDdo4acuaWOEw6xgu) | 4:03 | 2022-06-07 | 2022-06-11 |
 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 | 2023-04-11 |  |
 | [rise](https://open.spotify.com/track/5qsfuw2YP4ZuoN3JLRafnY) | [yardlands](https://open.spotify.com/artist/7ebpEJGpj5bIAqlVylWOHf) | [rise](https://open.spotify.com/album/0000xgAyMIZGsrpj9zEbbp) | 4:20 | 2022-06-07 | 2022-07-15 |

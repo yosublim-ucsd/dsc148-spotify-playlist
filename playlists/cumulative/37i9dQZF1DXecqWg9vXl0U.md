@@ -4,7 +4,7 @@
 
 > como en una nube\. Bedroom pop vibes featuring ke onda.
 
-298 songs - 16 hr 15 min
+299 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [QUIERO, QUIERO](https://open.spotify.com/track/5wyOGr2lqSIGJHDF6p9Rb3) | [dieglitter](https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg) | [QUIERO, QUIERO](https://open.spotify.com/album/5Y2GCdDTnHzFDYaGBk0VSg) | 2:03 | 2023-05-26 | 2023-06-17 |
 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 | 2023-02-24 |  |
 | [Qué me vas a contar](https://open.spotify.com/track/06Uhw7KLSBqAJqYy2fdjiN) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI), [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Qué me vas a contar](https://open.spotify.com/album/1a1WTsbfOeGHCOXPqMahQv) | 2:45 | 2022-03-25 | 2022-10-15 |
-| [Qué tal? Yo igual](https://open.spotify.com/track/2dgy7SSevw96MA0wDmdXp3) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Qué tal? Yo igual](https://open.spotify.com/album/3bmRq543so0ogJaFvSlIT6) | 3:05 | 2023-07-07 |  |
+| [Qué tal? Yo igual](https://open.spotify.com/track/2dgy7SSevw96MA0wDmdXp3) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Qué tal? Yo igual](https://open.spotify.com/album/3bmRq543so0ogJaFvSlIT6) | 3:05 | 2023-07-07 | 2024-02-09 |
 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 | 2023-03-31 |  |
 | [Realidad](https://open.spotify.com/track/55mKDXgmHh9zhtWmTJbIzI) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Realidad](https://open.spotify.com/album/3mUJ4dvBB1ClRg0MrnyEZO) | 3:01 | 2022-03-25 | 2022-07-28 |
 | [reina de primavera](https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [reina de primavera](https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y) | 4:05 | 2023-03-31 | 2023-05-06 |
@@ -286,6 +286,7 @@
 | [Veintidós](https://open.spotify.com/track/4rkbz2urwX685ssmVPmaoV) | [Casster](https://open.spotify.com/artist/46gSZfO9YHEQKTpKWrphhT) | [Veintidós](https://open.spotify.com/album/0qv7DYr1gbBZfpfnUH478t) | 3:11 | 2022-04-22 | 2022-07-17 |
 | [Ver a Través de tus Ojos](https://open.spotify.com/track/1vyqlRBQeFFfbL1l6d43yD) | [Estrella del Sol](https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Ver a Través de tus Ojos](https://open.spotify.com/album/3LyFxQOJRwWCzhHjqp4fHL) | 2:40 | 2023-05-19 | 2024-01-07 |
 | [Verde Artificial](https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Verde Artificial](https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF) | 4:04 | 2022-08-26 | 2022-11-01 |
+| [VHS](https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Retrofuturismo](https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O) | 2:56 | 2023-09-26 |  |
 | [VHS](https://open.spotify.com/track/52ZfbvmXKtfqGI7QsvGI5f) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Retrofuturismo](https://open.spotify.com/album/195qXbTqKUcqkIJnddV2yK) | 2:56 | 2023-09-26 | 2024-01-25 |
 | [VHS](https://open.spotify.com/track/4k34WNz27uYpifsREylsyx) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [VHS](https://open.spotify.com/album/4zeUUiheZ60pYMbZ7rDtwI) | 2:56 | 2023-05-05 | 2024-01-20 |
 | [vives en mi cabeza](https://open.spotify.com/track/4hcjkvNqmihEbPVlji1PfE) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS) | [vives en mi cabeza](https://open.spotify.com/album/1ATwRmNspeU6ek37qJpVKh) | 3:44 | 2023-05-26 | 2023-06-17 |

@@ -2,7 +2,7 @@
 
 ### [Road Trip To Tokyo](https://open.spotify.com/playlist/37i9dQZF1DWV8IND7NkP2W)
 
-> The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
+> The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
 711 songs - 1 day 8 hr 1 min
 

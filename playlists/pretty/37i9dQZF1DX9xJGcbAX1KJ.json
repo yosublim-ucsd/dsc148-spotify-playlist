@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 17008,
+  "num_followers": 17015,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTk1MGFhZjA2N2E3ODIyMmE0YjFmODkyZTAzN2FjZjExNjNjMTc0",
+  "snapshot_id": "MCxlNTVlNDI2Y2Q1OTEwMGEzY2RkMjk4Y2FmMTM2NjZhYzgzNTdjZDQ5",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -107,22 +107,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 170216,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -543,22 +543,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "If I Was (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "I'm on Fire",
-      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Another Bundle of Tantrums",
         "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 247816,
       "name": "Rather Be",
       "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "If I Was (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "I'm on Fire",
+      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -727,18 +727,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Electric Feel",
-        "url": "https://open.spotify.com/album/1lki2iEbNgVFSq0VgH8C7L"
+        "name": "Every Breath You Take",
+        "url": "https://open.spotify.com/album/4RkkQtMpaSid30o3fieIlH"
       },
       "artists": [
         {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+          "name": "Aaron Krause",
+          "url": "https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a"
+        },
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
         }
       ],
-      "duration_ms": 199653,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/4ImkB7exKgLcZ8sYH4K9oW"
+      "duration_ms": 223893,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/5xvAGovFqj41SyAinwvwVV"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -763,22 +767,18 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Every Breath You Take",
-        "url": "https://open.spotify.com/album/4RkkQtMpaSid30o3fieIlH"
+        "name": "Electric Feel",
+        "url": "https://open.spotify.com/album/1lki2iEbNgVFSq0VgH8C7L"
       },
       "artists": [
         {
-          "name": "Aaron Krause",
-          "url": "https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a"
-        },
-        {
-          "name": "Liza Anne",
-          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
         }
       ],
-      "duration_ms": 223893,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/5xvAGovFqj41SyAinwvwVV"
+      "duration_ms": 199653,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/4ImkB7exKgLcZ8sYH4K9oW"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -815,22 +815,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/6RFSLPW06Z3yjzewDi6oiA"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 234135,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/3TiWLK8KWhklkau2hVxBif"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 194129,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/6RFSLPW06Z3yjzewDi6oiA"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 234135,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/3TiWLK8KWhklkau2hVxBif"
     }
   ],
   "unique_name": "Under the Covers",

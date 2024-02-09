@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGLWeeMNGcG.md) - [plain]
 
 > From the past to the present, soul music has evolved into many different sounds and Motown has been at the forefront.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,255 likes - 31 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,294 likes - 31 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGLWeeMNGcG.md) - [plain]
 | 30 | [Angel](https://open.spotify.com/track/5zsqV7VwDz2gRnALIpTaP1) | [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [BEcoming](https://open.spotify.com/album/49eOVYOGoUjNjgyplB6JJF) | 3:05 |
 | 31 | [Don't Go](https://open.spotify.com/track/11ZPIe8MUvf8yXEWS1vNQZ) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Long Song Away](https://open.spotify.com/album/3Yluqlq1TaCXXTf52WskES) | 3:01 |
 
-Snapshot ID: `MCxmOTY2YTE2ZDQ4ZWFkZmM1ODdiMTFkOTVhMWNmN2M3ZTFiODgwNjg4`
+Snapshot ID: `MCwwNjM5Y2IwNTFiNDk4OTg5YTc5ZjIwYzhmODAyNjBiZjQ5NDU5ZTNl`

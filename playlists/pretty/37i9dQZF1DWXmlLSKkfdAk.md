@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,704,280 likes - 150 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,704,174 likes - 150 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 24 | [Sway](https://open.spotify.com/track/6lds2JtXd2CT4STg8zgl1P) | [Jake & Shelby](https://open.spotify.com/artist/0JdBmLuhVC8l8dE7f0rVjS) | [Sway](https://open.spotify.com/album/2wZKW8SsFWfxM4H9QYuHqq) | 2:27 |
 | 25 | [Here Comes the Sun \(Acoustic\)](https://open.spotify.com/track/3lPwqo8FXnhtEtlNINtySb) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Here Comes the Sun \(Acoustic\)](https://open.spotify.com/album/1NfFY21rAHnQkWY7cy8rEw) | 3:08 |
 | 26 | [That Funny Feeling](https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [That Funny Feeling](https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr) | 6:40 |
-| 27 | [Don't Dream It's Over](https://open.spotify.com/track/6irzQ68l0WZxY4SHMAZSK9) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Don't Dream It's Over](https://open.spotify.com/album/7gCk3DHHivlyObqAfOwPGH) | 3:52 |
+| 27 | [Don't Dream It's Over](https://open.spotify.com/track/6UPaUWgjbo5Xp76GWh7Aic) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Don't Dream It's Over](https://open.spotify.com/album/2BKhqVTBpYxGCvfG5P8LJd) | 3:52 |
 | 28 | [The Night We Met](https://open.spotify.com/track/4XgSJltrqGvZQaiUpcgfOi) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm), [Hope Morgan](https://open.spotify.com/artist/6PP1a619tR9xW3lHqSMmm5) | [The Night We Met](https://open.spotify.com/album/57M1iqr3AzXL4lobiMYUmi) | 3:58 |
 | 29 | [Moon River](https://open.spotify.com/track/13OUuQ24CKyR78aozd703T) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Moon River](https://open.spotify.com/album/5PjlCsVAEtcoxSD7fDPnK0) | 2:37 |
 | 30 | [Dancing in the Dark](https://open.spotify.com/track/3IDYyNRmL5npjqm3x6fqjQ) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Blood & Rust](https://open.spotify.com/album/1FloGVX6YhHXEKWlnFGder) | 3:59 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 149 | [As Long as You Love Me](https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [As Long as You Love Me](https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1) | 2:31 |
 | 150 | [Chasing Cars](https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Chasing Cars](https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj) | 4:28 |
 
-Snapshot ID: `MCw2ZDZkMjlmZmNhZmU1NDQzYzMyZmFmMDQ4ZWM0NWM5NzAxYTEzNWY1`
+Snapshot ID: `MCw3M2FmZjg3NDkwOGQyMjlmYTgwNzJjNmViOWVhMzVhZjNiZmNkZDI4`

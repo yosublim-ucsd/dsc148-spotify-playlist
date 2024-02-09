@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSZlCPJ6VZl.md) - [plain]
 
 > Deep brown noise sleep frequencies to beat insomnia and help you sleep all night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,411 likes - 160 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,414 likes - 160 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSZlCPJ6VZl.md) - [plain]
 | 23 | [Focused By The Brown Noise](https://open.spotify.com/track/6KEZNs5EufCISwyvunRcQN) | [The BD Noise Maker](https://open.spotify.com/artist/5WPKIg5kP6Ov7DrSGCqj2H) | [Focused By The Brown Noise](https://open.spotify.com/album/6NV60XtdX0RczFx7uA4lso) | 2:48 |
 | 24 | [Brown Noise Sleep Frequencies](https://open.spotify.com/track/7sJSTQUO2PiiPP26a4G9yf) | [Brown Noise Studio](https://open.spotify.com/artist/7npBnBvj7J6RrSFJfDLBiA) | [Chill Brown Noise for my Ears](https://open.spotify.com/album/6BuAXSNxzUVVxEwILc71Yc) | 3:47 |
 | 25 | [Dark Brown Noise 165 Hz F](https://open.spotify.com/track/00gU2jShkz0Eb2TyYDNHc1) | [Trambiendo](https://open.spotify.com/artist/6qZ7HA1esDKoWoUeyFtQsV) | [Ocean Dark](https://open.spotify.com/album/7qyRUKT0JWlQaYPiyU0Iad) | 2:54 |
-| 26 | [Flowing Brown Noise](https://open.spotify.com/track/5ag378877iTMpPf8W4c2WC) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
+| 26 | [Flowing Brown Noise](https://open.spotify.com/track/5ag378877iTMpPf8W4c2WC) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
 | 27 | [System of the Brown](https://open.spotify.com/track/1TkF4HShZuCKCV4IwNBxh5) | [Amelia Grey](https://open.spotify.com/artist/7wHdo2ARw22e933IOeebSY) | [System of the Brown](https://open.spotify.com/album/0vyY0jEYilQXGR4Et3EcAc) | 3:08 |
 | 28 | [Brown Bliss 190 Hz](https://open.spotify.com/track/1ziJYQN5A3QNvkAhWw31Do) | [Ambient Newton](https://open.spotify.com/artist/6TalusfpNttE4ezxrf9VeF) | [Brown Bliss](https://open.spotify.com/album/1SO6AHP2ZWkkfvxuEoDT78) | 3:01 |
 | 29 | [Brown Noise Mountain Retreat](https://open.spotify.com/track/4iFQvptoNdnWlOKxR0IdeV) | [Dreams Made](https://open.spotify.com/artist/0hGBfohzgZXOnLuYHG9CQ0) | [Brown Noise Tranquil Sounds](https://open.spotify.com/album/6JMD1xSSfI9LXEYwIeHuC9) | 2:21 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSZlCPJ6VZl.md) - [plain]
 | 80 | [Brown Noise Stream](https://open.spotify.com/track/1inr8IQFXA1am26upyEnSB) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [Brown Noise Stream](https://open.spotify.com/album/1MVMJYj22Jd7qwQC1blZ2q) | 3:36 |
 | 81 | [Brown Noise for Focus](https://open.spotify.com/track/4xlTUcei9W5yrmUqYcZccO) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Brown Noise for Focus](https://open.spotify.com/album/6mWJo4K18ceBw2sQ77sykB) | 3:33 |
 | 82 | [Brown Cozy Noise \- Seamless](https://open.spotify.com/track/00N4DgM8so0Pn1Pdb0m9Kc) | [Aileron](https://open.spotify.com/artist/2KETNse3N25ZwsHhq2iQnt) | [Brown Cozy Noise](https://open.spotify.com/album/3w4ELmY4aGFZKyNGO1BfZ9) | 2:55 |
-| 83 | [Lo\-Air 200 Hz](https://open.spotify.com/track/0ugO16i5v9dKCO5g5S5itQ) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
+| 83 | [Lo\-Air 200 Hz](https://open.spotify.com/track/0ugO16i5v9dKCO5g5S5itQ) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
 | 84 | [Brown Comfort](https://open.spotify.com/track/1JKDKAkLK2lqKJC68TbOxT) | [True White](https://open.spotify.com/artist/5vhaG8WchlssMkNH1VefUl) | [Brown Comfort](https://open.spotify.com/album/3E10zcfQkAdmeEpVhkEs3t) | 3:38 |
 | 85 | [Calm and Steady Brown Noise](https://open.spotify.com/track/0yeaaO4hzuiufuGIeuVCVK) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Steady Brown Noise Sounds](https://open.spotify.com/album/10TlukHJ5eYF7eftTzFi4D) | 3:16 |
 | 86 | [Brown Noise Serenity](https://open.spotify.com/track/5lXnIyKXamcJ58LGCDLlTW) | [Trap Of Sounds](https://open.spotify.com/artist/64RIcJtRLemOOUbQTx00OW) | [Brown Noise Serenity](https://open.spotify.com/album/4NfroK1OlyPx9NVAEGLEM9) | 2:21 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSZlCPJ6VZl.md) - [plain]
 | 159 | [Gentle Brown Noise](https://open.spotify.com/track/7eUnAxzGBkSJQsBXWcteP4) | [LLQ](https://open.spotify.com/artist/13CjCoUFyOddR0P1xCviSc) | [Smooth Brown Noise](https://open.spotify.com/album/35Of2eJpGiFZFd1tVNDTxh) | 2:31 |
 | 160 | [Tranquil Brown Noise](https://open.spotify.com/track/7hK8bkwAxflv468WkaeyUs) | [Noise Eternity](https://open.spotify.com/artist/0BMo2rAO5oSO9aSnjumKOD) | [Tranquil Brown Noise](https://open.spotify.com/album/0VSQtAxsuUSEKmIfQnPhbD) | 2:58 |
 
-Snapshot ID: `MCwwYjFkY2Q5ZjIzMmRlZmU2ZGMyY2IxMzQ2MTRiMzk2M2ZhMjE4MjQ3`
+Snapshot ID: `MCw2NTZlMTI5ODIwNzEyMzQzNDQwNzNjYmM2OTUyYTljODU0MmRkZGNh`

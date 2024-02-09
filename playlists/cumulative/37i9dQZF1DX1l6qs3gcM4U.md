@@ -2,7 +2,7 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Damásio Brothers.
+> Fall in love with the sensual sounds of Kizomba! Cover: Yasmine & Neyna.
 
 344 songs - 20 hr 32 min
 

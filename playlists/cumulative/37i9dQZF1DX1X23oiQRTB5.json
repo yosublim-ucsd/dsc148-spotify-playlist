@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Gazo x Tiakola au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "Jul au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "3 MAI 2025",
+        "url": "https://open.spotify.com/album/0d8htTTZxOtwNGLB3wg3KG"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166143,
+      "name": "3 MAI 2025",
+      "url": "https://open.spotify.com/track/4DgjfqlglUMebNAekQ0uQT"
+    },
+    {
+      "album": {
         "name": "3 singes",
         "url": "https://open.spotify.com/album/1zyctO1OPYpG3lMmbFWaLO"
       },
@@ -140,6 +158,24 @@
       "duration_ms": 167613,
       "name": "44",
       "url": "https://open.spotify.com/track/1zmXVf6lCsdVRWRetxauFG"
+    },
+    {
+      "album": {
+        "name": "6G",
+        "url": "https://open.spotify.com/album/54LK6dIRTx4gRYznkLdjzt"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "6G",
+      "url": "https://open.spotify.com/track/4MsOD2fBtHHIyyKY4acddP"
     },
     {
       "album": {
@@ -522,7 +558,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 176746,
       "name": "Bolide allemand",
       "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
@@ -544,7 +580,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 136711,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw"
@@ -1112,7 +1148,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 183013,
       "name": "Demain",
       "url": "https://open.spotify.com/track/66TAAKeoOD0cFpVRug9IXZ"
@@ -1738,7 +1774,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 273278,
       "name": "Gaza",
       "url": "https://open.spotify.com/track/2e6LkWTmEDqlUmODfIpZsb"
@@ -2142,7 +2178,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 159573,
       "name": "Jolie (feat. Ninho)",
       "url": "https://open.spotify.com/track/16FTTvpIgihyei3EBNw1jd"
@@ -2280,6 +2316,28 @@
       "duration_ms": 170078,
       "name": "La 15 (GSXR)",
       "url": "https://open.spotify.com/track/5KANzscJcnk2n4CvtTOiZU"
+    },
+    {
+      "album": {
+        "name": "La Cour des Miracles",
+        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
+      },
+      "artists": [
+        {
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
+        },
+        {
+          "name": "Nekfeu",
+          "url": "https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190813,
+      "name": "La Cour des Miracles",
+      "url": "https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ"
     },
     {
       "album": {
@@ -3013,6 +3071,24 @@
     },
     {
       "album": {
+        "name": "Chambre 140 (Part.2)",
+        "url": "https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144933,
+      "name": "Mignon tout plein",
+      "url": "https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC"
+    },
+    {
+      "album": {
         "name": "Milli",
         "url": "https://open.spotify.com/album/3DBJvuMkP4hPw3H0dWy9M3"
       },
@@ -3172,7 +3248,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 185813,
-      "name": "Mucho cuir",
+      "name": "Mucho Cuir",
       "url": "https://open.spotify.com/track/5Iol6n8dmMjguHDCc8WUh2"
     },
     {
@@ -4474,6 +4550,28 @@
       "duration_ms": 188320,
       "name": "T\u00e9l\u00e9phone - Extrait de CRCLR MVT SAISON II",
       "url": "https://open.spotify.com/track/0FLegMOg3yN9e2zF5p9Vxb"
+    },
+    {
+      "album": {
+        "name": "Mode Op\u00e9ratoire, vol. 1",
+        "url": "https://open.spotify.com/album/02JVLf0vhEoGxGmoWZn5lq"
+      },
+      "artists": [
+        {
+          "name": "Zkr",
+          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193880,
+      "name": "Under Armour",
+      "url": "https://open.spotify.com/track/69Up5djN1jUKRVb2O8GwgU"
     },
     {
       "album": {

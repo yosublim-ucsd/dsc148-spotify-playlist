@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> det største dk rap lige nu 🌚 <a href="spotify:artist:5LcNaarbF34TMSkVLE7YQc">Merro8</a> og <br/><a href="spotify:artist:2KbikmQKGiUPR2ARs1h0sq">Gilli</a> har den 🔥
+> det største dk rap lige nu.\. <a href="spotify:artist:5IpqfN8Pqjy89nj1IfuOXC">Baloosh</a> har den 🔥
 
-113 songs - 4 hr 50 min
+118 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Ensom](https://open.spotify.com/track/5RT81GdUGh5tCyL9aXg8b8) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [En dag giver alt nok mening…](https://open.spotify.com/album/1wYUJCdZRCHaGMAXT18Gd9) | 2:20 | 2024-01-11 |  |
 | [Et Sted Herude](https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Et Sted Herude](https://open.spotify.com/album/7hGBBxMDxFPoIAslWcoA5E) | 2:17 | 2023-09-21 |  |
 | [Fast Life \(feat\. Gilli\)](https://open.spotify.com/track/6uWlAXg3PSZsizyCPFdUoZ) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Fast Life](https://open.spotify.com/album/2KFFfOn8uwTyLxeTtyPGfV) | 2:30 | 2023-09-21 | 2023-12-14 |
+| [FEAR NOBODY](https://open.spotify.com/track/7Iki0ZvakzKmCHsnehtzbu) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [FEAR NOBODY](https://open.spotify.com/album/2ufIci8oalHhVuyWb3OYsN) | 2:46 | 2024-02-08 |  |
 | [Feeling Myself \- Shooter Gang Remix](https://open.spotify.com/track/2o4MYiPOmV2A7GAhs3ckrY) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Feeling Myself \(Shooter Gang Remix\)](https://open.spotify.com/album/0nuDeMCXPzfCwJNtArjVUS) | 3:32 | 2023-09-21 | 2023-11-11 |
 | [Fiesta](https://open.spotify.com/track/63LAurQHWMq3ARoZLxClgU) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Fiesta](https://open.spotify.com/album/2orIoKQ5g0mxhWZyh8umbZ) | 2:05 | 2023-10-06 |  |
 | [For Life](https://open.spotify.com/track/0WsFZJppZyqnjW63zGLQzH) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Championship](https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC) | 2:36 | 2023-11-10 |  |
@@ -77,6 +78,7 @@
 | [Mi Amor](https://open.spotify.com/track/0uUbeTMGlvqFWdtMuqLTEB) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N) | [Mi Amor](https://open.spotify.com/album/08bFLkMDwhsO59XMM9qobU) | 2:35 | 2023-09-21 | 2023-12-14 |
 | [Miguel Félix](https://open.spotify.com/track/5uQvsr0OBicAIl0DJJAQeC) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Miguel Félix](https://open.spotify.com/album/5rJSr8ejGeIEmteVDHyTVO) | 3:14 | 2023-09-21 | 2024-01-19 |
 | [MOULAGA](https://open.spotify.com/track/5MzZ0U4Zihj9iAR9c7uUyy) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [MOULAGA](https://open.spotify.com/album/16WOsN6JTgg1QV4VwrdlXm) | 2:15 | 2023-09-21 | 2023-12-14 |
+| [Murciélago](https://open.spotify.com/track/6bTv8wFuVu5O21g7HTxdqd) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [Murciélago](https://open.spotify.com/album/2HZAQ8Ur0Ac7es5G4IfIAS) | 2:02 | 2024-02-08 |  |
 | [New York City](https://open.spotify.com/track/3HLVXuHXqFi9x7QCoFWbzF) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [New York City](https://open.spotify.com/album/7eDqc9IAUhWSitkF7M6cc9) | 2:22 | 2023-11-10 |  |
 | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/track/7ME4hi8iUI8ppwRpIGbKg4) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/album/26JQ7MSTG8tAdJbLVU7ZMN) | 2:16 | 2023-09-21 |  |
 | [Noget Med Noget](https://open.spotify.com/track/256J9I7Vp9SiPrUaxPqAw7) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Noget Med Noget](https://open.spotify.com/album/1AD9rLclpmI9abg4LMYYNH) | 2:21 | 2023-09-21 | 2023-11-11 |
@@ -101,6 +103,7 @@
 | [Som Forleden](https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Som Forleden](https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd) | 2:41 | 2023-09-21 | 2023-12-14 |
 | [Spåkone](https://open.spotify.com/track/4VIai4an6QpUiuQxxliAF7) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Spåkone](https://open.spotify.com/album/2YMSb0pHCX4stwMGUBPIGl) | 2:54 | 2023-09-21 | 2023-12-14 |
 | [STAYBUSY](https://open.spotify.com/track/4t76e7lcoYva7eZparMcfw) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [STAYBUSY](https://open.spotify.com/album/5TtPoVWJI5k7xGf1oh6HIJ) | 2:23 | 2023-09-29 |  |
+| [Stemmer](https://open.spotify.com/track/315V2iBZNxBDQxTgbDXRF4) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Stemmer](https://open.spotify.com/album/1QpE3osgUe4Wiwi2JtNb8P) | 2:27 | 2024-02-08 |  |
 | [Swervin' \(feat\. Lamin\)](https://open.spotify.com/track/3T4sq2A6qyg4LnUJWx8Q4u) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Swervin' \(feat\. Lamin\)](https://open.spotify.com/album/1fNhtDc8Mls92rWD1q6rWK) | 2:31 | 2023-09-21 | 2023-10-11 |
 | [Swervin' \(feat\. Lamin\)](https://open.spotify.com/track/49fxzVDFQGVorGiv3FEUcv) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Slow Mo' / Swervin'](https://open.spotify.com/album/2QVD6w1lvKmxSr2petQ7H8) | 2:31 | 2023-10-06 |  |
 | [Tak For Sidst](https://open.spotify.com/track/5cNxyZy9r5f8m2L7it8ZtB) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Tak For Sidst](https://open.spotify.com/album/0rvZGDpA6Gw8s4dT3xRnpi) | 2:34 | 2023-09-21 |  |
@@ -108,7 +111,9 @@
 | [TIL VI DØR](https://open.spotify.com/track/1EWIROunAjtVo8bZtOEt7w) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 3:00 | 2023-09-21 | 2023-11-11 |
 | [TMAX](https://open.spotify.com/track/4ssk9gSrtDLemExleFmYeS) | [LOLO](https://open.spotify.com/artist/30G2LsTs2NCXeCbjuZYvnf) | [TMAX](https://open.spotify.com/album/0DQG2g45oPf0Zvi5gbCh0a) | 2:01 | 2023-09-21 | 2023-11-11 |
 | [Topform \(feat\. Lamin\)](https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:21 | 2023-09-21 |  |
+| [Tsamina](https://open.spotify.com/track/0qBSIf8Ic0SYCYvGozlqKB) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Tsamina](https://open.spotify.com/album/4xElpKHXJv700nJ3eTwQPN) | 3:42 | 2024-02-08 |  |
 | [Tudo Bem \(feat\. Gilli\)](https://open.spotify.com/track/2hFdRvBjl6eWf0tPt9NYID) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Ny Sejr](https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ) | 2:10 | 2023-09-21 | 2023-12-14 |
+| [U\-vending](https://open.spotify.com/track/3DPZCTa94K2A68GAevOqsI) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [U\-vending](https://open.spotify.com/album/7xwLK7e8YAeFYXwUoqv8Dy) | 2:26 | 2024-02-08 |  |
 | [Ud Af Hovedet \(feat\. ICEKIID\)](https://open.spotify.com/track/5f4wCcBdSHI5SxlfU2cpNI) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [MELLEM HIMMEL & JORD](https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX) | 2:43 | 2024-02-01 |  |
 | [Under Radar](https://open.spotify.com/track/18jOIUboPPzwu84t9GlUKu) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [Under Radar](https://open.spotify.com/album/5e09iR2DufFRiMK8JmTlNu) | 3:10 | 2023-09-21 |  |
 | [USTOPPELIG](https://open.spotify.com/track/0R4tUBZQFD5PEcw2QMr2iy) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [USTOPPELIG](https://open.spotify.com/album/3WN3SEL9e7tf32zbNQWnaG) | 2:18 | 2024-01-04 | 2024-01-19 |

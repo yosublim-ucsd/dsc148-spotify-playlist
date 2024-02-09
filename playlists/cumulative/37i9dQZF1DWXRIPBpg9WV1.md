@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-272 songs - 13 hr 37 min
+273 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Life on Mars](https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Paolo Velera](https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC) | 3:26 | 2022-05-20 |  |
 | [Lift Me Up](https://open.spotify.com/track/5pfzrd9taKYygxPmahSWJ4) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Lift Me Up](https://open.spotify.com/album/34Y6YXNfsteVCYggBzBXyv) | 2:33 | 2022-12-02 |  |
 | [Light Switch](https://open.spotify.com/track/0gpE9hyrd3hjERocbNwW5A) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [Light Switch](https://open.spotify.com/album/1UEfAxnaJrTiTWej5d1ihK) | 3:25 | 2022-06-15 |  |
+| [Losing My Religion](https://open.spotify.com/track/4usJdxuuZ5YXuxaFMkHVNU) | [Alan Jameson](https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw) | [Losing My Religion](https://open.spotify.com/album/1l6yEEy9rRZSpbCdo2EW63) | 3:37 | 2024-02-09 |  |
 | [Love Me Like You Do](https://open.spotify.com/track/1nyxHNRjeyTlJQwsLMH7C0) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Anna Kitkowska](https://open.spotify.com/album/02yT961mEldwOgfmrwzW0Z) | 3:18 | 2022-05-20 | 2023-06-03 |
 | [Love Me Tender](https://open.spotify.com/track/5VdDhaWyHgrnmZe3JVE27Y) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Love Me Tender](https://open.spotify.com/album/59tSdWVmOuJU2TGDmKpQk9) | 2:20 | 2023-05-05 | 2023-10-06 |
 | [Love Song](https://open.spotify.com/track/5OFd5vy1z9MlPkevJZszFI) | [Ren Anderson](https://open.spotify.com/artist/1GFIqy0jybt5CDJawIbHS8) | [Shape of You](https://open.spotify.com/album/5ddlKDkaTG9bHBK60YO4al) | 4:38 | 2022-05-20 | 2022-09-09 |

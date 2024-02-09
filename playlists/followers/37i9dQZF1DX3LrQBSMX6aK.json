@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 46904,
+  "2024-02-09": 46922,
   "date_first_scraped": "2021-12-28",
   "description": "Classical compositions from Ravi Shankar and more.",
   "name": "Indian Classical",
@@ -357,10 +357,32 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 617851,
       "name": "Darbari Kanara Teen Taal",
       "url": "https://open.spotify.com/track/4vbdaxGG6dbM6XuahtO4aI"
+    },
+    {
+      "album": {
+        "name": "Raag Darbari Kannada",
+        "url": "https://open.spotify.com/album/2SeQPXLYc3Sh7IfhhLLeax"
+      },
+      "artists": [
+        {
+          "name": "Sayan Ghosh",
+          "url": "https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6"
+        },
+        {
+          "name": "Tamaghna Chakraborty",
+          "url": "https://open.spotify.com/artist/55xb23Tep4vdgQeVqFKCVw"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 617851,
+      "name": "Darbari Kanara Teen Taal",
+      "url": "https://open.spotify.com/track/6SdKS6uQA7Cvecsibddb2f"
     },
     {
       "album": {
@@ -1129,10 +1151,32 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 569438,
       "name": "Raag Hansdhwani Gat in Matta Taal",
       "url": "https://open.spotify.com/track/1hrJRx256v2UR6maarb8gT"
+    },
+    {
+      "album": {
+        "name": "Raag Hansdhwani",
+        "url": "https://open.spotify.com/album/6ArRnKwy21xobBQiIvNV8u"
+      },
+      "artists": [
+        {
+          "name": "Sayan Ghosh",
+          "url": "https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6"
+        },
+        {
+          "name": "Shubhabrata Saha",
+          "url": "https://open.spotify.com/artist/7o9wZaGyYl8MW3Ga6aosMU"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569438,
+      "name": "Raag Hansdhwani Gat in Matta Taal",
+      "url": "https://open.spotify.com/track/1j2BKZY8rHkot308ulVygU"
     },
     {
       "album": {

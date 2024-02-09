@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 72048,
+  "2024-02-09": 72079,
   "date_first_scraped": "2023-05-19",
   "description": "Best of the modern folk artists! Cover- Indian Ocean\n",
   "name": "Folk in India",
@@ -908,6 +908,28 @@
     },
     {
       "album": {
+        "name": "Maenziraat",
+        "url": "https://open.spotify.com/album/5fbzhkM3nBxtQcifrXa6dL"
+      },
+      "artists": [
+        {
+          "name": "Aabha Hanjura",
+          "url": "https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P"
+        },
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166136,
+      "name": "Maenziraat",
+      "url": "https://open.spotify.com/track/6BMwADwJAgnHWhANiDinwd"
+    },
+    {
+      "album": {
         "name": "Mahadeva",
         "url": "https://open.spotify.com/album/6f9GkFAcMf5wiAOmo1fM2f"
       },
@@ -1563,7 +1585,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 202242,
       "name": "Tanna Na",
       "url": "https://open.spotify.com/track/46nOdCXzOiSRDvfd8UHtPW"

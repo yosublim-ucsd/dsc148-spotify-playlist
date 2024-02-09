@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 76958,
+  "2024-02-09": 76984,
   "date_first_scraped": "2023-03-30",
   "description": "Keep it Punjabi, Keep it Real. Cover: Wazir Patar",
   "name": "Ghaint Flow",
@@ -543,7 +543,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 182170,
       "name": "Arjan Vailly (From \"ANIMAL\")",
       "url": "https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn"
@@ -2301,6 +2301,24 @@
       "duration_ms": 114534,
       "name": "Gang Boliyan",
       "url": "https://open.spotify.com/track/3JzIXwROWkSMEdkrCjFcsI"
+    },
+    {
+      "album": {
+        "name": "Estrellas",
+        "url": "https://open.spotify.com/album/56bKi3MtxXf4CzkkaDZ73s"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Gangsta Shit",
+      "url": "https://open.spotify.com/track/1JrMBCjCRiBe0XNB6ZzWhY"
     },
     {
       "album": {

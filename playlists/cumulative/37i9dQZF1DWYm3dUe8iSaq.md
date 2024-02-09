@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-229 songs - 13 hr 8 min
+232 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Deathbed](https://open.spotify.com/track/7dAVPHQM9ohyzNsnebx4tz) | [Will Killen](https://open.spotify.com/artist/53mpvc3wWbaO6a7LKWQ73N) | [Deathbed](https://open.spotify.com/album/5bdvG7rir6bMQA3YF61GLz) | 3:08 | 2022-04-08 | 2022-08-27 |
 | [Decimal](https://open.spotify.com/track/1uliNs1keVwYclj74JX44R) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Decimal / Halloween](https://open.spotify.com/album/7pHnMBs0r27GLi2EL3nEH8) | 2:58 | 2022-04-08 | 2022-11-17 |
 | [Decimal](https://open.spotify.com/track/6eusWfAal7mOOLr0XFLkiY) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:58 | 2022-10-07 | 2023-04-09 |
-| [Derby's Dose](https://open.spotify.com/track/3XWtrpRAyfF6ZoHAsdlao1) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [Derby's Dose](https://open.spotify.com/album/62s4yMS26LGe6DFcWyWAdW) | 3:06 | 2024-01-19 |  |
+| [Derby's Dose](https://open.spotify.com/track/3XWtrpRAyfF6ZoHAsdlao1) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [Derby's Dose](https://open.spotify.com/album/62s4yMS26LGe6DFcWyWAdW) | 3:06 | 2024-01-19 | 2024-02-09 |
 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 | 2022-04-08 | 2023-07-01 |
 | [Dream State](https://open.spotify.com/track/7dzzw8NQttXdPpEFrwrHKG) | [Luke De\-Sciscio](https://open.spotify.com/artist/41RGqF0I6xFG0GzQmLKDgb) | [Dream State](https://open.spotify.com/album/6cdULH9wOqEHIfsOVcJkPX) | 3:27 | 2022-04-08 | 2022-11-19 |
 | [Drive You Home](https://open.spotify.com/track/1xUTQQKrTrGc7JPUi5gWPg) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq), [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Drive You Home](https://open.spotify.com/album/3uu5fit1E8Oa6Vv2bVwz8c) | 2:49 | 2022-08-26 | 2023-05-20 |
@@ -71,6 +71,7 @@
 | [Floorboards](https://open.spotify.com/track/3DZKzoLMmAXIEH0vIDILjk) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Floorboards](https://open.spotify.com/album/5wQ3lBKKZtiZt1D2WO83si) | 2:47 | 2023-01-13 |  |
 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 | 2022-04-08 |  |
 | [For Your Touch](https://open.spotify.com/track/5VeUl0KzQQOm4qLzqTyX83) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [For Your Touch](https://open.spotify.com/album/3E6MTeXMibrYqUIqUnn9qO) | 3:02 | 2023-08-11 |  |
+| [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 | 2024-02-09 |  |
 | [Forever](https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd) | 2:02 | 2023-02-24 |  |
 | [Forever For Now](https://open.spotify.com/track/56CveEemU2lye9WOHVaoh6) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Forever For Now](https://open.spotify.com/album/5fYvianKo0w7xm0BRXIgfw) | 4:13 | 2023-06-30 |  |
 | [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 | 2022-10-07 |  |
@@ -84,7 +85,7 @@
 | [Give Me A Reason \- Demo Version](https://open.spotify.com/track/76u9IeQG9eJKeUMp9EmuMZ) | [Augusta](https://open.spotify.com/artist/7yqaPPacsc3ANzPAfU7pTu) | [I Don't Think I Do \(Demo Versions\)](https://open.spotify.com/album/5sWsinLSTjwtVFOSeOrsLc) | 3:46 | 2023-11-17 |  |
 | [Give Me Love](https://open.spotify.com/track/1xFGvwqlCx7vnCkviqon4J) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Give Me Love](https://open.spotify.com/album/0Gg7esLkSTocFYZBt1WPsP) | 3:14 | 2022-04-08 | 2024-01-26 |
 | [Glued](https://open.spotify.com/track/78qClqEjmVk8pn6hdiy32z) | [Josie Oliver](https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan) | [Glued](https://open.spotify.com/album/1oxco2A76wN3FMT98QBbUS) | 3:16 | 2023-06-30 |  |
-| [Gone](https://open.spotify.com/track/3LN4IPqwKfNaZh6eyc1arz) | [Jacob Cook](https://open.spotify.com/artist/5xLTivLR2tV4I9PX1n554k), [The Patch](https://open.spotify.com/artist/5xVEUK25VQi7wj4RQyFgqQ) | [Gone](https://open.spotify.com/album/3UzTNYbKZTzQgA3i0hqVUM) | 3:53 | 2023-05-19 |  |
+| [Gone](https://open.spotify.com/track/3LN4IPqwKfNaZh6eyc1arz) | [Jacob Cook](https://open.spotify.com/artist/5xLTivLR2tV4I9PX1n554k), [The Patch](https://open.spotify.com/artist/5xVEUK25VQi7wj4RQyFgqQ) | [Gone](https://open.spotify.com/album/3UzTNYbKZTzQgA3i0hqVUM) | 3:53 | 2023-05-19 | 2024-02-09 |
 | [Halfway Down the Street \(home demo\)](https://open.spotify.com/track/6AL4I4q2O4jc7Dzf4RB1b5) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq), [Pet Snake](https://open.spotify.com/artist/6iD9rqdmw5kq1W8CchAtCi) | [Jake Whiskin \(Deluxe\)](https://open.spotify.com/album/0GGrKOUtCvI8FOhULte26M) | 4:03 | 2023-04-07 | 2023-08-12 |
 | [Hallelujah I Love Her So](https://open.spotify.com/track/4Fuyarf5fHo2zJ6GoYC48N) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 2:43 | 2023-01-13 | 2023-02-25 |
 | [Hallelujah I Love Her So](https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Hallelujah I Love Her So](https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf) | 2:43 | 2022-04-08 | 2023-02-15 |
@@ -112,7 +113,7 @@
 | [I Like Dis](https://open.spotify.com/track/7hJ34BXrT60WlaDgLOb8WJ) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [I Like Dis](https://open.spotify.com/album/0Fe7250AFqYpzJCTFkxuUJ) | 3:19 | 2022-05-20 | 2022-10-17 |
 | [I Never Danced](https://open.spotify.com/track/5cUsHnbf2tthokeAMQR5km) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [I Never Danced](https://open.spotify.com/album/1gglryfErGNk6ZiuIPb2u7) | 2:55 | 2022-10-07 | 2023-11-18 |
 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Breathe](https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp) | 3:02 | 2022-04-08 |  |
-| [i went outside](https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25) | 4:53 | 2023-08-11 |  |
+| [i went outside](https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25) | 4:53 | 2023-08-11 | 2024-02-09 |
 | [I'll Be Fine](https://open.spotify.com/track/6hx56UpTxacCNBHR2iDOwN) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [I'll Be Fine](https://open.spotify.com/album/72ngbBpDHcAAzFGXJKQ4DE) | 4:08 | 2022-04-08 | 2023-01-14 |
 | [If You Had a Long Day](https://open.spotify.com/track/0eCX3ptohLUY3vW4Ehh68L) | [Cayson Renshaw](https://open.spotify.com/artist/2hVHQSQmwraIZSyISHOWEf) | [If You Had a Long Day](https://open.spotify.com/album/4dYRT2ki2UXlEgs2X3R5Ky) | 2:21 | 2023-10-06 |  |
 | [In The End](https://open.spotify.com/track/0EzrpH6IwHdPbZKHqtIS4Q) | [Fiona O' Connell](https://open.spotify.com/artist/0EycwYy6PGKtlZntaQThjr) | [In The End](https://open.spotify.com/album/2YhJJxFJUEh7yuRqOKHbAU) | 4:40 | 2023-11-17 | 2024-01-26 |
@@ -162,6 +163,7 @@
 | [Party Dress](https://open.spotify.com/track/0N2cfvsgB5FiMwHBmheXu9) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/0SO1c2tJd1cdbNlxM2W4sY) | 3:14 | 2023-11-17 |  |
 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 | 2022-04-08 | 2023-12-10 |
 | [Petals](https://open.spotify.com/track/2cp6SJzNJZUuWWy5T2chH7) | [Gary O'Neill](https://open.spotify.com/artist/4xYcXa6VNU7ZmsPj3N7a9r) | [Petals](https://open.spotify.com/album/6MFWv27QjN5lg5d2OD8kAM) | 4:31 | 2022-04-08 |  |
+| [Philadelphia \(with Searows\)](https://open.spotify.com/track/7areyJPur83YJOJLhvSXvH) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf), [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Philadelphia \(with Searows\)](https://open.spotify.com/album/6FGCL7fcqEcGhXjI7IhQZF) | 3:02 | 2024-02-09 |  |
 | [Puddles](https://open.spotify.com/track/3KFpR2l3h9vwv1Zw5EBqKM) | [Amie Huckstep](https://open.spotify.com/artist/1TT1manwItsb5Z1MHKHdHw) | [Puddles](https://open.spotify.com/album/3Xjnbbd3dTrX8kXFALr7Vc) | 3:25 | 2022-04-08 | 2022-05-21 |
 | [racing raindrops](https://open.spotify.com/track/4A2Y5ElDIuDT4e4KGLVtcy) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [racing raindrops](https://open.spotify.com/album/0w51CRLGBRdOnDOr0oBlqV) | 3:36 | 2022-04-08 | 2022-07-29 |
 | [racing raindrops](https://open.spotify.com/track/4LYPhx8MyvKnE3j2uvVpyu) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [when the sun came up](https://open.spotify.com/album/2MrUkSTLolgDJTboaxwCXl) | 3:36 | 2022-07-01 | 2022-11-09 |
@@ -234,6 +236,7 @@
 | [Wildfire Love](https://open.spotify.com/track/2Z9r1F0qUif5yjEHq01X60) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Wildfire Love](https://open.spotify.com/album/0ElRBkdS5gLayPwG1HO1if) | 1:43 | 2023-08-11 |  |
 | [Wish I Was A Single Girl Again](https://open.spotify.com/track/5cJ5JT9FOcioU3JRAF4hog) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Worst Thoughts In The World](https://open.spotify.com/album/7JRVHMM3hNt1NCVUhFy57y) | 2:33 | 2023-10-06 |  |
 | [Years On](https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Years On](https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8) | 4:02 | 2024-01-19 |  |
+| [You Never Know](https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [You Never Know](https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD) | 4:50 | 2024-02-09 |  |
 | [You're A Mystery](https://open.spotify.com/track/3ytfjqpqNhTdFbNt4uZ6Au) | [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [You're A Mystery](https://open.spotify.com/album/6NakoaoQkDEhDrCRwxJzgn) | 3:13 | 2022-04-08 | 2023-03-16 |
 | [You're A Mystery](https://open.spotify.com/track/5m3n8JK40XBTIQYyHfrhPu) | [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [You're A Mystery](https://open.spotify.com/album/38dcanpHYVXTl79HTimr0w) | 3:13 | 2023-02-24 | 2023-05-20 |
 | [Young](https://open.spotify.com/track/1p4iQ1vXaXtoM8SyOamNNU) | [Nanuk](https://open.spotify.com/artist/5k64JTFIHR64agZZUTinI7) | [Young](https://open.spotify.com/album/6J0Giau2BxwhGBYS4UDcic) | 3:21 | 2023-04-07 |  |

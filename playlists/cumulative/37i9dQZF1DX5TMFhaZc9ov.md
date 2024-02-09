@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-175 songs - 10 hr 59 min
+176 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [If I Needed You](https://open.spotify.com/track/19UnjVM3yy6jVwhXMfZrNQ) | [Harmony Byrne](https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx) | [If I Needed You](https://open.spotify.com/album/5UU4iaSP17e2iINYZdJkc0) | 5:05 | 2021-06-01 |  |
 | [Illuminate the Dark](https://open.spotify.com/track/2hgw4ZGGLwObz7a89jnyhZ) | [Tom Goss](https://open.spotify.com/artist/1zLAXcROEhMZL9IhVu5Vvh) | [Wait](https://open.spotify.com/album/5BqkJ6970fStH2JCAzKcnf) | 2:43 | 2021-06-01 |  |
 | [ISO](https://open.spotify.com/track/6YbAmiTbikKbmZzwXD2gKv) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [ISO](https://open.spotify.com/album/35risx3TZt5VkWNTDQcJ6f) | 3:39 | 2022-06-01 |  |
-| [jacob killed a cat](https://open.spotify.com/track/3nE26bDb6bnowMRyo6qGsa) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Downers Grove \(Explained\)](https://open.spotify.com/album/0RuZxzktEnwDwGFhnGOo74) | 2:45 | 2023-06-01 |  |
+| [jacob killed a cat](https://open.spotify.com/track/3nE26bDb6bnowMRyo6qGsa) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Downers Grove \(Explained\)](https://open.spotify.com/album/0RuZxzktEnwDwGFhnGOo74) | 2:45 | 2023-06-01 | 2024-02-09 |
+| [jacob killed a cat](https://open.spotify.com/track/5jbYfN6JNQgz6rBq8tdbTj) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Downers Grove \- EP](https://open.spotify.com/album/5OMHXvYoClLQUmFwqBav71) | 2:45 | 2023-09-29 |  |
 | [jacob killed a cat](https://open.spotify.com/track/6zeh80HoOJpRKDcfhhRYlr) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [jacob killed a cat](https://open.spotify.com/album/0zhwDb15nhqUpVYAZ7nRCV) | 2:45 | 2023-03-03 | 2023-06-03 |
 | [Just A Woman](https://open.spotify.com/track/6CwZv215C5uYwW277JsrLu) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U), [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Just A Woman](https://open.spotify.com/album/5qPSuH0qcPnDv2q7HfDM5I) | 4:16 | 2021-06-01 |  |
 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-06-01 | 2023-06-02 |

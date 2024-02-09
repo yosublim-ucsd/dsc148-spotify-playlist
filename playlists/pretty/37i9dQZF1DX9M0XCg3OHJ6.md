@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9M0XCg3OHJ6.md) - [plain]
 
 > Sail away to dreamland and sleep all night with fluffy and relaxing white noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,275 likes - 172 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,301 likes - 172 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,8 +158,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9M0XCg3OHJ6.md) - [plain]
 | 148 | [White Noise \- Augen Zu](https://open.spotify.com/track/2bHFzB6CUQSQ6hX9URt9bX) | [Ozeanus](https://open.spotify.com/artist/6F1PK9RhhsAJbkt9g0VnYB) | [Augen Zu](https://open.spotify.com/album/4LAA1o3SJAUuE0szFNmhB2) | 3:19 |
 | 149 | [Harmonious](https://open.spotify.com/track/1wUzoaQgii2QrgnqlcRPAC) | [Somnography](https://open.spotify.com/artist/7jjmpyxSEBfFehyESBdMpM) | [Harmonious](https://open.spotify.com/album/3IDmrMJl8iGvEXij8TqaPO) | 2:53 |
 | 150 | [Repeating White Noise](https://open.spotify.com/track/7lyB6ZqVXF6xaN1FAz3wjr) | [Clamor](https://open.spotify.com/artist/7BJClXHcudZwEpc4flJ0Rz) | [Pandemonium Noise](https://open.spotify.com/album/3A6qJW5XGMwwZd87kX4Hzy) | 2:40 |
-| 151 | [White Noise Dreaming](https://open.spotify.com/track/3XQcmUXD9q6RcF6CHCoYXc) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
-| 152 | [Fading Lights White Noise](https://open.spotify.com/track/39Rv7yVz09paUBeX8VvEQy) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:40 |
+| 151 | [White Noise Dreaming](https://open.spotify.com/track/3XQcmUXD9q6RcF6CHCoYXc) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
+| 152 | [Fading Lights White Noise](https://open.spotify.com/track/39Rv7yVz09paUBeX8VvEQy) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:40 |
 | 153 | [Space Me Out](https://open.spotify.com/track/7Esw6DQInbiNLRFbX58rpp) | [Another Dimension](https://open.spotify.com/artist/67wnjOFj9qJyQIVvx7NGsH) | [Noise Continium](https://open.spotify.com/album/5uNFSghEi8fdNMGz2rFXpG) | 2:27 |
 | 154 | [Schlummer Kiste](https://open.spotify.com/track/3dxxler1pdW8mMKxsbvrhs) | [Noyze Freq](https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl) | [Schlummern](https://open.spotify.com/album/6adCsIzftseX5TRdEnCYO1) | 3:52 |
 | 155 | [Magic Baby Noise](https://open.spotify.com/track/3mdZaRNblDtvpwSrjZef4p) | [Dr\. Dreammaker](https://open.spotify.com/artist/761jLrJ3YSvCWz7F0NPZJY) | [Baby Noise Machine](https://open.spotify.com/album/69XDtLpr30IiwcnJuNGYuR) | 3:16 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9M0XCg3OHJ6.md) - [plain]
 | 171 | [White Heaven](https://open.spotify.com/track/6QC5r7XJPiyn92rOWpLkc6) | [Ambinima](https://open.spotify.com/artist/1DtkBjA8TFpAlXxOHxCqta) | [Placid Noise](https://open.spotify.com/album/2BOzypucqC7iyUbofB6gWn) | 2:59 |
 | 172 | [Loud Noise Sound](https://open.spotify.com/track/3WEhUtfxXaoRrpSIZ1XzQY) | [Misa Bee](https://open.spotify.com/artist/5JSgVFubDnbqYDUWPzl4tj) | [Noise Waterfalls](https://open.spotify.com/album/7By7Jo2T4WuFDwzW7MRc02) | 2:25 |
 
-Snapshot ID: `MCwyN2U2Yjc4NjgxZmE2MjdlZTM2MmViNzU1YTVjZDQzZmE3ZGMwNjkw`
+Snapshot ID: `MCw5NDkyZDMyYTc0ODc5YzI3ZWRiZjJlMDRhM2Q0NTg4Y2ExNjYwOGFi`

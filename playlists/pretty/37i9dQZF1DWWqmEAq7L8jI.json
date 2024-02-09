@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 268645,
+  "num_followers": 268676,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzNmNDk2MWMxNjgwMjMwMjY1NjVlZTU4N2M0ZWJiN2VjNGQwYjhi",
+  "snapshot_id": "MCw1NjRjNDQwZTBkMWM5NWI1Nzk2N2UzZmUxZjNkNGQwNzg5ZDIxM2Q0",
   "tracks": [
     {
       "added_at": "2024-02-01 19:33:45",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-02-01 19:33:45",
       "album": {
-        "name": "Prometo",
-        "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Saturno",
-      "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
-    },
-    {
-      "added_at": "2024-02-01 19:33:45",
-      "album": {
         "name": "Cactus",
         "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 183381,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+    },
+    {
+      "added_at": "2024-02-01 19:33:45",
+      "album": {
+        "name": "Prometo",
+        "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
     },
     {
       "added_at": "2024-02-01 19:33:45",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-02-01 19:33:45",
       "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Mejor Que Ayer",
+      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
+    },
+    {
+      "added_at": "2024-02-01 19:33:45",
+      "album": {
         "name": "Los Tragos",
         "url": "https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": "2024-02-01 19:33:45",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Mejor Que Ayer",
-      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
-    },
-    {
-      "added_at": "2024-02-01 19:33:45",
-      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -391,38 +391,6 @@
       "duration_ms": 279213,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
-    },
-    {
-      "added_at": "2024-02-01 19:33:45",
-      "album": {
-        "name": "Conv\u00e9ncete",
-        "url": "https://open.spotify.com/album/2ECz8iqicVkgCZr6QAVnoP"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        }
-      ],
-      "duration_ms": 216263,
-      "name": "Conv\u00e9ncete",
-      "url": "https://open.spotify.com/track/5UyH584f99c7qErZifyaHy"
-    },
-    {
-      "added_at": "2024-02-01 19:33:45",
-      "album": {
-        "name": "Dos Veces",
-        "url": "https://open.spotify.com/album/51iv4jcGNKeervGEBPIY2q"
-      },
-      "artists": [
-        {
-          "name": "Un Verano",
-          "url": "https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN"
-        }
-      ],
-      "duration_ms": 218052,
-      "name": "Dos Veces",
-      "url": "https://open.spotify.com/track/4HGW19bNRlHNZUkR1ZLqdk"
     },
     {
       "added_at": "2024-02-01 19:33:45",
@@ -443,34 +411,34 @@
     {
       "added_at": "2024-02-01 19:33:45",
       "album": {
-        "name": "Un Mundo Diferente",
-        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
+        "name": "Dos Veces",
+        "url": "https://open.spotify.com/album/51iv4jcGNKeervGEBPIY2q"
       },
       "artists": [
         {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          "name": "Un Verano",
+          "url": "https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN"
         }
       ],
-      "duration_ms": 267106,
-      "name": "Color Esperanza",
-      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
+      "duration_ms": 218052,
+      "name": "Dos Veces",
+      "url": "https://open.spotify.com/track/4HGW19bNRlHNZUkR1ZLqdk"
     },
     {
       "added_at": "2024-02-01 19:33:45",
       "album": {
-        "name": "To' Estos Giles",
-        "url": "https://open.spotify.com/album/5qY2ySgBprrVLDmk7ZLTae"
+        "name": "Conv\u00e9ncete",
+        "url": "https://open.spotify.com/album/2ECz8iqicVkgCZr6QAVnoP"
       },
       "artists": [
         {
-          "name": "Pablo Rojas",
-          "url": "https://open.spotify.com/artist/2LTIaVNDpBXpl4OQzuhGCy"
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
         }
       ],
-      "duration_ms": 174560,
-      "name": "To' Estos Giles",
-      "url": "https://open.spotify.com/track/1zKqPpTL0QjCvwFwK77SJC"
+      "duration_ms": 216263,
+      "name": "Conv\u00e9ncete",
+      "url": "https://open.spotify.com/track/5UyH584f99c7qErZifyaHy"
     },
     {
       "added_at": "2024-02-01 19:33:45",
@@ -491,22 +459,18 @@
     {
       "added_at": "2024-02-01 19:33:45",
       "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/2P9LDrehwuTIPxyyQpTlOA"
+        "name": "To' Estos Giles",
+        "url": "https://open.spotify.com/album/5qY2ySgBprrVLDmk7ZLTae"
       },
       "artists": [
         {
-          "name": "Abi Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/3ZdD1ROrESvZQwaDDEfNsV"
-        },
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+          "name": "Pablo Rojas",
+          "url": "https://open.spotify.com/artist/2LTIaVNDpBXpl4OQzuhGCy"
         }
       ],
-      "duration_ms": 258778,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/032IsZRdgIFxxLgDZvxfwU"
+      "duration_ms": 174560,
+      "name": "To' Estos Giles",
+      "url": "https://open.spotify.com/track/1zKqPpTL0QjCvwFwK77SJC"
     },
     {
       "added_at": "2024-02-01 19:33:45",
@@ -547,6 +511,42 @@
       "duration_ms": 219520,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
+    },
+    {
+      "added_at": "2024-02-01 19:33:45",
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/2P9LDrehwuTIPxyyQpTlOA"
+      },
+      "artists": [
+        {
+          "name": "Abi Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/3ZdD1ROrESvZQwaDDEfNsV"
+        },
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 258778,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/032IsZRdgIFxxLgDZvxfwU"
+    },
+    {
+      "added_at": "2024-02-01 19:33:45",
+      "album": {
+        "name": "Un Mundo Diferente",
+        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Color Esperanza",
+      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
     },
     {
       "added_at": "2024-02-01 19:33:45",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-02-01 19:33:45",
       "album": {
+        "name": "Lo Que Ten\u00edas Conmigo",
+        "url": "https://open.spotify.com/album/2KjUNxCfZw6xJGxEuEGACb"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "Lo Que Ten\u00edas Conmigo",
+      "url": "https://open.spotify.com/track/0X6coWomPnfGLXQ6gdi3cI"
+    },
+    {
+      "added_at": "2024-02-01 19:33:45",
+      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
-    },
-    {
-      "added_at": "2024-02-01 19:33:45",
-      "album": {
-        "name": "Lo Que Ten\u00edas Conmigo",
-        "url": "https://open.spotify.com/album/2KjUNxCfZw6xJGxEuEGACb"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "Lo Que Ten\u00edas Conmigo",
-      "url": "https://open.spotify.com/track/0X6coWomPnfGLXQ6gdi3cI"
     },
     {
       "added_at": "2024-02-01 19:33:45",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2024-02-01 19:33:45",
       "album": {
-        "name": "Si T\u00fa La Quieres",
-        "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 224761,
-      "name": "Si T\u00fa La Quieres",
-      "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
-    },
-    {
-      "added_at": "2024-02-01 19:33:45",
-      "album": {
         "name": "Djadja (feat. Maluma) [Remix]",
         "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 166850,
       "name": "Djadja (feat. Maluma) - Remix",
       "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
+    },
+    {
+      "added_at": "2024-02-01 19:33:45",
+      "album": {
+        "name": "Si T\u00fa La Quieres",
+        "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "Si T\u00fa La Quieres",
+      "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
     },
     {
       "added_at": "2024-02-01 19:33:45",

@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 32609,
+  "num_followers": 32645,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODViZGVmNTk1MTZhZTZmMzlkMTZjNWI0NzQwNTU4YWI2MjBlOTEy",
+  "snapshot_id": "MCxiODY0OThhMzkxMTc5Zjg3NzFkMDhmMmI5MTJkZjVhZTU3YWU2Y2Ux",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Fakez",
-        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fakez",
-      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Teki Teki",
         "url": "https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 200307,
       "name": "Teki Teki",
       "url": "https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Fakez",
+        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Fakez",
+      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -955,38 +955,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Bionic Boy",
-        "url": "https://open.spotify.com/album/4up90bXZVvpCwtYljSiI16"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 206265,
-      "name": "Bionic Boy",
-      "url": "https://open.spotify.com/track/0CtMpuQoedYSaVBVni2rtE"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Unfair",
-        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 247566,
-      "name": "Unfair",
-      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Playing With Foc...",
         "url": "https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7"
       },
@@ -1007,6 +975,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Unfair",
+        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 247566,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Running from the Noise (Edit)",
         "url": "https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 190200,
       "name": "Running from the Noise - Edit",
       "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Bionic Boy",
+        "url": "https://open.spotify.com/album/4up90bXZVvpCwtYljSiI16"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "duration_ms": 206265,
+      "name": "Bionic Boy",
+      "url": "https://open.spotify.com/track/0CtMpuQoedYSaVBVni2rtE"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 224322,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Rudeboi",
         "url": "https://open.spotify.com/album/2TDe6STKY9g4aZJNAYaHjq"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf"
-      },
-      "artists": [
-        {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 224322,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 195238,
       "name": "Hip Trumpets",
       "url": "https://open.spotify.com/track/4kYT3hIu8BKMxFqfApbIou"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Single Kiss",
+        "url": "https://open.spotify.com/album/4la24fDXi6Mvc0HMmHijhf"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00e9 Le Chat",
+          "url": "https://open.spotify.com/artist/1ClOAC5th0n8BGUD22KpIV"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Single Kiss",
+      "url": "https://open.spotify.com/track/1mSQFLT4CEEdJdtby96FUL"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Single Kiss",
-        "url": "https://open.spotify.com/album/4la24fDXi6Mvc0HMmHijhf"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00e9 Le Chat",
-          "url": "https://open.spotify.com/artist/1ClOAC5th0n8BGUD22KpIV"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Single Kiss",
-      "url": "https://open.spotify.com/track/1mSQFLT4CEEdJdtby96FUL"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "This Energy EP",
         "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 518400,
       "name": "Geh\u00f6rschadengenerator",
       "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Space Is The Place",
+        "url": "https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "duration_ms": 385511,
+      "name": "Space Is The Place",
+      "url": "https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1419,22 +1435,6 @@
       "duration_ms": 222923,
       "name": "Cold",
       "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Space Is The Place",
-        "url": "https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp"
-      },
-      "artists": [
-        {
-          "name": "Luuk Van Dijk",
-          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
-        }
-      ],
-      "duration_ms": 385511,
-      "name": "Space Is The Place",
-      "url": "https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Touch Me",
-        "url": "https://open.spotify.com/album/6AGx5r4hGfYYK1uZLpJCUR"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 164340,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Targa (Logic1000 Remix)",
         "url": "https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 381431,
       "name": "Jump Ship",
       "url": "https://open.spotify.com/track/5V6srZGdQEeOMbwlcEOLqy"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/6AGx5r4hGfYYK1uZLpJCUR"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 164340,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "The Good, the Bad & the Acid",
-        "url": "https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi"
-      },
-      "artists": [
-        {
-          "name": "Anja Schneider",
-          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
-        }
-      ],
-      "duration_ms": 349565,
-      "name": "The Good, the Bad & the Acid",
-      "url": "https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "You & Me",
         "url": "https://open.spotify.com/album/7g0uWDHesKV8s9JvFHRLIS"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 344000,
       "name": "Picante",
       "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "The Good, the Bad & the Acid",
+        "url": "https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "duration_ms": 349565,
+      "name": "The Good, the Bad & the Acid",
+      "url": "https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Music4TheMasses (Andrea Oliva Remix)",
-        "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        },
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        }
-      ],
-      "duration_ms": 187652,
-      "name": "Music4TheMasses - Andrea Oliva Remix",
-      "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "The Monitors (Redux)",
         "url": "https://open.spotify.com/album/2D7Xh2KYbW6PVQLe2whkD3"
       },
@@ -1815,6 +1795,22 @@
       "duration_ms": 508571,
       "name": "Control",
       "url": "https://open.spotify.com/track/4H40HAa5y5N7mLPZreuojF"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Jump In",
+        "url": "https://open.spotify.com/album/07BxOVzzyMBEkff8GEczSG"
+      },
+      "artists": [
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Jump In",
+      "url": "https://open.spotify.com/track/7KPM73DEawK8fsogmx87HX"
     }
   ],
   "unique_name": "Minimal Tech",

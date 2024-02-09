@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:1hIHKduhZOyrGVBbbN2qX0">Mav</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,217 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,522 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Dylemat](https://open.spotify.com/track/0qXTVLYheINRVzaTECYV1c) | [Toria](https://open.spotify.com/artist/7en3fAhUJ8j0cl7ylW8rl6) | [Dylemat](https://open.spotify.com/album/2sdwS5AQOekAFAIeLaNdSm) | 3:04 |
 | 100 | [Stroboskopy \- Bootleg](https://open.spotify.com/track/20uKUjFaTHDRyjLjzfwRqB) | [Laudi](https://open.spotify.com/artist/3OYKPuAilTxyA2tsmnlTdQ) | [DDA](https://open.spotify.com/album/1XaVY88al8QdQLrWS45ld1) | 2:57 |
 
-Snapshot ID: `MCxlOTAwODYxMDU4ZGVhOGI4MTNiZDRiMzU5MmFlZjBhNjQ3NmU4MDU0`
+Snapshot ID: `MCwxMWZkOGVkZmNiNGQ1OTIzMzIxMjNhMTY2OThmMGMyMjFhMGRhNDE3`

@@ -2597,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/1l6yEEy9rRZSpbCdo2EW63"
+      },
+      "artists": [
+        {
+          "name": "Alan Jameson",
+          "url": "https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217363,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/4usJdxuuZ5YXuxaFMkHVNU"
+    },
+    {
+      "album": {
         "name": "Anna Kitkowska",
         "url": "https://open.spotify.com/album/02yT961mEldwOgfmrwzW0Z"
       },

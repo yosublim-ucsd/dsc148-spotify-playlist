@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 52661,
+  "num_followers": 52676,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmIyZjAxZWZkOGIxZmNlZGU3Y2M4YTUxMTgyZGY1MGQ5MjQyNjJi",
+  "snapshot_id": "MCwzMmM5ZmYxN2NkYjY2NTM4ODQ1MmNiZGQzYjJiZmY0M2Q0ZWNlZDBk",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -399,6 +399,38 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Voy A Apagar La Luz",
+        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 143848,
+      "name": "Voy A Apagar La Luz",
+      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Llevatela",
+        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Llevatela",
+      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -423,38 +455,6 @@
       "duration_ms": 191794,
       "name": "Ven",
       "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Llevatela",
-        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
-      },
-      "artists": [
-        {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Llevatela",
-      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Voy A Apagar La Luz",
-        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 143848,
-      "name": "Voy A Apagar La Luz",
-      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -491,26 +491,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+        "name": "Toda Esta Gente",
+        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
         }
       ],
-      "duration_ms": 201021,
-      "name": "Luna Orgullosa",
-      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
+      "duration_ms": 151250,
+      "name": "Toda Esta Gente",
+      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -555,18 +547,26 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Toda Esta Gente",
-        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
       "artists": [
         {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 151250,
-      "name": "Toda Esta Gente",
-      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
+      "duration_ms": 201021,
+      "name": "Luna Orgullosa",
+      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Si Me Faltas Tu",
-        "url": "https://open.spotify.com/album/2TUNJosqZo997I9rAyS4aT"
-      },
-      "artists": [
-        {
-          "name": "Marta Jobim",
-          "url": "https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj"
-        }
-      ],
-      "duration_ms": 217588,
-      "name": "Si Me Faltas Tu",
-      "url": "https://open.spotify.com/track/0ei3cuKOiBVDlbznVMrCbi"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Mariachi from Mexico",
         "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 174093,
       "name": "Que no quede huella",
       "url": "https://open.spotify.com/track/1IpS7AlHPQ4B4AXspsGAq3"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Si Me Faltas Tu",
+        "url": "https://open.spotify.com/album/2TUNJosqZo997I9rAyS4aT"
+      },
+      "artists": [
+        {
+          "name": "Marta Jobim",
+          "url": "https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj"
+        }
+      ],
+      "duration_ms": 217588,
+      "name": "Si Me Faltas Tu",
+      "url": "https://open.spotify.com/track/0ei3cuKOiBVDlbznVMrCbi"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Un Rinconcito En El Cielo",
-        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
-      },
-      "artists": [
-        {
-          "name": "M.O.Y.A.",
-          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
-        }
-      ],
-      "duration_ms": 251294,
-      "name": "Un Rinconcito En El Cielo",
-      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "A Traves Del Vaso",
         "url": "https://open.spotify.com/album/3Bd1WTH6KioFvYuv8Z0hOB"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 200569,
       "name": "A Traves Del Vaso",
       "url": "https://open.spotify.com/track/1hkqXThaFrtIvAtH1Pq7zz"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Un Rinconcito En El Cielo",
+        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
+      },
+      "artists": [
+        {
+          "name": "M.O.Y.A.",
+          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
+        }
+      ],
+      "duration_ms": 251294,
+      "name": "Un Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Y Todo Para Que",
+        "url": "https://open.spotify.com/album/4NZRI46AsgksuR6cCX2vFc"
+      },
+      "artists": [
+        {
+          "name": "Nora Levario",
+          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
+        }
+      ],
+      "duration_ms": 152372,
+      "name": "Y Todo Para Que",
+      "url": "https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Una Vez Mas",
         "url": "https://open.spotify.com/album/3J0EfavosSEhLq5BeZgtqw"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 192000,
       "name": "Aguanta Coraz\u00f3n",
       "url": "https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Y Todo Para Que",
-        "url": "https://open.spotify.com/album/4NZRI46AsgksuR6cCX2vFc"
-      },
-      "artists": [
-        {
-          "name": "Nora Levario",
-          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
-        }
-      ],
-      "duration_ms": 152372,
-      "name": "Y Todo Para Que",
-      "url": "https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Con Tus Besos",
-        "url": "https://open.spotify.com/album/2Axb9UEbrrWZuhZHGgEh8E"
-      },
-      "artists": [
-        {
-          "name": "Palladinos",
-          "url": "https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf"
-        }
-      ],
-      "duration_ms": 158996,
-      "name": "Con Tus Besos",
-      "url": "https://open.spotify.com/track/6cV5ZLSn6boxiNG2ZQAzB9"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "La Incondicional",
         "url": "https://open.spotify.com/album/0jFyqIlb60Syz3EWhszmEE"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 180794,
       "name": "La Incondicional",
       "url": "https://open.spotify.com/track/3kPxCBbjKUubZRo9fSCtJg"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Con Tus Besos",
+        "url": "https://open.spotify.com/album/2Axb9UEbrrWZuhZHGgEh8E"
+      },
+      "artists": [
+        {
+          "name": "Palladinos",
+          "url": "https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf"
+        }
+      ],
+      "duration_ms": 158996,
+      "name": "Con Tus Besos",
+      "url": "https://open.spotify.com/track/6cV5ZLSn6boxiNG2ZQAzB9"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Alma Enamorada",
-        "url": "https://open.spotify.com/album/5kjOv0KKGmRqgYGPA4BFJv"
-      },
-      "artists": [
-        {
-          "name": "Arturo Jimenes",
-          "url": "https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr"
-        }
-      ],
-      "duration_ms": 243500,
-      "name": "Alma Enamorada",
-      "url": "https://open.spotify.com/track/475CRI2f2N51OgUuwO4svT"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Simplemente Gracias",
         "url": "https://open.spotify.com/album/19mlWCpjnmnAXYrsYnS7iV"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 171454,
       "name": "Simplemente Gracias",
       "url": "https://open.spotify.com/track/7ebRw8NKRtmfmeOMpLeOYn"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Alma Enamorada",
+        "url": "https://open.spotify.com/album/5kjOv0KKGmRqgYGPA4BFJv"
+      },
+      "artists": [
+        {
+          "name": "Arturo Jimenes",
+          "url": "https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr"
+        }
+      ],
+      "duration_ms": 243500,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/475CRI2f2N51OgUuwO4svT"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Un Millon De Rosas",
-        "url": "https://open.spotify.com/album/0FIqFme3N87WDIyChM5Nev"
-      },
-      "artists": [
-        {
-          "name": "Francis Nola",
-          "url": "https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Un Millon De Rosas",
-      "url": "https://open.spotify.com/track/50NES9jC00ahT1JEhHgIjS"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Solo Vine A Despedirme",
         "url": "https://open.spotify.com/album/3Nk0RzuCU6NnEfWnDVDTtm"
       },
@@ -1755,18 +1739,38 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Recuerdos De Mi Tierra",
-        "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
+        "name": "Un Millon De Rosas",
+        "url": "https://open.spotify.com/album/0FIqFme3N87WDIyChM5Nev"
       },
       "artists": [
         {
-          "name": "Mariachi Premier",
-          "url": "https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea"
+          "name": "Francis Nola",
+          "url": "https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah"
         }
       ],
-      "duration_ms": 181757,
-      "name": "Volver, Volver",
-      "url": "https://open.spotify.com/track/3f8BsxS5vySEQzocBF2CMQ"
+      "duration_ms": 179250,
+      "name": "Un Millon De Rosas",
+      "url": "https://open.spotify.com/track/50NES9jC00ahT1JEhHgIjS"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Alma Mexicana",
+        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
+      },
+      "artists": [
+        {
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        },
+        {
+          "name": "David Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
+        }
+      ],
+      "duration_ms": 145669,
+      "name": "Cuando Brille El Sol",
+      "url": "https://open.spotify.com/track/1ySHobU6CwzjPlcBs54bWd"
     }
   ],
   "unique_name": "Caf\u00e9 de Olla",

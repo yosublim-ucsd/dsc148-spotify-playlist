@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1659986,
+  "num_followers": 1660497,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjE5Njg1YWE5ZjU5OTk3NDJhYTkxYzFmZmY5MjJkOGY5YTU0MGZj",
+  "snapshot_id": "MCxiNDFlZTBmYmRkY2FhNTZlYWZhYmFjODJlOGRmYWQwYzNlZDUxNDI2",
   "tracks": [
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Leaving Through The Window",
-        "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
-      },
-      "artists": [
-        {
-          "name": "Something Corporate",
-          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Punk Rock Princess",
-      "url": "https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Crisis",
         "url": "https://open.spotify.com/album/1eAMmJv65w0W2w50HDmTEw"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 243466,
       "name": "This Could Be Anywhere In The World",
       "url": "https://open.spotify.com/track/6hKnIY2Ssrmqw2TYXW0K5e"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Leaving Through The Window",
+        "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
+      },
+      "artists": [
+        {
+          "name": "Something Corporate",
+          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Punk Rock Princess",
+      "url": "https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Leaving Through The Window",
-        "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
-      },
-      "artists": [
-        {
-          "name": "Something Corporate",
-          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-        }
-      ],
-      "duration_ms": 252866,
-      "name": "I Woke Up In A Car",
-      "url": "https://open.spotify.com/track/3kaK1EohdhDXT5ICBMRGkz"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Decadence",
         "url": "https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6"
       },
@@ -1423,22 +1407,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "We The Kings",
-        "url": "https://open.spotify.com/album/34lYm54X8P7MO9LezUTmQL"
-      },
-      "artists": [
-        {
-          "name": "We The Kings",
-          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
-        }
-      ],
-      "duration_ms": 205209,
-      "name": "Skyway Avenue",
-      "url": "https://open.spotify.com/track/2UVY6DZVBuGUKWKqKqJsbB"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Full Collapse",
         "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
       },
@@ -1451,6 +1419,38 @@
       "duration_ms": 264546,
       "name": "Understanding In A Car Crash",
       "url": "https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Leaving Through The Window",
+        "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
+      },
+      "artists": [
+        {
+          "name": "Something Corporate",
+          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+        }
+      ],
+      "duration_ms": 252866,
+      "name": "I Woke Up In A Car",
+      "url": "https://open.spotify.com/track/3kaK1EohdhDXT5ICBMRGkz"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "We The Kings",
+        "url": "https://open.spotify.com/album/34lYm54X8P7MO9LezUTmQL"
+      },
+      "artists": [
+        {
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+        }
+      ],
+      "duration_ms": 205209,
+      "name": "Skyway Avenue",
+      "url": "https://open.spotify.com/track/2UVY6DZVBuGUKWKqKqJsbB"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Dear Diary, My Teen Angst Has A Body Count",
-        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 233762,
-      "name": "Note to Self",
-      "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Everything In Transit",
         "url": "https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 229320,
       "name": "Say Anything (Else)",
       "url": "https://open.spotify.com/track/4YoM9p4lEpwPHKE16j3VGJ"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Dear Diary, My Teen Angst Has A Body Count",
+        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "duration_ms": 233762,
+      "name": "Note to Self",
+      "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Worship And Tribute (U.S. Version)",
-        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 303093,
-      "name": "Ape Dos Mil",
-      "url": "https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Tell All Your Friends (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 211546,
       "name": "Cute Without The 'E' (Cut From The Team)",
       "url": "https://open.spotify.com/track/0ObyshwXoUY4NTib9v2eji"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Worship And Tribute (U.S. Version)",
+        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 303093,
+      "name": "Ape Dos Mil",
+      "url": "https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA"
     },
     {
       "added_at": "2024-01-26 17:11:01",

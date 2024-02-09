@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 74515,
+  "2024-02-09": 74588,
   "date_first_scraped": "2022-05-23",
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
   "name": "We Love Corridos Viejitos ",
@@ -805,6 +805,24 @@
       "duration_ms": 162453,
       "name": "El 24 De Junio",
       "url": "https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz"
+    },
+    {
+      "album": {
+        "name": "Sus Mas Grandes Exitos",
+        "url": "https://open.spotify.com/album/4KKB85ZOmzv68N5UELFUpS"
+      },
+      "artists": [
+        {
+          "name": "Luis P\u00e9rez Meza",
+          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164080,
+      "name": "El Barzon",
+      "url": "https://open.spotify.com/track/3QwBIH2IqujOVmZmnymHFa"
     },
     {
       "album": {
@@ -3925,7 +3943,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 287080,
       "name": "Valente Quintero",
       "url": "https://open.spotify.com/track/4de4ivYcmGbVwkyi8nPdZ8"

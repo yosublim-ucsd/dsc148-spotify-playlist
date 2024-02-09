@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 1180424,
+  "2024-02-09": 1180544,
   "date_first_scraped": "2021-12-21",
   "description": "Kick back with the perfect mix of covers.",
   "name": "Ultimate Covers",
@@ -1395,6 +1395,24 @@
       "duration_ms": 193266,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/2rU70oQ4Ioun0sujdlHlkV"
+    },
+    {
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/3Q2vDJ86mDQYcvOcd5sWwn"
+      },
+      "artists": [
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173174,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/3dqUv6E7L24BDImpGJWYGL"
     },
     {
       "album": {
@@ -6259,7 +6277,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 160733,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/625ZpDbngDHqNgjoGiCgBp"
@@ -10867,7 +10885,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 140480,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/4AvvHmGzjW8Y7JZlq51NAQ"
@@ -11359,7 +11377,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 235579,
       "name": "What I Am - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"

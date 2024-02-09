@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist\. Cover: $hyli
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,942 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,943 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 49 | [Local User](https://open.spotify.com/track/5AGCOTqQFkduMlmnnJ956F) | [Ratigan Era](https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0) | [Local User](https://open.spotify.com/album/4QRbdXprHRHrcjyJ3vONzK) | 2:32 |
 | 50 | [So](https://open.spotify.com/track/2hkp6EYhYTK2PsPudbVCln) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [So](https://open.spotify.com/album/4sfnKwliqQwTGUpmO3SM1l) | 3:01 |
 
-Snapshot ID: `MCw2MDQ3YjFlNTAyZjBjZDM2YjVmNTBiN2I2OTMyY2E4NDk1NWUwMGFm`
+Snapshot ID: `MCxhYTY4MDQ0Y2Q5MDUxNzgwNGZjZjI3ZDg2NWJkNWViMjEyMmIzYTM1`

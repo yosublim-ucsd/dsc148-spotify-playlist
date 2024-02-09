@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: That Mexican OT, DaBaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,855 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,887 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [SUKI](https://open.spotify.com/track/1GegKRYsUlq6y1Rlm5p6TB) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [SUKI](https://open.spotify.com/album/5NpLmvLMrog7sbelVCasSa) | 2:07 |
 | 50 | [Sundown \(feat\. JID\)](https://open.spotify.com/track/0peWrHmZmYS4D77vJJDMhJ) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Sundown \(feat\. JID\)](https://open.spotify.com/album/3Bhw6mGopsWHhS4OlCGDe3) | 2:37 |
 
-Snapshot ID: `MCwzNDQyZDExYThjZTU1NGM0NGZhZTMzYWJmODEyMDc5NTg5M2VhNzI3`
+Snapshot ID: `MCxhNGM5MDc3MDNkNTMxYmM1NTc4OTc0NDA2N2E4MjI2MTg3NjU4ZWFk`

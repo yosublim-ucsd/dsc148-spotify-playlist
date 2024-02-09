@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 32114,
+  "num_followers": 32141,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWRmZGU2NDJiMWNjNWE0MjA4MmIyYjdiNzZjYzViYjRhMzYxNjEw",
+  "snapshot_id": "MCwwNTE4YjY1NTYyYzg2ZDAxOWYyZmJkMmM0NjUwMTU4Yjg3YjUzN2U2",
   "tracks": [
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1407,22 +1407,18 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Decision Unanime",
-        "url": "https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz"
+        "name": "Here comes... Tito Puente!",
+        "url": "https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 323266,
-      "name": "Puerto Rico 2006 (feat. Eddie Palmieri)",
-      "url": "https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9"
+      "duration_ms": 167133,
+      "name": "Mambo Goz\u00f3n",
+      "url": "https://open.spotify.com/track/2P12SmID74922J8JwQd90j"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1443,18 +1439,22 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Here comes... Tito Puente!",
-        "url": "https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw"
+        "name": "Decision Unanime",
+        "url": "https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz"
       },
       "artists": [
         {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 167133,
-      "name": "Mambo Goz\u00f3n",
-      "url": "https://open.spotify.com/track/2P12SmID74922J8JwQd90j"
+      "duration_ms": 323266,
+      "name": "Puerto Rico 2006 (feat. Eddie Palmieri)",
+      "url": "https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9"
     },
     {
       "added_at": "2023-10-19 19:33:34",

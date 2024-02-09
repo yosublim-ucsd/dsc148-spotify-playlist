@@ -1,12 +1,12 @@
 {
   "description": "The Official EA SPORTS F1 23 Soundtrack",
-  "num_followers": 25208,
+  "num_followers": 25259,
   "original_name": "F1 23 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODVmZjQ5MGQwYTRkZGNlNzYyZTIyNzBhYzQ1NTgwYjljNzNjY2Nm",
+  "snapshot_id": "MCwyNzI0NDk3MDI1OTk3MGNiY2I1N2E0Njk2MDU3Yzc3ZmUyZjlmMDk3",
   "tracks": [
     {
       "added_at": "2023-06-05 14:52:17",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-06-05 14:52:17",
       "album": {
-        "name": "FORFEIT",
-        "url": "https://open.spotify.com/album/2BXeD1kVZRzkXn563w7vd5"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "FORFEIT",
-      "url": "https://open.spotify.com/track/540ikgaUcx6N1SNX5JfqId"
-    },
-    {
-      "added_at": "2023-06-05 14:52:17",
-      "album": {
         "name": "Crazy Life",
         "url": "https://open.spotify.com/album/73j3szStTnau2muNhow0Vz"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 224080,
       "name": "I Do You",
       "url": "https://open.spotify.com/track/2quYVfmHHIpVJQduMAkHtk"
+    },
+    {
+      "added_at": "2023-06-05 14:52:17",
+      "album": {
+        "name": "FORFEIT",
+        "url": "https://open.spotify.com/album/2BXeD1kVZRzkXn563w7vd5"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "FORFEIT",
+      "url": "https://open.spotify.com/track/540ikgaUcx6N1SNX5JfqId"
     },
     {
       "added_at": "2023-06-05 14:52:17",

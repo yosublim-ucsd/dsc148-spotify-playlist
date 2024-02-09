@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Lindsay Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,656 likes - 176 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,671 likes - 176 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 162 | [From The Dust](https://open.spotify.com/track/1kDmlwmcDxHS4KSvNQeyg8) | [Megan Brown](https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb) | [From The Dust](https://open.spotify.com/album/0kLLLg6wjPc9RjJOaHHhZE) | 3:08 |
 | 163 | [By and By](https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 4:40 |
 | 164 | [Hometown](https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:00 |
-| 165 | [Father Time](https://open.spotify.com/track/2BtUVOfF9KJdFoUfR7VIqb) | [Highland Reverie](https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2) | [Father Time](https://open.spotify.com/album/4hAgFDtiwPdjzIMxnbK7lJ) | 2:24 |
+| 165 | [Father Time](https://open.spotify.com/track/3RDkbfE2OJTGdYWqFAkELg) | [Highland Reverie](https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2) | [Highland Reverie](https://open.spotify.com/album/12vzpkWTObSLDmFcp2XUUS) | 2:24 |
 | 166 | [Whiskey](https://open.spotify.com/track/304pRAROhKx7jQdNYztux2) | [Tejon Street Corner Thieves](https://open.spotify.com/artist/3k9kCfMqAsrd90TMsYzzmo) | [Whiskey](https://open.spotify.com/album/63fTnMULwSceWns5rETNHV) | 4:01 |
 | 167 | [Brighter Side](https://open.spotify.com/track/1DhfVYEH0hco7SKMVPYe7X) | [The Brothers Reed](https://open.spotify.com/artist/3vYzsWVBNoIKJZuM1F4VLz) | [The Wheres and the Whatnots](https://open.spotify.com/album/3ehFtxicfQfb1k5YVaJOoX) | 3:40 |
 | 168 | [Edges Run](https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:14 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 175 | [Part of Life](https://open.spotify.com/track/0BAVO0LRCe7CZzodzCFmal) | [Josh Oliver](https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv) | [Part of Life](https://open.spotify.com/album/5QOtllslGWHQJg4u1T6GyD) | 3:06 |
 | 176 | [Easton](https://open.spotify.com/track/7zAYWInWkAiJ72hgpABu3F) | [Rachel Sumner](https://open.spotify.com/artist/5PYJwfdGBtiT2NuH0Z1CqU) | [Rachel Sumner & Traveling Light](https://open.spotify.com/album/4kZeNt7qRwoO8KTOgQ0QTb) | 5:34 |
 
-Snapshot ID: `MCwwMzg0N2U3MzM0ZmEwNWVmY2I5MjMzZDE0NGQwMTc0YTQ1MTE3NWVm`
+Snapshot ID: `MCwzYmU3NTVmNzA4MjVkOWQzNDI4YWQzZDVkOTc0ODdhZjg2YjJjMWU0`

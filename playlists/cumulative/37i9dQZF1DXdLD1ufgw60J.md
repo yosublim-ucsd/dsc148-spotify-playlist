@@ -4,7 +4,7 @@
 
 > The perfect classical side\-dish to some light chopping, stirring and seasoning.
 
-116 songs - 6 hr 59 min
+117 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [4 Impromptus, Op\. 90, D\. 899: No\. 3 in G\-flat major](https://open.spotify.com/track/1Uld5u6GAksDqd6K8xnmGS) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Schubert](https://open.spotify.com/album/073hIhdGDDOfOXDiYvO0kC) | 6:17 | 2021-01-06 |  |
 | [5 Preludes, Op\. 16: No\. 1\. in B Major, Andante](https://open.spotify.com/track/2oiwerDreJsHE00ugpaNhu) | [Alexander Scriabin](https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV), [Zlata Chochieva](https://open.spotify.com/artist/17Lk8hvcGG9cqBLZUNHFSj) | [Chiaroscuro](https://open.spotify.com/album/6XdnO3iuc67En8oYAxxfzl) | 2:50 | 2022-07-01 |  |
 | [6 Impromptus, Op\. 5: Impromptu VI](https://open.spotify.com/track/1juisCcrVdwoLbDWyVvNrX) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Sibelius](https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe) | 6:09 | 2021-01-06 | 2022-03-30 |
-| [A Fancy, P\. 73](https://open.spotify.com/track/1CgXMEb8LuhC8gl7JyQCMP) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Jonas Nordberg](https://open.spotify.com/artist/3NWJE9fTGvv1CGaFiO3KVd) | [Lessons](https://open.spotify.com/album/79dOK9xGXch4yTUf3ePR75) | 3:07 | 2022-07-01 |  |
+| [A Fancy, P\. 73](https://open.spotify.com/track/1CgXMEb8LuhC8gl7JyQCMP) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Jonas Nordberg](https://open.spotify.com/artist/3NWJE9fTGvv1CGaFiO3KVd) | [Lessons](https://open.spotify.com/album/79dOK9xGXch4yTUf3ePR75) | 3:07 | 2022-07-01 | 2024-02-09 |
+| [A Fancy, P\. 73](https://open.spotify.com/track/5BW3zrZbcu8X1AVL3wdjdZ) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Jonas Nordberg](https://open.spotify.com/artist/3NWJE9fTGvv1CGaFiO3KVd) | [Lessons](https://open.spotify.com/album/0cUarNoRtXcXbonfbur1Et) | 3:07 | 2022-09-02 |  |
 | [Adagio](https://open.spotify.com/track/41rd5DLRGewAVRNfSvtqLB) | [Alessandro Marcello](https://open.spotify.com/artist/36VGTEPZnpAU5FfivpFaJO), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [J\. S\. Bach: Klavierkonzerte](https://open.spotify.com/album/0esvCMgp3mvHC89pPbpPuO) | 2:49 | 2021-01-06 | 2022-03-30 |
 | [Adagio in D Minor, BWV 974: II\. Adagio](https://open.spotify.com/track/4a8dR8XKOBOMxUSr8UT58W) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Bach: Concertos italiens](https://open.spotify.com/album/5evVqOt9b6mgDO6Cqfik0F) | 4:13 | 2022-05-11 | 2022-07-29 |
 | [Adelaide, S\. 466 \(After Beethoven\): II\. Allegro](https://open.spotify.com/track/6x0QNXwbXRm91aynfkCDOg) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Can Çakmur](https://open.spotify.com/artist/2ScGWqzdQcdVI2OKeZRrSu) | [Beethoven, Schubert, Haydn & Others: Piano Works](https://open.spotify.com/album/453iD2zpkPehKpYYILKXyp) | 3:29 | 2022-03-29 | 2022-05-12 |

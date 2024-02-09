@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Ariel Donato, MC Cabelinho, Marina Sena",
-  "num_followers": 290823,
+  "num_followers": 290803,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGQzNWQ4OTNlZmM5YzRjN2E5NjNjZTQ4ODE2MzU1NGYyY2ZjZjQ2",
+  "snapshot_id": "MCxlODM4OTdhMGEwZTZhOTZjMzJiYTA2YzgzZjIyNTdlYTc4MDJkMmFi",
   "tracks": [
     {
       "added_at": "2024-02-02 18:51:33",
@@ -527,30 +527,6 @@
     {
       "added_at": "2024-02-02 18:51:33",
       "album": {
-        "name": "Meu Tom",
-        "url": "https://open.spotify.com/album/1scxBLyeF8CmbdErwhZgHj"
-      },
-      "artists": [
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 203896,
-      "name": "Massagem",
-      "url": "https://open.spotify.com/track/0rJvi7IQP6JLO5djPLvaZx"
-    },
-    {
-      "added_at": "2024-02-02 18:51:33",
-      "album": {
         "name": "Luz Acesa",
         "url": "https://open.spotify.com/album/1MVOG9MC3OaC4Mli2NPsQX"
       },
@@ -571,6 +547,30 @@
       "duration_ms": 138139,
       "name": "Luz Acesa",
       "url": "https://open.spotify.com/track/2GNXsFAXEdPDxHxN4NSDSE"
+    },
+    {
+      "added_at": "2024-02-02 18:51:33",
+      "album": {
+        "name": "Meu Tom",
+        "url": "https://open.spotify.com/album/1scxBLyeF8CmbdErwhZgHj"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 203896,
+      "name": "Massagem",
+      "url": "https://open.spotify.com/track/0rJvi7IQP6JLO5djPLvaZx"
     },
     {
       "added_at": "2024-02-02 18:51:33",
@@ -659,30 +659,6 @@
     {
       "added_at": "2024-02-02 18:51:33",
       "album": {
-        "name": "Carta Branca",
-        "url": "https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU"
-      },
-      "artists": [
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "Carta Branca",
-      "url": "https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1"
-    },
-    {
-      "added_at": "2024-02-02 18:51:33",
-      "album": {
         "name": "Ac\u00fastico Canc\u00fan",
         "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
       },
@@ -747,6 +723,30 @@
       "duration_ms": 183265,
       "name": "Teu Sorriso",
       "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
+    },
+    {
+      "added_at": "2024-02-02 18:51:33",
+      "album": {
+        "name": "Carta Branca",
+        "url": "https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "Carta Branca",
+      "url": "https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1"
     },
     {
       "added_at": "2024-02-02 18:51:33",
@@ -991,6 +991,26 @@
     {
       "added_at": "2024-02-02 18:51:33",
       "album": {
+        "name": "Arcano 19 (Deluxe)",
+        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
+    },
+    {
+      "added_at": "2024-02-02 18:51:33",
+      "album": {
         "name": "Ac\u00fastico 10 Anos Cacife",
         "url": "https://open.spotify.com/album/3xb7Esv7HNcnZkG8OKVGKs"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 225856,
       "name": "Agradecer - Ao Vivo",
       "url": "https://open.spotify.com/track/1e6aaXjCWyJXGfEJVD5WEv"
-    },
-    {
-      "added_at": "2024-02-02 18:51:33",
-      "album": {
-        "name": "Arcano 19 (Deluxe)",
-        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        }
-      ],
-      "duration_ms": 249798,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
     },
     {
       "added_at": "2024-02-02 18:51:33",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2024-02-02 18:51:33",
       "album": {
+        "name": "Ref\u00e9m",
+        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
+    },
+    {
+      "added_at": "2024-02-02 18:51:33",
+      "album": {
         "name": "Ac\u00fastico Altamira #20 - Mulher Carioca",
         "url": "https://open.spotify.com/album/7IaErXiyLBdaxKDqzd892m"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 197083,
       "name": "Efeito Brasa",
       "url": "https://open.spotify.com/track/0NMLNyUSHexdZXeVOBnry0"
-    },
-    {
-      "added_at": "2024-02-02 18:51:33",
-      "album": {
-        "name": "Ref\u00e9m",
-        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
     },
     {
       "added_at": "2024-02-02 18:51:33",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-02-02 18:51:33",
       "album": {
-        "name": "Nenhuma Outra Mulher",
-        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 147025,
-      "name": "Nenhuma Outra Mulher",
-      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
-    },
-    {
-      "added_at": "2024-02-02 18:51:33",
-      "album": {
         "name": "Voc\u00ea Falou pra Mim",
         "url": "https://open.spotify.com/album/3C4GwIc7117OxDuu66G248"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 206451,
       "name": "Sentir Saudade",
       "url": "https://open.spotify.com/track/4LuSl1ajXHPZB1gGWQ069n"
+    },
+    {
+      "added_at": "2024-02-02 18:51:33",
+      "album": {
+        "name": "Nenhuma Outra Mulher",
+        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 147025,
+      "name": "Nenhuma Outra Mulher",
+      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
     },
     {
       "added_at": "2024-02-02 18:51:33",

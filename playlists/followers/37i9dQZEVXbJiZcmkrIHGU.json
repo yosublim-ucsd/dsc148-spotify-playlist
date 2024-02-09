@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 2142297,
+  "2024-02-09": 2142324,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Germany.",
   "name": "Top 50 - Germany",
@@ -14761,7 +14761,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -16317,7 +16317,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 169510,
       "name": "Generation",
       "url": "https://open.spotify.com/track/1OSuzW75FOtBdDNTuWM3wy"

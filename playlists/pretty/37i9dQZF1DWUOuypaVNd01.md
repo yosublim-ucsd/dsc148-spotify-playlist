@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Nebrugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,311 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,323 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 40 | [SOBE O MORRO](https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [SOBE O MORRO](https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl) | 2:42 |
 | 41 | [TODO DIA](https://open.spotify.com/track/5TV95jrxQilQxTLFok8kxK) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [TODO DIA \- \(Drill de Verão\)](https://open.spotify.com/album/6kmklNIw2GN520PAZsAj0m) | 1:43 |
 | 42 | [Mente Livre 2.0](https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs) | [Mente Livre 2.0](https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD) | 3:28 |
-| 43 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
-| 44 | [Paco de 100](https://open.spotify.com/track/7K8uNMveijYGBeOQ3cR9wo) | [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s) | [Paco de 100](https://open.spotify.com/album/7fdTm9HaWOebHU81vG2vDE) | 2:53 |
+| 43 | [Paco de 100](https://open.spotify.com/track/7K8uNMveijYGBeOQ3cR9wo) | [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s) | [Paco de 100](https://open.spotify.com/album/7fdTm9HaWOebHU81vG2vDE) | 2:53 |
+| 44 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 | 45 | [Glória](https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k), [Nauak](https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu), [Muxima MC](https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V), [Moraez](https://open.spotify.com/artist/7EUGyvtmko0FzyKP7oEXsa) | [Glória](https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs) | 3:49 |
 | 46 | [rua escura](https://open.spotify.com/track/2Rw75HrWlCWi3is9l0jFax) | [Marabu](https://open.spotify.com/artist/0zx6DsOmLeuqXd9Ea9NIZc), [Ôbigo](https://open.spotify.com/artist/5GdbPRuCtjgWQ56Ab9MoCC) | [DIMALOKA, Vol.1: Denso](https://open.spotify.com/album/5f9LfhmljlqYlEVLEYImuC) | 3:00 |
 | 47 | [Chavão](https://open.spotify.com/track/5sz8xfbQ7dkr4ggUZpATok) | [Ney Rodrí](https://open.spotify.com/artist/10SGtgEezop7sV6Le4UoLf), [DANDARO$](https://open.spotify.com/artist/2cJn9KL6C7AkdgsCV7XTCR) | [Chavão](https://open.spotify.com/album/0ZATod1zpCGAnD5gNin9CN) | 1:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Mais Preciso](https://open.spotify.com/track/4rz6sfePVV4bYWInrvaJnc) | [MC Murilo ZS](https://open.spotify.com/artist/4cZt4IBdd98Z4D0HcRGppp) | [Mais Preciso](https://open.spotify.com/album/4CblFwqBXxuBE4Bub9XPsv) | 1:28 |
 | 50 | [RJ CLIMA HOSTIL](https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [FILHO PRÓDIGO 2](https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2) | 2:13 |
 
-Snapshot ID: `MCw3NjM5YzE2MTJjZWFmYWVjYjcxY2IwOWM5YTYyMTAwYjlhNWQxMjA2`
+Snapshot ID: `MCxlMDVkMWEyNjk1MWU3NDE3MzFiY2IyNzQzZjZlZjVhOTY2Yzk5MWMy`

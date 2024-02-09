@@ -1,28 +1,44 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Cover: Wisp",
-  "num_followers": 143474,
+  "num_followers": 143750,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODk3ODVhMzExMTVjYTdmYjQ1YTNmYTk1OGM5ZDU5Nzg2NWNkMTM5",
+  "snapshot_id": "MCxmMWI2MTAyNTMwYzdlMmYwNDgzODA0NjFiZDY2MmFlNzA4MzM4NGMw",
   "tracks": [
     {
-      "added_at": "2024-01-24 18:15:05",
+      "added_at": "2024-02-09 00:10:45",
       "album": {
-        "name": "See you soon",
-        "url": "https://open.spotify.com/album/5zHP6l5Pc7gtmqwiXjb8bV"
+        "name": "foreversoon",
+        "url": "https://open.spotify.com/album/0DfOwAstY8aE4kWXgXa6o6"
       },
       "artists": [
         {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+          "name": "Glixen",
+          "url": "https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj"
         }
       ],
-      "duration_ms": 218283,
-      "name": "See you soon",
-      "url": "https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD"
+      "duration_ms": 223727,
+      "name": "foreversoon",
+      "url": "https://open.spotify.com/track/1A2qoClL5RvAVP8tpMoojq"
+    },
+    {
+      "added_at": "2024-02-09 00:10:45",
+      "album": {
+        "name": "Pools of Colour",
+        "url": "https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL"
+      },
+      "artists": [
+        {
+          "name": "junodream",
+          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
+        }
+      ],
+      "duration_ms": 254683,
+      "name": "The Oranges",
+      "url": "https://open.spotify.com/track/3MFYMNksTfegCcZ1c9SlaX"
     },
     {
       "added_at": "2024-01-12 17:24:07",
@@ -73,6 +89,22 @@
       "url": "https://open.spotify.com/track/4DF5TcXLWn0HF5YqLLiibG"
     },
     {
+      "added_at": "2024-01-24 18:15:05",
+      "album": {
+        "name": "See you soon",
+        "url": "https://open.spotify.com/album/5zHP6l5Pc7gtmqwiXjb8bV"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 218283,
+      "name": "See you soon",
+      "url": "https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD"
+    },
+    {
       "added_at": "2023-10-20 14:32:39",
       "album": {
         "name": "Census Designated",
@@ -105,10 +137,42 @@
       "url": "https://open.spotify.com/track/4mJz9boLlkYuZFue3Kn6gs"
     },
     {
-      "added_at": "2023-12-08 23:32:10",
+      "added_at": "2024-02-09 00:10:45",
       "album": {
-        "name": "Dead Lands",
-        "url": "https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8"
+        "name": "Pile Of Photos",
+        "url": "https://open.spotify.com/album/0A6aML1dOp5wjyTlGN54hg"
+      },
+      "artists": [
+        {
+          "name": "Dogs on Shady Lane",
+          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
+        }
+      ],
+      "duration_ms": 139778,
+      "name": "Pile Of Photos",
+      "url": "https://open.spotify.com/track/5HhovxxCSuL3nvIA0w6clY"
+    },
+    {
+      "added_at": "2023-12-11 17:12:40",
+      "album": {
+        "name": "The Twits",
+        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 179562,
+      "name": "my little tony",
+      "url": "https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73"
+    },
+    {
+      "added_at": "2024-02-09 00:10:45",
+      "album": {
+        "name": "Guilt",
+        "url": "https://open.spotify.com/album/4i6EDpxMc7kIQyO8RBUR8Z"
       },
       "artists": [
         {
@@ -116,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW"
         }
       ],
-      "duration_ms": 274714,
-      "name": "Dead Lands",
-      "url": "https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps"
+      "duration_ms": 298119,
+      "name": "Guilt",
+      "url": "https://open.spotify.com/track/1SvFhUMbsHWyAQR1ZNCiV1"
     },
     {
       "added_at": "2023-11-14 14:48:39",
@@ -153,20 +217,36 @@
       "url": "https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa"
     },
     {
-      "added_at": "2023-12-11 17:12:40",
+      "added_at": "2024-02-09 00:10:45",
       "album": {
-        "name": "The Twits",
-        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
+        "name": "hate life love you",
+        "url": "https://open.spotify.com/album/09HuQsnHZ3Au5cw9wrs5qZ"
       },
       "artists": [
         {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+          "name": "Gorgeous Bully",
+          "url": "https://open.spotify.com/artist/2rTfAlIGCbL5KEsonGRCnt"
         }
       ],
-      "duration_ms": 179562,
-      "name": "my little tony",
-      "url": "https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73"
+      "duration_ms": 137335,
+      "name": "hate life love you",
+      "url": "https://open.spotify.com/track/2acJJYZ1HM0N4gUmKacVZn"
+    },
+    {
+      "added_at": "2024-02-09 00:10:45",
+      "album": {
+        "name": "Studio 54",
+        "url": "https://open.spotify.com/album/0eP9LS0GwxgVtSuJBkEf67"
+      },
+      "artists": [
+        {
+          "name": "TTSSFU",
+          "url": "https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Studio 54",
+      "url": "https://open.spotify.com/track/3mxvUliPDlHWk9kCVRjwNJ"
     },
     {
       "added_at": "2024-01-12 17:24:07",
@@ -199,6 +279,22 @@
       "duration_ms": 93201,
       "name": "The Weed Supreme",
       "url": "https://open.spotify.com/track/515C6Le8zgtALLf5cwT7Za"
+    },
+    {
+      "added_at": "2024-02-09 00:10:45",
+      "album": {
+        "name": "Flesh Tape",
+        "url": "https://open.spotify.com/album/1ui9Z9p0vRRvnTrFk5aXJK"
+      },
+      "artists": [
+        {
+          "name": "Flesh Tape",
+          "url": "https://open.spotify.com/artist/2US2chOUWgrParRSXTZE3Z"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Gargoyle",
+      "url": "https://open.spotify.com/track/78Pa6VQi8WSq9We8ENTrZ9"
     },
     {
       "added_at": "2024-01-12 17:24:07",
@@ -311,6 +407,22 @@
       "duration_ms": 197000,
       "name": "Lonely Times",
       "url": "https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI"
+    },
+    {
+      "added_at": "2023-12-08 23:32:10",
+      "album": {
+        "name": "Dead Lands",
+        "url": "https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8"
+      },
+      "artists": [
+        {
+          "name": "Punchlove",
+          "url": "https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW"
+        }
+      ],
+      "duration_ms": 274714,
+      "name": "Dead Lands",
+      "url": "https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps"
     },
     {
       "added_at": "2023-06-07 17:01:15",

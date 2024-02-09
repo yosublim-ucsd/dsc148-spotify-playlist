@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-179 songs - 13 hr 56 min
+180 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Little Green Apples](https://open.spotify.com/track/1Fq5zGO9szoi1qhmAmedbT) | [Merit Hemmingson](https://open.spotify.com/artist/5xoFJP7qzaMcSAghFZXI4a) | [Merit!](https://open.spotify.com/album/4vXz5HHVIzciTPmFRaTXSi) | 4:22 | 2021-11-08 |  |
 | [Lochiel's warning](https://open.spotify.com/track/5cJPtbO8KZ8T9E8QNztPto) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz) | [Lochiel's Warning](https://open.spotify.com/album/4yihAq3PVW53MrJ1sjsTdO) | 5:48 | 2021-11-08 |  |
 | [Love in Its Splendor](https://open.spotify.com/track/41qmKHMIrsew65y5uhzg6O) | [Tonbruket](https://open.spotify.com/artist/5Txp8CzIIEwkALY9agmKpJ) | [Love in Its Splendor](https://open.spotify.com/album/5ENQwG6uYyKw183C0G0PDW) | 6:34 | 2023-09-22 |  |
+| [Love Walked In](https://open.spotify.com/track/7BkaPzb8GsWWh1OxXbt0oA) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv), [Hans Backenroth](https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD) | [Love Walked In](https://open.spotify.com/album/4AbaIBBWGhv7fOzE2YTcpI) | 4:53 | 2024-02-09 |  |
 | [Lugn i Stormen](https://open.spotify.com/track/0eZBiX6xeNcOnP7T2DXnIp) | [La La Lars](https://open.spotify.com/artist/4OIW2CNYqaBZ50PrqcNpyg) | [La La Lars IV](https://open.spotify.com/album/4gJWzcTebAoSDjdirNSXxv) | 3:04 | 2023-12-08 |  |
 | [Lullaby in Green](https://open.spotify.com/track/5HlmJxQcRjCFJ8ijKvwVK5) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Layers of Life](https://open.spotify.com/album/4zhb3DCfHH8ADFxBn0rirh) | 4:46 | 2023-03-02 |  |
 | [L’Est](https://open.spotify.com/track/1Ptjlatj2888WP6e2xkb4B) | [Oddjob](https://open.spotify.com/artist/47E6nlZGPwspT7lokggm4n) | [Kong](https://open.spotify.com/album/2hVca2VwJ2mauheWFaQs0v) | 4:44 | 2021-11-08 | 2022-07-29 |

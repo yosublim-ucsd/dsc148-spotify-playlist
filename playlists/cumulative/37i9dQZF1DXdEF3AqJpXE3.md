@@ -4,7 +4,7 @@
 
 > The best tracks from the world of music\. Cover: Ariana Grande
 
-70 songs - 3 hr 50 min
+71 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,5 +78,6 @@
 | [我期待的不是雪](https://open.spotify.com/track/2deIA64Gfsm50VTsKwrxnQ) | [张妙格](https://open.spotify.com/artist/7q6xird8xFNzgqQi60dwmj) | [我期待的不是雪](https://open.spotify.com/album/1oPwq4HtDm98CCZD8vrtZd) | 2:46 | 2024-01-17 |  |
 | [我走后 \- 发行版](https://open.spotify.com/track/32UZM0QSWwqzLbyr1YoS7x) | [小咪](https://open.spotify.com/artist/1EnZU1clkEHET416Er1WO2) | [我走后 \(发行版\)](https://open.spotify.com/album/0FFfONkUMV8s41EzZDUfiF) | 4:08 | 2024-01-17 |  |
 | [最對的錯](https://open.spotify.com/track/66eKr9Fr056udiV4TtTFVK) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [最對的錯](https://open.spotify.com/album/5ojlcwanBkYwWgagNEJlkB) | 3:52 | 2024-01-17 |  |
+| [龍龍的新年 Long Long New Year](https://open.spotify.com/track/5mqhmmcPlVCM46WtzeJOP8) | [Bingyen 郑斌彦](https://open.spotify.com/artist/5B3sXYh20CdngbsFfjezkb), [爱迪生](https://open.spotify.com/artist/5Lk5NRhttf21Zp9kYB5UnK), [刘伊幸](https://open.spotify.com/artist/0SaMi7TSuC9KNwQ3mOa1u2), [王希豪](https://open.spotify.com/artist/1G4x7TRhUlsFGYHliTKY5V), [小愛龍](https://open.spotify.com/artist/2R3jTH69e9VF7wQM8qKm0Z) | [龍龍的新年 Long Long New Year](https://open.spotify.com/album/7fmQw9GlZTWivhLyA1HkGz) | 3:18 | 2024-02-08 |  |
 
 \*This playlist was first scraped on 2024-01-21. Prior content cannot be recovered.

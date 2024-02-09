@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 66266,
+  "num_followers": 66287,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDhhNjVkZDVhYmE2NjM0NjJkMWRkOWIyNTZiNTZhNzFjN2RlYzc2",
+  "snapshot_id": "MCw3OGNkMjk0ZGM5YTVkZjQ5ZmI0OGFlNjMyYzEyNzA4YjhiNzIyOWE4",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Arterial",
-        "url": "https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH"
-      },
-      "artists": [
-        {
-          "name": "Lusine",
-          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
-        }
-      ],
-      "duration_ms": 254962,
-      "name": "Arterial",
-      "url": "https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Kindness",
         "url": "https://open.spotify.com/album/0qwpmqEpdq4ioxTMpQNq1t"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Luscious Rain",
-        "url": "https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv"
+        "name": "Arterial",
+        "url": "https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Lusine",
+          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
         }
       ],
-      "duration_ms": 189677,
-      "name": "Luscious Rain",
-      "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
+      "duration_ms": 254962,
+      "name": "Arterial",
+      "url": "https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -587,6 +571,22 @@
       "duration_ms": 272346,
       "name": "The Right Place (feat. Teira)",
       "url": "https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Luscious Rain",
+        "url": "https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Luscious Rain",
+      "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "When the Rain",
-        "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
-      },
-      "artists": [
-        {
-          "name": "Trudge",
-          "url": "https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG"
-        }
-      ],
-      "duration_ms": 400327,
-      "name": "Deep Eyes Blue Skies",
-      "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Years On Years (Remixes)",
         "url": "https://open.spotify.com/album/2Mb92lfeM1wG0qB8NK69Jy"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "LNOE Introducing Vol. 1",
-        "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
+        "name": "When the Rain",
+        "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
       },
       "artists": [
         {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+          "name": "Trudge",
+          "url": "https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG"
         }
       ],
-      "duration_ms": 322058,
-      "name": "Monolith",
-      "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
+      "duration_ms": 400327,
+      "name": "Deep Eyes Blue Skies",
+      "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -811,6 +795,22 @@
       "duration_ms": 397894,
       "name": "The Ganga river unpolluted once more",
       "url": "https://open.spotify.com/track/0JWrWRvxPc86sLSfnyhCBv"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "LNOE Introducing Vol. 1",
+        "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 322058,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -863,18 +863,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Dubmission (Original Edit)",
-        "url": "https://open.spotify.com/album/3gMvOnZHnahNKmw1k5MqJ4"
+        "name": "Occasional Magic Remixes EP",
+        "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
       },
       "artists": [
         {
-          "name": "Anja Schneider",
-          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+          "name": "Yppah",
+          "url": "https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U"
+        },
+        {
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
         }
       ],
-      "duration_ms": 395209,
-      "name": "Dubmission - Original",
-      "url": "https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs"
+      "duration_ms": 330145,
+      "name": "Occasional Magic - Ulrich Schnauss Remix",
+      "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
     }
   ],
   "unique_name": "Deep Study",

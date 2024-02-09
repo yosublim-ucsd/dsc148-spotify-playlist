@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,001 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,012 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Burn](https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf) | 2:23 |
 | 100 | [The End](https://open.spotify.com/track/5GLkDPQvFqsFgtiVkfbhx2) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [The End](https://open.spotify.com/album/0lKrUfcWPN31tzv9Fi7IAs) | 2:54 |
 
-Snapshot ID: `MCwwNjg4Mzk4OWZiYWJlZGVjOWVhYjE4NzEwNWY1ZjI0NTM5NjI5YWIz`
+Snapshot ID: `MCwxNGRjYjFlMTVjOTY0ZjFmYTExNDY5MjQ4NTQyMmU1NTA0MDcyMWFl`

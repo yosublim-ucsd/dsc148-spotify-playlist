@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195 likes - 246 songs - 14 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 211 likes - 246 songs - 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 74 | [Under Your Skin](https://open.spotify.com/track/3RB4mMjf2Ln4fDv3ylSoWI) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Under Your Skin](https://open.spotify.com/album/7kTa3EZsisqUfH9SA37oKe) | 3:08 |
 | 75 | [How We Roll](https://open.spotify.com/track/66PVdnWWemyJbvScVS6vJ0) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [CiCi](https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x) | 3:19 |
 | 76 | [Do Me](https://open.spotify.com/track/3wrFwkYDq5PgXNAFuHHhsT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:32 |
-| 77 | [Runnin'](https://open.spotify.com/track/0lgVoUJ2uVH9dwCFPJ3VI6) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Planet Vi](https://open.spotify.com/artist/4agw08n3c2hO48lNfaxJrt) | [Lace Up \(Deluxe\)](https://open.spotify.com/album/5NzdnPboXcqvuvyEH1wSEJ) | 2:47 |
+| 77 | [Runnin'](https://open.spotify.com/track/0lgVoUJ2uVH9dwCFPJ3VI6) | [MGK](https://open.spotify.com/artist/0jn47ZZH4HhX8JIGJUWSr0), [Planet Vi](https://open.spotify.com/artist/4agw08n3c2hO48lNfaxJrt) | [Lace Up \(Deluxe\)](https://open.spotify.com/album/5NzdnPboXcqvuvyEH1wSEJ) | 2:47 |
 | 78 | [Get up on My Level](https://open.spotify.com/track/6WYLTRkDw5PZj9vzI6Vnjq) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [By Any Means](https://open.spotify.com/album/5ZzFFF7wSMmGaIWjAHElnW) | 4:15 |
 | 79 | [Music For Love](https://open.spotify.com/track/5gikplVdSoYfG0YKCRuicp) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 3:49 |
 | 80 | [There Will Be Blood](https://open.spotify.com/track/75HFFq9W7Em0dTBG8QeGcT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:17 |
@@ -211,8 +211,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 201 | [Fall Back](https://open.spotify.com/track/3UmbvRKk9BYNhFhuHIRPv5) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Fall Back](https://open.spotify.com/album/46FToXWq82RQnC7hoKWBGF) | 3:34 |
 | 202 | [Text Message](https://open.spotify.com/track/24asXAMKi2sR36YThIVs5o) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Hollywood: A Story of a Dozen Roses \(Deluxe Version\)](https://open.spotify.com/album/79EyqF9taW9XFPKci2U5D9) | 4:06 |
 | 203 | [Makeup](https://open.spotify.com/track/1yVsXwUiSuINsTBXIhAhCk) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Departure \- Recharged](https://open.spotify.com/album/2tDCfKFy2YW9N0IwNSRdOJ) | 3:51 |
-| 204 | [On De Grind](https://open.spotify.com/track/7EaAqG0KtU3g04WemdCso5) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Crunk Rock \(Deluxe\)](https://open.spotify.com/album/49qpwRDGLfNAkUG9UeGoTV) | 4:18 |
-| 205 | [Anticipated](https://open.spotify.com/track/0iYjS6VpD8NcfG6MV8DRWn) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Closer to Mars](https://open.spotify.com/album/0GNt35HfNV0XbFXPbYNZbu) | 2:38 |
+| 204 | [Anticipated](https://open.spotify.com/track/0iYjS6VpD8NcfG6MV8DRWn) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Closer to Mars](https://open.spotify.com/album/0GNt35HfNV0XbFXPbYNZbu) | 2:38 |
+| 205 | [On De Grind](https://open.spotify.com/track/7EaAqG0KtU3g04WemdCso5) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Crunk Rock \(Deluxe\)](https://open.spotify.com/album/49qpwRDGLfNAkUG9UeGoTV) | 4:18 |
 | 206 | [Crazy Night \(feat\. R\. City\)](https://open.spotify.com/track/2AMFqw4VoOkSEmOT12VDib) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Untitled](https://open.spotify.com/album/3zlbXZZ6S0Wf29Eij8MCV9) | 3:34 |
 | 207 | [Amanama \- DJ Antoine vs\. Mad Mark Deluxe Edit](https://open.spotify.com/track/3s2QnfSIrCKO1y5wc4zUNa) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr) | [Welcome to DJ Antoine](https://open.spotify.com/album/5MtCt1WcTLyZ631UcvdWki) | 4:16 |
 | 208 | [Freaky](https://open.spotify.com/track/4KvmAkJH65OnA68GPaw61i) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Departure \- Recharged](https://open.spotify.com/album/2tDCfKFy2YW9N0IwNSRdOJ) | 3:36 |
@@ -255,4 +255,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 245 | [Treat](https://open.spotify.com/track/4ZiqVkjqQ5vgCWmMbo8wBM) | [Rice Krispies Treats](https://open.spotify.com/artist/7sypsCkKclWN3euFcaJIf6) | [Treat](https://open.spotify.com/album/2rzEqrSxpm9uQ2W6epyXre) | 2:46 |
 | 246 | [Closer](https://open.spotify.com/track/4Lar2nRAUCSGFNbw7995gi) | [Jah Patriot](https://open.spotify.com/artist/4W5RKsjBgeGJk5JgikxmZn) | [Blind Justice](https://open.spotify.com/album/5v24HOnEY07CArXQReEC84) | 3:56 |
 
-Snapshot ID: `Mjg0NTU5ODAsMDAwMDAwMDBjNDMxZmRkNzhlNTE1Y2U2OWQyYzRiMjkxY2I3ZWNjNQ==`
+Snapshot ID: `Mjg0NTc0MjAsMDAwMDAwMDA3YmJhNWZiNjhlOWZlNDIzMTAwNjY4YzQ0MGQ4N2YxNg==`

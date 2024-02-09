@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Jordan Mackampa
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,090 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,118 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Naked \- Feat\. Leven Kali](https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Naked \(Feat\. Leven Kali\)](https://open.spotify.com/album/7anDRgbTFWggPG51LUEhuG) | 3:04 |
 | 100 | [Bad Vibes \- Duss Hagen Remix](https://open.spotify.com/track/0FQLZBjjbgWPvywGYVi7qq) | [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK), [Duss Hagen](https://open.spotify.com/artist/5fMHCBdB7H8fyKwkQuiN9M) | [Bad Vibes \(Duss Hagen Remix\)](https://open.spotify.com/album/7JSqjbgXJIqndFYtLQe8XG) | 2:59 |
 
-Snapshot ID: `MCw3N2U2NzNlNTFiM2Q4NjBjZjJkOWQ2ZTI0NDcwOTZkYjI4NGUxYTMw`
+Snapshot ID: `MCxmN2UzYTA5ZDQzMmY3MTM4MWUwNmMwNzIxYTM0MGJlOTM3NzVhY2Y1`

@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-202 songs - 13 hr 11 min
+204 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Freesia](https://open.spotify.com/track/0LHwEY4ECqNf4t0JrSR9eH) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Freesia](https://open.spotify.com/album/15P9FU9R5jbBix4jIGPvBf) | 3:49 | 2022-08-18 |  |
 | [God Bless The Child](https://open.spotify.com/track/6EpATvQFAodhQrHKqsZStm) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [God Bless The Child](https://open.spotify.com/album/3QiXg44gYchM0zVHw4JgVz) | 4:16 | 2022-08-18 |  |
 | [Haze](https://open.spotify.com/track/3CGuaAf6lpT0bjutZ7DJt8) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Haze](https://open.spotify.com/album/0aRC6BqXtgWMaGPg9R9fcB) | 3:28 | 2022-08-18 |  |
+| [Hazel](https://open.spotify.com/track/31xTgQQsM0etDnwb6ziLbW) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [Hazel](https://open.spotify.com/album/0kTzgg4yQiJKfDymYvvqh9) | 3:51 | 2024-02-09 |  |
 | [Heyoke](https://open.spotify.com/track/00dxvvVllByEVaCnkLR1RL) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Heyoke](https://open.spotify.com/album/1qugT0donvhBonOVJIUjdy) | 4:09 | 2022-08-18 |  |
 | [How Deep Is The Ocean](https://open.spotify.com/track/3vJ0oV1CUjal1rIHqRI4is) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [How Deep Is The Ocean](https://open.spotify.com/album/4A5xzotabZ3PhlTTynmrWJ) | 3:46 | 2022-08-18 |  |
 | [I awake](https://open.spotify.com/track/6AianoPQwgFLarNY5s3ntc) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [I awake](https://open.spotify.com/album/1H478Tq3lKuqWtTdzhLa8q) | 4:05 | 2023-02-02 |  |
@@ -170,6 +171,7 @@
 | [Strawberry Snow Cones For Two](https://open.spotify.com/track/1j2stEmsymDnJNi1uPZ1rD) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Strawberry Snow Cones For Two](https://open.spotify.com/album/578scmNeIm4OpGwLnlAd8Q) | 3:34 | 2023-08-10 |  |
 | [Tangerine](https://open.spotify.com/track/5EudeHV7lSPc0n0J8C6yhq) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:20 | 2022-08-18 | 2023-05-05 |
 | [That's All](https://open.spotify.com/track/7s5Qv1HMy95TX9BtTK0vZ1) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Pres & Sweets](https://open.spotify.com/album/7KXxTr7CeyLtAnC6CtSNSO) | 4:38 | 2022-08-18 | 2023-06-02 |
+| [The Great Ennui](https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [The Great Ennui](https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U) | 3:21 | 2024-02-09 |  |
 | [The Imager](https://open.spotify.com/track/1mfuqzs480Ey1ia2Y7q7MH) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [The Imager](https://open.spotify.com/album/7y7VoIAYjag9EsvZpz4Dno) | 3:25 | 2022-08-18 |  |
 | [The Nearness Of You](https://open.spotify.com/track/1SKlVBEmde9eokyAvzI9lf) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [The Nearness Of You](https://open.spotify.com/album/16pqEckMdJpXjwpWRxZYyW) | 3:58 | 2022-08-18 |  |
 | [The Silver Lining](https://open.spotify.com/track/2TCPYusIb4KkgcijesJPx9) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Silver Lining](https://open.spotify.com/album/1clbyCl11JZL9cV00ldsVY) | 3:08 | 2022-08-18 |  |

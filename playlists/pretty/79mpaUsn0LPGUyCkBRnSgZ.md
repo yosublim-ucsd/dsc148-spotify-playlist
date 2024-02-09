@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 432 songs - 1 day 4 hr 17 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 433 songs - 1 day 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -440,5 +440,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 430 | [Femininomenon](https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:39 |
 | 431 | [White Room](https://open.spotify.com/track/47kKriL1d9WiVRBy0YxW5V) | [Mid\-Air Thief](https://open.spotify.com/artist/0zGRuj0aQ3mM6i2dQoO8h0) | [Gongjoong Doduk](https://open.spotify.com/album/6xzqytqEOwBgNIYaGzgTMR) | 4:24 |
 | 432 | [Wayside/Back in Time](https://open.spotify.com/track/7kBgZQP85cQBKKDTmjcDf3) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Soul Journey](https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr) | 3:28 |
+| 433 | [Hymne \- Remastered](https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 2:44 |
 
-Snapshot ID: `MTM0OCw0NzkyODJlOWJhODhmMDQ4MjA5N2E1MjRmZjU0MjNjODgzOTQzZWQ3`
+Snapshot ID: `MTM0OSxmM2JhZWM0YTVjMmJmZjNlODgzZGJmMTM0MWE1ZjA2MmZhMGU2YTRk`

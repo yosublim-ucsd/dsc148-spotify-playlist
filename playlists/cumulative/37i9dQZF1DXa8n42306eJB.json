@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203672,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
+    },
+    {
+      "album": {
         "name": "Banana (feat. Shaggy)",
         "url": "https://open.spotify.com/album/0SFHG3JKh2FMQTKaygT7zX"
       },
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 236120,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/784sJR2S68F1joSvINXhe0"
@@ -1944,6 +1962,24 @@
       "duration_ms": 210836,
       "name": "Proppa",
       "url": "https://open.spotify.com/track/2wrYYK6oe9Dt8og9BbvE3w"
+    },
+    {
+      "album": {
+        "name": "Midnite Sun",
+        "url": "https://open.spotify.com/album/1LlrPQwMd2vHi4K0BNMOCB"
+      },
+      "artists": [
+        {
+          "name": "SUB-TRIBE",
+          "url": "https://open.spotify.com/artist/4NRBNfnAtQXxVxevBvlXe2"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335615,
+      "name": "RED EARTH",
+      "url": "https://open.spotify.com/track/6AlNLU1fGiG5sKSAejLryj"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 73702,
+  "num_followers": 73697,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzFmZDJiMjkwYjk5NDY4Y2RlN2M5MmU3YTFlOWU3YjlhZDNjMjMw",
+  "snapshot_id": "MCwyZWNjMjRhNmNhYzk2OWFjOWUzMWVkOGZkMWM1NTFmN2JjYTVlOTZl",
   "tracks": [
     {
       "added_at": "2023-12-19 12:10:20",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
         "name": "Christmas With The Andrews Sisters",
         "url": "https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo"
       },
@@ -463,6 +479,22 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
+        "name": "The Voice Of Christmas - The Complete Decca Christmas Songbook",
+        "url": "https://open.spotify.com/album/2FQOz20SAkrmTXtce20DFA"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "The First Snowfall",
+      "url": "https://open.spotify.com/track/5RIh3Tsq9U7CAvivB2iB7q"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
         "name": "Christmas with My Friends VIII",
         "url": "https://open.spotify.com/album/3FozTn1Z7wjqbIz0TUa9aw"
       },
@@ -499,38 +531,6 @@
       "duration_ms": 159000,
       "name": "That's How I Picture Christmas Eve",
       "url": "https://open.spotify.com/track/7z7a4p1MrrSlnOIIYyMINs"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
-        "name": "The Voice Of Christmas - The Complete Decca Christmas Songbook",
-        "url": "https://open.spotify.com/album/2FQOz20SAkrmTXtce20DFA"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "The First Snowfall",
-      "url": "https://open.spotify.com/track/5RIh3Tsq9U7CAvivB2iB7q"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL"
     },
     {
       "added_at": "2023-12-19 12:10:20",

@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 217035,
+  "2024-02-09": 217361,
   "date_first_scraped": "2023-02-25",
   "description": "from Stillwater to Nashville with Wyatt Flores",
   "name": "homegrown",
@@ -111,6 +111,24 @@
       "duration_ms": 289653,
       "name": "7 & 7",
       "url": "https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT"
+    },
+    {
+      "album": {
+        "name": "A Cigarette",
+        "url": "https://open.spotify.com/album/6e4TRkJXdQCdj8x5Oj0v9u"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179882,
+      "name": "A Cigarette",
+      "url": "https://open.spotify.com/track/7kpCMD8iv4RC971CJRPZ3U"
     },
     {
       "album": {

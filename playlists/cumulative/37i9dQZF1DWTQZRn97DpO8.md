@@ -2,22 +2,23 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> Quand R&B francophone rime avec douceur 🍯\. Photo : Yamê
+> Quand R&B francophone rime avec douceur 🍯\. Photo : Wejdene
 
-102 songs - 4 hr 59 min
+104 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0](https://open.spotify.com/track/3K35huutmm1Nb1HxpBMJ7m) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [Interlude](https://open.spotify.com/album/4iPBppJLZG5mfmcZjEcmQ0) | 3:21 | 2023-09-28 |  |
 | [04:00](https://open.spotify.com/track/32LB7dP3aOmpNTESVZM0HP) | [Fallon](https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I) | [Abîmée](https://open.spotify.com/album/4gG8sBViv3SGYLSttTVCqd) | 1:38 | 2023-11-30 | 2024-01-26 |
 | [A toi](https://open.spotify.com/track/3B2ijizmagthifN7M7F4Zf) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [A toi](https://open.spotify.com/album/1TaHz0GIQppm4JsyLhobCJ) | 3:19 | 2023-09-28 |  |
+| [American Lover](https://open.spotify.com/track/5rPQtmG7DPQa3lRYAPc6B9) | [Aszul](https://open.spotify.com/artist/2IQSsvzilwzPzSDybnqAII) | [American Lover](https://open.spotify.com/album/3rmvnJO1F6ehtVPFoFTI6k) | 1:51 | 2024-02-08 |  |
 | [Anémone](https://open.spotify.com/track/67sUBaW1oE1xD19STSAXgE) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Galatée](https://open.spotify.com/album/0fYC25oqs9YmPIa3V09feB) | 3:49 | 2023-09-28 | 2023-11-24 |
 | [AVANT\-GOÛT](https://open.spotify.com/track/3tTfPUZSVYLYl8ntO9cQM0) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [AVANT\-GOÛT](https://open.spotify.com/album/0zR9WyWiuEzRYsuLb949NV) | 3:10 | 2023-09-28 | 2023-11-10 |
 | [Avec Toi](https://open.spotify.com/track/0X2jgXzlIaYfEvBze5h2vC) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Avec Toi](https://open.spotify.com/album/7kk0g6pZsVEQrw0abbqLRR) | 3:00 | 2023-09-28 |  |
 | [BAD GIRLS](https://open.spotify.com/track/1TtlUZyjlDxAU1bJUw7TuX) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [RESET](https://open.spotify.com/album/23lGhqrRevarvQiffZW90G) | 3:02 | 2024-02-01 |  |
 | [Bad Mood](https://open.spotify.com/track/1LpsOvHQ77GmWNgp8mxNyp) | [Kyma](https://open.spotify.com/artist/6wrf5UOcbmUA5P9h76uYit) | [Red Cloud](https://open.spotify.com/album/0hOHi6J9qejpTNaUfRkcSS) | 2:20 | 2023-09-28 | 2023-10-27 |
 | [Bijoux](https://open.spotify.com/track/1yCn9NNBPCJRud3aE5su7d) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [Bijoux](https://open.spotify.com/album/5u6lSDCLRY04TFacwR6fkI) | 3:05 | 2023-11-09 | 2024-01-19 |
-| [Boyfriend \- Acoustic](https://open.spotify.com/track/2ENr7qlJCeQee8S37EXAyQ) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [Boyfriend \- Acoustic](https://open.spotify.com/album/4AJzUPRChFSksbTbzYND1x) | 2:16 | 2023-11-09 |  |
+| [Boyfriend \- Acoustic](https://open.spotify.com/track/2ENr7qlJCeQee8S37EXAyQ) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [Boyfriend \- Acoustic](https://open.spotify.com/album/4AJzUPRChFSksbTbzYND1x) | 2:16 | 2023-11-09 | 2024-02-09 |
 | [Bécane](https://open.spotify.com/track/5Ed32bcBySpGCF7g6EG8eh) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane](https://open.spotify.com/album/3al3eFT8EIR0KRdUemEic7) | 3:06 | 2023-09-28 |  |
 | [C'est Quoi L'Amour \(Bonus Track\)](https://open.spotify.com/track/4QtdyYeurYaa6cI2EgRAUh) | [PabloSantana](https://open.spotify.com/artist/0Dm69cwhC8KXo5950bqTth) | [C'est Quoi L'Amour](https://open.spotify.com/album/3Mw8mbS3mtLfmjBg0lGRPj) | 1:05 | 2023-12-28 |  |
 | [Ce que tu m'as fait](https://open.spotify.com/track/6Sc1mL3Bie74NTiu6JTyb3) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Ce que tu m'as fait](https://open.spotify.com/album/5V8dJ9scc4SX0nJ9o32kBW) | 3:03 | 2023-09-28 |  |
@@ -37,7 +38,7 @@
 | [Déconnectée](https://open.spotify.com/track/5iPIGpFQZLtvw78mvcWqQZ) | [Reÿn](https://open.spotify.com/artist/4xqnWGU6MssJcPvMaVuZQF) | [Déconnectée](https://open.spotify.com/album/10veteFNNieljiqKbrJuDn) | 2:51 | 2023-12-14 | 2024-01-26 |
 | [Déranger](https://open.spotify.com/track/7gyKui5nepxMoJoRr0937W) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [SOLSTICE](https://open.spotify.com/album/0SIPEk9qH6s7WMN1jkymKB) | 3:17 | 2024-02-01 |  |
 | [E.M.I](https://open.spotify.com/track/5FY2ILoDg2EIvjYJxA25MM) | [Macy Lu](https://open.spotify.com/artist/1wEZ7fUt7Mh3ZB38xrYoVB) | [E.M.I](https://open.spotify.com/album/0Pq1bF9Gi48aSXrsrpp2fu) | 3:53 | 2023-10-26 | 2023-12-01 |
-| [ELLE](https://open.spotify.com/track/2tGFMERxBPeRJ0OzQ6BAZv) | [Kÿfy](https://open.spotify.com/artist/4tK6ffV3TyicR0N0WtulqB) | [ELLE](https://open.spotify.com/album/0BtEyJbzrnpWrNWuMeip8z) | 2:57 | 2023-09-28 |  |
+| [ELLE](https://open.spotify.com/track/2tGFMERxBPeRJ0OzQ6BAZv) | [Kÿfy](https://open.spotify.com/artist/4tK6ffV3TyicR0N0WtulqB) | [ELLE](https://open.spotify.com/album/0BtEyJbzrnpWrNWuMeip8z) | 2:57 | 2023-09-28 | 2024-02-09 |
 | [Encaisser](https://open.spotify.com/track/2MNwHnoWMtZ8V6RA8jC14I) | [Ceddy](https://open.spotify.com/artist/4JtnoUcq4vX7FfPxrFNlqk), [Nola Cherri](https://open.spotify.com/artist/619I9NuGM8wQklavu1cjRj) | [Encaisser](https://open.spotify.com/album/1npBnDSvKkLjVCdJcdL4X5) | 3:23 | 2023-09-28 | 2023-11-17 |
 | [Est\-ce que c'est par là qu'on pleure?](https://open.spotify.com/track/446noPVjJUgf4s9h43mbgE) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [3x5](https://open.spotify.com/album/2DlmOBqh9CEFA1dfAh9I2U) | 2:22 | 2023-11-23 |  |
 | [Fallait pas](https://open.spotify.com/track/6qZSdA8GC5aojquKNFERI5) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Fallait pas](https://open.spotify.com/album/42zBmpDY703Nm7x9EPWb15) | 2:38 | 2023-09-28 | 2023-12-08 |
@@ -57,6 +58,7 @@
 | [L'olivier](https://open.spotify.com/track/34oCxdqZUr1kfSQNYQJWKq) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [L'olivier](https://open.spotify.com/album/0jyKcnwfpw2ZlnooyCWz6o) | 3:23 | 2023-09-28 | 2024-01-12 |
 | [La mienne](https://open.spotify.com/track/4bgIvTMFL8UFEFrmm3i8nz) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 3:32 | 2023-09-28 |  |
 | [Le code](https://open.spotify.com/track/74SKS91bfQHLomV8rcErwE) | [Myth Syzer](https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu), [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Bisous](https://open.spotify.com/album/34ADaayLcTthIfMqRnbx2t) | 4:40 | 2023-09-28 |  |
+| [Le feu](https://open.spotify.com/track/15RdsytotGYShRTw1ZkLww) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:45 | 2024-02-08 |  |
 | [Lie \(feat\. Sonik\) \- Version acoustique](https://open.spotify.com/track/66wbCeD09YB0yZ4Y4Ozt12) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF), [Sonik](https://open.spotify.com/artist/1pZnslHopDREVLA0hjtpgR) | [Lie \(feat\. Sonik\) \[Version acoustique\]](https://open.spotify.com/album/4jYYbwybc9rqoRMkICJIkt) | 2:56 | 2023-09-28 | 2023-10-27 |
 | [Là où on dort heureux](https://open.spotify.com/track/5BalWculrB3c08qX6wN4pb) | [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a) | [Papillon Monarque](https://open.spotify.com/album/5WJBBxQz7mhA2XlvWFP7CX) | 2:12 | 2023-09-28 |  |
 | [Ma Go](https://open.spotify.com/track/5sl1qh0eclSeUTGW5XgZnc) | [Ysos](https://open.spotify.com/artist/1SQBvSuDIDiab53e3JCuLP), [Yakuzian](https://open.spotify.com/artist/5lpfeX5C3gGvxa5dja8JhM) | [Ma Go](https://open.spotify.com/album/6uzWRdxMpk51b2f1QjI5iA) | 2:37 | 2023-12-14 |  |

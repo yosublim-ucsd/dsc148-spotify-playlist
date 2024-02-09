@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring Andruss.",
-  "num_followers": 1917638,
+  "num_followers": 1917852,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODRmN2NiNDIzNmZmMDlhODFlZTkzOWZkZjllZjZiZGRiNjgyMDMz",
+  "snapshot_id": "MCxiZjVmOGViODYxODFjNTA2ZjhjY2JlOWQ2Y2ZiMDBkMTNiYjFiOWFj",
   "tracks": [
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
+        "name": "Fine Night",
+        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 161723,
+      "name": "Fine Night",
+      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
         "name": "Ti Sento",
         "url": "https://open.spotify.com/album/7Cm248Tj1NigR5Jujq0IJq"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 180261,
       "name": "Ti Sento",
       "url": "https://open.spotify.com/track/5PcmvoBshN5YfFmU4uSXwd"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
-        "name": "Fine Night",
-        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 161723,
-      "name": "Fine Night",
-      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1611,6 +1611,30 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Good For You",
+      "url": "https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v"
       },
@@ -1651,30 +1675,6 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Good For You",
-      "url": "https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p"
       },
@@ -1687,26 +1687,6 @@
       "duration_ms": 175833,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6B5LA5m4bNlH1lTI91biWb"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "RobbieG",
-          "url": "https://open.spotify.com/artist/2NWRfNAjBd2cUOKbE9Isda"
-        }
-      ],
-      "duration_ms": 181737,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/52Y1NDCiTeWECwQSeUdAaA"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1731,6 +1711,26 @@
       "duration_ms": 381322,
       "name": "Champion",
       "url": "https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6B5LA5m4bNlH1lTI91biWb"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "RobbieG",
+          "url": "https://open.spotify.com/artist/2NWRfNAjBd2cUOKbE9Isda"
+        }
+      ],
+      "duration_ms": 181737,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/52Y1NDCiTeWECwQSeUdAaA"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1927,6 +1927,26 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
+        "name": "God Made Me Phunky (Jess Bays Remix)",
+        "url": "https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl"
+      },
+      "artists": [
+        {
+          "name": "MD X-Spress",
+          "url": "https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS"
+        },
+        {
+          "name": "Jess Bays",
+          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+        }
+      ],
+      "duration_ms": 220270,
+      "name": "God Made Me Phunky - Jess Bays Remix",
+      "url": "https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
         "name": "One Pill",
         "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
       },
@@ -1959,26 +1979,6 @@
       "duration_ms": 284886,
       "name": "Fresh - House of Prayers Poolside Edit",
       "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
-        "name": "God Made Me Phunky (Jess Bays Remix)",
-        "url": "https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl"
-      },
-      "artists": [
-        {
-          "name": "MD X-Spress",
-          "url": "https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS"
-        },
-        {
-          "name": "Jess Bays",
-          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
-        }
-      ],
-      "duration_ms": 220270,
-      "name": "God Made Me Phunky - Jess Bays Remix",
-      "url": "https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
+        "name": "Tudo Bem, Tudo Bom",
+        "url": "https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 178125,
+      "name": "Tudo Bem, Tudo Bom - Radio Edit",
+      "url": "https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
         "name": "In My Head (feat. Shayan)",
         "url": "https://open.spotify.com/album/0mV5yjkvo3rjFGMhduzsIh"
       },
@@ -2243,22 +2259,6 @@
       "duration_ms": 170750,
       "name": "In My Head (feat. Shayan)",
       "url": "https://open.spotify.com/track/41ftjwBKEn5vjMslWMA195"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
-        "name": "Tudo Bem, Tudo Bom",
-        "url": "https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 178125,
-      "name": "Tudo Bem, Tudo Bom - Radio Edit",
-      "url": "https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -2391,34 +2391,6 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Chakachaka",
-        "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        },
-        {
-          "name": "Damien N-Drix",
-          "url": "https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "Chakachaka",
-      "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
         "name": "You Are In My System (Faster Horses Sport Mix)",
         "url": "https://open.spotify.com/album/4x5rQlOXx23lz5aImLGMOt"
       },
@@ -2443,6 +2415,34 @@
       "duration_ms": 197197,
       "name": "You Are In My System - Faster Horses Sport Mix",
       "url": "https://open.spotify.com/track/4cxpgHXbVh4sGwb1C7TAG2"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Chakachaka",
+        "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Damien N-Drix",
+          "url": "https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "Chakachaka",
+      "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
     }
   ],
   "unique_name": "Housewerk",

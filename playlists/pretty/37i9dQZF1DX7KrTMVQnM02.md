@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KrTMVQnM02.md) - [plain]
 
 > Gentle classical music to help you relax and reflect.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,393 likes - 28 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,395 likes - 28 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KrTMVQnM02.md) - [plain]
 | 15 | [Bach, JS: Well\-Tempered Clavier, Book 2, Prelude and Fugue No\. 17 in A\-Flat Major, BWV 886: I\. Prelude](https://open.spotify.com/track/4LG4yhKa69RTG4HcNAkxrp) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Piotr Anderszewski](https://open.spotify.com/artist/0ndw1tUehEV3tnnYUnqFw9) | [Bach: Well\-Tempered Clavier, Book 2 \(Excerpts\)](https://open.spotify.com/album/4GkkbD7DaqH8wPqN0WF8n0) | 3:32 |
 | 16 | [Goldberg Variations, BWV 988: Variation 7\. Al tempo di Giga \(Arr\. for Harp\)](https://open.spotify.com/track/41pX70jMYOeyAEfiAyN2s2) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Parker Ramsay](https://open.spotify.com/artist/5ForLHbyCPMNAICPCv1oeb) | [Bach: Goldberg Variations \(Arranged for Harp\)](https://open.spotify.com/album/07idNELix1kop3z4wVUMz8) | 2:24 |
 | 17 | [Menuet en ut dièse \(1904 \- inédit\)](https://open.spotify.com/track/6YuQg0aC2cCmSSK42gKWzS) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Alexandre Tharaud\. "Voyage en France"](https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE) | 1:00 |
-| 18 | [Morceau de lecture \(version for violin and piano\)](https://open.spotify.com/track/5sXnI44lQ6lcSUN5yT1kne) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Christian Svarfvar](https://open.spotify.com/artist/0jcR7ThUTzrELU3Ho4ko9U), [Roland Pöntinen](https://open.spotify.com/artist/3oob8cWQ5FMlfVZRwSSVES) | [Après un rêve](https://open.spotify.com/album/6Bgqkmf095spyt1tE1njYd) | 1:38 |
+| 18 | [Morceau de lecture \(Arr\. for Violin & Piano\)](https://open.spotify.com/track/0SN4deEjtNFgg64oRa2Wxi) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Christian Svarfvar](https://open.spotify.com/artist/0jcR7ThUTzrELU3Ho4ko9U), [Roland Pöntinen](https://open.spotify.com/artist/3oob8cWQ5FMlfVZRwSSVES) | [Après un rêve](https://open.spotify.com/album/7abrEQzje6lWNHHgd9eaNn) | 1:38 |
 | 19 | [Ravel: Le Tombeau de Couperin, M\. 68: V\. Menuet](https://open.spotify.com/track/1HjiFQtbXp4EXLzyC05j3K) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Ravel: Complete Works for Solo Piano](https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM) | 4:50 |
 | 20 | [Bach, JS: Cello Suite No\. 6 in D Major, BWV 1012: IV\. Sarabande](https://open.spotify.com/track/6XhPptZYmFpaHbE2HnaYrE) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Ralph Kirshbaum](https://open.spotify.com/artist/0BOKp33vfgc7PUaNem18gT) | [Bach: Cello Suites, BWV 1007 \- 1012](https://open.spotify.com/album/5Wml8Lwar0peOEOV26Zqxm) | 4:45 |
 | 21 | [Liszt: 6 Consolations, S\. 172: No\. 3 in D\-Flat Major](https://open.spotify.com/track/6vBZAAMRS9xQA1qdplRBLr) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [George Li](https://open.spotify.com/artist/7MmY9EnBs2QvDwLnJUV332) | [Liszt: 6 Consolations, S\. 172: No\. 3 in D\-Flat Major \(Live at the Mariinsky\)](https://open.spotify.com/album/1YogZyGCxolaF5Hj0ZY1rg) | 4:09 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KrTMVQnM02.md) - [plain]
 | 27 | [Suite Bergamasque, L\. 75, CD 82: III\. Clair de Lune](https://open.spotify.com/track/3l0xM8zkfnIkrw1i1kFyeq) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Efflam Bavouzet](https://open.spotify.com/artist/4BcOHdtzeyl8hX3zUId6hZ) | [Debussy: Complete Works for Piano, Vol\. 3](https://open.spotify.com/album/01ofr7grBeNmvO5Gh61j4j) | 4:50 |
 | 28 | [Lyric Pieces, Book 9, Op\. 68: No\. 5, Bådnlåt](https://open.spotify.com/track/0jgTiWDihmyzRVumDa7oD7) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alessandro Deljavan](https://open.spotify.com/artist/60YDZf6o3FXnne3f6rlxHM) | [Grieg: Lyric Pieces](https://open.spotify.com/album/01eQgKjvGfr1xhjvzNOi3V) | 2:20 |
 
-Snapshot ID: `MCw5OGU1ZmE3MGFlMTJiYzcwMDEwYmZmNmQ5OWNiODU3Y2RjM2Q3MjMy`
+Snapshot ID: `MCxlNTQ5NzQ3M2FmMTcyOGUwYjA4NjU4M2UxMjYzZmVkYzdkYTRmNzU5`

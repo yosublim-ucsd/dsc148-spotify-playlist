@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 48043,
+  "num_followers": 48056,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjhiOGU1YmQ2ZTBkZDMzNTZjZDZmNzFjMTJiM2I2YTliZDI3NzI2",
+  "snapshot_id": "MCw2NDA2Nzk2N2U0OTEwNThkN2ZlNTk3NTkwZWE1YmE0MjQ0MmI3Zjdk",
   "tracks": [
     {
       "added_at": "2024-01-04 08:28:26",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Lousanne",
-        "url": "https://open.spotify.com/album/7mMtf6zUZvZjY1o3XguazB"
-      },
-      "artists": [
-        {
-          "name": "The Blue Green",
-          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
-        }
-      ],
-      "duration_ms": 199991,
-      "name": "Lousanne",
-      "url": "https://open.spotify.com/track/0h0viT2OPpnxwzlwBmbEkU"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Presenting Ray Bryant",
         "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 206053,
       "name": "A Hundred Dreams from Now",
       "url": "https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Lousanne",
+        "url": "https://open.spotify.com/album/7mMtf6zUZvZjY1o3XguazB"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "duration_ms": 199991,
+      "name": "Lousanne",
+      "url": "https://open.spotify.com/track/0h0viT2OPpnxwzlwBmbEkU"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/06JPE7P2u5IcjjNKdBeHee"
+        "name": "Eternal Maze",
+        "url": "https://open.spotify.com/album/4C3TtqzLArtYY9CuFGmeWV"
       },
       "artists": [
         {
-          "name": "Geeder",
-          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+          "name": "Piper Williamson",
+          "url": "https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai"
         }
       ],
-      "duration_ms": 225946,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/6Ps13ExvILGA2dYxhNCXG7"
+      "duration_ms": 239003,
+      "name": "I Will Wait For You",
+      "url": "https://open.spotify.com/track/6oKlgwa71syBWyiFyGdmkR"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/06JPE7P2u5IcjjNKdBeHee"
+      },
+      "artists": [
+        {
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/6Ps13ExvILGA2dYxhNCXG7"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
         "name": "Used To Be Duke",
         "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 200626,
       "name": "Warm Valley",
       "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
-        "name": "Eternal Maze",
-        "url": "https://open.spotify.com/album/4C3TtqzLArtYY9CuFGmeWV"
-      },
-      "artists": [
-        {
-          "name": "Piper Williamson",
-          "url": "https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai"
-        }
-      ],
-      "duration_ms": 239003,
-      "name": "I Will Wait For You",
-      "url": "https://open.spotify.com/track/6oKlgwa71syBWyiFyGdmkR"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Gnostic",
-        "url": "https://open.spotify.com/album/0pTBuVSX0MBAGvVwnpTyis"
-      },
-      "artists": [
-        {
-          "name": "Heine Hansen",
-          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
-        }
-      ],
-      "duration_ms": 216614,
-      "name": "Gnostic",
-      "url": "https://open.spotify.com/track/2Drvk5fiaxHptNFQeP6Kru"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Pristine",
         "url": "https://open.spotify.com/album/315gZl71MLwJo5GwBXgudJ"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 236724,
       "name": "Pristine",
       "url": "https://open.spotify.com/track/4wZIBxMTZYbSGzWEAqIwKF"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Gnostic",
+        "url": "https://open.spotify.com/album/0pTBuVSX0MBAGvVwnpTyis"
+      },
+      "artists": [
+        {
+          "name": "Heine Hansen",
+          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
+        }
+      ],
+      "duration_ms": 216614,
+      "name": "Gnostic",
+      "url": "https://open.spotify.com/track/2Drvk5fiaxHptNFQeP6Kru"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Noir De Noir",
-        "url": "https://open.spotify.com/album/5EBzEgLhw2nVVUVL1gmnP5"
-      },
-      "artists": [
-        {
-          "name": "Odo Lefebvre",
-          "url": "https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU"
-        }
-      ],
-      "duration_ms": 198958,
-      "name": "Noir De Noir",
-      "url": "https://open.spotify.com/track/5FU6Qj9h9TYGW2v810ZYA5"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Unsentimental",
         "url": "https://open.spotify.com/album/1XetCzlMmbbOg5evN3Bp9d"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 300618,
       "name": "Unsentimental",
       "url": "https://open.spotify.com/track/7JmMOryQFeykS1BEWInJSs"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Noir De Noir",
+        "url": "https://open.spotify.com/album/5EBzEgLhw2nVVUVL1gmnP5"
+      },
+      "artists": [
+        {
+          "name": "Odo Lefebvre",
+          "url": "https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU"
+        }
+      ],
+      "duration_ms": 198958,
+      "name": "Noir De Noir",
+      "url": "https://open.spotify.com/track/5FU6Qj9h9TYGW2v810ZYA5"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "See You At The Fair",
-        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 270266,
-      "name": "Someone to Watch Over Me",
-      "url": "https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Within a Dream",
         "url": "https://open.spotify.com/album/77u6sL9mxKm3uDqnMX6XV4"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 258226,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/4Hus6AQNHezUdbBKuo1aE8"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "See You At The Fair",
+        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 270266,
+      "name": "Someone to Watch Over Me",
+      "url": "https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Abisko",
-        "url": "https://open.spotify.com/album/0Lkn1OWDVLcaxHR9hOmyBp"
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
       },
       "artists": [
         {
-          "name": "Norberg",
-          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
         }
       ],
-      "duration_ms": 168190,
-      "name": "Abisko",
-      "url": "https://open.spotify.com/track/65zFbHuyUdai6WFwtPAkix"
+      "duration_ms": 317946,
+      "name": "Before It's Time to Say Goodbye",
+      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Songbook",
-        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
+        "name": "Abisko",
+        "url": "https://open.spotify.com/album/0Lkn1OWDVLcaxHR9hOmyBp"
       },
       "artists": [
         {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+          "name": "Norberg",
+          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
         }
       ],
-      "duration_ms": 317946,
-      "name": "Before It's Time to Say Goodbye",
-      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
+      "duration_ms": 168190,
+      "name": "Abisko",
+      "url": "https://open.spotify.com/track/65zFbHuyUdai6WFwtPAkix"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "The Silver Lining",
-        "url": "https://open.spotify.com/album/1clbyCl11JZL9cV00ldsVY"
-      },
-      "artists": [
-        {
-          "name": "Hara Noda",
-          "url": "https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh"
-        }
-      ],
-      "duration_ms": 162887,
-      "name": "Centre",
-      "url": "https://open.spotify.com/track/4O44XcSyYrDUkNcKqi9aAl"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Ben Webster Plays Ballads Remastered",
         "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 466568,
       "name": "For Heavens Sake - Remastered",
       "url": "https://open.spotify.com/track/142HC0KR9g0jmmGtwJJAKv"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "The Silver Lining",
+        "url": "https://open.spotify.com/album/1clbyCl11JZL9cV00ldsVY"
+      },
+      "artists": [
+        {
+          "name": "Hara Noda",
+          "url": "https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh"
+        }
+      ],
+      "duration_ms": 162887,
+      "name": "Centre",
+      "url": "https://open.spotify.com/track/4O44XcSyYrDUkNcKqi9aAl"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
+        "name": "Aesthete",
+        "url": "https://open.spotify.com/album/3PJ0KtKGlCir7TYGmQaZ8q"
+      },
+      "artists": [
+        {
+          "name": "Billy Hicks Quartet",
+          "url": "https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5"
+        }
+      ],
+      "duration_ms": 222459,
+      "name": "Aesthete",
+      "url": "https://open.spotify.com/track/0oJWmWozI8Hgn9kxkv6vaL"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
         "name": "Yesterdays",
         "url": "https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Aesthete",
-        "url": "https://open.spotify.com/album/3PJ0KtKGlCir7TYGmQaZ8q"
-      },
-      "artists": [
-        {
-          "name": "Billy Hicks Quartet",
-          "url": "https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5"
-        }
-      ],
-      "duration_ms": 222459,
-      "name": "Aesthete",
-      "url": "https://open.spotify.com/track/0oJWmWozI8Hgn9kxkv6vaL"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Seymour Reads the Constitution!",
         "url": "https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 483280,
       "name": "Seymour Reads the Constitution",
       "url": "https://open.spotify.com/track/4RyonocCMahA7cIwTDW7E9"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
-        "name": "Colour Yes (Special Edition)",
-        "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46"
-      },
-      "artists": [
-        {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
-        }
-      ],
-      "duration_ms": 790920,
-      "name": "I've Been Here Before - Special Edition",
-      "url": "https://open.spotify.com/track/2Guj4HKiwv4P9F2N1rpeWL"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
+        "name": "Colour Yes (Special Edition)",
+        "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "duration_ms": 790920,
+      "name": "I've Been Here Before - Special Edition",
+      "url": "https://open.spotify.com/track/2Guj4HKiwv4P9F2N1rpeWL"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
         "name": "Standard Time Vol. 2: Intimacy Calling",
         "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "A Hero Lives Another Day",
-        "url": "https://open.spotify.com/album/15BIymmR9Y0raWZcbcFs6n"
-      },
-      "artists": [
-        {
-          "name": "Claudia Torrek",
-          "url": "https://open.spotify.com/artist/2vTJc7s0MUGFXfXVK8TypJ"
-        }
-      ],
-      "duration_ms": 186768,
-      "name": "A Hero Lives Another Day",
-      "url": "https://open.spotify.com/track/5R5fWpRXhe5YqmtZ2WPzw0"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Payton's Place",
         "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 325400,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/5AuLuhe6LXvVod82HxJtXO"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "A Hero Lives Another Day",
+        "url": "https://open.spotify.com/album/15BIymmR9Y0raWZcbcFs6n"
+      },
+      "artists": [
+        {
+          "name": "Claudia Torrek",
+          "url": "https://open.spotify.com/artist/2vTJc7s0MUGFXfXVK8TypJ"
+        }
+      ],
+      "duration_ms": 186768,
+      "name": "A Hero Lives Another Day",
+      "url": "https://open.spotify.com/track/5R5fWpRXhe5YqmtZ2WPzw0"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1591,6 +1591,30 @@
       "duration_ms": 239687,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/5s2sEbhxWaiYJF1ko6iMXs"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Powell to the People",
+        "url": "https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE"
+      },
+      "artists": [
+        {
+          "name": "Massimo Colombo",
+          "url": "https://open.spotify.com/artist/6rQ91q7SWnpMA337zOEupl"
+        },
+        {
+          "name": "Maurizio Quintavalle",
+          "url": "https://open.spotify.com/artist/5yZSi6QPm7HLTPuR4n5Y9Q"
+        },
+        {
+          "name": "Enzo Zirilli",
+          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
+        }
+      ],
+      "duration_ms": 314763,
+      "name": "I'll Keep Loving You",
+      "url": "https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1647,30 +1671,6 @@
       "duration_ms": 203175,
       "name": "I wish I did",
       "url": "https://open.spotify.com/track/44AchFNfZR9RsnGz76s05b"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
-        "name": "Powell to the People",
-        "url": "https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE"
-      },
-      "artists": [
-        {
-          "name": "Massimo Colombo",
-          "url": "https://open.spotify.com/artist/6rQ91q7SWnpMA337zOEupl"
-        },
-        {
-          "name": "Maurizio Quintavalle",
-          "url": "https://open.spotify.com/artist/5yZSi6QPm7HLTPuR4n5Y9Q"
-        },
-        {
-          "name": "Enzo Zirilli",
-          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
-        }
-      ],
-      "duration_ms": 314763,
-      "name": "I'll Keep Loving You",
-      "url": "https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
+        "name": "Take This",
+        "url": "https://open.spotify.com/album/4RI8UIrsKK3pODBLuYJo9r"
+      },
+      "artists": [
+        {
+          "name": "Jacky Terrasson",
+          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/0xze9SRrm4Ul5LA4N1MtcE"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
         "name": "Benign Strangers",
         "url": "https://open.spotify.com/album/5XtrGD3pOkiDEwij44Rjt7"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 365880,
       "name": "Dim",
       "url": "https://open.spotify.com/track/6XE5oVQWVz9XsYloOkHMt4"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
-        "name": "Take This",
-        "url": "https://open.spotify.com/album/4RI8UIrsKK3pODBLuYJo9r"
-      },
-      "artists": [
-        {
-          "name": "Jacky Terrasson",
-          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/0xze9SRrm4Ul5LA4N1MtcE"
     },
     {
       "added_at": "2024-01-04 08:28:26",

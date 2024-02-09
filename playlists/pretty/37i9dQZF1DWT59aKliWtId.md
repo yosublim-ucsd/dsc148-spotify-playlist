@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,073 likes - 126 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,080 likes - 126 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 125 | [Out In The Fields](https://open.spotify.com/track/7AQn44WwBs4UAUF79wXzHd) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Aging](https://open.spotify.com/album/21ytlmXJV1mWsF0dRiV7Ar) | 4:00 |
 | 126 | [It’s Fine](https://open.spotify.com/track/5uGJfyXEHstfpzuOnuR6mb) | [Bethany Cosentino](https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI) | [Natural Disaster](https://open.spotify.com/album/0ybuiLFQiZM4YFserGDl4h) | 3:46 |
 
-Snapshot ID: `MCxiMjVhOWE4Nzg4OWQ3MDhjYWZiZjhhNWRjNzE0MDU2YTI2NmRiMmIy`
+Snapshot ID: `MCxkMWRiNjIyNTEzNTlmYzYxZmI4ZTgzOWUwYWQwMjBjYTFiMWEyZjQ5`

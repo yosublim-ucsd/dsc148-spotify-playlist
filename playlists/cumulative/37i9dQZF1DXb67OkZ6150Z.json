@@ -1717,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "Dweeb Tapes",
+        "url": "https://open.spotify.com/album/2s7VheheoWlkR3WNtXWfZG"
+      },
+      "artists": [
+        {
+          "name": "OCTAVIO the Dweeb",
+          "url": "https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194786,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/3sUV0LeCtlNr5lihUD77uZ"
+    },
+    {
+      "album": {
         "name": "Don't Dream It's Over",
         "url": "https://open.spotify.com/album/62gB6m2e4ED3yZUrgJ7ox6"
       },
@@ -6810,7 +6828,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 219173,
       "name": "Time Out of Mind",
       "url": "https://open.spotify.com/track/51xDbIE6lzgnRSoisI5NES"

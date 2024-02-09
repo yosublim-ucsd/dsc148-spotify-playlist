@@ -1609,6 +1609,32 @@
     },
     {
       "album": {
+        "name": "Midtown Madness",
+        "url": "https://open.spotify.com/album/1HNeKGeOzyTWpLVxZJexRL"
+      },
+      "artists": [
+        {
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+        },
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Jai",
+          "url": "https://open.spotify.com/artist/0mNpRIxJZqQmcB0UCTU59S"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "Mastikhor",
+      "url": "https://open.spotify.com/track/05s9rHSjYuhM5jWL7OWMro"
+    },
+    {
+      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/2hDCaT5LQPPTH6ASCqwZFB"
       },
@@ -2185,6 +2211,32 @@
     },
     {
       "album": {
+        "name": "Midtown Madness",
+        "url": "https://open.spotify.com/album/1HNeKGeOzyTWpLVxZJexRL"
+      },
+      "artists": [
+        {
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+        },
+        {
+          "name": "DG IMMORTALS",
+          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
+        },
+        {
+          "name": "UZIII",
+          "url": "https://open.spotify.com/artist/6hhR6XYqpTeAohXM4FVjhZ"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227600,
+      "name": "Speed 206",
+      "url": "https://open.spotify.com/track/4YQyuUSoQr9K4uAzItZ3XF"
+    },
+    {
+      "album": {
         "name": "Speed Dial",
         "url": "https://open.spotify.com/album/2vAemOhIAe4odQzkKOLkdc"
       },
@@ -2314,7 +2366,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 114957,
       "name": "THAPPAD!",
       "url": "https://open.spotify.com/track/044qR6dTjjF8NkVeD1Q55Y"
@@ -2402,7 +2454,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 188059,
       "name": "Tu Tera Dekh",
       "url": "https://open.spotify.com/track/5LQWquv8c8OYCE30SlXLAy"

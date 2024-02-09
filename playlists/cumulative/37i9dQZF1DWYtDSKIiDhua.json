@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Afgan",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: HYBS & SIRUP",
   "name": "mood.",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 200000,
       "name": "A Friend",
       "url": "https://open.spotify.com/track/6nlR5KZygfAXcwUH96kONw"
@@ -336,7 +336,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 222741,
       "name": "Alien Love Call",
       "url": "https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 138130,
       "name": "Back",
       "url": "https://open.spotify.com/track/0GEX3Viy33NfvCax4GUREd"
@@ -2393,6 +2393,28 @@
     },
     {
       "album": {
+        "name": "don't matter (feat. DEN\u0232)",
+        "url": "https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        },
+        {
+          "name": "DEN\u0232",
+          "url": "https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "don't matter (feat. DEN\u0232)",
+      "url": "https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG"
+    },
+    {
+      "album": {
         "name": "don't miss me too much",
         "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
       },
@@ -2845,6 +2867,24 @@
     },
     {
       "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/1INyg9gwqjlQXS30JGfnme"
+      },
+      "artists": [
+        {
+          "name": "RADi",
+          "url": "https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132613,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/7JcCnbLVxSh1fAPHMSILVl"
+    },
+    {
+      "album": {
         "name": "Falling or flying",
         "url": "https://open.spotify.com/album/4DQceiYfpF7ByhwsBQaWYH"
       },
@@ -3020,6 +3060,42 @@
       "duration_ms": 181856,
       "name": "Feelin'",
       "url": "https://open.spotify.com/track/2KBlnIRT9BiUqIcf9E6V6S"
+    },
+    {
+      "album": {
+        "name": "Feeling Good Today",
+        "url": "https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86169,
+      "name": "Feeling Good Today",
+      "url": "https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx"
+    },
+    {
+      "album": {
+        "name": "Feelings For You",
+        "url": "https://open.spotify.com/album/5WVPOwHNsiXEXtQFigEuaR"
+      },
+      "artists": [
+        {
+          "name": "EDDI",
+          "url": "https://open.spotify.com/artist/1bRHF6zV7n8uymi2ReMRQG"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119117,
+      "name": "Feelings For You",
+      "url": "https://open.spotify.com/track/6mWiNbLn42n9owATnMSVau"
     },
     {
       "album": {
@@ -3220,7 +3296,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 179000,
       "name": "Fool 4 U",
       "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
@@ -3762,7 +3838,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 227406,
       "name": "Good Night!",
       "url": "https://open.spotify.com/track/73nS8UbqUKGMzs8wVXQuZo"
@@ -4780,6 +4856,28 @@
       "duration_ms": 225947,
       "name": "I Wish you Roses",
       "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
+    {
+      "album": {
+        "name": "I'm Blessed",
+        "url": "https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "I'm Blessed",
+      "url": "https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E"
     },
     {
       "album": {
@@ -6526,7 +6624,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 197288,
       "name": "MAZE",
       "url": "https://open.spotify.com/track/2inElhnDM1IbyGqU1PeBP1"
@@ -6570,7 +6668,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 154153,
       "name": "Mess In Me",
       "url": "https://open.spotify.com/track/1psO7zg2F9gDEk9qZ77zjE"
@@ -8452,7 +8550,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 218048,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
@@ -11666,6 +11764,24 @@
       "duration_ms": 219729,
       "name": "What's Up (feat. Jagged Edge)",
       "url": "https://open.spotify.com/track/3gPUFEEuGfZ4jTckTJrgUE"
+    },
+    {
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/57z9dMhh5EuKsovqA2666h"
+      },
+      "artists": [
+        {
+          "name": "Armi Millare",
+          "url": "https://open.spotify.com/artist/7bT6URJrhJleZUfkrysELD"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223663,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/7FoHEr4j8y905vSLqSnCHt"
     },
     {
       "album": {

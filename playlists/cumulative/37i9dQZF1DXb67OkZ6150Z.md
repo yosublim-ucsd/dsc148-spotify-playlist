@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Arlo Parks
 
-428 songs - 1 day 2 hr 17 min
+429 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Different Now](https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y), [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Different Now](https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n) | 4:25 | 2023-08-08 |  |
 | [Don't Be Cruel](https://open.spotify.com/track/4IYTQwLYh1lVHhCC2jBi9S) | [Lo\-Fang](https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA) | [Don't Be Cruel](https://open.spotify.com/album/50mcyygO5E1QoALtPm2ZXH) | 7:06 | 2021-03-12 | 2022-04-20 |
 | [Don't Dream It's Over](https://open.spotify.com/track/3SZ5m5GQyIKIhIoizDGTQg) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Dweeb Tapes](https://open.spotify.com/album/5YIN6swBDIybgewMSEpX54) | 3:14 | 2022-08-09 | 2022-10-21 |
+| [Don't Dream It's Over](https://open.spotify.com/track/3sUV0LeCtlNr5lihUD77uZ) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Dweeb Tapes](https://open.spotify.com/album/2s7VheheoWlkR3WNtXWfZG) | 3:14 | 2023-10-13 |  |
 | [Don't Dream It's Over](https://open.spotify.com/track/4odZZeTqMG6QXd9o7r46jU) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Don't Dream It's Over](https://open.spotify.com/album/62gB6m2e4ED3yZUrgJ7ox6) | 3:14 | 2021-04-02 | 2022-04-17 |
 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 | 2021-03-12 | 2022-08-10 |
 | [Don't Look Back in Anger \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7HtrKGoFZybzudx2hPOwct) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 5:04 | 2021-03-12 | 2022-04-21 |
@@ -373,7 +374,7 @@
 | [Tim McGraw \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:10 | 2021-03-12 | 2022-08-10 |
 | [Time After Time](https://open.spotify.com/track/3HDZQxaCWGJPw3fVVmFGIO) | [Cigar Cigarette](https://open.spotify.com/artist/6WGuOKz6ZtJRcioWOMy9My), [MOTHERMARY](https://open.spotify.com/artist/3NXcwLXXhOFaRP7zy9RPLA) | [Time After Time](https://open.spotify.com/album/66GlghGOJDomu7fXWrkEWo) | 4:19 | 2021-04-19 | 2022-04-11 |
 | [Time Out of Mind](https://open.spotify.com/track/495mG0890vzv6TGc4Fltxd) | [Lou Hayter](https://open.spotify.com/artist/4GZ18L0i6k1mxAjo3GzINM) | [Time Out of Mind](https://open.spotify.com/album/3RQ11zU2MBm5mz5xEHXGRB) | 3:39 | 2021-03-12 | 2022-07-18 |
-| [Time Out of Mind](https://open.spotify.com/track/51xDbIE6lzgnRSoisI5NES) | [Lou Hayter](https://open.spotify.com/artist/4GZ18L0i6k1mxAjo3GzINM) | [Private Sunshine](https://open.spotify.com/album/5Plj7fEiMhl9ckOyIuAqE7) | 3:39 | 2023-10-13 |  |
+| [Time Out of Mind](https://open.spotify.com/track/51xDbIE6lzgnRSoisI5NES) | [Lou Hayter](https://open.spotify.com/artist/4GZ18L0i6k1mxAjo3GzINM) | [Private Sunshine](https://open.spotify.com/album/5Plj7fEiMhl9ckOyIuAqE7) | 3:39 | 2023-10-13 | 2024-02-09 |
 | [To Love Somebody](https://open.spotify.com/track/3cvy4tBUqyobzmY6RuwA72) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [To Love Somebody](https://open.spotify.com/album/6DYLccj0e1SPoIYOWyua3c) | 3:34 | 2022-05-20 | 2022-07-29 |
 | [To Ramona](https://open.spotify.com/track/1DNHSNJIRaA9AI6KBHXmSq) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V), [Matthew Logan Vasquez](https://open.spotify.com/artist/4ndN8LWSsLWQqbWVJD8miG) | [To Ramona](https://open.spotify.com/album/6jsZz2IA32nYjLDh5JqNwE) | 5:08 | 2021-04-02 | 2022-06-22 |
 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 | 2021-03-12 | 2023-08-09 |

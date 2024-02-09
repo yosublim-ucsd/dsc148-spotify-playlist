@@ -1,5 +1,5 @@
 {
-  "2024-02-08": 430044,
+  "2024-02-09": 430059,
   "date_first_scraped": "2021-12-29",
   "description": "The ultimate Lo-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
   "name": "Road Trip To Tokyo",
@@ -11852,6 +11852,24 @@
     },
     {
       "album": {
+        "name": "samurai champloo music record playlist",
+        "url": "https://open.spotify.com/album/49mMypOEixRaJ26rZGbvnI"
+      },
+      "artists": [
+        {
+          "name": "TSUTCHIE",
+          "url": "https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255133,
+      "name": "thank you",
+      "url": "https://open.spotify.com/track/2HC8XxoSzx8u1fy0F2sRtZ"
+    },
+    {
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/5QIRw20KA0LEOTVBhUm5VE"
       },
@@ -12091,7 +12109,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-08",
       "duration_ms": 92696,
       "name": "Tokyo Mornings",
       "url": "https://open.spotify.com/track/0vNjMAfi6DB5HahsQjo4D7"

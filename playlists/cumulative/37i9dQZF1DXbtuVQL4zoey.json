@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "breathtaking",
+        "url": "https://open.spotify.com/album/7A4dRVpZAS3T4Az0Xus2sT"
+      },
+      "artists": [
+        {
+          "name": "mello joints",
+          "url": "https://open.spotify.com/artist/3SvvTbg5Gj3UDGNxtqTsfd"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130324,
+      "name": "breathtaking",
+      "url": "https://open.spotify.com/track/6NqnGKb8x3PMCWqn2oJizA"
+    },
+    {
+      "album": {
         "name": "Bringing Sand To The Beach",
         "url": "https://open.spotify.com/album/3jYBSnQbZ2VkebfT4jVsBG"
       },
@@ -3888,7 +3906,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 106413,
       "name": "Hang Loose",
       "url": "https://open.spotify.com/track/5Wubj5d5MvvWRBg8Zt47BC"
@@ -4082,6 +4100,24 @@
       "duration_ms": 218214,
       "name": "Hi and Lo(fi)",
       "url": "https://open.spotify.com/track/5DBgbH2SxV3XNYanN82cKV"
+    },
+    {
+      "album": {
+        "name": "Hiber Nation",
+        "url": "https://open.spotify.com/album/4IkDYVJ79vXbyUTUcynndN"
+      },
+      "artists": [
+        {
+          "name": "Stekt",
+          "url": "https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162393,
+      "name": "Hiber Nation",
+      "url": "https://open.spotify.com/track/1E8dmRocWJY7TMk908wpH9"
     },
     {
       "album": {
@@ -4848,7 +4884,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 97333,
       "name": "Late Night Cruisin'",
       "url": "https://open.spotify.com/track/4CAv2SgblWL9g2bf7Xft0W"
@@ -5254,7 +5290,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 155090,
       "name": "Low Key",
       "url": "https://open.spotify.com/track/7C1RaJ1b2WKJZq9Bvrgctj"
@@ -6398,7 +6434,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 142500,
       "name": "Padron Peppers",
       "url": "https://open.spotify.com/track/2tZVe3idd7qbKHjUeUYbG2"
@@ -6649,6 +6685,24 @@
     },
     {
       "album": {
+        "name": "Pier Watching",
+        "url": "https://open.spotify.com/album/3MCdKikCV8BXTb9AQDikqu"
+      },
+      "artists": [
+        {
+          "name": "Azurenity",
+          "url": "https://open.spotify.com/artist/670tCQfj3LeVsUqb2SY4Rs"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Pier Watching",
+      "url": "https://open.spotify.com/track/4UWxY5jyHw8Ou5Ui5xvUr0"
+    },
+    {
+      "album": {
         "name": "Pincushion Island",
         "url": "https://open.spotify.com/album/2GiY1hP6d5nXqmkePHbF8q"
       },
@@ -6678,7 +6732,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 115200,
       "name": "pinecone",
       "url": "https://open.spotify.com/track/0Ef6Q0Cav49AL4xhPlXSZg"
@@ -7226,7 +7280,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 165000,
       "name": "R\u00eaverie",
       "url": "https://open.spotify.com/track/4aQ9wAM5HnKs3n5DtZQCpi"
@@ -8166,7 +8220,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 188571,
       "name": "Stop By",
       "url": "https://open.spotify.com/track/6jgIuOAJG4lD27tbuq5BHM"
@@ -9254,7 +9308,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 144000,
       "name": "Too Much Rain",
       "url": "https://open.spotify.com/track/0r1DmdncRC4AHRjFIZKwwn"
@@ -9696,7 +9750,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 177427,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/3SPpqRQdEQAywU8fRKrWqx"
@@ -9732,7 +9786,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 138173,
       "name": "Vacation Days",
       "url": "https://open.spotify.com/track/76cHnrbRZkkJzm6MbIrIHB"

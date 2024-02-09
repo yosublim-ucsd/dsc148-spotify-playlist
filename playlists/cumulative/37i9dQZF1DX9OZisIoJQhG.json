@@ -462,10 +462,32 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 159280,
       "name": "Cello Suite No. 1 in G Major, BWV 1007 (Arr. J. Lindberg for Lute): I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/2MyWitFE32gAgXpGLO6icN"
+    },
+    {
+      "album": {
+        "name": "Bach on the Rauwolf Lute",
+        "url": "https://open.spotify.com/album/02iwOIsr2EJ7Kl5dillnkP"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Jakob Lindberg",
+          "url": "https://open.spotify.com/artist/75oA7nyJ60AqDyOpB5Jbs9"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159280,
+      "name": "Cello Suite No. 1 in G Major, BWV 1007 (Arr. J. Lindberg for Lute): I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/3Tnq7N6LbfGNUSxy0AeqhT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Gettin' figgy with it, bana\-na\-na\-nanana
 
-376 songs - 1 day 0 hr 47 min
+377 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,8 +186,9 @@
 | [It's All Right \- From "Soul"/Soundtrack Version](https://open.spotify.com/track/1XmdReQRsXwlXs62EELp5S) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Jon Batiste: The Nominated Collection](https://open.spotify.com/album/41w1lUshCgHlex6MUnu2mK) | 2:50 | 2023-04-19 |  |
 | [It's Love](https://open.spotify.com/track/2U7X7mPD4wSp0capCGfpmM) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 5:54 | 2023-04-19 |  |
 | [It's Not Right But It's Okay](https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:52 | 2022-08-02 |  |
+| [Jamming](https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 3:31 | 2023-02-10 |  |
 | [Jamming](https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:31 | 2022-01-20 | 2022-07-27 |
-| [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2022-06-03 |  |
+| [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2022-06-03 | 2024-02-09 |
 | [Jamming](https://open.spotify.com/track/0NDJeqkaT4a7WlC3Uj2ig5) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo) | 3:32 | 2022-10-28 | 2022-11-13 |
 | [Jeri Curl](https://open.spotify.com/track/6452rfXGmvPslUbp9NX7Cw) | [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ) | [Jeri Curl](https://open.spotify.com/album/50nNK5wc8LzCGl4TYEWeYs) | 3:19 | 2021-11-10 | 2022-11-13 |
 | [Just a Man](https://open.spotify.com/track/3UpM97neNnNdR1iF87nbNC) | [Jonathan Singletary](https://open.spotify.com/artist/5b3IByWFpEXKmwtmmLozjr) | [Before You Arrive](https://open.spotify.com/album/5kXGguUKynLc8j9Tii40v7) | 4:13 | 2022-05-11 | 2022-07-29 |

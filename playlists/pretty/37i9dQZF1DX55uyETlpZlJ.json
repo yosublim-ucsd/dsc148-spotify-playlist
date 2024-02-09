@@ -1,13 +1,29 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
-  "num_followers": 23104,
+  "num_followers": 23107,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2M3ODJiZTIzMWU1NWZjNDI1MjEwYWQ2NDRjZjA2MTRlNjE1YWE2",
+  "snapshot_id": "MCxlYTQ4ZjliMmRmNDNkOTlhN2UzYWMwNTU5NWM3YjI1NmI5Y2NkNWE5",
   "tracks": [
+    {
+      "added_at": "2024-02-08 13:08:31",
+      "album": {
+        "name": "Aagodella Olledakke",
+        "url": "https://open.spotify.com/album/3YA8kASOPKdeuhGpu729tb"
+      },
+      "artists": [
+        {
+          "name": "All Ok",
+          "url": "https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV"
+        }
+      ],
+      "duration_ms": 220593,
+      "name": "Aagodella Olledakke",
+      "url": "https://open.spotify.com/track/5txyQo6mRKlNBkrfoBUI1x"
+    },
     {
       "added_at": "2024-02-01 11:11:53",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 90665,
       "name": "Aigiri Nandini",
       "url": "https://open.spotify.com/track/4bJCeVoQH0g0IVtZT1Mw1D"
+    },
+    {
+      "added_at": "2024-02-08 11:11:11",
+      "album": {
+        "name": "ONTI NANU",
+        "url": "https://open.spotify.com/album/2iHf6Om8Dd3tBr0u9McvYf"
+      },
+      "artists": [
+        {
+          "name": "Vishwas Javali",
+          "url": "https://open.spotify.com/artist/7GvOdsn4GlpJVT993RveVN"
+        }
+      ],
+      "duration_ms": 270057,
+      "name": "ONTI NANU",
+      "url": "https://open.spotify.com/track/72UHsh4I0azUmgg6UQE2M7"
     },
     {
       "added_at": "2024-01-31 11:14:32",
@@ -1789,26 +1821,6 @@
       "url": "https://open.spotify.com/track/1dpbtaXrFGTlXL2HVxAFWz"
     },
     {
-      "added_at": "2023-07-28 12:59:32",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/4iUJ0WsPHxFt71g5oMpSlQ"
-      },
-      "artists": [
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        },
-        {
-          "name": "Eshani",
-          "url": "https://open.spotify.com/artist/4CQMCs1zM49VQiI6Og0VWg"
-        }
-      ],
-      "duration_ms": 185309,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/09ECyJMbdmo1i1Lq7yxArW"
-    },
-    {
       "added_at": "2023-08-09 11:31:08",
       "album": {
         "name": "Neeli Modagalu",
@@ -1919,22 +1931,6 @@
       "duration_ms": 186229,
       "name": "Neene Nanna Dilruba",
       "url": "https://open.spotify.com/track/30TLwuKugPfrnMGJUyOpCX"
-    },
-    {
-      "added_at": "2023-05-02 06:17:29",
-      "album": {
-        "name": "Yako Summane",
-        "url": "https://open.spotify.com/album/1szU4FhUx9R0noVqGn2tQF"
-      },
-      "artists": [
-        {
-          "name": "Karna",
-          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
-        }
-      ],
-      "duration_ms": 211596,
-      "name": "Yako Summane",
-      "url": "https://open.spotify.com/track/4x7hQ6ipLFDJvP1INn9JUx"
     }
   ],
   "unique_name": "Kannada Indie",

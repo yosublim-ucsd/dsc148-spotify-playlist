@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲！Cover: Nancy Kwai
+> 持續發掘世一超新聲！Cover: Lolly Talk
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,616 likes - 74 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,617 likes - 74 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [To be continued](https://open.spotify.com/track/3PFwHgVhnT3TxGnjCr8mYv) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [premiere](https://open.spotify.com/album/5gOWqjfQsYNXSSkxooHfwu) | 3:23 |
-| 2 | [Never mind](https://open.spotify.com/track/4QM774WtzXy2KZeed1xe03) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Never mind](https://open.spotify.com/album/2aRPQp8uqMdUBDTIYROVWJ) | 4:11 |
-| 3 | [You took my breath away](https://open.spotify.com/track/3IYJXbKHHbTzJzIfZllkOz) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [You took my breath away](https://open.spotify.com/album/0dui9mfkjI8PQShouA7VNz) | 3:04 |
-| 4 | [Count to Three](https://open.spotify.com/track/7GRKbr2Pb4B2bm4LC6NRb2) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Count to Three](https://open.spotify.com/album/57HV84AdSQXLWEdBYYkArT) | 2:55 |
-| 5 | [Teaser](https://open.spotify.com/track/6cVTmFLm9hhu5KIKvlThQX) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Teaser](https://open.spotify.com/album/67BgP8ggs4tkB0hR90ehXA) | 2:52 |
-| 6 | [六度相隔理論](https://open.spotify.com/track/5xPanuB9wjmTaZslFji92G) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [六度相隔理論](https://open.spotify.com/album/3wxU6Q9INasmx6GYVpZ8Lv) | 3:55 |
-| 7 | [二人限定故事](https://open.spotify.com/track/2LfrOjRAXQz4wdTbUXpsEu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [二人限定故事](https://open.spotify.com/album/6paffDqSD3W1HIQMjA7xmu) | 3:14 |
-| 8 | [四方帽之約](https://open.spotify.com/track/07DWpy6TvwVCmSfaiwAvna) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [四方帽之約](https://open.spotify.com/album/6IGeG2PWkQwGtuTYW0whUa) | 3:59 |
-| 9 | [一把火](https://open.spotify.com/track/4tP6Jm8VKXOYWJzz8kHASA) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [一把火](https://open.spotify.com/album/2OjNvV9VYh4avRNnVl39J9) | 2:54 |
-| 10 | [七姊妹星團](https://open.spotify.com/track/46ijStQoqmP8sHxF4oC10x) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [七姊妹星團](https://open.spotify.com/album/0KUeT2hHz8GFbLXT4Yfd5F) | 3:20 |
-| 11 | [五種愛的密語](https://open.spotify.com/track/3bUjOhILvle7j4yBLfxoYx) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [五種愛的密語](https://open.spotify.com/album/2jwrFQsFUNjLYwBeNKgMAG) | 3:06 |
-| 12 | [三分甜](https://open.spotify.com/track/2KAUjZ3n3UmaRveXMvzgUu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [三分甜](https://open.spotify.com/album/68v7jR4cAvUiyzK7oL7HnI) | 3:53 |
+| 1 | [六度相隔理論](https://open.spotify.com/track/5xPanuB9wjmTaZslFji92G) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [六度相隔理論](https://open.spotify.com/album/3wxU6Q9INasmx6GYVpZ8Lv) | 3:55 |
+| 2 | [二人限定故事](https://open.spotify.com/track/2LfrOjRAXQz4wdTbUXpsEu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [二人限定故事](https://open.spotify.com/album/6paffDqSD3W1HIQMjA7xmu) | 3:14 |
+| 3 | [四方帽之約](https://open.spotify.com/track/07DWpy6TvwVCmSfaiwAvna) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [四方帽之約](https://open.spotify.com/album/6IGeG2PWkQwGtuTYW0whUa) | 3:59 |
+| 4 | [一把火](https://open.spotify.com/track/4tP6Jm8VKXOYWJzz8kHASA) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [一把火](https://open.spotify.com/album/2OjNvV9VYh4avRNnVl39J9) | 2:54 |
+| 5 | [七姊妹星團](https://open.spotify.com/track/46ijStQoqmP8sHxF4oC10x) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [七姊妹星團](https://open.spotify.com/album/0KUeT2hHz8GFbLXT4Yfd5F) | 3:20 |
+| 6 | [五種愛的密語](https://open.spotify.com/track/3bUjOhILvle7j4yBLfxoYx) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [五種愛的密語](https://open.spotify.com/album/2jwrFQsFUNjLYwBeNKgMAG) | 3:06 |
+| 7 | [三分甜](https://open.spotify.com/track/2KAUjZ3n3UmaRveXMvzgUu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [三分甜](https://open.spotify.com/album/68v7jR4cAvUiyzK7oL7HnI) | 3:53 |
+| 8 | [To be continued](https://open.spotify.com/track/3PFwHgVhnT3TxGnjCr8mYv) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [premiere](https://open.spotify.com/album/5gOWqjfQsYNXSSkxooHfwu) | 3:23 |
+| 9 | [Never mind](https://open.spotify.com/track/4QM774WtzXy2KZeed1xe03) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Never mind](https://open.spotify.com/album/2aRPQp8uqMdUBDTIYROVWJ) | 4:11 |
+| 10 | [You took my breath away](https://open.spotify.com/track/3IYJXbKHHbTzJzIfZllkOz) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [You took my breath away](https://open.spotify.com/album/0dui9mfkjI8PQShouA7VNz) | 3:04 |
+| 11 | [Count to Three](https://open.spotify.com/track/7GRKbr2Pb4B2bm4LC6NRb2) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Count to Three](https://open.spotify.com/album/57HV84AdSQXLWEdBYYkArT) | 2:55 |
+| 12 | [Teaser](https://open.spotify.com/track/6cVTmFLm9hhu5KIKvlThQX) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Teaser](https://open.spotify.com/album/67BgP8ggs4tkB0hR90ehXA) | 2:52 |
 | 13 | [可否一起寂寞到最後](https://open.spotify.com/track/3KtINGlRBFf8MFHPEmm1OP) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [可否一起寂寞到最後](https://open.spotify.com/album/4jII8Ll5dJ3XxSpHvvWk3t) | 3:48 |
 | 14 | [Time Is Running](https://open.spotify.com/track/1nKZqPS4cg1gbZAdqxQEcN) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Time Is Running](https://open.spotify.com/album/3Tk9l82FUZyP6W6du57tXD) | 2:19 |
 | 15 | [Can't Stop](https://open.spotify.com/track/5zB6A7kjVAyobO5le32Rl0) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Can't Stop](https://open.spotify.com/album/5CUTEDVkIGRFEd3DR7dW0o) | 3:31 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 73 | [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 |
 | 74 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 |
 
-Snapshot ID: `MCwxNjRkMWE2YTc2ZjQ0NjNkZWI0NDNjZjFjY2NlNjFkYWZiY2FiYjk1`
+Snapshot ID: `MCw3YzMwYTFjYjBhODJiOGE5ZDBmNDAxOWNhNTcxNDA3OWQ1Y2VlNmVm`

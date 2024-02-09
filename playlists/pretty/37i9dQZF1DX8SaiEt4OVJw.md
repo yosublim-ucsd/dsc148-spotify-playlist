@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > 🇳🇬  vs 🇿🇦 : winner takes Amapiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,400 likes - 40 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,524 likes - 40 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 39 | [Ololufe \(feat\. Wande Coal\)](https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:30 |
 | 40 | [Tiya Mfana \(Mzokwana\)](https://open.spotify.com/track/5lr7D9JQvMzmnNQ6yM6T7a) | [DJ Tshegu](https://open.spotify.com/artist/6ei1fCxL5TGjFKBj1B8KgM), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Sims Noreng](https://open.spotify.com/artist/3GMbwC9hehaCMs6JqiZBeE) | [Tiya Mfana \(Mzokwana\)](https://open.spotify.com/album/2VH6Sq4QqLMQFqkQIyxVtu) | 4:25 |
 
-Snapshot ID: `MCwwOTEzNDM4MjkxOGE5ODEzZGJkYzBhOWFmOWU2NTE3NjBhNjFmMjgx`
+Snapshot ID: `MCxiYWE4Yjk5ZDBmZGI0NzI2ZDViNTBjNmM0NjU3MzE4OTI2NDA1MWM3`

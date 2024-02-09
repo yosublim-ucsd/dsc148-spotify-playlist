@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-02",
-  "description": "the pearls of an oyster. Cover: The Last Dinner Party",
+  "description": "the pearls of an oyster. Cover: The girl in red",
   "name": "Oyster",
   "tracks": [
     {
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 161771,
       "name": "All Ur Luv",
       "url": "https://open.spotify.com/track/3K1RnBxBkrMwoBE8gC63eY"
@@ -2940,7 +2940,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 192832,
       "name": "Burn The Hard Drive (feat. Mura Masa)",
       "url": "https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj"
@@ -6467,6 +6467,24 @@
     },
     {
       "album": {
+        "name": "Feeling Good Today",
+        "url": "https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86169,
+      "name": "Feeling Good Today",
+      "url": "https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx"
+    },
+    {
+      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -6558,7 +6576,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 189587,
       "name": "five guys",
       "url": "https://open.spotify.com/track/0jkdb7BEJhQnb2oU2WYdCw"
@@ -7060,7 +7078,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 176603,
       "name": "FRIENDLY FEELINGS",
       "url": "https://open.spotify.com/track/1mAyVyICWy1kP91ekCa466"
@@ -8568,7 +8586,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 202886,
       "name": "Hocus Pocus",
       "url": "https://open.spotify.com/track/3gtbkrjOmjgLqznoV4PQS5"
@@ -8898,7 +8916,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 202560,
       "name": "H\u00e4mnden",
       "url": "https://open.spotify.com/track/288wGS3agbTcTLZM6LXbms"
@@ -9217,6 +9235,24 @@
     },
     {
       "album": {
+        "name": "What Happened to the Beach?",
+        "url": "https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165908,
+      "name": "I Write The News",
+      "url": "https://open.spotify.com/track/7IWJj6xpX61QPzc6fNEInh"
+    },
+    {
+      "album": {
         "name": "With A Hammer",
         "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
       },
@@ -9389,6 +9425,28 @@
     },
     {
       "album": {
+        "name": "ice",
+        "url": "https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        },
+        {
+          "name": "They Hate Change",
+          "url": "https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166506,
+      "name": "ice",
+      "url": "https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp"
+    },
+    {
+      "album": {
         "name": "Ice Slippin",
         "url": "https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv"
       },
@@ -9538,7 +9596,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 135652,
       "name": "immune",
       "url": "https://open.spotify.com/track/7ewa8T2zvdEMWSFG7cLl3E"
@@ -10799,6 +10857,28 @@
     },
     {
       "album": {
+        "name": "Lavendel",
+        "url": "https://open.spotify.com/album/1htSJHmFMUFjdyMru4Vsv7"
+      },
+      "artists": [
+        {
+          "name": "boerd",
+          "url": "https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff"
+        },
+        {
+          "name": "Boko Yout",
+          "url": "https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169203,
+      "name": "Lavendel",
+      "url": "https://open.spotify.com/track/4UB3e19Syj6p71JmcEhZin"
+    },
+    {
+      "album": {
         "name": "Layla",
         "url": "https://open.spotify.com/album/27DCicKUYuGiMN7keqhb7p"
       },
@@ -10814,6 +10894,24 @@
       "duration_ms": 250013,
       "name": "Layla",
       "url": "https://open.spotify.com/track/6nMN0skRJ95zgzRlJnRCJs"
+    },
+    {
+      "album": {
+        "name": "Withering",
+        "url": "https://open.spotify.com/album/1EX0HxNyID0uOOiKeYF9wG"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164483,
+      "name": "Leave Her",
+      "url": "https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT"
     },
     {
       "album": {
@@ -11416,6 +11514,28 @@
       "duration_ms": 188050,
       "name": "Love Is My Condition",
       "url": "https://open.spotify.com/track/7JMIWkV5UaYvXFjNk0Dw0B"
+    },
+    {
+      "album": {
+        "name": "Love Will Save Me",
+        "url": "https://open.spotify.com/album/2QNFtpX9BzNTrzRF0A4tbe"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277561,
+      "name": "Love Will Save Me",
+      "url": "https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw"
     },
     {
       "album": {
@@ -12214,7 +12334,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 187361,
       "name": "Miss You On My Own",
       "url": "https://open.spotify.com/track/0pP83CapV6oZE6XSExUnBP"
@@ -12369,6 +12489,24 @@
     },
     {
       "album": {
+        "name": "Drop 7",
+        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140946,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/53QtBB62XZEkvGVoazcE4f"
       },
@@ -12456,6 +12594,28 @@
       "duration_ms": 153846,
       "name": "Mouth Full of Dirt",
       "url": "https://open.spotify.com/track/667McUmUqMH26OP9vZTqiC"
+    },
+    {
+      "album": {
+        "name": "mr useless",
+        "url": "https://open.spotify.com/album/2nORxS6P2LcQHuTHbH8rgZ"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149506,
+      "name": "mr useless",
+      "url": "https://open.spotify.com/track/1HogDCzANgKv9mE8MgeYKg"
     },
     {
       "album": {
@@ -13020,7 +13180,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 173747,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/2F18iEZb7BiYbWXZBw1w5M"
@@ -13800,7 +13960,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 115200,
       "name": "Oregon",
       "url": "https://open.spotify.com/track/1xIAHRag2NC347gbTe5ig4"
@@ -14608,7 +14768,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 150218,
       "name": "Puppy Luv",
       "url": "https://open.spotify.com/track/2mJf9BGFJ4SjbvfUY6keC6"
@@ -18244,7 +18404,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 183879,
       "name": "TEQUILA",
       "url": "https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS"
@@ -18566,7 +18726,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 150000,
       "name": "The Irrational",
       "url": "https://open.spotify.com/track/25erUsbrNb31cdP3OqFA3j"
@@ -18736,7 +18896,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 221275,
       "name": "THERE WAS A BOY",
       "url": "https://open.spotify.com/track/4VF771laHvBn583zLzk3pn"
@@ -19046,6 +19206,24 @@
       "duration_ms": 333150,
       "name": "Tongo Barra",
       "url": "https://open.spotify.com/track/3skOhs7TlQOCuzHjmTa8Xg"
+    },
+    {
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
     },
     {
       "album": {
@@ -19824,6 +20002,24 @@
       "duration_ms": 140455,
       "name": "Violent Lullaby (with Yung Lean)",
       "url": "https://open.spotify.com/track/1SrBdekTYaJnynRr2gKNAb"
+    },
+    {
+      "album": {
+        "name": "Breathe In, Breathe Out",
+        "url": "https://open.spotify.com/album/4hfABogY2ThfnXf515qFBq"
+      },
+      "artists": [
+        {
+          "name": "Rangleklods",
+          "url": "https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323503,
+      "name": "Violently Patient",
+      "url": "https://open.spotify.com/track/1qKdEaj6BE2RKzQj3sQE63"
     },
     {
       "album": {
@@ -21128,6 +21324,32 @@
       "duration_ms": 148044,
       "name": "Young",
       "url": "https://open.spotify.com/track/0KYiuNWDyw9G08164XTCdS"
+    },
+    {
+      "album": {
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/08z8sSLaf8O4mFyCtGzULu"
+      },
+      "artists": [
+        {
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
+        },
+        {
+          "name": "BeMyFiasco",
+          "url": "https://open.spotify.com/artist/2WDSk4ZbwCw2E99XV6gkRk"
+        },
+        {
+          "name": "Evil Needle",
+          "url": "https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195954,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/7hieuAetWnTNSWctpbsRqn"
     },
     {
       "album": {

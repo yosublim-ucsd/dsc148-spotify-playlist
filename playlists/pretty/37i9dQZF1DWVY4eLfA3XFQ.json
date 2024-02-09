@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Mau P",
-  "num_followers": 606944,
+  "num_followers": 607074,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjllNjgyZTc0OTkyMTQ5MzhiY2M3NjI2NDAyOWM4OTFkNTM1NmYw",
+  "snapshot_id": "MCwyMWQxNTMxZDkyM2NkYzEyOTlkYzAyMGRkMjRjNmE5ZTEzMDBjNjI5",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -817,38 +817,6 @@
       "url": "https://open.spotify.com/track/4Fra5RbEcpGqMgjFSo7TUi"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Musica",
-        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Jump In",
-        "url": "https://open.spotify.com/album/07BxOVzzyMBEkff8GEczSG"
-      },
-      "artists": [
-        {
-          "name": "POLOVICH",
-          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Jump In",
-      "url": "https://open.spotify.com/track/7KPM73DEawK8fsogmx87HX"
-    },
-    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Come Come",
@@ -871,6 +839,38 @@
       "duration_ms": 184596,
       "name": "Come Come",
       "url": "https://open.spotify.com/track/2vGpCrWU9nAvs2CFhw5TsA"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Jump In",
+        "url": "https://open.spotify.com/album/07BxOVzzyMBEkff8GEczSG"
+      },
+      "artists": [
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Jump In",
+      "url": "https://open.spotify.com/track/7KPM73DEawK8fsogmx87HX"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1241,6 +1241,22 @@
       "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 206410,
+      "name": "The Switch",
+      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Up N' Down (feat. JmNPR)",
@@ -1263,22 +1279,6 @@
       "duration_ms": 208637,
       "name": "Up N' Down (feat. JmNPR)",
       "url": "https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 206410,
-      "name": "The Switch",
-      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1393,26 +1393,6 @@
       "url": "https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Better Recognize",
-        "url": "https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Better Recognize",
-      "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
-    },
-    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "Cruel Intentions",
@@ -1435,6 +1415,26 @@
       "duration_ms": 222273,
       "name": "Cruel Intentions",
       "url": "https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Better Recognize",
+        "url": "https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 211586,
+      "name": "Better Recognize",
+      "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1657,30 +1657,6 @@
       "url": "https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Bringing Me Home (OMNOM Remix)",
-        "url": "https://open.spotify.com/album/0gAVyF2Fl2xnwOx7iK29Xl"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        }
-      ],
-      "duration_ms": 211343,
-      "name": "Bringing Me Home - OMNOM Remix",
-      "url": "https://open.spotify.com/track/0MqW3v6dcZkbJ6ijxG5dTi"
-    },
-    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Show Me Love",
@@ -1721,6 +1697,30 @@
       "url": "https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7"
     },
     {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Bringing Me Home (OMNOM Remix)",
+        "url": "https://open.spotify.com/album/0gAVyF2Fl2xnwOx7iK29Xl"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "duration_ms": 211343,
+      "name": "Bringing Me Home - OMNOM Remix",
+      "url": "https://open.spotify.com/track/0MqW3v6dcZkbJ6ijxG5dTi"
+    },
+    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Night Owls",
@@ -1735,6 +1735,22 @@
       "duration_ms": 186141,
       "name": "Night Owls",
       "url": "https://open.spotify.com/track/4anGNCfSIlqVgBGxcgKNNK"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Drug Loop",
+        "url": "https://open.spotify.com/album/04GTNpzHseEOyXNZG2gSDq"
+      },
+      "artists": [
+        {
+          "name": "Phil Harris",
+          "url": "https://open.spotify.com/artist/06icPsYb2sw6FlJKYhwsv0"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Drug Loop",
+      "url": "https://open.spotify.com/track/3Jc7DQJL8qb2ShoAMzY7oZ"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1755,22 +1771,6 @@
       "duration_ms": 210826,
       "name": "I Want Your Soul - Mau P Remix",
       "url": "https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Drug Loop",
-        "url": "https://open.spotify.com/album/04GTNpzHseEOyXNZG2gSDq"
-      },
-      "artists": [
-        {
-          "name": "Phil Harris",
-          "url": "https://open.spotify.com/artist/06icPsYb2sw6FlJKYhwsv0"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Drug Loop",
-      "url": "https://open.spotify.com/track/3Jc7DQJL8qb2ShoAMzY7oZ"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1925,22 +1925,6 @@
       "url": "https://open.spotify.com/track/4ddRKTrv4fXl47Jzigwyit"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Intergalactic",
-        "url": "https://open.spotify.com/album/3m0nVk1a0sMRKQnpVuRh5e"
-      },
-      "artists": [
-        {
-          "name": "Black V Neck",
-          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Intergalactic",
-      "url": "https://open.spotify.com/track/7ffgc891MkZ8ZN6vLzYX8J"
-    },
-    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "Drums (Feat. Kim Petras) [Wh0 Remix]",
@@ -1981,6 +1965,38 @@
       "url": "https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2"
     },
     {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Intergalactic",
+        "url": "https://open.spotify.com/album/3m0nVk1a0sMRKQnpVuRh5e"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Intergalactic",
+      "url": "https://open.spotify.com/track/7ffgc891MkZ8ZN6vLzYX8J"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "What I'm Sayin",
+        "url": "https://open.spotify.com/album/3eTZQ42Toe7G2ze1rs5fgu"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 200343,
+      "name": "What I'm Sayin",
+      "url": "https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "LALALA",
@@ -2003,22 +2019,6 @@
       "duration_ms": 169635,
       "name": "LALALA",
       "url": "https://open.spotify.com/track/0vMAY6AodrM6yXH8Gi9Xzq"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "What I'm Sayin",
-        "url": "https://open.spotify.com/album/3eTZQ42Toe7G2ze1rs5fgu"
-      },
-      "artists": [
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        }
-      ],
-      "duration_ms": 200343,
-      "name": "What I'm Sayin",
-      "url": "https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Jack The House 4",
-        "url": "https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 176692,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "PLAY SOME RECORDS",
         "url": "https://open.spotify.com/album/5VxLMDVW8rjyP4mh8AyHVr"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 168983,
       "name": "PLAY SOME RECORDS",
       "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Jack The House 4",
+        "url": "https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 176692,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2225,6 +2225,22 @@
       "url": "https://open.spotify.com/track/66Q1xT5uKtmC4cFh6o4uL6"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Are You Feeling This? / Stay Focused",
+        "url": "https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK"
+      },
+      "artists": [
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        }
+      ],
+      "duration_ms": 166380,
+      "name": "Are You Feeling This?",
+      "url": "https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Space Bump",
@@ -2245,22 +2261,6 @@
       "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Are You Feeling This? / Stay Focused",
-        "url": "https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK"
-      },
-      "artists": [
-        {
-          "name": "Shiba San",
-          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
-        }
-      ],
-      "duration_ms": 166380,
-      "name": "Are You Feeling This?",
-      "url": "https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb"
-    },
-    {
       "added_at": "2023-12-15 05:00:00",
       "album": {
         "name": "Bad Bassline",
@@ -2279,6 +2279,22 @@
       "duration_ms": 191250,
       "name": "Bad Bassline",
       "url": "https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Bend N Snap",
+        "url": "https://open.spotify.com/album/4drwTrVblA1u7ac2r27dxY"
+      },
+      "artists": [
+        {
+          "name": "Jack Wins",
+          "url": "https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt"
+        }
+      ],
+      "duration_ms": 134430,
+      "name": "Bend N Snap",
+      "url": "https://open.spotify.com/track/0cIfTCAE7fLAgvFzBA4XAW"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2313,62 +2329,6 @@
       "url": "https://open.spotify.com/track/7aasXv1PUt4t0DLo2nGzMV"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Bend N Snap",
-        "url": "https://open.spotify.com/album/4drwTrVblA1u7ac2r27dxY"
-      },
-      "artists": [
-        {
-          "name": "Jack Wins",
-          "url": "https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt"
-        }
-      ],
-      "duration_ms": 134430,
-      "name": "Bend N Snap",
-      "url": "https://open.spotify.com/track/0cIfTCAE7fLAgvFzBA4XAW"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Good God (Sunnery James & Ryan Marciano Remix)",
-        "url": "https://open.spotify.com/album/0RbpWANRg0P5mRBrDgSMF9"
-      },
-      "artists": [
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
-        }
-      ],
-      "duration_ms": 149280,
-      "name": "Good God (Sunnery James & Ryan Marciano Remix)",
-      "url": "https://open.spotify.com/track/1aXf9GykmY5jprsRYAlrL6"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Club Rompas",
-        "url": "https://open.spotify.com/album/57c4YyyWoOYOWGFqKqHJgF"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "Basura Boyz",
-          "url": "https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Blisters on My Feet",
-      "url": "https://open.spotify.com/track/3j8TbHVc4Kg4mWApoXnUL4"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Pa Lante",
@@ -2395,6 +2355,46 @@
       "duration_ms": 179527,
       "name": "Pa Lante",
       "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Club Rompas",
+        "url": "https://open.spotify.com/album/57c4YyyWoOYOWGFqKqHJgF"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Basura Boyz",
+          "url": "https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Blisters on My Feet",
+      "url": "https://open.spotify.com/track/3j8TbHVc4Kg4mWApoXnUL4"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Good God (Sunnery James & Ryan Marciano Remix)",
+        "url": "https://open.spotify.com/album/0RbpWANRg0P5mRBrDgSMF9"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        }
+      ],
+      "duration_ms": 149280,
+      "name": "Good God (Sunnery James & Ryan Marciano Remix)",
+      "url": "https://open.spotify.com/track/1aXf9GykmY5jprsRYAlrL6"
     },
     {
       "added_at": "2024-01-19 05:00:00",

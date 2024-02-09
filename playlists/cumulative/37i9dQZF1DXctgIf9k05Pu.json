@@ -796,7 +796,7 @@
     {
       "album": {
         "name": "Harbor",
-        "url": "https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v"
+        "url": "https://open.spotify.com/album/3xAIeIUqff7nui62qizWZL"
       },
       "artists": [
         {
@@ -807,6 +807,24 @@
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 91504,
+      "name": "Monday Loop",
+      "url": "https://open.spotify.com/track/5AIKwGeFoauI8ckPJVhihk"
+    },
+    {
+      "album": {
+        "name": "Harbor",
+        "url": "https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v"
+      },
+      "artists": [
+        {
+          "name": "Tomppabeats",
+          "url": "https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-09",
       "duration_ms": 91504,
       "name": "Monday Loop",
       "url": "https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ"
