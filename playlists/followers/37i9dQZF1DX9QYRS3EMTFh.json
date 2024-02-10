@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 143467,
+  "2024-02-10": 143522,
   "date_first_scraped": "2021-12-29",
   "description": "Les hits dancehall du moment. Photo : Kalash",
   "name": "Dancehall Station",
@@ -917,6 +917,28 @@
       "duration_ms": 155744,
       "name": "Big Woman Thing",
       "url": "https://open.spotify.com/track/6j8NRVBuVs5IGr9AKuw3vp"
+    },
+    {
+      "album": {
+        "name": "BIGIDI",
+        "url": "https://open.spotify.com/album/2nM9YvKLjuY3EdoLp7EAu7"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "DJ Tutuss",
+          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88714,
+      "name": "BIGIDI",
+      "url": "https://open.spotify.com/track/3I5dTcbcu4hpYoffPLbbIt"
     },
     {
       "album": {
@@ -2714,6 +2736,32 @@
     },
     {
       "album": {
+        "name": "Gyal Dem Want",
+        "url": "https://open.spotify.com/album/23dJMkGfqoPsL5AHmDzr0C"
+      },
+      "artists": [
+        {
+          "name": "Iamroyston",
+          "url": "https://open.spotify.com/artist/2LJ7EXcNlX7Vdtd83Nrk2i"
+        },
+        {
+          "name": "Big Shenn",
+          "url": "https://open.spotify.com/artist/1oRevsg3KXvciSXKMlsEZl"
+        },
+        {
+          "name": "Marver",
+          "url": "https://open.spotify.com/artist/7niJWSs6JBoxU1TYnZr9Uk"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Gyal Dem Want",
+      "url": "https://open.spotify.com/track/2MwKezRKfovT1yMsdRmKYO"
+    },
+    {
+      "album": {
         "name": "Gymnastic",
         "url": "https://open.spotify.com/album/3PpoGIk4czgWjtzo72L5lj"
       },
@@ -3439,7 +3487,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 134478,
       "name": "Kant\u00e9",
       "url": "https://open.spotify.com/track/2C46wVpmfqUzrORlKUMSAr"
@@ -4863,7 +4911,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 216887,
       "name": "PAPA",
       "url": "https://open.spotify.com/track/7aQWrIsNNLXTO2BS5GoJfE"

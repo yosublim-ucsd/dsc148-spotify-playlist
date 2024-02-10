@@ -1,7 +1,7 @@
 {
-  "2024-02-09": 114168,
+  "2024-02-10": 114212,
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Bernadya",
+  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Donne Maula ",
   "name": "Naik Daun",
   "tracks": [
     {
@@ -137,7 +137,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 149189,
       "name": "Banyak Yang Bilang",
       "url": "https://open.spotify.com/track/0f0jZj5PDrNqNIhWMaJBK7"
@@ -155,7 +155,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 233000,
       "name": "Be A Man",
       "url": "https://open.spotify.com/track/0LcfZzp12LVdTBfQS6PhFa"
@@ -274,6 +274,28 @@
     },
     {
       "album": {
+        "name": "Bertemu",
+        "url": "https://open.spotify.com/album/5DvIj9BzU4mc6AVK6qmXwu"
+      },
+      "artists": [
+        {
+          "name": "Rinrin",
+          "url": "https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f"
+        },
+        {
+          "name": "Prince Husein",
+          "url": "https://open.spotify.com/artist/3JzIIqZI9biLWd2LyC6lus"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206068,
+      "name": "Bertemu",
+      "url": "https://open.spotify.com/track/2UYKcoBJnIFQXoOZN4w4G7"
+    },
+    {
+      "album": {
         "name": "Bertemu Kembali",
         "url": "https://open.spotify.com/album/5TGLA6ieUTAN4cduEb0cDI"
       },
@@ -289,7 +311,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 273688,
       "name": "Bertemu Kembali",
       "url": "https://open.spotify.com/track/2OQ5SRbdGeRpiscZS6UFHT"
@@ -368,6 +390,60 @@
     },
     {
       "album": {
+        "name": "DIVINE",
+        "url": "https://open.spotify.com/album/0QfsqeNAmd48QUzPHYV2V8"
+      },
+      "artists": [
+        {
+          "name": "Cakra Khan",
+          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262848,
+      "name": "Broken Symphony",
+      "url": "https://open.spotify.com/track/2afqv6rNNOE6HZ36vkbSq3"
+    },
+    {
+      "album": {
+        "name": "Buang - Buang Waktu",
+        "url": "https://open.spotify.com/album/5jyZwljzuKZEKHprgTTmDv"
+      },
+      "artists": [
+        {
+          "name": "Nidji",
+          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196299,
+      "name": "Buang - Buang Waktu",
+      "url": "https://open.spotify.com/track/3KosRTfZJFnErNBMF1ugua"
+    },
+    {
+      "album": {
+        "name": "Romansa 3 Babak",
+        "url": "https://open.spotify.com/album/06ZX2ViHb0nwZf5glrK6O0"
+      },
+      "artists": [
+        {
+          "name": "Febinda Tito",
+          "url": "https://open.spotify.com/artist/538SnQc3YoJ96cIs2mpTaZ"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186872,
+      "name": "Bukan Denganku",
+      "url": "https://open.spotify.com/track/4S7pJQ5qyMhLIPZpRnfQqH"
+    },
+    {
+      "album": {
         "name": "Bunga Hati",
         "url": "https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4"
       },
@@ -437,7 +513,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 142000,
       "name": "CLOSER",
       "url": "https://open.spotify.com/track/0jnNq7oQlbIt4Junfy1aHT"
@@ -459,6 +535,28 @@
       "duration_ms": 176731,
       "name": "Colorless",
       "url": "https://open.spotify.com/track/5DX9NwF7lYGPdeXpeCajoT"
+    },
+    {
+      "album": {
+        "name": "come 'n find me",
+        "url": "https://open.spotify.com/album/16v1QKaSFFzlwf20eGsV3x"
+      },
+      "artists": [
+        {
+          "name": "Mea Shahira",
+          "url": "https://open.spotify.com/artist/29bENDLYu1dHDXV0sXtfRC"
+        },
+        {
+          "name": "Ezra Kunze",
+          "url": "https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "come 'n find me",
+      "url": "https://open.spotify.com/track/3OjEf6zYCbxM8zqolCafK0"
     },
     {
       "album": {
@@ -834,6 +932,24 @@
     },
     {
       "album": {
+        "name": "Jelita",
+        "url": "https://open.spotify.com/album/0OmP8RjGFLxYLwPcegqvyU"
+      },
+      "artists": [
+        {
+          "name": "Abe Lubis",
+          "url": "https://open.spotify.com/artist/1qCmZbGisqPoeIEjFG8WeF"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288979,
+      "name": "Jelita",
+      "url": "https://open.spotify.com/track/5ypEHS0QT7YnUbfsE1ZLH3"
+    },
+    {
+      "album": {
         "name": "Kala Sang Surya Tenggelam (from the Netflix Series \"Gadis Kretek\")",
         "url": "https://open.spotify.com/album/6KBxUSNGEAMLGxo9GwpGOt"
       },
@@ -1019,6 +1135,24 @@
       "duration_ms": 244561,
       "name": "Kini Sempurna",
       "url": "https://open.spotify.com/track/4n6QwDwsn93HdFaWmm8x7t"
+    },
+    {
+      "album": {
+        "name": "Kisah Yang Lain",
+        "url": "https://open.spotify.com/album/1EeGQqYpr6ephrrwkD42Ss"
+      },
+      "artists": [
+        {
+          "name": "Anggi Marito",
+          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242822,
+      "name": "Kisah Yang Lain",
+      "url": "https://open.spotify.com/track/7ewBrAZeVLIZkGgrEbR0az"
     },
     {
       "album": {
@@ -1255,7 +1389,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 249039,
       "name": "MADE 4 U",
       "url": "https://open.spotify.com/track/5yetn3rXSPBP8fl5d5zExV"
@@ -1273,7 +1407,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 134196,
       "name": "Mars Prediksi",
       "url": "https://open.spotify.com/track/5IuzWGJiBf6P02TkE3jTCC"
@@ -1417,7 +1551,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 241834,
       "name": "Menuju Arah yang Sama",
       "url": "https://open.spotify.com/track/7ibQkP0QbuROfastP2JquO"
@@ -1483,6 +1617,42 @@
       "duration_ms": 241300,
       "name": "Notifikasi - From \"Viu Original Bad Boys Vs Crazy Girls 2\"",
       "url": "https://open.spotify.com/track/6hMBZVSH2WlCOUNzNiai75"
+    },
+    {
+      "album": {
+        "name": "Undelivered",
+        "url": "https://open.spotify.com/album/2ahZl7AMUbRB0asDAxCJaZ"
+      },
+      "artists": [
+        {
+          "name": "After Nourway",
+          "url": "https://open.spotify.com/artist/1db4VIGVnfIOdVnQv5hQfH"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254856,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/7pLUMN0EExPXxan8pCOYBa"
+    },
+    {
+      "album": {
+        "name": "Panggung Besar",
+        "url": "https://open.spotify.com/album/06B12F1j9LGobQ2oh0Uiuk"
+      },
+      "artists": [
+        {
+          "name": "Dodit Mulyanto",
+          "url": "https://open.spotify.com/artist/36nP5stOdMeppSTe9iLuFr"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "Panggung Besar",
+      "url": "https://open.spotify.com/track/3YyOyRtZZ21G0IyIVNdxQi"
     },
     {
       "album": {
@@ -1656,6 +1826,24 @@
     },
     {
       "album": {
+        "name": "Sabar",
+        "url": "https://open.spotify.com/album/0rpLMpCFLDQJ6BIDJmS1Mp"
+      },
+      "artists": [
+        {
+          "name": "Donne Maula",
+          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sabar",
+      "url": "https://open.spotify.com/track/4RLFIfvicLshfmI2foSPSG"
+    },
+    {
+      "album": {
         "name": "Terlintas",
         "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
       },
@@ -1689,6 +1877,24 @@
       "duration_ms": 235643,
       "name": "Sebatas Bayangmu",
       "url": "https://open.spotify.com/track/2n745zRI6dLlWmUwCpLzR7"
+    },
+    {
+      "album": {
+        "name": "Sekali",
+        "url": "https://open.spotify.com/album/0bwOUA3PBmUz71SDIk3l7u"
+      },
+      "artists": [
+        {
+          "name": "Agatha Chelsea",
+          "url": "https://open.spotify.com/artist/5ODv2f6HUg3lyBdyJ2zyLX"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218022,
+      "name": "Sekali",
+      "url": "https://open.spotify.com/track/2PlEIW0nd8hTSdHnb32lQT"
     },
     {
       "album": {
@@ -1885,7 +2091,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 175921,
       "name": "spirit",
       "url": "https://open.spotify.com/track/1pdtUzQ8AtIxKjWCs2JzRk"
@@ -1945,7 +2151,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 260000,
       "name": "Sunyi Sepi",
       "url": "https://open.spotify.com/track/3MvWwT3UudBf4hE0ScyZ0L"
@@ -2100,6 +2306,28 @@
     },
     {
       "album": {
+        "name": "Takut",
+        "url": "https://open.spotify.com/album/76kFuJU4b1YJNTXVHbzUQw"
+      },
+      "artists": [
+        {
+          "name": "Boy William",
+          "url": "https://open.spotify.com/artist/5tIi1jv5d1ajzRNC60Fe4D"
+        },
+        {
+          "name": "Ayu Ting Ting",
+          "url": "https://open.spotify.com/artist/3TKrakVauUGuCb4rqTvLSG"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263312,
+      "name": "Takut",
+      "url": "https://open.spotify.com/track/2LBbTyXKMysXA7ndR7GmqM"
+    },
+    {
+      "album": {
         "name": "Tanpa Kata",
         "url": "https://open.spotify.com/album/6c1DA0aLXnWmm2BKjStZ9H"
       },
@@ -2223,7 +2451,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 100297,
       "name": "Teman Setia (Official Soundtrack Boboiboy Galaxy Sori - Short Version)",
       "url": "https://open.spotify.com/track/5KioOyyDjeD3L13kR7ckEa"
@@ -2259,7 +2487,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 192994,
       "name": "Terserah",
       "url": "https://open.spotify.com/track/7kvNngJtG3bvUXEAZgob1F"

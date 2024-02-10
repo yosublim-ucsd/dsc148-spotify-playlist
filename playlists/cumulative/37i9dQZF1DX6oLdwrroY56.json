@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "The leaders in the lively Pinoy indie scene. Cover: SOS",
+  "description": "The leaders in the lively Pinoy indie scene. Cover: Carousel Casualties",
   "name": "Pinoy Indie Mix",
   "tracks": [
     {
@@ -113,6 +113,42 @@
     },
     {
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/6IGsfSCV4oSoWQaRyoJ7oq"
+      },
+      "artists": [
+        {
+          "name": "LaLuna",
+          "url": "https://open.spotify.com/artist/1O2R0tcHg9FlIBXfLmagIh"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284129,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/1UFE7RX9K2ZGjbcQt4yu2E"
+    },
+    {
+      "album": {
+        "name": "Bahaghari (Halika na)",
+        "url": "https://open.spotify.com/album/1cz9BF4Rs8M9IvjT9dI6wB"
+      },
+      "artists": [
+        {
+          "name": "Sandiwa",
+          "url": "https://open.spotify.com/artist/720Zve67rPRTRjyI9Qsb0q"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235636,
+      "name": "Bahaghari (Halika na)",
+      "url": "https://open.spotify.com/track/1i0Kp24hzORn8FPXlS7TEt"
+    },
+    {
+      "album": {
         "name": "Bakit?",
         "url": "https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI"
       },
@@ -124,7 +160,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 194442,
       "name": "Bakit?",
       "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
@@ -142,7 +178,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 209833,
       "name": "Been You",
       "url": "https://open.spotify.com/track/6ZdBAy2SQtDt9oHH9bfGrx"
@@ -196,7 +232,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 269291,
       "name": "Bulaklak",
       "url": "https://open.spotify.com/track/2TM786ycFGiO0e2CW5f9uK"
@@ -315,6 +351,28 @@
     },
     {
       "album": {
+        "name": "Ganid",
+        "url": "https://open.spotify.com/album/734hINrmbsNEpEVMPsDuxw"
+      },
+      "artists": [
+        {
+          "name": "Paham",
+          "url": "https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v"
+        },
+        {
+          "name": "Off The Record",
+          "url": "https://open.spotify.com/artist/0h2lW8O3gilzdOjbgLYivM"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244036,
+      "name": "Ganid",
+      "url": "https://open.spotify.com/track/6pLripA8bBASZR2dPVdZNB"
+    },
+    {
+      "album": {
         "name": "Gigil",
         "url": "https://open.spotify.com/album/3t5KRD3M9dAwnFlvACylLd"
       },
@@ -344,7 +402,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 404869,
       "name": "Halika Na",
       "url": "https://open.spotify.com/track/2Jh7V0RVCWuPLTTPuS7NRO"
@@ -402,6 +460,24 @@
       "duration_ms": 261739,
       "name": "Himbing",
       "url": "https://open.spotify.com/track/0cYu2DWw8Fzo0ZyxBZKC6h"
+    },
+    {
+      "album": {
+        "name": "hindi ko alam",
+        "url": "https://open.spotify.com/album/6hjmSdam936JPRPNM76pkF"
+      },
+      "artists": [
+        {
+          "name": "Carousel Casualties",
+          "url": "https://open.spotify.com/artist/5JKO1slXmXcPZghqTrYG1I"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211302,
+      "name": "hindi ko alam",
+      "url": "https://open.spotify.com/track/6cXBwW4mDlxrjpXVNqeSAv"
     },
     {
       "album": {
@@ -531,6 +607,24 @@
     },
     {
       "album": {
+        "name": "KELAN",
+        "url": "https://open.spotify.com/album/6xIotKOoU9blLewoX4q0ns"
+      },
+      "artists": [
+        {
+          "name": "BRISOM",
+          "url": "https://open.spotify.com/artist/52AFbIsIjRLcaHCt8KV1rg"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250657,
+      "name": "KELAN",
+      "url": "https://open.spotify.com/track/13byAV7v6G7GQ3mKyD1Zqe"
+    },
+    {
+      "album": {
         "name": "Kita Kita",
         "url": "https://open.spotify.com/album/0ye0D8h094WLKJeql7RYAW"
       },
@@ -596,7 +690,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 144489,
       "name": "Lilly's Child",
       "url": "https://open.spotify.com/track/53VWrgqxMeyLvzRaPZH89K"
@@ -676,6 +770,24 @@
       "duration_ms": 202764,
       "name": "Nagbabakasakali",
       "url": "https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w"
+    },
+    {
+      "album": {
+        "name": "Nangungulila Sa'yo",
+        "url": "https://open.spotify.com/album/5gGQBiaHRGkE1Wm7hTOgbu"
+      },
+      "artists": [
+        {
+          "name": "Noah Alejandre",
+          "url": "https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282750,
+      "name": "Nangungulila Sa'yo",
+      "url": "https://open.spotify.com/track/2ksrs846bctGcYZjzsLxFj"
     },
     {
       "album": {
@@ -762,10 +874,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 199121,
       "name": "Pangako",
       "url": "https://open.spotify.com/track/37fxTC4k42nkHJep3R6lVr"
+    },
+    {
+      "album": {
+        "name": "Pano",
+        "url": "https://open.spotify.com/album/50MOgT7Zk05HfohHxIsk3b"
+      },
+      "artists": [
+        {
+          "name": "Caren Tevanny",
+          "url": "https://open.spotify.com/artist/3p3NIGIG5T7nlV5FIhh0M1"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197708,
+      "name": "Pano",
+      "url": "https://open.spotify.com/track/6sEou6d20Y6ckzht82CTsO"
     },
     {
       "album": {
@@ -798,7 +928,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 252500,
       "name": "Patutunguhan",
       "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
@@ -816,7 +946,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 210003,
       "name": "Paulit-Ulit (Sorry Na)",
       "url": "https://open.spotify.com/track/7eUOsa6RfxYWV34ey5U2HI"
@@ -874,6 +1004,24 @@
       "duration_ms": 241042,
       "name": "Please Lang",
       "url": "https://open.spotify.com/track/2A5fNbbIB1sUfUcYX5dkG2"
+    },
+    {
+      "album": {
+        "name": "pwede ba kitang ligawan?",
+        "url": "https://open.spotify.com/album/1965BuJYRYfO7y8hjW6Mki"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135860,
+      "name": "pwede ba kitang ligawan?",
+      "url": "https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD"
     },
     {
       "album": {
@@ -1065,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "SINTA",
+        "url": "https://open.spotify.com/album/2FLvIqldtQCpR78EgQC9kI"
+      },
+      "artists": [
+        {
+          "name": "Yves Villamor",
+          "url": "https://open.spotify.com/artist/2sDIod09TzBcm6mTZZyQle"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236318,
+      "name": "SINTA",
+      "url": "https://open.spotify.com/track/0xuMFw8nrIsfpD3sMRwObD"
+    },
+    {
+      "album": {
         "name": "Sinulit",
         "url": "https://open.spotify.com/album/74fNJhK7AO8AvBQCSSf8jw"
       },
@@ -1076,7 +1242,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 216264,
       "name": "Sinulit",
       "url": "https://open.spotify.com/track/6V76PrxuZBA9Z1NExluZKQ"
@@ -1098,6 +1264,24 @@
       "duration_ms": 258946,
       "name": "Somebody\u2019s Better",
       "url": "https://open.spotify.com/track/66SfXY4jUuylReAjoDS8gw"
+    },
+    {
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/4L5t9VxLQh4bS1JTN9dN9f"
+      },
+      "artists": [
+        {
+          "name": "Shades of Native",
+          "url": "https://open.spotify.com/artist/0nmqWXpvFKgYPgy5mixlon"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234744,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/3QDLEAkNMnch2FBaoySxMv"
     },
     {
       "album": {
@@ -1254,7 +1438,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 222298,
       "name": "Tingin",
       "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
@@ -1272,10 +1456,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 280769,
       "name": "Totoo",
       "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
+    },
+    {
+      "album": {
+        "name": "Trip To Jerusalem",
+        "url": "https://open.spotify.com/album/3ubru9Bw27Qpt7qrgk3Wl9"
+      },
+      "artists": [
+        {
+          "name": "Mt. Lewis",
+          "url": "https://open.spotify.com/artist/0uJdRrv6tNjZPCY5HrMBMN"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286586,
+      "name": "Trip To Jerusalem",
+      "url": "https://open.spotify.com/track/2Lpv0Ddl63HHNZoUihmdt5"
     },
     {
       "album": {

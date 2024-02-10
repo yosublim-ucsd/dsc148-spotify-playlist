@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 14124,
+  "2024-02-10": 14133,
   "date_first_scraped": "2022-10-01",
   "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Yugo Szn ",
   "name": "Sizzlers ",
@@ -64,6 +64,24 @@
     },
     {
       "album": {
+        "name": "14:02",
+        "url": "https://open.spotify.com/album/3NAOgVCijgJpyauvqHis0a"
+      },
+      "artists": [
+        {
+          "name": "Kholi",
+          "url": "https://open.spotify.com/artist/2XPwSOeBvqlG5J5qFl4Eze"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "14:02",
+      "url": "https://open.spotify.com/track/0rIDiFRgtsNB81roHxRPx6"
+    },
+    {
+      "album": {
         "name": "Asylum",
         "url": "https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU"
       },
@@ -101,7 +119,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 145892,
       "name": "21",
       "url": "https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS"
@@ -281,6 +299,28 @@
       "duration_ms": 160129,
       "name": "3AM in Labadi",
       "url": "https://open.spotify.com/track/517uedTKznqWBa5zHytoee"
+    },
+    {
+      "album": {
+        "name": "4U",
+        "url": "https://open.spotify.com/album/79hX8WPtYLBU8Ah5GQIzE0"
+      },
+      "artists": [
+        {
+          "name": "OWO",
+          "url": "https://open.spotify.com/artist/05vJbRVo5CJnkb1rCshUEr"
+        },
+        {
+          "name": "dndSection",
+          "url": "https://open.spotify.com/artist/7E2LWSLIdwELry2AY88xUg"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146073,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/6CnJyXZXNndtqqAbfwKcaa"
     },
     {
       "album": {
@@ -2736,6 +2776,24 @@
     },
     {
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/7qsq6moMEWasMS0zR5Ycwo"
+      },
+      "artists": [
+        {
+          "name": "MiDi KwaKwa",
+          "url": "https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202460,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/6kSbTPcBqhPHObtLgKgJsm"
+    },
+    {
+      "album": {
         "name": "Dear Z",
         "url": "https://open.spotify.com/album/0ZkzlYDnkZEOYAPOo13X8J"
       },
@@ -3214,6 +3272,28 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2PpyHqgNR1h3eQrazaHx7W"
+      },
+      "artists": [
+        {
+          "name": "Fonye",
+          "url": "https://open.spotify.com/artist/0wtEd1BCIE0Kj5BOOLb3AE"
+        },
+        {
+          "name": "Sena Dagadu",
+          "url": "https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220225,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1tf6kydlVfP17D2J3QWqS0"
+    },
+    {
+      "album": {
         "name": "easy (feat. Afua)",
         "url": "https://open.spotify.com/album/1YgFFaVyZUxP7uMcVZMECP"
       },
@@ -3611,7 +3691,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 180636,
       "name": "Express",
       "url": "https://open.spotify.com/track/49ST93zDICBoe4noumugsa"
@@ -3923,6 +4003,28 @@
       "duration_ms": 134399,
       "name": "Felony",
       "url": "https://open.spotify.com/track/4plfpUXQGDWmPSzi3hh1ph"
+    },
+    {
+      "album": {
+        "name": "Quantitative Reason",
+        "url": "https://open.spotify.com/album/5QopXHEo3jwlI9ATm0NXdG"
+      },
+      "artists": [
+        {
+          "name": "Rhedi",
+          "url": "https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI"
+        },
+        {
+          "name": "SuperWozzy",
+          "url": "https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Female",
+      "url": "https://open.spotify.com/track/3BQmC4l8GnAfHdahiZ1GQX"
     },
     {
       "album": {
@@ -5856,6 +5958,24 @@
     },
     {
       "album": {
+        "name": "Ifunanya",
+        "url": "https://open.spotify.com/album/7IUoO4JbBSWSt11xgtErYi"
+      },
+      "artists": [
+        {
+          "name": "Luca Zuccotti",
+          "url": "https://open.spotify.com/artist/455sSMlijr7BLQjQj2QbsO"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171907,
+      "name": "Ifunanya",
+      "url": "https://open.spotify.com/track/6xceRdBFi2uSbaCnpXcaja"
+    },
+    {
+      "album": {
         "name": "First & Foremost",
         "url": "https://open.spotify.com/album/10psdZIUlDoudXyGSWJzvB"
       },
@@ -6247,6 +6367,24 @@
       "duration_ms": 160644,
       "name": "Jara",
       "url": "https://open.spotify.com/track/4Kp8RzMUbGSEkjrElCRgww"
+    },
+    {
+      "album": {
+        "name": "Jeje",
+        "url": "https://open.spotify.com/album/2LvBai2HXgFpGHxOjHkEBn"
+      },
+      "artists": [
+        {
+          "name": "Frozy",
+          "url": "https://open.spotify.com/artist/0GVJY5aXt3Jpw4qOH30wrX"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132466,
+      "name": "Jeje",
+      "url": "https://open.spotify.com/track/3XnEEvgC2dNWFIATh92f48"
     },
     {
       "album": {
@@ -7649,6 +7787,24 @@
       "duration_ms": 180296,
       "name": "Maram Mma",
       "url": "https://open.spotify.com/track/72ruYbuXlD17UffVWCjNil"
+    },
+    {
+      "album": {
+        "name": "ECHOLOCATION",
+        "url": "https://open.spotify.com/album/1MJRIE0t9OfQP2PfAC71kD"
+      },
+      "artists": [
+        {
+          "name": "Mannie Akumba",
+          "url": "https://open.spotify.com/artist/1oaUtMDoug6KaEaMub4onR"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157691,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/5HN8VVC24FpSe5a3kVQKdD"
     },
     {
       "album": {
@@ -9388,6 +9544,24 @@
     },
     {
       "album": {
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/2R6EzaM8RREXn9jkFK7BEd"
+      },
+      "artists": [
+        {
+          "name": "Ogranya",
+          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/27oYvDzSpwNDNojFdUD7LZ"
+    },
+    {
+      "album": {
         "name": "Oshe",
         "url": "https://open.spotify.com/album/6j8nqWuHnrNQ3OcJIEEdBs"
       },
@@ -10416,6 +10590,28 @@
     },
     {
       "album": {
+        "name": "Raining Days",
+        "url": "https://open.spotify.com/album/1Lh76OrM4p1cq02giT1spi"
+      },
+      "artists": [
+        {
+          "name": "Grehg",
+          "url": "https://open.spotify.com/artist/7qlMCZSwKIycQsjTRANKtJ"
+        },
+        {
+          "name": "Damo K",
+          "url": "https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "Raining Days",
+      "url": "https://open.spotify.com/track/2OEqxjLclsU82ns7taKg6F"
+    },
+    {
+      "album": {
         "name": "Ready",
         "url": "https://open.spotify.com/album/0CCkBh9oZkWeSmYUpSqP5y"
       },
@@ -10453,7 +10649,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 171262,
       "name": "Ready - Acoustic",
       "url": "https://open.spotify.com/track/1mZtvB2gxTbA4oeXbYkenh"
@@ -10671,6 +10867,24 @@
       "duration_ms": 192111,
       "name": "Rest My Case",
       "url": "https://open.spotify.com/track/54I5MSvbijyqMfB0Ci0Lvc"
+    },
+    {
+      "album": {
+        "name": "Revolution 2.0",
+        "url": "https://open.spotify.com/album/0hd1iJG0MNfccqdxq8E0Aj"
+      },
+      "artists": [
+        {
+          "name": "EkesonMan",
+          "url": "https://open.spotify.com/artist/66VctGT6LseMG0VnwmREYV"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132957,
+      "name": "Revolution 2.0",
+      "url": "https://open.spotify.com/track/6wyJHr2Vm6zzokE4VvseEH"
     },
     {
       "album": {
@@ -11020,6 +11234,28 @@
     },
     {
       "album": {
+        "name": "Sawa",
+        "url": "https://open.spotify.com/album/5UL4PN7oqcJApDWDoPwJXm"
+      },
+      "artists": [
+        {
+          "name": "SENYOCUE",
+          "url": "https://open.spotify.com/artist/6tzSj1XW3DRFxXrpApcz6o"
+        },
+        {
+          "name": "Tsimo",
+          "url": "https://open.spotify.com/artist/1We2xONK8C00JZbSBllfsE"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232941,
+      "name": "Sawa",
+      "url": "https://open.spotify.com/track/49wz0wdbVn7I21eRjKtR3e"
+    },
+    {
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/2Nd7o5nJy7TyJ1VmEayTu7"
       },
@@ -11221,6 +11457,24 @@
       "duration_ms": 163413,
       "name": "Sharp Attack",
       "url": "https://open.spotify.com/track/2W45RFSn0zM0eH0GFHimHS"
+    },
+    {
+      "album": {
+        "name": "Moments (feat. DaBlixx Osha, MohBad)",
+        "url": "https://open.spotify.com/album/3eZqQym7jPA8sJcnnEOoF8"
+      },
+      "artists": [
+        {
+          "name": "Ajesings",
+          "url": "https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127085,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/41MTYyuFbvYHcvfogxN1J0"
     },
     {
       "album": {

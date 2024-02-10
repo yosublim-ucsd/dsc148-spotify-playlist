@@ -2,7 +2,7 @@
 
 ### [Gold School](https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U)
 
-> Taking it way back! Cover: Kanye West
+> Taking it way back! Cover: Drake
 
 275 songs - 19 hr 47 min
 

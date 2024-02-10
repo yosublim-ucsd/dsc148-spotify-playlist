@@ -75,6 +75,24 @@
     },
     {
       "album": {
+        "name": "20k heures de solitude",
+        "url": "https://open.spotify.com/album/0PQmGXDqt6jH23N1VCSB3J"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299293,
+      "name": "20k heures de solitude",
+      "url": "https://open.spotify.com/track/0LcesJstJfzDHrnLGagUcJ"
+    },
+    {
+      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/37adsQh553U4eTtGYIHzDf"
       },
@@ -1854,7 +1872,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 165973,
       "name": "Diff\u00e9rent de toi",
       "url": "https://open.spotify.com/track/6QqapEQ1RsiEJnlWQKtqzf"
@@ -3678,7 +3696,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 243419,
       "name": "L'\u00e9vad\u00e9",
       "url": "https://open.spotify.com/track/54IB5XhD35uEsApRWc7Rq4"
@@ -6714,6 +6732,24 @@
       "duration_ms": 156000,
       "name": "Sossaup",
       "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
+    },
+    {
+      "album": {
+        "name": "Souvenirs d'hiver",
+        "url": "https://open.spotify.com/album/0H8eWhsR7YF42qoYxCj4tn"
+      },
+      "artists": [
+        {
+          "name": "En St\u00e9r\u00e9o",
+          "url": "https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244571,
+      "name": "Souvenirs d'hiver",
+      "url": "https://open.spotify.com/track/1RA7rGvpb7IcxyIGA6Tbog"
     },
     {
       "album": {

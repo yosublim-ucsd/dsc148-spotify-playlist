@@ -950,7 +950,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 131271,
       "name": "Running on Raindrops",
       "url": "https://open.spotify.com/track/39Ji2TlTj6OWZBHKIyN6yp"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 118920,
       "name": "Sejanus",
       "url": "https://open.spotify.com/track/5WzSe25m3cnrkik2ZsHSvn"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 205053,
       "name": "Tenuous Winners/Returning Home",
       "url": "https://open.spotify.com/track/3j0anhPHIuTukHhyGlkwvp"
@@ -1380,6 +1380,24 @@
       "duration_ms": 554026,
       "name": "Why so Serious?",
       "url": "https://open.spotify.com/track/1wdoaja3ueHHvzobn2jE2n"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: Mockingjay, Part 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145506,
+      "name": "Your Favorite Color is Green - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/0eALlNRLWpbSmHllAhAW6x"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1B3M4M"

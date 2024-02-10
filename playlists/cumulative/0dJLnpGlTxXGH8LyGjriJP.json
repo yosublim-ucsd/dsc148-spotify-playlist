@@ -15021,6 +15021,28 @@
     },
     {
       "album": {
+        "name": "Pain & Love 2",
+        "url": "https://open.spotify.com/album/1M1i7i0G5g0bhQIoyXeqJN"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171636,
+      "name": "Waiting (feat. Sheff G)",
+      "url": "https://open.spotify.com/track/4gOTWPI2lMFTC17LP8zjYu"
+    },
+    {
+      "album": {
         "name": "Bawskee",
         "url": "https://open.spotify.com/album/2hVuPNCVgEqT68y7vCKk88"
       },

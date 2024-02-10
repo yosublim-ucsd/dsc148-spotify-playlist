@@ -1,7 +1,7 @@
 {
-  "2024-02-09": 58338,
+  "2024-02-10": 58389,
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9",
+  "description": "Les hits zouk du moment. Photo : Mik L",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -21,7 +21,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 209000,
       "name": "A GOU A-W",
       "url": "https://open.spotify.com/track/4CsbuoqSMIlxMzquvFPxws"
@@ -412,6 +412,24 @@
     },
     {
       "album": {
+        "name": "DOUX",
+        "url": "https://open.spotify.com/album/27haWl4XrngKEoMiDP8yAY"
+      },
+      "artists": [
+        {
+          "name": "loana",
+          "url": "https://open.spotify.com/artist/35clIIB5H2lf0Fp9tMpV0T"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211365,
+      "name": "DOUX",
+      "url": "https://open.spotify.com/track/2kxYhc00snAqzYVhQMOmFn"
+    },
+    {
+      "album": {
         "name": "En sang",
         "url": "https://open.spotify.com/album/5PB3y3i9V2mkvHU3P3jTbP"
       },
@@ -521,6 +539,24 @@
       "duration_ms": 158352,
       "name": "Hollandaise",
       "url": "https://open.spotify.com/track/0rQV3d6ckeCZAQrIvOaICE"
+    },
+    {
+      "album": {
+        "name": "Hyp\u00e9",
+        "url": "https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157053,
+      "name": "Hyp\u00e9",
+      "url": "https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J"
     },
     {
       "album": {
@@ -868,6 +904,24 @@
     },
     {
       "album": {
+        "name": "Ma dose",
+        "url": "https://open.spotify.com/album/2LFPrhcBAXLKzl99gVgj7z"
+      },
+      "artists": [
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175225,
+      "name": "Ma dose",
+      "url": "https://open.spotify.com/track/6uZezXA1pDL4NcwxLdrnGD"
+    },
+    {
+      "album": {
         "name": "En Boucle (Deluxe)",
         "url": "https://open.spotify.com/album/2zNXO3bjMY3VJI1ASnhqNs"
       },
@@ -945,7 +999,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 306922,
       "name": "MAYDAY",
       "url": "https://open.spotify.com/track/4JaiYhTtUQN4TkwafnrEjn"
@@ -989,7 +1043,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 208255,
       "name": "MON P\u00c9CH\u00c9",
       "url": "https://open.spotify.com/track/3EMCirXKIv5oztM29ZqqDe"
@@ -1222,6 +1276,24 @@
     },
     {
       "album": {
+        "name": "Pa Nowmal",
+        "url": "https://open.spotify.com/album/6H26y2puPTgrK0xxyFB9kJ"
+      },
+      "artists": [
+        {
+          "name": "Matieu White",
+          "url": "https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Pa Nowmal",
+      "url": "https://open.spotify.com/track/3aAaM7HdWoXHjB2RHLoteu"
+    },
+    {
+      "album": {
         "name": "Piment",
         "url": "https://open.spotify.com/album/44VUYrsApFS6oxUNy1Hk9E"
       },
@@ -1422,6 +1494,28 @@
     },
     {
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/4kzvsd7djGQxiyqv8uK3MG"
+      },
+      "artists": [
+        {
+          "name": "DJ Eladji",
+          "url": "https://open.spotify.com/artist/0n417By3ZUnFwtll0nx0kV"
+        },
+        {
+          "name": "Priscillia",
+          "url": "https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192263,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/0rzy01OJW2dioLxXZKAyjY"
+    },
+    {
+      "album": {
         "name": "Stop",
         "url": "https://open.spotify.com/album/1V7JUIgcybhG8s3SRzpD4V"
       },
@@ -1527,7 +1621,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 172805,
       "name": "Tou Sa Ki Fo",
       "url": "https://open.spotify.com/track/3DZJQP0BrrpSWKPT8KXMQh"
@@ -1655,7 +1749,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 212398,
       "name": "TU ME TOUCHES",
       "url": "https://open.spotify.com/track/1CMYEMTuKG82siF0FMAlqn"

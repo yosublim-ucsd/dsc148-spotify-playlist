@@ -1,7 +1,7 @@
 {
-  "2024-02-09": 156008,
+  "2024-02-10": 156127,
   "date_first_scraped": "2021-12-21",
-  "description": "GAMMAL I GEMET!!",
+  "description": "I NORRLAND \u00c4R DET FEST!!",
   "name": "30 km/h",
   "tracks": [
     {
@@ -281,7 +281,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 164057,
       "name": "50/50",
       "url": "https://open.spotify.com/track/7wQKO9dOporjLvFD0TY5nG"
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 145223,
       "name": "BEH\u00d6VER EN SHAWTY",
       "url": "https://open.spotify.com/track/5mvDxY4D0ZgTPuc0cVl61f"
@@ -1673,6 +1673,24 @@
       "duration_ms": 313548,
       "name": "Breng",
       "url": "https://open.spotify.com/track/6vzqgrHOThby3HvNfSRLwY"
+    },
+    {
+      "album": {
+        "name": "BRODER BILLY",
+        "url": "https://open.spotify.com/album/7JCB163ySksfQGsKKxbv0Q"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "BRODER BILLY",
+      "url": "https://open.spotify.com/track/5biE4Vet98dNYYAcUVS82d"
     },
     {
       "album": {
@@ -2201,6 +2219,32 @@
       "duration_ms": 144080,
       "name": "CHEVA P\u00c5 FREDAG",
       "url": "https://open.spotify.com/track/6JvSqDyQ6rbbb93XklyNQ7"
+    },
+    {
+      "album": {
+        "name": "CHEVAN",
+        "url": "https://open.spotify.com/album/1qY4vTekRHNxzIoHo9XHst"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        },
+        {
+          "name": "RAGGARSVINET",
+          "url": "https://open.spotify.com/artist/36nIhRqcdo4CCcCl3Eadgp"
+        },
+        {
+          "name": "PILLAN",
+          "url": "https://open.spotify.com/artist/4tJG2ZApXKB8ZWCHoO4JgI"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129455,
+      "name": "CHEVAN",
+      "url": "https://open.spotify.com/track/36xJk4gT1rLIZfMVlVQ96f"
     },
     {
       "album": {
@@ -3348,6 +3392,50 @@
     },
     {
       "album": {
+        "name": "Dricka som mig",
+        "url": "https://open.spotify.com/album/43AesvL4GHgOsgv9KcQkCi"
+      },
+      "artists": [
+        {
+          "name": "Mozby",
+          "url": "https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6"
+        },
+        {
+          "name": "\u00d6rnen",
+          "url": "https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148778,
+      "name": "Dricka som mig",
+      "url": "https://open.spotify.com/track/3TLZz4VcKt3y4cPoyMroqa"
+    },
+    {
+      "album": {
+        "name": "DRICKER MER",
+        "url": "https://open.spotify.com/album/3SQhLYUA38bFFSRHCnZguc"
+      },
+      "artists": [
+        {
+          "name": "FESTEN",
+          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
+        },
+        {
+          "name": "JulleMeck",
+          "url": "https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "DRICKER MER",
+      "url": "https://open.spotify.com/track/1MM1VZpRlMtIvVXOi5m6Bj"
+    },
+    {
+      "album": {
         "name": "DRIKKE MER",
         "url": "https://open.spotify.com/album/2MNAlJ9bG065kzMbtGiK1H"
       },
@@ -3859,7 +3947,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 139726,
       "name": "Dyngnacke",
       "url": "https://open.spotify.com/track/6OHWGN7KW22jczi6FVEBGE"
@@ -4667,7 +4755,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 152337,
       "name": "Evighet",
       "url": "https://open.spotify.com/track/7shSbYJhivRtPuhMArzy9N"
@@ -5411,6 +5499,24 @@
       "duration_ms": 209373,
       "name": "Flaggan i topp - Sveriges Officiella EM-l\u00e5t 2021",
       "url": "https://open.spotify.com/track/7w2sCUWVAop5sTmikAdhCD"
+    },
+    {
+      "album": {
+        "name": "Flaskans S\u00e5ng",
+        "url": "https://open.spotify.com/album/0Npj0zvpAHF4YTXaxz4lET"
+      },
+      "artists": [
+        {
+          "name": "Rivstart",
+          "url": "https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Flaskans S\u00e5ng",
+      "url": "https://open.spotify.com/track/3uDLQGy7CnWsddp7bRMcKw"
     },
     {
       "album": {
@@ -7061,7 +7167,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 160000,
       "name": "GPS",
       "url": "https://open.spotify.com/track/1raTAM5ZcDppB3x7CtDjF9"
@@ -7233,7 +7339,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 171428,
       "name": "Gr\u00e5t inga t\u00e5rar",
       "url": "https://open.spotify.com/track/1ygS2GcmX2fflz6NpwGx2z"
@@ -8463,6 +8569,28 @@
       "duration_ms": 133646,
       "name": "H\u00e5ll min hand - EPA RMX",
       "url": "https://open.spotify.com/track/4x4b5ijPiQ7W50t8bnRjAi"
+    },
+    {
+      "album": {
+        "name": "H\u00d6JDARKV\u00c4LL",
+        "url": "https://open.spotify.com/album/2RluD1uV0D9prBTXXXK9O0"
+      },
+      "artists": [
+        {
+          "name": "Perra & Berra",
+          "url": "https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud"
+        },
+        {
+          "name": "Cowboy Lars",
+          "url": "https://open.spotify.com/artist/0NmcSUngDHQmx6CXqFSvLG"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174838,
+      "name": "H\u00d6JDARKV\u00c4LL",
+      "url": "https://open.spotify.com/track/5Ut2DslAa3bXHIDiAHFqtU"
     },
     {
       "album": {
@@ -11713,7 +11841,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 152173,
       "name": "Mitt lilla fejs & jag",
       "url": "https://open.spotify.com/track/7rMOiHCtibUC2qBhCPHCHy"
@@ -12233,6 +12361,24 @@
       "duration_ms": 112500,
       "name": "NORGERESAN",
       "url": "https://open.spotify.com/track/0yF5JkyD2Q8pil2odvdZ2F"
+    },
+    {
+      "album": {
+        "name": "NORRLAND",
+        "url": "https://open.spotify.com/album/45niRmywIgLhCbng4WxN97"
+      },
+      "artists": [
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142682,
+      "name": "NORRLAND",
+      "url": "https://open.spotify.com/track/1F6JsNG6a6qLkARtK495Hp"
     },
     {
       "album": {
@@ -14282,6 +14428,58 @@
     },
     {
       "album": {
+        "name": "Raggen igjen",
+        "url": "https://open.spotify.com/album/4pPonmtLjz7tFkXbLLMp1y"
+      },
+      "artists": [
+        {
+          "name": "Greta Tuborg",
+          "url": "https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ"
+        },
+        {
+          "name": "EPA SATAN",
+          "url": "https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA"
+        },
+        {
+          "name": "LNDBRG",
+          "url": "https://open.spotify.com/artist/4IsSf5yOU8mMBKHlyDK52n"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91419,
+      "name": "Raggen igjen - LNDBRG Remix",
+      "url": "https://open.spotify.com/track/2ufq9s4PTDFDNeu8E8ovch"
+    },
+    {
+      "album": {
+        "name": "Raggen igjen",
+        "url": "https://open.spotify.com/album/4pPonmtLjz7tFkXbLLMp1y"
+      },
+      "artists": [
+        {
+          "name": "Greta Tuborg",
+          "url": "https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ"
+        },
+        {
+          "name": "EPA SATAN",
+          "url": "https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA"
+        },
+        {
+          "name": "Mozby",
+          "url": "https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105750,
+      "name": "Raggen igjen - Mozby Remix",
+      "url": "https://open.spotify.com/track/2JsYjAxEeeIGdp2gREOzPu"
+    },
+    {
+      "album": {
         "name": "Raggen m\u00e5ste g\u00e5",
         "url": "https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF"
       },
@@ -14787,7 +14985,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 115500,
       "name": "RULLA MED MIG",
       "url": "https://open.spotify.com/track/7AYd3bkvwgf4Z7lk8L9AG2"
@@ -15701,7 +15899,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 128526,
       "name": "SKOTERDEJT",
       "url": "https://open.spotify.com/track/1IgZvxLapSe1j6XtQ6Ch0k"
@@ -17039,6 +17237,24 @@
       "duration_ms": 116571,
       "name": "STUREPLAN",
       "url": "https://open.spotify.com/track/6LlBUPrRLJURMBGk97UlfH"
+    },
+    {
+      "album": {
+        "name": "ST\u00d6RTLOPP",
+        "url": "https://open.spotify.com/album/0zQC4zzbGFIaSHDG5n6ugh"
+      },
+      "artists": [
+        {
+          "name": "TRIPPEL TRUBBEL",
+          "url": "https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165159,
+      "name": "ST\u00d6RTLOPP",
+      "url": "https://open.spotify.com/track/4uoYs01HjSL6uAVAKwKXGZ"
     },
     {
       "album": {
@@ -19195,7 +19411,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 141512,
       "name": "VARJE G\u00c5NG JAG SER DIG",
       "url": "https://open.spotify.com/track/7m2pfqapFaNdVThsXD8SsP"
@@ -19645,7 +19861,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 112941,
       "name": "V\u00e4lkommen in",
       "url": "https://open.spotify.com/track/0U27rCNgFuBlk9WwRyClOp"

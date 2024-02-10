@@ -4,7 +4,7 @@
 
 > Listen to all the iconic tracks from GTA, all in one place.
 
-215 songs - 14 hr 53 min
+216 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [remote viewing](https://open.spotify.com/track/5DvSH3Y2LUOfqO5DQYiP3j) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Exit](https://open.spotify.com/album/2kPNu9xYVmwVMbfEkbrfyi) | 8:18 | 2021-11-17 |  |
 | [Rising To The Top](https://open.spotify.com/track/3eFyL2sxUrjWxtJsAMe9VE) | [8\-Off Agallah Featuring Sean Price & Bazaar Royale](https://open.spotify.com/artist/1HpeNXcML3EVkAmZlfl2Nv) | [Game Tight](https://open.spotify.com/album/2fq6xLDQhwbswMqTL3ey9M) | 5:02 | 2021-11-17 |  |
 | [Rockstar Made](https://open.spotify.com/track/3cWmqvMwVQKDigWLSZ3w9h) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 | 2021-12-18 |  |
-| [Round and Round](https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Out of the Cellar](https://open.spotify.com/album/6P3Fqm7z9wr5GeatpVZ5ut) | 4:25 | 2021-11-17 |  |
+| [Round and Round](https://open.spotify.com/track/57P8gH8rjt4OqEoqzut1bL) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [The Essentials: Ratt](https://open.spotify.com/album/0zhBC0ytIvsL8Kvf0xtPMp) | 4:25 | 2023-12-15 |  |
+| [Round and Round](https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Out of the Cellar](https://open.spotify.com/album/6P3Fqm7z9wr5GeatpVZ5ut) | 4:25 | 2021-11-17 | 2024-02-10 |
 | [Runnin' Down A Dream](https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 4:21 | 2021-11-17 |  |
 | [Runnin' Down A Dream](https://open.spotify.com/track/7kmm7GP39JH6qHkaxFSbPy) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Blues Masters](https://open.spotify.com/album/0FI2Y58boqfYsKNL1N4Yva) | 4:23 | 2021-11-17 | 2022-11-14 |
 | [Runnin' Down A Dream](https://open.spotify.com/track/75wP08AtMfGfjk0nPdvVw3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Anthology: Through The Years](https://open.spotify.com/album/7ait6chB3O3C1fMGUDJhtu) | 4:24 | 2021-11-17 | 2022-07-29 |

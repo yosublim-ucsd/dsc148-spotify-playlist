@@ -4,7 +4,7 @@
 
 > Celebrating the film Bob Marley: One Love.
 
-413 songs - 1 day 2 hr 24 min
+414 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [Jah Rule \- Roommate VIP Remix](https://open.spotify.com/track/7c1WZnehMzA5sBHEJTxadG) | [Ras Zacharri](https://open.spotify.com/artist/7rmO0cgE7MUfQwc2o87Wlc), [Roommate](https://open.spotify.com/artist/2ZgCfuNND0DEGo3sxQFUOq) | [Jah Rule VIP](https://open.spotify.com/album/2u0rLQrlqKeSqt8ImwQ5nc) | 4:07 | 2021-10-18 | 2022-07-29 |
 | [Jamaica Jamaica](https://open.spotify.com/track/1IOKIOnUJnnjZSutpirvIl) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Jamaica Jamaica](https://open.spotify.com/album/2ozJZeROKc2G2S0dCZbWdD) | 3:31 | 2021-10-18 | 2022-11-14 |
 | [Jamming](https://open.spotify.com/track/1N33JzVusZ8awiZo6kcldO) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Bob Marley 3CD](https://open.spotify.com/album/7MFVxUzEyyvHhxgu5MdwpH) | 3:31 | 2021-10-18 | 2022-07-29 |
-| [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2022-06-20 |  |
+| [Jamming](https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 3:31 | 2024-01-29 |  |
+| [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2022-06-20 | 2024-02-10 |
 | [Johnny B\. Goode \- 2002 Remaster](https://open.spotify.com/track/5uPYEStMW3KsXnnLV7iCTw) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN), [John Benitez](https://open.spotify.com/artist/04tkc4IcAn3q0zy1C6oWBI) | [Mama Africa](https://open.spotify.com/album/6iFMsJMHQ9zqty9vnRmycq) | 4:04 | 2022-04-22 |  |
 | [Just One Of Those Days](https://open.spotify.com/track/6YUTHNchsxKwWs37fFaV95) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Da Real Thing](https://open.spotify.com/album/6P6cZYXPzjL5mwHhgkJBC5) | 3:53 | 2022-07-29 | 2022-08-19 |
 | [Kaya](https://open.spotify.com/track/2rahWhhubhQMhG6coo7Vu9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:15 | 2022-07-29 | 2022-08-19 |

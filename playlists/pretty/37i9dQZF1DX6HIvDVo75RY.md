@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 | 80 | [Keeping Me Up All Night](https://open.spotify.com/track/15FAC3TcR8vXOdpHBrBk1d) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Keeping Me Up All Night](https://open.spotify.com/album/4iD5lzwdXVGVbq4pQebSuQ) | 3:29 |
 | 81 | [A Special Place](https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [A Special Place](https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb) | 2:54 |
 | 82 | [Last Time Last](https://open.spotify.com/track/09pr49bPWb2OKkDSvxKn2s) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu), [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Last Time Last](https://open.spotify.com/album/0N4b2e4iIY4uIKUI7kikks) | 3:03 |
-| 83 | [IF YOU'RE GONNA LEAVE](https://open.spotify.com/track/3302p1EGYArdg0JmcZ3E4e) | [Angel White](https://open.spotify.com/artist/3mZYlwYjFmhMOxUIcbncHF) | [IF YOU'RE GONNA LEAVE](https://open.spotify.com/album/7gmk3BGyrpYhNuEHiakECj) | 3:33 |
+| 83 | [IF YOU'RE GONNA LEAVE](https://open.spotify.com/track/173WexAKWsyARA2YOMIEQQ) | [Angel White](https://open.spotify.com/artist/3mZYlwYjFmhMOxUIcbncHF) | [IF YOU'RE GONNA LEAVE](https://open.spotify.com/album/4Bc1NicLTmubMLYxF7Gk9u) | 3:33 |
 | 84 | [If You Were A Song](https://open.spotify.com/track/3vKAQFXRh0lkJdPuS5pclq) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [If You Were A Song](https://open.spotify.com/album/45vV4tTizW88VginnGXeJ9) | 4:19 |
 | 85 | [I'm Gonna Miss Her](https://open.spotify.com/track/4ipZsAA3YuqCDSXiPoEGIv) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Part II](https://open.spotify.com/album/6em0G4V4kU9mRweKkCefgR) | 3:14 |
 | 86 | [Jesus and Joan Jett](https://open.spotify.com/track/0S2e09dlc561hiVKan4sgY) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Jesus and Joan Jett](https://open.spotify.com/album/37ZzP3oNVYJtInVPt24SMl) | 3:01 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 | 119 | [Mockingbird](https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Dying Star](https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU) | 4:37 |
 | 120 | [Bad Day To Be A Cold Beer](https://open.spotify.com/track/1ssrtT9gCinaqFZARAgEMz) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/7rW017JpJNMTKoGXFTvini) | 3:03 |
 
-Snapshot ID: `MCwzNTQ3MjFkMDU5OTlhMTQwOTY2ZGVjZDRmNjFjNDk2Y2YxMThmOGYw`
+Snapshot ID: `MCwxZWY4ZTlmNWRkNTc3Y2E5MDZmNmYxODc2YWIzMGI0MmVjMTcxNzQz`

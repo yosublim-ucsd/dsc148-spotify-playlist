@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-157 songs - 10 hr 12 min
+161 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Numa](https://open.spotify.com/track/1IV8iXGRukHDsRQOmTNEhw) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:11 | 2022-07-26 |  |
 | [Number One \- New Mix Ver.](https://open.spotify.com/track/3CE47jlR1gbJ66JTv3x7KB) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [Reunion](https://open.spotify.com/album/4fVup8ngSf93g2dg8LjImS) | 3:58 | 2022-07-26 |  |
 | [Number One \- New Mix ver.](https://open.spotify.com/track/4qz4MEIpHwFPUkO40vT714) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [REUNION](https://open.spotify.com/album/1CkrT3dECu8KidhUFgKkX6) | 3:58 | 2022-04-26 | 2022-07-29 |
-| [Ogon Koro](https://open.spotify.com/track/6NKTXbkkPNBtqNMXUXgOfj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Ogon Koro](https://open.spotify.com/album/6D5OUhDJ00zkuHe2Xk2WsH) | 3:21 | 2023-09-14 |  |
+| [Ogon Koro](https://open.spotify.com/track/6NKTXbkkPNBtqNMXUXgOfj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Ogon Koro](https://open.spotify.com/album/6D5OUhDJ00zkuHe2Xk2WsH) | 3:21 | 2023-09-14 | 2024-02-10 |
+| [Ogon Koro](https://open.spotify.com/track/64N5XntLw2mZCrdkERcw1z) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Universe](https://open.spotify.com/album/1B3lid4l1KnRSu8FUXKqWs) | 3:24 | 2024-02-06 |  |
 | [Onegai Muscle \- from CrosSing](https://open.spotify.com/track/4mqOfJPqfhkznL4UZuEiOj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Onegai Muscle \- from CrosSing](https://open.spotify.com/album/5Bt7BoV1R7s5Ihkv5D7Cf5) | 3:42 | 2022-08-09 |  |
 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 | 2022-07-26 |  |
 | [Petenshi no Yuuutsu](https://open.spotify.com/track/7aY5JhCXFCwy5Di77tODbW) | [Utsuki Chikage \(CV: Wataru Hatano\)](https://open.spotify.com/artist/2mJEBOqW95SK373lnenYtj) | [A3! Vivid Spring EP](https://open.spotify.com/album/7JnNNAbW1Li5QiBMoyjb8t) | 3:07 | 2022-07-26 |  |
@@ -78,9 +79,12 @@
 | [Saihate no Super star](https://open.spotify.com/track/4JCS6ndC9Mk45yPW5PJcKs) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK), [天月](https://open.spotify.com/artist/11DkKzyBmL2sQW0e4FCYil), [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [THE ORIGIN](https://open.spotify.com/album/1U5YQi9448UVvCTrcpr1Uj) | 2:43 | 2024-01-16 |  |
 | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda](https://open.spotify.com/track/7xTgtfIJ54hKynnZPPPQzq) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:43 | 2022-07-26 |  |
 | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda](https://open.spotify.com/track/7jNQBs0eqcRBnJYBi3uXA1) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda / Eiyu no Uta](https://open.spotify.com/album/2NH1SQE6jRoYQqS71bnGM2) | 3:44 | 2022-08-16 | 2022-11-13 |
-| [Shinda!](https://open.spotify.com/track/2wLuWWfrOHnPjbC3CUuuZ9) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Shinda!](https://open.spotify.com/album/2VQMSyKrXpA0m6PECjU8sm) | 3:40 | 2023-04-06 |  |
-| [Suki ni Naccha Dame na Hito](https://open.spotify.com/track/4qnO8leJ0xIAvEkEnYB4nu) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Suki ni Naccha Dame na Hito](https://open.spotify.com/album/2VnYRRWGs3kat0GeFjwzwl) | 3:37 | 2023-10-31 |  |
-| [Super Adorable Gal](https://open.spotify.com/track/5wFngmXD2qULEdr4NZwJ97) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Super Adorable Gal](https://open.spotify.com/album/3UDkQMJC8sry16Q3phhPeN) | 3:28 | 2024-01-09 |  |
+| [Shinda!](https://open.spotify.com/track/2wLuWWfrOHnPjbC3CUuuZ9) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Shinda!](https://open.spotify.com/album/2VQMSyKrXpA0m6PECjU8sm) | 3:40 | 2023-04-06 | 2024-02-10 |
+| [Shinda!](https://open.spotify.com/track/41SnTd8Kk8yRa5uWKEdQTG) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Universe](https://open.spotify.com/album/1B3lid4l1KnRSu8FUXKqWs) | 3:41 | 2024-02-06 |  |
+| [Suki ni Naccha Dame na Hito](https://open.spotify.com/track/4qnO8leJ0xIAvEkEnYB4nu) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Suki ni Naccha Dame na Hito](https://open.spotify.com/album/2VnYRRWGs3kat0GeFjwzwl) | 3:37 | 2023-10-31 | 2024-02-10 |
+| [Suki ni Naccha Dame na Hito](https://open.spotify.com/track/3J4mEL4MfuO4T8vGrf4Jrb) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Universe](https://open.spotify.com/album/1B3lid4l1KnRSu8FUXKqWs) | 3:39 | 2024-02-06 |  |
+| [Super Adorable Gal](https://open.spotify.com/track/5wFngmXD2qULEdr4NZwJ97) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Super Adorable Gal](https://open.spotify.com/album/3UDkQMJC8sry16Q3phhPeN) | 3:28 | 2024-01-09 | 2024-02-10 |
+| [Super Adorable Gal](https://open.spotify.com/track/1UNZ7PdVOeOSYgQGtOxQUm) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Universe](https://open.spotify.com/album/1B3lid4l1KnRSu8FUXKqWs) | 3:30 | 2024-02-06 |  |
 | [Tears of a Genius](https://open.spotify.com/track/0V8zCJZH63TLW6uPTPl2eN) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [Be The Best! Be The Blue!/Tears of a Genius](https://open.spotify.com/album/6caPYuL5B1w6SV05gcBZo1) | 4:44 | 2022-04-26 |  |
 | [The Show Must Go On!](https://open.spotify.com/track/3pxhvNnbNC1RRjooKaJIkj) | [Mankai Stage "A3!" ～ Autumn & Winter 2019 ～ All Cast](https://open.spotify.com/artist/0PrtmhjXzixHsZ8WqDWd6L) | ["Mankai Stage "A3!" \~ Autumn & Winter 2019 \~" Music Collection](https://open.spotify.com/album/5PQTVNw0GPJAL9dIY1UyTP) | 4:35 | 2022-07-26 |  |
 | [The Show Must Go On!](https://open.spotify.com/track/2TqPbikfiJUB6BcaIlnnVJ) | [MANKAI STAGE『A3!』\~AUTUMN & WINTER 2019\~オールキャスト](https://open.spotify.com/artist/6GjVqZPNAGuZN13WoTyOcF) | [「MANKAI STAGE『A3!』\~AUTUMN & WINTER 2019\~」MUSIC Collection](https://open.spotify.com/album/7m9rX4FJTMpj8QGaVg8ayP) | 4:35 | 2022-04-26 | 2022-07-29 |

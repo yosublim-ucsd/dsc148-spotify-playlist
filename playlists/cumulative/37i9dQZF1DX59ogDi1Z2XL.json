@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "This month, we\u2019re celebrating the essence of Black culture across the world. Discover more Black artists and their contributions <a href=\"spotify:genre:0JQ5DAqbMKFF9bY76LXmfI\">here</a>. Cover: <a href=\"spotify:artist:0gCGZZ1Ibo5QsOnll977PD\">KILLY</a>",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: <a href=\"spotify:artist:2jwmP4TgzTGqjCfcXMDayW\">FRVRFRIDAY</a>",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "24FRAMES",
+        "url": "https://open.spotify.com/album/3vaD5HroJk3hvTQOR3rIeo"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "24FRAMES",
+      "url": "https://open.spotify.com/track/59MZLqS2vl8qxz11Kr5pM6"
+    },
+    {
+      "album": {
         "name": "28 BARS",
         "url": "https://open.spotify.com/album/7F1N7nrbUAHUAcaP268cPI"
       },
@@ -354,7 +372,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 170712,
       "name": "360\u00b0",
       "url": "https://open.spotify.com/track/1VFTnRcVwKHOc32s0wOFaO"
@@ -1952,7 +1970,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 155675,
       "name": "BACK2ORBIT",
       "url": "https://open.spotify.com/track/67UwEESR9kfCdMuTNLeXaK"
@@ -6486,7 +6504,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 111162,
       "name": "Drop Ship",
       "url": "https://open.spotify.com/track/0ms6No7pjrbC3yIg3UO0HH"
@@ -8149,6 +8167,28 @@
     },
     {
       "album": {
+        "name": "For Love",
+        "url": "https://open.spotify.com/album/2pNmDJKnLJNm0lPWnSIbuc"
+      },
+      "artists": [
+        {
+          "name": "Tara Lord",
+          "url": "https://open.spotify.com/artist/50q2a8AjaqlujP7y9MMdHJ"
+        },
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "For Love (feat. Thelonious)",
+      "url": "https://open.spotify.com/track/0YGZyCSLMjjSg4f3jHi6qe"
+    },
+    {
+      "album": {
         "name": "FOR ME",
         "url": "https://open.spotify.com/album/5wyI5Q6tud3rmrra1QvYPL"
       },
@@ -8240,6 +8280,24 @@
       "duration_ms": 185685,
       "name": "Fountain",
       "url": "https://open.spotify.com/track/4xijQdNkrEjQGeC1Us4kN1"
+    },
+    {
+      "album": {
+        "name": "Frank Miller (Kill Again) / I'm So Glad",
+        "url": "https://open.spotify.com/album/39hIwDeKCBkErqbUJ7Q5pJ"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131544,
+      "name": "Frank Miller (Kill Again)",
+      "url": "https://open.spotify.com/track/7HZl2VrEC0wODesG5W5q0o"
     },
     {
       "album": {
@@ -12160,7 +12218,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 127921,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/76anofjGblYvXoOmXBAAy8"
@@ -12647,6 +12705,36 @@
     },
     {
       "album": {
+        "name": "Kodak Moment",
+        "url": "https://open.spotify.com/album/4tzrbyeYsShVhUkgUnZVKR"
+      },
+      "artists": [
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
+        },
+        {
+          "name": "Estee Nack",
+          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223703,
+      "name": "Kodak Moment",
+      "url": "https://open.spotify.com/track/2QwKdnmCxJY3ybI8wuWGIc"
+    },
+    {
+      "album": {
         "name": "Kush In Motion",
         "url": "https://open.spotify.com/album/5FCo6s08ViWIUt9dkXwH64"
       },
@@ -12934,7 +13022,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 152903,
       "name": "Left The Trenches",
       "url": "https://open.spotify.com/track/1I0GwWDwHc9FvsvmrOBtmM"
@@ -16120,6 +16208,24 @@
       "duration_ms": 174464,
       "name": "No Distractions",
       "url": "https://open.spotify.com/track/5dSCrmgU6MuUuZpcwBqDgR"
+    },
+    {
+      "album": {
+        "name": "NO EMOTION / ADRENALINE",
+        "url": "https://open.spotify.com/album/0nBp7q8MwjEjqojkCznuJc"
+      },
+      "artists": [
+        {
+          "name": "Devont\u00e9e",
+          "url": "https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205834,
+      "name": "NO EMOTION / ADRENALINE",
+      "url": "https://open.spotify.com/track/6Kv0nSSKP1GxJsZCCh3DrM"
     },
     {
       "album": {
@@ -21908,7 +22014,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 138044,
       "name": "STEPPIN' WIT 2",
       "url": "https://open.spotify.com/track/3eqhqoMSCA21JiwP6luXs8"
@@ -26067,6 +26173,24 @@
     },
     {
       "album": {
+        "name": "Wild Girl",
+        "url": "https://open.spotify.com/album/312QYOl7wk4YvbTV3DsJl6"
+      },
+      "artists": [
+        {
+          "name": "Exmiranda",
+          "url": "https://open.spotify.com/artist/0lfVICBd5hDKhuTZJwj6br"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267154,
+      "name": "Wild Girl",
+      "url": "https://open.spotify.com/track/6m4yPRmXymnFMbadppVtpb"
+    },
+    {
+      "album": {
         "name": "Will Or Won't",
         "url": "https://open.spotify.com/album/0UM2oLyRmS8eiwuR0tDRWF"
       },
@@ -26118,7 +26242,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 183037,
       "name": "Winner",
       "url": "https://open.spotify.com/track/304gunsibSamxVUt17GrLv"

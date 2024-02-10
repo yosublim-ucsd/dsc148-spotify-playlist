@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,175 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,245 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 27 | [逆さまの蝶](https://open.spotify.com/track/7gaaMd98dW4ssle6fc1fBh) | [Snow](https://open.spotify.com/artist/6xmxPrejTuDCgGzgLNp9sp) | [初雪](https://open.spotify.com/album/0fZVnR1Fvucd3SBKHfmBs3) | 4:33 |
 | 28 | [勇侠青春謳](https://open.spotify.com/track/7tbS1FAMmd8fNXQVzvDsWl) | [Ali Project](https://open.spotify.com/artist/1kCSjswFJFcjTauk0sKaOn) | [25周年記念ベストアルバム「愛と誠～YAMATO & LOVE×××」](https://open.spotify.com/album/1C8RqCYhu5i4Mr827fe0R5) | 4:23 |
 | 29 | [名探偵コナン メイン・テーマ \- 暗殺者ヴァージョン](https://open.spotify.com/track/4ELXBKQHnfWiNt6OUcSo15) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:32 |
-| 30 | [ウィーアー! for the new world](https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 3:59 |
+| 30 | [ウィーアー! \- for the new world](https://open.spotify.com/track/3F4d2nGPOSt89ZC1uwgApQ) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ONE PIECE ウィーアー!Song Complete](https://open.spotify.com/album/0Pgm2sbSVm2Q4OlDgXv1ez) | 3:58 |
 | 31 | [Seikan Hiko](https://open.spotify.com/track/4ykxXFAQlQ4TokZcrP5M2m) | [Ranka Lee = Megumi Nakajima](https://open.spotify.com/artist/3JODQ7XeLxOZtG9cGuVPUw) | [MACROSS FRONTIER Seikan Hikou](https://open.spotify.com/album/0kK3dYuyhrFOIB2hTFj8lF) | 3:51 |
 | 32 | [Over Soul](https://open.spotify.com/track/3uIdLQXUeYAPI1DMQXbdpk) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [Over Soul](https://open.spotify.com/album/1pZ7Ubh11m5xzgXIP6ZrWk) | 3:53 |
 | 33 | [グロリアス マインド](https://open.spotify.com/track/2lswHSoclUEk4jGm3k05Oe) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [グロリアス マインド](https://open.spotify.com/album/3vXmyVTOeRbhYxHX7EAwA5) | 4:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 59 | [Gamble Rumble](https://open.spotify.com/track/7wug8q76QHsvCKWEZW1nVq) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [Gamble Rumble](https://open.spotify.com/album/4S7MWhlljXKdr5IBI94kQU) | 4:27 |
 | 60 | [Agapē](https://open.spotify.com/track/31EVU4Hqjnz3DqH2zdpWZE) | [メロキュア](https://open.spotify.com/artist/7sW7rerkVb9XV7vgsVuMHq) | [メロディック・スーパー・ハード・キュア](https://open.spotify.com/album/1c0wPUwhC8meB2YnOVpVOT) | 4:41 |
 
-Snapshot ID: `MCw0NDQ0NDVmNDQwYjIyNzA4NDNkY2ZjMGMxZjgxN2RhZjg0NTE3OTc1`
+Snapshot ID: `MCxlMzY2M2M2OTZhZjQ5YmJjNGI4ODhiMGZmZDljNzY2ODZjOTRlNGVl`

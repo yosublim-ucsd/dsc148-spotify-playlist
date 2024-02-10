@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz &amp; Subtronics
+> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Hamdi
 
-101 songs - 5 hr 47 min
+102 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Check It](https://open.spotify.com/track/787DSlF1TBLbuhQpMwIfQP) | [X&G](https://open.spotify.com/artist/5ic5UHDgniVG1xKLAIU9sG), [2Point](https://open.spotify.com/artist/2UJ2r33q0mvsJAsixQZZCo) | [Check It](https://open.spotify.com/album/1MIzD3it6Op0anzYO6EbPc) | 3:46 | 2023-12-01 |  |
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-12-01 |  |
 | [Counting](https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Counting](https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi) | 3:52 | 2023-12-01 |  |
+| [Counting \- Sammy Virji Remix](https://open.spotify.com/track/4U8yrkTPcJLOfK142vcYCv) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Counting Remixes](https://open.spotify.com/album/6w5ZuB2dNarYW86DZ1LhWM) | 3:34 | 2024-02-09 |  |
 | [Crazy For You](https://open.spotify.com/track/57Elml5okghj2O3JfbVb8P) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Crazy For You](https://open.spotify.com/album/4X8mqO3wKWuNCLnEADDtjn) | 3:51 | 2023-12-01 |  |
 | [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 | 2023-12-01 |  |
 | [DIFFRENT](https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [THATSHYM](https://open.spotify.com/artist/2G6zjE7TSKRPPpY8EgAnpq) | [DIFFRENT](https://open.spotify.com/album/68m1oLyZBu6bIRB4L1sHKL) | 3:05 | 2023-12-01 |  |
@@ -104,7 +105,7 @@
 | [The Wisp Song](https://open.spotify.com/track/4eJrcgPtNToP8lBTxuozIg) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Polarities](https://open.spotify.com/album/1FHgoaW0HQ6LpKRkEUmA9A) | 3:46 | 2023-12-01 |  |
 | [Think Of You](https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Think Of You](https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE) | 3:05 | 2023-12-01 |  |
 | [Touch](https://open.spotify.com/track/1l90jvHTkNh9VmOh2LbbeC) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [L8NCY](https://open.spotify.com/artist/749cvAxS1Mb1jsqATH9tlD) | [Touch](https://open.spotify.com/album/6UUxfgFRnORokuQCqEXA1g) | 3:40 | 2023-12-08 |  |
-| [Violet](https://open.spotify.com/track/3jRNepPc6XflVWsvFzQEqs) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Enter Achroma](https://open.spotify.com/album/7mHNFaknoAm23oYOmnbi4J) | 3:10 | 2023-12-01 |  |
+| [Violet](https://open.spotify.com/track/3jRNepPc6XflVWsvFzQEqs) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Enter Achroma](https://open.spotify.com/album/7mHNFaknoAm23oYOmnbi4J) | 3:10 | 2023-12-01 | 2024-02-10 |
 | [We Dun Care](https://open.spotify.com/track/4kVcwZlhWH2idgqLHeY6GZ) | [Jaenga](https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI), [Bijou Violet](https://open.spotify.com/artist/3UAijGs9SE1Da98rc7IcwV) | [We Dun Care](https://open.spotify.com/album/6c0Iq2RmMMAr2ZUIERxIoe) | 3:43 | 2023-12-01 |  |
 | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/track/3XgtRplaKaBn8lxBCAhfwI) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/album/5T23uxAysoGW9w9blVWTi5) | 4:05 | 2023-12-01 |  |
 | [When It Rains \(feat\. BackRoad Gee\)](https://open.spotify.com/track/1Lu843IJ47p0gF3Rj1zFUL) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [When It Rains \(feat\. BackRoad Gee\)](https://open.spotify.com/album/1sXFetxwgcKBWlf9jVm18d) | 4:29 | 2023-12-01 |  |

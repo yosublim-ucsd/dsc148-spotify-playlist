@@ -1,13 +1,29 @@
 {
   "description": "late night vibes \u2013 notifications off.",
-  "num_followers": 3206,
+  "num_followers": 3512,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTM4OGEwMWYxYjJhYTU4MDhjZDZmNzA4NGVlYzUyZGQxNTk5ZWE1",
+  "snapshot_id": "MCw5YjUyZWNmMjExYzkwNjAwZTEyNGNhNGMwYjZmYmQ1ZDM4MjdkZjI2",
   "tracks": [
+    {
+      "added_at": "2024-02-02 11:56:17",
+      "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/4r2K4gqWp5VAgOvwtGDhYY"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 195909,
+      "name": "One Night Only",
+      "url": "https://open.spotify.com/track/74fQgHleHZ4V7Gm1XYcGkj"
+    },
     {
       "added_at": "2024-02-02 11:56:17",
       "album": {
@@ -41,20 +57,20 @@
       "url": "https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX"
     },
     {
-      "added_at": "2024-02-02 11:56:17",
+      "added_at": "2024-02-09 05:58:52",
       "album": {
-        "name": "Larger Than Life",
-        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+        "name": "FLORIDA BABY",
+        "url": "https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
         }
       ],
-      "duration_ms": 207998,
-      "name": "WY@",
-      "url": "https://open.spotify.com/track/3ria9Axw5mheRAOoP9bnof"
+      "duration_ms": 140606,
+      "name": "FLORIDA BABY",
+      "url": "https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm"
     },
     {
       "added_at": "2024-02-02 11:56:17",
@@ -143,6 +159,22 @@
     {
       "added_at": "2024-02-02 11:56:17",
       "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 207998,
+      "name": "WY@",
+      "url": "https://open.spotify.com/track/3ria9Axw5mheRAOoP9bnof"
+    },
+    {
+      "added_at": "2024-02-02 11:56:17",
+      "album": {
         "name": "To Be Eaten Alive",
         "url": "https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk"
       },
@@ -191,22 +223,6 @@
       "duration_ms": 272205,
       "name": "THATS MY BABY",
       "url": "https://open.spotify.com/track/4JwYLiyUMUDtvOG5w6AnRq"
-    },
-    {
-      "added_at": "2024-02-02 11:56:17",
-      "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/4r2K4gqWp5VAgOvwtGDhYY"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 195909,
-      "name": "One Night Only",
-      "url": "https://open.spotify.com/track/74fQgHleHZ4V7Gm1XYcGkj"
     },
     {
       "added_at": "2024-02-02 11:56:17",

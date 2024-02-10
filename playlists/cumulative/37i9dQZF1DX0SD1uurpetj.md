@@ -4,7 +4,7 @@
 
 > Take a bite out of the official playlist for Vampire Academy, streaming Thursdays on Peacock.
 
-67 songs - 3 hr 33 min
+68 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Retro Love](https://open.spotify.com/track/0FOU5jDKZGCOyXWel99JFI) | [Zo Duncan](https://open.spotify.com/artist/4hGIjR4QuJH4TO5lB2bcr4), [Jan Merci](https://open.spotify.com/artist/00mm5FeFt46bMI1GpITrpg) | [Retro Love](https://open.spotify.com/album/3e0HBgBEsrvJRqqndMP7cQ) | 5:17 | 2022-09-29 |  |
 | [Ride of Your Life](https://open.spotify.com/track/4yL1td9LfwBEILSqBDfTk5) | [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS), [Holly Jade](https://open.spotify.com/artist/20ZeznQHUGorY2fyAoZ1Ie) | [Ride of Your Life](https://open.spotify.com/album/5mud1u4a94wr9izYkfTtxR) | 2:28 | 2022-10-27 |  |
 | [Runaway](https://open.spotify.com/track/6kPHSByksvzjIq16gbBeQ3) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Skylar Grey](https://open.spotify.com/album/3PRWZgvrcCgUE3zRMkzPw4) | 2:28 | 2022-09-15 |  |
-| [Sarah Rose](https://open.spotify.com/track/4V0XwGLIYEIWVQSb30mvwj) | [Rachel](https://open.spotify.com/artist/7LzIwKHZ3RuCepS3AqfjOP) | [Sarah Rose](https://open.spotify.com/album/3r8CPr2uECE8BCGViz1T9D) | 2:55 | 2022-09-29 |  |
+| [Sarah Rose](https://open.spotify.com/track/4V0XwGLIYEIWVQSb30mvwj) | [Rachel](https://open.spotify.com/artist/7LzIwKHZ3RuCepS3AqfjOP) | [Sarah Rose](https://open.spotify.com/album/3r8CPr2uECE8BCGViz1T9D) | 2:55 | 2022-09-29 | 2024-02-10 |
+| [Sarah Rose](https://open.spotify.com/track/50j5KcmL3bTFATZUIM4UR6) | [Rachel](https://open.spotify.com/artist/7LzIwKHZ3RuCepS3AqfjOP) | [Sarah Rose](https://open.spotify.com/album/1aCme8DPvTjrJ3mFY7n9Vh) | 2:55 | 2022-09-29 |  |
 | [Scary People](https://open.spotify.com/track/0EVlFwaU4Od74AXCKPnaTQ) | [Georgi Kay](https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj) | [Where I Go to Disappear](https://open.spotify.com/album/00lI4xk5nyeL01r3x11nr3) | 3:06 | 2022-10-27 |  |
 | [Show Me Where It Hurts](https://open.spotify.com/track/5jyhnTBLLGhixfIzOraYGp) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Skylar Grey](https://open.spotify.com/album/3PRWZgvrcCgUE3zRMkzPw4) | 4:18 | 2022-09-15 |  |
 | [Stuck In The Moment](https://open.spotify.com/track/3CwYH9AjT3pYDyh9f3KSjH) | [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS), [Jourdin Pauline](https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk) | [Stuck In The Moment](https://open.spotify.com/album/2ZutTPeZDdXI3gRd0bv5o0) | 2:22 | 2022-10-06 |  |

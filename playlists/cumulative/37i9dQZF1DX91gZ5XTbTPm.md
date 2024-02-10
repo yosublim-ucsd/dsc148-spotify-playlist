@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Icewear Vezzo
 
-670 songs - 1 day 7 hr 9 min
+671 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Did Shit To Me \(feat\. Doodie Lo\)](https://open.spotify.com/track/68hn4O7tjgp4ITx5dSpuNL) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7) | [Did Shit To Me \(feat\. Doodie Lo\)](https://open.spotify.com/album/5ruuJ043cD6LUtzBP2kprc) | 2:36 | 2022-06-24 | 2022-10-15 |
 | [Different Bag](https://open.spotify.com/track/6cZljJ7RUqXVTUWZ16FR2e) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Been Havin](https://open.spotify.com/album/4qi1x43ZO0EGSUQQ8aPt02) | 3:22 | 2023-07-28 | 2023-09-16 |
 | [DILLA BAP](https://open.spotify.com/track/5CzilSE4MP5p8eUa15rd1V) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A) | [Somebody Up There Loves Me](https://open.spotify.com/album/6U0Hys1jBHL30PSbqWY7wE) | 3:07 | 2022-12-09 | 2023-01-21 |
+| [DIRTY NACHOS](https://open.spotify.com/track/5CU0ZVQKGyOeOIbuXDo6gr) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [DIRTY NACHOS](https://open.spotify.com/album/0kim8RqcfUvU9CodYZLp9d) | 1:59 | 2024-02-09 |  |
 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 | 2022-05-27 | 2022-10-15 |
 | [Do What I Want](https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Do What I Want](https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO) | 2:51 | 2022-06-10 | 2022-07-09 |
 | [Don't Get Ya Feelings In It \(feat\. Luh Tyler\)](https://open.spotify.com/track/6QdVy8gj2rEDDcrI5npDJS) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Don't Get Ya Feelings In It \(feat\. Luh Tyler\)](https://open.spotify.com/album/4reWxTNsGDtkcwRFIBkKs9) | 3:36 | 2023-07-21 | 2023-11-25 |
@@ -667,7 +668,7 @@
 | [Wicked Inna RaQ 2 \(with G Herbo\)](https://open.spotify.com/track/0C4cunXxLICqzrxhYWorP0) | [Lil Nuu](https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Wicked Inna RaQ 2](https://open.spotify.com/album/5sDveIPYQRR3qMI6KNV54x) | 2:31 | 2023-03-24 | 2023-07-08 |
 | [Wicked Romance](https://open.spotify.com/track/35uuAlEbvARgXm4lULDyUy) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Wicked Romance](https://open.spotify.com/album/716Q4Y6tGbCOX0mg3eKw0Z) | 2:19 | 2023-10-27 | 2023-11-18 |
 | [WIT WHATEVER](https://open.spotify.com/track/0tBAUB2taQ5YjXl4fPBNxe) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1) | [WIT WHATEVER](https://open.spotify.com/album/1tlBb0lyjAHkzQpIKOyZod) | 2:04 | 2023-12-01 | 2024-01-20 |
-| [With My Boo](https://open.spotify.com/track/5jv854w0ZHUCesbjFHIxSs) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [With My Boo](https://open.spotify.com/album/6nfnwJ2rMqwYhnqoM5aexC) | 2:04 | 2023-10-13 |  |
+| [With My Boo](https://open.spotify.com/track/5jv854w0ZHUCesbjFHIxSs) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [With My Boo](https://open.spotify.com/album/6nfnwJ2rMqwYhnqoM5aexC) | 2:04 | 2023-10-13 | 2024-02-10 |
 | [Without It](https://open.spotify.com/track/6CoB0S7aB6xc1PfQKqGqEG) | [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ) | [Without It](https://open.spotify.com/album/6higufYr86g2bscfhaCukP) | 2:17 | 2022-09-30 | 2023-01-28 |
 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 | 2022-12-02 | 2023-06-03 |
 | [Wraith](https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd) | [Wraith](https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT) | 2:27 | 2022-05-20 | 2022-09-24 |

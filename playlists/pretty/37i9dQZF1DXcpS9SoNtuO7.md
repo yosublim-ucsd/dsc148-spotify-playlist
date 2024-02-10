@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > 【セットリスト公開中！】2024年1月27日・28日、日本武道館にて開催！The official playlist of "LisAni! LIVE 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,620 likes - 76 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,623 likes - 76 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 75 | [adrenaline!!!](https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:34 |
 | 76 | [華麗ワンターン](https://open.spotify.com/track/3E7PYVYZ5YfmeJpzEv4PYf) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [華麗ワンターン](https://open.spotify.com/album/5Gu4DBIvLsOtPIPXSBAG7Y) | 4:23 |
 
-Snapshot ID: `MCxlZGZiNTdhNWNkYTU3MTBkNGMyODAwNmNiNDY2Njk5NGEwMjE2YWUw`
+Snapshot ID: `MCw0MWUxMzI3Nzg4NTc2ZjQ0MzgxMTY2NWE5YmEyMzA2ZGMxZjQ0Y2I5`

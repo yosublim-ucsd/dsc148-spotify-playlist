@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-409 songs - 1 day 4 hr 59 min
+410 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Convergency](https://open.spotify.com/track/5tkJLRlnVyoKFlT89TiSOP) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Convergency](https://open.spotify.com/album/36SPfNjozWymvftbq0oMYF) | 4:54 | 2022-10-28 | 2023-05-06 |
 | [Conversations](https://open.spotify.com/track/63q8XJjBixwkfVop5Mxvli) | [Marqueal Jordan](https://open.spotify.com/artist/67z4QmWjkhUiM9LcGvvr87) | [Intention & Purpose](https://open.spotify.com/album/4XwDD9KmVCVGjvYr4Grkk2) | 3:46 | 2020-10-30 | 2022-03-12 |
 | [Cool Like That](https://open.spotify.com/track/6D6qDFZsUyL51HabQM5qzV) | [Gregory Goodloe](https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY), [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP) | [Cool Like That](https://open.spotify.com/album/0pRUctv8x3wIrirJ6rxjHn) | 4:49 | 2020-10-30 | 2022-03-17 |
+| [Cozy](https://open.spotify.com/track/6g8NbOh9z2woOeiNXErKf3) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [Cozy](https://open.spotify.com/album/4i1ztqwpJJfKEWMIg5mpnl) | 4:46 | 2024-02-09 |  |
 | [Crazy](https://open.spotify.com/track/0kUxknsCizotSJvigXGz78) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream](https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS) | 5:18 | 2020-10-30 | 2022-03-18 |
 | [Cruising the Boulevard](https://open.spotify.com/track/3J876JF0XKXFSltuHMjD5r) | [Dreaming in Colour](https://open.spotify.com/artist/5CpsCuEhGHwGM0sQTGX5NF), [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Cruising the Boulevard](https://open.spotify.com/album/6eJ8dlpqTqwZ63S3iuIw5w) | 4:19 | 2021-07-16 | 2022-09-17 |
 | [Crush](https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Crush](https://open.spotify.com/album/1UUkZTGU4Jl70yEE3rX1nU) | 4:16 | 2022-09-16 | 2023-08-19 |
@@ -122,7 +123,7 @@
 | [Empty Briefcase](https://open.spotify.com/track/2g2F5rrHJkbaDaRJmIJkWf) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Empty Briefcase / A Little Late](https://open.spotify.com/album/0kYKgyg0hPoznypJdZo6F3) | 4:45 | 2022-04-08 | 2023-05-31 |
 | [Essence](https://open.spotify.com/track/0GXwCLCJgQZEEIBDjk3apT) | [Djsaxlondon](https://open.spotify.com/artist/65pKkBjisstXesecyslOr4) | [Essence](https://open.spotify.com/album/2llyTuGKwp8AoqfEOrFMtg) | 4:06 | 2022-01-14 | 2023-08-26 |
 | [Evenin'](https://open.spotify.com/track/56D07KIdzMm1qGRuCwnta6) | [Mark Jaimes](https://open.spotify.com/artist/2nhYg2H9CEvbgfDynTHK0E), [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [Evenin'](https://open.spotify.com/album/6q074jUw32mni0dWflPXHl) | 4:04 | 2021-05-28 | 2022-03-14 |
-| [Everybody Groove](https://open.spotify.com/track/5Rml9CE4KJnj06zjRnLT8P) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [Everybody Groove](https://open.spotify.com/album/6MO3gM1jc8Pb9pV4wMhDtM) | 3:32 | 2023-06-23 |  |
+| [Everybody Groove](https://open.spotify.com/track/5Rml9CE4KJnj06zjRnLT8P) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [Everybody Groove](https://open.spotify.com/album/6MO3gM1jc8Pb9pV4wMhDtM) | 3:32 | 2023-06-23 | 2024-02-10 |
 | [Feel Like Making Love / Night Crawler](https://open.spotify.com/track/1gqPg9GEtilsmtewS1fqTB) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Feel Like Making Love / Night Crawler](https://open.spotify.com/album/3prD0xRzK9E4AGjtjC0gNU) | 9:16 | 2021-10-01 | 2022-09-17 |
 | [Feels Like Friday Night](https://open.spotify.com/track/28sKYtJT2YHLyhevt94R1m) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Shakedown](https://open.spotify.com/album/6ft9InAWvNoaKFlYn7WOlq) | 4:19 | 2020-10-30 | 2022-03-17 |
 | [Feels So Right \- Radio Edit](https://open.spotify.com/track/2M1SQBEbGRpO16JmwWfD7d) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Feels So Right \(Radio Edit\)](https://open.spotify.com/album/5YeHuC9Qk5a0vlaUwl6YUL) | 4:26 | 2021-08-13 | 2022-09-17 |

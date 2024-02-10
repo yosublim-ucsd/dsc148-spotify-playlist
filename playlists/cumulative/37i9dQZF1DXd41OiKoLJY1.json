@@ -7181,6 +7181,24 @@
     },
     {
       "album": {
+        "name": "Cup of Tea",
+        "url": "https://open.spotify.com/album/3gndIoI26hjXzf1HNZ19rM"
+      },
+      "artists": [
+        {
+          "name": "Genesis Anne",
+          "url": "https://open.spotify.com/artist/4JWGf3EuvUNVvHHioy08Rs"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Cup of Tea",
+      "url": "https://open.spotify.com/track/2FOVoCQbsxpoug0jtoCV2e"
+    },
+    {
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/0PK29QgtBVmCSQjrGT4DJ2"
       },
@@ -9432,6 +9450,24 @@
       "duration_ms": 300000,
       "name": "Dried Flowers",
       "url": "https://open.spotify.com/track/5qiL3EHVn1RdbQieZrfhyi"
+    },
+    {
+      "album": {
+        "name": "DRILLA from MANILA",
+        "url": "https://open.spotify.com/album/42QsQ0ijobKVpOGwK0PqqM"
+      },
+      "artists": [
+        {
+          "name": "KZZY",
+          "url": "https://open.spotify.com/artist/3npYwV74Euuu9W97dL6K8E"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152337,
+      "name": "DRILLA from MANILA",
+      "url": "https://open.spotify.com/track/72sGefblI6cj44dKmjoxBa"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 80. ",
-  "num_followers": 114120,
+  "num_followers": 114319,
   "original_name": "Pop Latino: Los 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDIxNDQyYzc0MjExYjM5NzM1YTkwYjg3ZWMxODczZDYxOWQ5MTEz",
+  "snapshot_id": "MCwyOTE4MzBjNDVkOGQ4NzZmMThjMGU4OWFlMjg3ZWY4MWNlNzg2Yzgy",
   "tracks": [
     {
       "added_at": "2022-03-29 19:14:26",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Cu\u00e9ntame",
-        "url": "https://open.spotify.com/album/7eGbFOJExPRkAsDQCeThFc"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Cu\u00e9ntame",
-      "url": "https://open.spotify.com/track/1T1nYfU115UL2LhwTMyWr6"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
         "name": "TAIYO",
         "url": "https://open.spotify.com/album/6Aannvb9fLgangjpXnqwAO"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 345746,
       "name": "Locomia",
       "url": "https://open.spotify.com/track/7Ldch6dKso6bH4AFHm8FnS"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "Cu\u00e9ntame",
+        "url": "https://open.spotify.com/album/7eGbFOJExPRkAsDQCeThFc"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/1T1nYfU115UL2LhwTMyWr6"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Best of Righeira (Le meilleur des annees 80)",
-        "url": "https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB"
-      },
-      "artists": [
-        {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Vamos a la Playa - 1983",
-      "url": "https://open.spotify.com/track/3iB7lzsBC7PdJLU9k2nttT"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
         "name": "!Volare! The Very Best of the Gipsy Kings",
         "url": "https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 203173,
       "name": "Bamboleo",
       "url": "https://open.spotify.com/track/4EveU9Zb50mjgi5avDNqlK"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "Best of Righeira (Le meilleur des annees 80)",
+        "url": "https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB"
+      },
+      "artists": [
+        {
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Vamos a la Playa - 1983",
+      "url": "https://open.spotify.com/track/3iB7lzsBC7PdJLU9k2nttT"
     },
     {
       "added_at": "2022-03-29 19:14:26",

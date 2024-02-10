@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-443 songs - 23 hr 59 min
+444 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Take me to church \- Acoustic](https://open.spotify.com/track/0aennjtfg2FjQnKDlwezNO) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Take Me To Church \(Acoustic\)](https://open.spotify.com/album/1YY1bunCgmyMCVtEsaGNvP) | 3:51 | 2022-12-16 | 2023-09-01 |
 | [Tattoo \- Acoustic](https://open.spotify.com/track/35HBeoqP9gs2JPgeOrtM5e) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Tattoo](https://open.spotify.com/album/43JIZ6tIFBkfrgA0TgungY) | 2:51 | 2023-06-08 | 2023-09-01 |
 | [THATS WHAT I WANT \- Piano Acoustic](https://open.spotify.com/track/4p95kpslEQ0PhjaeHPmqoD) | [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0) | [THATS WHAT I WANT \(Piano Acoustic\)](https://open.spotify.com/album/4uqUIxdqSwWRtnHGZBPcrj) | 2:56 | 2022-11-11 | 2023-10-28 |
+| [The Best](https://open.spotify.com/track/1cskeMwfKX1G0mV1T0ypHf) | [Von Allen](https://open.spotify.com/artist/6XzdZwXu9yspPxr3u2DnBG) | [The Best](https://open.spotify.com/album/0diqsjfEEOC1n4LVVLSMgr) | 3:37 | 2024-02-02 |  |
 | [The Last Time \- Acoustic](https://open.spotify.com/track/2uVGbDn2fqGjQONpKfTaxl) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Last Time \(Acoustic\)](https://open.spotify.com/album/5oTybq1gUqM2zS24spst7z) | 3:16 | 2021-03-11 | 2022-07-29 |
 | [The Last Time \- Acoustic](https://open.spotify.com/track/7CEIn4lDK1nZQRfc6XVTqU) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Last Time](https://open.spotify.com/album/3hB121yuKWnt1sRyJV9UK3) | 3:16 | 2021-03-11 | 2022-11-26 |
 | [The Scientist](https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Scientist](https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse) | 4:35 | 2023-06-09 |  |
@@ -403,7 +404,7 @@
 | [Two Commas](https://open.spotify.com/track/7fLgbqsbl6DpOyIUak0ATf) | [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Two Commas](https://open.spotify.com/album/16NsVCcpShBwp7eddHZGPt) | 3:34 | 2021-03-11 | 2022-12-02 |
 | [Unconditional](https://open.spotify.com/track/2Z7UF5qoyCU6Ksnf6aTMOs) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Unconditional](https://open.spotify.com/album/40icOTpSW5lDFI2kyYHEkU) | 3:17 | 2021-03-11 | 2022-11-26 |
 | [Under The Sun \- Acoustic](https://open.spotify.com/track/3mP7zuWtH3QQPEWBTXG3RE) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:10 | 2022-10-14 | 2023-10-28 |
-| [Unforgettable](https://open.spotify.com/track/5YljSVhTtJ41C2H72vExEU) | [Samuel Pine](https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv) | [Unforgettable](https://open.spotify.com/album/2N76uyM3yxfn8Jpo00EMiL) | 2:32 | 2023-01-20 |  |
+| [Unforgettable](https://open.spotify.com/track/5YljSVhTtJ41C2H72vExEU) | [Samuel Pine](https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv) | [Unforgettable](https://open.spotify.com/album/2N76uyM3yxfn8Jpo00EMiL) | 2:32 | 2023-01-20 | 2024-02-10 |
 | [Unholy](https://open.spotify.com/track/4Fe8z8q0PSm7DG0U1c5WUS) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Unholy](https://open.spotify.com/album/6oR5MgyHFD1EjfVBo3XzMj) | 2:55 | 2022-12-09 | 2023-03-10 |
 | [Use Somebody](https://open.spotify.com/track/3XXaCFZD3dcik18uJYs9fA) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Use Somebody](https://open.spotify.com/album/1uWEXc1yoSNuS3jfUbNWyC) | 3:08 | 2022-10-14 |  |
 | [Use Somebody \- Acoustic Version](https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [Use Somebody \(Acoustic Version\)](https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5) | 3:06 | 2021-03-11 | 2022-10-15 |

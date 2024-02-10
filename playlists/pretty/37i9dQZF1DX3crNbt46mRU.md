@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Mahmood
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,195 likes - 105 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,211 likes - 106 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 39 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
 | 40 | [Fino a qui](https://open.spotify.com/track/37WCMrX9XnmmPCMY0aqZjo) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Fino a qui](https://open.spotify.com/album/0d5uLpu4Tkh54AjZgztd7L) | 3:52 |
 | 41 | [So schreibt man seinen Song](https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe) | [Olli Schulz](https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1) | [Vom Rand der Zeit](https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH) | 3:23 |
-| 42 | [Candlelights](https://open.spotify.com/track/2iRDP2RZlI3BuHKQ3c7uLu) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Lieb mich oder lass es, Pt\. 2](https://open.spotify.com/album/712VjsZcnIrSgMxi3HpiPb) | 2:15 |
+| 42 | [Candlelights](https://open.spotify.com/track/2q1ZbhSf0WXSwDqe17Jp6e) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Lieb mich oder lass es, Pt.1+2](https://open.spotify.com/album/4kSYSwoXPUFya9c01VMHDn) | 2:15 |
 | 43 | [Le feu](https://open.spotify.com/track/15RdsytotGYShRTw1ZkLww) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:45 |
 | 44 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
 | 45 | [Schutzengel](https://open.spotify.com/track/26WNwITdE1JFiMuHhBpgpt) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [MEL](https://open.spotify.com/artist/6FlJleUXbFb19c0U2BocbM) | [Schutzengel](https://open.spotify.com/album/70WlgrBpuQds43whbj3ORV) | 2:37 |
@@ -97,21 +97,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 87 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
 | 88 | [Passenger](https://open.spotify.com/track/3MJGcBbiSjoaGJzQy7awn5) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Passenger](https://open.spotify.com/album/1CW309jK0IxvYhj5lSTrDg) | 2:58 |
 | 89 | [Gewinner/Verlierer](https://open.spotify.com/track/0vI6FSBe84ukpxPqxeJ3J7) | [Sandra](https://open.spotify.com/artist/3cnQzVpUDcSTevTmiDthJ7) | [Gewinner/Verlierer](https://open.spotify.com/album/3jnNB8BNnn1CbnXvTh2rYb) | 3:55 |
-| 90 | [Junge](https://open.spotify.com/track/18vnN9Eb9RCB1T0BluoeyZ) | [Lary](https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo) | [Junge](https://open.spotify.com/album/13AwF3I30rKaf9qC9XY4sQ) | 2:35 |
-| 91 | [Samurai Swords](https://open.spotify.com/track/02Ixue9YkjgvPD3TAQFvP1) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hver gang vi møtes 2024](https://open.spotify.com/album/602RlbyMaCKMWf0MkseyIh) | 3:50 |
-| 92 | [Horizon](https://open.spotify.com/track/2P6RQguS7aEMz5wfJupyzQ) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Undercatt](https://open.spotify.com/artist/5HRGFSrlJruRPZNPbsy57r) | [Horizon](https://open.spotify.com/album/1Vc0JlTLauPwn1lXC7mfCV) | 6:13 |
-| 93 | [Bug Eyes](https://open.spotify.com/track/30gnnL14SD1NXrNM7sD5Iw) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Bug Eyes](https://open.spotify.com/album/0QvDMWUh2Ji36yjB4kMMH5) | 2:16 |
-| 94 | [Double Standards \(feat\. Sampha\)](https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Double Standards \(feat\. Sampha\)](https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i) | 5:01 |
-| 95 | [LoveCop](https://open.spotify.com/track/3OunbxWW0U87TitBVCj4Os) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [LoveCop](https://open.spotify.com/album/2ovX3sgLJbglDR8s0AyU1Z) | 4:09 |
-| 96 | [Weit weg](https://open.spotify.com/track/45GQBrjltJYKPUC3MVJBf0) | [Ludwig](https://open.spotify.com/artist/7gFR5bwKA6nfOTHSDAmMkI) | [Weit weg](https://open.spotify.com/album/0pO9Zg29MigzuwVyX7fV1a) | 2:23 |
-| 97 | [Bloodstream](https://open.spotify.com/track/5kGJZNkZwVANWe47AdzSZV) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Bloodstream](https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH) | 3:31 |
-| 98 | [The Alibi](https://open.spotify.com/track/4JyS3WGxalmpzgEbVyTycL) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [The Alibi](https://open.spotify.com/album/3P6qBjL0wCjcMsKWAAvQ3x) | 3:15 |
-| 99 | [I'm A Problem](https://open.spotify.com/track/4MZlok15YADkYH2WVEyrRc) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [I'm A Problem](https://open.spotify.com/album/05aBNGyZXvNmHprF5WBz31) | 2:23 |
-| 100 | [Maybe Life Is Good](https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Maybe Life Is Good](https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO) | 3:10 |
-| 101 | [Oh Hi](https://open.spotify.com/track/6s4moU8cfNSqwJaKdQ6HSn) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Oh Hi](https://open.spotify.com/album/1dOYHCT5VVIOAOuTX9b2i2) | 2:59 |
-| 102 | [Lovers](https://open.spotify.com/track/219T78LbaDk0ZEPNAICDLJ) | [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Lovers](https://open.spotify.com/album/6GnP9zPxsSpTTdUGyNW3fs) | 2:46 |
-| 103 | [YEH](https://open.spotify.com/track/30WeTbgrLddzKH2BEAEswe) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [YEH](https://open.spotify.com/album/2dQCBUYuCOoEbrrU4HzDbd) | 2:14 |
-| 104 | [Call Me, Daddy](https://open.spotify.com/track/7lni3By1cTAsXdblOV39P1) | [Maxine Julian](https://open.spotify.com/artist/1EeyrU6wNgHmSNmG5dZYEv) | [Call Me, Daddy](https://open.spotify.com/album/6SUTOA2NQHMruO88zNsG15) | 3:39 |
-| 105 | [Hello Radio](https://open.spotify.com/track/5ry7JlYd3Y0M6g0oBrwWcM) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Hello Radio](https://open.spotify.com/album/2BE10dZdsbTBeTUfq5c4mr) | 3:00 |
+| 90 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 |
+| 91 | [Junge](https://open.spotify.com/track/18vnN9Eb9RCB1T0BluoeyZ) | [Lary](https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo) | [Junge](https://open.spotify.com/album/13AwF3I30rKaf9qC9XY4sQ) | 2:35 |
+| 92 | [Samurai Swords](https://open.spotify.com/track/02Ixue9YkjgvPD3TAQFvP1) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hver gang vi møtes 2024](https://open.spotify.com/album/602RlbyMaCKMWf0MkseyIh) | 3:50 |
+| 93 | [Horizon](https://open.spotify.com/track/2P6RQguS7aEMz5wfJupyzQ) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Undercatt](https://open.spotify.com/artist/5HRGFSrlJruRPZNPbsy57r) | [Horizon](https://open.spotify.com/album/1Vc0JlTLauPwn1lXC7mfCV) | 6:13 |
+| 94 | [Bug Eyes](https://open.spotify.com/track/30gnnL14SD1NXrNM7sD5Iw) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Bug Eyes](https://open.spotify.com/album/0QvDMWUh2Ji36yjB4kMMH5) | 2:16 |
+| 95 | [Double Standards \(feat\. Sampha\)](https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Double Standards \(feat\. Sampha\)](https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i) | 5:01 |
+| 96 | [LoveCop](https://open.spotify.com/track/3OunbxWW0U87TitBVCj4Os) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [LoveCop](https://open.spotify.com/album/2ovX3sgLJbglDR8s0AyU1Z) | 4:09 |
+| 97 | [Weit weg](https://open.spotify.com/track/45GQBrjltJYKPUC3MVJBf0) | [Ludwig](https://open.spotify.com/artist/7gFR5bwKA6nfOTHSDAmMkI) | [Weit weg](https://open.spotify.com/album/0pO9Zg29MigzuwVyX7fV1a) | 2:23 |
+| 98 | [Bloodstream](https://open.spotify.com/track/5kGJZNkZwVANWe47AdzSZV) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Bloodstream](https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH) | 3:31 |
+| 99 | [The Alibi](https://open.spotify.com/track/4JyS3WGxalmpzgEbVyTycL) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [The Alibi](https://open.spotify.com/album/3P6qBjL0wCjcMsKWAAvQ3x) | 3:15 |
+| 100 | [I'm A Problem](https://open.spotify.com/track/4MZlok15YADkYH2WVEyrRc) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [I'm A Problem](https://open.spotify.com/album/05aBNGyZXvNmHprF5WBz31) | 2:23 |
+| 101 | [Maybe Life Is Good](https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Maybe Life Is Good](https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO) | 3:10 |
+| 102 | [Oh Hi](https://open.spotify.com/track/6s4moU8cfNSqwJaKdQ6HSn) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Oh Hi](https://open.spotify.com/album/1dOYHCT5VVIOAOuTX9b2i2) | 2:59 |
+| 103 | [Lovers](https://open.spotify.com/track/219T78LbaDk0ZEPNAICDLJ) | [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Lovers](https://open.spotify.com/album/6GnP9zPxsSpTTdUGyNW3fs) | 2:46 |
+| 104 | [YEH](https://open.spotify.com/track/30WeTbgrLddzKH2BEAEswe) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [YEH](https://open.spotify.com/album/2dQCBUYuCOoEbrrU4HzDbd) | 2:14 |
+| 105 | [Call Me, Daddy](https://open.spotify.com/track/7lni3By1cTAsXdblOV39P1) | [Maxine Julian](https://open.spotify.com/artist/1EeyrU6wNgHmSNmG5dZYEv) | [Call Me, Daddy](https://open.spotify.com/album/6SUTOA2NQHMruO88zNsG15) | 3:39 |
+| 106 | [Hello Radio](https://open.spotify.com/track/5ry7JlYd3Y0M6g0oBrwWcM) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Hello Radio](https://open.spotify.com/album/2BE10dZdsbTBeTUfq5c4mr) | 3:00 |
 
-Snapshot ID: `MCw5M2YwZWViZTA4NWU3YTMwMjMyNzI4MTAxMzY0MjNjYmFiMWViMDQy`
+Snapshot ID: `MCw4YTk0ZTlhMWY5ZjE5MmZkZDU3NGJlMWFlZjE0MWUyMWY0MzgwZGZh`

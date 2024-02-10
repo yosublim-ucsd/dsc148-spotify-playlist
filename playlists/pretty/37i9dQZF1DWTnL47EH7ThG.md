@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,695 likes - 148 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,706 likes - 148 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 7 | [Hooked](https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Hooked](https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep) | 3:04 |
 | 8 | [Bad B\*tch](https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Eurostar](https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m) | 1:31 |
 | 9 | [Set The Roof](https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Set The Roof](https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty) | 4:28 |
-| 10 | [GAZZOO](https://open.spotify.com/track/2mXgzpF5eVKXRmR2G2QwWx) | [Pedrodollar](https://open.spotify.com/artist/0FKAGseHQptVXGZskA8zT0) | [GAZZOO](https://open.spotify.com/album/2QNA8saCBGGPGVSa47cxuv) | 7:36 |
+| 10 | [GAZZOO](https://open.spotify.com/track/52vwjRx0k9ZkzR1HqNv7oo) | [Pedrodollar](https://open.spotify.com/artist/0FKAGseHQptVXGZskA8zT0) | [GAZZOO](https://open.spotify.com/album/73snIS7nLSkkb4IA1O7BAL) | 7:36 |
 | 11 | [S e x](https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [S e x](https://open.spotify.com/album/1DnORgesBFu2C0lJ2ZPQuO) | 3:01 |
 | 12 | [I Saw U](https://open.spotify.com/track/0QpliqisIqld65GlZA1bJ8) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [I Saw U](https://open.spotify.com/album/6ANbH8704yrpV1gk139qCo) | 2:17 |
 | 13 | [Slip Slide](https://open.spotify.com/track/7q3Ur8hlX5x35dyzQbdNJP) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [Slip Slide](https://open.spotify.com/album/452wHpG8AT64V8dKhduC45) | 2:19 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 147 | [Play 2](https://open.spotify.com/track/4hjub46q0t82qgGUfLORcv) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw), [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Play 2](https://open.spotify.com/album/3R3kYSDDjnCsgrMUEdQ3nE) | 3:12 |
 | 148 | [Grimey](https://open.spotify.com/track/4IxNLYzo3NmUA8icBU7XVW) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Grimey](https://open.spotify.com/album/6DpgnIgmldVhAWSD7IGQWR) | 2:46 |
 
-Snapshot ID: `MCxkNDAxNGUwZDg4YTBlMjU4OWFmY2JlOGMwNjhiMTcwNWRkZmI2MmQ1`
+Snapshot ID: `MCwxZjkzZTFlMDk1NWE2MjYxOTNhOGJkZGNiM2U4NzA2OTU2MzU5ZDM5`

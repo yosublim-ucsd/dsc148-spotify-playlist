@@ -4,7 +4,7 @@
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-107 songs - 10 hr 11 min
+108 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Chase](https://open.spotify.com/track/3CgonfeyRh23O9F4aKiIbW) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO) | [Midnight Express](https://open.spotify.com/album/6nugwf8R0ojxx14K82SbBd) | 8:26 | 2022-12-16 |  |
 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 | 2022-12-16 |  |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2022-12-16 |  |
-| [Din Daa Daa \- U.S\. Remix](https://open.spotify.com/track/2Os4d9KF1Z0NPWnGJODaRs) | [George Kranz](https://open.spotify.com/artist/0XLhfP0Nt0IYLLKqfWjnbb) | [Din Daa Daa](https://open.spotify.com/album/5dUQHjUiKLHCiisLJVvRjw) | 6:19 | 2022-12-16 |  |
+| [Din Daa Daa \- U.S\. Remix](https://open.spotify.com/track/2Os4d9KF1Z0NPWnGJODaRs) | [George Kranz](https://open.spotify.com/artist/0XLhfP0Nt0IYLLKqfWjnbb) | [Din Daa Daa](https://open.spotify.com/album/5dUQHjUiKLHCiisLJVvRjw) | 6:19 | 2022-12-16 | 2024-02-10 |
+| [Din daa daa \- US Mix Maxi](https://open.spotify.com/track/433WZeRwMvTF1kxKrl1gKe) | [George Kranz](https://open.spotify.com/artist/0XLhfP0Nt0IYLLKqfWjnbb) | [Din daa daa \(US Remix\)](https://open.spotify.com/album/5OOGDu2xQuyJebWge2Da0w) | 6:21 | 2022-12-16 |  |
 | [Disco Inferno](https://open.spotify.com/track/5jUA1njy3h6ynHLvPdEVHt) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Disco Inferno](https://open.spotify.com/album/4MgYPs5CBEwzmekSVNOiL3) | 10:59 | 2022-12-16 |  |
 | [Disco Nights \(Rock Freak\) \- 12" Disco Remix](https://open.spotify.com/track/21NEoaczQ5G1aEhJAgz0JQ) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Disco Nights \(Expanded Edition\)](https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum) | 8:50 | 2022-12-16 |  |
 | [Do What You Wanna Do](https://open.spotify.com/track/0CXNXQZLjvHzZ9jQFsgKEM) | [T\-Connection](https://open.spotify.com/artist/4zLYrCC0iBYDV8QmEYzUFS) | [Heart of Stone: The Henry Stone Story](https://open.spotify.com/album/5i9IE79IDLSUoeNeVv2iwp) | 7:16 | 2022-12-16 |  |

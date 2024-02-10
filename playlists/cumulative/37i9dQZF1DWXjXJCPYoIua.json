@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 316997,
       "name": "Borrachos Y Grifos",
       "url": "https://open.spotify.com/track/4Moj88SKkcxqFmBLpovzzB"
@@ -800,6 +800,24 @@
       "duration_ms": 262693,
       "name": "Hecho En Mexico",
       "url": "https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI"
+    },
+    {
+      "album": {
+        "name": "Top 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/4lrEdGXOgr1URylvbMyxVM"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Zapata",
+          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225593,
+      "name": "Hoy Brindare Por Ti",
+      "url": "https://open.spotify.com/track/6xFUlsitSQGD3vwSoo06Ik"
     },
     {
       "album": {

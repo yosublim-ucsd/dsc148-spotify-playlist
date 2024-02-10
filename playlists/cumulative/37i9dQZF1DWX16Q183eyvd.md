@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Mega Ran
 
-124 songs - 6 hr 4 min
+125 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Recess](https://open.spotify.com/track/4cTLSLjhkKCtGdkwmBPdK6) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I), [JER](https://open.spotify.com/artist/7xJaPX4LwOT3i6XB7WFskK), [Stacked Like Pancakes](https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp) | [Buddy's Magic Toy Box](https://open.spotify.com/album/0t89W84YBh8m1CsqBrR5Ip) | 2:48 | 2024-01-30 |  |
 | [Rise](https://open.spotify.com/track/00Nx5kFUJBcdGa0GNPH8Lx) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Tower to Tower 2](https://open.spotify.com/album/0FT8XvXuscoSlxZb5138Fq) | 3:03 | 2021-11-19 | 2024-01-31 |
 | [Rise and Shine](https://open.spotify.com/track/2VDkVkx5wDtwbsT07p69so) | [Desmond Dennis](https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn) | [Cool Kids Jams 4](https://open.spotify.com/album/76Lr20i3iEpxEGiATZPAzM) | 2:14 | 2024-01-30 |  |
+| [ROAR LIKE A DINOSAUR \(RAWR!\)](https://open.spotify.com/track/3pufAzaKeXGxwviCPYSVHU) | [Coach Kody](https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9) | [ROAR LIKE A DINOSAUR \(RAWR!\)](https://open.spotify.com/album/5qGVMteVBXjZLoYgrC299x) | 1:26 | 2024-02-09 |  |
 | [Safari](https://open.spotify.com/track/0qaUiV6xlTRYqQZ2332Qsh) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 3:23 | 2021-11-19 | 2023-11-04 |
 | [Safari](https://open.spotify.com/track/1Cz147uNA3JuLlaF60TP5K) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Mouse\-A\-Mania](https://open.spotify.com/album/1XHsqic4Jn9koJxkRYwVNw) | 3:25 | 2023-10-10 | 2024-01-31 |
 | [Shake Ya Tailfeather](https://open.spotify.com/track/2t3ZxwOLtpRYxctPbXRRns) | [Giggle Club](https://open.spotify.com/artist/0VXTiAhwelyAgBsxbbinnf) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:58 | 2021-11-19 | 2024-01-31 |

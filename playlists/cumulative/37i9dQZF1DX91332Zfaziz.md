@@ -4,7 +4,7 @@
 
 > Drawn together\. Driven apart\. Listen to the music from and inspired by Normal People, all episodes streaming on Hulu.
 
-62 songs - 4 hr 1 min
+63 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [The Men Behind the Wire](https://open.spotify.com/track/4IIq5N1L0wNkdLuX6MgmJ5) | [Barleycorn](https://open.spotify.com/artist/2ESncGFr7F6q2vPYo5T7Ms) | [Essential Irish Rebel Songs](https://open.spotify.com/album/5QYuhLspkqAem2WRdfyx7C) | 2:25 | 2020-05-27 |  |
 | [The Subterranean Heart](https://open.spotify.com/track/53YCNnpnKo2O6IXzhtM6nI) | [Mount Alaska](https://open.spotify.com/artist/1HhtxROran5HmdjnuIawzp) | [Wave Atlas : Season One](https://open.spotify.com/album/4R8ao3YixMYI06MCFYg7ht) | 5:04 | 2020-05-27 |  |
 | [Too Much](https://open.spotify.com/track/7kG3DPhoPsltuT0vxENI6E) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 3:17 | 2020-05-27 |  |
-| [Undertow](https://open.spotify.com/track/00C5llfInrmXgjBrT40L1J) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:24 | 2020-05-27 |  |
+| [Undertow](https://open.spotify.com/track/00C5llfInrmXgjBrT40L1J) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:24 | 2020-05-27 | 2024-02-10 |
+| [Undertow](https://open.spotify.com/track/26FSlb8mzIyJbU5gH30imx) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf) | 3:24 | 2020-05-27 |  |
 | [Warped Window](https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW) | 4:55 | 2020-05-27 |  |
 | [We Played Some Open Chords](https://open.spotify.com/track/4Wa9WkQSacZDsJQgov27DA) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [A Winged Victory for the Sullen](https://open.spotify.com/album/6vygseD1InhHomosteUnPU) | 6:18 | 2020-05-27 |  |
 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 | 2020-05-27 |  |

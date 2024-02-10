@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Paul Elstak & The Partysquad
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,535 likes - 96 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,675 likes - 96 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 95 | [Won't Bow Down](https://open.spotify.com/track/5PWKB6obYDWWls0we9zy18) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Max Alexander](https://open.spotify.com/artist/6OnsUDpZzOTWMOC1q1B0vH) | [Won't Bow Down](https://open.spotify.com/album/1bVzAXj4kOf964LKJgjXdr) | 3:44 |
 | 96 | [We Won't Stop \(For Eternity\)](https://open.spotify.com/track/3VpHxjjTRdyFH8MMSPR5Ws) | [Odium](https://open.spotify.com/artist/6J2T1atTrazMhACALYdA5Q) | [We Won't Stop \(For Eternity\)](https://open.spotify.com/album/4OXThgRK0LJLpSPnPokYko) | 2:32 |
 
-Snapshot ID: `MCw2ZWFiYTMyMTQ4NTRhZDA5YmFkYzBiZWY1OTlkNTEyZmU2MjQ1Njdk`
+Snapshot ID: `MCwwODhlMTUxYWJmNTdlYzgzMzUwNzBiMzVkMDc2Y2Q4NDYwZjBjY2E1`

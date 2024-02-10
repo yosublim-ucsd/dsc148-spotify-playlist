@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,719 songs - 3 day 16 hr 32 min
+1,720 songs - 3 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,6 +588,7 @@
 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-22 | 2022-05-26 |
 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-16 | 2024-01-28 |
+| [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 | 2024-02-09 |  |
 | [GRISARNA TILL BACON](https://open.spotify.com/track/6QfNgAVv0QpsmBcd51Alfw) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [GRISARNA TILL BACON](https://open.spotify.com/album/3iXqX8HmJPT7cjRGZq3yBq) | 2:08 | 2023-11-11 | 2023-11-13 |
 | [GRUSVÄG](https://open.spotify.com/track/5CLydITobjloGLCI3KogSO) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GRUSVÄG](https://open.spotify.com/album/7cIz4GR8YnKmJtU6dckxYi) | 2:23 | 2023-05-27 | 2023-07-30 |
 | [Grytan](https://open.spotify.com/track/2y8vVlyyZG9TLHY2MrNrTp) | [Uje Brandelius](https://open.spotify.com/artist/3mCDPC9qPRFIo2OLXE7B2F) | [Grytan](https://open.spotify.com/album/30a3TvJwMsRX6XtxCpaX8Z) | 3:03 | 2023-02-13 | 2023-02-15 |
@@ -1419,7 +1420,7 @@
 | [STICKY](https://open.spotify.com/track/2TJHQcYJVjpHOYoa8NeumK) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [STICKY](https://open.spotify.com/album/1iy7ZOslpXrT7NWtswHDu6) | 2:36 | 2024-01-27 | 2024-02-04 |
 | [Sticky Situation](https://open.spotify.com/track/7vVLexVH1BvkF0xoXveBFt) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Sticky Situation](https://open.spotify.com/album/6BqwUpGcFPcSo7tkQT6xTD) | 2:59 | 2023-02-11 | 2023-02-19 |
 | [Stjärnorna](https://open.spotify.com/track/2FZax4rYTOkcnG02PrJDzk) | [Humlan Djojj](https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ), [Josefine Götestam](https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju) | [Stjärnorna](https://open.spotify.com/album/4X9JpQTFbAJJOc2vQTtnDT) | 2:46 | 2023-01-02 | 2023-11-26 |
-| [Stjärnorna](https://open.spotify.com/track/5jlAu4lHHVzheutRcbDklk) | [Humlan Djojj](https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ), [Josefine Götestam](https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju) | [Somna med Humlan Djojj](https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG) | 2:46 | 2023-12-29 |  |
+| [Stjärnorna](https://open.spotify.com/track/5jlAu4lHHVzheutRcbDklk) | [Humlan Djojj](https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ), [Josefine Götestam](https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju) | [Somna med Humlan Djojj](https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG) | 2:46 | 2023-12-29 | 2024-02-10 |
 | [Stockholm](https://open.spotify.com/track/5eBmEqZHt2u5bGDpl7u9Y8) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden \(del 2\)](https://open.spotify.com/album/2D0NU2s1xrC8wGRkMrJUjP) | 3:08 | 2021-04-18 | 2021-04-22 |
 | [Stockholm](https://open.spotify.com/track/4H0AdBg9qzLtFiIywVy5iN) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Stockholm](https://open.spotify.com/album/3jzARru6P0tgzS8b8GPeOl) | 3:44 | 2023-11-13 | 2023-11-22 |
 | [Stockholm i natt](https://open.spotify.com/track/57TT1KRWDS35o1M9kiw4Jf) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Stockholm i natt](https://open.spotify.com/album/1DRbmA5XjnBuTrN6sPcrDx) | 3:32 | 2021-11-09 | 2021-11-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 
 > A collection of inspired songs about life and the love of the father.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,121 likes - 65 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,123 likes - 65 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 | 7 | [How He Loves](https://open.spotify.com/track/6WSFMa721PvfnspCRsGOMh) | [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [Church Music](https://open.spotify.com/album/69UXabkBHbKMJ0DQjctXtK) | 5:18 |
 | 8 | [21 Years](https://open.spotify.com/track/20enmDMVhWFDjkVHzv1vVA) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [21 Years](https://open.spotify.com/album/4xqmsCvbaarlxQEJQU3ysl) | 4:03 |
 | 9 | [Good Ol' Man](https://open.spotify.com/track/106WZMD4t61E3WIBPtXTDK) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Good Ol' Man](https://open.spotify.com/album/1AUKevdHLZT2YYJqv3mf2s) | 3:22 |
-| 10 | [The Father's Song](https://open.spotify.com/track/1jHE6L9VDkMHD4pzx7Cq4z) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Outrageous Grace](https://open.spotify.com/album/0nWWj6yZHZyFi8iQbRb424) | 4:18 |
+| 10 | [The Father's Song](https://open.spotify.com/track/4J4RUudVyiefFXJNiG5YkN) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Father's Song](https://open.spotify.com/album/7CPnrI9zwdX6BnGaSEOBZW) | 4:20 |
 | 11 | [What My Father Does](https://open.spotify.com/track/762C4wym3RDcDmfmoEmDEm) | [John Waller](https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL), [Sophee Waller](https://open.spotify.com/artist/3ahmnB1cPV3cBRP0WX0Asf) | [What My Father Does](https://open.spotify.com/album/6aT45t3ZWXdxQF5vnnnfno) | 4:05 |
 | 12 | [A Father's Blessing](https://open.spotify.com/track/3YXZFkJmzNj4fyQ3dBmRUm) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [A Father's Blessing](https://open.spotify.com/album/2eBVuof7oZu0Arcxe7VhOf) | 4:41 |
 | 13 | [When I Pray for You](https://open.spotify.com/track/16DRIwIBIgZdAgpp0vLh5q) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [When I Pray for You](https://open.spotify.com/album/4kG5pb8MWB47R7UV3tpdci) | 3:29 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 | 64 | [I Still Believe in That](https://open.spotify.com/track/75DMQGh315Gd4VuGxUq0wn) | [Ash Bowers](https://open.spotify.com/artist/2aJsgmclt9joQMsHMffCBr) | [I Still Believe in That](https://open.spotify.com/album/7m8tHgamVXVEwGRlIlqSaI) | 3:26 |
 | 65 | [Stealing Cinderella](https://open.spotify.com/track/0Pvbr31U9bjdvUUNGNFnQJ) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Stealing Cinderella](https://open.spotify.com/album/1tlxI1SGhyybdGhG15ByTT) | 4:02 |
 
-Snapshot ID: `MCxmOTQ0ZDBkNWRhOTg5YzcyMmUyMmUyYzgyZWNhNmMwOWM3ZDBmNGI1`
+Snapshot ID: `MCwzZGJkMDk2ZGQ1MjQ2ZjMzNTdkNThjZGUxZDhmODRkNDcwMWFkZGRj`

@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2003. Photo : Eminem",
-  "num_followers": 15872,
+  "num_followers": 15884,
   "original_name": "Top Hits France 2003",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTUwMDJmY2MxMjQ3MWY5YjA0ZGExYWU1NzQ5YzQxMDA1ZmFlMjIy",
+  "snapshot_id": "MCwxM2Y1NWUyZTkwYzc4OGY1NmI3ZDA5MGRiZWYzMjExZmRlZTYwMjg4",
   "tracks": [
     {
       "added_at": "2022-02-01 21:20:54",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-02-01 21:20:54",
       "album": {
-        "name": "Mis-Teeq",
-        "url": "https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ"
-      },
-      "artists": [
-        {
-          "name": "Mis-Teeq",
-          "url": "https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn"
-        }
-      ],
-      "duration_ms": 238840,
-      "name": "Scandalous - U.S. Radio Edit",
-      "url": "https://open.spotify.com/track/3stnrhzN0lzZFskbaZ5sEw"
-    },
-    {
-      "added_at": "2022-02-01 21:20:54",
-      "album": {
         "name": "The Golden Hum",
         "url": "https://open.spotify.com/album/6SY8RhGOrzV3NpuDedeyAC"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 244226,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/4pkFvX3AkuiSGPkv8gMlks"
+    },
+    {
+      "added_at": "2022-02-01 21:20:54",
+      "album": {
+        "name": "Mis-Teeq",
+        "url": "https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ"
+      },
+      "artists": [
+        {
+          "name": "Mis-Teeq",
+          "url": "https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn"
+        }
+      ],
+      "duration_ms": 238840,
+      "name": "Scandalous - U.S. Radio Edit",
+      "url": "https://open.spotify.com/track/3stnrhzN0lzZFskbaZ5sEw"
     },
     {
       "added_at": "2022-02-01 21:20:54",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-02-01 21:20:54",
       "album": {
-        "name": "Brut de femme",
-        "url": "https://open.spotify.com/album/36WsF1tlYfQtOSiU3Tozb7"
-      },
-      "artists": [
-        {
-          "name": "Diam's",
-          "url": "https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM"
-        }
-      ],
-      "duration_ms": 270960,
-      "name": "DJ",
-      "url": "https://open.spotify.com/track/4D0dgZLZWkaWG25NBuxOfS"
-    },
-    {
-      "added_at": "2022-02-01 21:20:54",
-      "album": {
         "name": "M!ssundaztood (Expanded Edition)",
         "url": "https://open.spotify.com/album/57wJKO7qrPw56iOEKhTmg2"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2022-02-01 21:20:54",
       "album": {
-        "name": "Trag\u00e9die (\u00c9dition Deluxe)",
-        "url": "https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH"
+        "name": "Brut de femme",
+        "url": "https://open.spotify.com/album/36WsF1tlYfQtOSiU3Tozb7"
       },
       "artists": [
         {
-          "name": "Trag\u00e9die",
-          "url": "https://open.spotify.com/artist/6EysjvvcafloXNdLkwuGLm"
+          "name": "Diam's",
+          "url": "https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM"
         }
       ],
-      "duration_ms": 211759,
-      "name": "Hey Oh - Radio Edit",
-      "url": "https://open.spotify.com/track/15RB3lFt2Mhc16m5fTTYkh"
+      "duration_ms": 270960,
+      "name": "DJ",
+      "url": "https://open.spotify.com/track/4D0dgZLZWkaWG25NBuxOfS"
     },
     {
       "added_at": "2022-02-01 21:20:54",
@@ -1023,22 +1007,18 @@
     {
       "added_at": "2022-02-01 21:20:54",
       "album": {
-        "name": "Truthfully Speaking",
-        "url": "https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0"
+        "name": "Trag\u00e9die (\u00c9dition Deluxe)",
+        "url": "https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH"
       },
       "artists": [
         {
-          "name": "Truth Hurts",
-          "url": "https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1"
-        },
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+          "name": "Trag\u00e9die",
+          "url": "https://open.spotify.com/artist/6EysjvvcafloXNdLkwuGLm"
         }
       ],
-      "duration_ms": 226440,
-      "name": "Addictive",
-      "url": "https://open.spotify.com/track/36jSIOSE72neBbKntCthqw"
+      "duration_ms": 211759,
+      "name": "Hey Oh - Radio Edit",
+      "url": "https://open.spotify.com/track/15RB3lFt2Mhc16m5fTTYkh"
     },
     {
       "added_at": "2022-02-01 21:20:54",
@@ -1055,6 +1035,26 @@
       "duration_ms": 245773,
       "name": "Put That Woman First",
       "url": "https://open.spotify.com/track/3OQu3z3okKVmWxSXTTHak5"
+    },
+    {
+      "added_at": "2022-02-01 21:20:54",
+      "album": {
+        "name": "Truthfully Speaking",
+        "url": "https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0"
+      },
+      "artists": [
+        {
+          "name": "Truth Hurts",
+          "url": "https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Addictive",
+      "url": "https://open.spotify.com/track/36jSIOSE72neBbKntCthqw"
     }
   ],
   "unique_name": "Top Hits France 2003",

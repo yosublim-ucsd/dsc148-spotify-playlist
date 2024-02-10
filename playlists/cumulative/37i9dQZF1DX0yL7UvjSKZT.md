@@ -2,9 +2,9 @@
 
 ### [Indie Bluegrass](https://open.spotify.com/playlist/37i9dQZF1DX0yL7UvjSKZT)
 
-> Fresh takes on that high lonesome sound\. Cover: Lindsay Lou
+> Fresh takes on that high lonesome sound\. Cover: The Steel Wheels
 
-380 songs - 23 hr 41 min
+384 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,11 +159,13 @@
 | [I'll Blame It on the Rain](https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc) | [Hammertowne](https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH) | [I'll Blame It on the Rain](https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo) | 3:43 | 2022-04-01 |  |
 | [Idalou](https://open.spotify.com/track/2b7p4fj53Y16XSBcwMKXkQ) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Idalou](https://open.spotify.com/album/0RAxTYKhyNFYb9zFX0qfWl) | 2:19 | 2023-12-15 |  |
 | [If You See Me Riding By](https://open.spotify.com/track/2i17QDSujp8F9KI1VL0oAW) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [If You See Me Riding By](https://open.spotify.com/album/420pq9fEOP3PEMQ01No5p3) | 3:28 | 2022-06-11 |  |
+| [Impossible Odds](https://open.spotify.com/track/7rvf2LzefX5mNLTXykAOOe) | [Micah Wagner](https://open.spotify.com/artist/6TvBcI7m0Jq96Br9pAXCGy) | [Impossible Odds](https://open.spotify.com/album/6fMXeYCooAqrKjg8Jqk8nr) | 3:03 | 2024-02-09 |  |
 | [In Dreams \- Alternative Version](https://open.spotify.com/track/0xJDTRuEuSlP95wHnrLnLx) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [In Dreams \(Alternative Version\)](https://open.spotify.com/album/0CvZulEryG0ohlt1QFVHhM) | 2:43 | 2022-08-26 |  |
 | [Intentions](https://open.spotify.com/track/2D7OJKIDb9orPkcgZd5OAp) | [Sean Waters](https://open.spotify.com/artist/7xAiCdg8rJmhZtvpYnpbGD) | [Intentions](https://open.spotify.com/album/4RFlBj7vLZ72jtihEXY0Ib) | 3:32 | 2022-02-25 | 2023-07-01 |
 | [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 | 2023-01-13 |  |
 | [Iron & Ore](https://open.spotify.com/track/0V5HKIZzUKlZ8He2Zfp4Eh) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [The Last Revel](https://open.spotify.com/album/3myX8j297y7X7rdSE3LVg2) | 3:54 | 2021-10-01 | 2022-07-29 |
 | [Iron & Ore](https://open.spotify.com/track/47vKr9ZnQj3wSyDQE0kEOL) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [The Last Revel](https://open.spotify.com/album/385iuK4kIgS4QobktCgoGB) | 3:54 | 2022-07-22 | 2023-07-22 |
+| [Jailbird](https://open.spotify.com/track/6cZAzIMPnUT14I7jrECZWD) | [Canon Tyler](https://open.spotify.com/artist/6wsR0uKp3q7fwLIqxBHU16) | [Thickets & Brambles](https://open.spotify.com/album/2kYJzRU0AhsCtxRYj7QUwP) | 4:20 | 2024-02-09 |  |
 | [Jenny Put the Kettle On](https://open.spotify.com/track/0hDZD5WuVY0Xs0MV0MzRgS) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 2:00 | 2023-12-15 |  |
 | [Jenny Put the Kettle On](https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM) | 2:00 | 2022-09-30 | 2023-12-25 |
 | [Jenny Put the Kettle On](https://open.spotify.com/track/1vHYLSFXktaPllAwMj4bmJ) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/6IG1OlL4Z6fV3zh0hRGqIc) | 2:00 | 2022-08-26 | 2022-10-06 |
@@ -210,6 +212,7 @@
 | [Next Rodeo](https://open.spotify.com/track/5HQlgyXOgo6vyYo4VsVlXw) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [Next Rodeo](https://open.spotify.com/album/16EbppchFpI68fnD8Q6kY8) | 3:47 | 2023-06-02 | 2023-08-10 |
 | [Next to Nothing](https://open.spotify.com/track/32rfM7bIDwz44zCcLwcdKC) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Haste Make / Hard Hearted Stranger](https://open.spotify.com/album/5nBEPxMYprdGPngcur3JoV) | 3:31 | 2022-01-21 | 2023-04-30 |
 | [Next to Nothing](https://open.spotify.com/track/4px9hNTpKJBIF32V3QarTO) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Haste Make / Hard Hearted Stranger](https://open.spotify.com/album/1mipjylQeWZmp1Kc27pH5Q) | 3:31 | 2023-04-28 |  |
+| [Nightbird](https://open.spotify.com/track/4wqg1oYJs8pdp12en88WLR) | [Wilson Banjo Co.](https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo) | [Nightbird](https://open.spotify.com/album/68WuFRD2nQxPdcnKb4QgYN) | 3:11 | 2024-02-09 |  |
 | [No Falling Out of Love](https://open.spotify.com/track/4F3xVdKJXcB7QrR34jdnN8) | [Bailey Bigger](https://open.spotify.com/artist/2F5hL2QOcp2BJw1tA5oHXm) | [Coyote Red](https://open.spotify.com/album/1XLFkjc8uRG78k1OM9zZDk) | 5:23 | 2023-04-28 | 2023-05-16 |
 | [No Falling Out of Love](https://open.spotify.com/track/6F3SGMXJUEHpcn7gwZeLNq) | [Bailey Bigger](https://open.spotify.com/artist/2F5hL2QOcp2BJw1tA5oHXm) | [Coyote Red](https://open.spotify.com/album/6ZGSyuomVmv4buVjxBjmah) | 5:23 | 2022-03-25 | 2023-04-30 |
 | [North Country Blues](https://open.spotify.com/track/05PnWL4lxRLylX5H0ERfsx) | [Mighty Poplar](https://open.spotify.com/artist/4cMlQtVLzOm9cr200ALzSD), [Andrew Marlin](https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL), [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW), [Alex Hargreaves](https://open.spotify.com/artist/6Qs9gY94XdjfCCTL8dRQ3P), [Greg Garrison](https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ) | [Mighty Poplar](https://open.spotify.com/album/7gtQTBomZ4zTjPPLQwKKc6) | 4:08 | 2023-12-15 |  |
@@ -268,6 +271,7 @@
 | [Shenandoah](https://open.spotify.com/track/6Kg4vLRFXHc9sEqc6vqVnY) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9), [Michael Starkey](https://open.spotify.com/artist/0v5kYF6D2YsoToYXmEUhYk) | [Shenandoah](https://open.spotify.com/album/1QFmpfj9SakhUQe7iWBIzu) | 3:56 | 2022-05-13 |  |
 | [Shiver](https://open.spotify.com/track/5rvrpTpuFvUm0l0aeN3jzG) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Shiver](https://open.spotify.com/album/6iLR9EKDzM24YbNisa5mdc) | 3:32 | 2022-07-22 | 2023-06-03 |
 | [Shiver](https://open.spotify.com/track/5TiDYdUa8B6rod4U7389Kr) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt), [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Shiver](https://open.spotify.com/album/60z9HLMTqPLS1nt3OLUBCB) | 3:32 | 2021-10-01 | 2022-07-29 |
+| [Sideways](https://open.spotify.com/track/0ivBXQFCf5gzDA8BBQ2im1) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Sideways](https://open.spotify.com/album/2uvCyIwpcbtS6Kuf27Pzqb) | 4:12 | 2024-02-09 |  |
 | [Simple Twist Of Fate](https://open.spotify.com/track/6Y5In9hWevpuyuGNqb6tXn) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz) | [Simple Twist Of Fate](https://open.spotify.com/album/7rQP96czGfr6EIzmkBomzm) | 4:58 | 2023-03-24 |  |
 | [Sing Along \- Demo](https://open.spotify.com/track/2EURFydZv09nLb8WrGBwBd) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant \(Deluxe Edition\)](https://open.spotify.com/album/32kFjsz0DC3HWAftZuvVpc) | 4:03 | 2022-07-22 | 2022-12-03 |
 | [Sing Along \- Demo](https://open.spotify.com/track/2KfEwhZO0XH8hpRq0qeGGt) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant \(Deluxe Edition\)](https://open.spotify.com/album/1rvogFExMDIwuKKmUBru0A) | 4:03 | 2021-10-01 | 2022-07-29 |

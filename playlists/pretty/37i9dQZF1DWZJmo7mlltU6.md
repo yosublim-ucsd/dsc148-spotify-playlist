@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Dot.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,822 likes - 98 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,868 likes - 98 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 75 | [So Bad](https://open.spotify.com/track/3KLGkGZU4wU5zLudW0a0em) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [So Bad](https://open.spotify.com/album/6aRAFBI8tnHWCUAlTaaZGN) | 3:33 |
 | 76 | [Screw Time](https://open.spotify.com/track/041KVEd5BQnsyZKdqdmE0r) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Screw Time](https://open.spotify.com/album/3XuJ6wvVTZyiMslESPVRJ7) | 3:05 |
 | 77 | [cansada de ti](https://open.spotify.com/track/2eQaSvC6yEnXbBPNX23DM3) | [Capital da Bulgária](https://open.spotify.com/artist/2UJGmrsRtfv442IVFpttfs) | [cansada de ti](https://open.spotify.com/album/7LZ988wEv0YbUIKdD0S5Cs) | 3:44 |
-| 78 | [Qué tal? Yo igual](https://open.spotify.com/track/2dgy7SSevw96MA0wDmdXp3) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Qué tal? Yo igual](https://open.spotify.com/album/3bmRq543so0ogJaFvSlIT6) | 3:05 |
+| 78 | [Qué tal? Yo igual](https://open.spotify.com/track/02eIIs3O0G6xY7JbYYJqHY) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Qué tal? Yo igual](https://open.spotify.com/album/46JsjXxCfEK8I1ix0sbC9G) | 3:05 |
 | 79 | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/track/7roB6h5rQPhFRK307eIQk6) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/album/7fjIIM9b9rJ7bu28VtLVxA) | 2:33 |
 | 80 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us](https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ) | 3:42 |
 | 81 | [Dramatic](https://open.spotify.com/track/5IdS03tpt2M477K2rgzgoq) | [Amen Sioux](https://open.spotify.com/artist/5Xn38pfEtH8K62kpk01ZtA) | [Dramatic](https://open.spotify.com/album/7zuVkzNngf7t4HhKVedfCt) | 3:59 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 97 | [En Otro Lugar](https://open.spotify.com/track/5HKQ7IMuZqp4UE32rFWjhS) | [Unidad y Armonía](https://open.spotify.com/artist/05qFHgf1VfCSmZUgC5aLX9) | [En otro lugar](https://open.spotify.com/album/26jqQyRwg4FBCLdAtgkZ07) | 4:00 |
 | 98 | [TU M0VIMIENT0](https://open.spotify.com/track/7qY6EP2f22aOthOgme41AN) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [TU M0VIMIENT0](https://open.spotify.com/album/7ojXU3ahQjm8sDYiT1jivK) | 3:03 |
 
-Snapshot ID: `MCxiMWI5Zjk2YjRlNTMxYmI5MmVlOGUwNmJhZjQ3YzE0NTY0OWQ5YmJi`
+Snapshot ID: `MCw5NWFjN2FmMDIzYjQ4ODZjNWRjOTcxN2I5YzI4NGY1OGFhYjY4NGRm`

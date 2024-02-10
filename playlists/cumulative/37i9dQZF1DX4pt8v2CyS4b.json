@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 323106,
       "name": "Cheryl",
       "url": "https://open.spotify.com/track/589hIHibkRNxbzQVQu7YEC"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 214853,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/4KpstycaGprJn5CtRXiRQ9"
@@ -1140,6 +1140,24 @@
       "duration_ms": 150325,
       "name": "Titles - LA 92 (Original Soundtrack Album)",
       "url": "https://open.spotify.com/track/7C2Y6UiQG8fttWPoCldYHM"
+    },
+    {
+      "album": {
+        "name": "Umi (Woman) [From \"Queens\"]",
+        "url": "https://open.spotify.com/album/4ClRhS3OmyrXhah3oJIkdu"
+      },
+      "artists": [
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149161,
+      "name": "Umi (Woman) - From \"Queens\"",
+      "url": "https://open.spotify.com/track/6Qsh0kfqsNKbqlRtuCnpXs"
     },
     {
       "album": {

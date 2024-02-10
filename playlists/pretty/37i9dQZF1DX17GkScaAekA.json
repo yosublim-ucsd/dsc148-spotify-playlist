@@ -1,12 +1,12 @@
 {
   "description": "quiet hallways, dusty sunlight, cosy sweaters, and hot tea",
-  "num_followers": 718015,
+  "num_followers": 718419,
   "original_name": "Dark Academia Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWVlOWM2NmJmYmQ5Y2RjMjhjZmFhNGU4NDllODY3OTA4NWJlOGFm",
+  "snapshot_id": "MCw1MTA1MjM2ZTljN2I3YTFhYjRhYzFkNTc3NmQ3N2ZkMjc3MmFiOTNh",
   "tracks": [
     {
       "added_at": "2024-02-08 15:43:33",
@@ -827,10 +827,22 @@
     {
       "added_at": "2024-02-08 15:43:33",
       "album": {
-        "name": "Emerald and Stone",
-        "url": "https://open.spotify.com/album/4EQe1P20TVDfxwRKDp3El5"
+        "name": "Venice",
+        "url": "https://open.spotify.com/album/1NpDsdlLsF9LjjdapSYmnz"
       },
       "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Leo Abrahams",
+          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+        },
         {
           "name": "Anastasia Kobekina",
           "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
@@ -842,7 +854,7 @@
       ],
       "duration_ms": 135893,
       "name": "Emerald and Stone",
-      "url": "https://open.spotify.com/track/1i1qDioBSMR3YQ2xKSi75m"
+      "url": "https://open.spotify.com/track/2LRwdz7Eei7EPTUjbE4SPZ"
     },
     {
       "added_at": "2024-02-08 15:43:33",

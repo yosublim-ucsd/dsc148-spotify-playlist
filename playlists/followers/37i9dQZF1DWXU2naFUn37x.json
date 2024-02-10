@@ -1,7 +1,7 @@
 {
-  "2024-02-09": 881391,
+  "2024-02-10": 881485,
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Neima Ezza",
+  "description": "Solo il meglio dello street rap italiano. Cover: Artie 5ive",
   "name": "Street Culto",
   "tracks": [
     {
@@ -599,7 +599,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 189015,
       "name": "ANELLI E COLLANE (feat. ANNA)",
       "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
@@ -4138,6 +4138,24 @@
     },
     {
       "album": {
+        "name": "Guerra Con Me Stesso",
+        "url": "https://open.spotify.com/album/1UHR9djVH1lY3iaJycPVng"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129315,
+      "name": "Guerra Con Me Stesso",
+      "url": "https://open.spotify.com/track/6ByL4vOXiTkHyCShfEvwcE"
+    },
+    {
+      "album": {
         "name": "GURU DEL BUSINESS",
         "url": "https://open.spotify.com/album/1BsmAW3BDFNwytA8TJ30t2"
       },
@@ -4761,6 +4779,24 @@
       "duration_ms": 226863,
       "name": "Karma (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/5O3JxKrBqIQais5ZgMx1Qp"
+    },
+    {
+      "album": {
+        "name": "KAYROS",
+        "url": "https://open.spotify.com/album/0JSXR7YGCfK3uNSqzYRvMS"
+      },
+      "artists": [
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206127,
+      "name": "KAYROS",
+      "url": "https://open.spotify.com/track/5RAgQjHD4D892wj1VFu6uk"
     },
     {
       "album": {
@@ -6037,7 +6073,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 138782,
       "name": "Nati Per Fare La Guerra",
       "url": "https://open.spotify.com/track/5kjCIGDQzAWgfSKsnjnX7D"
@@ -6589,7 +6625,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 179118,
       "name": "OUTFIT",
       "url": "https://open.spotify.com/track/28EjVhyTynW4W1VBkpJckD"
@@ -6619,6 +6655,24 @@
       "duration_ms": 179220,
       "name": "Ovetto Frozen (feat. Papa V)",
       "url": "https://open.spotify.com/track/5fIFDZIWCb4xljatkdsIlY"
+    },
+    {
+      "album": {
+        "name": "PACK A PUNCH FREESTYLE",
+        "url": "https://open.spotify.com/album/3GmoaUUFRJHHAKt9CJW0uB"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229031,
+      "name": "PACK A PUNCH FREESTYLE",
+      "url": "https://open.spotify.com/track/0lJQZj69WzLXcvjTEGLB4D"
     },
     {
       "album": {
@@ -7851,6 +7905,28 @@
       "duration_ms": 192727,
       "name": "Salam Alaykum",
       "url": "https://open.spotify.com/track/6LI8B0UaQ70WdO2vlmKQK5"
+    },
+    {
+      "album": {
+        "name": "SANTI QUA (feat. Ddusi)",
+        "url": "https://open.spotify.com/album/0WpqSfnWekbpI85035PCYa"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Ddusi",
+          "url": "https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162758,
+      "name": "SANTI QUA (feat. Ddusi)",
+      "url": "https://open.spotify.com/track/3plovXEUjBSuwxEjcx3EYz"
     },
     {
       "album": {

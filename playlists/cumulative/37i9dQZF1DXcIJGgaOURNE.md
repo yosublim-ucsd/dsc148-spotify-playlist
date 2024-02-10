@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-96 songs - 8 hr 20 min
+97 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 | 2022-04-12 |  |
 | [Liberty Bell](https://open.spotify.com/track/1nxudYVyc5RLm8LrSMzeTa) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Liberty Bell](https://open.spotify.com/album/4xSGg0KP6U44KBN6z6NujJ) | 4:02 | 2022-04-12 |  |
 | [Lifetime \- HAAi’s Green Lamborghini Romix](https://open.spotify.com/track/7czIjs2dvjjmGEQ8k4FJGl) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lifetime Remixes](https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy) | 5:36 | 2022-04-12 |  |
-| [Lights & Strobes](https://open.spotify.com/track/1z8gk1u7hVgpNyzve6ediy) | [Carli](https://open.spotify.com/artist/4TK1fbkiTG0inzHy7DlMgT) | [Lights & Strobes](https://open.spotify.com/album/433eQ8gozTLOoyJ3TlLUKk) | 5:11 | 2022-04-12 |  |
+| [Lights & Strobes](https://open.spotify.com/track/0tJjhLDr1iMwE6VQnb20K4) | [Carli](https://open.spotify.com/artist/4TK1fbkiTG0inzHy7DlMgT) | [Lights & Strobes](https://open.spotify.com/album/0P9sUVklZf70ccPGtE2KD0) | 5:11 | 2022-11-21 |  |
+| [Lights & Strobes](https://open.spotify.com/track/1z8gk1u7hVgpNyzve6ediy) | [Carli](https://open.spotify.com/artist/4TK1fbkiTG0inzHy7DlMgT) | [Lights & Strobes](https://open.spotify.com/album/433eQ8gozTLOoyJ3TlLUKk) | 5:11 | 2022-04-12 | 2024-02-10 |
 | [Like This \- Full Mix](https://open.spotify.com/track/3OW0DWxx56Wsc5wHfnNmM2) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Like This](https://open.spotify.com/album/04mH9qNvpsSO4orXu367x5) | 6:06 | 2022-04-12 |  |
 | [Love Kills](https://open.spotify.com/track/0KD57RyQTzLDSprI2ZfN5a) | [Freddie Mercury](https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH) | [The Very Best of Freddie Mercury Solo: Lover of Life, Singer of Songs](https://open.spotify.com/album/7zZsa7Cpd5itS9reVPfXZA) | 4:29 | 2022-11-21 |  |
 | [Love Kills](https://open.spotify.com/track/4HeNuE5fHrBQFErXCdVU7s) | [Freddie Mercury](https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH) | [The Very Best of Freddie Mercury Solo: Lover of Life, Singer of Songs](https://open.spotify.com/album/5rUIVycCFrc3JmKRuL8JIf) | 4:29 | 2022-04-12 | 2023-09-22 |

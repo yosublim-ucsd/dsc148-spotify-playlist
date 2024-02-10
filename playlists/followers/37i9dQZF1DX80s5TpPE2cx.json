@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 8521,
+  "2024-02-10": 8531,
   "date_first_scraped": "2022-10-01",
   "description": "The songs that defined Nigeria's Alt\u00e9 era ",
   "name": "Alt\u00e9 Classics ",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 149734,
       "name": "5 Star",
       "url": "https://open.spotify.com/track/0uFCWBCZ8sU0Ys75kuNMcQ"
@@ -119,7 +119,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 211880,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/2kuoDgDB58x1DExkiIEWip"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 205270,
       "name": "Bad",
       "url": "https://open.spotify.com/track/3Wr351IZwsrlcc4dHyhLH8"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 156026,
       "name": "Beat It Up",
       "url": "https://open.spotify.com/track/5Ya9NZxjCN8jA38nYUwpyE"
@@ -210,6 +210,28 @@
     },
     {
       "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191898,
+      "name": "Broken Promises",
+      "url": "https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V"
+    },
+    {
+      "album": {
         "name": "Call on Me",
         "url": "https://open.spotify.com/album/4QIHSb34WjV0yDj2f4eLPb"
       },
@@ -229,7 +251,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 180705,
       "name": "Call on Me",
       "url": "https://open.spotify.com/track/4G46ARDqN8E5FmXbLPRUgM"
@@ -251,7 +273,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 157855,
       "name": "Candy",
       "url": "https://open.spotify.com/track/6Wita44WcY7I72errJQ4aa"
@@ -399,7 +421,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 215066,
       "name": "Coconut Lips",
       "url": "https://open.spotify.com/track/1IZJ3PvtyeRGmWDyH7IJfV"
@@ -473,7 +495,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 177606,
       "name": "Don't",
       "url": "https://open.spotify.com/track/3Nynva3Aa4iDyQmclJ6fxV"
@@ -495,7 +517,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 191025,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/3eC3ISlCf8yBbLCg8snmbF"
@@ -627,7 +649,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 140000,
       "name": "Gangsta Fear (feat. Odunsi (The Engine))",
       "url": "https://open.spotify.com/track/4LrMO8FuGpkA9v4QJMwmpe"
@@ -753,7 +775,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 197879,
       "name": "Gold Grills",
       "url": "https://open.spotify.com/track/1EhYCGnX7XKFP44nGOrTXA"
@@ -771,7 +793,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 206315,
       "name": "H.I.G.H. (Her In Greater Heights)",
       "url": "https://open.spotify.com/track/2t8J9awuC3vFZZRKvaTXI6"
@@ -793,7 +815,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 260075,
       "name": "Happy Hour (feat. Okuntakinte)",
       "url": "https://open.spotify.com/track/37PhY5sfXk1yiIdHquMrn5"
@@ -815,7 +837,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 208584,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/3ecnAvBthA0oRBoUSQIZrP"
@@ -845,7 +867,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 240039,
       "name": "Icy (feat. Izzy, Maison2500 & Odunsi)",
       "url": "https://open.spotify.com/track/3LPQFl6X9oi7aniP2oDeI4"
@@ -911,7 +933,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 167288,
       "name": "In The Night",
       "url": "https://open.spotify.com/track/5G6qUca8Er653hnwIE7Bwe"
@@ -947,7 +969,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 136216,
       "name": "Island Girl",
       "url": "https://open.spotify.com/track/3O51zJvuEqPv7gXDLylqh4"
@@ -983,7 +1005,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 206254,
       "name": "Juice",
       "url": "https://open.spotify.com/track/3kezJAWJtfhrhsCauOSFJp"
@@ -1009,7 +1031,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 135671,
       "name": "Jungle Fever (feat. Genio Bambino & Odunsi (The Engine))",
       "url": "https://open.spotify.com/track/4dklRnRQZT9ef8JfgnRbYn"
@@ -1027,10 +1049,32 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 196363,
       "name": "Juno",
       "url": "https://open.spotify.com/track/5AOPmzieeja8yhoPrVGpbr"
+    },
+    {
+      "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
     },
     {
       "album": {
@@ -1075,7 +1119,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 187189,
       "name": "Levitation",
       "url": "https://open.spotify.com/track/4lYcw3yCUj3mkzsxYr3Nhr"
@@ -1111,10 +1155,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 162857,
       "name": "Lust or Love",
       "url": "https://open.spotify.com/track/4FnIcF8E4dRhgkK3Olrtlp"
+    },
+    {
+      "album": {
+        "name": "Maame Water",
+        "url": "https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS"
+      },
+      "artists": [
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179915,
+      "name": "Maame Water",
+      "url": "https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU"
     },
     {
       "album": {
@@ -1133,6 +1195,32 @@
       "duration_ms": 191179,
       "name": "Magic",
       "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
+    },
+    {
+      "album": {
+        "name": "ULTRALIGHT",
+        "url": "https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237346,
+      "name": "MEDITATE",
+      "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
     },
     {
       "album": {
@@ -1223,7 +1311,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 206769,
       "name": "Murderer",
       "url": "https://open.spotify.com/track/0QedrnntNcVcRUsTwcU8PH"
@@ -1289,7 +1377,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 191031,
       "name": "Optimum Esse",
       "url": "https://open.spotify.com/track/20EbpUHGtvuluX2AQSLYkZ"
@@ -1337,7 +1425,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 197694,
       "name": "Play for Keeps",
       "url": "https://open.spotify.com/track/57eoDpCIH3hQmmy6NbuBxQ"
@@ -1509,7 +1597,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 140800,
       "name": "showmetheway !!",
       "url": "https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL"
@@ -1531,7 +1619,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 246909,
       "name": "Siamese",
       "url": "https://open.spotify.com/track/2LI7jT5sSpUGeJHUsnDtC9"
@@ -1553,7 +1641,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 205505,
       "name": "Situationship (feat. AYL\u00d8)",
       "url": "https://open.spotify.com/track/6bWJVNePO79QaQFBYumAFq"
@@ -1619,7 +1707,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 220400,
       "name": "Sober",
       "url": "https://open.spotify.com/track/7pBEDsYAcHwCGkR3kG3SlF"
@@ -1645,7 +1733,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 218932,
       "name": "Soul (feat. AYL\u00d8)",
       "url": "https://open.spotify.com/track/32BLhQL6TfaEiWNRjt0jEB"
@@ -1743,7 +1831,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 192052,
       "name": "Squad",
       "url": "https://open.spotify.com/track/48KxNEn76nPC6Tq08tRGFW"
@@ -1884,6 +1972,32 @@
     },
     {
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
+      },
+      "artists": [
+        {
+          "name": "Chxf Barry",
+          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "Nick Souza",
+          "url": "https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190144,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
+    },
+    {
+      "album": {
         "name": "Enjoy Your Life",
         "url": "https://open.spotify.com/album/1tbGvVPTxiB6eZUbDjbSvv"
       },
@@ -1983,7 +2097,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 268852,
       "name": "The Atlas",
       "url": "https://open.spotify.com/track/2QtMHkOVl28e5QOUbeLfkB"
@@ -2009,7 +2123,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 234945,
       "name": "The Other Side (feat. Odunsi & King Zamir)",
       "url": "https://open.spotify.com/track/3zIiwUQogxtTieEgGPKB7B"
@@ -2085,7 +2199,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 205400,
       "name": "Up",
       "url": "https://open.spotify.com/track/78fUOYqXOsIFo6kBjEFfws"
@@ -2143,10 +2257,32 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 188801,
       "name": "What You Like",
       "url": "https://open.spotify.com/track/3nW0Lor0OZW7muepNnkUI9"
+    },
+    {
+      "album": {
+        "name": "Where Dem Dey",
+        "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
+      },
+      "artists": [
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Where Dem Dey",
+      "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
     },
     {
       "album": {
@@ -2271,7 +2407,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 84346,
       "name": "Wishes And Butterflies",
       "url": "https://open.spotify.com/track/2bJiq43RRoWzh8szaaLD6K"

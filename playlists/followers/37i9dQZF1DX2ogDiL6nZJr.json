@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 679572,
+  "2024-02-10": 679747,
   "date_first_scraped": "2021-12-30",
   "description": "Home is where you park it.",
   "name": "Van Life",
@@ -2276,6 +2276,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
+    },
+    {
+      "album": {
         "name": "Horizons Into Battlegrounds",
         "url": "https://open.spotify.com/album/3TgXiOBzbEXsX0eQ3Eppsi"
       },
@@ -2613,7 +2631,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 399082,
       "name": "Keep Going",
       "url": "https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3"

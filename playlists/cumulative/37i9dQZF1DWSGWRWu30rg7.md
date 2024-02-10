@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Dodit Mulyanto
 
-3,062 songs - 7 day 19 hr 59 min
+3,063 songs - 7 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2675,6 +2675,7 @@
 | [Tanpa Kata](https://open.spotify.com/track/1donIeXd7Ix0xqnOpfnhZK) | [Giacinta](https://open.spotify.com/artist/6hgISqgflFSvkJ6paiCLNJ) | [Tanpa Kata](https://open.spotify.com/album/6c1DA0aLXnWmm2BKjStZ9H) | 3:19 | 2024-01-18 | 2024-02-09 |
 | [Tanpa Syarat](https://open.spotify.com/track/5KeW34eqjv4oh1d89n6ldP) | [Phewe Tahta](https://open.spotify.com/artist/2QNapOD2jU24qTByRC2FGt) | [Tanpa Syarat](https://open.spotify.com/album/4xEdydzuesET6lsi5poPQN) | 4:03 | 2024-02-02 |  |
 | [Tapi Sayangnya](https://open.spotify.com/track/6FVJVmYfSExhAQqGoymdJK) | [Elma Dae](https://open.spotify.com/artist/3o4Y9Gn3YghgIiAlYLDNZ7) | [Tapi Sayangnya](https://open.spotify.com/album/1COogBBnrQus3wgdYCGxn0) | 3:30 | 2023-06-22 | 2023-07-07 |
+| [Target](https://open.spotify.com/track/2e16mdBHC8lr1LinkmRweC) | [Jaybag](https://open.spotify.com/artist/6fVPj9LNi7dgkG1luLMOCx) | [Wolf Den](https://open.spotify.com/album/6GSVbDZ5kmoGSIc8TRBto4) | 2:41 | 2024-02-09 |  |
 | [Tarik Dugul](https://open.spotify.com/track/5ry2FfeIQXKXX5VoVboris) | [The Makmoors](https://open.spotify.com/artist/7tj9i3tfkX6H2riNceQlkS) | [Tarik Dugul](https://open.spotify.com/album/1zniYkPF7aGoydlElaTobl) | 3:02 | 2023-11-09 | 2023-12-01 |
 | [Taste of You](https://open.spotify.com/track/6Zi1FOMJzIPXXq5QP1hcfJ) | [Flueskies](https://open.spotify.com/artist/73s3qYXkHlfJ5EzbsnBX7w) | [Taste of You](https://open.spotify.com/album/3ry2byHe7IW7WaC2HlOKph) | 3:44 | 2022-08-11 | 2022-08-26 |
 | [Tata Kala Siapa](https://open.spotify.com/track/4qLARHzQD3zXGtCR34g9Pp) | [Mandoors](https://open.spotify.com/artist/2dboNdvc6Xd5PBHbo5eUk8) | [Tata Kala Siapa](https://open.spotify.com/album/7hsK3oevh49DIq0UmKGu9K) | 4:39 | 2022-11-11 | 2022-12-01 |

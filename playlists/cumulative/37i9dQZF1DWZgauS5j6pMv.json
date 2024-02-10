@@ -1912,7 +1912,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 234194,
       "name": "Everybody in the World (feat. New Breed Brass Band)",
       "url": "https://open.spotify.com/track/3xRrcTVx6yjNGSEhw8rE2A"
@@ -3641,6 +3641,28 @@
     },
     {
       "album": {
+        "name": "I'm Gonna Break Through The Minneapolis Sound",
+        "url": "https://open.spotify.com/album/5SPxmPtm7P2SzNiFWmUQeN"
+      },
+      "artists": [
+        {
+          "name": "Leon Schmith",
+          "url": "https://open.spotify.com/artist/4xrhCvqLYl670XhDEPLrD9"
+        },
+        {
+          "name": "Jos\u00e9 C\u00f4rte-Real",
+          "url": "https://open.spotify.com/artist/72mw2lexAW7ztbJXDLvZvc"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220435,
+      "name": "I'm Gonna Break Through The Minneapolis Sound",
+      "url": "https://open.spotify.com/track/3NquVqpiNefjlWzj83ljbd"
+    },
+    {
+      "album": {
         "name": "Ice & Fire",
         "url": "https://open.spotify.com/album/1xauUnaLc4Baj0MmUbEggs"
       },
@@ -4118,7 +4140,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 169200,
       "name": "L.O.V.E. (feat. EARTHGANG, Jon Batiste & Sherwyn)",
       "url": "https://open.spotify.com/track/3h3szgXLd2FJ0WSWj8om9t"
@@ -4246,6 +4268,28 @@
       "duration_ms": 320920,
       "name": "Life's Been Good To Me",
       "url": "https://open.spotify.com/track/70maYMm40ytuPewZ63bzd6"
+    },
+    {
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241560,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk"
     },
     {
       "album": {

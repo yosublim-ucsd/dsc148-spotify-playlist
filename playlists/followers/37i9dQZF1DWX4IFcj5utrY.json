@@ -1,7 +1,7 @@
 {
-  "2024-02-09": 72403,
+  "2024-02-10": 72449,
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL?si=She0_Do8Sf2vq3E4tSqzbA\">Zakes Bantwini</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=eXMnqbKqRbGHU2vdnJw4jQ\">DBN Gogo</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/1SwmINnHRKk4RiZGdarOv1"
@@ -2851,7 +2851,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 161770,
       "name": "Big FU",
       "url": "https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh"
@@ -7142,6 +7142,36 @@
     },
     {
       "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/4i4WmGqPHmvhmfLwLkj4Rj"
+      },
+      "artists": [
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "Drega",
+          "url": "https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG"
+        },
+        {
+          "name": "Nana Atta",
+          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
+        },
+        {
+          "name": "Skye Wanda",
+          "url": "https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322000,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/1SIJCvshI9ZRrj1mgLooHM"
+    },
+    {
+      "album": {
         "name": "Hey Sister",
         "url": "https://open.spotify.com/album/3zzGP2HY9cNbJ17Po8935W"
       },
@@ -7433,6 +7463,40 @@
       "duration_ms": 199416,
       "name": "Horns in the Sun",
       "url": "https://open.spotify.com/track/6a6D34Zl60ClugkltmryYp"
+    },
+    {
+      "album": {
+        "name": "Weekent Sun Sets (Horns In The Sun Remix EP)",
+        "url": "https://open.spotify.com/album/59LoBYTSYz63t98w6hc3u6"
+      },
+      "artists": [
+        {
+          "name": "DJ Kent",
+          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
+        },
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        },
+        {
+          "name": "Mo-T",
+          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
+        },
+        {
+          "name": "M\u00d6RDA",
+          "url": "https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336657,
+      "name": "Horns In The Sun (feat. Mo-T, Brenden Praise & M\u00f6rda) [Thakzin Remix]",
+      "url": "https://open.spotify.com/track/3LfXImvXHkHzz0qqdFAol4"
     },
     {
       "album": {
@@ -8067,7 +8131,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 248447,
       "name": "Ibala Lami (Radio Edit)",
       "url": "https://open.spotify.com/track/5xupTcr3cRi4vjR8W6Frs5"
@@ -9325,7 +9389,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 382415,
       "name": "Jeteme",
       "url": "https://open.spotify.com/track/4fD4Kag49mp8dm6bM8nRmx"
@@ -10513,7 +10577,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 401352,
       "name": "Let It Rain (feat. Bukeka)",
       "url": "https://open.spotify.com/track/3e7kpLAEfpJXwaGpZ1Ewet"
@@ -11581,7 +11645,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 258057,
       "name": "Mandaro",
       "url": "https://open.spotify.com/track/7MCAsfepOYNLhjIL807DXk"
@@ -12303,7 +12367,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 232010,
       "name": "Mngani Wam - Radio Edit",
       "url": "https://open.spotify.com/track/3X5egyPvueKr9j63RkrD3n"
@@ -12601,6 +12665,28 @@
       "duration_ms": 351934,
       "name": "Mr Ray in Cosmic",
       "url": "https://open.spotify.com/track/19WjST7mAnBzFi3dsUC3ql"
+    },
+    {
+      "album": {
+        "name": "mr useless",
+        "url": "https://open.spotify.com/album/2nORxS6P2LcQHuTHbH8rgZ"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149506,
+      "name": "mr useless",
+      "url": "https://open.spotify.com/track/1HogDCzANgKv9mE8MgeYKg"
     },
     {
       "album": {
@@ -13852,6 +13938,28 @@
     },
     {
       "album": {
+        "name": "One Night/All Night",
+        "url": "https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276066,
+      "name": "One Night/All Night",
+      "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
+    },
+    {
+      "album": {
         "name": "One Step At A Time",
         "url": "https://open.spotify.com/album/4Q1Lbn9JSHWnvuyVbAONfk"
       },
@@ -14211,6 +14319,32 @@
       "duration_ms": 231672,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/0I1suEDcKu73meeDsckAhz"
+    },
+    {
+      "album": {
+        "name": "Parapanda (Andrew Naklab Remix)",
+        "url": "https://open.spotify.com/album/6tApVN7hOOprWIKn17SvEU"
+      },
+      "artists": [
+        {
+          "name": "FEEZZ",
+          "url": "https://open.spotify.com/artist/6S5ZEVM2yv6IASzqIhODKM"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        },
+        {
+          "name": "Andrew Naklab",
+          "url": "https://open.spotify.com/artist/3EWfLZ3b0jTf5Z2VlYuHJ9"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179517,
+      "name": "Parapanda - Andrew Naklab Remix",
+      "url": "https://open.spotify.com/track/5UK9AU6CcE2lQgVRIgZ80b"
     },
     {
       "album": {
@@ -15224,6 +15358,36 @@
     },
     {
       "album": {
+        "name": "Rule The World (Everybody)",
+        "url": "https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Rule The World (Everybody)",
+      "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"
+    },
+    {
+      "album": {
         "name": "Rumble",
         "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
       },
@@ -15551,7 +15715,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 207514,
       "name": "Saving Up",
       "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
@@ -16725,7 +16889,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 416095,
       "name": "SONDELA",
       "url": "https://open.spotify.com/track/5cNOGJMSGWz0RoGOUdyW9v"
@@ -17834,6 +17998,32 @@
     },
     {
       "album": {
+        "name": "The Cure & The Cause (Atmos Blaq Remix)",
+        "url": "https://open.spotify.com/album/1KCpufTAncrsZE9pPMGafl"
+      },
+      "artists": [
+        {
+          "name": "Fish Go Deep",
+          "url": "https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y"
+        },
+        {
+          "name": "Tracey K",
+          "url": "https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250020,
+      "name": "The Cure & The Cause - Atmos Blaq Remix",
+      "url": "https://open.spotify.com/track/0ohdPNEvFGQNaMpeAx7VnL"
+    },
+    {
+      "album": {
         "name": "The Day to Come (Incl. Wilson Kentura and Aninha Remixes)",
         "url": "https://open.spotify.com/album/0QOJgHO7Kvart2oEush7Jn"
       },
@@ -18317,6 +18507,32 @@
       "duration_ms": 234673,
       "name": "There's Music in the Air",
       "url": "https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK"
+    },
+    {
+      "album": {
+        "name": "There's Music in the Air (Fka Mash Remix)",
+        "url": "https://open.spotify.com/album/2PDkvcTn7a4oZsaJ55qaMQ"
+      },
+      "artists": [
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        },
+        {
+          "name": "Gallo Remixed",
+          "url": "https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8"
+        },
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231466,
+      "name": "There's Music in the Air (Fka Mash Remix)",
+      "url": "https://open.spotify.com/track/4uFhNunbrBa3FRbSHPmLhq"
     },
     {
       "album": {
@@ -19219,7 +19435,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 269757,
       "name": "Umhle (Lebzin & Dr Feel AfroSoul Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/5N0Uukn963YBASMXuCL26q"
@@ -19271,6 +19487,28 @@
       "duration_ms": 240000,
       "name": "Umoya",
       "url": "https://open.spotify.com/track/51lWECWDAl58OrMWFf7x2i"
+    },
+    {
+      "album": {
+        "name": "Umoya (Radio Edit)",
+        "url": "https://open.spotify.com/album/4sEVxflS8Kasf7NXndPew3"
+      },
+      "artists": [
+        {
+          "name": "Karyendasoul",
+          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272005,
+      "name": "Umoya - Radio Edit",
+      "url": "https://open.spotify.com/track/6UMJCyLYHXy1JjDNgqtTB0"
     },
     {
       "album": {
@@ -19399,7 +19637,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 431186,
       "name": "Ungayithi Vu",
       "url": "https://open.spotify.com/track/6CFIi8rQ7MQ2dOmSC9bh3n"
@@ -19567,6 +19805,48 @@
       "duration_ms": 336842,
       "name": "uSipho",
       "url": "https://open.spotify.com/track/7B1Kij7knvV5Ph5zOJUDRI"
+    },
+    {
+      "album": {
+        "name": "Click Bait",
+        "url": "https://open.spotify.com/album/0dvAgkKcoVFHDYAYFViWm1"
+      },
+      "artists": [
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        },
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        },
+        {
+          "name": "Shazmicsoul",
+          "url": "https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg"
+        },
+        {
+          "name": "Dr Thulz",
+          "url": "https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4"
+        },
+        {
+          "name": "Mashudu",
+          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
+        },
+        {
+          "name": "Leandra.Vert",
+          "url": "https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331540,
+      "name": "UTHANDO",
+      "url": "https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh"
     },
     {
       "album": {
@@ -20023,6 +20303,28 @@
       "duration_ms": 384845,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/2P9gK2kFtgnivroCcfYBrL"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191733,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Best blends of Electronic music Across East Africa
 
-127 songs - 10 hr 14 min
+128 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [SEQUENCE](https://open.spotify.com/track/3352NJ15FsCKvBfKKpUEyz) | [Slikback](https://open.spotify.com/artist/0NwRAG9DawUqqgur9925fA) | [22122](https://open.spotify.com/album/0mEMOUGU3MA2epy6Xk38Ai) | 2:39 | 2022-08-01 |  |
 | [Shikiria \- Day Mix](https://open.spotify.com/track/5tNmUCoZuBY4z2oPxENNHJ) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 3:59 | 2022-08-01 |  |
 | [SHINDA](https://open.spotify.com/track/7y2KJOf3eHan2PezVrj3iU) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn) | [SHINDA](https://open.spotify.com/album/7MU0MfGCMgISf4NOkloTro) | 2:42 | 2022-08-01 |  |
-| [Simama](https://open.spotify.com/track/4TqKsQ4KIcjLIRUUHx8izd) | [KLAAN](https://open.spotify.com/artist/3m6BKTRlaOuhaFauW2jRD6), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Simama](https://open.spotify.com/album/1vGGNki1oydOSOLeHYqF0b) | 4:00 | 2023-08-10 |  |
+| [Simama](https://open.spotify.com/track/4TqKsQ4KIcjLIRUUHx8izd) | [KLAAN](https://open.spotify.com/artist/3m6BKTRlaOuhaFauW2jRD6), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Simama](https://open.spotify.com/album/1vGGNki1oydOSOLeHYqF0b) | 4:00 | 2023-08-10 | 2024-02-10 |
 | [Sondans](https://open.spotify.com/track/5BcMZEJoHhPu1HWX9qeWLA) | [Basti Grub](https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Sondans](https://open.spotify.com/album/4K3E1WgIiJk1AMp3YhYVp5) | 4:02 | 2024-01-26 |  |
 | [Sorcerer](https://open.spotify.com/track/6EPUiKgSM3ZWmyUeN5TqcG) | [Vidza](https://open.spotify.com/artist/0AZXckUQ7wQXhFeueG0Vsu), [Dylan\-S](https://open.spotify.com/artist/176vNYtXl88Q9b3N683c6O), [Nyabuto](https://open.spotify.com/artist/50v6rP52M84WFXkxCe8x6L) | [Sorcerer](https://open.spotify.com/album/2LaZMF6OYW3equPfzABpXt) | 7:48 | 2022-08-01 |  |
 | [Soul Explosion](https://open.spotify.com/track/2SSwhh7RjztAFSeA2S9iQ9) | [DJ Vivona](https://open.spotify.com/artist/2MrGECnmnJ6NsokRk4QHkz) | [Soul Explosion](https://open.spotify.com/album/49tmF9OnGsQ45l11uf9KCq) | 6:25 | 2022-08-01 |  |
@@ -135,5 +135,6 @@
 | [Your love](https://open.spotify.com/track/4yX841eJ8Rc3bWGqpPCbFM) | [Tokyonite](https://open.spotify.com/artist/5WttUzDUxd2UC83jyglcBb), [INAMEIT](https://open.spotify.com/artist/6bOneog19MkwPOXivT4PeI) | [Your love](https://open.spotify.com/album/1PkYEyQiwJ5xzxaRlmczD7) | 2:59 | 2023-10-27 |  |
 | [Your Love \- Antdot Remix](https://open.spotify.com/track/4SylEKPh0HWqJep7CfISHk) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Your Love \(Antdot Remix\)](https://open.spotify.com/album/5IWlETbudB9LdBT2BHVhSw) | 2:57 | 2023-10-12 |  |
 | [Your Loving \- DJ Paparazzi Remix](https://open.spotify.com/track/1ReZvOFm70OYQz3TNp2R0r) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [DJ Paparazzi](https://open.spotify.com/artist/6Z4MjOERzDvcj6cS9MzE8s) | [Your Loving \(Remixes\)](https://open.spotify.com/album/2obQSSgoW5F82YSZ6EcLd8) | 4:01 | 2022-08-01 |  |
+| [Yule](https://open.spotify.com/track/3d5jBkwQ78NV4uvWvBFNdq) | [Arcade Saiyans](https://open.spotify.com/artist/3dQj2JqOjkdj6DC50whkn2), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Yule](https://open.spotify.com/album/0FlimfTT6taGOPHav7bQ0U) | 5:40 | 2024-02-09 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

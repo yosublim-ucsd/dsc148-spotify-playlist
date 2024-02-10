@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Iza Sabino, Laura Sette",
+  "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Menor MC ",
   "name": "Cop\u00e3o na M\u00e3o",
   "tracks": [
     {
@@ -298,6 +298,28 @@
       "duration_ms": 202105,
       "name": "A Noite",
       "url": "https://open.spotify.com/track/2mcw9Bzsc9FXgZJdXZsrSg"
+    },
+    {
+      "album": {
+        "name": "Acelerado",
+        "url": "https://open.spotify.com/album/5tB7PV43mcHdfTf8T08rP3"
+      },
+      "artists": [
+        {
+          "name": "EoGlzada",
+          "url": "https://open.spotify.com/artist/1clRzjlvmpZC7ltw0cD4BF"
+        },
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145600,
+      "name": "Acelerado",
+      "url": "https://open.spotify.com/track/2WIFDdMuzxwnR7i3uYnqWM"
     },
     {
       "album": {
@@ -1843,6 +1865,48 @@
     },
     {
       "album": {
+        "name": "Cintura Covarde - RIMAR 9",
+        "url": "https://open.spotify.com/album/6KD35aUhvoVAzxcRhVlFzI"
+      },
+      "artists": [
+        {
+          "name": "Boca",
+          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229743,
+      "name": "Cintura Covarde - RIMAR 9",
+      "url": "https://open.spotify.com/track/11iqg0I2B90nZ8ujMNIs09"
+    },
+    {
+      "album": {
         "name": "Manual de Como Amar Errado",
         "url": "https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I"
       },
@@ -2435,6 +2499,24 @@
     },
     {
       "album": {
+        "name": "Deixa Eles Falar",
+        "url": "https://open.spotify.com/album/0aPimX5Sir3awbMk17wJnf"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Deixa Eles Falar",
+      "url": "https://open.spotify.com/track/79zafFSARlfPrWgf8PDKwi"
+    },
+    {
+      "album": {
         "name": "Descanso de Tela",
         "url": "https://open.spotify.com/album/2boa2yzlE1amlQzyVZiOwa"
       },
@@ -2628,8 +2710,8 @@
           "url": "https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG"
         },
         {
-          "name": "Lugu",
-          "url": "https://open.spotify.com/artist/2hZVWxeW8FEmNFN4T0uLBh"
+          "name": "MC Lugu",
+          "url": "https://open.spotify.com/artist/4K6vNwCTjq3Yqwb9MoFHED"
         },
         {
           "name": "Murillo e LT no Beat",
@@ -5058,7 +5140,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 183941,
       "name": "Megatron - Feat. Raffa Moreira",
       "url": "https://open.spotify.com/track/4UN7uguq2M4zepJYz7iaVN"
@@ -5562,7 +5644,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 136383,
       "name": "Naipe Vagabundo",
       "url": "https://open.spotify.com/track/0gUYr9h0KIYEDW3yZpKDm9"
@@ -5584,7 +5666,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 102400,
       "name": "Namora & Disfar\u00e7a - Bonus Track",
       "url": "https://open.spotify.com/track/3qm36Zh1qGQC2PHDQNdify"
@@ -7396,7 +7478,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 128695,
       "name": "Romance de Novela",
       "url": "https://open.spotify.com/track/3Ddco5MUY23qxHZE2s3siS"
@@ -9356,6 +9438,32 @@
       "duration_ms": 180923,
       "name": "\u00d4 Mo\u00e7a",
       "url": "https://open.spotify.com/track/1mQOFRDoqI34LdN79PE0vH"
+    },
+    {
+      "album": {
+        "name": "\u00daltima Noite (Papatracks#11)",
+        "url": "https://open.spotify.com/album/0EcAY4yJ4yVIvA0RwVKOFm"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "\u00daltima Noite (Papatracks#11)",
+      "url": "https://open.spotify.com/track/361vXl5D3gNeO9SHQRnpxK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbTYpRASjxaF"

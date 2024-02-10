@@ -1,12 +1,12 @@
 {
   "description": "happy | vibes | feel good | music | mood boost | happy hits | clean pop | positive vibes | dopamine | serotonin | high vibes | happy summer | positive affirmation | upbeat | drive | windows down | good vibes | indie | pop | rock | alternative | feelin' good | healing | rise | smile",
-  "num_followers": 300424,
+  "num_followers": 300407,
   "original_name": "Feel Good \ud83e\udd29 Happy Hits",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "MzU3MCxkY2NhZGU0Y2RmNzExMzEyNGUyYzUxY2M0MDAzODZjZGExZjcxZDRh",
+  "snapshot_id": "MzU3Miw4MjZhODkzOGI0NmFkNWY5ZTcyZjgwMmE5NzkwMmVlMGViZTQ1MmRk",
   "tracks": [
     {
       "added_at": "2023-07-07 15:29:37",
@@ -3823,6 +3823,42 @@
       "duration_ms": 241663,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/1IvmggBcaMBHaJaVaNak69"
+    },
+    {
+      "added_at": "2024-02-09 21:40:39",
+      "album": {
+        "name": "lavender (feat. Pink Sweat$)",
+        "url": "https://open.spotify.com/album/6yVgRdy62kDlrxeV3nBQOv"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "lavender (feat. Pink Sweat$)",
+      "url": "https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7"
+    },
+    {
+      "added_at": "2024-02-09 21:41:06",
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
     }
   ],
   "unique_name": "Feel Good \ud83e\udd29 Happy Hits",

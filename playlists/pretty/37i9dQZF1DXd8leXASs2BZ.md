@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kohjiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,857 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,859 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 9 | [Lake side city](https://open.spotify.com/track/3s3XTwWO1rNfvNBMoqVzMS) | [Lil Bell Dice](https://open.spotify.com/artist/30RS2ps9J6Z9rifPSY7vO1) | [Lake side city](https://open.spotify.com/album/5QPihqwlZNWDJ8qULCAFrZ) | 3:24 |
 | 10 | [Wasurenaide](https://open.spotify.com/track/3belJRGyvPLYgiCSXSpqO8) | [Shootz](https://open.spotify.com/artist/0gSHX4GAlRtZJ1tJhBv0SD), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [Wasurenaide](https://open.spotify.com/album/6hHfnpyuiYY1ZiP48U6HwI) | 4:13 |
 | 11 | [4 season](https://open.spotify.com/track/4MOMvm7jaxomexOj6GsUep) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG), [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ) | [4 season](https://open.spotify.com/album/5yV9fUvWMOgnjlEwyzOZeR) | 4:27 |
-| 12 | [DAIJINAMON](https://open.spotify.com/track/2mECnd4B1UVlq3uFzaMzrD) | [Deep Leaf](https://open.spotify.com/artist/01YQGWRqEsJ0L7QKZO1TkD), [Jeter](https://open.spotify.com/artist/3L9cu3KstfzbqZ0Yz6SW4b), [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP) | [DAIJINAMON](https://open.spotify.com/album/0mJ83mNs5W0Ax7sOyagvP4) | 2:02 |
+| 12 | [DAIJINAMON](https://open.spotify.com/track/15PqacIqJY8r44MuvO3USS) | [Deep Leaf](https://open.spotify.com/artist/01YQGWRqEsJ0L7QKZO1TkD), [Jeter](https://open.spotify.com/artist/3L9cu3KstfzbqZ0Yz6SW4b), [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP) | [DAIJINAMON](https://open.spotify.com/album/4C3H7ytJFKw3NzmgZM6Qmt) | 2:02 |
 | 13 | [New](https://open.spotify.com/track/2GhyoDmyAJrrxAczVaBNYz) | [OSAMI](https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr) | [New](https://open.spotify.com/album/2uCilGcs4sSm99a3QUXNjO) | 2:13 |
 | 14 | [Roar system](https://open.spotify.com/track/69ELkRb5OY5eIOrLqkQQWn) | [L.O.S.T](https://open.spotify.com/artist/1myOg2DWby1xHMKHDKRFPV) | [Youth After The Loss I](https://open.spotify.com/album/5HZQ3QkoyiroMYeWxYXpoy) | 2:39 |
 | 15 | [JUNK](https://open.spotify.com/track/1duIv70E5FCf9JA4vcqXBI) | [eco skinny](https://open.spotify.com/artist/5XAY6FqqxqPclsCmTVaqkb) | [JUNK](https://open.spotify.com/album/3JneRTGSdDpKrQWhID2ZWw) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [YAKINIKU, SUSHI](https://open.spotify.com/track/0HKwHQxyzVL3IWmn9reSgw) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF) | [PLAY PURE 3](https://open.spotify.com/album/0Ae1o6q05ZzP47z7bW2UXZ) | 3:02 |
 | 100 | [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 |
 
-Snapshot ID: `MCxhZTY4Y2NhZjY4YjFlMWM0Yzg5ZTA3MDY3Y2Y2NzJhN2MzNjRmNzk1`
+Snapshot ID: `MCw3NmUxODdiMTZhMmY4MGVlNzRiZjM1NTEyNWJmM2QxN2FlMTRkNzM2`

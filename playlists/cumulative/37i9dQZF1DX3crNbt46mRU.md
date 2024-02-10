@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Mahmood
 
-10,697 songs - 22 day 7 hr 53 min
+10,699 songs - 22 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1645,7 +1645,8 @@
 | [Candela](https://open.spotify.com/track/6iDf1hf6tSPIlLwnLZ5DUO) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Candela](https://open.spotify.com/album/4ReNwrN1yAVgZl7xldnZZN) | 2:27 | 2022-08-25 | 2022-09-02 |
 | [Candela](https://open.spotify.com/track/0WR1IwdoZvOe9eyvIiOsxN) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [TECHOLOGY](https://open.spotify.com/artist/21EyWBa08Y6OXjA6s8GR8s) | [Candela](https://open.spotify.com/album/06Sv0nfkDslR2zt14sArMZ) | 2:08 | 2023-06-29 | 2023-07-07 |
 | [Candle Flame](https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Candle Flame](https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH) | 2:54 | 2023-03-30 | 2023-04-07 |
-| [Candlelights](https://open.spotify.com/track/2iRDP2RZlI3BuHKQ3c7uLu) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Lieb mich oder lass es, Pt\. 2](https://open.spotify.com/album/712VjsZcnIrSgMxi3HpiPb) | 2:15 | 2024-02-08 |  |
+| [Candlelights](https://open.spotify.com/track/2iRDP2RZlI3BuHKQ3c7uLu) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Lieb mich oder lass es, Pt\. 2](https://open.spotify.com/album/712VjsZcnIrSgMxi3HpiPb) | 2:15 | 2024-02-08 | 2024-02-10 |
+| [Candlelights](https://open.spotify.com/track/2q1ZbhSf0WXSwDqe17Jp6e) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Lieb mich oder lass es, Pt.1+2](https://open.spotify.com/album/4kSYSwoXPUFya9c01VMHDn) | 2:15 | 2024-02-08 |  |
 | [Candy](https://open.spotify.com/track/2MeN9wlPv78lxfjLTY36wB) | [KIIRA](https://open.spotify.com/artist/05td2nr4eiGPUYgsrrfNZ1) | [Candy](https://open.spotify.com/album/3MD2ANeF9OzFNjg3SN2qM6) | 3:35 | 2023-06-08 | 2023-06-16 |
 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 | 2022-03-18 | 2022-03-25 |
 | [Candy Crush](https://open.spotify.com/track/7zhRYYYqtKqWEtPUcc4YSF) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Candy Crush](https://open.spotify.com/album/5e2FeKsOQEjGRiHLUOfTEq) | 2:37 | 2023-11-16 | 2023-11-24 |
@@ -10504,6 +10505,7 @@
 | [YAWA](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [YAWA](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 | 2023-06-22 | 2023-06-30 |
 | [YEAH](https://open.spotify.com/track/7jBhSHvL2g9AKATkXEI0dN) | [Jaywakeup](https://open.spotify.com/artist/7IyOCTXClZobcyBygMxbLo) | [NEW LYFE](https://open.spotify.com/album/5wr1Ku3EMpxBO6hxlrm32e) | 2:34 | 2023-01-19 | 2023-01-27 |
 | [YEAH \(feat\. ClockClock\)](https://open.spotify.com/track/2OXvvdHQ9Q4KAqd152MTj2) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tenchi](https://open.spotify.com/artist/2fT7Qc9vG2ULsvZH7l1HqK), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [YEAH \(feat\. ClockClock\)](https://open.spotify.com/album/5CivJsN8TmERWIOMxCGAWs) | 2:38 | 2023-02-09 | 2023-02-17 |
+| [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 | 2024-02-08 |  |
 | [Yeah Hoe](https://open.spotify.com/track/6AH6xjU0eeQBD6v7ERqY7V) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Yeah Hoe](https://open.spotify.com/album/5KZ9tODFrHk8rKKj5sYpCt) | 2:44 | 2022-12-29 | 2023-01-06 |
 | [Years](https://open.spotify.com/track/50FG4fd4Unx6OswxEwHmFX) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Identity Crisis](https://open.spotify.com/album/2wbMJYLxgXALMVJWy7m98T) | 2:56 | 2022-05-05 | 2022-05-13 |
 | [YEH](https://open.spotify.com/track/30WeTbgrLddzKH2BEAEswe) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [YEH](https://open.spotify.com/album/2dQCBUYuCOoEbrrU4HzDbd) | 2:14 | 2024-02-08 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 49968,
+  "2024-02-10": 50109,
   "date_first_scraped": "2023-08-10",
   "description": "that 50s kinda feeling, cover: Laufey",
   "name": "crushed velvet",
@@ -471,6 +471,24 @@
       "duration_ms": 57370,
       "name": "From the Subway Train",
       "url": "https://open.spotify.com/track/0qOCy2LqvdkMora7eZsJhQ"
+    },
+    {
+      "album": {
+        "name": "Peacemaker",
+        "url": "https://open.spotify.com/album/29lt40dbF9rZdpSjM3qq2a"
+      },
+      "artists": [
+        {
+          "name": "Vera Sola",
+          "url": "https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209670,
+      "name": "Get Wise",
+      "url": "https://open.spotify.com/track/3oezGcgrp4Tg8AON47SCAi"
     },
     {
       "album": {
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 145280,
       "name": "The Archer",
       "url": "https://open.spotify.com/track/3H3lRA0oqK92R3ygLRXn67"

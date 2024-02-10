@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 198344,
+  "num_followers": 198392,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDMzZmJjNzRkNTVlYzgxODBhODUzZGM4ZDlmZmE4ZjgxNTkxMmIz",
+  "snapshot_id": "MCwzZWVlNTg5ZjgyZDlmMzI1NWFjNzFlZWE4Y2ZiOTBhZTI1Y2MzMzg1",
   "tracks": [
     {
       "added_at": "2024-02-08 23:00:00",
@@ -899,34 +899,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "i went outside",
-        "url": "https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25"
+        "name": "Nord",
+        "url": "https://open.spotify.com/album/3MOfbBRIIiDiJANV0Ko6GN"
       },
       "artists": [
         {
-          "name": "Arny Margret",
-          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+          "name": "G\u00e5te",
+          "url": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
         }
       ],
-      "duration_ms": 293400,
-      "name": "i went outside",
-      "url": "https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Magic Stone",
-        "url": "https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Magic Stone",
-      "url": "https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt"
+      "duration_ms": 317053,
+      "name": "Sj\u00e5aren",
+      "url": "https://open.spotify.com/track/3zsLCHX1W9eyxCGvdtGnRQ"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -951,18 +935,34 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Nord",
-        "url": "https://open.spotify.com/album/3MOfbBRIIiDiJANV0Ko6GN"
+        "name": "Magic Stone",
+        "url": "https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS"
       },
       "artists": [
         {
-          "name": "G\u00e5te",
-          "url": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
         }
       ],
-      "duration_ms": 317053,
-      "name": "Sj\u00e5aren",
-      "url": "https://open.spotify.com/track/3zsLCHX1W9eyxCGvdtGnRQ"
+      "duration_ms": 213106,
+      "name": "Magic Stone",
+      "url": "https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "i went outside",
+        "url": "https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "i went outside",
+      "url": "https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL"
     },
     {
       "added_at": "2024-02-08 23:00:00",

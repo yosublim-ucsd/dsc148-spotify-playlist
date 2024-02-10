@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,008 songs - 2 day 4 hr 51 min
+1,009 songs - 2 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -671,6 +671,7 @@
 | [Pariseo](https://open.spotify.com/track/4xtZX2sfj6BtWtP69Hs3SV) | [Reggio](https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ), [Bonavita](https://open.spotify.com/artist/4e4QDiHynCIDhrNa6b7aSu) | [Pariseo](https://open.spotify.com/album/5KOp4m9QBrWAAs0PIGdz5I) | 2:45 | 2022-08-12 | 2022-09-10 |
 | [Pass U By \- Kaiya Remix](https://open.spotify.com/track/3naGretUMIoXAGe3SKiHsE) | [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc), [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U), [Kaiya](https://open.spotify.com/artist/3o9Izl3cucB4KySDX6m6W8) | [Pass U By \(Kaiya Remix\)](https://open.spotify.com/album/5JnbnkdsLoFS731Ia17bat) | 2:47 | 2022-06-23 | 2022-11-24 |
 | [Past Lives](https://open.spotify.com/track/3oELxRDbAzyvOodhd5FQzB) | [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Past Lives](https://open.spotify.com/album/4jNIqI2lx1BbXDoBzqjqqI) | 2:33 | 2023-08-28 |  |
+| [Past Lives \- NUEKI & TOLCHONOV Remix](https://open.spotify.com/track/1xcHB1FgIwxlv03oINkFI3) | [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [Past Lives \(NUEKI & TOLCHONOV Remix\)](https://open.spotify.com/album/7ah5I8hpvrDSfh4y95EyRx) | 2:12 | 2024-02-10 |  |
 | [Perfect](https://open.spotify.com/track/4cYwEZHldKTQOvnpMdKn6d) | [FREAKY](https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT), [Stryer](https://open.spotify.com/artist/0bF1Nk4mVQlhDlvXq5P0ac) | [Perfect](https://open.spotify.com/album/37GSUYEcuIuQ7x8hRvGNXr) | 3:31 | 2022-11-03 | 2023-02-22 |
 | [Perfect For A Moment](https://open.spotify.com/track/6dO4rJJj8anImxP6wONHMy) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Perfect For A Moment](https://open.spotify.com/album/2QdCIePihmuj0jWXeHzUwY) | 3:30 | 2023-08-18 | 2023-10-28 |
 | [Perimeter](https://open.spotify.com/track/4bcOaSoyeVbPpiElUuI9Cd) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Perimeter](https://open.spotify.com/album/0PN6lUmXCNRRx5Z55Cnw5X) | 3:30 | 2022-11-17 | 2023-02-22 |

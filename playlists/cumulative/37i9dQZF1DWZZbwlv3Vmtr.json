@@ -8022,7 +8022,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 133468,
       "name": "MELT YOURSELF DOWN",
       "url": "https://open.spotify.com/track/7gZsCJTQQfqBMraiyvazHn"
@@ -16338,6 +16338,24 @@
       "duration_ms": 192493,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5i0QmCyCt4qJudSqoNbu17"
+    },
+    {
+      "album": {
+        "name": "wondering why",
+        "url": "https://open.spotify.com/album/2hay8mrICqXjK0ZOps3bjC"
+      },
+      "artists": [
+        {
+          "name": "Harry G's Beats",
+          "url": "https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "wondering why",
+      "url": "https://open.spotify.com/track/1vbi7y9KK9tfOKNP5pmc2Q"
     },
     {
       "album": {

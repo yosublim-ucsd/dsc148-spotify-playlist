@@ -1,12 +1,12 @@
 {
   "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=7rQMXJ0eSw2EU8Wr5nSsXw\"> Boutross</a> and <a href=\"https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=7rQMXJ0eSw2EU8Wr5nSsXw\"> Jovie Jovv</a> ",
-  "num_followers": 11717,
+  "num_followers": 11732,
   "original_name": "254 Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2U3ZmM2MWE0N2EwNGY5YTQ0ZGNlYjNmYTk1YTFkMDQ1ZjU4ODll",
+  "snapshot_id": "MCxmNDhjOGYxNDk5NjQ0Mzg0MzU2YmRhZTIxMzM1NjExMmVjM2RiMzUw",
   "tracks": [
     {
       "added_at": "2024-02-08 23:59:00",
@@ -271,6 +271,26 @@
       "duration_ms": 160000,
       "name": "Over 18",
       "url": "https://open.spotify.com/track/5j27HED9UdvMLfTXQbbdOi"
+    },
+    {
+      "added_at": "2024-02-09 15:25:29",
+      "album": {
+        "name": "RITHO",
+        "url": "https://open.spotify.com/album/2MnJFS59N80lemAi2QELvF"
+      },
+      "artists": [
+        {
+          "name": "LIL FELLY",
+          "url": "https://open.spotify.com/artist/5V32E4hgOemIeK7Shk7uXR"
+        },
+        {
+          "name": "Scar Mkadinali",
+          "url": "https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7"
+        }
+      ],
+      "duration_ms": 315376,
+      "name": "RITHO",
+      "url": "https://open.spotify.com/track/2M32pG0Wr1eT5RdKoAzykL"
     },
     {
       "added_at": "2024-02-08 23:59:00",
@@ -1099,22 +1119,6 @@
       "duration_ms": 163215,
       "name": "Swerved",
       "url": "https://open.spotify.com/track/0LrGxBqyXmN6PrvB0ZOm0W"
-    },
-    {
-      "added_at": "2024-02-08 23:59:00",
-      "album": {
-        "name": "SEARCHING FOR UTOPIA",
-        "url": "https://open.spotify.com/album/7IbrgLFXo4lzo7UvK4xqZe"
-      },
-      "artists": [
-        {
-          "name": "Jakk Quill",
-          "url": "https://open.spotify.com/artist/6QqOXzlH2dcYNAHeGgZcLm"
-        }
-      ],
-      "duration_ms": 319303,
-      "name": "Quill2thmfwrld",
-      "url": "https://open.spotify.com/track/7snV7SDZmfCjS9Sm099RRG"
     },
     {
       "added_at": "2024-02-08 23:59:00",

@@ -1,12 +1,12 @@
 {
   "description": "Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat. Cover: Anggi Marito",
-  "num_followers": 167998,
+  "num_followers": 168080,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWRhMDM1MTE4NTAxMzM1ZWY1MGNmZDhjNTMzNjEzNjgyNzdhOGJi",
+  "snapshot_id": "MCxjMmY1ZGY3NmU1NGEzMWQyNzAzNzg4NjdjOTFlODY4MzYyMjlkMWM5",
   "tracks": [
     {
       "added_at": "2024-02-09 00:22:35",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-02-09 00:22:35",
       "album": {
+        "name": "Sunday Service",
+        "url": "https://open.spotify.com/album/5ayh7q1xq1jFa3QsmE3M7n"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 166581,
+      "name": "Sunday Service",
+      "url": "https://open.spotify.com/track/1ytVc8fTgA7hAOOR0n4EH7"
+    },
+    {
+      "added_at": "2024-02-09 00:22:35",
+      "album": {
         "name": "Maybe Life Is Good",
         "url": "https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO"
       },
@@ -843,6 +859,34 @@
       "duration_ms": 253378,
       "name": "This Is Me\u2026Now",
       "url": "https://open.spotify.com/track/5HsVnMsIHrC6aUeOs7Eco4"
+    },
+    {
+      "added_at": "2024-02-09 05:29:10",
+      "album": {
+        "name": "Talking / Once Again",
+        "url": "https://open.spotify.com/album/2DoNi5ICclrJgGI2UEWEfG"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "North West",
+          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
+        }
+      ],
+      "duration_ms": 185110,
+      "name": "Talking / Once Again",
+      "url": "https://open.spotify.com/track/6J4rRj2uVfziGMyfrPEPLo"
     },
     {
       "added_at": "2024-02-09 00:22:35",
@@ -1104,7 +1148,7 @@
       "added_at": "2024-02-09 00:22:35",
       "album": {
         "name": "What Happened to the Beach?",
-        "url": "https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5"
+        "url": "https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg"
       },
       "artists": [
         {
@@ -1114,7 +1158,23 @@
       ],
       "duration_ms": 165908,
       "name": "I Write The News",
-      "url": "https://open.spotify.com/track/7IWJj6xpX61QPzc6fNEInh"
+      "url": "https://open.spotify.com/track/24rzn9kTpr0G4keKLkzofw"
+    },
+    {
+      "added_at": "2024-02-09 00:22:35",
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/2pcrfO8TY7ceObFoIx3pbK"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 222263,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/6eOhPYgVzJmH3Oc476NLfw"
     },
     {
       "added_at": "2024-02-09 00:22:35",

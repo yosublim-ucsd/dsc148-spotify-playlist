@@ -4,7 +4,7 @@
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-1,538 songs - 3 day 9 hr 7 min
+1,539 songs - 3 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -712,6 +712,7 @@
 | [Judgement Day](https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Judgement Day](https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF) | 4:28 | 2023-05-04 |  |
 | [Juliet & Romeo](https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Juliet & Romeo](https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh) | 3:24 | 2020-05-27 | 2020-06-01 |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-07-09 | 2023-05-24 |
+| [Jupiter](https://open.spotify.com/track/2YqQuA533pZ411aKXVw2VH) | [SRNDE](https://open.spotify.com/artist/09GI3XFxh5aCMcTDm5sqFB) | [Jupiter](https://open.spotify.com/album/2qaEfvH8nBhRnNUduoCr3A) | 2:53 | 2024-02-09 |  |
 | [Just a dream](https://open.spotify.com/track/3TjTB8LZBHlGEtM0od2Tqv) | [Dirty S](https://open.spotify.com/artist/6VQYGDKshb7Kr8hbSC6mDF) | [Just a dream](https://open.spotify.com/album/6F0kMUx9SbRvsI0SYG1hLn) | 5:34 | 2021-01-11 | 2021-01-29 |
 | [Just Dancing](https://open.spotify.com/track/7DxFj5TOwW83S7soPXpXoq) | [Jordan Sanchez](https://open.spotify.com/artist/2wAecHDKDQuqHNva5jgOsF), [itsCMPLX](https://open.spotify.com/artist/5WVZZx1iodfuKZ6CMPbEMr) | [Just Dancing](https://open.spotify.com/album/171gWV6UfyBXL1aP1ccSjE) | 4:22 | 2020-09-07 | 2020-10-05 |
 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2021-08-18 | 2021-11-29 |
@@ -1152,7 +1153,7 @@
 | [Say Yeah](https://open.spotify.com/track/7diiW6RSbOz0o1P7BWGmut) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Say Yeah](https://open.spotify.com/album/6tdaVrv380eGHJywX3dEOk) | 3:45 | 2022-02-03 | 2022-05-04 |
 | [Scrub The Ground](https://open.spotify.com/track/1AJAQmdCa9D1JhN6vVbaLJ) | [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA), [Tommie Sunshine](https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo), [dj funk](https://open.spotify.com/artist/6M0FCfVRUo5DUuziqLFjJ0) | [Scrub The Ground](https://open.spotify.com/album/2IWIzj8yuoRr2dSCCDReu8) | 2:48 | 2020-05-26 | 2023-05-30 |
 | [Scythe Master](https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx) | 8:00 | 2022-07-19 | 2022-10-05 |
-| [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 | 2020-05-27 |  |
+| [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 | 2020-05-27 | 2024-02-10 |
 | [See\-Line Woman \- Riton Remix](https://open.spotify.com/track/2BnoxYpCeEiDQSUNx1TZpf) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1) | [See\-Line Woman \(Riton Remix\)](https://open.spotify.com/album/5TgdVipR636imv6aQaUnns) | 4:04 | 2021-11-29 | 2022-03-07 |
 | [Selfish \- Alan Walker Remix](https://open.spotify.com/track/5CkILcn5YhXYJ1XDuGwrGN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Selfish \(Alan Walker Remix\)](https://open.spotify.com/album/52S0DGimdMtS40jtnjRSGn) | 3:33 | 2020-06-08 | 2022-12-21 |
 | [Selfish Love \(with Selena Gomez\) \- Tiësto Remix](https://open.spotify.com/track/2IDBh3Nuej2wFUk2JmWEmQ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Selfish Love \(with Selena Gomez\) \(Tiësto Remix\)](https://open.spotify.com/album/6PFuomeQgR2sRWje5dxPKa) | 2:33 | 2021-04-21 | 2021-04-23 |

@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-179 songs - 10 hr 30 min
+180 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [When You Say Nothing At All](https://open.spotify.com/track/6HveTIMynTMzTc5L0TcS20) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Now That I've Found You: A Collection](https://open.spotify.com/album/32y7QMTFfQC3ZZB3rb2RFs) | 4:20 | 2021-09-17 |  |
 | [Where Your Road Leads](https://open.spotify.com/track/4Y8EyXnq5CLR8A7EHXxx7L) | [Garth Brooks](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Where Your Road Leads](https://open.spotify.com/album/6l9KppfaP2OOV7SFDwmKNz) | 3:26 | 2021-09-17 |  |
 | [Worship You](https://open.spotify.com/track/0nUGOvjXk6Vc9ecQanZXUQ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Worship You](https://open.spotify.com/album/2PMjEMiY2OBlbaLgGFSfLt) | 3:25 | 2021-09-17 |  |
+| [Worth the Wait](https://open.spotify.com/track/3nB1jprfn5Yo50qcWHvyWs) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Worth the Wait](https://open.spotify.com/album/0ibFF1l5VTiQxugbcjktAC) | 3:09 | 2024-02-09 |  |
 | [Would Have Loved Her](https://open.spotify.com/track/1LNMNr3woXIQ6lobNH7sgl) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Would Have Loved Her](https://open.spotify.com/album/70zK7EBkxmXrVg8bFIjBTl) | 3:16 | 2021-09-17 | 2022-07-29 |
 | [Would Have Loved Her](https://open.spotify.com/track/7cwTQ1psgGDuX1eBqrKonZ) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Would Have Loved Her](https://open.spotify.com/album/7aquYUP3xdft8uUGPpcMr0) | 3:16 | 2022-05-23 |  |
 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 | 2021-09-17 |  |

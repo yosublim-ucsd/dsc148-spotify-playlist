@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Craig Morgan
 
-260 songs - 15 hr 19 min
+261 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Family Bible](https://open.spotify.com/track/1Xxh3hRbNdncv3KKQPopeW) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Family Bible](https://open.spotify.com/album/1RIyl2g04KYNod8Vcrsylc) | 2:48 | 2021-10-15 | 2022-07-29 |
 | [Family Bible](https://open.spotify.com/track/4jIbcHdc0U1hjZohhv8A3z) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Willie Nelson Family](https://open.spotify.com/album/2gSxAG6hqMBsvyBZ0ZnJwt) | 2:48 | 2022-07-22 | 2023-02-25 |
 | [First Time For Everything](https://open.spotify.com/track/1QEVprItEJhN82f6fW97HO) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [First Time For Everything](https://open.spotify.com/album/5yads6bxD4yYPPbTX5561M) | 4:03 | 2023-09-29 |  |
+| [Forever Ain't Long Enough](https://open.spotify.com/track/4Hd2S9qeWPm3aXkYFtkRFx) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa), [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Forever Ain't Long Enough](https://open.spotify.com/album/6AcZAdoybwACAqXMu29vWV) | 3:28 | 2024-02-09 |  |
 | [Forever Young](https://open.spotify.com/track/73XStpFTSHaY0LCSfkXbQu) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Forever Young](https://open.spotify.com/album/4xZ6GN7EvZeAPcne44y5wb) | 4:16 | 2022-04-29 |  |
 | [Friends Again](https://open.spotify.com/track/0jyLP8z6NPLYyM9NDk4Bn3) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Game Changer](https://open.spotify.com/album/2Q06sKwOeZbDrifNmByuk9) | 2:35 | 2023-11-17 |  |
 | [Friends Again](https://open.spotify.com/track/2NwnqTNMYXw4Ldzb7zrmEJ) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Friends Again](https://open.spotify.com/album/4AjeNO2YStFRdGSyNKg95M) | 2:35 | 2022-08-05 | 2024-01-05 |

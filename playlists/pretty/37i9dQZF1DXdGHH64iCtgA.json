@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 74120,
+  "num_followers": 74144,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGQ4MGQzZjUzOGY2ZGNlNmE3YjJiOTkwNTY0NjNkNDU5MDRkYmU2",
+  "snapshot_id": "MCxkOGVjOWI0M2M0NGMwOGFjYzMwNzc3NWUxOTI5YTUyOTQwYTM3Yjhi",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
+        "name": "DANCEHALL",
+        "url": "https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "PLACES",
+      "url": "https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
         "name": "I Go (Remixes)",
         "url": "https://open.spotify.com/album/5ROthns2NsZzi0cx6o0vcs"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 410880,
       "name": "I Go - Soulwax Remix",
       "url": "https://open.spotify.com/track/3PQyUWqndc51vb1JYrqxuC"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "DANCEHALL",
-        "url": "https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "PLACES",
-      "url": "https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
+      },
+      "artists": [
+        {
+          "name": "Class Fools",
+          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
+        }
+      ],
+      "duration_ms": 168188,
+      "name": "Some Nights",
+      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 156480,
       "name": "Strut",
       "url": "https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
-      },
-      "artists": [
-        {
-          "name": "Class Fools",
-          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
-        }
-      ],
-      "duration_ms": 168188,
-      "name": "Some Nights",
-      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "First Album (2009 Reissue)",
-        "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
-      },
-      "artists": [
-        {
-          "name": "Miss Kittin",
-          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
-        },
-        {
-          "name": "The Hacker",
-          "url": "https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp"
-        }
-      ],
-      "duration_ms": 319493,
-      "name": "1982",
-      "url": "https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
       },
@@ -939,18 +919,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Adventures Beyond The Ultraworld",
-        "url": "https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL"
+        "name": "First Album (2009 Reissue)",
+        "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
       },
       "artists": [
         {
-          "name": "The Orb",
-          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+          "name": "Miss Kittin",
+          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
+        },
+        {
+          "name": "The Hacker",
+          "url": "https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp"
         }
       ],
-      "duration_ms": 267666,
-      "name": "Little Fluffy Clouds",
-      "url": "https://open.spotify.com/track/7H8OEVxkCgIvAvWp1MZBxw"
+      "duration_ms": 319493,
+      "name": "1982",
+      "url": "https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -971,6 +955,22 @@
       "duration_ms": 429000,
       "name": "Parola - Rework",
       "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Adventures Beyond The Ultraworld",
+        "url": "https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Little Fluffy Clouds",
+      "url": "https://open.spotify.com/track/7H8OEVxkCgIvAvWp1MZBxw"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Pick Up (Even Shorter Version)",
-        "url": "https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Pick Up - Even Shorter Version",
-      "url": "https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Iron 2021",
         "url": "https://open.spotify.com/album/30PoY1KGLDKYIZzShg2zCt"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 523453,
       "name": "Iron 2021",
       "url": "https://open.spotify.com/track/6gO9T45Ljz1rQ4GR8KZDA4"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Pick Up (Even Shorter Version)",
+        "url": "https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Pick Up - Even Shorter Version",
+      "url": "https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Galazy EP",
-        "url": "https://open.spotify.com/album/1PULF355Ilwz6D00dFF1cn"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 412197,
-      "name": "Electrian",
-      "url": "https://open.spotify.com/track/6pErJ8bs3zL996xN0j93RF"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Burner",
         "url": "https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 308858,
       "name": "Burner",
       "url": "https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Galazy EP",
+        "url": "https://open.spotify.com/album/1PULF355Ilwz6D00dFF1cn"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 412197,
+      "name": "Electrian",
+      "url": "https://open.spotify.com/track/6pErJ8bs3zL996xN0j93RF"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Cirrus",
-        "url": "https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 352246,
-      "name": "Cirrus",
-      "url": "https://open.spotify.com/track/2hNTfrAILBLesbPootV83e"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "U Wanna?",
         "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 250009,
       "name": "U Wanna?",
       "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Cirrus",
+        "url": "https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 352246,
+      "name": "Cirrus",
+      "url": "https://open.spotify.com/track/2hNTfrAILBLesbPootV83e"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Helix",
-        "url": "https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        },
-        {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
-        }
-      ],
-      "duration_ms": 276960,
-      "name": "Helix - Gesaffelstein Vision Remix",
-      "url": "https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Young Lies",
         "url": "https://open.spotify.com/album/2a8wGWGAR5NXoz3oeeG56Z"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 230839,
       "name": "Young Lies",
       "url": "https://open.spotify.com/track/20Q1NJcsDQthZNs1g3T6e7"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Helix",
+        "url": "https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        }
+      ],
+      "duration_ms": 276960,
+      "name": "Helix - Gesaffelstein Vision Remix",
+      "url": "https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe"
     },
     {
       "added_at": "2024-01-12 05:01:00",

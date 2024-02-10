@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,944 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,975 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -423,7 +423,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 413 | [Lokognolo](https://open.spotify.com/track/1kGgfMfE884VVKc1q4sa4t) | [Bebe Manga](https://open.spotify.com/artist/1memK9vKb8XlJ57toAUkMV) | [Ami / Oyomiya](https://open.spotify.com/album/5PwKWho58El5sWnSU4T1vH) | 4:23 |
 | 414 | [Adimiz Miskindir Bizim](https://open.spotify.com/track/4bxSoFQl2ExbgPLSj24UDH) | [Mazhar Ve Fuat](https://open.spotify.com/artist/6vcAsqIwBdhb4BRZEumnFv) | [Christophe Lemaire And Now\-Again Present: Where Are You From?](https://open.spotify.com/album/0FAugj2VEkZGkjhalQgu9Q) | 5:25 |
 | 415 | [Something Special](https://open.spotify.com/track/3wabWJ0P6JMiqS1DTxZMVw) | [Resonators](https://open.spotify.com/artist/4j4hyyYOjmJk9Plz7ZaWv9) | [Something Special / Why I](https://open.spotify.com/album/0leSqR7ImVhyUAsl4PLgB8) | 7:20 |
-| 416 | [Yemamaya](https://open.spotify.com/track/1EbJ9DlPVZ6146nt7DhuRw) | [LUIZGA](https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f), [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r) | [Yemamaya](https://open.spotify.com/album/1XMqzOsgdbyCbsSsfNTUnX) | 4:02 |
+| 416 | [Yemamaya](https://open.spotify.com/track/33OGgT7SiB2XitvFgG6pEv) | [LUIZGA](https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f), [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r) | [Yemamaya](https://open.spotify.com/album/2wWQxfNlQ081Ojd8l6kvW9) | 4:00 |
 | 417 | [Ceddo End Title](https://open.spotify.com/track/5d00kR2kWPxc1rnKsGh32S) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [World Psychedelic Classics 3: Love's a Real Thing](https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6) | 5:09 |
 | 418 | [T.I.B.W.F.](https://open.spotify.com/track/7wwLfGqZ5VaTfNGRihJiqu) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd) | 2:40 |
 | 419 | [Benzaiten \(Reprise\)](https://open.spotify.com/track/4bixpfr8FZ4NYJ55EnZylH) | [Osamu Kitajima](https://open.spotify.com/artist/1nj6LuWJalUuYfBs0QO1sr) | [Benzaiten](https://open.spotify.com/album/1hpjbnNqkpNIj9nWV4Ejzc) | 11:26 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw2OWM0ZGY5MGYzMWEwNDFhZmQzZDAzZDVjZjFlNDIwMTcwY2Q3NzQz`
+Snapshot ID: `MCw3OGJlM2JlZTU0MjUzNjVlMzI1ZDg4YzFmNTZiM2Q3MzU1YTU4MzU1`

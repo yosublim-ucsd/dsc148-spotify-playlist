@@ -4,7 +4,7 @@
 
 > Uplifting classical melodies to help you rise and shine.
 
-81 songs - 5 hr 16 min
+82 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Dawn \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/2k2MprlqkmDMKKOOWGREzW) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Pride and Prejudice \- OST](https://open.spotify.com/album/5pV86WRRdbyIdK3YkS7rOI) | 2:38 | 2022-02-04 | 2023-04-06 |
 | [Deux Arabesques, L\. 66, CD 74: I\. Première Arabesque](https://open.spotify.com/track/0CKertYAUevycqhVjGuewD) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Efflam Bavouzet](https://open.spotify.com/artist/4BcOHdtzeyl8hX3zUId6hZ) | [Debussy: Complete Works for Piano, Vol\. 3](https://open.spotify.com/album/01ofr7grBeNmvO5Gh61j4j) | 4:04 | 2022-05-27 |  |
 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 | 2022-02-04 |  |
+| [Estrellita \(Arr\. Abril & Barrueco for Guitar\)](https://open.spotify.com/track/01yRkgF7l1pdFSCehiI7o9) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM) | [Ponce: Estrellita \(Arr\. Abril & Barrueco for Guitar\)](https://open.spotify.com/album/0ztyoeKvYBlkX64d5W8lKx) | 2:56 | 2024-02-09 |  |
 | [Four Seasons Variation \(Arr\. for Piano from Violin Concerto, RV 297, "Winter": II\. Largo by Svetoslav Karparov\)](https://open.spotify.com/track/7jezOL1bXEUmQtbCKFrmof) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Family](https://open.spotify.com/album/1Jnd4ZqS9ev1hT6Fj0JRlP) | 2:01 | 2022-02-04 |  |
 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 3:04 | 2022-02-04 |  |
 | [Goldberg Variations, BWV 988: Var\. 21](https://open.spotify.com/track/7izqT26X2qmMbqiNAQZruO) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [J.S\. Bach: Goldberg Variations, BWV 988: Var\. 21](https://open.spotify.com/album/3jKFKndTaIy2veF3S9Uwld) | 3:15 | 2023-09-22 |  |

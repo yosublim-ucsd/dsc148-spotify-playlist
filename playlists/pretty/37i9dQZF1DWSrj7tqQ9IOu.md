@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Emma Hoet
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,347 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,355 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Again & Again](https://open.spotify.com/track/0RCKbNrpRjfqCRtOmxXJiO) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Again & Again](https://open.spotify.com/album/7J4GDSmpZkGPvXoQXPdjz1) | 2:36 |
 | 50 | [Soleil perdu](https://open.spotify.com/track/1BBnT7G0ycLfih2JqtnX8F) | [Bleu Berline](https://open.spotify.com/artist/01PV2K8vLywtUmZLQBx5jC) | [Soleil perdu](https://open.spotify.com/album/2iyOnExTZ30jv8hk9UOoAo) | 2:53 |
 
-Snapshot ID: `MCxkYjUxYmY1YzljMzM3MGM3NjRkOGZiY2UwZjdmN2U1MDNhOGE3NjY2`
+Snapshot ID: `MCwxMjY5ZDI0NDZhNzhmYjFiOWIwZjNhMmNmYWQyODQ1ZTcxMGY1N2Ni`

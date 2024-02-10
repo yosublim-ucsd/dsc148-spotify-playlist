@@ -1,7 +1,7 @@
 {
-  "2024-02-09": 26744,
+  "2024-02-10": 26775,
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Leslie Medina",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Charlotte Cardin",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -21,7 +21,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 187928,
       "name": "100 X",
       "url": "https://open.spotify.com/track/3OsfDyci8C9BM6ieOwq90J"
@@ -115,10 +115,36 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 170917,
       "name": "Albert",
       "url": "https://open.spotify.com/track/2cFoPkVgux9RqiqLV23yu2"
+    },
+    {
+      "album": {
+        "name": "All\u00f4 Maman",
+        "url": "https://open.spotify.com/album/6kVmOGyzXmxtydPABFdDgO"
+      },
+      "artists": [
+        {
+          "name": "Louisette & Amaury",
+          "url": "https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y"
+        },
+        {
+          "name": "Louisette",
+          "url": "https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT"
+        },
+        {
+          "name": "Amaury",
+          "url": "https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "All\u00f4 Maman",
+      "url": "https://open.spotify.com/track/7tNd1NnEBszKvvq2u0o53f"
     },
     {
       "album": {
@@ -189,7 +215,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 181447,
       "name": "Aseptis\u00e9",
       "url": "https://open.spotify.com/track/2W5IVgVXNf3IcqRGWv5lr0"
@@ -754,6 +780,24 @@
     },
     {
       "album": {
+        "name": "Essence Ivresse",
+        "url": "https://open.spotify.com/album/0tPxztqibO6KQRaNnN8DNK"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/4kitxzTDsGXkCybo2BIUnW"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191293,
+      "name": "Essence Ivresse",
+      "url": "https://open.spotify.com/track/6m5bb0HGuIJMAvnDnh7EGm"
+    },
+    {
+      "album": {
         "name": "La vitesse",
         "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
       },
@@ -819,7 +863,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 207586,
       "name": "Film Noir",
       "url": "https://open.spotify.com/track/1DIQCidDAFLBkOz5w7Iwdo"
@@ -957,6 +1001,24 @@
       "duration_ms": 176087,
       "name": "Idiot",
       "url": "https://open.spotify.com/track/6JOlXpSpvjk6wi2pFJhhau"
+    },
+    {
+      "album": {
+        "name": "Ilavu",
+        "url": "https://open.spotify.com/album/5yeN5bot9aY9o3PFamGNrv"
+      },
+      "artists": [
+        {
+          "name": "Amou\u00eb",
+          "url": "https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178640,
+      "name": "Ilavu",
+      "url": "https://open.spotify.com/track/6nKlrxZZsN20urXWvQOqHf"
     },
     {
       "album": {
@@ -1401,7 +1463,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 152932,
       "name": "Meilleur",
       "url": "https://open.spotify.com/track/1uWAA7bT9eqw0Na9iExWSK"
@@ -1426,6 +1488,24 @@
     },
     {
       "album": {
+        "name": "Mes inconnus",
+        "url": "https://open.spotify.com/album/5qko1zYziTbwfo2VfNp6lU"
+      },
+      "artists": [
+        {
+          "name": "Bonneville",
+          "url": "https://open.spotify.com/artist/6Kni14rJV1e4vwD2D6rM6V"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176973,
+      "name": "Mes inconnus",
+      "url": "https://open.spotify.com/track/0yiF9SR69R8ceBDjIet6NM"
+    },
+    {
+      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/6pVxwt4I2528nKeP5MHq0I"
       },
@@ -1445,6 +1525,24 @@
       "duration_ms": 187251,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/0eNAdxp91MiBmI7sHPsJJG"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/3jAsb2wtV7QcJEvoeClT1y"
+      },
+      "artists": [
+        {
+          "name": "Charlie Faron",
+          "url": "https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206213,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/5CJvskgeMXDKnVvf3PEtM9"
     },
     {
       "album": {
@@ -2030,6 +2128,24 @@
     },
     {
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/3XvOiZG33vA8jpKavJlYK8"
+      },
+      "artists": [
+        {
+          "name": "Solal Roubine",
+          "url": "https://open.spotify.com/artist/6QkOiXleQySLXeqp36LxHQ"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188993,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3RPyV4RQ1Z0SJ4YTLcZzOY"
+    },
+    {
+      "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/0H0JL5VvXBnu5Kg7j8jEnr"
       },
@@ -2197,7 +2313,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 175739,
       "name": "Toi et moi",
       "url": "https://open.spotify.com/track/3FaInds8Srk4PVpqCSuH9p"

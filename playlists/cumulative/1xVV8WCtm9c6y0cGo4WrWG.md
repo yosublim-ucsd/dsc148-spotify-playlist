@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Pulse](https://open.spotify.com/playlist/1xVV8WCtm9c6y0cGo4WrWG)
 
-> New music from your favourite hip\-hop artists! We keep our finger on the pulse so you don’t have to\. Featuring Drake, Nicki Minaj, Kid Cudi and more! Sign up <a href="https://forms.umusic\-online.com/forms/\-MymKGNlc3qqAKkFa\_Hi">here</a> for exclusives, merch &amp; more
+> New music from your favourite hip\-hop artists! We keep our finger on the pulse so you don’t have to\. Featuring Drake, Ice Spice, Nicki Minaj and more! Sign up <a href="https://forms.umusic\-online.com/forms/\-MymKGNlc3qqAKkFa\_Hi">here</a> for exclusives, merch &amp; more
 
 133 songs - 6 hr 51 min
 

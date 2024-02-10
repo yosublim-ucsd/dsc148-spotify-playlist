@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock bands/artists in Japan right now!  Cover: the telephones",
-  "num_followers": 277889,
+  "num_followers": 277957,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODNjN2NiZTRiZjYxYzYxNWI0ZWRjOTliMTIzOGNmZDc5YzhmNjY2",
+  "snapshot_id": "MCwxMDM5MTM5YjYzNmI5OTIxZWFhNmY2YjU5ZjUzNmU5NzEzZmE0YzYy",
   "tracks": [
     {
       "added_at": "2024-02-06 21:53:07",
@@ -1139,18 +1139,22 @@
     {
       "added_at": "2024-02-06 21:53:07",
       "album": {
-        "name": "\u9762\u5f71",
-        "url": "https://open.spotify.com/album/0MpOLoFHkRqxTtPyjfCtmn"
+        "name": "\u5927\u56e3\u5186",
+        "url": "https://open.spotify.com/album/0fjb2tnhAwn5sdN6KSXZbM"
       },
       "artists": [
         {
-          "name": "SID",
-          "url": "https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "ZORN",
+          "url": "https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C"
         }
       ],
-      "duration_ms": 256665,
-      "name": "\u9762\u5f71",
-      "url": "https://open.spotify.com/track/5m7ZuRemZ0JDzVHpld0aXt"
+      "duration_ms": 325851,
+      "name": "\u5927\u56e3\u5186",
+      "url": "https://open.spotify.com/track/5V7rGQWLQMvht6Gxk7DJLb"
     },
     {
       "added_at": "2024-02-06 21:53:07",
@@ -1171,22 +1175,18 @@
     {
       "added_at": "2024-02-06 21:53:07",
       "album": {
-        "name": "\u5927\u56e3\u5186",
-        "url": "https://open.spotify.com/album/0fjb2tnhAwn5sdN6KSXZbM"
+        "name": "\u9762\u5f71",
+        "url": "https://open.spotify.com/album/0MpOLoFHkRqxTtPyjfCtmn"
       },
       "artists": [
         {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        },
-        {
-          "name": "ZORN",
-          "url": "https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C"
+          "name": "SID",
+          "url": "https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE"
         }
       ],
-      "duration_ms": 325851,
-      "name": "\u5927\u56e3\u5186",
-      "url": "https://open.spotify.com/track/5V7rGQWLQMvht6Gxk7DJLb"
+      "duration_ms": 256665,
+      "name": "\u9762\u5f71",
+      "url": "https://open.spotify.com/track/5m7ZuRemZ0JDzVHpld0aXt"
     },
     {
       "added_at": "2024-02-06 21:53:07",
@@ -1275,8 +1275,8 @@
     {
       "added_at": "2024-02-06 21:53:07",
       "album": {
-        "name": "miss you",
-        "url": "https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts"
+        "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
+        "url": "https://open.spotify.com/album/0klgJfPMllexvhss9c816Z"
       },
       "artists": [
         {
@@ -1284,9 +1284,9 @@
           "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
         }
       ],
-      "duration_ms": 272709,
-      "name": "I MISS YOU",
-      "url": "https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1"
+      "duration_ms": 238543,
+      "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
+      "url": "https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl"
     },
     {
       "added_at": "2024-02-06 21:53:07",

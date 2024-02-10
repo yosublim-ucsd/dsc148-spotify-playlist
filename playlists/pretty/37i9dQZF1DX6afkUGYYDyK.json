@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 18934,
+  "num_followers": 18936,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzJlOTU4MWNmNWZjNDRkYjA3NWYxNTUxYTFhYjQyZGFhOGY5ZGM1",
+  "snapshot_id": "MCxiNDM5YjU0MzM4OTYyYzA2ZjZmNzY2NzVhNWQ2Y2Y1YWZhZTg4Yjg5",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Be Thankful",
-      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Satisfied",
         "url": "https://open.spotify.com/album/5ZdSBocJrPHJxtTDGaM8ax"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 197280,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Be Thankful",
+      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Woman; Thou Art Loosed!",
-        "url": "https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL"
-      },
-      "artists": [
-        {
-          "name": "T.D. Jakes",
-          "url": "https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "Give Thanks - Medley",
-      "url": "https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "The Bloody Win (Live)",
         "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 392586,
       "name": "Give Thanks - Live",
       "url": "https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Woman; Thou Art Loosed!",
+        "url": "https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL"
+      },
+      "artists": [
+        {
+          "name": "T.D. Jakes",
+          "url": "https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Give Thanks - Medley",
+      "url": "https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Give Thanks",
-        "url": "https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 271211,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/0GP883AbjnoO3iTvvjzVO5"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Thank You (Famine Or Feast)",
         "url": "https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 203986,
       "name": "Thank You (Famine Or Feast)",
       "url": "https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Give Thanks",
+        "url": "https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 271211,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/0GP883AbjnoO3iTvvjzVO5"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Amazing Love",
-        "url": "https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Mass Choir",
-          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
-        }
-      ],
-      "duration_ms": 297866,
-      "name": "Lord I Thank You",
-      "url": "https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Talk to God",
         "url": "https://open.spotify.com/album/6I6rwc4chgp143l6TF5Jaf"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 129882,
       "name": "Joyful Blessing",
       "url": "https://open.spotify.com/track/01yctBdQgHzDEXGrjV4CYn"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Amazing Love",
+        "url": "https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Mass Choir",
+          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+        }
+      ],
+      "duration_ms": 297866,
+      "name": "Lord I Thank You",
+      "url": "https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f"
     },
     {
       "added_at": "2022-11-23 15:01:23",

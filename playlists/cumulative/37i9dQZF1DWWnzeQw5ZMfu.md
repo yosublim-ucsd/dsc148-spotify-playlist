@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Taylor Swift
 
-233 songs - 18 hr 18 min
+234 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Little Respect \(Live in Nashville\)](https://open.spotify.com/track/4a2dbJunlLGd87U7bNrwHh) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [On the Road to Nashville \(Live\)](https://open.spotify.com/album/7FKtqGJK8DhnAOUqHSfPqU) | 3:38 | 2023-11-03 |  |
 | [A Little Respect \- Live in Nashville](https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [On the Road to Nashville \(Live\)](https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk) | 3:38 | 2022-04-14 | 2023-11-04 |
 | [Against All Odds \(Take a Look at Me Now\) \- Live from the Serious Tour 1990; 2019 Remaster](https://open.spotify.com/track/61N8sBOfE9iM0uRhInFnKN) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Serious Hits...Live! \(2019 Remaster\)](https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV) | 3:29 | 2022-04-14 | 2023-08-19 |
+| [All My Shit Is In My Car \- Live with Band](https://open.spotify.com/track/3RDwc3dmpXPwdOFSiVW7od) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area \(Live Sessions\)](https://open.spotify.com/album/4RTgnKqmdtb25iXJd35TBL) | 3:01 | 2024-02-09 |  |
 | [All Night Long \(All Night\) \- Live](https://open.spotify.com/track/26DAOgxkcKLSKdoHvHoAcn) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Hello From Las Vegas \(Deluxe\)](https://open.spotify.com/album/7FIU253gt9jvbTeLfKQbPC) | 6:16 | 2022-04-14 | 2022-07-29 |
 | [All of Me \- Live](https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [All of Me \(Live\)](https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2) | 4:59 | 2022-04-14 |  |
 | [Alone \- Live](https://open.spotify.com/track/3U8x5bb3UcDoYOBj9ksvEN) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Fanatic Live from Caesars Colosseum](https://open.spotify.com/album/4N4W7ZlX5DrFMMeQAPZUGC) | 4:22 | 2023-08-18 | 2023-11-21 |
@@ -210,7 +211,7 @@
 | [Treat You Better \- Live](https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Live At Madison Square Garden](https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L) | 4:16 | 2022-04-14 |  |
 | [True \- Live from the N.E.C.](https://open.spotify.com/track/0B8dJbFyc2SZgiolBwNQsM) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Live At The NEC](https://open.spotify.com/album/6wWteACsElSVowr1JzAMGf) | 5:58 | 2022-04-14 | 2022-07-29 |
 | [Up Where We Belong \- Live](https://open.spotify.com/track/0FpkKD9MzzOmYPUB15S4lz) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Fire It Up \- Live](https://open.spotify.com/album/5zAk411l61QmbdiyAbqCEK) | 6:03 | 2022-04-14 | 2022-07-28 |
-| [Viva Forever \- Live In Manchester, UK / 1998](https://open.spotify.com/track/22p96UmEjgBGkoxQb505jS) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 5:57 | 2023-08-18 |  |
+| [Viva Forever \- Live In Manchester, UK / 1998](https://open.spotify.com/track/22p96UmEjgBGkoxQb505jS) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 5:57 | 2023-08-18 | 2024-02-10 |
 | [Viva La Vida \- Live](https://open.spotify.com/track/5ZV67iTfNpW3ueMCELLiSX) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live 2012](https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m) | 4:58 | 2022-04-14 |  |
 | [Waiting On the World to Change \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 3:50 | 2022-04-14 |  |
 | [Waking Up In Vegas \- Live At MTV Unplugged, 2009](https://open.spotify.com/track/532jcgk0ZQgRze05omDsqo) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Unplugged \(Live At MTV Unplugged, New York, NY/2009\)](https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG) | 3:31 | 2022-04-14 |  |

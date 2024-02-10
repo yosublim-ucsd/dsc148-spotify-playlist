@@ -2,7 +2,7 @@
 
 ### [Shoegaze Now](https://open.spotify.com/playlist/37i9dQZF1DWSluyUi4YGjq)
 
-> Gazing at pedals, soaring celestially high\. Cover: Wisp
+> Gazing at pedals, soaring celestially high\. Cover: Glixen
 
 543 songs - 1 day 11 hr 8 min
 

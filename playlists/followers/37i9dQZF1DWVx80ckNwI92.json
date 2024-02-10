@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 6196,
+  "2024-02-10": 6201,
   "date_first_scraped": "2023-04-05",
   "description": "The future of African Indie and Alternative. Cover: Digital Sangoma",
   "name": "ALTER-native",
@@ -1583,6 +1583,24 @@
       "duration_ms": 220740,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6BOqdJL8QaAEZHY2EruTyb"
+    },
+    {
+      "album": {
+        "name": "PAST",
+        "url": "https://open.spotify.com/album/17mhziFzMsiur9WMF8PI00"
+      },
+      "artists": [
+        {
+          "name": "Marvin Brooks",
+          "url": "https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176628,
+      "name": "PAST",
+      "url": "https://open.spotify.com/track/34qOsOXR6mn4AMuS4COfc4"
     },
     {
       "album": {

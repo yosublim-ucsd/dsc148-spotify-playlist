@@ -1,29 +1,13 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 960130,
+  "num_followers": 961583,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmI2YWY4NjdmNWQ3ZDZjOGYyNmZlMDk5OGQ1ZTgxZTA1YTIxMGE2",
+  "snapshot_id": "MCxkNDM3ZGQwM2M2YTJiYzUwZmI2ZTA0ZWZhZDI1NDVlZTIwYTJlZTk2",
   "tracks": [
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
-        "name": "XIII SORROWS",
-        "url": "https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 128738,
-      "name": "HYPNOTIC DATA",
-      "url": "https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc"
-    },
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
@@ -107,6 +91,22 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
+        "name": "Rotten",
+        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 139440,
+      "name": "HDMI",
+      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
         "name": "POPTHATRUNK",
         "url": "https://open.spotify.com/album/2eFWG2ZnDaiiesSNssfaVc"
       },
@@ -123,38 +123,6 @@
       "duration_ms": 133333,
       "name": "POPTHATRUNK",
       "url": "https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
-        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
-        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 180774,
-      "name": "Not Even Ghosts Are This Empty",
-      "url": "https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
-        "name": "Rotten",
-        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 139440,
-      "name": "HDMI",
-      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -211,6 +179,22 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
+        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
+        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 180774,
+      "name": "Not Even Ghosts Are This Empty",
+      "url": "https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
         "name": "masquerade",
         "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 144535,
       "name": "masquerade",
       "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "IFeelLikeDirt",
+        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 75428,
+      "name": "AirplaneMode",
+      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -291,22 +291,6 @@
       "duration_ms": 150674,
       "name": "Step Back!",
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
-        "name": "IFeelLikeDirt",
-        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 75428,
-      "name": "AirplaneMode",
-      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -447,22 +431,18 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "Shakira!",
-        "url": "https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM"
+        "name": "By the Sword",
+        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
       },
       "artists": [
         {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "EGOVERT",
-          "url": "https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp"
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
         }
       ],
-      "duration_ms": 149577,
-      "name": "Shakira!",
-      "url": "https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf"
+      "duration_ms": 125812,
+      "name": "By the Sword",
+      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -487,18 +467,22 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "By the Sword",
-        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
+        "name": "Shakira!",
+        "url": "https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM"
       },
       "artists": [
         {
-          "name": "iamjakehill",
-          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "EGOVERT",
+          "url": "https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp"
         }
       ],
-      "duration_ms": 125812,
-      "name": "By the Sword",
-      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
+      "duration_ms": 149577,
+      "name": "Shakira!",
+      "url": "https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -567,22 +551,22 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "Bunny Girl",
-        "url": "https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl"
+        "name": "E-GIRLS ARE RUINING MY LIFE!",
+        "url": "https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT"
       },
       "artists": [
         {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
         },
         {
-          "name": "Ciscaux",
-          "url": "https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW"
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
         }
       ],
-      "duration_ms": 166896,
-      "name": "Bunny Girl",
-      "url": "https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF"
+      "duration_ms": 105176,
+      "name": "E-GIRLS ARE RUINING MY LIFE!",
+      "url": "https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -599,6 +583,26 @@
       "duration_ms": 105534,
       "name": "She Bad",
       "url": "https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp"
+    },
+    {
+      "added_at": "2024-02-09 15:55:25",
+      "album": {
+        "name": "fury",
+        "url": "https://open.spotify.com/album/56eTwC3atspG4sp30KHvYh"
+      },
+      "artists": [
+        {
+          "name": "STIM",
+          "url": "https://open.spotify.com/artist/4uy6qQw6mpNpDm1fx6nVZe"
+        },
+        {
+          "name": "RJ Pasin",
+          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "fury",
+      "url": "https://open.spotify.com/track/5rwrc4Vid0Yb5sVW6rguJ7"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -635,22 +639,22 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "E-GIRLS ARE RUINING MY LIFE!",
-        "url": "https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT"
+        "name": "Bunny Girl",
+        "url": "https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl"
       },
       "artists": [
         {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
         },
         {
-          "name": "Savage Ga$p",
-          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+          "name": "Ciscaux",
+          "url": "https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW"
         }
       ],
-      "duration_ms": 105176,
-      "name": "E-GIRLS ARE RUINING MY LIFE!",
-      "url": "https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve"
+      "duration_ms": 166896,
+      "name": "Bunny Girl",
+      "url": "https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -695,22 +699,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "XO EViL LiF3 (.DEMON.)",
-        "url": "https://open.spotify.com/album/6bGikVVE4O3ZEHmmbhCkMm"
-      },
-      "artists": [
-        {
-          "name": "steve breaux",
-          "url": "https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g"
-        }
-      ],
-      "duration_ms": 123591,
-      "name": "XO EViL LiF3 (.DEMON.)",
-      "url": "https://open.spotify.com/track/0oUmiDcH2jBUEgiSnob5JW"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "Benbow Crescent",
         "url": "https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF"
       },
@@ -723,6 +711,46 @@
       "duration_ms": 149145,
       "name": "Hatchback",
       "url": "https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "MISA MISA!",
+        "url": "https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        },
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 85894,
+      "name": "MISA MISA!",
+      "url": "https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "XO EViL LiF3 (.DEMON.)",
+        "url": "https://open.spotify.com/album/6bGikVVE4O3ZEHmmbhCkMm"
+      },
+      "artists": [
+        {
+          "name": "steve breaux",
+          "url": "https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g"
+        }
+      ],
+      "duration_ms": 123591,
+      "name": "XO EViL LiF3 (.DEMON.)",
+      "url": "https://open.spotify.com/track/0oUmiDcH2jBUEgiSnob5JW"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -759,6 +787,22 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
+        "name": "Killin' On Demand",
+        "url": "https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 129196,
+      "name": "Killin' On Demand",
+      "url": "https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
         "name": "chinatown!",
         "url": "https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N"
       },
@@ -779,22 +823,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "Killin' On Demand",
-        "url": "https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 129196,
-      "name": "Killin' On Demand",
-      "url": "https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "2K FREESTYLE",
         "url": "https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm"
       },
@@ -811,30 +839,6 @@
       "duration_ms": 213000,
       "name": "2K FREESTYLE",
       "url": "https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
-        "name": "MISA MISA!",
-        "url": "https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
-        {
-          "name": "Scarlxrd",
-          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
-        },
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 85894,
-      "name": "MISA MISA!",
-      "url": "https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -1059,22 +1063,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "BAIXO",
-        "url": "https://open.spotify.com/album/4FZ9dWvoOMpOMzh914Jmhc"
-      },
-      "artists": [
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        }
-      ],
-      "duration_ms": 104013,
-      "name": "BAIXO",
-      "url": "https://open.spotify.com/track/3f1Jurx7wpabtVoxpLrtCE"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "DONNA",
         "url": "https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI"
       },
@@ -1119,6 +1107,22 @@
       "duration_ms": 146291,
       "name": "SELL OUT",
       "url": "https://open.spotify.com/track/1671uMsakQAiHKNAKeV3YI"
+    },
+    {
+      "added_at": "2024-02-09 15:53:38",
+      "album": {
+        "name": "CIT\u00c9S DE FRANCE",
+        "url": "https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+        }
+      ],
+      "duration_ms": 215826,
+      "name": "CIT\u00c9S DE FRANCE",
+      "url": "https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -1211,26 +1215,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "Blood (Alucard Rap)",
-        "url": "https://open.spotify.com/album/6qeRZqsdSTULbT0g2ihOoZ"
-      },
-      "artists": [
-        {
-          "name": "Rustage",
-          "url": "https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H"
-        },
-        {
-          "name": "TOPHAMHAT-KYO",
-          "url": "https://open.spotify.com/artist/2QGB8HqesnKeA5gcLJ0hiZ"
-        }
-      ],
-      "duration_ms": 197183,
-      "name": "Blood (Alucard Rap)",
-      "url": "https://open.spotify.com/track/2deb24yUrqgOVwGJjaIaYp"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "I'm Toxic",
         "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 115151,
       "name": "Kujo Freestyle",
       "url": "https://open.spotify.com/track/50wSSOhJIC80JyDblxaDIu"
+    },
+    {
+      "added_at": "2024-02-01 20:59:02",
+      "album": {
+        "name": "Good Morning Vietnam",
+        "url": "https://open.spotify.com/album/0GwpHZ7HAeJ1XsQzJTjESf"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Good Morning Vietnam",
+      "url": "https://open.spotify.com/track/61XDPnhHACR7xypgbp8bG8"
     },
     {
       "added_at": "2024-01-12 18:00:00",

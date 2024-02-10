@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bluay e Julinho Ksd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,052 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,061 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 45 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 |
 | 46 | [Lidar](https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Caixa Azul](https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI) | 3:12 |
 | 47 | [.Sais e Minerais](https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:17 |
-| 48 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 |
-| 49 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
+| 48 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
+| 49 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 |
 | 50 | [Laços](https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Laços](https://open.spotify.com/album/15EHzECsyNBB7yM64mmCOw) | 3:26 |
 | 51 | [Lugar Favorito](https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Lugar Favorito](https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU) | 3:17 |
 | 52 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 60 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
 | 61 | [Corre](https://open.spotify.com/track/3B0kyiBOoB8DEwnuYnlk3y) | [Osémio Boémio](https://open.spotify.com/artist/1ESj85JsWWKJuWrYo1eJfx), [R7ALNESS](https://open.spotify.com/artist/5e2E68RwtTs37jHS3mZ885) | [Corre](https://open.spotify.com/album/7ea5899z7Ij1HuoNO5r5Sq) | 3:05 |
 | 62 | [Tão Perto](https://open.spotify.com/track/0aBb0ba87IscklgtAkk6wO) | [nastyfactor](https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1) | [Tão Perto](https://open.spotify.com/album/2nu3SwyyAdtxLzIUmywury) | 2:24 |
-| 63 | [Filho do Vento](https://open.spotify.com/track/1we7vOaZVUh0LAyNFZd7fL) | [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Filho do Vento](https://open.spotify.com/album/2vjFAk5sCGaHidNUV3FsSX) | 2:27 |
-| 64 | [Espirito](https://open.spotify.com/track/1qRFaUg4Lr8suJArLQajv1) | [Young Max](https://open.spotify.com/artist/1t6x0n25bBUkI4re1wQqKu), [Apollo G](https://open.spotify.com/artist/4spmzPX02Jg0rnuyIWFngi) | [Espirito](https://open.spotify.com/album/43ELmi4Ak9u9vhEHUszb0I) | 2:55 |
+| 63 | [Espirito](https://open.spotify.com/track/1qRFaUg4Lr8suJArLQajv1) | [Young Max](https://open.spotify.com/artist/1t6x0n25bBUkI4re1wQqKu), [Apollo G](https://open.spotify.com/artist/4spmzPX02Jg0rnuyIWFngi) | [Espirito](https://open.spotify.com/album/43ELmi4Ak9u9vhEHUszb0I) | 2:55 |
+| 64 | [Filho do Vento](https://open.spotify.com/track/1we7vOaZVUh0LAyNFZd7fL) | [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Filho do Vento](https://open.spotify.com/album/2vjFAk5sCGaHidNUV3FsSX) | 2:27 |
 | 65 | [Txiga na Mim](https://open.spotify.com/track/5JNSH9uiHEScizBOBye8Zs) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Txiga na Mim](https://open.spotify.com/album/6QWGU2NqO3U1sNDxSlb8xU) | 3:00 |
 | 66 | [Honesto \(Faroeste\)](https://open.spotify.com/track/6uGGjOmsyH4iSpG3tZfW6W) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9), [BELLA SAINT](https://open.spotify.com/artist/4smL5IyxleZm2uUsmj7fpI) | [Honesto \(Faroeste\)](https://open.spotify.com/album/72BJO5d7IEQaJjLiX0n4NA) | 3:40 |
 | 67 | [Replay](https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Erick Lobato](https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64), [Vittau](https://open.spotify.com/artist/4fz3smvxYWXvGdLyFDOHv8), [TOCS](https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx) | [Replay](https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt) | 3:37 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 71 | [Mar de Rosas](https://open.spotify.com/track/7xPkzDlimUKWdr3Gf7JdPN) | [fontayne](https://open.spotify.com/artist/5LqAHoa04Mi9HtTtskh2GF) | [Mar de Rosas](https://open.spotify.com/album/492Q0hPgKBp529dQpdHvPZ) | 2:46 |
 | 72 | [Agora Naw](https://open.spotify.com/track/1PgAHn4rhXbsGNkFK8A8HN) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF) | [Camadas](https://open.spotify.com/album/2sdk6kCoIXXJUf0v67Ig2x) | 3:04 |
 | 73 | [Aprendi a Amar](https://open.spotify.com/track/25eaNnUtxQhnoisuKglAtA) | [Oestrela](https://open.spotify.com/artist/4OHp25KOzOBF38Uq4CNtNE) | [Aprendi a Amar](https://open.spotify.com/album/07Xhxbh0q271QHx5iPJctj) | 2:59 |
-| 74 | [PEACE](https://open.spotify.com/track/0HMIctywEolk71isSynd0u) | [Ferro](https://open.spotify.com/artist/5lZ6GGW3zw5NhfCyaAmOBK) | [EVERYTHING I'VE NEVER SAID](https://open.spotify.com/album/3m47TPHq517bS1RFv683cn) | 3:31 |
+| 74 | [Não dá](https://open.spotify.com/track/3WACFNMNQKehJ2xgn3nSNm) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Não dá](https://open.spotify.com/album/3fK2GR9JodQqshxoR4un26) | 3:03 |
 | 75 | [Não Dá](https://open.spotify.com/track/6cALPWqrwYbbR9GEVM8Xg3) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi) | [Não Dá](https://open.spotify.com/album/2f4ma3ztAuZEGTZABZ4pqW) | 2:40 |
-| 76 | [Não dá](https://open.spotify.com/track/3WACFNMNQKehJ2xgn3nSNm) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Não dá](https://open.spotify.com/album/3fK2GR9JodQqshxoR4un26) | 3:03 |
+| 76 | [PEACE](https://open.spotify.com/track/0HMIctywEolk71isSynd0u) | [Ferro](https://open.spotify.com/artist/5lZ6GGW3zw5NhfCyaAmOBK) | [EVERYTHING I'VE NEVER SAID](https://open.spotify.com/album/3m47TPHq517bS1RFv683cn) | 3:31 |
 | 77 | [B4U](https://open.spotify.com/track/4htFvo798QAxy9iUBoTJPg) | [St\. James Park](https://open.spotify.com/artist/4WGxfbDkaRQOFN0uriUXDF), [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI), [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U), [Birou](https://open.spotify.com/artist/6MZjeFl9psA2ncl3ennNbx) | [B4U](https://open.spotify.com/album/43RReczlsprLlicvPx8xnC) | 3:12 |
 | 78 | [Baby 3x](https://open.spotify.com/track/4FSWmY6tbpTXoeb4hqO5pn) | [Flepa](https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB) | [Baby 3x](https://open.spotify.com/album/7sNeiqO9arYjxRUIIqzBub) | 1:57 |
 | 79 | [Dreams](https://open.spotify.com/track/1DjRGwFuokMU6T8gH7JmL6) | [Indian Man](https://open.spotify.com/artist/1f902507emsB4UREPPHHOn) | [Dreams](https://open.spotify.com/album/1fJxerDvyH6b1Qn8kYDd0B) | 2:17 |
 | 80 | [C'La Perfecion](https://open.spotify.com/track/5aNyNvjhs3ieGT1b6geApO) | [Nello Fellirio](https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4) | [C'La Perfecion](https://open.spotify.com/album/5qDrbiudT2Cd8ZUfpNCfQl) | 3:00 |
 
-Snapshot ID: `MCxmZTU0OWQ1ZTcwZTY2OTM0YmE0MzliMmNkMWRhMThiZWQ1MDFlNDE1`
+Snapshot ID: `MCwzNTkwM2FhYWZmNzUxMzNmNjAzMDUwNzQ2MDA1YTliM2RkN2FlZWVi`

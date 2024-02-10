@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 210235,
+  "2024-02-10": 210254,
   "date_first_scraped": "2022-01-17",
   "description": "Put yourself to sleep with delta frequencies.",
   "name": "Binaural Beats: Sleep",
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 152000,
       "name": "Binaural Delta 2hz 110hz and 112hz",
       "url": "https://open.spotify.com/track/4FYhs5Z79Y0VVE1Kc6WT3K"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 152000,
       "name": "Binaural Delta 3hz 165hz and 168hz",
       "url": "https://open.spotify.com/track/3WNrFejiZtnlgRRaHrvu2P"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 204153,
       "name": "Deep Delta Sleep 98 Hz - 102 Hz",
       "url": "https://open.spotify.com/track/562VKAocX15j552DgHPN4T"
@@ -996,6 +996,24 @@
     },
     {
       "album": {
+        "name": "Delta Dream Waves 92-93 Hz",
+        "url": "https://open.spotify.com/album/3FtpjvD02zagd5oAYvT9jl"
+      },
+      "artists": [
+        {
+          "name": "Gilbert Frost",
+          "url": "https://open.spotify.com/artist/2uyHDj3s1k5eEG46b0pj3h"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Delta Dream Waves 92-93 Hz",
+      "url": "https://open.spotify.com/track/3u6RsS3J0W1RI8UWglidfL"
+    },
+    {
+      "album": {
         "name": "Binaural Levitation",
         "url": "https://open.spotify.com/album/6RwD0AuziBPY0zRodQcPWv"
       },
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 184000,
       "name": "Delta Pattern 101.0 Hz - 103.0 Hz",
       "url": "https://open.spotify.com/track/6ZG23W2shJNTChsot9DZlc"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 213000,
       "name": "Delta Pattern 74.0 Hz - 78.0 Hz & Endearing Waves",
       "url": "https://open.spotify.com/track/0zbpwzbOKy77QEWbYzRkjB"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 213000,
       "name": "Delta Pattern 74.0 Hz - 78.0 Hz & Pad",
       "url": "https://open.spotify.com/track/54yE3lGoTCPgA7RI1XOe5f"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 151086,
       "name": "Delta Sinus 113Hz - 115Hz",
       "url": "https://open.spotify.com/track/4e1uW4MSy8BOyK0jJbDmnH"
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 230000,
       "name": "Delta Sinus 125 Hz - L 128 Hz - R - Drone",
       "url": "https://open.spotify.com/track/3w15SEPuv2VCTQpO2kQUM3"
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 210155,
       "name": "Delta Sinus 160 Hz - L 161 Hz - R - Drone",
       "url": "https://open.spotify.com/track/7jQiYVASBtUmgD7zN2wQhk"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 172105,
       "name": "Delta Sleep Waves 103Hz - 105Hz",
       "url": "https://open.spotify.com/track/0CRyhNaJfwot8QtdbZffnb"
@@ -1641,6 +1659,24 @@
       "duration_ms": 192000,
       "name": "Delta Sleep Waves 84.4Hz - 85.7Hz",
       "url": "https://open.spotify.com/track/5KHYjgWV3oxkX6UbY2iJBM"
+    },
+    {
+      "album": {
+        "name": "Delta Sleep Waves 85-86 Hz",
+        "url": "https://open.spotify.com/album/5Xjr7MMfeMkej1cDo1DQgv"
+      },
+      "artists": [
+        {
+          "name": "Sienna Meadows",
+          "url": "https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Delta Sleep Waves 85-86 Hz",
+      "url": "https://open.spotify.com/track/3ztGPqDdQHxub1ak1BPjlv"
     },
     {
       "album": {
@@ -1709,7 +1745,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 161617,
       "name": "Delta Waves Sleep 126 Hz - 129 Hz",
       "url": "https://open.spotify.com/track/1qdDp0Fu8nGYCxjRK3KGiF"
@@ -1817,7 +1853,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 189000,
       "name": "Dreamless Sleep - Delta Sinus 115Hz - 117Hz",
       "url": "https://open.spotify.com/track/18MJgVKd0JPTw8eL8GSf2Z"
@@ -2184,6 +2220,24 @@
     },
     {
       "album": {
+        "name": "Thoughtless Eclipse Delta",
+        "url": "https://open.spotify.com/album/2aJ1p45LeJCgeIpupmSmKU"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Propelling Mind Bb Delta (115-119hz)",
+      "url": "https://open.spotify.com/track/0bluMRTV3xteLdSSkzlAwO"
+    },
+    {
+      "album": {
         "name": "REM Ember",
         "url": "https://open.spotify.com/album/7FDCVL0FDr0lgZ0duzkkfO"
       },
@@ -2249,7 +2303,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 178554,
       "name": "Serene Delta Sleep 87 Hz - 89 Hz",
       "url": "https://open.spotify.com/track/6QAj5dBVnrM3gkSf7x1hz6"
@@ -2339,7 +2393,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 207175,
       "name": "sleepless nights Delta Sinus 109Hz - 112Hz",
       "url": "https://open.spotify.com/track/4InR2J0FZNvQYp51xoKYJ5"
@@ -2519,10 +2573,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 225000,
       "name": "Sunrays - Delta 94Hz - 96Hz",
       "url": "https://open.spotify.com/track/1CesGp7vyNjZ4ybuaBlveg"
+    },
+    {
+      "album": {
+        "name": "Surrounded Passage (Delta Binaural)",
+        "url": "https://open.spotify.com/album/54uV4LPslzmKDj50ylCNYl"
+      },
+      "artists": [
+        {
+          "name": "Milo Graves",
+          "url": "https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "Surrounded Passage (Delta Binaural)",
+      "url": "https://open.spotify.com/track/0gffACkxI5ABiI7Ak9Gb4R"
     },
     {
       "album": {
@@ -2577,6 +2649,24 @@
       "duration_ms": 192000,
       "name": "Time Travelling (Beta Waves)",
       "url": "https://open.spotify.com/track/5smQD23QwbJST01uYJdMAM"
+    },
+    {
+      "album": {
+        "name": "Treetop Sway (Delta Binaural)",
+        "url": "https://open.spotify.com/album/0xy0CgF7AgZTRPovatgZ55"
+      },
+      "artists": [
+        {
+          "name": "Binaural Boy",
+          "url": "https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Treetop Sway (Delta Binaural)",
+      "url": "https://open.spotify.com/track/0YaHVqzBDVho8dAiEikwng"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,200 songs - 6 day 4 hr 8 min
+2,201 songs - 6 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2133,7 +2133,8 @@
 | [Yebo Edi Pachanga](https://open.spotify.com/track/2TatZQhTE9sNia2FNaebc1) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [José Padilla](https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU) | [Estrellas](https://open.spotify.com/album/2WgEVB6gkJ8ijn08kafvrf) | 5:19 | 2022-12-07 |  |
 | [Yeh Aaj Mujh Ko](https://open.spotify.com/track/4n9XJTR2B1vkczfMdzGuDO) | [Tafo Brothers](https://open.spotify.com/artist/4UQhAI9ZsqF63SrJKky317) | [M\. Ashraf At His Best Instrumental](https://open.spotify.com/album/6LDXTdUKS8awQAJNBb1JpH) | 4:08 | 2022-06-09 |  |
 | [Yekfini Nesma' Sotak](https://open.spotify.com/track/5J7ySnOHIqXK7lg3hTb5N9) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/59wUhuFXv88Cov9DMjGGI3) | 4:10 | 2022-07-12 | 2022-09-30 |
-| [Yemamaya](https://open.spotify.com/track/1EbJ9DlPVZ6146nt7DhuRw) | [LUIZGA](https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f), [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r) | [Yemamaya](https://open.spotify.com/album/1XMqzOsgdbyCbsSsfNTUnX) | 4:02 | 2022-09-14 |  |
+| [Yemamaya](https://open.spotify.com/track/33OGgT7SiB2XitvFgG6pEv) | [LUIZGA](https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f), [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r) | [Yemamaya](https://open.spotify.com/album/2wWQxfNlQ081Ojd8l6kvW9) | 4:00 | 2023-11-29 |  |
+| [Yemamaya](https://open.spotify.com/track/1EbJ9DlPVZ6146nt7DhuRw) | [LUIZGA](https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f), [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r) | [Yemamaya](https://open.spotify.com/album/1XMqzOsgdbyCbsSsfNTUnX) | 4:02 | 2022-09-14 | 2024-02-10 |
 | [Yo No Tengo Pena](https://open.spotify.com/track/77Ef4ZdJQtRCztVOdpcL50) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [Más Sabor](https://open.spotify.com/album/1HBA0puMnLVoLFAgg2DPX8) | 6:10 | 2022-06-09 |  |
 | [Yo Por Ti](https://open.spotify.com/track/0UttGQy60z2NFQMrl5al2F) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [23 Exitos Para Cumbiar](https://open.spotify.com/album/7Ev2rRjhJEvEJrl0ViLX18) | 2:53 | 2022-06-09 | 2023-06-21 |
 | [Yo Por Ti](https://open.spotify.com/track/5XEtVK54D9tenCXln7hfG4) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [23 Exitos Para Cumbiar](https://open.spotify.com/album/0SvFkzozkha01lEYIk439z) | 2:53 | 2022-07-27 | 2023-02-24 |

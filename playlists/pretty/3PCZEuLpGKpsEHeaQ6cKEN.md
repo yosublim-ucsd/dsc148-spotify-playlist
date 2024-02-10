@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and more! \| Updated weekly on Friday Cover: David Guetta, Mason,  Princess Superstar
+> The biggest Armada tracks of the moment! \| Including Trance, House, Techno, Dance, Afro\-House, Melodic Techno \| Tracks from Armin van Buuren, ARTY, D.O.D., Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: David Guetta, Mason, Princess Superstar
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 276,699 likes - 150 songs - 8 hr 5 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 276,701 likes - 150 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 149 | [Outside World \- Bart Skils & Weska Remix](https://open.spotify.com/track/6COLvhfEckP6Hj90yJmOiP) | [Sunbeam](https://open.spotify.com/artist/1ZXarwne5gA98pXsbC7vph), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [Armada Music \- 20 Years \(Remixed\)](https://open.spotify.com/album/4OD3z2wuOlBanqCItlGtsb) | 4:00 |
 | 150 | [About The Weekend](https://open.spotify.com/track/3lEoFMhMMRYuRUkU24HiOM) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Sakhile Moleshe](https://open.spotify.com/artist/6pldHWtyWbWZUi5lBqrZpB) | [If Summer Was A Sound](https://open.spotify.com/album/3XfgIeHgOAfAeQz5qBXIzh) | 3:00 |
 
-Snapshot ID: `NTMzNzcsYmIwOWQxMGRjYmNkMmUxNzg2MDJiMTgyYzFkMjk3NWIxYmQ5OGU0OQ==`
+Snapshot ID: `NTMzNzgsMWRmMjNiYzU0OGVlMDAxYWQyZGRhYWU3ZWU3N2Y0ZGFkNDFiNTZkZg==`

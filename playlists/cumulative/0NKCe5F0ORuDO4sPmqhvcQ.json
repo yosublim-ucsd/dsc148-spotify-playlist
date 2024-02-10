@@ -5047,6 +5047,28 @@
     },
     {
       "album": {
+        "name": "I Just Need (with Lyrah)",
+        "url": "https://open.spotify.com/album/5UhCTYiNNiL26OSebdWUck"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146165,
+      "name": "I Just Need (with Lyrah)",
+      "url": "https://open.spotify.com/track/6JbeNVHHrvRGY9BjB8hmkR"
+    },
+    {
+      "album": {
         "name": "I Kill Everything",
         "url": "https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd"
       },
@@ -5208,6 +5230,28 @@
       "duration_ms": 126545,
       "name": "I'm a Moth!!",
       "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
+    },
+    {
+      "album": {
+        "name": "I'm Not Giving Up (with MEMBA)",
+        "url": "https://open.spotify.com/album/3qUJFohjpTS1AFCI1124Bd"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160964,
+      "name": "I'm Not Giving Up (with MEMBA)",
+      "url": "https://open.spotify.com/track/471OWwLdgRbmyRoWXKBXYk"
     },
     {
       "album": {

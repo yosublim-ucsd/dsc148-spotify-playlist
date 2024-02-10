@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44274,
+  "num_followers": 44278,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjQ1MCwxMWExYzY5MjY2MWJhYWZhZWM4OTZiZDk3ZWFjNDk3NjhiOGM2NmRm",
+  "snapshot_id": "NjQ1MiwxZWVlNzAxODlkMjM0ZTEyNjMzNGZkMjEzODUyNjA5NzA1OTU5YjIx",
   "tracks": [
+    {
+      "added_at": "2024-02-09 16:14:26",
+      "album": {
+        "name": "Get Lower",
+        "url": "https://open.spotify.com/album/6L3OPsn0P4F6PNUDFGxDVV"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Get Lower",
+      "url": "https://open.spotify.com/track/7xKmcNxk4wF03Xpc4oIXbg"
+    },
+    {
+      "added_at": "2024-02-09 16:13:29",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/63E9zyXGEyMZPNJGNnCS1V"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Gartner",
+          "url": "https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK"
+        }
+      ],
+      "duration_ms": 213458,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/3KmfcNPQ8PtYZEdo0JFgNw"
+    },
     {
       "added_at": "2024-02-02 22:57:11",
       "album": {

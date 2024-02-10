@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-288 songs - 16 hr 49 min
+289 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,8 @@
 | [Sleet and Snow](https://open.spotify.com/track/19PbVUTpF75SeZQpTEUJwM) | [My First Tooth](https://open.spotify.com/artist/2mtHReEeM2MuBaWSY3stG8) | [Sleet and Snow](https://open.spotify.com/album/6IvRuTNcTlPaIosiVlY8Nx) | 3:18 | 2021-12-24 | 2023-12-16 |
 | [Sleigh Ride](https://open.spotify.com/track/3xM6VgByz6g9loXIyPvEcR) | [SHEL](https://open.spotify.com/artist/4OCTXxXeu6etfZqxfqFihq) | [Walker in a Winter Wonderland](https://open.spotify.com/album/0UhF379fa6PvnfLTsBngqa) | 3:06 | 2021-12-24 | 2023-12-16 |
 | [Snow](https://open.spotify.com/track/2Dx7CbP88KSx88nmvXHARg) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/7JBhb8SSKqeTMWsSytyfJA) | 3:38 | 2021-12-24 | 2022-07-29 |
-| [Snow](https://open.spotify.com/track/4yNKWjEFADa5f11RI1DaKC) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:38 | 2021-12-24 |  |
+| [Snow](https://open.spotify.com/track/2mI7H9gV0viQJWtf8j48jS) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf) | 3:38 | 2023-12-15 |  |
+| [Snow](https://open.spotify.com/track/4yNKWjEFADa5f11RI1DaKC) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:38 | 2021-12-24 | 2024-02-10 |
 | [Snow Angel](https://open.spotify.com/track/1wYYeL1U58MfPFHRRfdunQ) | [Sugar & The Hi Lows](https://open.spotify.com/artist/3ocspfRKSu50vCoUYexOpy) | [Snow Angel](https://open.spotify.com/album/3StV5cF5hyUlvJeIWmPlv6) | 3:19 | 2021-12-24 |  |
 | [Snow in Montana](https://open.spotify.com/track/2qNdBOuOlZaML9ZEktD6mi) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu), [Gabrielle Grace](https://open.spotify.com/artist/04I7vAN53FF1W4I3c0kdnS), [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ), [Abby Holliday](https://open.spotify.com/artist/4q7Td1MO6rNg3UCvqrzz1k) | [Snow in Montana](https://open.spotify.com/album/0bwOZcIDnfGPTDN6CGkA1D) | 3:35 | 2022-11-15 |  |
 | [Snow Song](https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:56 | 2023-12-15 |  |

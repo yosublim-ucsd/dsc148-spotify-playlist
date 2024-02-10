@@ -2,9 +2,9 @@
 
 ### [Trap Land](https://open.spotify.com/playlist/37i9dQZF1DXde9tuMHuIsj)
 
-> The best of Latin Trap\. Cover: Lyanno, Anubiis & Hades66
+> The best of Latin Trap\. Cover: Brytiago, Noriel, Juhn, Baby Rasta, Anonimus
 
-336 songs - 19 hr 17 min
+337 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [C100EN](https://open.spotify.com/track/5XnCXhCrTlj90KVaugYMkI) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [C100EN](https://open.spotify.com/album/1xeViFk5ypfynAdOcfqkFP) | 3:05 | 2022-05-03 | 2023-02-11 |
 | [C4 x 73](https://open.spotify.com/track/40j4VmZ1eOCAPyWq4UXYmK) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [C4 x 73](https://open.spotify.com/album/78Xx2eT7AsNkxq4qoOXhrW) | 2:44 | 2022-11-25 | 2023-02-11 |
 | [Calentón](https://open.spotify.com/track/1IVUBHo1L9YNK2VH8Lmndb) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Foreign Teck](https://open.spotify.com/artist/5HviKGcHfUcbesgUw0PLzX) | [Calentón](https://open.spotify.com/album/6M6USkTvFofNR1Opfp7ukq) | 2:08 | 2022-06-28 | 2023-07-01 |
-| [CC](https://open.spotify.com/track/5GX0pPQ3ci4DyzItOpaJo7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [CC](https://open.spotify.com/album/7DlQeN6nryMuBbkyept0z3) | 3:11 | 2022-12-15 |  |
+| [CC](https://open.spotify.com/track/5GX0pPQ3ci4DyzItOpaJo7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [CC](https://open.spotify.com/album/7DlQeN6nryMuBbkyept0z3) | 3:11 | 2022-12-15 | 2024-02-10 |
 | [CC \- Remix](https://open.spotify.com/track/1sMMcQDlV626GPvzJaGSFx) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [CC \(Remix\)](https://open.spotify.com/album/3kHMc3S6pPS9gODoTwhDTH) | 4:02 | 2023-09-29 |  |
 | [Chanell Con Chanel](https://open.spotify.com/track/7FYXboOgrxcQri3pRgK5nJ) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [Chanell Con Chanel](https://open.spotify.com/album/0ZoyktJJTxOA8Ho3pUTStT) | 2:27 | 2022-05-03 | 2022-06-29 |
 | [Cheke](https://open.spotify.com/track/3mPbF5PObAaieo4FtoTi2Z) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [El Nuevo Testamento](https://open.spotify.com/album/5qDaJwOkMjgIfHLKXkcdon) | 3:13 | 2022-06-28 | 2023-05-27 |
@@ -148,6 +148,7 @@
 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-22 |  |
 | [Glizzy Walk 2.5](https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Glizzy Walk 2.5](https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK) | 3:44 | 2022-04-15 |  |
 | [Glizzy Walk 3](https://open.spotify.com/track/4GlyvnFvQ3wFiq1ot3xJBY) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 5:01 | 2023-12-15 |  |
+| [Glopeta](https://open.spotify.com/track/1u4mQJwFSZ1a6Cl8fLKBqA) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt) | [Glopeta](https://open.spotify.com/album/44BfGk4hGwkmu7tpkmOxWl) | 4:16 | 2024-02-09 |  |
 | [GO GO GO](https://open.spotify.com/track/0BJCI9tfhMrpELzRiDzdiR) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Fenix The Producer](https://open.spotify.com/artist/7EutZWNXh33tAPObZ45ba6) | [La Crema](https://open.spotify.com/album/1LliLGMCamo6OZ0SQBGINc) | 2:57 | 2023-09-15 | 2023-11-11 |
 | [Grave Digger \(with Southside\)](https://open.spotify.com/track/6aXGt8YQ0zcfagTeWLLTen) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 3:02 | 2023-12-15 |  |
 | [Guarida](https://open.spotify.com/track/19FjaZwowlzROovPliZty2) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Guarida](https://open.spotify.com/album/5BvgHK8tmdBlIjxdSnyI0K) | 3:32 | 2022-06-28 |  |

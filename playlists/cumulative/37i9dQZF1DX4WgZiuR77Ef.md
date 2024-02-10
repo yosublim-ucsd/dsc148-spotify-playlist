@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-221 songs - 15 hr 33 min
+222 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Africvillean Funk](https://open.spotify.com/track/1rbN7wvQtAYoGV5DZliziB) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Africvillean Funk](https://open.spotify.com/album/4dA1mxVyeTqlbOurVp76TN) | 3:12 | 2022-07-01 | 2022-07-29 |
 | [Africvillean Funk](https://open.spotify.com/track/5xCbruMkIhwhRESa9YBUPr) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Don't Trip](https://open.spotify.com/album/2TLJYbqaz0kygsMTDXn3et) | 3:12 | 2022-07-01 |  |
 | [Africvillean Funk](https://open.spotify.com/track/7HweCGOZ6T0Kh9o64cuusn) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Don't Trip](https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB) | 3:12 | 2022-07-01 | 2023-04-30 |
+| [Ain't No Stoppin'](https://open.spotify.com/track/36Mz7rP2M344WqPuPvflzk) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [NEXT](https://open.spotify.com/album/0FVriDwwrFhjRGCnETcRxP) | 5:10 | 2024-02-09 |  |
 | [All Night](https://open.spotify.com/track/7BxtPjKUqjVf7RItM6mxZl) | [Lack Of Afro](https://open.spotify.com/artist/5e3Z7HYpiVcP3TlU0a4yap), [Jack Tyson Charles](https://open.spotify.com/artist/6PqhbDGZhMuzNL9VmeSfFi) | [All Night](https://open.spotify.com/album/7EPIP4WWSQ68j9RhSjkiKL) | 3:51 | 2023-05-26 |  |
 | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/track/2ZUIMmjpRjCzopFJl7F5EX) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam) | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/album/1IJYB2w5KHSGickzC7y0Mj) | 4:43 | 2022-05-27 | 2022-11-09 |
 | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/track/304Y32tn2MipSfI2CJSTwW) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam) | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/album/3fQwy0KsXSMCpgoF8NERyT) | 4:43 | 2022-05-27 | 2023-06-17 |
@@ -36,7 +37,7 @@
 | [Burn](https://open.spotify.com/track/1jdtArpBS5Wgboi8qsvl41) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Phil Diamond](https://open.spotify.com/artist/1bmzAwkc0MMIF97kzIiQC3) | [Lost Knights](https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi) | 3:38 | 2022-05-27 |  |
 | [Burning Daylight](https://open.spotify.com/track/7sKPmkDw5bK2l0UbSnVZ6x) | [Soultown Revivalists](https://open.spotify.com/artist/4m3XScZchwZiZeiw6CcoQm), [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Burning Daylight](https://open.spotify.com/album/6kg2Ofz8hZXUXPdlPGdznR) | 3:50 | 2023-08-25 |  |
 | [Call Me](https://open.spotify.com/track/2OtS9JzHxv2yU3qezmMfdo) | [Lowdown Brass Band](https://open.spotify.com/artist/0DccOPSJ5LcC4HDiDZl17u) | [Call Me](https://open.spotify.com/album/1F3NMMAArhe2OjH8pf36Wq) | 3:41 | 2023-02-17 |  |
-| [Can't Buy Groove](https://open.spotify.com/track/2AHtozTlrSktpu5CiWUpFf) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Can't Buy Groove](https://open.spotify.com/album/1NgLnJ3z4gu093e180StsA) | 2:54 | 2020-10-30 |  |
+| [Can't Buy Groove](https://open.spotify.com/track/2AHtozTlrSktpu5CiWUpFf) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Can't Buy Groove](https://open.spotify.com/album/1NgLnJ3z4gu093e180StsA) | 2:54 | 2020-10-30 | 2024-02-10 |
 | [Canned Champagne](https://open.spotify.com/track/4yYR3NQfBqgN9OdX2Z32BX) | [Scone Cash Players](https://open.spotify.com/artist/3GMruM6YOWc69pzKC74qK5), [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [Canned Champagne](https://open.spotify.com/album/6F75dyCtjcnQoXYyjjzBy9) | 4:06 | 2020-10-30 | 2022-04-09 |
 | [Cashew](https://open.spotify.com/track/5cicFBkl7O1Q7f4IKT20Mw) | [YAM YAM](https://open.spotify.com/artist/2Y6yVzWTfqjVEMvwO4UX63) | [Cashew](https://open.spotify.com/album/7MOBVl0YbpdVHNVEOovUja) | 3:56 | 2021-06-11 | 2023-04-29 |
 | [Celebrations](https://open.spotify.com/track/4omeUG7hXLZsYGP3kgk1cz) | [Lo Greco Bros](https://open.spotify.com/artist/4S7V7SMXxUwFzhGuddiAiY), [Fusion Funk Foundation](https://open.spotify.com/artist/6Lw21oFES51b7oYLLSbPfF) | [Celebrations](https://open.spotify.com/album/7scmghC0RGnIWGsDwUftiV) | 5:12 | 2021-12-10 |  |

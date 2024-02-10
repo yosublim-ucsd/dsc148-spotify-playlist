@@ -1,7 +1,7 @@
 {
-  "2024-02-09": 91931,
+  "2024-02-10": 92169,
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: cehryl (Hong Kong)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: HYBS + SIRUP (TH/JP)",
   "name": ".ORG",
   "tracks": [
     {
@@ -2991,7 +2991,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 271840,
       "name": "Carta de Obon",
       "url": "https://open.spotify.com/track/5p4BNZpmZ8ZLGN64zJgLwA"
@@ -5315,7 +5315,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 272630,
       "name": "Emi",
       "url": "https://open.spotify.com/track/2LmAkK4Q8ICC4Zjwi88Lfv"
@@ -5731,7 +5731,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 211768,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6OYm4FXjYy0Q3sgssdFEho"
@@ -6725,6 +6725,28 @@
       "duration_ms": 323791,
       "name": "Gi\u1ea5c M\u01a1",
       "url": "https://open.spotify.com/track/4DgmIQldBtmOMAayyxc7wi"
+    },
+    {
+      "album": {
+        "name": "Glitter Eyes (feat. mindfreakkk)",
+        "url": "https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Glitter Eyes (feat. mindfreakkk)",
+      "url": "https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT"
     },
     {
       "album": {
@@ -8453,6 +8475,28 @@
       "duration_ms": 186136,
       "name": "I'm An Artiste",
       "url": "https://open.spotify.com/track/1tpHsyhnjet2NILsgbYN66"
+    },
+    {
+      "album": {
+        "name": "I'm Blessed",
+        "url": "https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "I'm Blessed",
+      "url": "https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E"
     },
     {
       "album": {
@@ -14551,7 +14595,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 198095,
       "name": "SANCTUARY",
       "url": "https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL"
@@ -17789,7 +17833,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 227289,
       "name": "Try",
       "url": "https://open.spotify.com/track/01nkbGifRqRnRN7p8I8w4u"
@@ -20863,6 +20907,24 @@
       "duration_ms": 214946,
       "name": "\u30e1\u30d3\u30a6\u30b9",
       "url": "https://open.spotify.com/track/4xrZ0pYCSyHm8OxB6GhjKh"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u500b\u773c\u795e",
+        "url": "https://open.spotify.com/album/4fVbAQA7z7qeE3eg5zV6Uu"
+      },
+      "artists": [
+        {
+          "name": "my little airport",
+          "url": "https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177214,
+      "name": "\u4e00\u500b\u773c\u795e",
+      "url": "https://open.spotify.com/track/6BtPxWB4UsgZraWugItyrn"
     },
     {
       "album": {

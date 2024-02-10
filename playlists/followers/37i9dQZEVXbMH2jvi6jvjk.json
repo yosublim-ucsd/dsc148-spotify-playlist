@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 42556,
+  "2024-02-10": 42592,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - South Africa.",
   "name": "Top 50 - South Africa",
@@ -2593,7 +2593,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 351529,
       "name": "Asambe",
       "url": "https://open.spotify.com/track/4P62OAoBti8I0OusyVFQJc"
@@ -14335,7 +14335,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 312685,
       "name": "Ijuba",
       "url": "https://open.spotify.com/track/5jsO87ShnH2lEXhIfjMAUj"
@@ -16232,13 +16232,13 @@
     },
     {
       "album": {
-        "name": "Jealousy (feat. Leemckrazy & Khalil Harrison)",
+        "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
         "url": "https://open.spotify.com/album/0prfEaQxPCu9UqPSnscpoS"
       },
       "artists": [
         {
-          "name": "Ceeka RSA",
-          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
         },
         {
           "name": "Tyler ICU",
@@ -16249,15 +16249,15 @@
           "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
         },
         {
-          "name": "Khalil Harrison",
-          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
         }
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 390873,
-      "name": "Jealousy (feat. Leemckrazy & Khalil Harrison)",
+      "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
       "url": "https://open.spotify.com/track/6OGNF7mro80pMi5q1HhylS"
     },
     {
@@ -21139,7 +21139,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 391888,
       "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy"
@@ -22731,7 +22731,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 228647,
       "name": "Ngibambeni",
       "url": "https://open.spotify.com/track/1g7hu7KMV5woMx6xfi1C6p"

@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Do This For Fun",
+        "url": "https://open.spotify.com/album/2ISKOwa9s4B9Ul1uzzmtae"
+      },
+      "artists": [
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156887,
+      "name": "Do This For Fun",
+      "url": "https://open.spotify.com/track/1Wq1XDIOOqtnIp8s4jN85u"
+    },
+    {
+      "album": {
         "name": "Down With Me",
         "url": "https://open.spotify.com/album/2U7oD3b2tWUfWyZ7OFfAHA"
       },

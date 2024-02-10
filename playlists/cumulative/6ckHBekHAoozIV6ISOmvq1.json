@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:2xfCdpmPmRtGgNyuk1zawd\">Edge</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:18NVIhicUeOGx6Ag3x491U\">2023</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a> or <a href=\"spotify:playlist:4FlcRYTkhAqOWkQi9C4dss\">Early Music Choir</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:2xfCdpmPmRtGgNyuk1zawd\">Edge</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:18NVIhicUeOGx6Ag3x491U\">2023</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a> or <a href=\"spotify:playlist:5uQQu2RC80Ku5AjSpCtrJF\">Madrigal</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "tracks": [
     {
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 281866,
       "name": "Anc no mori per amor ni per al",
       "url": "https://open.spotify.com/track/4tvTC4nt8LK0GHFtzGOGeV"
@@ -2414,7 +2414,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 372600,
       "name": "Beata Viscera",
       "url": "https://open.spotify.com/track/3rZK9LQ3YxLgGOfc35D3Xn"
@@ -7090,7 +7090,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 965173,
       "name": "El Cant de la Sibilla",
       "url": "https://open.spotify.com/track/0fshMdI7GanqBBYM29tWqU"
@@ -8766,7 +8766,7 @@
       ],
       "date_added": "2020-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 688906,
       "name": "Guiot de Dijon: Chanterai por mon coraige",
       "url": "https://open.spotify.com/track/1XYTLJo68ZANYkLqfW824t"
@@ -9450,7 +9450,7 @@
       ],
       "date_added": "2020-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-23",
+      "date_removed": null,
       "duration_ms": 204666,
       "name": "I' v\u00f2 bene",
       "url": "https://open.spotify.com/track/1hCUBDMNc2YrNNjLYT1LPt"
@@ -10586,7 +10586,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 241920,
       "name": "Je ne vis onques",
       "url": "https://open.spotify.com/track/7kcuiZa6lmq0OBd6RahlbU"
@@ -11120,7 +11120,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 185320,
       "name": "La Bella e La Ve\u00e7\u00e7osa Cabriola",
       "url": "https://open.spotify.com/track/0imvWfuObRl13j7umK5RKh"
@@ -11916,7 +11916,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 269186,
       "name": "Lanquan li jorn son lonc en may",
       "url": "https://open.spotify.com/track/6NekJIBHdSDiN5RzyeAnOa"
@@ -12918,7 +12918,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 338000,
       "name": "Mass for the Nativity of the Virgin: XII. Benedicamus Domino \u00e0 deux voix",
       "url": "https://open.spotify.com/track/0oH9C01eFtI3uhP9VO2BfL"
@@ -13506,7 +13506,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 498600,
       "name": "Missa de septem doloribus: Credo",
       "url": "https://open.spotify.com/track/6nQ45EgZbpXSDbCSlQMi1S"
@@ -16558,7 +16558,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 263666,
       "name": "Pois tornaz sui en Proensa",
       "url": "https://open.spotify.com/track/3xIiR7uGtHlNIwJbyArlVO"
@@ -18096,7 +18096,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 289893,
       "name": "R\u00e9flexions: Quan lo rossinhols",
       "url": "https://open.spotify.com/track/3I6OUWuMG6Derl3G1sBU5S"
@@ -18823,6 +18823,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9ditation m\u00e9di\u00e9vale",
+        "url": "https://open.spotify.com/album/0BY3i1sgfI6JTEuUFJEJsK"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Bonnardot",
+          "url": "https://open.spotify.com/artist/3owNFrCfXAvF6CDZ059eMc"
+        },
+        {
+          "name": "Obsidienne",
+          "url": "https://open.spotify.com/artist/2c7vxMAGhD0KAPpW8kufil"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220047,
+      "name": "Soleil troubadour",
+      "url": "https://open.spotify.com/track/0dVxxgujnBmRLblolM2EbB"
+    },
+    {
+      "album": {
         "name": "Bellinzani : Sonates pour fl\u00fbte \u00e0 bec & basse continue",
         "url": "https://open.spotify.com/album/7q3J81YQgypXqb2LrFsgUN"
       },
@@ -19106,7 +19128,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 395013,
       "name": "Super flumina",
       "url": "https://open.spotify.com/track/7r4Ipcjb6RaySdxJKrv1H7"
@@ -20474,7 +20496,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 545013,
       "name": "Viderunt omnes",
       "url": "https://open.spotify.com/track/5iBW4nHUwb2fRMHjyWnQET"
@@ -20526,7 +20548,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 696600,
       "name": "Viderunt Omnes",
       "url": "https://open.spotify.com/track/3DPvIw6xupTvdJ6bxXxYZV"

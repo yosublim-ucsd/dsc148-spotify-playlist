@@ -1,13 +1,157 @@
 {
-  "description": "Your go-to playlist for this week's hottest music featuring Billy Joel, Beyonc\u00e9, Harry Styles &amp; more! Cover: Billy Joel",
+  "description": "Your go-to playlist for this week's hottest music featuring girl in red, Beyonc\u00e9, Harry Styles &amp; more! Cover: girl in red",
   "num_followers": 8226,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NjcxMiw3ZmM3ZDYxYTQ1ZTI0YTNlYjljMzEzOWQwZTE0NjZlZWYxNjMwNGY1",
+  "snapshot_id": "NjcyMiw2NTliOTk5OTQ0YmM4YzhiYWFjMmNjOGRhMDM0ZmNhZTM3YTY4ZjMy",
   "tracks": [
+    {
+      "added_at": "2024-02-09 05:13:33",
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
+    },
+    {
+      "added_at": "2024-02-09 05:13:48",
+      "album": {
+        "name": "Pain & Love 2",
+        "url": "https://open.spotify.com/album/1M1i7i0G5g0bhQIoyXeqJN"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Trauma (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/5jXKeWgIopSbVWyVIOe6W9"
+    },
+    {
+      "added_at": "2024-02-09 05:14:10",
+      "album": {
+        "name": "Matchmaker",
+        "url": "https://open.spotify.com/album/1Y2OkBKU0Im7RiZeb7imrp"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 164802,
+      "name": "Matchmaker",
+      "url": "https://open.spotify.com/track/1RJVjtwF6vfw0CF1HIHrlY"
+    },
+    {
+      "added_at": "2024-02-09 05:14:18",
+      "album": {
+        "name": "Narcissist (feat. Phix)",
+        "url": "https://open.spotify.com/album/7x3d4sBwFfaRZeXJXAY2k6"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        },
+        {
+          "name": "Phix",
+          "url": "https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Narcissist (feat. Phix)",
+      "url": "https://open.spotify.com/track/5GZyD9MBTiovN2dDNeHOJr"
+    },
+    {
+      "added_at": "2024-02-09 05:14:34",
+      "album": {
+        "name": "Hello Radio",
+        "url": "https://open.spotify.com/album/2BE10dZdsbTBeTUfq5c4mr"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "duration_ms": 180987,
+      "name": "Hello Radio",
+      "url": "https://open.spotify.com/track/5ry7JlYd3Y0M6g0oBrwWcM"
+    },
+    {
+      "added_at": "2024-02-09 05:14:45",
+      "album": {
+        "name": "Before We Drown (Remixes)",
+        "url": "https://open.spotify.com/album/3HaZATwWacP3S54I5IAhxo"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "duration_ms": 355129,
+      "name": "Before We Drown - Innellea Remix",
+      "url": "https://open.spotify.com/track/5w8LVMfShMYk98IZgVAraZ"
+    },
+    {
+      "added_at": "2024-02-09 05:14:53",
+      "album": {
+        "name": "El Charal",
+        "url": "https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "El Charal",
+      "url": "https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt"
+    },
+    {
+      "added_at": "2024-02-09 05:16:08",
+      "album": {
+        "name": "Aqua",
+        "url": "https://open.spotify.com/album/2qcGwvk6m8GWYalsZVwgMt"
+      },
+      "artists": [
+        {
+          "name": "Certified Trapper",
+          "url": "https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13"
+        }
+      ],
+      "duration_ms": 144126,
+      "name": "Aqua",
+      "url": "https://open.spotify.com/track/1kgrlt4ONFaRoIXNGrIf5B"
+    },
     {
       "added_at": "2024-02-02 05:38:33",
       "album": {

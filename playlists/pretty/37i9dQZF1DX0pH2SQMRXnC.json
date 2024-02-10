@@ -1,12 +1,12 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1272498,
+  "num_followers": 1272744,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTFjM2RiMTQyY2E3NjA3NGJmZTIzNDllZjJkNjA1MGYyN2ZjNDIx",
+  "snapshot_id": "MCw1ZWU2MmFiM2U0ZTM3ZjU3MjBlMGI5MjJjNWU0NTI0YjgxM2Q2YjJk",
   "tracks": [
     {
       "added_at": "2024-02-08 23:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Activation",
+        "url": "https://open.spotify.com/album/0EyjSmdFYi2h95rE95dWES"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "duration_ms": 175874,
+      "name": "Activation",
+      "url": "https://open.spotify.com/track/6YHtcC9r1TQ4NDEVqu84KM"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Creep (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/0Qi2ncqZObbbkOlAt8MI92"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 187000,
       "name": "Creep - Hardstyle Remix",
       "url": "https://open.spotify.com/track/3VwxvFdVh7i0NdroGxP3oz"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Activation",
-        "url": "https://open.spotify.com/album/0EyjSmdFYi2h95rE95dWES"
-      },
-      "artists": [
-        {
-          "name": "Aversion",
-          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
-        }
-      ],
-      "duration_ms": 175874,
-      "name": "Activation",
-      "url": "https://open.spotify.com/track/6YHtcC9r1TQ4NDEVqu84KM"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/4uU3ipmcw8g1xUNrYwVpRY"
-      },
-      "artists": [
-        {
-          "name": "Galwaro",
-          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
-        },
-        {
-          "name": "Behmer",
-          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
-        }
-      ],
-      "duration_ms": 182479,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/34Bw1YNUaB58jL6dgRB3ST"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Rave Culture 2022",
         "url": "https://open.spotify.com/album/7eMRu6zbiy4TuYQRGrKl6o"
       },
@@ -1131,6 +1111,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/1IJlUWOEIvjfweNgnGDlmU"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "duration_ms": 217503,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/58vvcs6zKY0a5YLOI2ARrE"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Supa Dupa Fly",
         "url": "https://open.spotify.com/album/6AsthfXuyR0Ue12N7iFLCR"
       },
@@ -1147,22 +1143,6 @@
       "duration_ms": 191413,
       "name": "Supa Dupa Fly",
       "url": "https://open.spotify.com/track/1f1oSxTFtI9WN7X6GvzMtF"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Hiding",
-        "url": "https://open.spotify.com/album/1IJlUWOEIvjfweNgnGDlmU"
-      },
-      "artists": [
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        }
-      ],
-      "duration_ms": 217503,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/58vvcs6zKY0a5YLOI2ARrE"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1359,30 +1339,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Lose My Mind (Sub Zero Project Remix)",
-        "url": "https://open.spotify.com/album/0HY3yiWBKTwR9DxEgVYSZY"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 253012,
-      "name": "Lose My Mind - Sub Zero Project Remix",
-      "url": "https://open.spotify.com/track/6FQTEo5HfXoMzXV513unv9"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Geisterbahn",
         "url": "https://open.spotify.com/album/72CzcpUgHhEYsDPlrZVllJ"
       },
@@ -1403,6 +1359,30 @@
       "duration_ms": 158038,
       "name": "Geisterbahn",
       "url": "https://open.spotify.com/track/0b368rOCLexAaKX2fXPnFj"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Lose My Mind (Sub Zero Project Remix)",
+        "url": "https://open.spotify.com/album/0HY3yiWBKTwR9DxEgVYSZY"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 253012,
+      "name": "Lose My Mind - Sub Zero Project Remix",
+      "url": "https://open.spotify.com/track/6FQTEo5HfXoMzXV513unv9"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1555,6 +1535,26 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "STAR WALKIN'",
+        "url": "https://open.spotify.com/album/4cqwObHDCAIYonclFtkGLI"
+      },
+      "artists": [
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "NOTYPE",
+          "url": "https://open.spotify.com/artist/2yeWw576LDl0VWmHiz8uwI"
+        }
+      ],
+      "duration_ms": 184511,
+      "name": "STAR WALKIN'",
+      "url": "https://open.spotify.com/track/4OFGSQdbd3OPgSr4uNO2iy"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "The Kids Aren't Alright",
         "url": "https://open.spotify.com/album/2FGSO5RaolhLysdhphlgLr"
       },
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "STAR WALKIN'",
-        "url": "https://open.spotify.com/album/4cqwObHDCAIYonclFtkGLI"
-      },
-      "artists": [
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        },
-        {
-          "name": "NOTYPE",
-          "url": "https://open.spotify.com/artist/2yeWw576LDl0VWmHiz8uwI"
-        }
-      ],
-      "duration_ms": 184511,
-      "name": "STAR WALKIN'",
-      "url": "https://open.spotify.com/track/4OFGSQdbd3OPgSr4uNO2iy"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "The Flame Inside",
         "url": "https://open.spotify.com/album/3UJaCyCiERfPBcfIJbPzqr"
       },
@@ -1659,66 +1639,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/6nbQRswXW5OFHFZFw8y1YZ"
-      },
-      "artists": [
-        {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 167294,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Come Take My Hand (Ran-D Remix)",
-        "url": "https://open.spotify.com/album/06a36yj8fqrm8MUFeI7qO4"
-      },
-      "artists": [
-        {
-          "name": "2 Brothers On The 4th Floor",
-          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
-        },
-        {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
-        }
-      ],
-      "duration_ms": 262550,
-      "name": "Come Take My Hand - Ran-D Remix",
-      "url": "https://open.spotify.com/track/4plFHRIYpyvO46CWG2UMvG"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "What's Up?",
-        "url": "https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "What's Up?",
-      "url": "https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "FLYIN' HIGH",
         "url": "https://open.spotify.com/album/6BOQuHrxkGTWt41OsSgod7"
       },
@@ -1739,22 +1659,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Weekend Party",
-        "url": "https://open.spotify.com/album/4iELrv5c4zQNNlzEZdLdo1"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/6nbQRswXW5OFHFZFw8y1YZ"
       },
       "artists": [
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
         },
         {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
         }
       ],
-      "duration_ms": 143600,
-      "name": "Weekend Party",
-      "url": "https://open.spotify.com/track/6l6qbSwlEAWRGfbL5sf8y8"
+      "duration_ms": 167294,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1779,6 +1699,66 @@
       "duration_ms": 170117,
       "name": "Oh Fortuna - Carmina Burana",
       "url": "https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "What's Up?",
+        "url": "https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Come Take My Hand (Ran-D Remix)",
+        "url": "https://open.spotify.com/album/06a36yj8fqrm8MUFeI7qO4"
+      },
+      "artists": [
+        {
+          "name": "2 Brothers On The 4th Floor",
+          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
+        },
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        }
+      ],
+      "duration_ms": 262550,
+      "name": "Come Take My Hand - Ran-D Remix",
+      "url": "https://open.spotify.com/track/4plFHRIYpyvO46CWG2UMvG"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Weekend Party",
+        "url": "https://open.spotify.com/album/4iELrv5c4zQNNlzEZdLdo1"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "duration_ms": 143600,
+      "name": "Weekend Party",
+      "url": "https://open.spotify.com/track/6l6qbSwlEAWRGfbL5sf8y8"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1871,6 +1851,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Chase The Sun (Hardstyle Mix)",
+        "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
+      },
+      "artists": [
+        {
+          "name": "Psyko Punkz",
+          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
+        }
+      ],
+      "duration_ms": 135967,
+      "name": "Chase The Sun (Hardstyle Mix)",
+      "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Project X",
         "url": "https://open.spotify.com/album/3tDF74RCFMmoNcvFptOXxW"
       },
@@ -1887,22 +1883,6 @@
       "duration_ms": 158000,
       "name": "Project X",
       "url": "https://open.spotify.com/track/7q2EWEolm4VaE1qAnl7c1W"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Chase The Sun (Hardstyle Mix)",
-        "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
-      },
-      "artists": [
-        {
-          "name": "Psyko Punkz",
-          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
-        }
-      ],
-      "duration_ms": 135967,
-      "name": "Chase The Sun (Hardstyle Mix)",
-      "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1931,6 +1911,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Euphoria (Hardstyle Edit)",
+        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
+      },
+      "artists": [
+        {
+          "name": "Julian Brandts",
+          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Euphoria - Hardstyle Edit",
+      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
       },
@@ -1955,38 +1951,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Feel So Good",
-        "url": "https://open.spotify.com/album/1JuieeW86pG1yMTvmis54g"
-      },
-      "artists": [
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 215225,
-      "name": "Feel So Good",
-      "url": "https://open.spotify.com/track/0fnrHmbApoVm9Zt8jIwKsi"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Euphoria (Hardstyle Edit)",
-        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
-      },
-      "artists": [
-        {
-          "name": "Julian Brandts",
-          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Euphoria - Hardstyle Edit",
-      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Keepers Of Our Legacy",
         "url": "https://open.spotify.com/album/0hF85b1g0YOWqRorVVUlkF"
       },
@@ -2003,6 +1967,22 @@
       "duration_ms": 252549,
       "name": "Keepers Of Our Legacy",
       "url": "https://open.spotify.com/track/7w06cAEK8P7PzQCopSQyuJ"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Feel So Good",
+        "url": "https://open.spotify.com/album/1JuieeW86pG1yMTvmis54g"
+      },
+      "artists": [
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "duration_ms": 215225,
+      "name": "Feel So Good",
+      "url": "https://open.spotify.com/track/0fnrHmbApoVm9Zt8jIwKsi"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -2087,6 +2067,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Rise Again (Defqon.1 2022 Closing Theme)",
+        "url": "https://open.spotify.com/album/1eO3xCCiCtzPmeuEwJUTbH"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "duration_ms": 237057,
+      "name": "Rise Again (Defqon.1 2022 Closing Theme)",
+      "url": "https://open.spotify.com/track/5U8ciuvj0LDMk9h66NhwzR"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Died In Your Arms (Reloaded)",
         "url": "https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko"
       },
@@ -2119,22 +2115,6 @@
       "duration_ms": 331798,
       "name": "The Soul",
       "url": "https://open.spotify.com/track/7EOZRhI98MiZQXJI8bNIKQ"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Rise Again (Defqon.1 2022 Closing Theme)",
-        "url": "https://open.spotify.com/album/1eO3xCCiCtzPmeuEwJUTbH"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        }
-      ],
-      "duration_ms": 237057,
-      "name": "Rise Again (Defqon.1 2022 Closing Theme)",
-      "url": "https://open.spotify.com/track/5U8ciuvj0LDMk9h66NhwzR"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -2287,6 +2267,26 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Dragonborn part 3 (Oceans Apart) [feat. Sian Evans]",
+        "url": "https://open.spotify.com/album/2l97HApmO6hOSm2bTQTnks"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        },
+        {
+          "name": "Sian Evans",
+          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
+        }
+      ],
+      "duration_ms": 210163,
+      "name": "Dragonborn part 3 (Oceans Apart)",
+      "url": "https://open.spotify.com/track/6c0vdY5EZOx8g95uWcp3uI"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Into the Night",
         "url": "https://open.spotify.com/album/0LL0D6ryvVY1qF5lh98Tuo"
       },
@@ -2387,26 +2387,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Dragonborn part 3 (Oceans Apart) [feat. Sian Evans]",
-        "url": "https://open.spotify.com/album/2l97HApmO6hOSm2bTQTnks"
-      },
-      "artists": [
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        },
-        {
-          "name": "Sian Evans",
-          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
-        }
-      ],
-      "duration_ms": 210163,
-      "name": "Dragonborn part 3 (Oceans Apart)",
-      "url": "https://open.spotify.com/track/6c0vdY5EZOx8g95uWcp3uI"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Vendetta (X-Qlusive OST)",
         "url": "https://open.spotify.com/album/07YoVUzYhdzlJvKeIriPTV"
       },
@@ -2503,22 +2483,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Drilla Killa",
-        "url": "https://open.spotify.com/album/2lrISCnRWMbaRWbuHkWSLX"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Drilla Killa",
-      "url": "https://open.spotify.com/track/5c5q9FQNfTJiuS3EuVG5xu"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/69XAJqiyCPEEdnlnkZThVE"
       },
@@ -2535,22 +2499,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Superstring (Aftershock Remix)",
-        "url": "https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y"
+        "name": "Drilla Killa",
+        "url": "https://open.spotify.com/album/2lrISCnRWMbaRWbuHkWSLX"
       },
       "artists": [
         {
-          "name": "Cygnus X",
-          "url": "https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG"
-        },
-        {
-          "name": "Aftershock",
-          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
         }
       ],
-      "duration_ms": 144020,
-      "name": "Superstring - Aftershock Remix",
-      "url": "https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2"
+      "duration_ms": 171000,
+      "name": "Drilla Killa",
+      "url": "https://open.spotify.com/track/5c5q9FQNfTJiuS3EuVG5xu"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -2575,6 +2535,26 @@
       "duration_ms": 169593,
       "name": "End Of The World - Dr Phunk Remix",
       "url": "https://open.spotify.com/track/1PvfA3XKU7k7QAecko4Yb5"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Superstring (Aftershock Remix)",
+        "url": "https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y"
+      },
+      "artists": [
+        {
+          "name": "Cygnus X",
+          "url": "https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG"
+        },
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        }
+      ],
+      "duration_ms": 144020,
+      "name": "Superstring - Aftershock Remix",
+      "url": "https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -2615,22 +2595,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Music Of The Mind",
-        "url": "https://open.spotify.com/album/1GbybeTHGXQxIdpUsDco8i"
-      },
-      "artists": [
-        {
-          "name": "Envine",
-          "url": "https://open.spotify.com/artist/4jxFb0CASzyps1aMpZOxyi"
-        }
-      ],
-      "duration_ms": 183945,
-      "name": "Music Of The Mind",
-      "url": "https://open.spotify.com/track/0KoIrrbZr8rMXhFQK8T5Eg"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Into Ecstasy",
         "url": "https://open.spotify.com/album/35sHRlNmi8fHRpKSBvHew5"
       },
@@ -2643,6 +2607,22 @@
       "duration_ms": 209032,
       "name": "Into Ecstasy",
       "url": "https://open.spotify.com/track/20vPjvIzwKbrldAAuHcTwc"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Music Of The Mind",
+        "url": "https://open.spotify.com/album/1GbybeTHGXQxIdpUsDco8i"
+      },
+      "artists": [
+        {
+          "name": "Envine",
+          "url": "https://open.spotify.com/artist/4jxFb0CASzyps1aMpZOxyi"
+        }
+      ],
+      "duration_ms": 183945,
+      "name": "Music Of The Mind",
+      "url": "https://open.spotify.com/track/0KoIrrbZr8rMXhFQK8T5Eg"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -2775,26 +2755,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Broken Dreams",
-        "url": "https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX"
-      },
-      "artists": [
-        {
-          "name": "Re-Style",
-          "url": "https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E"
-        },
-        {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
-        }
-      ],
-      "duration_ms": 222631,
-      "name": "Broken Dreams",
-      "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Dance With The Devil",
         "url": "https://open.spotify.com/album/77vCE2hnQJrDj2ADGtiW1D"
       },
@@ -2819,22 +2779,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Meine Droge",
-        "url": "https://open.spotify.com/album/3xlsaWASj6MxqlOGSc6vRZ"
+        "name": "Broken Dreams",
+        "url": "https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX"
       },
       "artists": [
         {
-          "name": "Jebroer",
-          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+          "name": "Re-Style",
+          "url": "https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E"
         },
         {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Meine Droge",
-      "url": "https://open.spotify.com/track/0lVT7OTMU8nNQubxsKMYr8"
+      "duration_ms": 222631,
+      "name": "Broken Dreams",
+      "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -2855,6 +2815,26 @@
       "duration_ms": 177387,
       "name": "Garden Of Magic",
       "url": "https://open.spotify.com/track/4SadIiJGMYMFltjEbqG3Ik"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Meine Droge",
+        "url": "https://open.spotify.com/album/3xlsaWASj6MxqlOGSc6vRZ"
+      },
+      "artists": [
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Meine Droge",
+      "url": "https://open.spotify.com/track/0lVT7OTMU8nNQubxsKMYr8"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -2923,22 +2903,26 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Fight Fire With Fire",
-        "url": "https://open.spotify.com/album/6oKINzLGrSfWVI3mgavP2m"
+        "name": "Das Boot",
+        "url": "https://open.spotify.com/album/0xzYXSeSEz4FMJ7uz2Qbnc"
       },
       "artists": [
         {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+          "name": "Noisecontrollers",
+          "url": "https://open.spotify.com/artist/6qJ61DomA73g7jQEKESw9Z"
         },
         {
-          "name": "LePrince",
-          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
         }
       ],
-      "duration_ms": 235919,
-      "name": "Fight Fire With Fire",
-      "url": "https://open.spotify.com/track/0qJSS2q0Ch4KrVqSMJXYj3"
+      "duration_ms": 233600,
+      "name": "Das Boot",
+      "url": "https://open.spotify.com/track/5qhB24xr7TbpHmpNXOAeMC"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -2983,6 +2967,26 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Fight Fire With Fire",
+        "url": "https://open.spotify.com/album/6oKINzLGrSfWVI3mgavP2m"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "LePrince",
+          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
+        }
+      ],
+      "duration_ms": 235919,
+      "name": "Fight Fire With Fire",
+      "url": "https://open.spotify.com/track/0qJSS2q0Ch4KrVqSMJXYj3"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/6WN1NA4eXWtdmNdXzjxEVS"
       },
@@ -2995,30 +2999,6 @@
       "duration_ms": 182000,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1bc1ykb05EfBvnzjOmqvmi"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Das Boot",
-        "url": "https://open.spotify.com/album/0xzYXSeSEz4FMJ7uz2Qbnc"
-      },
-      "artists": [
-        {
-          "name": "Noisecontrollers",
-          "url": "https://open.spotify.com/artist/6qJ61DomA73g7jQEKESw9Z"
-        },
-        {
-          "name": "Atmozfears",
-          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
-        },
-        {
-          "name": "B-Front",
-          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Das Boot",
-      "url": "https://open.spotify.com/track/5qhB24xr7TbpHmpNXOAeMC"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -3039,30 +3019,6 @@
       "duration_ms": 223659,
       "name": "Running up That Hill",
       "url": "https://open.spotify.com/track/05kWHB3BEfFsP4ti1x6IWY"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Illuminate",
-        "url": "https://open.spotify.com/album/04Jeg1qvzqUKsEzSUx1IG9"
-      },
-      "artists": [
-        {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
-        },
-        {
-          "name": "Villain",
-          "url": "https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3"
-        },
-        {
-          "name": "XCEPTION",
-          "url": "https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm"
-        }
-      ],
-      "duration_ms": 197762,
-      "name": "Never Going Home",
-      "url": "https://open.spotify.com/track/2GgZKNF9U4koBfmSuFAUoA"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -3187,6 +3143,30 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Illuminate",
+        "url": "https://open.spotify.com/album/04Jeg1qvzqUKsEzSUx1IG9"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Villain",
+          "url": "https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3"
+        },
+        {
+          "name": "XCEPTION",
+          "url": "https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm"
+        }
+      ],
+      "duration_ms": 197762,
+      "name": "Never Going Home",
+      "url": "https://open.spotify.com/track/2GgZKNF9U4koBfmSuFAUoA"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "NRG OVERLOAD",
         "url": "https://open.spotify.com/album/4xzs97Rgelf8TAec8xvoz5"
       },
@@ -3259,18 +3239,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "No Paradise",
-        "url": "https://open.spotify.com/album/6hq96WXyeVwi6UpYMaATa9"
+        "name": "Rest In Pieces",
+        "url": "https://open.spotify.com/album/4TvaNm9rb4wZAwOtE4wF1T"
       },
       "artists": [
         {
           "name": "Warface",
           "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "Iris Goes",
+          "url": "https://open.spotify.com/artist/5UpRlAIULn04YlwQPwpKj2"
         }
       ],
-      "duration_ms": 241548,
-      "name": "No Paradise",
-      "url": "https://open.spotify.com/track/0N4QGYBSaeRwmo4pxuEG0x"
+      "duration_ms": 192000,
+      "name": "Rest In Pieces",
+      "url": "https://open.spotify.com/track/7iaHUmMUyXUHfVVJrOKyLC"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -3307,6 +3291,26 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Eternal Flame",
+        "url": "https://open.spotify.com/album/42wbAGw7UTNRHpNTPdg9li"
+      },
+      "artists": [
+        {
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+        },
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "duration_ms": 177384,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/6hJOslrB3jquQksSqUTJ7Y"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Happy Place (feat. Cathrine Lassen) [Remixes]",
         "url": "https://open.spotify.com/album/6V40Z5TgW5oQTOLcVjB9ev"
       },
@@ -3327,26 +3331,6 @@
       "duration_ms": 197927,
       "name": "Happy Place (feat. Cathrine Lassen) - Refuzion Remix",
       "url": "https://open.spotify.com/track/2PMzTucvbLGxeHxoFS5giO"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Eternal Flame",
-        "url": "https://open.spotify.com/album/42wbAGw7UTNRHpNTPdg9li"
-      },
-      "artists": [
-        {
-          "name": "KELTEK",
-          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
-        },
-        {
-          "name": "Aversion",
-          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
-        }
-      ],
-      "duration_ms": 177384,
-      "name": "Eternal Flame",
-      "url": "https://open.spotify.com/track/6hJOslrB3jquQksSqUTJ7Y"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -3495,26 +3479,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "I'm Sorry",
-        "url": "https://open.spotify.com/album/0T8KGYGLlDmCtAtUjAdIKc"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
-        }
-      ],
-      "duration_ms": 204387,
-      "name": "I'm Sorry",
-      "url": "https://open.spotify.com/track/2zXZRMT3mmi0ALGX6WXKw3"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Synergy (Reverze Anthem 2023)",
         "url": "https://open.spotify.com/album/2DFnOsiIW1zeJhkB9LPfzr"
       },
@@ -3531,18 +3495,42 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Mr Brightside",
-        "url": "https://open.spotify.com/album/2bgIA2bqZ61g9VLf1sOSCR"
+        "name": "Sun Comes Up",
+        "url": "https://open.spotify.com/album/7sBdYRoRxO2kSHsGIKcaV9"
       },
       "artists": [
         {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        },
+        {
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
         }
       ],
-      "duration_ms": 230412,
-      "name": "Mr Brightside",
-      "url": "https://open.spotify.com/track/6x19X5cibbIjsCtlzsgZEY"
+      "duration_ms": 212146,
+      "name": "Sun Comes Up",
+      "url": "https://open.spotify.com/track/2GVhChi8rNLrfcfHjzFVQq"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/0T8KGYGLlDmCtAtUjAdIKc"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        }
+      ],
+      "duration_ms": 204387,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/2zXZRMT3mmi0ALGX6WXKw3"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -3567,22 +3555,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Sun Comes Up",
-        "url": "https://open.spotify.com/album/7sBdYRoRxO2kSHsGIKcaV9"
+        "name": "Mr Brightside",
+        "url": "https://open.spotify.com/album/2bgIA2bqZ61g9VLf1sOSCR"
       },
       "artists": [
         {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        },
-        {
-          "name": "Maikki",
-          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
         }
       ],
-      "duration_ms": 212146,
-      "name": "Sun Comes Up",
-      "url": "https://open.spotify.com/track/2GVhChi8rNLrfcfHjzFVQq"
+      "duration_ms": 230412,
+      "name": "Mr Brightside",
+      "url": "https://open.spotify.com/track/6x19X5cibbIjsCtlzsgZEY"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -3643,6 +3627,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Hunters Lullaby 2020",
+        "url": "https://open.spotify.com/album/3Zx1ups2lvkCmbX7kiccFv"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ien",
+          "url": "https://open.spotify.com/artist/5qNp5UbIhNLdYVIAg4Sxic"
+        }
+      ],
+      "duration_ms": 173754,
+      "name": "Hunters Lullaby 2020",
+      "url": "https://open.spotify.com/track/0ZvKkulRYWDCheU3Wb9yFY"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Brutal X",
         "url": "https://open.spotify.com/album/4rsB0wKx8FDBW9Fdgsu9Bq"
       },
@@ -3675,22 +3675,6 @@
       "duration_ms": 231157,
       "name": "Break The Rules",
       "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Hunters Lullaby 2020",
-        "url": "https://open.spotify.com/album/3Zx1ups2lvkCmbX7kiccFv"
-      },
-      "artists": [
-        {
-          "name": "\u00d8ien",
-          "url": "https://open.spotify.com/artist/5qNp5UbIhNLdYVIAg4Sxic"
-        }
-      ],
-      "duration_ms": 173754,
-      "name": "Hunters Lullaby 2020",
-      "url": "https://open.spotify.com/track/0ZvKkulRYWDCheU3Wb9yFY"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -3919,6 +3903,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/7rOhx7pN6AsM9cBhCuUgPn"
+      },
+      "artists": [
+        {
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/0dbttB5xr4M0Q1lQQXfAwI"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Ready To Roll (Deluzion Remix)",
         "url": "https://open.spotify.com/album/0FNcTK2m56Lop2faUm21US"
       },
@@ -3939,18 +3939,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/7rOhx7pN6AsM9cBhCuUgPn"
+        "name": "Let's Go Insane (Into The Madness 2023 OST)",
+        "url": "https://open.spotify.com/album/10wLUtDoGhJE1Jv0ARmRv9"
       },
       "artists": [
         {
-          "name": "Zatox",
-          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/0dbttB5xr4M0Q1lQQXfAwI"
+      "duration_ms": 215688,
+      "name": "Let's Go Insane (Into The Madness 2023 OST)",
+      "url": "https://open.spotify.com/track/4sCkVuX3Nj0guPB7LCksHt"
     },
     {
       "added_at": "2024-02-08 23:00:00",

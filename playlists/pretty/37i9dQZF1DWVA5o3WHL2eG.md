@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: anaïs
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,030 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,032 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 12 | [BAUM](https://open.spotify.com/track/4fH8xERQuzAh1pfn5ZEQkS) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [BAUM](https://open.spotify.com/album/4JGG9900H46EBP4vR0GYyI) | 3:08 |
 | 13 | [Gangster tanzen nicht](https://open.spotify.com/track/60jHbQpCA3AUi0iAj5HzSt) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [Gangster tanzen nicht](https://open.spotify.com/album/1LbrdIsJZmHmxeIQokCR6C) | 2:36 |
 | 14 | [Satisfaction](https://open.spotify.com/track/6t83LKUuq89PAcpT45VE60) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90), [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Satisfaction](https://open.spotify.com/album/1xR4W0zwF5GsH3FHsswIxS) | 2:27 |
-| 15 | [Like I Was Never Here](https://open.spotify.com/track/6AgTZEc2plzPodX3u1RGEY) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Like I Was Never Here](https://open.spotify.com/album/6dMAhrIk1KGPNaQpZebYHg) | 3:38 |
-| 16 | [Golden Child](https://open.spotify.com/track/7zly5twd2G3tWW7facoUQB) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Golden Child](https://open.spotify.com/album/4ZxJonyYAqmrqTBa2FFRUt) | 7:06 |
-| 17 | [find mich](https://open.spotify.com/track/03S9KJa8pBjjV7K71pNQgf) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD), [Whitey](https://open.spotify.com/artist/31HMcpiwcEdIUpPOQuqQfW) | [find mich](https://open.spotify.com/album/2Z8dDJt41rXa5xCET8mdn7) | 2:04 |
-| 18 | [Mit Dir](https://open.spotify.com/track/0mcsqmNDZrdOPUvVnwpo9h) | [MOLLY SUE](https://open.spotify.com/artist/1UmeDUPF1A9xnmyzE8O2fA) | [Mit Dir](https://open.spotify.com/album/4yzMntUkyuX8gYyWFlNMLO) | 2:25 |
-| 19 | [Kaiserschnitt \(feat\. Ava Ion\)](https://open.spotify.com/track/4piBK9ccPo1wo7tWM4KTJX) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Ava Ion](https://open.spotify.com/artist/4U2Nq8u4KncAY0jYKvUje2) | [Kaiserschnitt](https://open.spotify.com/album/2qJEwShgYaABgzEj9djsXH) | 3:10 |
+| 15 | [find mich](https://open.spotify.com/track/03S9KJa8pBjjV7K71pNQgf) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD), [Whitey](https://open.spotify.com/artist/31HMcpiwcEdIUpPOQuqQfW) | [find mich](https://open.spotify.com/album/2Z8dDJt41rXa5xCET8mdn7) | 2:04 |
+| 16 | [Like I Was Never Here](https://open.spotify.com/track/6AgTZEc2plzPodX3u1RGEY) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Like I Was Never Here](https://open.spotify.com/album/6dMAhrIk1KGPNaQpZebYHg) | 3:38 |
+| 17 | [Golden Child](https://open.spotify.com/track/7zly5twd2G3tWW7facoUQB) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Golden Child](https://open.spotify.com/album/4ZxJonyYAqmrqTBa2FFRUt) | 7:06 |
+| 18 | [Kaiserschnitt \(feat\. Ava Ion\)](https://open.spotify.com/track/4piBK9ccPo1wo7tWM4KTJX) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Ava Ion](https://open.spotify.com/artist/4U2Nq8u4KncAY0jYKvUje2) | [Kaiserschnitt](https://open.spotify.com/album/2qJEwShgYaABgzEj9djsXH) | 3:10 |
+| 19 | [Mit Dir](https://open.spotify.com/track/0mcsqmNDZrdOPUvVnwpo9h) | [MOLLY SUE](https://open.spotify.com/artist/1UmeDUPF1A9xnmyzE8O2fA) | [Mit Dir](https://open.spotify.com/album/4yzMntUkyuX8gYyWFlNMLO) | 2:25 |
 | 20 | [Alle schauen](https://open.spotify.com/track/3sDHToggwdYQdRhpyXLMra) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Alle schauen](https://open.spotify.com/album/3AOj1hddMoKKy1JUvRsSUe) | 2:23 |
 | 21 | [Oh mein Gott](https://open.spotify.com/track/4YBPf11XttGdZFOGEh4TQe) | [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs), [KazOnDaBeat](https://open.spotify.com/artist/7mnmr8BPHhEEYFwIHlclFt) | [Oh mein Gott](https://open.spotify.com/album/2ZEQ2MR5pkmxMmpf28ELl3) | 2:03 |
 | 22 | [Worst Poisons Taste the Sweetest](https://open.spotify.com/track/2VB9UYFqo0tIEyMPEMJljh) | [Isabelle Beaucamp](https://open.spotify.com/artist/4RrxhOmXj9bjyb5kXwt3Pz) | [Worst Poisons Taste the Sweetest](https://open.spotify.com/album/3xx8Sc6Z1ltqS3ws6Of4QW) | 6:17 |
@@ -37,20 +37,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 27 | [Lovely](https://open.spotify.com/track/07lVT57m4NGsFvZWMv2vxQ) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lovely](https://open.spotify.com/album/2Ol7eVHaVtcwqr3sBTSmC3) | 3:07 |
 | 28 | [MONEY BAGS](https://open.spotify.com/track/6cbl94N6hnZ7Opr6GcEeBa) | [TRINA](https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ) | [MONEY BAGS](https://open.spotify.com/album/2okuQSEo20KIwqHafU48vi) | 2:30 |
 | 29 | [boys who go to therapy](https://open.spotify.com/track/75O7pRqTSETi5Ryb2XJ1IG) | [PENNY X](https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi) | [boys who go to therapy](https://open.spotify.com/album/75HEenlcKpG2InZ4s7DZxq) | 2:28 |
-| 30 | [lolita](https://open.spotify.com/track/5aG4QJ3Kzj9xWPdAFw00Bb) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [lolita](https://open.spotify.com/album/5AajzMoNWCklGCcN9E7MUI) | 2:34 |
-| 31 | [nicht mal nihilist](https://open.spotify.com/track/7r8cLxIuHH5unKxrCjrgOC) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [nicht mal nihilist](https://open.spotify.com/album/2XaCEABalhmbNnjjoc3m3J) | 3:47 |
+| 30 | [nicht mal nihilist](https://open.spotify.com/track/7r8cLxIuHH5unKxrCjrgOC) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [nicht mal nihilist](https://open.spotify.com/album/2XaCEABalhmbNnjjoc3m3J) | 3:47 |
+| 31 | [lolita](https://open.spotify.com/track/5aG4QJ3Kzj9xWPdAFw00Bb) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [lolita](https://open.spotify.com/album/5AajzMoNWCklGCcN9E7MUI) | 2:34 |
 | 32 | [deplatziert](https://open.spotify.com/track/3RydWx9dRmRJmvrEBoCAJK) | [ameliy](https://open.spotify.com/artist/3T4fIhGxnUtCJ84Us8H8Gj) | [deplatziert](https://open.spotify.com/album/7dHyTpo3DhRwRnX3O98Mti) | 2:50 |
 | 33 | [Boo'd Up](https://open.spotify.com/track/5yNWmUaZWocjYaSsjttrPW) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Boo'd Up](https://open.spotify.com/album/3XwdzmLhKmxRkzfjtwRNSJ) | 1:54 |
-| 34 | [Schleudertrauma](https://open.spotify.com/track/6dMkJN3pr9OR1HvOosTNNK) | [linna](https://open.spotify.com/artist/4EgjoNttrpi5WU1lIMWs1J) | [Schleudertrauma](https://open.spotify.com/album/4hLsRhE24dkJOeaBaBe1bO) | 2:41 |
-| 35 | [Sakura](https://open.spotify.com/track/3LgHqvm344AweV924Zcgd9) | [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Sakura](https://open.spotify.com/album/19TnzXcSCLzpSGtS1CzsOW) | 2:43 |
+| 34 | [Sakura](https://open.spotify.com/track/3LgHqvm344AweV924Zcgd9) | [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Sakura](https://open.spotify.com/album/19TnzXcSCLzpSGtS1CzsOW) | 2:43 |
+| 35 | [Schleudertrauma](https://open.spotify.com/track/6dMkJN3pr9OR1HvOosTNNK) | [linna](https://open.spotify.com/artist/4EgjoNttrpi5WU1lIMWs1J) | [Schleudertrauma](https://open.spotify.com/album/4hLsRhE24dkJOeaBaBe1bO) | 2:41 |
 | 36 | [oh my messy mind](https://open.spotify.com/track/70YcgcIRmCzux3UNwiGCPV) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [oh my messy mind](https://open.spotify.com/album/0B2JJ0hBxgTgExfN859HQt) | 2:47 |
-| 37 | [No Good](https://open.spotify.com/track/4fSumqfqyd2NrqI0HoRxWE) | [SISKA](https://open.spotify.com/artist/19q87hpkmn9TWk4164sHsN) | [No Good](https://open.spotify.com/album/6xo8ZSYGtlVcSTsw3S8Jom) | 2:54 |
-| 38 | [Zeit Steht](https://open.spotify.com/track/5FPEVMCJ86BZUvhlZVOGNe) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot) | [Zeit steht](https://open.spotify.com/album/1yO3lLVbRky3el8nFBfWZw) | 3:20 |
-| 39 | [Parasol](https://open.spotify.com/track/3u7AAViN58FXUYuE5db849) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Parasol](https://open.spotify.com/album/6SJeS83n9HgC4nmtwHyTjE) | 3:35 |
-| 40 | [Green Blue Violet \(Love Is Pain\)](https://open.spotify.com/track/0bpykpzP4TNPhOkQaGwXo0) | [CHRISTL](https://open.spotify.com/artist/7umYHv93hQAIJaGD7qUf6W) | [Green Blue Violet \(Love Is Pain\)](https://open.spotify.com/album/6ugCyZdalUQiJf52EfEuez) | 2:58 |
+| 37 | [Green Blue Violet \(Love Is Pain\)](https://open.spotify.com/track/0bpykpzP4TNPhOkQaGwXo0) | [CHRISTL](https://open.spotify.com/artist/7umYHv93hQAIJaGD7qUf6W) | [Green Blue Violet \(Love Is Pain\)](https://open.spotify.com/album/6ugCyZdalUQiJf52EfEuez) | 2:58 |
+| 38 | [No Good](https://open.spotify.com/track/4fSumqfqyd2NrqI0HoRxWE) | [SISKA](https://open.spotify.com/artist/19q87hpkmn9TWk4164sHsN) | [No Good](https://open.spotify.com/album/6xo8ZSYGtlVcSTsw3S8Jom) | 2:54 |
+| 39 | [Zeit Steht](https://open.spotify.com/track/5FPEVMCJ86BZUvhlZVOGNe) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot) | [Zeit steht](https://open.spotify.com/album/1yO3lLVbRky3el8nFBfWZw) | 3:20 |
+| 40 | [Parasol](https://open.spotify.com/track/3u7AAViN58FXUYuE5db849) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Parasol](https://open.spotify.com/album/6SJeS83n9HgC4nmtwHyTjE) | 3:35 |
 | 41 | [MONSTER](https://open.spotify.com/track/1Nrhmk93FjBG8zevcTDSH9) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [MONSTER](https://open.spotify.com/album/3HlASdUxisoWlTgyZX5rKI) | 2:56 |
-| 42 | [Sie tanzt allein](https://open.spotify.com/track/6Czs8OVQLhoz2Jz3HqfgDu) | [SHARI](https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS) | [Sie tanzt allein](https://open.spotify.com/album/0wDrPB6u5SlKOS6ZGJTKbJ) | 3:24 |
-| 43 | [Don't Wanna](https://open.spotify.com/track/5rGrH9RbXJN2TggEhHPkWW) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [Don't Wanna](https://open.spotify.com/album/2rt8p7jfKZf51IYPjKWC6t) | 3:05 |
+| 42 | [Don't Wanna](https://open.spotify.com/track/5rGrH9RbXJN2TggEhHPkWW) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [Don't Wanna](https://open.spotify.com/album/2rt8p7jfKZf51IYPjKWC6t) | 3:05 |
+| 43 | [Sie tanzt allein](https://open.spotify.com/track/6Czs8OVQLhoz2Jz3HqfgDu) | [SHARI](https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS) | [Sie tanzt allein](https://open.spotify.com/album/0wDrPB6u5SlKOS6ZGJTKbJ) | 3:24 |
 | 44 | [Something to Rely On](https://open.spotify.com/track/600ShBW2NpyeTmG2WEs7kM) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [Something to Rely On](https://open.spotify.com/album/7zHmAMbgYlhpoul9cY70H4) | 3:07 |
 | 45 | [SCHWARZLICHT](https://open.spotify.com/track/5vnYW09ymKioMNoS0xbKOd) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [SCHWARZLICHT](https://open.spotify.com/album/5U5btzd10yQGK1qrx4n3Fo) | 2:22 |
 | 46 | [The Table](https://open.spotify.com/track/4EcOdztLAdiksyn8ScGqdj) | [Nola Kin](https://open.spotify.com/artist/4rr8k0k3ZojhAxZuz1fJ9w) | [The Table](https://open.spotify.com/album/4DpxaAuDPgbgLDhsULAzEf) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Flying](https://open.spotify.com/track/5h16bxcl5nRetjRem1U99d) | [MISS C\-LINE](https://open.spotify.com/artist/5bV8ZGPcOGGa4GdagDCdBN) | [Flying](https://open.spotify.com/album/1fgMzYpta1MmTE1sdNvinn) | 3:40 |
 | 50 | [Pity Party](https://open.spotify.com/track/39rdTlOcLXu0eAVcUNngde) | [Crow Baby](https://open.spotify.com/artist/7cBPTTqPfTOtwNwXJ2YFK1) | [Pity Party](https://open.spotify.com/album/3w5Tl20Q3AZaTgPK8XEyVG) | 3:57 |
 
-Snapshot ID: `MCwzM2M0YjI0Y2Q3NmEwM2U4NjQ3Y2NkNWViOTBhNTFkMmNjYWIxYzRm`
+Snapshot ID: `MCw1NGRlMDhmNzM1NGI4YmU3MWYyNGJkNGE2NThmMDY1YzU4MTY4Y2Fi`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Blind Channel.",
+  "description": "n\u00fc-metal revival is happening here and now with P.O.D. and Tatiana Shmayluk from Jinger.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 145333,
       "name": "DISDAIN",
       "url": "https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq"
@@ -928,6 +928,50 @@
       "duration_ms": 226904,
       "name": "I'm Not Right",
       "url": "https://open.spotify.com/track/3mtwzP9E05Ad8sJCvrnRvK"
+    },
+    {
+      "album": {
+        "name": "It All Comes Down",
+        "url": "https://open.spotify.com/album/0TDbRYQYhtWJeXdNxNWoj8"
+      },
+      "artists": [
+        {
+          "name": "Kaosis",
+          "url": "https://open.spotify.com/artist/1G5YCahIziZdTa1YQkVSu7"
+        },
+        {
+          "name": "DJ Lethal",
+          "url": "https://open.spotify.com/artist/2ajHgsmpiyhXrx3JoigTO2"
+        },
+        {
+          "name": "SID",
+          "url": "https://open.spotify.com/artist/0lXoanKv5FWNS0o73XTGgP"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294247,
+      "name": "It All Comes Down",
+      "url": "https://open.spotify.com/track/6LtwJPYUY7NTrN6HxytepY"
+    },
+    {
+      "album": {
+        "name": "Kaneda",
+        "url": "https://open.spotify.com/album/5td63N8Cvw2nCZ7HfV5OK3"
+      },
+      "artists": [
+        {
+          "name": "Smash Hit Combo",
+          "url": "https://open.spotify.com/artist/7n9ZfBhbU4NJNSHNZWl76a"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188557,
+      "name": "Kaneda",
+      "url": "https://open.spotify.com/track/40CtKggBylHY7G3yUBYPyU"
     },
     {
       "album": {
@@ -1406,7 +1450,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 251816,
       "name": "Showdown",
       "url": "https://open.spotify.com/track/0dMlUGAmgBLLLjiufG5R18"
@@ -1655,6 +1699,24 @@
     },
     {
       "album": {
+        "name": "Today's My Day",
+        "url": "https://open.spotify.com/album/3sMegfJ3u6Uj9ZhYs01aNV"
+      },
+      "artists": [
+        {
+          "name": "BLACKGOLD",
+          "url": "https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215833,
+      "name": "Today's My Day",
+      "url": "https://open.spotify.com/track/4nAMZBsMJNxRT9SKs3bOOr"
+    },
+    {
+      "album": {
         "name": "Too Late",
         "url": "https://open.spotify.com/album/5xTfpkXcdVjW5RjiWl4PkF"
       },
@@ -1792,7 +1854,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 227330,
       "name": "VIOLENT PRINCIPLES",
       "url": "https://open.spotify.com/track/1DIeftYBThGuFnSE0uUv6J"

@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Duran Duran
 
-113 songs - 7 hr 21 min
+114 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,9 +108,10 @@
 | [The Conversation \- Single Mix](https://open.spotify.com/track/52LO0vfMz9sgTzXtSFU6Yz) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai), [Jeremy Wheatley](https://open.spotify.com/artist/0GJpMrjpR5nfgZgoM4YIgV) | [The Conversation](https://open.spotify.com/album/0aWkNZGf3JfmTVMuldbSne) | 3:20 | 2021-10-22 | 2022-07-30 |
 | [The Man with the Double Face \- Single Edit](https://open.spotify.com/track/0zjtWbgldOrqHYuVI2Tima) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [The Man with the Double Face](https://open.spotify.com/album/2gG0nKiqZvjUrk7TnXgPHd) | 3:23 | 2022-04-29 |  |
 | [The Tipping Point](https://open.spotify.com/track/3TVAzlsAyk0thTcwRMEIm2) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/2jYnm8r2J5d9FcqJMvZ85L) | 4:13 | 2021-10-22 | 2022-06-11 |
+| [The Wild Whaling Life](https://open.spotify.com/track/4LYvfJzVPipdGbSY2Ido5U) | [BrhyM](https://open.spotify.com/artist/3nPNUch0UScZ9OnAOhwUv3), [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo), [yMusic](https://open.spotify.com/artist/4h7DUL1L3RrCzquDp8xQXY) | [The Wild Whaling Life](https://open.spotify.com/album/3MavwXmGNlZ4kpqywYXa8K) | 4:21 | 2024-02-09 |  |
 | [Touchline](https://open.spotify.com/track/2AZVRikFuNWo0H8P85Xzmx) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Tears Of Hercules](https://open.spotify.com/album/2sjLgnR7JeVPRayrFoYjHs) | 3:55 | 2021-11-12 |  |
 | [True To Yourself](https://open.spotify.com/track/3rYUollaaz3IHp94BiRzCx) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [True To Yourself](https://open.spotify.com/album/6Y9rVFJIoUVpFwjbXTe6rE) | 4:01 | 2023-03-24 |  |
-| [Walls](https://open.spotify.com/track/4Re3AZ3OmQWxQHX0NtOzid) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Walls](https://open.spotify.com/album/5QDnUqAeP7Zq51NASyfri1) | 3:32 | 2021-10-22 |  |
+| [Walls](https://open.spotify.com/track/4Re3AZ3OmQWxQHX0NtOzid) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Walls](https://open.spotify.com/album/5QDnUqAeP7Zq51NASyfri1) | 3:32 | 2021-10-22 | 2024-02-10 |
 | [We Are The People \(feat\. Bono & The Edge\) \- Official UEFA EURO 2020 Song](https://open.spotify.com/track/1LFVyrx9ZRJ2IyDLRPG8VK) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP) | [We Are The People \(feat\. Bono & The Edge\) \[Official UEFA EURO 2020 Song\]](https://open.spotify.com/album/4Y3TDAf1jKhdithIywJKCb) | 3:37 | 2021-10-22 | 2022-03-26 |
 | [We Gotta Find Love](https://open.spotify.com/track/0TyXBdGk2qGLrZLWcj8qJd) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [One World](https://open.spotify.com/album/54Z9zCRlk506q4mS2MXwIL) | 4:46 | 2021-10-22 | 2023-10-21 |
 | [What You Heard](https://open.spotify.com/track/4y4C6YlIAf9Wjx65uU7nOg) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [What You Heard](https://open.spotify.com/album/5egLTfkAIvzX8y5FWFerxV) | 3:44 | 2023-04-28 |  |

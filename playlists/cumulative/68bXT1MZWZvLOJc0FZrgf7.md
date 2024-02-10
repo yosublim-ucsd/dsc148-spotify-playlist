@@ -2,9 +2,9 @@
 
 ### [Dance For Days 🪩🕺 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Dance to your favorite electronic hits \| 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \| Cover: Forester
+> Dance to your favorite electronic hits \| 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \| Cover: Icona Pop
 
-549 songs - 1 day 4 hr 36 min
+551 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [K1EN](https://open.spotify.com/track/3n2KGtnCjT6ttucbyXnt9q) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [PLAY](https://open.spotify.com/album/69k3PIjF6T9POAX0WCRpNC) | 3:14 | 2023-02-25 | 2023-06-10 |
 | [Kakee](https://open.spotify.com/track/7AynhVxHy3bgRCVmxDWjIC) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Kakee](https://open.spotify.com/album/6Zk3RjWeIjiZ6QL9sos8DP) | 1:45 | 2022-06-03 | 2023-02-05 |
 | [Karma](https://open.spotify.com/track/4CAX5XgZuPCQHXLcZUSQWb) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Karma](https://open.spotify.com/album/6er37pHuc7Y1AWtwJXwc8l) | 2:49 | 2023-06-02 | 2023-12-14 |
+| [Karma Is A Bitch Like You \- Tiësto Remix](https://open.spotify.com/track/0aTVZx2UxqpK81Zqjguf2N) | [Maisy Kay](https://open.spotify.com/artist/1O9EVVcpg2FOQ0vAQ7LqiT), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Karma Is A Bitch Like You \(Tiësto Remix\)](https://open.spotify.com/album/32Y6NSg7xRMvDUnLrwxMWc) | 2:45 | 2024-02-09 |  |
 | [Keep It Movin \(feat\. Knox Fortune\)](https://open.spotify.com/track/3SVCdXlMdoe5EicHJp6vGa) | [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Keep It Movin \(feat\. Knox Fortune\)](https://open.spotify.com/album/67kspCfxRBj5goRTTLH51s) | 3:14 | 2023-02-10 | 2023-06-10 |
 | [Keep My Head Up](https://open.spotify.com/track/3QH79spjkPv0h5NEbd8Msn) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Keep My Head Up](https://open.spotify.com/album/4qL93ht3M3HewGnz7kZmCq) | 3:22 | 2023-03-10 | 2023-07-29 |
 | [Kids on the Run](https://open.spotify.com/track/3Z1qelLeL16u46bWyqHRw1) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [VARGEN](https://open.spotify.com/artist/0L3cTKutNivypmL0Gsbu4i) | [Kids on the Run](https://open.spotify.com/album/2ZwAYU8JNzmLHrGZK0bGlo) | 2:53 | 2023-02-04 | 2023-07-29 |
@@ -463,6 +464,7 @@
 | [Taste My Love \- Pessto Remix](https://open.spotify.com/track/46FmS6bR1GdE54LAbWwDO5) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Taste My Love \(Pessto Remix\)](https://open.spotify.com/album/1uDLj2XYWxywrmYgFs1yMS) | 2:39 | 2023-12-08 |  |
 | [Taste of You](https://open.spotify.com/track/655sojH8GGEteZTBJOFyy7) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Taste of You](https://open.spotify.com/album/6OcfV7fsmHKyV8wXMzXvei) | 2:47 | 2022-06-03 | 2022-10-29 |
 | [Teardrops \(feat\. Majid Jordan\)](https://open.spotify.com/track/0pPpcDDIiVBeBS5jBecnSC) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Teardrops \(feat\. Majid Jordan\)](https://open.spotify.com/album/3Bq8vA5rwJGfe8KgT4Qdxy) | 2:50 | 2022-06-03 | 2023-02-05 |
+| [Tears on the Dance Floor \- Icona Pop DJ Edit](https://open.spotify.com/track/2khogvElDU87ouGOwIhQov) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Tears on the Dance Floor \(Icona Pop DJ Edit\)](https://open.spotify.com/album/2DNlcQPAoBiAbuEkFCxlNl) | 3:48 | 2024-02-09 |  |
 | [Tell It To My Heart](https://open.spotify.com/track/5tkVC8EcUXEZNwmD45e7tq) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Tell It To My Heart](https://open.spotify.com/album/1KxlM9HIGOgM7SOMko1W9m) | 2:55 | 2023-12-08 |  |
 | [Tell You What It Is](https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Tell You What It Is](https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu) | 3:07 | 2022-06-03 | 2023-02-05 |
 | [Tempo](https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Tempo](https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n) | 1:47 | 2023-08-18 |  |

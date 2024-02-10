@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,009 songs - 2 day 9 hr 33 min
+1,010 songs - 2 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [CH4NGE](https://open.spotify.com/track/0tZNBm62R9dr5xCHONe4r0) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [CH4NGE](https://open.spotify.com/album/01RDfYld8bmfLUyxx2nqm4) | 2:13 | 2023-10-05 | 2023-10-11 |
 | [Character](https://open.spotify.com/track/0eurhU5ak9lXwhOFgmo42M) | [ACAね](https://open.spotify.com/artist/7tCgZB3cHou13zCzimxILs), [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [Character](https://open.spotify.com/album/2V2kyrZQe0YXQ1LCr8zNDa) | 4:44 | 2022-06-23 | 2022-07-13 |
 | [Chewinggum](https://open.spotify.com/track/0MAV5mwsbDdiAKetZciXta) | [cyberMINK](https://open.spotify.com/artist/6HIQj3zppWYAxrSCKt5hPk), [響木アオ](https://open.spotify.com/artist/7JbBmfOwEH5JnrcLI5pXlg) | [Chewinggum](https://open.spotify.com/album/3MeAFXpDUwGd0OoDGDCpaM) | 3:49 | 2022-07-14 | 2022-07-20 |
-| [Chocolat Cadabra](https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Chocolat Cadabra](https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9) | 3:03 | 2024-01-30 |  |
+| [Chocolat Cadabra](https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Chocolat Cadabra](https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9) | 3:03 | 2024-01-30 | 2024-02-10 |
 | [Choju Giga](https://open.spotify.com/track/6hmR1ka2ZUG9w6rniXE3De) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Choju Giga](https://open.spotify.com/album/0Rsq4VHL8OXmZUlrLM6toB) | 2:51 | 2023-11-29 | 2023-12-20 |
 | [CHRONOISE](https://open.spotify.com/track/5D8E7sLUDoeyDoZQj9jQ4i) | [Tyga Ichinose](https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK), [Seisui P](https://open.spotify.com/artist/4aktWUBKZzULDPUasRxwvd), [Nurse Robot Type T](https://open.spotify.com/artist/0IHI6TRUokPUyQBOJG5vHq), [Merrow](https://open.spotify.com/artist/5pvGRFxql8KZG1vP79ghqk) | [CHRONOISE](https://open.spotify.com/album/45jr3f10o8ewvQyGxFN8iK) | 2:56 | 2023-11-29 | 2023-12-20 |
 | [CHRONOISE](https://open.spotify.com/track/270vsnUS7qfUa4pQuJZ4cP) | [Tyga Ichinose](https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK), [聖水P](https://open.spotify.com/artist/3ZjvFryI2uos9kzRK0d4om), [ナースロボ\_タイプT](https://open.spotify.com/artist/2tBiWeBIqmI92xVwKWt7qt), [Merrow](https://open.spotify.com/artist/5pvGRFxql8KZG1vP79ghqk) | [CHRONOISE](https://open.spotify.com/album/2PdEwAIdZPgmxZU6vvafQV) | 2:56 | 2023-11-28 | 2023-11-30 |
@@ -541,6 +541,7 @@
 | [シュガーロス](https://open.spotify.com/track/1BIg3o88H8OSPkQuEY4F1v) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [シュガーロス](https://open.spotify.com/album/6mh1S2u14AIxqfUvIha9Jj) | 3:20 | 2022-06-21 | 2022-07-25 |
 | [シューティングスター](https://open.spotify.com/track/4ZBlNa1XnHrawhS2dTf2Qq) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [朝昼晩](https://open.spotify.com/album/6FbpxhT8gawpWlZXWPjHJJ) | 3:56 | 2022-07-04 | 2022-07-08 |
 | [ショコラカタブラ](https://open.spotify.com/track/5tDluNOXu6r7z7u9NKjPCt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ショコラカタブラ](https://open.spotify.com/album/0bHJgay2GTCHvSgaq6xtYM) | 3:03 | 2024-01-30 | 2024-02-01 |
+| [ショコラカタブラ](https://open.spotify.com/track/6nhGcCOyjnHshIJjPROEBF) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:03 | 2024-02-06 |  |
 | [シル・ヴ・プレジデント](https://open.spotify.com/track/0nW1Aes1arNyR1fzEKXS2m) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [Sunny!!](https://open.spotify.com/album/6YpoVnWQUIvMLFAeg1lCKU) | 3:10 | 2022-07-28 | 2022-09-15 |
 | [シンフォニア](https://open.spotify.com/track/4BI7QHY481QCAYgLemJxNh) | [Keichan](https://open.spotify.com/artist/63sjExP5Hu9osGe05tfgTG) | [シンフォニア](https://open.spotify.com/album/3zyEtqwolzpnKjEOvkAt0G) | 3:32 | 2023-06-01 | 2023-06-03 |
 | [シンフォニア](https://open.spotify.com/track/7jZ9GZQnHTNn4kySCCNbQd) | [Keichan](https://open.spotify.com/artist/63sjExP5Hu9osGe05tfgTG) | [シンフォニア](https://open.spotify.com/album/6vubk9sWvB3vEo7As5hSQt) | 3:32 | 2023-06-01 | 2023-06-09 |

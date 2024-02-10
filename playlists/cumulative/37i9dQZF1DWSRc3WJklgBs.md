@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,241 songs - 3 day 0 hr 24 min
+1,242 songs - 3 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -860,6 +860,7 @@
 | [Reverie \- Dash Berlin Remix Edit](https://open.spotify.com/track/6ZAIcOV8joL6tJqw5zRn4E) | [First State](https://open.spotify.com/artist/5FKABVMDKiED2mhi8bFSVx), [Sarah Howells](https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw) | [A State Of Trance 550](https://open.spotify.com/album/5ZpDYZPVEXS9qwxDzNm8yT) | 3:34 | 2020-05-17 | 2021-05-08 |
 | [Revolves Around You](https://open.spotify.com/track/61ANVXKajwPzB2aKeKEWIP) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y) | [Revolves Around You](https://open.spotify.com/album/3NMeL7Nl2608sqXdhdTRAW) | 3:39 | 2022-08-12 | 2023-09-17 |
 | [Ride](https://open.spotify.com/track/6AyiGfRh9tXeaOuxXSuAfY) | [Jordan Kelvin James](https://open.spotify.com/artist/22sV3T6BrNyx7nO0enP36U), [Luke J West](https://open.spotify.com/artist/6iqNS1y7bafyVGPI6QPfQ1) | [Ride \(feat\. Luke J West\)](https://open.spotify.com/album/4PiNz0rMkxcZnf29fXrVfP) | 4:08 | 2020-06-29 | 2020-10-30 |
+| [Ride Out](https://open.spotify.com/track/7o4psLIggxOLOIW1DOfzqM) | [Born Dirty](https://open.spotify.com/artist/0qM78DOdgnNPpq2CpTNgU5), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Manny Torres](https://open.spotify.com/artist/3Ndxx0FRhKrIWKtPO95UuP) | [Ride Out](https://open.spotify.com/album/2L800Bi2aSWxL8M27dLdEJ) | 2:43 | 2024-02-09 |  |
 | [Right Here](https://open.spotify.com/track/0FZnUKsmGA6kPwi0NShlBy) | [Kiinjo](https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ), [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [Right Here](https://open.spotify.com/album/3mupnDkyb9I7DUiMkAVngr) | 3:34 | 2022-12-17 | 2023-06-17 |
 | [Right Here](https://open.spotify.com/track/0GbOcV7JYQH9fb8UpZ9eVr) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Noam](https://open.spotify.com/artist/2JcqTFHHpB7rYEuwv5HL8p) | [Right Here](https://open.spotify.com/album/1lCHh4QBlTCT4Jzg3tbxZR) | 3:16 | 2020-10-30 | 2021-09-25 |
 | [Ringtone](https://open.spotify.com/track/5HL1Kr58jrionQOMotcLem) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Ringtone](https://open.spotify.com/album/2WLLkrJ4XytaWM62QSEOe7) | 2:43 | 2022-06-03 | 2022-11-19 |
@@ -1016,7 +1017,7 @@
 | [Synapse Dynamics](https://open.spotify.com/track/7149PzASMowluOarCWzZcv) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Lucky Strike / Synapse Dynamics](https://open.spotify.com/album/3qRLXFFbdLa2Sirhp8J1BO) | 3:52 | 2019-08-09\* | 2019-08-27 |
 | [Take](https://open.spotify.com/track/07HrxwZqh0R2QGg0mABuYA) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Echos](https://open.spotify.com/album/0IMs2SyGSyl3fVRtFNeQdx) | 3:16 | 2019-08-09\* | 2019-09-14 |
 | [Take A Chance](https://open.spotify.com/track/75Nq7k2qnyeOlXIOiJ56HN) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3NV7lasFnUDfE4ZMvYKwQx) | 4:24 | 2023-06-30 | 2023-07-19 |
-| [Take A Chance On Me](https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3yZSOcz06tt6XFh5sWGnkI) | 4:24 | 2023-07-14 |  |
+| [Take A Chance On Me](https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3yZSOcz06tt6XFh5sWGnkI) | 4:24 | 2023-07-14 | 2024-02-10 |
 | [Take Me Somewhere](https://open.spotify.com/track/6Qmalh6imfMxJAiO6HjiZh) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Take Me Somewhere](https://open.spotify.com/album/5AyOo0oZOQmoDrU8dqyiNp) | 3:14 | 2023-08-11 |  |
 | [Take Me There](https://open.spotify.com/track/6cirkf76kYPUsdzQfjAFRw) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Take Me There](https://open.spotify.com/album/1u4DytoOvqrGjqVMfemZyY) | 4:28 | 2019-08-09\* | 2019-09-14 |
 | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd) | 2:57 | 2022-02-04 |  |

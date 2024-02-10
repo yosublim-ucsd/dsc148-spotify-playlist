@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance for 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-388 songs - 22 hr 1 min
+389 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Shallow Water \- Edit](https://open.spotify.com/track/3tWQU3TEJ9PLYWVgQfsrMG) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [Shallow Water](https://open.spotify.com/album/5NOr6STbGLCzJWNXw6MUHl) | 2:56 | 2022-11-18 |  |
 | [Shelter](https://open.spotify.com/track/56es20uK9nOaNsPycHJojQ) | [Indigo Eyes](https://open.spotify.com/artist/04qGSeuOlRDSyVYFblRy9O), [Lily Ward](https://open.spotify.com/artist/1kYMGmkw8ta4nvMiK0pcdF) | [Shelter](https://open.spotify.com/album/7ymnnljOmnTNiJmlcNrv9Q) | 3:47 | 2023-05-12 | 2023-12-14 |
 | [Shipwreck](https://open.spotify.com/track/4nzXOL0cDe90TzBB1ZKIBT) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Shipwreck / My World](https://open.spotify.com/album/7KuX0qEAZtyeC6O1R0YYna) | 4:03 | 2021-03-06 | 2021-11-27 |
+| [Show Me](https://open.spotify.com/track/4WQtQMbcS53c7k50ddOr9A) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Show Me](https://open.spotify.com/album/7hOMWAtuSvc46C0GpWJlVr) | 2:25 | 2024-02-09 |  |
 | [Sky and Sand](https://open.spotify.com/track/3ZSqMer9RLSglvi18bWXYV) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R), [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Berlin Calling \(The Soundtrack by Paul Kalkbrenner\)](https://open.spotify.com/album/1PjYHybPrB6rU3qABrNldm) | 3:50 | 2023-12-08 | 2024-01-13 |
 | [Sky Is Crying](https://open.spotify.com/track/0VH9sKPtKbkxllpqyYmJ7E) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sky Is Crying](https://open.spotify.com/album/1QMNjCy5KoPIu45sIU59s8) | 4:24 | 2021-03-26 | 2021-04-03 |
 | [Sleep Walking](https://open.spotify.com/track/11KXhIzhMQvUZBqiwkEShR) | [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu) | [Sleep Walking](https://open.spotify.com/album/0N78Ojgqv1VEpkw9sEbFF3) | 2:26 | 2023-12-08 |  |

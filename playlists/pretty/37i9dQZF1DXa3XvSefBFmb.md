@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extrarodinárias artistas, como Marisa Liz, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,449 likes - 48 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,473 likes - 48 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 47 | [Marinheiro \(em terra\)](https://open.spotify.com/track/20Ik7Z93w2mNjuGvRIRN4L) | [Joana](https://open.spotify.com/artist/2F6m5VNS6EvlJ5tXyS8GtZ) | [Marinheiro \(em terra\)](https://open.spotify.com/album/0ssQZ2asfYWBjjMNxDWzG3) | 4:00 |
 | 48 | [Foi De Vez](https://open.spotify.com/track/0dRHxBMiNNQyqlPfEhQSaU) | [Bianca Barros](https://open.spotify.com/artist/59m9stUzPJ3i5hPsU8BQzl) | [Foi De Vez](https://open.spotify.com/album/26W31fgr2f6seSxGfb4Ujw) | 3:15 |
 
-Snapshot ID: `MCw4MDZkY2QyMTQyYjAzMmQzOWE2YmYyMWJiYzI5NjQyMDQzODQ3ZGVi`
+Snapshot ID: `MCwwZDcyYWJiZTM1MmYxNzgzYzgwZTc2NWJkOTdlMzg4NWU3NDk3MThm`

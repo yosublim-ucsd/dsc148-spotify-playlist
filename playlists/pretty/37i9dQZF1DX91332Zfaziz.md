@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91332Zfaziz.md) - [plain]
 
 > Drawn together\. Driven apart\. Listen to the music from and inspired by Normal People, all episodes streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,551 likes - 62 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,631 likes - 62 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91332Zfaziz.md) - [plain]
 | 25 | [Drop](https://open.spotify.com/track/0OVvantI7wPKGnZM7gcJxa) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5) | [Bavarian Fruit Bread](https://open.spotify.com/album/7JAh6mfXLsGojvj9a4fnDT) | 2:32 |
 | 26 | [Tell Me So](https://open.spotify.com/track/6TJ0Gau7kRMkG3QNMhvckp) | [The Orioles](https://open.spotify.com/artist/4Am5deuAhDuKUJgXmoCQzj) | [The Orioles 1947\-1955](https://open.spotify.com/album/65RsqV8nJL5rPzAkzKjjWa) | 3:12 |
 | 27 | [Highs And Lows](https://open.spotify.com/track/4bip7nEnzwEv5cCypI4NzK) | [August Roads](https://open.spotify.com/artist/53k9djwQ9znUGcpa7zof27) | [Highs And Lows](https://open.spotify.com/album/5A8sSGSjqizCUkoqMuxLOw) | 3:12 |
-| 28 | [Undertow](https://open.spotify.com/track/00C5llfInrmXgjBrT40L1J) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:24 |
+| 28 | [Undertow](https://open.spotify.com/track/26FSlb8mzIyJbU5gH30imx) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf) | 3:24 |
 | 29 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
 | 30 | [Dance 4 Sorrow](https://open.spotify.com/track/5E8WrJEJ2yubQUPAVOAcKA) | [Francis Lung](https://open.spotify.com/artist/5zQhRSqJxTbROSMJtGCXYN) | [Dance 4 Sorrow](https://open.spotify.com/album/0RvYZOakXopRl4QL5UKzJg) | 4:16 |
 | 31 | [Go Wild](https://open.spotify.com/track/1XlCgSoRWfxw2uL4Ofl7DR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Go Wild](https://open.spotify.com/album/2hZDO2BCO07r3kh4M3fedd) | 3:17 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91332Zfaziz.md) - [plain]
 | 61 | [Can't Move On](https://open.spotify.com/track/0CAInu1o04upMwcTNyk1IW) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Can't Move On](https://open.spotify.com/album/3pHKOszawkAnbaZ6TWwxbl) | 3:17 |
 | 62 | [Sometimes](https://open.spotify.com/track/3CDCBn481xrZGB2isCWkp9) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [Sometimes](https://open.spotify.com/album/0RcwBD2P5YubxRUpeKezTF) | 2:49 |
 
-Snapshot ID: `MCw0ZTVhZDE0OTE0OGMwMDJiN2IzMmJiNjM0MjNmNmQ4Mzg0YmEyMjRi`
+Snapshot ID: `MCw1M2Q4NzRlMWQ4Mjg5NmU4YTY5ZTU4NTczM2VhY2ExYzgyMDYzYTA1`

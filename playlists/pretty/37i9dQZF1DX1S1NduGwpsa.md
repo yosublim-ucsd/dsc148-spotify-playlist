@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Grégory Privat
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,478 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,493 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 21 | [1979](https://open.spotify.com/track/03LJjsuJViyRV0HQhDf9Ar) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [1979](https://open.spotify.com/album/4qDX05teYObQQntCs13mkz) | 4:48 |
 | 22 | [Just](https://open.spotify.com/track/2a4PkVPUiH7ITVbUUxlxtx) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Just](https://open.spotify.com/album/1DiPTDwuzbplRZmK9WI805) | 3:46 |
 | 23 | [Feeling Good](https://open.spotify.com/track/7FazaEyS23gRqSFHocOQva) | [Youn Sun Nah](https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj) | [Elles](https://open.spotify.com/album/053PhX5KlVX5SJTueWiuyc) | 3:24 |
-| 24 | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/65lKgD4JnUU5EYaqMly9T6) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \(Live From Malibu\)](https://open.spotify.com/album/3PGNm2ibnsl8rldfXjQ1wB) | 4:08 |
+| 24 | [Istanbul \(feat\. Elijah Fox\) \- Live From Malibu](https://open.spotify.com/track/65lKgD4JnUU5EYaqMly9T6) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \(Live From Malibu\)](https://open.spotify.com/album/3PGNm2ibnsl8rldfXjQ1wB) | 4:08 |
 | 25 | [Reach Out I'll Be There](https://open.spotify.com/track/3Aob4GmG6EFusxwI2dbGh4) | [Térez Montcalm](https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB) | [Reach Out I'll Be There](https://open.spotify.com/album/2iAQxZSo3JEQ4Zqm3VeLrK) | 3:40 |
 | 26 | [Oya](https://open.spotify.com/track/0SHPejPGCfcLON6AIQrdPJ) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu) | [La Gran Diversión](https://open.spotify.com/album/4UO0arXcVIKzndEZIAp6Co) | 4:47 |
 | 27 | [To Walk A Way](https://open.spotify.com/track/4qtbFXoBT3ueGq8DDcZzI0) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Our Roots Run Deep](https://open.spotify.com/album/1ucca4wuWot78VAnORCwN8) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Day In Day Out \- Florian Pellissier Extended Version](https://open.spotify.com/track/2HCLYRJnXDMQ9yfjHIiL60) | [Cotonete](https://open.spotify.com/artist/7vRJDtEvLW2MZ4ISs1Zddy), [Leron Thomas](https://open.spotify.com/artist/0lVzm0fYj4BredTD0LMdSY), [Florian Pellissier](https://open.spotify.com/artist/0xiIT6hCcH1oLeoOZjHo0s) | [Day In Day Out \(Florian Pellissier Extended Version\)](https://open.spotify.com/album/7urOxAlRsgKpA64cKZ6jWw) | 7:23 |
 | 50 | [Goin’ to Chicago](https://open.spotify.com/track/73qO9QckH8jRnas3mSl5HY) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [SuperBlue](https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe), [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Goin’ to Chicago](https://open.spotify.com/album/4y2DrtUacYmOnVUB1aobC5) | 4:01 |
 
-Snapshot ID: `MCxlNzUzZjAzYjMwYzRlNjI1NjFjYWViODRkOTc5MjU3OTYxOGVkZmU5`
+Snapshot ID: `MCxmOWM3M2U5ZGRmYWU3NWU2YWFiMWNhNTQzMWU0NjhmOTA2MzQ2MWI2`

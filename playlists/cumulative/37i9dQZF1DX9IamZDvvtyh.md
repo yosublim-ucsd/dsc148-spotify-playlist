@@ -4,7 +4,7 @@
 
 > 80s workout jams.
 
-54 songs - 3 hr 44 min
+57 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Fire to Burn](https://open.spotify.com/track/4Ar7Eby1joalj1sFyXg6Jb) | [Saraya](https://open.spotify.com/artist/3ruACf0oMHNYWImFGj10c6) | [Saraya](https://open.spotify.com/album/1KogbTSOYl4u0jZrAoXnko) | 4:38 | 2023-01-20 |  |
 | [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(Deluxe Version\)](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 | 2023-01-20 | 2023-11-18 |
 | [Girls, Girls, Girls](https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8) | 4:30 | 2023-01-20 |  |
-| [Hangin On](https://open.spotify.com/track/6MHg1scv1JEbFhyGpGeCKo) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo) | 3:35 | 2023-01-20 |  |
+| [Hangin On](https://open.spotify.com/track/6MHg1scv1JEbFhyGpGeCKo) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo) | 3:35 | 2023-01-20 | 2024-02-10 |
+| [Hangin On](https://open.spotify.com/track/6uPzWFfRxXZONXL0DWYlBc) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/3frtDYyTU6jUALyj5umV1F) | 3:35 | 2023-01-20 |  |
 | [Head Games](https://open.spotify.com/track/5nk6wxUSFUBxUKxjz0fKD6) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Head Games](https://open.spotify.com/album/05Z3MG7G3Vl5ThsFQkWjiJ) | 3:37 | 2023-01-20 |  |
 | [Hearts On Fire \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/5vI0C3TDTxySR6Oq8NWjE0) | [John Cafferty](https://open.spotify.com/artist/0fPK3TAseRcy6sAS8U8pEw) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:12 | 2023-01-20 |  |
 | [Heatseeker](https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Blow Up Your Video](https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI) | 3:50 | 2023-01-20 |  |
@@ -44,7 +45,8 @@
 | [One Way To Glory](https://open.spotify.com/track/4AbsGXQxxlOBA5LsuoXeHV) | [Treat](https://open.spotify.com/artist/6HY1gnFOOY9ZAgQtzvtZHI) | [Dreamhunter](https://open.spotify.com/album/27nvO8Sjhx9q8dhZRgIe6a) | 4:36 | 2023-01-20 |  |
 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 | 2023-01-20 |  |
 | [Renegade](https://open.spotify.com/track/1FOUJzuApMpMM1wiuy3qfl) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Gold](https://open.spotify.com/album/2SIFXSFOHJgqC6q3whbSZU) | 4:13 | 2023-01-20 |  |
-| [Round and Round](https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Out of the Cellar](https://open.spotify.com/album/6P3Fqm7z9wr5GeatpVZ5ut) | 4:25 | 2023-01-20 |  |
+| [Round and Round](https://open.spotify.com/track/57P8gH8rjt4OqEoqzut1bL) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [The Essentials: Ratt](https://open.spotify.com/album/0zhBC0ytIvsL8Kvf0xtPMp) | 4:25 | 2023-01-20 |  |
+| [Round and Round](https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Out of the Cellar](https://open.spotify.com/album/6P3Fqm7z9wr5GeatpVZ5ut) | 4:25 | 2023-01-20 | 2024-02-10 |
 | [Runaway](https://open.spotify.com/track/0k0vxPms694qhT7wm5r7pT) | [Dakota](https://open.spotify.com/artist/3KQaZc35U9X1TPabyhkMpN) | [Runaway](https://open.spotify.com/album/7jdSRjxUXUXPBjChSGTujb) | 4:56 | 2023-01-20 |  |
 | [Runnin'](https://open.spotify.com/track/55GSu3bYEhXrx94KP4S2hZ) | [Frank Stallone](https://open.spotify.com/artist/3BucZwouCkpiGi2UxqfWn9) | [Frank Stallone](https://open.spotify.com/album/4khMOHn89Aq1yHqWgkVzxm) | 3:32 | 2023-01-20 |  |
 | [Runnin' with the Devil \- 2015 Remaster](https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:34 | 2023-01-20 |  |
@@ -61,6 +63,7 @@
 | [Welcome To The Jungle](https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 4:33 | 2023-01-20 |  |
 | [Who Made Who](https://open.spotify.com/track/6rvldt6EoZwzogApECUCwd) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Who Made Who](https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A) | 3:27 | 2023-01-20 |  |
 | [You're The Best](https://open.spotify.com/track/4zXa17K83Pp6N2yXdVc2sv) | [Joe "Bean" Esposito](https://open.spotify.com/artist/4PCSnq8Q3hxOTn3ro4cl0M) | [The Karate Kid: The Original Motion Picture Soundtrack](https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH) | 2:59 | 2023-01-20 |  |
-| [Youth Gone Wild](https://open.spotify.com/track/1jF5Id0OPFU1Mae8BEUF5u) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 3:18 | 2023-01-20 |  |
+| [Youth Gone Wild](https://open.spotify.com/track/1jF5Id0OPFU1Mae8BEUF5u) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 3:18 | 2023-01-20 | 2024-02-10 |
+| [Youth Gone Wild](https://open.spotify.com/track/37Vzad7uGm0I9zJIFXlT4b) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E) | 3:18 | 2023-01-20 |  |
 
 \*This playlist was first scraped on 2023-01-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Ariel Donato, MC Cabelinho, Marina Sena
 
-353 songs - 18 hr 32 min
+354 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 | 2022-05-23 | 2022-09-24 |
 | [Manhã de Sol](https://open.spotify.com/track/6k6GYgflqllzIDm0drwhmL) | [MC Philippi](https://open.spotify.com/artist/5LHHGHsyMO0L2AiwRRVbDL), [MC PG](https://open.spotify.com/artist/2vl278iLkl20FIEnTRDQm8), [Raycco](https://open.spotify.com/artist/4EiUouIqWkYsbRy641SgAJ) | [Manhã de Sol](https://open.spotify.com/album/7jHL1px1XRbcSVZiZ3tj7m) | 4:46 | 2022-07-21 | 2022-08-06 |
 | [Mantra](https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [TK](https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j) | [Mantra](https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR) | 2:48 | 2022-11-16 | 2023-03-11 |
-| [mapa da mina](https://open.spotify.com/track/5FJHgBu1z2ou3xRqwtCbzq) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [mapa da mina](https://open.spotify.com/album/1uVdxFe5nZky5FoesZaM3F) | 2:43 | 2024-01-12 |  |
+| [mapa da mina](https://open.spotify.com/track/5FJHgBu1z2ou3xRqwtCbzq) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [mapa da mina](https://open.spotify.com/album/1uVdxFe5nZky5FoesZaM3F) | 2:43 | 2024-01-12 | 2024-02-10 |
 | [Mar Azul](https://open.spotify.com/track/6Hybh8fGT56gt4519e8RCy) | [Trilho Elétrico](https://open.spotify.com/artist/6SGMJnDLcVz0yz7nt25l5g), [Toni Garrido](https://open.spotify.com/artist/6102bVgHhOwz9NGawJPJOL) | [Mar Azul](https://open.spotify.com/album/2hQCBlSmSzix8XhwW3Pvpp) | 3:51 | 2023-12-15 | 2024-01-13 |
 | [Marca um 10](https://open.spotify.com/track/0gFYlxv0yW6KOoXYMNCz0E) | [Linndy](https://open.spotify.com/artist/6oMCLo1hgtep9LaO4KOwTr), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Marca um 10](https://open.spotify.com/album/3AotjVPeqfsHPZkJCuI36j) | 2:24 | 2022-05-23 | 2022-06-18 |
 | [Marcha](https://open.spotify.com/track/1qcHCY4STgSPTAPqphdYFi) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Charles do Bronxs](https://open.spotify.com/artist/19Mqlg717812ha5zPDul9q) | [Marcha](https://open.spotify.com/album/5DUyARSiVNvxIrS1MW7vGN) | 4:11 | 2023-09-22 | 2023-11-11 |
@@ -254,6 +254,7 @@
 | [Posturada](https://open.spotify.com/track/6JVqBbEdwOpKkKcJKWsbTd) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp) | [Posturada](https://open.spotify.com/album/2ElRjQqs9m9lZcISzaNVcG) | 2:56 | 2022-05-23 | 2023-07-15 |
 | [Pra Lá de Bagdá](https://open.spotify.com/track/46J2U8ewcEwAWmu9uj2dy8) | [Sadness :c](https://open.spotify.com/artist/5pvKSKOm1QGAf5BZoD9WEr), [Griml0k](https://open.spotify.com/artist/5nu42SRKx0vVc4wwOTiq7u), [Sonun](https://open.spotify.com/artist/3qGEW1rw4ehiyz3ySwTxMZ) | [Pra Lá de Bagdá](https://open.spotify.com/album/1eJ59THKDjefHpU3k3I325) | 2:31 | 2022-10-28 | 2022-11-12 |
 | [Pra Você e pra Mim](https://open.spotify.com/track/2KG5nqBRLLYbPNs29tOUu2) | [Tayla Duarte](https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY), [Arielly Porto](https://open.spotify.com/artist/0L6X54dt5wVN8arWfyN1v1) | [Pra Você e pra Mim](https://open.spotify.com/album/0ISog7zlptbjsJZvvuMg0X) | 2:25 | 2023-02-10 | 2023-04-15 |
+| [Praia do Rosa](https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Praia do Rosa](https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT) | 2:35 | 2024-02-09 |  |
 | [Preta](https://open.spotify.com/track/57w75cw5ROGxHeDmZ9S0mS) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [João Carlos Martins](https://open.spotify.com/artist/5lcYXhAfA5WoaCtUXIzwNb) | [Preta](https://open.spotify.com/album/0eETaCTE3z3Jcc3fqxB15E) | 3:30 | 2023-08-16 | 2023-10-14 |
 | [PRIMEIRA VISTA](https://open.spotify.com/track/46qcIwcdt2NSuiH8hHJVob) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc) | [ALÉM DE LOVE](https://open.spotify.com/album/3SHJwSFzUcc7xiNt4eqsq3) | 2:20 | 2022-09-20 | 2023-02-06 |
 | [PRIMEIRA VISTA](https://open.spotify.com/track/4hkYMXUKY6HS3JreKVj7xs) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc) | [PRIMEIRA VISTA](https://open.spotify.com/album/47lAPANo6Dr5BKnU7x0RLM) | 2:20 | 2022-05-23 | 2022-09-09 |

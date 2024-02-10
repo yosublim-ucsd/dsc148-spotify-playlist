@@ -4,7 +4,7 @@
 
 > POV: you're the main character in a romance novel.
 
-68 songs - 4 hr 7 min
+70 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,10 +34,12 @@
 | [I Waited For You](https://open.spotify.com/track/3gpLoUSz1JsLb97VXUTtB5) | [Aaron Zigman](https://open.spotify.com/artist/74M3iphMpn1MA2YUe2Iigb) | [The Best Of Me \(Original Motion Picture Score\)](https://open.spotify.com/album/1EVM5W3wBvfAW7LXfPSsMT) | 1:30 | 2022-07-04 |  |
 | [I Waited for You](https://open.spotify.com/track/3sVFj8qVKJAFgZvD77xsau) | [Aaron Zigman](https://open.spotify.com/artist/74M3iphMpn1MA2YUe2Iigb) | [The Best of Me \(Original Motion Picture Score\)](https://open.spotify.com/album/2TRHx1axpzpqApnQgS8TU1) | 1:30 | 2022-02-14 | 2022-07-29 |
 | [ICARUS](https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [AWAKENING](https://open.spotify.com/album/0mdrZ04JRhto7XX1HYmCwU) | 3:19 | 2024-02-01 |  |
+| [Kiss the Rain](https://open.spotify.com/track/0fwAkzz0qALiz4QnQKC7pN) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Kiss the Rain](https://open.spotify.com/album/4BjtKMRsRy69raeSHuhb8X) | 4:24 | 2024-02-09 |  |
 | [leaves and trees](https://open.spotify.com/track/17Cv0iBOjWabaeLqAMAxQf) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/5t97v94T6a45YYBBQ7I21a) | 5:57 | 2022-02-14 | 2022-07-29 |
 | [leaves and trees](https://open.spotify.com/track/4fm8QxhBYRmmxU3Kp1pi3p) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/4yhyBrxpfFUjazK1rVgzzO) | 5:57 | 2022-07-04 |  |
 | [leaves and trees](https://open.spotify.com/track/7zFGjpozrCWREmakIErLxx) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [leaves and trees](https://open.spotify.com/album/7F3CyaNx0b18PxiajqfyjS) | 5:58 | 2022-10-07 | 2022-11-13 |
 | [Material Girl](https://open.spotify.com/track/4p7na6NSU0F7lMOhx9kg9k) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:04 | 2022-03-29 | 2022-07-09 |
+| [MOONGLADE in Jet Black](https://open.spotify.com/track/4WOAF20NzYuD8ftfANhuog) | [Julie Cooper](https://open.spotify.com/artist/3Orwjks4n4xieFN72XQDQa), [Joby Burgess](https://open.spotify.com/artist/3jNNxhqxHJws22fYew1EC2), [Her Ensemble](https://open.spotify.com/artist/60LMcgWPaQLRwx8dZicM3z), [Camilla Pay](https://open.spotify.com/artist/7yWnwEs8QVQL4cHlbPvwkG), [Oculus Ensemble](https://open.spotify.com/artist/5ztcfnJe9BZtxFnnEIBvYW), [Jessica Cottis](https://open.spotify.com/artist/47Slf02gu2TPZk3H1UbQJT) | [Julie Cooper: Oculus](https://open.spotify.com/album/0K3k8wYtwcI5F68FSQAgaG) | 5:05 | 2024-02-09 |  |
 | [My Father's Favourite](https://open.spotify.com/track/0LrA0EtiJsr4tDHIGw82OW) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ), [Tony Hymas](https://open.spotify.com/artist/6A479xP05787vKnE5MtLSG), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Sense & Sensibility \- Original Motion Picture Soundtrack](https://open.spotify.com/album/5cdzYLI2HbFMJsqyt028Gq) | 5:27 | 2022-02-14 |  |
 | [New Start \- From BBC Series "North & South"](https://open.spotify.com/track/50MGKn5CGI8es0itdbs851) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Aftermath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xqXGJJjt1fyaJzHnpoqF9) | 3:41 | 2022-02-14 |  |
 | [Opening](https://open.spotify.com/track/0x1rnXl24iJl8xZFMkoyNv) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 4:39 | 2022-02-14 |  |

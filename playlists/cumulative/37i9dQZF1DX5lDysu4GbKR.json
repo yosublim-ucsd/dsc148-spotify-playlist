@@ -302,7 +302,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 265264,
       "name": "Back of My Hand (Live)",
       "url": "https://open.spotify.com/track/2luK9cqWdNKliKj7xQVaa3"
@@ -4024,6 +4024,24 @@
       "duration_ms": 207260,
       "name": "What You Did (feat. Ella Mai) - Acoustic",
       "url": "https://open.spotify.com/track/5KEze8FT62AJCly8UnBcq2"
+    },
+    {
+      "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/3hitxecfhBZ4UFBgDdRCLi"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299510,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/6fEPi1QSs4y0AXc2NqxsK5"
     },
     {
       "album": {

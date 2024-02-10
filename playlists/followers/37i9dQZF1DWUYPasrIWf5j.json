@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 87263,
+  "2024-02-10": 87308,
   "date_first_scraped": "2022-06-02",
   "description": "Instrumental covers of favourites played on ukulele.",
   "name": "Instrumental Ukulele Covers",
@@ -2084,6 +2084,24 @@
     },
     {
       "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0nksUnQIyLmTrtgIHM7oTu"
+      },
+      "artists": [
+        {
+          "name": "Trevor Potts",
+          "url": "https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152357,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/1AnRPb0v84ErmAQLn9FyTB"
+    },
+    {
+      "album": {
         "name": "Sugar sugar",
         "url": "https://open.spotify.com/album/2oW30T170km9R38AM78d8N"
       },
@@ -2607,6 +2625,24 @@
       "duration_ms": 134880,
       "name": "Wouldn't It Be Nice - Ukulele Style",
       "url": "https://open.spotify.com/track/3gc4FHv3yl9EJS5QfwS416"
+    },
+    {
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/1RJsXLUI6EVcPAIyNsnpwZ"
+      },
+      "artists": [
+        {
+          "name": "Kit Sutton",
+          "url": "https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/0sTQXBg6RLuPrHI5jmuqyA"
     },
     {
       "album": {

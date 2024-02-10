@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Luke Combs
 
-143 songs - 10 hr 6 min
+144 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Dancing in the Sky \- Live](https://open.spotify.com/track/2J9gJOybt7LblzP7DOYtpL) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Live EP 001](https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe) | 3:04 | 2024-01-05 |  |
 | [Different ‘Round Here \- Live](https://open.spotify.com/track/3ENzGRDiKCLnbWXuY8vibZ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [We Out Here: Live](https://open.spotify.com/album/5cxqlKuwtwuJOxFmAL2SSB) | 3:36 | 2022-03-25 |  |
 | [Don't Come Lookin' \- Live](https://open.spotify.com/track/2A8qDQF7hWDZo8ueroFu52) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Don't Come Lookin' \(Live\)](https://open.spotify.com/album/7sM0nVCmKgUpaj8GyNxVMr) | 3:19 | 2022-09-30 |  |
+| [Don't Take The Girl \- Live From N.Y\. / Acoustic](https://open.spotify.com/track/4ioXeATIefvluey7lVUNxq) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live From N.Y\. \(Acoustic\)](https://open.spotify.com/album/5WxpO6GGZq7RSKl3Y0tg2c) | 4:42 | 2024-02-09 |  |
 | [Downtown \- Live](https://open.spotify.com/track/5OSgA8BnIaPpoYQKRSVv9x) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 3:29 | 2021-07-22 |  |
 | [Dreamer \(feat\. Texas Hill\) \- Live from the Ryman](https://open.spotify.com/track/2e4kqRRperR4V2TWWb36cW) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7), [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Dreamer \(feat\. Texas Hill\)](https://open.spotify.com/album/2k0iY4eN1bJRNVP4ojPhNE) | 3:31 | 2022-01-07 |  |
 | [Drink In My Hand \- Live At Staples Center, Los Angeles, CA / March 31, 2017](https://open.spotify.com/track/7yqMX0CgXNObxnlnA9JgaW) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 5](https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp) | 3:10 | 2021-07-22 |  |

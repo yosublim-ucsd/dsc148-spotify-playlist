@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: berlioz
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,282 likes - 200 songs - 12 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,302 likes - 200 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Sing To Find Peace Of Mind \(feat\. Simbad\)](https://open.spotify.com/track/2kZWWWMqFKYuYY6ilPS5Ag) | [LEFTO EARLY BIRD](https://open.spotify.com/artist/38qHUVZbVZfKq6NJxTU9oj), [Simbad](https://open.spotify.com/artist/7i0E2ILBOdsvqmrX7shhJE) | [I Sing To Find Peace Of Mind \(feat\. Simbad\)](https://open.spotify.com/album/7vdnIZtiWu3SpdP5pC6hpz) | 3:55 |
-| 2 | [Carla Croix](https://open.spotify.com/track/3ycQmciE5erUchLQUpWQDt) | [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU), [Niklouds](https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ), [Sam.ro.chelle](https://open.spotify.com/artist/7cGnvFkneRjpP65YbPvmDw) | [Carla Croix](https://open.spotify.com/album/6bqh0GMIA3oGMedMXPnAE7) | 3:28 |
-| 3 | [Builder](https://open.spotify.com/track/10227FHuo66ztQWglQEGTp) | [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [Builder](https://open.spotify.com/album/2I39kyieeQPEshJZmxMdmh) | 2:31 |
-| 4 | [i've prepared my entire life for this](https://open.spotify.com/track/497DyJqfw3viIe75HjzcGH) | [cosmic collective](https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO) | [i've prepared my entire life for this](https://open.spotify.com/album/562yLlE32KphWhkVjcMRpm) | 2:57 |
-| 5 | [DRILLTRONICA](https://open.spotify.com/track/1WdBJ4uehsp1O7GfdZiHq7) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [DRILLTRONICA](https://open.spotify.com/album/3yYKfRTzyRQsUWJvBLe85Y) | 2:52 |
-| 6 | [Dust](https://open.spotify.com/track/5XtMBGpr7LFDaNAgaLjYJZ) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Dust](https://open.spotify.com/album/5luYEHn75FMUQUMUzqZnd5) | 2:59 |
+| 1 | [Dreaded Truth](https://open.spotify.com/track/4IhCYRCAwGSc2l5q0fXiZo) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Dreaded Truth](https://open.spotify.com/album/6fMb8MTAJz13YRzwgc39h5) | 3:49 |
+| 2 | [I Sing To Find Peace Of Mind \(feat\. Simbad\)](https://open.spotify.com/track/2kZWWWMqFKYuYY6ilPS5Ag) | [LEFTO EARLY BIRD](https://open.spotify.com/artist/38qHUVZbVZfKq6NJxTU9oj), [Simbad](https://open.spotify.com/artist/7i0E2ILBOdsvqmrX7shhJE) | [I Sing To Find Peace Of Mind \(feat\. Simbad\)](https://open.spotify.com/album/7vdnIZtiWu3SpdP5pC6hpz) | 3:55 |
+| 3 | [Carla Croix](https://open.spotify.com/track/3ycQmciE5erUchLQUpWQDt) | [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU), [Niklouds](https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ), [Sam.ro.chelle](https://open.spotify.com/artist/7cGnvFkneRjpP65YbPvmDw) | [Carla Croix](https://open.spotify.com/album/6bqh0GMIA3oGMedMXPnAE7) | 3:28 |
+| 4 | [Builder](https://open.spotify.com/track/10227FHuo66ztQWglQEGTp) | [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [Builder](https://open.spotify.com/album/2I39kyieeQPEshJZmxMdmh) | 2:31 |
+| 5 | [i've prepared my entire life for this](https://open.spotify.com/track/497DyJqfw3viIe75HjzcGH) | [cosmic collective](https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO) | [i've prepared my entire life for this](https://open.spotify.com/album/562yLlE32KphWhkVjcMRpm) | 2:57 |
+| 6 | [DRILLTRONICA](https://open.spotify.com/track/1WdBJ4uehsp1O7GfdZiHq7) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [DRILLTRONICA](https://open.spotify.com/album/3yYKfRTzyRQsUWJvBLe85Y) | 2:52 |
 | 7 | [Ghost](https://open.spotify.com/track/5kYrJ6RMys0aA4Yok6vOVK) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Ghost](https://open.spotify.com/album/1JaLA871fBR3fmwxquKuS8) | 4:50 |
 | 8 | [Intrusive Thoughts](https://open.spotify.com/track/6LoIULr7zGBlFJ7EDO8Ooq) | [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf) | [Intrusive Thoughts](https://open.spotify.com/album/4FhjqWL3DOx3rQGahA36v6) | 3:36 |
 | 9 | [Kairos \(Kefi\)](https://open.spotify.com/track/3ZqrwYaWu4wrum0MkXIdwV) | [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Les Jardins Mystiques Vol.1](https://open.spotify.com/album/4oIYiCrzOUVZvpxCopDB7e) | 5:08 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 199 | [New Dawn](https://open.spotify.com/track/4JQmAu7F8tXYA7U83HXsSk) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [New Dawn](https://open.spotify.com/album/7fTIinxT4coU1OCQUHNC7w) | 3:34 |
 | 200 | [If U Strike Me Down](https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk) | [Dosh](https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz) | [Tomorrow 1972](https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG) | 6:11 |
 
-Snapshot ID: `MCw1NjAxNDQ5ZWNhNjVlMGJkZTRlMjY1ZWU3ZmM5MzY0ZDMzNTFhNDE2`
+Snapshot ID: `MCxkYThiYWJlN2JmZGI5M2NkOTViMjE4YTEwNDhmMzVjOGNiM2FiMjg0`

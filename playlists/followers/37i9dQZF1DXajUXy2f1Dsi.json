@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 28115,
+  "2024-02-10": 28118,
   "date_first_scraped": "2021-12-21",
   "description": "Immerse yourself in the brilliant sounds of Latin composers.",
   "name": "Top Latin Classical",
@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 272413,
       "name": "Abertura em R\u00e9",
       "url": "https://open.spotify.com/track/3adOPOSZ1UDZm0KE0iv6gX"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 204120,
       "name": "Basque Suite No. 1: III. Fandango Boleroa (Fandango-Bolero)",
       "url": "https://open.spotify.com/track/06rBz9Ezp7vQNivwaWBlj0"
@@ -2063,7 +2063,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 271752,
       "name": "El rancho abandonado, Op. 32, No. 4",
       "url": "https://open.spotify.com/track/3laIWTVdXASANIYiCGm6Ul"
@@ -2333,7 +2333,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 129000,
       "name": "Fantasia que contrahaze la harpa en la manera de Ludovico",
       "url": "https://open.spotify.com/track/6GtYl2uif2Jc5O7gsKnQTx"

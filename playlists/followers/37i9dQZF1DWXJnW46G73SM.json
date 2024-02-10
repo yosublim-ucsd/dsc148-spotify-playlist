@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 122417,
+  "2024-02-10": 122563,
   "date_first_scraped": "2021-12-28",
   "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0623\u0635\u0627\u0644\u0629\n",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
@@ -525,6 +525,24 @@
       "duration_ms": 194373,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/1uE7Gln68v4duncYy4QgQm"
+    },
+    {
+      "album": {
+        "name": "Afalet 3alena",
+        "url": "https://open.spotify.com/album/67NWJliFwNCCuBlXrnYbqW"
+      },
+      "artists": [
+        {
+          "name": "Nabil",
+          "url": "https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204416,
+      "name": "Afalet 3alena",
+      "url": "https://open.spotify.com/track/4fU10htcH0puL8Nt8oGozE"
     },
     {
       "album": {
@@ -1302,6 +1320,32 @@
     },
     {
       "album": {
+        "name": "ARABI",
+        "url": "https://open.spotify.com/album/2wcsb8Ew4deFBMNGWDni2P"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Massari",
+          "url": "https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167368,
+      "name": "ARABI",
+      "url": "https://open.spotify.com/track/1QBtiLpbw76bqO2h9fOdJQ"
+    },
+    {
+      "album": {
         "name": "Arosty",
         "url": "https://open.spotify.com/album/2pXOewtgNtWSCuoZz98TCG"
       },
@@ -1919,7 +1963,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 129409,
       "name": "Batwanes Beek",
       "url": "https://open.spotify.com/track/1GeYUET3K5CwpkhsiwzUrV"
@@ -2371,7 +2415,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 278698,
       "name": "Dab Hab",
       "url": "https://open.spotify.com/track/0uuM8tzZJGxAwRJ69rKJk4"
@@ -7695,7 +7739,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 193845,
       "name": "Mnstchy",
       "url": "https://open.spotify.com/track/3kimm4bL3pTvb5ztJKSlgL"
@@ -7753,6 +7797,24 @@
       "duration_ms": 168285,
       "name": "Moody Aali",
       "url": "https://open.spotify.com/track/1JIeyLYiovSeXrj3EONekE"
+    },
+    {
+      "album": {
+        "name": "Msh Hawasek",
+        "url": "https://open.spotify.com/album/02nHvDyL80P6WsXhqLJEPz"
+      },
+      "artists": [
+        {
+          "name": "Amr Gaber",
+          "url": "https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161748,
+      "name": "Msh Hawasek",
+      "url": "https://open.spotify.com/track/5QWusjaFjFTZRF38SMPicd"
     },
     {
       "album": {
@@ -8177,7 +8239,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 163775,
       "name": "Ra2y 3am",
       "url": "https://open.spotify.com/track/2cXNrefEFkDbm65gOjnUZw"
@@ -9307,7 +9369,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 136339,
       "name": "Tamakan Menny Al 7ob: Batn El Hout Series",
       "url": "https://open.spotify.com/track/2R9t25f4QxMvqKias4SRUz"
@@ -9871,7 +9933,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 131362,
       "name": "Wa7ed Tany",
       "url": "https://open.spotify.com/track/2PHUvyhWYC5qiEicsRj90S"
@@ -11320,6 +11382,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u062f\u0647\u0628",
+        "url": "https://open.spotify.com/album/6LCL6l60ELVYSucbUDwL0P"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189152,
+      "name": "\u0627\u0644\u062f\u0647\u0628",
+      "url": "https://open.spotify.com/track/6Xw3zZd7uXObNVeDox4ZpT"
+    },
+    {
+      "album": {
         "name": "\u0627\u0644\u0633\u0627\u062d\u0644 \u0627\u0644\u0634\u0645\u0627\u0644\u064a (feat. Myriam Fares)",
         "url": "https://open.spotify.com/album/3LIyAa8uJAQNUNE5Pk9CWT"
       },
@@ -12143,7 +12223,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 192872,
       "name": "\u0628\u064a\u0646 \u0627\u0644\u062d\u064a\u0637\u0627\u0646",
       "url": "https://open.spotify.com/track/1OHSdJ4thhfEaczyopsZ5V"
@@ -13659,7 +13739,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 199566,
       "name": "\u0641\u064a \u062e\u064a\u0627\u0644\u064a - Fe Khyaly",
       "url": "https://open.spotify.com/track/3sd5hb1YdmiJvxfrHvFBzr"
@@ -14532,6 +14612,46 @@
     },
     {
       "album": {
+        "name": "\u0645\u0648\u0636\u0648\u0639 \u0631\u062c\u0648\u0639\u0646\u0627",
+        "url": "https://open.spotify.com/album/15k72PP3lUVocnlPRNjVZQ"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266341,
+      "name": "\u0645\u0648\u0636\u0648\u0639 \u0631\u062c\u0648\u0639\u0646\u0627",
+      "url": "https://open.spotify.com/track/3n3qHIdb2dpQwaBpPEYKI2"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0648\u0642\u0641 \u0636\u0639\u0641",
+        "url": "https://open.spotify.com/album/7cv0uPatxnZpT0VbUPdzVi"
+      },
+      "artists": [
+        {
+          "name": "Zeyad Wael",
+          "url": "https://open.spotify.com/artist/36dyNqgtGxVcwcWlCRYLOl"
+        },
+        {
+          "name": "Omar Shaaban",
+          "url": "https://open.spotify.com/artist/2mqfT4zskEW4k2u5m3xnyh"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242836,
+      "name": "\u0645\u0648\u0642\u0641 \u0636\u0639\u0641",
+      "url": "https://open.spotify.com/track/683g45sVP0yUW6AeGIOw7U"
+    },
+    {
+      "album": {
         "name": "\u0646\u062d\u0646\u0648\u062d",
         "url": "https://open.spotify.com/album/7KNPArvrYE01FNciIiERE0"
       },
@@ -14897,6 +15017,24 @@
       "duration_ms": 269664,
       "name": "\u0648\u0633\u0637 \u0627\u0644\u0648\u0634\u0648\u0634 - \u062a\u062a\u0631 \u0645\u0633\u0644\u0633\u0644 \u0628\u0646\u0648\u0646",
       "url": "https://open.spotify.com/track/6jVUA2W2YcGnTJsV2YGajs"
+    },
+    {
+      "album": {
+        "name": "\u0648\u0644\u0627 \u064a\u0647\u0645\u0643",
+        "url": "https://open.spotify.com/album/55pWLIo9oq0nw2V8pRdxnB"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231651,
+      "name": "\u0648\u0644\u0627 \u064a\u0647\u0645\u0643",
+      "url": "https://open.spotify.com/track/1dwGantu2uucmi2Ht4HzB5"
     },
     {
       "album": {

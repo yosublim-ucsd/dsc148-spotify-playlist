@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-879 songs - 1 day 10 hr 10 min
+880 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,7 +427,7 @@
 | [Melbourne Sunrise](https://open.spotify.com/track/5yoxmIJMQoYnUdB536vFtS) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Wonderful Times](https://open.spotify.com/album/6QxZonwGmPwndaqt0khNDB) | 1:19 | 2022-04-15 | 2022-07-08 |
 | [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 | 2023-10-06 |  |
 | [Melt](https://open.spotify.com/track/6p1N8bVALlHeDZDepblht2) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Melt](https://open.spotify.com/album/36z7ppKin2XyN9FYtwTsnZ) | 2:36 | 2022-12-16 |  |
-| [MELT YOURSELF DOWN](https://open.spotify.com/track/7gZsCJTQQfqBMraiyvazHn) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Float\-illa](https://open.spotify.com/album/5Itimgj6YYmcrjyPf5I0GJ) | 2:13 | 2022-12-09 |  |
+| [MELT YOURSELF DOWN](https://open.spotify.com/track/7gZsCJTQQfqBMraiyvazHn) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Float\-illa](https://open.spotify.com/album/5Itimgj6YYmcrjyPf5I0GJ) | 2:13 | 2022-12-09 | 2024-02-10 |
 | [Meltdown](https://open.spotify.com/track/4gLJWrqUpHLaiDH7K276l9) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Meltdown](https://open.spotify.com/album/3fedlhIrSKvzsgd8MV7sEg) | 3:24 | 2023-10-13 |  |
 | [Memories](https://open.spotify.com/track/22GM0cTeCmReAppLUQRN6N) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Memories](https://open.spotify.com/album/2Y9R59Hk5KdAPFtsOIik2G) | 1:42 | 2022-10-14 | 2023-09-22 |
 | [Meters](https://open.spotify.com/track/1NmkOuZKRyJ93N8CPN4cyM) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Cloudy & Meters](https://open.spotify.com/album/5NOZBMRvo8C9gj80D9Y8x1) | 2:31 | 2022-04-15 | 2022-05-20 |
@@ -866,6 +866,7 @@
 | [Wisps Of Mist](https://open.spotify.com/track/2kfrKI1L3INqbbTY7zDWZ5) | [Kosibeats](https://open.spotify.com/artist/2Yrmz6F0FhNkIVOt2Lfco3), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Wisps Of Mist](https://open.spotify.com/album/3ojY79JiyqFY39CIwmZ5oD) | 2:26 | 2022-04-15 | 2022-12-10 |
 | [Wistful Silhouettes](https://open.spotify.com/track/5Ltgq6XMTilOXhNiSQZrVT) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Wistful Silhouettes](https://open.spotify.com/album/7bnbpre7jCyEwHu1hT9ngt) | 2:16 | 2023-10-13 |  |
 | [Wonder](https://open.spotify.com/track/5i0QmCyCt4qJudSqoNbu17) | [Dixxy](https://open.spotify.com/artist/3tzNFZuGKTcNypBltcMf4a) | [Wonder](https://open.spotify.com/album/1upkA8NqjW7otpz8jaheYg) | 3:12 | 2022-04-15 | 2023-10-13 |
+| [wondering why](https://open.spotify.com/track/1vbi7y9KK9tfOKNP5pmc2Q) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [wondering why](https://open.spotify.com/album/2hay8mrICqXjK0ZOps3bjC) | 2:04 | 2024-02-09 |  |
 | [Wonderland](https://open.spotify.com/track/6qeMnGssbQmFZQ4NA9NPT2) | [So\_nny](https://open.spotify.com/artist/1sHQ9ZkPcQPs3TIG3EJFd4) | [Wonderland](https://open.spotify.com/album/1FXPEiafiBIQoBL2FnoWGl) | 2:30 | 2022-04-15 | 2022-09-17 |
 | [Woodlander](https://open.spotify.com/track/577MuVDzCHjTASuPsU34Hs) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [Woodlander](https://open.spotify.com/album/7sSPJBrN2fgSnW5rHSSKhG) | 2:29 | 2022-09-09 | 2023-10-06 |
 | [words > numbers](https://open.spotify.com/track/04zAxdQmKHREESSIcHRF3K) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [words > numbers](https://open.spotify.com/album/3JnbEfKjAABORB0DSb6iOc) | 2:56 | 2022-04-15 | 2022-06-03 |

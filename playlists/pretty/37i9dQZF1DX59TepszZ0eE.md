@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC?si=UoGh5yS4SryIbJNb32jmhA">Mahalia Buchanan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,412 likes - 82 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,508 likes - 82 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 81 | [Indodana](https://open.spotify.com/track/4jnH5sr7A3hoTmDc6P8Mu2) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [The Grace Encounter, Vol\. 2](https://open.spotify.com/album/57ynLVUliNS3GClLff3g9b) | 4:54 |
 | 82 | [Ndikhokhele Bawo](https://open.spotify.com/track/6OV3Qs8BamgJ7TR3M6rYGW) | [Cape Town Camerata](https://open.spotify.com/artist/20F4DiCjbeeDmTFODuhhQH) | [Ndikhokhele Bawo](https://open.spotify.com/album/5OgGg48gEHDs3KsUxWoVFX) | 3:32 |
 
-Snapshot ID: `MCwyMTAxZDliZjhiYmExZDcwY2Y3YjhjMDQ2NmMzZjEzNTkyN2MwYjBi`
+Snapshot ID: `MCxhYmE4ZTZlMmU5YjA3ZDRlNTIxN2FjMDk3MmEyZGM0YmQ0YWJlYTI3`

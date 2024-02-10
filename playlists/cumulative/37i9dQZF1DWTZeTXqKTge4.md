@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: Loud, EDGE
 
-609 songs - 1 day 7 hr 17 min
+610 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,7 @@
 | [Mew](https://open.spotify.com/track/0XyFWTz62YHIppuJHsdCXS) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Mew](https://open.spotify.com/album/7z4jZcsp7l9U6j5Q5ydhrW) | 3:17 | 2023-03-10 | 2023-06-03 |
 | [MICRODOSE](https://open.spotify.com/track/6ccLf6BQBxl863pP57yr3g) | [Whitie](https://open.spotify.com/artist/0i91b2mJ9VCTPDvBEmOTID) | [VITE!](https://open.spotify.com/album/7HsaVeXEfVsB6SAO3Nrcqj) | 2:09 | 2022-05-13 | 2022-07-23 |
 | [MIKE TANGO LIMA](https://open.spotify.com/track/38bvFbzotkGZLkBNi5LYD0) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 2:24 | 2023-08-04 | 2023-09-30 |
-| [Mission Nocturne](https://open.spotify.com/track/7g1sKd5TXXMMVTaBlssG2U) | [Dextee](https://open.spotify.com/artist/2T0593JGcrLxhxTwHXaWiE) | [Mission Nocturne](https://open.spotify.com/album/3tKvDoCb5VgKj7lQZO50Bc) | 2:40 | 2023-04-28 |  |
+| [Mission Nocturne](https://open.spotify.com/track/7g1sKd5TXXMMVTaBlssG2U) | [Dextee](https://open.spotify.com/artist/2T0593JGcrLxhxTwHXaWiE) | [Mission Nocturne](https://open.spotify.com/album/3tKvDoCb5VgKj7lQZO50Bc) | 2:40 | 2023-04-28 | 2024-02-10 |
 | [Misunderstood](https://open.spotify.com/track/6uqdKP6QZIlAaVqyZP6krW) | [DARY](https://open.spotify.com/artist/7vfo5uAqkgpHfgTW2LmSPG) | [HAINE MOI](https://open.spotify.com/album/74rD7TMXbDIRygW8MiWbjD) | 3:48 | 2022-01-21 | 2022-07-02 |
 | [Mode Avion](https://open.spotify.com/track/2OwCPUafRzulE8CyB0WQMY) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Mode Avion](https://open.spotify.com/album/7oSVJPi9zgjRavK3z0xB4H) | 3:17 | 2023-05-12 | 2023-07-08 |
 | [Moitié plein](https://open.spotify.com/track/15tb8Of2C5NujvAYSWyXao) | [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Colin\-Maillard](https://open.spotify.com/album/3ndgfqyim4BNv0ATiLLQ7b) | 3:15 | 2022-09-16 | 2022-11-12 |
@@ -401,6 +401,7 @@
 | [Nervous](https://open.spotify.com/track/2rqZqs8Khkoa5YcBPgoOcq) | [Brown Family](https://open.spotify.com/artist/58kHjJdhzMEVRdibBX5JJW), [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [Brown Baby Gone](https://open.spotify.com/album/4g6Pi1CH0qxLuNmxkG80XW) | 3:30 | 2023-11-03 | 2023-11-13 |
 | [Nervous 2](https://open.spotify.com/track/6flgYzj4xcc59TV5aXOxvo) | [Brown Family](https://open.spotify.com/artist/58kHjJdhzMEVRdibBX5JJW), [Anodajay](https://open.spotify.com/artist/73o1j8sMaBPQMcgXsJTdp2), [Dramatik](https://open.spotify.com/artist/5emIiPIHrSU5eP2dOd8Ksi), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Robert Nelson](https://open.spotify.com/artist/4ufQ6sVB0A3Oz7nG5YWEg7) | [Nervous 2](https://open.spotify.com/album/60G1mH9Bxt4FRc8xIQF8aX) | 4:23 | 2023-11-03 | 2023-11-07 |
 | [NHN](https://open.spotify.com/track/0DfrSA7A8vdk8rDCUlBNac) | [Kay Bandz](https://open.spotify.com/artist/0NhcQOX46LVhK8aUc4vmMd), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [NHN](https://open.spotify.com/album/7s2LzVU7OEMJbKW4DUYsBJ) | 3:44 | 2022-09-23 | 2023-05-13 |
+| [NINTENDO 64](https://open.spotify.com/track/6x853glEaRezDRdmA0dkVo) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v) | [INDUSTREET : Exotics & Bangers](https://open.spotify.com/album/6db262ipeW9iZVkrKvhz8s) | 3:25 | 2024-02-09 |  |
 | [No Bap](https://open.spotify.com/track/6INVu5L6ciTAFVR64nIF4w) | [Brxnsxn](https://open.spotify.com/artist/0U5NHWybzoxuiGX7ZtTaej), [VersA](https://open.spotify.com/artist/6TkJXTbnYkCRcedHK8XTrC), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [No Bap](https://open.spotify.com/album/20wZbBu2CTnHuakNixVf1H) | 3:58 | 2023-01-13 | 2023-08-19 |
 | [No Lacking](https://open.spotify.com/track/2LccfY52m07v3pkxzHfxDM) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf) | [No Lacking](https://open.spotify.com/album/64gtB1byg4RAaSMKaJZS8o) | 3:12 | 2023-04-14 | 2023-05-20 |
 | [No stress](https://open.spotify.com/track/5DKGxw5dGLk92vicX5WbBb) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Swing](https://open.spotify.com/artist/0OQMxt6l70FM2YlLwYDiEn), [Primero](https://open.spotify.com/artist/1badJ5qBBvLuJ6qRqkRtR7) | [Zayon](https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY) | 3:37 | 2023-02-17 | 2023-03-11 |

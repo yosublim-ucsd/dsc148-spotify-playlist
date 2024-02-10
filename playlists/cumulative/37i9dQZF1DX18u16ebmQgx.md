@@ -4,7 +4,7 @@
 
 > ¡Brillando baldosa! Foto: Grupo Niche
 
-100 songs - 7 hr 30 min
+101 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Negrita](https://open.spotify.com/track/3Jo2SW9CXnKN5HKm8l1kaP) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [Si Tú Quieres Salsa Lado B](https://open.spotify.com/album/7CcqaYJ0cit9w1z66pXcbn) | 4:00 | 2022-06-24 |  |
 | [Noche de Arreboles](https://open.spotify.com/track/0OwS05mubfyTnplfP8rMwu) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [32 Grandes Exitos](https://open.spotify.com/album/0Moiv2jGzK7Apt4YjJUYqA) | 4:05 | 2022-06-24 |  |
 | [Oiga, Mire, Vea](https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:25 | 2022-06-24 |  |
-| [Oilo](https://open.spotify.com/track/79DsYCHCMihzx83nrt20Ww) | [La Mambanegra](https://open.spotify.com/artist/1TCrJDPaqtcTkAEcSl0kBZ) | [Oilo](https://open.spotify.com/album/5H3hmHChsscULagmYNt73Y) | 4:55 | 2022-06-24 |  |
+| [Oilo](https://open.spotify.com/track/79DsYCHCMihzx83nrt20Ww) | [La Mambanegra](https://open.spotify.com/artist/1TCrJDPaqtcTkAEcSl0kBZ) | [Oilo](https://open.spotify.com/album/5H3hmHChsscULagmYNt73Y) | 4:55 | 2022-06-24 | 2024-02-10 |
+| [Oílo](https://open.spotify.com/track/5oOE92XCEhQvG5bsDKLvi7) | [La Mambanegra](https://open.spotify.com/artist/1TCrJDPaqtcTkAEcSl0kBZ) | [Los Últimos Buses de Colores](https://open.spotify.com/album/1u1NgUs3r5fSAWWd4kiqpH) | 4:55 | 2023-08-04 |  |
 | [Pa'l Bailador](https://open.spotify.com/track/3ZCANlHFDZ0mdDQotsKlxi) | [El Sonero de América](https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ) | [35 Años de Exitos](https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja) | 4:30 | 2023-03-24 | 2023-07-29 |
 | [Pa'l Bailador](https://open.spotify.com/track/6rsAqgBNLooUcpO060WSv4) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 4:31 | 2022-06-24 |  |
 | [Pa'l Bailador](https://open.spotify.com/track/5BqOzNUUdLUU63w35YECr0) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Greatest Salsa Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/29k81bFSFRcvmCuiKo8UyI) | 4:32 | 2022-06-24 | 2022-11-13 |

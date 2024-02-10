@@ -2,7 +2,7 @@
 
 ### [House Party \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
 
-> Keeping the party going with <a href="https://posh.vip/e/sweet\-one\-valentines">Sweet One!</a>
+> Keeping the party going with <a href="https://www.instagram.com/sweetone.jpg/">Sweet One!</a>
 
 1,159 songs - 3 day 0 hr 10 min
 

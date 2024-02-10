@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 85814,
+  "2024-02-10": 85818,
   "date_first_scraped": "2022-10-24",
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
   "name": "Mid Tempo Magic",
@@ -1897,7 +1897,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 201384,
       "name": "Daydream Believer",
       "url": "https://open.spotify.com/track/6SQg7kkKjkWqXvOCh95aku"
@@ -4665,7 +4665,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 250547,
       "name": "Love & War in Your Twenties",
       "url": "https://open.spotify.com/track/3m9al81IVXLFCF4vG8Nqjw"
@@ -4795,7 +4795,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 208466,
       "name": "Lucy In The Sky With Diamonds - Remastered 2009",
       "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
@@ -8563,6 +8563,28 @@
       "duration_ms": 268421,
       "name": "\u30d6\u30eb\u30fc\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/7Lp7f1LepstiBcED0WZHXb"
+    },
+    {
+      "album": {
+        "name": "\u30da\u30a4\u30b8",
+        "url": "https://open.spotify.com/album/0xIi5tBFo1oB3Q2bbVpk6e"
+      },
+      "artists": [
+        {
+          "name": "MU-FU",
+          "url": "https://open.spotify.com/artist/2n5x1QfkGTOAg8cPGYoCWL"
+        },
+        {
+          "name": "Tomu Takahashi",
+          "url": "https://open.spotify.com/artist/7xT6MuvLyrZ26dtmicRmKB"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "\u30da\u30a4\u30b8",
+      "url": "https://open.spotify.com/track/63WCRjLt6NqgwtXxwExYat"
     },
     {
       "album": {

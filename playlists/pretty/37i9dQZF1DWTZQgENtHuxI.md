@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,250 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,254 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 64 | [I Can't Wait](https://open.spotify.com/track/0KCCNoVVXBatkTRvKOEf2t) | [Nu Shooz](https://open.spotify.com/artist/2The4Ur661sLPGndcUuuLu) | [Poolside](https://open.spotify.com/album/2cVH1uyLsHNv5LfZmL1eMX) | 5:26 |
 | 65 | [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:54 |
 | 66 | [Chase](https://open.spotify.com/track/3CgonfeyRh23O9F4aKiIbW) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO) | [Midnight Express](https://open.spotify.com/album/6nugwf8R0ojxx14K82SbBd) | 8:26 |
-| 67 | [Din Daa Daa \- U.S\. Remix](https://open.spotify.com/track/2Os4d9KF1Z0NPWnGJODaRs) | [George Kranz](https://open.spotify.com/artist/0XLhfP0Nt0IYLLKqfWjnbb) | [Din Daa Daa](https://open.spotify.com/album/5dUQHjUiKLHCiisLJVvRjw) | 6:19 |
+| 67 | [Din daa daa \- US Mix Maxi](https://open.spotify.com/track/433WZeRwMvTF1kxKrl1gKe) | [George Kranz](https://open.spotify.com/artist/0XLhfP0Nt0IYLLKqfWjnbb) | [Din daa daa \(US Remix\)](https://open.spotify.com/album/5OOGDu2xQuyJebWge2Da0w) | 6:21 |
 | 68 | [Do What You Wanna Do](https://open.spotify.com/track/0CXNXQZLjvHzZ9jQFsgKEM) | [T\-Connection](https://open.spotify.com/artist/4zLYrCC0iBYDV8QmEYzUFS) | [Heart of Stone: The Henry Stone Story](https://open.spotify.com/album/5i9IE79IDLSUoeNeVv2iwp) | 7:16 |
 | 69 | [We Got the Funk \- 12" Mix](https://open.spotify.com/track/0oQGO2TkE9a0KIAMCG2dNJ) | [Positive Force](https://open.spotify.com/artist/3AESCWpgSq8ykxcctEQ2mb) | [We Got the Funk](https://open.spotify.com/album/4l3fIq8PVXepPJylqUzcbe) | 7:18 |
 | 70 | [Mama Used To Say](https://open.spotify.com/track/3DRyJ7FT8yCLtF0e6K5JeG) | [Junior](https://open.spotify.com/artist/0OllCB8jre2XE6LnWXQKp4) | [JI \(Bonus Tracks Edition\)](https://open.spotify.com/album/71TzJaEz6LiQppiDXKqxM6) | 6:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 99 | [\#5 Go Bang! \(Francois K Mix\)](https://open.spotify.com/track/1WaeKhR5bpdmymEXM0yN1f) | [Dinosaur L](https://open.spotify.com/artist/0IebXswqiI5BInWTUqaSBw) | [24\-24 Music: The Definitive Arthur Russell Sleeping Bag Recordings](https://open.spotify.com/album/0Oq6ZorGIvnUdQKEMYYsY2) | 7:34 |
 | 100 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 |
 
-Snapshot ID: `MCxkNzkxMzViYWNjNTlkOGJlMTAyODE4YzJhMTVkMjE3M2ZhYTdkODA2`
+Snapshot ID: `MCw3NTU5MThjZDc0MTZhMGZiOTEyZDBkZTU3ODNhMzI2NTdlNmYxNWI1`

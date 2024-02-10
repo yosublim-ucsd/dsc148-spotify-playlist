@@ -4,7 +4,7 @@
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-249 songs - 15 hr 44 min
+250 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [El Liso \(feat\. Luis Towers\)](https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA), [Louis Towers](https://open.spotify.com/artist/4AXeE39BJVhTXxKMVdF2Lc) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:18 | 2021-12-09 |  |
 | [El Llamado](https://open.spotify.com/track/4OgxEP5h38KjRYYPdA0grX) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [El Llamado](https://open.spotify.com/album/53JYiQ2PyJRHAl1nKCP4ap) | 3:41 | 2023-07-25 | 2023-08-31 |
 | [El Llamado](https://open.spotify.com/track/7HPXEAZ8m5IXk0VCvmEZ0I) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Coral Way](https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s) | 3:41 | 2023-08-11 |  |
-| [El Rincón \(Chachachá\)](https://open.spotify.com/track/08jLZncRsF8HB2cgzBUTnN) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Las Olas](https://open.spotify.com/album/4RsOvbDDKueXvQSPHXTMi5) | 3:51 | 2022-01-01 |  |
+| [El Rincón \(Chachachá\)](https://open.spotify.com/track/08jLZncRsF8HB2cgzBUTnN) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Las Olas](https://open.spotify.com/album/4RsOvbDDKueXvQSPHXTMi5) | 3:51 | 2022-01-01 | 2024-02-10 |
 | [El rincón \(Chachachá\)](https://open.spotify.com/track/53FTMNsJZWS3rnJzHoaugG) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Las Olas](https://open.spotify.com/album/0QIv2shOFaPcLZpzydG3k0) | 3:51 | 2021-12-09 | 2022-07-29 |
 | [Electric Boogaloo](https://open.spotify.com/track/2uNlYmmvtJB0m3ZXhXsHKW) | [Yerba Buena](https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT) | [President Alien](https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH) | 4:00 | 2022-01-01 |  |
 | [Electric Boogaloo](https://open.spotify.com/track/4duwdgGjNHJc1uel4SZPya) | [Yerba Buena](https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT) | [President Alien](https://open.spotify.com/album/6iXN0n421mEm5R1tpznHkx) | 4:00 | 2021-12-09 | 2022-07-29 |
@@ -162,6 +162,7 @@
 | [Naranjo En Flor](https://open.spotify.com/track/2UG5sMphnHUvsswl596nqF) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Bajofondo Tango Club](https://open.spotify.com/album/7249DS6vz0JbQuZlpYDCPd) | 4:38 | 2022-08-31 | 2022-11-13 |
 | [Naranjo En Flor](https://open.spotify.com/track/4cAHUruX1d4Ukw7rkPrJQ9) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Bajofondo Tango Club](https://open.spotify.com/album/27biw4fIpaTxPJqrSbL7ZM) | 4:38 | 2023-03-07 | 2023-03-25 |
 | [No Pasa Na](https://open.spotify.com/track/0cKW32XAo7QfBJdP5indaf) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [No Pasa Na](https://open.spotify.com/album/1qDELsYjk55AV4cF3Ekvtp) | 3:50 | 2023-04-28 |  |
+| [No Se Vale](https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:00 | 2024-02-09 |  |
 | [Nobreza](https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [Nobreza](https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq) | 3:21 | 2021-12-09 | 2023-06-20 |
 | [Oye Como Va](https://open.spotify.com/track/5XNixCaiTFx88y5wLhVMQR) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5) | [Oye Como Va](https://open.spotify.com/album/4GXh6a6jVejKsYyCcymtUN) | 3:05 | 2021-12-09 | 2023-03-08 |
 | [Oye Como Va](https://open.spotify.com/track/0rsmlyJFeb3qiGxmD3jjEw) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Anthology](https://open.spotify.com/album/0rgVSkoF34MLJkdtUdHLx3) | 4:32 | 2021-12-09 | 2022-07-29 |

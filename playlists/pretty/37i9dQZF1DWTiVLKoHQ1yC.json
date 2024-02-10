@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 174747,
+  "num_followers": 174775,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTA4MzZiMDc5NzJmZTY3MmIxN2RhMTIyNDI5OWZjNTY2MmFmMTQ2",
+  "snapshot_id": "MCwzYmIxODE4YTU1MTJjMzIyOTE0ZWFmMDhmNmI3ZTQxMjdjNDM0Yjli",
   "tracks": [
     {
       "added_at": "2024-02-02 08:52:45",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-02-02 08:52:45",
       "album": {
+        "name": "Lofthaus",
+        "url": "https://open.spotify.com/album/0lYuuppOxA0hQtZkVduNBE"
+      },
+      "artists": [
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
+        }
+      ],
+      "duration_ms": 187900,
+      "name": "Lofthaus",
+      "url": "https://open.spotify.com/track/6WMgmqDhFWNTwH2ICanF3E"
+    },
+    {
+      "added_at": "2024-02-02 08:52:45",
+      "album": {
         "name": "Brightest Lights Remixed",
         "url": "https://open.spotify.com/album/70JL21ywMn2hLg3EyfwUPW"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 295597,
       "name": "How Often - Ben B\u00f6hmer Remix",
       "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
-    },
-    {
-      "added_at": "2024-02-02 08:52:45",
-      "album": {
-        "name": "Lofthaus",
-        "url": "https://open.spotify.com/album/0lYuuppOxA0hQtZkVduNBE"
-      },
-      "artists": [
-        {
-          "name": "Spada",
-          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
-        }
-      ],
-      "duration_ms": 187900,
-      "name": "Lofthaus",
-      "url": "https://open.spotify.com/track/6WMgmqDhFWNTwH2ICanF3E"
     },
     {
       "added_at": "2024-02-02 08:52:45",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-02-02 08:52:45",
       "album": {
-        "name": "Celestia EP",
-        "url": "https://open.spotify.com/album/7hBWsXRF3UzahsPs9fgDcp"
-      },
-      "artists": [
-        {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
-        },
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
-        }
-      ],
-      "duration_ms": 229249,
-      "name": "Celestia",
-      "url": "https://open.spotify.com/track/3BZ8KRBfIg9Lu9Zl3i2X6N"
-    },
-    {
-      "added_at": "2024-02-02 08:52:45",
-      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 249677,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
+    },
+    {
+      "added_at": "2024-02-02 08:52:45",
+      "album": {
+        "name": "Celestia EP",
+        "url": "https://open.spotify.com/album/7hBWsXRF3UzahsPs9fgDcp"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
+        }
+      ],
+      "duration_ms": 229249,
+      "name": "Celestia",
+      "url": "https://open.spotify.com/track/3BZ8KRBfIg9Lu9Zl3i2X6N"
     },
     {
       "added_at": "2024-02-02 08:52:45",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-02-02 08:52:45",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP"
+      },
+      "artists": [
+        {
+          "name": "Herr Lang",
+          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
+        }
+      ],
+      "duration_ms": 323302,
+      "name": "Selbst",
+      "url": "https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3"
+    },
+    {
+      "added_at": "2024-02-02 08:52:45",
+      "album": {
         "name": "LNOE Introducing Vol. 1",
         "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 431162,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH"
-    },
-    {
-      "added_at": "2024-02-02 08:52:45",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP"
-      },
-      "artists": [
-        {
-          "name": "Herr Lang",
-          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
-        }
-      ],
-      "duration_ms": 323302,
-      "name": "Selbst",
-      "url": "https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3"
     },
     {
       "added_at": "2024-02-02 08:52:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,823 likes - 153 songs - 8 hr 43 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,822 likes - 155 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,5 +161,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 151 | [Growing Pains](https://open.spotify.com/track/094tCgchiXY2srShd51TvA) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Growing Pains](https://open.spotify.com/album/2ALJwbBEAUpuqg7JFuhtlv) | 4:24 |
 | 152 | [mightaswell](https://open.spotify.com/track/6ga3XobgWLyxpFLDpYHCKm) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [leo](https://open.spotify.com/album/2HCJZS3ePjIeJIY4yxI7Hy) | 2:20 |
 | 153 | [Power \(Feat\. Yianna\)](https://open.spotify.com/track/3Y3dFkxxoU20qT0eeiKpJR) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Yianna](https://open.spotify.com/artist/051lz9ZMNShdpFP1uQtd9m) | [Power \(Feat\. Yianna\)](https://open.spotify.com/album/35X9DgSVkQVzsHFbqtfN0p) | 3:01 |
+| 154 | [I'm Not Giving Up \(with MEMBA\)](https://open.spotify.com/track/471OWwLdgRbmyRoWXKBXYk) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [I'm Not Giving Up \(with MEMBA\)](https://open.spotify.com/album/3qUJFohjpTS1AFCI1124Bd) | 2:40 |
+| 155 | [I Just Need \(with Lyrah\)](https://open.spotify.com/track/6JbeNVHHrvRGY9BjB8hmkR) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [I Just Need \(with Lyrah\)](https://open.spotify.com/album/5UhCTYiNNiL26OSebdWUck) | 2:26 |
 
-Snapshot ID: `MTA1NzksNzkzNjRkZWRlZDcyYzllNTU0MTk1ZDA4NDQyYjQ1NmQ2NjhiMDQyOQ==`
+Snapshot ID: `MTA1ODEsZGRhNjc1ZDkyN2NkMDAwM2MxZTRlNGIwYmQ3NTMwZThlOTJiNmI1Zg==`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:4UGA0TDpRVVt2SCz8FZOMm\">Un Coraz\u00f3n</a> y <a href=\"spotify:artist:5njxJJEEXE6Kxkr4yiFeJi\">Kim Richards</a> ",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:4MgA2G0NoAMdcFBaK5ZAfw\">Lowsan Melgar</a> y <a href=\"spotify:artist:6KOEJIpphgdK2z7wXfWYvj\">Damaris Guerra</a> ",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -42,6 +42,28 @@
       "duration_ms": 210612,
       "name": "123 Enemies",
       "url": "https://open.spotify.com/track/5j29ypXI3IDDGkUppjZtu1"
+    },
+    {
+      "album": {
+        "name": "3 Veces Santo",
+        "url": "https://open.spotify.com/album/76LofKujzebv377m4UrLlL"
+      },
+      "artists": [
+        {
+          "name": "Damaris Guerra",
+          "url": "https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj"
+        },
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247692,
+      "name": "3 Veces Santo",
+      "url": "https://open.spotify.com/track/1nxfUJVGWcof0wQdA7LyS3"
     },
     {
       "album": {
@@ -214,7 +236,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 253000,
       "name": "Abba Padre",
       "url": "https://open.spotify.com/track/31tJ4vhFrFdmQ1ZOHKaYH5"
@@ -2262,7 +2284,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 313720,
       "name": "Cordero y Le\u00f3n",
       "url": "https://open.spotify.com/track/0dw8miCVMqM1nHamZuf4wj"
@@ -2956,7 +2978,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 194399,
       "name": "Diccionario",
       "url": "https://open.spotify.com/track/7xXKf603uv2ih4vt8RsLcY"
@@ -6089,6 +6111,24 @@
     },
     {
       "album": {
+        "name": "L\u00e1zaro",
+        "url": "https://open.spotify.com/album/2L25KnyQ78KqJ2ZAcUGW32"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "L\u00e1zaro",
+      "url": "https://open.spotify.com/track/5zEHEe05oPYZuhaKm4HIvs"
+    },
+    {
+      "album": {
         "name": "MAGN\u00c9TICO",
         "url": "https://open.spotify.com/album/1AH79nsg6fmfnlaTIID7LW"
       },
@@ -7472,7 +7512,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 243250,
       "name": "No Temas",
       "url": "https://open.spotify.com/track/1WJjXVxrprcrrixUt7kJoC"
@@ -8144,6 +8184,28 @@
       "duration_ms": 244506,
       "name": "Que Es La Que Hay",
       "url": "https://open.spotify.com/track/4jfyliVzYqgRnNYWUpqQFH"
+    },
+    {
+      "album": {
+        "name": "Que Mi Vida Te Adore",
+        "url": "https://open.spotify.com/album/1pZaOFeTieHpwpZ1rsyZZW"
+      },
+      "artists": [
+        {
+          "name": "Art Aguilera",
+          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
+        },
+        {
+          "name": "Jaz Jacob",
+          "url": "https://open.spotify.com/artist/7wxEfNSLam1iBAyIhdpSUh"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450000,
+      "name": "Que Mi Vida Te Adore",
+      "url": "https://open.spotify.com/track/0SMlfgAWLBFc2GOmBOzCMw"
     },
     {
       "album": {
@@ -9369,6 +9431,24 @@
     },
     {
       "album": {
+        "name": "ST\u00dcSSY",
+        "url": "https://open.spotify.com/album/4rtoEfkgyaibuB6q2aXdJ1"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175398,
+      "name": "ST\u00dcSSY",
+      "url": "https://open.spotify.com/track/4u6hy75THfPE4j8Z16r3bd"
+    },
+    {
+      "album": {
         "name": "Su Poder",
         "url": "https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV"
       },
@@ -9902,7 +9982,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 154999,
       "name": "Todo Gracias Al Se\u00f1or",
       "url": "https://open.spotify.com/track/5uVPqmFDUeveJ1bQFtWTyY"

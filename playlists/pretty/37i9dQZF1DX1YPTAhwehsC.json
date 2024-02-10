@@ -1,12 +1,12 @@
 {
   "description": "Up and down I-95. Cover: Benny The Butcher",
-  "num_followers": 452899,
+  "num_followers": 452918,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGQ2NmU0MTI3YzZiYTZhNjY2MjExZDA3NTg1NTM2MTFmYTdhMmIx",
+  "snapshot_id": "MCwzODJlZmYzOGI3NjgxMmViMjZiYzZjNTU4OGZhZTI0MWQ4ZDdkNjhl",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "bye",
-        "url": "https://open.spotify.com/album/0xqV7DKi4wufsQhXF4oKaY"
-      },
-      "artists": [
-        {
-          "name": "Yung Kayo",
-          "url": "https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "bye",
-      "url": "https://open.spotify.com/track/5GVj6HYyNft6bxqrpBICyW"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Blick (feat. NLE Choppa) [Remix]",
         "url": "https://open.spotify.com/album/4luQV28tZT0RsxoXgboGnc"
       },
@@ -225,6 +209,26 @@
       "url": "https://open.spotify.com/track/4Inza1lYiwj1XWGaEoY3B5"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Pain & Love 2",
+        "url": "https://open.spotify.com/album/1M1i7i0G5g0bhQIoyXeqJN"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "duration_ms": 171636,
+      "name": "Waiting (feat. Sheff G)",
+      "url": "https://open.spotify.com/track/4gOTWPI2lMFTC17LP8zjYu"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Dunk Contest",
@@ -243,8 +247,40 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Enough is Enough",
-        "url": "https://open.spotify.com/album/1VnSiCCvVjguupjj9jT4ah"
+        "name": "swag it!",
+        "url": "https://open.spotify.com/album/2LBEpxENc2U91CV2bHA8bP"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "duration_ms": 197555,
+      "name": "swag it!",
+      "url": "https://open.spotify.com/track/09Hd4FJEuSAWVvv4W152Wg"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "YEH",
+        "url": "https://open.spotify.com/album/2dQCBUYuCOoEbrrU4HzDbd"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "duration_ms": 134265,
+      "name": "YEH",
+      "url": "https://open.spotify.com/track/30WeTbgrLddzKH2BEAEswe"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Bitches & Bottles",
+        "url": "https://open.spotify.com/album/5wDJnlUVEHCI3C1CG40hFy"
       },
       "artists": [
         {
@@ -252,9 +288,9 @@
           "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
         }
       ],
-      "duration_ms": 99659,
-      "name": "Enough is Enough",
-      "url": "https://open.spotify.com/track/1l4XzY5dVn0H6HWlen79Jx"
+      "duration_ms": 107528,
+      "name": "Bitches & Bottles",
+      "url": "https://open.spotify.com/track/5A2MsqWdsL5wNL60TSAiMj"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -279,22 +315,6 @@
       "duration_ms": 99987,
       "name": "Diamondz n Roses",
       "url": "https://open.spotify.com/track/2s7pqJkHxJg9RNPxjtf46K"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "swag it!",
-        "url": "https://open.spotify.com/album/2LBEpxENc2U91CV2bHA8bP"
-      },
-      "artists": [
-        {
-          "name": "Chow Lee",
-          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
-        }
-      ],
-      "duration_ms": 197555,
-      "name": "swag it!",
-      "url": "https://open.spotify.com/track/09Hd4FJEuSAWVvv4W152Wg"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -459,6 +479,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "bye",
+        "url": "https://open.spotify.com/album/0xqV7DKi4wufsQhXF4oKaY"
+      },
+      "artists": [
+        {
+          "name": "Yung Kayo",
+          "url": "https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "bye",
+      "url": "https://open.spotify.com/track/5GVj6HYyNft6bxqrpBICyW"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Good Girls Ain't No Fun",
         "url": "https://open.spotify.com/album/2mcP7rL0a2kooZeNjax91u"
       },
@@ -527,6 +563,22 @@
       "duration_ms": 188870,
       "name": "HVN ON EARTH (with Kodak Black)",
       "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Chain Smokin",
+        "url": "https://open.spotify.com/album/7xM4CGrLZPwLVRkxkc5RVC"
+      },
+      "artists": [
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        }
+      ],
+      "duration_ms": 127680,
+      "name": "Chain Smokin",
+      "url": "https://open.spotify.com/track/13gGKDBFKilZ6lFFjYhUmK"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1001,6 +1053,22 @@
       "url": "https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "THOUSANDS",
+        "url": "https://open.spotify.com/album/7tuXxf6a1D63xH9xaRnqvd"
+      },
+      "artists": [
+        {
+          "name": "Lil Skies",
+          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "THOUSANDS",
+      "url": "https://open.spotify.com/track/63gZrPtABYKDYmyTp6koK2"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Beep Beep",
@@ -1193,6 +1261,22 @@
       "url": "https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "NFL",
@@ -1283,6 +1367,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "B4 BOA",
+        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "Her Birthday",
+      "url": "https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Lyrical Eazy",
         "url": "https://open.spotify.com/album/534PxJHGdYXYCRnjNeWMuo"
       },
@@ -1299,30 +1399,6 @@
       "duration_ms": 100975,
       "name": "Lyrical Eazy",
       "url": "https://open.spotify.com/track/6xVdq7lcNHpELteLBfrkY2"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/4KFnAEwJiIIB5WS6b5mAEi"
-      },
-      "artists": [
-        {
-          "name": "TJ Porter",
-          "url": "https://open.spotify.com/artist/3z3xPw2NyqrZgITJS0Xvs4"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        },
-        {
-          "name": "EliWTF",
-          "url": "https://open.spotify.com/artist/2mD9arUCF7DL6O9ITxyyBN"
-        }
-      ],
-      "duration_ms": 117259,
-      "name": "Going Up",
-      "url": "https://open.spotify.com/track/5SJEFqTjCHh1I8a3e4bpe8"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1407,22 +1483,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "ready 2 live!",
-        "url": "https://open.spotify.com/album/0w51x7cat5Md51wQIrFH9R"
-      },
-      "artists": [
-        {
-          "name": "Chow Lee",
-          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
-        }
-      ],
-      "duration_ms": 129962,
-      "name": "ready 2 live!",
-      "url": "https://open.spotify.com/track/1hbf3w5z3KXCsIxtcSqNcP"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Boy Meets World",
         "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
       },
@@ -1439,22 +1499,6 @@
       "duration_ms": 148928,
       "name": "A N X I E T Y (feat. Doechii)",
       "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "B4 BOA",
-        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Her Birthday",
-      "url": "https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1795,26 +1839,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Ruthless Gz",
-        "url": "https://open.spotify.com/album/1MIA2rzII55F7hs4EmbGo0"
-      },
-      "artists": [
-        {
-          "name": "Sha Gz",
-          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
-        },
-        {
-          "name": "Dthang",
-          "url": "https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr"
-        }
-      ],
-      "duration_ms": 189650,
-      "name": "We Do A Lot",
-      "url": "https://open.spotify.com/track/6Y8lGkQk8zhhAm2RqyVYhq"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Pretty Girls Love Slizzy",
         "url": "https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO"
       },
@@ -1827,22 +1851,6 @@
       "duration_ms": 176620,
       "name": "Clocking U",
       "url": "https://open.spotify.com/track/4hNdFY5XiWlcdVY8zBoE8b"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "NEED IT",
-        "url": "https://open.spotify.com/album/3awkjfYN3DbBh1F2LXUVCs"
-      },
-      "artists": [
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
-        }
-      ],
-      "duration_ms": 139364,
-      "name": "NEED IT",
-      "url": "https://open.spotify.com/track/6T1dDWfxHxjHkIIhKANk49"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1891,22 +1899,6 @@
       "duration_ms": 158181,
       "name": "No Statements",
       "url": "https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Last One Left",
-        "url": "https://open.spotify.com/album/1SH0SWEZWW9fKuQR77Ths2"
-      },
-      "artists": [
-        {
-          "name": "Sha EK",
-          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
-        }
-      ],
-      "duration_ms": 102625,
-      "name": "Last One Left",
-      "url": "https://open.spotify.com/track/30mAI17v7imZwWVT9mKA0d"
     },
     {
       "added_at": "2024-02-02 05:00:00",

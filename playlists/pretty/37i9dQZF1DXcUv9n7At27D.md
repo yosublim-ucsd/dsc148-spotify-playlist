@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の冬に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,643 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,651 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 39 | [サラバンド](https://open.spotify.com/track/5fUxSSLvCzCTF9YhFdiaXt) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [伊藤悠貴](https://open.spotify.com/artist/7eDqET7FQPEcbC44bs2m80) | [アダージョ\~孤独のアンサンブル\~](https://open.spotify.com/album/2ieIn5LgQHBlWNahgUu51N) | 5:37 |
 | 40 | [Rainbow](https://open.spotify.com/track/0C0p6ndJk5S6LdQyyqzfdJ) | [Mina Kubota](https://open.spotify.com/artist/4z1dMCmOJ6VHm8P7EP5qWf) | [ARIA\~ピアノ・コレクション\~ スタジオーネ\-季節\-](https://open.spotify.com/album/6AOubvJvCg6wAxeb1Glwhx) | 3:05 |
 
-Snapshot ID: `MCxhNjM3YjBiMDA5ZDVlYTcxNWM0MTdkMTAyMTdkZjYyM2I5MzFiMzA1`
+Snapshot ID: `MCwzM2MwNDRhMDAzYzA5MzhkNDQyYThhZTkxMzcyN2QxZTkzNmUzMzI0`

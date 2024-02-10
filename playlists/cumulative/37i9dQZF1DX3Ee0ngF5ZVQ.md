@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-591 songs - 1 day 11 hr 12 min
+592 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [Like I'm Elvis](https://open.spotify.com/track/43hD7QC5J14TBVpDJrUXcv) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Like I'm Elvis](https://open.spotify.com/album/08vOtTxMCOwuV1g5wlqko8) | 4:01 | 2022-03-25 | 2022-07-19 |
 | [Like She Does](https://open.spotify.com/track/7vLzS4QoDV2wP9zfvdhVgd) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Love](https://open.spotify.com/album/7gei0BhwKRgS4MhsO4RqLh) | 3:48 | 2023-07-21 |  |
 | [Like the Wind](https://open.spotify.com/track/3hO22cIoKIEmCjMIsG7kY9) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Like the Wind](https://open.spotify.com/album/4FfBY2JDKbtRUhUHK1th5U) | 3:14 | 2022-02-04 | 2022-07-29 |
-| [Lily of the Valley](https://open.spotify.com/track/2IGcmsZibLpRlcfQ5ddXi5) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Lily of the Valley](https://open.spotify.com/album/2gz0xrQjHaY87mgw9EhO9B) | 4:52 | 2023-11-03 |  |
+| [Lily of the Valley](https://open.spotify.com/track/2IGcmsZibLpRlcfQ5ddXi5) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Lily of the Valley](https://open.spotify.com/album/2gz0xrQjHaY87mgw9EhO9B) | 4:52 | 2023-11-03 | 2024-02-10 |
 | [Livin' Like This](https://open.spotify.com/track/39k6k6fJmP1PSU6crfVuyl) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Livin' Like This](https://open.spotify.com/album/26XfDbVRwETxRhziXChzdC) | 3:03 | 2022-06-03 | 2022-07-27 |
 | [Lonestar Lonely](https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Lonestar Lonely](https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM) | 3:35 | 2023-09-08 |  |
 | [Long Gone](https://open.spotify.com/track/0KaQom2aaLURgTYMKSYDnC) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Long Gone](https://open.spotify.com/album/6yXet43BmB7VaNsNop2X2F) | 3:14 | 2021-12-17 | 2022-01-08 |
@@ -348,6 +348,7 @@
 | [My First Rodeo](https://open.spotify.com/track/2hUnTBO3xdwXyB0Kwdmur5) | [Savanna Chestnut](https://open.spotify.com/artist/25Q8chabmr7xmJgVsdDErq) | [My First Rodeo](https://open.spotify.com/album/6ILAL65oJ9IMH31DEBTGNh) | 3:28 | 2021-12-17 | 2022-08-27 |
 | [My Guitar](https://open.spotify.com/track/2R8J4w7gU2jdhE19Eq353x) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [My Guitar](https://open.spotify.com/album/6SrueBxY4VCFGfWmPzxM6S) | 3:06 | 2022-06-24 | 2022-07-21 |
 | [My Heart You'll Tend](https://open.spotify.com/track/3po9LDXpTQyJCPc5O1RUut) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [My Heart You'll Tend](https://open.spotify.com/album/1KpJBUETISSfAToyFkBDDA) | 3:53 | 2023-07-28 | 2023-11-01 |
+| [My Love](https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [My Love](https://open.spotify.com/album/5VOaO6GlmbM6GcPrjl97HQ) | 4:01 | 2024-02-09 |  |
 | [My Mistake](https://open.spotify.com/track/7qob3E6PdqRBJw0BnSjE5g) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/3kXYEKoW7QdKQALUEdKvbp) | 3:41 | 2021-12-17 | 2022-03-19 |
 | [My Old Man and Jesus](https://open.spotify.com/track/3dm2tAOVyFavpTXVir5sGL) | [Casey Daniels Band](https://open.spotify.com/artist/7eVdtDS1ReoSxBZ4Apqpc7) | [My Old Man and Jesus](https://open.spotify.com/album/1ck49Jsp0ZNzWyPdWUFWif) | 3:26 | 2023-06-23 | 2023-08-05 |
 | [Neon](https://open.spotify.com/track/1ChqTJSMsQ7C1XZRl394QY) | [Mikayla Lane](https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl) | [Neon](https://open.spotify.com/album/5Xrp5MjicsTHkqSjdkfnfg) | 3:29 | 2024-01-12 |  |

@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Turisti ja Cledos.
 
-324 songs - 15 hr 36 min
+325 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Demoneista ystävii](https://open.spotify.com/track/3rK7sL207zzuVPq5iX0qpM) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Demoneista ystävii](https://open.spotify.com/album/2KfNKCtRsib5lzN9QbJsiS) | 3:01 | 2023-11-02 |  |
 | [Demoni](https://open.spotify.com/track/67GFIdsOwFSwGx59b5vEu5) | [MunkkiTuk](https://open.spotify.com/artist/3564og7LWSGSFTFEe3doGR) | [Demoni](https://open.spotify.com/album/2kOyjw2vLBeKpkKIoNsiPw) | 2:09 | 2023-11-09 | 2023-11-17 |
 | [DNA](https://open.spotify.com/track/3pcwjQGRMsc9Q1zX0BQ2z2) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [DNA](https://open.spotify.com/album/2BD6tw7q1we7e7uleDNIK9) | 2:40 | 2023-11-09 |  |
+| [Do This For Fun](https://open.spotify.com/track/1Wq1XDIOOqtnIp8s4jN85u) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Do This For Fun](https://open.spotify.com/album/2ISKOwa9s4B9Ul1uzzmtae) | 2:36 | 2024-02-09 |  |
 | [Down With Me](https://open.spotify.com/track/19jIH6vZtyZU96Azs9Y6oT) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq) | [Down With Me](https://open.spotify.com/album/2U7oD3b2tWUfWyZ7OFfAHA) | 3:06 | 2023-11-23 | 2023-12-15 |
 | [Edelleen Kunkun Tee](https://open.spotify.com/track/67jxdaHzO4Z8QsMBw1YuSU) | [Kriso](https://open.spotify.com/artist/5IQo6uI8DE3yq8WwBYeMBD), [Are](https://open.spotify.com/artist/16X4XStfwmDUkI98lVGj4Z) | [Edelleen Kunkun Tee](https://open.spotify.com/album/6EgypwJG9mK10rSwqjFFNR) | 4:15 | 2023-12-08 | 2023-12-22 |
 | [Ei oo enää meit](https://open.spotify.com/track/46bqUeYsiyYED0DSKNGFQd) | [BIMI](https://open.spotify.com/artist/5o5lDAHXkNPWOLEjDzLoka) | [Ei oo enää meit](https://open.spotify.com/album/5x0z3cHrgrw4dxAFcu59JJ) | 3:07 | 2023-11-09 | 2023-11-24 |

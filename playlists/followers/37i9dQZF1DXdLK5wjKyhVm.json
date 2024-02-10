@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 159299,
+  "2024-02-10": 159473,
   "date_first_scraped": "2022-09-09",
   "description": "Blissed out beats and head nodding grooves - Relax, study and vibe. ",
   "name": "Chillhop",
@@ -3162,6 +3162,24 @@
     },
     {
       "album": {
+        "name": "in the shadows",
+        "url": "https://open.spotify.com/album/1aJZsbwArORSxptMMAsksU"
+      },
+      "artists": [
+        {
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149468,
+      "name": "in the shadows",
+      "url": "https://open.spotify.com/track/26Wu26lCBd5Pf5bMyhlDPP"
+    },
+    {
+      "album": {
         "name": "In-N-Out",
         "url": "https://open.spotify.com/album/6ieSaqDP0SM15wqiWnPFFb"
       },
@@ -5105,8 +5123,8 @@
       },
       "artists": [
         {
-          "name": "Basmati",
-          "url": "https://open.spotify.com/artist/1OK2jT1iiO4d8D5qHnJzLB"
+          "name": "Pakora",
+          "url": "https://open.spotify.com/artist/0Km8q2VEbS7WMPOGFnBDqz"
         },
         {
           "name": "Lovis Tru",

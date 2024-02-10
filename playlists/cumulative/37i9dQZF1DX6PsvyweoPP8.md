@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-189 songs - 9 hr 20 min
+190 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [VAMPIRA](https://open.spotify.com/track/1vUf2pQNYT0EEEU5RLxO4h) | [PedroWnx](https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [VAMPIRA](https://open.spotify.com/album/4dv5Yl0t9ZKRA5GTKntuuj) | 2:48 | 2022-08-05 | 2022-10-08 |
 | [Vestido](https://open.spotify.com/track/10rj6o7ALGZABKN5dzfUsr) | [DANK](https://open.spotify.com/artist/7tDjxyXj7EWdnnpAVwr2zM), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH) | [Vestido](https://open.spotify.com/album/4oxdlFVfOSRTV6K8KuHNSV) | 2:24 | 2023-07-07 | 2023-11-04 |
 | [Vida Chique Madame](https://open.spotify.com/track/6VpqXQLljVXPTAdUbOaXOt) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Vida Chique Madame](https://open.spotify.com/album/2vm6G0MiLRBKJENg1HJIti) | 2:58 | 2023-05-26 | 2023-10-28 |
+| [Vida Eu Penso Na Gente Ainda](https://open.spotify.com/track/5qV0rG1Tdj5mpL9ssoLxrj) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [Vida Eu Penso Na Gente Ainda](https://open.spotify.com/album/6TirEETOEzpQyGQnVSmm7S) | 2:38 | 2024-02-09 |  |
 | [Vinho & Sexo \- Prod\. Papatinho](https://open.spotify.com/track/0Lou5GSyISEjhtmbCgKGVI) | [Rany Money](https://open.spotify.com/artist/44P449nprZUercBnuts1o0) | [Vinho & Sexo \(Prod\. Papatinho\)](https://open.spotify.com/album/0ruRPIoTVV03Iaj3qxiaTs) | 3:16 | 2022-03-18 | 2022-11-12 |
 | [Visconde](https://open.spotify.com/track/7oQ1T06MueIr7JcxrKv2qa) | [Itinn086](https://open.spotify.com/artist/3E0XZ7RrFpI5jVamigv02T), [LF](https://open.spotify.com/artist/4XTEaGrwzx4f87DfPztViW), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Visconde](https://open.spotify.com/album/2Xbh3EeiqJE3BCUP1DRGk0) | 2:44 | 2022-09-09 | 2022-10-01 |
 | [Volúpia](https://open.spotify.com/track/6IxQngYNjrubqG7Zt8rYMa) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh), [fallkee](https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o) | [Volúpia](https://open.spotify.com/album/054nMoCC4u5dCI4vTXWKc3) | 2:31 | 2023-11-11 |  |

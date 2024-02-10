@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126424,
+  "num_followers": 126426,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDU1Myw1YWQ4ZTkwYmE3ZDRlNGQwNzRiMTQ3NDZmZjdjODQyODBhMmJkODYy",
+  "snapshot_id": "NDU1NCwwODIzMzI1MTYxMjI2M2VmYjNhMGZkZDA3NzEzZjIzNDM1ZGY2NThh",
   "tracks": [
+    {
+      "added_at": "2024-02-09 16:40:53",
+      "album": {
+        "name": "IBTFY",
+        "url": "https://open.spotify.com/album/6OFi8jTH03PDyQni2LVACn"
+      },
+      "artists": [
+        {
+          "name": "UZ",
+          "url": "https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo"
+        },
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 152275,
+      "name": "IBTFY",
+      "url": "https://open.spotify.com/track/09b31KaJfkzpPGNDsihd4t"
+    },
     {
       "added_at": "2024-02-08 17:55:39",
       "album": {

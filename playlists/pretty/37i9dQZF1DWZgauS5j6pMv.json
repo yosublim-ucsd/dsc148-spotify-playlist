@@ -1,13 +1,33 @@
 {
   "description": "The best of today's funk. Cover: Jordan Mackampa\n",
-  "num_followers": 315118,
+  "num_followers": 315154,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2UzYTA5ZDQzMmY3MTM4MWUwNmMwNzIxYTM0MGJlOTM3NzVhY2Y1",
+  "snapshot_id": "MCxmMzMyODhhZGU5NmM4OWNhOTAwYmE3MWVjMjBhNzdjMTNjZWE2MTRk",
   "tracks": [
+    {
+      "added_at": "2024-02-09 05:01:00",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk"
+    },
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
@@ -67,6 +87,26 @@
       "duration_ms": 253320,
       "name": "Saturday Night (Need You Now)",
       "url": "https://open.spotify.com/track/5HYNZhR70lfA1dzvQoXCBM"
+    },
+    {
+      "added_at": "2024-02-09 05:01:00",
+      "album": {
+        "name": "I'm Gonna Break Through The Minneapolis Sound",
+        "url": "https://open.spotify.com/album/5SPxmPtm7P2SzNiFWmUQeN"
+      },
+      "artists": [
+        {
+          "name": "Leon Schmith",
+          "url": "https://open.spotify.com/artist/4xrhCvqLYl670XhDEPLrD9"
+        },
+        {
+          "name": "Jos\u00e9 C\u00f4rte-Real",
+          "url": "https://open.spotify.com/artist/72mw2lexAW7ztbJXDLvZvc"
+        }
+      ],
+      "duration_ms": 220435,
+      "name": "I'm Gonna Break Through The Minneapolis Sound",
+      "url": "https://open.spotify.com/track/3NquVqpiNefjlWzj83ljbd"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -1177,26 +1217,6 @@
       "url": "https://open.spotify.com/track/0mUsrgWAbaoc6daw6z2HDO"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Everybody in the World",
-        "url": "https://open.spotify.com/album/5BLQId2P20h6e3N7RRuXgY"
-      },
-      "artists": [
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        },
-        {
-          "name": "New Breed Brass Band",
-          "url": "https://open.spotify.com/artist/1o460hybHU3bpJUsu7Rko5"
-        }
-      ],
-      "duration_ms": 234194,
-      "name": "Everybody in the World (feat. New Breed Brass Band)",
-      "url": "https://open.spotify.com/track/3xRrcTVx6yjNGSEhw8rE2A"
-    },
-    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "You Gotta Respect Yourself!",
@@ -1827,34 +1847,6 @@
       "duration_ms": 200000,
       "name": "Dead Inside Shuffle",
       "url": "https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "L.O.V.E. (feat. EARTHGANG, Jon Batiste & Sherwyn)",
-        "url": "https://open.spotify.com/album/3tXVxjXrXJMTBXorraiZHQ"
-      },
-      "artists": [
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        },
-        {
-          "name": "Sherwyn",
-          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "L.O.V.E. (feat. EARTHGANG, Jon Batiste & Sherwyn)",
-      "url": "https://open.spotify.com/track/3h3szgXLd2FJ0WSWj8om9t"
     },
     {
       "added_at": "2022-12-09 05:00:00",

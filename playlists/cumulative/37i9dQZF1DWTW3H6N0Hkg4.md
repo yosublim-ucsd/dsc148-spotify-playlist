@@ -4,7 +4,7 @@
 
 > Cumbias de antaño para bailar.
 
-274 songs - 16 hr 30 min
+275 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Echarme Al Olvido](https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. 3](https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r) | 4:41 | 2022-07-19 |  |
 | [El Aguajal](https://open.spotify.com/track/69wiGluawqV442FfP20UXz) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Cariñito](https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA) | 3:45 | 2022-12-07 | 2023-07-19 |
 | [El Aguajal](https://open.spotify.com/track/2PQGsNqid5HDxWuab2GSrN) | [Rodolfo Aicardi Y Su Tipica Ra7](https://open.spotify.com/artist/7uLsqUGIjlBE3L56WJLWPT) | [Qué Chevere, Vol\. 2](https://open.spotify.com/album/1973kT56qSH9cNCxl9LuCJ) | 3:45 | 2021-10-19 | 2022-07-29 |
+| [El Aguajal \(Live\)](https://open.spotify.com/track/7K7mMQWoUGnv8hzTLnxJfK) | [El Rey de los Diciembres](https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y) | [Grandes Exitos](https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6) | 3:45 | 2022-12-07 |  |
 | [El Amor Se Fue](https://open.spotify.com/track/4foclxTsJ6LvApqtcP1Tc3) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Sencillo](https://open.spotify.com/album/5iFfv4w4GLj8dA1OEyT5tX) | 3:50 | 2022-07-19 |  |
 | [El Ausente](https://open.spotify.com/track/2yFGylyE6vbZQKXVZcvWFj) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos](https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd) | 3:26 | 2022-06-07 |  |
 | [El Barbarazo](https://open.spotify.com/track/4UsaJJNwMg7vKuw4QPzjeO) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [El Barbarazo](https://open.spotify.com/album/6PQmEphEaMRHR925jc382J) | 3:30 | 2022-06-07 | 2022-07-08 |
@@ -156,7 +157,7 @@
 | [Loco Corazón](https://open.spotify.com/track/1rrPiPs2xsziG7accEflwZ) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [Siete Lunas](https://open.spotify.com/album/1oh2R5xabmqfVQ3dxWJo2M) | 3:54 | 2022-07-19 |  |
 | [Los Caminos De La Vida](https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Los Caminos De La Vida](https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv) | 4:51 | 2021-10-19 |  |
 | [Los Sabanales](https://open.spotify.com/track/07LEfeN7VeSRQJ9Ejn2ZQ3) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Éxitos los Corraleros de Majagual](https://open.spotify.com/album/6DTw8ppotAPp9Gcyj4DsXX) | 2:38 | 2022-06-07 | 2022-07-29 |
-| [Los Sabanales](https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Estrellas Corraleras \- Fundadores de la Cumbia Colombiana](https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99) | 2:42 | 2022-07-19 |  |
+| [Los Sabanales](https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Estrellas Corraleras \- Fundadores de la Cumbia Colombiana](https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99) | 2:42 | 2022-07-19 | 2024-02-10 |
 | [Mama Cumbia](https://open.spotify.com/track/108YjsKsz4buKAkCUYc0XQ) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Llorar](https://open.spotify.com/album/1vUDDqbBTvOTVTNC0rs3Iz) | 3:21 | 2021-10-19 | 2022-07-29 |
 | [Mama Cumbia](https://open.spotify.com/track/1dXasj2uaiOP4B5xPzRcDc) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Llorar](https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88) | 3:21 | 2022-07-19 |  |
 | [Mami \(Angel De Paz\)](https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9) | [Andikiru](https://open.spotify.com/artist/7lVcmAxMvrV6ALiIKnNp8o) | [Sueño Contigo](https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O) | 3:31 | 2021-10-19 |  |

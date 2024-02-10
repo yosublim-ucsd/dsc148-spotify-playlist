@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 185388,
+  "2024-02-10": 185398,
   "date_first_scraped": "2022-05-09",
   "description": "Hit del passato e nuovi brani per la tua giornata perfetta.",
   "name": "La vita \u00e8 bella!",
@@ -643,6 +643,24 @@
       "duration_ms": 187733,
       "name": "Grace Kelly",
       "url": "https://open.spotify.com/track/2SDx0PooHZI1SQKR0y44bs"
+    },
+    {
+      "album": {
+        "name": "Happy Enough",
+        "url": "https://open.spotify.com/album/0VyV0yUo28oTGNrIpumgWc"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Happy Enough",
+      "url": "https://open.spotify.com/track/1Tua5aqLPuqVHGwadvkp7D"
     },
     {
       "album": {
@@ -1595,7 +1613,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 214147,
       "name": "Pompeii",
       "url": "https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd"

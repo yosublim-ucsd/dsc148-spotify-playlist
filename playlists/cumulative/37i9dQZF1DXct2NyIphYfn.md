@@ -4,7 +4,7 @@
 
 > Some of the most beautiful love songs in French.
 
-182 songs - 11 hr 15 min
+183 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Danse avec moi](https://open.spotify.com/track/6GUIugMBHC5mAFJGQ6MIKa) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII) | [Fanny Bloom](https://open.spotify.com/album/2AkUJJ4DUHVT9Wg8V7xO2P) | 3:54 | 2021-01-30 | 2022-11-13 |
 | [Darling](https://open.spotify.com/track/1bIN8BFK0u87P7HmsgT9Jn) | [Renée martel](https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis) | [Cow\-Girl dorée](https://open.spotify.com/album/6khQPaAH40JKAHWvPmsRm3) | 3:28 | 2022-01-18 | 2022-07-14 |
 | [Debout](https://open.spotify.com/track/4WPqwHscUKuB8x1NqK5tT2) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [22h22](https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8) | 3:14 | 2022-01-18 | 2022-12-25 |
-| [Dis lui toi que je t'aime](https://open.spotify.com/track/1HAQux7rsCPtHjLBxhfphi) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Vanessa Paradis Best Of](https://open.spotify.com/album/4LX6uYzCUsohkmOKaTSGHP) | 3:56 | 2023-01-26 |  |
+| [Dis lui toi que je t'aime](https://open.spotify.com/track/1HAQux7rsCPtHjLBxhfphi) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Vanessa Paradis Best Of](https://open.spotify.com/album/4LX6uYzCUsohkmOKaTSGHP) | 3:56 | 2023-01-26 | 2024-02-10 |
+| [Dis lui toi que je t'aime](https://open.spotify.com/track/1evo6DKXz1als382tw0tzx) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Mi amor](https://open.spotify.com/album/5I4lFjrjEalFnIynOzGC2a) | 3:56 | 2024-01-16 |  |
 | [Dis, quand reviendras\-tu ?](https://open.spotify.com/track/69VtPeUVg5gBtaPOZWxSHC) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII) | [Fanny Bloom](https://open.spotify.com/album/2AkUJJ4DUHVT9Wg8V7xO2P) | 3:50 | 2021-01-30 | 2023-01-27 |
 | [Dis, Quand Reviendras\-Tu?](https://open.spotify.com/track/2GjULEQ7hmy05tOrUBcUQv) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Martha Wainwright \(Special Edition\)](https://open.spotify.com/album/1j0yfKMVwRcOnIw0pXn9eh) | 4:09 | 2021-01-30 |  |
 | [Dis, Quand Reviendras\-Tu?](https://open.spotify.com/track/5t9sl52AWppfr37rz1t5aX) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Martha Wainwright \(Special Edition\)](https://open.spotify.com/album/7eVfiimAyPIostg7Lt9reQ) | 4:09 | 2021-01-30 | 2022-07-29 |

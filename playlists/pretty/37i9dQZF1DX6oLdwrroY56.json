@@ -1,15 +1,179 @@
 {
-  "description": "The leaders in the lively Pinoy indie scene. Cover: SOS",
-  "num_followers": 300484,
+  "description": "The leaders in the lively Pinoy indie scene. Cover: Carousel Casualties",
+  "num_followers": 300519,
   "original_name": "Pinoy Indie Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWY4Nzc0NjE5MzI1MGQ0ZmVhMWYwNDkxZDhlYTc3MzY4YzY3OGVk",
+  "snapshot_id": "MCw5NGM2NzZhMDU4MzBjMzUzN2VkNGI3NTM4YWFlMjkyOWRlNTkzMzcw",
   "tracks": [
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
+      "album": {
+        "name": "pwede ba kitang ligawan?",
+        "url": "https://open.spotify.com/album/1965BuJYRYfO7y8hjW6Mki"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "duration_ms": 135860,
+      "name": "pwede ba kitang ligawan?",
+      "url": "https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD"
+    },
+    {
+      "added_at": "2024-02-09 08:15:59",
+      "album": {
+        "name": "Nangungulila Sa'yo",
+        "url": "https://open.spotify.com/album/5gGQBiaHRGkE1Wm7hTOgbu"
+      },
+      "artists": [
+        {
+          "name": "Noah Alejandre",
+          "url": "https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2"
+        }
+      ],
+      "duration_ms": 282750,
+      "name": "Nangungulila Sa'yo",
+      "url": "https://open.spotify.com/track/2ksrs846bctGcYZjzsLxFj"
+    },
+    {
+      "added_at": "2024-02-09 08:15:59",
+      "album": {
+        "name": "KELAN",
+        "url": "https://open.spotify.com/album/6xIotKOoU9blLewoX4q0ns"
+      },
+      "artists": [
+        {
+          "name": "BRISOM",
+          "url": "https://open.spotify.com/artist/52AFbIsIjRLcaHCt8KV1rg"
+        }
+      ],
+      "duration_ms": 250657,
+      "name": "KELAN",
+      "url": "https://open.spotify.com/track/13byAV7v6G7GQ3mKyD1Zqe"
+    },
+    {
+      "added_at": "2024-02-09 08:15:59",
+      "album": {
+        "name": "hindi ko alam",
+        "url": "https://open.spotify.com/album/6hjmSdam936JPRPNM76pkF"
+      },
+      "artists": [
+        {
+          "name": "Carousel Casualties",
+          "url": "https://open.spotify.com/artist/5JKO1slXmXcPZghqTrYG1I"
+        }
+      ],
+      "duration_ms": 211302,
+      "name": "hindi ko alam",
+      "url": "https://open.spotify.com/track/6cXBwW4mDlxrjpXVNqeSAv"
+    },
+    {
+      "added_at": "2024-02-09 08:15:59",
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/4L5t9VxLQh4bS1JTN9dN9f"
+      },
+      "artists": [
+        {
+          "name": "Shades of Native",
+          "url": "https://open.spotify.com/artist/0nmqWXpvFKgYPgy5mixlon"
+        }
+      ],
+      "duration_ms": 234744,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/3QDLEAkNMnch2FBaoySxMv"
+    },
+    {
+      "added_at": "2024-02-09 08:15:59",
+      "album": {
+        "name": "Pano",
+        "url": "https://open.spotify.com/album/50MOgT7Zk05HfohHxIsk3b"
+      },
+      "artists": [
+        {
+          "name": "Caren Tevanny",
+          "url": "https://open.spotify.com/artist/3p3NIGIG5T7nlV5FIhh0M1"
+        }
+      ],
+      "duration_ms": 197708,
+      "name": "Pano",
+      "url": "https://open.spotify.com/track/6sEou6d20Y6ckzht82CTsO"
+    },
+    {
+      "added_at": "2024-02-09 08:15:59",
+      "album": {
+        "name": "Ganid",
+        "url": "https://open.spotify.com/album/734hINrmbsNEpEVMPsDuxw"
+      },
+      "artists": [
+        {
+          "name": "Paham",
+          "url": "https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v"
+        },
+        {
+          "name": "Off The Record",
+          "url": "https://open.spotify.com/artist/0h2lW8O3gilzdOjbgLYivM"
+        }
+      ],
+      "duration_ms": 244036,
+      "name": "Ganid",
+      "url": "https://open.spotify.com/track/6pLripA8bBASZR2dPVdZNB"
+    },
+    {
+      "added_at": "2024-02-09 08:15:59",
+      "album": {
+        "name": "Bahaghari (Halika na)",
+        "url": "https://open.spotify.com/album/1cz9BF4Rs8M9IvjT9dI6wB"
+      },
+      "artists": [
+        {
+          "name": "Sandiwa",
+          "url": "https://open.spotify.com/artist/720Zve67rPRTRjyI9Qsb0q"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "Bahaghari (Halika na)",
+      "url": "https://open.spotify.com/track/1i0Kp24hzORn8FPXlS7TEt"
+    },
+    {
+      "added_at": "2024-02-09 08:15:59",
+      "album": {
+        "name": "SINTA",
+        "url": "https://open.spotify.com/album/2FLvIqldtQCpR78EgQC9kI"
+      },
+      "artists": [
+        {
+          "name": "Yves Villamor",
+          "url": "https://open.spotify.com/artist/2sDIod09TzBcm6mTZZyQle"
+        }
+      ],
+      "duration_ms": 236318,
+      "name": "SINTA",
+      "url": "https://open.spotify.com/track/0xuMFw8nrIsfpD3sMRwObD"
+    },
+    {
+      "added_at": "2024-02-09 08:15:59",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/6IGsfSCV4oSoWQaRyoJ7oq"
+      },
+      "artists": [
+        {
+          "name": "LaLuna",
+          "url": "https://open.spotify.com/artist/1O2R0tcHg9FlIBXfLmagIh"
+        }
+      ],
+      "duration_ms": 284129,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/1UFE7RX9K2ZGjbcQt4yu2E"
+    },
+    {
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Nagbabakasakali",
         "url": "https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ"
@@ -29,7 +193,7 @@
       "url": "https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Gigil",
         "url": "https://open.spotify.com/album/3t5KRD3M9dAwnFlvACylLd"
@@ -45,7 +209,23 @@
       "url": "https://open.spotify.com/track/175olPDR4vvN4lrPgHNZtJ"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
+      "album": {
+        "name": "Trip To Jerusalem",
+        "url": "https://open.spotify.com/album/3ubru9Bw27Qpt7qrgk3Wl9"
+      },
+      "artists": [
+        {
+          "name": "Mt. Lewis",
+          "url": "https://open.spotify.com/artist/0uJdRrv6tNjZPCY5HrMBMN"
+        }
+      ],
+      "duration_ms": 286586,
+      "name": "Trip To Jerusalem",
+      "url": "https://open.spotify.com/track/2Lpv0Ddl63HHNZoUihmdt5"
+    },
+    {
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Please Lang",
         "url": "https://open.spotify.com/album/0yGy7FQrViz5Ck8T9VS5Al"
@@ -61,7 +241,7 @@
       "url": "https://open.spotify.com/track/2A5fNbbIB1sUfUcYX5dkG2"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Just Another Christmas",
         "url": "https://open.spotify.com/album/4OQMVYjqTox3kXqh4TcUwG"
@@ -77,7 +257,7 @@
       "url": "https://open.spotify.com/track/6uy8wSbsQ9zJQxkxgWiwNl"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Lara",
         "url": "https://open.spotify.com/album/0zfXAtSmSitgJayVujagFB"
@@ -93,7 +273,7 @@
       "url": "https://open.spotify.com/track/6tI7QZCy2hZ9Gk2re6sB4P"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Sikreto",
         "url": "https://open.spotify.com/album/33za296VJXryfYFrturohm"
@@ -109,7 +289,7 @@
       "url": "https://open.spotify.com/track/4Xsy8uSzUhjRwBAQQ17FXQ"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Sasamahan Ka",
         "url": "https://open.spotify.com/album/5QdEBxf1VtB8d04d8dNHwt"
@@ -125,7 +305,7 @@
       "url": "https://open.spotify.com/track/6RBjZfZNa80zJbWrWt64f2"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Paraisong Tela",
         "url": "https://open.spotify.com/album/6j7KtrNERZHjP49QxH4kIu"
@@ -141,7 +321,7 @@
       "url": "https://open.spotify.com/track/15Q51jCwXAfInxMR0AFOvq"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Miscom",
         "url": "https://open.spotify.com/album/6aTDzfvas4SHkdFkFhdb7E"
@@ -157,7 +337,7 @@
       "url": "https://open.spotify.com/track/45EVGLu8wUvJynnl9J21W1"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Curiosity Killed the Cat",
         "url": "https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd"
@@ -173,7 +353,7 @@
       "url": "https://open.spotify.com/track/7eyX57pLwUUP46gneOrxUr"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "how could it be",
         "url": "https://open.spotify.com/album/4RuBUy4SQ0EMVwUYcq47bY"
@@ -189,7 +369,7 @@
       "url": "https://open.spotify.com/track/2fbuZc8ms9dRnKa8TgIrHW"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "TERAPEWTIKA",
         "url": "https://open.spotify.com/album/4vdu6ZL5oS601mrZj5uYQN"
@@ -205,7 +385,7 @@
       "url": "https://open.spotify.com/track/2gOUaFafMr7UXmPHhlu1wm"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/4epwLmoCHvomYsTwtAPvfN"
@@ -221,7 +401,7 @@
       "url": "https://open.spotify.com/track/3tWNpUIONNXnubu8Zmg74K"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Somebody\u2019s Better",
         "url": "https://open.spotify.com/album/7JR1aiowTQ8jQy0hDMBaYz"
@@ -237,7 +417,7 @@
       "url": "https://open.spotify.com/track/66SfXY4jUuylReAjoDS8gw"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Hiling",
         "url": "https://open.spotify.com/album/2kHCLBZdKE6aAHPI5qNJpW"
@@ -253,7 +433,7 @@
       "url": "https://open.spotify.com/track/5UfaNSUPZ0T1wlg5uu6AlM"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "around in the",
         "url": "https://open.spotify.com/album/6aSAHI9k9BZMy7ApRQyLQv"
@@ -269,7 +449,7 @@
       "url": "https://open.spotify.com/track/4IHT3mAaqw5vkA2TJ0PCwH"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Binalewala",
         "url": "https://open.spotify.com/album/3Jex2fLroiKKgluCvMAifv"
@@ -285,7 +465,7 @@
       "url": "https://open.spotify.com/track/6VK9rCw2Gwt3zJ23bzxlwJ"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "CK2",
         "url": "https://open.spotify.com/album/74Mec7fYdgHVhYjby3wDGw"
@@ -301,7 +481,7 @@
       "url": "https://open.spotify.com/track/4Zlt1E6DOWVExa9Cnr0uMx"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Himbing",
         "url": "https://open.spotify.com/album/4xaUf04NoqxVOigOLbWaOk"
@@ -317,7 +497,7 @@
       "url": "https://open.spotify.com/track/0cYu2DWw8Fzo0ZyxBZKC6h"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "I JUST WANT TO KISS YOU NOW",
         "url": "https://open.spotify.com/album/1cu62EgLqxSpDOw3nKGMhk"
@@ -333,7 +513,7 @@
       "url": "https://open.spotify.com/track/5LXtfG0XvhHRTEuDIHwlic"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "711",
         "url": "https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL"
@@ -349,7 +529,7 @@
       "url": "https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Gabi (feat. Zild)",
         "url": "https://open.spotify.com/album/6nNyCE9v0ZLYYLnCtjY0E1"
@@ -369,7 +549,7 @@
       "url": "https://open.spotify.com/track/36ZYaW5Dj7loKsyyHehpCr"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Huminga",
         "url": "https://open.spotify.com/album/4qcNr0JC0t99HMt2fhKhL6"
@@ -385,7 +565,7 @@
       "url": "https://open.spotify.com/track/4IMI7CdeNMDzq544pAgXqj"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/7hGfFOoXeTlesayHsQv97C"
@@ -401,7 +581,7 @@
       "url": "https://open.spotify.com/track/7Gl40zLvOcPveQu44Zf6pL"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/5BApQ2E2DhSsntBBrb7zSG"
@@ -421,7 +601,7 @@
       "url": "https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Dance Like You",
         "url": "https://open.spotify.com/album/4sm3BFmwbB0TvmD3HiQHJp"
@@ -437,7 +617,7 @@
       "url": "https://open.spotify.com/track/6i3YUrKwblwZ2lmeJSzJj6"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "ANXIOUS HEART",
         "url": "https://open.spotify.com/album/6g5Y5wbjT5tyTEPicGAL5O"
@@ -453,7 +633,7 @@
       "url": "https://open.spotify.com/track/49Izqy2bYpnFKnlGNQlRbE"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Superhuman",
         "url": "https://open.spotify.com/album/0asDwjulJNbXs4j0dt3dVX"
@@ -473,7 +653,7 @@
       "url": "https://open.spotify.com/track/6M99IQOuFJ5cVdROxsBfRW"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "North Star",
         "url": "https://open.spotify.com/album/0IIo23clF6gI3MYNAyQqQv"
@@ -489,7 +669,7 @@
       "url": "https://open.spotify.com/track/4zd6nKsF7gDSEUeluTiIgt"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Bukas",
         "url": "https://open.spotify.com/album/7BAbxSZhRVVF6TRCFQ1JO5"
@@ -505,7 +685,7 @@
       "url": "https://open.spotify.com/track/3VW912q9u9F72sjW2sEc6S"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "WHERE IS THE L?E",
         "url": "https://open.spotify.com/album/1gn16qBOLYLe0mmtBc3tU8"
@@ -521,7 +701,7 @@
       "url": "https://open.spotify.com/track/3CR1mWThIKsALVzoSOBo9V"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Pinapangarap Ko",
         "url": "https://open.spotify.com/album/63U1GIzvNwaTbBKv0YwGCJ"
@@ -537,7 +717,7 @@
       "url": "https://open.spotify.com/track/0ICei6ceMmzZfazpviavbn"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Tagsilaw (Pinilit Ko Man)",
         "url": "https://open.spotify.com/album/0NN6egJCbuG4WrmCLRqvv1"
@@ -553,7 +733,7 @@
       "url": "https://open.spotify.com/track/5qCbzsd69aS34UN3WcxzZU"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Panaginip",
         "url": "https://open.spotify.com/album/2pM7n3p62ktsiAD5zYz0YO"
@@ -569,7 +749,7 @@
       "url": "https://open.spotify.com/track/2zsztxFWctyvSj9H25ikDz"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Kita Kita",
         "url": "https://open.spotify.com/album/0ye0D8h094WLKJeql7RYAW"
@@ -585,7 +765,7 @@
       "url": "https://open.spotify.com/track/0J6a5fxArviWOiTBousbNO"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Isip",
         "url": "https://open.spotify.com/album/4yBK4tfSJXauEBNwEcRvkV"
@@ -601,7 +781,7 @@
       "url": "https://open.spotify.com/track/0QBPWTTVyV3VclqALtmLWv"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "MALABO",
         "url": "https://open.spotify.com/album/0decNGiRDcErQsQvcyfEMz"
@@ -617,7 +797,7 @@
       "url": "https://open.spotify.com/track/0QgdA3QMsbzQ6njndTb4kh"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "Kaibigan Lang",
         "url": "https://open.spotify.com/album/1p58vGVNMjmM559sM3qXz1"
@@ -633,7 +813,7 @@
       "url": "https://open.spotify.com/track/1Er4vI9EaYyIJYawP3NIwn"
     },
     {
-      "added_at": "2023-11-18 04:51:23",
+      "added_at": "2024-02-09 08:15:59",
       "album": {
         "name": "oshin",
         "url": "https://open.spotify.com/album/4z5TSk891ox2zzk5VKZCiB"
@@ -647,186 +827,6 @@
       "duration_ms": 169913,
       "name": "TT (terrible things)",
       "url": "https://open.spotify.com/track/5fMToMVlBhYxO9vYeHgrkD"
-    },
-    {
-      "added_at": "2023-11-18 04:51:23",
-      "album": {
-        "name": "Been You",
-        "url": "https://open.spotify.com/album/2MgHTw0DyWDasWLtFtjuuP"
-      },
-      "artists": [
-        {
-          "name": "Y ARA",
-          "url": "https://open.spotify.com/artist/1bPRfjxbCnpHxgGnU59Ml6"
-        }
-      ],
-      "duration_ms": 209833,
-      "name": "Been You",
-      "url": "https://open.spotify.com/track/6ZdBAy2SQtDt9oHH9bfGrx"
-    },
-    {
-      "added_at": "2023-11-18 04:51:23",
-      "album": {
-        "name": "Lilly's Child",
-        "url": "https://open.spotify.com/album/6IljuxUuJiSP87CuHpEn3E"
-      },
-      "artists": [
-        {
-          "name": "Alexis Gildore",
-          "url": "https://open.spotify.com/artist/0pie0aHWJncJV8IYRnYcD3"
-        }
-      ],
-      "duration_ms": 144489,
-      "name": "Lilly's Child",
-      "url": "https://open.spotify.com/track/53VWrgqxMeyLvzRaPZH89K"
-    },
-    {
-      "added_at": "2023-11-18 04:51:23",
-      "album": {
-        "name": "Bulaklak",
-        "url": "https://open.spotify.com/album/4HKqZ8TlIkRDAKTvPLp9SO"
-      },
-      "artists": [
-        {
-          "name": "MarC\u00f8",
-          "url": "https://open.spotify.com/artist/1ivVBioZ1Pocki7Ccqe3dI"
-        }
-      ],
-      "duration_ms": 269291,
-      "name": "Bulaklak",
-      "url": "https://open.spotify.com/track/2TM786ycFGiO0e2CW5f9uK"
-    },
-    {
-      "added_at": "2023-11-18 04:51:23",
-      "album": {
-        "name": "Paulit-Ulit (Sorry Na)",
-        "url": "https://open.spotify.com/album/0zmgAKDkDThn3Ika0rXULC"
-      },
-      "artists": [
-        {
-          "name": "CHELLY",
-          "url": "https://open.spotify.com/artist/7nTSu9SOc12DLKLFktzIHJ"
-        }
-      ],
-      "duration_ms": 210003,
-      "name": "Paulit-Ulit (Sorry Na)",
-      "url": "https://open.spotify.com/track/7eUOsa6RfxYWV34ey5U2HI"
-    },
-    {
-      "added_at": "2023-11-18 04:51:23",
-      "album": {
-        "name": "Pangako",
-        "url": "https://open.spotify.com/album/1kuVZdA4fLLaBwNLwK4ElQ"
-      },
-      "artists": [
-        {
-          "name": "joem",
-          "url": "https://open.spotify.com/artist/0pUq7G8WZUhDM3hqe1fWSS"
-        }
-      ],
-      "duration_ms": 199121,
-      "name": "Pangako",
-      "url": "https://open.spotify.com/track/37fxTC4k42nkHJep3R6lVr"
-    },
-    {
-      "added_at": "2023-11-18 04:51:23",
-      "album": {
-        "name": "Halika Na",
-        "url": "https://open.spotify.com/album/3Gl4ywlE1QM8AhlONldKdm"
-      },
-      "artists": [
-        {
-          "name": "Ippo Huwano",
-          "url": "https://open.spotify.com/artist/2aCY4b5Z1tUWSyAbUNLrr6"
-        }
-      ],
-      "duration_ms": 404869,
-      "name": "Halika Na",
-      "url": "https://open.spotify.com/track/2Jh7V0RVCWuPLTTPuS7NRO"
-    },
-    {
-      "added_at": "2023-11-18 04:51:23",
-      "album": {
-        "name": "Kenaniah",
-        "url": "https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7"
-      },
-      "artists": [
-        {
-          "name": "Kenaniah",
-          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
-        }
-      ],
-      "duration_ms": 280769,
-      "name": "Totoo",
-      "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
-    },
-    {
-      "added_at": "2023-11-18 04:51:23",
-      "album": {
-        "name": "Bakit?",
-        "url": "https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 194442,
-      "name": "Bakit?",
-      "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
-    },
-    {
-      "added_at": "2023-11-18 04:51:23",
-      "album": {
-        "name": "Sinulit",
-        "url": "https://open.spotify.com/album/74fNJhK7AO8AvBQCSSf8jw"
-      },
-      "artists": [
-        {
-          "name": "Mint Magic",
-          "url": "https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o"
-        }
-      ],
-      "duration_ms": 216264,
-      "name": "Sinulit",
-      "url": "https://open.spotify.com/track/6V76PrxuZBA9Z1NExluZKQ"
-    },
-    {
-      "added_at": "2023-11-18 04:51:23",
-      "album": {
-        "name": "Patutunguhan",
-        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Patutunguhan",
-      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
-    },
-    {
-      "added_at": "2023-11-18 04:51:23",
-      "album": {
-        "name": "Tingin",
-        "url": "https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        },
-        {
-          "name": "Janine",
-          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
-        }
-      ],
-      "duration_ms": 222298,
-      "name": "Tingin",
-      "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
     }
   ],
   "unique_name": "Pinoy Indie Mix",

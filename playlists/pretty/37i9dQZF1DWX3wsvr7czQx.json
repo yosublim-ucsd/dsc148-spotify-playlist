@@ -1,13 +1,37 @@
 {
   "description": "Icons only. Cover: Duran Duran",
-  "num_followers": 12677,
+  "num_followers": 12681,
   "original_name": "Classic Artists New Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDkyZjVhZDFjNjE1YzQ1MDI0YzVmYzU2MzVlNTA1ZmVmZmYxYTll",
+  "snapshot_id": "MCw1ZWU0ZmU3ZmQ4ODg1ZDRhNzc2YTE0NDlhNWNkYjI1NGEzYTRjOGU1",
   "tracks": [
+    {
+      "added_at": "2024-02-09 05:01:00",
+      "album": {
+        "name": "The Wild Whaling Life",
+        "url": "https://open.spotify.com/album/3MavwXmGNlZ4kpqywYXa8K"
+      },
+      "artists": [
+        {
+          "name": "BrhyM",
+          "url": "https://open.spotify.com/artist/3nPNUch0UScZ9OnAOhwUv3"
+        },
+        {
+          "name": "Bruce Hornsby",
+          "url": "https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo"
+        },
+        {
+          "name": "yMusic",
+          "url": "https://open.spotify.com/artist/4h7DUL1L3RrCzquDp8xQXY"
+        }
+      ],
+      "duration_ms": 261849,
+      "name": "The Wild Whaling Life",
+      "url": "https://open.spotify.com/track/4LYvfJzVPipdGbSY2Ido5U"
+    },
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
@@ -755,22 +779,6 @@
       "duration_ms": 221426,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/0gi4tWDQihbUabJVqWxmfU"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/5QDnUqAeP7Zq51NASyfri1"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 212129,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/4Re3AZ3OmQWxQHX0NtOzid"
     },
     {
       "added_at": "2021-10-22 04:02:00",

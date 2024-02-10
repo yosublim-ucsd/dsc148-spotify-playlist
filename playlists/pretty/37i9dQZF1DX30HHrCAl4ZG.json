@@ -1,13 +1,45 @@
 {
   "description": "Explore all things indie rock right now. Featuring music from The Last Dinner Party \ud83d\udd6f\ufe0f",
-  "num_followers": 834014,
+  "num_followers": 834003,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Zjg2MWNiMzZiMGEwNjVmYWQzZTE3NmEwMmNlNjc5ZTdmNTNmYjFi",
+  "snapshot_id": "MCxlNjE2NTdjOWYzMWJlNTU5ZDA5YjA4N2FiMTAzOWVmNzE0ZjJlNGVl",
   "tracks": [
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 198295,
+      "name": "Alesis",
+      "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/6TnnmPtPOhpd5KWjWSuGba"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Boy",
+          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
+        }
+      ],
+      "duration_ms": 208112,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/5w6i7gourKgjzOvd7lVi4M"
+    },
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
@@ -39,6 +71,134 @@
       "duration_ms": 177080,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Harm's Way",
+        "url": "https://open.spotify.com/album/6iT0wjt3dStlDoLOJXTwfM"
+      },
+      "artists": [
+        {
+          "name": "Ducks Ltd.",
+          "url": "https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG"
+        }
+      ],
+      "duration_ms": 190920,
+      "name": "On Our Way To The Rave",
+      "url": "https://open.spotify.com/track/2qe33qxT6q0rIrl6gF4GeG"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Complicated Handshake",
+        "url": "https://open.spotify.com/album/4OBz1RyS7tjByKFNT0ifeJ"
+      },
+      "artists": [
+        {
+          "name": "Okey Dokey",
+          "url": "https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf"
+        }
+      ],
+      "duration_ms": 236536,
+      "name": "Whisp",
+      "url": "https://open.spotify.com/track/69edzz93RgFgydeiEZPRKB"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "They Don't Know How To Fall In Place",
+        "url": "https://open.spotify.com/album/0T87UZzjKqpOeXnrLPznB2"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "They Don't Know How To Fall In Place",
+      "url": "https://open.spotify.com/track/2tfuZBeGLj63wrBUnwXiGk"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "MADRA",
+        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 203037,
+      "name": "Sickly Sweet",
+      "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "would you like to go out?",
+        "url": "https://open.spotify.com/album/0lZTZTynWxhU1bes6Dk35n"
+      },
+      "artists": [
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        }
+      ],
+      "duration_ms": 100965,
+      "name": "complex",
+      "url": "https://open.spotify.com/track/2E4Ql8G4ATOQRp1mfItxyQ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Prima/Vera",
+        "url": "https://open.spotify.com/album/28LByta0Al2dciYEizVytX"
+      },
+      "artists": [
+        {
+          "name": "Post Sex Nachos",
+          "url": "https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "Feel This Way",
+      "url": "https://open.spotify.com/track/0g2guI0ri5KieHyFonEYyu"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "CD Wallet",
+        "url": "https://open.spotify.com/album/4GuIkU3CHTJWwLYgXtRTtr"
+      },
+      "artists": [
+        {
+          "name": "HOMESHAKE",
+          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
+        }
+      ],
+      "duration_ms": 191164,
+      "name": "CD Wallet",
+      "url": "https://open.spotify.com/track/0699x8orNRyAhiYxyDjxdH"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Weird Faith",
+        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Obsessive Thoughts",
+      "url": "https://open.spotify.com/track/0lavlWToofi8DpSeC2DplP"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -123,22 +283,6 @@
       "duration_ms": 201200,
       "name": "The Thief",
       "url": "https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "MADRA",
-        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 203037,
-      "name": "Sickly Sweet",
-      "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1053,26 +1197,6 @@
       "url": "https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Buttons (Take 2)",
-        "url": "https://open.spotify.com/album/6Q3s8s0cYWf10PP7IOh6iT"
-      },
-      "artists": [
-        {
-          "name": "meija",
-          "url": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
-        },
-        {
-          "name": "Harmless",
-          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Buttons - Take 2",
-      "url": "https://open.spotify.com/track/18wRejV2is4dNBoq1YDh7b"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Tarantula Queen",
@@ -1207,22 +1331,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "bella / i can't find anyone",
-        "url": "https://open.spotify.com/album/3AJEvGdq17HHvF20ITVbD7"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "bella",
-      "url": "https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "All Over Again b/w Moon",
         "url": "https://open.spotify.com/album/67qT5xrgw6491DQYbIh3ty"
       },
@@ -1255,26 +1363,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Auto Destroy",
-        "url": "https://open.spotify.com/album/1m4PS8sFJTSLXJ60FJhlal"
-      },
-      "artists": [
-        {
-          "name": "MyKey",
-          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
-        },
-        {
-          "name": "Nico Days",
-          "url": "https://open.spotify.com/artist/0svVmptxEtCoEJfcPKxCCh"
-        }
-      ],
-      "duration_ms": 113610,
-      "name": "Give It",
-      "url": "https://open.spotify.com/track/5gV1v495WPyidjOxgxUQ9x"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Are You Looking Up / You got it",
         "url": "https://open.spotify.com/album/7l0sG15g8sYyDgebPA5UyX"
       },
@@ -1282,13 +1370,9 @@
         {
           "name": "Mk.gee",
           "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        },
-        {
-          "name": "Two star",
-          "url": "https://open.spotify.com/artist/3QCMLWLjJyGA8cQCPrusdv"
         }
       ],
-      "duration_ms": 166520,
+      "duration_ms": 166179,
       "name": "Are You Looking Up",
       "url": "https://open.spotify.com/track/00uvWPbNBali6gKlZxUxIU"
     },
@@ -1427,58 +1511,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "NOAH",
-        "url": "https://open.spotify.com/album/4BIysF8o9wr5FArNPzak2t"
-      },
-      "artists": [
-        {
-          "name": "Noah Floersch",
-          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
-        }
-      ],
-      "duration_ms": 184058,
-      "name": "Memoryology",
-      "url": "https://open.spotify.com/track/5sQxDTlROyotpupjQ9M60q"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "CUATRO",
-        "url": "https://open.spotify.com/album/4kcUDR8z5GXs5IVh4qzSCL"
-      },
-      "artists": [
-        {
-          "name": "Husbands",
-          "url": "https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Super New China",
-      "url": "https://open.spotify.com/track/1V0C0Agg6kJuWfWpUFnL0J"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "baby, I do / IKWYDLS",
-        "url": "https://open.spotify.com/album/4kgpigDu7eU9jUEUBYehmX"
-      },
-      "artists": [
-        {
-          "name": "bob junior",
-          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
-        },
-        {
-          "name": "Dent May",
-          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "IKWYDLS",
-      "url": "https://open.spotify.com/track/1zjorGk3YpcdFRYRRuPzpO"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Ultrapure",
         "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
       },
@@ -1491,22 +1523,6 @@
       "duration_ms": 200546,
       "name": "Body",
       "url": "https://open.spotify.com/track/4nGgHg7tCUYVZtPDDVgm92"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "best friend",
-        "url": "https://open.spotify.com/album/1PoLUKiOuc1DLqoYyTz3Zx"
-      },
-      "artists": [
-        {
-          "name": "Small Forward",
-          "url": "https://open.spotify.com/artist/6V2pAcwTwmzCs6T5HwlJLh"
-        }
-      ],
-      "duration_ms": 179615,
-      "name": "best friend",
-      "url": "https://open.spotify.com/track/3CuMLuNAPPl1jNrOuSImuU"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1543,22 +1559,6 @@
       "duration_ms": 173975,
       "name": "My Body ft Your Lips",
       "url": "https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Angel Hair",
-        "url": "https://open.spotify.com/album/2nEyW8haFXnWeGSj33XsHH"
-      },
-      "artists": [
-        {
-          "name": "Baird",
-          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
-        }
-      ],
-      "duration_ms": 176998,
-      "name": "Angel Hair",
-      "url": "https://open.spotify.com/track/0akgQn9E1BxuNqklbxPSTx"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1639,22 +1639,6 @@
       "duration_ms": 226960,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "One Wayne G",
-        "url": "https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 136888,
-      "name": "20191009 I Like Her",
-      "url": "https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1"
     },
     {
       "added_at": "2023-10-27 04:00:00",

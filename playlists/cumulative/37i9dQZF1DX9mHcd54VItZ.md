@@ -4,7 +4,7 @@
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x?si=fKODYe\_8T1yTmzhm70J3Cw">Fokofpolisiekar</a>
 
-444 songs - 1 day 2 hr 32 min
+446 songs - 1 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Awake](https://open.spotify.com/track/63y0EHsPzQ7BQSBgRVeFO7) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Awake](https://open.spotify.com/album/5PIw46MHfW0Su1TWH3KrlH) | 4:20 | 2022-04-28 | 2022-11-11 |
 | [Baby Tjoklits](https://open.spotify.com/track/1vmgF0APgogTK1C19NH4r5) | [Groot Oom John Tenoor](https://open.spotify.com/artist/6JT9m3NJiQXCfXVwdJXH06) | [Sosiaal Gebreek](https://open.spotify.com/album/6aBLqzJka0CJfqOqC7HQbn) | 4:05 | 2023-07-06 | 2024-01-05 |
 | [Baby's Breath](https://open.spotify.com/track/6H0P9Ln8xtXFs60s6cHYQa) | [Marlowe](https://open.spotify.com/artist/4ZY49Da5Jtv8pfmea1XWdu) | [Lines from the Broken Telephone](https://open.spotify.com/album/13XGOiU75FZslOXSpipZvd) | 4:01 | 2024-01-04 | 2024-01-19 |
+| [Badass Beautiful Friend](https://open.spotify.com/track/5M5793P3hiQpDDDx8ap6YC) | [FUZIGISH](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Badass Beautiful Friend](https://open.spotify.com/album/3qhqMOEqPrvkHgYBYHJhNq) | 3:09 | 2024-02-09 |  |
 | [Badluck](https://open.spotify.com/track/7kR0o7XKyLiKxqqu98bupO) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 0:52 | 2022-02-10 | 2022-02-18 |
 | [Bag of Bones](https://open.spotify.com/track/4wBeiARY66bJ3FrrEjnlVa) | [Gangsterdam](https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS) | [Bag of Bones](https://open.spotify.com/album/4bpRUM7drDQpbwqhMzJeZ1) | 2:37 | 2022-09-15 | 2022-11-25 |
 | [BEAUTIFUL LIES](https://open.spotify.com/track/1IHmRnrOb9S0URi8bbMRrI) | [Fortunes Fool](https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py) | [BEAUTIFUL LIES](https://open.spotify.com/album/1S4TfRej2A4nZ8u42vtWml) | 3:52 | 2023-06-01 | 2023-08-20 |
@@ -216,6 +217,7 @@
 | [Just One Hit](https://open.spotify.com/track/3tUmY7VsbEvM7YxcYB4t4R) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [Just One Hit](https://open.spotify.com/album/4soy6XuqH6x8XnWT9YrjOs) | 4:04 | 2023-06-15 | 2023-08-25 |
 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 | 2024-01-04 |  |
 | [Karma](https://open.spotify.com/track/3omZL5SXL74UYWmqrnilTM) | [New Volume](https://open.spotify.com/artist/386eyNcHwUJ0u3awsMi88Q) | [Karma](https://open.spotify.com/album/2Q9BQwWEgZYeoPUylHEXX6) | 3:24 | 2023-11-09 | 2024-01-05 |
+| [Katedraal](https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Heelal](https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw) | 4:07 | 2024-02-09 |  |
 | [Kerse](https://open.spotify.com/track/5Rf8HoMPgj9IWFwaLnjFPf) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Droombrief](https://open.spotify.com/album/0hLWiLGIlllFAfF4vKpmgf) | 4:04 | 2022-03-24 | 2022-05-27 |
 | [kill all my feelings](https://open.spotify.com/track/0dlCaafsMEfprlXtoogDgm) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [kill all my feelings](https://open.spotify.com/album/1onwNNRB0cQ5gBRFknbYPp) | 3:02 | 2022-07-21 | 2023-02-17 |
 | [Killing Time](https://open.spotify.com/track/1tAYM3JLn8gynNMHCUcIAj) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Killing Time](https://open.spotify.com/album/1zHfXySzYnUNA4vWAinERg) | 2:51 | 2023-05-18 | 2023-08-05 |
@@ -325,10 +327,10 @@
 | [Road Rage](https://open.spotify.com/track/3mMMCNWktpvnC25u96tZt0) | [Hawema](https://open.spotify.com/artist/6CWA38UpeY34SNOKY29peK) | [Road Rage](https://open.spotify.com/album/70cYROF5kbijI6nMeppkmd) | 3:00 | 2023-03-23 | 2023-04-15 |
 | [roadkill\~](https://open.spotify.com/track/7oPBtckFtCURWFEn55xb2C) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [roadkill\~](https://open.spotify.com/album/72h5rMFASPwgX5i5wSuwGx) | 2:46 | 2023-09-28 | 2024-01-05 |
 | [Runners](https://open.spotify.com/track/04ji2S99gUmYFUM7meH2dq) | [Squeal](https://open.spotify.com/artist/05QUj92uS2fRlB6P2RO5uV) | [Rocktober \(The Best South African Rock Hits of All Time\)](https://open.spotify.com/album/4BO2l8sACrAbp1OCtSWK8Q) | 5:37 | 2024-01-04 |  |
-| [Safari Music](https://open.spotify.com/track/6Qen4bdmho0oKLwfDwgu3n) | [Not My Dog](https://open.spotify.com/artist/7p5v2JRt5D9QjHn3u8h16T) | [Dogumentary](https://open.spotify.com/album/2xV7OjTmhfasmMXVEIr56g) | 3:28 | 2024-01-04 |  |
+| [Safari Music](https://open.spotify.com/track/6Qen4bdmho0oKLwfDwgu3n) | [Not My Dog](https://open.spotify.com/artist/7p5v2JRt5D9QjHn3u8h16T) | [Dogumentary](https://open.spotify.com/album/2xV7OjTmhfasmMXVEIr56g) | 3:28 | 2024-01-04 | 2024-02-10 |
 | [Save Me](https://open.spotify.com/track/0WkLcfV73UlxOlM8roFFK6) | [Chenél No.1](https://open.spotify.com/artist/1Xbi5EWO3vlC8JlH65uC4V) | [Save Me](https://open.spotify.com/album/5tLjTbclIzPE4t7QFqfEue) | 2:48 | 2022-09-15 | 2022-11-18 |
 | [Scarred](https://open.spotify.com/track/3C1piIulJ3OSeGZLqa8i8M) | [Far from Who We Are](https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO) | [Far From Who We Are](https://open.spotify.com/album/03CcQkzVwJtlfN0k33fjpg) | 3:15 | 2022-12-01 | 2023-03-10 |
-| [Sea Level](https://open.spotify.com/track/5oVEyw0jtycMK9hkDr1vaw) | [Urban Creep](https://open.spotify.com/artist/0O9KMFXVdXbZI2EIweflYj) | [Sea Level](https://open.spotify.com/album/6s3sy8PgzajvfOM2Abog1s) | 3:22 | 2024-01-04 |  |
+| [Sea Level](https://open.spotify.com/track/5oVEyw0jtycMK9hkDr1vaw) | [Urban Creep](https://open.spotify.com/artist/0O9KMFXVdXbZI2EIweflYj) | [Sea Level](https://open.spotify.com/album/6s3sy8PgzajvfOM2Abog1s) | 3:22 | 2024-01-04 | 2024-02-10 |
 | [Self Control](https://open.spotify.com/track/2k9SemDo0Hgm1UDtnJP3ki) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Self Control](https://open.spotify.com/album/77drPpxu2UC2Ok70avy0RL) | 2:31 | 2023-04-21 | 2023-06-23 |
 | [Selfish Lover](https://open.spotify.com/track/1Tbgb7vB07zvuKuZKXI0aU) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Shelter Of Bones](https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr) | 3:14 | 2022-02-25 | 2022-03-19 |
 | [Shadow Fiend](https://open.spotify.com/track/080JBnOECwq62d9KOSoYFD) | [Crash And The Void](https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo) | [Shadow Fiend](https://open.spotify.com/album/2D6QcBj0AN3i3E0YUeoZFd) | 4:48 | 2023-11-24 | 2024-01-05 |
@@ -424,7 +426,7 @@
 | [Vakansie Vir My Siel](https://open.spotify.com/track/1lJ44Qfd4jmcpxzUMRaGoU) | [Millennium](https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw) | [Vakansie Vir My Siel](https://open.spotify.com/album/3lkkoC0gKDx7uplWEymzAk) | 4:21 | 2023-11-24 | 2024-01-05 |
 | [Vanilla Sky](https://open.spotify.com/track/5RA1vsHu0BBAns6A7tZaAr) | [Wonderwolf](https://open.spotify.com/artist/5v2qeKbxQBq5iKIZNp9w5A) | [Vanilla Sky](https://open.spotify.com/album/1W3iNe6Kn0pvJ9h4OqjjZO) | 4:06 | 2022-02-17 | 2022-12-09 |
 | [Verby](https://open.spotify.com/track/6pC0NcinYQDKgTyQVr0fTz) | [Swerwer](https://open.spotify.com/artist/2Agm0pczmzwW1mpWQjioPJ) | [Verby](https://open.spotify.com/album/0F7M5RLUaX36HO8wYf2vYF) | 3:49 | 2023-05-05 | 2023-07-29 |
-| [Vergeet Van My](https://open.spotify.com/track/6dShnnVammJOuizXFi0IBX) | [Foto Na Dans](https://open.spotify.com/artist/6d28TgMsEOZLYjflNOhU5b) | [Intervensie](https://open.spotify.com/album/0UrPTh6jemezbwU8L1kNp6) | 3:39 | 2024-01-04 |  |
+| [Vergeet Van My](https://open.spotify.com/track/6dShnnVammJOuizXFi0IBX) | [Foto Na Dans](https://open.spotify.com/artist/6d28TgMsEOZLYjflNOhU5b) | [Intervensie](https://open.spotify.com/album/0UrPTh6jemezbwU8L1kNp6) | 3:39 | 2024-01-04 | 2024-02-10 |
 | [Verlede](https://open.spotify.com/track/4Rv72ElRdcLDMi7r5ENtRz) | [X\_C\_Xreece](https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ) | [Verlede](https://open.spotify.com/album/03WqCunPsGa51cHENo2QYc) | 3:10 | 2023-04-27 | 2023-07-14 |
 | [Versmoor](https://open.spotify.com/track/4meblP6oLazdZUZPIizdbh) | [Jemma Catherine](https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ) | [Versmoor](https://open.spotify.com/album/5gfwTqz9mMIWuW4tvhsnop) | 2:41 | 2023-09-28 | 2024-01-05 |
 | [Victim of Data](https://open.spotify.com/track/5DESqCo3i23bSBUg9r3p7a) | [Shameless Band](https://open.spotify.com/artist/1WMFWKZqX2Y5lW2SKetrMz) | [Victim of Data](https://open.spotify.com/album/3Q1NdGdXpdVh3DRXlQ3wrb) | 3:04 | 2023-08-31 | 2023-11-10 |

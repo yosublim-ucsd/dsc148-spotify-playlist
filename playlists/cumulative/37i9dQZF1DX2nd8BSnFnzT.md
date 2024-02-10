@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Dead Fish
 
-428 songs - 23 hr 59 min
+429 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [CORPO FECHADO](https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [:\( UMA BAD UMA FARRA :\) \[Deluxe\]](https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom) | 3:27 | 2023-03-24 | 2023-11-25 |
 | [Cruel](https://open.spotify.com/track/3f8PZ7RZezcJYNmrLLRZdw) | [Nakara](https://open.spotify.com/artist/4CLTPlhKeXJzbqIyfDELlm) | [Cruel](https://open.spotify.com/album/1CPoaapWJCITmBOKSRjapV) | 1:44 | 2023-04-07 | 2023-04-15 |
 | [cuida de mim](https://open.spotify.com/track/0T83WyyuuFXfQzjzu8gwSd) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [cuida de mim](https://open.spotify.com/album/0wy3T5ywwjxTpi2iR37ddE) | 2:53 | 2023-05-19 | 2023-08-05 |
-| [Culpa](https://open.spotify.com/track/1MO8oMHUeiHdoePEFfwkbh) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Conflitos](https://open.spotify.com/album/51X8DO8BGPyLVl8tv5tmI7) | 3:04 | 2022-10-28 |  |
+| [Culpa](https://open.spotify.com/track/1MO8oMHUeiHdoePEFfwkbh) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Conflitos](https://open.spotify.com/album/51X8DO8BGPyLVl8tv5tmI7) | 3:04 | 2022-10-28 | 2024-02-10 |
 | [Curandeiro](https://open.spotify.com/track/3VCx8gNuP1tG4G9UNBTD8w) | [Dazaranha](https://open.spotify.com/artist/5Tj3XpWt9Z17NR581kYPQY) | [Dazaranha 30 Anos](https://open.spotify.com/album/7ooA9s3AbPyL2LhnqMBOaM) | 3:08 | 2022-09-30 | 2022-11-12 |
 | [CÉUMITÉRIO](https://open.spotify.com/track/0KW0jKVnoOWCuEpJBqoFWI) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [CÉUMITÉRIO](https://open.spotify.com/album/5R9UWzUQZFgjbDELvZTVSI) | 3:23 | 2022-01-14 | 2022-04-02 |
 | [Dançar](https://open.spotify.com/track/2JG7LWyNbkzm7GPRf3iXoC) | [Meu Funeral](https://open.spotify.com/artist/6GEXLxhbbkxEeYkL9sl64X), [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts) | [Dançar](https://open.spotify.com/album/564oeyEGIGpUB3ooaeb0ee) | 2:33 | 2022-01-14 | 2022-02-26 |
@@ -185,6 +185,7 @@
 | [Hipnose](https://open.spotify.com/track/7FeR0yVfu44pb0AzaCjep6) | [Orbtao](https://open.spotify.com/artist/0YdpMujOaWAFADHmO9mpED) | [Transitando a Olho Nu](https://open.spotify.com/album/6ucz37FZZk8WinxGpe8FwQ) | 3:03 | 2022-04-15 | 2022-09-10 |
 | [História de Verão \- Ao Vivo](https://open.spotify.com/track/1Bt9doFN2PjDIeKjYUHdHt) | [Forfun](https://open.spotify.com/artist/1qIAsl3tIpnX0j4BMi0l5g) | [Ao Vivo Na Fundição](https://open.spotify.com/album/63KFXOVwHt1VBr0labzT4s) | 3:14 | 2022-10-28 | 2023-08-26 |
 | [Hora do Brasil](https://open.spotify.com/track/1oFIcBntvDjPU1tZ0yNYIN) | [Notívagos](https://open.spotify.com/artist/0llzGPxlorxbuUUwg04Emr) | [Hora do Brasil](https://open.spotify.com/album/73UFcMw5mHNqu682gX6vqx) | 3:15 | 2022-01-14 | 2022-10-29 |
+| [I'M THE ONE \- Vivo na Cecília](https://open.spotify.com/track/2vkyCw8NdbvcBIsK0rjSZQ) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [I'M THE ONE \(Vivo na Cecília\)](https://open.spotify.com/album/6B11qJhDjlKeGAJ525BjfQ) | 2:28 | 2024-02-09 |  |
 | [ilusão a dois](https://open.spotify.com/track/77NJ6i8EDmYfGUChbDcGIz) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw) | [Ilusão a dois](https://open.spotify.com/album/35QIzRXMEORJyeR4q6vQIY) | 2:58 | 2022-11-11 | 2023-01-28 |
 | [Imagem É Tudo, Sua Cabeça Não Tem Nada](https://open.spotify.com/track/7mpHoeijOKCkAkU7rkdQN7) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Jason](https://open.spotify.com/artist/70t5J0JdC7dRV2gXTyVaR4) | [Espelhos – Versões Completas de Admirável Vídeo Novo](https://open.spotify.com/album/1yFxl1VPjOj3FmzMJTLPh0) | 1:27 | 2023-10-06 | 2023-11-11 |
 | [Impossível de Ser Assim](https://open.spotify.com/track/2YRkVJ8oEfXME75J8DRsZh) | [Izzi Louise](https://open.spotify.com/artist/7IKyfB7CQfU6tgv6c4iwnV) | [Impossível de Ser Assim](https://open.spotify.com/album/6Z0DzOwJwVCUlMhfjsmJd2) | 3:12 | 2022-01-14 | 2022-04-29 |

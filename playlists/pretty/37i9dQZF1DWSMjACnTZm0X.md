@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=dGhp7NuDSJmSh2fFBvmDgg">DJ Maphorisa</a>, <a href="https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn?si=6tjTdz\-TT6SVycK\-KT\-fgg">WurlD</a>, <a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YNR6zE0lRiKg86KXS2pIeg">ODUMODUBLVCK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,614 likes - 51 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,659 likes - 51 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 50 | [Ask About Me](https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ask About Me](https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9) | 2:55 |
 | 51 | [Ndakhuyanza](https://open.spotify.com/track/7uVsmB4CmynqGuhVFwaZ7R) | [TY1NE](https://open.spotify.com/artist/4Cc5wSjyKdtkmQjuBLAo5B), [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [Ndakhuyanza](https://open.spotify.com/album/6NnMNIcJlBqAHXVTgmzf0D) | 3:13 |
 
-Snapshot ID: `MCwzOGMwYTAzOGExY2RlNTQzYjE1MjFkYjc1ZWY1NmNhZWY2MGZjNmFm`
+Snapshot ID: `MCw2M2Y1NzQ5NWQyOTcwNWRiMTdlY2ZmYTE4NTk0NzVhNTAxN2FhMzMy`

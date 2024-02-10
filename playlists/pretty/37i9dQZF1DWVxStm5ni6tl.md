@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Ruben Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,319 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,345 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [Met Myself](https://open.spotify.com/track/37WWujaXn7jkt5A9nQ5uem) | [Anna Melva](https://open.spotify.com/artist/5sIlE9krqBgJphctYv2W4d) | [Met Myself](https://open.spotify.com/album/6EjNPWifatOL47vc7zqDhe) | 3:52 |
 | 75 | [What A Way To Go](https://open.spotify.com/track/1BRaaNsHfcAFVZPJkmJgVp) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR), [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [What A Way To Go](https://open.spotify.com/album/0GqEB3z6bCc2OlR6aR8w5d) | 2:50 |
 
-Snapshot ID: `MCxmMDE2NjQ5NmNjNWI5NWViYmFmMjU1ZDc2YTEzNGZmMmU3MzNkMzU1`
+Snapshot ID: `MCw3Y2M3YzhjMTA4MDJiN2JiNzQ3YzQ5MDY2ZWEzZWQ1OGIxZjhjNTky`

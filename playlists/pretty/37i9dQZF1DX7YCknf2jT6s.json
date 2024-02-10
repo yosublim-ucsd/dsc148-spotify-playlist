@@ -1,13 +1,45 @@
 {
-  "description": "New jazz for open minds. Cover: Yussef Dayes",
-  "num_followers": 915480,
+  "description": "New jazz for open minds. Cover: Joel Ross",
+  "num_followers": 915569,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2JkYjMyOGFjYjkxYjlhNmYxNTUxN2U0YmZjMTcwNjQyZTNlZDE0",
+  "snapshot_id": "MCxhN2Y1NTFkYWY3ZTk2YjYxYjU0ZjVkYmJjNmY2OTRmZGFmMWVhMDE4",
   "tracks": [
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "nublues",
+        "url": "https://open.spotify.com/album/25Dgs9rR8ETpGCwD0wUv0q"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "duration_ms": 236985,
+      "name": "early",
+      "url": "https://open.spotify.com/track/6e69KdNCu2QQ4wkWL1zWgY"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Her Thoughts",
+        "url": "https://open.spotify.com/album/6O0Yg7vMVL9txMkxXGwjtD"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 168200,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5tBbxTvjJ2e1gc4vLnRzEF"
+    },
     {
       "added_at": "2024-01-26 05:01:00",
       "album": {
@@ -25,8 +57,60 @@
         }
       ],
       "duration_ms": 248666,
-      "name": "Istanbul (feat. Elijah Fox)",
+      "name": "Istanbul (feat. Elijah Fox) - Live From Malibu",
       "url": "https://open.spotify.com/track/65lKgD4JnUU5EYaqMly9T6"
+    },
+    {
+      "added_at": "2024-02-09 15:56:08",
+      "album": {
+        "name": "Nothing Happens Here",
+        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Nothing Happens Here",
+      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Mambo influenciado",
+        "url": "https://open.spotify.com/album/3CmgtYICbgzU7U5vgPohmU"
+      },
+      "artists": [
+        {
+          "name": "Michel Camilo",
+          "url": "https://open.spotify.com/artist/5FSlmspNfoVInmejanELTq"
+        },
+        {
+          "name": "Tomatito",
+          "url": "https://open.spotify.com/artist/3wxFXeuHQEq4NubZunCIMe"
+        }
+      ],
+      "duration_ms": 211114,
+      "name": "Mambo Influenciado",
+      "url": "https://open.spotify.com/track/6KLQUsEikFi0vbtffUknCF"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "for the kids...",
+        "url": "https://open.spotify.com/album/252DBqUqlWG0eOgpEUqPd5"
+      },
+      "artists": [
+        {
+          "name": "aja monet",
+          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
+        }
+      ],
+      "duration_ms": 350000,
+      "name": "for the kids...",
+      "url": "https://open.spotify.com/track/2P3PxlSbLXQOQnrkxUySvo"
     },
     {
       "added_at": "2024-01-26 05:01:00",
@@ -69,6 +153,22 @@
       "url": "https://open.spotify.com/track/2y7p83lOa1MpcyTeHHYXcL"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Mint Chip",
+        "url": "https://open.spotify.com/album/2tjJEBK4H5AWNg67vmvk7b"
+      },
+      "artists": [
+        {
+          "name": "Gregory Uhlmann",
+          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
+        }
+      ],
+      "duration_ms": 214929,
+      "name": "Mint Chip",
+      "url": "https://open.spotify.com/track/2zOTvrEoWKxPtKzZ1v1YK9"
+    },
+    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "Beautiful Day",
@@ -87,22 +187,6 @@
       "duration_ms": 207386,
       "name": "Beautiful Day [Feat. PJ Morton]",
       "url": "https://open.spotify.com/track/5sv0wMXmcp4SuXvm6ghkHm"
-    },
-    {
-      "added_at": "2024-01-26 05:01:00",
-      "album": {
-        "name": "central park west",
-        "url": "https://open.spotify.com/album/4jR1pj36uwbnOKxBphdmEG"
-      },
-      "artists": [
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        }
-      ],
-      "duration_ms": 268915,
-      "name": "central park west",
-      "url": "https://open.spotify.com/track/1RzZ52eCHTUA9VkIJMMcO3"
     },
     {
       "added_at": "2024-02-06 14:35:13",
@@ -701,22 +785,6 @@
       "url": "https://open.spotify.com/track/45D0aZpY8muBiprlulURde"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "when the poems do what they do",
-        "url": "https://open.spotify.com/album/1O2ncFadkTaORxF29AMrMk"
-      },
-      "artists": [
-        {
-          "name": "aja monet",
-          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
-        }
-      ],
-      "duration_ms": 376610,
-      "name": "black joy",
-      "url": "https://open.spotify.com/track/77iu6yezCTvVSrikAWivdX"
-    },
-    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "New Blue Sun",
@@ -973,22 +1041,6 @@
       "url": "https://open.spotify.com/track/39mehRLHX9wvfrooKeiWxa"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Pebble Dance",
-        "url": "https://open.spotify.com/album/6LHnBhoFxIQcAwcMrqCfaI"
-      },
-      "artists": [
-        {
-          "name": "John Surman",
-          "url": "https://open.spotify.com/artist/5THaOlI8Qr3Za3FD6FnWvK"
-        }
-      ],
-      "duration_ms": 378746,
-      "name": "Pebble Dance",
-      "url": "https://open.spotify.com/track/5QkUBSQaFMH6BmmvojOBTQ"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Means The World",
@@ -1241,26 +1293,6 @@
       "url": "https://open.spotify.com/track/6iRPCCgbYTblYcJwI337MV"
     },
     {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "I Left My Heart In Ladera",
-        "url": "https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 135189,
-      "name": "Glad I Found You",
-      "url": "https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM"
-    },
-    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "My Voice",
@@ -1477,22 +1509,6 @@
       "url": "https://open.spotify.com/track/2aJUhKkkOdpJ1seK0CBQHv"
     },
     {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
-        "name": "ESCALECTRIC",
-        "url": "https://open.spotify.com/album/2zt51xYKMh7FFwORtkzq9x"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 344034,
-      "name": "Terrestre",
-      "url": "https://open.spotify.com/track/0kXyRmTQDrs2oK6uFFWagR"
-    },
-    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "Hello World",
@@ -1539,26 +1555,6 @@
       "duration_ms": 392146,
       "name": "An Ever Changing View",
       "url": "https://open.spotify.com/track/7oOdeQyktbC4mCnuSYTFDk"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "River that runs forever",
-        "url": "https://open.spotify.com/album/7he7IqO9spia7ir8jnlwpS"
-      },
-      "artists": [
-        {
-          "name": "Nicole Brady",
-          "url": "https://open.spotify.com/artist/57clVZKVIdtfcIn5MTMF0o"
-        },
-        {
-          "name": "Royal Scottish National Orchestra",
-          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
-        }
-      ],
-      "duration_ms": 282669,
-      "name": "River that runs forever",
-      "url": "https://open.spotify.com/track/4U4cW7s3iOiSJXFvzY9tiZ"
     },
     {
       "added_at": "2023-10-13 04:01:00",

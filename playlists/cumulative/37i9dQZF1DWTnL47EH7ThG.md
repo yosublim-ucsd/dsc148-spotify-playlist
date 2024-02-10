@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-384 songs - 22 hr 5 min
+385 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Fuck the Pain Away](https://open.spotify.com/track/0NWWDumjD2TCrR6iV6ZFgR) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [The Teaches of Peaches](https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a) | 4:10 | 2022-02-04 | 2022-10-28 |
 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [fue mejor \(feat\. SZA\)](https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI) | 3:50 | 2022-02-04 | 2023-10-25 |
 | [Gas](https://open.spotify.com/track/3EvAsPrTHVOSprXYaGtEKR) | [Gianni Lee](https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20), [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Gas](https://open.spotify.com/album/1HbaEh0DD4xMxOhlTyXkRN) | 2:28 | 2022-04-26 | 2022-10-28 |
-| [GAZZOO](https://open.spotify.com/track/2mXgzpF5eVKXRmR2G2QwWx) | [Pedrodollar](https://open.spotify.com/artist/0FKAGseHQptVXGZskA8zT0) | [GAZZOO](https://open.spotify.com/album/2QNA8saCBGGPGVSa47cxuv) | 7:36 | 2023-10-24 |  |
+| [GAZZOO](https://open.spotify.com/track/2mXgzpF5eVKXRmR2G2QwWx) | [Pedrodollar](https://open.spotify.com/artist/0FKAGseHQptVXGZskA8zT0) | [GAZZOO](https://open.spotify.com/album/2QNA8saCBGGPGVSa47cxuv) | 7:36 | 2023-10-24 | 2024-02-10 |
+| [GAZZOO](https://open.spotify.com/track/52vwjRx0k9ZkzR1HqNv7oo) | [Pedrodollar](https://open.spotify.com/artist/0FKAGseHQptVXGZskA8zT0) | [GAZZOO](https://open.spotify.com/album/73snIS7nLSkkb4IA1O7BAL) | 7:36 | 2023-10-24 |  |
 | [GET BUSY](https://open.spotify.com/track/0tFcrUbBV0gwgcekMF8sMb) | [EAT](https://open.spotify.com/artist/41XSCpjd6totqJXZQsRp7s) | [GET BUSY](https://open.spotify.com/album/5l96hVPkWs7XVYdQOuEgm3) | 3:09 | 2022-02-04 | 2022-10-28 |
 | [GHETTO GATSBY \(FEAT\. ALICIA KEYS\)](https://open.spotify.com/track/2krESug6AyfOL07tlaGwts) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 | 2022-12-05 |  |
 | [Girl U Could Be Down 4](https://open.spotify.com/track/2AqNfj3Y6t3mvdc6TSXaE2) | [Bored Lord](https://open.spotify.com/artist/651d6TuQaZF6XaRONhiS2n) | [Cybernetic Romance](https://open.spotify.com/album/4xAzAKkeRbP8Rniaj7l0dN) | 4:55 | 2022-02-04 | 2022-10-28 |

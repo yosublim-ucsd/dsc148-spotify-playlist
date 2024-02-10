@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 55043,
+  "num_followers": 55064,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmJkZTY0Y2E5YzU1MjI5YjM3ZjJkMGVhYTdhNTRjMjIzZDZkNzZh",
+  "snapshot_id": "MCxiYmI4ZWE0MjQ2NGEzMDIxODUyMDQzNTRlMjhiZDk4ZmZkNTliODEy",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -391,18 +391,26 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Ondina",
-        "url": "https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK"
+        "name": "Me Faz Sentir",
+        "url": "https://open.spotify.com/album/2Bpby9CAKbp5H9aSndSTs2"
       },
       "artists": [
         {
-          "name": "Jadidi",
-          "url": "https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f"
+          "name": "Aya",
+          "url": "https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm"
+        },
+        {
+          "name": "Dj Will",
+          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
+        },
+        {
+          "name": "Diego Amani",
+          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Ondina",
-      "url": "https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n"
+      "duration_ms": 231402,
+      "name": "Me Faz Sentir",
+      "url": "https://open.spotify.com/track/1wBQy5qESa8KhMMAWmJAOh"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -431,26 +439,18 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Me Faz Sentir",
-        "url": "https://open.spotify.com/album/2Bpby9CAKbp5H9aSndSTs2"
+        "name": "Ondina",
+        "url": "https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK"
       },
       "artists": [
         {
-          "name": "Aya",
-          "url": "https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm"
-        },
-        {
-          "name": "Dj Will",
-          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
-        },
-        {
-          "name": "Diego Amani",
-          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
+          "name": "Jadidi",
+          "url": "https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f"
         }
       ],
-      "duration_ms": 231402,
-      "name": "Me Faz Sentir",
-      "url": "https://open.spotify.com/track/1wBQy5qESa8KhMMAWmJAOh"
+      "duration_ms": 244000,
+      "name": "Ondina",
+      "url": "https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "DEJAVU PRIMAVERA",
+        "url": "https://open.spotify.com/album/7wqRDsVsoKn8UNtr1nClFs"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "DESLIGA O TELEFONE",
+      "url": "https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Perfeita Demais",
         "url": "https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 212571,
       "name": "Canela e hortel\u00e3",
       "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "DEJAVU PRIMAVERA",
-        "url": "https://open.spotify.com/album/7wqRDsVsoKn8UNtr1nClFs"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "DESLIGA O TELEFONE",
-      "url": "https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9"
     },
     {
       "added_at": "2024-02-02 03:01:00",

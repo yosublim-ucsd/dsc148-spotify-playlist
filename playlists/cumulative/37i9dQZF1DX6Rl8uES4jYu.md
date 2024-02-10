@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-428 songs - 23 hr 57 min
+429 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Good People](https://open.spotify.com/track/7M7wlgmhKhfZq7UN4U8wmC) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Good People](https://open.spotify.com/album/0dQZJuZgNrYh05kZEItogF) | 4:01 | 2021-09-21 | 2022-06-16 |
 | [Good Time](https://open.spotify.com/track/4UiovBMIFb0EwICzNzvh0h) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Good Time](https://open.spotify.com/album/3CkPs129sbs0ZHfKYELc7V) | 2:46 | 2022-05-13 | 2023-09-16 |
 | [Goodnightmare](https://open.spotify.com/track/4tUV3qVS1tIT5K2vbwo7Kh) | [Fake Fake](https://open.spotify.com/artist/43nxlJkq1IwAYVZtTWo5kv) | [Goodnightmare](https://open.spotify.com/album/7bVIynTZaUMnXaPydLxksb) | 3:29 | 2020-11-13 | 2022-02-09 |
-| [Grammy](https://open.spotify.com/track/34wtPgiGEIbKHuyfleN84N) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [Grammy](https://open.spotify.com/album/6i1rWhvp7GAF9w5pP5dQh6) | 2:23 | 2022-02-04 |  |
+| [Grammy](https://open.spotify.com/track/34wtPgiGEIbKHuyfleN84N) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [Grammy](https://open.spotify.com/album/6i1rWhvp7GAF9w5pP5dQh6) | 2:23 | 2022-02-04 | 2024-02-10 |
 | [GROW](https://open.spotify.com/track/7woolpK48x0OF0neZScxgo) | [Malika Tirolien](https://open.spotify.com/artist/0ikYn0NEcQ8rC64TA3Rh4N) | [GROW](https://open.spotify.com/album/4X3uGMrO2XLpBaGegC4ldQ) | 5:02 | 2021-09-21 | 2022-04-19 |
 | [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 | 2022-04-29 |  |
 | [Happy Days](https://open.spotify.com/track/1u8BiP9APkwKjtVb9L1z50) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Happy Days](https://open.spotify.com/album/7vOFsagJ42zKDY8mDR0krm) | 3:51 | 2020-11-13 | 2022-03-21 |
@@ -193,6 +193,7 @@
 | [Ice Cold](https://open.spotify.com/track/56Yxprnbo79DpT8GTKPXlZ) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Ice Cold](https://open.spotify.com/album/08a5OpPDqZ8vXfu3AejPdW) | 3:16 | 2020-11-13 | 2022-03-26 |
 | [If Perfect Was Real](https://open.spotify.com/track/3HqHYQ6xjlII6VWEQjmgPt) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj), [Wass](https://open.spotify.com/artist/6UMJ2LhFBKvNuRzcVTQvQo) | [If Perfect Was Real](https://open.spotify.com/album/5JgF7N6lWqVwh0udZsmy3F) | 3:13 | 2022-09-02 | 2023-04-09 |
 | [In It To Win](https://open.spotify.com/track/41b2WXj5ZzBpPoVx7WvHMg) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Wild Card](https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai) | 4:07 | 2020-11-13 | 2022-03-22 |
+| [Introduce Myself](https://open.spotify.com/track/3ce9qXXiHaOu4ZBjXpzJCr) | [Lucky Dropout](https://open.spotify.com/artist/3SXyu7eV3yPbCexRli5H2q), [Tim Halperin](https://open.spotify.com/artist/3nVeK8gQChVtVCCjGreal2) | [Introduce Myself](https://open.spotify.com/album/0u9If8E2zXCNrBsS8NeKK6) | 2:45 | 2024-02-09 |  |
 | [It Never Rains](https://open.spotify.com/track/67URyvNo0ymOlShJB9JclN) | [GEO](https://open.spotify.com/artist/0U1xtc0gukCZNjTf9mY5a1) | [It Never Rains](https://open.spotify.com/album/5S7KTMA8maUeDLgFuXzOn8) | 2:29 | 2020-11-13 | 2022-03-26 |
 | [It's Not All About You](https://open.spotify.com/track/1Pzyen9KGLK2lKzA2rnOMm) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [It's Not All About You](https://open.spotify.com/album/5bHX5DB1yKo05tOC8n4CVR) | 2:31 | 2020-11-13 | 2022-03-26 |
 | [ITS ALL GOOD](https://open.spotify.com/track/1rtfAn2mFfDuVXhg8nkv6Z) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [ITS ALL GOOD](https://open.spotify.com/album/3eCn1ahWXhBqkX89q627Tn) | 3:07 | 2022-07-12 | 2023-09-09 |

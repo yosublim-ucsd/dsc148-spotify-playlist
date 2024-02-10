@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 56996,
+  "num_followers": 57003,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzdmNjdjYTM0OTYzMjE2ZTUxMGJkY2JmY2U0ZmQ1MWE0MGY1OTQ1",
+  "snapshot_id": "MCw2ZTY0Y2ZiM2I2NzMyYmJhNzU2NzFmODVmZmYzMzgwZTlkYmFmMmU1",
   "tracks": [
     {
       "added_at": "2024-01-30 12:16:19",
@@ -77,28 +77,44 @@
       "url": "https://open.spotify.com/track/7tsSE42pB6dV3dqRfz1dx7"
     },
     {
-      "added_at": "2024-02-01 10:47:53",
+      "added_at": "2024-02-09 06:16:52",
       "album": {
-        "name": "Uncle Song (From \"Bachelor Party\")",
-        "url": "https://open.spotify.com/album/4ViWgGrwuC4Q0IXug8frBy"
+        "name": "Kaayutha Ondu (from \"Crush\")",
+        "url": "https://open.spotify.com/album/6GpIdXJirbaNnNksPZ3jVC"
       },
       "artists": [
         {
-          "name": "Arjun Ramu",
-          "url": "https://open.spotify.com/artist/2WMT3p2Mgvnap7bkfQ1J9A"
+          "name": "Manasa Holla",
+          "url": "https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL"
         },
         {
-          "name": "Nagarjun Sharma",
-          "url": "https://open.spotify.com/artist/6y0fX1VsvikMf62did3WY1"
-        },
-        {
-          "name": "Praveen Biligiri",
-          "url": "https://open.spotify.com/artist/2xk6RkKvtrK1pcv5AkmBP0"
+          "name": "Vineet Raj Menon",
+          "url": "https://open.spotify.com/artist/4WmWxbhGboaSJLxgY8Kfk2"
         }
       ],
-      "duration_ms": 197311,
-      "name": "Uncle Song (From \"Bachelor Party\")",
-      "url": "https://open.spotify.com/track/6oFI179OLqJuxLqazHQquI"
+      "duration_ms": 203692,
+      "name": "Kaayutha Ondu (from \"Crush\")",
+      "url": "https://open.spotify.com/track/4mNhOPItz1N88sZYHb76zn"
+    },
+    {
+      "added_at": "2024-02-09 06:17:55",
+      "album": {
+        "name": "Sothodheyo (From \"Cicada\")",
+        "url": "https://open.spotify.com/album/2H8k8nBfQOYj8bhn2XbEck"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Sreejith Edavana",
+          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
+        }
+      ],
+      "duration_ms": 195093,
+      "name": "Sothodheyo (From \"Cicada\")",
+      "url": "https://open.spotify.com/track/6ATSVCm11MmFLjw7J9DsVH"
     },
     {
       "added_at": "2024-02-07 09:50:29",
@@ -135,6 +151,30 @@
       "duration_ms": 61375,
       "name": "Dhairyam Sarvatra Sadhanam \"Theme Music\" - From \"Dhairyam Sarvatra Sadhanam\"",
       "url": "https://open.spotify.com/track/3ip6B4XdPufrwgHx76NVj2"
+    },
+    {
+      "added_at": "2024-02-01 10:47:53",
+      "album": {
+        "name": "Uncle Song (From \"Bachelor Party\")",
+        "url": "https://open.spotify.com/album/4ViWgGrwuC4Q0IXug8frBy"
+      },
+      "artists": [
+        {
+          "name": "Arjun Ramu",
+          "url": "https://open.spotify.com/artist/2WMT3p2Mgvnap7bkfQ1J9A"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/6y0fX1VsvikMf62did3WY1"
+        },
+        {
+          "name": "Praveen Biligiri",
+          "url": "https://open.spotify.com/artist/2xk6RkKvtrK1pcv5AkmBP0"
+        }
+      ],
+      "duration_ms": 197311,
+      "name": "Uncle Song (From \"Bachelor Party\")",
+      "url": "https://open.spotify.com/track/6oFI179OLqJuxLqazHQquI"
     },
     {
       "added_at": "2024-02-07 03:23:27",
@@ -1503,26 +1543,6 @@
       "duration_ms": 211155,
       "name": "Pasandaagavne - (from \"Kaatera\")",
       "url": "https://open.spotify.com/track/1wPHTQyG7dUvmQ0DWahRMm"
-    },
-    {
-      "added_at": "2023-12-29 05:58:59",
-      "album": {
-        "name": "Oh Manuja (From \"Cicada\")",
-        "url": "https://open.spotify.com/album/44bNJORYmLvGc8jLKJjvn8"
-      },
-      "artists": [
-        {
-          "name": "Deepak Venugopal",
-          "url": "https://open.spotify.com/artist/3jtUn32g8azXv3aOygJIWv"
-        },
-        {
-          "name": "Sreejith Edavana",
-          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
-        }
-      ],
-      "duration_ms": 197034,
-      "name": "Oh Manuja (From \"Cicada\")",
-      "url": "https://open.spotify.com/track/4CY6goQSAHxsW7E49qGd7Z"
     },
     {
       "added_at": "2023-12-29 05:59:35",

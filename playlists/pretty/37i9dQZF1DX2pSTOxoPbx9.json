@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 806857,
+  "num_followers": 807060,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODJiMjhmNzUyODM1YmUyMTUzMzBkZWM0ZmVkMTViOTU3NTU1ZTUx",
+  "snapshot_id": "MCxjY2I2NWFhMGI3NzQ3MWY3N2E5MjE2NGU0N2YyZjc1MWM0ZTg3ZTNl",
   "tracks": [
     {
       "added_at": "2024-02-07 18:16:41",
@@ -347,18 +347,18 @@
     {
       "added_at": "2024-02-07 18:16:41",
       "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+        "name": "Seven + Mary",
+        "url": "https://open.spotify.com/album/5krQbJqzCCOxCGOQ3W8Tr6"
       },
       "artists": [
         {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
         }
       ],
-      "duration_ms": 249739,
-      "name": "Beggin For Thread",
-      "url": "https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF"
+      "duration_ms": 188280,
+      "name": "Devil Like Me",
+      "url": "https://open.spotify.com/track/5VJe8OKFcPBBjNEAPUeDuJ"
     },
     {
       "added_at": "2024-02-07 18:16:41",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-02-07 18:16:41",
       "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 249739,
+      "name": "Beggin For Thread",
+      "url": "https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF"
+    },
+    {
+      "added_at": "2024-02-07 18:16:41",
+      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
       },
@@ -395,22 +411,6 @@
     {
       "added_at": "2024-02-07 18:16:41",
       "album": {
-        "name": "Woodgate, NY",
-        "url": "https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 263045,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/2PYRqwROIlW4t4Gh0uDD3d"
-    },
-    {
-      "added_at": "2024-02-07 18:16:41",
-      "album": {
         "name": "John Came Home",
         "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 191182,
       "name": "John Came Home",
       "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
+    },
+    {
+      "added_at": "2024-02-07 18:16:41",
+      "album": {
+        "name": "Woodgate, NY",
+        "url": "https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 263045,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/2PYRqwROIlW4t4Gh0uDD3d"
     },
     {
       "added_at": "2024-02-07 18:16:41",
@@ -455,22 +471,6 @@
       "duration_ms": 281213,
       "name": "I Forget Where We Were",
       "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
-    },
-    {
-      "added_at": "2024-02-07 18:16:41",
-      "album": {
-        "name": "Seven + Mary",
-        "url": "https://open.spotify.com/album/5krQbJqzCCOxCGOQ3W8Tr6"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "Devil Like Me",
-      "url": "https://open.spotify.com/track/5VJe8OKFcPBBjNEAPUeDuJ"
     },
     {
       "added_at": "2024-02-07 18:16:41",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-02-07 18:16:41",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 343786,
-      "name": "Small Things",
-      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
-    },
-    {
-      "added_at": "2024-02-07 18:16:41",
-      "album": {
         "name": "Carry the Fire",
         "url": "https://open.spotify.com/album/42NjSADnDs97o75bICIqs0"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 202520,
       "name": "Bottom of the River",
       "url": "https://open.spotify.com/track/2LzyUfJdRp3uqTrITBJXEY"
+    },
+    {
+      "added_at": "2024-02-07 18:16:41",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 343786,
+      "name": "Small Things",
+      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
     },
     {
       "added_at": "2024-02-07 18:16:41",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-02-07 18:16:41",
       "album": {
-        "name": "Philharmonics",
-        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 228546,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
-    },
-    {
-      "added_at": "2024-02-07 18:16:41",
-      "album": {
         "name": "Turn Out the Lights",
         "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 273466,
       "name": "Appointments",
       "url": "https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw"
+    },
+    {
+      "added_at": "2024-02-07 18:16:41",
+      "album": {
+        "name": "Philharmonics",
+        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 228546,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
     },
     {
       "added_at": "2024-02-07 18:16:41",
@@ -723,6 +723,22 @@
       "duration_ms": 341000,
       "name": "Notion",
       "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "More To This",
+        "url": "https://open.spotify.com/album/5e1gKCc5uv3ddRRxOAeuwC"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 171504,
+      "name": "More To This",
+      "url": "https://open.spotify.com/track/6FCN6p3Iq6LBWC4Cx4KgXE"
     },
     {
       "added_at": "2024-02-07 18:16:41",
@@ -843,22 +859,6 @@
     {
       "added_at": "2024-02-07 18:16:41",
       "album": {
-        "name": "If You Wait",
-        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 207253,
-      "name": "Hey Now",
-      "url": "https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy"
-    },
-    {
-      "added_at": "2024-02-07 18:16:41",
-      "album": {
         "name": "Bones EP",
         "url": "https://open.spotify.com/album/6px8K9UGkJZ3gDzxsPGUyl"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 229565,
       "name": "Crush - Stripped",
       "url": "https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK"
+    },
+    {
+      "added_at": "2024-02-07 18:16:41",
+      "album": {
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 207253,
+      "name": "Hey Now",
+      "url": "https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy"
     },
     {
       "added_at": "2024-02-07 18:16:41",
@@ -1051,6 +1067,22 @@
     {
       "added_at": "2024-02-07 18:16:41",
       "album": {
+        "name": "I Speak Because I Can",
+        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 218188,
+      "name": "Devil's Spoke",
+      "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
+    },
+    {
+      "added_at": "2024-02-07 18:16:41",
+      "album": {
         "name": "Don't You Cry For Me",
         "url": "https://open.spotify.com/album/4TjQW7GIImS6INJyhjuANs"
       },
@@ -1123,22 +1155,6 @@
       "duration_ms": 192666,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
-    },
-    {
-      "added_at": "2024-02-07 18:16:41",
-      "album": {
-        "name": "I Speak Because I Can",
-        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 218188,
-      "name": "Devil's Spoke",
-      "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
     },
     {
       "added_at": "2024-02-07 18:16:41",
@@ -1655,22 +1671,6 @@
       "duration_ms": 252080,
       "name": "House Of Saint Give Me",
       "url": "https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ"
-    },
-    {
-      "added_at": "2024-02-07 18:16:41",
-      "album": {
-        "name": "Gabrielle Shonk",
-        "url": "https://open.spotify.com/album/0pNGsGr8OQu7ohqCv6KLco"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Shonk",
-          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
-        }
-      ],
-      "duration_ms": 249413,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/2C6VccxGHyESHZMDeTYRRD"
     }
   ],
   "unique_name": "Dark & Stormy",

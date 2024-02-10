@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-83 songs - 3 hr 48 min
+85 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-29 |  |
 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2024-01-29 | 2024-02-06 |
 | [CLEARED \- Remix](https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH) | [Lilithzplug](https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo) | [Meet The Lilithz](https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5) | 2:06 | 2024-01-29 |  |
+| [Cotton Eye Joe](https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g) | [Sex & Violins](https://open.spotify.com/album/3MLXp4rTGt1USufyODvXuz) | 3:13 | 2024-02-09 |  |
 | [Dance You Outta My Head](https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Dance You Outta My Head](https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG) | 3:22 | 2024-02-06 |  |
 | [DODGE THIS](https://open.spotify.com/track/69dAPEKgjAUhtLBaOeI2BI) | [core5k](https://open.spotify.com/artist/660yiS4PKmTfYnO7X1nGBw) | [DODGE THIS](https://open.spotify.com/album/3FMai0CAnJMqm28fixkWkb) | 1:23 | 2024-02-01 | 2024-02-05 |
 | [ee nado x\)](https://open.spotify.com/track/10bkbTXJZpOP5r9ZNeRwDw) | [dj trippie flameboy](https://open.spotify.com/artist/6ZCCg68X6ipm9D5VbvWK7k) | [ee nado x\)](https://open.spotify.com/album/3xDbqXe7XB6jiCNUxNTaqa) | 1:44 | 2024-01-29 |  |
@@ -58,6 +59,7 @@
 | [TRUE](https://open.spotify.com/track/2oAmC0f5DWBDyXqsKO00ov) | [YOARI](https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme) | [YOARI X MY DEMON](https://open.spotify.com/album/2XyMN12w6Lb9Ion8UdRCkf) | 3:12 | 2024-01-29 | 2024-02-02 |
 | [TryToFriend](https://open.spotify.com/track/7vD6fJg66dEzbYXVvEyQCh) | [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [TryToFriend](https://open.spotify.com/album/6MqxxhntIjn3kDZCctIMrN) | 1:52 | 2024-01-29 |  |
 | [Voilà](https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [On n’enferme pas les oiseaux](https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD) | 2:57 | 2024-01-29 |  |
+| [Wassup](https://open.spotify.com/track/49JTCQ1pv7BKWiE3xZvTWf) | [SLED](https://open.spotify.com/artist/4EmXJOEp37smQ5YjOOx20W) | [Wassup](https://open.spotify.com/album/7M7j1xb0S1zZuN1R3keCqs) | 2:34 | 2024-02-09 |  |
 | [We Fell Apart \- Slowed](https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f) | [overrated](https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV), [Akucum](https://open.spotify.com/artist/4iNoUF5jEZLr28VHuxHN9y) | [We Fell Apart](https://open.spotify.com/album/3JyuOXGEoGuRSgJDDxwOCO) | 2:35 | 2024-02-08 |  |
 | [We Fell Apart \- Slowed](https://open.spotify.com/track/6quitQPG3Gr3GMHC6L5CCG) | [overrated](https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV), [Akucum](https://open.spotify.com/artist/4iNoUF5jEZLr28VHuxHN9y) | [We Fell Apart \- Slowed](https://open.spotify.com/album/3V1sblKA6FxagHCEupdkAw) | 2:35 | 2024-01-29 | 2024-02-09 |
 | [WHAT YOU WANT!](https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9) | [WHAT YOU WANT!](https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd) | 2:02 | 2024-02-05 | 2024-02-07 |
@@ -77,7 +79,7 @@
 | [немерено](https://open.spotify.com/track/6KRiMyT78RNeatgjnI7sPM) | [лампабикт](https://open.spotify.com/artist/5guNMQUAnAosad9G9wVjoW), [Элли на маковом поле](https://open.spotify.com/artist/6mlRoShVf1DHo0SsntzTkr) | [добраться до него](https://open.spotify.com/album/5ApMHZ83bd5lLH02pPGRIN) | 3:24 | 2024-01-29 |  |
 | [Он гениален](https://open.spotify.com/track/6nkxIA8MKHQT6R8nI63c9u) | [WOKAWÓNA](https://open.spotify.com/artist/5KAPb2T9AMT7s96xxPbaiT) | [Пролетают дни](https://open.spotify.com/album/3hlcGQiOyJ894PPOIgew45) | 1:47 | 2024-02-03 |  |
 | [Она делит вайб](https://open.spotify.com/track/4WUmervieIR98wLI5Xz6ue) | [KOREL](https://open.spotify.com/artist/6BkXB0ZfuivRVTBU17VTvx), [NEEL](https://open.spotify.com/artist/6MNmnKmvKRaLxBsfhh3gYj) | [Она делит вайб](https://open.spotify.com/album/7KFpHlTQcPu6zaAo0Lgos0) | 2:31 | 2024-01-30 | 2024-02-03 |
-| [Она пишет мне Wassup](https://open.spotify.com/track/7M8qQTJ5A0aplpepOFOCRg) | [LAnaYA](https://open.spotify.com/artist/6BCFnKqqy21B7dfzzlyfdd) | [Она пишет мне Wassup](https://open.spotify.com/album/7EaKCyyNMA7QaEy02aa1st) | 2:34 | 2024-01-30 |  |
+| [Она пишет мне Wassup](https://open.spotify.com/track/7M8qQTJ5A0aplpepOFOCRg) | [LAnaYA](https://open.spotify.com/artist/6BCFnKqqy21B7dfzzlyfdd) | [Она пишет мне Wassup](https://open.spotify.com/album/7EaKCyyNMA7QaEy02aa1st) | 2:34 | 2024-01-30 | 2024-02-10 |
 | [Отстой](https://open.spotify.com/track/0fLAJS1gQfORDIT8YNYLkF) | [Ника КраснаЯ](https://open.spotify.com/artist/6wVgwrdiInEhnGSkSxk09A) | [Жвачка по рублю](https://open.spotify.com/album/7zhzED1BztksMSBBD6KKuj) | 2:25 | 2024-01-29 |  |
 | [Плачут Небеса](https://open.spotify.com/track/6euqOfQXC3YdneT6bGTyI6) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [Доминик Джокер](https://open.spotify.com/artist/5YF9ggs1BDRHNx7OiLCvxe) | [Плачут Небеса](https://open.spotify.com/album/2d5EJLlYd2KLRhijE8gaZk) | 2:47 | 2024-01-30 | 2024-02-07 |
 | [Поезда](https://open.spotify.com/track/3DoKepDy2hXhtWizxMszJS) | [Женя Трофимов](https://open.spotify.com/artist/3JYowG5k65ROJjN5PXx9Ce), [Комната культуры](https://open.spotify.com/artist/0dTuwuNVB1hXbxaDM42ncA) | [Поезда](https://open.spotify.com/album/5RjCEj6KIpdgEAdGokQuLU) | 2:59 | 2024-01-29 |  |
@@ -85,7 +87,7 @@
 | [Проклятие фараона](https://open.spotify.com/track/4G1zemyvoqSmXryjn6ZZJg) | [Chechil](https://open.spotify.com/artist/6vcFQQ54QPC0WyjRK0NJal) | [Проклятие фараона](https://open.spotify.com/album/3YDZmhWskxBADDFI3jnoyp) | 1:56 | 2024-01-29 |  |
 | [Разноцветные таблетки](https://open.spotify.com/track/1Za23uNH9LP4gcflnvAGCE) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая яма](https://open.spotify.com/album/6z5gnL9E2kbHV0A7nJ3SIP) | 1:57 | 2024-01-29 |  |
 | [Снег растаял на плечах](https://open.spotify.com/track/6mC2PY4sm4M0YFL9dsBMGc) | [DEAD BLONDE](https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z) | [Снег растаял на плечах](https://open.spotify.com/album/4V5ZrTCDnhpsL4Oyi3R7Hs) | 2:28 | 2024-01-30 |  |
-| [СТВОЛ](https://open.spotify.com/track/5oRyJGRopWGXtnOL7jJfZR) | [Юпи](https://open.spotify.com/artist/19ycuZUQaZvT46uJscip1s), [boogshi](https://open.spotify.com/artist/5prZ0gvvEQqiPotrtz0jWJ) | [СТВОЛ](https://open.spotify.com/album/1ZZiXJKL51J800x66cqyB6) | 1:40 | 2024-02-05 |  |
+| [СТВОЛ](https://open.spotify.com/track/5oRyJGRopWGXtnOL7jJfZR) | [Юпи](https://open.spotify.com/artist/19ycuZUQaZvT46uJscip1s), [boogshi](https://open.spotify.com/artist/5prZ0gvvEQqiPotrtz0jWJ) | [СТВОЛ](https://open.spotify.com/album/1ZZiXJKL51J800x66cqyB6) | 1:40 | 2024-02-05 | 2024-02-10 |
 | [Целую](https://open.spotify.com/track/22Gx9ozLJwjo4fBgoSw7y9) | [Pepel Nahudi](https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3) | [Целую](https://open.spotify.com/album/5MMOUwDx6k2gxYw1CifHY7) | 1:48 | 2024-01-29 | 2024-02-02 |
 | [Штекер](https://open.spotify.com/track/6oJzP0LA9yJCfme7U3NZOL) | [unki](https://open.spotify.com/artist/157DpdCWsAG42qhS6BCsjT) | [JERK SHIT HAPPENS](https://open.spotify.com/album/5vuwrdSk8QOlcMCCeKyCgV) | 1:23 | 2024-01-29 |  |
 | [Юра, Юра](https://open.spotify.com/track/1VdZa83wmycr1fi86O8vh7) | [CUPSIZE](https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO) | [Как испортить вечеринку?](https://open.spotify.com/album/5fXF48RIZ006PJpP2blKaQ) | 2:08 | 2024-02-02 |  |

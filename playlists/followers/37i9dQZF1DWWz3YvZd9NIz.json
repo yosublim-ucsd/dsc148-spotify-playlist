@@ -1,8 +1,8 @@
 {
-  "2024-02-09": 134255,
+  "2024-02-10": 134478,
   "date_first_scraped": "2022-12-10",
   "description": "The best hardstyle remixes of songs you know!",
-  "name": "Hardstyle Remix of Popular Songs",
+  "name": "Hardstyle Remixes of Popular Songs",
   "tracks": [
     {
       "album": {
@@ -105,7 +105,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 157161,
       "name": "All I Want for Christmas Is You - Hardstyle Version",
       "url": "https://open.spotify.com/track/5BdqIoz6au7Ex5dbpjHilN"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 220084,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/5m64MJ6lS6LfY48Noi7uSr"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 198954,
       "name": "Baby Don't Hurt Me - Hardstyle",
       "url": "https://open.spotify.com/track/218oKGgUWwtDe5ZA1sv20S"
@@ -673,10 +673,36 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 190503,
       "name": "Bonkerz",
       "url": "https://open.spotify.com/track/0FaG2Hc9LSFsuChAC0ZZcM"
+    },
+    {
+      "album": {
+        "name": "Boom, Boom, Boom, Boom!!",
+        "url": "https://open.spotify.com/album/7d352aixPubgdC24Loodkb"
+      },
+      "artists": [
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        },
+        {
+          "name": "Tatsunoshin",
+          "url": "https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP"
+        },
+        {
+          "name": "SONJA",
+          "url": "https://open.spotify.com/artist/7rEAvtkj6sNUlQXlYRldrs"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155600,
+      "name": "Boom, Boom, Boom, Boom!!",
+      "url": "https://open.spotify.com/track/3le8U4X1TublQ5I1kmLgZk"
     },
     {
       "album": {
@@ -900,6 +926,24 @@
     },
     {
       "album": {
+        "name": "Cry For You",
+        "url": "https://open.spotify.com/album/3ETkl7tsz902xmWHA9yljQ"
+      },
+      "artists": [
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168607,
+      "name": "Cry For You",
+      "url": "https://open.spotify.com/track/1RiqdvtgfR0yI6oj60AgiJ"
+    },
+    {
+      "album": {
         "name": "Daddy DJ",
         "url": "https://open.spotify.com/album/6Fp2vEjNNadaQMw0JgbFCZ"
       },
@@ -1065,6 +1109,24 @@
       "duration_ms": 162440,
       "name": "Don't Let Me Down (feat. Daya) - Hardwell & Sephyx Remix",
       "url": "https://open.spotify.com/track/1JI70l1lE5IF2tgJm5TnMD"
+    },
+    {
+      "album": {
+        "name": "Don't You Worry Child (Hardstyle)",
+        "url": "https://open.spotify.com/album/4VE1EUhKNGyUjFsKYMQCtP"
+      },
+      "artists": [
+        {
+          "name": "PXSEIDON",
+          "url": "https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139764,
+      "name": "Don't You Worry Child (Hardstyle)",
+      "url": "https://open.spotify.com/track/6KWQPUeFZj0Opa8JeZQuHe"
     },
     {
       "album": {
@@ -1317,6 +1379,28 @@
       "duration_ms": 128274,
       "name": "Firework",
       "url": "https://open.spotify.com/track/1U4Mw7gjMfM4GZh9mYgw16"
+    },
+    {
+      "album": {
+        "name": "Firework (Techno Remix)",
+        "url": "https://open.spotify.com/album/61wSN1mWpwnOq6XpZJpwka"
+      },
+      "artists": [
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "DJ Dobrel",
+          "url": "https://open.spotify.com/artist/20I02XeYxk0PkhvLuGFEPn"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Firework - Techno Remix",
+      "url": "https://open.spotify.com/track/2kL4T9w3fGmSMUbvqmgjwH"
     },
     {
       "album": {
@@ -2428,6 +2512,32 @@
     },
     {
       "album": {
+        "name": "My Way (Hardstylee)",
+        "url": "https://open.spotify.com/album/7AZ6pUjWt41R8eYv4NfX8X"
+      },
+      "artists": [
+        {
+          "name": "BAKI",
+          "url": "https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW"
+        },
+        {
+          "name": "GYM HARDSTYLE",
+          "url": "https://open.spotify.com/artist/4MXxGXQdRdAcQUl17UCXNB"
+        },
+        {
+          "name": "ZYZZ",
+          "url": "https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128630,
+      "name": "My Way - Hardstylee",
+      "url": "https://open.spotify.com/track/5Omcmjq9toO2AfMrUzTvZ2"
+    },
+    {
+      "album": {
         "name": "Never Alone (Re-Style Remix)",
         "url": "https://open.spotify.com/album/60lF2PCjpf4rFnly1cJHrI"
       },
@@ -2821,7 +2931,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 151500,
       "name": "Push Up - Hardstyle Remix",
       "url": "https://open.spotify.com/track/76K2GPOdbmj2bGCnFYj2xe"
@@ -3187,6 +3297,24 @@
       "duration_ms": 211127,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3"
+    },
+    {
+      "album": {
+        "name": "Smooth Criminal",
+        "url": "https://open.spotify.com/album/4cL1zFrvk14x1t08QcVmTQ"
+      },
+      "artists": [
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134829,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/2HtC6KsunFKydl98AfxMze"
     },
     {
       "album": {
@@ -3645,7 +3773,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 174400,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0"

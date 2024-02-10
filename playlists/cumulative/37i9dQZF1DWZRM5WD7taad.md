@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Ana Tijoux en Portada
 
-258 songs - 13 hr 8 min
+260 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Pareparqué](https://open.spotify.com/track/3NqgVmQ8DmG4TDUNQ8yK8u) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Pareparqué](https://open.spotify.com/album/6IspoSEx7IJBzP0nKYyiZr) | 3:13 | 2022-10-16 | 2023-07-01 |
 | [Pareparqué](https://open.spotify.com/track/5SkCbS0Xx6xRFZoGcfRHIn) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Pareparqué](https://open.spotify.com/album/6KhNdwFgUNhVj3rUg1uvUH) | 3:13 | 2021-12-13 | 2023-01-12 |
 | [Perfidia](https://open.spotify.com/track/599NXRZRBlMZcAEqCk1cBt) | [Elane](https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I) | [Perfidia](https://open.spotify.com/album/2lGuZr0GuC81OktPfqh564) | 2:07 | 2021-12-13 | 2023-03-11 |
+| [PERO NAH!](https://open.spotify.com/track/1XGfXlXEggYgLHPFQIT1Aq) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU) | [PERO NAH!](https://open.spotify.com/album/6cTAjRwKXVfrHvFGFGHlHk) | 2:09 | 2024-02-09 |  |
 | [Perrísima](https://open.spotify.com/track/70ETYEAv9pokvBCV37Qb1J) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Perrísima](https://open.spotify.com/album/5ueNwkSDxe0fKunEzMq9IM) | 2:49 | 2023-09-22 |  |
 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 | 2023-05-19 |  |
 | [Por La Noche](https://open.spotify.com/track/29sEnpw1KVfOIyMI8sSTse) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Malamarismo](https://open.spotify.com/album/1Ev82MNV0FUz9X4kN2ZTCa) | 3:43 | 2021-12-13 |  |
@@ -194,7 +195,7 @@
 | [PULLIN' UP](https://open.spotify.com/track/5efoy1qDiKRrlJs9MfEQVk) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [LAS MORRAS TAMBIÉN HACEN TR444P](https://open.spotify.com/album/4cYi6ydyioYs3PquKrGTPt) | 2:00 | 2023-09-08 |  |
 | [Punto](https://open.spotify.com/track/5Y35DJ1fe2ZKS7CRfvhEdY) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Punto](https://open.spotify.com/album/0Qpzn4xD3HRyi22dQxUSQi) | 2:50 | 2023-06-09 | 2024-01-13 |
 | [Puño en alto](https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt) | [Se Armó Kokoa](https://open.spotify.com/artist/3f5hWBbWztRztAVtcYIsGO), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Puño en alto](https://open.spotify.com/album/1mkNZzRhNSzZ59g67slzGo) | 4:07 | 2023-06-23 |  |
-| [Que Oso](https://open.spotify.com/track/1nVSfJ9XDIJlEzLkAz798P) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Que Oso](https://open.spotify.com/album/429h9tb0MJpTopIfr2h5uF) | 2:30 | 2021-12-13 |  |
+| [Que Oso](https://open.spotify.com/track/1nVSfJ9XDIJlEzLkAz798P) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Que Oso](https://open.spotify.com/album/429h9tb0MJpTopIfr2h5uF) | 2:30 | 2021-12-13 | 2024-02-10 |
 | [Que Si Me Ves](https://open.spotify.com/track/5j0RE87fQ7NmMe5jFPsSIZ) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Que Si Me Ves](https://open.spotify.com/album/6jtwPwLF9kyYPczMayydIB) | 3:07 | 2021-12-13 | 2023-03-11 |
 | [Quien Paga](https://open.spotify.com/track/5bRH3E7TaWVAblEUVFI0By) | [PIERI](https://open.spotify.com/artist/6ieMOnAUmVIEjspgbWnqEX) | [Quien Paga](https://open.spotify.com/album/7IBdzjicSaKpYpYrFPirRT) | 1:58 | 2021-12-13 | 2022-09-11 |
 | [Quien Paga](https://open.spotify.com/track/7zP1jcXDQvzOPwbuil3NDJ) | [PIERI](https://open.spotify.com/artist/6ieMOnAUmVIEjspgbWnqEX) | [AGROLOVE](https://open.spotify.com/album/27lgvAXQJvQX7XNSWLv6X8) | 1:58 | 2022-08-16 | 2023-01-14 |
@@ -238,12 +239,13 @@
 | [Te Regalo](https://open.spotify.com/track/7sYh7Jhn2Gt43TKepAaEbJ) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [Te Regalo](https://open.spotify.com/album/3hX0Y4Wr5ahfV5bZmxRbRz) | 4:26 | 2022-08-03 | 2023-07-01 |
 | [Tengo Un Trato](https://open.spotify.com/track/3sg4RFemnrzSDr0LpaxqCy) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Mala Rodríguez / Lujo Ibérico](https://open.spotify.com/album/52zw3rWRaKV94g7KSjlbrx) | 2:47 | 2021-12-13 | 2023-10-28 |
 | [Tenochtitlán](https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tenochtitlán](https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf) | 4:13 | 2023-09-01 |  |
+| [The Wave](https://open.spotify.com/track/3qdtPhFUPKEwOzgcoQg5z4) | [Las Ninyas del Corro](https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh) | [The Wave](https://open.spotify.com/album/4mnAwRH9rHUHCeiVKgpdaO) | 3:07 | 2024-02-09 |  |
 | [Thug Love](https://open.spotify.com/track/3UzvM5oPrOJXshAJOSUUar) | [Vitz Music](https://open.spotify.com/artist/6dEJkQwezGsQdWJyLGEjDf), [Phyzh Eye](https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01) | [Thug Love](https://open.spotify.com/album/4i8kWHlG8oMVp9yc7z666C) | 3:14 | 2023-02-10 |  |
 | [Tiempos Felices](https://open.spotify.com/track/4lS1HxKXFMinRnsz6PqywA) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Nax](https://open.spotify.com/artist/2tywCc8kh9RzR0XY8HYekn) | [Tiempos Felices](https://open.spotify.com/album/7AHNb6VALxScuuUYcmd90L) | 3:21 | 2023-12-15 |  |
 | [TIKI TAKA](https://open.spotify.com/track/731NNSNXS57BuFlBWyUuuH) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6), [TALE$](https://open.spotify.com/artist/5w9YZfwWPTeCQn6QEGieIU) | [7Z7](https://open.spotify.com/album/3RtE5spt4kZB1Q8nHB3tWD) | 2:34 | 2023-03-03 |  |
 | [Toda La Noche](https://open.spotify.com/track/6G2moJDXjY6T1sV1rvVdOO) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Toda La Noche](https://open.spotify.com/album/1rkHVLrH6Rf8t1RuHZ74sH) | 2:42 | 2023-02-24 |  |
 | [Toda Perra Mugrosa](https://open.spotify.com/track/2no18yKAUmqkJG2fxUZ7bz) | [La Gallo 3:20](https://open.spotify.com/artist/3vMfBXxAZ9iG2u0VjNZ0IA), [norek](https://open.spotify.com/artist/1FmEWwOZLr0u0PWHVUXL0j) | [Toda Perra Mugrosa](https://open.spotify.com/album/6Ep14yIKFjYEP0J6yTJWnO) | 2:09 | 2023-09-15 |  |
-| [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 | 2021-12-13 |  |
+| [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 | 2021-12-13 | 2024-02-10 |
 | [Toqué Fondo](https://open.spotify.com/track/31UaO89hcqvZpv0ZxS0CBD) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Cocaine Beatz](https://open.spotify.com/artist/3gWc5nbi4s5wcTFxInX601) | [Toqué Fondo](https://open.spotify.com/album/3pP50Wip0grdAxzPo7eDbC) | 3:46 | 2021-12-13 | 2022-01-22 |
 | [Traka Tra](https://open.spotify.com/track/2VENs7vBhbZqWYJiIzbr0y) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Traka Tra](https://open.spotify.com/album/295frGzYkpnGmvuT9BxfEA) | 1:58 | 2021-12-13 | 2023-07-01 |
 | [Trendi](https://open.spotify.com/track/0RdBFw9TfRCXJsqQNimbM3) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Trendi](https://open.spotify.com/album/5vyt8C2B0j6yUFniEHJRc6) | 2:24 | 2023-10-13 |  |

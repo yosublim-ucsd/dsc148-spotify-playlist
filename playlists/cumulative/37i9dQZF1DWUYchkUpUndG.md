@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM?si=0sjVWfxTQe6yBJa9p0wMig>Abbey Ojomu</a>
 
-1,883 songs - 5 day 19 hr 35 min
+1,885 songs - 5 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,6 +554,7 @@
 | [Get Up \- Refix](https://open.spotify.com/track/2I7SGytzYZY3Cu0hliNToq) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv), [Kerusso Records](https://open.spotify.com/artist/1bXSwH3GPHWrNYCLDz1I2O) | [Get Up \(Refix\)](https://open.spotify.com/album/3dAN2xmNKnjMlO0COMvyRR) | 3:13 | 2023-12-01 | 2023-12-15 |
 | [Getaway \(Bring Your Burdens\)](https://open.spotify.com/track/0n2ib05PwBIvRbBpt0e6Bv) | [IBKinsprz](https://open.spotify.com/artist/6DTtiX7QUhk6do5CThy8iz), [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h) | [Getaway \(Bring Your Burdens\)](https://open.spotify.com/album/1Bont56jabJnsYBLSi8AOx) | 2:48 | 2023-09-22 | 2023-10-06 |
 | [Gimme Love](https://open.spotify.com/track/5BUfxIyzH7CIcazL0mfvhe) | [Niyispeak](https://open.spotify.com/artist/1t2cYkpzE36VcFiGpFB0zJ), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [Gimme Love](https://open.spotify.com/album/0tCVGdV9nnpzkhZOvAVUEj) | 2:55 | 2024-01-26 | 2024-02-09 |
+| [Gimmie Love](https://open.spotify.com/track/6ZVlEqtZHq7qWH3Xdbvyt9) | [BUK](https://open.spotify.com/artist/0lNueseF4lJoLU7ZbsQTAj) | [Gimmie Love](https://open.spotify.com/album/7yHDbsGs3rRpQqyQsL4JxR) | 2:25 | 2024-02-09 |  |
 | [Give It All](https://open.spotify.com/track/3RLooyMCFEuApU0JwzP2l9) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Give It All](https://open.spotify.com/album/5G2Oxhmi2AAWhl9OHzbH69) | 1:36 | 2023-08-25 | 2023-09-08 |
 | [Give it to the holy Father](https://open.spotify.com/track/63p9l59f23WEGP80IaIWc7) | [2Larni](https://open.spotify.com/artist/0OEREBZdg9v3W9w1L5xY4d) | [Give it to the holy Father](https://open.spotify.com/album/3oQkOqVfl5dNyLZ4UyRyzP) | 2:43 | 2023-10-06 | 2023-10-20 |
 | [Give Me Jesus \- Studio Version](https://open.spotify.com/track/3KRn4e2y0p1GyoKqWaAhA2) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Give Me Jesus \(Studio Version\)](https://open.spotify.com/album/4J7KZmf2ym2MU2pNyBJQqs) | 3:52 | 2023-08-11 | 2023-08-25 |
@@ -1282,6 +1283,7 @@
 | [One Man](https://open.spotify.com/track/5wkMqysuvJc5XKaMW2nAGx) | [Rayday Music](https://open.spotify.com/artist/2FQlATPKYegiO8ymEVuOl9) | [One Man](https://open.spotify.com/album/5VuQssebynhavqj4dNefr5) | 3:00 | 2023-06-30 | 2023-07-14 |
 | [One Touch](https://open.spotify.com/track/1SLryXRbuk9wORWjz5Ld1M) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [One Touch](https://open.spotify.com/album/2CbnjHnWy6fZAZx3eyMtzU) | 2:19 | 2023-06-16 | 2023-06-30 |
 | [Oniduro Mi \(My Guarantor\) \[Amapiano Gospel\]](https://open.spotify.com/track/4SZwXX9YxqBoL7TsRfrLJ9) | [DJ Mellowshe](https://open.spotify.com/artist/7me82qN1dCy1YrPv4e2pfC) | [Oniduro Mi \(My Guarantor\) \[Amapiano Gospel\]](https://open.spotify.com/album/0B3QNTVYkrbW2P6qzuffpe) | 2:08 | 2023-07-14 | 2023-07-28 |
+| [Onise Iyanu](https://open.spotify.com/track/4beqtaxy0o1J1z7tz6y7bJ) | [Victoria Tunde](https://open.spotify.com/artist/55ZRUXQccOx4UT3GFIFU1E), [Michael Oyo](https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB) | [Onise Iyanu](https://open.spotify.com/album/5AuVhKxPvgre8HS2GbCYxL) | 5:57 | 2024-02-09 |  |
 | [Onjagala \- Acoustic](https://open.spotify.com/track/0j9jsddtgxA79gxtoFodU9) | [KEDI](https://open.spotify.com/artist/3MHFc62uVV1SoSxWEyMG0c) | [Onjagala \(Acoustic\)](https://open.spotify.com/album/2HdABaFCoEFNaoAOTaRIxp) | 3:54 | 2023-08-18 | 2023-09-01 |
 | [Only God](https://open.spotify.com/track/1SCSTY62rbjZ84ltDALfK2) | [Solomon Tyme](https://open.spotify.com/artist/1Q4TfO9JvvLCnjXkcWcNPj) | [Only God](https://open.spotify.com/album/3PSferU1PZHnhoT2gHAJv4) | 1:43 | 2023-08-18 | 2023-09-01 |
 | [Only God Can Save Me](https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Only God Can Save Me](https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql) | 2:58 | 2023-11-03 | 2023-11-17 |

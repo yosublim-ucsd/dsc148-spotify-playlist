@@ -1,12 +1,12 @@
 {
   "description": "The most exciting new music, featuring RADAR official artist Peso Pluma on the cover.",
-  "num_followers": 353131,
+  "num_followers": 353121,
   "original_name": "RADAR US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTIwMmEwZWMzNTY2ODQ4NjRiNjZlMjNkYTVkZjQwMmE5NDg2YmMz",
+  "snapshot_id": "MCxiOTg5NmY5NzkwNjU5Nzg2NzdmNmM0ZWFhMTllOTkwNzFlNzUxM2Uw",
   "tracks": [
     {
       "added_at": "2023-10-05 15:56:28",
@@ -242,13 +242,9 @@
         {
           "name": "Mk.gee",
           "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        },
-        {
-          "name": "Two star",
-          "url": "https://open.spotify.com/artist/3QCMLWLjJyGA8cQCPrusdv"
         }
       ],
-      "duration_ms": 174797,
+      "duration_ms": 174824,
       "name": "Candy",
       "url": "https://open.spotify.com/track/15NYGHy9F4vQstNvznsTZw"
     },

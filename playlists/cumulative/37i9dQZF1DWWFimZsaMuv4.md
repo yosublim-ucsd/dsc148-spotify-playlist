@@ -4,7 +4,7 @@
 
 > Cabin sleep noise and airplane sounds to help you drift away.
 
-209 songs - 9 hr 34 min
+212 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Calm Cabin Brown Noise](https://open.spotify.com/track/2XEQccrJMjT9fiEs961oQI) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Calm Cabin Brown Noise](https://open.spotify.com/album/06ZKtT1IeqO59cGiztagQd) | 4:00 | 2023-09-08 |  |
 | [Celestial Chorus \- White Noise](https://open.spotify.com/track/57aWNPjnLAaIPP1QlCC9xZ) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Celestial Chorus \(White Noise\)](https://open.spotify.com/album/4TapNsGUXjZ1keadXQyRsV) | 3:10 | 2023-09-20 |  |
 | [Centralized Mind \- Seamless](https://open.spotify.com/track/6y7lOUFlzpToykPGWKHcVO) | [Ambient Newton](https://open.spotify.com/artist/6TalusfpNttE4ezxrf9VeF) | [Steady Focus](https://open.spotify.com/album/62aGyNSCbuguUesw4tX5D9) | 2:54 | 2023-09-20 |  |
+| [Chill Turbulence](https://open.spotify.com/track/11H4cW8gODqSw40APel5Jb) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Chill Turbulence](https://open.spotify.com/album/6QztPgGT479eEpzLTXITNB) | 5:45 | 2024-02-09 |  |
 | [Clear White Noise Air](https://open.spotify.com/track/2fLR8LQOw1LKLOrXG2RIdC) | [Natures Orchestra](https://open.spotify.com/artist/4lpovYMDiersW7wuJ3P5Ep) | [Clear White Noise Air](https://open.spotify.com/album/4NnrS6G5bhJ75ZfbJxlPjB) | 2:21 | 2023-09-20 |  |
 | [Cloud Nine](https://open.spotify.com/track/73SaqaNVj3xY5VMUgKHXmQ) | [Ventilate](https://open.spotify.com/artist/7vcZrTl9VTexsr8GcJF3wA) | [Cabin Noise For Resting](https://open.spotify.com/album/6l4VdG6fFQiOFybBGREuVY) | 2:58 | 2023-06-29 |  |
 | [Clouds And Skies Of Noise](https://open.spotify.com/track/0UTGHh9VnitJlnetXr7nhF) | [Digilake](https://open.spotify.com/artist/0036ceq10ETP3tGK3AHNcr) | [Smooth White Noise](https://open.spotify.com/album/2u2aAsVpfA82HMXXyw8nfY) | 2:05 | 2023-05-26 |  |
@@ -157,6 +158,7 @@
 | [Sleep Noise](https://open.spotify.com/track/6meS5OtsMtYJFhtstH6UKA) | [Lübecker](https://open.spotify.com/artist/0dnss17AER9aBUwr90XH5o) | [Sleep Noise](https://open.spotify.com/album/57VaK41fgcL4VKISboQOiN) | 2:39 | 2023-05-26 |  |
 | [Sleepy Noise](https://open.spotify.com/track/5rMOLCPE5eIVpfPyUC5Ixk) | [Pink Noise Orchestra](https://open.spotify.com/artist/5ArL02BGaSy7C4lrXl9U0s) | [Pink Noise Lullaby](https://open.spotify.com/album/4x6m8vrXN3PI9JBzSxTNu7) | 2:13 | 2023-06-16 |  |
 | [Sleepy S Curve](https://open.spotify.com/track/1HOQdGI04xCzELCtpTmIEN) | [Fix Torn](https://open.spotify.com/artist/1ocPUhME4QG6jautAL8Opl) | [Sleepy S Curve](https://open.spotify.com/album/467sYTG3Twq7CkIr6EKXCD) | 3:06 | 2023-09-20 | 2024-01-13 |
+| [Snoozing on an Airplane](https://open.spotify.com/track/2Cbomg2lMdi9gtoQgCGqIb) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [Snoozing on an Airplane](https://open.spotify.com/album/21q1ST1Xmn9lOTpVIgTCYh) | 5:28 | 2024-02-09 |  |
 | [Snowy White \- Seamless](https://open.spotify.com/track/2oqjTF0AzdjnEbhuEmwg0c) | [Ambient Eclipse](https://open.spotify.com/artist/5kfu1YGIiPo81N6z7ipvOB) | [Snowy White](https://open.spotify.com/album/7l219ezfavIhBYbU03LsGe) | 2:57 | 2023-09-20 |  |
 | [Soft Noise](https://open.spotify.com/track/4fsfEiFvQfE29jOV2PSCJW) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Baby Bedtime Noise](https://open.spotify.com/album/5LEScikAzc9W54vqrtENDq) | 2:30 | 2023-05-26 |  |
 | [Soft Touch White Noise](https://open.spotify.com/track/071FruItCGpMJPMJmZla5V) | [Dreamstatician](https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR) | [Feather light White](https://open.spotify.com/album/5dVaXiLisIDefkED9wQrPB) | 2:46 | 2023-09-20 |  |
@@ -198,6 +200,7 @@
 | [White Noise Highlands](https://open.spotify.com/track/4tArsdoAkrXY7gK7bVUuuk) | [Xiskko](https://open.spotify.com/artist/4UMyTN1UI04MCa5s5HO2sg) | [White Noise Highlands](https://open.spotify.com/album/6rGgmYgJ6DZnATCgTjI4vn) | 4:02 | 2023-09-20 |  |
 | [White Noise in a Pyramid](https://open.spotify.com/track/0xTGswHUg8weoOVpQtj4TX) | [Freifall](https://open.spotify.com/artist/4XPPLTZjMkxbXSa3lVaUte) | [Relaxing Noise](https://open.spotify.com/album/5EVUrltwOBK9dmWpZFZ6hj) | 3:15 | 2023-05-26 |  |
 | [White Noise in Airplane Cockpit](https://open.spotify.com/track/63kIiBMX8i66LZOcB08a5P) | [White Noise Android](https://open.spotify.com/artist/11AY1VUDrlYvE0skhsjZQd) | [Slow Moving White Noise](https://open.spotify.com/album/6z48ve8tBIyUrj22tKTNzJ) | 4:20 | 2023-09-20 |  |
+| [White Noise in der Schlafkabine](https://open.spotify.com/track/68y1zCZmQNBmgFWneA12eg) | [Freifall](https://open.spotify.com/artist/4XPPLTZjMkxbXSa3lVaUte) | [White Noise in der Schlafkabine](https://open.spotify.com/album/1uoyNoD8wMc2Htv8qJowL7) | 5:29 | 2024-02-09 |  |
 | [White Noise in my Sleep Chamber](https://open.spotify.com/track/1It22e8XSv5MPY4rlknJrF) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [White Noise underneath the blanket](https://open.spotify.com/album/3fIiuWNzuTFTdmGTRIiwH2) | 4:06 | 2023-09-20 |  |
 | [White Noise in the Cabin](https://open.spotify.com/track/2JVO6M02HMNuW4lbWE8ocT) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [White Noise for Resting](https://open.spotify.com/album/536RaT7Jmh5B49XMpLZSAe) | 4:25 | 2023-05-26 |  |
 | [White Noise in the Clouds](https://open.spotify.com/track/6vpRlnhEnBg60fLGDiBgew) | [Digilake](https://open.spotify.com/artist/0036ceq10ETP3tGK3AHNcr) | [White Noise and the Stars](https://open.spotify.com/album/09jx05rk2DFgj3uBax6xsb) | 2:21 | 2023-09-20 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-492 songs - 23 hr 59 min
+493 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,8 +275,9 @@
 | [Matando Cachorro a Grito \- Ao Vivo](https://open.spotify.com/track/5rBrvn6O2iLFGh68Wgo38Y) | [Karol Reis](https://open.spotify.com/artist/0QrcTUZe7ZeNbmS3AGX5Rs) | [Detalhes \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/25I8iYeYoaZZ3rdfRqx4mG) | 2:47 | 2023-12-30 |  |
 | [Me Ajuda Aí Mô](https://open.spotify.com/track/4tD6iNo8P21uUHVMbHquhN) | [Wlad Borges](https://open.spotify.com/artist/0StY0HK5P4b2mYAt5NShkW), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Me Ajuda Aí Mô](https://open.spotify.com/album/6lP14svqo35sDYjzX2aBC0) | 3:03 | 2023-12-30 |  |
 | [Me Deixa Quieto \(Ao Vivo\)](https://open.spotify.com/track/7d97Ajmy6ZHZYhGSjzLnZF) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/64oZoq8E6MTyBZGUnrSb9F) | 2:33 | 2023-12-30 |  |
-| [Me Faz Esquecer Dela](https://open.spotify.com/track/0FbL9YRC00Td0yvVYvk1tw) | [Guilherme Borges](https://open.spotify.com/artist/4D53Ic5ZfpC74aFGK62SHy) | [Me Faz Esquecer Dela](https://open.spotify.com/album/65ZgdJN7PXM0AsvDHBRsj8) | 2:48 | 2024-02-08 |  |
+| [Me Faz Esquecer Dela](https://open.spotify.com/track/0FbL9YRC00Td0yvVYvk1tw) | [Guilherme Borges](https://open.spotify.com/artist/4D53Ic5ZfpC74aFGK62SHy) | [Me Faz Esquecer Dela](https://open.spotify.com/album/65ZgdJN7PXM0AsvDHBRsj8) | 2:48 | 2024-02-08 | 2024-02-10 |
 | [Me Faz Esquecer Dela](https://open.spotify.com/track/0TVRRAvrtEuDTYh9oGpOWc) | [Guilherme Borges](https://open.spotify.com/artist/4D53Ic5ZfpC74aFGK62SHy) | [Me Faz Esquecer Dela](https://open.spotify.com/album/3YSrAlcXNOq6WRoG8YT20m) | 2:48 | 2023-12-30 | 2024-01-27 |
+| [Me Faz Esquecer Dela](https://open.spotify.com/track/6ZXGXFbwZ97fWvXZbj5gWC) | [Guilherme Borges](https://open.spotify.com/artist/4D53Ic5ZfpC74aFGK62SHy) | [Me Faz Esquecer Dela](https://open.spotify.com/album/3QkYjI7ACQAYUrTmzRAOd2) | 2:48 | 2024-02-09 |  |
 | [Me Segurou \- Ao Vivo](https://open.spotify.com/track/5O7lcZWwATyq4s94uaBclA) | [Leo Chaves](https://open.spotify.com/artist/0FYpZOHSyfPpCSsLwydVbL), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Retorno \(Ao Vivo\)](https://open.spotify.com/album/0nuU23HeR7hFATG34c1mH4) | 2:47 | 2023-12-30 |  |
 | [Me Tira do Boteco \- Ao Vivo](https://open.spotify.com/track/7616yseW2cG2Zt5qgBzihG) | [Kleo Dibah](https://open.spotify.com/artist/5xduTT7FbesL8fMuEKIqtB) | [Me Tira do Boteco \(Ao Vivo\)](https://open.spotify.com/album/2dW8z4DHo4hqWG50FOpX9h) | 2:39 | 2023-12-30 |  |
 | [Me Tira do Grupo \- Ao Vivo](https://open.spotify.com/track/2lqrdSl5dovc2BFqcN0FpD) | [Duduca & Dalvan](https://open.spotify.com/artist/3EMOVqtPqnQBmzBFiaZzuS) | [O Regresso, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/5kMYy5OIJkwDkS4pFDX4wi) | 3:10 | 2023-12-30 |  |

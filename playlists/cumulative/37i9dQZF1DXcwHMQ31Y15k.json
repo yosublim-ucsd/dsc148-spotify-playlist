@@ -2041,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Kukuh",
+        "url": "https://open.spotify.com/album/0k8K1HwnMzksAzKq86LSNO"
+      },
+      "artists": [
+        {
+          "name": "Fahri Khusnara",
+          "url": "https://open.spotify.com/artist/4gjln35Zi7gzL8ppaSC3CQ"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205741,
+      "name": "Kukuh",
+      "url": "https://open.spotify.com/track/6xys78WshU3lJfgxcUjhPf"
+    },
+    {
+      "album": {
         "name": "Kurangku Opo",
         "url": "https://open.spotify.com/album/5rCg6XiVS9xmBiUEoYn0Dq"
       },

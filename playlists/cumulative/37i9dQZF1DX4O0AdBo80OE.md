@@ -4,7 +4,7 @@
 
 > Rimas cremosas, tan necesarias como tu café\. Tino el Pingüino en portada.
 
-138 songs - 7 hr 46 min
+139 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [3x4](https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [3x4](https://open.spotify.com/album/1Us6yo0j7GBlAhsWuMnb9e) | 2:47 | 2023-08-18 |  |
 | [6 Am](https://open.spotify.com/track/46PqUxYijgrGgdD2NzNnmU) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [6 Am](https://open.spotify.com/album/7AH7QHBvQvu6JToPdOZLMx) | 2:56 | 2023-05-26 |  |
 | [6 en Mi Rollie](https://open.spotify.com/track/7AurrfdK4RKjueAKkZN2RF) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Milkman](https://open.spotify.com/artist/2gCxvlres3z6ondwnlwZc2), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [6 en Mi Rollie](https://open.spotify.com/album/6wJfXfTluFA3XhFdshg8Cz) | 5:25 | 2023-05-26 |  |
+| [Abloh](https://open.spotify.com/track/6pDSiAjLWYaFDi3Tnsayod) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Abloh](https://open.spotify.com/album/5bGvdkRFdN12BRAch7PtG4) | 2:52 | 2024-02-09 |  |
 | [Ajenos](https://open.spotify.com/track/5sb5zLIDC3FjMyBqGCopf9) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Ajenos / El Día de tu Muerte](https://open.spotify.com/album/7k2cOeyxBoImq2kEmwRYxR) | 3:37 | 2023-05-26 |  |
 | [Antes de Morirme \(feat\. ROSALÍA\)](https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Antes de Morirme \(feat\. ROSALÍA\)](https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5) | 3:19 | 2023-05-26 |  |
 | [Apaga la Luz](https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Naked Geometry](https://open.spotify.com/artist/6cuFN9smGJryZNaZU9QtWl) | [Apaga la Luz](https://open.spotify.com/album/2JZwRGuhbOpwcCF1NRt25s) | 2:49 | 2023-05-26 |  |
@@ -126,7 +127,7 @@
 | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4), [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY) | 3:16 | 2023-05-26 |  |
 | [Sin pistola](https://open.spotify.com/track/008gGt53LBG5eBo7rfganm) | [V.Rod](https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Sin pistola](https://open.spotify.com/album/1HSPfrQ8Cz51hsc1ttXoHy) | 2:33 | 2023-09-22 |  |
 | [Skittlez](https://open.spotify.com/track/0q5a3vmK1O7OrYS5rbrzi3) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Skittlez](https://open.spotify.com/album/1MZL3qC0MwTnwzxTTAR1GG) | 2:22 | 2023-05-26 |  |
-| [Sobrio y Confundido](https://open.spotify.com/track/6OdSlmTms8a39bdpvXmi3O) | [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [IV.\- Buenos Adultos](https://open.spotify.com/album/1qkCpcYwTdl4OWpdZLc1ZN) | 3:56 | 2023-05-26 |  |
+| [Sobrio y Confundido](https://open.spotify.com/track/6OdSlmTms8a39bdpvXmi3O) | [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [IV.\- Buenos Adultos](https://open.spotify.com/album/1qkCpcYwTdl4OWpdZLc1ZN) | 3:56 | 2023-05-26 | 2024-02-10 |
 | [Sol](https://open.spotify.com/track/1Z2rizszFDMFwhAUIVjgnj) | [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK) | [Sol](https://open.spotify.com/album/3THBtFwKBwIdIEw7Nc044G) | 3:43 | 2023-05-26 |  |
 | [Solo Como Amigos](https://open.spotify.com/track/0LC8PbKuTyhCpsrdLtL3jz) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Luces Fantasma](https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj) | 4:33 | 2023-05-26 |  |
 | [SOLO POR VOS](https://open.spotify.com/track/5Ejw3lC6Srj8VK4fHgTZAi) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [SOLO POR VOS](https://open.spotify.com/album/3653dbWREgZU9P2qjfrtmE) | 3:19 | 2023-05-26 |  |

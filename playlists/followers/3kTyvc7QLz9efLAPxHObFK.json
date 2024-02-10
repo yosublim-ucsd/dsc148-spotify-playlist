@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 16,
+  "2024-02-10": 16,
   "date_first_scraped": "2023-10-10",
   "description": "",
   "name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Hard Dance",
@@ -8125,6 +8125,32 @@
       "duration_ms": 209120,
       "name": "Future Downloader v2.0",
       "url": "https://open.spotify.com/track/1lRv3eDgBqsNLBfNXQ58rl"
+    },
+    {
+      "album": {
+        "name": "Game Of Hate",
+        "url": "https://open.spotify.com/album/2sm4kctw7K0HbT1cRpiHYu"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "BOMBSQUAD",
+          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
+        },
+        {
+          "name": "Barber",
+          "url": "https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180571,
+      "name": "Game Of Hate",
+      "url": "https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD"
     },
     {
       "album": {

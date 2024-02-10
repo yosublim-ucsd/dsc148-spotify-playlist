@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 61888,
+  "2024-02-10": 61960,
   "date_first_scraped": "2022-09-22",
   "description": "Amapiano tracks to fuel your beast mode!",
   "name": "Beast Mode Amapiano",
@@ -111,6 +111,36 @@
       "duration_ms": 430714,
       "name": "66",
       "url": "https://open.spotify.com/track/1b4kqxvf4kFuB7ACj9Lvve"
+    },
+    {
+      "album": {
+        "name": "A Collision Of Two Worlds (feat. Dj Lux, Dj Guti BPM)",
+        "url": "https://open.spotify.com/album/5xxVPhhZdchKa9Gs136bvR"
+      },
+      "artists": [
+        {
+          "name": "The Real Prechly",
+          "url": "https://open.spotify.com/artist/096BMEmDcx0OsBSEVll95N"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "DJ Guti BPM",
+          "url": "https://open.spotify.com/artist/1JxQ3BCy5etxDoyksaMuqj"
+        },
+        {
+          "name": "Dj Lux",
+          "url": "https://open.spotify.com/artist/4BaoLYpdO3bcE8UepFJ8v8"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "A Collision Of Two Worlds (feat. Dj Lux, Dj Guti BPM)",
+      "url": "https://open.spotify.com/track/5B7CN5EWwW5mo07wAymrLB"
     },
     {
       "album": {
@@ -555,7 +585,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 374009,
       "name": "Chale",
       "url": "https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K"
@@ -801,6 +831,32 @@
       "duration_ms": 420002,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/5zzr3IUeWD389PF1rMkyg6"
+    },
+    {
+      "album": {
+        "name": "Rebound",
+        "url": "https://open.spotify.com/album/0B6JQgASgpBzZvLcFEBMpN"
+      },
+      "artists": [
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "DEMOLA",
+          "url": "https://open.spotify.com/artist/5cUFIkBWAwJOJZDEiACH6m"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460800,
+      "name": "Forgive Our Trespasses",
+      "url": "https://open.spotify.com/track/58YUdESjlrIcfRrvJuuGYz"
     },
     {
       "album": {
@@ -1775,7 +1831,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 382328,
       "name": "Kancane",
       "url": "https://open.spotify.com/track/0dHswGoIHgWfHSraVv9mnq"
@@ -2600,6 +2656,32 @@
     },
     {
       "album": {
+        "name": "Party Mode",
+        "url": "https://open.spotify.com/album/0B4jdzLxjRL1HEm9qYxn08"
+      },
+      "artists": [
+        {
+          "name": "Ordio O2",
+          "url": "https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok"
+        },
+        {
+          "name": "Kukzer wadi piano_012",
+          "url": "https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh"
+        },
+        {
+          "name": "Ross",
+          "url": "https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361400,
+      "name": "Party Mode",
+      "url": "https://open.spotify.com/track/2Y4WDb59HdxKezH8Ulo5OQ"
+    },
+    {
+      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -3195,7 +3277,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 390033,
       "name": "SUKA",
       "url": "https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD"

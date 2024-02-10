@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-115 songs - 8 hr 10 min
+116 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [さらば](https://open.spotify.com/track/4I710qdCFqAZ7IkPI6Ee8q) | [キンモクセイ](https://open.spotify.com/artist/14UjZg0MdiVjAkbqWNFsIt) | [さらば](https://open.spotify.com/album/718w30FryODQx9pLJGZAtq) | 4:31 | 2022-07-06 | 2022-11-13 |
 | [ふわふわ時間](https://open.spotify.com/track/0IqeCcW8L96JrGURHQbmcI) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム](https://open.spotify.com/album/2sCj12vSaLgszgQqOAOpz7) | 3:56 | 2021-09-14 | 2023-09-30 |
 | [アンインストール](https://open.spotify.com/track/72ghOwtaZ0vggvWspdJiE9) | [Chiaki Ishikawa](https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254) | [「ぼくらの」オープニングテーマ アンインストール](https://open.spotify.com/album/3pDK2zBTymHAafUL9oNbuD) | 4:41 | 2021-09-14 |  |
-| [ウィーアー! for the new world](https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 3:59 | 2021-09-14 |  |
+| [ウィーアー! \- for the new world](https://open.spotify.com/track/3F4d2nGPOSt89ZC1uwgApQ) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ONE PIECE ウィーアー!Song Complete](https://open.spotify.com/album/0Pgm2sbSVm2Q4OlDgXv1ez) | 3:58 | 2024-01-31 |  |
+| [ウィーアー! for the new world](https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 3:59 | 2021-09-14 | 2024-02-10 |
 | [ウンディーネ](https://open.spotify.com/track/41EFjyvs5g7Ga3ii1kE2aa) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [『ARIA The ANIMATION』オープニングテーマ「ウンディーネ」](https://open.spotify.com/album/6wiX5nusCOYJ446P01ExbW) | 5:45 | 2021-09-14 | 2022-07-07 |
 | [ガーネット](https://open.spotify.com/track/7etsVowEGYPw06BrolziZ2) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [ガーネット](https://open.spotify.com/album/14rIFa6gMqFVEF7vw0OhWT) | 5:19 | 2021-09-14 | 2022-07-29 |
 | [グロリアス マインド](https://open.spotify.com/track/2lswHSoclUEk4jGm3k05Oe) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [グロリアス マインド](https://open.spotify.com/album/3vXmyVTOeRbhYxHX7EAwA5) | 4:39 | 2021-09-14 |  |

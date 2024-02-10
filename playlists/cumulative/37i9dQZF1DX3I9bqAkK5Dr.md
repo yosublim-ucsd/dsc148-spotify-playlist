@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : KASYAP
 
-209 songs - 12 hr 49 min
+210 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Indrajaalam](https://open.spotify.com/track/6bBtQflwHLrskjlPciYyoI) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Indrajaalam](https://open.spotify.com/album/2ih6hzcJEBCmeKgXJbIivT) | 4:26 | 2022-10-28 | 2023-05-26 |
 | [Innallu](https://open.spotify.com/track/0GuMZb62U3tZ0SCHkrzL84) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Brinda Ch](https://open.spotify.com/artist/035vaODl6w8VhNWMa6CT7E) | [Innallu](https://open.spotify.com/album/6QsGIqhILxrugCXeoz34Ew) | 4:20 | 2023-10-13 |  |
 | [Innallu](https://open.spotify.com/track/3exJ2FyuDRzTmazw8YCaDK) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Brinda Ch](https://open.spotify.com/artist/035vaODl6w8VhNWMa6CT7E) | [Innallu](https://open.spotify.com/album/0xEZk7IZUdqEP0rWkMW0EP) | 4:20 | 2023-10-13 | 2024-01-08 |
+| [Intermediate](https://open.spotify.com/track/3sIEDEQCVtSdsJSuBrkTwX) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Intermediate](https://open.spotify.com/album/4tZszXN6ekajeIsZltJCon) | 5:40 | 2024-02-09 |  |
 | [Inthena Inthena](https://open.spotify.com/track/4YbQwnwgbTg7eIq10oB9No) | [Maruthi Kodimoju](https://open.spotify.com/artist/6NB8Z3w2Ti8Rwf2DYhS6Ag) | [Inthena Inthena](https://open.spotify.com/album/2p3b6wCV1MNfG6nXSmbbiq) | 3:50 | 2023-03-07 | 2023-06-05 |
 | [Jimpak Chipak](https://open.spotify.com/track/75SwvdhOdYQ9FAVfzBcpsF) | [MC Mike](https://open.spotify.com/artist/3fJeUWROZ8RmlLHDWTtqYo), [MC Uneek](https://open.spotify.com/artist/5V59VPRPHoUasr8KOncBne), [Om Sripathi](https://open.spotify.com/artist/6cHpt2n70Z4fNJdkP7r13T) | [Jimpak Chipak](https://open.spotify.com/album/5Bl77fvZRxNfEkudOcjgaT) | 3:07 | 2022-07-18 | 2024-01-20 |
 | [Kaalam Karigee Vela](https://open.spotify.com/track/0ORgN49uMzjQXQzPDo02kg) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Kaalam Karigee Vela](https://open.spotify.com/album/1TX4kYXmWAmNCxkX6aDyce) | 3:05 | 2023-05-26 | 2024-01-05 |
@@ -190,7 +191,7 @@
 | [Taithom](https://open.spotify.com/track/6VzKw7OxaT1KGiXBfB9f55) | [Kalakaarii](https://open.spotify.com/artist/5SCVG3jsMOTmp9zgku5b3j) | [Taithom](https://open.spotify.com/album/2ItmntZZQfbXND53lnAFtQ) | 3:32 | 2023-03-20 | 2023-07-04 |
 | [Tamil Pilla](https://open.spotify.com/track/5fi1gKgLd5mmg3wW3KVxGm) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS), [Spoorthi Jithender](https://open.spotify.com/artist/5ugSzRux2CJD4YuXJNcxad) | [Tamil Pilla](https://open.spotify.com/album/6EShTPXWuDThVXC88fTT7p) | 3:03 | 2023-06-20 | 2023-11-21 |
 | [Tapana](https://open.spotify.com/track/2MZssNgryrjsC4foP7K4bU) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Tapana](https://open.spotify.com/album/3vREwqsQtKu8N0SMuULlxr) | 2:50 | 2023-10-16 | 2024-01-07 |
-| [Tapana](https://open.spotify.com/track/3kTxWyA0nqDHgwTbVRvp9Q) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Tapana](https://open.spotify.com/album/5Hd9xSaq9KuM0QNAlVX3Ge) | 2:50 | 2023-10-16 |  |
+| [Tapana](https://open.spotify.com/track/3kTxWyA0nqDHgwTbVRvp9Q) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Tapana](https://open.spotify.com/album/5Hd9xSaq9KuM0QNAlVX3Ge) | 2:50 | 2023-10-16 | 2024-02-10 |
 | [Tara](https://open.spotify.com/track/7LvCYOfZMR5APbGNgj7P6p) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [Tara](https://open.spotify.com/album/3cOpLZ4sBU9eke6KyOyUqo) | 2:49 | 2022-07-18 | 2023-05-26 |
 | [Teliyadhe](https://open.spotify.com/track/62lPzNTDBg3dazXOoBm72W) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Lipsika](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Teliyadhe](https://open.spotify.com/album/5EpiiTu3WevKoIxq3brNyt) | 4:01 | 2024-01-18 |  |
 | [Telugu Bhasha](https://open.spotify.com/track/3spnmQIfqbs7WApfP1l5uh) | [MaaHaa](https://open.spotify.com/artist/2nON7IMoqVBIWONZabqWBC) | [Telugu Bhasha](https://open.spotify.com/album/70P4Be7U3B8ANL5tYjdHjg) | 3:02 | 2024-02-02 |  |

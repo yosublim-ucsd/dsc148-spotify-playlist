@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 240734,
+  "2024-02-10": 241030,
   "date_first_scraped": "2023-04-15",
   "description": "Tulum szn",
   "name": "Umami",
@@ -4298,6 +4298,24 @@
     },
     {
       "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/5Y3v4D1a7h3Oin6fQvqJ4g"
+      },
+      "artists": [
+        {
+          "name": "Choices",
+          "url": "https://open.spotify.com/artist/4b8VMgANTqO8rYghVccOSI"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314754,
+      "name": "Less Is More",
+      "url": "https://open.spotify.com/track/7MWJzAWFWT1ZSvf3D2dQrG"
+    },
+    {
+      "album": {
         "name": "Let Me In",
         "url": "https://open.spotify.com/album/4YBKXkacrGMFdRzUpfMXMG"
       },
@@ -7414,6 +7432,32 @@
     },
     {
       "album": {
+        "name": "That Sound (feat. Dope Earth Alien)",
+        "url": "https://open.spotify.com/album/0DcVggpeCNz0CpQnK4vJgj"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        },
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Dope Earth Alien",
+          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166472,
+      "name": "That Sound (feat. Dope Earth Alien)",
+      "url": "https://open.spotify.com/track/2B3NVNUU84aAIq9lAlGIZn"
+    },
+    {
+      "album": {
         "name": "The Boy Is Mine",
         "url": "https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc"
       },
@@ -7719,6 +7763,32 @@
       "duration_ms": 333387,
       "name": "Time Out",
       "url": "https://open.spotify.com/track/1yuoHl96AI4P4Qw5x5Zjol"
+    },
+    {
+      "album": {
+        "name": "To The Beat",
+        "url": "https://open.spotify.com/album/66mAWexL2lQqCsb2G3YqM4"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Dances",
+          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
+        },
+        {
+          "name": "Devin Duran Bolton",
+          "url": "https://open.spotify.com/artist/6RFNuhnIGN20Gz5G1iOOFV"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236987,
+      "name": "To The Beat",
+      "url": "https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Nikita, the Wicked\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,185 likes - 85 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,211 likes - 85 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 84 | [Mountain Snow](https://open.spotify.com/track/3NZEfp0Mc9G57oBInLYIpV) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Mountain Snow](https://open.spotify.com/album/2QCc4wTc9nmYryvDXF43k0) | 2:59 |
 | 85 | [Look The Other Way](https://open.spotify.com/track/5x9tTch2LsMNPReORReT7I) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Look The Other Way](https://open.spotify.com/album/3gqQjbbgkdbKUeBYtXeHdI) | 3:33 |
 
-Snapshot ID: `MCxkYWJlZDE1NDZjOTc4MjM0ZGJmNThkOGU2MzBhMGU4YzI2YjMxYjg4`
+Snapshot ID: `MCxjYjgxZmU1NTg4NDA3MDliNjRiMDU3NjIzMmE0NjQwNzY1Mzk4MGU1`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Subindo e Descendo e os funks mais \ud83d\udd11 do Brasil. Foto: DJ Jeeh FDC",
+  "description": "Baby Eu Tava Na Rua da Agua e os funks mais \ud83d\udd11 do Brasil. Foto: TR, Menor RV, Tropa da W&S",
   "name": "Funk Hits",
   "tracks": [
     {
@@ -210,6 +210,32 @@
       "duration_ms": 133944,
       "name": "AK47 \u00c9 o Porte do Homem",
       "url": "https://open.spotify.com/track/5HdghQzJVbvkZuMyvj2k34"
+    },
+    {
+      "album": {
+        "name": "Set Final de Ano",
+        "url": "https://open.spotify.com/album/3pBhYZe8hfAyYTAgA0FjNC"
+      },
+      "artists": [
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        },
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210168,
+      "name": "Amor \u00c9 Mentira",
+      "url": "https://open.spotify.com/track/3syxcxgRLd25yPYfG8qsot"
     },
     {
       "album": {
@@ -1330,7 +1356,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 160000,
       "name": "De Lala - Spotify Singles",
       "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"

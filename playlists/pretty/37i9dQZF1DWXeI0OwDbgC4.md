@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,986 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,024 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 32 | [Lead Me Down](https://open.spotify.com/track/2HyOtUp1vp7Fe4B9mHSMu5) | [Orphan No More Co](https://open.spotify.com/artist/7EYuj3Lwk6FkWeeIbXs87F) | [Lead Me Down](https://open.spotify.com/album/2oMI52ksV9OmXmoTeCfp7F) | 5:28 |
 | 33 | [Pull My Heart Away](https://open.spotify.com/track/4vFZjVQKlYM7vOPfvAc4dn) | [Samuel Sweat](https://open.spotify.com/artist/7aOUerIr7SYARgetssONKz), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Pull My Heart Away](https://open.spotify.com/album/1OxM5G8WOARS4BKwh9Hiuv) | 2:30 |
 | 34 | [Heaven Come Down](https://open.spotify.com/track/1CwHBCIGMO7KgPzT0zE6LT) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Heaven Come Down](https://open.spotify.com/album/0RwtZrhaetPKrGFGIm75sl) | 3:51 |
-| 35 | [BEST SHE'S EVER SEEN](https://open.spotify.com/track/699L9uIlm2O2MKJbF88jBB) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2), [Jude Barclay](https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW) | [BEST SHE'S EVER SEEN](https://open.spotify.com/album/1TCORtUkYIGDV6HTeP3DSJ) | 3:15 |
-| 36 | [drifting](https://open.spotify.com/track/0Woa87rWzBuT7fR08Mbu1d) | [Chaitha](https://open.spotify.com/artist/4A2xXq0rdC0FX2g9tBCePf) | [drifting](https://open.spotify.com/album/5FRTmrrhi3e9R9hByHDjL5) | 2:06 |
+| 35 | [drifting](https://open.spotify.com/track/0Woa87rWzBuT7fR08Mbu1d) | [Chaitha](https://open.spotify.com/artist/4A2xXq0rdC0FX2g9tBCePf) | [drifting](https://open.spotify.com/album/5FRTmrrhi3e9R9hByHDjL5) | 2:06 |
+| 36 | [BEST SHE'S EVER SEEN](https://open.spotify.com/track/699L9uIlm2O2MKJbF88jBB) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2), [Jude Barclay](https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW) | [BEST SHE'S EVER SEEN](https://open.spotify.com/album/1TCORtUkYIGDV6HTeP3DSJ) | 3:15 |
 | 37 | [FOREVER](https://open.spotify.com/track/6rAswyUJ2ckYCLDG1oPg1u) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [FOREVER](https://open.spotify.com/album/3VQ1BFX9dqOsr2zbiS0TQ3) | 2:36 |
 | 38 | [No Business](https://open.spotify.com/track/7bmDnmD3RiILoffwBo10mV) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Hymns & Soul](https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB) | 5:32 |
 | 39 | [Song of a Broken Heart](https://open.spotify.com/track/0zRjxy9NIytQwIP4jHZxEx) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer \(Deluxe\)](https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4) | 4:01 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 52 | [Everything About You \(feat\. Marlee\)](https://open.spotify.com/track/6WEJfyD3saydrkwaGEAYI5) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Marlee](https://open.spotify.com/artist/4NrOT7BZU0GjwOyw2P0Vmb) | [Everything About You](https://open.spotify.com/album/0cyH1iWX95Bpsp01sFGInX) | 3:27 |
 | 53 | [Brokenhearted \(with Marvin L\. Winans\) \- Live](https://open.spotify.com/track/37ao4T8DSd6DvIbgIlMps3) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Marvin L\. Winans](https://open.spotify.com/artist/3hjybWRzcos3v8ooD8hETy) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 6:01 |
 | 54 | [Hey You \(feat\. Jonathan McReynolds\)](https://open.spotify.com/track/5Hi8tZPoSgvt3NkZLbTIk3) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [DOE \- EP](https://open.spotify.com/album/2Qsk6hOtjEoBPURQWEppLo) | 3:35 |
-| 55 | [Maybe Tables Turn \(demo\)](https://open.spotify.com/track/1xOLUgp4pb9SsH5kPiTHfS) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Maybe Tables Turn \(demo\)](https://open.spotify.com/album/3elMZvgMAgsJEj2oUXC56M) | 2:37 |
-| 56 | [Broken](https://open.spotify.com/track/2EfEa3TJlpPUX9pY95KQxI) | [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Broken](https://open.spotify.com/album/3BIidQamOV0tESTXQJaHFa) | 3:35 |
-| 57 | [You'll Find Love Again](https://open.spotify.com/track/4dixlUlijVSoo1r3yG6kkX) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Faith Hope Love Repeat](https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb) | 4:21 |
+| 55 | [You'll Find Love Again](https://open.spotify.com/track/4dixlUlijVSoo1r3yG6kkX) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Faith Hope Love Repeat](https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb) | 4:21 |
+| 56 | [Maybe Tables Turn \(demo\)](https://open.spotify.com/track/1xOLUgp4pb9SsH5kPiTHfS) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Maybe Tables Turn \(demo\)](https://open.spotify.com/album/3elMZvgMAgsJEj2oUXC56M) | 2:37 |
+| 57 | [Broken](https://open.spotify.com/track/2EfEa3TJlpPUX9pY95KQxI) | [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Broken](https://open.spotify.com/album/3BIidQamOV0tESTXQJaHFa) | 3:35 |
 | 58 | [Coffee & Cherries](https://open.spotify.com/track/7gucyUOtnBppG9Kdx452ya) | [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Coffee & Cherries](https://open.spotify.com/album/4kPbI0DiBzMrGeFJMrlPAu) | 2:21 |
 | 59 | [Be Nice](https://open.spotify.com/track/5Dky4RsXGTWbNhaJ3Povd4) | [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Be Nice](https://open.spotify.com/album/0LmA15MGeELnk6x4MTc353) | 2:55 |
 | 60 | [Pa Ti](https://open.spotify.com/track/0AOJ5APhQCmpXetxUgQn3v) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Pa Ti](https://open.spotify.com/album/6xKgiaM1HJjmrBCWHsIsiw) | 2:37 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 95 | [Losing Myself](https://open.spotify.com/track/565aoiJPttwDBsJPrjxAEl) | [Nicole Serrano](https://open.spotify.com/artist/1Q3Bf69OLRJEZBigSjtUs5), [Beza](https://open.spotify.com/artist/5SXjY4eH0DyQC8OCFyl4TH) | [Losing Myself](https://open.spotify.com/album/5z6DQNfq8kAIrDK6KJJrxw) | 2:54 |
 | 96 | [DON'T HAVE TO LISTEN](https://open.spotify.com/track/0DHaymgPUqiFr4NqcR8a5C) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [DON'T HAVE TO LISTEN](https://open.spotify.com/album/1XUgd89ly1qKKVZDsEtetc) | 2:20 |
 | 97 | [Ghosts](https://open.spotify.com/track/0MA3ooeTuRjMxF0IHgPeT4) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Ghosts](https://open.spotify.com/album/7eoAw7Mk6wpc7RZG3WdJqW) | 3:12 |
-| 98 | [Don't](https://open.spotify.com/track/7HlywI6BHiSqaGW6s9AMc2) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Don't](https://open.spotify.com/album/2JXdXksGomTPabnSuQyZ8f) | 2:15 |
-| 99 | [If You Leave](https://open.spotify.com/track/0Cgc9eDY9ce3KBdAQMBEbt) | [Tmmrw](https://open.spotify.com/artist/4yrVT3iI0uEPzTvGBKEiRf) | [If You Leave](https://open.spotify.com/album/0RXbSAZS4mE0hJpEjwrji0) | 3:00 |
-| 100 | [HOLD ON 2.0](https://open.spotify.com/track/2OiV9yy6TuGrEDCkWeXFCD) | [AJ Crips](https://open.spotify.com/artist/1Inb5PAkUOS1lxSr8WoQ34) | [HOLD ON 2.0](https://open.spotify.com/album/2WcjKD1KdlcM4BXmGhk2YH) | 3:04 |
+| 98 | [HOLD ON 2.0](https://open.spotify.com/track/2OiV9yy6TuGrEDCkWeXFCD) | [AJ Crips](https://open.spotify.com/artist/1Inb5PAkUOS1lxSr8WoQ34) | [HOLD ON 2.0](https://open.spotify.com/album/2WcjKD1KdlcM4BXmGhk2YH) | 3:04 |
+| 99 | [Don't](https://open.spotify.com/track/7HlywI6BHiSqaGW6s9AMc2) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Don't](https://open.spotify.com/album/2JXdXksGomTPabnSuQyZ8f) | 2:15 |
+| 100 | [If You Leave](https://open.spotify.com/track/0Cgc9eDY9ce3KBdAQMBEbt) | [Tmmrw](https://open.spotify.com/artist/4yrVT3iI0uEPzTvGBKEiRf) | [If You Leave](https://open.spotify.com/album/0RXbSAZS4mE0hJpEjwrji0) | 3:00 |
 
-Snapshot ID: `MCwxYjg3YzlkNGQ3MjdlMzcwY2FlMTc2ZTgzZmQ1MzBhMzdhYmFlOWVj`
+Snapshot ID: `MCxhNjA3MDk3YzdmODZkOTljNGM0MzI2ZGVkMDQ1ZmU4ZDljZTBiNjM4`

@@ -169,6 +169,28 @@
     },
     {
       "album": {
+        "name": "Achede",
+        "url": "https://open.spotify.com/album/0bOGQgQLTjG8ZhCN6k1k0T"
+      },
+      "artists": [
+        {
+          "name": "Zalzuki",
+          "url": "https://open.spotify.com/artist/3pgbbDVJmM1wvztXv7vvXO"
+        },
+        {
+          "name": "Casta Canala",
+          "url": "https://open.spotify.com/artist/6UxZ2l1H2x0yIiICQMxRTJ"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187734,
+      "name": "Achede",
+      "url": "https://open.spotify.com/track/6RcgB96o0ZPDbTZO5NC0w0"
+    },
+    {
+      "album": {
         "name": "Adamantcore",
         "url": "https://open.spotify.com/album/7p0Vw2CNMlGNhAjGbRgxGs"
       },
@@ -816,7 +838,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 171600,
       "name": "CAMO",
       "url": "https://open.spotify.com/track/2WKIsIF0j0T7Du6IRsRNUQ"
@@ -842,6 +864,32 @@
       "duration_ms": 178000,
       "name": "CAPRICORNIO",
       "url": "https://open.spotify.com/track/5MmVblaDHYwGLcYZRtaL7u"
+    },
+    {
+      "album": {
+        "name": "Arista",
+        "url": "https://open.spotify.com/album/3x0w1MTjXfsbHVGxWl6kbz"
+      },
+      "artists": [
+        {
+          "name": "Cross MX",
+          "url": "https://open.spotify.com/artist/7g54DTnLOS70qX8oOrUnBN"
+        },
+        {
+          "name": "Black Paste",
+          "url": "https://open.spotify.com/artist/0040M1zAPFzb4k0Dpvj1hM"
+        },
+        {
+          "name": "Bauttista",
+          "url": "https://open.spotify.com/artist/2MthkhunALie6f0Rya21tU"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135485,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/2W8TYbg3uXMVK2Qkgu6ztb"
     },
     {
       "album": {
@@ -930,6 +978,24 @@
       "duration_ms": 164494,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/1tzTYPfNNu2QEwYqRISmGi"
+    },
+    {
+      "album": {
+        "name": "Chore V2",
+        "url": "https://open.spotify.com/album/4pGDo9Gy1rSscBDPRzMd0B"
+      },
+      "artists": [
+        {
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301153,
+      "name": "Chore V2",
+      "url": "https://open.spotify.com/track/7iFVNR1fdm0z8wvxSEvmvl"
     },
     {
       "album": {
@@ -1508,7 +1574,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 244173,
       "name": "El Game",
       "url": "https://open.spotify.com/track/0khXMG0tPG9ffi1Zxowrp6"
@@ -1736,6 +1802,32 @@
       "duration_ms": 217673,
       "name": "Fairfax",
       "url": "https://open.spotify.com/track/64iPb2usmtnqDPN1pkupKL"
+    },
+    {
+      "album": {
+        "name": "Fashion Luv",
+        "url": "https://open.spotify.com/album/02n7xATM34AtXmD43Rq9z6"
+      },
+      "artists": [
+        {
+          "name": "OPYI",
+          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
+        },
+        {
+          "name": "Kidd Manny",
+          "url": "https://open.spotify.com/artist/6ckHURH4vaNUiIsoFanfX8"
+        },
+        {
+          "name": "Lee Karti\u00e9r",
+          "url": "https://open.spotify.com/artist/6ulmJpFaIN3hwRf925AnXi"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201650,
+      "name": "Fashion Luv",
+      "url": "https://open.spotify.com/track/1bYGyj9s8QPkWXDyFb8Wrt"
     },
     {
       "album": {
@@ -2200,7 +2292,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 180000,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/2SZRk2iVpjkMOW004rsqKy"
@@ -2230,6 +2322,28 @@
       "duration_ms": 162761,
       "name": "Henny",
       "url": "https://open.spotify.com/track/2CWBpeJP9ciafE7pNJlYnj"
+    },
+    {
+      "album": {
+        "name": "Honda Civik",
+        "url": "https://open.spotify.com/album/5d0Neo5ZvifgFdTxUArV6t"
+      },
+      "artists": [
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Alak",
+          "url": "https://open.spotify.com/artist/0lnmuoifLjmlIHwd7H5AS1"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208714,
+      "name": "Honda Civik",
+      "url": "https://open.spotify.com/track/44Q3DZanQtcznTidObbxho"
     },
     {
       "album": {
@@ -3518,7 +3632,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 220540,
       "name": "Otro A\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/1Q8HXylcZFujuLtUlxJ2c3"
@@ -4044,7 +4158,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 118980,
       "name": "Respaldo y Apoyo",
       "url": "https://open.spotify.com/track/1q5EjO5bleDZ40TFUp4d1p"
@@ -4406,7 +4520,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 182497,
       "name": "Tesla",
       "url": "https://open.spotify.com/track/3S4zdBo7Vf8RHsYCgfMceY"
@@ -4922,6 +5036,24 @@
       "duration_ms": 271544,
       "name": "Yeyo",
       "url": "https://open.spotify.com/track/1rWzqNBSJyOp4xlTatI3he"
+    },
+    {
+      "album": {
+        "name": "YiYi",
+        "url": "https://open.spotify.com/album/5n6w3xnVx3fWSttlQMr6Jw"
+      },
+      "artists": [
+        {
+          "name": "Pinky06",
+          "url": "https://open.spotify.com/artist/3IaOQV2tg0ZxEbN6UyYF1E"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91349,
+      "name": "YiYi",
+      "url": "https://open.spotify.com/track/62xbqfC5XtS5zzabQQ3vEW"
     },
     {
       "album": {

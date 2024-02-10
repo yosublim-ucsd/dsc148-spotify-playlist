@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 23107,
+  "2024-02-10": 23110,
   "date_first_scraped": "2023-05-19",
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
   "name": "Kannada Indie",
@@ -51,6 +51,24 @@
       "duration_ms": 331149,
       "name": "Aa Gagana Surya (feat. Pancham Jeeva, Kinnal Raj)",
       "url": "https://open.spotify.com/track/3fNRmb3gOCVxCiPuIs3HYl"
+    },
+    {
+      "album": {
+        "name": "Aagodella Olledakke",
+        "url": "https://open.spotify.com/album/3YA8kASOPKdeuhGpu729tb"
+      },
+      "artists": [
+        {
+          "name": "All Ok",
+          "url": "https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220593,
+      "name": "Aagodella Olledakke",
+      "url": "https://open.spotify.com/track/5txyQo6mRKlNBkrfoBUI1x"
     },
     {
       "album": {
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 185309,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/09ECyJMbdmo1i1Lq7yxArW"
@@ -4474,6 +4492,24 @@
     },
     {
       "album": {
+        "name": "ONTI NANU",
+        "url": "https://open.spotify.com/album/2iHf6Om8Dd3tBr0u9McvYf"
+      },
+      "artists": [
+        {
+          "name": "Vishwas Javali",
+          "url": "https://open.spotify.com/artist/7GvOdsn4GlpJVT993RveVN"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270057,
+      "name": "ONTI NANU",
+      "url": "https://open.spotify.com/track/72UHsh4I0azUmgg6UQE2M7"
+    },
+    {
+      "album": {
         "name": "Pakshi",
         "url": "https://open.spotify.com/album/6jvpwdvIC7KR6MbD5vEFHl"
       },
@@ -5617,7 +5653,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 211596,
       "name": "Yako Summane",
       "url": "https://open.spotify.com/track/4x7hQ6ipLFDJvP1INn9JUx"

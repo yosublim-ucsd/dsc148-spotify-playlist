@@ -1,13 +1,29 @@
 {
   "description": "Jazzy blips and blops. Cover: berlioz",
-  "num_followers": 565282,
+  "num_followers": 565302,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjAxNDQ5ZWNhNjVlMGJkZTRlMjY1ZWU3ZmM5MzY0ZDMzNTFhNDE2",
+  "snapshot_id": "MCxkYThiYWJlN2JmZGI5M2NkOTViMjE4YTEwNDhmMzVjOGNiM2FiMjg0",
   "tracks": [
+    {
+      "added_at": "2024-02-09 05:01:00",
+      "album": {
+        "name": "Dreaded Truth",
+        "url": "https://open.spotify.com/album/6fMb8MTAJz13YRzwgc39h5"
+      },
+      "artists": [
+        {
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+        }
+      ],
+      "duration_ms": 229613,
+      "name": "Dreaded Truth",
+      "url": "https://open.spotify.com/track/4IhCYRCAwGSc2l5q0fXiZo"
+    },
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
@@ -107,22 +123,6 @@
       "duration_ms": 172000,
       "name": "DRILLTRONICA",
       "url": "https://open.spotify.com/track/1WdBJ4uehsp1O7GfdZiHq7"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/5luYEHn75FMUQUMUzqZnd5"
-      },
-      "artists": [
-        {
-          "name": "FKAjazz",
-          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
-        }
-      ],
-      "duration_ms": 179680,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/5XtMBGpr7LFDaNAgaLjYJZ"
     },
     {
       "added_at": "2023-12-15 05:01:00",

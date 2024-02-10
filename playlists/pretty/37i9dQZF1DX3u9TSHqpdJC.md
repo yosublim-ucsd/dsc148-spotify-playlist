@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover: Grace Power\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,403 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,440 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 69 | [CRUSH](https://open.spotify.com/track/5gPKKLIHcsJ4sxzfgiBlGr) | [FOX GUNN](https://open.spotify.com/artist/4KSfI4UH3ZAxhyUTKRYigx) | [CRUSH](https://open.spotify.com/album/2pl8iPa1JRSEoSgNXKqvxH) | 2:31 |
 | 70 | [Different](https://open.spotify.com/track/1KfXuX55mKi7dJmNhDlaW3) | [Landan Ash](https://open.spotify.com/artist/6qhb8OD7uR2pIteZ1FfroC) | [Different](https://open.spotify.com/album/7Jm1oRYt9j8kD7tMdDB19a) | 4:05 |
 
-Snapshot ID: `MCw5ZjNkNTNjODIyNDEyYmE5YTBkNTJlNWQ1ZTViZmJjMzNhOGNiMDFj`
+Snapshot ID: `MCxjYzQwYTcyZjU4ZjZkOTU5MzJhNWEzNzA1ZDA0MGZhNjNhMDczMDlk`

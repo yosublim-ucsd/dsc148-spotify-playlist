@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Human vs Machine",
+        "url": "https://open.spotify.com/album/1YjIR9gq3Q6PYnHq1kuKMf"
+      },
+      "artists": [
+        {
+          "name": "Nili Hadida",
+          "url": "https://open.spotify.com/artist/6WEbJueFZyzOeg2O6oNPE9"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184289,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/0eud4SBuWHvNdu7FEddykC"
+    },
+    {
+      "album": {
         "name": "I'm A Mess",
         "url": "https://open.spotify.com/album/71OvVTA988kQ9R2xTfhC7M"
       },

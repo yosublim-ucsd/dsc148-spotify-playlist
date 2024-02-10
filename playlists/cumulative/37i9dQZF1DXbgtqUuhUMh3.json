@@ -3731,6 +3731,24 @@
     },
     {
       "album": {
+        "name": "Ghali",
+        "url": "https://open.spotify.com/album/1vomYDGHrsyZt7VCkyS5q0"
+      },
+      "artists": [
+        {
+          "name": "Farah Chreim",
+          "url": "https://open.spotify.com/artist/76hwkSg4dVAp3IYhM5VqWc"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210370,
+      "name": "Ghali",
+      "url": "https://open.spotify.com/track/1jLaGv5rvcwRgFkbD5Foph"
+    },
+    {
+      "album": {
         "name": "Ghalta",
         "url": "https://open.spotify.com/album/0RD988uyh03VVuMCJD1b22"
       },
@@ -8146,6 +8164,24 @@
       "duration_ms": 198987,
       "name": "Tegy Nenbeset",
       "url": "https://open.spotify.com/track/2olgmxnrsz48q2lodyL9YI"
+    },
+    {
+      "album": {
+        "name": "Tekfa La Tezaal",
+        "url": "https://open.spotify.com/album/1pqCeLwE1qJMFaM06F5umO"
+      },
+      "artists": [
+        {
+          "name": "Aseel Hameem",
+          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250909,
+      "name": "Tekfa La Tezaal",
+      "url": "https://open.spotify.com/track/1PQUoFUEup1srdXYs589eX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Shaboozey
 
-431 songs - 21 hr 35 min
+432 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Nervous](https://open.spotify.com/track/3AMUgKRaujIuutpMw4K7Zn) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Nervous](https://open.spotify.com/album/460txPWcdGTABVidLLDuiW) | 2:55 | 2022-03-11 |  |
 | [Never Been in Love](https://open.spotify.com/track/3gq98hzXfMGQ5VFIGJ1DoB) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Never Been in Love](https://open.spotify.com/album/6cps0yIKzYYVyHTW0TsEvN) | 2:59 | 2022-07-22 | 2023-01-04 |
 | [Never Been in Love](https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Never Been in Love](https://open.spotify.com/album/25xDXodLiZRjEve55T9A8G) | 2:59 | 2021-12-10 | 2022-07-29 |
+| [Never Needed Much](https://open.spotify.com/track/2JNmPKPJw6tkWMugkVKkvn) | [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Never Needed Much](https://open.spotify.com/album/3uCAFMyONkTNG50OOzexne) | 2:14 | 2024-02-09 |  |
 | [New Town](https://open.spotify.com/track/6tlbFPMLwzwU082LxKpqxq) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [New Town](https://open.spotify.com/album/5E0LXGmyDlFqUkLFzLdxdH) | 3:12 | 2021-12-10 | 2022-02-26 |
 | [Next Town Over](https://open.spotify.com/track/2gpdZEqYzZmm4GRfY5GxQo) | [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt) | [Next Town Over](https://open.spotify.com/album/1MmsRlknDmG5seUMloCKJO) | 2:44 | 2023-11-10 |  |
 | [Night Like This](https://open.spotify.com/track/1Gge0cWZacGVTKaLu2EGOr) | [Robby Johnson](https://open.spotify.com/artist/1yKm1X4CnWuMKpiFXlDNgs) | [Night Like This](https://open.spotify.com/album/0jcLMA9wRISVImCPbV46Pk) | 3:58 | 2021-12-10 | 2022-01-01 |

@@ -1,13 +1,37 @@
 {
   "description": "glaivepilled",
-  "num_followers": 431576,
+  "num_followers": 431604,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGRlYWY5NTZhMjdiMDIwYjNlOWFhYmExYzRhMTQwYjhhOWRkNDVk",
+  "snapshot_id": "MCxlNDEyZmIxNjYwNjQ5MDJlODEzM2NmNTFmOGJhY2RjZTY4NGVhZjFk",
   "tracks": [
+    {
+      "added_at": "2024-02-09 15:58:51",
+      "album": {
+        "name": "4eva",
+        "url": "https://open.spotify.com/album/1qH35yuPAM1IfRJBsKyCo8"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Kingdom",
+          "url": "https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj"
+        }
+      ],
+      "duration_ms": 140933,
+      "name": "4eva",
+      "url": "https://open.spotify.com/track/36cJT1XQw11vx8QIAHsj2Z"
+    },
     {
       "added_at": "2024-01-26 15:53:41",
       "album": {
@@ -23,46 +47,6 @@
       "duration_ms": 107084,
       "name": "huh",
       "url": "https://open.spotify.com/track/0uLIQiuVCXBoe2w8n4Thyz"
-    },
-    {
-      "added_at": "2024-01-26 15:53:41",
-      "album": {
-        "name": "One Mile at a Time",
-        "url": "https://open.spotify.com/album/1yvnbSEQSquw1JkGfRoSTI"
-      },
-      "artists": [
-        {
-          "name": "AViT",
-          "url": "https://open.spotify.com/artist/4DLZI7QaVg7mKz0qyDi6Jp"
-        },
-        {
-          "name": "Sergina",
-          "url": "https://open.spotify.com/artist/1mtwR4TyjROOCPYduXKpe5"
-        }
-      ],
-      "duration_ms": 172174,
-      "name": "One Mile at a Time",
-      "url": "https://open.spotify.com/track/0RERxLbgUk0GzpdQOLNduB"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "tell me",
-        "url": "https://open.spotify.com/album/0JScyUkeeX2YaQXUQT9e09"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 163532,
-      "name": "tell me",
-      "url": "https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J"
     },
     {
       "added_at": "2024-01-22 16:15:30",
@@ -111,6 +95,26 @@
       "duration_ms": 199906,
       "name": "Rave Angel",
       "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
+    },
+    {
+      "added_at": "2024-01-26 15:53:41",
+      "album": {
+        "name": "One Mile at a Time",
+        "url": "https://open.spotify.com/album/1yvnbSEQSquw1JkGfRoSTI"
+      },
+      "artists": [
+        {
+          "name": "AViT",
+          "url": "https://open.spotify.com/artist/4DLZI7QaVg7mKz0qyDi6Jp"
+        },
+        {
+          "name": "Sergina",
+          "url": "https://open.spotify.com/artist/1mtwR4TyjROOCPYduXKpe5"
+        }
+      ],
+      "duration_ms": 172174,
+      "name": "One Mile at a Time",
+      "url": "https://open.spotify.com/track/0RERxLbgUk0GzpdQOLNduB"
     },
     {
       "added_at": "2024-01-26 15:53:41",
@@ -225,6 +229,26 @@
       "url": "https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf"
     },
     {
+      "added_at": "2024-01-22 16:15:30",
+      "album": {
+        "name": "tell me",
+        "url": "https://open.spotify.com/album/0JScyUkeeX2YaQXUQT9e09"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 163532,
+      "name": "tell me",
+      "url": "https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J"
+    },
+    {
       "added_at": "2024-01-26 15:53:41",
       "album": {
         "name": "Pas tr\u00e8s perspicace",
@@ -259,6 +283,22 @@
       "duration_ms": 242671,
       "name": "F\u00fchrerschein",
       "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
+    },
+    {
+      "added_at": "2024-02-09 15:58:51",
+      "album": {
+        "name": "DOA",
+        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 143319,
+      "name": "dancinwithsomebawdy",
+      "url": "https://open.spotify.com/track/5v7oj9PosKdE39x9uwDs6C"
     },
     {
       "added_at": "2024-01-26 15:53:41",
@@ -827,22 +867,6 @@
     {
       "added_at": "2024-01-22 16:15:30",
       "album": {
-        "name": "Silver Thread Golden Needle",
-        "url": "https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 596775,
-      "name": "Silver Thread Golden Needle",
-      "url": "https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
         "name": "THE RUNAROUND",
         "url": "https://open.spotify.com/album/3p7WqXW7b0edoEZkgHU0gL"
       },
@@ -871,6 +895,22 @@
       "duration_ms": 164514,
       "name": "Dang",
       "url": "https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8"
+    },
+    {
+      "added_at": "2024-01-22 16:15:30",
+      "album": {
+        "name": "Silver Thread Golden Needle",
+        "url": "https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 596775,
+      "name": "Silver Thread Golden Needle",
+      "url": "https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM"
     },
     {
       "added_at": "2024-01-22 16:15:30",

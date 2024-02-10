@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.
 
-186 songs - 10 hr 4 min
+187 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [L\-Gante \- El Apache Ness \- Perro Primo](https://open.spotify.com/track/7xPuaedCi3GLu5TmtuUkt9) | [El Apache Ness](https://open.spotify.com/artist/5lPewWWLzFoRj13tTLgeF8), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [L\-Gante \- El Apache Ness \- Perro Primo](https://open.spotify.com/album/0GnWjEYxMShvTyDeBynKBs) | 3:23 | 2023-05-26 | 2023-10-27 |
 | [La Bomba](https://open.spotify.com/track/0VK2WShGGSlD8wCD9DSxup) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [Puro Movimiento](https://open.spotify.com/album/6D53J2Fx7FANdtNngTsWCi) | 4:53 | 2023-05-26 |  |
 | [La colorada](https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:13 | 2023-05-26 |  |
-| [LA COLORADA](https://open.spotify.com/track/7MGOmc1KMZvV0o8iuT8CgE) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [LA COLORADA](https://open.spotify.com/album/6AcR4JanfYZfbneCfpNYG9) | 3:13 | 2024-02-02 |  |
+| [LA COLORADA](https://open.spotify.com/track/7MGOmc1KMZvV0o8iuT8CgE) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [LA COLORADA](https://open.spotify.com/album/6AcR4JanfYZfbneCfpNYG9) | 3:13 | 2024-02-02 | 2024-02-10 |
 | [La Cumbia De Los Trapos](https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 4:11 | 2023-05-26 |  |
 | [La Gata](https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [La Gata](https://open.spotify.com/album/0tuQi5VdcLsAVjhAsg7uxa) | 3:10 | 2023-05-26 |  |
 | [La Gilera \- Remix](https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [La Gilera \(Remix\)](https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3) | 2:27 | 2023-06-23 |  |
@@ -168,6 +168,7 @@
 | [Tamo Chelo \- Remix](https://open.spotify.com/track/0utOOrcBB24KZil9cgAwXB) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [DINERO EN EL BEAT](https://open.spotify.com/artist/6z6d7XTjd4u2sXVJTVwzE0) | [Tamo Chelo \(Remix\)](https://open.spotify.com/album/7mFkiXqQqnWYveSQeA9GXE) | 5:38 | 2023-05-26 |  |
 | [TEKA \| E6](https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [TEKA \| E6](https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay) | 2:17 | 2023-05-26 |  |
 | [Tengo en Venta el Corazon](https://open.spotify.com/track/6rZZPJBaR0FyK54DZRH316) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Tengo en venta el corazon](https://open.spotify.com/album/126FOQKMNASd7nY3vTVtXq) | 3:30 | 2023-10-13 | 2023-10-21 |
+| [TENGO SED](https://open.spotify.com/track/0cMfTZUz7ifs8J2iB5iAPs) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [TENGO SED](https://open.spotify.com/album/5aOflrqr7UamTVWOuTLykX) | 3:29 | 2024-02-09 |  |
 | [The la Planta: Rkt Session \#6](https://open.spotify.com/track/3Zk3bA4hcGR49c0k9Fh7Nu) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [The la Planta: Rkt Session \#6](https://open.spotify.com/album/1M8kHH3oB1r7oKPah2Yy3Q) | 1:55 | 2023-05-26 | 2023-06-06 |
 | [Toto Pago](https://open.spotify.com/track/7lDiqbdr75lTntS5MMyr8X) | [frankotirador](https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w), [Colny Flow](https://open.spotify.com/artist/5CKHozemkVTKIF8kg1v08C) | [Toto Pago](https://open.spotify.com/album/6oDx3WEDFC2lJs7Y6OPuRb) | 2:35 | 2023-10-20 | 2023-11-18 |
 | [Tranka](https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Tranka](https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU) | 2:44 | 2023-05-26 |  |

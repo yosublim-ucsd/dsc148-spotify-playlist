@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 86711,
+  "2024-02-10": 86735,
   "date_first_scraped": "2022-05-30",
   "description": "Check out the Latest Romance Tracks.\nCover : Captain Miller",
   "name": "Latest Love Tamil",
@@ -2541,6 +2541,32 @@
       "duration_ms": 214320,
       "name": "Naanum - From \"Navarasa\"",
       "url": "https://open.spotify.com/track/2S5GlyMhp7tUbOFU4Kf1kJ"
+    },
+    {
+      "album": {
+        "name": "Nandanandanaa (From \"The Family Star\")",
+        "url": "https://open.spotify.com/album/4b4CeCF3AsME3i4qCpV0tS"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Gopi Sundar",
+          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299117,
+      "name": "Nandanandanaa (From \"The Family Star\")",
+      "url": "https://open.spotify.com/track/0uc62z7kafdH5sCri8qlDq"
     },
     {
       "album": {

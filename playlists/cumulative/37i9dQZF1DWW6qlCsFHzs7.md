@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1lMcg4Y7nW5hHgIVsN9Shn">Conducta</a>'s favorite tracks\. Updated regularly\. Curated by Conducta\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-107 songs - 8 hr 7 min
+109 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 5:58 | 2023-01-10 | 2023-02-01 |
 | [B2B](https://open.spotify.com/track/53pVSqKR9rgrr6iGs98JqO) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [B2B / Black Roses](https://open.spotify.com/album/7w1h2MpwzFTTGpa2pbJbK1) | 3:44 | 2023-03-07 |  |
 | [Backwards](https://open.spotify.com/track/74HnNDZkxh6kEFgksmqOCD) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:33 | 2023-03-07 |  |
-| [Baltzar](https://open.spotify.com/track/4imkUjRMHxiy0yZtJj2u4s) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Stockholm Marathon](https://open.spotify.com/album/1y8E97vb4VzPzXZnsFO5Jy) | 4:33 | 2023-01-10 |  |
+| [Baltzar](https://open.spotify.com/track/4imkUjRMHxiy0yZtJj2u4s) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Stockholm Marathon](https://open.spotify.com/album/1y8E97vb4VzPzXZnsFO5Jy) | 4:33 | 2023-01-10 | 2024-02-10 |
+| [Baltzar](https://open.spotify.com/track/5qLWdCMNG36HnoSITch6Nz) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Stockholm Marathon](https://open.spotify.com/album/6LrFCNPvZdG0AieErw9ccL) | 4:33 | 2023-06-01 |  |
 | [Blow Ya Mind \- Club Caviar Mix](https://open.spotify.com/track/0Ax8qv3vtUy0nyaw0i4Kf6) | [Lock 'N Load](https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9), [Club Caviar](https://open.spotify.com/artist/2EN1Wc5No2OeL4exPJDIMe) | [Blow Ya Mind](https://open.spotify.com/album/549ODiccMe1bSN7bp9NGCV) | 6:32 | 2023-01-10 | 2023-06-02 |
 | [Blush](https://open.spotify.com/track/0vdzx5gNcGMYeAwGvDzqsv) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Blush/Sweetpea](https://open.spotify.com/album/13GO7f97z42ssjQMlGRHOm) | 2:50 | 2023-04-11 |  |
 | [Carnaval de Paris \- Radio Mix](https://open.spotify.com/track/59mdyQniSaNFeXaKMGu9RB) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Carnaval de Paris](https://open.spotify.com/album/0wevT1LD6VQtghix2apQgQ) | 3:52 | 2023-01-10 |  |
@@ -61,7 +62,8 @@
 | [Make Me Feel](https://open.spotify.com/track/2bq4FFDPno3B2rN2ysh28x) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Make Me Feel](https://open.spotify.com/album/759Lkn1ERq1SMekDhuvnbb) | 5:11 | 2023-01-10 |  |
 | [Mendoza](https://open.spotify.com/track/4KVT4OqquGc3zrFEQUL3X0) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Mendoza](https://open.spotify.com/album/0SWHdh2MoQxfphP7LjnuoZ) | 5:18 | 2023-06-01 |  |
 | [Microdosing \(Conducta Remix\) \- Edit](https://open.spotify.com/track/7FYvSHYySIXK9hCwBgnOea) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [Microdosing \(Conducta Remix\)](https://open.spotify.com/album/52r0BbElKJLiF59usacC0A) | 2:57 | 2023-01-10 | 2023-03-08 |
-| [Molly](https://open.spotify.com/track/35mRgmgXL01AAqguxr7xF8) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Hotel Koko](https://open.spotify.com/album/0K5N4Inr14bXYElF0RsJBW) | 4:15 | 2023-01-10 |  |
+| [Molly](https://open.spotify.com/track/35mRgmgXL01AAqguxr7xF8) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Hotel Koko](https://open.spotify.com/album/0K5N4Inr14bXYElF0RsJBW) | 4:15 | 2023-01-10 | 2024-02-10 |
+| [Molly](https://open.spotify.com/track/59BOdttKQFr1l1RlAqlf62) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Hotel Koko](https://open.spotify.com/album/7j8cYYFqnoyHaRCxoSuCv1) | 4:15 | 2023-06-01 |  |
 | [Nights Over Egypt \- MJ Cole Dub](https://open.spotify.com/track/38ajwLAkKYkN8uG6PKkGTc) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Nights Over Egypt \(Masters At Work Remixes\)](https://open.spotify.com/album/7mYEheHCeZX1F43xm8go5H) | 5:53 | 2023-06-01 |  |
 | [Nights Over Egypt \- MJ Cole Remix](https://open.spotify.com/track/63RxrVaca2IeGXR02VTvFF) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Future Remixed](https://open.spotify.com/album/0IMvU6xwpYKdc8tP3n8LI8) | 5:51 | 2023-01-10 | 2023-06-16 |
 | [Nostalgia](https://open.spotify.com/track/3EZ5f8Mhz5qniiyUQ9bfNq) | [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG), [SG](https://open.spotify.com/artist/5J6V5SRCXByid3HbFYXUOh) | [Nostalgia](https://open.spotify.com/album/5yLe0pcnvhX7VF0RV7t0Uw) | 5:33 | 2023-01-10 | 2023-02-01 |

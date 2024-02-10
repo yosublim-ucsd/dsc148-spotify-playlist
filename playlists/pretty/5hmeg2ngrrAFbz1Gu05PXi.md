@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 
 > Get into the flow and stay focused while writing code, with music curated by the JetBrains team\. www.jetbrains.com
 
-[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 4,559 likes - 100 songs - 8 hr 21 min
+[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 4,558 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 | 92 | [Ark](https://open.spotify.com/track/25YGk04mE0QyKs46svac1V) | [Bastian Benjamin](https://open.spotify.com/artist/3qMm1Wmx2QJI3KNk9hzi3q) | [Ark](https://open.spotify.com/album/2CDot1UAkvjF5J2Zr2h5MA) | 3:40 |
 | 93 | [Trauma Team](https://open.spotify.com/track/2d58FzVzUULJSy1YRQWB09) | [Vector Seven](https://open.spotify.com/artist/0Aob82fk8XM9qBRhiCvSBO) | [Modified](https://open.spotify.com/album/1aMm5k2Rjl1yd6otxk7gHm) | 4:04 |
 | 94 | [Dreamer's Wake](https://open.spotify.com/track/320ePMZ8X0ugeffZk0wNzY) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:04 |
-| 95 | [Song 2](https://open.spotify.com/track/6yanRGdN1bj7aYsXnElK0h) | [DJ Krush](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM) | [Jaku](https://open.spotify.com/album/3dmRqnSSeMcPOrFGAmy2sm) | 4:59 |
+| 95 | [Song 2](https://open.spotify.com/track/6yanRGdN1bj7aYsXnElK0h) | [DJ KRUSH](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM) | [Jaku](https://open.spotify.com/album/3dmRqnSSeMcPOrFGAmy2sm) | 4:59 |
 | 96 | [Scribbly Gum Smokehouse](https://open.spotify.com/track/2fdH4VKsltgOGrmRPEtgui) | [Desmond Cheese](https://open.spotify.com/artist/4fpbUiU0gUoOO2S3JGRbXA) | [Peace & Quiet](https://open.spotify.com/album/6Klloq7H5lgSQmL82MoPuT) | 3:21 |
 | 97 | [Stormvogel](https://open.spotify.com/track/6exr83cAsgSCbCYziWo2l3) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [Livingstone](https://open.spotify.com/album/7BJvFHKl7SQDoVmi3PRuVu) | 5:30 |
 | 98 | [Funktion \- Remix](https://open.spotify.com/track/2GRfzOL3CP2fkRrZT1GYyF) | [Ed Rush](https://open.spotify.com/artist/6gj4aZLxVGCdFPMThH6q6q) | [Retrospect, Vol\. 1 \(Compiled by DJ Krust & Jumpin Jack Frost\)](https://open.spotify.com/album/64LRkg6YHxFxuyUuC0QOUy) | 6:20 |

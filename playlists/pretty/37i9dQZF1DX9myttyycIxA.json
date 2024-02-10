@@ -1,13 +1,29 @@
 {
-  "description": "Underground indie rock gems. Cover: Teethe",
-  "num_followers": 293849,
+  "description": "Underground indie rock gems. Cover: Madi Diaz",
+  "num_followers": 293840,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjQ5OGRmYmE1NDMzZjE5ZDUyM2FiMDY0MGM0NzA2MDc0NmYzMTYx",
+  "snapshot_id": "MCw2MTdlYjc3ZDNjZjNmOTZlOWI5OWRkZTRiYWU2N2EyOTdiODJhYmJm",
   "tracks": [
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Weird Faith",
+        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Obsessive Thoughts",
+      "url": "https://open.spotify.com/track/0lavlWToofi8DpSeC2DplP"
+    },
     {
       "added_at": "2024-02-05 19:29:35",
       "album": {
@@ -23,6 +39,62 @@
       "duration_ms": 190148,
       "name": "the lonely girl",
       "url": "https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "head",
+        "url": "https://open.spotify.com/album/2ZMz5q06QK8I0EhwXRqWQI"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 283509,
+      "name": "head",
+      "url": "https://open.spotify.com/track/461LG2Z8SsMOpBkysUC3M8"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "CD Wallet",
+        "url": "https://open.spotify.com/album/4GuIkU3CHTJWwLYgXtRTtr"
+      },
+      "artists": [
+        {
+          "name": "HOMESHAKE",
+          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
+        }
+      ],
+      "duration_ms": 191164,
+      "name": "CD Wallet",
+      "url": "https://open.spotify.com/track/0699x8orNRyAhiYxyDjxdH"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "angel",
+        "url": "https://open.spotify.com/album/09nHqPYWE608OYfNVoD45i"
+      },
+      "artists": [
+        {
+          "name": "Faerybabyy",
+          "url": "https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id"
+        },
+        {
+          "name": "Mica",
+          "url": "https://open.spotify.com/artist/0ru8vaH80Oj3roXyoLmX4g"
+        },
+        {
+          "name": "Sinnerella",
+          "url": "https://open.spotify.com/artist/38tieThXSmq1BQw6MKxuyS"
+        }
+      ],
+      "duration_ms": 127648,
+      "name": "angel",
+      "url": "https://open.spotify.com/track/4B8baQPUpwgdBTKqxIXzxY"
     },
     {
       "added_at": "2024-01-30 18:33:47",
@@ -73,6 +145,22 @@
       "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Water / Connecticut",
+        "url": "https://open.spotify.com/album/7F3RyQmyBUigiC2J5l1VYD"
+      },
+      "artists": [
+        {
+          "name": "Lo Moon",
+          "url": "https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg"
+        }
+      ],
+      "duration_ms": 182454,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4LsuLatQ1SJinsHn7292wH"
+    },
+    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "Wish",
@@ -87,6 +175,22 @@
       "duration_ms": 206000,
       "name": "Wish",
       "url": "https://open.spotify.com/track/7j7NHQpLk3HJUNKtdMcATu"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Laughter from the Other Room",
+        "url": "https://open.spotify.com/album/6mW3lJAAwtzrGq6wJSFmSK"
+      },
+      "artists": [
+        {
+          "name": "Wingtip",
+          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
+        }
+      ],
+      "duration_ms": 160545,
+      "name": "Nothing to Lose",
+      "url": "https://open.spotify.com/track/6nz4mFXylnJNfw9GRSYYiG"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -481,22 +585,6 @@
       "url": "https://open.spotify.com/track/5ttZib0IxapfdIeyCUtvcR"
     },
     {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Dead Lands",
-        "url": "https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8"
-      },
-      "artists": [
-        {
-          "name": "Punchlove",
-          "url": "https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW"
-        }
-      ],
-      "duration_ms": 274714,
-      "name": "Dead Lands",
-      "url": "https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps"
-    },
-    {
       "added_at": "2023-12-15 05:00:00",
       "album": {
         "name": "Rat Saw God",
@@ -751,22 +839,6 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
-        "name": "Knowing You",
-        "url": "https://open.spotify.com/album/664Cc2ZdpJQZCoYdOnhtl8"
-      },
-      "artists": [
-        {
-          "name": "frown line",
-          "url": "https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM"
-        }
-      ],
-      "duration_ms": 230375,
-      "name": "Knowing You",
-      "url": "https://open.spotify.com/track/6KO3ebcMoEN3vjltHo9FWI"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
         "name": "Tear Jerky",
         "url": "https://open.spotify.com/album/1AfHTpAigqkGzSGwu9avlm"
       },
@@ -1003,22 +1075,6 @@
       "duration_ms": 167920,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/3O7ij6i8NmdxxmOrpHDVJV"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "ifshitfuq",
-        "url": "https://open.spotify.com/album/4rpHu4Ca3tl9ju3UYzodja"
-      },
-      "artists": [
-        {
-          "name": "meg elsier",
-          "url": "https://open.spotify.com/artist/4rkAMhebcdsLwZKBriNerT"
-        }
-      ],
-      "duration_ms": 230136,
-      "name": "ifshitfuq",
-      "url": "https://open.spotify.com/track/73YDopbDooUCO4WUKwI4zL"
     },
     {
       "added_at": "2023-12-12 21:23:18",
@@ -1295,22 +1351,6 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
-        "name": "Cheetah",
-        "url": "https://open.spotify.com/album/6cpyeXYrpyzPI1VwOkA8Jo"
-      },
-      "artists": [
-        {
-          "name": "Deux Visages",
-          "url": "https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Cheetah",
-      "url": "https://open.spotify.com/track/2lSYQyP8LYXyfSp6S1kJu0"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
         "name": "Around Around Around",
         "url": "https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P"
       },
@@ -1323,22 +1363,6 @@
       "duration_ms": 321460,
       "name": "Around Around Around",
       "url": "https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "SUICIDE SOCIAL",
-        "url": "https://open.spotify.com/album/6xgyZGvhcATgq08xZkYdQx"
-      },
-      "artists": [
-        {
-          "name": "The Haunting",
-          "url": "https://open.spotify.com/artist/09uUKWMhRoP7QbPWdgiFoC"
-        }
-      ],
-      "duration_ms": 196964,
-      "name": "666+",
-      "url": "https://open.spotify.com/track/4OLQ00YD6WUVKAaXjtlZtL"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -1455,22 +1479,6 @@
       "duration_ms": 171428,
       "name": "BOTTOM FEEDER",
       "url": "https://open.spotify.com/track/4XBr4XoYKUe1ayGgnNtLyh"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Relics",
-        "url": "https://open.spotify.com/album/3mA6V7rbCAJY9zzUGH5wCc"
-      },
-      "artists": [
-        {
-          "name": "Patio",
-          "url": "https://open.spotify.com/artist/2mln4aJfJQaYzFUUQ3Ji9N"
-        }
-      ],
-      "duration_ms": 156646,
-      "name": "Relics",
-      "url": "https://open.spotify.com/track/2Foq8SASEZqJD6daEew4Z0"
     },
     {
       "added_at": "2023-12-08 17:28:54",

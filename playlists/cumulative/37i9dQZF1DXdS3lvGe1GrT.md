@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Sarah Julia \| Visual Artist: Bailey Elder
 
-1,064 songs - 2 day 15 hr 45 min
+1,065 songs - 2 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [16 Borders](https://open.spotify.com/track/5U59q0ojvHM6ou8J3Sz0ZB) | [Jim and Sasha Allen](https://open.spotify.com/artist/1YgJ0l3zuGxjZMqzZiU5d4) | [16 Borders](https://open.spotify.com/album/0d6N2DAD0mEsYSGjd3ZrTw) | 2:48 | 2022-10-05 | 2022-12-01 |
 | [17 Letters](https://open.spotify.com/track/7txmlNXVd6DSPh613anyau) | [Brendan Abernathy](https://open.spotify.com/artist/39ETOzAilLp4bcJAUU8mmW) | [17 Letters](https://open.spotify.com/album/3ez1nfVoF4yOEPPHnKZ033) | 5:23 | 2022-07-20 | 2023-01-12 |
 | [1989](https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [1989](https://open.spotify.com/album/3HJQEeP94g2GypjB0YFUAq) | 4:27 | 2023-05-31 | 2023-07-27 |
+| [2 days into college](https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [2 days into college](https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3) | 2:48 | 2024-02-09 |  |
 | [25](https://open.spotify.com/track/3WRE7lOnBz5JSV4zrESKX1) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [25](https://open.spotify.com/album/252KXlqBbnTTamholRlCVu) | 3:34 | 2023-09-20 | 2023-10-13 |
 | [33](https://open.spotify.com/track/3FrmL447hSBsw5SFNxU5bH) | [Gabby's World](https://open.spotify.com/artist/37px0xIkqWfzGRK5QbTIRu) | [33](https://open.spotify.com/album/1MpAXYeVl9cBsm75QWIMkI) | 4:30 | 2023-04-12 | 2023-06-01 |
 | [365 days](https://open.spotify.com/track/289QhpiLkyJn1dSlqzIWZC) | [Hera Lind](https://open.spotify.com/artist/3PZ3vAfXQJEABZKKsAO6we) | [365 days](https://open.spotify.com/album/28LkEEFOTsHxDAJ1KWPMeu) | 3:24 | 2023-03-01 | 2023-04-13 |

@@ -4,7 +4,7 @@
 
 > Let these country tunes light up your day
 
-88 songs - 5 hr 25 min
+89 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Boys From Oklahoma](https://open.spotify.com/track/3R2TX8QbAKYE6ldlrnirrY) | [Boys From Oklahoma](https://open.spotify.com/artist/71l8QhJo5TLQzFbGJursbf) | [Outlaw Trails](https://open.spotify.com/album/3xB5EwbkzW4gH1FlHnouQP) | 5:01 | 2021-04-20 | 2023-08-21 |
 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 | 2021-04-20 |  |
 | [Daddy's Weed](https://open.spotify.com/track/2ecckyK40HInSrKyGwRWNj) | [Corey Smith](https://open.spotify.com/artist/2Da6v0shOpKrOG07ZxonXo) | [Daddy's Weed](https://open.spotify.com/album/4WeriBjfXOyIw7k4gAzmgz) | 4:01 | 2023-03-03 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 |  |
 | [Don't Bogart Me \(aka Don't Bogart That Joint\)](https://open.spotify.com/track/68vd5D5TdaWui3lN9WBkXS) | [The Fraternity Of Man](https://open.spotify.com/artist/1e3oBLWpiu34xzdzOIdNzS) | [Easy Rider \(Music From The Soundtrack\)](https://open.spotify.com/album/53Eub84MQoBDpOV1KVNQaf) | 3:06 | 2021-04-20 | 2023-03-04 |
 | [Doobie Like U Do](https://open.spotify.com/track/6KPERXy14OLEL1kFpunnvo) | [Cannabis Cowboys](https://open.spotify.com/artist/736mRxct30Z9fNH5Ya9bbB) | [Doobie Like U Do](https://open.spotify.com/album/7An5o2NItPc19K3PsgtdSg) | 3:47 | 2022-07-08 |  |
 | [Down to Seeds and Stems Again Blues](https://open.spotify.com/track/5lo3R8FXLTjtDPRwrPvZl1) | [Commander Cody And His Lost Planet Airman](https://open.spotify.com/artist/5EuQzrjffQlDTKObrN5tbY) | [Hot to Trot](https://open.spotify.com/album/4PcDJDCi5hMiH7l7v4T1qh) | 4:03 | 2021-04-20 |  |

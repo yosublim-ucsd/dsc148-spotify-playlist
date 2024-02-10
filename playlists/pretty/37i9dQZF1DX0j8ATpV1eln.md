@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,525 likes - 87 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,526 likes - 87 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Electric Parade](https://open.spotify.com/track/1VUNtkVmTtizP8o5i4IqYb) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Universe](https://open.spotify.com/album/1B3lid4l1KnRSu8FUXKqWs) | 3:13 |
 | 2 | [WaYaWaYaWa−!](https://open.spotify.com/track/6DW1uNeINd5TFMtxx2PgKe) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [WaYaWaYaWa−!](https://open.spotify.com/album/0fdtF0qCkWuwumB8dJZh32) | 3:09 |
-| 3 | [Super Adorable Gal](https://open.spotify.com/track/5wFngmXD2qULEdr4NZwJ97) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Super Adorable Gal](https://open.spotify.com/album/3UDkQMJC8sry16Q3phhPeN) | 3:28 |
-| 4 | [Suki ni Naccha Dame na Hito](https://open.spotify.com/track/4qnO8leJ0xIAvEkEnYB4nu) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Suki ni Naccha Dame na Hito](https://open.spotify.com/album/2VnYRRWGs3kat0GeFjwzwl) | 3:37 |
+| 3 | [Super Adorable Gal](https://open.spotify.com/track/1UNZ7PdVOeOSYgQGtOxQUm) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Universe](https://open.spotify.com/album/1B3lid4l1KnRSu8FUXKqWs) | 3:30 |
+| 4 | [Suki ni Naccha Dame na Hito](https://open.spotify.com/track/3J4mEL4MfuO4T8vGrf4Jrb) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Universe](https://open.spotify.com/album/1B3lid4l1KnRSu8FUXKqWs) | 3:39 |
 | 5 | [最強の推し！](https://open.spotify.com/track/1XD1QrcvVJEE2MIKkzHT0r) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [最強の推し！](https://open.spotify.com/album/1CpgVE8KbNQfrP1aOyWFf9) | 3:42 |
 | 6 | [Princess' Happy Ending](https://open.spotify.com/track/24vRXvYkICy96v83qLHhMT) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Princess' Happy Ending](https://open.spotify.com/album/35HvSyER3h21DPhsyv545F) | 3:28 |
 | 7 | [Saihate no Super star](https://open.spotify.com/track/4JCS6ndC9Mk45yPW5PJcKs) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK), [天月](https://open.spotify.com/artist/11DkKzyBmL2sQW0e4FCYil), [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [THE ORIGIN](https://open.spotify.com/album/1U5YQi9448UVvCTrcpr1Uj) | 2:43 |
-| 8 | [Ogon Koro](https://open.spotify.com/track/6NKTXbkkPNBtqNMXUXgOfj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Ogon Koro](https://open.spotify.com/album/6D5OUhDJ00zkuHe2Xk2WsH) | 3:21 |
-| 9 | [Shinda!](https://open.spotify.com/track/2wLuWWfrOHnPjbC3CUuuZ9) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Shinda!](https://open.spotify.com/album/2VQMSyKrXpA0m6PECjU8sm) | 3:40 |
+| 8 | [Ogon Koro](https://open.spotify.com/track/64N5XntLw2mZCrdkERcw1z) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Universe](https://open.spotify.com/album/1B3lid4l1KnRSu8FUXKqWs) | 3:24 |
+| 9 | [Shinda!](https://open.spotify.com/track/41SnTd8Kk8yRa5uWKEdQTG) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Universe](https://open.spotify.com/album/1B3lid4l1KnRSu8FUXKqWs) | 3:41 |
 | 10 | [AHATTE TEPPEN](https://open.spotify.com/track/3CJF0sc6OrgAHnPUG1bWEI) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Prismverse](https://open.spotify.com/album/0QImbhzOSVS3RfMwArx8jK) | 3:30 |
 | 11 | [Onegai Muscle \- from CrosSing](https://open.spotify.com/track/4mqOfJPqfhkznL4UZuEiOj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Onegai Muscle \- from CrosSing](https://open.spotify.com/album/5Bt7BoV1R7s5Ihkv5D7Cf5) | 3:42 |
 | 12 | [KIMIJA NAKYA DAME MITAI](https://open.spotify.com/track/6JZDfs7qE1T17qjRiPNCxa) | [オーイシマサヨシ](https://open.spotify.com/artist/5fuEw5UqrTkW8hVAbBClv2) | [OPENING THEME FROM TV SERIES ”MONTHLY GIRLS' NOZAKI\-KUN” KIMIJA NAKYA DAME MITAI](https://open.spotify.com/album/4Ej6rwZApgp2ob8EnIbizR) | 3:52 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 86 | [Moratorium Dance Floor \- Live](https://open.spotify.com/track/6YImKwLnSElvNSeMVbWixk) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:54 |
 | 87 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 |
 
-Snapshot ID: `MCxjN2M3ZjEyMWE2OWU0NDU4NDgxMmNlNWVjYmU0YTQ0OGFiZTgwN2Qz`
+Snapshot ID: `MCwzNzExYTVkMjRhNWRkY2I2MGU4NWI2ODlmZmVhM2M2MjI4NjJkNDI4`

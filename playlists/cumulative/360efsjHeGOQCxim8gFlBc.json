@@ -4663,6 +4663,24 @@
     },
     {
       "album": {
+        "name": "The Last Impressionist",
+        "url": "https://open.spotify.com/album/4qyThJug35v8OcYjHLO74U"
+      },
+      "artists": [
+        {
+          "name": "Mariposa",
+          "url": "https://open.spotify.com/artist/2F7TJTonDywvUL3brkPO7g"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126971,
+      "name": "The Last Impressionist",
+      "url": "https://open.spotify.com/track/7hxmsFWyyuI52tbJCNxruU"
+    },
+    {
+      "album": {
         "name": "The Last Voyage",
         "url": "https://open.spotify.com/album/3HR0bc7qxiofoC6UYUNCTq"
       },

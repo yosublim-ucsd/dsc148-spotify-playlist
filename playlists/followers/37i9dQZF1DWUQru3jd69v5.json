@@ -1,7 +1,7 @@
 {
-  "2024-02-09": 224570,
+  "2024-02-10": 224570,
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: SPOOKYPBL",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: N\u00e9za",
   "name": "Raptopia",
   "tracks": [
     {
@@ -787,7 +787,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 202408,
       "name": "Acciughe Salate",
       "url": "https://open.spotify.com/track/3InchJ2isJ0FMogDnz1jLV"
@@ -2667,7 +2667,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 103310,
       "name": "BOUGIE",
       "url": "https://open.spotify.com/track/2YMwrPboAWRL4Vc8PvTK9a"
@@ -4349,6 +4349,24 @@
       "duration_ms": 164250,
       "name": "Corri ragazzo",
       "url": "https://open.spotify.com/track/2teO31Hqy8k7DBmjIxxMS5"
+    },
+    {
+      "album": {
+        "name": "COSA C'\u00c8",
+        "url": "https://open.spotify.com/album/2u0ZbOSp2KKxMdZPkMlaQq"
+      },
+      "artists": [
+        {
+          "name": "PRACI",
+          "url": "https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "COSA C'\u00c8",
+      "url": "https://open.spotify.com/track/4TYfpaSZNmImjl6PGuGsbJ"
     },
     {
       "album": {
@@ -6070,6 +6088,24 @@
     },
     {
       "album": {
+        "name": "Federico",
+        "url": "https://open.spotify.com/album/4doOQDtIkkjGr2Hz77cjLT"
+      },
+      "artists": [
+        {
+          "name": "Rafil\u00f9",
+          "url": "https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191489,
+      "name": "Federico",
+      "url": "https://open.spotify.com/track/4ERrFf4AtLQAcLlsgtv29z"
+    },
+    {
+      "album": {
         "name": "FERRAGLIA (feat. DrefGold)",
         "url": "https://open.spotify.com/album/2pxNC7AEOUgfoN36DkBiW4"
       },
@@ -7477,6 +7513,24 @@
       "duration_ms": 114753,
       "name": "GUERRA",
       "url": "https://open.spotify.com/track/3jsnqaZI1liYePMnHyhZF4"
+    },
+    {
+      "album": {
+        "name": "Guerra Con Me Stesso",
+        "url": "https://open.spotify.com/album/1UHR9djVH1lY3iaJycPVng"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129315,
+      "name": "Guerra Con Me Stesso",
+      "url": "https://open.spotify.com/track/6ByL4vOXiTkHyCShfEvwcE"
     },
     {
       "album": {
@@ -8939,7 +8993,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 162352,
       "name": "La Fama (feat. Voleur pnz)",
       "url": "https://open.spotify.com/track/10sGsDCqaP5oXjOLgcDv97"
@@ -10381,7 +10435,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 142000,
       "name": "Mama no Mama",
       "url": "https://open.spotify.com/track/4lE81DgzF0MqubEjBlYnjP"
@@ -10825,6 +10879,36 @@
       "duration_ms": 163409,
       "name": "Materia",
       "url": "https://open.spotify.com/track/0Hw8AUMZgyk70EkMcOZso8"
+    },
+    {
+      "album": {
+        "name": "Mattone",
+        "url": "https://open.spotify.com/album/3xOrZWX1VzcemFpMZ9z132"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Mattone (feat. Kuremino, Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/4qb7IDiPEuWPOkCFAPhlfg"
     },
     {
       "album": {
@@ -12491,7 +12575,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 187783,
       "name": "NON SORRIDO",
       "url": "https://open.spotify.com/track/5vNMPY55Ue092tRTU9n6iu"
@@ -12531,6 +12615,24 @@
       "duration_ms": 132311,
       "name": "Non \u00e8 un gioco",
       "url": "https://open.spotify.com/track/5ie6qbpqdvq637m91zl4an"
+    },
+    {
+      "album": {
+        "name": "Normale",
+        "url": "https://open.spotify.com/album/7L8DyWZigR4lmW5WLRpmCf"
+      },
+      "artists": [
+        {
+          "name": "Blocage",
+          "url": "https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "Normale",
+      "url": "https://open.spotify.com/track/0C2qmnrEGUQ8hbcdJcCYUK"
     },
     {
       "album": {
@@ -12965,6 +13067,24 @@
       "duration_ms": 171044,
       "name": "ONE SHOT",
       "url": "https://open.spotify.com/track/3q9xch4Q3OoEvOqSZ14xgh"
+    },
+    {
+      "album": {
+        "name": "ORMAI",
+        "url": "https://open.spotify.com/album/2T5LTATAl3rPJIJins2Gws"
+      },
+      "artists": [
+        {
+          "name": "Friman",
+          "url": "https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127001,
+      "name": "ORMAI",
+      "url": "https://open.spotify.com/track/3M7tqi0Ebb4AoSEhuYaY1f"
     },
     {
       "album": {
@@ -15821,7 +15941,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 165925,
       "name": "Sembra Cap",
       "url": "https://open.spotify.com/track/5GRNCRTXAyhcZWEdFS3QC7"

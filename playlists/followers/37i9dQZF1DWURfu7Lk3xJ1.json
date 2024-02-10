@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 93743,
+  "2024-02-10": 93801,
   "date_first_scraped": "2022-09-09",
   "description": "Focus the mind with these calming beats.",
   "name": "lofi meditation",
@@ -440,6 +440,24 @@
     },
     {
       "album": {
+        "name": "afterthought",
+        "url": "https://open.spotify.com/album/23QpEq74jS4B7MpJRT1CEv"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170916,
+      "name": "afterthought",
+      "url": "https://open.spotify.com/track/2pyIsphe6DooZRSExreQEJ"
+    },
+    {
+      "album": {
         "name": "against the tide",
         "url": "https://open.spotify.com/album/3lecFA5VmUcLe8T3vD1f2A"
       },
@@ -723,6 +741,24 @@
       "duration_ms": 154383,
       "name": "Are We There Yet",
       "url": "https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV"
+    },
+    {
+      "album": {
+        "name": "arise",
+        "url": "https://open.spotify.com/album/5o5ZzmhIA3qie7Xvri32iM"
+      },
+      "artists": [
+        {
+          "name": "Cheeky Beez",
+          "url": "https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123302,
+      "name": "arise",
+      "url": "https://open.spotify.com/track/4KZvJKxqVcN4W2ZEWv87Lv"
     },
     {
       "album": {
@@ -1729,6 +1765,24 @@
       "duration_ms": 207692,
       "name": "Coming Back",
       "url": "https://open.spotify.com/track/2bd4DXfUSO4W8PnHq4hcZN"
+    },
+    {
+      "album": {
+        "name": "Cortana's Nap",
+        "url": "https://open.spotify.com/album/4Mgc8gBn6jiU5TLR6V7ztl"
+      },
+      "artists": [
+        {
+          "name": "d.w.h",
+          "url": "https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181640,
+      "name": "Cortana's Nap",
+      "url": "https://open.spotify.com/track/1UwTK3zUw4sKSZjRtwwLEz"
     },
     {
       "album": {

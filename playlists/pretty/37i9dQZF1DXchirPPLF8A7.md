@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchirPPLF8A7.md) - [plain]
 
 > Listen to the music from and inspired by Scott Pilgrim Takes Off, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,187 likes - 76 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,287 likes - 76 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchirPPLF8A7.md) - [plain]
 | 7 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
 | 8 | [Kidnapped by Neptune](https://open.spotify.com/track/2mb3n5HJi16sYTK4HGJelV) | [Scout Niblett](https://open.spotify.com/artist/3gSfOAPCvsDDVDBeSLl9v6) | [Kidnapped by Neptune](https://open.spotify.com/album/0GF1AfwRsWj8yQ7o6ObSDk) | 2:46 |
 | 9 | [Ring of Fire](https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 2:35 |
-| 10 | [Sharp Dressed Man](https://open.spotify.com/track/0f9h8awV1X4jSllHXXYdfX) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's Greatest Hits](https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh) | 4:11 |
+| 10 | [Sharp Dressed Man \(2008 Remaster\)](https://open.spotify.com/track/0bRNszTbTFLNlunAeh7eom) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 4:18 |
 | 11 | [Scott Pilgrim](https://open.spotify.com/track/7L4AofQZoGr4mVrjB6MyfZ) | [Plumtree](https://open.spotify.com/artist/34barrxpXhXrFSJXWKogMO) | [Predicts the Future](https://open.spotify.com/album/4ss4IGobJB38f1pgogEp7t) | 3:04 |
 | 12 | [You Wouldn't like Me](https://open.spotify.com/track/5XrpGRTACaYCT7ijWtnUsI) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:56 |
 | 13 | [Subboss Theme](https://open.spotify.com/track/6U5g7Doh2ec6MljZc7p8As) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) | [Scott Pilgrim vs\. the World: The Game \(Original Videogame Soundtrack\)](https://open.spotify.com/album/3DNHW2ckMRr3v0f7JF3HcR) | 1:43 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchirPPLF8A7.md) - [plain]
 | 75 | [Bad Husband \(Bonus Track\)](https://open.spotify.com/track/761wA4ahjL8XV2w3mGWLyy) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 0:46 |
 | 76 | [We Did It \(Bonus Track\)](https://open.spotify.com/track/0otwMwfq6MDcjrpoIZ3cLC) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 0:21 |
 
-Snapshot ID: `MCw3ZGFjOTczZTgwNjU3MGM1ZTE2ZDViNzY3ZmYxYWNhYTU3YmZhZTcx`
+Snapshot ID: `MCw1NTk3ZmUxZDg2YmE3MDJmZmY0ZDAzNDNiYTc2NGFjOWNmZDRmMzMz`

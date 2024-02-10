@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Potter Payper",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: K-Trap",
   "name": "Rap UK",
   "tracks": [
     {
@@ -386,7 +386,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 180767,
       "name": "1992",
       "url": "https://open.spotify.com/track/5QVAoNN7mj1qcQfuXMbrWl"
@@ -5278,7 +5278,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 137142,
       "name": "Brilliant Mind",
       "url": "https://open.spotify.com/track/2maR0wuP92sNy48SMVowzZ"
@@ -11586,7 +11586,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 158000,
       "name": "Feeling Alive",
       "url": "https://open.spotify.com/track/1guGFwq2ErO0y9zK4BzGIq"
@@ -12863,6 +12863,24 @@
     },
     {
       "album": {
+        "name": "Ghetto Wisdom",
+        "url": "https://open.spotify.com/album/0ejEEMyItvJgJyVXFwLCnp"
+      },
+      "artists": [
+        {
+          "name": "Bugzy Malone",
+          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287400,
+      "name": "Ghetto Wisdom",
+      "url": "https://open.spotify.com/track/6MgOft5uXO9vVcmuN8VBmc"
+    },
+    {
+      "album": {
         "name": "Gifted",
         "url": "https://open.spotify.com/album/4fhLSTsCjPkU4SWC0ICkvR"
       },
@@ -13880,6 +13898,24 @@
       "duration_ms": 212577,
       "name": "Heated Seats",
       "url": "https://open.spotify.com/track/3xApyPa8glGfkmBZGyPYyB"
+    },
+    {
+      "album": {
+        "name": "Heaven or Hell",
+        "url": "https://open.spotify.com/album/2hSBelgvz5Wi4anXg9M7KP"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151208,
+      "name": "Heaven Or Hell",
+      "url": "https://open.spotify.com/track/7zF3KNGz44bjX9WMneSvWr"
     },
     {
       "album": {
@@ -15497,6 +15533,24 @@
     },
     {
       "album": {
+        "name": "Until Feb",
+        "url": "https://open.spotify.com/album/5Nnlj4MbhhFlzaDlvRYv4t"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "it's a real life",
+      "url": "https://open.spotify.com/track/2VxTa7BolLHeiKQgayvjBU"
+    },
+    {
+      "album": {
         "name": "It's A Shame",
         "url": "https://open.spotify.com/album/3xWVTmZgtv7DI3SQbumqef"
       },
@@ -16928,7 +16982,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 180640,
       "name": "Lean",
       "url": "https://open.spotify.com/track/4gioGwFuDOfkNuDPflzjad"
@@ -20280,7 +20334,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 182238,
       "name": "Murdaside - Remix",
       "url": "https://open.spotify.com/track/1BkEU2vRjJy4VjqfX2AcEW"
@@ -22128,7 +22182,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 165600,
       "name": "once upon a time",
       "url": "https://open.spotify.com/track/3NBCkND8iLWihiyOvwsVap"
@@ -23890,7 +23944,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 228253,
       "name": "POCKET-WATCHING (feat. Tion Wayne)",
       "url": "https://open.spotify.com/track/0wB2uGdzargbAye60WZ74E"
@@ -25958,6 +26012,24 @@
       "duration_ms": 201023,
       "name": "Rocket Science (feat. D-Block Europe)",
       "url": "https://open.spotify.com/track/6g9w2kMmb0SpHY4ADT4z6k"
+    },
+    {
+      "album": {
+        "name": "Rocking Chair",
+        "url": "https://open.spotify.com/album/7ddutN492qi0q5KHlL6fAc"
+      },
+      "artists": [
+        {
+          "name": "Skrapz",
+          "url": "https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135173,
+      "name": "Rocking Chair",
+      "url": "https://open.spotify.com/track/0muFHLZj65WwIqGVYHnsPA"
     },
     {
       "album": {
@@ -33388,7 +33460,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 176432,
       "name": "What\u2019s Real?",
       "url": "https://open.spotify.com/track/4ZuAAHYpnXDWBrJpDXFBek"
@@ -33610,6 +33682,24 @@
       "duration_ms": 229161,
       "name": "Who Said Goons Don't Cry?",
       "url": "https://open.spotify.com/track/7bwUY127pZvvB7ChnZ03ds"
+    },
+    {
+      "album": {
+        "name": "Who's Realer?",
+        "url": "https://open.spotify.com/album/7Kk79wIIf9G7stQwubiWuF"
+      },
+      "artists": [
+        {
+          "name": "MoStack",
+          "url": "https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133280,
+      "name": "Who's Realer?",
+      "url": "https://open.spotify.com/track/0LnRayhy7VQylz04hhQV0P"
     },
     {
       "album": {

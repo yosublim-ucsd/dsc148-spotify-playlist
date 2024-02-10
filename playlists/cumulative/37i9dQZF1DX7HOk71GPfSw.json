@@ -719,6 +719,32 @@
     },
     {
       "album": {
+        "name": "4eva",
+        "url": "https://open.spotify.com/album/1qH35yuPAM1IfRJBsKyCo8"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Kingdom",
+          "url": "https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140933,
+      "name": "4eva",
+      "url": "https://open.spotify.com/track/36cJT1XQw11vx8QIAHsj2Z"
+    },
+    {
+      "album": {
         "name": "4ever1",
         "url": "https://open.spotify.com/album/07D2Gq848vkcj5T1Gpfoyl"
       },
@@ -8170,6 +8196,24 @@
       "duration_ms": 141290,
       "name": "dance in the moonlight",
       "url": "https://open.spotify.com/track/2SP8AAgffttY401Ye5xpZH"
+    },
+    {
+      "album": {
+        "name": "DOA",
+        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143319,
+      "name": "dancinwithsomebawdy",
+      "url": "https://open.spotify.com/track/5v7oj9PosKdE39x9uwDs6C"
     },
     {
       "album": {

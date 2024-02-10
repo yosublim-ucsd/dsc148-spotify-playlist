@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kohjiya
 
-222 songs - 10 hr 12 min
+223 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Cold Town](https://open.spotify.com/track/4o7giTDxOBnMWLI4VTiz3l) | [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF), [Rommy Montana](https://open.spotify.com/artist/2dFmXiOy1pDl1uAgP7wzQe) | [Cold Town](https://open.spotify.com/album/0kVXGkSYMFSQlBKK3e47PQ) | 2:25 | 2023-12-14 |  |
 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 | 2024-01-23 |  |
 | [cuz u just memories](https://open.spotify.com/track/0kKcamlEotnUhruCyvFG3p) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [cuz u just memories](https://open.spotify.com/album/3FkLIyoMGYCSAJxeIfw5cs) | 2:04 | 2024-01-23 |  |
-| [DAIJINAMON](https://open.spotify.com/track/2mECnd4B1UVlq3uFzaMzrD) | [Deep Leaf](https://open.spotify.com/artist/01YQGWRqEsJ0L7QKZO1TkD), [Jeter](https://open.spotify.com/artist/3L9cu3KstfzbqZ0Yz6SW4b), [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP) | [DAIJINAMON](https://open.spotify.com/album/0mJ83mNs5W0Ax7sOyagvP4) | 2:02 | 2024-02-08 |  |
+| [DAIJINAMON](https://open.spotify.com/track/15PqacIqJY8r44MuvO3USS) | [Deep Leaf](https://open.spotify.com/artist/01YQGWRqEsJ0L7QKZO1TkD), [Jeter](https://open.spotify.com/artist/3L9cu3KstfzbqZ0Yz6SW4b), [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP) | [DAIJINAMON](https://open.spotify.com/album/4C3H7ytJFKw3NzmgZM6Qmt) | 2:02 | 2024-02-08 |  |
+| [DAIJINAMON](https://open.spotify.com/track/2mECnd4B1UVlq3uFzaMzrD) | [Deep Leaf](https://open.spotify.com/artist/01YQGWRqEsJ0L7QKZO1TkD), [Jeter](https://open.spotify.com/artist/3L9cu3KstfzbqZ0Yz6SW4b), [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP) | [DAIJINAMON](https://open.spotify.com/album/0mJ83mNs5W0Ax7sOyagvP4) | 2:02 | 2024-02-08 | 2024-02-10 |
 | [Dark side of the Moon](https://open.spotify.com/track/4gJ27Hsc9HZUXfr8zpogGq) | [nero...](https://open.spotify.com/artist/2a34XtjCSDkFlXy7B3GVTg) | [Dark side of the Moon](https://open.spotify.com/album/0GrTBMjAYARNlbxxZQSfX0) | 2:17 | 2023-12-19 | 2024-01-12 |
 | [day n night](https://open.spotify.com/track/4UTNTQTKdcUzxCO1xZjHuf) | [swe4t](https://open.spotify.com/artist/0NSum2271JHRt3i8cZMBhi), [3scxpe](https://open.spotify.com/artist/34NtGqrhZ03TUImONVdfBP) | [day n night](https://open.spotify.com/album/0aJYcmiXlFv40XcfSfV3Hm) | 2:15 | 2023-12-07 | 2023-12-15 |
 | [Deep Inside](https://open.spotify.com/track/3RMlPlFIBtplMhm1r3Yp5z) | [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken), [Ry\-lax](https://open.spotify.com/artist/6BpKACmMhqNkkSSihR8cDI) | [Deep Inside](https://open.spotify.com/album/7hxrB01zm8NgOnCrLpSPqn) | 3:56 | 2024-02-06 |  |

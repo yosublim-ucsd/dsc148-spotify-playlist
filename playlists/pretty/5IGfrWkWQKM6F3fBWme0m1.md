@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,381 likes - 777 songs - 2 day 13 hr 16 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,383 likes - 777 songs - 2 day 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 21 | [Scorpio](https://open.spotify.com/track/0CgtgR2Rz4z9zmbclEhpg8) | [James K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf), [hoodie](https://open.spotify.com/artist/68kvu7W7TlDeFjYz7KILIu) | [065 \(Scorpio\)](https://open.spotify.com/album/5zCE3oBM8Bq9r3Odqd4PP9) | 8:01 |
 | 22 | [All I Need](https://open.spotify.com/track/0qwCJJkALPGkM2L05HNNmD) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 3:44 |
 | 23 | [Road Ballad](https://open.spotify.com/track/2RPEGXX96YDuE8JpSj8PwN) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Road Ballad](https://open.spotify.com/album/7lKvyJGHgwb2ZYeExUmEDJ) | 2:20 |
-| 24 | [Lean Into Me](https://open.spotify.com/track/1lyeTikdie40gQwKlyvlzO) | [Max Winter](https://open.spotify.com/artist/2FFtfqQnru4p3XGHYIfJ1A), [IMOGEN](https://open.spotify.com/artist/4nfBa9tw0IWAdtirqqmrbY) | [Lean Into Me / O Matter \- \(zero\)one](https://open.spotify.com/album/6lwIgjWY8DHKkg9GwskUzm) | 3:04 |
+| 24 | [Lean Into Me](https://open.spotify.com/track/1lyeTikdie40gQwKlyvlzO) | [Max Winter](https://open.spotify.com/artist/2FFtfqQnru4p3XGHYIfJ1A), [IMOGEN](https://open.spotify.com/artist/0q2l4St2HBWYG0MRcFFhju) | [Lean Into Me / O Matter \- \(zero\)one](https://open.spotify.com/album/6lwIgjWY8DHKkg9GwskUzm) | 3:04 |
 | 25 | [Co\-Star](https://open.spotify.com/track/0uiHiwJzQvWLTETzEZRxFG) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:46 |
 | 26 | [in a room7 F760](https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 3:53 |
 | 27 | [Fangs \- Avalon Emerson’s Re\-Chip Remix](https://open.spotify.com/track/1o7i72xi4OudOtgB9XOZcf) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC), [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Fangs \(Avalon Emerson’s Re\-Chip Remix\)](https://open.spotify.com/album/7icvN6GOIbKWJ9OXOd58hF) | 6:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,215 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,223 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 6 | [non\-reflection feat\. 牧野由依](https://open.spotify.com/track/0KCXjmyEJ1Rt88ILSPSGnY) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [non\-reflection feat\. 牧野由依](https://open.spotify.com/album/1X2H9oi9Eg598y4cTJ1MdH) | 3:37 |
 | 7 | [kiss me](https://open.spotify.com/track/5SfprAVappr2ZtrDbFm3Og) | [CANDYGIRL](https://open.spotify.com/artist/6ljA8ttKB0d9eBUySPaSOZ) | [kiss me](https://open.spotify.com/album/4s6RksjtZ8bBqIWuffOiFa) | 2:49 |
 | 8 | [bugs](https://open.spotify.com/track/7dWR8gcf2kS2iQJB0NNV7v) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [bugs](https://open.spotify.com/album/4ARUfp2z7XyXChD9fUVdR7) | 3:59 |
-| 9 | [Chocolat Cadabra](https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Chocolat Cadabra](https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9) | 3:03 |
+| 9 | [ショコラカタブラ](https://open.spotify.com/track/6nhGcCOyjnHshIJjPROEBF) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:03 |
 | 10 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
 | 11 | [普通ってなんだよ](https://open.spotify.com/track/6rqDDrdLlqiwQb1CskT7Vx) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [ケツノポリス13](https://open.spotify.com/album/5IpiTPcN9x0lGWZtuFNSTP) | 4:05 |
 | 12 | [Nausicaä of the Valley of the Wind \- 2024 ver.](https://open.spotify.com/track/3OwTCA0MIrO6EvQJOUar32) | [Narumi Yasuda](https://open.spotify.com/artist/38fnw8iZ8LYt1Es6gIId0I) | [Nausicaä of the Valley of the Wind \(2024 ver.\)](https://open.spotify.com/album/4mDDWOT4vrlUJ9ZE8hopTf) | 5:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Sunset](https://open.spotify.com/track/2nwGKQXEtkTwXAD6MlVzbf) | [相谷レイナ](https://open.spotify.com/artist/5Hm5GfaTrjt3IlzOcZVX2A), [Show Chick Boy](https://open.spotify.com/artist/0JEcGdbz3QOur7R1meQYuS) | [Time Machine](https://open.spotify.com/album/15OXrNhV3wKPrsPKoEgi89) | 3:34 |
 | 80 | [chamomile](https://open.spotify.com/track/30RQQRih5uPGeiLN9PXZ5Y) | [yourmythos](https://open.spotify.com/artist/7sKi5L9PF9v0VfRcvPUMEn) | [chamomile](https://open.spotify.com/album/1BN4HWW81lC8zkJkL6RPaO) | 4:15 |
 
-Snapshot ID: `MCw2NjM1ZmQxODU2ZmQyYTViZmQ2M2M3ZjQ5NDVkZDdiNGMyZWNlN2Vh`
+Snapshot ID: `MCxmMWYzYTEzMDYwMjg3YzQ2MTQzYzQ5MmE1NjRmNDNkNDMxYWQyOGY2`

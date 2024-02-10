@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SD1uurpetj.md) - [plain]
 
 > Take a bite out of the official playlist for Vampire Academy, streaming Thursdays on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,591 likes - 67 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,594 likes - 67 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SD1uurpetj.md) - [plain]
 | 49 | [Act Right](https://open.spotify.com/track/33CnYdN4TafPmNumJnPzrs) | [Auspiddit](https://open.spotify.com/artist/5T1p2dI66q2CxBmdlgZiik) | [This Is Not The Album](https://open.spotify.com/album/61R86HnDx6rgx88dPuWp9W) | 3:31 |
 | 50 | [Retro Love](https://open.spotify.com/track/0FOU5jDKZGCOyXWel99JFI) | [Zo Duncan](https://open.spotify.com/artist/4hGIjR4QuJH4TO5lB2bcr4), [Jan Merci](https://open.spotify.com/artist/00mm5FeFt46bMI1GpITrpg) | [Retro Love](https://open.spotify.com/album/3e0HBgBEsrvJRqqndMP7cQ) | 5:17 |
 | 51 | [BLAME CALIFORNIA](https://open.spotify.com/track/7qy81Ad3YzNwIoQrUUSfJm) | [Holly Jade](https://open.spotify.com/artist/20ZeznQHUGorY2fyAoZ1Ie) | [BLAME CALIFORNIA](https://open.spotify.com/album/5ZdTak2yLQ73ztd8iqT4T9) | 3:13 |
-| 52 | [Sarah Rose](https://open.spotify.com/track/4V0XwGLIYEIWVQSb30mvwj) | [Rachel](https://open.spotify.com/artist/7LzIwKHZ3RuCepS3AqfjOP) | [Sarah Rose](https://open.spotify.com/album/3r8CPr2uECE8BCGViz1T9D) | 2:55 |
+| 52 | [Sarah Rose](https://open.spotify.com/track/50j5KcmL3bTFATZUIM4UR6) | [Rachel](https://open.spotify.com/artist/7LzIwKHZ3RuCepS3AqfjOP) | [Sarah Rose](https://open.spotify.com/album/1aCme8DPvTjrJ3mFY7n9Vh) | 2:55 |
 | 53 | [Bad Vibe](https://open.spotify.com/track/4AQBcx01tcVQTQzToZqWMW) | [Tommy Will](https://open.spotify.com/artist/5h8DKS05Etq0wB0PiLQrTV) | [Bad Vibe](https://open.spotify.com/album/3VEHq25gw658O64lsG2EsS) | 2:44 |
 | 54 | [Balloons](https://open.spotify.com/track/4E0EuWAkC0AY6ZkWe0F9rM) | [The LX](https://open.spotify.com/artist/264xIOSqqgBaV2RlocqG7o) | [Balloons](https://open.spotify.com/album/2Z6TSFXWS8O5MKwocKVBnO) | 3:16 |
 | 55 | [Lessons](https://open.spotify.com/track/7L0duf4jzjBdAXGDGPdzgt) | [Holly Jade](https://open.spotify.com/artist/20ZeznQHUGorY2fyAoZ1Ie), [Alone Architect](https://open.spotify.com/artist/0vXrqJwfQ4zHxwSpKwSveW) | [Lessons](https://open.spotify.com/album/22ni1a5zxuAEI25bbJcZtR) | 3:30 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SD1uurpetj.md) - [plain]
 | 66 | [Walking On Fire](https://open.spotify.com/track/5OqHkOKpkNb5YeVS8NCP1X) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS) | [Walking On Fire](https://open.spotify.com/album/00eOzgNWZx6MZPUQJMZP3d) | 3:29 |
 | 67 | [Ride of Your Life](https://open.spotify.com/track/4yL1td9LfwBEILSqBDfTk5) | [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS), [Holly Jade](https://open.spotify.com/artist/20ZeznQHUGorY2fyAoZ1Ie) | [Ride of Your Life](https://open.spotify.com/album/5mud1u4a94wr9izYkfTtxR) | 2:28 |
 
-Snapshot ID: `MCwzMDYyYmJkOTExNzk4NzZkMWNjODMxMzU5ZTAyYTliMGE0ZjIwYWZm`
+Snapshot ID: `MCxiNjBjM2ZjNDZmMzNmMzFiMGU5MGQyZWUzMjdhNDZjNDZhODVlNDQ3`

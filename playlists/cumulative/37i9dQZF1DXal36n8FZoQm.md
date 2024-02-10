@@ -4,7 +4,7 @@
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-176 songs - 10 hr 32 min
+178 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Kiss It](https://open.spotify.com/track/6fUI7AyEG8jXtpJqv0cvsJ) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 2:33 | 2022-01-07 |  |
 | [LA / Alone](https://open.spotify.com/track/396DMhY0I2y5wSIIpirX4m) | [SRRY](https://open.spotify.com/artist/54AggBUiCq1Yo04s4EqXv2) | [LA / Alone](https://open.spotify.com/album/0TiXa5oN4JwsV9rUbSRo0U) | 5:50 | 2022-01-06 |  |
 | [Late Night Jazz](https://open.spotify.com/track/12KH9ouW87OwGbnB16m7gx) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb) | [Cocktail Hour](https://open.spotify.com/album/69Ikde32ScwcMTnlNVKCr4) | 5:18 | 2022-01-06 |  |
-| [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Your Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 | 2022-01-07 |  |
+| [Lay It Down](https://open.spotify.com/track/0d3qwh4HY9w6Ywywj6ksTv) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [The Essentials: Ratt](https://open.spotify.com/album/0zhBC0ytIvsL8Kvf0xtPMp) | 3:25 | 2022-01-07 |  |
+| [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Your Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 | 2022-01-07 | 2024-02-10 |
 | [Like a Dance](https://open.spotify.com/track/6FtO9TV7VM1lmPiHMvYyqz) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 2 \(Soundtrack from the Original Series\)](https://open.spotify.com/album/2eYneWlXOCsnhYiiC8v34V) | 3:12 | 2022-01-07 |  |
 | [Like a Fighter](https://open.spotify.com/track/1NLOotIFSAROiIyEz2jWWa) | [Alexander Rudd](https://open.spotify.com/artist/02byKbTE2ZyrjUjT6uiTc0), [Zach Lemmon](https://open.spotify.com/artist/1DqlgYeGygYV43IWmrISKA) | [70s Sounds](https://open.spotify.com/album/4UbnvDEcUaEhyDTgDYOeVl) | 3:10 | 2022-01-06 |  |
 | [Listen To Your Heart](https://open.spotify.com/track/1qIKynV6YQZgocodkPdCy7) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 5:28 | 2022-01-07 |  |
@@ -135,7 +136,8 @@
 | [Queen Cobra](https://open.spotify.com/track/6M4gicYnR0VwEOYZvyr4aa) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 1 "All Valley Tournament 51" \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl) | 2:17 | 2022-01-11 |  |
 | [Rock 'N' Roll Over You](https://open.spotify.com/track/24ttxzDgbZoMHHSyhhSTOP) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [The Other Side Of Life](https://open.spotify.com/album/5dY18oz4mvg4ouRMz7oZTm) | 4:49 | 2022-01-07 |  |
 | [Rock n Roll Superstar](https://open.spotify.com/track/2F55f2G0f8x8NH21aFkWoU) | [Blues Saraceno](https://open.spotify.com/artist/5AVBFCn4Hq4KY2Xjc5Gj4y) | [Glam Rock](https://open.spotify.com/album/2rGcNlGZkpdpR9gxTTzvgh) | 3:03 | 2022-01-06 |  |
-| [Round and Round](https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Out of the Cellar](https://open.spotify.com/album/6P3Fqm7z9wr5GeatpVZ5ut) | 4:25 | 2022-01-07 |  |
+| [Round and Round](https://open.spotify.com/track/57P8gH8rjt4OqEoqzut1bL) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [The Essentials: Ratt](https://open.spotify.com/album/0zhBC0ytIvsL8Kvf0xtPMp) | 4:25 | 2022-01-07 |  |
+| [Round and Round](https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Out of the Cellar](https://open.spotify.com/album/6P3Fqm7z9wr5GeatpVZ5ut) | 4:25 | 2022-01-07 | 2024-02-10 |
 | [Runnin' Wild](https://open.spotify.com/track/5XMnIXqKsjB4tWBYSqfUVm) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild](https://open.spotify.com/album/0kNkrkBOlSqbcILQvceoZw) | 3:42 | 2022-09-09 | 2022-11-13 |
 | [Runnin' Wild](https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild \(Special Edition\)](https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO) | 3:42 | 2022-09-09 |  |
 | [Sailing](https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Sailing / Poor Shirley \(Digital 45\)](https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0) | 4:15 | 2022-01-06 | 2023-03-12 |

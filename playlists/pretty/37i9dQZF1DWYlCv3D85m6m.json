@@ -1,13 +1,33 @@
 {
   "description": "One in a million! TWICE! ",
-  "num_followers": 1286491,
+  "num_followers": 1286798,
   "original_name": "This Is TWICE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDJjZWZhZTM0NmJkOWMwNjM2NWNkZDE0YzVlOGJjY2FhODhmMTll",
+  "snapshot_id": "MCxmODQyMTAzYzgxZDU4ZmZlODdhYzU3NjA0NzgzNTA0MGQ3NGQxNzRj",
   "tracks": [
+    {
+      "added_at": "2024-02-09 03:08:04",
+      "album": {
+        "name": "I GOT YOU (Voyage ver.)",
+        "url": "https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "I GOT YOU (Feat. Lauv)",
+      "url": "https://open.spotify.com/track/3X8L4DUPjLUE1cr8omydPT"
+    },
     {
       "added_at": "2024-02-02 05:52:09",
       "album": {

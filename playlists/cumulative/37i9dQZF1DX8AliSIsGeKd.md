@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Innellea
 
-3,067 songs - 11 day 7 hr 36 min
+3,068 songs - 11 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2509,7 +2509,7 @@
 | [Subway To Berlin](https://open.spotify.com/track/1MPGPVFXIGzVneJGiKNuLL) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ), [Hotmode](https://open.spotify.com/artist/7oaTPbORr62C2Fcvr9i2w8) | [Subway To Berlin](https://open.spotify.com/album/0oJDjxiQ7lygkK72gLEnrL) | 6:08 | 2022-05-20 | 2022-06-10 |
 | [Sudden Disclosure](https://open.spotify.com/track/2KogR1jPns8SuBmC8KUgl5) | [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA) | [Sudden Disclosure](https://open.spotify.com/album/6geRmQL3EY5uDnKMQzM6LS) | 4:43 | 2022-07-14 | 2022-08-05 |
 | [Suffice to Predict](https://open.spotify.com/track/0EqcNEm7mOnTpTyB1N1hIt) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP) | [Fear of Programming](https://open.spotify.com/album/49b3cshXjZHfOzN3SfMWzr) | 5:54 | 2022-11-25 | 2022-12-09 |
-| [Sugar Snap](https://open.spotify.com/track/0xkLzThujhf22Frzu8YP30) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac), [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Sugar Snap](https://open.spotify.com/album/0xa3IsggIvlFBCp5GW41uj) | 5:55 | 2024-02-01 |  |
+| [Sugar Snap](https://open.spotify.com/track/0xkLzThujhf22Frzu8YP30) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac), [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Sugar Snap](https://open.spotify.com/album/0xa3IsggIvlFBCp5GW41uj) | 5:55 | 2024-02-01 | 2024-02-10 |
 | [Summer Love \- Jan Blomqvist Remix](https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Summer Love \(Jan Blomqvist Remix\)](https://open.spotify.com/album/68scr1Ev9AoX1Czp74KJ6i) | 5:49 | 2023-09-21 | 2023-10-13 |
 | [Summer Storm](https://open.spotify.com/track/7w1U6JsBZw8lSHJ3rODHcO) | [Alexander Kowalski](https://open.spotify.com/artist/3h6qziz3eTK8pNQ2JSzHPs) | [Rave the Planet: Supporter Series, Vol\. 012](https://open.spotify.com/album/0VXpUVJ4GW3lzVXjudgzKK) | 7:48 | 2022-11-03 | 2022-11-18 |
 | [Summertime](https://open.spotify.com/track/74rGeSKxOyoPlty2caAMFA) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Summertime / Can't Stop](https://open.spotify.com/album/34FVW2V09s0IXrcgjx1AmG) | 4:16 | 2023-09-07 | 2023-09-22 |
@@ -2628,6 +2628,7 @@
 | [The Highest Level](https://open.spotify.com/track/6KCjvxiLvEXDgLMhd6UuHQ) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [The Highest Level](https://open.spotify.com/album/7qna25Jn5ElGhZy76QCeEH) | 5:02 | 2023-10-12 | 2023-10-27 |
 | [The Hills](https://open.spotify.com/track/3ZqHMx75NlTZRsZNZ6xS7a) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [The Hills](https://open.spotify.com/album/6nKFDsf5NNxLdDhhWoeMky) | 5:36 | 2022-09-16 | 2022-09-30 |
 | [The House of House \- 1994 Remix by Thomas Schumacher](https://open.spotify.com/track/56Cf6TQ24vaSfum7KW3jKj) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh), [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [The House of House \(1994 Remix by Thomas Schumacher\)](https://open.spotify.com/album/3xdslxjDIK3hHNwgxTIJBP) | 4:33 | 2023-11-02 | 2023-11-25 |
+| [The Incident](https://open.spotify.com/track/07RiiENqLJMuIKmiDWUUch) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [The Incident](https://open.spotify.com/album/3DXftMckzQPpMJzQ2c2LH3) | 3:37 | 2024-02-09 |  |
 | [The Landing](https://open.spotify.com/track/36W1soqGRXbQrpUtLSSc9u) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Landing](https://open.spotify.com/album/161Brygq1lYB7XlUGndwUF) | 6:20 | 2023-06-09 | 2023-06-30 |
 | [The Last Chance](https://open.spotify.com/track/2UytrQ6eZtTrHcD9YqAgKr) | [Edone](https://open.spotify.com/artist/2MZs7U8Pgj30dOFjbODBIN) | [The Last Chance](https://open.spotify.com/album/6lRyCQLR9ICZkD0IcBrSly) | 6:57 | 2023-02-02 | 2023-02-17 |
 | [The Last Dance](https://open.spotify.com/track/7gpBSW6yukzBkdrpjeAB5E) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [The Last Dance](https://open.spotify.com/album/4kwKCHAtqxN9rcEXarfBzo) | 6:35 | 2022-04-21 | 2022-05-06 |

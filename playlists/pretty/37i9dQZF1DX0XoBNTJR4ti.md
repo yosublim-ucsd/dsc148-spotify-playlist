@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XoBNTJR4ti.md) - [plain]
 
 > A collection of family\-friendly stories in five minutes or less.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,039 likes - 35 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,066 likes - 35 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XoBNTJR4ti.md) - [plain]
 | 9 | [Thumbelina](https://open.spotify.com/track/3QH4xgr3qH889F0Jo55RXE) | [Fairy Tales](https://open.spotify.com/artist/1NyKett1dn0nNoZMNTTShB) | [Bedtime Stories](https://open.spotify.com/album/05XRi68zVYcNjLOkDC7FSl) | 3:14 |
 | 10 | [The Three Little Pigs](https://open.spotify.com/track/0kVGxFrBZRLHoSWtnmSxfR) | [The Ultimate Storyteller](https://open.spotify.com/artist/7EUAjyQlDwLUeWAG1JoyG5) | [Ultimate Kids Stories Vol\. 1](https://open.spotify.com/album/0KXu1z6wfYBXVGdT71GwCJ) | 3:48 |
 | 11 | [The Ant and The Grasshopper](https://open.spotify.com/track/4HCE073x3OH0ZIJCmoT2Yu) | [The Ultimate Storyteller](https://open.spotify.com/artist/7EUAjyQlDwLUeWAG1JoyG5) | [Ultimate Kids Fairy Tales Vol\. 1](https://open.spotify.com/album/1YfBuHSOsF1RWfTmL6g5Ky) | 1:08 |
-| 12 | [Talent Day](https://open.spotify.com/track/1WryyKBZ3XaJqDBUGfZ1Lx) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Talent Day](https://open.spotify.com/album/5FsNE4pas4QxbAwA4Ch0mO) | 4:40 |
+| 12 | [Talent Day](https://open.spotify.com/track/3HzD91ymxpgeOnZLj0SGmQ) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Peppa Pig: Friendship Stories](https://open.spotify.com/album/4btu3lo19eQK1LImUUhkmS) | 4:40 |
 | 13 | [Sleeping Beauty](https://open.spotify.com/track/7aqZyEaametOI8ZKTYGhql) | [The Ultimate Storyteller](https://open.spotify.com/artist/7EUAjyQlDwLUeWAG1JoyG5) | [Ultimate Kids Fairy Tales Vol\. 2](https://open.spotify.com/album/2WEOAXPbDiAhGp6eBg7Bem) | 2:51 |
 | 14 | [Eat Your Vegetables](https://open.spotify.com/track/0hmFZDawypCbYscxE78tVe) | [Moonbug Story Time](https://open.spotify.com/artist/05GWFF4TH8RTJQf8V4RGg5) | [Classic Bedtime Stories](https://open.spotify.com/album/4DcZEZQp6xa3uZQlkk6awM) | 3:14 |
 | 15 | [Goldilocks](https://open.spotify.com/track/2wmO0cO96FvkiqhS3mpewh) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Kids Storytime with Pancake Manor](https://open.spotify.com/album/2jmaIV7Hxl2K7hayGzGRLx) | 4:06 |
 | 16 | [Champion Daddy Pig](https://open.spotify.com/track/2vfYACT83kY9LQC2Dk1yaa) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Peppa Pig: Family Stories](https://open.spotify.com/album/3c1twHCTnFqgC2Re0NWuwo) | 4:40 |
 | 17 | [Rapunzel](https://open.spotify.com/track/0rOgThYi39qOzEiWL8lCHD) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [157 Kids Best Songs And Stories](https://open.spotify.com/album/36giPQAFtuqJjEhLEWHD0e) | 4:46 |
-| 18 | [Mandy Mouse](https://open.spotify.com/track/4yazEiOnMYLdQXot3g10gb) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Mandy Mouse](https://open.spotify.com/album/1ReshIpC8o2xwHg8oKiWto) | 4:45 |
+| 18 | [Mandy Mouse](https://open.spotify.com/track/2ktLL6B7TE3EfXsKMmj3gg) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Peppa Pig: Friendship Stories](https://open.spotify.com/album/4btu3lo19eQK1LImUUhkmS) | 4:45 |
 | 19 | [Little Red Riding Hood](https://open.spotify.com/track/1bg1YoDRjBKYyv30pguig8) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [157 Kids Best Songs And Stories](https://open.spotify.com/album/36giPQAFtuqJjEhLEWHD0e) | 4:50 |
 | 20 | [Chicken Licken](https://open.spotify.com/track/6abzjmJziIfTl7UkOcZG8k) | [Smiley Storytellers](https://open.spotify.com/artist/3n9wR7PMuhgv2QgF7tuvTt) | [Fairy Tales, Kid Stories and Fun Vol\. 2](https://open.spotify.com/album/11fiyuFsAYvKBIzv8uSrVB) | 5:25 |
 | 21 | [Cinderella](https://open.spotify.com/track/6TUS7KrPsLHyrbHdKQcuK4) | [Smiley Storytellers](https://open.spotify.com/artist/3n9wR7PMuhgv2QgF7tuvTt) | [Fairy Tales, Kid Stories and Fun Vol\. 3](https://open.spotify.com/album/4glSOhrOYAV235TuVlsGkf) | 5:00 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XoBNTJR4ti.md) - [plain]
 | 34 | [The Gingerbread Man \(Story\)](https://open.spotify.com/track/4y6kx6DmTICA1ejeGrXmWn) | [Kidzone](https://open.spotify.com/artist/6i1qu6ITcSL2Ss6qr7Nzkn) | [Children's Songs & Stories, Vol\. 3](https://open.spotify.com/album/3wO7waw9AjjdmbeRtbPrSB) | 4:11 |
 | 35 | [The Paper Bag Princess](https://open.spotify.com/track/6jV89Vk3lDlpEdSsxSkuT7) | [Robert Munsch](https://open.spotify.com/artist/2Dzn2ANNU5Ft9r3htzo6ZN) | [Love You Forever: The Best Of Robert Munsch](https://open.spotify.com/album/4ognI8DTCx12FeCi09K2ei) | 4:15 |
 
-Snapshot ID: `MCw5OTcyMDlhMzNjY2FhNjlkZDI2MzJiN2U2ZTUwOWE2OWU0NTNlY2Y2`
+Snapshot ID: `MCw4ODkwOTM0OTU3ZGQyMDY0OTQ0NWY1MDk1MzNiNWE0ODI3OTM5NThj`

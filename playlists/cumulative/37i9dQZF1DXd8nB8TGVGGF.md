@@ -4,7 +4,7 @@
 
 > The best Blues for a long trip behind the wheel.
 
-147 songs - 8 hr 44 min
+148 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Buzz Me Baby](https://open.spotify.com/track/1vYpRZX33Khbs4r010ri2d) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Men of the World: The Early Years](https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE) | 3:34 | 2023-01-27 |  |
 | [Callin' For My Darlin'](https://open.spotify.com/track/1X6ZMDWmDRWmyyx94DrvxM) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Door To Door](https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP) | 3:02 | 2022-05-25 |  |
 | [Can't Wait to See My Baby's Face](https://open.spotify.com/track/6NvzGdklM7t1anBJicWR8Q) | [Buster Benton](https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4) | [Blues & Trouble \(Blues Reference 1983\-1985\)](https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt) | 4:58 | 2022-05-25 |  |
-| [Certified Blues](https://open.spotify.com/track/7mdPXhJBfxJBonEmqZvm9t) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 3:27 | 2022-05-25 |  |
+| [Certified Blues](https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 3:27 | 2023-01-27 |  |
+| [Certified Blues](https://open.spotify.com/track/7mdPXhJBfxJBonEmqZvm9t) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 3:27 | 2022-05-25 | 2024-02-10 |
 | [Checkin' Up On My Baby](https://open.spotify.com/track/02b0vxOu1dFKNoUR58YVnk) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 4:54 | 2022-07-08 |  |
 | [Checkin' Up On My Baby](https://open.spotify.com/track/62KLsidcqkHNL1vkvIFwu9) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Martin Scorsese Presents The Blues: Taj Mahal](https://open.spotify.com/album/7mEu9N6y4avTpH373ahlxK) | 4:55 | 2022-08-25 | 2022-11-14 |
 | [Checkin' Up On My Baby](https://open.spotify.com/track/7nVzX42eKMcI2XZcO1YOPL) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Martin Scorsese Presents The Blues: Taj Mahal](https://open.spotify.com/album/0wPbPlZ8VsoKFWtr9bVZIC) | 4:55 | 2022-05-25 | 2022-07-29 |
@@ -58,7 +59,7 @@
 | [Feelin' Good \- Remastered 2022](https://open.spotify.com/track/0hXOrxpO4fKKU53ac3p0Mh) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM), [The Blue Flames](https://open.spotify.com/artist/6v2b0J4pJj4uQhyL9Onz2A) | [Sun Records Originals: Mystery Train](https://open.spotify.com/album/6ah1LPcA93TpiesTgaLUsy) | 2:57 | 2023-01-27 |  |
 | [First Time I Met The Blues \- Single Version](https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Was Walking Through The Woods \(Expanded Edition\)](https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk) | 2:18 | 2022-05-25 |  |
 | [Frosty \- Single Version](https://open.spotify.com/track/4uaMKjr8pj92Z0PYwSeN5b) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Truckin' With Albert Collins](https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj) | 3:05 | 2022-05-25 |  |
-| [Get Your Game Up Tight](https://open.spotify.com/track/0tztP3jhFIlZOm5jhd5q7L) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Tramp / Soul](https://open.spotify.com/album/02Qcgwkz4Fd0btbDraBUHo) | 2:39 | 2022-05-25 | 2024-01-20 |
+| [Get Your Game Up Tight](https://open.spotify.com/track/0tztP3jhFIlZOm5jhd5q7L) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Tramp / Soul](https://open.spotify.com/album/02Qcgwkz4Fd0btbDraBUHo) | 2:39 | 2022-05-25 |  |
 | [Give Me Time to Think](https://open.spotify.com/track/0zx00UByhe6SqVcRHwlA1v) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Free Form Patterns](https://open.spotify.com/album/6XY6Bd52R2cJRI2uaDLqgd) | 3:44 | 2022-05-25 |  |
 | [Goin' Down Slow](https://open.spotify.com/track/2DonFSnhEr0WQcuHcHb5ti) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super, Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 4:49 | 2022-05-25 |  |
 | [Goin' to Chicago](https://open.spotify.com/track/2qthiyAT4MJjYuM1q5Qqo1) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [The Blues Ain't Nothin' \(Recorded in France 1971\-1973\)](https://open.spotify.com/album/3KTnRBMogesNlMGkx4Axb1) | 4:17 | 2022-05-25 |  |
@@ -139,7 +140,7 @@
 | [The Same Thing](https://open.spotify.com/track/59On35IawOw3kdsUv6wiu6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Electric Mud](https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL) | 5:43 | 2022-05-25 |  |
 | [The Stumble](https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road \(Deluxe Edition\)](https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1) | 2:51 | 2022-05-25 |  |
 | [Tom Cat](https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Electric Mud](https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL) | 3:37 | 2022-05-25 |  |
-| [Two Way Wishing](https://open.spotify.com/track/2lGyivhfiH4jqGpJGSqSZ4) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Tramp / Soul](https://open.spotify.com/album/02Qcgwkz4Fd0btbDraBUHo) | 2:46 | 2022-05-25 |  |
+| [Two Way Wishing](https://open.spotify.com/track/2lGyivhfiH4jqGpJGSqSZ4) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Tramp / Soul](https://open.spotify.com/album/02Qcgwkz4Fd0btbDraBUHo) | 2:46 | 2022-05-25 | 2024-02-10 |
 | [Uh Huh My Baby](https://open.spotify.com/track/1smUyCwjopLiEnkyzypWOW) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Basic Soul](https://open.spotify.com/album/5WRNrna2YPWvQtfgCVU7Of) | 3:52 | 2022-05-25 |  |
 | [Voodoo Chile Blues](https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 8:48 | 2022-05-27 |  |
 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 | 2022-05-25 |  |

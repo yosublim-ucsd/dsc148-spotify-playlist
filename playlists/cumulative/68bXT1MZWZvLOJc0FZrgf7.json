@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Dance to your favorite electronic hits | 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave | Cover: Forester",
+  "description": "Dance to your favorite electronic hits | 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave | Cover: Icona Pop",
   "name": "Dance For Days \ud83e\udea9\ud83d\udd7a 2024 EDM",
   "tracks": [
     {
@@ -5299,6 +5299,28 @@
     },
     {
       "album": {
+        "name": "Karma Is A Bitch Like You (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/32Y6NSg7xRMvDUnLrwxMWc"
+      },
+      "artists": [
+        {
+          "name": "Maisy Kay",
+          "url": "https://open.spotify.com/artist/1O9EVVcpg2FOQ0vAQ7LqiT"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Karma Is A Bitch Like You - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/0aTVZx2UxqpK81Zqjguf2N"
+    },
+    {
+      "album": {
         "name": "Keep It Movin (feat. Knox Fortune)",
         "url": "https://open.spotify.com/album/67kspCfxRBj5goRTTLH51s"
       },
@@ -9924,6 +9946,24 @@
       "duration_ms": 170982,
       "name": "Teardrops (feat. Majid Jordan)",
       "url": "https://open.spotify.com/track/0pPpcDDIiVBeBS5jBecnSC"
+    },
+    {
+      "album": {
+        "name": "Tears on the Dance Floor (Icona Pop DJ Edit)",
+        "url": "https://open.spotify.com/album/2DNlcQPAoBiAbuEkFCxlNl"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228092,
+      "name": "Tears on the Dance Floor - Icona Pop DJ Edit",
+      "url": "https://open.spotify.com/track/2khogvElDU87ouGOwIhQov"
     },
     {
       "album": {

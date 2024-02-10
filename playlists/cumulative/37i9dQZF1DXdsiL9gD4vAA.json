@@ -1773,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "Pahle Dil Ko (From - Izhaar-E-Ishq)",
+        "url": "https://open.spotify.com/album/3xTZsfjAsnNnELuRQYYFFZ"
+      },
+      "artists": [
+        {
+          "name": "Meenal Jain",
+          "url": "https://open.spotify.com/artist/0DoAmjaArtujfigIshqsj6"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292028,
+      "name": "Pahle Dil Ko (From - Izhaar-E-Ishq)",
+      "url": "https://open.spotify.com/track/3h6BgkcUhYK28dBs6Ta7iw"
+    },
+    {
+      "album": {
         "name": "Dil Mein Ek Leher - Ghulam Ali the Ghazal Maestro",
         "url": "https://open.spotify.com/album/6WtcRp4M2WaSBX3hza6efS"
       },

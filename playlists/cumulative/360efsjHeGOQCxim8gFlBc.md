@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-254 songs - 10 hr 0 min
+255 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [The End of a Dream](https://open.spotify.com/track/1HdVwaztiRB7rKna79Arg8) | [Soheil Bostani](https://open.spotify.com/artist/5v7gJdbkBahCQTJrKCPga9) | [The End of a Dream](https://open.spotify.com/album/3gQg54JbUapufd8LjKlQEY) | 1:47 | 2023-10-29 |  |
 | [The Good Advice You Just Don't Take](https://open.spotify.com/track/0uZBFZ2ER97c9EtxjvDEgj) | [Tom Eaton](https://open.spotify.com/artist/6I7GK3bsZhKD2nPbNEIMh5) | [Snapshots](https://open.spotify.com/album/0RHElHjIE2Bt4O6zwzefZI) | 1:14 | 2023-10-29 |  |
 | [The gravity of the moment](https://open.spotify.com/track/6xqqbekGqdfAJ7JqC9doNK) | [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i) | [The gravity of the moment](https://open.spotify.com/album/6J5u24dYFPTHv0Km7NhQPd) | 1:50 | 2023-10-29 |  |
+| [The Last Impressionist](https://open.spotify.com/track/7hxmsFWyyuI52tbJCNxruU) | [Mariposa](https://open.spotify.com/artist/2F7TJTonDywvUL3brkPO7g) | [The Last Impressionist](https://open.spotify.com/album/4qyThJug35v8OcYjHLO74U) | 2:06 | 2024-02-09 |  |
 | [The Last Voyage](https://open.spotify.com/track/0JjGqRnvbhSdSOjZZg1gPQ) | [Joe Sinha Semple](https://open.spotify.com/artist/1A7OPDVDUqq417nwKzAVu6) | [The Last Voyage](https://open.spotify.com/album/3HR0bc7qxiofoC6UYUNCTq) | 2:17 | 2024-01-25 |  |
 | [The Reason](https://open.spotify.com/track/6p302cM5x1Ba98znYH4bL9) | [Eliza Ukko](https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn) | [The Reason](https://open.spotify.com/album/0PjWlA3jt5Se7xlxLzV9S1) | 2:57 | 2023-10-29 |  |
 | [The Rocking Chair](https://open.spotify.com/track/1I2hbKOP5ljRctFhBkOtLR) | [Emma Joseph](https://open.spotify.com/artist/6OxMW3nwgj3VkwTJQc93gS) | [The Rocking Chair](https://open.spotify.com/album/2DLpYBZHZ3I2lnCHEzsO6l) | 2:30 | 2024-01-25 |  |

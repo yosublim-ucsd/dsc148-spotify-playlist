@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PUN
+> เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Jeff Satur
 
-433 songs - 1 day 1 hr 58 min
+434 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 | 2022-05-26 | 2022-07-31 |
 | [ACTION](https://open.spotify.com/track/2MaB2AGKCvcwhF7A7WPaae) | [AR3NA](https://open.spotify.com/artist/3Z1xhsM4bQE28mcnQhiOJA) | [ACTION](https://open.spotify.com/album/6rHZhVtDDMBPhDyQ4n4Ydx) | 3:25 | 2023-12-07 | 2023-12-15 |
 | [ALALA \(To The Top\)](https://open.spotify.com/track/77Sye1USZZ2xmy18ln7dWe) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [ALALA \(To The Top\) \- Single](https://open.spotify.com/album/2sLjFbcHqYmFW0ue0Ivlwl) | 3:06 | 2024-01-11 | 2024-02-01 |
-| [ALALA \(To The Top\) \(WhiteFox Studio\)](https://open.spotify.com/track/6nR3CGUWBFHfgIxitfImx2) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt), [Nay PERSES](https://open.spotify.com/artist/2tfjjJpLFUIbcXQFANpQqw), [JUNG PERSES](https://open.spotify.com/artist/1Er9htPD9zH1LecGCERIJk) | [ALALA \(To The Top\) \(WhiteFox Studio\) \- Single](https://open.spotify.com/album/5NxHf1ZgXzQxg5auKnHKYt) | 3:11 | 2024-01-31 |  |
+| [ALALA \(To The Top\) \(WhiteFox Studio\)](https://open.spotify.com/track/6nR3CGUWBFHfgIxitfImx2) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt), [Nay PERSES](https://open.spotify.com/artist/2tfjjJpLFUIbcXQFANpQqw), [JUNG PERSES](https://open.spotify.com/artist/1Er9htPD9zH1LecGCERIJk) | [ALALA \(To The Top\) \(WhiteFox Studio\) \- Single](https://open.spotify.com/album/5NxHf1ZgXzQxg5auKnHKYt) | 3:11 | 2024-01-31 | 2024-02-10 |
 | [All Night \(feat\. Loco\)](https://open.spotify.com/track/2JMx6wah6eRezCInLGsoZ0) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [All Night \(feat\. Loco\)](https://open.spotify.com/album/3PlPXgmBBVh9LK2czA9DPo) | 3:03 | 2022-06-09 | 2022-07-08 |
 | [ambulance](https://open.spotify.com/track/0mMT09W4GI0c374hAHoRKg) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [ambulance](https://open.spotify.com/album/2TJb5ZrRwdPjo0GzDCJeo2) | 3:29 | 2022-09-29 | 2022-10-13 |
 | [BABY CRUSH \(เพลงประกอบซีรีส์ Cooking Crush อาหารเป็นยังไงครับหมอ\)](https://open.spotify.com/track/6MHNB1rJyaBOmLxe307JiN) | [Fluke Nattanon](https://open.spotify.com/artist/6qAKyciWuWnfPv20xaLHag) | [BABY CRUSH \- Single](https://open.spotify.com/album/4ezQoCT0KJLhQITo8yOqgE) | 4:11 | 2023-12-27 | 2024-01-04 |
@@ -104,6 +104,7 @@
 | [While We’re Young](https://open.spotify.com/track/4XU7XpYsuIkfRDDrvAP0a4) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [While We’re Young](https://open.spotify.com/album/0LwBRRXyiACQX7ykl1mTbc) | 3:24 | 2022-12-01 | 2022-12-09 |
 | [WINK](https://open.spotify.com/track/1c3J4LNuNvUUnXmk8moHHv) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [WINK](https://open.spotify.com/album/17K46xu9e8ZwLfYXsOQBeY) | 3:27 | 2022-07-07 | 2022-07-29 |
 | [Wish](https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [You \(Are\) Mean a Lot to Me](https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq) | 4:31 | 2022-05-26 | 2022-06-17 |
+| [Yellow Leaf](https://open.spotify.com/track/2umfwjHoIPrth4vs1fEQv4) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:34 | 2024-02-09 |  |
 | [ZiGZaG](https://open.spotify.com/track/2yE00Onz1GMJZ4h5lYs2u0) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [ZiGZaG](https://open.spotify.com/album/68EaJMPDCWqT0huDBBAT7k) | 2:34 | 2023-11-09 | 2023-11-25 |
 | [กลับก่อนนะ \(GOODBYE\)](https://open.spotify.com/track/7EtCnq7brD1RU8ldqKWB0I) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [กลับก่อนนะ \(GOODBYE\)](https://open.spotify.com/album/2507HhYDLaRcCcJMX7lh8C) | 4:00 | 2022-05-26 | 2022-12-09 |
 | [กลับมาคบกันเถอะ \(Please Please\)](https://open.spotify.com/track/1MEYfWVtU338815OD0ixDp) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [กลับมาคบกันเถอะ \(Please Please\)](https://open.spotify.com/album/2iHkmf0YTr5VtbEI8R23UH) | 3:28 | 2022-10-04 |  |

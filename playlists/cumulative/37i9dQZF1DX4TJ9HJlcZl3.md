@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-100 songs - 6 hr 17 min
+101 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [San Francisco Street](https://open.spotify.com/track/5pjWzUc1tVcewUTdDJd6Ce) | [Sun Rai](https://open.spotify.com/artist/6UOV42aOSJ5YrbYzLIfLwr) | [Pocket Music](https://open.spotify.com/album/5Y7du83uUhCUXobupkRCjN) | 4:26 | 2022-10-21 |  |
 | [Shiny and New](https://open.spotify.com/track/71VnmWirWkHf6XAloWH5TO) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Shiny and New](https://open.spotify.com/album/00rDINWPKuv6v4uPEmReYG) | 3:30 | 2023-09-22 |  |
 | [Shorebreak \(From Now On\)](https://open.spotify.com/track/2TuHrjiUrpAOGde9vZyT52) | [Coastal Elite](https://open.spotify.com/artist/7qbl8kBoOMQhHSI6dl3mmG) | [Music For Marinas: Pt\. 01](https://open.spotify.com/album/4o8qb2b52Z1Cro8qZtqrWZ) | 4:02 | 2022-10-21 |  |
-| [Show You The Way](https://open.spotify.com/track/2ZIHKdsXfOS3cZoGRD2vGL) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:34 | 2022-10-21 |  |
+| [Show You The Way](https://open.spotify.com/track/2ZIHKdsXfOS3cZoGRD2vGL) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:34 | 2022-10-21 | 2024-02-10 |
 | [Show You The Way](https://open.spotify.com/track/6LzsF8g3MnyspvcPvlBcC3) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Show You The Way](https://open.spotify.com/album/4BSz8driu2eSZekb2ChJHH) | 3:34 | 2022-10-21 | 2022-11-14 |
 | [Simple Love Songs \- Extended Version](https://open.spotify.com/track/202Ebn3Kj18Ukkr9LQXwol) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Simple Love Songs \- Extended Version](https://open.spotify.com/album/2APkE3JslirvBHQxbz5Iop) | 2:51 | 2023-06-30 | 2023-10-14 |
 | [Sleeptalking](https://open.spotify.com/track/0e5GmXWvSKnngHSD8X7jir) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Sleeptalking](https://open.spotify.com/album/0XRYj8uyEJMzUKM60gZjAP) | 3:00 | 2024-02-02 |  |
@@ -107,6 +107,7 @@
 | [Withorwithout](https://open.spotify.com/track/1Avnd5xLg7HmaNofmYk7RQ) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:25 | 2022-10-21 | 2023-04-09 |
 | [Without Sun](https://open.spotify.com/track/6lnZykjqn6BVvd3aBHHkXh) | [Swim Mountain](https://open.spotify.com/artist/0k03iT1wmiddzXpZD2spn7) | [If \(Deluxe Edition\)](https://open.spotify.com/album/3jf8VD6LvB13HzkQ3R4evy) | 4:22 | 2022-10-21 | 2023-09-02 |
 | [Without You](https://open.spotify.com/track/28SHB4LMHD9ExTETbQIZfY) | [Brady Watt](https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Without You](https://open.spotify.com/album/3gAlDfcCFS4LEYtNTndsCx) | 3:10 | 2023-08-11 |  |
+| [Yesterday](https://open.spotify.com/track/2VYp1f2qoMWUuUKnt0O2Gy) | [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Yesterday](https://open.spotify.com/album/2umjOrzZyH5le3dh87eJSt) | 2:37 | 2024-02-09 |  |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-01-13 | 2023-07-01 |
 
 \*This playlist was first scraped on 2022-10-28. Prior content cannot be recovered.

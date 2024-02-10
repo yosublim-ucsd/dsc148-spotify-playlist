@@ -4,7 +4,7 @@
 
 > All the best songs from your favorite classic Disney films, TV shows and more.
 
-111 songs - 5 hr 42 min
+112 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Best of Friends \- From "The Fox & The Hound" / Soundtrack](https://open.spotify.com/track/3lP9eoNsz04dMCfPIG0PpK) | [Pearl Bailey](https://open.spotify.com/artist/2cskX7NGnrWMjA4PRSxVPL) | [Disney's Greatest Vol\. 3](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) | 2:15 | 2023-02-09 |  |
 | [California Screamin' \- From "California Screamin'"](https://open.spotify.com/track/7H2qQ7bU8uPZziCBoR4voa) | [Gary Hoey](https://open.spotify.com/artist/1so07AHiowjXxc3KVUqp76) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 2:33 | 2023-02-09 |  |
 | [Canada \(You're a Lifetime Journey\)](https://open.spotify.com/track/72LV2fYwLyFFROG8fiTudk) | [Bob Moline](https://open.spotify.com/artist/3C6eGC5bzEYiHQd3tXU0W3) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 5:50 | 2023-02-09 |  |
-| [Cheetah Sisters \- From "The Cheetah Girls"](https://open.spotify.com/track/5bzzu4VL5Jd4VoTU4MYkHI) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY) | [Disney Classics](https://open.spotify.com/album/6b4nBlM4ofUKA0mcb1b9oF) | 3:06 | 2023-02-09 |  |
+| [Cheetah Sisters](https://open.spotify.com/track/3WjbOhfEyBp4lvEf06jGRJ) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY) | [The Cheetah Girls \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/2GHNXCbcVV9rvtN2g7bUDX) | 3:06 | 2023-02-09 |  |
+| [Cheetah Sisters \- From "The Cheetah Girls"](https://open.spotify.com/track/5bzzu4VL5Jd4VoTU4MYkHI) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY) | [Disney Classics](https://open.spotify.com/album/6b4nBlM4ofUKA0mcb1b9oF) | 3:06 | 2023-02-09 | 2024-02-10 |
 | [Chip 'N' Dale's Rescue Rangers Theme Song](https://open.spotify.com/track/4dh4RRWKs7cbaWv9yFxULq) | [The Disney Afternoon Studio Chorus](https://open.spotify.com/artist/0kzp6Ezum8UhblfmLkcyPq) | [The Disney Afternoon](https://open.spotify.com/album/0sKZZI3UI2foLkTaiWupSI) | 3:39 | 2023-02-09 |  |
 | [Circle of Life \- From "The Lion King" Soundtrack](https://open.spotify.com/track/7bhfPxNDc3Wtzu5Fx8FnNx) | [Carmen Twillie](https://open.spotify.com/artist/6O3ZB5Cz5CNT3wQWouKcNJ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 3:57 | 2023-02-09 |  |
 | [Colors of the Wind \- From "Pocahontas"](https://open.spotify.com/track/2rnX4QWY4Wc1TCAZ0wK6yP) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [Songs and Story: Pocahontas](https://open.spotify.com/album/6uCMCobTioiSEnMgUle7uj) | 3:32 | 2023-02-09 |  |

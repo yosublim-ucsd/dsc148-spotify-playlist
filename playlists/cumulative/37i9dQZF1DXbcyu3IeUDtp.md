@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-112 songs - 8 hr 35 min
+113 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Today Is the Day](https://open.spotify.com/track/5nunaC0CNOswAsk98i0Ugq) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Summer Sun](https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf) | 5:34 | 2023-09-29 |  |
 | [Tranki](https://open.spotify.com/track/0mAtoUpFgo6JHBH5KumKVY) | [Bitter Babe](https://open.spotify.com/artist/59wTkFdKKx7y6z4PFfRGhW), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [Delirio](https://open.spotify.com/album/5omKkUB5uhvSiiiyQQJiKM) | 3:54 | 2023-09-29 |  |
 | [Transfixed](https://open.spotify.com/track/4kuSjQJtVn1Ipo0c8eLtZb) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 5:13 | 2023-09-29 |  |
-| [True Romance](https://open.spotify.com/track/4k0zUldbzBVX6A9sWD4uJn) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5) | 6:37 | 2023-09-29 |  |
+| [True Romance](https://open.spotify.com/track/4k0zUldbzBVX6A9sWD4uJn) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5) | 6:37 | 2023-09-29 | 2024-02-10 |
+| [True Romance](https://open.spotify.com/track/6gBKVtmyZeGMdbrbA0FmJL) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/6vkIp8sET1pITSdgth7Y1l) | 6:37 | 2023-10-27 |  |
 | [TYRANID](https://open.spotify.com/track/1mIFTfEw4h8pqQuGlSPk8K) | [Slikback](https://open.spotify.com/artist/0NwRAG9DawUqqgur9925fA), [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [CONDENSE](https://open.spotify.com/album/5Ti5vIdQUXWPrkFyMIOV3Z) | 3:10 | 2023-09-29 |  |
 | [Unfaithful](https://open.spotify.com/track/7IJozY3Zc4qPGvCg3Sfbs4) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Unfaithful](https://open.spotify.com/album/6G2N95ktK6lASJVSWvucIX) | 3:27 | 2023-10-27 |  |
 | [Untitled 1](https://open.spotify.com/track/6vIJu5eLrN4S2t84bF9OXQ) | [Unit Moebius](https://open.spotify.com/artist/16XJlHmPCZCbPYGyPpdt1U) | [Acid Planet 06](https://open.spotify.com/album/5fLYegvzlpVLvd4dgdq1L5) | 4:30 | 2023-09-29 |  |

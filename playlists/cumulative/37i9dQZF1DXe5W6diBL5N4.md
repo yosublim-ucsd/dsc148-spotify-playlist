@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: EPEX\(이펙스\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-7,894 songs - 18 day 23 hr 17 min
+7,895 songs - 18 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6028,6 +6028,7 @@
 | [Stupid Cool](https://open.spotify.com/track/2fvo8mpaPBkKabJXkd45GU) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [Stupid Cool](https://open.spotify.com/album/15SyyufawVdBxltCfLBiNN) | 2:58 | 2022-06-16 | 2022-06-24 |
 | [Stupid day](https://open.spotify.com/track/7fO3sSb1TgZ9ifW8ub3kZN) | [BUDY](https://open.spotify.com/artist/0pHO1D5Z1QoFCX801p8FA3) | [Stupid day](https://open.spotify.com/album/5mSkMnSOXd4GwjkbYOPcbF) | 2:56 | 2022-07-27 | 2022-08-10 |
 | [Stupid Day \(feat\. HYUN SEO\)](https://open.spotify.com/track/3Qh3Pr6IJYb3Aj1qvILr4B) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl) | [Stupid Day \(feat\. HYUN SEO\)](https://open.spotify.com/album/4WRxDU0q82GFtTPFKcUPlR) | 2:44 | 2023-09-01 | 2023-09-19 |
+| [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/60JZB9waHUPWJTGbYO6kDB) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/album/2JvE7wdlDjKxadK7Y95xpQ) | 2:53 | 2024-02-09 |  |
 | [Stupid Love](https://open.spotify.com/track/3cUyGXzLi6D3VMWATjoXmD) | [JUTO](https://open.spotify.com/artist/7HJsFAB2CpPpMxBNntMT5c), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [Stupid Love](https://open.spotify.com/album/30Z6J6DqOyTV3jZQrvN1qm) | 3:55 | 2023-04-17 | 2023-05-03 |
 | [Stupid Love](https://open.spotify.com/track/3GpaewakLswMXhewU2sSxp) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Stupid Love](https://open.spotify.com/album/4xrlOySL3LbQROUb760PDJ) | 4:25 | 2022-10-13 | 2022-11-07 |
 | [Stupid O'clock](https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chaos](https://open.spotify.com/album/7bCJBM9raTjf0vyiCwfiqO) | 3:05 | 2022-05-31 | 2022-06-14 |

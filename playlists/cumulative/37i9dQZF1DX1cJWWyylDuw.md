@@ -2,9 +2,9 @@
 
 ### [Deathcore](https://open.spotify.com/playlist/37i9dQZF1DX1cJWWyylDuw)
 
-> A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
+> A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Left To Suffer
 
-530 songs - 1 day 10 hr 38 min
+532 songs - 1 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Bleed the Future](https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Bleed the Future](https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc) | 3:48 | 2021-12-17 |  |
 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 | 2021-12-17 |  |
 | [Blind Kings](https://open.spotify.com/track/6UyUnoGID5hjDrGZ0FpfzK) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Blind Kings](https://open.spotify.com/album/0YNSxqbVrKfGsUmdLGSRGG) | 4:02 | 2021-12-17 | 2023-04-15 |
+| [Blood and Teeth](https://open.spotify.com/track/763y47autx5wDMOwd9bMpZ) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death: An Anthology](https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd) | 6:45 | 2024-02-09 |  |
 | [Bloodguilt](https://open.spotify.com/track/24PhPzlNAOCsnHAP65GCeA) | [Depths of Hatred](https://open.spotify.com/artist/50uXDrPUyPgJOn4wmd6N7N) | [Bloodguilt](https://open.spotify.com/album/6vdb4SkMuWtLYqw4lHlOVW) | 4:55 | 2021-12-17 | 2022-04-09 |
 | [BLUNT FORCE TRAUMA](https://open.spotify.com/track/1LX9OWc23Nskld1JxpSEBr) | [7xvn](https://open.spotify.com/artist/1B6XpURxZFBE9B2BT5JI7h) | [BLUNT FORCE TRAUMA](https://open.spotify.com/album/55FY4NTa8pjoEglAo1yqPF) | 2:41 | 2022-04-08 | 2022-12-13 |
 | [Bonebreaker](https://open.spotify.com/track/4TV4Hz8egoZ0x1S3h8kQ7G) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kostolom](https://open.spotify.com/album/37XaKB6rpfLrR4572PBCSs) | 4:25 | 2022-10-27 | 2023-04-29 |
@@ -108,7 +109,7 @@
 | [Coda](https://open.spotify.com/track/2YE0yL7BzyP2YyzkuHTeeR) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [Coda](https://open.spotify.com/album/6EZW8CglyT5kAySgljI7Bf) | 3:47 | 2021-12-17 | 2022-05-18 |
 | [Code of Honor](https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Fury](https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl) | 3:06 | 2022-05-06 |  |
 | [Coffin of Pain](https://open.spotify.com/track/447Njnc42ii3OpAcVVzw60) | [Distinguisher](https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc) | [Under the Weight of Things I Couldn't Change](https://open.spotify.com/album/6WG2fAFFnRFlsEbJYVgkRU) | 3:36 | 2022-04-01 | 2022-04-20 |
-| [Consistent Suffering](https://open.spotify.com/track/2c2iD9Wq0TajHayTCKSaVl) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Feral](https://open.spotify.com/album/1ysr3SlffkcJMqFtX9Ykxe) | 3:31 | 2023-06-16 |  |
+| [Consistent Suffering](https://open.spotify.com/track/2c2iD9Wq0TajHayTCKSaVl) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Feral](https://open.spotify.com/album/1ysr3SlffkcJMqFtX9Ykxe) | 3:31 | 2023-06-16 | 2024-02-10 |
 | [Creators Conscience](https://open.spotify.com/track/1abb8ARLTeyvmFOTisjUbY) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Dawn](https://open.spotify.com/album/4ZKxfg7g7Px3eWCee5UPEw) | 3:29 | 2021-12-17 | 2022-03-12 |
 | [Cremation \(feat\. PK of Prompts\)](https://open.spotify.com/track/25oexo9TI5j5Oma1fr9nOH) | [NOCTURNAL BLOODLUST](https://open.spotify.com/artist/3ufWwEY2l678hzrJLBgn4N) | [ARGOS](https://open.spotify.com/album/33RkqJSdO8jd6Kr0Sja3tC) | 6:12 | 2022-05-06 | 2024-01-31 |
 | [Cryogenesis](https://open.spotify.com/track/1V0oIGML0KMNw9NM7EbiNu) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Lochie Keogh](https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC) | [Cryogenesis](https://open.spotify.com/album/5m9Fq0GSp4fSvypPBtxA2U) | 4:27 | 2021-12-17 | 2022-07-29 |
@@ -300,6 +301,7 @@
 | [Longclaw](https://open.spotify.com/track/3XuLpFMzHRM3VlAegGMEuF) | [Earth Eater](https://open.spotify.com/artist/36b8PsQoJcT9z27xg4v2GD) | [Longclaw](https://open.spotify.com/album/2ZwgzTFBGdgKTHclCs9uVs) | 5:20 | 2021-12-17 | 2022-07-12 |
 | [Look Behind You](https://open.spotify.com/track/68oQaYxXfUUlI7r89fHzRH) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [Vile](https://open.spotify.com/album/7qUgaZk6AzrgVlbpjgQrVN) | 2:45 | 2022-12-02 | 2023-02-02 |
 | [Lost Boy](https://open.spotify.com/track/5jFuZGmz1VmEmx31wP7lDy) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [Lost Boy](https://open.spotify.com/album/3ZULFLjv3iyEZCgOzmmKHp) | 3:58 | 2021-12-17 | 2023-04-29 |
+| [Lost in the Dark](https://open.spotify.com/track/29icHp3xGk5PGfzPSKsXrg) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Lost in the Dark](https://open.spotify.com/album/40jVhBsza03byS968oOfi3) | 3:18 | 2024-02-09 |  |
 | [Lost In The Static](https://open.spotify.com/track/5QLH7zAdcAJLgR25gtvtoK) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/7ABqA1tuH6eonHAIBaBqHe) | 4:33 | 2021-12-17 | 2022-04-09 |
 | [Love Me to Death](https://open.spotify.com/track/2AIOCjZ46W7adtRBaqT2XW) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Love Me to Death](https://open.spotify.com/album/1s7syJTvVBjlbZuthJfFJa) | 4:15 | 2021-12-17 | 2022-07-27 |
 | [Love Me to Death](https://open.spotify.com/track/30xWVpvct6LewWIHFEWHdn) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Become the Hunter](https://open.spotify.com/album/0TKibOiHotsM6d36cyepoC) | 4:15 | 2022-07-08 |  |
@@ -323,7 +325,7 @@
 | [Mojave Repressions](https://open.spotify.com/track/5wnV8Xgk0EZvpObhpY4ukb) | [Merrow](https://open.spotify.com/artist/6lMwUV4nVScxzSAQYX4JNF) | [Mojave Repressions](https://open.spotify.com/album/0Lnn1lxdvapbmEEOHbCBan) | 6:13 | 2022-06-17 | 2022-07-25 |
 | [Mother's Repine](https://open.spotify.com/track/1IbQy1zPX2AWcroG1mpTJD) | [Jackson Rose](https://open.spotify.com/artist/0P1li4GURXaPNnFwVSZzHx), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Mother's Repine](https://open.spotify.com/album/3L1lsCwUm2rIXFhh36Tx5n) | 3:34 | 2022-05-13 | 2022-07-25 |
 | [MY WAY](https://open.spotify.com/track/7m2pH8YJAhAXN0ini7NV4K) | [STEELSHOOTER](https://open.spotify.com/artist/5e4eCpkqD4AK5mFyRjDPSk) | [MY WAY](https://open.spotify.com/album/7EQ3ZSc4aBHBSCx6IjPLEH) | 2:32 | 2022-01-21 | 2022-07-28 |
-| [Nail Funeral](https://open.spotify.com/track/4LUQbb45rZ0dK0WdnFPnEA) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [Everything Bleeds](https://open.spotify.com/album/0K4FU1lM08akPusYYsEaBX) | 4:11 | 2023-07-21 |  |
+| [Nail Funeral](https://open.spotify.com/track/4LUQbb45rZ0dK0WdnFPnEA) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [Everything Bleeds](https://open.spotify.com/album/0K4FU1lM08akPusYYsEaBX) | 4:11 | 2023-07-21 | 2024-02-10 |
 | [Nameless Walker](https://open.spotify.com/track/0lGOmiwa81lUnd5JV9TaXr) | [Winds of Plague](https://open.spotify.com/artist/080xIP1qfuknBNYEYPuH1v) | [Blood Of My Enemy](https://open.spotify.com/album/7qm5zyUnMfHVPDuqwp1J0j) | 3:36 | 2021-12-31 | 2022-04-09 |
 | [Narcissus](https://open.spotify.com/track/67TLcedNMzqt7hXF5Z4t4K) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Narcissus](https://open.spotify.com/album/3RSvBqR7JagDbfsNtJP40p) | 3:08 | 2021-12-17 | 2022-02-11 |
 | [Necromanteum](https://open.spotify.com/track/4BsyVbO7MkrVTJzBOQHS1M) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Necromanteum](https://open.spotify.com/album/2RZ0KrPK6mMo4XGjY0Ag8X) | 4:26 | 2023-07-21 |  |

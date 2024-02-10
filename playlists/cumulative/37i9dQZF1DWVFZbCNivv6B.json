@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 527000,
       "name": "Bendecidos",
       "url": "https://open.spotify.com/track/2QEkingmea3KHdvw0dy9K3"
@@ -2899,6 +2899,24 @@
     },
     {
       "album": {
+        "name": "La Encomienda",
+        "url": "https://open.spotify.com/album/3083B6DZOQS2VEQsKX1Vtk"
+      },
+      "artists": [
+        {
+          "name": "El Makabelico",
+          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381495,
+      "name": "El CaraCortada",
+      "url": "https://open.spotify.com/track/4Ztm2sw745p2ULfV8BkQkX"
+    },
+    {
+      "album": {
         "name": "El Chivo",
         "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
       },
@@ -4116,6 +4134,24 @@
       "duration_ms": 145875,
       "name": "Hoy Lo Decreto",
       "url": "https://open.spotify.com/track/1Ka9K4AXz0llC3Hn3fP3Ev"
+    },
+    {
+      "album": {
+        "name": "Humo y Tequila",
+        "url": "https://open.spotify.com/album/0VMJ1Z2uByksrNmrcsVCS0"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269038,
+      "name": "Humo y Tequila",
+      "url": "https://open.spotify.com/track/0MXSsoo0t2UDuqpISvdU3A"
     },
     {
       "album": {
@@ -5780,7 +5816,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 283747,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM"
@@ -5934,7 +5970,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 212413,
       "name": "Mi Mejor Amigo",
       "url": "https://open.spotify.com/track/0I57eiZ5WzZKrGYuSfjDOr"
@@ -7286,7 +7322,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 207804,
       "name": "Plomo en el Aire",
       "url": "https://open.spotify.com/track/1mMeJH8C1LifR1QTPFdAN0"
@@ -9283,6 +9319,28 @@
     },
     {
       "album": {
+        "name": "Soy Un Malandrin",
+        "url": "https://open.spotify.com/album/0BsSKppeiHTt3HDGZe68V7"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Royal Religion",
+          "url": "https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261161,
+      "name": "Soy Un Malandrin",
+      "url": "https://open.spotify.com/track/1T6iGIGjkE6FEmkC9QkCB7"
+    },
+    {
+      "album": {
         "name": "Suelo Iraki",
         "url": "https://open.spotify.com/album/0jUoys4m9uTNk5JhvBSb3X"
       },
@@ -9522,6 +9580,36 @@
       "duration_ms": 216000,
       "name": "Te Perd\u00ed",
       "url": "https://open.spotify.com/track/59rTx22tSPjjmrkwavzFKw"
+    },
+    {
+      "album": {
+        "name": "Tensi\u00f3n",
+        "url": "https://open.spotify.com/album/3hCkYv6L9uhcXnoIqvJzSJ"
+      },
+      "artists": [
+        {
+          "name": "Never Die",
+          "url": "https://open.spotify.com/artist/4erhclLz9x7J1JOpNdEK2Z"
+        },
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        },
+        {
+          "name": "Bizor",
+          "url": "https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7"
+        },
+        {
+          "name": "Mike Diaz",
+          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175400,
+      "name": "Tensi\u00f3n",
+      "url": "https://open.spotify.com/track/1bfMxV2zzeFytzlW53xdCX"
     },
     {
       "album": {

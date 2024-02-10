@@ -1,7 +1,7 @@
 {
-  "2024-02-09": 739247,
+  "2024-02-10": 739467,
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Tiara Andini, Arsy Widianto",
+  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Nidji",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 246466,
       "name": "24",
       "url": "https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE"
@@ -194,6 +194,24 @@
     },
     {
       "album": {
+        "name": "Buang - Buang Waktu",
+        "url": "https://open.spotify.com/album/5jyZwljzuKZEKHprgTTmDv"
+      },
+      "artists": [
+        {
+          "name": "Nidji",
+          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196299,
+      "name": "Buang - Buang Waktu",
+      "url": "https://open.spotify.com/track/3KosRTfZJFnErNBMF1ugua"
+    },
+    {
+      "album": {
         "name": "Bulan Dikekang Malam (From ''Ayat Ayat Cinta 2'')",
         "url": "https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69"
       },
@@ -259,7 +277,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 243087,
       "name": "Cinta Aku Bisa Apa",
       "url": "https://open.spotify.com/track/4nJoJe7PspYQMpqYch5ADK"
@@ -367,7 +385,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 343000,
       "name": "Hidup Bukan Sekedar Bernafas",
       "url": "https://open.spotify.com/track/48OKojXgd3xuDCiMzIWBwp"
@@ -472,6 +490,28 @@
     },
     {
       "album": {
+        "name": "Kamu Adalah",
+        "url": "https://open.spotify.com/album/4weKO0Ozr2VOybZn5zrBgo"
+      },
+      "artists": [
+        {
+          "name": "Ade Govinda",
+          "url": "https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV"
+        },
+        {
+          "name": "Cakra Khan",
+          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286698,
+      "name": "Kamu Adalah",
+      "url": "https://open.spotify.com/track/6tdlq9QCsOCI8KyBsPTLpb"
+    },
+    {
+      "album": {
         "name": "Karena Kamu (Love Recalls Version)",
         "url": "https://open.spotify.com/album/2Pi4XOJlOvbhNjd6Omnr2h"
       },
@@ -563,6 +603,24 @@
       "duration_ms": 207898,
       "name": "Kembali Pulang",
       "url": "https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR"
+    },
+    {
+      "album": {
+        "name": "Kisah Yang Lain",
+        "url": "https://open.spotify.com/album/1EeGQqYpr6ephrrwkD42Ss"
+      },
+      "artists": [
+        {
+          "name": "Anggi Marito",
+          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242822,
+      "name": "Kisah Yang Lain",
+      "url": "https://open.spotify.com/track/7ewBrAZeVLIZkGgrEbR0az"
     },
     {
       "album": {
@@ -881,6 +939,24 @@
       "duration_ms": 290751,
       "name": "Saat Kau Telah Mengerti",
       "url": "https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY"
+    },
+    {
+      "album": {
+        "name": "Sabar",
+        "url": "https://open.spotify.com/album/0rpLMpCFLDQJ6BIDJmS1Mp"
+      },
+      "artists": [
+        {
+          "name": "Donne Maula",
+          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sabar",
+      "url": "https://open.spotify.com/track/4RLFIfvicLshfmI2foSPSG"
     },
     {
       "album": {

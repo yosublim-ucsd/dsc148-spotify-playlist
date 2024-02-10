@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-251 songs - 15 hr 29 min
+252 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Creatures of Havoc](https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:52 | 2022-04-29 |  |
 | [Cripple Creek](https://open.spotify.com/track/7fqY4vS7K3kxbQLNmmyt8Y) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Just Around the Bend: Survival and Revival in Southern Banjo Sounds \- Mike Seeger's Last Documentary](https://open.spotify.com/album/7yBEb8FGqXKtzLzsCf93gg) | 1:26 | 2022-12-03 |  |
 | [Crooked Mind](https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Black Banjo](https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2) | 3:18 | 2022-05-13 |  |
-| [Crossing the Junction / Deer River](https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL) | [Lonesome Ace Stringband](https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb) | [Crossing the Junction / Deer River](https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj) | 3:38 | 2023-08-11 |  |
+| [Crossing the Junction / Deer River](https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL) | [Lonesome Ace Stringband](https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb) | [Crossing the Junction / Deer River](https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj) | 3:38 | 2023-08-11 | 2024-02-10 |
 | [Cumberland Gap](https://open.spotify.com/track/3ZIl7Lmby6zGV9iAC4ZXMp) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 1:08 | 2023-11-24 |  |
 | [Cumberland Gap](https://open.spotify.com/track/6422IVV0bPOMsvTEIyW2cs) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Cumberland Gap](https://open.spotify.com/album/2kJ2mebmHglVZxIRfrOJGq) | 1:08 | 2022-07-15 | 2023-12-24 |
 | [Cup & Porch](https://open.spotify.com/track/69IcY4RMhhYtxDv6JTP66k) | [Ethan Sherman](https://open.spotify.com/artist/4A9CvXWfWvRnIoLhOMRxse), [Thomas Cassell](https://open.spotify.com/artist/7g2xzGFWspvuNWyd7Raepa), [Matthew Davis](https://open.spotify.com/artist/1GM51GqX3LgTP0uHq6Od26), [Avery Merritt](https://open.spotify.com/artist/4VQPvJjZ1eeFtIXSDNb4Ku), [Tim McNalley](https://open.spotify.com/artist/4Ia7vccNwNdMBDyBNAajLD) | [Cup & Porch](https://open.spotify.com/album/789jVdxAQoRSbUG29YCr2A) | 3:38 | 2022-01-21 | 2022-11-01 |
@@ -223,6 +223,7 @@
 | [The Trailblazer](https://open.spotify.com/track/6XwSoj31OGTt9CjkzyzjOf) | [Mark Grundhoefer](https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w), [David Brimer](https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh) | [The Trailblazer](https://open.spotify.com/album/2sEQOzIpCE5HHqyvZD7xpy) | 2:46 | 2023-09-01 | 2023-09-29 |
 | [The Train](https://open.spotify.com/track/72PHXtULIZTLdHtO5w5PPi) | [Connor Jay Liess](https://open.spotify.com/artist/2sZuJVwjC40tfKKD1Zf0bm) | [Highball Bruiser](https://open.spotify.com/album/3LjIY7tkiQmIXpoUOyZpnH) | 8:06 | 2023-01-20 | 2023-02-02 |
 | [Thousand Dollar Holler](https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB) | [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk) | [Lovin' Of The Game](https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg) | 3:08 | 2023-03-03 |  |
+| [Tombstone Junction](https://open.spotify.com/track/1j9lPZgn3NoXELxBVB0uaN) | [Michael Prewitt](https://open.spotify.com/artist/4s2da3g2gHWyQ4Ybz5hRBE) | [Tombstone Junction](https://open.spotify.com/album/6NUtE5zHsAqYpTcvtOd5YV) | 5:08 | 2024-02-09 |  |
 | [Town's End](https://open.spotify.com/track/6fpL9QnornxpYhhWw6aWyM) | [George Jackson](https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7), [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Town's End](https://open.spotify.com/album/3YS90lzcD6JYYdT3wlB8nz) | 3:26 | 2021-12-03 | 2023-01-09 |
 | [Train in the Wilderness](https://open.spotify.com/track/6gdItCqeyJc5U9TvW7t3xj) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre) | [Riveter](https://open.spotify.com/album/5meAQIac2yGj2ZzcdhHXlz) | 2:57 | 2023-04-07 | 2023-05-03 |
 | [Trapper's Attic](https://open.spotify.com/track/7nlLIcbLodcRQvCPtV8vuX) | [Connor Jay Liess](https://open.spotify.com/artist/2sZuJVwjC40tfKKD1Zf0bm) | [Trapper's Attic](https://open.spotify.com/album/1WcNGOJOZqoU1cGoCZo6ME) | 2:55 | 2021-12-03 | 2022-05-25 |

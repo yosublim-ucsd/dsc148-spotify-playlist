@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 324227,
+  "2024-02-10": 324371,
   "date_first_scraped": "2021-12-21",
   "description": "H\u00e5ll det 100.",
   "name": "100",
@@ -1022,6 +1022,28 @@
     },
     {
       "album": {
+        "name": "ACTIVE BOYS",
+        "url": "https://open.spotify.com/album/1S8NRk0yrEw2mBRwHjlhFX"
+      },
+      "artists": [
+        {
+          "name": "DR",
+          "url": "https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA"
+        },
+        {
+          "name": "TUTTOLENTE",
+          "url": "https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "ACTIVE BOYS",
+      "url": "https://open.spotify.com/track/7xH4dmgrfE856DW65FtCOi"
+    },
+    {
+      "album": {
         "name": "ADHD",
         "url": "https://open.spotify.com/album/5DV9KpIiQqwcbbKf7bg2uC"
       },
@@ -2037,7 +2059,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 161739,
       "name": "Arrivederci",
       "url": "https://open.spotify.com/track/23DgKXYe3BBCJHgaIykukx"
@@ -4371,7 +4393,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 156000,
       "name": "BROTHERS KEEPER",
       "url": "https://open.spotify.com/track/1Cf2bZMJfxE5TFXtExsEKF"
@@ -6380,6 +6402,28 @@
     },
     {
       "album": {
+        "name": "Distrikt 4",
+        "url": "https://open.spotify.com/album/0YyPqDxwT8jeZYequlNmsJ"
+      },
+      "artists": [
+        {
+          "name": "GULEED",
+          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
+        },
+        {
+          "name": "Adam Aden",
+          "url": "https://open.spotify.com/artist/3tEZ6bzTrFzApPwyyUlADz"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Distrikt 4",
+      "url": "https://open.spotify.com/track/3B25I4fYZ8ARelPX6tCYmV"
+    },
+    {
+      "album": {
         "name": "DJ\u00c4VULEN ELLER JAG",
         "url": "https://open.spotify.com/album/1Qki2dmzBcOhtP4710WKLg"
       },
@@ -6501,6 +6545,28 @@
       "duration_ms": 137000,
       "name": "Donner",
       "url": "https://open.spotify.com/track/1NRw64qKDSjn1ctlaAaglE"
+    },
+    {
+      "album": {
+        "name": "DOPAMIN",
+        "url": "https://open.spotify.com/album/0ALPDsweGvG8lUv0T6W2Hi"
+      },
+      "artists": [
+        {
+          "name": "Ceasar DD",
+          "url": "https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4"
+        },
+        {
+          "name": "Adel",
+          "url": "https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193384,
+      "name": "DOPAMIN",
+      "url": "https://open.spotify.com/track/23zOf0Zwi7rfIiBgZsi84w"
     },
     {
       "album": {
@@ -8560,6 +8626,24 @@
     },
     {
       "album": {
+        "name": "Fu*k You",
+        "url": "https://open.spotify.com/album/1uxcAG8WxcXp1r80tqI4cR"
+      },
+      "artists": [
+        {
+          "name": "Jiggz",
+          "url": "https://open.spotify.com/artist/4vmyAixlpiovF3wJ5MSxfJ"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123564,
+      "name": "Fu*k You",
+      "url": "https://open.spotify.com/track/02PQr1KaSbzwYUxO81Jbwl"
+    },
+    {
+      "album": {
         "name": "fuego (feat. GABIFUEGO) [Spotify Studio 100 Recording]",
         "url": "https://open.spotify.com/album/02gT5JjdBLAkwSr2dGoyT5"
       },
@@ -9421,7 +9505,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 154043,
       "name": "Go",
       "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
@@ -10063,7 +10147,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 143076,
       "name": "HABIBI DE VI",
       "url": "https://open.spotify.com/track/35xedJh9Tsze4nsKoV8DGF"
@@ -11200,6 +11284,24 @@
     },
     {
       "album": {
+        "name": "H\u00c5LL K\u00c4FTEN",
+        "url": "https://open.spotify.com/album/1rwCQvCnCIzEkCVSECmJPe"
+      },
+      "artists": [
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127482,
+      "name": "H\u00c5LL K\u00c4FTEN",
+      "url": "https://open.spotify.com/track/748Ay0C89PjJfa3iEelLmH"
+    },
+    {
+      "album": {
         "name": "H\u00e5rda tider",
         "url": "https://open.spotify.com/album/5xI31kQCHeTIytMfj5eWdG"
       },
@@ -11567,7 +11669,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 124800,
       "name": "In Memory Of Some Stand Up Guys",
       "url": "https://open.spotify.com/track/1PSc8P84bB11Ase9bh4qFc"
@@ -13904,6 +14006,24 @@
     },
     {
       "album": {
+        "name": "FOR THOSE WHO BELIEVED",
+        "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210989,
+      "name": "LEGACY",
+      "url": "https://open.spotify.com/track/6Oc6hi5JyL1Q4M3GruTr9H"
+    },
+    {
+      "album": {
         "name": "G\u00e5r som klockan sedan 2014",
         "url": "https://open.spotify.com/album/0XFFbmvDOSjIGA2KZjhqku"
       },
@@ -15397,7 +15517,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 163124,
       "name": "Malad\u00e8",
       "url": "https://open.spotify.com/track/6h1dWzBV5GuGjKc3s0AbjE"
@@ -16811,6 +16931,28 @@
       "duration_ms": 177777,
       "name": "MIND GAME",
       "url": "https://open.spotify.com/track/6zHzaRHBp813fxXIspneRA"
+    },
+    {
+      "album": {
+        "name": "Minns du? (feat. Thomas Stenstr\u00f6m)",
+        "url": "https://open.spotify.com/album/3hlEXqB62kybF7SvlRDQbJ"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172056,
+      "name": "Minns du? (feat. Thomas Stenstr\u00f6m)",
+      "url": "https://open.spotify.com/track/2lhyyg07nsxZ6pB35ZtCcp"
     },
     {
       "album": {
@@ -18498,6 +18640,28 @@
     },
     {
       "album": {
+        "name": "OTR (On The Road)",
+        "url": "https://open.spotify.com/album/6F5ACT5GB1yKHapZ0iPPG5"
+      },
+      "artists": [
+        {
+          "name": "Deso",
+          "url": "https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ"
+        },
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "OTR (On The Road)",
+      "url": "https://open.spotify.com/track/1tN35VXKqqilry2wxZ9XQB"
+    },
+    {
+      "album": {
         "name": "OuOu (Spotify Studio 100 Recording)",
         "url": "https://open.spotify.com/album/7n9tKJ15sySDyVOJxrl4xo"
       },
@@ -19609,7 +19773,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 218344,
       "name": "PRECIS INNAN DU SOMNAR",
       "url": "https://open.spotify.com/track/1AHe5HM7PdZxfdSnwurjMZ"
@@ -20323,7 +20487,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 149619,
       "name": "ROOKIE OF THE YEAR",
       "url": "https://open.spotify.com/track/3sEFYu8UIUjj4N0DJ3ox4s"
@@ -21885,7 +22049,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 139071,
       "name": "SOLDAT",
       "url": "https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V"
@@ -22103,6 +22267,24 @@
       "duration_ms": 151666,
       "name": "SOUTHSIDE",
       "url": "https://open.spotify.com/track/08ojhcaCZwhHHg3BogkLp5"
+    },
+    {
+      "album": {
+        "name": "FOR THOSE WHO BELIEVED",
+        "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "SOVA",
+      "url": "https://open.spotify.com/track/3p0WsdmgVU2ZNIufdYFBDt"
     },
     {
       "album": {
@@ -23820,6 +24002,24 @@
     },
     {
       "album": {
+        "name": "TILLS NU",
+        "url": "https://open.spotify.com/album/78OHWJJW41qtp4fddukbaP"
+      },
+      "artists": [
+        {
+          "name": "Lamix",
+          "url": "https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172746,
+      "name": "TILLS NU",
+      "url": "https://open.spotify.com/track/7zr8W8DvAt5dNytak2hlZm"
+    },
+    {
+      "album": {
         "name": "STRESS! (Hj\u00e4rnfonden)",
         "url": "https://open.spotify.com/album/2aIri9IQ3Oa47td8w7dC1Y"
       },
@@ -24457,7 +24657,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 153600,
       "name": "TRAUMA PARANOIA",
       "url": "https://open.spotify.com/track/4aBdVP0kcEedFO9C4OjwuM"
@@ -27090,24 +27290,6 @@
     },
     {
       "album": {
-        "name": "Best\u00e4mda Kliv",
-        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "date_added": "2024-02-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 124752,
-      "name": "\u00d6verallt",
-      "url": "https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2"
-    },
-    {
-      "album": {
         "name": "\u00d6verallt",
         "url": "https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM"
       },
@@ -27123,6 +27305,24 @@
       "duration_ms": 125092,
       "name": "\u00d6verallt",
       "url": "https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH"
+    },
+    {
+      "album": {
+        "name": "Best\u00e4mda Kliv",
+        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125092,
+      "name": "\u00d6verallt",
+      "url": "https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa"

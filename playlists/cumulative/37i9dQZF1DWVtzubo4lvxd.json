@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 124675,
       "name": "Like Silk",
       "url": "https://open.spotify.com/track/4fWrsDm064nI1enpa6zTsb"
@@ -2296,7 +2296,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 150221,
       "name": "lovesick",
       "url": "https://open.spotify.com/track/6Ws38nb0R9kAHBn7HoGMTy"
@@ -2452,6 +2452,24 @@
     {
       "album": {
         "name": "Harbor",
+        "url": "https://open.spotify.com/album/3xAIeIUqff7nui62qizWZL"
+      },
+      "artists": [
+        {
+          "name": "Tomppabeats",
+          "url": "https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91504,
+      "name": "Monday Loop",
+      "url": "https://open.spotify.com/track/5AIKwGeFoauI8ckPJVhihk"
+    },
+    {
+      "album": {
+        "name": "Harbor",
         "url": "https://open.spotify.com/album/217LLrb47lzGE3HANjBLnn"
       },
       "artists": [
@@ -2480,7 +2498,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 91504,
       "name": "Monday Loop",
       "url": "https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ"

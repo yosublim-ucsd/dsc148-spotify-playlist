@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Brunno Ramos, 2metro, BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,735 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,842 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 56 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
 | 57 | [Amor Ágape](https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Amor Ágape](https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc) | 5:26 |
 | 58 | [Domingão](https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1) | [Kael](https://open.spotify.com/artist/2REBelsnF968ZaU1llcjiN), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Domingão](https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v) | 2:23 |
-| 59 | [Além](https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Notas de um Coração Amado](https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6) | 2:13 |
-| 60 | [Deixa Ele Entrar](https://open.spotify.com/track/4vy5XZ4lu2pmysT0tVDSBx) | [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Deixa Ele Entrar](https://open.spotify.com/album/6wpKGkXjyxjMNUNTU0gF9T) | 2:56 |
-| 61 | [Sonhei um Dia](https://open.spotify.com/track/0wNVe3LOwU2yrFOQleHQAf) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX) | [Sonhei um Dia](https://open.spotify.com/album/7J9uOnQv6HNAbDd3P5mkYv) | 3:01 |
+| 59 | [Deixa Ele Entrar](https://open.spotify.com/track/4vy5XZ4lu2pmysT0tVDSBx) | [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Deixa Ele Entrar](https://open.spotify.com/album/6wpKGkXjyxjMNUNTU0gF9T) | 2:56 |
+| 60 | [Sonhei um Dia](https://open.spotify.com/track/0wNVe3LOwU2yrFOQleHQAf) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX) | [Sonhei um Dia](https://open.spotify.com/album/7J9uOnQv6HNAbDd3P5mkYv) | 3:01 |
+| 61 | [Além](https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Notas de um Coração Amado](https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6) | 2:13 |
 | 62 | [Com Jesus Eu Ganho](https://open.spotify.com/track/6VFicHR1DPAvOyVBOx29qX) | [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB) | [Com Jesus Eu Ganho](https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u) | 2:18 |
 | 63 | [Love Jesus \#1 \- Caminhos da Vida](https://open.spotify.com/track/5f8wNnCFZfx0Lh8fhNgt7I) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Duda Matos](https://open.spotify.com/artist/4ZE7FQEuAyaqqG8wYi2mRq), [Yuri DSR](https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B) | [Love Jesus \#1 \- Caminhos da Vida](https://open.spotify.com/album/1TE4JunRsZ4INVJUTBVsdN) | 3:51 |
 | 64 | [Arca de Noé](https://open.spotify.com/track/6uPp6ZFJI1aMr2DoM5e1JF) | [Lz Lipe](https://open.spotify.com/artist/2ek8GnnKSrYAsKOJvOXzQb), [You Music](https://open.spotify.com/artist/4qrGnlN8hrzJPXh66Qb171) | [Arca de Noé](https://open.spotify.com/album/3C6zDgnNsusSDOHTLJX5oX) | 2:56 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 84 | [Eu Te Amo](https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [Eu Te Amo](https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N) | 4:04 |
 | 85 | [Filho do Homem](https://open.spotify.com/track/2WQ87ao5uZsRZS0UB8cQQi) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena](https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA) | 3:15 |
 
-Snapshot ID: `MCwzNGNlNzA5MjlmMzQ4YmNlNzIwNmNjNjBjMjFlMWNhNWIyNTViYWYz`
+Snapshot ID: `MCxlZGZlMTYwZjk3ZTA0YjVhN2Y4OThkNGYxNjlkYTg1NDVkYWY0MjFh`

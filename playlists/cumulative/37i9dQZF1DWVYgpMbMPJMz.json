@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:1XnyRY1hSHsZxiIEX8Nzl5\">The Belonging Co.</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:0I4Bk2s2BUJyykCwtxx8Xx\">Kevin & Kristyn Getty</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -334,6 +334,28 @@
       "duration_ms": 353282,
       "name": "Always So Good - Live",
       "url": "https://open.spotify.com/track/134HXcot9jJGRA7F6nbrtv"
+    },
+    {
+      "album": {
+        "name": "Another One (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/3NfyzXp4dCBmfkc8PVECRE"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392308,
+      "name": "Another One (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD"
     },
     {
       "album": {
@@ -675,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Because of Jesus (Live)",
+        "url": "https://open.spotify.com/album/6Zc2H5ZUpzMU52g6TBsr7O"
+      },
+      "artists": [
+        {
+          "name": "Charity Gayle",
+          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264379,
+      "name": "Because of Jesus - Live",
+      "url": "https://open.spotify.com/track/3zNDRUtDFSTheuLNrmwo0o"
+    },
+    {
+      "album": {
         "name": "Because Of You (Live)",
         "url": "https://open.spotify.com/album/6AY30EqlFxWj7s3vpXKfP5"
       },
@@ -846,7 +886,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 340533,
       "name": "Behold Our God - Live at WorshipGod",
       "url": "https://open.spotify.com/track/4hQy5mspN7mLiQokKsR4WT"
@@ -2002,6 +2042,24 @@
       "duration_ms": 406671,
       "name": "Crowns Down - Live",
       "url": "https://open.spotify.com/track/6I8T8GS5oMRuxgFzxnOkBG"
+    },
+    {
+      "album": {
+        "name": "Crowns Down (Live)",
+        "url": "https://open.spotify.com/album/3NSQCYMpoxUm9Mg3qIVLNu"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488253,
+      "name": "Crowns Down - Live",
+      "url": "https://open.spotify.com/track/2kTSwNHkrqxGs6sSINXjmD"
     },
     {
       "album": {
@@ -4104,7 +4162,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 255796,
       "name": "I Set My Hope (Hymn For A Deconstructing Friend)",
       "url": "https://open.spotify.com/track/6WOMNb2YNHE3HhTo3w0KCx"
@@ -4690,7 +4748,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 354885,
       "name": "Jehovah (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
@@ -4998,7 +5056,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 212277,
       "name": "Just Like You've Always Done",
       "url": "https://open.spotify.com/track/2shl2yhyeveafJFGjecS1X"
@@ -5460,7 +5518,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 344826,
       "name": "Like Honey - Live",
       "url": "https://open.spotify.com/track/6fx2RDzhFaiqRW3TVpskdk"
@@ -5658,10 +5716,28 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 372600,
       "name": "Made For More - Live",
       "url": "https://open.spotify.com/track/3eQJ6y1J3VL1cMWQ9cY3tl"
+    },
+    {
+      "album": {
+        "name": "Magnify",
+        "url": "https://open.spotify.com/album/1Z32tlKSj16hWpQtftu8xB"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188456,
+      "name": "Magnify",
+      "url": "https://open.spotify.com/track/1S8R5VFrFKvyepYSksxB0V"
     },
     {
       "album": {
@@ -6030,7 +6106,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 364671,
       "name": "Name Above All Names - Live - Single Version",
       "url": "https://open.spotify.com/track/0e3QRktKhq0glX1HT96NI4"
@@ -7059,6 +7135,28 @@
     },
     {
       "album": {
+        "name": "Sing! The Great Commission - World Tour (Live)",
+        "url": "https://open.spotify.com/album/1WsOwc3ZE7MvMzube1cPyF"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302048,
+      "name": "Precious Love - Live",
+      "url": "https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH"
+    },
+    {
+      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/6LCS3ZjvahueX23HgteLv3"
       },
@@ -7545,6 +7643,24 @@
     },
     {
       "album": {
+        "name": "Sacred Fire (Live)",
+        "url": "https://open.spotify.com/album/2OPiufuGmjkIDr8OnBYmmO"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396666,
+      "name": "Sacred Fire - Live",
+      "url": "https://open.spotify.com/track/3Rz4UDQAKNMVmc2V01IMYp"
+    },
+    {
+      "album": {
         "name": "Same God (feat. Jonsal Barrientes)",
         "url": "https://open.spotify.com/album/3s52obJaSkltal3K0Noeza"
       },
@@ -7851,6 +7967,24 @@
     },
     {
       "album": {
+        "name": "Sing (Live)",
+        "url": "https://open.spotify.com/album/5i1cLV9iU8NqU2PW4lssko"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227586,
+      "name": "Sing - Live",
+      "url": "https://open.spotify.com/track/3qcEDT85hn5vpNCxaBFHim"
+    },
+    {
+      "album": {
         "name": "Cover The Earth (Live In New York)",
         "url": "https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9"
       },
@@ -7960,6 +8094,28 @@
       "duration_ms": 222655,
       "name": "Sound Mind - Studio Version",
       "url": "https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET"
+    },
+    {
+      "album": {
+        "name": "Spirit Fall (Dove) [Live At Citipointe Church, Brisbane, Australia/2023]",
+        "url": "https://open.spotify.com/album/3KTCaaf0LQU9E14mr57mPN"
+      },
+      "artists": [
+        {
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        },
+        {
+          "name": "Jess Steer",
+          "url": "https://open.spotify.com/artist/6nQhS19N2Vi3J3xAVgcgu4"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391933,
+      "name": "Spirit Fall (Dove) - Live At Citipointe Church, Brisbane, Australia/2023",
+      "url": "https://open.spotify.com/track/726QdTEtmQIkafu0F9PdY2"
     },
     {
       "album": {
@@ -8598,7 +8754,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 321786,
       "name": "The King Of Glory - Live",
       "url": "https://open.spotify.com/track/3dbZkKX27Twpe1zI6kn2oa"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-119 songs - 7 hr 26 min
+120 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 | 2022-09-08 |  |
 | [I'll Do It](https://open.spotify.com/track/5jGqQuX070TkywzWpnzlsm) | [Lucky Charms](https://open.spotify.com/artist/13wxS1gIPUgWg8m5Ejl2i3), [6SIXSIX](https://open.spotify.com/artist/1mMnunVIw4ejNRFNBEqRC2) | [I'll Do It](https://open.spotify.com/album/2a9V9u6KHzaT4ruuKG9d0q) | 2:07 | 2023-05-08 | 2023-06-10 |
 | [I'll Do It \(feat\. iGodzilla\)](https://open.spotify.com/track/7l5VYsDwOo3oWvUgVZOb9T) | [2kMay](https://open.spotify.com/artist/5vC3PGGBIp1fPF0GOyanlt), [iGodzilla](https://open.spotify.com/artist/2AB1nrkYl5qrgFmbk45Lez) | [I'll Do It \(feat\. iGodzilla\)](https://open.spotify.com/album/7JhP1WxaFHyKAO1HBaykN9) | 3:33 | 2023-12-13 | 2024-01-21 |
+| [I'll Do It \(feat\. iGodzillla\)](https://open.spotify.com/track/5Gy8YH9BWsmuwRejNvGOwo) | [2kMay](https://open.spotify.com/artist/5vC3PGGBIp1fPF0GOyanlt), [lilster](https://open.spotify.com/artist/2nCL53xQ71uzEmr6pZWuNM), [iGodzilla](https://open.spotify.com/artist/2AB1nrkYl5qrgFmbk45Lez) | [I'll Do It](https://open.spotify.com/album/1aRgeeKy6eddP18FXgK2aK) | 3:33 | 2024-02-09 |  |
 | [I'm Gonna Get You \- Radio Edit](https://open.spotify.com/track/6tQHMzPvzsebxCWD3vxJpN) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Jessica Sutta](https://open.spotify.com/artist/6J2F6rTcNCJtktosxTxNw7) | [Audacious Vol\. 5](https://open.spotify.com/album/3f7P6z4G8Xtg9c1EycOEI5) | 3:58 | 2022-09-08 | 2023-03-11 |
 | [I'm Gonna Get You \- Radio Edit](https://open.spotify.com/track/74hpxaHCMf9rPLewOG5P6a) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Jessica Sutta](https://open.spotify.com/artist/6J2F6rTcNCJtktosxTxNw7) | [Audacious, Vol\. 5](https://open.spotify.com/album/1gkSj24WKuLwiygOITnMAg) | 3:58 | 2023-03-10 |  |
 | [Into the Wild](https://open.spotify.com/track/2gY0Ff8dmJNlCyQxDDqBEf) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:55 | 2022-09-08 |  |

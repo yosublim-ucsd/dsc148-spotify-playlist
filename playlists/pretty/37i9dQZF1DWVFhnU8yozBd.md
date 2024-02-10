@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,650 likes - 100 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,662 likes - 100 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 38 | [You Could Be More As You Are](https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY) | [Saâda Bonaire](https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg) | [Saâda Bonaire](https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8) | 5:56 |
 | 39 | [A83](https://open.spotify.com/track/3TDgqF6U3BohIWi84ylOBi) | [LUXE](https://open.spotify.com/artist/4Hholv5F2ei5wt2sRUne7S) | [Belonging EP](https://open.spotify.com/album/0zhhWJWPRJYIzHPKskwC96) | 5:59 |
 | 40 | [Hearts](https://open.spotify.com/track/1Vseb5yC0uN4jhpeWF2nhY) | [L.S.G.](https://open.spotify.com/artist/5bLpYSmewYdnv9djU3kwpA) | [Blueprint EP](https://open.spotify.com/album/4KtpSouY9I9zX5c0xx89pi) | 7:42 |
-| 41 | [True Romance \(Maja Edit\)](https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5) | 3:50 |
+| 41 | [True Romance \(Maja Edit\)](https://open.spotify.com/track/16a08DG2rAjlpaFoWqRPkd) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/6vkIp8sET1pITSdgth7Y1l) | 3:50 |
 | 42 | [Kristalen](https://open.spotify.com/track/0Cj75WyGoWqPskzd33DaPI) | [Gabriella Vergilov](https://open.spotify.com/artist/5WVz5iRPXwCdoKvVxP6xCQ) | [I Am Here Now EP](https://open.spotify.com/album/62L63TyDECgbSVUkrJ4Cf6) | 5:42 |
 | 43 | [Avalanche](https://open.spotify.com/track/2ZqYiWW6yqG1vjjOyR6LE6) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Avalanche](https://open.spotify.com/album/1XAmPzzpxTCnowBOyiNf5X) | 5:24 |
 | 44 | [Hummingbird](https://open.spotify.com/track/0UY6ggZPalSXs3ue8tVcts) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Postcards](https://open.spotify.com/album/510guXSY0ICHxh4vvblO3O) | 2:57 |
@@ -80,18 +80,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 70 | [Burnt Orange](https://open.spotify.com/track/2Ot2c0TFAg0ENgAiDfh3IO) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 5:36 |
 | 71 | [Clean Slate](https://open.spotify.com/track/6Cglz60KUYA11wzCDdezpC) | [Darko Esser](https://open.spotify.com/artist/7AqGdFNJPwfxvvxzuriXUK) | [Clean Slate](https://open.spotify.com/album/2i1kZDNm28mVEmUG7VtKa6) | 10:41 |
 | 72 | [OAR003\-B](https://open.spotify.com/track/7qnDy4qBwsPkTeoVv06BYS) | [Oni Ayhun](https://open.spotify.com/artist/6pybt7x9B6bbxxlgcCtNMW), [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0) | [OAR003](https://open.spotify.com/album/3zBBlW9H75fq7IGpnaqsXA) | 11:14 |
-| 73 | [Currency Low \- Bonus Track](https://open.spotify.com/track/0CfWZ0Zy1LCzOeViunbk43) | [Off The Meds](https://open.spotify.com/artist/6XHiqDJIKWxSMQLsjFsiFM) | [Off The Meds](https://open.spotify.com/album/1xLT0f6nhDZe0sJl5uUTgh) | 2:29 |
+| 73 | [Currency Low \(Bonus Track\)](https://open.spotify.com/track/5YBlB9eYbPJqM9CzLjOKcL) | [Off The Meds](https://open.spotify.com/artist/6XHiqDJIKWxSMQLsjFsiFM) | [Off The Meds](https://open.spotify.com/album/55mcKjdv72tY48WqTHn7cZ) | 2:29 |
 | 74 | [Hessingen](https://open.spotify.com/track/2yCbHFZ2spf22BHacJKiED) | [Shakarchi & Stranéus](https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H) | [Steal Chickens From Men And the Future From God](https://open.spotify.com/album/51sbT6gvFD5BnGU8kGpBVw) | 6:27 |
 | 75 | [Pacifica](https://open.spotify.com/track/5nINri5AenR6Q7ljBJYfgL) | [Sterac](https://open.spotify.com/artist/2QFnCeEbTqsb0YUYpFl08v) | [Asphyx](https://open.spotify.com/album/6ofX98b64trX8JvhzIrGrE) | 7:53 |
 | 76 | [Hold Me \- T4T Embrace Mix](https://open.spotify.com/track/1igRDinuruKXDDLHFqOYvL) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Devotion](https://open.spotify.com/album/2e7LQqvJdInqGHnjEIsAaJ) | 5:56 |
 | 77 | [Waiting](https://open.spotify.com/track/7fxcNshGvCxlNMGHI1GmCx) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Waiting](https://open.spotify.com/album/0zGcOpLSpmGTJUcHRrNUJz) | 6:52 |
 | 78 | [Cotton](https://open.spotify.com/track/1k5Qm9EzP0mM0wedIgevwi) | [Cop Envy](https://open.spotify.com/artist/2Kw0Sr0n8G0uuzyeFdANyF) | [Cotton EP](https://open.spotify.com/album/7FOUVHxXVHO82i1iQeh9mZ) | 5:51 |
-| 79 | [The Hours](https://open.spotify.com/track/5pDMx1xOnhSomxKkJmez4p) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Supervillain](https://open.spotify.com/album/3LHbQ672nttiCLx9g0ZnaF) | 6:51 |
+| 79 | [The Hours](https://open.spotify.com/track/60JlcjrNUHMOCrqHyvlevq) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Supervillain](https://open.spotify.com/album/6rCVDSRjaQq6f1cJfYXoN6) | 6:51 |
 | 80 | [Baby](https://open.spotify.com/track/0wPfUQUkWcguy2iUH0BWOT) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 4:24 |
 | 81 | [Music Sounds Better With You](https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR), [Benjamin Diamond](https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 6:43 |
 | 82 | [Oedo 808](https://open.spotify.com/track/29vBqbsSx0PaDc7e8SZwqm) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Ambivert Tools, Vol\. 4](https://open.spotify.com/album/5Tk7z0XOX8FLfrPFztPIvw) | 5:28 |
 | 83 | [Rainbow Road](https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:27 |
-| 84 | [Eyes Of My Mind](https://open.spotify.com/track/6eLNnJwSlwEStbIAZVAYzd) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Eyes Of My Mind](https://open.spotify.com/album/0WaYnVmCtKMrDTWffsSKb2) | 9:12 |
+| 84 | [Eyes Of My Mind](https://open.spotify.com/track/6YJTp8v1HisYQO19gej6eb) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Eyes Of My Mind](https://open.spotify.com/album/4qpQvJsye5Ur3xU67Rj40w) | 9:12 |
 | 85 | [Bias](https://open.spotify.com/track/75QdM3nsnAluOD19G1J4il) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 5:08 |
 | 86 | [Natural](https://open.spotify.com/track/0kGkvqy8ne40PwxNWZ01XL) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:59 |
 | 87 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 96 | [Never Come Back](https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 5:05 |
 | 97 | [Clarity](https://open.spotify.com/track/58JrbATX4NH6fJOI49SwhQ) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Expectations](https://open.spotify.com/album/6CCNyMzRfX5mU4iZBw4Ahe) | 5:48 |
 | 98 | [Taurus](https://open.spotify.com/track/6ARmIHYy1T3zQ2QckNsbj3) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Taurus](https://open.spotify.com/album/7ENEJQ25o6uG8J1fS5uaZw) | 4:42 |
-| 99 | [Moninga](https://open.spotify.com/track/4P79noXrKGHrYUrsZioxjv) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/51Feoswkepa9SEg307gah5) | 4:55 |
+| 99 | [Moninga](https://open.spotify.com/track/3jlygH5CHIUsQQwos8F9th) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/1pU2gXK7SEvzQjZJflm0kR) | 4:55 |
 | 100 | [Balance \- Dj Floor Remix](https://open.spotify.com/track/0zKxARvuFIfUMx1MiuZaMR) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6), [DJ Floor](https://open.spotify.com/artist/6BuZRXj92YFV1pm7G8ZEyY) | [Balance \(Remixes\)](https://open.spotify.com/album/2OYcucJqPHC9paken1byEp) | 4:07 |
 
-Snapshot ID: `MCxkMjdmYmVhM2IxYWUxMDFkOWMwMGU5MWM1ZDkzZGE0ZTRjZmRiN2Q0`
+Snapshot ID: `MCxjMTU3MjE2NzAxMmJjMWNlNTk3YjZkMjdhZjdjZThiMDQ3Nzg1YzFk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 
 > The official playlist for Valeria\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,554 likes - 76 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,549 likes - 76 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 | 62 | [Coco Zoot Suit](https://open.spotify.com/track/11w5ozJm4xU3AKcWOqycJQ) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS) | [Pachuco](https://open.spotify.com/album/2k79RYvhGM1YUQiyZAWm0Y) | 3:37 |
 | 63 | [Casa Tomada](https://open.spotify.com/track/3fcmvAXF3yz6QrJTBEnHzI) | [Karen Koltrane](https://open.spotify.com/artist/3YYPLxlWg7tCoWHJT5Ltv9) | [Plantas de Interior](https://open.spotify.com/album/6If1Nf1dYZXoQhcUHEMQsR) | 3:16 |
 | 64 | [Hoy Será un Día Horrible](https://open.spotify.com/track/3NcqwXzu1snEHTz8eoku8l) | [Confeti de Odio](https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ) | [Hoy Será un Día Horrible](https://open.spotify.com/album/01cmhT22xDPE0BPE5plNys) | 2:42 |
-| 65 | [Tu Conmigo](https://open.spotify.com/track/0736ecsK67zf74RJ2ibusE) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Tu Conmigo](https://open.spotify.com/album/1GMJI7IGfE1iU8EO4uRQQJ) | 3:33 |
+| 65 | [Tu Conmigo](https://open.spotify.com/track/0736ecsK67zf74RJ2ibusE) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9), [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Tu Conmigo](https://open.spotify.com/album/1GMJI7IGfE1iU8EO4uRQQJ) | 3:33 |
 | 66 | [Where the Time Went](https://open.spotify.com/track/3OkUiHa9aiUor3HphYw7CH) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Ex:Re](https://open.spotify.com/album/30sddBZ6VjuOkhIXvdE0Pw) | 4:10 |
 | 67 | [Wicked](https://open.spotify.com/track/0VglkQLWWiEeq0Qrva9zUN) | [Cycle](https://open.spotify.com/artist/1t9h9FknndxGe1PtzpxQek) | [Wicked](https://open.spotify.com/album/1xGfzBn6vU7J5yeyL4S6DQ) | 3:48 |
 | 68 | [Rooting For You](https://open.spotify.com/track/0HFCw1viBRc2siCdkjL86P) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Truth Is a Beautiful Thing \(Deluxe\)](https://open.spotify.com/album/2czuN6tZcR5ebpuK9A1Vur) | 4:29 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 | 75 | [Voilà](https://open.spotify.com/track/7z9b9sw3k2ov3fO6YHKLHO) | [Club Yoko](https://open.spotify.com/artist/3kcV06zLtzUXC1p43aO5DJ) | [Voilà](https://open.spotify.com/album/7asKOioOiNZUhL5JiQs30H) | 2:25 |
 | 76 | [Everybody Hurts](https://open.spotify.com/track/1keQQqma4XPBRL1e6USd7Z) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Dream On](https://open.spotify.com/album/4EKA6cOPmM0VmjHigV03QH) | 3:36 |
 
-Snapshot ID: `MCxmNzE5M2Q5MTIzZGMzN2Y1OTIwNTIxMDQ3NzFkYjJiOGZjYzI1Mzk2`
+Snapshot ID: `MCxhNzgyY2Y2ZTM1N2Y3MmM0M2Q1MGQ1NmFiNzY1ZDdiZDNiOTYzNTM4`

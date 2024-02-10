@@ -4,7 +4,7 @@
 
 > glaivepilled
 
-1,946 songs - 3 day 16 hr 35 min
+1,948 songs - 3 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [4700](https://open.spotify.com/track/5tJ5xSNBjMs4GkeZx3oWzs) | [Body Meat](https://open.spotify.com/artist/4BrSvpXSgT02JhhNULggJk) | [4700](https://open.spotify.com/album/4wyAzYfbiNeDm7qzRGJ6LK) | 2:36 | 2021-03-06 | 2021-09-21 |
 | [480](https://open.spotify.com/track/3UWLOdQnXEVK4CNikztTsp) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [480](https://open.spotify.com/album/2ZQ6EhBBPUWTRYIWIXxf3L) | 3:32 | 2022-07-08 | 2022-08-13 |
 | [4am insomnia, crying](https://open.spotify.com/track/6L8cciaQIKhCmgBDXkCQ16) | [Folie](https://open.spotify.com/artist/3Zqgsigtoi91K3Nboh0qv4) | [123!](https://open.spotify.com/album/2NrhsOLvdnxM0lvcG3IZJZ) | 3:12 | 2021-05-08 | 2021-05-15 |
+| [4eva](https://open.spotify.com/track/36cJT1XQw11vx8QIAHsj2Z) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj) | [4eva](https://open.spotify.com/album/1qH35yuPAM1IfRJBsKyCo8) | 2:20 | 2024-02-09 |  |
 | [4ever1](https://open.spotify.com/track/0GxANOXWo9oJRjH32EOYkW) | [caro♡](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [4ever1](https://open.spotify.com/album/07D2Gq848vkcj5T1Gpfoyl) | 2:36 | 2023-08-25 | 2024-01-23 |
 | [4get](https://open.spotify.com/track/2mlgFhBe2shVc1ITY0ri9B) | [Delto](https://open.spotify.com/artist/1WlSGhncfBqk79KNYuTicp), [Canna](https://open.spotify.com/artist/3UQddXFBR9NoYWpcxwAYkh) | [4get](https://open.spotify.com/album/6fDcYde0k1VUiSaK5hTCc6) | 2:19 | 2023-01-05 | 2023-05-20 |
 | [4MOODss](https://open.spotify.com/track/6pFS1Q3ahb61zbdpDjh0va) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [4MOODss](https://open.spotify.com/album/0XFtDRtGSUWvx89Mo4l6T1) | 1:45 | 2022-01-28 | 2022-10-22 |
@@ -416,6 +417,7 @@
 | [Daisy 2.0 \(feat\. Hatsune Miku\)](https://open.spotify.com/track/0s8RXkQW9lwGEV6WlG8KDq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Daisy 2.0 \(feat\. Hatsune Miku\)](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) | 2:47 | 2021-01-08 | 2021-02-10 |
 | [dammit](https://open.spotify.com/track/3Dbs5eRMWdL4wec9Dulqmt) | [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m) | [dammit](https://open.spotify.com/album/6xuifeIak1B5uTRH7dqFWM) | 2:25 | 2021-06-05 | 2021-09-24 |
 | [dance in the moonlight](https://open.spotify.com/track/2SP8AAgffttY401Ye5xpZH) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [dance in the moonlight](https://open.spotify.com/album/0QjzftDk0NKAv4WhAsQVDL) | 2:21 | 2021-05-15 | 2021-09-24 |
+| [dancinwithsomebawdy](https://open.spotify.com/track/5v7oj9PosKdE39x9uwDs6C) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [DOA](https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP) | 2:23 | 2024-02-09 |  |
 | [Dang](https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Dang](https://open.spotify.com/album/3DZodwqZN2YkjgI0NAwyS8) | 2:44 | 2023-10-20 |  |
 | [danger](https://open.spotify.com/track/3Oh2SywMUJg6DE8HPckmkL) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [danger](https://open.spotify.com/album/7ChY198ifAiVtE61EmHpVv) | 1:31 | 2021-01-08 | 2021-02-10 |
 | [darkage](https://open.spotify.com/track/2jAGD9wgFRad8RCrUi9dY5) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [darkage/innocence](https://open.spotify.com/album/0zwPSDxKufsPnzATFYneGW) | 3:17 | 2023-06-30 | 2024-01-23 |

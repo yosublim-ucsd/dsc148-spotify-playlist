@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: berlioz
 
-393 songs - 23 hr 57 min
+394 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,13 +111,14 @@
 | [Doppelganger](https://open.spotify.com/track/1Zj4AHgqSCwkk0eSV6urkI) | [Freddie Joachim](https://open.spotify.com/artist/0GgkfnO3Bu2CFn65ZH31TF), [QSTN](https://open.spotify.com/artist/4064K2hGMavsOltwUzVRjG) | [Trouvaille](https://open.spotify.com/album/0UQwQHWci0xsj4jeoQOsmv) | 4:00 | 2021-01-29 | 2021-12-28 |
 | [Dr\. Disclosure](https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 3:43 | 2022-09-02 |  |
 | [Dr\. T](https://open.spotify.com/track/5x53ccMRbSrLsmdMhkZAHF) | [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F) | [Dr\. T](https://open.spotify.com/album/3VyBpt3BJXx5GiuVAcBz1f) | 2:33 | 2022-08-26 | 2022-11-05 |
+| [Dreaded Truth](https://open.spotify.com/track/4IhCYRCAwGSc2l5q0fXiZo) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Dreaded Truth](https://open.spotify.com/album/6fMb8MTAJz13YRzwgc39h5) | 3:49 | 2024-02-09 |  |
 | [Dream Drone](https://open.spotify.com/track/6vCBak8jhaFOhvjaLRrVuw) | [Soundscape Orchestra](https://open.spotify.com/artist/3YnBDgy1QEbGQhYAbwjvsg) | [Dream Drone](https://open.spotify.com/album/7tFujmdb2OsP05AVQaTR7q) | 4:28 | 2021-07-30 |  |
 | [Dribble](https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Dribble](https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc) | 3:30 | 2021-12-10 | 2023-05-13 |
 | [DRILLTRONICA](https://open.spotify.com/track/1WdBJ4uehsp1O7GfdZiHq7) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [DRILLTRONICA](https://open.spotify.com/album/3yYKfRTzyRQsUWJvBLe85Y) | 2:52 | 2023-09-29 |  |
 | [Drosa is real! \- Lindstrøm Remix](https://open.spotify.com/track/2GXuEBwNTxtLlFjJTIvLtF) | [OJKOS](https://open.spotify.com/artist/3SvYLxzIrrlQZoXEAbP8ge), [Andreas Rotevatn](https://open.spotify.com/artist/7c1MJLpX1Vro7RomKzLy1j), [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Drosa is real! \(Lindstrøm Remix\)](https://open.spotify.com/album/7IZaEvQMN84An2b8U5CTln) | 12:11 | 2022-11-04 | 2023-07-29 |
 | [Drum Punishment](https://open.spotify.com/track/18YutEFKQyHt5TUnVR9EAW) | [Jon Kennedy](https://open.spotify.com/artist/0quxTLpktFyiRP853em5Fn) | [Drum Punishment](https://open.spotify.com/album/17MNtFFgce54OjvgtXLEEV) | 6:38 | 2023-11-24 |  |
 | [dshirtcannon](https://open.spotify.com/track/1LQH51LwNdTa6LOWDnKbNE) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng) | [dshirtcannon](https://open.spotify.com/album/0YzCRSXSTiTWqt2utdYk2R) | 2:46 | 2022-09-23 | 2022-11-02 |
-| [Dust](https://open.spotify.com/track/5XtMBGpr7LFDaNAgaLjYJZ) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Dust](https://open.spotify.com/album/5luYEHn75FMUQUMUzqZnd5) | 2:59 | 2024-01-12 |  |
+| [Dust](https://open.spotify.com/track/5XtMBGpr7LFDaNAgaLjYJZ) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Dust](https://open.spotify.com/album/5luYEHn75FMUQUMUzqZnd5) | 2:59 | 2024-01-12 | 2024-02-10 |
 | [DustyRhodes](https://open.spotify.com/track/0p86NW8fZx444PaWFtFiQz) | [Robot Orchestra](https://open.spotify.com/artist/69CjG40nknFw4W8vrmdgHV) | [Beats on Road Vol\. 1](https://open.spotify.com/album/3NDzzMLYecGbgFY4TRRgBX) | 2:51 | 2021-01-29 | 2022-02-27 |
 | [Earthbound](https://open.spotify.com/track/7BxU2TjXBu8vsj8b65pZOx) | [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [9](https://open.spotify.com/album/0tFXAGYveNW9bQYRBXOwKO) | 6:49 | 2022-03-25 |  |
 | [EAV \(Elia Bishara Remix\)](https://open.spotify.com/track/6NEr5gRrW3lD2o5Oi1yigG) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1), [Elia Bishara](https://open.spotify.com/artist/3xZoTrvQZKGDJERzVcjW5q) | [EAV \(Elia Bishara Remix\)](https://open.spotify.com/album/5eG9SYzeKrnU0TjwGMQgcR) | 3:14 | 2021-08-06 |  |

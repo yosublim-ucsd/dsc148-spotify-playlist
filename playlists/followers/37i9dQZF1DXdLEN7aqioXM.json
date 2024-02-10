@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 988339,
+  "2024-02-10": 988431,
   "date_first_scraped": "2022-01-17",
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
   "name": "Retrowave // Outrun",
@@ -1209,7 +1209,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 197209,
       "name": "Communication",
       "url": "https://open.spotify.com/track/71z55WQyp9EDfGe7U2bHkm"
@@ -2945,6 +2945,28 @@
       "duration_ms": 268805,
       "name": "Floating Point",
       "url": "https://open.spotify.com/track/74to5kEhZdvStCc9bS9hSG"
+    },
+    {
+      "album": {
+        "name": "Fluorescence",
+        "url": "https://open.spotify.com/album/5TVBn9QpUdKzjGYtI3snGw"
+      },
+      "artists": [
+        {
+          "name": "Odyssette",
+          "url": "https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ"
+        },
+        {
+          "name": "Melllo",
+          "url": "https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235714,
+      "name": "Fluorescence",
+      "url": "https://open.spotify.com/track/4K3onPe55qb2WsgrvOZmu7"
     },
     {
       "album": {

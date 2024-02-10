@@ -4,7 +4,7 @@
 
 > The USB essentials that defined our setlists this year\. Cover: Skrillex, Fred again.\. & Four Tet
 
-168 songs - 11 hr 30 min
+169 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [I Go \- Soulwax Remix](https://open.spotify.com/track/3PQyUWqndc51vb1JYrqxuC) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [I Go \(Remixes\)](https://open.spotify.com/album/5ROthns2NsZzi0cx6o0vcs) | 6:50 | 2022-11-30 | 2023-11-30 |
 | [I Go \- Soulwax Remix](https://open.spotify.com/track/577TxxoJTaW1BxH6EUDlTS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 6:50 | 2022-11-30 | 2023-11-05 |
 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 | 2023-11-29 |  |
-| [In A Daze](https://open.spotify.com/track/2Xgp5bKIzfZfj3WqjTdjge) | [LADYMONIX](https://open.spotify.com/artist/2L20FlBvHKIMNeMFhtrwjO) | [Welcome 2 My House](https://open.spotify.com/album/1zYlBqGoWNoEp3WrKULrWT) | 5:00 | 2023-11-29 |  |
+| [In A Daze](https://open.spotify.com/track/2Xgp5bKIzfZfj3WqjTdjge) | [LADYMONIX](https://open.spotify.com/artist/2L20FlBvHKIMNeMFhtrwjO) | [Welcome 2 My House](https://open.spotify.com/album/1zYlBqGoWNoEp3WrKULrWT) | 5:00 | 2023-11-29 | 2024-02-10 |
+| [In A Daze](https://open.spotify.com/track/37Y0dT6HzzOrbjrrq3pwTy) | [LADYMONIX](https://open.spotify.com/artist/2L20FlBvHKIMNeMFhtrwjO) | [Welcome 2 My House](https://open.spotify.com/album/56H7AoNgSLojnlJLAECuYE) | 5:00 | 2023-11-29 |  |
 | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF) | 2:36 | 2022-11-30 | 2023-11-30 |
 | [Installation](https://open.spotify.com/track/5tMMwt4iwS2fVm7KmGjxH4) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Installation](https://open.spotify.com/album/6yn27YPHsjVAQWgitNkcQo) | 3:43 | 2023-11-29 |  |
 | [Is It You](https://open.spotify.com/track/4jlS72eGLijzfr7PymxDYi) | [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv) | [Is It You](https://open.spotify.com/album/0slFvrkkV4qgU8HPsDZDSh) | 2:39 | 2022-11-30 | 2023-11-30 |

@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Tekis & Cantores del Monte
 
-161 songs - 8 hr 56 min
+162 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,11 +158,12 @@
 | [Ven](https://open.spotify.com/track/5yE5IV949jrNBOGPg4saN3) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Es con mi voz](https://open.spotify.com/album/0rHKr5S8LVHeSkO531KDeS) | 3:44 | 2021-12-31 |  |
 | [Viaje](https://open.spotify.com/track/1sx0wAmnvniAus4EJzIN5g) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Viaje](https://open.spotify.com/album/3GVVx7A9HewidYwsqs518a) | 2:54 | 2022-07-01 |  |
 | [Viaje](https://open.spotify.com/track/4UjDVvkhkQ8QtC5BtfWQvr) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Viaje](https://open.spotify.com/album/2sfFfPFl3UsWwThTi3fcnu) | 2:54 | 2021-12-31 | 2022-07-29 |
+| [Viejo Amor de Carnaval](https://open.spotify.com/track/64TDfRjJi79XsYjr0Jqtig) | [Bruno Arias](https://open.spotify.com/artist/59OheJsvimLlXWvuL9j7Df), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Viejo Amor de Carnaval](https://open.spotify.com/album/2a66MEbmhooXRUF4Pi2ReT) | 3:57 | 2024-02-09 |  |
 | [Volver a Tilcara](https://open.spotify.com/track/16geadYN33K4xS9tRG19Aq) | [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt) | [Volver](https://open.spotify.com/album/3fFfsF1BIYQ5h8BSSqFpaF) | 4:57 | 2022-07-01 |  |
 | [Volver a Tilcara](https://open.spotify.com/track/1Ab4W9QwZf30bFMsiH3RpM) | [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt) | [Volver](https://open.spotify.com/album/64kjdSVZf0RDPJrv73sCpW) | 4:57 | 2021-12-31 | 2022-07-29 |
 | [Volver a Verte](https://open.spotify.com/track/5OP2PMkXcIIbEzztGKPYve) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Yo Soy el Indio](https://open.spotify.com/album/38i6QhEOVlyZG2Lwumhkzp) | 2:23 | 2021-12-31 |  |
 | [Vuelve La Llama](https://open.spotify.com/track/5ji0BDOEcT5ITZHsrWfMGX) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Vuelve La Llama](https://open.spotify.com/album/79mwd2rHekN02U2DuS4tJ0) | 1:59 | 2022-10-07 | 2023-09-02 |
-| [Y Esto es Amor](https://open.spotify.com/track/4B0XjiCfFLIbM2HtdnK3y4) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Todos Nos Vamos a Morir Igual](https://open.spotify.com/album/0oNze3jhUZgjvG35fDoCLg) | 3:05 | 2023-11-10 |  |
+| [Y Esto es Amor](https://open.spotify.com/track/4B0XjiCfFLIbM2HtdnK3y4) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Todos Nos Vamos a Morir Igual](https://open.spotify.com/album/0oNze3jhUZgjvG35fDoCLg) | 3:05 | 2023-11-10 | 2024-02-10 |
 | [Y Se Ha Perdido](https://open.spotify.com/track/0ofyerWCBNnE5BII7nT0uu) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Cantores del Monte](https://open.spotify.com/artist/2bsUgT4yRno4ieeZdDs0ol), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3), [Christian Herrera y Matacos](https://open.spotify.com/artist/2TcOOjVN4yyZhYxdSlL2WD), [Lázaro Caballero](https://open.spotify.com/artist/3KwYcQJwieAX356xu883lc) | [Y Se Ha Perdido](https://open.spotify.com/album/2quBmfr36G3FvWHFVGSv4i) | 3:23 | 2023-09-08 |  |
 | [Yo seré Jujuy](https://open.spotify.com/track/17KOVqmT5m2Rdloo3440SF) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Yo Seré Jujuy](https://open.spotify.com/album/4lq8LJDZ53ZJZ2nEsH69cV) | 4:06 | 2021-12-31 | 2023-07-15 |
 | [Yo Soy](https://open.spotify.com/track/0JRPALRWpLmVif7MafmBja) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [Yo Soy](https://open.spotify.com/album/7pcf9UsIsZWSQqSVMf4t6C) | 2:41 | 2022-02-18 |  |

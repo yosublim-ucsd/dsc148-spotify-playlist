@@ -1,312 +1,284 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10615,
+  "num_followers": 10612,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjY3MCwyZWY4ZWFiZGQ4MTQyZjk0MGJjOWEzYjk0MDY2ZmM3YmViMGNiNzk2",
+  "snapshot_id": "MjY3Myw2NTkxZGQxYzI0OGJhZmQ1MzRhNmQzOWZiYTdkNDkyYzY4ZmExOWUx",
   "tracks": [
     {
-      "added_at": "2024-02-02 13:28:42",
+      "added_at": "2024-02-09 12:07:03",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/0Lxcnu23IVYAYTUw5oHkeY"
+        "name": "Never Be Lonely",
+        "url": "https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX"
       },
       "artists": [
         {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 337473,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/6fSFZusee1TtCLfxz3BuQ2"
-    },
-    {
-      "added_at": "2024-02-02 13:28:42",
-      "album": {
-        "name": "SHADES ON (feat. Kreayshawn)",
-        "url": "https://open.spotify.com/album/1lwoeImjSk4zUeXVElnYq5"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         },
         {
-          "name": "Kreayshawn",
-          "url": "https://open.spotify.com/artist/51xJF4OqJPHWop1fv0VVyd"
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
         }
       ],
-      "duration_ms": 125317,
-      "name": "SHADES ON (feat. Kreayshawn)",
-      "url": "https://open.spotify.com/track/2D1wT4mfte0LcOvzSagA9H"
+      "duration_ms": 134570,
+      "name": "Never Be Lonely",
+      "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
     },
     {
-      "added_at": "2024-02-02 13:28:42",
+      "added_at": "2024-02-09 12:07:03",
       "album": {
-        "name": "downtime",
-        "url": "https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va"
+        "name": "Lonely Dancers",
+        "url": "https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd"
       },
       "artists": [
         {
-          "name": "Tyler Lewis",
-          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 192336,
-      "name": "downtime",
-      "url": "https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU"
+      "duration_ms": 149027,
+      "name": "Lonely Dancers",
+      "url": "https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb"
     },
     {
-      "added_at": "2024-02-02 13:28:42",
+      "added_at": "2024-02-09 12:07:03",
       "album": {
-        "name": "The Thrill Of It",
-        "url": "https://open.spotify.com/album/6FpdWwlJLpBq2cViZH5HVd"
+        "name": "The Alibi",
+        "url": "https://open.spotify.com/album/3P6qBjL0wCjcMsKWAAvQ3x"
       },
       "artists": [
         {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
         }
       ],
-      "duration_ms": 196491,
-      "name": "The Thrill Of It",
-      "url": "https://open.spotify.com/track/3kGIAI6oq9ArkwEdbN1VJR"
+      "duration_ms": 195850,
+      "name": "The Alibi",
+      "url": "https://open.spotify.com/track/4JyS3WGxalmpzgEbVyTycL"
     },
     {
-      "added_at": "2024-02-02 13:28:42",
+      "added_at": "2024-02-09 12:07:03",
       "album": {
-        "name": "Make It Better (Forever)",
-        "url": "https://open.spotify.com/album/0cTzaPNkX2h0FgsziGcLii"
+        "name": "Embarrass Me",
+        "url": "https://open.spotify.com/album/13jqYeD6qVryC32NcNmjuJ"
       },
       "artists": [
         {
-          "name": "Ashibah",
-          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+          "name": "Phoebe Green",
+          "url": "https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP"
         }
       ],
-      "duration_ms": 236065,
-      "name": "Make It Better (Forever)",
-      "url": "https://open.spotify.com/track/6byF2hiezKTIqw7ONyKnew"
+      "duration_ms": 202940,
+      "name": "Embarrass Me",
+      "url": "https://open.spotify.com/track/1TML4uP3YosP8qY4zn35VV"
     },
     {
-      "added_at": "2024-02-02 13:28:42",
+      "added_at": "2024-02-09 12:07:03",
       "album": {
-        "name": "Apollo & His Unfortunate Love Affairs",
-        "url": "https://open.spotify.com/album/6L9TymDFvh3aGKWwXjwzSv"
+        "name": "DANGEROUS",
+        "url": "https://open.spotify.com/album/5LOnXzJP3e0HpfLEhI90WT"
       },
       "artists": [
         {
-          "name": "Leif Coffield",
-          "url": "https://open.spotify.com/artist/1WE7m8KGhnIBIbuaMH50Cm"
+          "name": "BRONZE AVERY",
+          "url": "https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW"
         }
       ],
-      "duration_ms": 149750,
-      "name": "Fire It Up",
-      "url": "https://open.spotify.com/track/56zbELnC0VcZRwHPPsDrwH"
+      "duration_ms": 135126,
+      "name": "DANGEROUS",
+      "url": "https://open.spotify.com/track/00PDGvlxB9SNJkDI6VL7HF"
     },
     {
-      "added_at": "2024-02-02 13:28:42",
+      "added_at": "2024-02-09 12:07:03",
       "album": {
-        "name": "Ring of Fire",
-        "url": "https://open.spotify.com/album/3InbOoiiYeS0KH7bpNONWm"
+        "name": "Done",
+        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
       },
       "artists": [
         {
-          "name": "Nicola H\u00f8ie",
-          "url": "https://open.spotify.com/artist/0shFBysGw18zUHjV934zn3"
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
         }
       ],
-      "duration_ms": 185175,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/6TIcjf4AzSU3rihSPI91Rz"
+      "duration_ms": 185624,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
     },
     {
-      "added_at": "2024-02-02 13:28:42",
+      "added_at": "2024-02-09 12:07:03",
       "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/3Fm13iU479MJh6ePRdYU35"
+        "name": "eyebags",
+        "url": "https://open.spotify.com/album/3W0eHqZomTyXz0IGVGV8L6"
       },
       "artists": [
         {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
         }
       ],
-      "duration_ms": 158500,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/4pDMigVe00CtmHeqSD0Yvy"
+      "duration_ms": 99326,
+      "name": "eyebags",
+      "url": "https://open.spotify.com/track/0QSMrOuieFPSh3T3oDLt9T"
     },
     {
-      "added_at": "2024-02-02 13:28:42",
+      "added_at": "2024-02-09 12:07:03",
       "album": {
-        "name": "Body Go (feat. Sophie Stray)",
-        "url": "https://open.spotify.com/album/7a8kbOg8hoBzvdeNOW7ujv"
+        "name": "Drop 7",
+        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
       },
       "artists": [
         {
-          "name": "Richello",
-          "url": "https://open.spotify.com/artist/6DWVgFfHyhUISYq0lzYYu6"
-        },
-        {
-          "name": "Sophie Stray",
-          "url": "https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 130320,
-      "name": "Body Go (feat. Sophie Stray)",
-      "url": "https://open.spotify.com/track/1BGTVySDixRJqppRTb479s"
+      "duration_ms": 140946,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB"
     },
     {
-      "added_at": "2024-02-02 13:28:42",
+      "added_at": "2024-02-09 12:07:03",
       "album": {
-        "name": "House of Cards",
-        "url": "https://open.spotify.com/album/7jddk2JXxlq6w6mreUU5kY"
+        "name": "WE SHOULD",
+        "url": "https://open.spotify.com/album/6rczWrANRP3KGG9gpcAu9A"
       },
       "artists": [
         {
-          "name": "Oda Loves You",
-          "url": "https://open.spotify.com/artist/1SPo0Gb7MLOZRbrpnj4ybr"
+          "name": "Bentley Robles",
+          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
         }
       ],
-      "duration_ms": 179208,
-      "name": "House of Cards",
-      "url": "https://open.spotify.com/track/3gUUCRTLaLhbwkIOsTUTzq"
+      "duration_ms": 201001,
+      "name": "WE SHOULD",
+      "url": "https://open.spotify.com/track/2FmHQKkWKdbIFJl5yZ3ZJN"
     },
     {
-      "added_at": "2024-02-02 13:28:42",
+      "added_at": "2024-02-09 12:07:03",
       "album": {
-        "name": "Journey (feat. Mysie)",
-        "url": "https://open.spotify.com/album/7ctNCieIMcJdrHIgdLmJKW"
+        "name": "Me Against My Head",
+        "url": "https://open.spotify.com/album/0tmn7v8vBOhVIksEpxJ2uh"
       },
       "artists": [
         {
-          "name": "Bondax",
-          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
-        },
-        {
-          "name": "Mysie",
-          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
         }
       ],
-      "duration_ms": 300000,
-      "name": "Journey (feat. Mysie)",
-      "url": "https://open.spotify.com/track/3aZ8RfhiOdUJEP6h2H17y6"
+      "duration_ms": 200040,
+      "name": "Me Against My Head",
+      "url": "https://open.spotify.com/track/7CDQfxlivFpECBbv240tAw"
     },
     {
-      "added_at": "2024-02-02 13:28:42",
+      "added_at": "2024-02-09 12:07:03",
       "album": {
-        "name": "I'm Trying",
-        "url": "https://open.spotify.com/album/5KnD1N7X7C354kUSpgPmEO"
+        "name": "Dirty Laundry",
+        "url": "https://open.spotify.com/album/6YRSI9kQsGarMWYbC8ufwg"
       },
       "artists": [
         {
-          "name": "M\u00f6rmaid",
-          "url": "https://open.spotify.com/artist/2JIx9WZoZX8BE9yJW560x5"
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
         }
       ],
-      "duration_ms": 282661,
-      "name": "I'm Trying",
-      "url": "https://open.spotify.com/track/2oAEkesjJB7QtX9GjdmEil"
+      "duration_ms": 162841,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/6fXRkebjRLEBp95VEYs4Gw"
     },
     {
-      "added_at": "2024-02-02 13:28:42",
+      "added_at": "2024-02-09 12:07:03",
       "album": {
-        "name": "Digital Heartifacts",
-        "url": "https://open.spotify.com/album/1DzhKoFw6wH2f0SUQXy4Gz"
+        "name": "I'm A Problem",
+        "url": "https://open.spotify.com/album/05aBNGyZXvNmHprF5WBz31"
       },
       "artists": [
         {
-          "name": "L Devine",
-          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
         }
       ],
-      "duration_ms": 183879,
-      "name": "Eaten Alive",
-      "url": "https://open.spotify.com/track/35faJo4BXu9qVFOiCVIOyr"
+      "duration_ms": 143990,
+      "name": "I'm A Problem",
+      "url": "https://open.spotify.com/track/4MZlok15YADkYH2WVEyrRc"
     },
     {
-      "added_at": "2024-02-02 13:28:42",
+      "added_at": "2024-02-09 12:07:03",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/1DyEIWeTtsnvgYUbRNtii5"
-      },
-      "artists": [
-        {
-          "name": "Edel",
-          "url": "https://open.spotify.com/artist/5iiMfOxrhf7zPwB0quYvgW"
-        }
-      ],
-      "duration_ms": 141975,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/3A3hxddp7lKOnHhVD1oLhI"
-    },
-    {
-      "added_at": "2024-02-02 13:28:42",
-      "album": {
-        "name": "langt avsted",
-        "url": "https://open.spotify.com/album/087s039UG6w58Ikf5qr35s"
-      },
-      "artists": [
-        {
-          "name": "L.U:N.A",
-          "url": "https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "langt avsted",
-      "url": "https://open.spotify.com/track/7oPEmz14GqJrLPPWM2MrUt"
-    },
-    {
-      "added_at": "2024-02-02 13:28:42",
-      "album": {
-        "name": "Kiss of Life",
-        "url": "https://open.spotify.com/album/41nNKXQpTQG2pYmoarJZwt"
-      },
-      "artists": [
-        {
-          "name": "Shaznay Lewis",
-          "url": "https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2"
-        }
-      ],
-      "duration_ms": 177873,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/4uAdlTvlNFUapQ4muzBh24"
-    },
-    {
-      "added_at": "2024-02-02 13:28:42",
-      "album": {
-        "name": "I GOT YOU",
-        "url": "https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL"
+        "name": "I GOT YOU (Voyage ver.)",
+        "url": "https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P"
       },
       "artists": [
         {
           "name": "TWICE",
           "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 173240,
-      "name": "I GOT YOU",
-      "url": "https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx"
+      "duration_ms": 184346,
+      "name": "I GOT YOU (Feat. Lauv)",
+      "url": "https://open.spotify.com/track/3X8L4DUPjLUE1cr8omydPT"
     },
     {
-      "added_at": "2024-02-02 13:28:42",
+      "added_at": "2024-02-09 12:07:03",
       "album": {
-        "name": "Oh No :: He Said What?",
-        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/2JhXO4R9yTtKFRekjmYhNQ"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Mia Rodriguez",
+          "url": "https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID"
         }
       ],
-      "duration_ms": 228138,
-      "name": "Oh No :: He Said What?",
-      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
+      "duration_ms": 132093,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/0n1QbA4Xdj0KE98xzOdcv0"
+    },
+    {
+      "added_at": "2024-02-09 12:07:03",
+      "album": {
+        "name": "Me & You",
+        "url": "https://open.spotify.com/album/38VJAoF7dSL6bYhyx6NoXy"
+      },
+      "artists": [
+        {
+          "name": "Rammor",
+          "url": "https://open.spotify.com/artist/73147xL7gw2ilXfbVPzTuw"
+        },
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        },
+        {
+          "name": "Sirena",
+          "url": "https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw"
+        }
+      ],
+      "duration_ms": 163776,
+      "name": "Me & You",
+      "url": "https://open.spotify.com/track/6sTnL0DPrgamKDOz3pitld"
+    },
+    {
+      "added_at": "2024-02-09 12:07:03",
+      "album": {
+        "name": "Sweetest Issue",
+        "url": "https://open.spotify.com/album/5xfe7nxVDnShJEm4UpsPNQ"
+      },
+      "artists": [
+        {
+          "name": "Olivera",
+          "url": "https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu"
+        }
+      ],
+      "duration_ms": 168518,
+      "name": "Sweetest Issue",
+      "url": "https://open.spotify.com/track/5mskSVBbQO6UIudQABwa3J"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

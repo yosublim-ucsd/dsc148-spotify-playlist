@@ -4,7 +4,7 @@
 
 > Classic and new soul music for the perfect dinner.
 
-368 songs - 23 hr 50 min
+369 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 | 2023-01-09 | 2023-06-28 |
 | [Beware](https://open.spotify.com/track/5j4DOzCdYv62mueHs6kezI) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Tellin' It](https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ) | 3:09 | 2023-06-27 |  |
 | [Biggest Part of Me](https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 5:24 | 2023-01-09 |  |
+| [Black Gold](https://open.spotify.com/track/3j30NMimTbUCiLx0LphpLQ) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5), [Algebra Blessett](https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Radio Music Society](https://open.spotify.com/album/0GRy0tSYoSbtuOziEDnDnZ) | 5:16 | 2023-08-15 |  |
 | [Blood Is Thicker Than Water](https://open.spotify.com/track/7o9d4vFTq7SQ4vx60dpe5D) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:21 | 2023-01-09 | 2023-06-28 |
 | [Body Heat](https://open.spotify.com/track/0OLOcKHN4uXRo5ISx2TAqk) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Body Heat](https://open.spotify.com/album/3lvSxvMmdUz694tDBXkPmv) | 3:58 | 2023-06-27 |  |
 | [Brand New Me](https://open.spotify.com/track/0w3AAvT5RNrwFCx9mItvIW) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [A Brand New Me](https://open.spotify.com/album/0pm72PHGq5z0yK60jXr36t) | 2:29 | 2023-01-09 | 2023-06-28 |
@@ -207,7 +208,7 @@
 | [Love, Love, Love](https://open.spotify.com/track/53ZRlP6Vv96bG0mc25DW2u) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Smooth Soul](https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD) | 3:24 | 2023-01-09 | 2023-06-28 |
 | [Love, Need And Want You](https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [The Essential Patti LaBelle](https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3) | 5:00 | 2023-01-09 |  |
 | [Lovely Day](https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 4:15 | 2023-01-09 | 2023-06-28 |
-| [Lovestreet 55](https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Lovestreet 55](https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH) | 3:58 | 2023-08-15 |  |
+| [Lovestreet 55](https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Lovestreet 55](https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH) | 3:58 | 2023-08-15 | 2024-02-10 |
 | [Lovin' You](https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Let Me Touch You](https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j) | 5:18 | 2023-01-09 | 2023-10-12 |
 | [Lowdown](https://open.spotify.com/track/20MxJN12WEqU5eWsuCrwM5) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [My Time: A Boz Scaggs Anthology \(1969\-1997\)](https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo) | 5:16 | 2023-06-27 |  |
 | [Lucky Man](https://open.spotify.com/track/4XBN0BNKaePeANSEcrs8vw) | [Courtney John](https://open.spotify.com/artist/53uGQ1amGHHb0Tzn2A6Oc0) | [Made In Jamaica](https://open.spotify.com/album/02a2wsjmtlcOn3mLbJuHb4) | 3:14 | 2023-06-27 |  |

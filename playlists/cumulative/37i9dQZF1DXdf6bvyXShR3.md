@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-151 songs - 14 hr 27 min
+152 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Follow your line](https://open.spotify.com/track/6kKydfPmNQKiBS6EjDvwat) | [Heiko Voss](https://open.spotify.com/artist/7iZKUiuW2jy1R3gWadKsvN) | [Follow your line](https://open.spotify.com/album/3bXjBnFx227eSWTF3C6NbP) | 4:10 | 2022-09-16 | 2023-03-10 |
 | [For The Good Times](https://open.spotify.com/track/4rDiAX7s4teiEy4XuE60hQ) | [Adam BFD](https://open.spotify.com/artist/1rEBNCllAuxwnJ8fIjevHv) | [No Advice](https://open.spotify.com/album/2BVZAdoOiBffpzBUYvrBU6) | 4:50 | 2022-09-16 |  |
 | [Fortune Teller](https://open.spotify.com/track/0gJEtth7lXp2ncUipiygU8) | [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ), [Roze \(FR\)](https://open.spotify.com/artist/3wNFteeT6nUephoQk8Gurw) | [Fortune Teller](https://open.spotify.com/album/06PQMahYBzV2tT0tYmLQO3) | 8:11 | 2023-06-09 | 2023-11-11 |
-| [Get Goofy](https://open.spotify.com/track/4cjxlrzzn8hSMEfRzJypFg) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22), [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Hotel Koko](https://open.spotify.com/album/0K5N4Inr14bXYElF0RsJBW) | 3:08 | 2023-03-09 |  |
+| [Get Goofy](https://open.spotify.com/track/4cjxlrzzn8hSMEfRzJypFg) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22), [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Hotel Koko](https://open.spotify.com/album/0K5N4Inr14bXYElF0RsJBW) | 3:08 | 2023-03-09 | 2024-02-10 |
+| [Get Goofy](https://open.spotify.com/track/7iao35v39ey2yAZHoTzmnf) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22), [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Hotel Koko](https://open.spotify.com/album/7j8cYYFqnoyHaRCxoSuCv1) | 3:08 | 2023-12-22 |  |
 | [Grace \(Hercules Club Mix\)](https://open.spotify.com/track/28qQOormF4a7N63VHbnkOV) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Mixed In Amber](https://open.spotify.com/album/1zE9RDroCJuR4xgEUY9ay2) | 7:03 | 2023-11-07 |  |
 | [Grace \(Hercules Club Mix\)](https://open.spotify.com/track/6VmDahYIiwfzSCEI9UhBBc) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Grace \(Hercules Club Mix\)](https://open.spotify.com/album/4ozlJujwoTPJc20H0nO7uD) | 7:03 | 2023-11-07 | 2023-12-14 |
 | [Grace \- Hercules Club Mix](https://open.spotify.com/track/1W1GYSixtVasgFXlWnkaPi) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Grace \(Hercules Club Mix\)](https://open.spotify.com/album/4iY6x6kDc4VBmaAnJHwZoj) | 7:03 | 2022-09-16 | 2023-11-11 |

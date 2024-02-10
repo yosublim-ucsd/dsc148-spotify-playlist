@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Nonpalidece.",
-  "num_followers": 57787,
+  "num_followers": 57794,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTZlZjY0NDMwMjFkYmJlZjAwNGY4ZjlkMTljOGNmZGVhNGM0NjFl",
+  "snapshot_id": "MCwwNjUzZGRkYmM1OWJmZTJjOTgzZjEzY2FiMDkyMzU2NGJmY2RjMGRh",
   "tracks": [
     {
       "added_at": "2024-01-11 22:31:38",
@@ -643,18 +643,22 @@
     {
       "added_at": "2024-01-11 22:31:38",
       "album": {
-        "name": "Ahora Lo S\u00e9",
-        "url": "https://open.spotify.com/album/68PtNir6GWJ4H09eIbOSPC"
+        "name": "Llamado",
+        "url": "https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H"
       },
       "artists": [
         {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        },
+        {
+          "name": "Anblessnabi",
+          "url": "https://open.spotify.com/artist/3uqqh1xh1gsFU2LRewg4x7"
         }
       ],
-      "duration_ms": 256372,
-      "name": "Ahora Lo S\u00e9",
-      "url": "https://open.spotify.com/track/2Wwu9dUOFgh6n8RZbicU3f"
+      "duration_ms": 225431,
+      "name": "Llamado",
+      "url": "https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin"
     },
     {
       "added_at": "2024-01-11 22:31:38",
@@ -707,22 +711,18 @@
     {
       "added_at": "2024-01-11 22:31:38",
       "album": {
-        "name": "Llamado",
-        "url": "https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H"
+        "name": "Ahora Lo S\u00e9",
+        "url": "https://open.spotify.com/album/68PtNir6GWJ4H09eIbOSPC"
       },
       "artists": [
         {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        },
-        {
-          "name": "Anblessnabi",
-          "url": "https://open.spotify.com/artist/3uqqh1xh1gsFU2LRewg4x7"
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
         }
       ],
-      "duration_ms": 225431,
-      "name": "Llamado",
-      "url": "https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin"
+      "duration_ms": 256372,
+      "name": "Ahora Lo S\u00e9",
+      "url": "https://open.spotify.com/track/2Wwu9dUOFgh6n8RZbicU3f"
     },
     {
       "added_at": "2024-01-11 22:31:38",
@@ -927,30 +927,18 @@
     {
       "added_at": "2024-01-11 22:31:38",
       "album": {
-        "name": "Rockin'",
-        "url": "https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw"
+        "name": "SIG RAGGA (Remaster 2023)",
+        "url": "https://open.spotify.com/album/2jSOavvzChm3DmxWwz7QXy"
       },
       "artists": [
         {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        },
-        {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
-        },
-        {
-          "name": "Rotman",
-          "url": "https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf"
-        },
-        {
-          "name": "Kevin Fingier",
-          "url": "https://open.spotify.com/artist/12QxNefUHXnBCZ7h7ekoEz"
+          "name": "Sig Ragga",
+          "url": "https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J"
         }
       ],
-      "duration_ms": 208563,
-      "name": "Revolution Rock",
-      "url": "https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu"
+      "duration_ms": 344249,
+      "name": "Feliz - Remaster 2023",
+      "url": "https://open.spotify.com/track/4GHEj2oYCgQYqdQJSwLG70"
     },
     {
       "added_at": "2024-01-11 22:31:38",
@@ -987,18 +975,30 @@
     {
       "added_at": "2024-01-11 22:31:38",
       "album": {
-        "name": "SIG RAGGA (Remaster 2023)",
-        "url": "https://open.spotify.com/album/2jSOavvzChm3DmxWwz7QXy"
+        "name": "Rockin'",
+        "url": "https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw"
       },
       "artists": [
         {
-          "name": "Sig Ragga",
-          "url": "https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J"
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        },
+        {
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+        },
+        {
+          "name": "Rotman",
+          "url": "https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf"
+        },
+        {
+          "name": "Kevin Fingier",
+          "url": "https://open.spotify.com/artist/12QxNefUHXnBCZ7h7ekoEz"
         }
       ],
-      "duration_ms": 344249,
-      "name": "Feliz - Remaster 2023",
-      "url": "https://open.spotify.com/track/4GHEj2oYCgQYqdQJSwLG70"
+      "duration_ms": 208563,
+      "name": "Revolution Rock",
+      "url": "https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu"
     },
     {
       "added_at": "2024-01-11 22:31:38",
@@ -1103,22 +1103,18 @@
     {
       "added_at": "2024-01-11 22:31:38",
       "album": {
-        "name": "Desenvaina",
-        "url": "https://open.spotify.com/album/5PENxTBkBfb8mdYD6WmilY"
+        "name": "Como la Flor",
+        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
       },
       "artists": [
         {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
-        },
-        {
-          "name": "Alika",
-          "url": "https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt"
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 182471,
-      "name": "Desenvaina",
-      "url": "https://open.spotify.com/track/2ZS1fTBq23a0DV25OEoXuE"
+      "duration_ms": 209007,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
     },
     {
       "added_at": "2024-01-11 22:31:38",
@@ -1159,18 +1155,22 @@
     {
       "added_at": "2024-01-11 22:31:38",
       "album": {
-        "name": "Como la Flor",
-        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
+        "name": "Desenvaina",
+        "url": "https://open.spotify.com/album/5PENxTBkBfb8mdYD6WmilY"
       },
       "artists": [
         {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt"
         }
       ],
-      "duration_ms": 209007,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
+      "duration_ms": 182471,
+      "name": "Desenvaina",
+      "url": "https://open.spotify.com/track/2ZS1fTBq23a0DV25OEoXuE"
     },
     {
       "added_at": "2024-01-11 22:31:38",
@@ -1207,26 +1207,18 @@
     {
       "added_at": "2024-01-11 22:31:38",
       "album": {
-        "name": "Walk Away",
-        "url": "https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f"
+        "name": "Cover Me",
+        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
       },
       "artists": [
         {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
-        },
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        },
-        {
-          "name": "Rotman",
-          "url": "https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf"
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo"
+      "duration_ms": 250493,
+      "name": "Culpable O No",
+      "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
     },
     {
       "added_at": "2024-01-11 22:31:38",
@@ -1267,6 +1259,30 @@
     {
       "added_at": "2024-01-11 22:31:38",
       "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f"
+      },
+      "artists": [
+        {
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+        },
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        },
+        {
+          "name": "Rotman",
+          "url": "https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo"
+    },
+    {
+      "added_at": "2024-01-11 22:31:38",
+      "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
       },
@@ -1303,6 +1319,26 @@
     {
       "added_at": "2024-01-11 22:31:38",
       "album": {
+        "name": "\u00bfQMH?",
+        "url": "https://open.spotify.com/album/0BRoR8Gmw9rtBWE7BhGYT3"
+      },
+      "artists": [
+        {
+          "name": "J Gonz",
+          "url": "https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL"
+        },
+        {
+          "name": "n.a.n.o",
+          "url": "https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "\u00bfQMH?",
+      "url": "https://open.spotify.com/track/1oC1UuwAokzHio2IEFTfRP"
+    },
+    {
+      "added_at": "2024-01-11 22:31:38",
+      "album": {
         "name": "Dimelo Ayer",
         "url": "https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1"
       },
@@ -1319,22 +1355,6 @@
       "duration_ms": 159892,
       "name": "Dimelo Ayer",
       "url": "https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc"
-    },
-    {
-      "added_at": "2024-01-11 22:31:38",
-      "album": {
-        "name": "Cover Me",
-        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 250493,
-      "name": "Culpable O No",
-      "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
     },
     {
       "added_at": "2024-01-11 22:31:38",
@@ -1359,26 +1379,6 @@
     {
       "added_at": "2024-01-11 22:31:38",
       "album": {
-        "name": "\u00bfQMH?",
-        "url": "https://open.spotify.com/album/0BRoR8Gmw9rtBWE7BhGYT3"
-      },
-      "artists": [
-        {
-          "name": "J Gonz",
-          "url": "https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL"
-        },
-        {
-          "name": "n.a.n.o",
-          "url": "https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "\u00bfQMH?",
-      "url": "https://open.spotify.com/track/1oC1UuwAokzHio2IEFTfRP"
-    },
-    {
-      "added_at": "2024-01-11 22:31:38",
-      "album": {
         "name": "The Lady in Red",
         "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
       },
@@ -1391,6 +1391,26 @@
       "duration_ms": 225703,
       "name": "The Lady in Red",
       "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
+    },
+    {
+      "added_at": "2024-01-11 22:31:38",
+      "album": {
+        "name": "La Vida Es Una Canci\u00f3n II",
+        "url": "https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        },
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Cerquita",
+      "url": "https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U"
     },
     {
       "added_at": "2024-01-11 22:31:38",
@@ -1467,26 +1487,6 @@
       "duration_ms": 243391,
       "name": "Desinformation",
       "url": "https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp"
-    },
-    {
-      "added_at": "2024-01-11 22:31:38",
-      "album": {
-        "name": "La Vida Es Una Canci\u00f3n II",
-        "url": "https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        },
-        {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Cerquita",
-      "url": "https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U"
     },
     {
       "added_at": "2024-01-11 22:31:38",

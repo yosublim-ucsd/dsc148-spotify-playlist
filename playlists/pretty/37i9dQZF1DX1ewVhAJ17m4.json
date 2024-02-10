@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Neck Deep",
-  "num_followers": 565603,
+  "num_followers": 565674,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjQzNjg2N2VhMzA3OTY4NzdkNmQ3Zjg2YmNiNGU5YjA0MDQ4ZTY1",
+  "snapshot_id": "MCwyNGYwNjlkN2Q1ZmRkZjA0OTQwZTdmNTQ0ZjE3ODNhZDRiMjlhOWM2",
   "tracks": [
     {
       "added_at": "2024-02-05 23:41:17",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-01-12 01:19:26",
       "album": {
-        "name": "Cardinals",
-        "url": "https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW"
-      },
-      "artists": [
-        {
-          "name": "Telltale",
-          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
-        }
-      ],
-      "duration_ms": 191080,
-      "name": "Cardinals",
-      "url": "https://open.spotify.com/track/723vVxxNycnmucEWfpvarT"
-    },
-    {
-      "added_at": "2024-01-12 01:19:26",
-      "album": {
         "name": "Alameda County Fair",
         "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 147546,
       "name": "Alameda County Fair",
       "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
+    },
+    {
+      "added_at": "2024-01-12 01:19:26",
+      "album": {
+        "name": "Cardinals",
+        "url": "https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW"
+      },
+      "artists": [
+        {
+          "name": "Telltale",
+          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
+        }
+      ],
+      "duration_ms": 191080,
+      "name": "Cardinals",
+      "url": "https://open.spotify.com/track/723vVxxNycnmucEWfpvarT"
     },
     {
       "added_at": "2024-01-12 01:19:26",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-01-12 01:19:26",
       "album": {
-        "name": "Past // Present // Future (Deluxe)",
-        "url": "https://open.spotify.com/album/3CSC52xCPslJCpjPFYg4fb"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 154274,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/27by2Pb8Ys2KmVVGkPAujq"
-    },
-    {
-      "added_at": "2024-01-12 01:19:26",
-      "album": {
         "name": "AUTUMNAL",
         "url": "https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 189583,
       "name": "Autumnal",
       "url": "https://open.spotify.com/track/4JW7fbtsAqxImfLHticNVj"
+    },
+    {
+      "added_at": "2024-01-12 01:19:26",
+      "album": {
+        "name": "Past // Present // Future (Deluxe)",
+        "url": "https://open.spotify.com/album/3CSC52xCPslJCpjPFYg4fb"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 154274,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/27by2Pb8Ys2KmVVGkPAujq"
     },
     {
       "added_at": "2024-01-12 01:19:26",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-01-12 01:19:26",
       "album": {
-        "name": "suraksha",
-        "url": "https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 279284,
-      "name": "lullaby",
-      "url": "https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo"
-    },
-    {
-      "added_at": "2024-01-12 01:19:26",
-      "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 164621,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw"
+    },
+    {
+      "added_at": "2024-01-12 01:19:26",
+      "album": {
+        "name": "suraksha",
+        "url": "https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 279284,
+      "name": "lullaby",
+      "url": "https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo"
     },
     {
       "added_at": "2024-01-12 01:19:26",
@@ -1249,22 +1249,6 @@
       "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
     },
     {
-      "added_at": "2024-01-12 01:19:26",
-      "album": {
-        "name": "Fallen Short",
-        "url": "https://open.spotify.com/album/7Dcgqmfp566cAcShiWhUqi"
-      },
-      "artists": [
-        {
-          "name": "Youth Fountain",
-          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
-        }
-      ],
-      "duration_ms": 157324,
-      "name": "Fallen Short",
-      "url": "https://open.spotify.com/track/1mbnRS3a0TgqsrahokSF43"
-    },
-    {
       "added_at": "2024-02-05 23:41:17",
       "album": {
         "name": "Alpha Beta Sigma",
@@ -1279,6 +1263,22 @@
       "duration_ms": 185450,
       "name": "Alpha Beta Sigma",
       "url": "https://open.spotify.com/track/5XVK6Qn09ECprvV7EFBrvb"
+    },
+    {
+      "added_at": "2024-01-12 01:19:26",
+      "album": {
+        "name": "Fallen Short",
+        "url": "https://open.spotify.com/album/7Dcgqmfp566cAcShiWhUqi"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "duration_ms": 157324,
+      "name": "Fallen Short",
+      "url": "https://open.spotify.com/track/1mbnRS3a0TgqsrahokSF43"
     },
     {
       "added_at": "2024-01-12 01:19:26",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-01-12 01:19:26",
       "album": {
-        "name": "Space to Heal",
-        "url": "https://open.spotify.com/album/0ho4YbLdytrRcaUDKoft1Y"
-      },
-      "artists": [
-        {
-          "name": "Headstrong",
-          "url": "https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF"
-        }
-      ],
-      "duration_ms": 197973,
-      "name": "Who You Used to Be",
-      "url": "https://open.spotify.com/track/7L2E7qweIBVY1bjrXjeCwx"
-    },
-    {
-      "added_at": "2024-01-12 01:19:26",
-      "album": {
         "name": "flare guns in the living room",
         "url": "https://open.spotify.com/album/3vEfN8kVdAhbCSXdvuLgr1"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 180970,
       "name": "theme song",
       "url": "https://open.spotify.com/track/4pKW3eDE5EonKFYboxagYB"
+    },
+    {
+      "added_at": "2024-01-12 01:19:26",
+      "album": {
+        "name": "Space to Heal",
+        "url": "https://open.spotify.com/album/0ho4YbLdytrRcaUDKoft1Y"
+      },
+      "artists": [
+        {
+          "name": "Headstrong",
+          "url": "https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF"
+        }
+      ],
+      "duration_ms": 197973,
+      "name": "Who You Used to Be",
+      "url": "https://open.spotify.com/track/7L2E7qweIBVY1bjrXjeCwx"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

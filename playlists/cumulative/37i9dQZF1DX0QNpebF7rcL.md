@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-344 songs - 23 hr 7 min
+346 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Dear America](https://open.spotify.com/track/6DYaFGcyQyX87He1OxZeOg) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Dear America](https://open.spotify.com/album/0IwmHFrTRo5Em6d72VNbs3) | 3:47 | 2021-09-10 | 2022-07-29 |
 | [Dear Mr\. Fantasy](https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa) | [Dave Mason](https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dear Mr\. Fantasy](https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai) | 4:34 | 2023-11-10 |  |
 | [Death Don't Have No Mercy](https://open.spotify.com/track/1npPaN1uAdOSGnPnOcgQ82) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Death Don't Have No Mercy](https://open.spotify.com/album/7CPRD2SlzBhChwXEUZSmg5) | 6:18 | 2022-04-08 | 2022-04-29 |
-| [Devil In The Room](https://open.spotify.com/track/72qo2qSJ0FkaTtbgRhPHqT) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil In The Room](https://open.spotify.com/album/4oVQNoMc9m6z9XPtaCbEO7) | 3:31 | 2023-12-01 |  |
+| [Death Letter Blues](https://open.spotify.com/track/4puWQaJshTiBkNMVmp9Aqa) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Naked Truth](https://open.spotify.com/album/456DsBFuWSDf02fYcPqp1i) | 4:27 | 2024-02-09 |  |
+| [Devil In The Room](https://open.spotify.com/track/72qo2qSJ0FkaTtbgRhPHqT) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil In The Room](https://open.spotify.com/album/4oVQNoMc9m6z9XPtaCbEO7) | 3:31 | 2023-12-01 | 2024-02-10 |
 | [Didn’t We Have a Time](https://open.spotify.com/track/5Lz6UnJghksQvUAz54yBv9) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Didn’t We Have a Time](https://open.spotify.com/album/2pI0kBzadx6e9hYFBisRKL) | 6:04 | 2021-12-24 | 2022-01-15 |
 | [Dirty Grease](https://open.spotify.com/track/1Nd89XqdXUj1zv9meZbPYR) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Doug Bossi](https://open.spotify.com/artist/6I8Aan08YoXLddBSwCbCI4) | [Dirty Grease](https://open.spotify.com/album/2uJDg09aX2m6hZznK6KTyd) | 6:16 | 2022-10-07 | 2023-11-11 |
 | [Don't Get Me Started](https://open.spotify.com/track/6iji2KRmhPBorFa54KBLBa) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [LaVette!](https://open.spotify.com/album/4He1qQkf7kFRGD6n3Mwb11) | 5:11 | 2023-06-16 |  |
@@ -90,6 +91,7 @@
 | [Fly Away](https://open.spotify.com/track/34bh0YiU4EwtgtGnEoLjko) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Fly Away](https://open.spotify.com/album/70RF8bGlKiXs5pzBfaeHDT) | 5:58 | 2022-02-25 | 2022-03-18 |
 | [Follow The Money \(feat\. James Taylor\)](https://open.spotify.com/track/4ikAAkBStMneLsxfjcoG4E) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Follow The Money \(feat\. James Taylor\)](https://open.spotify.com/album/7iC5jkTp3GqdFGjx2wBBYk) | 3:42 | 2022-09-30 |  |
 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-05-13 |  |
+| [Forever My Love](https://open.spotify.com/track/5ZhwW7XtyPMAmtGdvCa905) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Forever My Love](https://open.spotify.com/album/5LnXyWnbFPJWDIIvkb9rlD) | 6:19 | 2024-02-09 |  |
 | [Four Day Creep](https://open.spotify.com/track/2r46l03PjLiW5Xy6BLMfbj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Four Day Creep](https://open.spotify.com/album/5NlKdlWeryULQL6rGI5bzW) | 3:52 | 2024-01-26 |  |
 | [Fragile Peace And Certain War](https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:59 | 2021-10-08 | 2023-03-04 |
 | [Friendship](https://open.spotify.com/track/5tzYjX0mtDHks2utIpNWIF) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Friendship](https://open.spotify.com/album/0LqOdFRh3OrbyAEcpVVN0V) | 4:10 | 2023-06-16 | 2023-07-22 |
@@ -116,7 +118,7 @@
 | [Help Me](https://open.spotify.com/track/2tKvPt023QVMNkkNqmTDap) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Help Me](https://open.spotify.com/album/5fQEUm0GyrU0TDezWAR2sL) | 3:30 | 2023-10-06 |  |
 | [Help Yourself](https://open.spotify.com/track/6i2EOHluVZewHGo1WivSnA) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Help Yourself](https://open.spotify.com/album/3dRkh2xDogXlODckUjdnCF) | 4:04 | 2023-12-01 |  |
 | [Here I'm Is](https://open.spotify.com/track/45DxmdLBAjYelavuazYJhg) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Here I'm Is](https://open.spotify.com/album/2FwkQp2elO2xN3MOs2XJL9) | 2:27 | 2022-03-18 |  |
-| [Hey Sweet Mama](https://open.spotify.com/track/1MOMr9SOh60lG2LH2Q6KcR) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Hey Sweet Mama](https://open.spotify.com/album/0jWYluOK8PM8cF33IwooLo) | 3:36 | 2023-02-10 |  |
+| [Hey Sweet Mama](https://open.spotify.com/track/1MOMr9SOh60lG2LH2Q6KcR) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Hey Sweet Mama](https://open.spotify.com/album/0jWYluOK8PM8cF33IwooLo) | 3:36 | 2023-02-10 | 2024-02-10 |
 | [Hiding Place](https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Hiding Place](https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D) | 7:23 | 2022-03-18 | 2022-04-06 |
 | [High Is Low](https://open.spotify.com/track/3yrV9iFHJYULuE8jogoPec) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI) | 4:19 | 2022-08-19 | 2023-12-16 |
 | [Highest Bidder](https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Highest Bidder](https://open.spotify.com/album/3F6QE0hPhObN0XYfBKl9mb) | 3:34 | 2022-02-11 | 2022-06-04 |

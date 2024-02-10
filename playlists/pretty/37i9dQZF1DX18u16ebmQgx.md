@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 
 > ¡Brillando baldosa! Foto: Grupo Niche
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,868 likes - 65 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,914 likes - 65 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 | 15 | [Dime Si Te Pasa Igual Que a Mi](https://open.spotify.com/track/56UoCFdugowdNQhQzKHdaN) | [Anddy Caicedo](https://open.spotify.com/artist/0Emz7Y7utBVunAblbfCdrC) | [Salsa](https://open.spotify.com/album/6HQT2gNczONK7fKPZSB15i) | 4:25 |
 | 16 | [Bogotá Salsera](https://open.spotify.com/track/06afPlVcnfVAjWnI6GuBtI) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Bogotá Salsera](https://open.spotify.com/album/6rPVrfdAbEwP1t5hJVR1Pu) | 4:50 |
 | 17 | [La Flor de los Lindos Campos](https://open.spotify.com/track/5jrB7AWwtAdW1mGae1mFNN) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [La Flor de los Lindos Campos](https://open.spotify.com/album/2BUtJVFArByIESwG092wHR) | 3:53 |
-| 18 | [Oilo](https://open.spotify.com/track/79DsYCHCMihzx83nrt20Ww) | [La Mambanegra](https://open.spotify.com/artist/1TCrJDPaqtcTkAEcSl0kBZ) | [Oilo](https://open.spotify.com/album/5H3hmHChsscULagmYNt73Y) | 4:55 |
+| 18 | [Oílo](https://open.spotify.com/track/5oOE92XCEhQvG5bsDKLvi7) | [La Mambanegra](https://open.spotify.com/artist/1TCrJDPaqtcTkAEcSl0kBZ) | [Los Últimos Buses de Colores](https://open.spotify.com/album/1u1NgUs3r5fSAWWd4kiqpH) | 4:55 |
 | 19 | [Sonando el Tambor](https://open.spotify.com/track/5NQIW2mWH1qVlpxLN9JoAJ) | [Clandeskina](https://open.spotify.com/artist/7eju6INRck56la5RLUvMFD) | [Salsa para Bailar y Escuchar](https://open.spotify.com/album/219yFFR6LIC25aUrJKVuNF) | 3:42 |
 | 20 | [La Gente Pide](https://open.spotify.com/track/2FG1vENJylGnBFapXAWi57) | [La Gente Pide](https://open.spotify.com/artist/0SBZ8cqWJimTrGqpL4ecDr) | [Justa Calma](https://open.spotify.com/album/0DRfIvaLRYHJmlo2b555M9) | 4:13 |
 | 21 | [Rebelión](https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Grandes Exitos](https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51) | 4:47 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 | 64 | [Maria Canela](https://open.spotify.com/track/2AzJDIs4hDFvARTcTRGj0a) | [Cesar Mora](https://open.spotify.com/artist/0xR68AyQA5b3scD6PB8RPS) | [Hacerlo Bien](https://open.spotify.com/album/2hBVT5RuHoYHdfBAhxhPdd) | 5:02 |
 | 65 | [Barranquillero Arrebatao](https://open.spotify.com/track/1sRY0Zez8RbxqsxzEWjNLg) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Grandes Exitos de Salsa, Vol\. 2](https://open.spotify.com/album/2htqg9e6AGwnIoVc0kceDU) | 4:20 |
 
-Snapshot ID: `MCxkZGE3MzQzYzYyZjkxMDc4YWY4NWE2MTk3MGZjZmQ3OTk1YzBlNzUz`
+Snapshot ID: `MCxjMjgxZWQ5YWQ5OGFhMjE2MmU3NDUyMzU2MjE4NjhhZDhhNGYwNmUx`

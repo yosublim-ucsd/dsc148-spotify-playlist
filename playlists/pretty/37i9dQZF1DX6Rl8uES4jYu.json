@@ -1,13 +1,33 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 236187,
+  "num_followers": 236174,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2E2ZjRlNzBiM2Y3NjA0NGQzMTY0NjM5MjFlMDU4MzQ0NjFhYWJh",
+  "snapshot_id": "MCxlYzBiNDI2M2Y0NjhmNDcwM2RiNjBiNjYxMzk2ZmQyMDU0YmQyYjYy",
   "tracks": [
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Introduce Myself",
+        "url": "https://open.spotify.com/album/0u9If8E2zXCNrBsS8NeKK6"
+      },
+      "artists": [
+        {
+          "name": "Lucky Dropout",
+          "url": "https://open.spotify.com/artist/3SXyu7eV3yPbCexRli5H2q"
+        },
+        {
+          "name": "Tim Halperin",
+          "url": "https://open.spotify.com/artist/3nVeK8gQChVtVCCjGreal2"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Introduce Myself",
+      "url": "https://open.spotify.com/track/3ce9qXXiHaOu4ZBjXpzJCr"
+    },
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
@@ -1659,22 +1679,6 @@
       "duration_ms": 165565,
       "name": "Chicken Wings - Remix",
       "url": "https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM"
-    },
-    {
-      "added_at": "2022-02-14 18:57:11",
-      "album": {
-        "name": "Grammy",
-        "url": "https://open.spotify.com/album/6i1rWhvp7GAF9w5pP5dQh6"
-      },
-      "artists": [
-        {
-          "name": "AJ Smith",
-          "url": "https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973"
-        }
-      ],
-      "duration_ms": 143504,
-      "name": "Grammy",
-      "url": "https://open.spotify.com/track/34wtPgiGEIbKHuyfleN84N"
     },
     {
       "added_at": "2022-03-25 04:01:00",

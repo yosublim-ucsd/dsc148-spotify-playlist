@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > det største dk rap lige nu.\. <a href="spotify:artist:5IpqfN8Pqjy89nj1IfuOXC">Baloosh</a> har den 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,713 likes - 63 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,727 likes - 63 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 7 | [Sent](https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Sent](https://open.spotify.com/album/2IchXZECJXUQYmD0o49uwU) | 2:34 |
 | 8 | [winwin](https://open.spotify.com/track/3luzLKFxbRZbz1Tbz7UMNF) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [winwin](https://open.spotify.com/album/7j8TjCjwYdrv8x1YBdxbcU) | 2:43 |
 | 9 | [Wimbledon](https://open.spotify.com/track/4mWZ0AJ8gdPixvdE06tgpz) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Wimbledon](https://open.spotify.com/album/7rhxRAp0OfX87dBLKkG5VN) | 2:20 |
-| 10 | [555 \(feat\. KESI\)](https://open.spotify.com/track/2s0v4Q14vbu2jUpuNTBcww) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 2:37 |
+| 10 | [555 \(feat\. KESI\)](https://open.spotify.com/track/742ldXChILBv6QeqaXoOWi) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK) | 2:37 |
 | 11 | [Glem Det \(feat\. Jamaika\)](https://open.spotify.com/track/1k2LysiDCZflmHiA6DepMn) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Glem Det \(feat\. Jamaika\)](https://open.spotify.com/album/0C9uppyvWZfeJLng1b9KhZ) | 2:49 |
 | 12 | [Danser Med Dæmoner](https://open.spotify.com/track/5BKvRShfSfa1phRGEKkSvb) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Danser Med Dæmoner](https://open.spotify.com/album/0ylIK3wZr5wKMixNJxrqNy) | 2:41 |
 | 13 | [FORSVINDER \(feat\. Gobs\)](https://open.spotify.com/track/2aNMkT86YjYPlKujUiHYbS) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [FORSVINDER \(feat\. Gobs\)](https://open.spotify.com/album/0Xhp7Kgke0OveQaVRMkJwW) | 2:40 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 15 | [For Life](https://open.spotify.com/track/0WsFZJppZyqnjW63zGLQzH) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Championship](https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC) | 2:36 |
 | 16 | [North Face \(feat\. Lamin\)](https://open.spotify.com/track/5WfPaCdvCn5UhXKtEbGSb3) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [North Face \(feat\. Lamin\)](https://open.spotify.com/album/4JG2B8OtZHx2Q8s4HGHnkz) | 2:40 |
 | 17 | [U\-vending](https://open.spotify.com/track/3DPZCTa94K2A68GAevOqsI) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [U\-vending](https://open.spotify.com/album/7xwLK7e8YAeFYXwUoqv8Dy) | 2:26 |
-| 18 | [Skarpt Lys](https://open.spotify.com/track/5k5Z5TCOy6s0G48mm2X4Tb) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 3:03 |
+| 18 | [Skarpt Lys](https://open.spotify.com/track/2ReomS91v9imlj7ZzzEKqu) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK) | 3:03 |
 | 19 | [Varm](https://open.spotify.com/track/01iuQsDEahOHtTikuFbTJ2) | [Område 69](https://open.spotify.com/artist/15Bo9za66QGiX8iIJnJzfv) | [Varm](https://open.spotify.com/album/32LP4nRRLtUfAlhezFc2LD) | 3:01 |
 | 20 | [LEV I NUET](https://open.spotify.com/track/5fHydJvKwLenrvyczUqXBq) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [LEV I NUET](https://open.spotify.com/album/217rsfZFitLn1ris3ZjEEJ) | 2:16 |
 | 21 | [Ensom](https://open.spotify.com/track/5RT81GdUGh5tCyL9aXg8b8) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [En dag giver alt nok mening…](https://open.spotify.com/album/1wYUJCdZRCHaGMAXT18Gd9) | 2:20 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 31 | [Company](https://open.spotify.com/track/6Nb9knmY0K5SXDU0IZRcGK) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI), [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N) | [Company](https://open.spotify.com/album/0wiQ5yItDLDmfKBxPlBFhR) | 2:24 |
 | 32 | [MASKINEN](https://open.spotify.com/track/1Zcjgr8xX79taShapdR7Zk) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [MASKINEN](https://open.spotify.com/album/2UOXeTje2by7s3e8nLdc5q) | 2:13 |
 | 33 | [Differente](https://open.spotify.com/track/3tZIAsrTBOkslSFJyMZxes) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Championship](https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC) | 2:20 |
-| 34 | [Du & Jeg](https://open.spotify.com/track/4Jtv3DnYlnPmtfXRqBiYbh) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 2:53 |
+| 34 | [Du & Jeg](https://open.spotify.com/track/574DlRMtD2Nv9kWHQevej3) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK) | 2:53 |
 | 35 | [Uwawe](https://open.spotify.com/track/3BzCCqPqIsheyW4DyLM1ut) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH) | [Uwawe](https://open.spotify.com/album/2ZVe0lGPmsM1wRI0orXPXy) | 2:19 |
 | 36 | [LEVENDE LEGENDE](https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [LEVENDE LEGENDE](https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb) | 4:10 |
 | 37 | [I LIKE 2 MOVE IT \(feat\. ABCITOO\)](https://open.spotify.com/track/4FXxjGxNBIPmDnOU1VFq8x) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF), [Abcitoo](https://open.spotify.com/artist/2ITY7VxNVZseegV5EddAVN) | [I LIKE 2 MOVE IT \(feat\. ABCITOO\)](https://open.spotify.com/album/19VwYofnlTp22my1SUbVeR) | 2:39 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 62 | [Rider](https://open.spotify.com/track/3OKI9yggHapQONX0k8xtlD) | [Lii Fuego](https://open.spotify.com/artist/5rZWktOlVarOV0j2AXkasF), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Rider](https://open.spotify.com/album/7rsFe7IgBjlh2TCd23lX4t) | 3:12 |
 | 63 | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/track/4ymwixcQXSHyAY5Af4bvr8) | [Emil Stabil](https://open.spotify.com/artist/2toxhc2iSbFHWgy3VMnqR7), [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/album/3YON54IWdqFWos7oNwoiiG) | 2:34 |
 
-Snapshot ID: `MCxmZjVkOGMxOWM2MWE2NmNmZGU3MmI2ZWI1ZmI1YzUyYTBmN2Q0NzAy`
+Snapshot ID: `MCxjYTI4OTA2YTY0ZDJiOTQ2YmJlYzVmZWIyYTAxMTRiM2QyODYxNzdm`

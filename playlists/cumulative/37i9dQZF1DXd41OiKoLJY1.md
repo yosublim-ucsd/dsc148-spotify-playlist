@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Janah Zaplan Artwork: Isu Kim
 
-2,042 songs - 5 day 1 hr 4 min
+2,044 songs - 5 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Crowd](https://open.spotify.com/track/1CPU1w5vyug6XPsylvTAJd) | [folkways](https://open.spotify.com/artist/2SxvUEaRBBUd0fDjKO5R9H) | [Crowd](https://open.spotify.com/album/36MZPbIFBEpwUcMF5btdvb) | 3:20 | 2023-05-04 | 2023-05-26 |
 | [Crying Out](https://open.spotify.com/track/6h4kZEUusu1DRWwZ6A9nBX) | [All Day Sunday](https://open.spotify.com/artist/4LZE8InxAPyNtfD9tYOGgY) | [Crying Out](https://open.spotify.com/album/7lsPTVwBXBvDU6SfWHSZUg) | 5:20 | 2022-03-24 | 2022-04-01 |
 | [CRZYOU \(Crazy Over You\)](https://open.spotify.com/track/2uC7WmDGMYpEbN8kDqPEcf) | [LostNotFound](https://open.spotify.com/artist/1SVjSG7OLV3mrpH5N9QYDM) | [CRZYOU \(Crazy Over You\)](https://open.spotify.com/album/3ciDPNp6ZsWxLg8CsXgwHx) | 2:56 | 2023-03-23 | 2023-04-07 |
+| [Cup of Tea](https://open.spotify.com/track/2FOVoCQbsxpoug0jtoCV2e) | [Genesis Anne](https://open.spotify.com/artist/4JWGf3EuvUNVvHHioy08Rs) | [Cup of Tea](https://open.spotify.com/album/3gndIoI26hjXzf1HNZ19rM) | 3:20 | 2024-02-08 |  |
 | [Cupido](https://open.spotify.com/track/2MsMUGQXVg28LVCa1laFIj) | [nikko](https://open.spotify.com/artist/4iTGD1IiSfm4z0PPeULqnK) | [Cupido](https://open.spotify.com/album/0PK29QgtBVmCSQjrGT4DJ2) | 3:16 | 2023-08-31 | 2023-09-22 |
 | [Cups](https://open.spotify.com/track/1XsaV1oQBj9Jzn7Wzg9lYc) | [Ian](https://open.spotify.com/artist/0cGEajsmUu72utDiZfM9lY) | [Cups](https://open.spotify.com/album/4xWoAXT6qZExFNgK8tCdHS) | 2:56 | 2022-04-21 | 2022-06-17 |
 | [Curly Queen](https://open.spotify.com/track/12AokrKCD0TOmgW1lTF0ZJ) | [Daks9k](https://open.spotify.com/artist/7yq6vp8FMsqeLo3GMRodXV), [Drae Tutor](https://open.spotify.com/artist/3ZsOt9KwtGeRzXdatiJQjR), [Voyce](https://open.spotify.com/artist/0cu6DyrNIMmalDJXyqyE3B) | [Curly Queen](https://open.spotify.com/album/4Q69xHuaRgrayBH91HtXEE) | 3:32 | 2022-03-10 | 2023-01-13 |
@@ -497,6 +498,7 @@
 | [Dream Come True](https://open.spotify.com/track/4nOMpfOWdXADocWa8xyQ8O) | [Fryday](https://open.spotify.com/artist/4QDQlEE69slOs65KGRNheo), [Jhen](https://open.spotify.com/artist/2dAxnIRoxer2kKA9VHkxpb) | [Dream Come True](https://open.spotify.com/album/4JlSR4fVwvoDjdTsMQsu3e) | 3:10 | 2023-06-08 | 2023-06-23 |
 | [Dreamland](https://open.spotify.com/track/06QalNnVHUw4CCh52rHHLx) | [Gab Mabanta](https://open.spotify.com/artist/2BcBX0znvjTTuUw2f0bTQQ) | [Dreamland](https://open.spotify.com/album/3kGzbutzEVNfONRVcXwyf4) | 4:37 | 2023-08-24 | 2023-09-15 |
 | [Dried Flowers](https://open.spotify.com/track/5qiL3EHVn1RdbQieZrfhyi) | [Yoan Francine](https://open.spotify.com/artist/6DFr4IJysUA0KLD3JP0602) | [Dried Flowers](https://open.spotify.com/album/3GzvqT5HfmkC2muHyjp91x) | 5:00 | 2023-10-05 | 2023-11-11 |
+| [DRILLA from MANILA](https://open.spotify.com/track/72sGefblI6cj44dKmjoxBa) | [KZZY](https://open.spotify.com/artist/3npYwV74Euuu9W97dL6K8E) | [DRILLA from MANILA](https://open.spotify.com/album/42QsQ0ijobKVpOGwK0PqqM) | 2:32 | 2024-02-08 |  |
 | [Drive and Meet You](https://open.spotify.com/track/0KuTQlAitRKGhPRdjyJ3Ht) | [Coloura](https://open.spotify.com/artist/22YlJuPLhTsW9m4fptz4r3) | [Drive and Meet You](https://open.spotify.com/album/6oKxJdV8je7SBnwWr37S5P) | 3:13 | 2022-09-22 | 2022-12-01 |
 | [DRIVE WILD](https://open.spotify.com/track/4NyjRRTJeJ0EZnXqtniFby) | [KaMuning](https://open.spotify.com/artist/5xTZaioI459Nu5gy8t6FWB) | [DRIVE WILD](https://open.spotify.com/album/3X4OVBvuA2bUzrMnpfoUAk) | 4:41 | 2022-04-07 | 2022-05-06 |
 | [DTP!](https://open.spotify.com/track/5gWslMCX1KPAYA2To5JHoN) | [$aint J](https://open.spotify.com/artist/5SOAFsbL3P4KptBCszftvR), [$aucepekt](https://open.spotify.com/artist/3cvXSs5bZ9sEOGsPhm7LFd) | [DTP!](https://open.spotify.com/album/16ehXqfUhYIaPe9NpHDxEn) | 2:42 | 2023-05-11 | 2023-05-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 離婚伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,232 likes - 69 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,309 likes - 69 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 68 | [シンシャ](https://open.spotify.com/track/5jAHFipcLURLl4NiEWpjaV) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [シンシャ](https://open.spotify.com/album/2Wbjn9gW8to9OtHHzcNkHF) | 3:56 |
 | 69 | [transistor radio](https://open.spotify.com/track/4pbgZCsGIdL9UIxhfI5OTG) | [The Derbies](https://open.spotify.com/artist/6OYj0Uw0gi7Wl4WrwpxyQK) | [transistor radio](https://open.spotify.com/album/6ikw6U3hV8LcmqGkgsUYXW) | 3:20 |
 
-Snapshot ID: `MCw0MmNiNDRlNDBhOGM1NDZjNGIzMzQ4MWFlMGY1NmNmZjRmMDk3YjYx`
+Snapshot ID: `MCwyZmZlMDA2MmNmN2E2ZWViMWVhODgxY2U2NWU4MDkzZTdhOTgzYmJj`

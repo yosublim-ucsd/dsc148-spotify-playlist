@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-5,184 songs - 13 day 1 hr 50 min
+5,185 songs - 13 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,7 +492,7 @@
 | [chill oil](https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV) | 2:35 | 2023-03-14 | 2023-03-22 |
 | [Chilled noodles in summer](https://open.spotify.com/track/7iLoZJgQJUUf5k4RS7QPPP) | [yuyuhackshow](https://open.spotify.com/artist/02ILgnFVp5SRTBJTtK2yTN) | [Chilled noodles in summer](https://open.spotify.com/album/6wdMBU5m5ynWu0u8bzjfoh) | 1:56 | 2023-08-28 | 2023-09-12 |
 | [CHIME!!!](https://open.spotify.com/track/2srhNaMYwT7tTIdXjF5bDw) | [Odd Donuts](https://open.spotify.com/artist/7rflUhNjhxlITzPI54XTzg) | [CHIME!!!](https://open.spotify.com/album/5hUAMdL6zCHafVaWN4qeuA) | 2:25 | 2023-09-04 | 2023-09-20 |
-| [Chocolat Cadabra](https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Chocolat Cadabra](https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9) | 3:03 | 2024-02-05 |  |
+| [Chocolat Cadabra](https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Chocolat Cadabra](https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9) | 3:03 | 2024-02-05 | 2024-02-10 |
 | [CHOCOLATe sugar](https://open.spotify.com/track/7eBXtcbO2ZHm4UjqliPbVn) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ) | [mishmash](https://open.spotify.com/album/42a8g38DGpa4dxyo6FDnch) | 3:18 | 2021-12-14 | 2021-12-21 |
 | [CHOCOLATe sugar \- Yaffle Remix](https://open.spotify.com/track/0ON7eOACx7y26pciVGW4CM) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [mishmash \(Remixes\)](https://open.spotify.com/album/0d7EBZiFOzmQhofLpKGLXG) | 3:35 | 2022-04-11 | 2022-04-20 |
 | [CHRISTMAS CHORUS](https://open.spotify.com/track/23Uz8b1RGIdvf6lm7imUkM) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [Digitalian is eating breakfast](https://open.spotify.com/album/4ClHbl3AUrQeGH5GEg7QgT) | 5:20 | 2022-12-20 | 2022-12-28 |
@@ -3684,6 +3684,7 @@
 | [シュガープレイバック](https://open.spotify.com/track/56lCLo1PaPM8tkLVNvzufV) | [sooogood!](https://open.spotify.com/artist/72C5vNpdDKj70D3NU1P5fB) | [シュガープレイバック](https://open.spotify.com/album/2gbuN9uheRp5VpjsdetRlN) | 3:26 | 2022-10-17 | 2022-11-01 |
 | [シュガーラッシュ](https://open.spotify.com/track/4YkPA1WxdXsP1HNjANxvu3) | [さくらみこ](https://open.spotify.com/artist/6YFKPqnL4YtX9jJmj5zkzv), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX), [miComet](https://open.spotify.com/artist/6iKMuH9DRhu4OnpxQNs7Io) | [シュガーラッシュ](https://open.spotify.com/album/36KPxZyLNs38rvQtFR5btz) | 2:59 | 2023-11-06 | 2023-11-14 |
 | [シューズは脱がないで](https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [シューズは脱がないで](https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ) | 4:08 | 2022-12-20 | 2023-01-10 |
+| [ショコラカタブラ](https://open.spotify.com/track/6nhGcCOyjnHshIJjPROEBF) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:03 | 2024-02-05 |  |
 | [ショート寸前](https://open.spotify.com/track/4NR2qRKSgZQSEYyiT67x0N) | [BARBEE BOYS](https://open.spotify.com/artist/0W1m3MMY33283949YlU2bD) | [3rd\. BREAK](https://open.spotify.com/album/1moK8ODIHptCd9MpIBVsma) | 4:04 | 2021-11-16 | 2021-11-24 |
 | [シリアス](https://open.spotify.com/track/0GJDaKLMVG6yW2FCuvrgMk) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [邂逅少女](https://open.spotify.com/album/0QKY6aKNypZmkb3jn9bPFN) | 4:37 | 2022-03-14 | 2022-03-22 |
 | [シルクのカーディガン](https://open.spotify.com/track/0x672Wfq58Hq63RRCZuNrU) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [シルクのカーディガン](https://open.spotify.com/album/0muk59f6rTTaYplWMMhwIn) | 4:46 | 2022-09-05 | 2022-09-20 |

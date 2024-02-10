@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-221 songs - 13 hr 35 min
+225 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Carry Me \(feat\. Switchfoot\)](https://open.spotify.com/track/2hDgOchSSSELBtW9IPQ4GW) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Carry Me \(feat\. Jon Foreman of Switchfoot\)](https://open.spotify.com/album/3amWVVXhWGGVIprSg6CkEY) | 3:40 | 2021-12-10 |  |
 | [Chain Breaker](https://open.spotify.com/track/7IkdKPflK8lzgRs6cXChz4) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker](https://open.spotify.com/album/5otw1Dx92TaJdItLOQ2TTj) | 3:15 | 2021-12-10 | 2022-07-29 |
 | [Chain Breaker](https://open.spotify.com/track/17GmwQ9Q3MTAz05OokmNNB) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker \(Deluxe Edition\)](https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N) | 3:16 | 2022-07-15 |  |
+| [Changed](https://open.spotify.com/track/2okSGgTW6hfriJ00RS4q98) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Changed](https://open.spotify.com/album/6zMFzSb5pvRzOSoSj3AMBJ) | 3:37 | 2024-02-09 |  |
 | [Changed](https://open.spotify.com/track/7HjyNZNvFn57Hday6qieCH) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Sunday Gospel Brunch](https://open.spotify.com/album/0d4xUCzYQRGFi1FmhJ2MEL) | 4:21 | 2022-11-04 | 2022-11-13 |
 | [Changed](https://open.spotify.com/track/5lgFs35aqgh22XECp44NEQ) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Changed \(Deluxe Edition\)](https://open.spotify.com/album/5fICps5zhCxC0TaVY62Jx2) | 4:21 | 2021-12-10 | 2022-07-29 |
 | [Changed](https://open.spotify.com/track/7ClZTubD4KudpEuBysLMUI) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Changed](https://open.spotify.com/album/3UFdvzvKR3spzlCkVpcqKb) | 4:22 | 2022-07-15 |  |
@@ -59,10 +60,12 @@
 | [For All My Life](https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [For All My Life](https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm) | 3:30 | 2022-03-18 |  |
 | [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/track/3oEUEyCzKwaBHBvzsJaiGJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D) | [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/album/0KbCQCDOw4a73MkepkJ7ev) | 3:19 | 2022-07-15 |  |
 | [Forever Home \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/0qcVosiukBmgBS0eUDrwk6) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:27 | 2021-12-10 |  |
+| [Go Rest High On That Mountain](https://open.spotify.com/track/2JP2H4Hj0imQxqw4ce4UWQ) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Take Me Home: Covers](https://open.spotify.com/album/2ATLhcb3X7xYULIgTZbqfo) | 3:43 | 2024-02-09 |  |
 | [God and a Good Man](https://open.spotify.com/track/791WLUSDeAH9Ozg4ESAtgc) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [God and a Good Man](https://open.spotify.com/album/3lwqtmWopuyOY3eR6dRyWG) | 4:56 | 2023-10-20 |  |
 | [God Is Good](https://open.spotify.com/track/2J201WXV1md702dEIkQ6wy) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Halfway To Houston](https://open.spotify.com/album/0Szi0bRjwXfF3c7U4bHD3Y) | 3:14 | 2021-12-10 |  |
 | [God Made Fridays](https://open.spotify.com/track/4rIBtj2jHi8nIVfV7KeWy4) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Phases](https://open.spotify.com/album/2ZjmoWEahVtrvcHECaxqTk) | 2:43 | 2023-07-21 |  |
 | [God Made Fridays](https://open.spotify.com/track/6ksQ2gxEZGqQdygMex4PGs) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [God Made Fridays](https://open.spotify.com/album/4W5ldcMXbVXsBkeKX1uCSJ) | 2:43 | 2023-05-19 | 2023-07-24 |
+| [God Moments](https://open.spotify.com/track/7iockmH61ZUi1dLDP4f98s) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Smoky Mountains](https://open.spotify.com/album/2giuHTYPbL8hSugmqDcvAz) | 3:25 | 2024-02-09 |  |
 | [God Moves The Pen](https://open.spotify.com/track/0MTh3m1vfpj1KqKkDzluVi) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Easter Sunday: Songs Of Faith 2022](https://open.spotify.com/album/1lNtAUNXzjevPwaTQFhIZH) | 3:41 | 2022-11-04 | 2022-11-14 |
 | [God Moves The Pen](https://open.spotify.com/track/5OVyTSbqz288MkNbZf15rY) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth \(Ultimate Edition\)](https://open.spotify.com/album/5kNJYMb1mTyoqKx1tBTt53) | 3:41 | 2022-07-15 |  |
 | [God Moves The Pen](https://open.spotify.com/track/5vGfLxG7TJ0rzKvTPvwwCL) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [God Moves The Pen](https://open.spotify.com/album/2tWnJPE54AM7uJiZHaHSfo) | 3:41 | 2021-12-10 | 2022-07-29 |
@@ -210,6 +213,7 @@
 | [Today](https://open.spotify.com/track/1PB1crNoxv0Jezj0Y8LqO0) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Today](https://open.spotify.com/album/73oc4kEemraQEzKGcgtwOm) | 3:49 | 2021-12-10 | 2022-07-29 |
 | [Undivided](https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Undivided](https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw) | 2:55 | 2021-12-10 |  |
 | [Upstairs](https://open.spotify.com/track/2g5rxUrz0xQ6gwpadmBkXJ) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Upstairs](https://open.spotify.com/album/420fvdaTAJisZsB8PSZsGi) | 3:43 | 2023-04-07 |  |
+| [Walls Fall Down \(feat\. Lee Brice\)](https://open.spotify.com/track/0p1PbTyKuvMl0nZorvAQgJ) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [A Hundred Highways \(Extended Edition\)](https://open.spotify.com/album/1S5rpgQP1fxgEixwIvTEpf) | 3:20 | 2024-02-09 |  |
 | [Way Home](https://open.spotify.com/track/3rK8TFLvwfbEGBOP0G76T9) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Way Home](https://open.spotify.com/album/57bEdmDvPY66UIjq0Ot9w8) | 3:09 | 2022-07-15 |  |
 | [We All Carry Something](https://open.spotify.com/track/0M07TE03OtknRNCKJ15Rvf) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Never Gets Old](https://open.spotify.com/album/4E9ZzEudunTKLXzj9xCYYa) | 3:26 | 2022-07-15 | 2023-11-04 |
 | [We All Carry Something](https://open.spotify.com/track/2SKI2QSQB2XluzxUJ31QD0) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Never Gets Old](https://open.spotify.com/album/5cJSeRqQ9d07IUjUCVoVvK) | 3:26 | 2023-10-20 |  |

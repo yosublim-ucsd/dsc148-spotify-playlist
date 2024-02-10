@@ -4,7 +4,7 @@
 
 > Pumping tracks for pumping iron!
 
-734 songs - 1 day 12 hr 31 min
+735 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 | 2024-01-11 |  |
 | [Alive](https://open.spotify.com/track/2rPJcL8gQauA2nBdRyNZZL) | [Paris Blohm](https://open.spotify.com/artist/5lXf3xjcLx6BmYMY6TvczJ), [Paul Aiden](https://open.spotify.com/artist/2StetEA6xAwZgC0tGICp33) | [Alive](https://open.spotify.com/album/4S3jeX1QRiuy2eJzCJcNah) | 3:00 | 2021-03-10 | 2021-03-21 |
 | [Alive \(feat\. ILY\)](https://open.spotify.com/track/55Tom2dk5sMx1UTJPiTUbX) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [ILY](https://open.spotify.com/artist/6CVPDt9FXmWEaq3jCoKAZb) | [Alive \(feat\. ILY\)](https://open.spotify.com/album/7nleVQCNulqX2CXPoUJ6Jb) | 2:56 | 2021-03-07 | 2021-10-16 |
-| [All Day, All Night](https://open.spotify.com/track/0nahFLn30H6qD3yp3o02FY) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [All Day, All Night](https://open.spotify.com/album/3bHi7WSk3NcnKruccv178u) | 2:30 | 2024-02-08 |  |
+| [All Day, All Night](https://open.spotify.com/track/0nahFLn30H6qD3yp3o02FY) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [All Day, All Night](https://open.spotify.com/album/3bHi7WSk3NcnKruccv178u) | 2:30 | 2024-02-08 | 2024-02-10 |
+| [All Day, All Night](https://open.spotify.com/track/4PSq1vPPpzEpVfwLCadN9j) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [All Day, All Night](https://open.spotify.com/album/26O2GfKaDW9uGRkb0xdTV6) | 2:30 | 2024-02-08 |  |
 | [All For Love \- Mike Williams Remix](https://open.spotify.com/track/4VnILLgQo6C7URj3ataewW) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [All For Love \(Mike Williams Remix\)](https://open.spotify.com/album/629VB6j3x2BKp7rCxyiHeK) | 3:06 | 2023-06-29 | 2023-09-22 |
 | [All Night Long](https://open.spotify.com/track/7rRMmhC027ixjjXzuZYoMv) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [All Night Long](https://open.spotify.com/album/0N142E2hr6c8uf0qrpfvhQ) | 3:26 | 2020-08-14\* | 2022-01-04 |
 | [All Nighter](https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:14 | 2023-06-22 | 2023-12-14 |

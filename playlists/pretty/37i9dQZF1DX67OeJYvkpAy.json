@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90353,
+  "num_followers": 90342,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjZhZDExYTdiMzBhOGYyNDVlNzVjNDQ3YmJmODQzM2ZlZjdlNTMy",
+  "snapshot_id": "MCxjOTZiNDRjNzg1NjI4YjkxNzQzMjI2ZmFlMGI3YzI2YzY3MmMwMjk1",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Love & Attention",
+        "url": "https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3"
+      },
+      "artists": [
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        }
+      ],
+      "duration_ms": 157808,
+      "name": "Love & Attention",
+      "url": "https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Mad About Bars - S5-E8",
         "url": "https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 125995,
       "name": "Mad About Bars - S5-E8 Pt2",
       "url": "https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Love & Attention",
-        "url": "https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3"
-      },
-      "artists": [
-        {
-          "name": "SamRecks",
-          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
-        }
-      ],
-      "duration_ms": 157808,
-      "name": "Love & Attention",
-      "url": "https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -475,22 +475,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Next Up - S3-E47",
-        "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
+        "name": "J\u00f6etry",
+        "url": "https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N"
       },
       "artists": [
         {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
         }
       ],
-      "duration_ms": 141740,
-      "name": "Next Up - S3-E47, Pt.1",
-      "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
+      "duration_ms": 244000,
+      "name": "mate in five",
+      "url": "https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -527,18 +523,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "J\u00f6etry",
-        "url": "https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N"
+        "name": "Better With You Than On My Own",
+        "url": "https://open.spotify.com/album/7L5a0opz3RoRKg7e3683D7"
       },
       "artists": [
         {
-          "name": "Joe James",
-          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
         }
       ],
-      "duration_ms": 244000,
-      "name": "mate in five",
-      "url": "https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ"
+      "duration_ms": 140444,
+      "name": "Better With You Than On My Own",
+      "url": "https://open.spotify.com/track/32M9aAAuuhybp33wiLWtes"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -559,18 +555,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Better With You Than On My Own",
-        "url": "https://open.spotify.com/album/7L5a0opz3RoRKg7e3683D7"
+        "name": "Next Up - S3-E47",
+        "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
       },
       "artists": [
         {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
         }
       ],
-      "duration_ms": 140444,
-      "name": "Better With You Than On My Own",
-      "url": "https://open.spotify.com/track/32M9aAAuuhybp33wiLWtes"
+      "duration_ms": 141740,
+      "name": "Next Up - S3-E47, Pt.1",
+      "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
     },
     {
       "added_at": "2023-08-01 17:14:44",

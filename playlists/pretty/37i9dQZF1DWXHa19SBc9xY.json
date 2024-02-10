@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 88603,
+  "num_followers": 88664,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWY1ZWNhY2ZiNzU2YzM4MGM3NzkyNmMwYWQ5MzdjZmJlMmU2ZjE4",
+  "snapshot_id": "MCwxMDkxOGMyMTQ0MDE3NWViZWU0NTg2OGRlM2YwMTJiYTg4ZmVjOGZi",
   "tracks": [
     {
       "added_at": "2023-11-24 08:42:40",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Aroeira",
-        "url": "https://open.spotify.com/album/2UgKurYZr5NjpgWfmWKyMb"
-      },
-      "artists": [
-        {
-          "name": "Murilo Chester",
-          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
-        },
-        {
-          "name": "Casa Amarela",
-          "url": "https://open.spotify.com/artist/0WpQ43GRHEtGhC913ZwXYs"
-        }
-      ],
-      "duration_ms": 173354,
-      "name": "Aroeira",
-      "url": "https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "V\u00e1rias Ondas",
         "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
       },
@@ -691,18 +671,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Simples Assim",
-        "url": "https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa"
+        "name": "Aroeira",
+        "url": "https://open.spotify.com/album/2UgKurYZr5NjpgWfmWKyMb"
       },
       "artists": [
         {
-          "name": "Pedro Pond\u00e9",
-          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
+          "name": "Murilo Chester",
+          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
+        },
+        {
+          "name": "Casa Amarela",
+          "url": "https://open.spotify.com/artist/0WpQ43GRHEtGhC913ZwXYs"
         }
       ],
-      "duration_ms": 217241,
-      "name": "Em Outro Lugar",
-      "url": "https://open.spotify.com/track/0ptLqVT3A8ZittU6I3qMvf"
+      "duration_ms": 173354,
+      "name": "Aroeira",
+      "url": "https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -719,6 +703,22 @@
       "duration_ms": 204998,
       "name": "O Amor Descansa Na Varanda",
       "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Simples Assim",
+        "url": "https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pond\u00e9",
+          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
+        }
+      ],
+      "duration_ms": 217241,
+      "name": "Em Outro Lugar",
+      "url": "https://open.spotify.com/track/0ptLqVT3A8ZittU6I3qMvf"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Dan\u00e7a",
-        "url": "https://open.spotify.com/album/2RvxIv1XPBok8GsPBPgtSk"
-      },
-      "artists": [
-        {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
-        },
-        {
-          "name": "Vitor Soltau",
-          "url": "https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS"
-        }
-      ],
-      "duration_ms": 152961,
-      "name": "Dan\u00e7a",
-      "url": "https://open.spotify.com/track/3DS1sb4xQjCVBlTKfQ5bJL"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Balan\u00e7o de Amor",
         "url": "https://open.spotify.com/album/4f2aBuhQFZfiWxBx5jA2iu"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 199231,
       "name": "Balan\u00e7o de Amor",
       "url": "https://open.spotify.com/track/5ZXA3edMItRo9aRYH6woFx"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Dan\u00e7a",
+        "url": "https://open.spotify.com/album/2RvxIv1XPBok8GsPBPgtSk"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        },
+        {
+          "name": "Vitor Soltau",
+          "url": "https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS"
+        }
+      ],
+      "duration_ms": 152961,
+      "name": "Dan\u00e7a",
+      "url": "https://open.spotify.com/track/3DS1sb4xQjCVBlTKfQ5bJL"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Lua Vai, Lua Vem",
-        "url": "https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX"
-      },
-      "artists": [
-        {
-          "name": "Tha\u00efs Morell",
-          "url": "https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB"
-        }
-      ],
-      "duration_ms": 216721,
-      "name": "Lua Vai, Lua Vem",
-      "url": "https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Com Certeza",
         "url": "https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 212750,
       "name": "Com Certeza",
       "url": "https://open.spotify.com/track/1HaLubyTPui15s30qxr6eI"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Lua Vai, Lua Vem",
+        "url": "https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX"
+      },
+      "artists": [
+        {
+          "name": "Tha\u00efs Morell",
+          "url": "https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB"
+        }
+      ],
+      "duration_ms": 216721,
+      "name": "Lua Vai, Lua Vem",
+      "url": "https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Praia do Flamengo",
-        "url": "https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9"
-      },
-      "artists": [
-        {
-          "name": "Rafael Pond\u00e9",
-          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
-        }
-      ],
-      "duration_ms": 271728,
-      "name": "Praia do Flamengo",
-      "url": "https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "INTENSO (Deluxe)",
         "url": "https://open.spotify.com/album/39xQjzBnICugrn3SIPy3bJ"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 171911,
       "name": "Louco de Amor - Ac\u00fastica",
       "url": "https://open.spotify.com/track/5hGqmSotpJmMcZkyNYplZ6"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Praia do Flamengo",
+        "url": "https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9"
+      },
+      "artists": [
+        {
+          "name": "Rafael Pond\u00e9",
+          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
+        }
+      ],
+      "duration_ms": 271728,
+      "name": "Praia do Flamengo",
+      "url": "https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV"
     },
     {
       "added_at": "2023-11-24 08:42:40",

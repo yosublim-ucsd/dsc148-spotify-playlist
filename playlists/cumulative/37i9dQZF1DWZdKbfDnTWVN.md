@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=7rQMXJ0eSw2EU8Wr5nSsXw"> Boutross</a> and <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=7rQMXJ0eSw2EU8Wr5nSsXw"> Jovie Jovv</a>
 
-196 songs - 10 hr 4 min
+197 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [PTSD](https://open.spotify.com/track/3KmUE0imli6gdoHQneEGDf) | [Sabi Wu](https://open.spotify.com/artist/0Lb6QZKrLMSzlcljXexbtB), [Jovie Jovv](https://open.spotify.com/artist/7tBvsYNwdwlbWIsF2VR5lR) | [FREEDOM II](https://open.spotify.com/album/3DKOQ3jh0VzNwUnz6kKBF9) | 3:30 | 2023-11-23 |  |
 | [Put On](https://open.spotify.com/track/6Ia18AqCQfxwpjZeRFgiRW) | [Timmy Blanco](https://open.spotify.com/artist/1Vn2QDLkrVV4M1Y85dePup), [Bout Paper Boyz](https://open.spotify.com/artist/2EXPwSRAffYH1zNCalvcaB) | [Put On](https://open.spotify.com/album/2kFKZPI547giFHReFIQ0c8) | 2:31 | 2023-10-19 |  |
 | [Queens Speech](https://open.spotify.com/track/39KWRJHeOCPrxjZtat72zD) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH), [Shanty Bobo](https://open.spotify.com/artist/5DHVUoC4CvknkFAOkyJ88N) | [Dem Kutoka Mwiki](https://open.spotify.com/album/1JD29V2kKZBTOebnyqXgOc) | 3:26 | 2023-04-27 |  |
-| [Quill2thmfwrld](https://open.spotify.com/track/7snV7SDZmfCjS9Sm099RRG) | [Jakk Quill](https://open.spotify.com/artist/6QqOXzlH2dcYNAHeGgZcLm) | [SEARCHING FOR UTOPIA](https://open.spotify.com/album/7IbrgLFXo4lzo7UvK4xqZe) | 5:19 | 2023-08-04 |  |
+| [Quill2thmfwrld](https://open.spotify.com/track/7snV7SDZmfCjS9Sm099RRG) | [Jakk Quill](https://open.spotify.com/artist/6QqOXzlH2dcYNAHeGgZcLm) | [SEARCHING FOR UTOPIA](https://open.spotify.com/album/7IbrgLFXo4lzo7UvK4xqZe) | 5:19 | 2023-08-04 | 2024-02-10 |
+| [RITHO](https://open.spotify.com/track/2M32pG0Wr1eT5RdKoAzykL) | [LIL FELLY](https://open.spotify.com/artist/5V32E4hgOemIeK7Shk7uXR), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [RITHO](https://open.spotify.com/album/2MnJFS59N80lemAi2QELvF) | 5:15 | 2024-02-09 |  |
 | [ROLL THE DICE \(Prod\. Gesaffelstein\)](https://open.spotify.com/track/7CAg4N1S926AymvuLjnJcy) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [ROLL THE DICE \(Prod\. Gesaffelstein\)](https://open.spotify.com/album/6P4c5OMZZQZVJLQJrYgjbd) | 2:44 | 2023-05-11 | 2023-10-27 |
 | [Romantic Rivals](https://open.spotify.com/track/3icpxCljEDRZ0OgMs5wXIY) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7), [Domani Mkadinali](https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2), [Sewersydaa](https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm) | [Romantic Rivals](https://open.spotify.com/album/32EU7qQmOukGB0S3x7C7cE) | 4:15 | 2022-04-28 | 2023-09-12 |
 | [RUN IT BACK](https://open.spotify.com/track/3Va9pM09AQ2Gyatgu4vQ0O) | [AINE](https://open.spotify.com/artist/6wjvPNWZyYAX8Q98XzVrQM), [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [PEPA](https://open.spotify.com/artist/4HqvlMEqy26JdJ99TagjWh) | [RUN IT BACK](https://open.spotify.com/album/6alK8J7KlYDgQB0bswLBdE) | 2:34 | 2022-07-14 | 2023-03-10 |

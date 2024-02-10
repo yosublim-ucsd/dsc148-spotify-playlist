@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 103911,
+  "2024-02-10": 103993,
   "date_first_scraped": "2022-05-26",
   "description": "Laid-back beats for an easygoing morning.",
   "name": "Mellow Lofi Morning",
@@ -911,6 +911,24 @@
       "duration_ms": 76835,
       "name": "BUREAU",
       "url": "https://open.spotify.com/track/1G2S9S4zkyjWZ4o7UFxKEN"
+    },
+    {
+      "album": {
+        "name": "cabin weather",
+        "url": "https://open.spotify.com/album/0O0oH4FTGiqwi3Z0PhD1KL"
+      },
+      "artists": [
+        {
+          "name": "Zupa Fitz",
+          "url": "https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "cabin weather",
+      "url": "https://open.spotify.com/track/0gDrjkBGC61kkPHJhKyctN"
     },
     {
       "album": {
@@ -3567,6 +3585,24 @@
       "duration_ms": 147063,
       "name": "in the blink of an eye",
       "url": "https://open.spotify.com/track/5MBfOXuYBd43bQseqvL2yo"
+    },
+    {
+      "album": {
+        "name": "in the shadows",
+        "url": "https://open.spotify.com/album/1aJZsbwArORSxptMMAsksU"
+      },
+      "artists": [
+        {
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149468,
+      "name": "in the shadows",
+      "url": "https://open.spotify.com/track/26Wu26lCBd5Pf5bMyhlDPP"
     },
     {
       "album": {
@@ -7725,6 +7761,24 @@
       "duration_ms": 124174,
       "name": "Tea Tree",
       "url": "https://open.spotify.com/track/55mpA2gpXm8lnifAvhGmro"
+    },
+    {
+      "album": {
+        "name": "Tender Times",
+        "url": "https://open.spotify.com/album/1ej8XQjJ9AxClxwCqyIZZp"
+      },
+      "artists": [
+        {
+          "name": "Chuttersnap",
+          "url": "https://open.spotify.com/artist/3AMiRynEiWSUzZ5yNkV4ku"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161294,
+      "name": "Tender Times",
+      "url": "https://open.spotify.com/track/6ctX10iWWXVvTM4vOnXAwc"
     },
     {
       "album": {

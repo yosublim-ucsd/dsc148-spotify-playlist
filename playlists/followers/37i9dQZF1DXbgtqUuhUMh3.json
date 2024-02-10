@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 19317,
+  "2024-02-10": 19338,
   "date_first_scraped": "2021-12-28",
   "description": "Listen to Arab women, at full volume. Cover: Dana Salah\n\n\n",
   "name": "EQUAL Arabia",
@@ -8514,6 +8514,24 @@
     },
     {
       "album": {
+        "name": "Tekfa La Tezaal",
+        "url": "https://open.spotify.com/album/1pqCeLwE1qJMFaM06F5umO"
+      },
+      "artists": [
+        {
+          "name": "Aseel Hameem",
+          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325891,
+      "name": "Warda Hamra",
+      "url": "https://open.spotify.com/track/2Etq4FJfvStNpbqToz6McT"
+    },
+    {
+      "album": {
         "name": "Rezq El Wared",
         "url": "https://open.spotify.com/album/3URkpUufiqInzAGBhFn9Az"
       },
@@ -9563,6 +9581,24 @@
       "duration_ms": 177189,
       "name": "\u0627\u0644\u062d\u064a\u0644\u0629",
       "url": "https://open.spotify.com/track/5JGPBZF9E9A1hRwhxPBpga"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u062f\u0647\u0628",
+        "url": "https://open.spotify.com/album/6LCL6l60ELVYSucbUDwL0P"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189152,
+      "name": "\u0627\u0644\u062f\u0647\u0628",
+      "url": "https://open.spotify.com/track/6Xw3zZd7uXObNVeDox4ZpT"
     },
     {
       "album": {

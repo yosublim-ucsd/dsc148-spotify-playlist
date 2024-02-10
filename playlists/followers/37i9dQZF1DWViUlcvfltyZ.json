@@ -1,7 +1,7 @@
 {
-  "2024-02-09": 84065,
+  "2024-02-10": 84062,
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: I Segreti",
+  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: Loredana Bert\u00e8",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -1516,6 +1516,24 @@
     },
     {
       "album": {
+        "name": "Guardare",
+        "url": "https://open.spotify.com/album/02UAzCAkKXBy44EbmUTEpS"
+      },
+      "artists": [
+        {
+          "name": "Astruso",
+          "url": "https://open.spotify.com/artist/3KAdDKm0QZlus9E20UaZlp"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149756,
+      "name": "Briciole",
+      "url": "https://open.spotify.com/track/0WsYtbZjsv4oguJtVJvevh"
+    },
+    {
+      "album": {
         "name": "Broccoletti Goes Punk",
         "url": "https://open.spotify.com/album/3NryFAzIjGgs8kWEdK06PR"
       },
@@ -1887,6 +1905,24 @@
       "duration_ms": 137853,
       "name": "CALMI",
       "url": "https://open.spotify.com/track/11e830eTMrExk20UCGtLr2"
+    },
+    {
+      "album": {
+        "name": "CAMALEONTI",
+        "url": "https://open.spotify.com/album/2AdPCVLGjFRqxis6KFfaMg"
+      },
+      "artists": [
+        {
+          "name": "RIVERA",
+          "url": "https://open.spotify.com/artist/5k49BRqiNw8x7q5N6Lgwkh"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190843,
+      "name": "CAMALEONTI",
+      "url": "https://open.spotify.com/track/3abXTive6mnRQ9b1GdlJBq"
     },
     {
       "album": {
@@ -3453,7 +3489,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 387805,
       "name": "Djoser's Pyramid",
       "url": "https://open.spotify.com/track/21fEm7v8C7KCboQ3UD95uH"
@@ -4345,6 +4381,24 @@
       "duration_ms": 211649,
       "name": "Fiji",
       "url": "https://open.spotify.com/track/71IMl8wVSkav5NPjqk9bxe"
+    },
+    {
+      "album": {
+        "name": "Fiorella Mannoia",
+        "url": "https://open.spotify.com/album/4U9pCqXjim96u5NtzHhLfF"
+      },
+      "artists": [
+        {
+          "name": "Mariposa",
+          "url": "https://open.spotify.com/artist/15tD0tLByy3DRPvfPMIaCy"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223436,
+      "name": "Fiorella Mannoia",
+      "url": "https://open.spotify.com/track/4qgpGoI7AOI51jF5JznW0h"
     },
     {
       "album": {
@@ -6685,7 +6739,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 129826,
       "name": "leave my bum alone",
       "url": "https://open.spotify.com/track/32CFLndmYhb1E4P6tW9kd7"
@@ -10119,7 +10173,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 191785,
       "name": "Riparliamone Domani",
       "url": "https://open.spotify.com/track/2FNnxj2DX3KJ7SMVEFw1CH"
@@ -12583,7 +12637,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 155721,
       "name": "Troppo in profondit\u00e0",
       "url": "https://open.spotify.com/track/1QGG15mBau0Jq70agUF782"
@@ -13265,7 +13319,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 264986,
       "name": "Versus minorenne",
       "url": "https://open.spotify.com/track/6SXY9sSqrlQxZGZO589Ywx"

@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 26782,
+  "2024-02-10": 26822,
   "date_first_scraped": "2023-02-01",
   "description": "TikTok\u3068Spotify\u304c\u5171\u540c\u3067\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u5fdc\u63f4\u3059\u308b\u30d7\u30ed\u30b0\u30e9\u30e0\u300cBuzz Tracker\u300d\uff01\u4e16\u754c\u4e2d\u306e\u97f3\u697d\u30b7\u30fc\u30f3\u306eBuzz\u3092\u3069\u3053\u3088\u308a\u3082\u65e9\u304fTrack(=\u8ffd\u8de1)\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: Ayumu Imazu",
   "name": "Buzz Tracker #\u30d0\u30ba\u30c8\u30e9",
@@ -1362,6 +1362,24 @@
     },
     {
       "album": {
+        "name": "Grizzly ni Osowaretara",
+        "url": "https://open.spotify.com/album/0LzrzCGujoA02Udiu0YlOu"
+      },
+      "artists": [
+        {
+          "name": "kamiyado",
+          "url": "https://open.spotify.com/artist/2AWzGewZVrlcuI3DwbB84b"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246936,
+      "name": "Grizzly ni Osowaretara",
+      "url": "https://open.spotify.com/track/4ZMAoWvsuJGOjChwiQwogt"
+    },
+    {
+      "album": {
         "name": "GRL GVNG",
         "url": "https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS"
       },
@@ -1719,7 +1737,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 159047,
       "name": "How Many Boogie",
       "url": "https://open.spotify.com/track/7ItiKu7nH1YYGBQZiwFq6M"
@@ -1857,6 +1875,28 @@
       "duration_ms": 204999,
       "name": "It Might Be Painful, but I Still Love It.",
       "url": "https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8"
+    },
+    {
+      "album": {
+        "name": "Transform -Charcoal side-",
+        "url": "https://open.spotify.com/album/5vd4jDH69qUuwHgCSzDjyY"
+      },
+      "artists": [
+        {
+          "name": "SKRYU",
+          "url": "https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM"
+        },
+        {
+          "name": "Tokkuri",
+          "url": "https://open.spotify.com/artist/724wxQ10xPdROLwDew8ypc"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194950,
+      "name": "Izakaya",
+      "url": "https://open.spotify.com/track/5t190cnf3LUsfBkMWOftGM"
     },
     {
       "album": {
@@ -2890,6 +2930,40 @@
     },
     {
       "album": {
+        "name": "Osanpo (Remix)",
+        "url": "https://open.spotify.com/album/6qSEgFsSbHoSi5LXJQp8z5"
+      },
+      "artists": [
+        {
+          "name": "SOCKS",
+          "url": "https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw"
+        },
+        {
+          "name": "DJ RYOW",
+          "url": "https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn"
+        },
+        {
+          "name": "Hannya",
+          "url": "https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh"
+        },
+        {
+          "name": "R-shitei",
+          "url": "https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb"
+        },
+        {
+          "name": "Space Dust Club",
+          "url": "https://open.spotify.com/artist/2gzAqApojzEcGpWzvrZjRy"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181384,
+      "name": "Osanpo - Remix",
+      "url": "https://open.spotify.com/track/5wWoGtwYK9xhPTgHBFJ4JK"
+    },
+    {
+      "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
       },
@@ -3009,7 +3083,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 209852,
       "name": "Prince Shoutoku",
       "url": "https://open.spotify.com/track/4z85bLqYNMp0ixpiARiCgC"
@@ -3503,7 +3577,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 150674,
       "name": "Step Back!",
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
@@ -5501,7 +5575,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 198733,
       "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5"
@@ -5983,6 +6057,24 @@
       "duration_ms": 175000,
       "name": "\u733f\u829d\u5c45",
       "url": "https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI"
+    },
+    {
+      "album": {
+        "name": "\u3055\u3088\u306a\u3089\u30b9\u30fc\u30b5\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/1vDBgxDf3ocCjB0vwsCHA5"
+      },
+      "artists": [
+        {
+          "name": "3markets[ ]",
+          "url": "https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162914,
+      "name": "\u793e\u4f1a\u306e\u30b4\u30df\u30ab\u30b6\u30de\u30bf\u30ab\u30d5\u30df",
+      "url": "https://open.spotify.com/track/72sYT21EAMIAKRVkJ6svqV"
     },
     {
       "album": {

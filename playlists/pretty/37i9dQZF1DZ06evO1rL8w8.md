@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 
 > This is El Komander\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,979 likes - 52 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,071 likes - 52 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 | 51 | [Rancho viejo](https://open.spotify.com/track/0dMGyiQgusmc6baZG2q4P5) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Rancho Viejo](https://open.spotify.com/album/2iOfUt8vWj7EtbbbbShV56) | 2:08 |
 | 52 | [Aqui Sigo de Pie](https://open.spotify.com/track/3YUzUpV8Hv0Ceq3kcloU2K) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Aqui Sigo de Pie](https://open.spotify.com/album/1pU4hKqSUPPhksUUvaCx1q) | 2:12 |
 
-Snapshot ID: `Mjg0NTY1OTMsMDAwMDAwMDAyMGY2MThiNDVlNjRhYmNmYTRmNGVlNDk0Nzc3MzJiMg==`
+Snapshot ID: `Mjg0NTgwNDgsMDAwMDAwMDAwZTUxODczMDZhZDE3NWU5ZTQ3OWQ1YjcxNGQ0ZTcwYQ==`

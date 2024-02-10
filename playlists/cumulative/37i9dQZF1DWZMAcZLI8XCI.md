@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3wc57nV2fGEoM8x4xPK1O9">Dixon</a>'s favorite tracks\. Updated regularly\. Curated by Dixon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-294 songs - 1 day 2 hr 25 min
+295 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Let The Music Flow](https://open.spotify.com/track/1wi5d1AftYDpfUF5B5x0tq) | [Sound Synthesis](https://open.spotify.com/artist/4wg4PP6rbZGyyO00gpAXjg) | [Let The Music Flow](https://open.spotify.com/album/4HrtnWbJykpO40yWR59KHe) | 6:31 | 2023-04-14 |  |
 | [Lift Off](https://open.spotify.com/track/1OwgnO8rqrXLyML3v63n23) | [The Detonators](https://open.spotify.com/artist/2zcmdntXFboV3JhEG1RlBB) | [Lift Off](https://open.spotify.com/album/0elfpXa7bGbJwdIeB0HaOV) | 5:29 | 2022-09-19 | 2022-11-09 |
 | [Locura](https://open.spotify.com/track/1KaG9W2HVdRDyNXt7fDkun) | [Cosmonection](https://open.spotify.com/artist/752ZwPUx0lcLZyxgSQTL3D), [Magycal N](https://open.spotify.com/artist/7IkF4Rt5iadkJ3Cpj0PCl6), [Cesar](https://open.spotify.com/artist/32EQxnYKNG07rS1izlGRIj) | [Locura](https://open.spotify.com/album/4IgeMpvZMJiCUXG4w1Gy5H) | 4:03 | 2022-12-22 | 2023-02-03 |
-| [Looney](https://open.spotify.com/track/4L2qmdkyoEa6ZNkHLq5vMr) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Looney Talks](https://open.spotify.com/album/1RpbVl2wdDPxBDwkyaA8bi) | 6:00 | 2023-04-14 |  |
+| [Looney](https://open.spotify.com/track/4L2qmdkyoEa6ZNkHLq5vMr) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Looney Talks](https://open.spotify.com/album/1RpbVl2wdDPxBDwkyaA8bi) | 6:00 | 2023-04-14 | 2024-02-10 |
+| [Looney](https://open.spotify.com/track/5RBuQi41kgJO9qDdcMLof7) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Looney Talks](https://open.spotify.com/album/1ijBvXjoA3te20e27FfVGF) | 6:00 | 2023-06-06 |  |
 | [Los muertos no lloran](https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS) | [issuesonissues](https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0) | [Los muertos no lloran](https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG) | 5:40 | 2023-04-14 |  |
 | [Lost Heads](https://open.spotify.com/track/6f8wIpMdNnL7CZ8zsfmh6v) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Stars Are the Light](https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5) | 6:26 | 2022-11-08 | 2022-12-24 |
 | [Love on a Real Train](https://open.spotify.com/track/7K2f2AfgwnXQDlPFGmEKuO) | [Mr Beatnick](https://open.spotify.com/artist/3znZaFxK0ZZXSSrmBqmMIV) | [Joy in Variation](https://open.spotify.com/album/7vrTzxzwVknflfPNZSYikd) | 3:49 | 2023-06-06 |  |

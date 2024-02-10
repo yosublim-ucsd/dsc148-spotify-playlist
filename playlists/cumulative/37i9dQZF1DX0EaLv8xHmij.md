@@ -4,7 +4,7 @@
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Oklin, Prod\. 2t
 
-261 songs - 12 hr 11 min
+262 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Bebeto & Romário](https://open.spotify.com/track/3BsDJHBfY8nh2zHOkTuKse) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Ainda É o Rap dos Novos Bandidos](https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy) | 2:25 | 2022-12-02 | 2023-10-28 |
 | [Berimbau](https://open.spotify.com/track/2q8v8W0lLF75Q3GJ5IUltt) | [VH](https://open.spotify.com/artist/4vJjgImO8b2MB0m3e0eVRJ), [Dropallien](https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD) | [Berimbau](https://open.spotify.com/album/3lZwzkxTzuaIpRCI2jccZc) | 2:04 | 2022-09-23 | 2022-10-15 |
 | [Boca](https://open.spotify.com/track/0om5OHq5YXfbqyWjNRtytV) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ) | [Vetin](https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs) | 2:53 | 2023-11-28 |  |
+| [Bololô](https://open.spotify.com/track/1j4VwVTZviiAJGMdrrgNVR) | [Pensante](https://open.spotify.com/artist/2872JIpS6byTiiioaJ4WGD), [Na Baixada Tem Rap](https://open.spotify.com/artist/2vlja486J3iOHGn6tn2Sif), [MC Dinho Da VP](https://open.spotify.com/artist/3WAGrnvPDPAiBJHD7eaNvQ) | [Bololô](https://open.spotify.com/album/4Nl7uUXzZzc8Ak3PEsivwI) | 2:16 | 2024-02-09 |  |
 | [Bonde da Oakley](https://open.spotify.com/track/5ed4MVmX152hyN9W5QY50D) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR) | [Da Viela Pro Mundo](https://open.spotify.com/album/5VqImQimN6ayrkJGGdbmQ5) | 2:59 | 2023-04-21 |  |
 | [Bonde da Rock](https://open.spotify.com/track/6sC0OMXUGXDtzcm0SkJYv5) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Bonde da Rock](https://open.spotify.com/album/4lyBsKWg4M8zHI0Ormmpo7) | 2:17 | 2022-12-23 | 2023-07-08 |
 | [Bonde da Rock \- Remix](https://open.spotify.com/track/2mJlNVUnUYkIZBzewrgTuY) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:12 | 2023-09-30 | 2023-10-10 |
@@ -266,7 +267,7 @@
 | [Voz da Rua \#13: Flow Hannah Montana](https://open.spotify.com/track/1xsg3IoN5ifO5Nrv6PdpXk) | [Bradrill](https://open.spotify.com/artist/1UsZT3fIytr5GVGPwKcSUs), [Brisa Mc](https://open.spotify.com/artist/4xMVJWmvzB3bCB3X1jORtp), [Cres Rap](https://open.spotify.com/artist/1GZVK0u5R8xG1X4ZjYnFPk) | [Voz da Rua \#13: Flow Hannah Montana](https://open.spotify.com/album/4IMSw7kHFu4WKtemhsN2pK) | 1:52 | 2022-03-18 | 2022-04-23 |
 | [XXX](https://open.spotify.com/track/5S5DLXSjrCKC7LCJ9qsdx8) | [Malik](https://open.spotify.com/artist/0ifpZXmFP8xcOmukbS5udK) | [XXX](https://open.spotify.com/album/14KtJPzElJmnHK4Yy8pRa6) | 1:28 | 2022-12-02 | 2023-01-28 |
 | [Yo Mami](https://open.spotify.com/track/1f5zESheEAJvU2hYZxMGRX) | [Mc XC da Santa Cruz](https://open.spotify.com/artist/1TpZVD01guvaoeEZMWzFLf), [Gustaviis](https://open.spotify.com/artist/4HryQl93pMBuVmVvBaAWwk), [Cortez Caza13](https://open.spotify.com/artist/0AQHWHsZx0zuIYmh8UtpIj) | [Yo Mami](https://open.spotify.com/album/66OTbNBvgT9VFMd4aMDdj6) | 2:54 | 2023-05-05 | 2023-07-08 |
-| [Zidane](https://open.spotify.com/track/4OLhUBpqcNtNeHKknQrJ5t) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV) | [Zidane](https://open.spotify.com/album/7FdZZcSFSgIOB26v2WOARb) | 2:28 | 2024-01-12 |  |
+| [Zidane](https://open.spotify.com/track/4OLhUBpqcNtNeHKknQrJ5t) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV) | [Zidane](https://open.spotify.com/album/7FdZZcSFSgIOB26v2WOARb) | 2:28 | 2024-01-12 | 2024-02-10 |
 | [ZIG ZAG](https://open.spotify.com/track/26aP5eXvDcnxdtpHCVl0Jh) | [Raonir Braz](https://open.spotify.com/artist/44w1bg6i4nDOZMvNnGiRdg) | [PERSONA Vol\. 2](https://open.spotify.com/album/3B2MpuHunAGSZ8FwpYK5lx) | 2:32 | 2023-10-27 |  |
 | [Único Jeito](https://open.spotify.com/track/1JbupefYt00QB1QlPROn9R) | [Malik](https://open.spotify.com/artist/0ifpZXmFP8xcOmukbS5udK) | [Único Jeito](https://open.spotify.com/album/0VIMqDYDI9KpOLSnKpx1lP) | 1:58 | 2022-04-15 | 2022-06-11 |
 

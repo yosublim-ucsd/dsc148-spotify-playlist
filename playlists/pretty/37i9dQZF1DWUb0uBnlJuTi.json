@@ -1,13 +1,33 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 328236,
+  "num_followers": 328387,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDAxMjJjZGQwMWNlZDRjN2Q3MGQ3Njc4NGJjNWM0MzYxZTNjNDk4",
+  "snapshot_id": "MCwwNGU4MDkzM2E3MmI0NWVjMmEzYWMzZWViODk5ZTk0YjJjZTliZmU5",
   "tracks": [
+    {
+      "added_at": "2024-02-09 05:01:00",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk"
+    },
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {

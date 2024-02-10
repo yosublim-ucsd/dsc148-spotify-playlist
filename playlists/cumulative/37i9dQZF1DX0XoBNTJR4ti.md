@@ -4,7 +4,7 @@
 
 > A collection of family\-friendly stories in five minutes or less.
 
-48 songs - 3 hr 14 min
+50 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,8 +25,9 @@
 | [Humpty Dumpty](https://open.spotify.com/track/1YBWnB0xyRVMFwqtd7shN3) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Kids Storytime with Pancake Manor](https://open.spotify.com/album/2jmaIV7Hxl2K7hayGzGRLx) | 3:56 | 2021-12-03 |  |
 | [Humpty Dumpty](https://open.spotify.com/track/50EoKRgVWV8U4pQ04EK4hO) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Kids Storytime with Pancake Manor](https://open.spotify.com/album/01vsNBdsUB3dvH8Coqltrm) | 3:56 | 2021-12-03 | 2022-07-29 |
 | [Little Red Riding Hood](https://open.spotify.com/track/1bg1YoDRjBKYyv30pguig8) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [157 Kids Best Songs And Stories](https://open.spotify.com/album/36giPQAFtuqJjEhLEWHD0e) | 4:50 | 2021-12-03 |  |
+| [Mandy Mouse](https://open.spotify.com/track/2ktLL6B7TE3EfXsKMmj3gg) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Peppa Pig: Friendship Stories](https://open.spotify.com/album/4btu3lo19eQK1LImUUhkmS) | 4:45 | 2021-12-03 |  |
 | [Mandy Mouse](https://open.spotify.com/track/3plR4Br6f2QpxnPaQokXzH) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Mandy Mouse](https://open.spotify.com/album/5WYoSMuqhb4P5IhLoxQN9Z) | 4:45 | 2021-12-03 | 2023-12-24 |
-| [Mandy Mouse](https://open.spotify.com/track/4yazEiOnMYLdQXot3g10gb) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Mandy Mouse](https://open.spotify.com/album/1ReshIpC8o2xwHg8oKiWto) | 4:45 | 2021-12-03 |  |
+| [Mandy Mouse](https://open.spotify.com/track/4yazEiOnMYLdQXot3g10gb) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Mandy Mouse](https://open.spotify.com/album/1ReshIpC8o2xwHg8oKiWto) | 4:45 | 2021-12-03 | 2024-02-10 |
 | [Pirate Treasure](https://open.spotify.com/track/0t6df87Lpjiz7o9XTn9fr7) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Pirate Treasure](https://open.spotify.com/album/2vJT3uAZWSWznH9bAqt6KW) | 5:00 | 2021-12-03 |  |
 | [Pirate Treasure](https://open.spotify.com/track/5HbS4avLoZIYTVcElQmtmE) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Pirate Treasure](https://open.spotify.com/album/3hfnU4gXOokoXNh9zzesoO) | 5:00 | 2021-12-03 | 2023-12-24 |
 | [Princess and the Pea](https://open.spotify.com/track/17ALnKIuxnxeiqzLYQScJw) | [Grover](https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn) | [Sesame Street: The Sesame Street Fairy Tale Album](https://open.spotify.com/album/0hqmmMhV62n51CaXNYO7sS) | 5:00 | 2021-12-03 |  |
@@ -34,8 +35,9 @@
 | [Sea, Sun and Snow](https://open.spotify.com/track/1cm49rUMUA8c2LwPFGTCLq) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Sea, Sun and Snow](https://open.spotify.com/album/6cSUdAlg7z3NGroFa1wnYy) | 4:53 | 2021-12-03 | 2023-12-25 |
 | [Sea, Sun and Snow](https://open.spotify.com/track/76TOAzxbJYS0IFSdxHqR7U) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Sea, Sun and Snow](https://open.spotify.com/album/4AUSwIjz6bTfeymU10SWY0) | 4:53 | 2021-12-03 |  |
 | [Sleeping Beauty](https://open.spotify.com/track/7aqZyEaametOI8ZKTYGhql) | [The Ultimate Storyteller](https://open.spotify.com/artist/7EUAjyQlDwLUeWAG1JoyG5) | [Ultimate Kids Fairy Tales Vol\. 2](https://open.spotify.com/album/2WEOAXPbDiAhGp6eBg7Bem) | 2:51 | 2021-12-03 |  |
-| [Talent Day](https://open.spotify.com/track/1WryyKBZ3XaJqDBUGfZ1Lx) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Talent Day](https://open.spotify.com/album/5FsNE4pas4QxbAwA4Ch0mO) | 4:40 | 2021-12-03 |  |
+| [Talent Day](https://open.spotify.com/track/1WryyKBZ3XaJqDBUGfZ1Lx) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Talent Day](https://open.spotify.com/album/5FsNE4pas4QxbAwA4Ch0mO) | 4:40 | 2021-12-03 | 2024-02-10 |
 | [Talent Day](https://open.spotify.com/track/2LLlH12XHOZjv9gFA9ibax) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Talent Day](https://open.spotify.com/album/0lJqL5GWW0JF9ptafbhBKC) | 4:40 | 2021-12-03 | 2023-12-24 |
+| [Talent Day](https://open.spotify.com/track/3HzD91ymxpgeOnZLj0SGmQ) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Peppa Pig: Friendship Stories](https://open.spotify.com/album/4btu3lo19eQK1LImUUhkmS) | 4:40 | 2021-12-03 |  |
 | [The 3 Wishes](https://open.spotify.com/track/6stEWRa1Mssvf9qpd4WHOr) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [157 Kids Best Songs and Stories](https://open.spotify.com/album/7m4LmrH0AirZWWzadQzYuY) | 3:18 | 2021-12-03 |  |
 | [The Ant and The Grasshopper](https://open.spotify.com/track/4HCE073x3OH0ZIJCmoT2Yu) | [The Ultimate Storyteller](https://open.spotify.com/artist/7EUAjyQlDwLUeWAG1JoyG5) | [Ultimate Kids Fairy Tales Vol\. 1](https://open.spotify.com/album/1YfBuHSOsF1RWfTmL6g5Ky) | 1:08 | 2021-12-03 |  |
 | [The Country Mouse And The City Mouse](https://open.spotify.com/track/3Lq4VY03Ry28qQIV0IT7jN) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [157 Kids Best Songs and Stories](https://open.spotify.com/album/7m4LmrH0AirZWWzadQzYuY) | 3:17 | 2021-12-03 |  |

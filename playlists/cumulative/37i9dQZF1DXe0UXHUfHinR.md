@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-695 songs - 2 day 6 hr 53 min
+696 songs - 2 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [A Taste of Honey \- Live](https://open.spotify.com/track/6PdC87pNlAOBZFRVhk2c3Q) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Greatest Hits Series\-\-Paul Desmond](https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b) | 4:31 | 2022-10-27 |  |
 | [Abide With Me](https://open.spotify.com/track/3jyf6lnLOgJERToaoUgXHs) | [Thelonious Monk Septet](https://open.spotify.com/artist/56koGOp6EpWHZYOfuTTxRB) | [Monk's Music \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/30b7gEVQNhrs74WkZl8Qo3) | 0:55 | 2022-10-27 | 2023-10-02 |
 | [After You've Gone](https://open.spotify.com/track/1gl8PiCrspI8S4psbqjDgy) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Be Cool](https://open.spotify.com/album/1mZiyKK7JnEeisBpPWvk7D) | 7:04 | 2022-10-27 |  |
-| [Ahmad's Blues](https://open.spotify.com/track/4CZfPaDW5madfScpZl0nDU) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Poinciana](https://open.spotify.com/album/34GHm1Z27zI3SfqAzqSPmM) | 2:54 | 2022-10-27 |  |
+| [Ahmad's Blues](https://open.spotify.com/track/4CZfPaDW5madfScpZl0nDU) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Poinciana](https://open.spotify.com/album/34GHm1Z27zI3SfqAzqSPmM) | 2:54 | 2022-10-27 | 2024-02-10 |
 | [Ain't Misbehavin'](https://open.spotify.com/track/3BFRqZFLSrqtQr6cjHbAxU) | [Fats Waller](https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa) | [If You Got To Ask, You Ain't Got It!](https://open.spotify.com/album/1W9UvJtQ8WmTnIBqi6KnHB) | 3:57 | 2022-10-27 |  |
 | [Alfie](https://open.spotify.com/track/40jkZfOGxDcIRgNz9nEoZ7) | [Rahsaan Roland Kirk](https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV) | [Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith](https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp) | 2:52 | 2022-10-27 |  |
 | [All Alone](https://open.spotify.com/track/6TAW00MAPvS59yEoIgtOEI) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [All Alone](https://open.spotify.com/album/0GpkwiJKo7ogyjHGML8iay) | 5:10 | 2022-10-27 |  |
@@ -131,6 +131,7 @@
 | [Changes](https://open.spotify.com/track/6B0aELa2yqLyeu2ULt8bEq) | [Miles Davis And Milt Jackson Quintet](https://open.spotify.com/artist/51gulqh1DpAHn0ZUNMRBRu) | [Miles Davis And Milt Jackson Quintet/Sextet](https://open.spotify.com/album/6QV1iyREyud3AGQZxf8Yt7) | 7:10 | 2023-12-20 | 2024-01-15 |
 | [Charlie Brown Theme](https://open.spotify.com/track/2tr8uTaifUtZimedSRmcoY) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 4:19 | 2022-10-27 | 2024-01-28 |
 | [Cheek To Cheek](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 5:54 | 2022-10-27 |  |
+| [Cheese Cake \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/367kqaJ8aCvK2wUCEE7oGb) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 6:33 | 2024-02-01 |  |
 | [Cherokee](https://open.spotify.com/track/0BNrLm5na6f7witHj8769E) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1) | 5:44 | 2023-06-21 |  |
 | [Chicago](https://open.spotify.com/track/5TjO0GOOon3R6YOnRFPwzk) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Best Of Benny Goodman](https://open.spotify.com/album/1I1E1ZUYFDK0Dn4DK5YmrH) | 2:59 | 2022-10-27 |  |
 | [Chicken](https://open.spotify.com/track/4IDdUssauEYJ9kTit6tOU6) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX), [Peter Lübke](https://open.spotify.com/artist/0YktrlH17JaZBzywJCcNma), [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Broadway Blues](https://open.spotify.com/album/7sZtHAjAPbZmch3HLiA3g7) | 5:51 | 2022-10-27 |  |

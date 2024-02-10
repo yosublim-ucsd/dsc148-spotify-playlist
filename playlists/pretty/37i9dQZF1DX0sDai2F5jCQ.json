@@ -1,12 +1,12 @@
 {
   "description": "Hip-Hop's hottest from Australia, New Zealand and beyond. Cover: Don Toliver",
-  "num_followers": 437727,
+  "num_followers": 437784,
   "original_name": "A1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmJmZGNhMWE0NDlhMTJjMjQwMGYzYmRkMGQyMGQyNTNjMDZjNDZh",
+  "snapshot_id": "MCw1ZDQ3Nzg3MjRiNjk1YjhlODA1YWI0YmZmNTk1Zjg4NDY1OGQ5NTEy",
   "tracks": [
     {
       "added_at": "2024-02-08 13:00:00",
@@ -199,6 +199,22 @@
       "duration_ms": 169014,
       "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
       "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
+    },
+    {
+      "added_at": "2024-02-08 13:00:00",
+      "album": {
+        "name": "Sunday Service",
+        "url": "https://open.spotify.com/album/5ayh7q1xq1jFa3QsmE3M7n"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 166581,
+      "name": "Sunday Service",
+      "url": "https://open.spotify.com/track/3Zlra451yN4JQfvvFxnr5Y"
     },
     {
       "added_at": "2024-02-08 13:00:00",

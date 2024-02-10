@@ -2,7 +2,7 @@
 
 ### [Front Left](https://open.spotify.com/playlist/37i9dQZF1DX5WTH49Vcnqp)
 
-> Music that's hard to define but easy to love\. Cover: The Last Dinner Party
+> Music that's hard to define but easy to love\. Cover: d4vd
 
 1,251 songs - 2 day 22 hr 52 min
 

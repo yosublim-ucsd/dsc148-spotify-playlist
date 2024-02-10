@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 658760,
+  "2024-02-10": 658845,
   "date_first_scraped": "2022-05-30",
   "description": "New Music from Kollywood.\nCover : Lal Salaam",
   "name": "Latest Tamil",
@@ -171,6 +171,28 @@
       "duration_ms": 106950,
       "name": "Aagaasam - Ilaiyaraaja Version",
       "url": "https://open.spotify.com/track/5yJMDVJnBTunI5UaIpXHQ6"
+    },
+    {
+      "album": {
+        "name": "Siren (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0NZdbgI7S03zC7jora6quw"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Harish Sivaramakrishnan",
+          "url": "https://open.spotify.com/artist/3B3pVT24J4ROpfNDEqmEt2"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "Aagayam Odanju",
+      "url": "https://open.spotify.com/track/4MyH2U5eHKqn75qxO5v88V"
     },
     {
       "album": {
@@ -765,6 +787,32 @@
       "duration_ms": 240764,
       "name": "Adhirudha - From \"Mark Antony\"",
       "url": "https://open.spotify.com/track/4u7dTTr6SApQiy7eBWARZI"
+    },
+    {
+      "album": {
+        "name": "Siren (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0NZdbgI7S03zC7jora6quw"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Sinduri Vishal",
+          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248400,
+      "name": "Adi Aathi",
+      "url": "https://open.spotify.com/track/2KQuipQMeOPHKNMJaiUcIx"
     },
     {
       "album": {
@@ -1547,7 +1595,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 215096,
       "name": "Anbe Anbe (From \"Hi Nanna\")",
       "url": "https://open.spotify.com/track/2eyHPslXDfn2GsihHu8JPw"
@@ -2313,6 +2361,32 @@
       "duration_ms": 226343,
       "name": "Asakuna Pusakuna - From \"Ithu Kathaiyalla Nijam\"",
       "url": "https://open.spotify.com/track/2cpkcH0RyhTYTm45LbcRE6"
+    },
+    {
+      "album": {
+        "name": "Asaraadhe (From \"Por\")",
+        "url": "https://open.spotify.com/album/4mWF00P9hLNN7hIqDe51bi"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Varsha S Krishnan",
+          "url": "https://open.spotify.com/artist/0vdtuGmdyhDYGxszoxF14n"
+        },
+        {
+          "name": "Krithika Nelson",
+          "url": "https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174104,
+      "name": "Asaraadhe (From \"Por\")",
+      "url": "https://open.spotify.com/track/5ig9q52yUk6U5mNENs53nq"
     },
     {
       "album": {
@@ -5881,7 +5955,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 356588,
       "name": "Eniya Mounam Kedkuma",
       "url": "https://open.spotify.com/track/6EOK6eDkAhQi94y1dlNnMc"
@@ -11325,7 +11399,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 223200,
       "name": "Kuttyma (From \"Jinn The Pet\")",
       "url": "https://open.spotify.com/track/2p0dn3l38svqSmlrQSzqyH"
@@ -14715,6 +14789,32 @@
       "duration_ms": 259437,
       "name": "Nana Buluku (From \"Pichaikkaran 2\")",
       "url": "https://open.spotify.com/track/6PoVFlUdAXngez43DlWy4q"
+    },
+    {
+      "album": {
+        "name": "Nandanandanaa (From \"The Family Star\")",
+        "url": "https://open.spotify.com/album/4b4CeCF3AsME3i4qCpV0tS"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Gopi Sundar",
+          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299117,
+      "name": "Nandanandanaa (From \"The Family Star\")",
+      "url": "https://open.spotify.com/track/0uc62z7kafdH5sCri8qlDq"
     },
     {
       "album": {
@@ -18151,7 +18251,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 202207,
       "name": "Pooraname (From \"Saindhav\")",
       "url": "https://open.spotify.com/track/5mQLI4h0rLNEXlWc77zTVb"
@@ -18723,7 +18823,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 193250,
       "name": "Raavanamavan",
       "url": "https://open.spotify.com/track/3AlrJlVCdBx8IU3apZ6OrF"
@@ -24957,6 +25057,32 @@
       "duration_ms": 306203,
       "name": "Vaanilai - From \"Marakkuma Nenjam\"",
       "url": "https://open.spotify.com/track/6Im2ih5gt3S4nE6ECIdyRM"
+    },
+    {
+      "album": {
+        "name": "Rathnam (Tamil)",
+        "url": "https://open.spotify.com/album/1NM9sfPmP1KmaVXo3l9NEk"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Shenbagaraj",
+          "url": "https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135827,
+      "name": "Vaarai Rathnam",
+      "url": "https://open.spotify.com/track/1LozlztrbkcT1GB9ANDBMy"
     },
     {
       "album": {

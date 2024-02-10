@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 
 > The USB essentials that defined our setlists this year\. Cover: Skrillex, Fred again.\. & Four Tet
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,971 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,978 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 68 | [Clearly Rushing](https://open.spotify.com/track/6XySYT472SweJ5kSOr3aFC) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [Clearly Rushing](https://open.spotify.com/album/2caDuxe2VEqkt2Xq17ekF2) | 3:20 |
 | 69 | [✨ mum is calling ✨](https://open.spotify.com/track/27fusRmYpex94O3REevU1F) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/4rT7zzBMEzrHJ0i7X81Rdv) | 3:18 |
 | 70 | [Fukken Lie](https://open.spotify.com/track/5l7gIuQCLPNFj5bA0GXYSx) | [Nene H](https://open.spotify.com/artist/3i7e7kVkTVFhkjYMfZoFoI) | [Trifecta](https://open.spotify.com/album/3FFdrjoj7j1nivP0Koz4gL) | 4:19 |
-| 71 | [In A Daze](https://open.spotify.com/track/2Xgp5bKIzfZfj3WqjTdjge) | [LADYMONIX](https://open.spotify.com/artist/2L20FlBvHKIMNeMFhtrwjO) | [Welcome 2 My House](https://open.spotify.com/album/1zYlBqGoWNoEp3WrKULrWT) | 5:00 |
+| 71 | [In A Daze](https://open.spotify.com/track/37Y0dT6HzzOrbjrrq3pwTy) | [LADYMONIX](https://open.spotify.com/artist/2L20FlBvHKIMNeMFhtrwjO) | [Welcome 2 My House](https://open.spotify.com/album/56H7AoNgSLojnlJLAECuYE) | 5:00 |
 | 72 | [Toast](https://open.spotify.com/track/0BuIHXZ4Dr7Bu02fPpHA3l) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Toast](https://open.spotify.com/album/2ZKGLudhFxiX9cpgKrDelD) | 2:41 |
 | 73 | [Birdy Bell \- Nick León Remix](https://open.spotify.com/track/0QhAGPBjSoo5IkY100tKtA) | [SUCHI](https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [Birdy Bell \(Nick León Remix\)](https://open.spotify.com/album/75A93FgE3Yhhozou3NlGdN) | 5:23 |
 | 74 | [Istibtan](https://open.spotify.com/track/0xKYUsca6nDBKcEWL8PyKQ) | [Toumba](https://open.spotify.com/artist/2BX3Brla1PKdsoIUg0HoaF) | [Petals](https://open.spotify.com/album/2dvdzQpXvoqeh8MShZupIy) | 4:36 |
 | 75 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 
-Snapshot ID: `MCw4ZWRjYmNkOTFiMDY1MzM3YTE5MWIyMmZlZGU5NmY4MTE0MWEwYTk4`
+Snapshot ID: `MCw4NTUyNmVkYTM5ODQ5ZWYyMGU2NDI1MTUzMTUzYzAwMTU2ODRmMmUw`

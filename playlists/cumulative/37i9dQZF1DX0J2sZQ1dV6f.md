@@ -4,7 +4,7 @@
 
 > Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta.
 
-379 songs - 19 hr 52 min
+380 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [PAPI \(feat\. Babywine & Alberto Stylee\)](https://open.spotify.com/track/2wQBzAZdsaqDBbtwBk5MhA) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Jose De Las Heras](https://open.spotify.com/artist/7trKViRlVbKr7Yrh9ygHnS), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi), [Babywine](https://open.spotify.com/artist/5DLfGYyYP6BBL0fbh3GuBG), [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [PAPI \(feat\. Babywine & Alberto Stylee\)](https://open.spotify.com/album/5x4Jjd6EXn4pVW7sISuQjy) | 3:07 | 2022-03-21 | 2022-07-09 |
 | [Papi Quiero Perrear](https://open.spotify.com/track/1fO0hDlLYH13JSEegukxcE) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Papi Quiero Perrear](https://open.spotify.com/album/6vY4xHJXWv0ETD6LiDBbvY) | 2:15 | 2023-04-03 | 2023-12-07 |
 | [Parien7e](https://open.spotify.com/track/5raDxXLPptaGfxMeCQdtHR) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Parien7e](https://open.spotify.com/album/1zdTvMkQt3awW4dAt3SeIA) | 3:18 | 2022-03-21 | 2022-07-09 |
+| [PARIS HILTON](https://open.spotify.com/track/7bBwukyxiobxT0Cel4P3Pp) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [PARIS HILTON](https://open.spotify.com/album/4UNnBbl3o8cF2IYYPY3hq7) | 3:05 | 2024-02-09 |  |
 | [Paso de Ti](https://open.spotify.com/track/2Xpm8ObkxpogWHqyHY60Kc) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa) | [Gominola](https://open.spotify.com/album/7oo4JEORBDPOHgGYh2qavt) | 4:10 | 2022-03-21 | 2022-04-20 |
 | [Pasta y Queso](https://open.spotify.com/track/7kFWa1Wv6lQzAJkgFUnruW) | [El Choco](https://open.spotify.com/artist/2q65fBeBP9WDVhbQonsC6f) | [Pasta y Queso](https://open.spotify.com/album/1hYe0Zzhk5wzcSqHosEXfV) | 2:57 | 2022-03-21 | 2022-04-20 |
 | [Pedro Pan](https://open.spotify.com/track/56yW56wfuC0OgvrBG4kRbp) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette \- Lado B EP](https://open.spotify.com/album/4ogLmrVunBbpcwie7xzQQ0) | 2:05 | 2022-03-21 | 2022-04-20 |

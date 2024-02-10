@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Hermanos Espinoza en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Intocable en portada.",
   "name": "Norte\u00f1o 2024",
   "tracks": [
     {
@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 200626,
       "name": "Besos Contados",
       "url": "https://open.spotify.com/track/310tDyxuIecgZJ9BsD9JZN"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 147026,
       "name": "Bonsai",
       "url": "https://open.spotify.com/track/3Bn7ktgAB8mgHzrKMQmJpN"
@@ -1066,6 +1066,24 @@
       "duration_ms": 199197,
       "name": "Caricatura",
       "url": "https://open.spotify.com/track/2T5nAEkXMX49j29nMVt6qU"
+    },
+    {
+      "album": {
+        "name": "Broche De Oro, Vol. 2",
+        "url": "https://open.spotify.com/album/3wxMFWQmft2AiryqyyH7Rx"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148260,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/78bZloQ9Yj19NrafB8YW5e"
     },
     {
       "album": {
@@ -2176,7 +2194,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 211500,
       "name": "El Corrido De Everardo - En Vivo",
       "url": "https://open.spotify.com/track/3rKROLx067SgcAOrZzg2v1"
@@ -3422,7 +3440,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 247065,
       "name": "Estilo Especial - En Vivo",
       "url": "https://open.spotify.com/track/5jSK8BMzUXMlcFCukMi7Wm"
@@ -4416,7 +4434,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 216604,
       "name": "La Ley del Mayo",
       "url": "https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7"
@@ -4883,6 +4901,24 @@
     },
     {
       "album": {
+        "name": "Llegaste",
+        "url": "https://open.spotify.com/album/51RQf5R0xgXXATJVhf6Dib"
+      },
+      "artists": [
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207281,
+      "name": "Llegaste",
+      "url": "https://open.spotify.com/track/6Eitnpo4RYqJP30YBDqcJ0"
+    },
+    {
+      "album": {
         "name": "Lleg\u00f3 El Desmadre",
         "url": "https://open.spotify.com/album/6MEIgpqfhLXnIIGFPrCEWk"
       },
@@ -5162,7 +5198,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 182298,
       "name": "Me Di Cuenta",
       "url": "https://open.spotify.com/track/2ucU5OkIVrM0CcaUksB6vf"
@@ -5684,6 +5720,24 @@
       "duration_ms": 168280,
       "name": "Nadie",
       "url": "https://open.spotify.com/track/7jwqJhuyPK50TcltlkI7NF"
+    },
+    {
+      "album": {
+        "name": "Nadie Es Como T\u00fa",
+        "url": "https://open.spotify.com/album/0U4cdPpYoMg6x1Ft8FrPu4"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169079,
+      "name": "Nadie Es Como T\u00fa",
+      "url": "https://open.spotify.com/track/6VnZwLCdTyVfkaw2f54IVG"
     },
     {
       "album": {
@@ -6265,6 +6319,24 @@
     },
     {
       "album": {
+        "name": "Modus Operandi",
+        "url": "https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166949,
+      "name": "Ojal\u00e1 Estuvieras Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0qv6HGoCMqZ7ipX4u4N8KQ"
+    },
+    {
+      "album": {
         "name": "Ojal\u00e1 Que Te Mueras",
         "url": "https://open.spotify.com/album/6Us6zDsEZbXA7pAMlSSpu0"
       },
@@ -6316,7 +6388,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 215468,
       "name": "Ojos Negros Nunca Enga\u00f1an",
       "url": "https://open.spotify.com/track/33CX2qWzdT7TT1sCtAk2vb"
@@ -8061,6 +8133,28 @@
     },
     {
       "album": {
+        "name": "Te Ves Tan Bien",
+        "url": "https://open.spotify.com/album/16iG0rwdDy5fETPFjiDzth"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "Te Ves Tan Bien",
+      "url": "https://open.spotify.com/track/2jQSAAik7RO3EGv0YeJtXV"
+    },
+    {
+      "album": {
         "name": "De Parranda Lives Vol. 5",
         "url": "https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E"
       },
@@ -8130,6 +8224,24 @@
       "duration_ms": 237640,
       "name": "Terrenal",
       "url": "https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O"
+    },
+    {
+      "album": {
+        "name": "Toda La Razon",
+        "url": "https://open.spotify.com/album/5W9AqAqPN4tWayS7d52gW0"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171177,
+      "name": "Toda La Razon",
+      "url": "https://open.spotify.com/track/2eyuw2LUGQwOMUScPDsG4B"
     },
     {
       "album": {
@@ -8264,6 +8376,24 @@
       "duration_ms": 157354,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/7iIkdDkrVcyPulI2gXLTYP"
+    },
+    {
+      "album": {
+        "name": "Tu Mu\u00f1eco",
+        "url": "https://open.spotify.com/album/03DENHqhGRkaaZIoTYFyzg"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139333,
+      "name": "Tu Mu\u00f1eco",
+      "url": "https://open.spotify.com/track/2qhj3k0nr9EZebVW3rAOWL"
     },
     {
       "album": {

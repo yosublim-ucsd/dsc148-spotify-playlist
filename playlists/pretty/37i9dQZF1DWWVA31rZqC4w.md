@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 
 > Hello you...Listen to music from and inspired by You, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,467 likes - 153 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,497 likes - 153 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 | 33 | [Trust No One](https://open.spotify.com/track/0B7ptJUFptRvdGvb72f6mB) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [Trust No One](https://open.spotify.com/album/5dLyJ9luocJXt88f0oyhYs) | 3:14 |
 | 34 | [Can't Stop The Stars](https://open.spotify.com/track/3fskmbfwbp3Qx0fqaYDMbn) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 3:41 |
 | 35 | [Hollow](https://open.spotify.com/track/43dWASmdtGOOI0yOyx9zAH) | [Saavan](https://open.spotify.com/artist/7HIN13S8A6wfupCwXRNv6U) | [Hollow](https://open.spotify.com/album/4N7w5vzvRIAfxjNPaSAMXN) | 3:39 |
-| 36 | [On the Dub\-ble](https://open.spotify.com/track/1pWAOjPUV6rrGcmLJaXgPR) | [DJ Krush](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM) | [Modern Mantra](https://open.spotify.com/album/4EOMQi0exEn5o6M6uUEj0F) | 2:01 |
+| 36 | [On the Dub\-ble](https://open.spotify.com/track/1pWAOjPUV6rrGcmLJaXgPR) | [DJ KRUSH](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM) | [Modern Mantra](https://open.spotify.com/album/4EOMQi0exEn5o6M6uUEj0F) | 2:01 |
 | 37 | [Love Is a Bitch](https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Love Is a Bitch](https://open.spotify.com/album/6TMbfpGthu5uDvxssPWB9s) | 3:01 |
 | 38 | [Girma's Lament](https://open.spotify.com/track/0dccqEpeuG5wABOLJb7498) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Unstraight Ahead](https://open.spotify.com/album/31fhuTb40I2XOlzpqmf9hY) | 2:54 |
 | 39 | [Dancing with Myself](https://open.spotify.com/track/1lEhKudlkpBsh6S7JyvvHs) | [Generation X](https://open.spotify.com/artist/1inWec2E2UgfzMAhwjgTXe) | [Kiss Me Deadly](https://open.spotify.com/album/1AbDlSsOrlnuIl2L0PxqRA) | 3:48 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 | 152 | [Roller](https://open.spotify.com/track/0zFqjimE0Q6wk0OQVGu3rY) | [Quilt](https://open.spotify.com/artist/0S4yEUTvpxWhfXux925405) | [Plaza](https://open.spotify.com/album/0NEF1hzL7820zUVOU7n9Kj) | 4:14 |
 | 153 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
 
-Snapshot ID: `MCxjZTFhNGJkOWZlMmMxYmY3YTY3NGRlOTdmY2FkMDg5NWQ2Nzc5OTE5`
+Snapshot ID: `MCwwNmFhNjViNDI1Yzc2YzkwNTg5NjdlNDgxZmFmZjhmOTFlMWZjMjJj`

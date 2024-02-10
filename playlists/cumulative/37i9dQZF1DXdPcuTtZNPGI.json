@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 183881,
       "name": "Chocolat Cadabra",
       "url": "https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 154906,
       "name": "Show - Jax Jones Remix",
       "url": "https://open.spotify.com/track/6dp3IPheUZdVbusysJ5CbW"
@@ -1217,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "Ado \"Ready For My Show Playlist\"",
+        "url": "https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183881,
+      "name": "\u30b7\u30e7\u30b3\u30e9\u30ab\u30bf\u30d6\u30e9",
+      "url": "https://open.spotify.com/track/6nhGcCOyjnHshIJjPROEBF"
+    },
+    {
+      "album": {
         "name": "\u30d5\u30fc\u30eb\u30d5\u30fc\u30eb\u30d5\u30fc\u30eb",
         "url": "https://open.spotify.com/album/3ZxZh1qFViq0igteZ5y7Cb"
       },
@@ -1308,6 +1326,28 @@
       "duration_ms": 189772,
       "name": "\u5531",
       "url": "https://open.spotify.com/track/7o0TPSw494RG2Q4iWmd1v6"
+    },
+    {
+      "album": {
+        "name": "Ado \"Ready For My Show Playlist\"",
+        "url": "https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154906,
+      "name": "\u5531 - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/58xZuWXsN5bVVy1Cww6Pmt"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-02-09": 217060,
+  "2024-02-10": 217396,
   "date_first_scraped": "2023-03-14",
   "description": "love peace techno",
   "name": "rave",
@@ -43,6 +43,28 @@
       "duration_ms": 165530,
       "name": "4Ever",
       "url": "https://open.spotify.com/track/3CdW8qNnxEtnn3yy3SkHFb"
+    },
+    {
+      "album": {
+        "name": "90s Baby",
+        "url": "https://open.spotify.com/album/2l6173A8dMuQ7RyR16VMb3"
+      },
+      "artists": [
+        {
+          "name": "AREA \u00d8NE",
+          "url": "https://open.spotify.com/artist/4cPhyd2BTkwlq4fyXo4riK"
+        },
+        {
+          "name": "Niotech",
+          "url": "https://open.spotify.com/artist/6a3jFv7dkvf9HWPD5wjkof"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315723,
+      "name": "90s Baby",
+      "url": "https://open.spotify.com/track/6yBBevO7I1HTgUcNMSPbis"
     },
     {
       "album": {
@@ -185,7 +207,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 167162,
       "name": "All That She Wants - Helion Remix",
       "url": "https://open.spotify.com/track/747OPJC1PujokY0T3rAajk"
@@ -291,7 +313,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 232750,
       "name": "BAE",
       "url": "https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8"
@@ -781,7 +803,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 321666,
       "name": "Deine Angst",
       "url": "https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT"
@@ -825,7 +847,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 230137,
       "name": "Devotion - Show Me Love 2023 Techno Mix - Radio Edit",
       "url": "https://open.spotify.com/track/5CgfZ4a0Ja2m8BoHfLqvJ0"
@@ -1735,6 +1757,24 @@
       "duration_ms": 248592,
       "name": "I Luv U Butt",
       "url": "https://open.spotify.com/track/0Sd89bQckKYPMs8HA7vaBo"
+    },
+    {
+      "album": {
+        "name": "I Miss U",
+        "url": "https://open.spotify.com/album/1gFBnaMuRCHd7P3UH3N9K9"
+      },
+      "artists": [
+        {
+          "name": "D S D",
+          "url": "https://open.spotify.com/artist/4g8BjUgv4gbpeOdJmlosh5"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269137,
+      "name": "I Miss U",
+      "url": "https://open.spotify.com/track/3cVortvmdAWxXSnCNeaZ1B"
     },
     {
       "album": {
@@ -2793,7 +2833,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-09",
       "duration_ms": 203684,
       "name": "No Type",
       "url": "https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU"
@@ -3031,6 +3071,24 @@
       "duration_ms": 214853,
       "name": "Plastic Pleasures - Sped Up",
       "url": "https://open.spotify.com/track/1FxDdE1F6UWHiolcWgMdUk"
+    },
+    {
+      "album": {
+        "name": "Playin'",
+        "url": "https://open.spotify.com/album/50wBWo4aNA0uSxqOV2vRpw"
+      },
+      "artists": [
+        {
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221791,
+      "name": "Playin'",
+      "url": "https://open.spotify.com/track/2lUjIpt1Z9mtWwMON3XplJ"
     },
     {
       "album": {
@@ -4004,6 +4062,24 @@
     },
     {
       "album": {
+        "name": "Us Two",
+        "url": "https://open.spotify.com/album/7HswNrGAOuRNpWCPpbod3G"
+      },
+      "artists": [
+        {
+          "name": "L.zwo",
+          "url": "https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240510,
+      "name": "Us Two",
+      "url": "https://open.spotify.com/track/13JRjckFdJGsmk75YWCpF8"
+    },
+    {
+      "album": {
         "name": "Venus (Boys Noize Rework)",
         "url": "https://open.spotify.com/album/0mALS96AIXJwbd7uNsemmJ"
       },
@@ -4125,6 +4201,32 @@
       "duration_ms": 164826,
       "name": "While U Sleep",
       "url": "https://open.spotify.com/track/1DNvYQWmYVnKzXZUYssNhX"
+    },
+    {
+      "album": {
+        "name": "Who is Batman?",
+        "url": "https://open.spotify.com/album/7CzqcjaP8zcHeShZZ9i2hZ"
+      },
+      "artists": [
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "MOTVS",
+          "url": "https://open.spotify.com/artist/11jBSslmTEkEGXxpFfy91F"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244054,
+      "name": "Who is Batman?",
+      "url": "https://open.spotify.com/track/6a9x9suzLuuv6UcdU7f5g7"
     },
     {
       "album": {

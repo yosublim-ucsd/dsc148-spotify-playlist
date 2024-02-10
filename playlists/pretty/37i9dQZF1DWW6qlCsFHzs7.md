@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 
 > <a href="spotify:artist:1lMcg4Y7nW5hHgIVsN9Shn">Conducta</a>'s favorite tracks\. Updated regularly\. Curated by Conducta\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,703 likes - 70 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,706 likes - 70 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 | 41 | [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 |
 | 42 | [Xtasis](https://open.spotify.com/track/5QlaVdriOhDoFpxXFgtcDf) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [Xtasis](https://open.spotify.com/album/3lLrAE85zUgLC2jlV56Vdn) | 4:55 |
 | 43 | [Sidewindah \(feat\. Flirta D\) \- Interplanetary Criminal Remix](https://open.spotify.com/track/40jqUyfGoCQaZnUMIGdHSD) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Sidewindah \(feat\. Flirta D\) \[Interplanetary Criminal Remix\]](https://open.spotify.com/album/5vCsrgumUZbbYEIqdTmXYu) | 3:36 |
-| 44 | [Molly](https://open.spotify.com/track/35mRgmgXL01AAqguxr7xF8) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Hotel Koko](https://open.spotify.com/album/0K5N4Inr14bXYElF0RsJBW) | 4:15 |
+| 44 | [Molly](https://open.spotify.com/track/59BOdttKQFr1l1RlAqlf62) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Hotel Koko](https://open.spotify.com/album/7j8cYYFqnoyHaRCxoSuCv1) | 4:15 |
 | 45 | [Wine](https://open.spotify.com/track/4R0lg0dcpePAao09jJFy0R) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [Wine](https://open.spotify.com/album/019K0r6OsJohBRr15gIjc8) | 6:43 |
 | 46 | [Lakitu](https://open.spotify.com/track/5nNlZr313BQHVEWjA1cJmy) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Lakitu](https://open.spotify.com/album/5wJ5dfgwP2z6dwaHjxRjZ9) | 3:59 |
 | 47 | [To The Money \(feat\. Flo Milli & 8AE\)](https://open.spotify.com/track/5YSWtx5drmDZHP2weqJtAG) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [8AE](https://open.spotify.com/artist/1HX4A36aOWZMFx5eRHKIz1) | [To The Money \(feat\. Flo Milli & 8AE\)](https://open.spotify.com/album/2efMCGuPSpEgLoSPsg5a5e) | 2:54 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 | 58 | [Show Me](https://open.spotify.com/track/0kWhIHW1eqqmFMZ9ODOgRY) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Kiwi Boost \(The Next Wave\)](https://open.spotify.com/album/2oVMZEmPASFpnJwNyBSHWx) | 4:29 |
 | 59 | [Vitamin C](https://open.spotify.com/track/2B9PMGUgEBMLubAS7Ilpue) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [Ripe 'n' Ready \(A Kiwi Rekords Sampler\)](https://open.spotify.com/album/5G7JzPgCBTkHrQQh2tPGDG) | 4:36 |
 | 60 | [77 Strings \- Extended Mix](https://open.spotify.com/track/4Gou8LLJk5sIq1WdXMTdz9) | [Kurtis Mantronik](https://open.spotify.com/artist/6YDg64ZbQWVMSCjOmWVewB) | [Cream Superclub Classics](https://open.spotify.com/album/58M03vgZCBuzCy1rkTRue8) | 5:27 |
-| 61 | [Baltzar](https://open.spotify.com/track/4imkUjRMHxiy0yZtJj2u4s) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Stockholm Marathon](https://open.spotify.com/album/1y8E97vb4VzPzXZnsFO5Jy) | 4:33 |
+| 61 | [Baltzar](https://open.spotify.com/track/5qLWdCMNG36HnoSITch6Nz) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Stockholm Marathon](https://open.spotify.com/album/6LrFCNPvZdG0AieErw9ccL) | 4:33 |
 | 62 | [Hey Boy Hey Girl](https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 4:50 |
 | 63 | [Carnaval de Paris \- Radio Mix](https://open.spotify.com/track/59mdyQniSaNFeXaKMGu9RB) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Carnaval de Paris](https://open.spotify.com/album/0wevT1LD6VQtghix2apQgQ) | 3:52 |
 | 64 | [Cool Today](https://open.spotify.com/track/5PKDMreyVpxvUaWScLm3Hd) | [Prescribe Da Vibe](https://open.spotify.com/artist/6NMRGjavFP1DRXDMUxdse0) | [Ripe 'n' Ready \(A Kiwi Rekords Sampler\)](https://open.spotify.com/album/5G7JzPgCBTkHrQQh2tPGDG) | 5:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 | 69 | [Pasilda \- Knee Deep Club Mix](https://open.spotify.com/track/2vhLsN2p6FHPPm4LfEBB3N) | [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI), [Knee Deep](https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R) | [Pasilda \(Extended Versions\)](https://open.spotify.com/album/7qCEf8CrHVD4C5uyPsTFT2) | 7:06 |
 | 70 | [Make Me Feel](https://open.spotify.com/track/2bq4FFDPno3B2rN2ysh28x) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Make Me Feel](https://open.spotify.com/album/759Lkn1ERq1SMekDhuvnbb) | 5:11 |
 
-Snapshot ID: `MCw4YmJiMWEyNjkwMzgxZWE1MTE4YzdmNTU1MWEyYzk5NzE3MTRmNWE1`
+Snapshot ID: `MCw5M2JkYTU0OTVkODk1Y2VkNmJkOWFkODRmZjkwMmM5ZWYyY2YyMTJi`

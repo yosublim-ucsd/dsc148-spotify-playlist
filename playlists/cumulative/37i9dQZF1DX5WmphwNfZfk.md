@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Aqyila
 
-1,515 songs - 3 day 5 hr 41 min
+1,516 songs - 3 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Blood Bath](https://open.spotify.com/track/5ha1smmGfz7sttHdxFcrbY) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Sewaside II](https://open.spotify.com/album/79qFRdOPllZ9t0uhJsqHwi) | 2:46 | 2022-03-04 | 2022-04-02 |
 | [blood pareil](https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [blood pareil](https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js) | 4:24 | 2023-04-07 | 2023-05-06 |
 | [Bloodclarrt Business](https://open.spotify.com/track/0x3VmItOxAzDKLOT94FQSv) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Bloodclarrt Business](https://open.spotify.com/album/1FDLloitdAEUB1LP27EroI) | 2:27 | 2022-03-04 | 2022-04-02 |
+| [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-02-09 |  |
 | [Blue Eyed Boy](https://open.spotify.com/track/2Pa3wJwBskgjo3CXz5y0n1) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Blue Eyed Boy](https://open.spotify.com/album/5NhlbhBmjU4q0BPTf4J47V) | 2:43 | 2023-07-07 | 2023-08-05 |
 | [Bobtail Road](https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Bobtail Road](https://open.spotify.com/album/37pFeBTwztjSqMzYqTcEqV) | 3:32 | 2023-11-10 | 2024-02-03 |
 | [Bodiless](https://open.spotify.com/track/28lXXI052MwMKPEwj832Nn) | [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [Bodiless](https://open.spotify.com/album/4ZIxCkK6EwlQSsJIrFfnLo) | 2:54 | 2022-11-11 | 2023-02-04 |
@@ -400,7 +401,7 @@
 | [Easy Now](https://open.spotify.com/track/6DP3uqrx4doTAUKC4KiYKj) | [Kairo McLean](https://open.spotify.com/artist/6ZG8GyNQXX0uBcR1HkyKgc) | [Easy Now](https://open.spotify.com/album/2gtbhvvOyh6MvFFcs08hNS) | 3:18 | 2022-06-03 | 2022-07-02 |
 | [Eden](https://open.spotify.com/track/3Hn1KmWMe6toEkcPs1FiPi) | [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re) | [Eden](https://open.spotify.com/album/26NmN9RNXoljKPVuwFiDt4) | 3:05 | 2023-09-01 | 2023-10-06 |
 | [Effective Communication](https://open.spotify.com/track/6xXISTioP92UoiA3B9Covg) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Effective Communication](https://open.spotify.com/album/7wJA8x9AK0gTX25fT0s0Yh) | 2:42 | 2022-05-06 | 2022-06-04 |
-| [Effortlessly](https://open.spotify.com/track/7tstz2Oy0Gxhxkqp1MU8FZ) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Effortlessly](https://open.spotify.com/album/6ahbfskqruzQOt5QXMlbzP) | 1:55 | 2024-02-02 |  |
+| [Effortlessly](https://open.spotify.com/track/7tstz2Oy0Gxhxkqp1MU8FZ) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Effortlessly](https://open.spotify.com/album/6ahbfskqruzQOt5QXMlbzP) | 1:55 | 2024-02-02 | 2024-02-10 |
 | [EGOT](https://open.spotify.com/track/7t7CPyhYGtpSU265m5tMUm) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [EGOT](https://open.spotify.com/album/02d5k2VJ3LMDA1PS2w2jCR) | 2:59 | 2022-01-07 | 2022-02-05 |
 | [Eighteen](https://open.spotify.com/track/0Vo9cyMCixFq5n93LjiOGq) | [Julian Daniel](https://open.spotify.com/artist/6pj58pVbAOuTxwJrx4KWHf) | [Eighteen](https://open.spotify.com/album/5nIPa04mVwZKnOjgr0SUBU) | 2:56 | 2022-07-01 | 2022-08-06 |
 | [elephant in the room](https://open.spotify.com/track/1N3br7Nh0Dz80SjntIRDIG) | [untradition](https://open.spotify.com/artist/14iZPa9FB6NBz4t5mR0oFe) | [elephant in the room](https://open.spotify.com/album/1PK3LYFEFFBEq7SiqqF39y) | 3:19 | 2022-04-01 | 2022-05-07 |

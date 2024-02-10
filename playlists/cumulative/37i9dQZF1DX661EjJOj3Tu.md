@@ -4,7 +4,7 @@
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-311 songs - 1 day 2 hr 1 min
+312 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Fitití Ñongo](https://open.spotify.com/track/2LR7ThMNTImWlvKypWsQyv) | [David Virelles](https://open.spotify.com/artist/2yHMWN7OFCTJ9ZiGSVU0F8), [Román Díaz](https://open.spotify.com/artist/4v0MHKlq95L0FeqxSxXQIN), [Nosotros Ensemble](https://open.spotify.com/artist/42WhVqAN1YBumyhwRIuC3N) | [Gnosis](https://open.spotify.com/album/0GAKlp2nssdLxHXwS2KHho) | 2:24 | 2021-12-09 | 2022-03-09 |
 | [Fried Neck Bones And Some Home Fries](https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Uno Dos Tres 1\-2\-3](https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k) | 3:03 | 2021-12-09 |  |
 | [From Moment To Moment](https://open.spotify.com/track/08x2tZWOiR81Ht7emwGEsm) | [Woody Shaw](https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs), [Steve Turre](https://open.spotify.com/artist/1fJEAxQLhUQdBmUjsj3vIF), [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Tony Reedus](https://open.spotify.com/artist/6iBB0kmucXaaga3D0fXizs) | [Time Is Right](https://open.spotify.com/album/3euNmYDyAEAShiGMo65pRd) | 12:16 | 2021-12-09 | 2022-06-19 |
+| [Game On](https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Game On](https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG) | 5:01 | 2024-02-09 |  |
 | [Giant Steps](https://open.spotify.com/track/1M5BI6mApapye3JOSrgKYd) | [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [Funk Tango](https://open.spotify.com/album/2VnkthlSPTIj829HUShZUQ) | 5:50 | 2021-12-09 | 2022-07-17 |
 | [Going Out Of My Head](https://open.spotify.com/track/3YHzAqT2wt90nVsBLHZ2UH) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [The Greatest Hits Of Sergio Mendes And Brasil '66](https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P) | 3:04 | 2021-12-09 |  |
 | [Good Morning Heartache](https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ), [Fi Maróstica](https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP), [Leo Gasso](https://open.spotify.com/artist/241oJtKxM4JAbhH9F23CJN), [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [Good Morning Heartache](https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR) | 3:13 | 2021-12-09 |  |
@@ -312,7 +313,7 @@
 | [Yeah!](https://open.spotify.com/track/4flkRukgWWir81O8TpAzMa) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Horace Silver Songbook](https://open.spotify.com/album/45z1i8WJJvdOsrylW4ENRV) | 7:26 | 2021-12-09 | 2022-07-27 |
 | [Yo Si Quiero](https://open.spotify.com/track/4tkPgIDhUwfPX5IYV2urCo) | [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Yo Si Quiero](https://open.spotify.com/album/4sPSaI4URc0iR57O5f1gQW) | 6:04 | 2021-12-09 | 2022-07-29 |
 | [Yo Sí Quiero](https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21) | [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh) | [Acertijos](https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF) | 6:04 | 2021-12-09 |  |
-| [¡bebo Ya Llego!](https://open.spotify.com/track/4J40hIhDIFldCwIhYNGQvg) | [Wayne Wallace Latin Jazz Quintet](https://open.spotify.com/artist/41GZABjBXHNe509AQVoY4D) | [To Hear from There](https://open.spotify.com/album/5NqTuFgIvEZovoVui5JrfR) | 4:59 | 2023-03-15 |  |
+| [¡bebo Ya Llego!](https://open.spotify.com/track/4J40hIhDIFldCwIhYNGQvg) | [Wayne Wallace Latin Jazz Quintet](https://open.spotify.com/artist/41GZABjBXHNe509AQVoY4D) | [To Hear from There](https://open.spotify.com/album/5NqTuFgIvEZovoVui5JrfR) | 4:59 | 2023-03-15 | 2024-02-10 |
 | [¡Bebo Ya Llego!](https://open.spotify.com/track/7MkM3pvLOljevSBbdXj0Vw) | [Wayne Wallace Latin Jazz Quintet](https://open.spotify.com/artist/41GZABjBXHNe509AQVoY4D) | [To Hear From There](https://open.spotify.com/album/6D2Bvr9HHFpvL1tRZA037d) | 4:59 | 2021-12-09 | 2022-06-08 |
 | [Água De Beber](https://open.spotify.com/track/6R0nUSoTN00Zi8WEVhAKSU) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Composer Of Desafinado, Plays](https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A) | 2:50 | 2022-07-26 | 2023-03-16 |
 | [Águas De Março](https://open.spotify.com/track/3IvzsLgMv2eF5eSXoeP7Xm) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Antonio Carlos Jobim: Finest Hour](https://open.spotify.com/album/1XkX9d8U5KCcD5DKEpMfOy) | 3:34 | 2021-12-09 | 2022-07-29 |

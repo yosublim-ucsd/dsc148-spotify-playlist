@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Gabry Ponte",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: KSHMR x gritney",
   "name": "Spinnin' Records Brand New",
   "tracks": [
+    {
+      "album": {
+        "name": "1001 Nights",
+        "url": "https://open.spotify.com/album/0OMnm0euox8G0i7TeaZKl5"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "1001 Nights",
+      "url": "https://open.spotify.com/track/1xB46SSVfV5wXqrbz4NSUN"
+    },
     {
       "album": {
         "name": "10:35",
@@ -810,6 +828,28 @@
     {
       "album": {
         "name": "All Night",
+        "url": "https://open.spotify.com/album/7mlbnclHjUsHGkk0Ga8jIZ"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "gritney",
+          "url": "https://open.spotify.com/artist/4ffsVdOEMAqvXPPePkgP5d"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195521,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/7LbdiDgAmMO8NskLtb43Yy"
+    },
+    {
+      "album": {
+        "name": "All Night",
         "url": "https://open.spotify.com/album/24itoj0Xfz4utQjm6SuUJd"
       },
       "artists": [
@@ -1443,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "Ass Made In USA",
+        "url": "https://open.spotify.com/album/46GHeqiYcausBtqTjmIHDO"
+      },
+      "artists": [
+        {
+          "name": "Vessbroz",
+          "url": "https://open.spotify.com/artist/7cfwpLTCScF6nchUyuwWUt"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Ass Made In USA",
+      "url": "https://open.spotify.com/track/1QwZDpX5vfsCEI28EBkKVq"
+    },
+    {
+      "album": {
         "name": "Assim",
         "url": "https://open.spotify.com/album/7tMmHHhxEQ2XUhftmWyj71"
       },
@@ -1807,6 +1865,28 @@
     },
     {
       "album": {
+        "name": "BAMAKA",
+        "url": "https://open.spotify.com/album/7i9rMBdZGy93sd5fVMpWBO"
+      },
+      "artists": [
+        {
+          "name": "Guglielmo Nasini",
+          "url": "https://open.spotify.com/artist/5L8AUf5S6M3XPD1foPgJ8j"
+        },
+        {
+          "name": "Aurelios",
+          "url": "https://open.spotify.com/artist/3hYxIpjaE52Bn3EZ8hDSxa"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170125,
+      "name": "BAMAKA",
+      "url": "https://open.spotify.com/track/7FsThZgIXHuxMr4CfQ8uEW"
+    },
+    {
+      "album": {
         "name": "Banaan Meloen Kiwi & Citroen",
         "url": "https://open.spotify.com/album/5pNo8aSlYbMJf9Nb3VZ2os"
       },
@@ -1884,10 +1964,32 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 186521,
       "name": "Banger AI",
       "url": "https://open.spotify.com/track/1oHCmnQ9UgPil93CebVNNL"
+    },
+    {
+      "album": {
+        "name": "BASS DON'T LIE",
+        "url": "https://open.spotify.com/album/6iT6kNsSon6LWlq6rKssZz"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206482,
+      "name": "BASS DON'T LIE",
+      "url": "https://open.spotify.com/track/2ptmmuBjaCXQr6zmdgf6Qg"
     },
     {
       "album": {
@@ -2794,6 +2896,28 @@
       "duration_ms": 179047,
       "name": "Bounce That",
       "url": "https://open.spotify.com/track/3cz3isVn5lwlp2FLpY15pJ"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156093,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm"
     },
     {
       "album": {
@@ -4424,7 +4548,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 142767,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/0aA9YW5z1er3G0HQwhb4Ri"
@@ -5256,7 +5380,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 218709,
       "name": "Delete Time",
       "url": "https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt"
@@ -5542,6 +5666,32 @@
       "duration_ms": 208302,
       "name": "Distropia",
       "url": "https://open.spotify.com/track/39rV0c3XebHCvdxSMisq6d"
+    },
+    {
+      "album": {
+        "name": "Dive In (feat. Notelle) [Dave Summer Remix]",
+        "url": "https://open.spotify.com/album/2QD6NrgyZ8fMxvzpmKVyzy"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+        },
+        {
+          "name": "Dave Summer",
+          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169479,
+      "name": "Dive In (feat. Notelle) [Dave Summer Remix]",
+      "url": "https://open.spotify.com/track/6Y5B6KG9OmiVChgLwrlt6O"
     },
     {
       "album": {
@@ -5860,6 +6010,24 @@
       "duration_ms": 158254,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/4xUwCuR2ZFsYuV6JJVc0Ln"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Lead Anywhere",
+        "url": "https://open.spotify.com/album/7Cfo3SJMIztFNrnkBARuT9"
+      },
+      "artists": [
+        {
+          "name": "Dastic",
+          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127413,
+      "name": "Don\u2019t Lead Anywhere",
+      "url": "https://open.spotify.com/track/4u1sq1VQW1roBeLsQ9aUzq"
     },
     {
       "album": {
@@ -11036,7 +11204,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 172820,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/3t71NTwNK5bjIXYfNZuZND"
@@ -12185,6 +12353,32 @@
     },
     {
       "album": {
+        "name": "La Vida Es Un Carnaval",
+        "url": "https://open.spotify.com/album/3VGYnKhtRiZYkDlj1I3Pn3"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        },
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "Skylin3",
+          "url": "https://open.spotify.com/artist/0lfEYuqXghLpDw2GvG1kOB"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125849,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/4QHReI7hHndwJVFesx6w26"
+    },
+    {
+      "album": {
         "name": "Lapada",
         "url": "https://open.spotify.com/album/1owYIKoGsokA4W7N7jIAZA"
       },
@@ -12486,7 +12680,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 251612,
       "name": "Left Right",
       "url": "https://open.spotify.com/track/2lcxuqUUnRjIwHpzKrHwTC"
@@ -15157,6 +15351,28 @@
     },
     {
       "album": {
+        "name": "Move It",
+        "url": "https://open.spotify.com/album/21rVLnpqNomTcw2e1gTkg2"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161828,
+      "name": "Move It",
+      "url": "https://open.spotify.com/track/2lfNpKFme8VsEUAddq1zOG"
+    },
+    {
+      "album": {
         "name": "Move It (with Luciana)",
         "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
       },
@@ -15500,7 +15716,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 158400,
       "name": "Mr. Vain (with DJ Terry)",
       "url": "https://open.spotify.com/track/1t7Wpml2HHWE5M1k7JPpYj"
@@ -17012,7 +17228,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 129313,
       "name": "Oh",
       "url": "https://open.spotify.com/track/3Fzdo7mEcPpAKXCVg2edP5"
@@ -21559,6 +21775,28 @@
     },
     {
       "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/4rxSLDjau3Kqk1cPspR3bv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        },
+        {
+          "name": "Voost",
+          "url": "https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175090,
+      "name": "Sublime",
+      "url": "https://open.spotify.com/track/4mYFelexMuf7kgSbGBdbJv"
+    },
+    {
+      "album": {
         "name": "360 Yellow (Deluxe Version)",
         "url": "https://open.spotify.com/album/1Fq6i9cUYSYZgP0pGzeWrB"
       },
@@ -22814,7 +23052,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 163821,
       "name": "The Godfather",
       "url": "https://open.spotify.com/track/7J6iR4yW6lD0p7e9KJ5hzk"
@@ -23684,7 +23922,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 151875,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/6jl8gDM9NRcK59MflJP0Qg"
@@ -24950,7 +25188,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 159330,
       "name": "We Enter",
       "url": "https://open.spotify.com/track/7qIpx1KiZc6KBY6zeOJe3T"
@@ -25214,7 +25452,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 143100,
       "name": "When I Wake Up",
       "url": "https://open.spotify.com/track/3YDjGm8NogZVxOp9aHA4MZ"

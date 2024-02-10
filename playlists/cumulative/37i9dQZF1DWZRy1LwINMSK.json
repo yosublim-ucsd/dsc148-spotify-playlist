@@ -1727,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "MAGNATA",
+        "url": "https://open.spotify.com/album/64R6GX1BnigDU9kYTjqy1Y"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65543,
+      "name": "INTRO",
+      "url": "https://open.spotify.com/track/723SjxRfMUIJBdTxRCHV9u"
+    },
+    {
+      "album": {
         "name": "Intuici\u00f3n",
         "url": "https://open.spotify.com/album/2ijGx0y4jmpC2bkhUZHrCv"
       },

@@ -4,7 +4,7 @@
 
 > This is Evaluna Montaner\. The essential tracks, all in one playlist.
 
-41 songs - 2 hr 20 min
+42 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Muchacha Solitaria](https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr) | [Muchacha Solitaria](https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe) | 3:41 | 2023-09-25 |  |
 | [Nadie Como Yo \(feat\. Riccardo Frascari\)](https://open.spotify.com/track/2AuwBMf8LAIyxPx8kQp3z8) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Riccardo Frascari](https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76) | [Nadie Como Yo \(feat\. Riccardo Frascari\)](https://open.spotify.com/album/77wgeN8InWCzZuh7vrHhLn) | 2:40 | 2023-09-25 |  |
 | [Nunca Es Tarde](https://open.spotify.com/track/7cSvEaSTGNtdQ2AwUjKOBL) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:16 | 2023-09-25 |  |
+| [PLIS](https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [PLIS](https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX) | 3:42 | 2024-02-09 |  |
 | [Podemos Ser Amigos \(feat\. Santiago Achaga\)](https://open.spotify.com/track/37BoR6RbzfdNvkcaPrAZqy) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Santiago Achaga](https://open.spotify.com/artist/20WmAHWxy7rlPV53ypKX8T) | [Podemos Ser Amigos \(feat\. Santiago Achaga\)](https://open.spotify.com/album/3MtGG65uCpF29ldqwMPzi4) | 2:30 | 2023-09-25 |  |
 | [Por Primera Vez](https://open.spotify.com/track/0pgj4EzB1XRqgZemoMNG5D) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:02 | 2023-09-25 |  |
 | [Por Tu Amor](https://open.spotify.com/track/16hxPVDdazmOOo6QT2grK5) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Por Tu Amor](https://open.spotify.com/album/1UTdQUyAlL3h4uGtOPnecP) | 3:14 | 2023-09-25 |  |

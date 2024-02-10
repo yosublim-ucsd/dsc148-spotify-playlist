@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Oscar and the Wolf",
+  "description": "make it pop! cover: Zolita",
   "name": "soda",
   "tracks": [
     {
@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 226133,
       "name": "All We Ever Do Is Talk",
       "url": "https://open.spotify.com/track/0UqKPaKqC3tWU4o8BB7owl"
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 129240,
       "name": "Backyard Boy",
       "url": "https://open.spotify.com/track/0QpOqKz66ZxHNqj2PPHiFF"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 198688,
       "name": "Behind",
       "url": "https://open.spotify.com/track/0BlgC4imZTBffVrXaQmLet"
@@ -1504,6 +1504,24 @@
       "duration_ms": 149500,
       "name": "BLEACH",
       "url": "https://open.spotify.com/track/0Yb631ktGsxwsDFFlKZm6A"
+    },
+    {
+      "album": {
+        "name": "Bloodstream",
+        "url": "https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Bloodstream",
+      "url": "https://open.spotify.com/track/5kGJZNkZwVANWe47AdzSZV"
     },
     {
       "album": {
@@ -2376,6 +2394,28 @@
       "duration_ms": 149501,
       "name": "CIGARETTES",
       "url": "https://open.spotify.com/track/2e1SliQSsHs1YutpnfuNYC"
+    },
+    {
+      "album": {
+        "name": "Cigarettes & Wine (feat. Holly Humberstone)",
+        "url": "https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Cigarettes & Wine (feat. Holly Humberstone)",
+      "url": "https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW"
     },
     {
       "album": {
@@ -4004,7 +4044,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 152978,
       "name": "everything hits me at once",
       "url": "https://open.spotify.com/track/77hDNIRbK41SsEthQ04Nwb"
@@ -7475,6 +7515,24 @@
     },
     {
       "album": {
+        "name": "Japanese Cafe",
+        "url": "https://open.spotify.com/album/1fXTNCdCXszXaKvPW1PhO4"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160680,
+      "name": "Japanese Cafe",
+      "url": "https://open.spotify.com/track/20cZPbzQ9wqxWfMDWn0vPo"
+    },
+    {
+      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -8777,6 +8835,24 @@
     },
     {
       "album": {
+        "name": "Love Me Better",
+        "url": "https://open.spotify.com/album/5DQxMNtoUPlBMDrCMvasaO"
+      },
+      "artists": [
+        {
+          "name": "Corbyn Besson",
+          "url": "https://open.spotify.com/artist/4M4swPo6YkmMZPA7Vrczyk"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151544,
+      "name": "Love Me Better",
+      "url": "https://open.spotify.com/track/60JBgHmNQ437PrKp0eWFDn"
+    },
+    {
+      "album": {
         "name": "Love You 'Til I Die",
         "url": "https://open.spotify.com/album/4NCYY8JE2K8PLTzIx0sxx9"
       },
@@ -8878,7 +8954,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 146759,
       "name": "Loverman",
       "url": "https://open.spotify.com/track/7yMvCjdJkJFKclMFnlutoV"
@@ -9112,7 +9188,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 130931,
       "name": "MERRY GO ROUND",
       "url": "https://open.spotify.com/track/6wSEfFQzF3Ye9ztpyx8694"
@@ -11750,7 +11826,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 190053,
       "name": "Save My Soul",
       "url": "https://open.spotify.com/track/4EcGbkv46bCvSzEPmQvQkj"
@@ -12233,6 +12309,24 @@
     },
     {
       "album": {
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/7vtEGgaefryUMRilWJ8zGD"
+      },
+      "artists": [
+        {
+          "name": "david hugo",
+          "url": "https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194440,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/2Nf1xezlclOKIUiAIvkjVU"
+    },
+    {
+      "album": {
         "name": "BACKYARD",
         "url": "https://open.spotify.com/album/1VJQGEoTco7jhMvYjJhZzR"
       },
@@ -12449,6 +12543,24 @@
     },
     {
       "album": {
+        "name": "somebody that's not me",
+        "url": "https://open.spotify.com/album/6BjK75nxur486Ac1AZam3E"
+      },
+      "artists": [
+        {
+          "name": "nobody likes you pat",
+          "url": "https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220155,
+      "name": "somebody that's not me",
+      "url": "https://open.spotify.com/track/3Mlg80bxJEe93UR0Z42XL6"
+    },
+    {
+      "album": {
         "name": "The End",
         "url": "https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6"
       },
@@ -12584,6 +12696,24 @@
       "duration_ms": 196666,
       "name": "SOS",
       "url": "https://open.spotify.com/track/40fgimZMmbb21zLiyDa2j3"
+    },
+    {
+      "album": {
+        "name": "Space for Two",
+        "url": "https://open.spotify.com/album/495sK9JLE8k6ow3uJbxmDJ"
+      },
+      "artists": [
+        {
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105774,
+      "name": "Space for Two",
+      "url": "https://open.spotify.com/track/6OKBCw2Le2y2CWJSDHwX43"
     },
     {
       "album": {
@@ -13058,6 +13188,24 @@
       "duration_ms": 199646,
       "name": "Stupid Song",
       "url": "https://open.spotify.com/track/109p6uZX2HZOaPGUGdzwYI"
+    },
+    {
+      "album": {
+        "name": "Suddenly Okay",
+        "url": "https://open.spotify.com/album/7bezusYLfnlW1g7bz4t1Y7"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183809,
+      "name": "Suddenly Okay",
+      "url": "https://open.spotify.com/track/4mjMpDvvweBIuxC2LpbeWB"
     },
     {
       "album": {
@@ -13560,7 +13708,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 192600,
       "name": "Tell Her",
       "url": "https://open.spotify.com/track/0WFccOR9KoNU0SXQ3mY7e5"

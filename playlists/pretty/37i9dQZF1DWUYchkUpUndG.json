@@ -1,12 +1,12 @@
 {
   "description": "For all the new African Gospel Releases this week. Cover:   <a href=https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM?si=0sjVWfxTQe6yBJa9p0wMig>Abbey Ojomu</a> ",
-  "num_followers": 18331,
+  "num_followers": 18357,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmQ0MWJhZTMyMzcxYTlhY2ZkYjM4NzMzMDM0Y2Y3ZWY3ODRjMjBh",
+  "snapshot_id": "MCxjZGE1NGMxY2U3YzcyNjlmMDJkYThiMDg1NjUwZDRhYzY5ZTExMDQy",
   "tracks": [
     {
       "added_at": "2024-02-09 00:01:00",
@@ -793,6 +793,26 @@
       "url": "https://open.spotify.com/track/5DfMLXDG8Q2T78XEDu1avD"
     },
     {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Onise Iyanu",
+        "url": "https://open.spotify.com/album/5AuVhKxPvgre8HS2GbCYxL"
+      },
+      "artists": [
+        {
+          "name": "Victoria Tunde",
+          "url": "https://open.spotify.com/artist/55ZRUXQccOx4UT3GFIFU1E"
+        },
+        {
+          "name": "Michael Oyo",
+          "url": "https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB"
+        }
+      ],
+      "duration_ms": 357139,
+      "name": "Onise Iyanu",
+      "url": "https://open.spotify.com/track/4beqtaxy0o1J1z7tz6y7bJ"
+    },
+    {
       "added_at": "2024-02-02 00:01:00",
       "album": {
         "name": "Call Me Blessed",
@@ -1379,6 +1399,22 @@
       "duration_ms": 166273,
       "name": "Free",
       "url": "https://open.spotify.com/track/7Cd7fuGbMQWGIdkGwmC4dv"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Gimmie Love",
+        "url": "https://open.spotify.com/album/7yHDbsGs3rRpQqyQsL4JxR"
+      },
+      "artists": [
+        {
+          "name": "BUK",
+          "url": "https://open.spotify.com/artist/0lNueseF4lJoLU7ZbsQTAj"
+        }
+      ],
+      "duration_ms": 145346,
+      "name": "Gimmie Love",
+      "url": "https://open.spotify.com/track/6ZVlEqtZHq7qWH3Xdbvyt9"
     },
     {
       "added_at": "2024-02-09 00:01:00",

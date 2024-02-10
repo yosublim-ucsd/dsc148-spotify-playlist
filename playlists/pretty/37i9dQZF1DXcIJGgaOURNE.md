@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,073 likes - 86 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,076 likes - 86 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 59 | [Ça va](https://open.spotify.com/track/4M0nH3zCs1O1yRkAzlh6UC) | [Pilou](https://open.spotify.com/artist/58s2ai02wNuy7QUqmKTNKp) | [France chébran: French Boogie \(1980 \- 1985\)](https://open.spotify.com/album/5DEt2yMoVqzdHLGD3OIHvy) | 3:23 |
 | 60 | [Don't Stop Dancin'](https://open.spotify.com/track/6liAGsMphTwoszVnmwEVHn) | [Jackie Stoudemire](https://open.spotify.com/artist/43aQcbl4oX1FLg1fO0cLBg) | [Don't Stop: Recording Tap](https://open.spotify.com/album/49fbPr5Vr1iCUalO7pMNlW) | 4:14 |
 | 61 | [Get Your Sweat On](https://open.spotify.com/track/7x1k2rChZ0pXSyJVoOpgLd) | [Breaka](https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq) | [Slam Jams, Vol\. 1](https://open.spotify.com/album/30FjxnbFbRktTUJSreZR49) | 5:50 |
-| 62 | [Lights & Strobes](https://open.spotify.com/track/1z8gk1u7hVgpNyzve6ediy) | [Carli](https://open.spotify.com/artist/4TK1fbkiTG0inzHy7DlMgT) | [Lights & Strobes](https://open.spotify.com/album/433eQ8gozTLOoyJ3TlLUKk) | 5:11 |
+| 62 | [Lights & Strobes](https://open.spotify.com/track/0tJjhLDr1iMwE6VQnb20K4) | [Carli](https://open.spotify.com/artist/4TK1fbkiTG0inzHy7DlMgT) | [Lights & Strobes](https://open.spotify.com/album/0P9sUVklZf70ccPGtE2KD0) | 5:11 |
 | 63 | [Liberty Bell](https://open.spotify.com/track/1nxudYVyc5RLm8LrSMzeTa) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Liberty Bell](https://open.spotify.com/album/4xSGg0KP6U44KBN6z6NujJ) | 4:02 |
 | 64 | [Mystic Force \- 127BPM Mix](https://open.spotify.com/track/0BRmhxaJQ9S40bZdrHcKAi) | [Mystic\-Force](https://open.spotify.com/artist/7KKR8tZ61jVV5v5IOA6qse) | [Psychic Harmony](https://open.spotify.com/album/647A6uDscNuOafjZHfnnKE) | 7:32 |
 | 65 | [Poème](https://open.spotify.com/track/4YXhMAmpoL26b4sI1PMtc9) | [New World](https://open.spotify.com/artist/1qvooSyrog4MmPeRMADEeD) | [Souvenirs](https://open.spotify.com/album/0BYYRixh7rMvIQ3eUxNPRu) | 5:56 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 85 | [Pretty Bright Light](https://open.spotify.com/track/1bo2uwP333C9FYNXpH7OHT) | [RSD](https://open.spotify.com/artist/5z8Vn9xoYJ3OXi6VSfohzF) | [Good Energy \(A Singles Collection\)](https://open.spotify.com/album/2SyWnW8ujtBeNV4SUvSOBL) | 5:08 |
 | 86 | [You've Got The Love \- Jamie xx Rework](https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [You've Got The Love \(Jamie xx Rework\)](https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA) | 5:42 |
 
-Snapshot ID: `MCxkMWU0ZGM1NTM2NGNlY2NhZDZkYWIwMDc1NjE3MjdmZmQ5ZDMxM2Ex`
+Snapshot ID: `MCxlNDI1NWQ1MDdjNGQxODM4Zjc1ZTY1NTRiMDNiOTY4NGJlYTczMjE2`

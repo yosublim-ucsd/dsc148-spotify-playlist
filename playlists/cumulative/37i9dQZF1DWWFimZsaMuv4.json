@@ -793,6 +793,24 @@
     },
     {
       "album": {
+        "name": "Chill Turbulence",
+        "url": "https://open.spotify.com/album/6QztPgGT479eEpzLTXITNB"
+      },
+      "artists": [
+        {
+          "name": "Dancing Waves",
+          "url": "https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345838,
+      "name": "Chill Turbulence",
+      "url": "https://open.spotify.com/track/11H4cW8gODqSw40APel5Jb"
+    },
+    {
+      "album": {
         "name": "Clear White Noise Air",
         "url": "https://open.spotify.com/album/4NnrS6G5bhJ75ZfbJxlPjB"
       },
@@ -2719,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "Snoozing on an Airplane",
+        "url": "https://open.spotify.com/album/21q1ST1Xmn9lOTpVIgTCYh"
+      },
+      "artists": [
+        {
+          "name": "A Dreaming Machine",
+          "url": "https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328423,
+      "name": "Snoozing on an Airplane",
+      "url": "https://open.spotify.com/track/2Cbomg2lMdi9gtoQgCGqIb"
+    },
+    {
+      "album": {
         "name": "Snowy White",
         "url": "https://open.spotify.com/album/7l219ezfavIhBYbU03LsGe"
       },
@@ -3458,6 +3494,24 @@
       "duration_ms": 260000,
       "name": "White Noise in Airplane Cockpit",
       "url": "https://open.spotify.com/track/63kIiBMX8i66LZOcB08a5P"
+    },
+    {
+      "album": {
+        "name": "White Noise in der Schlafkabine",
+        "url": "https://open.spotify.com/album/1uoyNoD8wMc2Htv8qJowL7"
+      },
+      "artists": [
+        {
+          "name": "Freifall",
+          "url": "https://open.spotify.com/artist/4XPPLTZjMkxbXSa3lVaUte"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329166,
+      "name": "White Noise in der Schlafkabine",
+      "url": "https://open.spotify.com/track/68y1zCZmQNBmgFWneA12eg"
     },
     {
       "album": {

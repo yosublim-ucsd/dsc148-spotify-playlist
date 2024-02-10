@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 ### [Shoegaze Now](https://open.spotify.com/playlist/37i9dQZF1DWSluyUi4YGjq)
 
-> Gazing at pedals, soaring celestially high\. Cover: Wisp
+> Gazing at pedals, soaring celestially high\. Cover: Glixen
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,750 likes - 124 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,921 likes - 124 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 123 | [iwantuall4me](https://open.spotify.com/track/6ygPBBgzTqxppds9IO0gOF) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [iwantuall4me](https://open.spotify.com/album/4KZ5IYrCfL2R2vNX3wga8F) | 3:58 |
 | 124 | [Bloom](https://open.spotify.com/track/2OhITAOj3KE9nOFTuZgnNe) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Bloom](https://open.spotify.com/album/76LGx54WGptsGBHL497A3k) | 2:19 |
 
-Snapshot ID: `MCxmMWI2MTAyNTMwYzdlMmYwNDgzODA0NjFiZDY2MmFlNzA4MzM4NGMw`
+Snapshot ID: `MCxkZDAzZTZhMTJiY2I5NmViODgyNDNjMGE5MDk4MmJmYjNmNzA0YTUw`

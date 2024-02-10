@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 45615,
+  "num_followers": 45664,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWU3ZWEwMWY5YzUyYTExM2M5NzRlYjg2NDZkMjVkN2I0NDFiZjJk",
+  "snapshot_id": "MCwzMDA1Njk0Njc2ZDFkNzNkZDJiZTI4NDU2MGM5YTJmNjQyMTMwOTdh",
   "tracks": [
     {
       "added_at": "2023-08-23 10:15:28",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 165413,
-      "name": "As Long as I'm Moving",
-      "url": "https://open.spotify.com/track/4ldqBacc2ov7cUIlzLMB5W"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Big Band Bounce & Boogie",
         "url": "https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 166760,
       "name": "Shout Sister Shout",
       "url": "https://open.spotify.com/track/7hpI4eFBXUYk3ZtsztFmWc"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 165413,
+      "name": "As Long as I'm Moving",
+      "url": "https://open.spotify.com/track/4ldqBacc2ov7cUIlzLMB5W"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Sings Bessie Smith",
-        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Gimme a Pigfoot - Mono",
-      "url": "https://open.spotify.com/track/0xhxIYLDAAKjaLN6X012bc"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Love You!",
         "url": "https://open.spotify.com/album/3eI35uCed555J4UWJwGKUp"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 133733,
       "name": "Rock The Bop",
       "url": "https://open.spotify.com/track/7h1AT1bKAy5dX2Nj8itIcA"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Gimme a Pigfoot - Mono",
+      "url": "https://open.spotify.com/track/0xhxIYLDAAKjaLN6X012bc"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron",
-        "url": "https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Don't Mess With My Man",
-      "url": "https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "The Best In Blues",
         "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 174506,
       "name": "Evil Gal Blues",
       "url": "https://open.spotify.com/track/32Rewuvfprf0VC5PX3ax3P"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron",
+        "url": "https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Don't Mess With My Man",
+      "url": "https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Capitol Records From The Vaults: \"Vine Street Divas\"",
-        "url": "https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw"
-      },
-      "artists": [
-        {
-          "name": "Blue Lu Barker",
-          "url": "https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ"
-        }
-      ],
-      "duration_ms": 134240,
-      "name": "A Little Bird Told Me",
-      "url": "https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Gospels, Spirituals, & Hymns",
         "url": "https://open.spotify.com/album/3HLro5JgcU0df3rnJ4FXlV"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 158626,
       "name": "Didn't It Rain",
       "url": "https://open.spotify.com/track/41UXxCtdRFYQMVbMi40Fi8"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Capitol Records From The Vaults: \"Vine Street Divas\"",
+        "url": "https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw"
+      },
+      "artists": [
+        {
+          "name": "Blue Lu Barker",
+          "url": "https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ"
+        }
+      ],
+      "duration_ms": 134240,
+      "name": "A Little Bird Told Me",
+      "url": "https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
+        "name": "Presenting Mamie Smith",
+        "url": "https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F"
+      },
+      "artists": [
+        {
+          "name": "Mamie Smith",
+          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Crazy Blues (Alternate Take)",
+      "url": "https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
         "name": "Territory Singers Vol. 1 (1922-1928)",
         "url": "https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 156373,
       "name": "Rock Me - Remastered",
       "url": "https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Presenting Mamie Smith",
-        "url": "https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F"
-      },
-      "artists": [
-        {
-          "name": "Mamie Smith",
-          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Crazy Blues (Alternate Take)",
-      "url": "https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p"
     },
     {
       "added_at": "2023-08-23 10:15:28",
