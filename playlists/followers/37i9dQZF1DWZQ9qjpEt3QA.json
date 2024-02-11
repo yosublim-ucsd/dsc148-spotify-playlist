@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 74223,
+  "2024-02-11": 74226,
   "date_first_scraped": "2022-06-09",
   "description": "Cruising through a shimmering night with the current City Pop wave from Asia.",
   "name": "Neon Lights",
@@ -569,6 +569,28 @@
       "duration_ms": 190363,
       "name": "Give Me The Light",
       "url": "https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF"
+    },
+    {
+      "album": {
+        "name": "Glitter Eyes (feat. mindfreakkk)",
+        "url": "https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Glitter Eyes (feat. mindfreakkk)",
+      "url": "https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT"
     },
     {
       "album": {
@@ -1945,7 +1967,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 233920,
       "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt"

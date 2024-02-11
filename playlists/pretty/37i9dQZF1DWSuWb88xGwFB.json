@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 32921,
+  "num_followers": 32945,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWZiN2E5YzY2ZmU0OThlZmFhOTQ1MmNmNDkzZjNlOTc2MzNjNGVl",
+  "snapshot_id": "MCwzMTQwNzIxZTRhN2FmYjI3MjNhZGExZjU2MGMxOTMxYWM5M2Q3YWQ4",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Rise from Your Grave",
-        "url": "https://open.spotify.com/album/6AEiF5xNaPSp1PzYbHZwAe"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 396586,
-      "name": "Rise from Your Grave (Wild pitch mix)",
-      "url": "https://open.spotify.com/track/5TzX50pYcHt96ZlZzFAa67"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Club Cuts Vol. 9",
         "url": "https://open.spotify.com/album/46qLvcWO3P4AN5RwIvEspN"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 486973,
       "name": "The Warning (Inner Mix)",
       "url": "https://open.spotify.com/track/30HsnslIUoAwcPDOltaIut"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Rise from Your Grave",
+        "url": "https://open.spotify.com/album/6AEiF5xNaPSp1PzYbHZwAe"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 396586,
+      "name": "Rise from Your Grave (Wild pitch mix)",
+      "url": "https://open.spotify.com/track/5TzX50pYcHt96ZlZzFAa67"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Phuture",
-        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 352360,
-      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
-      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Wanna Be Your Girl / Don't You Want Me (Mixes)",
         "url": "https://open.spotify.com/album/4YCvJWj2bP2270NsPYb4B2"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 374946,
       "name": "Carnival 93 (The Mardi Gras Mix)",
       "url": "https://open.spotify.com/track/1Ztq9a8Nk4XlbEJSPseygX"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Phuture",
+        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 352360,
+      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
+      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Hey! / The Size (Mixes)",
-        "url": "https://open.spotify.com/album/0XkBAnu83dKmmUNgPSBoqi"
-      },
-      "artists": [
-        {
-          "name": "Bass Hitt",
-          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
-        }
-      ],
-      "duration_ms": 427132,
-      "name": "Hey! (The Rhythm Hype Mix)",
-      "url": "https://open.spotify.com/track/4sQ9FNrJOY0R8wwOnX8fUF"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Love Trax",
         "url": "https://open.spotify.com/album/5JI7FL0GncLmee3QK617rc"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 406131,
       "name": "Love Trax (Love Izz)",
       "url": "https://open.spotify.com/track/3XlsIeTlYuDf78ol5mc6t2"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Hey! / The Size (Mixes)",
+        "url": "https://open.spotify.com/album/0XkBAnu83dKmmUNgPSBoqi"
+      },
+      "artists": [
+        {
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+        }
+      ],
+      "duration_ms": 427132,
+      "name": "Hey! (The Rhythm Hype Mix)",
+      "url": "https://open.spotify.com/track/4sQ9FNrJOY0R8wwOnX8fUF"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/1GrIg6TtWx42HcBpIHu1gh"
-      },
-      "artists": [
-        {
-          "name": "Full Swing",
-          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
-        }
-      ],
-      "duration_ms": 472984,
-      "name": "Choices (Choices Vocal Mix)",
-      "url": "https://open.spotify.com/track/5N7cwa4semi11gavRLxWGu"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Muevete Mama",
         "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 414378,
       "name": "Muevete Mama (Broder Mix)",
       "url": "https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/1GrIg6TtWx42HcBpIHu1gh"
+      },
+      "artists": [
+        {
+          "name": "Full Swing",
+          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+        }
+      ],
+      "duration_ms": 472984,
+      "name": "Choices (Choices Vocal Mix)",
+      "url": "https://open.spotify.com/track/5N7cwa4semi11gavRLxWGu"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+      },
+      "artists": [
+        {
+          "name": "Shadii",
+          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
+        }
+      ],
+      "duration_ms": 342621,
+      "name": "My People (My People Mix)",
+      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/55amN0lWdcvH5QVZ5egjor"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 368466,
       "name": "Equinox (Henrik Schwarz Remix)",
       "url": "https://open.spotify.com/track/5E1DUqZWjJXjUsOFXLh9RC"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
-      },
-      "artists": [
-        {
-          "name": "Shadii",
-          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
-        }
-      ],
-      "duration_ms": 342621,
-      "name": "My People (My People Mix)",
-      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1260,22 +1260,6 @@
       },
       "artists": [
         {
-          "name": "Barbara Douglas",
-          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
-        }
-      ],
-      "duration_ms": 260065,
-      "name": "Shine (Sundown Dub)",
-      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
-      },
-      "artists": [
-        {
           "name": "Mon\u00e9",
           "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
         }
@@ -1287,22 +1271,34 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Keep On Jumpin' (feat. Chazzie)",
-        "url": "https://open.spotify.com/album/3uDbWkbSKipKALdmI8ZOUE"
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
       },
       "artists": [
         {
-          "name": "Beatboxx",
-          "url": "https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs"
-        },
-        {
-          "name": "Chazzie",
-          "url": "https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV"
+          "name": "Barbara Douglas",
+          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
         }
       ],
-      "duration_ms": 381076,
-      "name": "Keep On Jumpin' (feat. Chazzie) (Egotrip Mix)",
-      "url": "https://open.spotify.com/track/7kz21a3f03ZDNBGARMCnnM"
+      "duration_ms": 260065,
+      "name": "Shine (Sundown Dub)",
+      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Straight from the Bario EP",
+        "url": "https://open.spotify.com/album/6h4R4lF6pLr6ZxtyKcaG9J"
+      },
+      "artists": [
+        {
+          "name": "RBM",
+          "url": "https://open.spotify.com/artist/5xIJpFh1VA7BD7uJSuWnGo"
+        }
+      ],
+      "duration_ms": 369987,
+      "name": "The Bombero Remix 96",
+      "url": "https://open.spotify.com/track/1uApzgJThhGdsQgIe8kud4"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

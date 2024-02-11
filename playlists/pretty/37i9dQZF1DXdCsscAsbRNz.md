@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 
 > Peaceful instrumentals to help you keep calm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,419 likes - 233 songs - 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,422 likes - 233 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 76 | [Flowing Leaves](https://open.spotify.com/track/2dxQ8RJA85bwrG6QFkYaRc) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Flowing Leaves](https://open.spotify.com/album/0Yts01Uu54GMSpIc7YOK68) | 2:59 |
 | 77 | [Soft Meadow](https://open.spotify.com/track/2rMvml0pdO4mZYPDtIc1JQ) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Green Space](https://open.spotify.com/album/7gLMuKgLpebst9bnhZnK8D) | 2:51 |
 | 78 | [Mi Manchi Tu](https://open.spotify.com/track/6LQcnAe3uf9lfQ4YhPSHQW) | [Donna Vellema](https://open.spotify.com/artist/6AB8ZGAhAWesb0QZPmQv3o) | [Mi Manchi Tu](https://open.spotify.com/album/5AC5P5XRqLMLfoxdWeG9Dg) | 3:25 |
-| 79 | [Enlightenment](https://open.spotify.com/track/3bg5YpK2tSwmNIe2RggX69) | [TKzPassion](https://open.spotify.com/artist/0RkNERYtoDdljuyVcBPObn) | [Enlightenment](https://open.spotify.com/album/1NDrVpczWdaEaPhsYNuBEz) | 2:51 |
+| 79 | [Enlightenment](https://open.spotify.com/track/0lj5JJK4tSCNYtwlA9NcwM) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/3LdOpCpXEIiL6SiLd0tAd8) | 2:51 |
 | 80 | [Dreaming](https://open.spotify.com/track/1apyGj27ZxI2QTEnq9hGNx) | [Vinnie Gianni](https://open.spotify.com/artist/6sLmYoTs56uTqmDs3V9c7h) | [Dreaming](https://open.spotify.com/album/6I8TngvQAo6X5XSkYmKpCf) | 2:19 |
 | 81 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 |
 | 82 | [Divine](https://open.spotify.com/track/49WYvbLAlLn9e663fBmCUl) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:49 |
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 232 | [Lost But Not Forgotten](https://open.spotify.com/track/50F8hTHpGzxthbPiEEvDfE) | [Pacific Humble](https://open.spotify.com/artist/0OhoLNQJv9eCwRiwEUjv4e) | [Lost But Not Forgotten](https://open.spotify.com/album/3poS1xDMOdeoRHHXE21McX) | 2:03 |
 | 233 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 |
 
-Snapshot ID: `MCxlNmY5NzM5ZTBjZWMyZGZiYjA3ZTBlMDJhMWE1MjEwYTk1MWRlOGRh`
+Snapshot ID: `MCwwMDZjZmYyYTUzYzdjYjFhYTUzODUzZjU4MWY2NTQ2ZGJhMTI5MGVm`

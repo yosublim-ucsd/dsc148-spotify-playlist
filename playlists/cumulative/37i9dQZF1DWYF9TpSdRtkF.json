@@ -2067,6 +2067,40 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER THE@TER ACTIVITIES 02",
+        "url": "https://open.spotify.com/album/6GBsoeSbiZSZ9euyx0su40"
+      },
+      "artists": [
+        {
+          "name": "Julia (CV: Aimi)",
+          "url": "https://open.spotify.com/artist/1CLvL2z5LbARBiaOY5fVeH"
+        },
+        {
+          "name": "Momoko Suou (CV: Keiko Watanabe)",
+          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
+        },
+        {
+          "name": "Tamaki Ogami (CV: Eri Inagawa)",
+          "url": "https://open.spotify.com/artist/2flYBiUZHUmExLFIQy9t0u"
+        },
+        {
+          "name": "Hinata Kinoshita (CV: Nao Tamura)",
+          "url": "https://open.spotify.com/artist/48iNzeWkRNroqYTfYx28hS"
+        },
+        {
+          "name": "Noriko Fukuda (CV: Nana Hamasaki)",
+          "url": "https://open.spotify.com/artist/1oVowWqa3FDbOTRBS6BLtO"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234946,
+      "name": "Kyoki Ranbu",
+      "url": "https://open.spotify.com/track/6KuhJx1AhTXoxlytQHDtNP"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER THE@TER BOOST 03",
         "url": "https://open.spotify.com/album/1sa05hx6RPkipXU7yk7Vzw"
       },
@@ -3030,7 +3064,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 208960,
       "name": "Secret Jewel: Miwaku no Kongoseki",
       "url": "https://open.spotify.com/track/1arjUhjl9HyIsGjnQxbBqk"

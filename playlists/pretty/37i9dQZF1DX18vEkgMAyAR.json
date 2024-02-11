@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 66822,
+  "num_followers": 66857,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2Y3M2JlNDk2ZjVmNGU5MWE1NGJjNDEzOTZjMjBkNTBjMjYyMjJj",
+  "snapshot_id": "MCwzNjA5ZmZjNjVmZDAwYjcwNmIyZGMxNWNhOWZlYWM2MmVlNjYyNTQ4",
   "tracks": [
     {
       "added_at": "2023-11-03 03:58:52",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/1Z7KGtMBANUIXPSp4lajX3"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf"
       },
       "artists": [
         {
-          "name": "Rubber Duc",
-          "url": "https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU"
+          "name": "Majozi",
+          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
         }
       ],
-      "duration_ms": 219500,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj"
+      "duration_ms": 203093,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf"
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/1Z7KGtMBANUIXPSp4lajX3"
       },
       "artists": [
         {
-          "name": "Majozi",
-          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
+          "name": "Rubber Duc",
+          "url": "https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU"
         }
       ],
-      "duration_ms": 203093,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k"
+      "duration_ms": 219500,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -1115,26 +1115,18 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "The Woods (Evida Remix)",
-        "url": "https://open.spotify.com/album/16Im37aeKNeMDeTxWb5OYc"
+        "name": "Taking It Easy",
+        "url": "https://open.spotify.com/album/7tpKCYCD9014y6vclyHMaG"
       },
       "artists": [
         {
-          "name": "Majozi",
-          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
-        },
-        {
-          "name": "TRESOR",
-          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
-        },
-        {
-          "name": "Evida",
-          "url": "https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN"
+          "name": "GoodLuck",
+          "url": "https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3"
         }
       ],
-      "duration_ms": 191062,
-      "name": "The Woods - Evida Remix",
-      "url": "https://open.spotify.com/track/0MmNZy7ziTgINtA5CSOkGE"
+      "duration_ms": 244030,
+      "name": "Taking It Easy",
+      "url": "https://open.spotify.com/track/3TxzxETVzNxcVgyH046azF"
     }
   ],
   "unique_name": "Feel Good Look Good",

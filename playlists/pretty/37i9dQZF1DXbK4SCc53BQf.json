@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 93488,
+  "num_followers": 93524,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmY3YWM4YjBhNGVkMDE1NWIxY2M4NTE3NzIxOGE2ODFmMTU4ZTdh",
+  "snapshot_id": "MCxlOWRjOGQyMDc1YjMxZDdlYmI2MmNhYzU2MDdhM2EzYWQ3ODM2MTIy",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -383,30 +383,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Me Llevas M\u00e1s Alto",
-        "url": "https://open.spotify.com/album/6ZOw1bQKJpRWnAmyKkVhe2"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 199524,
-      "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
-      "url": "https://open.spotify.com/track/0KyNEJfDrKHOGSxsxCDM7v"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "PANORAMA",
         "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
       },
@@ -435,6 +411,30 @@
       "duration_ms": 278891,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/1nqJ147DenACjQsFw2FWGN"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Me Llevas M\u00e1s Alto",
+        "url": "https://open.spotify.com/album/6ZOw1bQKJpRWnAmyKkVhe2"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 199524,
+      "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
+      "url": "https://open.spotify.com/track/0KyNEJfDrKHOGSxsxCDM7v"
     },
     {
       "added_at": "2020-11-24 13:23:55",

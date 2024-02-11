@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Praise His holy name! Listen to the top Christian and Worship hits of 2024 with songs like Abandoned, Who Else and Glorious Day! Cover: <a href="https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm?si=amZK4beZTje3ttbfv\_B7\-Q">Benjamin William Hastings</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,093 likes - 126 songs - 12 hr 0 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,104 likes - 126 songs - 12 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 8 | [Precious Love \- Live](https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Sing! The Great Commission \- World Tour \(Live\)](https://open.spotify.com/album/1WsOwc3ZE7MvMzube1cPyF) | 5:02 |
 | 9 | [Shelter](https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:12 |
 | 10 | [Glorious Day \- Live](https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 4:58 |
-| 11 | [Spirit Fall \(Dove\) \- Live At Citipointe Church, Brisbane, Australia/2023](https://open.spotify.com/track/726QdTEtmQIkafu0F9PdY2) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Jess Steer](https://open.spotify.com/artist/6nQhS19N2Vi3J3xAVgcgu4) | [Spirit Fall \(Dove\) \[Live At Citipointe Church, Brisbane, Australia/2023\]](https://open.spotify.com/album/3KTCaaf0LQU9E14mr57mPN) | 6:31 |
+| 11 | [Spirit Fall \(Dove\) \- Live](https://open.spotify.com/track/726QdTEtmQIkafu0F9PdY2) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Jess Steer](https://open.spotify.com/artist/6nQhS19N2Vi3J3xAVgcgu4) | [Spirit Fall \(Dove\) \[Live\]](https://open.spotify.com/album/3KTCaaf0LQU9E14mr57mPN) | 6:31 |
 | 12 | [Another In The Fire \- Studio](https://open.spotify.com/track/4HP7ZEPa8nCVhKsGK9gzKM) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/4l1CgmeovuVdf2iVmPxeV6) | 4:25 |
 | 13 | [Because Of Christ](https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [TEN](https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU) | 5:10 |
 | 14 | [Steadfast Love \- Live](https://open.spotify.com/track/2TMVO0RgGLIyWCVo9vRSiQ) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Steadfast Love \(Live\)](https://open.spotify.com/album/5kuVApIeXUgvb3RFaQZ51p) | 9:16 |

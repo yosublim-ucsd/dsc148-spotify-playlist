@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 57340,
+  "num_followers": 57362,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTUyNzU5YTI5Y2FkOWJmNjAwMWQxM2Q3MzJkOGQ2YTZhZDczOGI1",
+  "snapshot_id": "MCxlZWRmMjdkM2Q4YzE3MWVhZGI2NDUyZjdmMmExZjA4Yjk0YTY5NTNk",
   "tracks": [
     {
       "added_at": "2023-08-10 19:42:53",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Gnawa Fusion, Vol. 1",
-        "url": "https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap"
-      },
-      "artists": [
-        {
-          "name": "Hamid El Gnawi",
-          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
-        }
-      ],
-      "duration_ms": 254275,
-      "name": "Baba Al Arabi",
-      "url": "https://open.spotify.com/track/6kRpgupBsfIV93FpfA8p72"
-    },
-    {
-      "added_at": "2023-08-10 19:42:53",
-      "album": {
         "name": "Colours of the Night",
         "url": "https://open.spotify.com/album/73B5ghcGOwmrl3J3Yw2mxA"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 530803,
       "name": "Shaba Kouria",
       "url": "https://open.spotify.com/track/6tghScpQTCpuhlhkrVztdO"
+    },
+    {
+      "added_at": "2023-08-10 19:42:53",
+      "album": {
+        "name": "Gnawa Fusion, Vol. 1",
+        "url": "https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Gnawi",
+          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
+        }
+      ],
+      "duration_ms": 254275,
+      "name": "Baba Al Arabi",
+      "url": "https://open.spotify.com/track/6kRpgupBsfIV93FpfA8p72"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Gnawa Fusion, Vol. 1",
-        "url": "https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap"
-      },
-      "artists": [
-        {
-          "name": "Hamid El Gnawi",
-          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
-        }
-      ],
-      "duration_ms": 312581,
-      "name": "Soudani",
-      "url": "https://open.spotify.com/track/4PH29GIlJAYrQse5wQ1fIV"
-    },
-    {
-      "added_at": "2023-08-10 19:42:53",
-      "album": {
         "name": "Gnawa Home Songs",
         "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 193693,
       "name": "Boulila",
       "url": "https://open.spotify.com/track/7K0e9c4yavJcHGpGr4VxpG"
+    },
+    {
+      "added_at": "2023-08-10 19:42:53",
+      "album": {
+        "name": "Live in Casablanca",
+        "url": "https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR"
+      },
+      "artists": [
+        {
+          "name": "Fehd Benchemsi",
+          "url": "https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky"
+        }
+      ],
+      "duration_ms": 569244,
+      "name": "Lalla Mira",
+      "url": "https://open.spotify.com/track/2Ya5BmjguLHtvnIznh35cf"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Live in Casablanca",
-        "url": "https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR"
+        "name": "Gnawa Fusion, Vol. 1",
+        "url": "https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap"
       },
       "artists": [
         {
-          "name": "Fehd Benchemsi",
-          "url": "https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky"
+          "name": "Hamid El Gnawi",
+          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
         }
       ],
-      "duration_ms": 569244,
-      "name": "Lalla Mira",
-      "url": "https://open.spotify.com/track/2Ya5BmjguLHtvnIznh35cf"
+      "duration_ms": 312581,
+      "name": "Soudani",
+      "url": "https://open.spotify.com/track/4PH29GIlJAYrQse5wQ1fIV"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
+        "name": "Gnawa Fusion, Vol. 4",
+        "url": "https://open.spotify.com/album/5SLDSuYflfHqcwoMY7ozef"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Gnawi",
+          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
+        }
+      ],
+      "duration_ms": 534987,
+      "name": "La Illaha Illa Allah",
+      "url": "https://open.spotify.com/track/1rUFXxtuyZj0Q83e3qUvN1"
+    },
+    {
+      "added_at": "2023-08-10 19:42:53",
+      "album": {
         "name": "Lila",
         "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 353811,
       "name": "Gnawi Baba Mimoun - Jan Rase Remix",
       "url": "https://open.spotify.com/track/7MJn7pkVO1chHyXvjemfqY"
-    },
-    {
-      "added_at": "2023-08-10 19:42:53",
-      "album": {
-        "name": "Gnawa Fusion, Vol. 4",
-        "url": "https://open.spotify.com/album/5SLDSuYflfHqcwoMY7ozef"
-      },
-      "artists": [
-        {
-          "name": "Hamid El Gnawi",
-          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
-        }
-      ],
-      "duration_ms": 534987,
-      "name": "La Illaha Illa Allah",
-      "url": "https://open.spotify.com/track/1rUFXxtuyZj0Q83e3qUvN1"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Jah Gnawi",
-        "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
-      },
-      "artists": [
-        {
-          "name": "Gnawa Impulse",
-          "url": "https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ"
-        }
-      ],
-      "duration_ms": 245097,
-      "name": "Lalla Mira - Jan Rase Remix",
-      "url": "https://open.spotify.com/track/2yXvT1eHZzo5y2fyv6fo3W"
-    },
-    {
-      "added_at": "2023-08-10 19:42:53",
-      "album": {
         "name": "Oulad Lghaba",
         "url": "https://open.spotify.com/album/2doOEuBNDHH53QhBwDwxL5"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 337693,
       "name": "Bala Yourki",
       "url": "https://open.spotify.com/track/0de22T1p3dmUxeKvgA3Y9y"
+    },
+    {
+      "added_at": "2023-08-10 19:42:53",
+      "album": {
+        "name": "Jah Gnawi",
+        "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
+      },
+      "artists": [
+        {
+          "name": "Gnawa Impulse",
+          "url": "https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ"
+        }
+      ],
+      "duration_ms": 245097,
+      "name": "Lalla Mira - Jan Rase Remix",
+      "url": "https://open.spotify.com/track/2yXvT1eHZzo5y2fyv6fo3W"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Gnawa Njoum Experience",
-        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
-      },
-      "artists": [
-        {
-          "name": "Gnawa Njoum Experience",
-          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
-        }
-      ],
-      "duration_ms": 292520,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
-    },
-    {
-      "added_at": "2023-08-10 19:42:53",
-      "album": {
         "name": "Djaza\u00efr Johara",
         "url": "https://open.spotify.com/album/6aMI4N8bNjlmyf5nLaRgAG"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 318333,
       "name": "Bouri Bouri Manandabo",
       "url": "https://open.spotify.com/track/4tEPVARoc88ff4zLuYDWEB"
+    },
+    {
+      "added_at": "2023-08-10 19:42:53",
+      "album": {
+        "name": "Gnawa Njoum Experience",
+        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
+      },
+      "artists": [
+        {
+          "name": "Gnawa Njoum Experience",
+          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
+        }
+      ],
+      "duration_ms": 292520,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
     },
     {
       "added_at": "2023-08-10 19:42:53",

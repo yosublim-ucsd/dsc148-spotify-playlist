@@ -4,7 +4,7 @@
 
 > como en una nube\. Bedroom pop vibes featuring ke onda.
 
-299 songs - 16 hr 17 min
+300 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Veces](https://open.spotify.com/track/1c8OwMD1nzoKnLnxXyaP54) | [Rayo Ultravioleta](https://open.spotify.com/artist/7qCyS1SJOxtniq2SuhpHpB), [Velero Norte](https://open.spotify.com/artist/6TBD2rLl4F6tIPF3oO62Ot), [Adonai Melodías](https://open.spotify.com/artist/5GdCwsX6wfVlTWdv76aUzI) | [A Veces](https://open.spotify.com/album/5qQHr5uOjIzDqw9WOwkXFr) | 2:13 | 2022-10-07 | 2022-11-12 |
 | [A veces caigo](https://open.spotify.com/track/23VsJynQzdhikyNxp3xu1s) | [toorai](https://open.spotify.com/artist/6GevMSNQ6R54xxyfOFSWBd) | [A veces caigo](https://open.spotify.com/album/7DhpUA2MCtE0w8do19Vgzd) | 2:25 | 2023-03-17 | 2023-04-22 |
 | [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 | 2023-05-05 |  |
-| [Acicálame](https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO) | [Flacø](https://open.spotify.com/artist/2MP4Sye1CkjSzki8eqG1ub), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Acicálame](https://open.spotify.com/album/0l81vXuYP8EdwIjXG2YYrW) | 3:55 | 2023-07-21 |  |
+| [Acicálame](https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO) | [Flacø](https://open.spotify.com/artist/2MP4Sye1CkjSzki8eqG1ub), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Acicálame](https://open.spotify.com/album/0l81vXuYP8EdwIjXG2YYrW) | 3:55 | 2023-07-21 | 2024-02-11 |
 | [Adentro Mío](https://open.spotify.com/track/1eqy9eJep6OX0lWKbevodl) | [REDNBLUE](https://open.spotify.com/artist/2fFmT5WlZr5EsPKyU1qGzG), [Luisa Quiroga](https://open.spotify.com/artist/41BvCh2pTbtXbK80QyZmcq) | [Adentro Mío](https://open.spotify.com/album/4LUtBY7vKqZ8ctSk195AcJ) | 3:40 | 2022-04-08 | 2022-08-27 |
 | [Al Cien](https://open.spotify.com/track/1vxa13KTCbsGFavA6WFywz) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Al Cien](https://open.spotify.com/album/0APusMWyvY7kRnM3ROoOBm) | 2:57 | 2023-03-10 | 2023-12-14 |
 | [Algo](https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Algo](https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb) | 2:48 | 2023-02-24 | 2023-05-06 |
@@ -229,6 +229,7 @@
 | [QUIERO, QUIERO](https://open.spotify.com/track/5wyOGr2lqSIGJHDF6p9Rb3) | [dieglitter](https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg) | [QUIERO, QUIERO](https://open.spotify.com/album/5Y2GCdDTnHzFDYaGBk0VSg) | 2:03 | 2023-05-26 | 2023-06-17 |
 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 | 2023-02-24 |  |
 | [Qué me vas a contar](https://open.spotify.com/track/06Uhw7KLSBqAJqYy2fdjiN) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI), [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Qué me vas a contar](https://open.spotify.com/album/1a1WTsbfOeGHCOXPqMahQv) | 2:45 | 2022-03-25 | 2022-10-15 |
+| [Qué tal? Yo igual](https://open.spotify.com/track/02eIIs3O0G6xY7JbYYJqHY) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Qué tal? Yo igual](https://open.spotify.com/album/46JsjXxCfEK8I1ix0sbC9G) | 3:05 | 2023-09-26 |  |
 | [Qué tal? Yo igual](https://open.spotify.com/track/2dgy7SSevw96MA0wDmdXp3) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Qué tal? Yo igual](https://open.spotify.com/album/3bmRq543so0ogJaFvSlIT6) | 3:05 | 2023-07-07 | 2024-02-09 |
 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 | 2023-03-31 |  |
 | [Realidad](https://open.spotify.com/track/55mKDXgmHh9zhtWmTJbIzI) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Realidad](https://open.spotify.com/album/3mUJ4dvBB1ClRg0MrnyEZO) | 3:01 | 2022-03-25 | 2022-07-28 |

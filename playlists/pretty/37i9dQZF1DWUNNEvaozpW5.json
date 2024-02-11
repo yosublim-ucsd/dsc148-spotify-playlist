@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Estopa con Fito.",
-  "num_followers": 570109,
+  "num_followers": 570197,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Zjc0ODUwMzJlMmE5YWU4YjcxNTI0NjExYWZlMGQ2Mjc1MzVkZDA2",
+  "snapshot_id": "MCxlYmRmYTY2MGNhNzg0Y2U5MzNhNDE4MmRlMGVkMTE1OTI0NGJlMTVl",
   "tracks": [
     {
       "added_at": "2024-02-09 09:18:56",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-02-09 09:18:56",
       "album": {
-        "name": "Sopa fria",
-        "url": "https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj"
-      },
-      "artists": [
-        {
-          "name": "M-Clan",
-          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
-        }
-      ],
-      "duration_ms": 297106,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj"
-    },
-    {
-      "added_at": "2024-02-09 09:18:56",
-      "album": {
         "name": "Devil Came to Me",
         "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 234280,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ"
+    },
+    {
+      "added_at": "2024-02-09 09:18:56",
+      "album": {
+        "name": "Sopa fria",
+        "url": "https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj"
+      },
+      "artists": [
+        {
+          "name": "M-Clan",
+          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
+        }
+      ],
+      "duration_ms": 297106,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj"
     },
     {
       "added_at": "2024-02-09 09:18:56",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-02-09 09:18:56",
       "album": {
+        "name": "Sin Tiempo",
+        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
+      },
+      "artists": [
+        {
+          "name": "Medina Azahara",
+          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
+        }
+      ],
+      "duration_ms": 296400,
+      "name": "Todo Tiene Su Fin",
+      "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
+    },
+    {
+      "added_at": "2024-02-09 09:18:56",
+      "album": {
         "name": "Estoy aqu\u00ed (feat. La Pegatina)",
         "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
       },
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2024-02-09 09:18:56",
       "album": {
-        "name": "Sin Tiempo",
-        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
-      },
-      "artists": [
-        {
-          "name": "Medina Azahara",
-          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
-        }
-      ],
-      "duration_ms": 296400,
-      "name": "Todo Tiene Su Fin",
-      "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
-    },
-    {
-      "added_at": "2024-02-09 09:18:56",
-      "album": {
         "name": "Bailar\u00e9 sobre tu tumba",
         "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
       },
@@ -1243,38 +1243,6 @@
       "duration_ms": 185933,
       "name": "Bailar\u00e9 sobre tu tumba",
       "url": "https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw"
-    },
-    {
-      "added_at": "2024-02-09 09:18:56",
-      "album": {
-        "name": "Vispera De Todos Los Santos",
-        "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
-      },
-      "artists": [
-        {
-          "name": "Los Suaves",
-          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
-        }
-      ],
-      "duration_ms": 294200,
-      "name": "Palabras Para Julia",
-      "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
-    },
-    {
-      "added_at": "2024-02-09 09:18:56",
-      "album": {
-        "name": "Veo Veo Mamoneo",
-        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
-      },
-      "artists": [
-        {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
-        }
-      ],
-      "duration_ms": 243040,
-      "name": "Masculino singular",
-      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
     },
     {
       "added_at": "2024-02-09 09:18:56",
@@ -1295,6 +1263,38 @@
     {
       "added_at": "2024-02-09 09:18:56",
       "album": {
+        "name": "Veo Veo Mamoneo",
+        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
+      },
+      "artists": [
+        {
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+        }
+      ],
+      "duration_ms": 243040,
+      "name": "Masculino singular",
+      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
+    },
+    {
+      "added_at": "2024-02-09 09:18:56",
+      "album": {
+        "name": "Vispera De Todos Los Santos",
+        "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
+      },
+      "artists": [
+        {
+          "name": "Los Suaves",
+          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
+        }
+      ],
+      "duration_ms": 294200,
+      "name": "Palabras Para Julia",
+      "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
+    },
+    {
+      "added_at": "2024-02-09 09:18:56",
+      "album": {
         "name": "Te entiendo",
         "url": "https://open.spotify.com/album/48LCDKfzLfuaoHlMKUreII"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 240814,
       "name": "Te entiendo",
       "url": "https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ"
+    },
+    {
+      "added_at": "2024-02-09 09:18:56",
+      "album": {
+        "name": "Vamos Tirando",
+        "url": "https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V"
+      },
+      "artists": [
+        {
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "Tras la barra",
+      "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
     },
     {
       "added_at": "2024-02-09 09:18:56",
@@ -1407,22 +1423,6 @@
       "duration_ms": 287873,
       "name": "El Carro de la Vida - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/7LVBTC1yuwJxoEm9kAyTbl"
-    },
-    {
-      "added_at": "2024-02-09 09:18:56",
-      "album": {
-        "name": "Vamos Tirando",
-        "url": "https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V"
-      },
-      "artists": [
-        {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "Tras la barra",
-      "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
     },
     {
       "added_at": "2024-02-09 09:18:56",

@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 48240,
+  "2024-02-11": 48250,
   "date_first_scraped": "2022-09-19",
   "description": "<a href=\"spotify:artist:5mIowAJMp7RKNheelruV5z\">&ME</a>'s favorite tracks. Updated regularly. Curated by &ME. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "&ME's track IDs",
@@ -995,10 +995,32 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 188117,
       "name": "Get Goofy",
       "url": "https://open.spotify.com/track/4cjxlrzzn8hSMEfRzJypFg"
+    },
+    {
+      "album": {
+        "name": "Hotel Koko",
+        "url": "https://open.spotify.com/album/7j8cYYFqnoyHaRCxoSuCv1"
+      },
+      "artists": [
+        {
+          "name": "Korn\u00e9l Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
+        },
+        {
+          "name": "MishCatt",
+          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188117,
+      "name": "Get Goofy",
+      "url": "https://open.spotify.com/track/7iao35v39ey2yAZHoTzmnf"
     },
     {
       "album": {

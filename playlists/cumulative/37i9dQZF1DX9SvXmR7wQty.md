@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Peter Peter
 
-2,320 songs - 5 day 3 hr 53 min
+2,321 songs - 5 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1676,7 +1676,7 @@
 | [Plus qu'assez](https://open.spotify.com/track/5TvGIuBUdc53iD6NrYfjK7) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Plus qu'assez](https://open.spotify.com/album/74eMYBI9D5AtWcVBogXz9o) | 3:23 | 2022-10-21 | 2022-10-29 |
 | [Plus que](https://open.spotify.com/track/4jYENrEA31fBzgCsEVc6x7) | [Lhéfé](https://open.spotify.com/artist/3bzQSOFEd6Zgzxi8nyhxOY) | [Mentir mon plaisir](https://open.spotify.com/album/5kG61u4EiSpCZhPw6QrSC0) | 3:41 | 2023-01-13 | 2023-01-21 |
 | [Plutôt déplacé](https://open.spotify.com/track/2jpbta5vtKmrIVBEdq4ExY) | [Kaziopée](https://open.spotify.com/artist/40WmSMLxlKOHuS5jHb93QW), [Liamliamliam](https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw) | [Plutôt déplacé](https://open.spotify.com/album/4zwILO2IYlpwTOk4d8kD9Q) | 3:23 | 2022-02-18 | 2022-03-05 |
-| [POISON](https://open.spotify.com/track/3Z29095berlRpJ3R31ZXmD) | [Dospunto](https://open.spotify.com/artist/74I7IwjAcqaomlLrjNRqvD), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [POISON](https://open.spotify.com/album/619vWtlvr2x1MopmkxmMvQ) | 3:09 | 2024-01-12 |  |
+| [POISON](https://open.spotify.com/track/3Z29095berlRpJ3R31ZXmD) | [Dospunto](https://open.spotify.com/artist/74I7IwjAcqaomlLrjNRqvD), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [POISON](https://open.spotify.com/album/619vWtlvr2x1MopmkxmMvQ) | 3:09 | 2024-01-12 | 2024-02-11 |
 | [Polaroid \#1 \- Blessé](https://open.spotify.com/track/0rliboiIZIlevZSkMFvKUW) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Polaroid \#1 \- Blessé](https://open.spotify.com/album/5CEiYd5axZBToAntA9BdZs) | 3:04 | 2022-01-28 | 2022-02-12 |
 | [Polaroid \#2 \- Sourire](https://open.spotify.com/track/0uvNqcBOSwX1ySykAFpxB3) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Polaroid \#2 \- Sourire](https://open.spotify.com/album/2egUuSRrujsuUcvjqM1sjP) | 2:24 | 2022-02-25 | 2022-03-12 |
 | [Police à ma porte](https://open.spotify.com/track/4efHCpCu3cmXSZPcZnemUS) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [Police à ma porte](https://open.spotify.com/album/6s1K0Koo24rGmV33PZYyzv) | 2:29 | 2023-02-10 | 2023-02-25 |
@@ -1854,6 +1854,7 @@
 | [Sachet d'amour](https://open.spotify.com/track/1Nz8mPtB3J58dFa0M5EYj7) | [Baggies](https://open.spotify.com/artist/3MaLB9t8oVeKHmnmYi0VJS), [JeanCoeur](https://open.spotify.com/artist/3EnquMDJk2xQ9uaROEv8mT), [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt) | [Invincible](https://open.spotify.com/album/44GOSWH28z2v1AX67oLdBO) | 3:07 | 2022-05-13 | 2022-05-20 |
 | [Sacré Bordel](https://open.spotify.com/track/4jp2u0M51xHAVACTTKnGWu) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Sacré Bordel](https://open.spotify.com/album/1THFhj3gfKv5LwLrMqjOtf) | 4:26 | 2022-04-08 | 2022-04-23 |
 | [Sadio \(feat\. Offset\)](https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:42 | 2023-02-17 | 2023-03-04 |
+| [Saga](https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 3:14 | 2024-02-09 |  |
 | [Saigne](https://open.spotify.com/track/1asVdZ0iYxCfmlIZ97C9z1) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Cullinan](https://open.spotify.com/album/5ChxUxNLebxMXdHGtveexw) | 2:44 | 2022-11-11 | 2022-11-29 |
 | [Sainte\-Rita](https://open.spotify.com/track/2H8XayBXl4ju8RbJMXXzx5) | [Rick et les Bons Moments](https://open.spotify.com/artist/3ZTHWlS8bpAA446rY8ntVQ) | [Sainte\-Rita](https://open.spotify.com/album/0HbcKi9jIdUOg38c1r6BzJ) | 3:13 | 2022-01-21 | 2022-02-05 |
 | [SAL Tour](https://open.spotify.com/track/7zduvebDa9IjEXrONa09qx) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [SAL Tour](https://open.spotify.com/album/4sNa8HLLS8mfIYJlVUcQe7) | 2:30 | 2023-10-13 | 2023-10-21 |

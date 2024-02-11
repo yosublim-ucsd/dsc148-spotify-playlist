@@ -4,7 +4,7 @@
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-338 songs - 21 hr 9 min
+339 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 | 2021-01-12 | 2023-02-15 |
 | [Sweet Hurt](https://open.spotify.com/track/2q3v8cuFmaaSFZPnXhgulP) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Sweet Hurt](https://open.spotify.com/album/18EcmYw6yTT0qFklLtELeu) | 3:24 | 2020-06-12 | 2021-10-14 |
 | [Sweet Love of Mine \(Acoustic\)](https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 2:55 | 2019-09-29\* |  |
+| [Sweetest Thing](https://open.spotify.com/track/3SiRNvjdZGx9TGqabi2ywu) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [1000 Years](https://open.spotify.com/album/4uDA2LKlvyDvYdr3xp40ny) | 3:38 | 2024-02-09 |  |
 | [Sweetest Thing](https://open.spotify.com/track/4XBcShO4h4X55x9yMmyKHL) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [1000 Years](https://open.spotify.com/album/7wUbzS5urHkgVamMUP39d7) | 3:38 | 2019-09-29\* | 2024-02-08 |
 | [Swim the River](https://open.spotify.com/track/07SXue1iQcaLpTvFovKjrQ) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Swim the River](https://open.spotify.com/album/69f1FJ4lZGfKFnEvVv8KGb) | 2:55 | 2019-09-29\* | 2022-07-29 |
 | [Take Me to Church \- Live From Spotify London](https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions London](https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb) | 4:06 | 2022-02-14 |  |
@@ -286,7 +287,7 @@
 | [The Way We Fall](https://open.spotify.com/track/2FHgWhqZZnFnpFVgeBofWj) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [About Farewell](https://open.spotify.com/album/1t03rTgBloVkaemIyjGbPp) | 5:04 | 2021-04-28 | 2021-05-28 |
 | [The World Began With a Waltz](https://open.spotify.com/track/2C0FPG7Kor1RmYNCtqvnNc) | [Hidden Highways](https://open.spotify.com/artist/4HDogokKoBHPXY8Oztwfqy) | [Old Hearts Reborn](https://open.spotify.com/album/65fmHrkD2cMJSu18tXFmGn) | 3:07 | 2020-01-09 | 2020-01-10 |
 | [There Was a Time](https://open.spotify.com/track/1YJpxbqfN7CXNzgvL1mGtU) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [This Side of Jordan](https://open.spotify.com/album/6rYA2Dt9kUfW5HJR1ayNnZ) | 4:14 | 2022-02-14 | 2023-04-30 |
-| [There Was a Time](https://open.spotify.com/track/4HIhWr1mu2UcCni3BNwZiB) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [This Side of Jordan](https://open.spotify.com/album/7qvtiRY9SJJaLhAOsghPhr) | 4:14 | 2023-09-22 |  |
+| [There Was a Time](https://open.spotify.com/track/4HIhWr1mu2UcCni3BNwZiB) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [This Side of Jordan](https://open.spotify.com/album/7qvtiRY9SJJaLhAOsghPhr) | 4:14 | 2023-09-22 | 2024-02-11 |
 | [There Was A Time](https://open.spotify.com/track/7zoUIgt7MNXXaTVT52TN3M) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [This Side Of Jordan](https://open.spotify.com/album/3A6DYcbcB9vrZr7134jFQ7) | 4:14 | 2021-04-28 | 2022-07-09 |
 | [There's A Place](https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Pacific](https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ) | 6:08 | 2021-01-12 |  |
 | [Thinking 'Bout Love](https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW) | 3:19 | 2022-02-07 |  |

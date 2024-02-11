@@ -1,7 +1,7 @@
 {
-  "2024-02-10": 11085,
+  "2024-02-11": 11091,
   "date_first_scraped": "2022-10-01",
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv?si=Wh2Epm11RL6HFz7jB5DQ0A\">Stereo Club</a> ",
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz?si=Oy2r3WQaR4msMS2y1YFXgg\">CON THE ARTIST</a> ",
   "name": "Indie GO",
   "tracks": [
     {
@@ -357,6 +357,24 @@
       "duration_ms": 167032,
       "name": "ALL MINE",
       "url": "https://open.spotify.com/track/3NZtzTfqjbTaNt15451Vs8"
+    },
+    {
+      "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/4uUVVNUe5FSoNkF1cJF3br"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144187,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/5cyeEMdqMmg0epS1laIYIE"
     },
     {
       "album": {
@@ -953,6 +971,24 @@
       "duration_ms": 192991,
       "name": "Beach House",
       "url": "https://open.spotify.com/track/4X5fbAxCG8JTsHotIRUNIX"
+    },
+    {
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
     },
     {
       "album": {
@@ -1993,7 +2029,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 271229,
       "name": "cold",
       "url": "https://open.spotify.com/track/367rg4DJZsp7GCTrDpDVT6"
@@ -2091,6 +2127,24 @@
       "duration_ms": 179314,
       "name": "Cool Around You II",
       "url": "https://open.spotify.com/track/4WcLzxeWscSObQenatHcoe"
+    },
+    {
+      "album": {
+        "name": "Cosmic Love",
+        "url": "https://open.spotify.com/album/2jOGDgUgZvN0GOhW9WIGBC"
+      },
+      "artists": [
+        {
+          "name": "TRIIIP",
+          "url": "https://open.spotify.com/artist/2GGLj4Ng4Yawj7oj18QCzA"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Cosmic Love",
+      "url": "https://open.spotify.com/track/2Qm9EWXzINZwhmycmjFIXP"
     },
     {
       "album": {
@@ -2499,6 +2553,24 @@
       "duration_ms": 242421,
       "name": "Designated Observer",
       "url": "https://open.spotify.com/track/6rkUWq5E1hajNe137MnLlw"
+    },
+    {
+      "album": {
+        "name": "Destruction",
+        "url": "https://open.spotify.com/album/7nIWEqV79H835Uwp0UJHhn"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Smith",
+          "url": "https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240562,
+      "name": "Destruction",
+      "url": "https://open.spotify.com/track/42KMBiE1JoR1dFaVYHUhdM"
     },
     {
       "album": {
@@ -3563,7 +3635,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 91869,
       "name": "Formula",
       "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
@@ -4111,7 +4183,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -4739,7 +4811,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 220016,
       "name": "I Play the Drums",
       "url": "https://open.spotify.com/track/2rPQAyoogFEk3Ie4whxfu7"
@@ -4775,7 +4847,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -8476,6 +8548,24 @@
     },
     {
       "album": {
+        "name": "The Misty Cliffs",
+        "url": "https://open.spotify.com/album/1OqHVUHiB8nmMP5MglQesP"
+      },
+      "artists": [
+        {
+          "name": "The Misty Cliffs",
+          "url": "https://open.spotify.com/artist/3CFW4FL5DJJeohKk1gakqO"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190228,
+      "name": "Screen Saviour",
+      "url": "https://open.spotify.com/track/2VDhCwjfmixbmnL6h63I2m"
+    },
+    {
+      "album": {
         "name": "Self Talk",
         "url": "https://open.spotify.com/album/0hk4okEhyO7aDLiTObO5I7"
       },
@@ -8649,7 +8739,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 215110,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT"
@@ -10795,6 +10885,24 @@
       "duration_ms": 204923,
       "name": "VILLAIN",
       "url": "https://open.spotify.com/track/5BenD5bE1L6gX4auqfEDov"
+    },
+    {
+      "album": {
+        "name": "Vitamin D",
+        "url": "https://open.spotify.com/album/4sFSVAu6lPn5clc1izlKDE"
+      },
+      "artists": [
+        {
+          "name": "Black Heidi",
+          "url": "https://open.spotify.com/artist/1uKkDJ0B4qGyH0hsUaGPvt"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197920,
+      "name": "Vitamin D",
+      "url": "https://open.spotify.com/track/3Ktp59pfDr2qcdhdCYop7T"
     },
     {
       "album": {

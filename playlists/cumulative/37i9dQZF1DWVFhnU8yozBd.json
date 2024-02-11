@@ -486,6 +486,24 @@
     {
       "album": {
         "name": "Can't Help It",
+        "url": "https://open.spotify.com/album/2KFo2Yed1DosfUEJqzpdVQ"
+      },
+      "artists": [
+        {
+          "name": "Baba Stiltz",
+          "url": "https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338162,
+      "name": "Can't Help It",
+      "url": "https://open.spotify.com/track/1LwvkpRU07Ch1nSGVvNSc0"
+    },
+    {
+      "album": {
+        "name": "Can't Help It",
         "url": "https://open.spotify.com/album/4dOyCbf2Qpy6XCrVVSTLBp"
       },
       "artists": [
@@ -496,7 +514,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 338162,
       "name": "Can't Help It",
       "url": "https://open.spotify.com/track/7z2oL4N6nkOY39PXLASCpO"
@@ -1092,10 +1110,28 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 387401,
       "name": "Hessingen",
       "url": "https://open.spotify.com/track/2yCbHFZ2spf22BHacJKiED"
+    },
+    {
+      "album": {
+        "name": "Steal Chickens From Men And the Future From God",
+        "url": "https://open.spotify.com/album/1D3xbkC6EakLekNYbipEiJ"
+      },
+      "artists": [
+        {
+          "name": "Shakarchi & Stran\u00e9us",
+          "url": "https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387401,
+      "name": "Hessingen",
+      "url": "https://open.spotify.com/track/4lgw73z34KT0lXMkOkhiiz"
     },
     {
       "album": {

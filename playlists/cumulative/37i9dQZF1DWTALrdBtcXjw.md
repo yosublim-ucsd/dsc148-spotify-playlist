@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-295 songs - 1 day 2 hr 45 min
+296 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Ask Me Now](https://open.spotify.com/track/2BgD1WUT45SDvAqyNAzR3S) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Jazz Is Now](https://open.spotify.com/album/2ziOps71q2ClRrGC3QEpiG) | 5:31 | 2022-04-28 | 2022-11-25 |
 | [At That Moment](https://open.spotify.com/track/4XZhdl2OpQUDgNqQlhlg03) | [Joonas Tuuri Quartet](https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx) | [Dimensions](https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8) | 4:39 | 2022-03-17 |  |
 | [Autumn Serenade](https://open.spotify.com/track/1PssJJCY05yMFjetc1VIEF) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r) | 4:33 | 2023-09-22 | 2023-12-24 |
+| [Autumn Serenade](https://open.spotify.com/track/5D6txukvhKoFg4haYFtvUz) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/1BHLjtsqNrZg2YbkSEPcaA) | 4:33 | 2024-02-01 |  |
 | [Azalea](https://open.spotify.com/track/02Z7LG6DNTuVTJiGdvTwDu) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Reunion](https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz) | 5:03 | 2020-03-31 | 2022-04-28 |
 | [Baby Plays Around](https://open.spotify.com/track/4yOHkrkJHqE7sruMEgDJBb) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 10:07 | 2022-02-18 | 2022-11-12 |
 | [Back on the beat](https://open.spotify.com/track/52q5MqCCKzUjYE06orhDxX) | [Laurent De Wilde](https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj) | [Back on the beat](https://open.spotify.com/album/2IOOiVxPT2N3fOYQJlubz1) | 5:10 | 2023-03-15 | 2023-08-25 |
@@ -211,7 +212,7 @@
 | [Prim and Proper](https://open.spotify.com/track/0lKSaaoD9mahyjY8CyPf5l) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [Prim and Proper](https://open.spotify.com/album/0cjVktnBaEkIW0KiIOsHYW) | 5:28 | 2023-03-02 | 2023-09-01 |
 | [Pure Imagination](https://open.spotify.com/track/2HNYhs4PO9yCuAOS9srcHP) | [Kendra Collins Band](https://open.spotify.com/artist/2VEg5RG7lT8Ej8ZDf63MrO) | [Pure Imagination](https://open.spotify.com/album/5lVkJUkfgzHhpPKYiv3jhK) | 5:15 | 2022-11-12 | 2022-12-24 |
 | [Pure Imagination](https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [Pure Imagination](https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK) | 5:58 | 2022-02-18 | 2022-04-15 |
-| [Radio bo](https://open.spotify.com/track/29z5CZ4isVNvPLL5OaXBKJ) | [Bojan Zulfikarpašić](https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD) | [Koreni](https://open.spotify.com/album/49D48Ki31VdmpjPEN3Qn3B) | 5:44 | 2023-06-21 |  |
+| [Radio bo](https://open.spotify.com/track/29z5CZ4isVNvPLL5OaXBKJ) | [Bojan Zulfikarpašić](https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD) | [Koreni](https://open.spotify.com/album/49D48Ki31VdmpjPEN3Qn3B) | 5:44 | 2023-06-21 | 2024-02-11 |
 | [Rain Waltz](https://open.spotify.com/track/0sh8KoZ0GVwhdxpMNIsxcP) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1vxRTqxedJxRmg8J11ZCuF) | 7:01 | 2024-01-10 |  |
 | [Rain Waltz](https://open.spotify.com/track/3HMysWiZrkfQhSdX5OqQcq) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 7:01 | 2022-09-06 | 2023-12-23 |
 | [Rain Waltz](https://open.spotify.com/track/5IVCNqztB1lm7sTqXn3ww7) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1xf8Ny57YgeCJxNKm2oVDd) | 7:01 | 2020-03-31 | 2022-07-28 |

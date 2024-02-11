@@ -4,7 +4,7 @@
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Arin Ray
 
-860 songs - 2 day 0 hr 12 min
+862 songs - 2 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7) | 3:21 | 2023-07-14 |  |
 | [Back To Your Place](https://open.spotify.com/track/5BzADVUCRuxiPz2ah64RLk) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [The Rebirth Of Marvin](https://open.spotify.com/album/0AjhGOAPLNOJtBm1HiVYLo) | 3:22 | 2023-08-25 |  |
 | [Bad Girl](https://open.spotify.com/track/36vGWsPoTnPTRDthSBFsIh) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Sketchbook](https://open.spotify.com/album/3ZiIwgwnsdOhVtPDiRcWlK) | 3:37 | 2019-10-11 | 2020-02-28 |
+| [Bad M'fkr](https://open.spotify.com/track/37o1LWelGPbIdcf8YGMBP5) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Bad M'fkr](https://open.spotify.com/album/31Fsbdngq7zJf19UVMycdE) | 3:38 | 2024-02-10 |  |
 | [Bag \(with Lucky Daye\)](https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Bag \(with Lucky Daye\)](https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY) | 3:31 | 2022-02-04 | 2022-03-18 |
 | [Bahamas Promises](https://open.spotify.com/track/3JZjcKImHcmOI9ylL4zrSc) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:04 | 2023-10-06 |  |
 | [Be Easy](https://open.spotify.com/track/0T4BJnnf1Ru4EqGZl5kEN2) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Be Easy](https://open.spotify.com/album/5m8KQeuqk1u11hlXBST1CY) | 3:02 | 2022-08-19 | 2022-10-01 |
@@ -97,7 +98,7 @@
 | [bnb](https://open.spotify.com/track/3UGxNcFSS0t2MyQl8ClV9Q) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/7tl2a7xWOzkUKPZ3syJ58X) | 3:32 | 2022-10-21 | 2022-11-03 |
 | [bnb](https://open.spotify.com/track/6wprPmHMxfXtb2BwywwdXE) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:32 | 2022-10-21 | 2023-04-01 |
 | [Body Aint Me](https://open.spotify.com/track/6Pg3lOfFt49w6mNmmvzJB2) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 2](https://open.spotify.com/album/3V3wIOcmYhraECOfqnRQi4) | 2:42 | 2019-07-10\* | 2019-10-16 |
-| [Bop](https://open.spotify.com/track/0V0aCHGKkF4DYLUN9qVKKj) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:42 | 2024-02-09 |  |
+| [Bop](https://open.spotify.com/track/0V0aCHGKkF4DYLUN9qVKKj) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:42 | 2024-02-09 | 2024-02-11 |
 | [Borderline](https://open.spotify.com/track/1FhxEhPZpBBOJTDwSf6MA5) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [b7](https://open.spotify.com/album/09jppw0ufVFDiotrHDMK1w) | 5:12 | 2020-07-31 | 2020-08-01 |
 | [Bow Down](https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 2:03 | 2023-02-17 | 2023-09-09 |
 | [Boy Bye \(feat\. Lucky Daye\)](https://open.spotify.com/track/0U8tC6UzgYePgOJT6Chlw9) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 5:01 | 2022-09-09 | 2022-12-17 |
@@ -461,6 +462,7 @@
 | [Lovin' you](https://open.spotify.com/track/2rIrdCcmhbm7RLbBaVhIIQ) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [82 Moons](https://open.spotify.com/album/4jRfeVlkvAvqgvGCGfPQ5Y) | 4:24 | 2022-04-15 | 2022-10-15 |
 | [LOW TIDE](https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE](https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z) | 2:26 | 2023-10-27 |  |
 | [Lucid Dreams](https://open.spotify.com/track/7otJ5xhZkPN15YrpAhcCQC) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [b7](https://open.spotify.com/album/09jppw0ufVFDiotrHDMK1w) | 3:41 | 2020-08-01 | 2021-02-27 |
+| [Luckiest Man](https://open.spotify.com/track/5I6Duv6Y95FMpbujmguKIk) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3) | 3:21 | 2024-02-10 |  |
 | [Lucky](https://open.spotify.com/track/4HDsNTcpprSDjtO9nK31yb) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Lucky](https://open.spotify.com/album/2k5NXdSqKdDcAFFPzTouet) | 3:36 | 2023-06-30 |  |
 | [Lucky](https://open.spotify.com/track/1LhLHrblCxK9p3X59Vb2lM) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Lucky](https://open.spotify.com/album/4fqqRVGSkQPeDUhPiISAcF) | 3:19 | 2020-07-21 | 2021-01-13 |
 | [Luv Me Back](https://open.spotify.com/track/3IT44O4KU7gFFrnLYbLsUG) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Before I Let Her Go EP](https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg) | 3:06 | 2022-07-15 | 2023-03-25 |

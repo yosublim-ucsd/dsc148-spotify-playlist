@@ -4,7 +4,7 @@
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-149 songs - 13 hr 32 min
+150 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Faculties](https://open.spotify.com/track/6jGwH0RLZKUTmMay2iB5Mz) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/0ILAAcet8xZuw1h5LBgseA) | 5:41 | 2023-12-07 |  |
 | [Fanfar](https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB) | [Thommy Andersson](https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6) | [Wood Circles](https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP) | 5:23 | 2022-06-01 |  |
 | [Few Words](https://open.spotify.com/track/3MXtKi9TTIk2Ae4BLpiehg) | [BRØK](https://open.spotify.com/artist/5emddJsOKVCbiP7F6IAvdR), [Jacob Bredahl Djursaa](https://open.spotify.com/artist/2a7808Szfjwnfz7T9Alafn), [Thomas Fryland](https://open.spotify.com/artist/7q0OI8V8UXfXdELdumA6hu), [Niklas Gjersøe](https://open.spotify.com/artist/3qGoEwAz9Ux1UWusBsb21q), [Hans Kristian Knold](https://open.spotify.com/artist/7IVPTCpHk3dG2owrbvST5y) | [Few Words](https://open.spotify.com/album/768ILtCs2fcV8udYKtYvo8) | 1:41 | 2023-06-22 |  |
+| [Fifth Winter](https://open.spotify.com/track/4y9btMgXjLwya82zluPg2U) | [Arild Andersen](https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m), [Daniel Sommer](https://open.spotify.com/artist/3BWDiqu2vlyz18ZDMsZ5VO), [Rob Luft](https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL) | [Fifth Winter](https://open.spotify.com/album/1nE1ClsJHPJzUVwng0TOZw) | 4:58 | 2024-02-09 |  |
 | [Fisherman's Wharf](https://open.spotify.com/track/6i1Byt1hOVnZaZYDCvVoqq) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [Fisherman's Wharf](https://open.spotify.com/album/006qOp9pbbpXgnzhwLB5Bx) | 3:49 | 2022-06-01 |  |
 | [Flying Thing \- Remastered](https://open.spotify.com/track/5at19MkpceLzENXMFXX0tO) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Magnetic North Orchestra](https://open.spotify.com/artist/0Rw2W55x8mWQ7o3I1yAXZh) | [Magnetic Works 1993\-2001](https://open.spotify.com/album/192zBMK5LcmfClcUSaL23L) | 4:56 | 2022-06-01 | 2023-10-06 |
 | [For My Grandmothers](https://open.spotify.com/track/2VONqZkRmyYL8K5TMVfygD) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Ravensburg](https://open.spotify.com/album/2w62NpE5U58lff2IoUiUWR) | 2:49 | 2022-06-01 | 2023-09-16 |
@@ -127,7 +128,7 @@
 | [Space Available](https://open.spotify.com/track/0x2frRwbT6smX0edOnxp2h) | [Kornstad Trio](https://open.spotify.com/artist/3TeWAxfFgwFqpW7Nhv0Tel) | [Space Available](https://open.spotify.com/album/1yip2RtRVm9pnxbY80F8iU) | 3:34 | 2022-06-01 | 2022-07-28 |
 | [Space Available](https://open.spotify.com/track/2CxRumIs60L7x1KIGW0dV1) | [Kornstad Trio](https://open.spotify.com/artist/3TeWAxfFgwFqpW7Nhv0Tel) | [Jazzland Sampler 2005](https://open.spotify.com/album/4WEjrmJnXmkS6M135uN2j2) | 3:38 | 2022-08-12 | 2023-11-08 |
 | [Space Is the Place](https://open.spotify.com/track/2Vp1EnHodm8cYQkn54aqKD) | [Carsten Dahl, Arild Andersen, Jon Christensen](https://open.spotify.com/artist/7jQHF3wIZuWlLhQn5mhdYV) | [Space Is the Place](https://open.spotify.com/album/4lQAHafLECfbxdayEp8jzK) | 4:01 | 2022-06-01 | 2023-09-01 |
-| [Svevende](https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Bobo Stenson Quartet](https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE) | [Jan Garbarek: Works](https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX) | 4:59 | 2022-06-01 |  |
+| [Svevende](https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Bobo Stenson Quartet](https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE) | [Jan Garbarek: Works](https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX) | 4:59 | 2022-06-01 | 2024-02-11 |
 | [Sævelid](https://open.spotify.com/track/4Rp6uSiUUg1WBj5sLL1OSq) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh) | [Funeral Dance](https://open.spotify.com/album/7705DbH2prtKgDn3rUYTTE) | 5:20 | 2023-08-31 | 2024-01-23 |
 | [Taplow](https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66) | [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS) | [Return to Mind](https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr) | 4:44 | 2022-06-01 |  |
 | [Terrible Seeds](https://open.spotify.com/track/2FZRmOGIlh2nOqACQgeAW2) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J), [Oscar Andreas Haug](https://open.spotify.com/artist/26LBjI4jymy7Yry7qi5kB1) | [Terrible Seeds](https://open.spotify.com/album/5bAAHXmNqVMqw1ljb9p88x) | 4:03 | 2024-01-19 |  |

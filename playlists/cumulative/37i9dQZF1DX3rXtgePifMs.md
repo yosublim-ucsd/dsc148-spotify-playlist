@@ -4,7 +4,7 @@
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-116 songs - 6 hr 16 min
+117 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Complicated \(feat\. Young Franco\)](https://open.spotify.com/track/2TdAhpmGqB1DhzI0Auo9lq) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl) | [Panna Cotta](https://open.spotify.com/album/76bR8wlB1DS5iaKqFy3fWH) | 2:57 | 2023-10-06 |  |
 | [Complicated \(feat\. Young Franco\)](https://open.spotify.com/track/4zeKrvNy29uPIrnOHfdRHK) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl) | [Panna Cotta](https://open.spotify.com/album/28Ymo5sEs0gwOoZYdaLkNY) | 2:57 | 2023-09-20 | 2023-11-04 |
 | [cracked screen](https://open.spotify.com/track/5tw5H51GeMaSBcD0CHKsBq) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [no sleep in LA](https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe) | 3:32 | 2023-09-20 |  |
-| [denver luna \(acappella\)](https://open.spotify.com/track/4hGgIWJLCzQpEyWvdbsf8q) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [denver luna \(acappella\)](https://open.spotify.com/album/5jayItxgtL0rwZzJKwcr2G) | 2:27 | 2023-11-20 |  |
+| [denver luna \(acappella\)](https://open.spotify.com/track/3yQ0l6VokE3ZWsj6y8I6kp) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [denver luna](https://open.spotify.com/album/0nQgkT12o7TfgxLF5sJ0YG) | 2:27 | 2023-11-20 |  |
+| [denver luna \(acappella\)](https://open.spotify.com/track/4hGgIWJLCzQpEyWvdbsf8q) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [denver luna \(acappella\)](https://open.spotify.com/album/5jayItxgtL0rwZzJKwcr2G) | 2:27 | 2023-11-20 | 2024-02-11 |
 | [DON'T LET THE DEVIL \(feat\. thankugoodsir\)](https://open.spotify.com/track/1f7eBRPgFfKPhqMU7z31yF) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [thankugoodsir](https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 2:45 | 2023-09-20 |  |
 | [DOOLALLY](https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [DOOLALLY](https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5) | 3:22 | 2023-09-20 |  |
 | [Dreaming Of You](https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Dreaming Of You](https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri) | 3:24 | 2023-09-20 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 478443,
+  "2024-02-11": 478488,
   "date_first_scraped": "2021-12-21",
   "description": "A blend of new songs and artists in the soul space. Cover: Elmiene",
   "name": "Next Wave Soul",
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 218680,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 177138,
       "name": "Beach",
       "url": "https://open.spotify.com/track/2AsxkwENblcn7EzycEZbkQ"
@@ -2611,7 +2611,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 234713,
       "name": "Got Me In My Feelings",
       "url": "https://open.spotify.com/track/3J62l6kQIcKCVgZ7Srntlq"
@@ -3051,7 +3051,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 213619,
       "name": "How Long",
       "url": "https://open.spotify.com/track/3kbDEejuDSeOS2biB43MNq"
@@ -3290,6 +3290,24 @@
     },
     {
       "album": {
+        "name": "ILY",
+        "url": "https://open.spotify.com/album/17huoEXCzGM5Reu8bfBsHP"
+      },
+      "artists": [
+        {
+          "name": "CHERISE",
+          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248429,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/64ufqPq3lzvKZrY6eDTKEv"
+    },
+    {
+      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/5cCq18AvACmXNR2QmuPt3i"
       },
@@ -3367,6 +3385,28 @@
       "duration_ms": 197647,
       "name": "Introvert Hotline",
       "url": "https://open.spotify.com/track/5SQxSIapsaziYnZRLwfPSU"
+    },
+    {
+      "album": {
+        "name": "Jay Bird",
+        "url": "https://open.spotify.com/album/36vhgSU5YmXYFbNKOOjENQ"
+      },
+      "artists": [
+        {
+          "name": "Peyotoff",
+          "url": "https://open.spotify.com/artist/7pDc59W5HYxYElrjJwsjnN"
+        },
+        {
+          "name": "emawk",
+          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169343,
+      "name": "Jay Bird",
+      "url": "https://open.spotify.com/track/7zmr0zy0oq5KWEqwbrKjxK"
     },
     {
       "album": {
@@ -5647,7 +5687,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 244933,
       "name": "Send My Love",
       "url": "https://open.spotify.com/track/543xswdRTjGmimDJk9AlZN"
@@ -5807,7 +5847,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 171839,
       "name": "Simple Love Songs - Extended Version",
       "url": "https://open.spotify.com/track/202Ebn3Kj18Ukkr9LQXwol"
@@ -5973,7 +6013,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 197385,
       "name": "Sololove",
       "url": "https://open.spotify.com/track/4JlAMzLOeIjar8Nmk8c0xk"
@@ -6465,7 +6505,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 171608,
       "name": "Sweet Distraction",
       "url": "https://open.spotify.com/track/6YaQQnajGqFsly2ckrZmw7"
@@ -6855,7 +6895,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 211433,
       "name": "Tell Me Again",
       "url": "https://open.spotify.com/track/2xIEpgK13ZMbpbPKzhPc2m"
@@ -7053,7 +7093,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 259012,
       "name": "THEO SAYS",
       "url": "https://open.spotify.com/track/6sra6tnpksG17oKLPwj8S6"
@@ -7195,7 +7235,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 289946,
       "name": "Told you so",
       "url": "https://open.spotify.com/track/0ghflGGfVvifD3szXw4LwO"
@@ -7915,7 +7955,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 230906,
       "name": "You Never Visit Me - Single Version",
       "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"

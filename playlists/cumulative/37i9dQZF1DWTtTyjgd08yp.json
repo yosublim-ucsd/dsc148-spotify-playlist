@@ -1259,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "Storm Queen",
+        "url": "https://open.spotify.com/album/0rztMoYDEwkHCBnyxKDu1n"
+      },
+      "artists": [
+        {
+          "name": "Grace Cummings",
+          "url": "https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285935,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0oHNSRx0qB7qyeuZ8Ld5xq"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/76Tv0cocmSJNZXiS2tAOi3"
       },
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 285935,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5ZiigafDOtWnrNixa0ukEc"

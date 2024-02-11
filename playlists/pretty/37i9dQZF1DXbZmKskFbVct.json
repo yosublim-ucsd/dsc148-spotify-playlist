@@ -1,12 +1,12 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 33668,
+  "num_followers": 33682,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWM3MWI2MGE1Y2ZlZTdkYjJmMWUzYWJjZjNjNjM5YTQ2ZWY5Yjhh",
+  "snapshot_id": "MCwyZjAzODVhYzExYThmODVmZTdmMDFjOTQ5NDRmN2ZkZjVmMDdlZGY4",
   "tracks": [
     {
       "added_at": "2023-09-08 12:24:34",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
+        "name": "Santorini Sunbath ASMR",
+        "url": "https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt"
+      },
+      "artists": [
+        {
+          "name": "Summer ASMR",
+          "url": "https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6"
+        }
+      ],
+      "duration_ms": 304949,
+      "name": "Into Dreams",
+      "url": "https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
         "name": "Sending Tingle Sleep Vibes",
         "url": "https://open.spotify.com/album/0hpRT3bt8D7RYRY3MUrBsw"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 363375,
       "name": "Sending Tingle Sleep Vibes Pt.1",
       "url": "https://open.spotify.com/track/4gnmeGl4hzsjsMulvZto9O"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
-        "name": "Santorini Sunbath ASMR",
-        "url": "https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt"
-      },
-      "artists": [
-        {
-          "name": "Summer ASMR",
-          "url": "https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6"
-        }
-      ],
-      "duration_ms": 271754,
-      "name": "Santorini Sunbath",
-      "url": "https://open.spotify.com/track/4tl4BYdRlBuY6LvDJcIECm"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -395,6 +395,70 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
+        "name": "ASMR For Sleep | Zen Rainforest Sleep Treatment - Day 1 of 3",
+        "url": "https://open.spotify.com/album/7FFtmDlOVzVkqRUuFip36l"
+      },
+      "artists": [
+        {
+          "name": "The Healing Room ASMR",
+          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
+        }
+      ],
+      "duration_ms": 361000,
+      "name": "Going Over Your Notes / Writing Sounds",
+      "url": "https://open.spotify.com/track/3YxyDSG1HgIjVQOIt1sENb"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "Sleep-Inducing Haircut",
+        "url": "https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO"
+      },
+      "artists": [
+        {
+          "name": "HeatheredEffect ASMR",
+          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
+        }
+      ],
+      "duration_ms": 253899,
+      "name": "Sleep-Inducing Haircut Pt.3",
+      "url": "https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "Santorini Sunbath ASMR",
+        "url": "https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt"
+      },
+      "artists": [
+        {
+          "name": "Summer ASMR",
+          "url": "https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6"
+        }
+      ],
+      "duration_ms": 271754,
+      "name": "Santorini Sunbath",
+      "url": "https://open.spotify.com/track/4tl4BYdRlBuY6LvDJcIECm"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "Measuring and Examining Your Face",
+        "url": "https://open.spotify.com/album/3vV3eFCUvQ4grVD3o4KMg4"
+      },
+      "artists": [
+        {
+          "name": "Catplant ASMR",
+          "url": "https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C"
+        }
+      ],
+      "duration_ms": 376603,
+      "name": "Measuring and Examining Your Face Pt.1",
+      "url": "https://open.spotify.com/track/5Cru2U6APr3JQGW9cArjBf"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
         "name": "DEEP SLEEP in 45 Minutes",
         "url": "https://open.spotify.com/album/3lTWKjbjrHsEQ27NqB7h3u"
       },
@@ -427,66 +491,18 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Measuring and Examining Your Face",
-        "url": "https://open.spotify.com/album/3vV3eFCUvQ4grVD3o4KMg4"
+        "name": "ASMR Guided Visualisation for Sleep",
+        "url": "https://open.spotify.com/album/2N9fYuYYRuK7M8tMVG73We"
       },
       "artists": [
         {
-          "name": "Catplant ASMR",
-          "url": "https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C"
+          "name": "ASMR Blossom",
+          "url": "https://open.spotify.com/artist/6HpWebq041QRizskcykHPH"
         }
       ],
-      "duration_ms": 376603,
-      "name": "Measuring and Examining Your Face Pt.1",
-      "url": "https://open.spotify.com/track/5Cru2U6APr3JQGW9cArjBf"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
-        "name": "Santorini Sunbath ASMR",
-        "url": "https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt"
-      },
-      "artists": [
-        {
-          "name": "Summer ASMR",
-          "url": "https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6"
-        }
-      ],
-      "duration_ms": 304949,
-      "name": "Into Dreams",
-      "url": "https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
-        "name": "Sleep-Inducing Haircut",
-        "url": "https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO"
-      },
-      "artists": [
-        {
-          "name": "HeatheredEffect ASMR",
-          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
-        }
-      ],
-      "duration_ms": 253899,
-      "name": "Sleep-Inducing Haircut Pt.3",
-      "url": "https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
-        "name": "ASMR For Sleep | Zen Rainforest Sleep Treatment - Day 1 of 3",
-        "url": "https://open.spotify.com/album/7FFtmDlOVzVkqRUuFip36l"
-      },
-      "artists": [
-        {
-          "name": "The Healing Room ASMR",
-          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
-        }
-      ],
-      "duration_ms": 361000,
-      "name": "Going Over Your Notes / Writing Sounds",
-      "url": "https://open.spotify.com/track/3YxyDSG1HgIjVQOIt1sENb"
+      "duration_ms": 135500,
+      "name": "Guided Visualization for Sleep, Pt. 1",
+      "url": "https://open.spotify.com/track/5KLEQb0UkkzqAaLFrxb8ft"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -507,22 +523,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "ASMR Guided Visualisation for Sleep",
-        "url": "https://open.spotify.com/album/2N9fYuYYRuK7M8tMVG73We"
-      },
-      "artists": [
-        {
-          "name": "ASMR Blossom",
-          "url": "https://open.spotify.com/artist/6HpWebq041QRizskcykHPH"
-        }
-      ],
-      "duration_ms": 135500,
-      "name": "Guided Visualization for Sleep, Pt. 1",
-      "url": "https://open.spotify.com/track/5KLEQb0UkkzqAaLFrxb8ft"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "ASMR - The Invisible Man - Unintelligible/Inaudible Whispered Reading (WITHOUT ambient sounds)",
         "url": "https://open.spotify.com/album/22STdU6oFRzb7wDQAJqKZ3"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Relaxing You HEAD to TOE",
-        "url": "https://open.spotify.com/album/7rR9BrOUJew20POht76Dzg"
-      },
-      "artists": [
-        {
-          "name": "Alana ASMR",
-          "url": "https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM"
-        }
-      ],
-      "duration_ms": 245795,
-      "name": "Relaxing You HEAD to TOE Pt.5",
-      "url": "https://open.spotify.com/track/6Ult8KyCkQMVqhGWqxjZBy"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "ASMR Whispers (Binaural)",
         "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 170035,
       "name": "Unintelligble Sleep Whisper Breathing Scratching",
       "url": "https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "Relaxing You HEAD to TOE",
+        "url": "https://open.spotify.com/album/7rR9BrOUJew20POht76Dzg"
+      },
+      "artists": [
+        {
+          "name": "Alana ASMR",
+          "url": "https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM"
+        }
+      ],
+      "duration_ms": 245795,
+      "name": "Relaxing You HEAD to TOE Pt.5",
+      "url": "https://open.spotify.com/track/6Ult8KyCkQMVqhGWqxjZBy"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "ASMR Whispers",
-        "url": "https://open.spotify.com/album/4M7mKm6D8XbCYWDEf3INVN"
-      },
-      "artists": [
-        {
-          "name": "Mikki ASMR",
-          "url": "https://open.spotify.com/artist/0CinSQAHxIyGB3lNkPEQVu"
-        }
-      ],
-      "duration_ms": 306320,
-      "name": "Gibberish",
-      "url": "https://open.spotify.com/track/71E2C3WKGRu4Q4BOtYipx1"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "Cozy Low-Light",
         "url": "https://open.spotify.com/album/4ycfXJlHSIT4JeosgjGcMb"
       },
@@ -699,18 +683,34 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "ASMR Egyptian Spa | Bathing You, Skin Treatment, Makeup, Pampering - ASMR Roleplay Soft Spoken",
-        "url": "https://open.spotify.com/album/0IHfyUsgLNwuSHP7gTxd2F"
+        "name": "Uplifting Mantras",
+        "url": "https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g"
       },
       "artists": [
         {
-          "name": "The Healing Room ASMR",
-          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
+          "name": "Asmr Brain Tingle",
+          "url": "https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m"
         }
       ],
-      "duration_ms": 404000,
-      "name": "Milk Bath",
-      "url": "https://open.spotify.com/track/2WwA9o1ZQWu9W2JGAg42OG"
+      "duration_ms": 293571,
+      "name": "Uplifting Mantra Pt One",
+      "url": "https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "ASMR Whispers",
+        "url": "https://open.spotify.com/album/4M7mKm6D8XbCYWDEf3INVN"
+      },
+      "artists": [
+        {
+          "name": "Mikki ASMR",
+          "url": "https://open.spotify.com/artist/0CinSQAHxIyGB3lNkPEQVu"
+        }
+      ],
+      "duration_ms": 306320,
+      "name": "Gibberish",
+      "url": "https://open.spotify.com/track/71E2C3WKGRu4Q4BOtYipx1"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Uplifting Mantras",
-        "url": "https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g"
+        "name": "ASMR Egyptian Spa | Bathing You, Skin Treatment, Makeup, Pampering - ASMR Roleplay Soft Spoken",
+        "url": "https://open.spotify.com/album/0IHfyUsgLNwuSHP7gTxd2F"
       },
       "artists": [
         {
-          "name": "Asmr Brain Tingle",
-          "url": "https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m"
+          "name": "The Healing Room ASMR",
+          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
         }
       ],
-      "duration_ms": 293571,
-      "name": "Uplifting Mantra Pt One",
-      "url": "https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l"
+      "duration_ms": 404000,
+      "name": "Milk Bath",
+      "url": "https://open.spotify.com/track/2WwA9o1ZQWu9W2JGAg42OG"
     },
     {
       "added_at": "2023-09-08 12:24:34",

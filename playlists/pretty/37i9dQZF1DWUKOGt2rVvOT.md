@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！已經有兩三年了？高人氣金曲讓你一路聽下去！Cover: 孫盛希 \(Shi Shi\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,693 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,751 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [詠愛](https://open.spotify.com/track/3sf2rfLYBuIz0gHOa7Z33h) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [詠愛](https://open.spotify.com/album/58S1PDI3Na9OMklTI19Jjk) | 3:34 |
 | 50 | [太陽](https://open.spotify.com/track/0X3bUYUO9iacfMwgWxtD7T) | [Pika Chiu](https://open.spotify.com/artist/5SIsztzgW9ErZcWRnp2hdS) | [太陽](https://open.spotify.com/album/2A6tvv7mU2dFgoz78nvegg) | 4:22 |
 
-Snapshot ID: `MCw0YjQxYTQ5MWUyYjNlYmI1ZjE2YWRhMDNmYWEyZmUyOTkxOWM5OGJi`
+Snapshot ID: `MCwyMGQ4NTg0Mjg3NTU2YzY5MDlhODUyMGU2M2RiNDNkY2E4NDUwYjRj`

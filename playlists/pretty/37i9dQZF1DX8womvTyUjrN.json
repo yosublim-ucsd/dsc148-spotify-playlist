@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Oliver Kid & SHEISA",
-  "num_followers": 282885,
+  "num_followers": 282891,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2FhNzMxODgxZTBkOTBiMDcyYzEzMDc0NDViMWVkY2I4ZjA5NDJk",
+  "snapshot_id": "MCw4NWRhNTRhY2YwMjA2N2EwNTUzYTZkNWE5ZTBlZTEyYTQxYTdiM2Fj",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "tiroteAo",
-        "url": "https://open.spotify.com/album/79shU5fy5HE8MJp05fYeOh"
-      },
-      "artists": [
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
-        }
-      ],
-      "duration_ms": 153403,
-      "name": "tiroteAo",
-      "url": "https://open.spotify.com/track/0HG1ISOw3yzzKxWbgOxBb0"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "PAENAMORAR",
         "url": "https://open.spotify.com/album/4690a9jilzn3yfvvtKdqMj"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 178701,
       "name": "PAENAMORAR",
       "url": "https://open.spotify.com/track/6N9hiZx8ZvZznXjaWoiPJ1"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "tiroteAo",
+        "url": "https://open.spotify.com/album/79shU5fy5HE8MJp05fYeOh"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "duration_ms": 153403,
+      "name": "tiroteAo",
+      "url": "https://open.spotify.com/track/0HG1ISOw3yzzKxWbgOxBb0"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Argumentos",
-        "url": "https://open.spotify.com/album/7E6Cd1yNTMWHTvGTieyb7v"
-      },
-      "artists": [
-        {
-          "name": "Darho",
-          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
-        }
-      ],
-      "duration_ms": 211844,
-      "name": "Argumentos",
-      "url": "https://open.spotify.com/track/3oyze75R0o1QvMJMdVK2K9"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "quise quererte",
         "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 219786,
       "name": "quise quererte",
       "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Argumentos",
+        "url": "https://open.spotify.com/album/7E6Cd1yNTMWHTvGTieyb7v"
+      },
+      "artists": [
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+        }
+      ],
+      "duration_ms": 211844,
+      "name": "Argumentos",
+      "url": "https://open.spotify.com/track/3oyze75R0o1QvMJMdVK2K9"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -859,6 +859,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Chistes Malos",
+        "url": "https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba"
+      },
+      "artists": [
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 171357,
+      "name": "Chistes Malos",
+      "url": "https://open.spotify.com/track/18u0LkneTkVliL6KU08bP9"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Inevitable",
         "url": "https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4"
       },
@@ -923,22 +943,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Como Si Nada",
-        "url": "https://open.spotify.com/album/4a8vhvGoU8VFZvE3Hrc7RI"
+        "name": "No Est\u00e1s",
+        "url": "https://open.spotify.com/album/7gdZQEOFPSZUKj03hqPZnQ"
       },
       "artists": [
         {
           "name": "Donovan Morales",
           "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        },
-        {
-          "name": "ILAMIKE",
-          "url": "https://open.spotify.com/artist/4W0rQhlraEK244nKmDosJi"
         }
       ],
-      "duration_ms": 186209,
-      "name": "Como Si Nada",
-      "url": "https://open.spotify.com/track/0WOZZpdj3HKxYKtZlLjdJg"
+      "duration_ms": 181588,
+      "name": "No Est\u00e1s",
+      "url": "https://open.spotify.com/track/7j9eKuQVUAm4I878E3n2eA"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -959,22 +975,38 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Chistes Malos",
-        "url": "https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba"
+        "name": "Enemigos",
+        "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
       },
       "artists": [
         {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        },
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
         }
       ],
-      "duration_ms": 171357,
-      "name": "Chistes Malos",
-      "url": "https://open.spotify.com/track/18u0LkneTkVliL6KU08bP9"
+      "duration_ms": 157375,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Que Alguien Me Saque De Este Mood",
+        "url": "https://open.spotify.com/album/7A3ydblddkJBrKAwyXBGqd"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        },
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/1rGCJdI1tiJS0RRo5OToeM"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Que Alguien Me Saque De Este Mood",
+      "url": "https://open.spotify.com/track/51CEK6LaFSbCyGjliYPNBd"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -999,22 +1031,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Que Alguien Me Saque De Este Mood",
-        "url": "https://open.spotify.com/album/7A3ydblddkJBrKAwyXBGqd"
+        "name": "Como Si Nada",
+        "url": "https://open.spotify.com/album/4a8vhvGoU8VFZvE3Hrc7RI"
       },
       "artists": [
         {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
         },
         {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/1rGCJdI1tiJS0RRo5OToeM"
+          "name": "ILAMIKE",
+          "url": "https://open.spotify.com/artist/4W0rQhlraEK244nKmDosJi"
         }
       ],
-      "duration_ms": 167920,
-      "name": "Que Alguien Me Saque De Este Mood",
-      "url": "https://open.spotify.com/track/51CEK6LaFSbCyGjliYPNBd"
+      "duration_ms": 186209,
+      "name": "Como Si Nada",
+      "url": "https://open.spotify.com/track/0WOZZpdj3HKxYKtZlLjdJg"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1051,22 +1083,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Enemigos",
-        "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 157375,
-      "name": "Enemigos",
-      "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Milanoche",
         "url": "https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp"
       },
@@ -1083,18 +1099,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Combustible",
-        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
+        "name": "Como Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0AzuXwKn5iVxzXbvoCIgRX"
       },
       "artists": [
         {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        },
+        {
+          "name": "Christian Pag\u00e1n",
+          "url": "https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z"
         }
       ],
-      "duration_ms": 166805,
-      "name": "Combustible",
-      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
+      "duration_ms": 176220,
+      "name": "Como Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/2gK3ynM9On1zehgLJaUKhf"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1111,6 +1131,22 @@
       "duration_ms": 191008,
       "name": "Tu Canci\u00f3n",
       "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Combustible",
+        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 166805,
+      "name": "Combustible",
+      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1287,38 +1323,6 @@
       "duration_ms": 158974,
       "name": "TBT",
       "url": "https://open.spotify.com/track/213uZJMRoRXXthd2xBYW4D"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Cuadriculado",
-        "url": "https://open.spotify.com/album/5lOF69vy9TfGYX6E8C8LgX"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        }
-      ],
-      "duration_ms": 169307,
-      "name": "Cuadriculado",
-      "url": "https://open.spotify.com/track/2DCUiwZcxvT5VrpUyCITAh"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "MAGIA NEGRA",
-        "url": "https://open.spotify.com/album/4XnM8cvuYpAjfR3bXwoXEc"
-      },
-      "artists": [
-        {
-          "name": "Le Coco",
-          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
-        }
-      ],
-      "duration_ms": 214349,
-      "name": "MAGIA NEGRA",
-      "url": "https://open.spotify.com/track/1E71uY1krMSN6fyX7zOt2L"
     }
   ],
   "unique_name": "el nuevo pop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=eXMnqbKqRbGHU2vdnJw4jQ">DBN Gogo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,362 likes - 55 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,443 likes - 55 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 54 | [Awuyazi](https://open.spotify.com/track/4NIw1lTaZhx4JJckSBQtRn) | [Marthe](https://open.spotify.com/artist/11LLLhmioRwkPeNLGUok3N), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Awuyazi](https://open.spotify.com/album/4dbyrXuL6rXrFNrsnz3Fco) | 5:22 |
 | 55 | [Champagne Kisses](https://open.spotify.com/track/6gQ6dZf0iA8pAcJGagcgPh) | [Elna Myburg](https://open.spotify.com/artist/7MTbe0rf19hObBAIFCV2YR) | [Champagne Kisses](https://open.spotify.com/album/4o2g3Jm21NCkUZRgsxCJoO) | 2:31 |
 
-Snapshot ID: `MCxkZDRlYzBiY2Q0ZDhjNTc1MWZkZGRlNzdmNTRjNWQxYjNjN2Y1ODFm`
+Snapshot ID: `MCxkZWNkY2EwOWMyNGFhYjI3ZjkwZjI5ZDQxYzQ3YzcxNmRhZGI1M2Q5`

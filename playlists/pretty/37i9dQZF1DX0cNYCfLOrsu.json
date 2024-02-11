@@ -1,12 +1,12 @@
 {
   "description": "The best in Dancehall for the gyaldem. Cover: Tina (Hoodcelebrityy)",
-  "num_followers": 310682,
+  "num_followers": 310757,
   "original_name": "Dancehall Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTBjMGExYTc0MzA3YmI3OWYyNjI4ODVjYmZlMTkzNjI5N2UwN2Jh",
+  "snapshot_id": "MCxmZDM4ZjYyNjFjNGQwNGUyZTMwNGUxYzg5ZmJiODgyMGM5ZmU3YTRm",
   "tracks": [
     {
       "added_at": "2023-05-15 08:38:13",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
+        "name": "The Trinity",
+        "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "We Be Burnin'",
+      "url": "https://open.spotify.com/track/4kOTDj4SiZPkW1p96WMDNv"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
         "name": "Whine & Kotch",
         "url": "https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 217200,
       "name": "Whine & Kotch",
       "url": "https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
-        "name": "The Trinity",
-        "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "We Be Burnin'",
-      "url": "https://open.spotify.com/track/4kOTDj4SiZPkW1p96WMDNv"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -555,22 +555,18 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "FIXTAPE",
-        "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
+        "name": "Walking Trophy",
+        "url": "https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf"
       },
       "artists": [
         {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+          "name": "Tina (Hoodcelebrityy)",
+          "url": "https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9"
         }
       ],
-      "duration_ms": 253139,
-      "name": "SUH ME LUV IT (feat. Jada Kingdom)",
-      "url": "https://open.spotify.com/track/4KLpNmKeu6C2jVaTQeFCZO"
+      "duration_ms": 215112,
+      "name": "Walking Trophy",
+      "url": "https://open.spotify.com/track/4hGHcdD5IwjAkftalZm5an"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -599,18 +595,22 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Walking Trophy",
-        "url": "https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf"
+        "name": "FIXTAPE",
+        "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
       },
       "artists": [
         {
-          "name": "Tina (Hoodcelebrityy)",
-          "url": "https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9"
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
         }
       ],
-      "duration_ms": 215112,
-      "name": "Walking Trophy",
-      "url": "https://open.spotify.com/track/4hGHcdD5IwjAkftalZm5an"
+      "duration_ms": 253139,
+      "name": "SUH ME LUV IT (feat. Jada Kingdom)",
+      "url": "https://open.spotify.com/track/4KLpNmKeu6C2jVaTQeFCZO"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Watch Dem",
-        "url": "https://open.spotify.com/album/4RDFDKrZfd5LLdINaMEevT"
-      },
-      "artists": [
-        {
-          "name": "DING DONG",
-          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Watch Dem",
-      "url": "https://open.spotify.com/track/1zwuv4ff9QdtX4RrN6Q4bU"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
         "name": "Play Tune (So so So)",
         "url": "https://open.spotify.com/album/4RpaPKaKYPz6FBv1a01xKn"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 167272,
       "name": "Play Tune (So so So) [Radio Edit]",
       "url": "https://open.spotify.com/track/1MB6CjaR3z8YA3yIo4HdFv"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
+        "name": "Watch Dem",
+        "url": "https://open.spotify.com/album/4RDFDKrZfd5LLdINaMEevT"
+      },
+      "artists": [
+        {
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Watch Dem",
+      "url": "https://open.spotify.com/track/1zwuv4ff9QdtX4RrN6Q4bU"
     },
     {
       "added_at": "2023-05-15 08:38:13",

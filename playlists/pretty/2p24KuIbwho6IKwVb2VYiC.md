@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Jax Jones &amp; Zoe Wees
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,231 likes - 90 songs - 4 hr 41 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,233 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

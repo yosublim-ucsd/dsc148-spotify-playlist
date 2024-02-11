@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Discover more Black artists and their contributions <a href="spotify:genre:0JQ5DAqbMKFF9bY76LXmfI">here</a>\. Cover: <a href="spotify:artist:3CJKkU0XuElRT1z8rEtIYg">Luciano</a> 🇲🇿 & <a href="spotify:artist:5yOvAmpIR7hVxiS6Ls5DPO">Omah Lay</a> 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,610 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,637 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 |
 | 2 | [Twerk It](https://open.spotify.com/track/6rLKyWvXsfslRtXZstg18p) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [I AM CHIPPY](https://open.spotify.com/album/3V4n0IbSDvg9v1RLzbwabT) | 2:46 |
 | 3 | [Hit & Run \(feat\. Masicka & Di Genius\)](https://open.spotify.com/track/7hgY5a1FNiChuxoSZDyaMs) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Hit & Run \(feat\. Masicka & Di Genius\)](https://open.spotify.com/album/3vbNkltSdpHgFNwC9QB2dl) | 2:49 |
-| 4 | [Simple Things](https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Blended](https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw) | 2:52 |
+| 4 | [Simple Things](https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Blended](https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw) | 2:48 |
 | 5 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 |
 | 6 | [Everything](https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Everything](https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X) | 2:46 |
 | 7 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 99 | [BODY TOUCHING BODY \(feat\. Victoria Monét\)](https://open.spotify.com/track/2NKUIkh9fZLR7C7PXiJIsP) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [BORN FOR GREATNESS](https://open.spotify.com/album/37A8OxnuHRRRd8QJcwzEfg) | 2:37 |
 | 100 | [Hate \(feat\. Lojay & Highlyy\) \- Remix](https://open.spotify.com/track/3ZKSDLVZ8ciaMkNap7c7CS) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B), [WaveIQ](https://open.spotify.com/artist/5IhbkGKKSgqomquNJuT0oA) | [Risk: Reloaded](https://open.spotify.com/album/6f0V5FE0YzSkofS8DQztN7) | 3:32 |
 
-Snapshot ID: `MCxiYTY4MjUzY2QzMzVkNGE1NTVmNDE3NWFjZDYyY2M1NmM3ZTQwODNk`
+Snapshot ID: `MCwyOGFhODRkZjNjZmIwMmQ1YTNjYjExOWU0MjE4YWNjMGFiZGVkMjk0`

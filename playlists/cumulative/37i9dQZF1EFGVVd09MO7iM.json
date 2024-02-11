@@ -3392,10 +3392,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 209106,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/1XascuwGPIGqoof2ThElCC"
+    },
+    {
+      "album": {
+        "name": "B'Day",
+        "url": "https://open.spotify.com/album/1L6sJLS18bJTadBupSYFAp"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209106,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/4GKLdlzhzFwdYLeFBwJZ3S"
     },
     {
       "album": {
@@ -4758,6 +4776,24 @@
     {
       "album": {
         "name": "B'Day",
+        "url": "https://open.spotify.com/album/1L6sJLS18bJTadBupSYFAp"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235386,
+      "name": "Kitty Kat",
+      "url": "https://open.spotify.com/track/28GCTzKIpLkhEktYvIgiYE"
+    },
+    {
+      "album": {
+        "name": "B'Day",
         "url": "https://open.spotify.com/album/3MJHoQUI828kmB6IpjejbW"
       },
       "artists": [
@@ -4768,7 +4804,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 235386,
       "name": "Kitty Kat",
       "url": "https://open.spotify.com/track/5XagNVHf4diy4zeM5p0VZc"

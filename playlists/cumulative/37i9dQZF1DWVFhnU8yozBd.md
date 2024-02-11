@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-156 songs - 14 hr 35 min
+158 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Buttercup](https://open.spotify.com/track/6RfiWrAnIPxuWdMkZ1nALV) | [Peach](https://open.spotify.com/artist/5e6DBZg0HJywmjj9BX9iIN) | [Buttercup](https://open.spotify.com/album/7nsWGTBZzNXdqumFbKAorc) | 5:55 | 2023-01-09 |  |
 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 | 2023-01-09 | 2023-08-12 |
 | [Can't Find It \(The House Sound\)](https://open.spotify.com/track/4CrJ5evUyISxa77VNgtBVt) | [Matt Karmil](https://open.spotify.com/artist/7BMPLwFPZGB8CUKjHnsyJ4) | [Will](https://open.spotify.com/album/20EUCLWdf0K5NtmYiF70EV) | 8:55 | 2023-01-09 | 2023-08-12 |
-| [Can't Help It](https://open.spotify.com/track/7z2oL4N6nkOY39PXLASCpO) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Can't Help It](https://open.spotify.com/album/4dOyCbf2Qpy6XCrVVSTLBp) | 5:38 | 2023-01-09 |  |
+| [Can't Help It](https://open.spotify.com/track/1LwvkpRU07Ch1nSGVvNSc0) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Can't Help It](https://open.spotify.com/album/2KFo2Yed1DosfUEJqzpdVQ) | 5:38 | 2023-08-11 |  |
+| [Can't Help It](https://open.spotify.com/track/7z2oL4N6nkOY39PXLASCpO) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Can't Help It](https://open.spotify.com/album/4dOyCbf2Qpy6XCrVVSTLBp) | 5:38 | 2023-01-09 | 2024-02-11 |
 | [Can't Stop Thinking About](https://open.spotify.com/track/1xLQkOUvCKqAlFt974GTfn) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Can't Stop Thinking About](https://open.spotify.com/album/3b3b2mY42N62Gr26cEncx6) | 3:28 | 2023-01-09 |  |
 | [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 | 2023-01-09 |  |
 | [Church of SoMa \- Original Mix](https://open.spotify.com/track/1ScdWAxbu8RNcqNSkKgMJg) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Church of SoMa EP](https://open.spotify.com/album/52TpWLnxPVgSSEuxAoG8Kl) | 6:46 | 2023-01-09 | 2023-08-12 |
@@ -64,7 +65,8 @@
 | [Heaven Is Where You Are \(Dave DK Remix\)](https://open.spotify.com/track/6pFcrZ44tF6NWT4YGG67br) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [Dave DK](https://open.spotify.com/artist/0tkgaQKFblaI5WZaV8WPA1) | [Heaven Is Where You Are \(Dave DK Remix\)](https://open.spotify.com/album/7vamx5JEfaM67VsNIAd1EE) | 6:15 | 2023-08-11 | 2023-11-27 |
 | [Heaven Is Where You Are \(Dave DK Remix\)](https://open.spotify.com/track/0QEPupo0hvgEOOqb8e7R2H) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [Dave DK](https://open.spotify.com/artist/0tkgaQKFblaI5WZaV8WPA1) | [Garden Gaia Remixes](https://open.spotify.com/album/7BfEieD8wRanTgqgRy3rGg) | 6:17 | 2023-08-11 |  |
 | [Heaven Is Where You Are \- Dave DK Remix](https://open.spotify.com/track/3FcpUNFDBMv27FYwkznStL) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [Dave DK](https://open.spotify.com/artist/0tkgaQKFblaI5WZaV8WPA1) | [Heaven Is Where You Are \(Dave DK Remix\)](https://open.spotify.com/album/4liRJRCNN9ZCQd38QKgMvD) | 6:15 | 2023-08-11 | 2023-11-05 |
-| [Hessingen](https://open.spotify.com/track/2yCbHFZ2spf22BHacJKiED) | [Shakarchi & Stranéus](https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H) | [Steal Chickens From Men And the Future From God](https://open.spotify.com/album/51sbT6gvFD5BnGU8kGpBVw) | 6:27 | 2023-01-09 |  |
+| [Hessingen](https://open.spotify.com/track/2yCbHFZ2spf22BHacJKiED) | [Shakarchi & Stranéus](https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H) | [Steal Chickens From Men And the Future From God](https://open.spotify.com/album/51sbT6gvFD5BnGU8kGpBVw) | 6:27 | 2023-01-09 | 2024-02-11 |
+| [Hessingen](https://open.spotify.com/track/4lgw73z34KT0lXMkOkhiiz) | [Shakarchi & Stranéus](https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H) | [Steal Chickens From Men And the Future From God](https://open.spotify.com/album/1D3xbkC6EakLekNYbipEiJ) | 6:27 | 2023-08-11 |  |
 | [Hold Me \- T4T Embrace Mix](https://open.spotify.com/track/1igRDinuruKXDDLHFqOYvL) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Devotion](https://open.spotify.com/album/2e7LQqvJdInqGHnjEIsAaJ) | 5:56 | 2023-01-09 |  |
 | [Hummingbird](https://open.spotify.com/track/0UY6ggZPalSXs3ue8tVcts) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Postcards](https://open.spotify.com/album/510guXSY0ICHxh4vvblO3O) | 2:57 | 2023-01-09 |  |
 | [Hummingbird](https://open.spotify.com/track/1umWAgRo8Fi7Az5fKFcQhA) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Hummingbird](https://open.spotify.com/album/1kjyIelizf9o2QVpVpDt2z) | 2:57 | 2023-01-09 | 2023-03-05 |

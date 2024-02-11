@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-880 songs - 1 day 10 hr 12 min
+881 songs - 1 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Green Coco](https://open.spotify.com/track/5lQhlSIPhc0x7VQ2cPLe6P) | [Alana Coello](https://open.spotify.com/artist/2el9nQDcHdJ1kFvoMPz1KT) | [Green Coco](https://open.spotify.com/album/5Jz1CJwWTof9wJnC1a7Usq) | 2:53 | 2023-11-17 |  |
 | [Grey](https://open.spotify.com/track/3GAy161sXmgiMOD7PYzBIA) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Grey](https://open.spotify.com/album/7CUV9YXdh4CdcwLl7K4La6) | 3:16 | 2022-04-15 | 2022-05-20 |
 | [Grey Grey Sky](https://open.spotify.com/track/1Ja3HxkCvHjv4Vi9I7Crp0) | [Low Key Persona](https://open.spotify.com/artist/1c8LSH695KiZELRZeGUbeb) | [Grey Grey Sky](https://open.spotify.com/album/5eUIfgdL6gN8FDwJciEf7E) | 1:54 | 2022-10-28 |  |
-| [Growing](https://open.spotify.com/track/1hM0bs3CbgCeZXpchcKfZk) | [Zane Milo](https://open.spotify.com/artist/1TyAZC5sqnI66MFVzZ4azE) | [Growing](https://open.spotify.com/album/7uYVdPcLmeUMWyfgkuIBIS) | 1:50 | 2022-10-14 |  |
+| [Growing](https://open.spotify.com/track/1hM0bs3CbgCeZXpchcKfZk) | [Zane Milo](https://open.spotify.com/artist/1TyAZC5sqnI66MFVzZ4azE) | [Growing](https://open.spotify.com/album/7uYVdPcLmeUMWyfgkuIBIS) | 1:50 | 2022-10-14 | 2024-02-11 |
 | [Habitat](https://open.spotify.com/track/0VebHKTE4C8pJCP5oqPEM3) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Overnight Oats](https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f) | 2:04 | 2022-04-15 | 2022-09-24 |
 | [Hammerhead](https://open.spotify.com/track/3tofD4yh3XryWokjq2xSwP) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Illuzionary](https://open.spotify.com/artist/2o46d078sJRWBz2evc0WFx) | [Hammerhead](https://open.spotify.com/album/6AcVC73UDJ5iqGIbphhI90) | 1:44 | 2022-12-09 | 2023-10-20 |
 | [Hammock in the Clouds](https://open.spotify.com/track/47Gf9pA8pXnr9zQ7zJUNJw) | [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj), [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0) | [Hammock in the Clouds](https://open.spotify.com/album/1aK8vb16U351L2eh8DN9m8) | 2:57 | 2022-09-30 | 2022-11-21 |
@@ -528,6 +528,7 @@
 | [Pacifica](https://open.spotify.com/track/1Rapts1uOPuU1vqwmbWIKR) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Pacifica](https://open.spotify.com/album/5s7hqTgpaYuNqiG4klTBYw) | 2:38 | 2022-04-15 | 2022-06-17 |
 | [palm](https://open.spotify.com/track/2Hwwu9plR7Y0lBxByDiaYS) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [palm](https://open.spotify.com/album/4bFFUeBi8kPYsZl5g0XdqR) | 2:05 | 2023-12-22 |  |
 | [Palme](https://open.spotify.com/track/1yJR8z4s4lASBJ4wfMG8zc) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Palme](https://open.spotify.com/album/4bSIoqXG6MbAxWCCvpVcGW) | 1:50 | 2023-04-03 | 2023-10-06 |
+| [Papa Knows Best](https://open.spotify.com/track/2TLIc551287wxILT6GOeou) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Papa Knows Best](https://open.spotify.com/album/3aSXNNj8XoYJZ5tOPPsH2w) | 2:12 | 2024-02-09 |  |
 | [Paper Bag](https://open.spotify.com/track/0feI2qZLlaapheeJeznYwZ) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [O F F](https://open.spotify.com/artist/5IjGvQKE2nsaL2RkqnqYfG) | [Paper Bag](https://open.spotify.com/album/05czxzdMeLHHvWUfar0Fbz) | 2:34 | 2022-12-16 | 2023-09-08 |
 | [Paris](https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Paris](https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41) | 2:04 | 2023-10-13 |  |
 | [Part of a Major Thing](https://open.spotify.com/track/0TKb90PdBwdfm2zef0dWcT) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Part of a Major Thing](https://open.spotify.com/album/2qyXoY0yDcre1E03jg7AYF) | 2:46 | 2022-04-15 | 2022-10-14 |

@@ -1,12 +1,12 @@
 {
   "description": "Las canciones alternativas que definieron el 2022 en Hispanoam\u00e9rica. Marilina Bertoldi y Javiera Mena en portada.",
-  "num_followers": 3683,
+  "num_followers": 3686,
   "original_name": "Lo mejor del Indie y Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTk4NjVlMzk4ZWQ5MjBlYTRhYWFmMzZhZWI1NGIzMDVhMjJkNGQy",
+  "snapshot_id": "MCw2YmFiZmQ0OWQ3Njk0YjhmNWQ1NjQwMjY0MTJlNmQ1OTZlODRhZDkw",
   "tracks": [
     {
       "added_at": "2022-11-30 14:18:55",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
-        "name": "como me encanta",
-        "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 321662,
-      "name": "como me encanta",
-      "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
         "name": "El Big Blue",
         "url": "https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 187266,
       "name": "C\u00e1llame",
       "url": "https://open.spotify.com/track/5woNfSOnZYbFbA94DqvJJG"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
+        "name": "como me encanta",
+        "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 321662,
+      "name": "como me encanta",
+      "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
     },
     {
       "added_at": "2022-11-30 14:18:55",

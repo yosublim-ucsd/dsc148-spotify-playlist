@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Sarah Julia \| Visual Artist: Bailey Elder
 
-1,065 songs - 2 day 15 hr 48 min
+1,066 songs - 2 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,7 +457,8 @@
 | [Home in the Country](https://open.spotify.com/track/7eiS9YMhjhX4r7qutGHJvo) | [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5) | [Home in the Country](https://open.spotify.com/album/3Eas5dSoSK2Zx59Qkm2h2W) | 3:38 | 2023-06-21 | 2023-08-24 |
 | [Homesick](https://open.spotify.com/track/486EjWGaXjhgt9oQdeDUdA) | [Bobby Kid](https://open.spotify.com/artist/3itmbTKEe0jxP7ndPo54hN) | [Babyface](https://open.spotify.com/album/6hMw5ZWrlzx65rf4RXEzkW) | 3:17 | 2023-04-12 | 2023-05-24 |
 | [Honey](https://open.spotify.com/track/7xRhhe1Lg7Mwi1hSjeRCaZ) | [Rebecca Marcyes](https://open.spotify.com/artist/20XswVKXwQujBBB0s9xMwU), [Mikayla McVey](https://open.spotify.com/artist/0EG8z93TSrPjSOi1dYVxtb), [Catch Prichard](https://open.spotify.com/artist/4fGnksIEapOHDbvWOYPCW5) | [Honey](https://open.spotify.com/album/1tcpIzJmy9nLExvj9TWYzP) | 2:36 | 2023-04-05 | 2023-05-11 |
-| [Honey](https://open.spotify.com/track/4ZS8IOU9EFq9GlgC4cOrbx) | [The Takes](https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch) | [Honey](https://open.spotify.com/album/48OsHFJTCcwLrfu5nuxQaR) | 4:26 | 2024-02-07 |  |
+| [Honey](https://open.spotify.com/track/4ZS8IOU9EFq9GlgC4cOrbx) | [The Takes](https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch) | [Honey](https://open.spotify.com/album/48OsHFJTCcwLrfu5nuxQaR) | 4:26 | 2024-02-07 | 2024-02-11 |
+| [Honey](https://open.spotify.com/track/7ms1CL5zKlAgywMkK6d7ol) | [The Takes](https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch) | [Honey](https://open.spotify.com/album/50CAGqnQEALbokgCJpj5pq) | 4:26 | 2024-02-07 |  |
 | [honey!](https://open.spotify.com/track/29E0o3uJirAFyRyZGOaSgo) | [Mike Duhaime](https://open.spotify.com/artist/3To2Iew23BImwC0d8jUIPq) | [honey!](https://open.spotify.com/album/6bQ6Dj8nbLaJJG0hV7oBQE) | 3:54 | 2022-05-25 | 2022-09-22 |
 | [Hope, You Whore](https://open.spotify.com/track/4ORXzdG8Ldsqw0j2cgfynE) | [Lily Talmers](https://open.spotify.com/artist/4nMJn2aEg3mpEwu628igXN) | [Hope is The Whore I Go To](https://open.spotify.com/album/0bCenZiWSdAExwl0zmVQkS) | 4:44 | 2022-08-10 | 2022-11-10 |
 | [Hourglass](https://open.spotify.com/track/6UhsRh1hGUJxINYsSWIIL8) | [CODA FACTO](https://open.spotify.com/artist/5kj5dKkdvcHkZeUBaCqalV) | [Hourglass](https://open.spotify.com/album/57vFag5ct36ndRtNUPM7aS) | 3:17 | 2022-06-15 | 2022-10-13 |

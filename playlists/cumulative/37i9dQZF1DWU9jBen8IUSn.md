@@ -4,7 +4,7 @@
 
 > Songs that make Paul Mescal feel something \- including some from his new film All Of Us Strangers\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-347 songs - 1 day 0 hr 18 min
+348 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,8 @@
 | [Vienna](https://open.spotify.com/track/60e6ALxVOa9LDAdRjRfpGf) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Earth & Nightfall](https://open.spotify.com/album/0X2AtmrnHYA5vEhDSnT2Xn) | 2:14 | 2023-09-25 | 2023-10-21 |
 | [Washington, D.C.](https://open.spotify.com/track/22reYeFPVc6i15XGmbUs7i) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 1:53 | 2023-07-18 | 2023-09-26 |
 | [Way Down in Stockholm](https://open.spotify.com/track/6WGtg05ZcrOpqS1cVZYUtV) | [Will Epstein](https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I) | [Wendy](https://open.spotify.com/album/0eI20QwDDcx6kA3NzVhVuW) | 2:52 | 2023-07-18 | 2023-09-26 |
-| [We The Drowned \- Live In Dublin](https://open.spotify.com/track/3YR5dkL60IL7SbrozAWTlZ) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt), [stargaze](https://open.spotify.com/artist/6ArmVuGn8UtsupvhL3suRy) | [Live in Dublin](https://open.spotify.com/album/4RZJRkuJDQti87QNDAypdM) | 6:34 | 2023-12-22 |  |
+| [We The Drowned \- Live In Dublin](https://open.spotify.com/track/3YR5dkL60IL7SbrozAWTlZ) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt), [stargaze](https://open.spotify.com/artist/6ArmVuGn8UtsupvhL3suRy) | [Live in Dublin](https://open.spotify.com/album/4RZJRkuJDQti87QNDAypdM) | 6:34 | 2023-12-22 | 2024-02-11 |
+| [We The Drowned \- Live In Dublin](https://open.spotify.com/track/4WNcpkg5l4WSYBg4IyMhCm) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt), [stargaze](https://open.spotify.com/artist/6ArmVuGn8UtsupvhL3suRy) | [Live in Dublin](https://open.spotify.com/album/2MS3CxVbdtmwbzgJDYpiNw) | 6:34 | 2023-12-22 |  |
 | [Western Mimikry](https://open.spotify.com/track/2oyNZWZIpIj8m1AsENhthO) | [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Kosmischer Pitch](https://open.spotify.com/album/6FJxmE1OcnQA0zYISRTxRI) | 3:07 | 2023-09-25 | 2023-10-21 |
 | [What Can I Do](https://open.spotify.com/track/4rvT5iZVOCJeXZrDvy6JFK) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W), [Tin Tin Out](https://open.spotify.com/artist/1a5l3fWnzmaK7gDD2IkbHq) | [Talk on Corners](https://open.spotify.com/album/1z8ikMQ0VmMJDPmeiKY3o5) | 4:19 | 2023-06-07 | 2023-06-24 |
 | [What Will We Do When We Have No Money?](https://open.spotify.com/track/7uRtBOvqokTBsNBjBhKOZx) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [Between the Earth and Sky](https://open.spotify.com/album/2Oxm3xpPQDDwrApEAWf3it) | 5:49 | 2023-12-22 |  |

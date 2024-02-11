@@ -1,12 +1,12 @@
 {
   "description": "Face-melters only. Cover: Eddie Van Halen",
-  "num_followers": 1409540,
+  "num_followers": 1409774,
   "original_name": "Legendary Guitar Solos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTI0Njg5YWNiYmZjZjVmMGYzN2E5NDU5YTZhNmMwOTRjNjA3MDlj",
+  "snapshot_id": "MCwwZGNkNzg1MmU1ZDc1OTJjZDMxNzRmNWU0ZWYwOTdjNmE4YjJiOGIw",
   "tracks": [
     {
       "added_at": "2021-12-13 15:23:11",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Passion And Warfare",
-        "url": "https://open.spotify.com/album/1fyrOcra2DI3quvnzAEQ45"
-      },
-      "artists": [
-        {
-          "name": "Steve Vai",
-          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
-        }
-      ],
-      "duration_ms": 363333,
-      "name": "For the Love of God",
-      "url": "https://open.spotify.com/track/5m5I3KcV83zf2p2qbsnr3y"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Great Gonzos! The Best Of Ted Nugent",
         "url": "https://open.spotify.com/album/4xKPMSSynMM7hSqB5sXjCV"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 502600,
       "name": "Stranglehold",
       "url": "https://open.spotify.com/track/7itr4N5bXkAWesPUomCNf7"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Passion And Warfare",
+        "url": "https://open.spotify.com/album/1fyrOcra2DI3quvnzAEQ45"
+      },
+      "artists": [
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "duration_ms": 363333,
+      "name": "For the Love of God",
+      "url": "https://open.spotify.com/track/5m5I3KcV83zf2p2qbsnr3y"
     },
     {
       "added_at": "2021-12-13 15:23:11",

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 113522,
+  "num_followers": 113576,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjlmYjc1NzI4NDA4NjRmMmFhM2E2MjgyNTVkNDcwNmVlOGRmMzc5",
+  "snapshot_id": "MCxjZWViZWI5NDExNmIyYzdiNTI3NDAyYjllZmY0MWQzNTUwZGQyNThh",
   "tracks": [
     {
       "added_at": "2024-01-12 16:17:07",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "El \u00daltimo Beso",
-        "url": "https://open.spotify.com/album/0gpAzMT34MHus5D1QgYPf4"
-      },
-      "artists": [
-        {
-          "name": "Los Roller's",
-          "url": "https://open.spotify.com/artist/7mQa3XflwD72PWFe55CjWt"
-        }
-      ],
-      "duration_ms": 152237,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/3XhpZzA5EHDXnY2tICXeqz"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Invencible (El Patr\u00f3n)",
         "url": "https://open.spotify.com/album/2D1fN7Gqs5lUtqkU2NdMfS"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 236440,
       "name": "M\u00e1quina Del Tiempo",
       "url": "https://open.spotify.com/track/6wJ8znKpoOz9IGhWB7g2b5"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "El \u00daltimo Beso",
+        "url": "https://open.spotify.com/album/0gpAzMT34MHus5D1QgYPf4"
+      },
+      "artists": [
+        {
+          "name": "Los Roller's",
+          "url": "https://open.spotify.com/artist/7mQa3XflwD72PWFe55CjWt"
+        }
+      ],
+      "duration_ms": 152237,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/3XhpZzA5EHDXnY2tICXeqz"
     },
     {
       "added_at": "2024-01-12 16:17:07",

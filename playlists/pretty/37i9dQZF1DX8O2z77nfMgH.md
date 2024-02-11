@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Danny Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,424 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,421 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [Tsunami](https://open.spotify.com/track/7Datvb4oPN6dHpfIYWgJii) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Tsunami](https://open.spotify.com/album/4N5GXjk84sniBmSGfwwgzP) | 2:16 |
 | 50 | [Virou Love](https://open.spotify.com/track/2nwpjiWvf9AEJFrfk2wRzM) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Virou Love](https://open.spotify.com/album/3XF82KK8UGKsEECqFTmctR) | 2:54 |
 
-Snapshot ID: `MCxlNTk4NWM5MWViODgxYzI2MTkyMDQwYzE2YjI0YWIwOTE3MzNiNDg4`
+Snapshot ID: `MCxiMTcyYzdmMTVmNjc1MDFkZWUzMWY0ODE3MjgyYmQzMWZlZDdiZTNm`

@@ -4,7 +4,7 @@
 
 > We hear you.
 
-648 songs - 1 day 8 hr 7 min
+649 songs - 1 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Did I Mention I’m Sorry](https://open.spotify.com/track/2IjvWisUntZj8yNT8Uh5uu) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Did I Mention I'm Sorry](https://open.spotify.com/album/5OJsV7LFoQBXSuGk7vBPac) | 3:17 | 2023-08-18 | 2023-10-10 |
 | [Did You Ever?](https://open.spotify.com/track/4dRtXKY62sv9VNyyN3aqJV) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [Did You Ever?](https://open.spotify.com/album/2L3nhkWhZ7tuRL5oLJy9p1) | 2:37 | 2022-01-25 | 2022-04-16 |
 | [did you?](https://open.spotify.com/track/2AdOnjGkvA9w87SHnrlRGC) | [tøm hughes](https://open.spotify.com/artist/336D2sdfb7SeACYYG8TNWf) | [did you?](https://open.spotify.com/album/66opJaPhhdXdBmzpnsZTDY) | 1:46 | 2021-04-02 | 2022-04-21 |
+| [Die Alone](https://open.spotify.com/track/6Rc3aKjwfmGMcpcQnHx296) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 4:21 | 2023-09-29 |  |
 | [Die Alone](https://open.spotify.com/track/6q2MA87tphYrGm5Jr7xHMl) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 4:21 | 2022-10-14 | 2024-02-03 |
 | [Die Alone](https://open.spotify.com/track/6tc1gT93ZpMKx3N5AgVljV) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/51V8Fme8o9GthQ3O1RNMtE) | 4:21 | 2021-04-02 | 2022-07-27 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-04 | 2023-04-27 |
@@ -154,7 +155,7 @@
 | [emma, u up?](https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [emma, u up?](https://open.spotify.com/album/0SSLoMyVE2AiMtUMWVwg76) | 2:24 | 2021-04-02 | 2023-09-15 |
 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 | 2021-04-02 |  |
 | [Empty Room](https://open.spotify.com/track/2YUjJiHEhbb7eO9OWHdarW) | [Rishi](https://open.spotify.com/artist/5q1xsAah3kIdY7ouXeBa08) | [Empty Room](https://open.spotify.com/album/39LG3JcDyjuE9QHVhsL3mR) | 3:25 | 2021-06-25 | 2022-04-17 |
-| [End Of The World](https://open.spotify.com/track/5fayurvS00m3T7fcXBkb7e) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 2:40 | 2023-09-29 |  |
+| [End Of The World](https://open.spotify.com/track/5fayurvS00m3T7fcXBkb7e) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 2:40 | 2023-09-29 | 2024-02-11 |
 | [essential](https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [essential](https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ) | 2:42 | 2023-01-20 | 2023-05-08 |
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-12 |  |
 | [Every Fucking Time](https://open.spotify.com/track/3pcl1nwM7BkNaNcsojvPCz) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Every Fucking Time](https://open.spotify.com/album/5ZivRaxbqlajWwrhA92jAS) | 2:47 | 2023-05-05 | 2023-06-06 |

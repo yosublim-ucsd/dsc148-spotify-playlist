@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Loredana Bert\u00e8",
-  "num_followers": 904436,
+  "num_followers": 904391,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWE0NWUxZGZjZjA1ZjNiZjcyOTkwNmM3MDUzZTVkODMyOGUwNDkx",
+  "snapshot_id": "MCw2NmI4MjFhYmMxNDJkNjdiZGVjMjFlNGRkNzk5MmU5Y2ZiZTQ4MDk1",
   "tracks": [
     {
       "added_at": "2024-02-07 13:26:59",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "Semua Aku Dirayakan",
-        "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
-      },
-      "artists": [
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
-        }
-      ],
-      "duration_ms": 310625,
-      "name": "Semua Aku Dirayakan",
-      "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "La noia",
         "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 189124,
       "name": "La noia",
       "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
+        "name": "Semua Aku Dirayakan",
+        "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "duration_ms": 310625,
+      "name": "Semua Aku Dirayakan",
+      "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
     },
     {
       "added_at": "2024-02-07 13:26:59",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "Bravo",
-        "url": "https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu"
-      },
-      "artists": [
-        {
-          "name": "Barbara Pravi",
-          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
-        }
-      ],
-      "duration_ms": 191479,
-      "name": "Bravo",
-      "url": "https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "CAM'ON",
         "url": "https://open.spotify.com/album/5tZXLMvuV0A4HYbU9tcQrg"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 241178,
       "name": "Em n\u00ean y\u00eau c\u00f4 ta",
       "url": "https://open.spotify.com/track/6u8BfDFmGXZRkxfd8M3PSp"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
+        "name": "Bravo",
+        "url": "https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pravi",
+          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
+        }
+      ],
+      "duration_ms": 191479,
+      "name": "Bravo",
+      "url": "https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF"
     },
     {
       "added_at": "2024-02-07 13:26:59",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "somebody's daughter",
-        "url": "https://open.spotify.com/album/04IWjF3yuXKw8kN8SiIiwk"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "somebody's daughter",
-      "url": "https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "\u0e04\u0e34\u0e14\u0e21\u0e32\u0e01\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e21\u0e32\u0e01\u0e40\u0e17\u0e48\u0e32\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d (Melatonin)",
         "url": "https://open.spotify.com/album/1HCRQm24bs0w8qfA6MpJ5t"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 195810,
       "name": "\u0e04\u0e34\u0e14\u0e21\u0e32\u0e01\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e21\u0e32\u0e01\u0e40\u0e17\u0e48\u0e32\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d - Melatonin",
       "url": "https://open.spotify.com/track/3PzEupYTcbnYC9Qae05hG9"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
+        "name": "somebody's daughter",
+        "url": "https://open.spotify.com/album/04IWjF3yuXKw8kN8SiIiwk"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "somebody's daughter",
+      "url": "https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK"
     },
     {
       "added_at": "2024-02-07 13:26:59",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "\"I\"",
-        "url": "https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww"
-      },
-      "artists": [
-        {
-          "name": "Anna hisbbuR",
-          "url": "https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR"
-        }
-      ],
-      "duration_ms": 217800,
-      "name": "I can\u2019t be you",
-      "url": "https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "P\u0142on\u0119",
         "url": "https://open.spotify.com/album/1Lh4Zdn7pkwS0wJhvN1WaS"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 209293,
       "name": "P\u0142on\u0119",
       "url": "https://open.spotify.com/track/0xEjng5qh5HdVhRo6LKRb8"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
+        "name": "\"I\"",
+        "url": "https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww"
+      },
+      "artists": [
+        {
+          "name": "Anna hisbbuR",
+          "url": "https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "I can\u2019t be you",
+      "url": "https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX"
     },
     {
       "added_at": "2024-02-07 13:26:59",

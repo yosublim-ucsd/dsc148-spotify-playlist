@@ -1,12 +1,12 @@
 {
   "description": "New music each and every Friday, with selects from prominent musicians across the map in honor of Black History Month. Cover: <a href=\"spotify:artist:1YRqgFNXqRyMDRr8ClS1NL\">Kaliii</a> ",
-  "num_followers": 1005091,
+  "num_followers": 1005272,
   "original_name": "This Is Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTk3MTFmYTBhMDNiN2E2ODJiNTRlMzc0MDJiNWQ2OWE3Mzk0ZDEy",
+  "snapshot_id": "MCxiNjQyMGVlOTIzYTI4ODNiOTY5ZmNhZDAzODljMzc0Mjk5YTM2Mzgz",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -698,6 +698,10 @@
         {
           "name": "MadeinTYO",
           "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        },
+        {
+          "name": "24HRs",
+          "url": "https://open.spotify.com/artist/192hZw0TZFIxj4FGDVkvvs"
         }
       ],
       "duration_ms": 221904,
@@ -1387,6 +1391,10 @@
         "url": "https://open.spotify.com/album/6POfEs8ynjGPawz4fQmGXB"
       },
       "artists": [
+        {
+          "name": "Victorious De Costa",
+          "url": "https://open.spotify.com/artist/4GwX8tUbv3nUymcdreyqjr"
+        },
         {
           "name": "KAMAUU",
           "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"

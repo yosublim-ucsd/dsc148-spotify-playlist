@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > for the baddies
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,743 likes - 56 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,273 likes - 56 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 55 | [Slumbernumb](https://open.spotify.com/track/3bcQvxrW59PlemA7rrPm2G) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Slumbernumb](https://open.spotify.com/album/7ItF9Bbj5JzCVqNv1nOp4p) | 3:09 |
 | 56 | [Gaunt](https://open.spotify.com/track/07WXShmsAvKUVK3QYUubJ9) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Gaunt](https://open.spotify.com/album/3hj2N8CIJ67hejzX5XcMRs) | 3:29 |
 
-Snapshot ID: `MCxkNDM1Y2ZkMGNkZjhiNGQ0YzIzMzI5NGU2M2M0MDI2MTgzNTNlOTQ2`
+Snapshot ID: `MCw3ZDU2NTQwM2ZmNWI4ZWMxOGE2YTBkNDViZTVlODE2MTViNTBlMzQz`

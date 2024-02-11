@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 72084,
+  "2024-02-11": 72108,
   "date_first_scraped": "2023-06-14",
   "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Tino el Ping\u00fcino en portada.",
   "name": "Rap Latte",
@@ -183,6 +183,24 @@
       "duration_ms": 325714,
       "name": "6 en Mi Rollie",
       "url": "https://open.spotify.com/track/7AurrfdK4RKjueAKkZN2RF"
+    },
+    {
+      "album": {
+        "name": "Abloh",
+        "url": "https://open.spotify.com/album/5bGvdkRFdN12BRAch7PtG4"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172890,
+      "name": "Abloh",
+      "url": "https://open.spotify.com/track/6pDSiAjLWYaFDi3Tnsayod"
     },
     {
       "album": {
@@ -2581,7 +2599,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 236546,
       "name": "Sobrio y Confundido",
       "url": "https://open.spotify.com/track/6OdSlmTms8a39bdpvXmi3O"

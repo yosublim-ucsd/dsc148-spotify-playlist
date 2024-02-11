@@ -2225,6 +2225,28 @@
     },
     {
       "album": {
+        "name": "Devora",
+        "url": "https://open.spotify.com/album/0rtvJzRbpJ0C7QOZrB3ITt"
+      },
+      "artists": [
+        {
+          "name": "Kevin Santin",
+          "url": "https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149052,
+      "name": "Devora",
+      "url": "https://open.spotify.com/track/5yZ8WMP3zUONfPyqfgKvmv"
+    },
+    {
+      "album": {
         "name": "Diabla",
         "url": "https://open.spotify.com/album/6tSrUca9EiClwBmu4U55cM"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,531 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,536 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 59 | [Lagos \(Everyday\)](https://open.spotify.com/track/60MGzxXb8Q86LwWzyMs6XH) | [GMK](https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Lagos \(Everyday\)](https://open.spotify.com/album/2TRyXEwy28yebRSUMZVide) | 3:33 |
 | 60 | [Work](https://open.spotify.com/track/3Bko3cIQk6egVQXFwj80LI) | [The Forbidden](https://open.spotify.com/artist/2aGNFPJih8vw7mjGfE81Qx), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Work](https://open.spotify.com/album/4uOtexXX1aCxsKvZZtPAUE) | 3:46 |
 
-Snapshot ID: `MCw3M2Q4MWNkMzdjYmM2MzYyOTYzNGEzNjM1MzdmMDQxNGE3ZTIzNWE5`
+Snapshot ID: `MCw0ZmVjMTlmYjYyNTEzZDdiNDUyZjFlNzMxNTk2ZTFkZDljOWFkMjY0`

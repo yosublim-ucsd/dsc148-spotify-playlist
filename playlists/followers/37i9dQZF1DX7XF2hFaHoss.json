@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 150994,
+  "2024-02-11": 150994,
   "date_first_scraped": "2022-05-26",
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Madi Diaz",
   "name": "Women of Acoustic",
@@ -151,7 +151,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 221599,
       "name": "August (feat. Adam Melchor)",
       "url": "https://open.spotify.com/track/2i650Qa2Mw4brCjxulbacC"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 179826,
       "name": "Fall",
       "url": "https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310"

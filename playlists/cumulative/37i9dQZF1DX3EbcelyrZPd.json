@@ -400,6 +400,28 @@
     {
       "album": {
         "name": "Swahili Kid",
+        "url": "https://open.spotify.com/album/5GnGRXPzXC6DuzDuUzKtxr"
+      },
+      "artists": [
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        },
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210782,
+      "name": "BamBam",
+      "url": "https://open.spotify.com/track/7qMekh8B1OLLtdVKMUi9Wc"
+    },
+    {
+      "album": {
+        "name": "Swahili Kid",
         "url": "https://open.spotify.com/album/7FqUoYptckmxC5frjcbQGo"
       },
       "artists": [
@@ -414,7 +436,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 212583,
       "name": "BamBam",
       "url": "https://open.spotify.com/track/5WSou7in5PORzEBOO9hPxa"

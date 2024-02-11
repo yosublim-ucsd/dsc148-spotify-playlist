@@ -1111,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Yeah Glo!",
+        "url": "https://open.spotify.com/album/04PaaqmVsN1l1mTYld9zS5"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Yeah Glo!",
+      "url": "https://open.spotify.com/track/3pgRrnxJTiTkbo2hrheGuU"
+    },
+    {
+      "album": {
         "name": "You Ain't Shit",
         "url": "https://open.spotify.com/album/1OacT8jeOurJExUtAUf2M9"
       },

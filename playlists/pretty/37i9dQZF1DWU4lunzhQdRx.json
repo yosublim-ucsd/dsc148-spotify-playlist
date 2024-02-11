@@ -1,12 +1,12 @@
 {
   "description": "in our emo cowgirl era",
-  "num_followers": 140202,
+  "num_followers": 140340,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjZjZWRjMWFjNjZkY2FmM2Y0OGU1OWYxNjMxNmYzNzMzZjQ2MDY2",
+  "snapshot_id": "MCwzY2E0YTZiMTYzYmZmODBkNzFhMzc5ODFiN2QwZWQ2ZGJiZGNiNjIy",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Every Little Thing",
-        "url": "https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 180053,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Country Again (Side A)",
         "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 172586,
       "name": "Want It Again",
       "url": "https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Every Little Thing",
+        "url": "https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 180053,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1"
     },
     {
       "added_at": "2024-02-09 05:00:00",

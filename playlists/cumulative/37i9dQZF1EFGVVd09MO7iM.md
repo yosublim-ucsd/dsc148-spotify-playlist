@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-449 songs - 1 day 5 hr 28 min
+451 songs - 1 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Gotta Have It](https://open.spotify.com/track/2Kbxfq8wkjMCno1QJe4yyw) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/1YwzJz7CrV9fd9Qeb6oo1d) | 2:20 | 2024-01-29 |  |
 | [Green Juice](https://open.spotify.com/track/464KhJzB4hUzjwLUDIVqPJ) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Green Juice \(Official Video\)](https://open.spotify.com/album/7obhoxW7l0Ul6TXYe3lNFK) | 3:36 | 2024-01-29 | 2024-01-31 |
 | [Green Juice \(feat\. Pharrell Williams\)](https://open.spotify.com/track/0VPir804AaU2Iw1ardsDLS) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Green Juice \(feat\. Pharrell Williams\)](https://open.spotify.com/album/0VZNwfArwS5haypFDKiXZO) | 2:54 | 2024-01-30 |  |
-| [Green Light](https://open.spotify.com/track/1XascuwGPIGqoof2ThElCC) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day](https://open.spotify.com/album/3MJHoQUI828kmB6IpjejbW) | 3:29 | 2024-01-29 |  |
+| [Green Light](https://open.spotify.com/track/1XascuwGPIGqoof2ThElCC) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day](https://open.spotify.com/album/3MJHoQUI828kmB6IpjejbW) | 3:29 | 2024-01-29 | 2024-02-11 |
+| [Green Light](https://open.spotify.com/track/4GKLdlzhzFwdYLeFBwJZ3S) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day](https://open.spotify.com/album/1L6sJLS18bJTadBupSYFAp) | 3:29 | 2024-02-10 |  |
 | [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 | 2024-01-31 |  |
 | [Green Light](https://open.spotify.com/track/7y0eOwRz94Eb5Land91uks) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Green Light](https://open.spotify.com/album/5vvgl4KzNIXHAffUm4DhT7) | 4:02 | 2024-01-29 | 2024-02-01 |
 | [Grindin'](https://open.spotify.com/track/3XrvEifl0hIzgBGUa5jBLS) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 4:24 | 2024-01-29 |  |
@@ -238,7 +239,8 @@
 | [Just Like You](https://open.spotify.com/track/5IF6IBPqbclVR7SQKmCIyA) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Just Like You](https://open.spotify.com/album/1VZoGsObyr7YAZOmP8DYEZ) | 3:25 | 2024-01-29 |  |
 | [KEEP DA O'S \(feat\. Pharrell Williams & Coco O.\)](https://open.spotify.com/track/7zdanauvITJaq9OE7bBz0c) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Cherry Bomb](https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In) | 4:08 | 2024-01-29 |  |
 | [Kites](https://open.spotify.com/track/65UcBkHqJoIk33vfxqUzvm) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [NO ONE EVER REALLY DIES](https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD) | 4:50 | 2024-01-29 |  |
-| [Kitty Kat](https://open.spotify.com/track/5XagNVHf4diy4zeM5p0VZc) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day](https://open.spotify.com/album/3MJHoQUI828kmB6IpjejbW) | 3:55 | 2024-01-29 |  |
+| [Kitty Kat](https://open.spotify.com/track/28GCTzKIpLkhEktYvIgiYE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day](https://open.spotify.com/album/1L6sJLS18bJTadBupSYFAp) | 3:55 | 2024-02-10 |  |
+| [Kitty Kat](https://open.spotify.com/track/5XagNVHf4diy4zeM5p0VZc) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day](https://open.spotify.com/album/3MJHoQUI828kmB6IpjejbW) | 3:55 | 2024-01-29 | 2024-02-11 |
 | [Knock Yourself Out \- Edit](https://open.spotify.com/track/3Q13gzzrAUUP7kxNPnkpfU) | [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Kiss Tha Game Goodbye](https://open.spotify.com/album/1Tjo21h3Fovb4VYTJDvxqe) | 3:33 | 2024-01-29 |  |
 | [Know Who You Are \(with Alicia Keys\)](https://open.spotify.com/track/3dhFRC4YORTaOlRhB9f8Ys) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:56 | 2024-01-29 |  |
 | [Lapdance](https://open.spotify.com/track/3hMUfzyCcH2pU4YUzU7P6e) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Lee Harvey](https://open.spotify.com/artist/2vB0c3J8Y3OeMmgAv244Do), [Vita](https://open.spotify.com/artist/6pk6yWYNSFNHkngDZPvjEL) | [Lapdance](https://open.spotify.com/album/6B7iMTAD7jKhXBGwrMbPRl) | 3:29 | 2024-01-29 | 2024-02-02 |

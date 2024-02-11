@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 
 > 01101110 01100101 01110010 01100100
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,421 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,441 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 88 | [Electric](https://open.spotify.com/track/1fi9BN8F15rCUWjAsaMngw) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Country Girl Uncut](https://open.spotify.com/album/0Gx2nIxhlYbpbk0BsjL15X) | 3:25 |
 | 89 | [Axolotl](https://open.spotify.com/track/6QasAq7k4YhJ64sENWEMXQ) | [Doon Kanda](https://open.spotify.com/artist/6w7wqJo8dY6Q7BWIRFBFX3) | [Heart EP](https://open.spotify.com/album/264UMUk0W6HZGmR1nEuwTY) | 2:52 |
 | 90 | [Arpanet Nightdrive Rework](https://open.spotify.com/track/3t5kCnY7izofJ9edwZhjBb) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Arpanet](https://open.spotify.com/artist/63bRcvYTOSxsvw3kcAAtEr) | [Teddy Boy \- EP](https://open.spotify.com/album/279gt6kOQy96fv3lXt6yQB) | 4:20 |
-| 91 | [Die tausende Herbste](https://open.spotify.com/track/0teJBxvS6jvVsDNDefpHl8) | [KOMPROMAT](https://open.spotify.com/artist/1QYA7hFYKc0EuhE2MGpjH7), [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9), [Rebeka Warrior](https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4) | [Traum und Existenz](https://open.spotify.com/album/1B2AZd4B55393VV6m6rXeG) | 3:51 |
+| 91 | [Die tausende Herbst](https://open.spotify.com/track/4KKFTNQnmcU7MKPftrLA5L) | [KOMPROMAT](https://open.spotify.com/artist/1QYA7hFYKc0EuhE2MGpjH7), [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9), [Rebeka Warrior](https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4) | [Traum und Existenz](https://open.spotify.com/album/540zcUIOtsQ8I6ZzXxyLMP) | 3:51 |
 | 92 | [My Machine](https://open.spotify.com/track/4lxc29VH8XrhhX01fdZkWl) | [Blank Banshee](https://open.spotify.com/artist/1oR9pQhucVTJyi5lH2Y2iT) | [Mega](https://open.spotify.com/album/6bfDdDxNcI19EdjfVpkqkU) | 2:09 |
 | 93 | [Eternal Loneliness](https://open.spotify.com/track/3CyJNVETICgG6wsx2MNEYB) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Totsuka No Tsurugi](https://open.spotify.com/album/6DEJErUUiixATMvkg9XtHN) | 10:09 |
 | 94 | [Turn the Fridge On](https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky) | [Donor Lens](https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA) | [Midnight Store](https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl) | 2:37 |
 | 95 | [Beneath the Moon & Me](https://open.spotify.com/track/1Oi60mN9vY779n2s29fWrf) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [LUNO](https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ) | 3:33 |
-| 96 | [Auf Immer und ewig](https://open.spotify.com/track/7oEwkQT9tGcDiuUQyPX06g) | [KOMPROMAT](https://open.spotify.com/artist/1QYA7hFYKc0EuhE2MGpjH7), [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9), [Rebeka Warrior](https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4) | [Traum und Existenz](https://open.spotify.com/album/1B2AZd4B55393VV6m6rXeG) | 5:17 |
+| 96 | [Auf Immer und ewing](https://open.spotify.com/track/02uzr4k8hXZxGLL3dlhScl) | [KOMPROMAT](https://open.spotify.com/artist/1QYA7hFYKc0EuhE2MGpjH7), [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9), [Rebeka Warrior](https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4) | [Traum und Existenz](https://open.spotify.com/album/540zcUIOtsQ8I6ZzXxyLMP) | 5:17 |
 | 97 | [Animals](https://open.spotify.com/track/0acBwRDpjauwpGXKSg5wCD) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Garden Of Delete](https://open.spotify.com/album/0B0pnJCB4ECF12VNo49p6g) | 3:54 |
 | 98 | [I'll wait for u tonight](https://open.spotify.com/track/0CmZp7AVyaVxiPP9FpfIFh) | [nørus](https://open.spotify.com/artist/11V5ILUaU0e00lfttXHEpz) | [\_songs](https://open.spotify.com/album/2wwitaZ4741WPHfh10MRzr) | 8:31 |
 | 99 | [Knives](https://open.spotify.com/track/00Po3m9Jz0m5uNedPBw4ma) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 2:20 |
 | 100 | [Grrrrls](https://open.spotify.com/track/49ysUwJ6bPCpI74dI9aGbQ) | [Ricky Eat Acid](https://open.spotify.com/artist/4BO8wK4OAaFsi6PSzs366S) | [Haunt U Forever](https://open.spotify.com/album/0g2PJbscS69UolD4QyS3wp) | 2:01 |
 
-Snapshot ID: `MCw5ZWUzM2RlNDBiNzQ3ZmVhNDM1NjI2NTRjOTdiYWQyMzg1MDFhNTVj`
+Snapshot ID: `MCxjZDIxNGNlMjA5ODI3OTUyOGRiZDgyNWM0M2E2MGE4NDFjYTRjZGYw`

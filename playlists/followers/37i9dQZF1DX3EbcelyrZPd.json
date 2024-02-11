@@ -1,7 +1,7 @@
 {
-  "2024-02-10": 78447,
+  "2024-02-11": 78516,
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Nandy & Alikiba",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Lava Lava",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -1829,7 +1829,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 172035,
       "name": "I Belong To You",
       "url": "https://open.spotify.com/track/2PJhzxSrHqNTfhNuFtybCQ"
@@ -2685,6 +2685,28 @@
       "duration_ms": 261819,
       "name": "Lala",
       "url": "https://open.spotify.com/track/0FoemawOPj4ILZR9EZkX30"
+    },
+    {
+      "album": {
+        "name": "Lalala",
+        "url": "https://open.spotify.com/album/2pT60erNxxHOG6lfFfvXwe"
+      },
+      "artists": [
+        {
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
+        },
+        {
+          "name": "Vanillah",
+          "url": "https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/7fsONNclN1s7lDqzXnEEjL"
     },
     {
       "album": {
@@ -4936,6 +4958,24 @@
     },
     {
       "album": {
+        "name": "Pambe Tu",
+        "url": "https://open.spotify.com/album/3By27Rll9J132bK0qKxObI"
+      },
+      "artists": [
+        {
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Pambe Tu",
+      "url": "https://open.spotify.com/track/5LQbgAhs2SLyZwzSZhGjYs"
+    },
+    {
+      "album": {
         "name": "Papaa",
         "url": "https://open.spotify.com/album/77qytTZiJTwHdJTfANVsrk"
       },
@@ -5425,7 +5465,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 209254,
       "name": "Shem",
       "url": "https://open.spotify.com/track/3h79qNlIy82yBRBsNZzz0X"

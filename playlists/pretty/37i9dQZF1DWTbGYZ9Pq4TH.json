@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 174444,
+  "num_followers": 174466,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODZmNThhM2M1NWJkMGM5MWY5ODE0Y2I2ZTFhYzY5YWM5Y2I3YTU0",
+  "snapshot_id": "MCxkYzhhNDEwYWJjODFiZGQ4YTcwNjAyNTk0ODg3NWY0ZGY5NzJhN2M1",
   "tracks": [
     {
       "added_at": "2024-01-17 10:21:34",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
+        "name": "Mentre Tutto Scorre (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86"
+      },
+      "artists": [
+        {
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/7nd1mwoAAFtJjmjfdyOUwg"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
       },
@@ -131,34 +147,22 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Mentre Tutto Scorre (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86"
+        "name": "Brividi",
+        "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
       },
       "artists": [
         {
-          "name": "Negramaro",
-          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/7nd1mwoAAFtJjmjfdyOUwg"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
-        "name": "Gemelli",
-        "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
-      },
-      "artists": [
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        },
         {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
         }
       ],
-      "duration_ms": 172200,
-      "name": "Superclassico",
-      "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
+      "duration_ms": 199146,
+      "name": "Brividi",
+      "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -211,22 +215,18 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Brividi",
-        "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
+        "name": "Gemelli",
+        "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
       },
       "artists": [
         {
-          "name": "Mahmood",
-          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
-        },
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
         }
       ],
-      "duration_ms": 199146,
-      "name": "Brividi",
-      "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
+      "duration_ms": 172200,
+      "name": "Superclassico",
+      "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -455,18 +455,22 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Mainstream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
+        "name": "This Is Elodie",
+        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
       },
       "artists": [
         {
-          "name": "Calcutta ",
-          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 228480,
-      "name": "Del verde",
-      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
+      "duration_ms": 177213,
+      "name": "Margarita (con Marracash)",
+      "url": "https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -487,22 +491,18 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "This Is Elodie",
-        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
+        "name": "Mainstream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
       },
       "artists": [
         {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
         }
       ],
-      "duration_ms": 177213,
-      "name": "Margarita (con Marracash)",
-      "url": "https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV"
+      "duration_ms": 228480,
+      "name": "Del verde",
+      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Unica",
-        "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
+        "name": "Post Punk",
+        "url": "https://open.spotify.com/album/4Hbba5d72PryD3I9jQxDcR"
       },
       "artists": [
         {
-          "name": "Antonello Venditti",
-          "url": "https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6"
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
         }
       ],
-      "duration_ms": 234600,
-      "name": "Unica",
-      "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
+      "duration_ms": 185173,
+      "name": "Una canzone che non so",
+      "url": "https://open.spotify.com/track/5ZJ8NqYFgILvAba4GepqH3"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -607,18 +607,34 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Post Punk",
-        "url": "https://open.spotify.com/album/4Hbba5d72PryD3I9jQxDcR"
+        "name": "Unica",
+        "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
       },
       "artists": [
         {
-          "name": "Gazzelle",
-          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+          "name": "Antonello Venditti",
+          "url": "https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6"
         }
       ],
-      "duration_ms": 185173,
-      "name": "Una canzone che non so",
-      "url": "https://open.spotify.com/track/5ZJ8NqYFgILvAba4GepqH3"
+      "duration_ms": 234600,
+      "name": "Unica",
+      "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
+        "name": "Splende",
+        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 211093,
+      "name": "Una finestra tra le stelle",
+      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -655,6 +671,22 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
+      },
+      "artists": [
+        {
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+        }
+      ],
+      "duration_ms": 190409,
+      "name": "Dove e quando",
+      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
         "name": "Stanza Singola",
         "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
       },
@@ -671,22 +703,6 @@
       "duration_ms": 196615,
       "name": "Stanza Singola (feat. Tommaso Paradiso)",
       "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
-      },
-      "artists": [
-        {
-          "name": "Benji & Fede",
-          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
-        }
-      ],
-      "duration_ms": 190409,
-      "name": "Dove e quando",
-      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -719,22 +735,6 @@
       "duration_ms": 209179,
       "name": "Fuoco e benzina",
       "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
-        "name": "Splende",
-        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 211093,
-      "name": "Una finestra tra le stelle",
-      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -827,18 +827,22 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "111 Centoundici",
-        "url": "https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7"
+        "name": "Soundtrack '96 - 06 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW"
       },
       "artists": [
         {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        },
+        {
+          "name": "Ligabue",
+          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
         }
       ],
-      "duration_ms": 264986,
-      "name": "Sere nere",
-      "url": "https://open.spotify.com/track/4Ovy5UkvkweOluGd9hoKsR"
+      "duration_ms": 266746,
+      "name": "Gli Ostacoli Del Cuore",
+      "url": "https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx"
     }
   ],
   "unique_name": "Amore Davvero",

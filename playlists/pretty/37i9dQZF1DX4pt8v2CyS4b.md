@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain]
 
 > Hear the world in new ways with music from National Geographic’s Incredible Animal Journeys, Wild Life, Secrets of the Elephants, A Small Light, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,037 likes - 66 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,052 likes - 66 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain]
 | 4 | [Protector](https://open.spotify.com/track/4Dh8xV2M5vxnOcW0gl58yR) | [Fallon King](https://open.spotify.com/artist/2aAIvZTGMtdaHhTZjdy59I), [Felisha King Harvey](https://open.spotify.com/artist/1shYIpDa5t5PNufY8DUd67) | [Genius: MLK/X \(Songs from the Original Series\)](https://open.spotify.com/album/3uojxT5JSSytA12Heyk6i0) | 1:59 |
 | 5 | [Home](https://open.spotify.com/track/4LtiDk63q4KGgvvHJ2pM6w) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Genius: MLK/X \(Songs from the Original Series\)](https://open.spotify.com/album/3uojxT5JSSytA12Heyk6i0) | 2:43 |
 | 6 | [Change the World](https://open.spotify.com/track/2guDEg9qj3IvbAYhDIDFwz) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [BLU](https://open.spotify.com/artist/7ibwJuONg8Y4WKWpb6gKNq) | [Genius: MLK/X \(Songs from the Original Series\)](https://open.spotify.com/album/3uojxT5JSSytA12Heyk6i0) | 1:50 |
-| 7 | [Umi \(Woman\) \- From "Queens"](https://open.spotify.com/track/6Qsh0kfqsNKbqlRtuCnpXs) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Umi \(Woman\) \[From "Queens"\]](https://open.spotify.com/album/4ClRhS3OmyrXhah3oJIkdu) | 2:29 |
+| 7 | [Umi \- From "Queens"](https://open.spotify.com/track/6Qsh0kfqsNKbqlRtuCnpXs) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Umi \(From "Queens"\)](https://open.spotify.com/album/4ClRhS3OmyrXhah3oJIkdu) | 2:29 |
 | 8 | [National Geographic Theme \- Symphony of Our World Version](https://open.spotify.com/track/0rkCcqzA16kq7AaCM2fth4) | [Anže Rozman](https://open.spotify.com/artist/6e35AnLj77a8zEL36syCjn) | [National Geographic Theme](https://open.spotify.com/album/3INMMOrvQxw8nokGvSciPu) | 2:32 |
 | 9 | [Take Pictures \- From "National Geographic: Pictures of the Year"](https://open.spotify.com/track/2h5mYpCbGdtUxqFM9UEwzC) | [Ella Joy Meir](https://open.spotify.com/artist/5Hj1mPglZe5DoUmdGBwsnZ) | [Take Pictures \(From "National Geographic: Pictures of the Year"\)](https://open.spotify.com/album/171T2mabdPGk7mQNCjuL0u) | 1:00 |
 | 10 | [Flamingos: Finding the Perfect Lake](https://open.spotify.com/track/1ZgpuRulxbldoxlF9wRpNg) | [Jake Monaco](https://open.spotify.com/artist/0iJIcOGAPd2UFYRoJhx5FP) | [Incredible Animal Journeys \(Original Series Soundtrack\)](https://open.spotify.com/album/37196HVFnjbl6e9fsl0n5z) | 3:06 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain]
 | 65 | [OSR I \- I](https://open.spotify.com/track/13qZ7N4ODXqGRsDf5Oo8tu) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [One Strange Rock \(Original Series Soundtrack\)](https://open.spotify.com/album/4dZsbLj46oJBifrProWgG6) | 3:54 |
 | 66 | [The Hostile Planet](https://open.spotify.com/track/0sH0ZIWtSgocov0IK8omTU) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Hostile Planet: Volume 1 \(Original Series Score\)](https://open.spotify.com/album/50DqHVvtqcr74kbJDVLrlQ) | 2:07 |
 
-Snapshot ID: `MCw4MmNmMjBkYWIzM2M0NzRhYzQ2NTkzZjNjNTBmNWQ4MDhmZjYxNzg3`
+Snapshot ID: `MCwwN2RhOTRkMjAwNmIwZjVmNTA0Nzk5ZjBhZjllMjczNjc4MTJjZWE4`

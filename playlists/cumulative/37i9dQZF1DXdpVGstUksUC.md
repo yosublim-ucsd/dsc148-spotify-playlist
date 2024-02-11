@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-318 songs - 1 day 6 hr 40 min
+319 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Regular John](https://open.spotify.com/track/0fZLTsasJCJ2EaaczK2Nob) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/4ZVYZI1wY4TmLOQ3as1UNI) | 4:37 | 2021-11-30 | 2022-07-29 |
 | [Return to the Tundrasphere](https://open.spotify.com/track/2bDCKq0cgrMFEbgaLvCTqG) | [Kanaan](https://open.spotify.com/artist/3Hb1TSP5l7tR214bjmHIBA) | [Earthbound](https://open.spotify.com/album/5cgZyUkPspSn9DxxsIPWoK) | 8:41 | 2021-11-30 | 2022-02-13 |
 | [Road to Burn](https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Super Van Vacation](https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8) | 8:49 | 2021-11-30 |  |
-| [Rollercoaster](https://open.spotify.com/track/1ffTuRRrqqiDG0T1CPJse8) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [Wilderness Heart](https://open.spotify.com/album/19zI1pAARSE3rV72vWX9Ak) | 5:15 | 2023-03-10 |  |
+| [Rollercoaster](https://open.spotify.com/track/1ffTuRRrqqiDG0T1CPJse8) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [Wilderness Heart](https://open.spotify.com/album/19zI1pAARSE3rV72vWX9Ak) | 5:15 | 2023-03-10 | 2024-02-11 |
 | [Rollercoaster](https://open.spotify.com/track/6cJhk7H8SQj4rzZmRVnK0A) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [Wilderness Heart](https://open.spotify.com/album/7HiIz7nui3LtGVY62ORP3b) | 5:15 | 2021-11-30 | 2022-07-29 |
 | [Rooster \(2022 Remaster\)](https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 6:14 | 2021-11-30 | 2023-03-23 |
 | [Rooster Booster](https://open.spotify.com/track/0v7RT360hYbz6LhNRKaEaJ) | [Brain Police](https://open.spotify.com/artist/3u8Bmkzs6rer0AirAa87iR) | [Beyond the Wasteland](https://open.spotify.com/album/6uRSnF16GbMeK0Lt4TmUqr) | 4:26 | 2021-11-30 | 2022-07-29 |
@@ -291,6 +291,7 @@
 | [The Wizard \- 2014 Remaster](https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 4:22 | 2022-04-28 | 2023-03-23 |
 | [There is Nothing New Under the Sun](https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [There is Nothing New Under the Sun](https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts) | 3:57 | 2021-11-30 | 2024-01-10 |
 | [Therion](https://open.spotify.com/track/6d6kRYVYXDD5MLE2iJK6i6) | [RODEO](https://open.spotify.com/artist/1g3ajXwXHXa0iGFZCnzSfJ) | [Therion](https://open.spotify.com/album/5ALsc13niDZ7ORzmpPOOL9) | 3:18 | 2022-02-22 | 2022-03-18 |
+| [Thornwyck Hymn](https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje) | [My Dying Bride](https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z) | [Thornwyck Hymn](https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k) | 6:47 | 2024-02-09 |  |
 | [Time Is Going On](https://open.spotify.com/track/7LSuJosmvkGr3RJ1o3b0yp) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [Fu30, Pt.1](https://open.spotify.com/album/43zW0PaCnakqNHm98btuno) | 3:38 | 2021-11-30 | 2022-07-28 |
 | [Times Missing](https://open.spotify.com/track/60csY2knifHsghAL0qr5kl) | [Torche](https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili) | [Times Missing](https://open.spotify.com/album/2DyQxKCnSNtbQvQqjVA68U) | 5:04 | 2021-11-30 | 2022-02-14 |
 | [Tired Old Dog](https://open.spotify.com/track/1zcJ1eMjRONHitpcPx0c68) | [The Devil and the Almighty Blues](https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ) | [The Devil and the Almighty Blues](https://open.spotify.com/album/4povLQae4v6OV9EMgAL5YH) | 6:27 | 2021-11-30 | 2022-07-29 |

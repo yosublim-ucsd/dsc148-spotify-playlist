@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 113089,
+  "num_followers": 113115,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWExOGM2YTczZjY4ODQwY2MyMzA5MWJlODNlYWFiNmUzZDdhZTkx",
+  "snapshot_id": "MCw0YTZmOWQ0NmIxZDc5Y2IyZWNjNzg4ZmE2YjFjN2Q3MjI1ODYwZDg3",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -227,6 +227,58 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/43C5SssUVrK56hbM6afOYQ"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        },
+        {
+          "name": "MYKKA",
+          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
+        }
+      ],
+      "duration_ms": 246382,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/0vnrhysrKKRdNYFKLAGzRc"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Pa Ti",
+        "url": "https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 191294,
+      "name": "Pa Ti",
+      "url": "https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Solita",
         "url": "https://open.spotify.com/album/27Exjl2H0oI6X0WCzZd7Bk"
       },
@@ -259,58 +311,6 @@
       "duration_ms": 311726,
       "name": "Solita",
       "url": "https://open.spotify.com/track/7rwX0O3RlxqqIjQM8evm5E"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Pa Ti",
-        "url": "https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 191294,
-      "name": "Pa Ti",
-      "url": "https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/43C5SssUVrK56hbM6afOYQ"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        },
-        {
-          "name": "MYKKA",
-          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
-        }
-      ],
-      "duration_ms": 246382,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/0vnrhysrKKRdNYFKLAGzRc"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1579,34 +1579,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Privado",
-        "url": "https://open.spotify.com/album/4mPO7JkT8H5B71Ij05x4mb"
+        "name": "Flow Cabron",
+        "url": "https://open.spotify.com/album/3hFs9MY8X87KEb8eMhmrUd"
       },
       "artists": [
         {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+          "name": "Tali Goya",
+          "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
         },
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/7viqvBP4uYljgKcqYfLkvu"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Privado",
-      "url": "https://open.spotify.com/track/4Nu07kdmj2GDenygAFmuT8"
+      "duration_ms": 226324,
+      "name": "Flow Cabron",
+      "url": "https://open.spotify.com/track/4RgTZMGajLdnDwyq2WmvB8"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1643,22 +1631,34 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Flow Cabron",
-        "url": "https://open.spotify.com/album/3hFs9MY8X87KEb8eMhmrUd"
+        "name": "Privado",
+        "url": "https://open.spotify.com/album/4mPO7JkT8H5B71Ij05x4mb"
       },
       "artists": [
         {
-          "name": "Tali Goya",
-          "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         },
         {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/7viqvBP4uYljgKcqYfLkvu"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 226324,
-      "name": "Flow Cabron",
-      "url": "https://open.spotify.com/track/4RgTZMGajLdnDwyq2WmvB8"
+      "duration_ms": 260000,
+      "name": "Privado",
+      "url": "https://open.spotify.com/track/4Nu07kdmj2GDenygAFmuT8"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2507,6 +2507,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Estamos Arriba",
+        "url": "https://open.spotify.com/album/48eb5w6QS1v1YnLsw1fNkG"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Estamos Arriba",
+      "url": "https://open.spotify.com/track/0bCPJsVGDxPYwQMDZMi4NW"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "47",
         "url": "https://open.spotify.com/album/22cKRyNqp6SOySriSHqnQH"
       },
@@ -2527,26 +2547,6 @@
       "duration_ms": 253800,
       "name": "47",
       "url": "https://open.spotify.com/track/34a6O6qdKdD1UwbGq9USEh"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Estamos Arriba",
-        "url": "https://open.spotify.com/album/48eb5w6QS1v1YnLsw1fNkG"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "Estamos Arriba",
-      "url": "https://open.spotify.com/track/0bCPJsVGDxPYwQMDZMi4NW"
     },
     {
       "added_at": "2023-05-25 17:50:01",

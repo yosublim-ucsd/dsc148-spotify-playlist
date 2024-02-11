@@ -305,6 +305,28 @@
     },
     {
       "album": {
+        "name": "Cuffed (Jo Tha Mila) (feat. Offset)",
+        "url": "https://open.spotify.com/album/0oINj82Zgt6y1e4J7yX5wT"
+      },
+      "artists": [
+        {
+          "name": "Ananya Birla",
+          "url": "https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166932,
+      "name": "Cuffed (Jo Tha Mila) (feat. Offset)",
+      "url": "https://open.spotify.com/track/3przBQMdeUyPa5cpYptVLi"
+    },
+    {
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },

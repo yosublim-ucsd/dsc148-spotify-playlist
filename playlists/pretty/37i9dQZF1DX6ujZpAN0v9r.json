@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 581907,
+  "num_followers": 582189,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjQwNzIxMTJkZWJkMjBmN2MwZGFmOTczMzVkNWRiNGQ5MzkyMzQy",
+  "snapshot_id": "MCw5NmFiMGQ1MGYxOWZmMjc5M2QwNDk5NTIxYjQ1OTUyYzAyYTU2Yjc5",
   "tracks": [
     {
       "added_at": "2023-12-08 16:49:10",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Dark Spring",
-      "url": "https://open.spotify.com/track/4FskS1jBEsv5hPC0VJgqmm"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "V.",
         "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 447998,
       "name": "Staring At The Sun",
       "url": "https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Dark Spring",
+      "url": "https://open.spotify.com/track/4FskS1jBEsv5hPC0VJgqmm"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Find Yourself Along The Way",
-        "url": "https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl"
-      },
-      "artists": [
-        {
-          "name": "The Meeting Places",
-          "url": "https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL"
-        }
-      ],
-      "duration_ms": 242066,
-      "name": "Now I Know You Could Never Be The One",
-      "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Anak Ko",
         "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
       },
@@ -1087,6 +1071,38 @@
       "duration_ms": 233583,
       "name": "Superbike",
       "url": "https://open.spotify.com/track/0vKV3DiHbzFYzPynsi7eFO"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "Wax and Wane - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Find Yourself Along The Way",
+        "url": "https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl"
+      },
+      "artists": [
+        {
+          "name": "The Meeting Places",
+          "url": "https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL"
+        }
+      ],
+      "duration_ms": 242066,
+      "name": "Now I Know You Could Never Be The One",
+      "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "B-Sides & Rarities",
-        "url": "https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 249013,
-      "name": "Wax and Wane - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Mindfullness",
         "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "The Comforts of Madness (30th Anniversary Reissue)",
-        "url": "https://open.spotify.com/album/25CMjoxhvBmncIaTPMWf4c"
-      },
-      "artists": [
-        {
-          "name": "Pale Saints",
-          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
-        }
-      ],
-      "duration_ms": 112265,
-      "name": "She Rides the Waves - John Peel Sessions",
-      "url": "https://open.spotify.com/track/04pPgXeGkAxAvyhvh09hqc"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Pure Mood",
         "url": "https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 259957,
       "name": "Stare at the Sun",
       "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "The Comforts of Madness (30th Anniversary Reissue)",
+        "url": "https://open.spotify.com/album/25CMjoxhvBmncIaTPMWf4c"
+      },
+      "artists": [
+        {
+          "name": "Pale Saints",
+          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
+        }
+      ],
+      "duration_ms": 112265,
+      "name": "She Rides the Waves - John Peel Sessions",
+      "url": "https://open.spotify.com/track/04pPgXeGkAxAvyhvh09hqc"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Mouth By Mouth",
-        "url": "https://open.spotify.com/album/7bff3Hql4bR05CPNvC0JJs"
-      },
-      "artists": [
-        {
-          "name": "His Name Is Alive",
-          "url": "https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Lip",
-      "url": "https://open.spotify.com/track/2sztc6YzQE9GrPHBBWR8Gv"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Dust and Disquiet",
         "url": "https://open.spotify.com/album/2m4KwsPpsNAenV6ImBv71I"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Depths",
-        "url": "https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1"
+        "name": "Mouth By Mouth",
+        "url": "https://open.spotify.com/album/7bff3Hql4bR05CPNvC0JJs"
       },
       "artists": [
         {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+          "name": "His Name Is Alive",
+          "url": "https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL"
         }
       ],
-      "duration_ms": 281453,
-      "name": "Undercurrent",
-      "url": "https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0"
+      "duration_ms": 179533,
+      "name": "Lip",
+      "url": "https://open.spotify.com/track/2sztc6YzQE9GrPHBBWR8Gv"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1535,6 +1519,22 @@
       "duration_ms": 248186,
       "name": "Lemonade Beauty",
       "url": "https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Depths",
+        "url": "https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1"
+      },
+      "artists": [
+        {
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+        }
+      ],
+      "duration_ms": 281453,
+      "name": "Undercurrent",
+      "url": "https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Slow Burner",
-        "url": "https://open.spotify.com/album/2ea3sE9QzbjsvD4P3G1OmY"
-      },
-      "artists": [
-        {
-          "name": "Almighty Mighty",
-          "url": "https://open.spotify.com/artist/5YxvZqiTuoUgqEuXTDhM0e"
-        }
-      ],
-      "duration_ms": 318560,
-      "name": "Slow Burner",
-      "url": "https://open.spotify.com/track/5wqU8tT3obRDTmqLp1D0Qy"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Landing",
         "url": "https://open.spotify.com/album/2dsjW7n8LYL2i0IcZQ1zN8"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 232333,
       "name": "Landing",
       "url": "https://open.spotify.com/track/6HFea6OugOVC4BPgCkDF2d"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Slow Burner",
+        "url": "https://open.spotify.com/album/2ea3sE9QzbjsvD4P3G1OmY"
+      },
+      "artists": [
+        {
+          "name": "Almighty Mighty",
+          "url": "https://open.spotify.com/artist/5YxvZqiTuoUgqEuXTDhM0e"
+        }
+      ],
+      "duration_ms": 318560,
+      "name": "Slow Burner",
+      "url": "https://open.spotify.com/track/5wqU8tT3obRDTmqLp1D0Qy"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "KIN",
-        "url": "https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd"
-      },
-      "artists": [
-        {
-          "name": "Mogwai",
-          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
-        }
-      ],
-      "duration_ms": 254706,
-      "name": "We\u2019re Not Done (End Title)",
-      "url": "https://open.spotify.com/track/1RBGSieBtIBvojx80RwOfZ"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Honey's Dead",
         "url": "https://open.spotify.com/album/1hsluRV3WUPpeSXSdSL5HF"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 220693,
       "name": "Reverence",
       "url": "https://open.spotify.com/track/2ox2saGAHVx9mhjk8WH50K"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "KIN",
+        "url": "https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "duration_ms": 254706,
+      "name": "We\u2019re Not Done (End Title)",
+      "url": "https://open.spotify.com/track/1RBGSieBtIBvojx80RwOfZ"
     },
     {
       "added_at": "2023-07-17 18:59:20",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "KIN",
-        "url": "https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd"
-      },
-      "artists": [
-        {
-          "name": "Mogwai",
-          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
-        }
-      ],
-      "duration_ms": 383920,
-      "name": "Donuts",
-      "url": "https://open.spotify.com/track/5ClerqCRCZ4K7smUKYYg9e"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Splashdown: The Complete Creation Recordings 1990-1992",
         "url": "https://open.spotify.com/album/2g4LXTfn5vxwW2nO1tt6FG"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 315968,
       "name": "In The Hanging Gardens",
       "url": "https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "KIN",
+        "url": "https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "duration_ms": 383920,
+      "name": "Donuts",
+      "url": "https://open.spotify.com/track/5ClerqCRCZ4K7smUKYYg9e"
     },
     {
       "added_at": "2021-06-03 02:39:04",

@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 20615,
+  "num_followers": 20643,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmI0YjNmNzFjMzBlZGI5ODYzZDdlZDExYWQwMjJlYzIwNjljNmIx",
+  "snapshot_id": "MCxkZmVkN2YyYjA0ZjhmMjAwYjY1YzI4Yzg1MWRkN2ZlNjBlMTNjM2Rh",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -219,26 +219,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Riceboy Sleeps",
-        "url": "https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3nsi",
-          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
-        },
-        {
-          "name": "Alex Somers",
-          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
-        }
-      ],
-      "duration_ms": 560653,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Cendre",
         "url": "https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 229933,
       "name": "Oto",
       "url": "https://open.spotify.com/track/0VhkCytrhq2EjntoAkbjvZ"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Riceboy Sleeps",
+        "url": "https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        },
+        {
+          "name": "Alex Somers",
+          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
+        }
+      ],
+      "duration_ms": 560653,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
-      },
-      "artists": [
-        {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
-        }
-      ],
-      "duration_ms": 236773,
-      "name": "Silent Motels",
-      "url": "https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Yesterday Was Dramatic \u2013 Today Is OK",
         "url": "https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 391466,
       "name": "There Is A Number Of Small Things",
       "url": "https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+      },
+      "artists": [
+        {
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+        }
+      ],
+      "duration_ms": 236773,
+      "name": "Silent Motels",
+      "url": "https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Variations: A Movement In Chrome Primitive",
-        "url": "https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 558800,
-      "name": "Variation IV",
-      "url": "https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Varde",
         "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 418880,
       "name": "chessa",
       "url": "https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Variations: A Movement In Chrome Primitive",
+        "url": "https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 558800,
+      "name": "Variation IV",
+      "url": "https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Prism of Eternal Now",
-        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
+        "name": "Varde",
+        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
       },
       "artists": [
         {
-          "name": "White Rainbow",
-          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
+          "name": "Elegi",
+          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
         }
       ],
-      "duration_ms": 404200,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
+      "duration_ms": 213640,
+      "name": "S\u00f8vnens Kvelertak",
+      "url": "https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Varde",
-        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
-      },
-      "artists": [
-        {
-          "name": "Elegi",
-          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "S\u00f8vnens Kvelertak",
-      "url": "https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Betrayed in the Octagon",
         "url": "https://open.spotify.com/album/0ixr1lXtxFcj31ZGmtqjue"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 524468,
       "name": "Woe is the Transgression I",
       "url": "https://open.spotify.com/track/5f64HunynQvPdqsLFs2wcx"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Prism of Eternal Now",
+        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
+      },
+      "artists": [
+        {
+          "name": "White Rainbow",
+          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
+        }
+      ],
+      "duration_ms": 404200,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
     },
     {
       "added_at": "2023-08-04 12:53:28",

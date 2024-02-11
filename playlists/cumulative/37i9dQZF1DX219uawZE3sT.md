@@ -4,7 +4,7 @@
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-136 songs - 8 hr 29 min
+137 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Insensible A Ti \(Me Pone A Mil\)](https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Orgullo De Mujer](https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3) | 4:03 | 2022-05-06 |  |
 | [La Descarada](https://open.spotify.com/track/0GXGsFQeB1x5H21xjTF2j5) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 3:23 | 2022-05-06 |  |
 | [La fea más bella \- Margarita y Jorge Villamizar de Bacilos](https://open.spotify.com/track/2iBjQQEpZ6U5QmgS19VBuB) | [Soundtrack La Fea mas Bella](https://open.spotify.com/artist/2SEoYfl44iw4suPmQgZqfa) | [Soundtrack La Fea Mas Bella](https://open.spotify.com/album/4sjSNmE07h8DvsFO698JzW) | 3:41 | 2022-05-06 | 2022-07-21 |
-| [La Fuerza Del Destino \(with Marc Anthony\)](https://open.spotify.com/track/28L9MeoW3DabVhjZYZjJ95) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sandra Echeverria](https://open.spotify.com/album/5OdTRhOBNhDQcciIt99KIO) | 4:31 | 2022-05-06 |  |
+| [La Fuerza Del Destino \(with Marc Anthony\)](https://open.spotify.com/track/28L9MeoW3DabVhjZYZjJ95) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sandra Echeverria](https://open.spotify.com/album/5OdTRhOBNhDQcciIt99KIO) | 4:31 | 2022-05-06 | 2024-02-11 |
 | [La Usurpadora](https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [1985\-1998](https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP) | 3:25 | 2022-05-06 |  |
 | [Llena De Amor](https://open.spotify.com/track/5PB9ZQmjF0AVMVkU1fCmZG) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Llena De Amor](https://open.spotify.com/album/0vmlmklIWGTuqqecsfOspb) | 3:42 | 2022-05-06 | 2022-07-27 |
 | [Los Parientes Pobres](https://open.spotify.com/track/7siHKbEHLYTMi32inSZ12D) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero](https://open.spotify.com/album/35WvZBrYxFjftYaz8082t2) | 4:00 | 2022-05-06 | 2022-07-27 |
@@ -102,6 +102,7 @@
 | [Pasión Morena](https://open.spotify.com/track/3ynaj2qSdxEU1iKYKXvH4B) | [Samuel Castelli](https://open.spotify.com/artist/5IwGBugxyxIwxxH5giDX6G) | [Te Amo TV 2](https://open.spotify.com/album/2ArZq2hvALVvlROcVhCb0A) | 3:48 | 2022-05-06 | 2022-07-25 |
 | [Poco A Poco](https://open.spotify.com/track/6HWeLCWaSBw8T10VbhgqFj) | [Jeremías](https://open.spotify.com/artist/1QWZE0CuKISG4P68ykP56E) | [Jeremías](https://open.spotify.com/album/2PHlijdv0EhO91JA8aecxF) | 4:23 | 2022-05-06 | 2022-07-25 |
 | [Poco A Poco](https://open.spotify.com/track/2ecvmWhx9hAqzg6VhBTNSO) | [Jeremías](https://open.spotify.com/artist/1QWZE0CuKISG4P68ykP56E) | [Jeremías](https://open.spotify.com/album/11S1C5Cmq83DilIsvSDWo1) | 4:23 | 2022-05-06 | 2023-03-01 |
+| [Poco A Poco](https://open.spotify.com/track/6PlRNIEZIvkvCZp8CWTKg4) | [Jeremías](https://open.spotify.com/artist/1QWZE0CuKISG4P68ykP56E) | [Jeremías](https://open.spotify.com/album/4lg6lw4GS5ckUlmizqfXiL) | 4:23 | 2022-05-06 |  |
 | [Por Amarte](https://open.spotify.com/track/4AQZNgdG73f2ZdC6VUZqBL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/2NwF2C2Z9sSgePRArAA5cl) | 4:01 | 2022-05-06 | 2022-07-29 |
 | [Por Amarte](https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 4:04 | 2022-05-06 |  |
 | [Por Amarte \(Destilando Amor\)](https://open.spotify.com/track/0xnzXKmN99EFnnFZAKJOUa) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Enamorado](https://open.spotify.com/album/5srqyIwlkQ9ksMRHeXq3wv) | 3:49 | 2022-05-06 |  |

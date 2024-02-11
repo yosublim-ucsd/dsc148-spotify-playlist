@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 156732,
+  "num_followers": 156760,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzJhNDE0OGIwMjllN2M5MDJmZTAyMzJmNjIyODAxMTEzNzBlNjMw",
+  "snapshot_id": "MCw5YzIxNDFlYjIxZWRhYjg2NTY3MDUwMDE2ZDgwNTlkNjA4NDY0NmIz",
   "tracks": [
     {
       "added_at": "2024-02-09 17:00:27",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-02-09 17:00:27",
       "album": {
+        "name": "UM44K Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "Pode falar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
+    },
+    {
+      "added_at": "2024-02-09 17:00:27",
+      "album": {
         "name": "Algum Lugar Pra Gente Viajar",
         "url": "https://open.spotify.com/album/6aAjEIdDknOBlN32T2SbuI"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 312000,
       "name": "Algum Lugar Pra Gente Viajar",
       "url": "https://open.spotify.com/track/63r2vryWNB2R9q3iTu0VzI"
-    },
-    {
-      "added_at": "2024-02-09 17:00:27",
-      "album": {
-        "name": "UM44K Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "Pode falar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
     },
     {
       "added_at": "2024-02-09 17:00:27",
@@ -1075,6 +1075,30 @@
     {
       "added_at": "2024-02-09 17:00:27",
       "album": {
+        "name": "De F\u00e9rias Com O WEY",
+        "url": "https://open.spotify.com/album/7jXxwDkJ5f63wjRuXI8d2A"
+      },
+      "artists": [
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Class A",
+          "url": "https://open.spotify.com/artist/65ZLHgyZxmEMcWFyyeNkjF"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "De F\u00e9rias Com O WEY",
+      "url": "https://open.spotify.com/track/44gLlJcTjyTRJ2KFip1I6r"
+    },
+    {
+      "added_at": "2024-02-09 17:00:27",
+      "album": {
         "name": "Djavu",
         "url": "https://open.spotify.com/album/3teEapeQnAL8iGDlIUb9Cq"
       },
@@ -1099,30 +1123,6 @@
       "duration_ms": 251600,
       "name": "Djavu",
       "url": "https://open.spotify.com/track/2WH637f5jibXgY3Be06EC9"
-    },
-    {
-      "added_at": "2024-02-09 17:00:27",
-      "album": {
-        "name": "De F\u00e9rias Com O WEY",
-        "url": "https://open.spotify.com/album/7jXxwDkJ5f63wjRuXI8d2A"
-      },
-      "artists": [
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Class A",
-          "url": "https://open.spotify.com/artist/65ZLHgyZxmEMcWFyyeNkjF"
-        },
-        {
-          "name": "2050",
-          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "De F\u00e9rias Com O WEY",
-      "url": "https://open.spotify.com/track/44gLlJcTjyTRJ2KFip1I6r"
     },
     {
       "added_at": "2024-02-09 17:00:27",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2024-02-09 17:00:27",
       "album": {
+        "name": "Mapa Astral",
+        "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
+      },
+      "artists": [
+        {
+          "name": "Zoli",
+          "url": "https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6"
+        },
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        }
+      ],
+      "duration_ms": 193620,
+      "name": "Mapa Astral",
+      "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
+    },
+    {
+      "added_at": "2024-02-09 17:00:27",
+      "album": {
         "name": "Elementar",
         "url": "https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq"
       },
@@ -1207,26 +1227,6 @@
     {
       "added_at": "2024-02-09 17:00:27",
       "album": {
-        "name": "Mapa Astral",
-        "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
-      },
-      "artists": [
-        {
-          "name": "Zoli",
-          "url": "https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6"
-        },
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        }
-      ],
-      "duration_ms": 193620,
-      "name": "Mapa Astral",
-      "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
-    },
-    {
-      "added_at": "2024-02-09 17:00:27",
-      "album": {
         "name": "Doses",
         "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 206210,
       "name": "Doses",
       "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
+    },
+    {
+      "added_at": "2024-02-09 17:00:27",
+      "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
     },
     {
       "added_at": "2024-02-09 17:00:27",
@@ -1259,22 +1275,6 @@
       "duration_ms": 183700,
       "name": "Mais uma Chance",
       "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
-    },
-    {
-      "added_at": "2024-02-09 17:00:27",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
     },
     {
       "added_at": "2024-02-09 17:00:27",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2024-02-09 17:00:27",
       "album": {
+        "name": "Vento Bom",
+        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
+      },
+      "artists": [
+        {
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
+        },
+        {
+          "name": "Mc Tek\u00e1da-B",
+          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
+        }
+      ],
+      "duration_ms": 169409,
+      "name": "Vento Bom",
+      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
+    },
+    {
+      "added_at": "2024-02-09 17:00:27",
+      "album": {
         "name": "Voe",
         "url": "https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs"
       },
@@ -1343,26 +1363,6 @@
       "duration_ms": 152000,
       "name": "Voe",
       "url": "https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc"
-    },
-    {
-      "added_at": "2024-02-09 17:00:27",
-      "album": {
-        "name": "Vento Bom",
-        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
-      },
-      "artists": [
-        {
-          "name": "MC 2jhow",
-          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
-        },
-        {
-          "name": "Mc Tek\u00e1da-B",
-          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
-        }
-      ],
-      "duration_ms": 169409,
-      "name": "Vento Bom",
-      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
     },
     {
       "added_at": "2024-02-09 17:00:27",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2024-02-09 17:00:27",
       "album": {
+        "name": "Santa Catarina",
+        "url": "https://open.spotify.com/album/4DFsz1To8t0Bwu29ExBBJX"
+      },
+      "artists": [
+        {
+          "name": "PK Delas",
+          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
+        },
+        {
+          "name": "Ti\u00e9l",
+          "url": "https://open.spotify.com/artist/6KyHLY2nxKSNDugeKpldQ4"
+        }
+      ],
+      "duration_ms": 95483,
+      "name": "Santa Catarina",
+      "url": "https://open.spotify.com/track/0AQWxcKYGsjuarEkpeiYwR"
+    },
+    {
+      "added_at": "2024-02-09 17:00:27",
+      "album": {
         "name": "Meia Hora",
         "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
       },
@@ -1711,26 +1731,6 @@
       "duration_ms": 188911,
       "name": "Estrela do Bairro",
       "url": "https://open.spotify.com/track/1QhYZN26nrWchzfbURdaNv"
-    },
-    {
-      "added_at": "2024-02-09 17:00:27",
-      "album": {
-        "name": "Santa Catarina",
-        "url": "https://open.spotify.com/album/4DFsz1To8t0Bwu29ExBBJX"
-      },
-      "artists": [
-        {
-          "name": "PK Delas",
-          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
-        },
-        {
-          "name": "Ti\u00e9l",
-          "url": "https://open.spotify.com/artist/6KyHLY2nxKSNDugeKpldQ4"
-        }
-      ],
-      "duration_ms": 95483,
-      "name": "Santa Catarina",
-      "url": "https://open.spotify.com/track/0AQWxcKYGsjuarEkpeiYwR"
     }
   ],
   "unique_name": "Resenha na Praia",

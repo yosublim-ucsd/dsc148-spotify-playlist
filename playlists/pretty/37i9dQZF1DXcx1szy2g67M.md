@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Zo klinkt de winter van 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,743 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,796 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 99 | [OMG It's Happening](https://open.spotify.com/track/3UDWgZznpvkwYx92b0hjJ8) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [OMG It's Happening](https://open.spotify.com/album/46JiaUNCZPaPF0zZzE1Hu8) | 2:59 |
 | 100 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 
-Snapshot ID: `MCxjNWQzZDgyYTA3ZTNhY2ZmNzBmM2IyNjhkMTY2NTAyNmUyOWIxMjI1`
+Snapshot ID: `MCw4Y2NkNzNhNzczYjU1MTNiZjU5ZWYwMWU3OGJlZDAwNzljY2FlN2U0`

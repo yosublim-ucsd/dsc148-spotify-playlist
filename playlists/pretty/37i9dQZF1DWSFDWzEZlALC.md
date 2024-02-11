@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,428 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,521 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 14 | [Galaxis](https://open.spotify.com/track/2ngK3wxFAWhsn3oyKFAaeb) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [EKSTASE](https://open.spotify.com/album/7qn6KrafYuBOj2bgn4FXvM) | 2:55 |
 | 15 | [17](https://open.spotify.com/track/1wAJLsPc9pNO2yzFAuFk2m) | [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [17](https://open.spotify.com/album/2xPTxfLnobXeRMtwX4KRrt) | 3:05 |
 | 16 | [immatrikuliert](https://open.spotify.com/track/0IQN1UjYkpP8I36Z7HrNfC) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [immatrikuliert](https://open.spotify.com/album/5YW9rJ154VueLdV3n7v0rW) | 2:24 |
-| 17 | [vermiss nicht mehr](https://open.spotify.com/track/226lOE0355w0RBUXsn3XWV) | [Mika Noé](https://open.spotify.com/artist/27ym8iukxLqQCcA5xbmSfM) | [vermiss nicht mehr](https://open.spotify.com/album/37djXxoBTq8AzNuJBA8XkZ) | 2:53 |
+| 17 | [vermiss nicht mehr](https://open.spotify.com/track/226lOE0355w0RBUXsn3XWV) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [vermiss nicht mehr](https://open.spotify.com/album/37djXxoBTq8AzNuJBA8XkZ) | 2:53 |
 | 18 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 |
 | 19 | [Drachenfrucht](https://open.spotify.com/track/5mDZnH5AtLhmmz45i4Ru8X) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Drachenfrucht](https://open.spotify.com/album/38x0C388O3eX76t2kmfZeD) | 3:06 |
 | 20 | [5 neue sorgen](https://open.spotify.com/track/4hZKwJ0XKPKAsfdEXOrPik) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [5 neue sorgen](https://open.spotify.com/album/0HIHYFw3F6Swht6XLpJGwf) | 2:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [BLa\*\_\*](https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [BLa\*\_\*](https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK) | 2:27 |
 | 75 | [Balladen](https://open.spotify.com/track/2Sww227sDMO4volJHpOval) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG), [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Balladen](https://open.spotify.com/album/3M9OiEvddu4EiNxVDdrDJ6) | 3:26 |
 
-Snapshot ID: `MCw0YzY2YmJmZmZlYTBlZWZlZTQyNjFlODBkMTVjYzc1NmM1MzMxYzli`
+Snapshot ID: `MCwxOWQzN2U3MDE4NWY3NjNiOWE1OGQyYjFjMjM4N2ZkNDY3M2FmNTA0`

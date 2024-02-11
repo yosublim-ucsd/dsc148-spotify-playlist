@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 328688,
+  "2024-02-11": 328743,
   "date_first_scraped": "2022-01-02",
   "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Trueno en portada. ",
   "name": "Rap en Espa\u00f1ol",
@@ -1933,7 +1933,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 274311,
       "name": "Entrevisi\u00f3n",
       "url": "https://open.spotify.com/track/43IwgGI2OQzvELeFa0j1JQ"
@@ -2153,7 +2153,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 156254,
       "name": "Flavor",
       "url": "https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ"
@@ -5634,6 +5634,36 @@
     },
     {
       "album": {
+        "name": "Tensi\u00f3n",
+        "url": "https://open.spotify.com/album/3hCkYv6L9uhcXnoIqvJzSJ"
+      },
+      "artists": [
+        {
+          "name": "Never Die",
+          "url": "https://open.spotify.com/artist/4erhclLz9x7J1JOpNdEK2Z"
+        },
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        },
+        {
+          "name": "Bizor",
+          "url": "https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7"
+        },
+        {
+          "name": "Mike Diaz",
+          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175400,
+      "name": "Tensi\u00f3n",
+      "url": "https://open.spotify.com/track/1bfMxV2zzeFytzlW53xdCX"
+    },
+    {
+      "album": {
         "name": "THE ROOKIE",
         "url": "https://open.spotify.com/album/5ffp7jVauYWxTDvfBSvhpq"
       },
@@ -6171,6 +6201,24 @@
       "duration_ms": 194042,
       "name": "Vida Eterna",
       "url": "https://open.spotify.com/track/6dILZGMSEuaIqx7DnNhz5C"
+    },
+    {
+      "album": {
+        "name": "VITALICIO",
+        "url": "https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "VITALICIO",
+      "url": "https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy"
     },
     {
       "album": {

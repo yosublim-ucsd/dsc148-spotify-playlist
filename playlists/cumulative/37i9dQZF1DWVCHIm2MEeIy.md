@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩
 
-365 songs - 1 day 9 hr 12 min
+366 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Other Side](https://open.spotify.com/track/6pZVmX53ZAFis8ambncbZj) | [Binaryh](https://open.spotify.com/artist/7zw8gWmNncuk2QZHIc70So), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Sensitivity Spirals](https://open.spotify.com/album/0WN8HExI3A6hQCmFEOlXsx) | 6:56 | 2022-05-20 | 2023-11-16 |
 | [Owl](https://open.spotify.com/track/6eDMGMqRXJCBJ4TSSupPV1) | [Markus Gardeweg](https://open.spotify.com/artist/61Z2VOSs2wa7II0ex4jcEu), [Hagen Feetly](https://open.spotify.com/artist/3mnrTDPzT8EwZSFAhFprnC) | [Owl](https://open.spotify.com/album/3N6HsfvSiWMa3vmFrvgjcL) | 3:58 | 2022-05-20 | 2022-07-18 |
 | [Paper Aeroplane \(feat\. Leo Stannard\)](https://open.spotify.com/track/0KaVFd0jKjEjX0Xc5gmHc7) | [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Paper Aeroplane \(feat\. Leo Stannard\)](https://open.spotify.com/album/1aXKAtOlUmGlPco5YvXkZ1) | 2:46 | 2022-04-15 | 2022-08-13 |
-| [Paradise \- Âme Remix](https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Paradise \(Âme Remix\)](https://open.spotify.com/album/5TeEwBih6CBovsO6sFYqtb) | 4:04 | 2022-04-15 |  |
+| [Paradise \- Âme Remix](https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Paradise \(Âme Remix\)](https://open.spotify.com/album/5TeEwBih6CBovsO6sFYqtb) | 4:04 | 2022-04-15 | 2024-02-11 |
 | [Paris](https://open.spotify.com/track/0k4A0wcdZLY0OSQ1ugfi3J) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Paris](https://open.spotify.com/album/2UJpW4aO9nXGEh7arP5uW8) | 3:21 | 2022-04-15 | 2022-04-21 |
 | [Pequeño Amor](https://open.spotify.com/track/6HkeeG8B0QHpjhLfkoT2Ys) | [Pitto](https://open.spotify.com/artist/4qGSmvW1ZXE9qeXUdoFuTG), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Back to You](https://open.spotify.com/album/6gEPIRjihArdcdmZ4i2zgo) | 6:06 | 2022-10-29 | 2022-11-15 |
 | [Pequeño Amor](https://open.spotify.com/track/7CV96EHpL4Xd1MXISAQr8O) | [Pitto](https://open.spotify.com/artist/4qGSmvW1ZXE9qeXUdoFuTG), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Back to You](https://open.spotify.com/album/6kRoEOzwNU22R0SmjSNd3I) | 6:06 | 2023-06-30 | 2023-11-16 |
@@ -288,6 +288,7 @@
 | [Serendipity](https://open.spotify.com/track/6qw42FVO2fhF0C8EetLU09) | [Mila Journée](https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB) | [Serendipity](https://open.spotify.com/album/6ddinwnruM1OHC70UzZxiQ) | 6:08 | 2022-11-15 | 2022-11-26 |
 | [Set My Mind Free](https://open.spotify.com/track/6YG9ny9p9PmMjIyJ0B1pVw) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Set My Mind Free](https://open.spotify.com/album/3ecx2vhbNcocjrQ0M74TnO) | 3:00 | 2022-10-07 |  |
 | [She Could!](https://open.spotify.com/track/1twqQpzBuaDtwfAU7CXH9d) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo) | [She Could!](https://open.spotify.com/album/1lrDC0vFrAASm3z1K3iTW5) | 7:04 | 2022-11-14 |  |
+| [Shelter](https://open.spotify.com/track/2scX5RdL0wByroF3sCBzDX) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Belonging](https://open.spotify.com/album/3HOoATRaFgwq2VsAaWvmbh) | 4:14 | 2024-02-08 |  |
 | [Shinsetsu](https://open.spotify.com/track/54H6bHNXRVxBuLmZADtRkV) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shinsetsu](https://open.spotify.com/album/6UqkzKbzEYtSYUtcA0Z2ED) | 8:03 | 2022-04-15 | 2022-07-29 |
 | [Si Soy Fuego](https://open.spotify.com/track/6oa8rEFHMIrYpHh3AmsaMa) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Si Soy Fuego](https://open.spotify.com/album/4kqAFegAsBLlAr9mWWOqOE) | 5:20 | 2022-04-15 | 2024-01-23 |
 | [Silence](https://open.spotify.com/track/2QKv1gdooWYYvFo3YZaMcE) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Maurice Kaar](https://open.spotify.com/artist/4Tj0xN2fUJ8nxZEq5ikSRa) | [Silence](https://open.spotify.com/album/0bukLAr1ttYfDlBJ81qKYp) | 3:50 | 2023-11-14 |  |

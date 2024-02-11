@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Loredana Bertè
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,436 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,391 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 4 | [ARABA](https://open.spotify.com/track/5tjWDHOCqsbKPuiivil0BM) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ARABA](https://open.spotify.com/album/6qk5ajwfXB8QplASyF7lXH) | 2:13 |
 | 5 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 |
 | 6 | [Faded \(Raw\)](https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Faded \(Raw\)](https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb) | 2:55 |
-| 7 | [Semua Aku Dirayakan](https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Semua Aku Dirayakan](https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ) | 5:10 |
-| 8 | [La noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [La noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 |
+| 7 | [La noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [La noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 |
+| 8 | [Semua Aku Dirayakan](https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Semua Aku Dirayakan](https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ) | 5:10 |
 | 9 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 |
 | 10 | [Teresa & Maria](https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Teresa & Maria](https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB) | 2:59 |
 | 11 | [Cheeky](https://open.spotify.com/track/7xePsiaOdxT9lkTck9Uv8t) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Cheeky](https://open.spotify.com/album/6lLyrH0Und9dYATr4F9Pjh) | 2:22 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 16 | [Pentru ca](https://open.spotify.com/track/6xAefOqCvDKEcOjPovAMc6) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY) | [Pentru ca](https://open.spotify.com/album/6xA5uMZ5SLFnv2K9IVKOUx) | 3:12 |
 | 17 | [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 |
 | 18 | [你的童話 \(電視劇《你也有今天》片尾曲\)](https://open.spotify.com/track/1yKfefGYc9vk125q1OrSPm) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [你的童話](https://open.spotify.com/album/5lCV1ehKM7jma7XgLQF2KD) | 5:27 |
-| 19 | [Bravo](https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Bravo](https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu) | 3:11 |
-| 20 | [Em nên yêu cô ta](https://open.spotify.com/track/6u8BfDFmGXZRkxfd8M3PSp) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [CAM'ON](https://open.spotify.com/album/5tZXLMvuV0A4HYbU9tcQrg) | 4:01 |
+| 19 | [Em nên yêu cô ta](https://open.spotify.com/track/6u8BfDFmGXZRkxfd8M3PSp) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [CAM'ON](https://open.spotify.com/album/5tZXLMvuV0A4HYbU9tcQrg) | 4:01 |
+| 20 | [Bravo](https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Bravo](https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu) | 3:11 |
 | 21 | [la raíz](https://open.spotify.com/track/03tz2giwv6Jv0Sl5bXDy0A) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [con cariño y con cuidado](https://open.spotify.com/album/5AHM4rMUidenTvhMQb4cz7) | 3:44 |
 | 22 | [Scoot](https://open.spotify.com/track/0BWHEpxLHY3SwRDUhh6R8a) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Scoot](https://open.spotify.com/album/2aQtwWXSu415RZ8zgl7ll7) | 2:57 |
 | 23 | [Hold On](https://open.spotify.com/track/3TgC7pFFpyzq0OK0M7bJ6y) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um), [Youngveer](https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI) | [Hold On](https://open.spotify.com/album/5HQX1XxtrTDVMUnf9okqVt) | 3:06 |
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 28 | [Mine](https://open.spotify.com/track/1K4W4T2b5mTzvmrVzVa7yH) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Mine](https://open.spotify.com/album/61brdiy3qEnUfbWWALxipD) | 2:41 |
 | 29 | [Все невипадково](https://open.spotify.com/track/5hjBItGjGd9JIFv5sltLIQ) | [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Віддаю](https://open.spotify.com/album/0KZVsgKj9r6pwqdohzFWy8) | 3:04 |
 | 30 | [Gönlümün Balkonu](https://open.spotify.com/track/1F0bRB1uo9a8uMO5RrQBd8) | [Şenceylik](https://open.spotify.com/artist/571gGI6PcQbBN0SZ5QEI5i) | [Eteğimdeki Taşlar](https://open.spotify.com/album/0kKWs0ComnwZkfZyeTgMkI) | 3:57 |
-| 31 | [somebody's daughter](https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/04IWjF3yuXKw8kN8SiIiwk) | 2:54 |
-| 32 | [คิดมากแต่ไม่มากเท่าคิดถึงเธอ \- Melatonin](https://open.spotify.com/track/3PzEupYTcbnYC9Qae05hG9) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [คิดมากแต่ไม่มากเท่าคิดถึงเธอ \(Melatonin\)](https://open.spotify.com/album/1HCRQm24bs0w8qfA6MpJ5t) | 3:15 |
+| 31 | [คิดมากแต่ไม่มากเท่าคิดถึงเธอ \- Melatonin](https://open.spotify.com/track/3PzEupYTcbnYC9Qae05hG9) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [คิดมากแต่ไม่มากเท่าคิดถึงเธอ \(Melatonin\)](https://open.spotify.com/album/1HCRQm24bs0w8qfA6MpJ5t) | 3:15 |
+| 32 | [somebody's daughter](https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/04IWjF3yuXKw8kN8SiIiwk) | 2:54 |
 | 33 | [חיבוק אחרון](https://open.spotify.com/track/16a8kHfP9No2P9zqULmhtD) | [Inbal Bibi](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc) | [חיבוק אחרון](https://open.spotify.com/album/6rYUd3vvCwvRdqW0o6W5Ms) | 2:53 |
 | 34 | [Know How](https://open.spotify.com/track/4ERFzjhhC0CwzmtzsAerAN) | [Dara Rolins](https://open.spotify.com/artist/6Tv7lGZFGzalpRGE3aonac), [Peter Pann](https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X) | [Know How](https://open.spotify.com/album/1UiY8YvbGr3qi5DK0UHZCn) | 3:08 |
-| 35 | [I can’t be you](https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | ["I"](https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww) | 3:37 |
-| 36 | [Płonę](https://open.spotify.com/track/0xEjng5qh5HdVhRo6LKRb8) | [PAULA ROMA](https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs) | [Płonę](https://open.spotify.com/album/1Lh4Zdn7pkwS0wJhvN1WaS) | 3:29 |
+| 35 | [Płonę](https://open.spotify.com/track/0xEjng5qh5HdVhRo6LKRb8) | [PAULA ROMA](https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs) | [Płonę](https://open.spotify.com/album/1Lh4Zdn7pkwS0wJhvN1WaS) | 3:29 |
+| 36 | [I can’t be you](https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | ["I"](https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww) | 3:37 |
 | 37 | [liar](https://open.spotify.com/track/5KjJiwSwzhF7lGLjfLkoxp) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [liar](https://open.spotify.com/album/54mhTR3nIgCG5jJa0bf5ME) | 3:14 |
 | 38 | [Mula](https://open.spotify.com/track/1gh9BcsC8eU0FlH5JEuUEV) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Mula](https://open.spotify.com/album/34oz7Evonovs53OIyZFvDQ) | 3:00 |
 | 39 | [Goodbye Letter](https://open.spotify.com/track/3dyYVOZcDsqk3TiIyUJlqU) | [ise](https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH) | [Goodbye Letter](https://open.spotify.com/album/4P7lsbjehz1NEWxXxZKWY5) | 3:43 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 48 | [I Can’t Help It](https://open.spotify.com/track/3qkuBtJS1tpOQS3RWKtOYb) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Me](https://open.spotify.com/album/2t5ITokLUc5PmrT9B5XRza) | 3:01 |
 | 49 | [TOKYOITE](https://open.spotify.com/track/6CyZCDqEgRAMjbJrzkpWnT) | [TOMOKO IDA](https://open.spotify.com/artist/3OASAh5sU55fyujccaeUmB) | [TOKYOITE](https://open.spotify.com/album/3MtWoSQsfhcelBCzUwaLAB) | 2:48 |
 
-Snapshot ID: `MCxhNWE0NWUxZGZjZjA1ZjNiZjcyOTkwNmM3MDUzZTVkODMyOGUwNDkx`
+Snapshot ID: `MCw2NmI4MjFhYmMxNDJkNjdiZGVjMjFlNGRkNzk5MmU5Y2ZiZTQ4MDk1`

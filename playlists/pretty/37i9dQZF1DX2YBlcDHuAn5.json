@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 6868,
+  "num_followers": 6871,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzY3ZDNmMjZkY2FkMzRlMTk1YjllMWU0YWRmZDdkMjkzNDI3MzE3",
+  "snapshot_id": "MCw3NTQ3Mzk4YWY0NTRmZjZiYzZmZGZjZWIxMGJlM2Y2NTY3NzI4YjRl",
   "tracks": [
     {
       "added_at": "2024-02-01 23:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Fruits Of My Labor",
-        "url": "https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Fruits Of My Labor",
-      "url": "https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Love Is A Place",
         "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 185542,
       "name": "Love Is A Place",
       "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Fruits Of My Labor",
+        "url": "https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Fruits Of My Labor",
+      "url": "https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP"
     },
     {
       "added_at": "2024-02-01 23:00:00",

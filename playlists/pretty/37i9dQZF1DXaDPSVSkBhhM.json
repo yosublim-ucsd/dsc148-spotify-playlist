@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 67021,
+  "num_followers": 67027,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDI1MmM4ZjljYjRiYzMwNWM0ZDA2MjFmN2NlMjA2NGE5YjIyMjU4",
+  "snapshot_id": "MCxkMzMxOWFlZmZhOWQ2NTFlNWUzNTlmMjdhNzg1NzIzYzJkMzVjOGZm",
   "tracks": [
     {
       "added_at": "2023-10-27 21:57:42",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Entre La Guerra Y El Amor",
-        "url": "https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV"
-      },
-      "artists": [
-        {
-          "name": "Delux",
-          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Quemando Cartas",
-      "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "UNODOCE",
         "url": "https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 73533,
       "name": "UNODOCE",
       "url": "https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Entre La Guerra Y El Amor",
+        "url": "https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV"
+      },
+      "artists": [
+        {
+          "name": "Delux",
+          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Quemando Cartas",
+      "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Te Vale Madre",
-        "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "Te Vale Madre",
-      "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
         "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 214592,
       "name": "Espero Nadie Ocupe Mi Lugar",
       "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Te Vale Madre",
+        "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 190933,
+      "name": "Te Vale Madre",
+      "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
+        "name": "Un X100To (Cover)",
+        "url": "https://open.spotify.com/album/0jZNt1uX0aBjDWatpmv0mN"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 166265,
+      "name": "Un X100To - Cover",
+      "url": "https://open.spotify.com/track/5jAy79SzEzta9iXoGOeTfp"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
         "name": "Nunca Me Voy a Ir",
         "url": "https://open.spotify.com/album/67YPCFbxBiQQNujPVpVOUS"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 151829,
       "name": "Nunca Me Voy a Ir",
       "url": "https://open.spotify.com/track/5IKIuPYuH1tnRFXrQ003VG"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
-        "name": "Un X100To (Cover)",
-        "url": "https://open.spotify.com/album/0jZNt1uX0aBjDWatpmv0mN"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 166265,
-      "name": "Un X100To - Cover",
-      "url": "https://open.spotify.com/track/5jAy79SzEzta9iXoGOeTfp"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
+        "name": "Nadie Me Entiende",
+        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nadie Me Entiende",
+      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
         "name": "Siempre Resistir / Nunca Desistir",
         "url": "https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 234773,
       "name": "Escribe Una Canci\u00f3n",
       "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
-        "name": "CRISIS",
-        "url": "https://open.spotify.com/album/1KkuK9uYHUFAgTLFjTpG0R"
-      },
-      "artists": [
-        {
-          "name": "MIKI",
-          "url": "https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss"
-        }
-      ],
-      "duration_ms": 174352,
-      "name": "Miedo A Caer (Opening 3 Latino Sub.amv)",
-      "url": "https://open.spotify.com/track/7JVkWGxZo44Jmrb9hbDIpA"
     }
   ],
   "unique_name": "Escena Pop Punk",

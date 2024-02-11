@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 161690,
+  "2024-02-11": 161730,
   "date_first_scraped": "2022-04-22",
   "description": "Sangre fresca en las escenas del indie y el rock. Bersuit Vergarabat en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
@@ -1603,6 +1603,28 @@
       "duration_ms": 136413,
       "name": "Desde Afuera",
       "url": "https://open.spotify.com/track/2S40OvSsD1hEK1tsuFz4CS"
+    },
+    {
+      "album": {
+        "name": "Desde el Ba\u00f1o",
+        "url": "https://open.spotify.com/album/4opzYLNdL1CwP12oJf4fmR"
+      },
+      "artists": [
+        {
+          "name": "Kerigma",
+          "url": "https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB"
+        },
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261052,
+      "name": "Desde el Ba\u00f1o - Remix",
+      "url": "https://open.spotify.com/track/5DJR5wnJfgVrnk4ggFOx07"
     },
     {
       "album": {
@@ -3363,7 +3385,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 214875,
       "name": "Last\u00edmame",
       "url": "https://open.spotify.com/track/6bFrs6WlBhAXEk5vt9Me7f"
@@ -3547,6 +3569,24 @@
       "duration_ms": 190023,
       "name": "Lo dejo",
       "url": "https://open.spotify.com/track/2T0yb0dYi8My9xNiy9aET2"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250696,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
     },
     {
       "album": {
@@ -5555,7 +5595,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 166058,
       "name": "Quer\u00eda Olvidarte",
       "url": "https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5"
@@ -6445,7 +6485,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 240814,
       "name": "Te entiendo",
       "url": "https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ"
@@ -7113,6 +7153,24 @@
       "duration_ms": 209593,
       "name": "Vespa",
       "url": "https://open.spotify.com/track/7INcpSg0DEDdtm5DWmmYX9"
+    },
+    {
+      "album": {
+        "name": "Imperfecto Extra\u00f1o",
+        "url": "https://open.spotify.com/album/1xWHQFcS9qDf0cXX6NXcPK"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265386,
+      "name": "Vida En El Espejo",
+      "url": "https://open.spotify.com/track/2yThUakfNYwaToGaKJxKEK"
     },
     {
       "album": {

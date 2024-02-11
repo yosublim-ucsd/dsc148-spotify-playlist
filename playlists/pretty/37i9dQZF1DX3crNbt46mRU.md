@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Mahmood
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,211 likes - 106 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,214 likes - 106 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 63 | [City Lights](https://open.spotify.com/track/53RtHfvyr0f6yj1uLy5bxY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [City Lights](https://open.spotify.com/album/1lfQlXzzgUbMBNQmyrDBhp) | 3:56 |
 | 64 | [I Keep Hearing Bingo](https://open.spotify.com/track/4lU9giwUURnmv7d2CXYHdP) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [I Keep Hearing Bingo](https://open.spotify.com/album/1GsfO6jmqFMvjddVPi6pnm) | 2:25 |
 | 65 | [ONE NiGHT STAND \(ONS\)](https://open.spotify.com/track/1TWqmtN3u2peKwZHPP36gX) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Katja Krasavice](https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE) | [ONE NiGHT STAND \(ONS\)](https://open.spotify.com/album/3Y8P5Y0HwyqG6BBDOimEjS) | 2:09 |
-| 66 | [Pictures of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 |
+| 66 | [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 |
 | 67 | [GEISTERHAUS](https://open.spotify.com/track/60ptV8amItfuvUowMXPxbz) | [lityway](https://open.spotify.com/artist/2fu4Q8SANwMZ2rWS5hqjcA), [yungfijay](https://open.spotify.com/artist/1BSxPCMKlpMH2NbPp3IAdm) | [GEISTERHAUS](https://open.spotify.com/album/1flKry5wnO7qDpHPvEkEcm) | 2:37 |
 | 68 | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/album/6yVgRdy62kDlrxeV3nBQOv) | 2:37 |
 | 69 | [Heart's Desire](https://open.spotify.com/track/1FOIkPFmShdGvUR7JImeyZ) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Heart's Desire](https://open.spotify.com/album/6f5Aw8kUuEaLRlrk6nkccm) | 3:20 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 105 | [Call Me, Daddy](https://open.spotify.com/track/7lni3By1cTAsXdblOV39P1) | [Maxine Julian](https://open.spotify.com/artist/1EeyrU6wNgHmSNmG5dZYEv) | [Call Me, Daddy](https://open.spotify.com/album/6SUTOA2NQHMruO88zNsG15) | 3:39 |
 | 106 | [Hello Radio](https://open.spotify.com/track/5ry7JlYd3Y0M6g0oBrwWcM) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Hello Radio](https://open.spotify.com/album/2BE10dZdsbTBeTUfq5c4mr) | 3:00 |
 
-Snapshot ID: `MCw4YTk0ZTlhMWY5ZjE5MmZkZDU3NGJlMWFlZjE0MWUyMWY0MzgwZGZh`
+Snapshot ID: `MCw5M2YwZWViZTA4NWU3YTMwMjMyNzI4MTAxMzY0MjNjYmFiMWViMDQy`

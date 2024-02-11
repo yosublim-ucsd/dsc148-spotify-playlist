@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,107 likes - 114 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,158 likes - 114 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 87 | [Vuoddaga](https://open.spotify.com/track/2t5jOlBZr9FYWlLPUNBhCv) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Vuoddaga](https://open.spotify.com/album/05lyQG6dL70WJ7S8aRcBwu) | 3:43 |
 | 88 | [ETT GRAM TILL](https://open.spotify.com/track/1SkFRyQG78PNIjzOC3Lbxg) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [ETT GRAM TILL](https://open.spotify.com/album/339gVHEs61FkoLn5FpMNNq) | 2:24 |
 | 89 | [BLACK OPS \(with Denzel Curry\)](https://open.spotify.com/track/1Cb2etQ6t2ATWoKuOpDWuF) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [BLACK OPS](https://open.spotify.com/album/14oDRWe0eLnUBKmekIAZkb) | 2:53 |
-| 90 | [Pictures of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 |
+| 90 | [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 |
 | 91 | [Here To Dance](https://open.spotify.com/track/2HsdZX6NDNgI7kx5HaOWYr) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Here To Dance](https://open.spotify.com/album/5x39VhgLcnKUQjekc0uZuC) | 2:05 |
 | 92 | [heat](https://open.spotify.com/track/0qB6vfLUW11bMGjz8SHvtt) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [heat](https://open.spotify.com/album/7N1nx9qGHk0KpDDgJNtG6z) | 3:06 |
 | 93 | [Your Body](https://open.spotify.com/track/7hieuAetWnTNSWctpbsRqn) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [BeMyFiasco](https://open.spotify.com/artist/2WDSk4ZbwCw2E99XV6gkRk), [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS) | [Your Body](https://open.spotify.com/album/08z8sSLaf8O4mFyCtGzULu) | 3:15 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 113 | [1980](https://open.spotify.com/track/4lH1baPxaMaQf2mp9MI3Zx) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [1980](https://open.spotify.com/album/0yrQGib2jAdrQbbUWCMSyy) | 6:22 |
 | 114 | [Hardstyle Fish](https://open.spotify.com/track/4CkMLm0u5s9T3XVVSCC8wp) | [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Hardstyle Fish](https://open.spotify.com/album/6p1XPlmC2m4J7AsGMVlNAA) | 2:36 |
 
-Snapshot ID: `MCw3NTFmMzkxZTcyZjdlZjRhNjAxZGVlYmVjZWQxNzAxM2QxMzQxMThm`
+Snapshot ID: `MCw1ZDVhZWNhMGJhZjM2OGNkZTBlYzcxODhlZGM4NDQ2YWU2NDk1Nzk2`

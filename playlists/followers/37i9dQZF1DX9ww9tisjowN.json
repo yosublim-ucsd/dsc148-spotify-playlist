@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 288555,
+  "2024-02-11": 288791,
   "date_first_scraped": "2023-05-09",
   "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: FZMZ feat. icy",
   "name": "Gacha Pop",
@@ -597,7 +597,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 183881,
       "name": "Chocolat Cadabra",
       "url": "https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn"
@@ -4797,6 +4797,24 @@
       "duration_ms": 229931,
       "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u3067\u8e0a\u308a\u305f\u3044",
       "url": "https://open.spotify.com/track/2xUjXwtVV3arfXHr0At5D1"
+    },
+    {
+      "album": {
+        "name": "Ado \"Ready For My Show Playlist\"",
+        "url": "https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183881,
+      "name": "\u30b7\u30e7\u30b3\u30e9\u30ab\u30bf\u30d6\u30e9",
+      "url": "https://open.spotify.com/track/6nhGcCOyjnHshIJjPROEBF"
     },
     {
       "album": {

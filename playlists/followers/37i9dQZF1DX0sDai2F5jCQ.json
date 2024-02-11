@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 437784,
+  "2024-02-11": 437820,
   "date_first_scraped": "2023-09-23",
   "description": "Hip-Hop's hottest from Australia, New Zealand and beyond. Cover: Don Toliver",
   "name": "A1",
@@ -3055,6 +3055,24 @@
       "duration_ms": 179016,
       "name": "Straight Out The Mud",
       "url": "https://open.spotify.com/track/1orhwVQmCUAGaWvCFYsjYy"
+    },
+    {
+      "album": {
+        "name": "Sunday Service",
+        "url": "https://open.spotify.com/album/5ayh7q1xq1jFa3QsmE3M7n"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166581,
+      "name": "Sunday Service",
+      "url": "https://open.spotify.com/track/3Zlra451yN4JQfvvFxnr5Y"
     },
     {
       "album": {

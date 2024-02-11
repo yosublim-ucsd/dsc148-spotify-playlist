@@ -1,7 +1,7 @@
 {
-  "2024-02-10": 279857,
+  "2024-02-11": 279930,
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:3EDwVZensg15abkTt5zfTM\">Ricky Dillard</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:1xy9x7h2jKEg8iG22Sml32\">Tye Tribbett</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -53,6 +53,10 @@
         {
           "name": "Every Nation Music",
           "url": "https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0"
+        },
+        {
+          "name": "Grace Covenant Worship",
+          "url": "https://open.spotify.com/artist/75oun743zzr8M7xaK2pZzb"
         }
       ],
       "date_added": "2023-10-06",
@@ -105,6 +109,24 @@
       "duration_ms": 302102,
       "name": "Able",
       "url": "https://open.spotify.com/track/736A53Kw337Z5zrJhH24jP"
+    },
+    {
+      "album": {
+        "name": "Able (Live)",
+        "url": "https://open.spotify.com/album/3RxGPCAGB08QfDFK2z1huy"
+      },
+      "artists": [
+        {
+          "name": "Justin Powell & Adoration",
+          "url": "https://open.spotify.com/artist/4xKGMqs7NlkXba1rX9utgr"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249943,
+      "name": "Able - Live",
+      "url": "https://open.spotify.com/track/3LfwdEQKaMxo6q6tL45Dwa"
     },
     {
       "album": {
@@ -1349,7 +1371,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 134235,
       "name": "Cut 'Em Off",
       "url": "https://open.spotify.com/track/0EIjQy9ifrBLscYBSVCr1M"
@@ -2387,7 +2409,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 345007,
       "name": "Great I Am",
       "url": "https://open.spotify.com/track/6e7SyYl1MTlhnWImNEOgSH"
@@ -2581,6 +2603,24 @@
       "duration_ms": 410235,
       "name": "He Did It for Me - Live",
       "url": "https://open.spotify.com/track/4Z8HVDwVQR2uu5nd1v95CK"
+    },
+    {
+      "album": {
+        "name": "He Is",
+        "url": "https://open.spotify.com/album/2gmvO15Ce9ZfAU4ZHVxN6G"
+      },
+      "artists": [
+        {
+          "name": "Volney Morgan & New-Ye",
+          "url": "https://open.spotify.com/artist/3coOgLHM4gjcmsMGh7qUJN"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187395,
+      "name": "He Is",
+      "url": "https://open.spotify.com/track/2Jhp23T8dpECrmVbschlhM"
     },
     {
       "album": {
@@ -3918,6 +3958,24 @@
     },
     {
       "album": {
+        "name": "In The Name Of Jesus 24 (2024 Remastered)",
+        "url": "https://open.spotify.com/album/2s19NGnb9dcrlD3zkWVvmb"
+      },
+      "artists": [
+        {
+          "name": "The Whispers",
+          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194483,
+      "name": "In The Name Of Jesus 24 (2024 Remastered)",
+      "url": "https://open.spotify.com/track/5S3943bhp8FDII5k1JX8nH"
+    },
+    {
+      "album": {
         "name": "Hymns (Live)",
         "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
@@ -4725,6 +4783,24 @@
       "duration_ms": 257997,
       "name": "Lord, I Hear You",
       "url": "https://open.spotify.com/track/1ny8vWhcpg32DPjcR5vyHo"
+    },
+    {
+      "album": {
+        "name": "On God",
+        "url": "https://open.spotify.com/album/5KxhSruFQfuYTdlInBAlbd"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Love Is U",
+      "url": "https://open.spotify.com/track/5uYQczKz44pYSF30aoIcbu"
     },
     {
       "album": {
@@ -5849,7 +5925,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 238000,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4zRUmtHbOSn5xRqkHN9Aqz"
@@ -5925,6 +6001,24 @@
       "duration_ms": 196810,
       "name": "One Way",
       "url": "https://open.spotify.com/track/7ip9sYAFsPo66qz1FR6YKd"
+    },
+    {
+      "album": {
+        "name": "All Things New (Live In Orlando)",
+        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 625443,
+      "name": "Only One Night Tho - Live",
+      "url": "https://open.spotify.com/track/69A3RyQQwoHMkNgqxBtSMG"
     },
     {
       "album": {
@@ -7434,6 +7528,24 @@
     },
     {
       "album": {
+        "name": "The Lord Will Make a Way",
+        "url": "https://open.spotify.com/album/68dtGVAaYmipjAwQzU8gK8"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "The Lord Will Make a Way",
+      "url": "https://open.spotify.com/track/6o17Mnq1MQMLasaCqqCUbM"
+    },
+    {
+      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0d5N22UsSr7T5vIkVJZ7wE"
       },
@@ -8374,6 +8486,28 @@
     },
     {
       "album": {
+        "name": "Werking",
+        "url": "https://open.spotify.com/album/7CobEccBZosg2VdmqIGHU3"
+      },
+      "artists": [
+        {
+          "name": "Me\u2019Kayla",
+          "url": "https://open.spotify.com/artist/3AKhqrs0V0iRNBOjPKhi5z"
+        },
+        {
+          "name": "churchppl",
+          "url": "https://open.spotify.com/artist/4vOnttEcKNxaPzOhvyrYQF"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167573,
+      "name": "Werking",
+      "url": "https://open.spotify.com/track/1sLWPEWvudwEa4B5HEYdpF"
+    },
+    {
+      "album": {
         "name": "Burn Bright",
         "url": "https://open.spotify.com/album/2TzHY6eiWHBPlVn4KghFZr"
       },
@@ -8741,6 +8875,28 @@
       "duration_ms": 393306,
       "name": "Wrong About You (Live)",
       "url": "https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E"
+    },
+    {
+      "album": {
+        "name": "Yahweh (feat. Melvin Crispell III)",
+        "url": "https://open.spotify.com/album/3S9zXJEffxC6wifOimpH4d"
+      },
+      "artists": [
+        {
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
+        },
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 648600,
+      "name": "Yahweh (feat. Melvin Crispell III)",
+      "url": "https://open.spotify.com/track/2tEy4qY15zdIGP5N93KyO4"
     },
     {
       "album": {

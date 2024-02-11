@@ -1,7 +1,7 @@
 {
-  "2024-02-10": 1381672,
+  "2024-02-11": 1381668,
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Hiatus Kaiyote",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Chenayder",
   "name": "Vanguard",
   "tracks": [
     {
@@ -683,7 +683,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 156202,
       "name": "Again & Again",
       "url": "https://open.spotify.com/track/0RCKbNrpRjfqCRtOmxXJiO"
@@ -2159,7 +2159,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 146763,
       "name": "best thing for me",
       "url": "https://open.spotify.com/track/77NzDYJZyAqIGnk6LvfsB9"
@@ -3250,6 +3250,28 @@
     },
     {
       "album": {
+        "name": "Carelessly Doomed (feat. Kota the Friend)",
+        "url": "https://open.spotify.com/album/1wMeUoSh49hCsM0ayZDjTO"
+      },
+      "artists": [
+        {
+          "name": "Chanel Loren",
+          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
+        },
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189713,
+      "name": "Carelessly Doomed (feat. Kota the Friend)",
+      "url": "https://open.spotify.com/track/6Ey8YJdrWxTFaD66Krb9Pu"
+    },
+    {
+      "album": {
         "name": "it's not you, it's me",
         "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
       },
@@ -4188,6 +4210,32 @@
     },
     {
       "album": {
+        "name": "hella (\u02c3\u0323\u0323\u0325\u256d\u256e\u02c2\u0323\u0323\u0325) \u2727 \u2661 \u2027\u00ba\u00b7\u02da",
+        "url": "https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174109,
+      "name": "cOoL WATeR foR thE nIGHT",
+      "url": "https://open.spotify.com/track/0V9Lj9QsXAbOd9vKcxoQl4"
+    },
+    {
+      "album": {
         "name": "sPaCe (528hz) / Coolest Girl In California",
         "url": "https://open.spotify.com/album/6p6IFdRzEhIz5hE190x4sR"
       },
@@ -4994,6 +5042,24 @@
     },
     {
       "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118269,
+      "name": "DNM",
+      "url": "https://open.spotify.com/track/67Oq8booO7HDSL4LlmHE4s"
+    },
+    {
+      "album": {
         "name": "Do 2 Me",
         "url": "https://open.spotify.com/album/5baVIwEwXhFCg1B6kmOetf"
       },
@@ -5699,7 +5765,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 268800,
       "name": "Eucalyptus",
       "url": "https://open.spotify.com/track/0jXcEpjGIfyDYCqf2eTmjN"
@@ -6408,6 +6474,24 @@
     },
     {
       "album": {
+        "name": "For One Last Time",
+        "url": "https://open.spotify.com/album/1KPzQnxSY1KRHp2Qr3Q6HR"
+      },
+      "artists": [
+        {
+          "name": "Chenayder",
+          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "For One Last Time",
+      "url": "https://open.spotify.com/track/7y2odCmGElDDfYzB7a3RCT"
+    },
+    {
+      "album": {
         "name": "For Sport",
         "url": "https://open.spotify.com/album/7dJsh48oFzbFGsyjCrMUm4"
       },
@@ -6419,7 +6503,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 146120,
       "name": "For Sport",
       "url": "https://open.spotify.com/track/6ThZW4vNLnr0RxsNfNE3wa"
@@ -8561,16 +8645,12 @@
         {
           "name": "Mk.gee",
           "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        },
-        {
-          "name": "Two star",
-          "url": "https://open.spotify.com/artist/3QCMLWLjJyGA8cQCPrusdv"
         }
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 141871,
+      "duration_ms": 141236,
       "name": "How many miles",
       "url": "https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw"
     },
@@ -9697,6 +9777,28 @@
       "duration_ms": 219598,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/6bniCXManaPDnCN34waQs6"
+    },
+    {
+      "album": {
+        "name": "Jay Bird",
+        "url": "https://open.spotify.com/album/36vhgSU5YmXYFbNKOOjENQ"
+      },
+      "artists": [
+        {
+          "name": "Peyotoff",
+          "url": "https://open.spotify.com/artist/7pDc59W5HYxYElrjJwsjnN"
+        },
+        {
+          "name": "emawk",
+          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169343,
+      "name": "Jay Bird",
+      "url": "https://open.spotify.com/track/7zmr0zy0oq5KWEqwbrKjxK"
     },
     {
       "album": {
@@ -12809,7 +12911,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 170616,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/0GgYACtOE5GNVjwAZmBr1p"
@@ -18382,6 +18484,24 @@
     },
     {
       "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/4c74QJnuaNS0Le46LHrwfC"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147773,
+      "name": "To Be Still",
+      "url": "https://open.spotify.com/track/23QBVXJaB7DJ5L1BRTQKKH"
+    },
+    {
+      "album": {
         "name": "TODAY",
         "url": "https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt"
       },
@@ -19145,7 +19265,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 132055,
       "name": "UR TURN",
       "url": "https://open.spotify.com/track/0dKWEbU5VxTcSOVvtReTGz"

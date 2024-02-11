@@ -2344,7 +2344,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 197800,
       "name": "Courtesy Of A Rich Nigga",
       "url": "https://open.spotify.com/track/0Wv28mbuNvGVRtRBbN1r5C"
@@ -5440,7 +5440,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 104850,
       "name": "Locket",
       "url": "https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u"
@@ -10300,10 +10300,28 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 154630,
       "name": "WGFU",
       "url": "https://open.spotify.com/track/1C8hbP1bQK8G0DCfjXWBvv"
+    },
+    {
+      "album": {
+        "name": "WGFU",
+        "url": "https://open.spotify.com/album/3CIcF1MB8lv9BsG11Sn6H6"
+      },
+      "artists": [
+        {
+          "name": "Ocean x KungFu",
+          "url": "https://open.spotify.com/artist/1WEXyd2RFcNvcHbCydwP78"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154630,
+      "name": "WGFU",
+      "url": "https://open.spotify.com/track/3oavB16qEYpGP0yab3DJUu"
     },
     {
       "album": {

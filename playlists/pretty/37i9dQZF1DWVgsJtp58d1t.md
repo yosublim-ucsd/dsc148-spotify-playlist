@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday, with selects from prominent musicians across the map in honor of Black History Month\. Cover: <a href="spotify:artist:1YRqgFNXqRyMDRr8ClS1NL">Kaliii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,091 likes - 120 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,272 likes - 120 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 35 | [I LOOK GOOD!](https://open.spotify.com/track/5JicR779rzEO7U92GQKu5g) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [I LOOK GOOD!](https://open.spotify.com/album/2pKeIayJMKwTWQ16quKKQd) | 2:24 |
 | 36 | [BLACK OPS \(with Denzel Curry\)](https://open.spotify.com/track/1Cb2etQ6t2ATWoKuOpDWuF) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [BLACK OPS](https://open.spotify.com/album/14oDRWe0eLnUBKmekIAZkb) | 2:53 |
 | 37 | [I Ain't Feelin It](https://open.spotify.com/track/0e0tBV3cm7RiTPzMCEegT1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 1:47 |
-| 38 | [Trim Express](https://open.spotify.com/track/6VbafZX2yVhyKZjY4Jhd3Z) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [TYO 808](https://open.spotify.com/album/6qT4CoP1NXZobvnam3Fyzm) | 3:41 |
+| 38 | [Trim Express](https://open.spotify.com/track/6VbafZX2yVhyKZjY4Jhd3Z) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [24HRs](https://open.spotify.com/artist/192hZw0TZFIxj4FGDVkvvs) | [TYO 808](https://open.spotify.com/album/6qT4CoP1NXZobvnam3Fyzm) | 3:41 |
 | 39 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 |
 | 40 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 |
 | 41 | [Bandit](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 75 | [SHOWER SONG](https://open.spotify.com/track/4mD2clo4xlw6aCk5LC7dsi) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [SHOWER SONG](https://open.spotify.com/album/7zJhaYDSEPb6mybiV8sdl5) | 2:43 |
 | 76 | [Want You](https://open.spotify.com/track/3rCfcTci0MDdEQyyZoZWSY) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [Want You](https://open.spotify.com/album/4G6BILfMKr9J36MWIslf5f) | 2:31 |
 | 77 | [Prove It To You](https://open.spotify.com/track/4Z7kVvEhQ3jqhskvmcrgfW) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Prove It To You](https://open.spotify.com/album/4Xz22ylDIPE8D3KGjptD4J) | 3:20 |
-| 78 | [Danger](https://open.spotify.com/track/6PZWlB5Z54Ap2FmeUnooMq) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Danger](https://open.spotify.com/album/6POfEs8ynjGPawz4fQmGXB) | 3:02 |
+| 78 | [Danger](https://open.spotify.com/track/6PZWlB5Z54Ap2FmeUnooMq) | [Victorious De Costa](https://open.spotify.com/artist/4GwX8tUbv3nUymcdreyqjr), [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Danger](https://open.spotify.com/album/6POfEs8ynjGPawz4fQmGXB) | 3:02 |
 | 79 | [30 Million](https://open.spotify.com/track/2wQIm4WBXSSERoV1vANaLa) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [30 Million](https://open.spotify.com/album/6OEA1W5LBibGaEUjDUUayP) | 3:38 |
 | 80 | [All We Have](https://open.spotify.com/track/3or0IsulDuhWQR9pjU4CF2) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [All We Have](https://open.spotify.com/album/1LUanQLREJVyLmfLEmwZy7) | 3:56 |
 | 81 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 119 | [Hotter Now](https://open.spotify.com/track/4BIyKFJ2pgh3eY7Hc4Ce0k) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Hotter Now](https://open.spotify.com/album/7yYUYzfzUGWPkqY1crWBlh) | 3:01 |
 | 120 | [Funk 55](https://open.spotify.com/track/5CD3ImPPdCW8QFQkjo5TXt) | [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Funk 55](https://open.spotify.com/album/76EZEYn9nhqGh4mkc14KQb) | 6:13 |
 
-Snapshot ID: `MCwyYTk3MTFmYTBhMDNiN2E2ODJiNTRlMzc0MDJiNWQ2OWE3Mzk0ZDEy`
+Snapshot ID: `MCxiNjQyMGVlOTIzYTI4ODNiOTY5ZmNhZDAzODljMzc0Mjk5YTM2Mzgz`

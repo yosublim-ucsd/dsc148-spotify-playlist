@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 282257,
+  "num_followers": 282652,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjBiZTA5MDdmOWFkYzhhZDU3Yjk5M2FmYzRmYjllZWQxMDJiNGM0",
+  "snapshot_id": "MCxkYTM1ODQ0MDNjOTMyMGQ2MzI0ZWUwYTY1NGFkYWQzNWQ5Y2U3ZTE4",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/60rhOCClApo0duvJbe2A18"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 206625,
+      "name": "We Control",
+      "url": "https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/5PrEi7aLxDosgWfIa3eegg"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 225346,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/3NWMxXgzWvtO3j8o9eFkOi"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/60rhOCClApo0duvJbe2A18"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 206625,
-      "name": "We Control",
-      "url": "https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv"
     },
     {
       "added_at": "2024-01-26 05:00:00",

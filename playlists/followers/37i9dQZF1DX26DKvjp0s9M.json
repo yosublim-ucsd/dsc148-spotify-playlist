@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 955629,
+  "2024-02-11": 955927,
   "date_first_scraped": "2021-12-21",
   "description": "Everlasting indie hits, ft Dijon. This month, we\u2019re celebrating the essence of Black culture across the world. Discover more Black artists and their contributions <a href=\"spotify:genre:0JQ5DAqbMKFF9bY76LXmfI\">here.",
   "name": "Essential Indie",
@@ -1563,7 +1563,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 231723,
       "name": "Chamber Of Reflection",
       "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
@@ -2529,6 +2529,24 @@
       "duration_ms": 199742,
       "name": "Empress",
       "url": "https://open.spotify.com/track/5YVYVuNA44FT2yVxEXOw3r"
+    },
+    {
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "album": {

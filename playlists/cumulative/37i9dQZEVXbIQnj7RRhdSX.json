@@ -494,7 +494,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 214291,
       "name": "2minuti",
       "url": "https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a"
@@ -4622,7 +4622,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 155526,
       "name": "Cadillac (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/6GMyR5UghG6k4MpsXsaim8"
@@ -5830,7 +5830,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 187742,
       "name": "Che t'o dico a fa'",
       "url": "https://open.spotify.com/track/20qlAd6sHAYjc7TrrM5VeY"
@@ -10698,7 +10698,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 133266,
       "name": "Fantasmi (feat. Geolier)",
       "url": "https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW"
@@ -11633,6 +11633,24 @@
     },
     {
       "album": {
+        "name": "INVISIBILI",
+        "url": "https://open.spotify.com/album/6Tb86ggEL6cikzQwCzkrbK"
+      },
+      "artists": [
+        {
+          "name": "Il Tre",
+          "url": "https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189193,
+      "name": "FRAGILI",
+      "url": "https://open.spotify.com/track/3ki4qt24MTfhk0iruUCpSR"
+    },
+    {
+      "album": {
         "name": "FRAGILI",
         "url": "https://open.spotify.com/album/3hNEfoTFpxiA1Car8tVdy5"
       },
@@ -11644,7 +11662,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 189193,
       "name": "FRAGILI",
       "url": "https://open.spotify.com/track/6mhZd9yNJpyT2Qynx9FuhI"
@@ -24862,10 +24880,28 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 168166,
       "name": "Pazza",
       "url": "https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe"
+    },
+    {
+      "album": {
+        "name": "Ribelle",
+        "url": "https://open.spotify.com/album/6uButJ1B8ilheP6YHP7ZJV"
+      },
+      "artists": [
+        {
+          "name": "Loredana Bert\u00e8",
+          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168166,
+      "name": "Pazza",
+      "url": "https://open.spotify.com/track/5iwqTbqjxyhAu8w3BXvME5"
     },
     {
       "album": {
@@ -24891,6 +24927,32 @@
     },
     {
       "album": {
+        "name": "RENGANEK",
+        "url": "https://open.spotify.com/album/0cv9rrSw1JlxCMrnLawdAZ"
+      },
+      "artists": [
+        {
+          "name": "Renga Nek",
+          "url": "https://open.spotify.com/artist/17bIH0Lk8uD4mqjyHqmfb2"
+        },
+        {
+          "name": "Francesco Renga",
+          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
+        },
+        {
+          "name": "Nek",
+          "url": "https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "Pazzo di te",
+      "url": "https://open.spotify.com/track/2RHhCGi8evdY6c4Hq1WPmm"
+    },
+    {
+      "album": {
         "name": "Pazzo di te",
         "url": "https://open.spotify.com/album/1zN3Fy6h5UzN1KzV1zgHOl"
       },
@@ -24910,7 +24972,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 177692,
       "name": "Pazzo di te",
       "url": "https://open.spotify.com/track/7LGXYz8Msr0ra2XggR8F3b"
@@ -28760,10 +28822,28 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 215714,
       "name": "Sinceramente",
       "url": "https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ"
+    },
+    {
+      "album": {
+        "name": "E POI SIAMO FINITI NEL VORTICE",
+        "url": "https://open.spotify.com/album/4GIt1yQFoBhEi3wOrgZDbg"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215714,
+      "name": "Sinceramente",
+      "url": "https://open.spotify.com/track/60QN1JrgYM7jcfW8pdQFqT"
     },
     {
       "album": {
@@ -29688,6 +29768,24 @@
     {
       "album": {
         "name": "SPETTACOLARE",
+        "url": "https://open.spotify.com/album/3JaNrfba0UanruUD4WtBkI"
+      },
+      "artists": [
+        {
+          "name": "Maninni",
+          "url": "https://open.spotify.com/artist/28XNEW8SrY9rwD1s1f8gRL"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173974,
+      "name": "SPETTACOLARE",
+      "url": "https://open.spotify.com/track/1GQZ5JNh3l1YPhBGihelHm"
+    },
+    {
+      "album": {
+        "name": "SPETTACOLARE",
         "url": "https://open.spotify.com/album/1icr3kGkx4NPSvmUkfJMgd"
       },
       "artists": [
@@ -29698,7 +29796,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 173974,
       "name": "SPETTACOLARE",
       "url": "https://open.spotify.com/track/2EIYXCGhXGo0yXf6vazlJR"

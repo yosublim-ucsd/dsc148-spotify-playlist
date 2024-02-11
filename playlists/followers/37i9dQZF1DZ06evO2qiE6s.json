@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 114580,
+  "2024-02-11": 114605,
   "date_first_scraped": "2023-12-27",
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
   "name": "This Is Dean Martin",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 166066,
       "name": "All I Do Is Dream Of You - Remastered",
       "url": "https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 161800,
       "name": "Arrivederci Roma - Remastered 1998",
       "url": "https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 172626,
       "name": "C'est si bon",
       "url": "https://open.spotify.com/track/0ksZYoJXNN1QmgUQdvbK0z"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 195626,
       "name": "Dream A Little Dream Of Me - 1998 Remaster",
       "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 149560,
       "name": "Heaven Can Wait - Remastered/1998",
       "url": "https://open.spotify.com/track/291IQsv9uraExolqtoRczv"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 161066,
       "name": "Houston",
       "url": "https://open.spotify.com/track/4CKqqKUKsjNTTNF3veSiWi"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 145346,
       "name": "I Can't Believe That You're In Love With Me - Remastered/1998",
       "url": "https://open.spotify.com/track/6mcDe5GXUZn6eF7mC5l3Hg"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 182106,
       "name": "I Have But One Heart ('O Marenariello) - Remastered 1998",
       "url": "https://open.spotify.com/track/0Um5yRo7dOIKpIQpGKT4mW"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 141906,
       "name": "I Will",
       "url": "https://open.spotify.com/track/0wX6mflFA4a72SOcAkDYsY"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 147200,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/5t784eXSTD20yOLmNcEkAC"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 155360,
       "name": "I'd Cry Like A Baby",
       "url": "https://open.spotify.com/track/5orZnvjAjL0j8MAdotqGsU"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 162866,
       "name": "I've Grown Accustomed To Her Face - Remastered/1998",
       "url": "https://open.spotify.com/track/0BFCbH1cxzeUSJBVwJGRLg"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 176960,
       "name": "In Napoli",
       "url": "https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD"
@@ -843,7 +843,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 152346,
       "name": "In the Chapel in the Moonlight",
       "url": "https://open.spotify.com/track/2Oabv85FCY9lUmyPPmcggX"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 145066,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 135160,
       "name": "Let There Be Love / You're Nobody Till Somebody Loves You",
       "url": "https://open.spotify.com/track/5uhf1e6TB5V8PKcetYmAiP"
@@ -1121,7 +1121,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 138080,
       "name": "Memories Are Made Of This",
       "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
@@ -1251,7 +1251,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 185773,
       "name": "Non Dimenticar - Remastered 1998",
       "url": "https://open.spotify.com/track/0M7yY7udI6Cj2RzIXUVNg7"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 221413,
       "name": "On The Street Where You Live - Remastered 1998",
       "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 133000,
       "name": "Ramblin' Rose",
       "url": "https://open.spotify.com/track/4k97sNw4iFVcCOUPqnsq6G"
@@ -1593,7 +1593,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 171240,
       "name": "Standing On The Corner",
       "url": "https://open.spotify.com/track/721c6myRkDcRFuPNrbhzXy"
@@ -1611,7 +1611,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 162960,
       "name": "Sway (Quien Sera)",
       "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
@@ -1629,7 +1629,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 159360,
       "name": "Take Me In Your Arms (Torna A Surriento) - Remastered 1998",
       "url": "https://open.spotify.com/track/2hwkWcWEY664YUk6EEFccq"
@@ -1821,7 +1821,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 157706,
       "name": "Things",
       "url": "https://open.spotify.com/track/3Dxuooqtp5zcpIEdJCDJBN"
@@ -1915,7 +1915,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 169226,
       "name": "Under The Bridges Of Paris",
       "url": "https://open.spotify.com/track/4LbhIS1d4kBg7lapZ61B4z"
@@ -1969,7 +1969,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 181626,
       "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
       "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"

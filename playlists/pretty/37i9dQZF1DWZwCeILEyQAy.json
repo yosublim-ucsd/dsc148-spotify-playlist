@@ -1,12 +1,12 @@
 {
   "description": "Real Rap. All Pressure. Cover: Monaleo",
-  "num_followers": 489991,
+  "num_followers": 490005,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmM4OGE4OTE5YWU2ZDI5ZDY4YzI5OGNjY2YzZjY4OWJjNjlkNGU4",
+  "snapshot_id": "MCw0YzFkZWM5MzY0ZDRlN2M0YTEwYWIwMGI1ZTc2Mjk4ZTYwNTQ2NTA1",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -260,7 +260,7 @@
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "WGFU",
-        "url": "https://open.spotify.com/album/2z7LhPiHfogiCANcYlTArO"
+        "url": "https://open.spotify.com/album/3CIcF1MB8lv9BsG11Sn6H6"
       },
       "artists": [
         {
@@ -270,7 +270,7 @@
       ],
       "duration_ms": 154630,
       "name": "WGFU",
-      "url": "https://open.spotify.com/track/1C8hbP1bQK8G0DCfjXWBvv"
+      "url": "https://open.spotify.com/track/3oavB16qEYpGP0yab3DJUu"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Hood Hottest Princess (Deluxe)",
-        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 140756,
-      "name": "Sexyy Red For President",
-      "url": "https://open.spotify.com/track/7p1A4L2XrwfswpkWOxCzaw"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -927,18 +911,34 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Locket",
-        "url": "https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N"
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
       },
       "artists": [
         {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 104850,
-      "name": "Locket",
-      "url": "https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u"
+      "duration_ms": 140756,
+      "name": "Sexyy Red For President",
+      "url": "https://open.spotify.com/track/7p1A4L2XrwfswpkWOxCzaw"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Courtesy Of A Rich Nigga",
+        "url": "https://open.spotify.com/album/52CR1FGtrOvY7OU71bHqSB"
+      },
+      "artists": [
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Courtesy Of A Rich Nigga",
+      "url": "https://open.spotify.com/track/0Wv28mbuNvGVRtRBbN1r5C"
     }
   ],
   "unique_name": "Pressure",

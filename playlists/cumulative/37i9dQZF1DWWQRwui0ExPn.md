@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,560 songs - 10 day 8 hr 41 min
+6,562 songs - 10 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Aesthetic Girl](https://open.spotify.com/track/0bCgcTDkZ1RhguEeuUhZ9k) | [Yusei](https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv) | [Aesthetic Girl](https://open.spotify.com/album/3QgMgH7PvDaVyRCwjrSJOX) | 4:18 | 2022-01-07 | 2022-05-27 |
 | [Affection](https://open.spotify.com/track/4p5eACHBSDSKxvPrN1Ej5p) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Life](https://open.spotify.com/album/3WGY5BhjFW0DkTnLszBHP0) | 1:57 | 2019-06-27 | 2020-01-04 |
 | [Affection](https://open.spotify.com/track/2pw5CG2m57Zr3gkLMlzGcB) | [Önigirisu](https://open.spotify.com/artist/2wrReMufBFCidJ3Sy1UzPe) | [Affection](https://open.spotify.com/album/0GG5o0u8VbZpTd5V0ipxoq) | 3:28 | 2020-04-08 | 2021-09-04 |
-| [Affogato](https://open.spotify.com/track/19sSqqjAk7x3VBLovfOvl6) | [Puar](https://open.spotify.com/artist/2yvxxt7s9QjwEOZtLQ2yfT) | [Affogato](https://open.spotify.com/album/7j3JFj4L8tvZYWEzhYNvnU) | 2:15 | 2024-02-09 |  |
+| [Affogato](https://open.spotify.com/track/19sSqqjAk7x3VBLovfOvl6) | [Puar](https://open.spotify.com/artist/2yvxxt7s9QjwEOZtLQ2yfT) | [Affogato](https://open.spotify.com/album/7j3JFj4L8tvZYWEzhYNvnU) | 2:15 | 2024-02-09 | 2024-02-11 |
 | [Afloat](https://open.spotify.com/track/4XDlW5QgLKZupaJ5VvacsP) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:28 | 2019-05-26\* | 2020-10-21 |
 | [After Darkness](https://open.spotify.com/track/15IiPMGTWUXSQVDxSMUM0Y) | [Peyotoff](https://open.spotify.com/artist/7pDc59W5HYxYElrjJwsjnN) | [After Darkness](https://open.spotify.com/album/5cKbrnOH1TXcdWZ9UqsmIo) | 2:11 | 2022-03-19 | 2022-08-19 |
 | [After Dawn](https://open.spotify.com/track/73JQim3QLhAAtlx0FJTdBp) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF), [No\. 18](https://open.spotify.com/artist/1p6OSG0rFg8ISBQXjWsfgm) | [After Dawn](https://open.spotify.com/album/16AdTgxCsPsA9TSuGtXsGf) | 2:50 | 2021-08-22 | 2022-03-21 |
@@ -771,6 +771,7 @@
 | [Breathing](https://open.spotify.com/track/7D6A5WF0N4nSemJwdAZL1Q) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Breathing](https://open.spotify.com/album/5ckwrb7a4mQ1omfB11G4Dw) | 1:22 | 2019-12-30 | 2021-04-17 |
 | [Breathing](https://open.spotify.com/track/05Ze1zg6BmU0UtLv1upnLb) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Breathing](https://open.spotify.com/album/67LIvPyCZM0V1Lf9EOYm8T) | 2:10 | 2023-08-10 | 2024-01-26 |
 | [Breathless](https://open.spotify.com/track/1BnmTqussrcjJjecfvrVhN) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Breathless](https://open.spotify.com/album/53gI3QkBBVoWJ1Yzz0SXlj) | 2:46 | 2022-08-19 | 2022-11-25 |
+| [breathtaking](https://open.spotify.com/track/6NqnGKb8x3PMCWqn2oJizA) | [mello joints](https://open.spotify.com/artist/3SvvTbg5Gj3UDGNxtqTsfd) | [breathtaking](https://open.spotify.com/album/7A4dRVpZAS3T4Az0Xus2sT) | 2:10 | 2024-02-09 |  |
 | [Breeze](https://open.spotify.com/track/2rv8rl1sayoLgwczMqEaEG) | [Fourtinz](https://open.spotify.com/artist/6XrTlvliUXeN2VYaWk0euI) | [Breeze](https://open.spotify.com/album/7iyG6IPFf03e21NHZqNwML) | 1:43 | 2023-05-23 | 2023-09-19 |
 | [Breeze](https://open.spotify.com/track/4t73es0R4IkXujsn8Mm2Ry) | [furozun](https://open.spotify.com/artist/5voSeB7AkXaFy0akWb5w3U) | [Breeze](https://open.spotify.com/album/4ySIUffu45EVKJH20DokXQ) | 3:29 | 2023-11-24 |  |
 | [Breeze](https://open.spotify.com/track/0sfbOiNUjqKb2mOwk2MR5n) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Breeze](https://open.spotify.com/album/3za4dHfJmmKeesEqxQiGlP) | 2:03 | 2021-11-20 | 2022-06-10 |
@@ -2128,6 +2129,7 @@
 | [Freshly Paved](https://open.spotify.com/track/7g7Q0JsJPqcpXXl9LWqdkt) | [Kokta beats](https://open.spotify.com/artist/2ETiol5Kw5v2LFEjGLnlbS) | [Freshly Paved](https://open.spotify.com/album/1w5BRQgfbaIr5ZAjmIQEra) | 2:40 | 2023-08-10 | 2024-01-26 |
 | [Freudian slippin](https://open.spotify.com/track/6jpavG7oEpooPjo5nRl43f) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Freudian slippin](https://open.spotify.com/album/3fzxL7jknEjy02Edxp9UDo) | 2:52 | 2023-10-27 |  |
 | [Friday Dazed](https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Friday Dazed](https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4) | 2:12 | 2023-10-13 |  |
+| [Friday Luxury](https://open.spotify.com/track/4hEtOsS3Hgn2vdVlchhXpT) | [Yankee Hart](https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi) | [Friday Luxury](https://open.spotify.com/album/25dLRyb68yRiLszZWDidPW) | 2:03 | 2024-02-09 |  |
 | [Friday Night](https://open.spotify.com/track/60xBFhU4ojvkFID0Le4XIw) | [Furry Beats](https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5) | [Friday Night](https://open.spotify.com/album/0KWrgf5GX7d2yd8PeVsiWY) | 1:58 | 2022-07-15 | 2022-11-11 |
 | [Fried Chicken](https://open.spotify.com/track/2967onGcEkaRUIR4op8y4N) | [Fona](https://open.spotify.com/artist/1Z9Kmnj7PimziF4URnIzL2), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [Fried Chicken](https://open.spotify.com/album/5a2F5NLYjR99o8Sa68KZ9G) | 1:35 | 2019-12-31 | 2021-04-15 |
 | [Friend](https://open.spotify.com/track/5oNU0S1f3wkjxhdKQMEK6J) | [Intjay](https://open.spotify.com/artist/14tP8zKJqmXnuYULLcnYkB) | [Friend](https://open.spotify.com/album/5iCbx5jnvqjSLR1R7A2ygR) | 1:41 | 2019-12-30 | 2021-04-17 |
@@ -3151,7 +3153,7 @@
 | [Let's Slow Dance](https://open.spotify.com/track/3ZkTETLICV6S75x7MvxVMB) | [MP3vius](https://open.spotify.com/artist/5iUQH6x3hiVg6Le2KLWBZQ) | [Let's Slow Dance](https://open.spotify.com/album/5H3HKiktsbTzsMK4JtgW5f) | 1:45 | 2023-12-15 |  |
 | [Letter](https://open.spotify.com/track/4jYJV3rxH5XiVfwH8pdbDM) | [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4), [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt) | [Letter](https://open.spotify.com/album/4IQTs13afFxa76doGcsP6N) | 2:02 | 2021-01-13 | 2022-01-14 |
 | [Letters](https://open.spotify.com/track/1tTDHLTatsuzW5ss0THuet) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Letters](https://open.spotify.com/album/7BWZbu4U0va3KyRl3OScKx) | 2:03 | 2022-09-30 | 2023-07-07 |
-| [Letting Go](https://open.spotify.com/track/4dBgB0cfiTdzSLQTZiEv1K) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [Letting Go](https://open.spotify.com/album/2zOfwIN4w1Rx2Rjjeiw4kl) | 2:09 | 2024-02-09 |  |
+| [Letting Go](https://open.spotify.com/track/4dBgB0cfiTdzSLQTZiEv1K) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [Letting Go](https://open.spotify.com/album/2zOfwIN4w1Rx2Rjjeiw4kl) | 2:09 | 2024-02-09 | 2024-02-11 |
 | [Lettuce Tank](https://open.spotify.com/track/4xMf6lTA1lNQ3SVnoToW2O) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Lownas](https://open.spotify.com/artist/73eOFkJoiXKFsXIBE9Wwuv) | [Lettuce Tank](https://open.spotify.com/album/6IbJ0HbBcvwN7w0jldwh79) | 1:50 | 2022-06-17 | 2022-10-07 |
 | [lettura](https://open.spotify.com/track/5yaiadgm5S0vBTVqY8TyEU) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lettura](https://open.spotify.com/album/2JFh5yrr081ECYmKXgxoyZ) | 1:33 | 2023-04-12 | 2023-04-21 |
 | [Let´s Do The Dishes](https://open.spotify.com/track/5be6jtUQzs2N92JrrLwaGV) | [Stekt](https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD) | [Let´s Do The Dishes](https://open.spotify.com/album/3cQ0VC1acTZkfAxgvtcDdd) | 2:12 | 2022-12-23 | 2023-01-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 147 songs - 7 hr 48 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 149 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,5 +155,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 145 | [What Am I To Do](https://open.spotify.com/track/4TXPbHOeQE0Az7T71uybPu) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [What Am I To Do](https://open.spotify.com/album/3dyRrIw0NzRFi26EwfZo6V) | 2:55 |
 | 146 | [Lunchin](https://open.spotify.com/track/2jIU2VR6uIKBCJCpFi3aL4) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Flygod Is An Awesome God](https://open.spotify.com/album/2JUpGYRkV6ymlDOX7UFTL7) | 3:31 |
 | 147 | [SYDNEY SWEENEY](https://open.spotify.com/track/4NE3atZAntDJAdReIar6bN) | [Ceru](https://open.spotify.com/artist/6asghv8lFCRDHUGMUPoRWe) | [SYDNEY SWEENEY](https://open.spotify.com/album/6EJm1GLrf3LRFMotzaD1ji) | 2:17 |
+| 148 | [BURN](https://open.spotify.com/track/4E3XDKil4ElJt6sXuz5cc6) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 1:51 |
+| 149 | [BURN](https://open.spotify.com/track/4E3XDKil4ElJt6sXuz5cc6) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 1:51 |
 
-Snapshot ID: `NzE5NyxhZWNlMmY2MTA0YTk1YWUzYTM2YmJkYTBiYTM5YjA2NjJhNjA5OTll`
+Snapshot ID: `NzE5OSwxOGU0ODdjYzFhNmE5M2FkNjhjZDRjYzcyMDBlNGYwMDU5MWVkNTg3`

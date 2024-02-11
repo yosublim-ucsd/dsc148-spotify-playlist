@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 
 > The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,913 likes - 85 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,997 likes - 85 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 43 | [Jilted John \(Single Version\)](https://open.spotify.com/track/3e8KDtLBBlKur66SANv7Em) | [Jilted John](https://open.spotify.com/artist/7cvpTbz1cBUwRjLrcgobwm) | [True Love Stories](https://open.spotify.com/album/2odTi4imi7mihZjD74oM7L) | 2:55 |
 | 44 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 |
 | 45 | [Is She Really Going Out With Him?](https://open.spotify.com/track/29SRvYOKbMLOZeOubNGtLb) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Look Sharp!](https://open.spotify.com/album/6Bt6KjNfoCp6UbYVFGH4FH) | 3:35 |
-| 46 | [New Rose](https://open.spotify.com/track/2RqX92TwDYaChAyfX9tKMH) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned](https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2) | 2:44 |
+| 46 | [New Rose](https://open.spotify.com/track/2RqX92TwDYaChAyfX9tKMH) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned \(Bonus Tracks Version\)](https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2) | 2:44 |
 | 47 | [Sex & Drugs & Rock & Roll](https://open.spotify.com/track/2figdwcjVBClFAmi7pD60o) | [Ian Dury](https://open.spotify.com/artist/5PFSmueeFLrjYXqn3agenn) | [New Boots and Panties!!](https://open.spotify.com/album/4GqPVPXNmpFMpoRnafIfLR) | 3:06 |
 | 48 | [10:15 Saturday Night \- 2005 Remaster](https://open.spotify.com/track/0l7djXY6dukQGO9qzWadiz) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys \(Deluxe Edition\)](https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC) | 3:42 |
 | 49 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 84 | [I Want More](https://open.spotify.com/track/1ynemPxsPrCwUb87VmGFuq) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Flow Motion \(Remastered\)](https://open.spotify.com/album/6pcp2R35M3b1lscjpmCxUl) | 3:30 |
 | 85 | [My Sex](https://open.spotify.com/track/4uq0OuAtODFKsEMO478Lt8) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Ultravox!](https://open.spotify.com/album/09H76Y3uRhgJSu7u5f3e6f) | 3:02 |
 
-Snapshot ID: `MCwyNDBhY2EwNzI3NDZiZjFiYTIwYjA0OTE0MDU3YTBiZWEwMWEzODIy`
+Snapshot ID: `MCxjYWNhMmZlNmUyZWI4YWIwZTU2ZjcyY2VhNTI5NGFmYTdkMjJlMzA1`

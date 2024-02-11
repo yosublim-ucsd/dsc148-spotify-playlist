@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-518 songs - 1 day 11 hr 58 min
+519 songs - 1 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Give A Little Love](https://open.spotify.com/track/20TTWmID7y6Bq7r6UnE5iW) | [Hammond & West](https://open.spotify.com/artist/5uMo9yQCfd9Fws49UlzgqJ) | [Hammond & West](https://open.spotify.com/album/6KVXPZQLVnlF8bt9iV5oDe) | 3:28 | 2023-12-30 |  |
 | [Give Me You](https://open.spotify.com/track/2rOrfNp466dn28CP01eVCa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Mary](https://open.spotify.com/album/4ypknDZM85vplzeVwQoxra) | 5:05 | 2023-12-30 |  |
 | [Give Our Love A Fightin' Chance](https://open.spotify.com/track/2AAncJGhaot7e3Be7QSQlB) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Cher](https://open.spotify.com/album/0NxtOR1ND3Qygex4ACA0z9) | 4:06 | 2023-12-30 |  |
-| [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 | 2023-12-30 |  |
+| [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 | 2023-12-30 | 2024-02-11 |
+| [Givin' Yourself Away](https://open.spotify.com/track/7B79srEKDG2uRbHvU5BNyF) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [The Essentials: Ratt](https://open.spotify.com/album/0zhBC0ytIvsL8Kvf0xtPMp) | 5:26 | 2024-02-10 |  |
 | [Good Girl's Gone Bad](https://open.spotify.com/track/4pSDmTScq6aVZg7HJr8iVt) | [Booty Luv](https://open.spotify.com/artist/1RtyP3Yk376oIq4dB7VMzC) | [Boogie 2Nite](https://open.spotify.com/album/32X8uLgBiRxuGYBtMu8XNa) | 2:34 | 2023-12-30 |  |
 | [Good Things Take Time](https://open.spotify.com/track/6WcCdbV8I4vkJS3513w1U8) | [Tyler Collins](https://open.spotify.com/artist/5huMtuPNUReK11RrCYwP0p), [Keith "Kc" Cohen](https://open.spotify.com/artist/1044NKEAaGJ76ULKFyrO9u), [Dave Aron](https://open.spotify.com/artist/62nl0bGlq1JumMss6EFzFh), [Airiq Anest](https://open.spotify.com/artist/5Jj4Rq9vB3MACoRzle0nb2) | [Tyler](https://open.spotify.com/album/4H6ClSkkeWUXdiM7w2my93) | 5:02 | 2023-12-30 |  |
 | [Grateful](https://open.spotify.com/track/1S9FTWLifoGLCaAuUW64r2) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Beyond the Lights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/17UmRH4jCFTlpSdSWCOooV) | 4:04 | 2023-12-30 |  |

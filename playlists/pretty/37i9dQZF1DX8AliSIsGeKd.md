@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Innellea
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,684 likes - 90 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,864 likes - 90 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Never \- Gerd Janson Edit](https://open.spotify.com/track/6cTiCTAvBJ7vvWDDMMBrHT) | [Mute](https://open.spotify.com/artist/1oW42kA1HFvXhiNTPuf6n5), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Never \(Gerd Janson Edit\)](https://open.spotify.com/album/02RyEVm1k3IyuJc69OCwpQ) | 4:17 |
 | 90 | [Seven](https://open.spotify.com/track/20p3wCqOn21fxV4G0krkv8) | [Julian Stetter](https://open.spotify.com/artist/5LItxzjKC2W1nRnxGflkkj) | [Seven](https://open.spotify.com/album/4u7ofSlhz2c5E58FdH9Xg5) | 5:54 |
 
-Snapshot ID: `MCxkMGIyNDJmNjJlYTZjZGY1YjkyYmFhZTQ1MGJjZTZjMWRmMDkxZDA4`
+Snapshot ID: `MCxmOTdhYzI2ZDMzZDI0YmFhMjk3OTM3NjQ0ZjlkNWUwYWI2ZDg4YmI2`

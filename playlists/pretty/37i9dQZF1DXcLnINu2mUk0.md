@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bluay e Julinho Ksd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,061 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,111 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 |
-| 2 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 |
+| 2 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 |
 | 3 | [Chamadas](https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Chamadas](https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH) | 2:36 |
-| 4 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 |
+| 4 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 |
 | 5 | [Faz Bem](https://open.spotify.com/track/38adAyMqsOEwCdXETWCPPa) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Faz Bem](https://open.spotify.com/album/1TW06h2SedE0SrfFXK7QHo) | 3:03 |
 | 6 | [Impec](https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Deepak Looper](https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf) | 3:13 |
 | 7 | [Borboletas](https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh) | 3:24 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 71 | [Mar de Rosas](https://open.spotify.com/track/7xPkzDlimUKWdr3Gf7JdPN) | [fontayne](https://open.spotify.com/artist/5LqAHoa04Mi9HtTtskh2GF) | [Mar de Rosas](https://open.spotify.com/album/492Q0hPgKBp529dQpdHvPZ) | 2:46 |
 | 72 | [Agora Naw](https://open.spotify.com/track/1PgAHn4rhXbsGNkFK8A8HN) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF) | [Camadas](https://open.spotify.com/album/2sdk6kCoIXXJUf0v67Ig2x) | 3:04 |
 | 73 | [Aprendi a Amar](https://open.spotify.com/track/25eaNnUtxQhnoisuKglAtA) | [Oestrela](https://open.spotify.com/artist/4OHp25KOzOBF38Uq4CNtNE) | [Aprendi a Amar](https://open.spotify.com/album/07Xhxbh0q271QHx5iPJctj) | 2:59 |
-| 74 | [Não dá](https://open.spotify.com/track/3WACFNMNQKehJ2xgn3nSNm) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Não dá](https://open.spotify.com/album/3fK2GR9JodQqshxoR4un26) | 3:03 |
-| 75 | [Não Dá](https://open.spotify.com/track/6cALPWqrwYbbR9GEVM8Xg3) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi) | [Não Dá](https://open.spotify.com/album/2f4ma3ztAuZEGTZABZ4pqW) | 2:40 |
+| 74 | [Não Dá](https://open.spotify.com/track/6cALPWqrwYbbR9GEVM8Xg3) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi) | [Não Dá](https://open.spotify.com/album/2f4ma3ztAuZEGTZABZ4pqW) | 2:40 |
+| 75 | [Não dá](https://open.spotify.com/track/3WACFNMNQKehJ2xgn3nSNm) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Não dá](https://open.spotify.com/album/3fK2GR9JodQqshxoR4un26) | 3:03 |
 | 76 | [PEACE](https://open.spotify.com/track/0HMIctywEolk71isSynd0u) | [Ferro](https://open.spotify.com/artist/5lZ6GGW3zw5NhfCyaAmOBK) | [EVERYTHING I'VE NEVER SAID](https://open.spotify.com/album/3m47TPHq517bS1RFv683cn) | 3:31 |
 | 77 | [B4U](https://open.spotify.com/track/4htFvo798QAxy9iUBoTJPg) | [St\. James Park](https://open.spotify.com/artist/4WGxfbDkaRQOFN0uriUXDF), [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI), [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U), [Birou](https://open.spotify.com/artist/6MZjeFl9psA2ncl3ennNbx) | [B4U](https://open.spotify.com/album/43RReczlsprLlicvPx8xnC) | 3:12 |
 | 78 | [Baby 3x](https://open.spotify.com/track/4FSWmY6tbpTXoeb4hqO5pn) | [Flepa](https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB) | [Baby 3x](https://open.spotify.com/album/7sNeiqO9arYjxRUIIqzBub) | 1:57 |
 | 79 | [Dreams](https://open.spotify.com/track/1DjRGwFuokMU6T8gH7JmL6) | [Indian Man](https://open.spotify.com/artist/1f902507emsB4UREPPHHOn) | [Dreams](https://open.spotify.com/album/1fJxerDvyH6b1Qn8kYDd0B) | 2:17 |
-| 80 | [C'La Perfecion](https://open.spotify.com/track/5aNyNvjhs3ieGT1b6geApO) | [Nello Fellirio](https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4) | [C'La Perfecion](https://open.spotify.com/album/5qDrbiudT2Cd8ZUfpNCfQl) | 3:00 |
+| 80 | [No One](https://open.spotify.com/track/6wTAfWC8AfDl9EygNe95o2) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [Biox](https://open.spotify.com/artist/1gZL90jBtuW3kgeF8nVjcM) | [No One](https://open.spotify.com/album/19tUNod8E8GEUFfOH5Gk17) | 3:10 |
 
-Snapshot ID: `MCwzNTkwM2FhYWZmNzUxMzNmNjAzMDUwNzQ2MDA1YTliM2RkN2FlZWVi`
+Snapshot ID: `MCxmZTU0OWQ1ZTcwZTY2OTM0YmE0MzliMmNkMWRhMThiZWQ1MDFlNDE1`

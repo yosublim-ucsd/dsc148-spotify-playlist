@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Lvbel C5
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,329,332 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,329,703 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 17 | [Sıra Dışı](https://open.spotify.com/track/56k2LTM6BoRU2lSLOAQTBo) | [Rota](https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB) | [Sıra Dışı](https://open.spotify.com/album/2upDWqVL7PHaS5edRBibIx) | 2:34 |
 | 18 | [İstanbul](https://open.spotify.com/track/5WO3fQkU2Stfv6LGzwhwFL) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [İstanbul](https://open.spotify.com/album/2M1gxZdQbljVxyv4IUGgHA) | 2:23 |
 | 19 | [A La Carte](https://open.spotify.com/track/4MmvreU6tS8j2o693cUgpp) | [Kleo](https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm), [Segah](https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [A La Carte](https://open.spotify.com/album/2RzrB6Tlphecdy8K5NV7RD) | 2:35 |
-| 20 | [Dünya](https://open.spotify.com/track/1UOmVab2gB09lsu82lSc3r) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Dünya](https://open.spotify.com/album/7mNMnXYzlNqqhav7QsETj3) | 2:40 |
+| 20 | [DUNYA](https://open.spotify.com/track/1UOmVab2gB09lsu82lSc3r) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [DUNYA](https://open.spotify.com/album/7mNMnXYzlNqqhav7QsETj3) | 2:40 |
 | 21 | [Margiela](https://open.spotify.com/track/1KGvrw4RWClq7yt42sGG1v) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Margiela](https://open.spotify.com/album/4e2mD2qvVzVoA165EzPg5B) | 3:21 |
 | 22 | [İSTANBUL](https://open.spotify.com/track/6GKAf3Sq0W8flUosmCirK7) | [Etki](https://open.spotify.com/artist/2eHCB9X3BalOW2a3zjYJeg), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [İSTANBUL](https://open.spotify.com/album/4NyR5G4ZqFgBn3Xst6NCV8) | 3:04 |
 | 23 | [Hoşçakal](https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Hoşçakal](https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps) | 3:10 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 31 | [LACIVERT](https://open.spotify.com/track/26h7iVBq3DSR9ex0BpT8GO) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Pango](https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE) | [ECLIPSE \(Original Soundtrack\)](https://open.spotify.com/album/5LPrbOrlvZ8lnb2CMexS2e) | 3:55 |
 | 32 | [aklına ben gelicem](https://open.spotify.com/track/3ZwRkdnTb4az8X5n4WXuHA) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [aklına ben gelicem](https://open.spotify.com/album/58PsD3FgNdDAdX4efIAB2J) | 2:29 |
 | 33 | [HANIMEFENDİ](https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:15 |
-| 34 | [Para Haramsız](https://open.spotify.com/track/4rsvMrUAcUcrR6WjioZetQ) | [Flex La Carte](https://open.spotify.com/artist/5rMG4duPCzZYujCeTBP47C), [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Para Haramsız](https://open.spotify.com/album/58XKHApLjtzgam0VNKwu8C) | 1:22 |
+| 34 | [Para Haramsız](https://open.spotify.com/track/63v8p19RUcTCspQag7vpKN) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Para Haramsız](https://open.spotify.com/album/3Oi6fbcYOQzF5XKO0ezSBX) | 2:05 |
 | 35 | [Cesaret](https://open.spotify.com/track/4LPfP8XzAp7OESNP28AUFB) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [Cesaret](https://open.spotify.com/album/00HFD6omZZg5Fj1zH4QRMT) | 2:38 |
 | 36 | [Promilim Yüksek](https://open.spotify.com/track/7rP7Cf8BMGCQlPBmcxPObM) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Promilim Yüksek](https://open.spotify.com/album/6d8TE9RJjtPjYLYgaNkgEC) | 2:13 |
 | 37 | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [İmparator](https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [İmparator](https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre) | 2:04 |
 | 50 | [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 |
 
-Snapshot ID: `MCwzMGZlMTQzNWZkZmEzMzJhMjBhNTMzMmQwMzEzNmJiZDk5ODU1OGJk`
+Snapshot ID: `MCw2ODk4M2IzOWFmZGFiZjgxY2NjM2IwNTZhNzJhYzM5NTVhZjhkMDUz`

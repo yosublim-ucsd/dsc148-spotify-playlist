@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-119 songs - 10 hr 33 min
+120 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Eyes](https://open.spotify.com/track/2Aynxq3QreZhoS58B7WU27) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Eyes](https://open.spotify.com/album/1W1uuyANBmfqBVQj9kbCIr) | 4:52 | 2022-05-20 | 2022-10-21 |
 | [Eyes](https://open.spotify.com/track/4aiHWfoe3Z3dwIvR7uNAGo) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Radiant Bloom](https://open.spotify.com/album/5ByR2W7N4vZlpsdkZOahIS) | 4:52 | 2022-05-20 |  |
 | [Fantastic Corps](https://open.spotify.com/track/7oYcf6HhEAIkUT0sqITjo7) | [Kaleidobolt](https://open.spotify.com/artist/5UbTeitV10l7GIxsXglE9r) | [This One Simple Trick](https://open.spotify.com/album/2nHH8FJgi3ZiBWCgPHCAzK) | 5:25 | 2022-05-20 |  |
-| [Follow The Fool](https://open.spotify.com/track/1M7oaMe4qLxXtuY8wlbcso) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Follow The Fool](https://open.spotify.com/album/1RdlpTc1kCOCr0mHfTdXu1) | 3:45 | 2022-05-20 |  |
+| [Follow The Fool](https://open.spotify.com/track/1M7oaMe4qLxXtuY8wlbcso) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Follow The Fool](https://open.spotify.com/album/1RdlpTc1kCOCr0mHfTdXu1) | 3:45 | 2022-05-20 | 2024-02-11 |
+| [Follow the Fool](https://open.spotify.com/track/5O0CmYTf8WshE2y6rQVWAF) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Conspiranoid](https://open.spotify.com/album/6tvuIngm9XhD8mwncouN8G) | 3:45 | 2022-11-17 |  |
 | [Fountainhead](https://open.spotify.com/track/2ThzCmB4XAQs1IKn7YCQuJ) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Fountainhead](https://open.spotify.com/album/188WgRHkVrDZKdu0MqSQSw) | 3:41 | 2022-05-20 | 2022-07-29 |
 | [Fountainhead](https://open.spotify.com/track/51n85McBXIxLCKCUWvakYc) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Escapades \(Deluxe Edition\)](https://open.spotify.com/album/6IIGmXZ78EtQTakhXh66k0) | 3:41 | 2022-05-20 | 2022-11-14 |
 | [Fountainhead](https://open.spotify.com/track/6keB6agTeQshuQUVQYeLgL) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Escapades](https://open.spotify.com/album/3Q5EIihNcRQbuEFA2vGDGo) | 3:41 | 2022-05-20 |  |

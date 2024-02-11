@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-245 songs - 16 hr 37 min
+246 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Move Me](https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Move Me](https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE) | 3:51 | 2023-05-19 |  |
 | [Move Out the Way \- Radio Edit](https://open.spotify.com/track/4q5O14RoZXNF8hTZxKpsd9) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Coffee in the Morning EP](https://open.spotify.com/album/5THT3dLSH2Wb5o4bpJ1ZtS) | 3:49 | 2021-07-24 | 2023-03-09 |
 | [Move Out the Way \- Radio Edit](https://open.spotify.com/track/6bFf1hwv13VHkPm95s24dB) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Coffee in the Morning](https://open.spotify.com/album/6q0LCCmAkCPnma67fi12Vk) | 3:49 | 2022-06-20 | 2023-05-20 |
+| [Murder On The Dancefloor \- PNAU Remix](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Murder On The Dancefloor \(PNAU Remix\)](https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ) | 4:20 | 2024-02-09 |  |
 | [Music Saved My Life](https://open.spotify.com/track/2XPixA82xnIiju7E0bgt4e) | [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo), [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor) | [Music Saved My Life](https://open.spotify.com/album/5MZqeTw9XvDNq8TgYq0AsO) | 3:44 | 2021-07-24 | 2023-08-07 |
 | [My All](https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [My All](https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH) | 4:00 | 2023-07-28 | 2023-09-30 |
 | [Nektar](https://open.spotify.com/track/1of7gEdQHr4ZXUxYr8ougw) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Lisa Toh](https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO) | [Moon II](https://open.spotify.com/album/3xRV4gGRWtSkRpHJqvo6vL) | 3:18 | 2021-07-24 | 2023-05-20 |
@@ -193,7 +194,7 @@
 | [Ritmo 6](https://open.spotify.com/track/6KGQ8HUfPdrGVmQAMLlNtI) | [Christian S](https://open.spotify.com/artist/0GQQT1VBcDpqgy4qJsRUqo), [Sano](https://open.spotify.com/artist/0kCcPUZQeVQrqBLJfgoGb1) | [Tannin](https://open.spotify.com/album/0IEN4CV0eoh0CnsFXIIC9P) | 4:59 | 2022-06-20 | 2023-05-20 |
 | [Rock With Me](https://open.spotify.com/track/18fazLrZ3SjUVNaaAOjlSU) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [Rock With Me](https://open.spotify.com/album/18fw42lq4tGTUVaZtC48NM) | 2:44 | 2023-05-19 | 2023-08-28 |
 | [Rushing Back](https://open.spotify.com/track/5YSu7cIVCuvbOkDeckjVhL) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [Yasmin](https://open.spotify.com/artist/5KEjVMaEdZ1tHgaAIkZCVp) | [Rushing Back](https://open.spotify.com/album/1BU49cvjSWAqnab2VwZPqq) | 3:44 | 2021-07-24 | 2023-05-20 |
-| [Sanctuary](https://open.spotify.com/track/5AEYzNoMrEgoEf7pDXiyD3) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5), [Slim Jeff](https://open.spotify.com/artist/16S5i3Q31EGZAB1v593hhk), [Annabelle Freedman](https://open.spotify.com/artist/0NoKAkvLzKucjNCZ0y62SW) | [CAPYAC FOREVER](https://open.spotify.com/album/63jCHRp1OODxxUM5vm6sw3) | 3:26 | 2023-05-19 |  |
+| [Sanctuary](https://open.spotify.com/track/5AEYzNoMrEgoEf7pDXiyD3) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5), [Slim Jeff](https://open.spotify.com/artist/16S5i3Q31EGZAB1v593hhk), [Annabelle Freedman](https://open.spotify.com/artist/0NoKAkvLzKucjNCZ0y62SW) | [CAPYAC FOREVER](https://open.spotify.com/album/63jCHRp1OODxxUM5vm6sw3) | 3:26 | 2023-05-19 | 2024-02-11 |
 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 | 2021-07-24 | 2023-07-06 |
 | [Satisfy Your Fantasy](https://open.spotify.com/track/2awksO3qqWBWDnJuBJdQaC) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Satisfy Your Fantasy](https://open.spotify.com/album/41P47wN7Z6L02O52OQSw3j) | 7:04 | 2022-06-20 | 2022-11-13 |
 | [Satisfy Your Fantasy](https://open.spotify.com/track/5ftPNzPPQSm3my65xrZsMa) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Satisfy Your Fantasy](https://open.spotify.com/album/3fZHiJmXFcQCICVudoOVuV) | 7:04 | 2021-07-24 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 383558,
+  "num_followers": 383659,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2EzZDExNGNjNGNhMmRmNDY4NWU0YmMzZGI4MmU2ZmM4OTQ4ZWNi",
+  "snapshot_id": "MCxhMzkwMGM2NzQ3YzhmZGJmMWExMzM2M2FiMmZjY2EwMmNlNDM4MDQ2",
   "tracks": [
     {
       "added_at": "2024-01-26 08:36:38",
@@ -375,18 +375,18 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
-        "name": "Strictly Business",
-        "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
       },
       "artists": [
         {
-          "name": "EPMD",
-          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
         }
       ],
-      "duration_ms": 261840,
-      "name": "You Gots To Chill",
-      "url": "https://open.spotify.com/track/0f1yzIIGD8k32DNVeEn6jb"
+      "duration_ms": 302666,
+      "name": "Rebel Without A Pause",
+      "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
     },
     {
       "added_at": "2024-01-26 08:36:38",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+        "name": "Strictly Business",
+        "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
       },
       "artists": [
         {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
         }
       ],
-      "duration_ms": 302666,
-      "name": "Rebel Without A Pause",
-      "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
+      "duration_ms": 261840,
+      "name": "You Gots To Chill",
+      "url": "https://open.spotify.com/track/0f1yzIIGD8k32DNVeEn6jb"
     },
     {
       "added_at": "2024-01-26 08:36:38",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 319360,
+      "name": "Don't Believe The Hype",
+      "url": "https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x"
+    },
+    {
+      "added_at": "2024-01-26 08:36:38",
+      "album": {
         "name": "Criminal Minded (Deluxe)",
         "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 257223,
       "name": "9mm Goes Bang",
       "url": "https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT"
-    },
-    {
-      "added_at": "2024-01-26 08:36:38",
-      "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "Hold It Now, Hit It",
-      "url": "https://open.spotify.com/track/3C8xkK4Cir2QmiaN07GIZs"
     },
     {
       "added_at": "2024-01-26 08:36:38",
@@ -551,6 +551,22 @@
       "duration_ms": 167880,
       "name": "My Adidas",
       "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
+    },
+    {
+      "added_at": "2024-01-26 08:36:38",
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Hold It Now, Hit It",
+      "url": "https://open.spotify.com/track/3C8xkK4Cir2QmiaN07GIZs"
     },
     {
       "added_at": "2024-01-26 08:36:38",
@@ -596,9 +612,9 @@
           "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
         }
       ],
-      "duration_ms": 319360,
-      "name": "Don't Believe The Hype",
-      "url": "https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x"
+      "duration_ms": 226040,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
     },
     {
       "added_at": "2024-01-26 08:36:38",
@@ -671,22 +687,6 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
-        "name": "Criminal Minded (Deluxe)",
-        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 204601,
-      "name": "The Bridge Is Over",
-      "url": "https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2"
-    },
-    {
-      "added_at": "2024-01-26 08:36:38",
-      "album": {
         "name": "King Of Rock (Expanded Edition)",
         "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
       },
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
+        "name": "Criminal Minded (Deluxe)",
+        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 204601,
+      "name": "The Bridge Is Over",
+      "url": "https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2"
+    },
+    {
+      "added_at": "2024-01-26 08:36:38",
+      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
       },
@@ -715,38 +731,6 @@
       "duration_ms": 282866,
       "name": "Freaks Come Out at Night",
       "url": "https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy"
-    },
-    {
-      "added_at": "2024-01-26 08:36:38",
-      "album": {
-        "name": "All World",
-        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 321986,
-      "name": "I Need Love",
-      "url": "https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q"
-    },
-    {
-      "added_at": "2024-01-26 08:36:38",
-      "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
     },
     {
       "added_at": "2024-01-26 08:36:38",
@@ -771,6 +755,22 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
+        "name": "All World",
+        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 321986,
+      "name": "I Need Love",
+      "url": "https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q"
+    },
+    {
+      "added_at": "2024-01-26 08:36:38",
+      "album": {
         "name": "Hey DJ",
         "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
       },
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
-        "name": "Paid In Full (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj"
+        "name": "Youngest in Charge",
+        "url": "https://open.spotify.com/album/3R6qOZ2QsPj6yWism4b7vk"
       },
       "artists": [
         {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+          "name": "Special Ed",
+          "url": "https://open.spotify.com/artist/3vIFTM70CYTYr122vTVpzx"
         }
       ],
-      "duration_ms": 429560,
-      "name": "Paid In Full - Seven Minutes Of Madness - The Coldcut Remix",
-      "url": "https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci"
+      "duration_ms": 221986,
+      "name": "I Got It Made",
+      "url": "https://open.spotify.com/track/68DGiGtJrVcGBeOf5UNpVz"
     },
     {
       "added_at": "2024-01-26 08:36:38",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
-        "name": "Youngest in Charge",
-        "url": "https://open.spotify.com/album/3R6qOZ2QsPj6yWism4b7vk"
+        "name": "Paid In Full (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj"
       },
       "artists": [
         {
-          "name": "Special Ed",
-          "url": "https://open.spotify.com/artist/3vIFTM70CYTYr122vTVpzx"
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
         }
       ],
-      "duration_ms": 221986,
-      "name": "I Got It Made",
-      "url": "https://open.spotify.com/track/68DGiGtJrVcGBeOf5UNpVz"
+      "duration_ms": 429560,
+      "name": "Paid In Full - Seven Minutes Of Madness - The Coldcut Remix",
+      "url": "https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci"
     },
     {
       "added_at": "2024-01-26 08:36:38",

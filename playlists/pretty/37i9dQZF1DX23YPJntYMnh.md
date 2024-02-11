@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,304 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,339 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 71 | [Sexy Tonight](https://open.spotify.com/track/2nuAMryuRuixKZbk4Jmfes) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Like It on Top](https://open.spotify.com/album/26lGPtKtc4SneVwBh67pW8) | 3:35 |
 | 72 | [Lifted](https://open.spotify.com/track/26QzRihsoqGy1NlKQF5fwu) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Lifted](https://open.spotify.com/album/4ViSf3khdEm6rgSofBvjrk) | 3:12 |
 | 73 | [Pleasure](https://open.spotify.com/track/2eveNWx7SOWY5CW4kLAuqI) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Pleasure](https://open.spotify.com/album/0uHID8mbrWV2qnAHdiyNpF) | 3:24 |
-| 74 | [Conspiranoia](https://open.spotify.com/track/5WP538GVRBWRakIrVBWCSS) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Conspiranoia](https://open.spotify.com/album/0Q6d4EiADM8KBMo2tpY3f3) | 11:30 |
+| 74 | [Conspiranoia](https://open.spotify.com/track/7MPJD2TRVCCGZVR38ZVpsk) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Conspiranoid](https://open.spotify.com/album/6tvuIngm9XhD8mwncouN8G) | 11:30 |
 | 75 | [Love Captivity](https://open.spotify.com/track/3DDTxfWGpug3SXojx1FlYE) | [Connor Kelly & The Time Warp](https://open.spotify.com/artist/1zPBaiyAP0pKi4oMnvfAUi) | [Distant Forest](https://open.spotify.com/album/1vUCITgbaNnoQrJNvN0gBx) | 3:41 |
 | 76 | [Set It Free \(Elemental Redux\)](https://open.spotify.com/track/52n8k5BoSwpUjDgONNiP2g) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Trance Thompson](https://open.spotify.com/artist/4BTloNqFLLzwrLSrmCEqfJ), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Tym Brown](https://open.spotify.com/artist/4SC8VdUOawaFV0RnSfV6Fu), [Nataly Michelle Wright](https://open.spotify.com/artist/4mUEBynRJ4zK9hQrH1cLWP), [Felicia Walker](https://open.spotify.com/artist/3arGmiOACj527kRl3XiKUX) | [Set It Free \(Elemental Redux\)](https://open.spotify.com/album/5zGfsqhSPDMkS4OobZBDP2) | 4:37 |
 | 77 | [You Know That](https://open.spotify.com/track/0TKz5gQUDPeHSyEHBCnsMP) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Go Faster](https://open.spotify.com/album/6C33RIIcD7Q0Sx0APSfpm5) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 99 | [The Rougarou](https://open.spotify.com/track/6Y0E6cel8EllxaxIpCjjih) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [The Rougarou](https://open.spotify.com/album/7zFE0ofJbtgK3vzBhAmQMA) | 3:17 |
 | 100 | [Clap For The Killers](https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 3:55 |
 
-Snapshot ID: `MCxhMDc3NTBhZTEzMzQyODk3YTAyZGYwM2JlMmM5MDljM2UzYjNiMmNh`
+Snapshot ID: `MCxhZmI2NDIzZDk5ZWU1NTQ1MDg3MDkwZGY4MjlhZDQ2YjVhZDRkN2Mz`

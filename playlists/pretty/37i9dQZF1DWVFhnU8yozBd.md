@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,662 likes - 100 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,681 likes - 100 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 66 | [Sun Phase \- Human Movement Remix](https://open.spotify.com/track/1NeG33plymBYofVlEftPu7) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ) | [Sun Phase](https://open.spotify.com/album/1imDuOv4CXSdHbyt6QA4JT) | 6:27 |
 | 67 | [Grind](https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc) | [Les Sins](https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL) | [Grind / Prelims](https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs) | 5:18 |
 | 68 | [Aye Aye Mi Mi](https://open.spotify.com/track/0YqjN0gHXrgl5RirVDp2pa) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [At the Moment](https://open.spotify.com/album/6AANVkZf5rOwMb1emJOPpe) | 5:35 |
-| 69 | [Can't Help It](https://open.spotify.com/track/7z2oL4N6nkOY39PXLASCpO) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Can't Help It](https://open.spotify.com/album/4dOyCbf2Qpy6XCrVVSTLBp) | 5:38 |
+| 69 | [Can't Help It](https://open.spotify.com/track/1LwvkpRU07Ch1nSGVvNSc0) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Can't Help It](https://open.spotify.com/album/2KFo2Yed1DosfUEJqzpdVQ) | 5:38 |
 | 70 | [Burnt Orange](https://open.spotify.com/track/2Ot2c0TFAg0ENgAiDfh3IO) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 5:36 |
 | 71 | [Clean Slate](https://open.spotify.com/track/6Cglz60KUYA11wzCDdezpC) | [Darko Esser](https://open.spotify.com/artist/7AqGdFNJPwfxvvxzuriXUK) | [Clean Slate](https://open.spotify.com/album/2i1kZDNm28mVEmUG7VtKa6) | 10:41 |
 | 72 | [OAR003\-B](https://open.spotify.com/track/7qnDy4qBwsPkTeoVv06BYS) | [Oni Ayhun](https://open.spotify.com/artist/6pybt7x9B6bbxxlgcCtNMW), [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0) | [OAR003](https://open.spotify.com/album/3zBBlW9H75fq7IGpnaqsXA) | 11:14 |
 | 73 | [Currency Low \(Bonus Track\)](https://open.spotify.com/track/5YBlB9eYbPJqM9CzLjOKcL) | [Off The Meds](https://open.spotify.com/artist/6XHiqDJIKWxSMQLsjFsiFM) | [Off The Meds](https://open.spotify.com/album/55mcKjdv72tY48WqTHn7cZ) | 2:29 |
-| 74 | [Hessingen](https://open.spotify.com/track/2yCbHFZ2spf22BHacJKiED) | [Shakarchi & Stranéus](https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H) | [Steal Chickens From Men And the Future From God](https://open.spotify.com/album/51sbT6gvFD5BnGU8kGpBVw) | 6:27 |
+| 74 | [Hessingen](https://open.spotify.com/track/4lgw73z34KT0lXMkOkhiiz) | [Shakarchi & Stranéus](https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H) | [Steal Chickens From Men And the Future From God](https://open.spotify.com/album/1D3xbkC6EakLekNYbipEiJ) | 6:27 |
 | 75 | [Pacifica](https://open.spotify.com/track/5nINri5AenR6Q7ljBJYfgL) | [Sterac](https://open.spotify.com/artist/2QFnCeEbTqsb0YUYpFl08v) | [Asphyx](https://open.spotify.com/album/6ofX98b64trX8JvhzIrGrE) | 7:53 |
 | 76 | [Hold Me \- T4T Embrace Mix](https://open.spotify.com/track/1igRDinuruKXDDLHFqOYvL) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Devotion](https://open.spotify.com/album/2e7LQqvJdInqGHnjEIsAaJ) | 5:56 |
 | 77 | [Waiting](https://open.spotify.com/track/7fxcNshGvCxlNMGHI1GmCx) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Waiting](https://open.spotify.com/album/0zGcOpLSpmGTJUcHRrNUJz) | 6:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 99 | [Moninga](https://open.spotify.com/track/3jlygH5CHIUsQQwos8F9th) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/1pU2gXK7SEvzQjZJflm0kR) | 4:55 |
 | 100 | [Balance \- Dj Floor Remix](https://open.spotify.com/track/0zKxARvuFIfUMx1MiuZaMR) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6), [DJ Floor](https://open.spotify.com/artist/6BuZRXj92YFV1pm7G8ZEyY) | [Balance \(Remixes\)](https://open.spotify.com/album/2OYcucJqPHC9paken1byEp) | 4:07 |
 
-Snapshot ID: `MCxjMTU3MjE2NzAxMmJjMWNlNTk3YjZkMjdhZjdjZThiMDQ3Nzg1YzFk`
+Snapshot ID: `MCxkMjdmYmVhM2IxYWUxMDFkOWMwMGU5MWM1ZDkzZGE0ZTRjZmRiN2Q0`

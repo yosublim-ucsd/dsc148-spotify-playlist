@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 33846,
+  "num_followers": 33852,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjg1N2VkZTI1Mzk4Mzk0MThjYTFhNTk3MDFlZjYyN2E1OGJiODEx",
+  "snapshot_id": "MCxkN2M0ZDM4ZDhlNjU2MDBjOGIwYjk5ZWRjMmY4ZTg3ZWFlMDhkZmFk",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:07",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Absolution",
-      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Night Journeys II",
         "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 436776,
       "name": "Night Journeys II",
       "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Bassin Bleu",
-        "url": "https://open.spotify.com/album/1xbZmUFMUIN9SHS9JDuuvi"
-      },
-      "artists": [
-        {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
-        }
-      ],
-      "duration_ms": 359398,
-      "name": "Bassin Bleu",
-      "url": "https://open.spotify.com/track/6O6L2WaSYRsehdwvqf5N63"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Deep Listening",
         "url": "https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 1496133,
       "name": "Lear",
       "url": "https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Bassin Bleu",
+        "url": "https://open.spotify.com/album/1xbZmUFMUIN9SHS9JDuuvi"
+      },
+      "artists": [
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "duration_ms": 359398,
+      "name": "Bassin Bleu",
+      "url": "https://open.spotify.com/track/6O6L2WaSYRsehdwvqf5N63"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Epistasis",
-        "url": "https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev"
-      },
-      "artists": [
-        {
-          "name": "Maria W Horn",
-          "url": "https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak"
-        }
-      ],
-      "duration_ms": 571000,
-      "name": "Epistasis",
-      "url": "https://open.spotify.com/track/5aSDp6NmeEfxGg353TLPrO"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "@0",
         "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 280000,
       "name": "dana\u00efdes",
       "url": "https://open.spotify.com/track/1NuEOnS4XOfuwFyihgiXiD"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Epistasis",
+        "url": "https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev"
+      },
+      "artists": [
+        {
+          "name": "Maria W Horn",
+          "url": "https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak"
+        }
+      ],
+      "duration_ms": 571000,
+      "name": "Epistasis",
+      "url": "https://open.spotify.com/track/5aSDp6NmeEfxGg353TLPrO"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Headflush",
+        "url": "https://open.spotify.com/album/6OsI5ZkpP1IVCe1qUhAbQj"
+      },
+      "artists": [
+        {
+          "name": "Leila Bordreuil",
+          "url": "https://open.spotify.com/artist/6WEdmq6hhfnYZ21aJOaY35"
+        }
+      ],
+      "duration_ms": 557973,
+      "name": "Sleep Cycle",
+      "url": "https://open.spotify.com/track/3jqcYNQZCNuPL7AHl5TbRQ"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "The Fifth Season (Versions)",
         "url": "https://open.spotify.com/album/36b1h6b8WHww6yHJpemPSs"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 231618,
       "name": "Night Changes Many Thoughts",
       "url": "https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Headflush",
-        "url": "https://open.spotify.com/album/6OsI5ZkpP1IVCe1qUhAbQj"
-      },
-      "artists": [
-        {
-          "name": "Leila Bordreuil",
-          "url": "https://open.spotify.com/artist/6WEdmq6hhfnYZ21aJOaY35"
-        }
-      ],
-      "duration_ms": 557973,
-      "name": "Sleep Cycle",
-      "url": "https://open.spotify.com/track/3jqcYNQZCNuPL7AHl5TbRQ"
     },
     {
       "added_at": "2023-09-08 14:04:07",

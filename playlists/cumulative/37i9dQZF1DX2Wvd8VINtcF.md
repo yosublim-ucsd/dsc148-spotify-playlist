@@ -2,7 +2,7 @@
 
 ### [Oyster](https://open.spotify.com/playlist/37i9dQZF1DX2Wvd8VINtcF)
 
-> the pearls of an oyster\. Cover: The girl in red
+> the pearls of an oyster\. Cover: girl in red
 
 1,082 songs - 2 day 11 hr 47 min
 

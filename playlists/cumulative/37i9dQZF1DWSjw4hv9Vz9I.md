@@ -4,7 +4,7 @@
 
 > A neo\-classic sound for the road\. Cover: Thee Sacred Souls
 
-124 songs - 7 hr 25 min
+125 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 | 2021-09-10 |  |
 | [Cards](https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Underneath the Surface](https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35) | 4:14 | 2021-07-13 |  |
 | [Circles](https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:18 | 2021-07-13 |  |
-| [Come On Over feat\. Afrodyete](https://open.spotify.com/track/4Q0Qx5khaN6qJZ5AN7durj) | [Breakestra](https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG) | [Dusk Till Dawn](https://open.spotify.com/album/34Qst6FA4Af9CogPQN3LSv) | 4:26 | 2021-07-13 |  |
+| [Come On Over feat\. Afrodyete](https://open.spotify.com/track/4Q0Qx5khaN6qJZ5AN7durj) | [Breakestra](https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG) | [Dusk Till Dawn](https://open.spotify.com/album/34Qst6FA4Af9CogPQN3LSv) | 4:26 | 2021-07-13 | 2024-02-11 |
 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2021-07-13 |  |
 | [Distance](https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [The Switch](https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY) | 3:51 | 2021-07-13 |  |
 | [Do It Again](https://open.spotify.com/track/0JEL0mNhB89bnkvPAuffd4) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:59 | 2021-07-13 |  |
@@ -72,6 +72,7 @@
 | [Just Like You Used To](https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:09 | 2022-12-13 |  |
 | [Ladies](https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:17 | 2021-07-13 |  |
 | [Live Learn](https://open.spotify.com/track/1pRjwKEEx9ddfevbXNyJdi) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Call It Home, Vol\. 1](https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0) | 4:35 | 2022-12-13 |  |
+| [LivWithoutU](https://open.spotify.com/track/702LH54iFxKCFPVsBNZdvA) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 5:28 | 2022-12-13 |  |
 | [Long Goodbye](https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL) | 4:23 | 2023-12-13 |  |
 | [Love Again](https://open.spotify.com/track/16KSqTxxJWUp4W0UU9N0hO) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:30 | 2021-07-13 |  |
 | [Lover Boy](https://open.spotify.com/track/0jUr0WvsfRuBO1FruKIo9O) | [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [La Voz De Oro](https://open.spotify.com/album/1mJlf5Y2RMw7B67MAz4Crw) | 2:55 | 2023-12-13 | 2024-02-10 |
@@ -113,7 +114,7 @@
 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 | 2021-07-13 |  |
 | [The Good Life](https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:05 | 2021-07-13 |  |
 | [The Keys](https://open.spotify.com/track/3IKEgC5BTp0hzQxl5GTujD) | [Matt Duncan](https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl) | [Soft Times](https://open.spotify.com/album/2uYzXe3PhOs9p7jW3jDZue) | 3:37 | 2021-07-13 |  |
-| [The Last Dance](https://open.spotify.com/track/3Z9Xzfi7XDT3DVyfb8gRVp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Alien Coast](https://open.spotify.com/album/6u9qHGvcKkavFaWp4Hwifl) | 3:24 | 2021-10-08 |  |
+| [The Last Dance](https://open.spotify.com/track/3Z9Xzfi7XDT3DVyfb8gRVp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Alien Coast](https://open.spotify.com/album/6u9qHGvcKkavFaWp4Hwifl) | 3:24 | 2021-10-08 | 2024-02-11 |
 | [The Sun](https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [The Sun](https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ) | 4:08 | 2021-10-22 |  |
 | [The Walk](https://open.spotify.com/track/7tBZa65xUKMMan9tIMPqbi) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [How Do You Do](https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V) | 3:38 | 2021-07-13 |  |
 | [The Wilhelm Scream \(feat\. Meg Washington\)](https://open.spotify.com/track/1GShu7jYDAFp1YqZgD5xtC) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ) | [Medicine Man](https://open.spotify.com/album/4lWBwTzsdHz0fZqAl369FL) | 4:28 | 2021-07-13 |  |
@@ -122,7 +123,7 @@
 | [Turnin' Me Up](https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu) | 4:29 | 2021-07-13 |  |
 | [Underestimate Me](https://open.spotify.com/track/4Aekbv712FflNiu4ldLkQF) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Underestimate Me](https://open.spotify.com/album/6NlxnHXuCl2pJK5uxhlQPM) | 3:08 | 2023-12-13 |  |
 | [Up Top](https://open.spotify.com/track/1AgKm1bLfkByxpONHlaLLk) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Uncommon Good](https://open.spotify.com/album/29r3Vl3AHVHiYIQB3mwkW7) | 4:37 | 2021-07-13 |  |
-| [Upside](https://open.spotify.com/track/1eRvvnfpeisIH2JY07equa) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Upside](https://open.spotify.com/album/5huXDLGFyTBjbtYxjilbJ1) | 2:50 | 2021-07-13 | 2024-02-10 |
+| [Upside](https://open.spotify.com/track/1eRvvnfpeisIH2JY07equa) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Upside](https://open.spotify.com/album/5huXDLGFyTBjbtYxjilbJ1) | 2:50 | 2021-07-13 |  |
 | [When It Was Wrong](https://open.spotify.com/track/07idVCxylGXwdspLpgxkf7) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [A River's Invitation](https://open.spotify.com/album/6VgqRIhVmPYJwgacWQqhFU) | 3:34 | 2023-07-11 |  |
 | [When It Was Wrong](https://open.spotify.com/track/0dUb6kyjmx1XlkTw37g3tN) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Spreadin' Honey](https://open.spotify.com/album/2uKI3AvjWBOoTJwO0yGrkc) | 4:32 | 2021-07-13 |  |
 | [Who Knows Who](https://open.spotify.com/track/6wZ0dZ5ZAb0Ufl70Ft0fzg) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Fanny Franklin](https://open.spotify.com/artist/6TNT3u6wqCFHq9fB5QjyvD) | [The Killion Floor](https://open.spotify.com/album/79qEi0Q67Pn3BY16kVba20) | 3:36 | 2021-07-13 |  |

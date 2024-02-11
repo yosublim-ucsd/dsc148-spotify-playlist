@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1970s\. Cover: Elton John
 
-298 songs - 19 hr 1 min
+299 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [On And On](https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:01 | 2021-04-22 |  |
 | [One Less Bell To Answer](https://open.spotify.com/track/41WWlhyhixPIVs7s8SYdyB) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [Portrait](https://open.spotify.com/album/62LU3tOqWhkL3dz8zAhTW9) | 3:30 | 2021-04-22 | 2022-07-28 |
 | [One Love / People Get Ready](https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 2:52 | 2021-04-22 | 2024-02-09 |
+| [One Love / People Get Ready](https://open.spotify.com/track/7oNgPClUYdscWWHa5PF1gT) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 2:52 | 2022-09-23 |  |
 | [One Love / People Get Ready \- Medley](https://open.spotify.com/track/2HcyIzVsX45jLIxK7SH2aI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 2:52 | 2021-04-22 | 2022-04-21 |
 | [Only Sixteen](https://open.spotify.com/track/41hirbtJ1ShR5wGZcrnu4p) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Bankrupt](https://open.spotify.com/album/2KJNTkuBGBNtkoLXpgIjro) | 2:47 | 2021-04-22 | 2022-06-27 |
 | [Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:59 | 2022-08-12 |  |
@@ -211,7 +212,7 @@
 | [Sail On](https://open.spotify.com/track/2XMjijS8aVAP1ztyNpVEy8) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [All The Great Love Songs](https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o) | 4:00 | 2022-09-23 | 2023-11-24 |
 | [Sail On](https://open.spotify.com/track/71Py1OGkgBQVTHa0aUyG4y) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [All The Great Love Songs](https://open.spotify.com/album/1M2c57R5rPEqZzTzh2yooj) | 4:00 | 2021-04-22 | 2022-07-29 |
 | [Sealed with a Kiss](https://open.spotify.com/track/26mlDJoh5bQiC7efK7xq9z) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [Sealed With A Kiss](https://open.spotify.com/album/5q8NaDLTXTNHtAmROLoQeF) | 2:49 | 2021-04-22 | 2022-04-20 |
-| [Seasons in the Sun](https://open.spotify.com/track/0X3d9gx7UDYgcwwkgTeNLR) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Radio Hits Of the '70s](https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG) | 3:29 | 2021-04-22 |  |
+| [Seasons in the Sun](https://open.spotify.com/track/0X3d9gx7UDYgcwwkgTeNLR) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Radio Hits Of the '70s](https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG) | 3:29 | 2021-04-22 | 2024-02-11 |
 | [Send One Your Love](https://open.spotify.com/track/73cq57VIFVDdjRuhpcfgSK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Original Musiquarium](https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab) | 4:00 | 2021-04-22 | 2022-04-20 |
 | [September Morn](https://open.spotify.com/track/2CXkN6UAb3jAFwz4VbsDq0) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [September Morn](https://open.spotify.com/album/6TGyHFvMMeLaKWPYTcRQU4) | 3:52 | 2021-04-22 |  |
 | [Sexy Eyes](https://open.spotify.com/track/0QpZ69CTjRbJ3ZVsnTaGfa) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Greatest Hits](https://open.spotify.com/album/0gC5d1rbDIOAx4OR5pG4MW) | 3:29 | 2021-04-22 | 2022-04-21 |

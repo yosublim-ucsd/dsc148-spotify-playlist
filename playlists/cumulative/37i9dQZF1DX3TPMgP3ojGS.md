@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,799 songs - 3 day 8 hr 32 min
+1,800 songs - 3 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [Entangled \- Ole\-Bjørn Talstad Rework](https://open.spotify.com/track/3ZvBA6TQA4CTOZNOyxou90) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Entangled \(Ole\-Bjørn Talstad Rework\)](https://open.spotify.com/album/01gAuQyr7X51xepWCsi4az) | 2:13 | 2022-12-22 | 2023-11-29 |
 | [Epenthesis](https://open.spotify.com/track/1n4aWKep4lJeeDMkmkfJav) | [Lauren Hawley](https://open.spotify.com/artist/5UDWPRjs2Qvdp65nqY3f2r) | [Epenthesis](https://open.spotify.com/album/0aH8bPdKkSPIAyTGi7mM3D) | 2:51 | 2021-03-17 | 2022-07-29 |
 | [Episode](https://open.spotify.com/track/1drr6zT3kdWCr78jPuBYDt) | [Charlotte Funke](https://open.spotify.com/artist/3yO7osdYZcoKHt0kTZT486) | [Episode](https://open.spotify.com/album/09cW79JXOPShafrskPjFxK) | 2:30 | 2021-03-07 | 2021-05-25 |
+| [Eridani](https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Eridani](https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV) | 2:32 | 2024-02-06 |  |
 | [Erin's Waltz](https://open.spotify.com/track/7CzyIeMXvK2BFc9rc6wqJf) | [Per Magnusson](https://open.spotify.com/artist/6r9azAnNoGhtJ4ljPU4a2U) | [Erin's Waltz](https://open.spotify.com/album/3mAciq9EYfuFTLUVarqP6L) | 3:17 | 2021-03-11 | 2022-04-17 |
 | [erinna](https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [erinna](https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X) | 2:08 | 2022-03-29 | 2022-08-25 |
 | [Ernestine](https://open.spotify.com/track/21EkhHVDKtaHawLN4NVwxG) | [Daniel Daecher](https://open.spotify.com/artist/10m0FXVWKgzBLEJteDQN41) | [Ernestine](https://open.spotify.com/album/2DHWxYznTTDXMKoeiimKO1) | 2:49 | 2021-03-21 | 2022-04-10 |
@@ -1055,7 +1056,7 @@
 | [Nocturne \- Piano Version](https://open.spotify.com/track/7JLDb4wSUjIQqgHglBb2VP) | [Clarence Öfwerman](https://open.spotify.com/artist/58c41fbN8x9viByYPYSdSc) | [Nocturne](https://open.spotify.com/album/1mhQEQ2Sz87Sqh94oR0S2V) | 2:47 | 2021-04-26 | 2021-12-18 |
 | [Nocturne in C](https://open.spotify.com/track/6oxOGjqU2fRw9USI2sddoC) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Nocturne in C](https://open.spotify.com/album/66tnYfegl9yV4STuFafEfT) | 2:13 | 2022-05-03 | 2022-07-29 |
 | [Noémie](https://open.spotify.com/track/05raSLFPEXgJTZ3PZPxXD0) | [Mikki Jenkins](https://open.spotify.com/artist/352pMjHoDyILGhOoYMMWYi) | [Noémie](https://open.spotify.com/album/6ESd1pP4cH03zETvAiNISE) | 2:00 | 2021-04-23 | 2022-06-17 |
-| [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 | 2023-10-26 |  |
+| [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 | 2023-10-26 | 2024-02-11 |
 | [Nominous](https://open.spotify.com/track/2pi8vhUQXXwMpSuyVGdVfS) | [Vanessa Rigby](https://open.spotify.com/artist/0LyoDVhMC4AxoR29bYM1g1) | [Nominous](https://open.spotify.com/album/5hJSvHathEOf5KVHSlxvoC) | 2:11 | 2022-03-29 | 2022-04-28 |
 | [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 | 2023-04-15 |  |
 | [Nordic Light](https://open.spotify.com/track/0qzsmjWYgiSIRNFrTEEsdP) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [Nordic Light](https://open.spotify.com/album/6uDC98RwRaAcFQzvmnteKU) | 3:23 | 2021-04-28 | 2021-05-23 |

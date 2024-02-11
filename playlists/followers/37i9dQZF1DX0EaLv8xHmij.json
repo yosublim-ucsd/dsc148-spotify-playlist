@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 26986,
+  "2024-02-11": 26995,
   "date_first_scraped": "2022-03-24",
   "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: Oklin, Prod. 2t",
   "name": "Rima Avan\u00e7ada",
@@ -989,6 +989,32 @@
       "duration_ms": 173340,
       "name": "Boca",
       "url": "https://open.spotify.com/track/0om5OHq5YXfbqyWjNRtytV"
+    },
+    {
+      "album": {
+        "name": "Bolol\u00f4",
+        "url": "https://open.spotify.com/album/4Nl7uUXzZzc8Ak3PEsivwI"
+      },
+      "artists": [
+        {
+          "name": "Pensante",
+          "url": "https://open.spotify.com/artist/2872JIpS6byTiiioaJ4WGD"
+        },
+        {
+          "name": "Na Baixada Tem Rap",
+          "url": "https://open.spotify.com/artist/2vlja486J3iOHGn6tn2Sif"
+        },
+        {
+          "name": "MC Dinho Da VP",
+          "url": "https://open.spotify.com/artist/3WAGrnvPDPAiBJHD7eaNvQ"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136208,
+      "name": "Bolol\u00f4",
+      "url": "https://open.spotify.com/track/1j4VwVTZviiAJGMdrrgNVR"
     },
     {
       "album": {
@@ -6409,7 +6435,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 148292,
       "name": "Zidane",
       "url": "https://open.spotify.com/track/4OLhUBpqcNtNeHKknQrJ5t"

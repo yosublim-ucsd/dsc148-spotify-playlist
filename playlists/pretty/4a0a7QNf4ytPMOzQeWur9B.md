@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 
 > The music that fans of Glitchbreak are listening to now\. See also <a href="spotify:playlist:5aPKPDrqsxBQSST33NOsFw">The Sound of Glitchbreak</a> or <a href="spotify:playlist:6Jq6C2lFtIPE54N91HL9aM">The Edge of Glitchbreak</a>.
 
-[Particle Detector](https://open.spotify.com/user/particledetector) - 175 likes - 200 songs - 10 hr 2 min
+[Particle Detector](https://open.spotify.com/user/particledetector) - 174 likes - 200 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 | 48 | [the backseat](https://open.spotify.com/track/5RWH2utuzlRaMOLekkHpdm) | [The Delicate](https://open.spotify.com/artist/7czEdDacz7uHL6kdPDABHf) | [the backseat](https://open.spotify.com/album/69KrSfhONk0NTjdwFgc5Jk) | 1:16 |
 | 49 | [i drank the wrong potion](https://open.spotify.com/track/7o8YFcnxIj07EAW0FhNmeg) | [4evrx](https://open.spotify.com/artist/25iVu5L3b8XUxDj1jdTPwh) | [i drank the wrong potion](https://open.spotify.com/album/5MwVli3r48ZuTWpUVfnakd) | 2:50 |
 | 50 | [substitute for reality](https://open.spotify.com/track/5ARRsPq6ELL0Tos075T1mH) | [lightmxchine](https://open.spotify.com/artist/7K9jYyTeC2YavICQblyA1D) | [lightcore](https://open.spotify.com/album/1Apit8edbDYEZGE3rqi8fK) | 3:50 |
-| 51 | [V=πr^2\(h/3\)](https://open.spotify.com/track/7ujr9TTyLZvALWURZSdWrm) | [prsmascOpL](https://open.spotify.com/artist/7AKVTcno5ctAikCIkI07W1) | [NuMath](https://open.spotify.com/album/7bjjbEY1yYylyRTCnE7kwv) | 2:08 |
+| 51 | [V=πr^2\(h/3\)](https://open.spotify.com/track/7ujr9TTyLZvALWURZSdWrm) | [data.thief](https://open.spotify.com/artist/4g9s4m4mTpc7A6EQ1Lewe3) | [NuMath](https://open.spotify.com/album/7bjjbEY1yYylyRTCnE7kwv) | 2:08 |
 | 52 | [KIRBYBREAKS](https://open.spotify.com/track/2HrnCEf32BXS5FTtMN1YWs) | [Trashiii](https://open.spotify.com/artist/6txVXvr3AUo8DwygF77cah) | [KIRBYBREAKS](https://open.spotify.com/album/08mXQQ1aHlTM1iktKe4Tx5) | 1:23 |
 | 53 | [Z\(X\)](https://open.spotify.com/track/1bQGm7h0enBzugnOeNzeQB) | [Yesterdayneverhappened](https://open.spotify.com/artist/3tGFcZOV2YCIlEV9hwKceh) | [kisses from a distance](https://open.spotify.com/album/0Y5GGZJHche5vN5O9aAzLS) | 1:54 |
 | 54 | [Crying In The Rain](https://open.spotify.com/track/6foQuIfpunCWtgiAwLP9X3) | [Nfract](https://open.spotify.com/artist/7s9xvGsMjmPZmBYa6iEJTm) | [mass:/ps2/music/nightcore](https://open.spotify.com/album/1k11rurwtAsQsbsy0eoduT) | 2:14 |

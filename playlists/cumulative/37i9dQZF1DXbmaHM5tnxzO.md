@@ -2,7 +2,7 @@
 
 ### [Pixar Hits](https://open.spotify.com/playlist/37i9dQZF1DXbmaHM5tnxzO)
 
-> Celebrate the music of Pixar Animation Studios with this playlist of classic favorites and new hits\. Stream Disney and Pixar's Soul on Disney+.
+> Celebrate the music of Pixar Animation Studios with this playlist of classic favorites and new hits.
 
 75 songs - 3 hr 23 min
 

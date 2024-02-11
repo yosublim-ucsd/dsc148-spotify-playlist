@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > All eyes on you\. Cover: Jagwar Twin
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,657 likes - 65 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,005 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 15 | [Lovesick](https://open.spotify.com/track/3Fug6rfarsHtM6Ws9ofzaD) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Lovesick](https://open.spotify.com/album/0i1zYZV7sWFxu4Nbcpr2Lc) | 2:31 |
 | 16 | [From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [From the Start](https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v) | 2:30 |
 | 17 | [Stalker's Tango](https://open.spotify.com/track/51HiWFC8v4oJNClRYbzpGl) | [Autoheart](https://open.spotify.com/artist/5Lm1CMoa8VOCBCLZesAcvc) | [Lent](https://open.spotify.com/album/4v1R6oYeyeIDjDNBiQGo9Q) | 2:55 |
-| 18 | [ANYTING 4 U MASTER](https://open.spotify.com/track/3bfqtvnae2MjD6ONvLIH5H) | [Naethan Apollo](https://open.spotify.com/artist/7iS4CQkDpux3s40py3SqZi) | [ANYTING 4 U MASTER](https://open.spotify.com/album/6pSyEQrFZCPYlmlHI8VP6o) | 2:41 |
+| 18 | [ANYTHING 4 U](https://open.spotify.com/track/3bfqtvnae2MjD6ONvLIH5H) | [Naethan Apollo](https://open.spotify.com/artist/7iS4CQkDpux3s40py3SqZi) | [ANYTHING 4 U](https://open.spotify.com/album/6pSyEQrFZCPYlmlHI8VP6o) | 2:41 |
 | 19 | [Using You](https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [Using You](https://open.spotify.com/album/7B2LAN3VRvXFBX8EgSotfo) | 3:28 |
 | 20 | [Memories](https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:08 |
 | 21 | [Sexy](https://open.spotify.com/track/4A1GfEVOELS3vo4tSa6bts) | [Kate Rockwell](https://open.spotify.com/artist/4kHxu1UJeYLB0ZkBQZdqT2), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 3:35 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 64 | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/track/2lXqwlG8za1sWKgHRwEiEC) | [Kaden MacKay](https://open.spotify.com/artist/3pvdhTDfKYnjDZ0R41qY3x) | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/album/6mTcEL6EVR3bN1WO6obNz2) | 3:13 |
 | 65 | [I / Me / Myself](https://open.spotify.com/track/1lqj3wgPj8gHCdq46hUjvr) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 4:51 |
 
-Snapshot ID: `MCxhNGI4ZGVmM2QzM2RhYzlmMTRkNjhmMmI3NTU2OGNhOTcyMTdhNDVi`
+Snapshot ID: `MCw1MWRkNGU1MzZjMDk1NzVkNDE0YjgyY2JlMzU0OGQ2NjA3Yzg1ZTgz`

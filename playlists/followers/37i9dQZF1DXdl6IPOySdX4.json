@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 1675583,
+  "2024-02-11": 1676697,
   "date_first_scraped": "2022-02-11",
   "description": "you up?",
   "name": "goosebumps",
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 235477,
       "name": "Come and See Me (feat. Drake)",
       "url": "https://open.spotify.com/track/6cEguiQecbXrFlsnMi2ysr"
@@ -6341,7 +6341,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 259093,
       "name": "Sail",
       "url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"
@@ -7007,6 +7007,24 @@
       "duration_ms": 178680,
       "name": "Stop Playin'",
       "url": "https://open.spotify.com/track/7GYoEbez6qFszDiEmiuBEb"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/7qD6w06kURXtU4WmeRKK6x"
+      },
+      "artists": [
+        {
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148273,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/6bka0NlfgkLUFwcrFLwQYm"
     },
     {
       "album": {
@@ -8313,6 +8331,24 @@
       "duration_ms": 151913,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2GQomOm5bdbNnUooS3HEuF"
+    },
+    {
+      "album": {
+        "name": "Will I Ever Love?",
+        "url": "https://open.spotify.com/album/7irh20Gsy14fQoTngkDS5B"
+      },
+      "artists": [
+        {
+          "name": "Anya Nami",
+          "url": "https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130860,
+      "name": "Will I Ever Love?",
+      "url": "https://open.spotify.com/track/1h42H229e4oEo0BxfwIb4r"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-87 songs - 5 hr 4 min
+88 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Be Without You](https://open.spotify.com/track/3E1MFVYKSEBytmaRpaHtmj) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Dreaming in Electric Blue](https://open.spotify.com/album/6EojMTIcdHKZUesfXcm04U) | 3:37 | 2020-05-12 |  |
 | [Be Without You \(Jordan Reynolds Remix\)](https://open.spotify.com/track/2pVtdS4z9kiVABrN2m3UOo) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq), [Jordan Reynolds](https://open.spotify.com/artist/1O7E3iPhoI5pLfbVdBbYJL) | [Dreaming in Electric Blue \(Reimagined\)](https://open.spotify.com/album/6ci4eieRl6cZ9fQCdkxuaK) | 3:33 | 2021-01-27\* | 2021-09-15 |
 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/4OBZT9EnhYIV17t4pGw7ig) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:29 | 2020-05-12 |  |
+| [Better Woman](https://open.spotify.com/track/46aDMK7hAAAlN5FJPRwJVV) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Better Woman](https://open.spotify.com/album/4sXdCuAvMKF9GNW9AhedLJ) | 3:12 | 2024-02-10 |  |
 | [Big Ole Love](https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Who Knew It Would Be So Hard to Be Myself](https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh) | 3:50 | 2020-07-08 |  |
 | [Blessed](https://open.spotify.com/track/0KyzXQhY2yzcb1FYCHkZc2) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:01 | 2020-05-12 |  |
 | [Brown Eyed Lover](https://open.spotify.com/track/2fewvKX1SzRMfNdQDnyoQj) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Brown Eyed Lover](https://open.spotify.com/album/0fRyRxsLn4dPKJ7ZxIqDzj) | 3:58 | 2020-05-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist\. Cover: $hyli
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,944 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,945 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 33 | [Oasis](https://open.spotify.com/track/1MtRGITSni0szQUvcCXhHj) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [OASIS](https://open.spotify.com/album/2LyrxrjHJM2SxaXc9UWpVV) | 2:30 |
 | 34 | [Kyekiliwo](https://open.spotify.com/track/5n3YEFEO4K5AvHIHkyZCg6) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kyekiliwo](https://open.spotify.com/album/3sf7zqF8HY4XUTiAVn4RU6) | 2:55 |
 | 35 | [Ekyama](https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf) | [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Will84](https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09) | [Ekyama](https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0) | 3:37 |
-| 36 | [Type Of Girl](https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ) | [Sanyu](https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK), [Kamanzi](https://open.spotify.com/artist/3eFz1Hi2ldnb0QWcidYrWZ) | [Type Of Girl](https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb) | 3:30 |
-| 37 | [Practical](https://open.spotify.com/track/0TiSmHrbTSzMLrMXac4Jt8) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Blessings](https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL) | 3:11 |
+| 36 | [Practical](https://open.spotify.com/track/0TiSmHrbTSzMLrMXac4Jt8) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Blessings](https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL) | 3:11 |
+| 37 | [Type Of Girl](https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ) | [Sanyu](https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK), [Kamanzi](https://open.spotify.com/artist/3eFz1Hi2ldnb0QWcidYrWZ) | [Type Of Girl](https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb) | 3:30 |
 | 38 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 |
 | 39 | [Tattoo](https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ), [Caspian Marvin](https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU) | [Tattoo](https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB) | 3:34 |
 | 40 | [Love Ganja](https://open.spotify.com/track/2openNGxPDRNjXFH1gA2Y1) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Song Boss](https://open.spotify.com/artist/4RSS0a9hCcQaAADJ67MxtG) | [Love Ganja](https://open.spotify.com/album/6oYTwznr45f7cUSgMT5iCK) | 2:13 |
 | 41 | [Kimugunyu](https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kimugunyu](https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE) | 3:00 |
 | 42 | [Talk To Me](https://open.spotify.com/track/0PvibNWu1jtYdsjSzijZKq) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Junior Gentle](https://open.spotify.com/artist/06fZAn6YJGxLd0m47pyc4O) | [Talk To Me](https://open.spotify.com/album/7GaJ0U2ye3tAnSUGBCDuBT) | 2:49 |
 | 43 | [Back](https://open.spotify.com/track/3hf9XdQz2JETTL489EiI6b) | [Ratigan Era](https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0), [The Modern Institute](https://open.spotify.com/artist/1DChMTgz5s47ZiHWf6SW4S) | [Back](https://open.spotify.com/album/2Sw5Bk9fsTJbBJQUS3GRXp) | 2:45 |
-| 44 | [Leega](https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Leega](https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W) | 3:36 |
-| 45 | [Tuli Ntinda](https://open.spotify.com/track/6dNDVtDIcHMd2270C8D53a) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4) | [Finally](https://open.spotify.com/album/4op9HIhvQr2iepCemQ5zxh) | 2:50 |
+| 44 | [Tuli Ntinda](https://open.spotify.com/track/6dNDVtDIcHMd2270C8D53a) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4) | [Finally](https://open.spotify.com/album/4op9HIhvQr2iepCemQ5zxh) | 2:50 |
+| 45 | [Leega](https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Leega](https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W) | 3:36 |
 | 46 | [Sida Mukyalo](https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Sida Mukyalo](https://open.spotify.com/album/478kQh6TY8UPWtR0qU5GwM) | 2:40 |
 | 47 | [FAYA](https://open.spotify.com/track/2XfbFeYxN961nxtxUoepoM) | [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [FAYA](https://open.spotify.com/album/1gTXLyRPmEysl9i5CwQt0u) | 3:02 |
 | 48 | [Matatu](https://open.spotify.com/track/1Wp8txZfHt7ENBFv4C78pC) | [Kataleya & Kandle](https://open.spotify.com/artist/1a93I0beev2mbujNJiNuA4), [B2C](https://open.spotify.com/artist/0KTeSr884B4f2Uj53ChqWv) | [Call It Love](https://open.spotify.com/album/266HjvJogj8MgkGg33ULl9) | 3:56 |
-| 49 | [Local User](https://open.spotify.com/track/5AGCOTqQFkduMlmnnJ956F) | [Ratigan Era](https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0) | [Local User](https://open.spotify.com/album/4QRbdXprHRHrcjyJ3vONzK) | 2:32 |
-| 50 | [Far Away](https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Far Away](https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE) | 2:59 |
+| 49 | [Far Away](https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Far Away](https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE) | 2:59 |
+| 50 | [Local User](https://open.spotify.com/track/5AGCOTqQFkduMlmnnJ956F) | [Ratigan Era](https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0) | [Local User](https://open.spotify.com/album/4QRbdXprHRHrcjyJ3vONzK) | 2:32 |
 
-Snapshot ID: `MCxmMjg5MTk4NTE5ZjZmMWNhYzZjZGNmNzNlMDdmMTMwN2I3NWRlNTNj`
+Snapshot ID: `MCxhZTI3MTQyZTI2M2E1NzdhN2YyMTgzZmNjYjBhMDc5Yjg5OGM3Yjcy`

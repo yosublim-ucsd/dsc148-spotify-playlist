@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 3512,
+  "2024-02-11": 3788,
   "date_first_scraped": "2024-02-08",
   "description": "late night vibes \u2013 notifications off.",
   "name": "DND.",
@@ -299,6 +299,24 @@
       "duration_ms": 205546,
       "name": "Fable",
       "url": "https://open.spotify.com/track/6u7Vm7aTEKQInva4iJ0icx"
+    },
+    {
+      "album": {
+        "name": "FLORIDA BABY",
+        "url": "https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140606,
+      "name": "FLORIDA BABY",
+      "url": "https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm"
     },
     {
       "album": {

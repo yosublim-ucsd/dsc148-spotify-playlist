@@ -1429,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "Ambient & Relax",
+        "url": "https://open.spotify.com/album/4E6iTDSE9Ix7eQCLh6daW5"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312826,
+      "name": "Vangelis: Through the Night Mist",
+      "url": "https://open.spotify.com/track/1krI0NrRwDykPwXnliC4mx"
+    },
+    {
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
       },

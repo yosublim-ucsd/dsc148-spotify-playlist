@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Sarah Julia \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,141 likes - 101 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,185 likes - 101 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 9 | [Anytime](https://open.spotify.com/track/52yPZ3t6X2ZbY8m818Roxe) | [Cameron Sonnier](https://open.spotify.com/artist/2pTieEpWjwvRiaR3ZI9sDw) | [Anytime](https://open.spotify.com/album/21uNaBlOGtnuuZT219MsY7) | 4:52 |
 | 10 | [Made To Love Someone](https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Made To Love Someone](https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i) | 3:06 |
 | 11 | [violet](https://open.spotify.com/track/33Qa5hM4hSlJY3bbpoFl9G) | [Marianne Ross](https://open.spotify.com/artist/3N8pECzlNdVgozhW0SEp9j) | [violet](https://open.spotify.com/album/4vRjnRTAH2w8Xy17CegJWN) | 1:50 |
-| 12 | [Honey](https://open.spotify.com/track/4ZS8IOU9EFq9GlgC4cOrbx) | [The Takes](https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch) | [Honey](https://open.spotify.com/album/48OsHFJTCcwLrfu5nuxQaR) | 4:26 |
+| 12 | [Honey](https://open.spotify.com/track/7ms1CL5zKlAgywMkK6d7ol) | [The Takes](https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch) | [Honey](https://open.spotify.com/album/50CAGqnQEALbokgCJpj5pq) | 4:26 |
 | 13 | [Hold My Hand](https://open.spotify.com/track/1Nom7EvTgdkMeLZCszJ5Ft) | [Zoe Boekbinder](https://open.spotify.com/artist/5WDhdWVcgfQkhgxka9j119) | [Hold My Hand](https://open.spotify.com/album/7cFllNFxYu9aNErrov1T3Y) | 2:48 |
 | 14 | [Let Your Love Run Cold](https://open.spotify.com/track/4lDviyx50ZMALSovCHFo61) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Let Your Love Run Cold](https://open.spotify.com/album/02qqL9B8uYPcrA7yCmMjdS) | 3:43 |
 | 15 | [to god, to us](https://open.spotify.com/track/4i0vEZuGiIRfP7ZQQRFNSQ) | [Izzie Burton](https://open.spotify.com/artist/5USPz1G7jEwvH6TzlD0Grm) | [to god, to us](https://open.spotify.com/album/1O4GhqpaQaSWGxEwnsVr7c) | 4:34 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 100 | [Where Have You Been?](https://open.spotify.com/track/7zOpXJUMnB6EZah4FBTlhJ) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Where Have You Been?](https://open.spotify.com/album/0IwOuJLDV4VMnmIPru6RCA) | 3:54 |
 | 101 | [To Be Myself Again](https://open.spotify.com/track/4AADiAUJhMYC0BC7reh12Z) | [Alaina Ray](https://open.spotify.com/artist/2hcq1PIq9XzXVmrab7mfXr) | [To Be Myself Again](https://open.spotify.com/album/27OGLZ1R4xoijW6CwkQHnR) | 3:33 |
 
-Snapshot ID: `MCw3YzMzMmRkZWRkNzg4OTBkZmFmZWM0NGZkNTc4ZGMxOTlhZjk0ZjM5`
+Snapshot ID: `MCwzN2EzZmU0ZDdjMDA3NjJhNWRlOGVlMmFkZjI4OTRiMGQ2YTAxMDNi`

@@ -1,7 +1,7 @@
 {
-  "2024-02-10": 606685,
+  "2024-02-11": 606756,
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Jason Isbell and the 400 Unit",
+  "description": "Keep your finger on the pulse of Americana. Cover: The Dead South",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -133,6 +133,24 @@
       "duration_ms": 317226,
       "name": "A Cat in the Rain",
       "url": "https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe"
+    },
+    {
+      "album": {
+        "name": "A Little Devil / Tiny Wooden Box",
+        "url": "https://open.spotify.com/album/5QjTvxUeVtVavvBaNUk0Ls"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231552,
+      "name": "A Little Devil",
+      "url": "https://open.spotify.com/track/3qdSwHoHEQBcboISRiZWgO"
     },
     {
       "album": {
@@ -10179,7 +10197,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 184975,
       "name": "Vampire in Appalachia",
       "url": "https://open.spotify.com/track/5ybs4h5XoFYZXBnmKSMjMo"

@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 3706,
+  "2024-02-11": 3709,
   "date_first_scraped": "2023-01-15",
   "description": "<a href=\"spotify:artist:1lMcg4Y7nW5hHgIVsN9Shn\">Conducta</a>'s favorite tracks. Updated regularly. Curated by Conducta. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Conducta's track IDs",
@@ -203,10 +203,28 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 273353,
       "name": "Baltzar",
       "url": "https://open.spotify.com/track/4imkUjRMHxiy0yZtJj2u4s"
+    },
+    {
+      "album": {
+        "name": "Stockholm Marathon",
+        "url": "https://open.spotify.com/album/6LrFCNPvZdG0AieErw9ccL"
+      },
+      "artists": [
+        {
+          "name": "Korn\u00e9l Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273353,
+      "name": "Baltzar",
+      "url": "https://open.spotify.com/track/5qLWdCMNG36HnoSITch6Nz"
     },
     {
       "album": {
@@ -1067,10 +1085,28 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 255391,
       "name": "Molly",
       "url": "https://open.spotify.com/track/35mRgmgXL01AAqguxr7xF8"
+    },
+    {
+      "album": {
+        "name": "Hotel Koko",
+        "url": "https://open.spotify.com/album/7j8cYYFqnoyHaRCxoSuCv1"
+      },
+      "artists": [
+        {
+          "name": "Korn\u00e9l Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255391,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/59BOdttKQFr1l1RlAqlf62"
     },
     {
       "album": {

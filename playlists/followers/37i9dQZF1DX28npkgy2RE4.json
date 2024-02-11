@@ -1,7 +1,7 @@
 {
-  "2024-02-10": 416120,
+  "2024-02-11": 416165,
   "date_first_scraped": "2021-12-21",
-  "description": "New styles, deep sounds. Cover: Lucius",
+  "description": "New styles, deep sounds. Cover: Helado Negro",
   "name": "Modern Eclectic",
   "tracks": [
     {
@@ -1605,6 +1605,24 @@
       "duration_ms": 148773,
       "name": "Collar of Fur",
       "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
+    },
+    {
+      "album": {
+        "name": "PHASOR",
+        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224845,
+      "name": "Colores Del Mar",
+      "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
     },
     {
       "album": {
@@ -3607,7 +3625,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 194853,
       "name": "I Was Wrong",
       "url": "https://open.spotify.com/track/3UQKlahxsfacw8vKmTYSzb"
@@ -4771,6 +4789,24 @@
       "duration_ms": 204946,
       "name": "Modern Woman",
       "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
+    },
+    {
+      "album": {
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/4vrG1J4J6h0Sfmq0YdUWUd"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205026,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/5MzyxdlccVyf2tVqF0Rzfb"
     },
     {
       "album": {
@@ -7277,7 +7313,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 247000,
       "name": "The Exception",
       "url": "https://open.spotify.com/track/2JSEqnS5EhLBV0uJXls29I"

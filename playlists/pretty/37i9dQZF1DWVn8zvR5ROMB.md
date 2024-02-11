@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Kacey Musgraves, Nate Smith, Gwen Stefani & Blake Shelton and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,412 likes - 86 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,524 likes - 86 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 63 | [You Left Me](https://open.spotify.com/track/53z0W6inhxvtx0OWspvIAF) | [Riley Taylor](https://open.spotify.com/artist/6dmjczHicFnkqGNmDmjku9) | [You Left Me](https://open.spotify.com/album/6GbSj3YCeoG1i79W6XIdvG) | 3:35 |
 | 64 | [Situationship](https://open.spotify.com/track/6ulv7X7X7Tnr2N5Ahg03YD) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Situationship](https://open.spotify.com/album/2B4uzfndudPlmxxF6db3lz) | 2:50 |
 | 65 | [Here We Go \(Stadium Anthem\)](https://open.spotify.com/track/2cdrprh1pSEMALIhrtnmuH) | [Cowboy Troy](https://open.spotify.com/artist/3Rd3kr9QoBdHGjD1Hk0tkj) | [Here We Go \(Stadium Anthem\)](https://open.spotify.com/album/5Rik0xyAyzq8HrlE71wosY) | 3:02 |
-| 66 | [Good Ol Vibez](https://open.spotify.com/track/01P0KwVltpX2rtXFpFBz1v) | [C'ing Jerome](https://open.spotify.com/artist/23kI8xM7taOJ0khWhczD57), [Richie Allen](https://open.spotify.com/artist/3axAhAj0msfiZ92PrEVj3E) | [Good Ol Vibez](https://open.spotify.com/album/4aHdVIl0SKq5W1VEyaDYm0) | 2:52 |
+| 66 | [Good Ol Vibez](https://open.spotify.com/track/01P0KwVltpX2rtXFpFBz1v) | [C'ing Jerome](https://open.spotify.com/artist/23kI8xM7taOJ0khWhczD57), [Richie Allen](https://open.spotify.com/artist/2QycgFiuMbf6EiyqH9jeyY) | [Good Ol Vibez](https://open.spotify.com/album/4aHdVIl0SKq5W1VEyaDYm0) | 2:52 |
 | 67 | [Rolling Stone](https://open.spotify.com/track/7fga5oiJvG2ZK0u528alP1) | [Hayden Haddock](https://open.spotify.com/artist/5p0bBvnrdTP0HeZWLIZJQL) | [Rolling Stone](https://open.spotify.com/album/3J7VqYcaS5QGzDmTSo0pyx) | 3:42 |
 | 68 | [King Size Bed](https://open.spotify.com/track/1ZzewjT0rZI6J9PPhq997R) | [Sheyna Gee](https://open.spotify.com/artist/05BcZCAQvpZCJSRqWFzSnF) | [King Size Bed](https://open.spotify.com/album/2XcqR2HOu0tEwJ8Jl6jO0W) | 3:25 |
 | 69 | [I'll Take the Blame](https://open.spotify.com/track/3DQwJN1IZsmEfiDf01lgAN) | [Stephen Paul](https://open.spotify.com/artist/5W2l0eT41g3L7jAtKbMelp) | [I'll Take the Blame](https://open.spotify.com/album/52SNIdIywNwv2L0GRcR4Kc) | 3:14 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 85 | [Drink You Down](https://open.spotify.com/track/25iscrO6TmREkXO3jUiNjF) | [Justin Holmes](https://open.spotify.com/artist/2gYTB06AYMzdZMIelaYy9D) | [Drink You Down](https://open.spotify.com/album/5npfwtS3qEOj7N0hYFYWjD) | 3:41 |
 | 86 | [Miracles](https://open.spotify.com/track/0b1vCvKQLr3rheq9XaSSK8) | [Janie Bay](https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM) | [Miracles](https://open.spotify.com/album/6E6WcMUKTqjaRnfeIdFrUb) | 2:49 |
 
-Snapshot ID: `MCxlYzkyZGNlMTNkNGVkODdlYjJmZTJkZGIzOTk0MzRiOTA2NDY2YWUy`
+Snapshot ID: `MCwwNTY3OTFlNmI4YzIzMjY1NDZlYWRmNDk0NDhjM2NkMzVkNzMzODY1`

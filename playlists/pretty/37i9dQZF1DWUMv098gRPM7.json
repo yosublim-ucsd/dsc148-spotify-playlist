@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Zeina",
-  "num_followers": 9136,
+  "num_followers": 9151,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWFiZGM3NmE3MmViYThhNzdmZjQ0N2ZhYzRhNjI4OWU0ZDg4YzQ5",
+  "snapshot_id": "MCwxNTJlMDEwOTNhNTVjNzg0ZjE2Y2E1NjRjYzViYzQwMDljN2Q3YzBi",
   "tracks": [
     {
       "added_at": "2024-02-07 19:22:19",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-02-07 19:22:19",
       "album": {
-        "name": "Journals",
-        "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/2GCKWEsbb0Xo1oodTOKVi1"
-    },
-    {
-      "added_at": "2024-02-07 19:22:19",
-      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 195004,
       "name": "Hello",
       "url": "https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo"
+    },
+    {
+      "added_at": "2024-02-07 19:22:19",
+      "album": {
+        "name": "Journals",
+        "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/2GCKWEsbb0Xo1oodTOKVi1"
     },
     {
       "added_at": "2024-02-07 19:22:19",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-02-07 19:22:19",
       "album": {
-        "name": "Good People / Afterhours",
-        "url": "https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 171858,
-      "name": "Chill Pad Deluxe",
-      "url": "https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM"
-    },
-    {
-      "added_at": "2024-02-07 19:22:19",
-      "album": {
         "name": "When It Blooms",
         "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2024-02-07 19:22:19",
       "album": {
-        "name": "Mixed Emotions",
-        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+        "name": "Good People / Afterhours",
+        "url": "https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4"
       },
       "artists": [
         {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
         }
       ],
-      "duration_ms": 158737,
-      "name": "Touch You",
-      "url": "https://open.spotify.com/track/1eloKbVFeduo6qxp7xqhQ0"
+      "duration_ms": 171858,
+      "name": "Chill Pad Deluxe",
+      "url": "https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM"
     },
     {
       "added_at": "2024-02-07 19:22:19",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2024-02-07 19:22:19",
       "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 158737,
+      "name": "Touch You",
+      "url": "https://open.spotify.com/track/1eloKbVFeduo6qxp7xqhQ0"
+    },
+    {
+      "added_at": "2024-02-07 19:22:19",
+      "album": {
         "name": "soft thing",
         "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
       },
@@ -1163,6 +1163,26 @@
       "duration_ms": 143647,
       "name": "be cool",
       "url": "https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r"
+    },
+    {
+      "added_at": "2024-02-07 19:22:19",
+      "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Different (with Majid Jordan)",
+      "url": "https://open.spotify.com/track/0Eq1ybB9XnhbYBWFhKnNhn"
     },
     {
       "added_at": "2024-02-07 19:22:19",
@@ -1211,26 +1231,6 @@
       "duration_ms": 169208,
       "name": "Irrational",
       "url": "https://open.spotify.com/track/3x0l10FNuvRcdudE36y6XK"
-    },
-    {
-      "added_at": "2024-02-07 19:22:19",
-      "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Different (with Majid Jordan)",
-      "url": "https://open.spotify.com/track/0Eq1ybB9XnhbYBWFhKnNhn"
     },
     {
       "added_at": "2024-02-07 19:22:19",

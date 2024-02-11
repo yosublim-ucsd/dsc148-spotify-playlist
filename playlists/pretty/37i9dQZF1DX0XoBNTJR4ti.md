@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XoBNTJR4ti.md) - [plain]
 
 > A collection of family\-friendly stories in five minutes or less.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,066 likes - 35 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,093 likes - 35 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,18 +30,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XoBNTJR4ti.md) - [plain]
 | 20 | [Chicken Licken](https://open.spotify.com/track/6abzjmJziIfTl7UkOcZG8k) | [Smiley Storytellers](https://open.spotify.com/artist/3n9wR7PMuhgv2QgF7tuvTt) | [Fairy Tales, Kid Stories and Fun Vol\. 2](https://open.spotify.com/album/11fiyuFsAYvKBIzv8uSrVB) | 5:25 |
 | 21 | [Cinderella](https://open.spotify.com/track/6TUS7KrPsLHyrbHdKQcuK4) | [Smiley Storytellers](https://open.spotify.com/artist/3n9wR7PMuhgv2QgF7tuvTt) | [Fairy Tales, Kid Stories and Fun Vol\. 3](https://open.spotify.com/album/4glSOhrOYAV235TuVlsGkf) | 5:00 |
 | 22 | [The 3 Wishes](https://open.spotify.com/track/6stEWRa1Mssvf9qpd4WHOr) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [157 Kids Best Songs and Stories](https://open.spotify.com/album/7m4LmrH0AirZWWzadQzYuY) | 3:18 |
-| 23 | [Pirate Treasure](https://open.spotify.com/track/0t6df87Lpjiz7o9XTn9fr7) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Pirate Treasure](https://open.spotify.com/album/2vJT3uAZWSWznH9bAqt6KW) | 5:00 |
+| 23 | [Pirate Treasure](https://open.spotify.com/track/2B4VBcca18qHhF9ArKo2aK) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Peppa Pig: Imagination Stories](https://open.spotify.com/album/7A4jxYLcB3VXv0FQtIHaur) | 5:00 |
 | 24 | [The Country Mouse And The City Mouse](https://open.spotify.com/track/3Lq4VY03Ry28qQIV0IT7jN) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [157 Kids Best Songs and Stories](https://open.spotify.com/album/7m4LmrH0AirZWWzadQzYuY) | 3:17 |
 | 25 | [Tom Thumb](https://open.spotify.com/track/47RnUUD5NINEqodaRDaCHj) | [Smiley Storytellers](https://open.spotify.com/artist/3n9wR7PMuhgv2QgF7tuvTt) | [Fairy Tales, Kid Stories and Fun Vol\. 4](https://open.spotify.com/album/4jUVjpL3MQaigupwkFFh16) | 3:46 |
 | 26 | [The Elves and the Shoemaker](https://open.spotify.com/track/3RxXRKAHUGVElHojNgdh93) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [25 Best Kids Stories, Vol\. 1](https://open.spotify.com/album/63O04CjLofFffxZtxuzo5R) | 4:02 |
 | 27 | [The Owl and the Pussycat](https://open.spotify.com/track/3u4KqPXfRX1zMNZYUVMvvE) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [25 Best Kids Stories, Vol\. 1](https://open.spotify.com/album/63O04CjLofFffxZtxuzo5R) | 1:43 |
 | 28 | [Hansel and Gretel](https://open.spotify.com/track/6rAAnCV6AP6u6JHJf4UFYW) | [Cookie Monster](https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r) | [Sesame Street: The Sesame Street Fairy Tale Album](https://open.spotify.com/album/0hqmmMhV62n51CaXNYO7sS) | 4:04 |
-| 29 | [The Diner](https://open.spotify.com/track/5SGAw4gBV1S7oS5rqsMFTG) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Diner](https://open.spotify.com/album/0EEYcOitNRGDjQUXE9nu5J) | 4:51 |
+| 29 | [The Diner](https://open.spotify.com/track/3IW7zplbXIDvZhZ5c246W3) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Peppa Pig: Food Stories](https://open.spotify.com/album/2G46uIfpUWvAxhUOvYpN3v) | 4:51 |
 | 30 | [The Wizard Of Oz](https://open.spotify.com/track/3yL94mLdFZP6qW8WS3ZhK2) | [Fairy Tales](https://open.spotify.com/artist/1NyKett1dn0nNoZMNTTShB) | [Bedtime Stories](https://open.spotify.com/album/05XRi68zVYcNjLOkDC7FSl) | 2:32 |
-| 31 | [Sea, Sun and Snow](https://open.spotify.com/track/76TOAzxbJYS0IFSdxHqR7U) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Sea, Sun and Snow](https://open.spotify.com/album/4AUSwIjz6bTfeymU10SWY0) | 4:53 |
+| 31 | [Sea, Sun And Snow](https://open.spotify.com/track/3uLCuCAkeos0PRBXahY9ju) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Peppa Pig: Travel Stories](https://open.spotify.com/album/5AZIuscdwnf6VP6RKjXPJe) | 4:53 |
 | 32 | [The Tale of Two Bad Mice by Beatrix Potter](https://open.spotify.com/track/43yWk7ICZ39NDXa6XD89Jy) | [Nicki White](https://open.spotify.com/artist/4VDyrc6J8Q3hyDX8QFu0BN) | [Bedtime Music and Stories](https://open.spotify.com/album/2J98ZqbfftUsN4bHkABOz4) | 5:04 |
 | 33 | [Princess and the Pea](https://open.spotify.com/track/17ALnKIuxnxeiqzLYQScJw) | [Grover](https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn) | [Sesame Street: The Sesame Street Fairy Tale Album](https://open.spotify.com/album/0hqmmMhV62n51CaXNYO7sS) | 5:00 |
 | 34 | [The Gingerbread Man \(Story\)](https://open.spotify.com/track/4y6kx6DmTICA1ejeGrXmWn) | [Kidzone](https://open.spotify.com/artist/6i1qu6ITcSL2Ss6qr7Nzkn) | [Children's Songs & Stories, Vol\. 3](https://open.spotify.com/album/3wO7waw9AjjdmbeRtbPrSB) | 4:11 |
 | 35 | [The Paper Bag Princess](https://open.spotify.com/track/6jV89Vk3lDlpEdSsxSkuT7) | [Robert Munsch](https://open.spotify.com/artist/2Dzn2ANNU5Ft9r3htzo6ZN) | [Love You Forever: The Best Of Robert Munsch](https://open.spotify.com/album/4ognI8DTCx12FeCi09K2ei) | 4:15 |
 
-Snapshot ID: `MCw4ODkwOTM0OTU3ZGQyMDY0OTQ0NWY1MDk1MzNiNWE0ODI3OTM5NThj`
+Snapshot ID: `MCw5OTcyMDlhMzNjY2FhNjlkZDI2MzJiN2U2ZTUwOWE2OWU0NTNlY2Y2`

@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Luke Combs",
-  "num_followers": 456166,
+  "num_followers": 456180,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmJkMDY2MWFhNjE0MzI5ZGQ5MWE4OTE4NzgyNjljODZkOWI1NDBm",
+  "snapshot_id": "MCw3ZGFmNDk3YmU5ZTAzNzRkOWVjNWFhZGY4YTliMzQ4Y2UxODBhYThh",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Outlaw Side Of Me",
-        "url": "https://open.spotify.com/album/4cp8Sbd4AguoCXt2qw4Dn2"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 162344,
-      "name": "All I Need Is You",
-      "url": "https://open.spotify.com/track/0lbHiQaHPlp5gGtsUPtj6l"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Record High",
         "url": "https://open.spotify.com/album/7sbj8haNKScqrV1B4Q4EGY"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 208453,
       "name": "Record High",
       "url": "https://open.spotify.com/track/7KTouudlySEWXOWHAuFAFv"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The Outlaw Side Of Me",
+        "url": "https://open.spotify.com/album/4cp8Sbd4AguoCXt2qw4Dn2"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 162344,
+      "name": "All I Need Is You",
+      "url": "https://open.spotify.com/track/0lbHiQaHPlp5gGtsUPtj6l"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Southern and Slow",
-        "url": "https://open.spotify.com/album/4GECpyeTQzYCPShc1Xs3cT"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 187493,
-      "name": "Southern and Slow",
-      "url": "https://open.spotify.com/track/5tAoi3TfoWB4esWc5hlLJ8"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Do It Anyway",
         "url": "https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 184372,
       "name": "Telluride",
       "url": "https://open.spotify.com/track/5ADo2azXSsHQu0mC2RxgXq"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Southern and Slow",
+        "url": "https://open.spotify.com/album/4GECpyeTQzYCPShc1Xs3cT"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 187493,
+      "name": "Southern and Slow",
+      "url": "https://open.spotify.com/track/5tAoi3TfoWB4esWc5hlLJ8"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -951,6 +951,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "No Bad Days (featuring Jimmie Allen)",
+        "url": "https://open.spotify.com/album/4iTNzA2KHqSKeO1xR46INx"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 145499,
+      "name": "No Bad Days (featuring Jimmie Allen)",
+      "url": "https://open.spotify.com/track/0Z36IMMSzdvXlfBu8fwgmR"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Maury County Line",
         "url": "https://open.spotify.com/album/3CJFXeleQ6qvVpYz57KcKy"
       },
@@ -987,26 +1007,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "No Bad Days (featuring Jimmie Allen)",
-        "url": "https://open.spotify.com/album/4iTNzA2KHqSKeO1xR46INx"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 145499,
-      "name": "No Bad Days (featuring Jimmie Allen)",
-      "url": "https://open.spotify.com/track/0Z36IMMSzdvXlfBu8fwgmR"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Summer Don't Go",
         "url": "https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "TWENTY SOMETHING",
-        "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
-      },
-      "artists": [
-        {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        }
-      ],
-      "duration_ms": 189253,
-      "name": "amen",
-      "url": "https://open.spotify.com/track/5Qk9nO6Iat1XGxL04kKP5Y"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Chasing Tornadoes",
         "url": "https://open.spotify.com/album/3xXBDDcDpK2OPwM5P0ogap"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 177008,
       "name": "Chasing Tornadoes",
       "url": "https://open.spotify.com/track/6zZVxqTT1eDCcE0APUatbx"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "TWENTY SOMETHING",
+        "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "duration_ms": 189253,
+      "name": "amen",
+      "url": "https://open.spotify.com/track/5Qk9nO6Iat1XGxL04kKP5Y"
     },
     {
       "added_at": "2024-02-09 05:00:00",

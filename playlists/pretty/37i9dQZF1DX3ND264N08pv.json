@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 70264,
+  "num_followers": 70285,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjhiMzBmNzQ2NDEyZmM0OTczNTA1Mjc5MWI5NWI1NWY1NDQxODMx",
+  "snapshot_id": "MCw1OTYxNWU4ODc4NGRjNzVkMzdlNWMyMjU5ZGZhZTFjZGYwMTM2NzM2",
   "tracks": [
     {
       "added_at": "2024-02-08 23:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Thunder In Paradise",
+        "url": "https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Shark Attack",
+      "url": "https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Trippie naar de klote",
         "url": "https://open.spotify.com/album/3yey7HNNhu0asuLy02BWuh"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 192000,
       "name": "Trippie naar de klote",
       "url": "https://open.spotify.com/track/4Tz5h4M9dEVTJPk1x2kImp"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Thunder In Paradise",
-        "url": "https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Shark Attack",
-      "url": "https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -511,18 +511,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Feed Your Soul",
-        "url": "https://open.spotify.com/album/5VjPS4lmtkEC5VY08cIloC"
+        "name": "Choose Life",
+        "url": "https://open.spotify.com/album/78oFO3EBoHwZEyyzqMJu9n"
       },
       "artists": [
         {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+          "name": "Korsakoff",
+          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
+        },
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
         }
       ],
-      "duration_ms": 193500,
-      "name": "Feed Your Soul",
-      "url": "https://open.spotify.com/track/7mTyKvhmh3SiW0uOuqzRPZ"
+      "duration_ms": 188210,
+      "name": "Choose Life",
+      "url": "https://open.spotify.com/track/2EHSBfC2epl3BXYR2uYrFd"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -547,22 +551,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Choose Life",
-        "url": "https://open.spotify.com/album/78oFO3EBoHwZEyyzqMJu9n"
+        "name": "Feed Your Soul",
+        "url": "https://open.spotify.com/album/5VjPS4lmtkEC5VY08cIloC"
       },
       "artists": [
         {
-          "name": "Korsakoff",
-          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
-        },
-        {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
         }
       ],
-      "duration_ms": 188210,
-      "name": "Choose Life",
-      "url": "https://open.spotify.com/track/2EHSBfC2epl3BXYR2uYrFd"
+      "duration_ms": 193500,
+      "name": "Feed Your Soul",
+      "url": "https://open.spotify.com/track/7mTyKvhmh3SiW0uOuqzRPZ"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -903,26 +903,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "PURSUIT",
-        "url": "https://open.spotify.com/album/4U28LlMnvG8KdHRm05Dodt"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        },
-        {
-          "name": "Stealth",
-          "url": "https://open.spotify.com/artist/0epWcaPLkRPWSFYgWk26Ju"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "PURSUIT",
-      "url": "https://open.spotify.com/track/0kBjy2MP0fx0gqHfIDSy23"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2"
       },
@@ -939,18 +919,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Mysteries of Creation",
-        "url": "https://open.spotify.com/album/0GBa0Z1qbfRGpQrNxcXpna"
+        "name": "PURSUIT",
+        "url": "https://open.spotify.com/album/4U28LlMnvG8KdHRm05Dodt"
       },
       "artists": [
         {
-          "name": "Furyan",
-          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "Stealth",
+          "url": "https://open.spotify.com/artist/0epWcaPLkRPWSFYgWk26Ju"
         }
       ],
-      "duration_ms": 197379,
-      "name": "Mysteries of Creation",
-      "url": "https://open.spotify.com/track/2fW70pWLS91PeHFp6BvsEk"
+      "duration_ms": 120000,
+      "name": "PURSUIT",
+      "url": "https://open.spotify.com/track/0kBjy2MP0fx0gqHfIDSy23"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -975,18 +959,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "I'm A Raver",
-        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
+        "name": "Mysteries of Creation",
+        "url": "https://open.spotify.com/album/0GBa0Z1qbfRGpQrNxcXpna"
       },
       "artists": [
         {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+          "name": "Furyan",
+          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
         }
       ],
-      "duration_ms": 205664,
-      "name": "I'm A Raver",
-      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
+      "duration_ms": 197379,
+      "name": "Mysteries of Creation",
+      "url": "https://open.spotify.com/track/2fW70pWLS91PeHFp6BvsEk"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1007,6 +991,22 @@
       "duration_ms": 235734,
       "name": "The Roots - Official Harmony of Hardcore 2023 Anthem",
       "url": "https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "I'm A Raver",
+        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 205664,
+      "name": "I'm A Raver",
+      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "HIT IT",
-        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "HIT IT",
-      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Fvcking One",
         "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 213254,
       "name": "Fvcking One",
       "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "HIT IT",
+        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "HIT IT",
+      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Hardcore Chemical (Rulebreaking Hard Mix)",
-        "url": "https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW"
-      },
-      "artists": [
-        {
-          "name": "Restrained",
-          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Hardcore Chemical - Rulebreaking Hard Mix",
-      "url": "https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Adrenaline (Never Surrender Remix)",
         "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 167996,
       "name": "Adrenaline - Never Surrender Remix",
       "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Hardcore Chemical (Rulebreaking Hard Mix)",
+        "url": "https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW"
+      },
+      "artists": [
+        {
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "Hardcore Chemical - Rulebreaking Hard Mix",
+      "url": "https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "FadeIIBlack - The Album",
-        "url": "https://open.spotify.com/album/4PUTlODF1Cr1nQfSnoSmuQ"
-      },
-      "artists": [
-        {
-          "name": "Infected",
-          "url": "https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg"
-        },
-        {
-          "name": "Darkside Unleashed",
-          "url": "https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl"
-        }
-      ],
-      "duration_ms": 148003,
-      "name": "Makin' Money",
-      "url": "https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "The Resurrection (Official Toxicator 2022 Anthem)",
         "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 169512,
       "name": "Magic",
       "url": "https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "FadeIIBlack - The Album",
+        "url": "https://open.spotify.com/album/4PUTlODF1Cr1nQfSnoSmuQ"
+      },
+      "artists": [
+        {
+          "name": "Infected",
+          "url": "https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg"
+        },
+        {
+          "name": "Darkside Unleashed",
+          "url": "https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl"
+        }
+      ],
+      "duration_ms": 148003,
+      "name": "Makin' Money",
+      "url": "https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Demonic Playgrounds",
-        "url": "https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC"
-      },
-      "artists": [
-        {
-          "name": "Nosferatu",
-          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
-        },
-        {
-          "name": "Disarray",
-          "url": "https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke"
-        }
-      ],
-      "duration_ms": 188404,
-      "name": "Demonic Playgrounds",
-      "url": "https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "The Keymaker",
         "url": "https://open.spotify.com/album/5STLj7Mkx2nwrCKdrSOnoR"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 233806,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/6NURhpGBxcPREjrtBdfWeL"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Demonic Playgrounds",
+        "url": "https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC"
+      },
+      "artists": [
+        {
+          "name": "Nosferatu",
+          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
+        },
+        {
+          "name": "Disarray",
+          "url": "https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke"
+        }
+      ],
+      "duration_ms": 188404,
+      "name": "Demonic Playgrounds",
+      "url": "https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "TH3 FL0W",
+        "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
+      },
+      "artists": [
+        {
+          "name": "Mind Compressor",
+          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+        }
+      ],
+      "duration_ms": 154272,
+      "name": "TH3 FL0W",
+      "url": "https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Die For This",
         "url": "https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 240300,
       "name": "Die For This",
       "url": "https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "TH3 FL0W",
-        "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
-      },
-      "artists": [
-        {
-          "name": "Mind Compressor",
-          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
-        }
-      ],
-      "duration_ms": 154272,
-      "name": "TH3 FL0W",
-      "url": "https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1863,18 +1863,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Ruthless For Life",
-        "url": "https://open.spotify.com/album/3rhZ9GJY55O4BxfxX0RP5i"
+        "name": "Slugs 4 Snitches",
+        "url": "https://open.spotify.com/album/4g2EKX6UswnPDGqYVK1pBs"
       },
       "artists": [
         {
-          "name": "Chaos Project",
-          "url": "https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT"
+          "name": "Hellsystem",
+          "url": "https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85"
+        },
+        {
+          "name": "Predator",
+          "url": "https://open.spotify.com/artist/39nubWTSdyGoDYpl3Wc5Zj"
         }
       ],
-      "duration_ms": 168600,
-      "name": "Ruthless For Life",
-      "url": "https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS"
+      "duration_ms": 170742,
+      "name": "Slugs 4 Snitches",
+      "url": "https://open.spotify.com/track/6MHMcWZdrG6ZqqNdfLh2RM"
     }
   ],
   "unique_name": "Hardcore Rage 2024",

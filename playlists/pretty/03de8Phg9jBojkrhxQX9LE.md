@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,096 likes - 143 songs - 7 hr 56 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,104 likes - 143 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 7 | [Thrill Again](https://open.spotify.com/track/0d6TITFrIBX5OIfvoMqPaB) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Thrill Again](https://open.spotify.com/album/1pXm1JY9f142BiqV3bNRjd) | 3:55 |
 | 8 | [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 |
 | 9 | [Heavy Heart](https://open.spotify.com/track/2Cg5nw3PsrHYudEux8IBcT) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus), [your friend polly](https://open.spotify.com/artist/7BMiTAo49FakImrjEyEFFN) | [Heavy Heart](https://open.spotify.com/album/6W3jyRwWtdd7ZIOATdzkOt) | 3:25 |
-| 10 | [To The Beat](https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL), [Devin Duran Bolton](https://open.spotify.com/artist/6RFNuhnIGN20Gz5G1iOOFV) | [To The Beat](https://open.spotify.com/album/66mAWexL2lQqCsb2G3YqM4) | 3:56 |
+| 10 | [To The Beat](https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [To The Beat](https://open.spotify.com/album/66mAWexL2lQqCsb2G3YqM4) | 3:56 |
 | 11 | [High Beams](https://open.spotify.com/track/2A3gK1Vmni6CtrPWltlW0K) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [High Beams](https://open.spotify.com/album/6qiMZvf7uTxOr91TRBHQMy) | 4:19 |
 | 12 | [Automatic](https://open.spotify.com/track/3KmfcNPQ8PtYZEdo0JFgNw) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Automatic](https://open.spotify.com/album/63E9zyXGEyMZPNJGNnCS1V) | 3:33 |
 | 13 | [Birds](https://open.spotify.com/track/0sXZN04qF8n2Zjgtj3x4r2) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [Birds](https://open.spotify.com/album/5cJtuy70Gwm5JIRlpPKh5Z) | 3:29 |

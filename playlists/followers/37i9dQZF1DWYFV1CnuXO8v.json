@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 118291,
+  "2024-02-11": 118458,
   "date_first_scraped": "2023-02-14",
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
   "name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
@@ -731,7 +731,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 256355,
       "name": "Awel Hob",
       "url": "https://open.spotify.com/track/0T76gVA9dWVl5MMNvpOXBB"
@@ -814,6 +814,24 @@
     },
     {
       "album": {
+        "name": "Lehqt Nafsy - Part 2",
+        "url": "https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232921,
+      "name": "Aysha Hala",
+      "url": "https://open.spotify.com/track/5VMyHBe95r0rxipeh61Zt7"
+    },
+    {
+      "album": {
         "name": "Baad Sneen",
         "url": "https://open.spotify.com/album/6GIUWZvRkFJyjgLwXak8Md"
       },
@@ -861,7 +879,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 236571,
       "name": "Baheb Maak",
       "url": "https://open.spotify.com/track/6u87eCMHElMpOF9XREyIQk"
@@ -4157,6 +4175,24 @@
       "duration_ms": 272143,
       "name": "\u0628\u064a\u062a \u0643\u0628\u064a\u0631",
       "url": "https://open.spotify.com/track/4aXMJeSLoH0F1dgmGHPzZW"
+    },
+    {
+      "album": {
+        "name": "\u062a\u0631\u062d\u0627\u0644\u064a",
+        "url": "https://open.spotify.com/album/5S26R99JmKF6tmohh4xlQn"
+      },
+      "artists": [
+        {
+          "name": "Adham Seliman",
+          "url": "https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258700,
+      "name": "\u062a\u0631\u062d\u0627\u0644\u064a",
+      "url": "https://open.spotify.com/track/17pKNqA6ODA4lxDZ1ZyL8x"
     },
     {
       "album": {

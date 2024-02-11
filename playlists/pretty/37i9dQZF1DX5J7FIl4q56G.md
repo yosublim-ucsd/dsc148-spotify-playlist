@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Imminence
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,866 likes - 65 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,957 likes - 65 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 64 | [Torn Asunder](https://open.spotify.com/track/3z9RNMqlcBLvZiaj7qmgtv) | [Warheim](https://open.spotify.com/artist/116teynoxIUHnSxQaBOI0o) | [Torn Asunder](https://open.spotify.com/album/5xvR4slTs8BU4dTAACImiA) | 3:57 |
 | 65 | [Genesis Imperialis](https://open.spotify.com/track/78qqYMxXcLWhu5nToOvfz9) | [Volcanotory](https://open.spotify.com/artist/7Ghb1bd9Fwvx2jHiAcFvpJ) | [Genesis Imperialis](https://open.spotify.com/album/51b8ycpDCpBbZVTnEcz3Je) | 4:13 |
 
-Snapshot ID: `MCxlZjE5ZjU2MjMzNzFkNzc5NGVlN2U3YjIxNjgxYWVjN2I5YzU3ZWUw`
+Snapshot ID: `MCxlYjgwZGFiYzBlNjNkNjIzMzI4ZDU2YTM5YTAzNmRiMmQwOGJjOTkw`

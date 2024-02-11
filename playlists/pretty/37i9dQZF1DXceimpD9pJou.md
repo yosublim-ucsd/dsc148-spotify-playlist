@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:1Cm5r6LqrFQDuA0F4KUIQz">Lizzy Parra</a> y <a href="spotify:artist:7uvf9bsJVUHUyiSK0aU42M">Jarrion High</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,002 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,028 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Te Coronamos \(We Crown You\)](https://open.spotify.com/track/7cIgThsfQZbTL5I1bK6Nfk) | [Anthem Worship Español](https://open.spotify.com/artist/32P5BFOjACzqsAvzeJkR9A), [Eleni Baker](https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3) | [Te Coronamos \(We Crown You\)](https://open.spotify.com/album/3fHnt2W5qqMe2N0xyA7GMp) | 7:01 |
 | 100 | [VEINTITRÉS](https://open.spotify.com/track/2WCIhxE0aKxL9aiD97lo3P) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [VEINTITRÉS](https://open.spotify.com/album/4hHI99qtidAayIdPVn8H88) | 3:13 |
 
-Snapshot ID: `MCw1YmY2NjcyMTBmNGI2OGYzN2U2YWE1Yzk2MmU5MmIzODIyZmU1ZTY3`
+Snapshot ID: `MCw0NTZkZGVhN2U2ZDc2ZmMzNjJkYjcwNzIzODQwYzhkNzhhMzBlNjQ0`

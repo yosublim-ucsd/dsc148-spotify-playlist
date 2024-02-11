@@ -4,7 +4,7 @@
 
 > Have yourself a little cozy Christmas.
 
-213 songs - 12 hr 49 min
+214 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Sleet and Snow](https://open.spotify.com/track/19PbVUTpF75SeZQpTEUJwM) | [My First Tooth](https://open.spotify.com/artist/2mtHReEeM2MuBaWSY3stG8) | [Sleet and Snow](https://open.spotify.com/album/6IvRuTNcTlPaIosiVlY8Nx) | 3:18 | 2021-11-09 |  |
 | [Sleigh Ride](https://open.spotify.com/track/3xM6VgByz6g9loXIyPvEcR) | [SHEL](https://open.spotify.com/artist/4OCTXxXeu6etfZqxfqFihq) | [Walker in a Winter Wonderland](https://open.spotify.com/album/0UhF379fa6PvnfLTsBngqa) | 3:06 | 2021-11-09 |  |
 | [Snow](https://open.spotify.com/track/2Dx7CbP88KSx88nmvXHARg) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/7JBhb8SSKqeTMWsSytyfJA) | 3:38 | 2021-11-09 | 2022-07-29 |
-| [Snow](https://open.spotify.com/track/4yNKWjEFADa5f11RI1DaKC) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:38 | 2021-11-09 |  |
+| [Snow](https://open.spotify.com/track/2mI7H9gV0viQJWtf8j48jS) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf) | 3:38 | 2023-12-01 |  |
+| [Snow](https://open.spotify.com/track/4yNKWjEFADa5f11RI1DaKC) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:38 | 2021-11-09 | 2024-02-11 |
 | [So Much Wine](https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 4:03 | 2022-11-21 |  |
 | [Song for the Angels](https://open.spotify.com/track/4MIDnbVdmaa5sIbdR5BBTN) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Bodies and Minds](https://open.spotify.com/album/2Psey6KZhbYxogDvrqFlo6) | 5:19 | 2021-11-09 |  |
 | [Songs for the Angels](https://open.spotify.com/track/6mNrNhAqFSzQxDldRilzMh) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Folk & Proud](https://open.spotify.com/album/5hR6eNfAo8Y0tHf8xpIrHU) | 5:18 | 2021-11-09 | 2022-07-29 |

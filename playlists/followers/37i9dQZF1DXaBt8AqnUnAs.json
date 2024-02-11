@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 166025,
+  "2024-02-11": 166026,
   "date_first_scraped": "2022-03-24",
   "description": "aqueles papo de amor tlgd n\u00e3o?",
   "name": "Flow Romance",
@@ -841,7 +841,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 160408,
       "name": "Baile",
       "url": "https://open.spotify.com/track/03VcWEz57C8TYc9bfFKPDp"
@@ -1743,7 +1743,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 181512,
       "name": "Cha do Bom",
       "url": "https://open.spotify.com/track/76GaOJfSvERPvMooi6tC12"
@@ -1937,7 +1937,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 154351,
       "name": "Cmg S2",
       "url": "https://open.spotify.com/track/7s1dYgSJQQ9W6FSuJxXg96"
@@ -2669,7 +2669,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 251600,
       "name": "Djavu",
       "url": "https://open.spotify.com/track/2WH637f5jibXgY3Be06EC9"
@@ -3039,7 +3039,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 179580,
       "name": "Erro Favorito",
       "url": "https://open.spotify.com/track/2fQWs6gIMQpVzXZ0WEMolk"
@@ -3569,6 +3569,32 @@
       "duration_ms": 146632,
       "name": "FANFIC",
       "url": "https://open.spotify.com/track/0468vx9SCE18yxtWyYKM6r"
+    },
+    {
+      "album": {
+        "name": "Farsante",
+        "url": "https://open.spotify.com/album/2bLU9ba3qd6WtY4Cv5nB7t"
+      },
+      "artists": [
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        },
+        {
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121263,
+      "name": "Farsante",
+      "url": "https://open.spotify.com/track/7vNJ1h8VPDNGB5v7XJZcdk"
     },
     {
       "album": {
@@ -6791,7 +6817,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 151584,
       "name": "N\u00e3o Tem Como Evitar",
       "url": "https://open.spotify.com/track/17zv37HCXfhwZUWPdu8R90"
@@ -8933,7 +8959,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 146103,
       "name": "Sem Tu",
       "url": "https://open.spotify.com/track/2FAmV8dOrF7KOkfI43oDk3"
@@ -9319,7 +9345,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 211442,
       "name": "Sonho Lindo",
       "url": "https://open.spotify.com/track/2YgGXaXy66jT5c0pp4vQqZ"
@@ -10470,6 +10496,28 @@
     },
     {
       "album": {
+        "name": "Vida Eu Penso Na Gente Ainda",
+        "url": "https://open.spotify.com/album/6TirEETOEzpQyGQnVSmm7S"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158241,
+      "name": "Vida Eu Penso Na Gente Ainda",
+      "url": "https://open.spotify.com/track/5qV0rG1Tdj5mpL9ssoLxrj"
+    },
+    {
+      "album": {
         "name": "Vida Toda - Spotify Singles",
         "url": "https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC"
       },
@@ -10631,6 +10679,24 @@
       "duration_ms": 120000,
       "name": "Voc\u00ea \u00e9 Careta Demais",
       "url": "https://open.spotify.com/track/48Q0OLhoiIV4O06hXMpMbE"
+    },
+    {
+      "album": {
+        "name": "Nova Wave, Pt. 4",
+        "url": "https://open.spotify.com/album/3Lf4zUSuZ0ihmvpt72P8bx"
+      },
+      "artists": [
+        {
+          "name": "Shaodree",
+          "url": "https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Volta Pra Mim",
+      "url": "https://open.spotify.com/track/7dpmISLih258IXWXeqy9fS"
     },
     {
       "album": {
@@ -10831,6 +10897,32 @@
       "duration_ms": 100408,
       "name": "\u00c9 Que Eu Preciso Dizer",
       "url": "https://open.spotify.com/track/1kfwsz1ak4qZj75BaHG4YR"
+    },
+    {
+      "album": {
+        "name": "\u00daltima Noite (Papatracks#11)",
+        "url": "https://open.spotify.com/album/0EcAY4yJ4yVIvA0RwVKOFm"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "\u00daltima Noite (Papatracks#11)",
+      "url": "https://open.spotify.com/track/361vXl5D3gNeO9SHQRnpxK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaBt8AqnUnAs"

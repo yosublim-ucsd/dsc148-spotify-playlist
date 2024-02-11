@@ -4,7 +4,7 @@
 
 > Laid back soul music.
 
-327 songs - 23 hr 5 min
+328 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Neither One Of Us \(Wants To Be The First To Say Goodbye\)](https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Neither One Of Us](https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd) | 4:24 | 2022-02-04 |  |
 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 | 2021-12-13 | 2023-08-16 |
 | [New York Eyes](https://open.spotify.com/track/20oUeycXhRS3iNp0Hl32hh) | [Nicole](https://open.spotify.com/artist/0wYizqFaidLBrf0CO4naWu), [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [The Masters Series: Mellow Groove](https://open.spotify.com/album/4T9c1w0NNJ4RC60igvEo1m) | 4:43 | 2021-12-13 | 2023-04-21 |
-| [New York State Of Mind](https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Evolution](https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug) | 5:33 | 2022-02-04 |  |
+| [New York State Of Mind](https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Evolution](https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug) | 5:33 | 2022-02-04 | 2024-02-11 |
 | [Nightshift](https://open.spotify.com/track/2jGfOCUOXBxrV63jlFVZMV) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Ultimate Collection: The Commodores](https://open.spotify.com/album/1ZIP9kXi6QAj0SWzHGfocI) | 5:04 | 2021-12-13 | 2021-12-31 |
 | [Nightshift](https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Nightshift](https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP) | 5:06 | 2021-12-20 | 2023-10-12 |
 | [No Ordinary Love \- Remastered](https://open.spotify.com/track/1tV7RXsTGdwxAvEo8Rv9pp) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 7:18 | 2021-12-13 | 2024-02-08 |
@@ -276,6 +276,7 @@
 | [Stand by Me](https://open.spotify.com/track/7jmHyHMEqm9MJWiMAneF05) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song](https://open.spotify.com/album/5QL7RNVpZIoIxElgdykaa8) | 2:55 | 2022-02-21 | 2023-04-21 |
 | [Start All Over](https://open.spotify.com/track/7MS752SypWNJNeDHrhRHjK) | [Soul Survivors](https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx) | [Soul Survivors](https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl) | 4:34 | 2021-12-13 | 2022-07-29 |
 | [Starting All Over Again](https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3) | [Mel & Tim](https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL) | [Stax Volt Chartbusters Vol 1](https://open.spotify.com/album/17V0RTHI4GvWwGIIpPnVqE) | 3:50 | 2021-12-13 | 2022-07-28 |
+| [Starting All Over Again](https://open.spotify.com/track/7kFRgT3KKxU1y7USF8ZzIX) | [Mel & Tim](https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL) | [Stax Chartbusters, Vol\. 1](https://open.spotify.com/album/4oEYZnyz2yqpWjjBcq7xLk) | 3:50 | 2024-02-09 |  |
 | [Summer Breeze](https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv), [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Givin' It Up](https://open.spotify.com/album/5T2Nw2EsHUp27w6IOuBt3T) | 5:01 | 2022-01-03 | 2023-04-21 |
 | [Superstar](https://open.spotify.com/track/0PKcHf6NgPitUVFwzKnz3c) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Love Is The New Black](https://open.spotify.com/album/1CHYpX14nBeQ17oNSF9n5h) | 6:35 | 2021-12-13 | 2023-04-21 |
 | [Sweet](https://open.spotify.com/track/0utOpkt5mzKB3YRWx6QONf) | [SAFFRA](https://open.spotify.com/artist/2Wmi4gXc0h6QY9XmSTyGPs) | [Sweet](https://open.spotify.com/album/1pANmzn8wMEyB8S1s2fCLl) | 5:28 | 2022-03-25 | 2022-03-31 |

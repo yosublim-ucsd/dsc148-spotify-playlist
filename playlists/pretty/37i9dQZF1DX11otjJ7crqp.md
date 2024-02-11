@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Conan Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,467 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,509 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 21 | [crush](https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [crush](https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP) | 3:19 |
 | 22 | [Stranger](https://open.spotify.com/track/6bka0NlfgkLUFwcrFLwQYm) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Stranger](https://open.spotify.com/album/7qD6w06kURXtU4WmeRKK6x) | 2:28 |
 | 23 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
-| 24 | [Love Me Better](https://open.spotify.com/track/60JBgHmNQ437PrKp0eWFDn) | [Corbyn Besson](https://open.spotify.com/artist/4M4swPo6YkmMZPA7Vrczyk) | [Love Me Better](https://open.spotify.com/album/5DQxMNtoUPlBMDrCMvasaO) | 2:31 |
+| 24 | [Love Me Better](https://open.spotify.com/track/60JBgHmNQ437PrKp0eWFDn) | [Corbyn Besson](https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj) | [Love Me Better](https://open.spotify.com/album/5DQxMNtoUPlBMDrCMvasaO) | 2:31 |
 | 25 | [Hurts To Hold On](https://open.spotify.com/track/6A3mkLQXPXIZsoQCCfNKrl) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Hurts To Hold On](https://open.spotify.com/album/2eF0SmkaYla9ihVZdO7pTx) | 3:54 |
 | 26 | [Sorry Ain't Enough](https://open.spotify.com/track/4Rdnh0sq0Xs4d9wKE8Edn2) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [you taught me to read between the lines](https://open.spotify.com/album/51rJr1CW5K5BhIM0mkouxh) | 3:15 |
 | 27 | [Licorice](https://open.spotify.com/track/7DPJLamxQ8GDuZtQetWz7h) | [Grey Zeigler](https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI) | [Licorice](https://open.spotify.com/album/1aSmHrBGlRTVQ0YKHn8zLM) | 2:21 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [ADHD](https://open.spotify.com/track/3i3yFaIwk9ATfh20Jq9UX0) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [ADHD](https://open.spotify.com/album/0AEsYY4W8qjXwLpyd8SmAM) | 2:55 |
 | 99 | [Skin](https://open.spotify.com/track/3Jeo5LzCcMBtdFlp1FqpsN) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Skin](https://open.spotify.com/album/3l3z8fcI2FMAcCMq1wcd3E) | 3:35 |
 
-Snapshot ID: `MCxmZWIzN2Q0ZjkwY2FlNDE3ZWU3NzBmNGJjZDczODliMGYxZGI2NTMz`
+Snapshot ID: `MCw1MGZmOGFiNjZmOGM2MTFkMWM2MzFjMzU4MmM4Y2YzYmUxN2UzYzFk`

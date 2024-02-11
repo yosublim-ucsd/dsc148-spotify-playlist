@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Khali
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,568 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,569 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 10 | [Dream](https://open.spotify.com/track/4WbTmfPKimbUHgLsCeEFdH) | [BKRBABYBOY](https://open.spotify.com/artist/4n9KyoZUUZgkQAoVxSOgZZ), [Friends & Family](https://open.spotify.com/artist/0wgFiE1UJa29Mo4TZHpHA1) | [Dream](https://open.spotify.com/album/33pQuNvu4WTZ5a4uYDiTYc) | 1:36 |
 | 11 | [nebula](https://open.spotify.com/track/4dWQt09nlBLh34No9tNA5o) | [Ashh](https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF) | [nebula](https://open.spotify.com/album/4FNFa5X1j7FhS3IRchDgqm) | 3:30 |
 | 12 | [Anakin](https://open.spotify.com/track/6RjO7UcAuz6z7J8RZtm4qh) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Anakin](https://open.spotify.com/album/4cdxXpmBZKc5nFfsmihN8f) | 3:58 |
-| 13 | [J'connais](https://open.spotify.com/track/1aZVHOARM5FLgfAlHBtntr) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA \(Parties 1&2\)](https://open.spotify.com/album/1NTYNLaNEoAiZwT3mcNuP5) | 2:27 |
+| 13 | [J'connais](https://open.spotify.com/track/1aZVHOARM5FLgfAlHBtntr) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/1NTYNLaNEoAiZwT3mcNuP5) | 2:27 |
 | 14 | [Émotion](https://open.spotify.com/track/5hFImCo7K3URs5Gn9kj7QU) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [MIEL](https://open.spotify.com/album/4dWovRp9R5G9mXcO5ooSi7) | 2:48 |
 | 15 | [Saudade](https://open.spotify.com/track/1euiSBqrrv34yTtHIJwTT7) | [Django](https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3) | [Saudade](https://open.spotify.com/album/0K5d2mb8sn9RszeoWxJ0N6) | 2:35 |
 | 16 | [Si tu savais](https://open.spotify.com/track/3TWnM57OZnvqz6aVWu5l5e) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N) | [Si tu savais](https://open.spotify.com/album/2WSYOicKVLU5SDaZ5VnB8K) | 2:25 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [Qu'est\-ce tu veux qu'j'te dise?](https://open.spotify.com/track/4eNjjnFNBCy2V2bm0Plw4s) | [Nefaste](https://open.spotify.com/artist/0H1xpJStOZvjAvCihf95aY) | [Hiver 365](https://open.spotify.com/album/0oDrbahFH4GbGXPUnNq6PB) | 3:26 |
 | 40 | [PARLE EN WSH](https://open.spotify.com/track/2lP7XUYGrfDGkeweHioos5) | [Chat noir](https://open.spotify.com/artist/7ikmRMoCZRg3DNAzG0tAN8) | [PARLE EN WSH](https://open.spotify.com/album/50bmjYU7Z5BlZiZxvYXbzE) | 3:01 |
 
-Snapshot ID: `MCwzMmQyZTFkMTg1ZjBiZTVlOWQzZjk5OTZjYTI2ZDQ5MWNiMzY5MGFj`
+Snapshot ID: `MCwwYzNlZGU3Njg2OGQxZTkwYTUzZWUyMjIzYjA0MzBhZWVlNjBiOGVj`

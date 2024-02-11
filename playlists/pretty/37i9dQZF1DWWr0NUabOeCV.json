@@ -1,12 +1,12 @@
 {
   "description": "Para iniciar la fiesta. \u00a1Salud!",
-  "num_followers": 3414,
+  "num_followers": 769,
   "original_name": "Toneras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzBkZGM0MWJlZDY3NjQ4NGNlZWUxZTZmMGU2ZDRhNTNiY2NiMGNj",
+  "snapshot_id": "MCxlNjhmZmVmODA0N2Q4ZWJmY2IyMzc4MjA1ODdhZTU4NDMxMTY1Y2M4",
   "tracks": [
     {
       "added_at": "2021-12-14 16:04:58",
@@ -967,26 +967,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "FRIKI",
-        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 144986,
-      "name": "FRIKI",
-      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "FRIKI",
+        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 144986,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "La L\u00e1",
-        "url": "https://open.spotify.com/album/2JPVwNK84tcKKynGJn2s8s"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 195351,
-      "name": "La L\u00e1",
-      "url": "https://open.spotify.com/track/4kitLAHbmBBXYHt9g22md3"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "Major Lazer Essentials",
         "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 199168,
       "name": "Titans",
       "url": "https://open.spotify.com/track/7r47ocAa1LzFiu5O9tCaU3"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "La L\u00e1",
+        "url": "https://open.spotify.com/album/2JPVwNK84tcKKynGJn2s8s"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 195351,
+      "name": "La L\u00e1",
+      "url": "https://open.spotify.com/track/4kitLAHbmBBXYHt9g22md3"
     },
     {
       "added_at": "2021-12-14 16:04:58",

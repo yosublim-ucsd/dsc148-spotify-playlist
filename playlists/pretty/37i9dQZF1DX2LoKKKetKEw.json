@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:0liXA3xwx6pncxYQA30ahT\">Limoblaze</a>",
-  "num_followers": 78362,
+  "num_followers": 78487,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjNjYTUyZTQxNDI5ODc0YTFiNmNlNDAxMmQ5M2ZiZjc2ZTVkMzNl",
+  "snapshot_id": "MCxmMWU2ZDFhNjA5YmNjNWVlNTdhODNiYTA5ZDM5NmEwZTVkYjZhZWNl",
   "tracks": [
     {
       "added_at": "2024-02-02 05:46:04",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 187428,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
         "name": "Matthew 6:33",
         "url": "https://open.spotify.com/album/7ChiyCA6LkJQiQY4IsovDb"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 182019,
       "name": "Matthew 6:33",
       "url": "https://open.spotify.com/track/5mARaySmtSd60C7UHgQvuk"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 187428,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "No Trouble",
-        "url": "https://open.spotify.com/album/0UiTQ1UQf6UmwUjvixptVB"
-      },
-      "artists": [
-        {
-          "name": "K3ndrick",
-          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
-        }
-      ],
-      "duration_ms": 170019,
-      "name": "No Trouble",
-      "url": "https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
         "name": "Mon Dieu",
         "url": "https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 166000,
       "name": "Mon Dieu",
       "url": "https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
+        "name": "No Trouble",
+        "url": "https://open.spotify.com/album/0UiTQ1UQf6UmwUjvixptVB"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        }
+      ],
+      "duration_ms": 170019,
+      "name": "No Trouble",
+      "url": "https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -735,6 +735,34 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
+        "name": "Loved",
+        "url": "https://open.spotify.com/album/7HYm3t0UoKBFI2n0xRIrUE"
+      },
+      "artists": [
+        {
+          "name": "Clinton Flames",
+          "url": "https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Baron Jay",
+          "url": "https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv"
+        }
+      ],
+      "duration_ms": 188628,
+      "name": "Loved",
+      "url": "https://open.spotify.com/track/6MG67vKhgT79hSKS9PHPuY"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
         "name": "On My Case",
         "url": "https://open.spotify.com/album/4yCTzq9LQLQ3b6AJ3BprFc"
       },
@@ -775,30 +803,22 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "Loved",
-        "url": "https://open.spotify.com/album/7HYm3t0UoKBFI2n0xRIrUE"
+        "name": "Praises",
+        "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
       },
       "artists": [
         {
-          "name": "Clinton Flames",
-          "url": "https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye"
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
         },
         {
-          "name": "Oba Reengy",
-          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        },
-        {
-          "name": "Baron Jay",
-          "url": "https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv"
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
         }
       ],
-      "duration_ms": 188628,
-      "name": "Loved",
-      "url": "https://open.spotify.com/track/6MG67vKhgT79hSKS9PHPuY"
+      "duration_ms": 244300,
+      "name": "Praises",
+      "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -819,26 +839,6 @@
       "duration_ms": 176482,
       "name": "Falala",
       "url": "https://open.spotify.com/track/64VQFnOF4na9PpqsSeg36E"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "Praises",
-        "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 244300,
-      "name": "Praises",
-      "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -943,6 +943,30 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
+        "name": "The Word",
+        "url": "https://open.spotify.com/album/4yntsBzEnFsAgRU5mektA9"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Aigbeh D'gong",
+          "url": "https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX"
+        }
+      ],
+      "duration_ms": 172208,
+      "name": "The Word",
+      "url": "https://open.spotify.com/track/0rCaRP8FF3heR6qE3g8Q13"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
         "name": "TOTORI (The Name of Jesus)",
         "url": "https://open.spotify.com/album/2kUPjp8CwTRXMWnzaiemdT"
       },
@@ -959,50 +983,6 @@
       "duration_ms": 204648,
       "name": "TOTORI (The Name of Jesus)",
       "url": "https://open.spotify.com/track/6C2YHtc0mW29XBFRTIFuAZ"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "In My Heart",
-        "url": "https://open.spotify.com/album/4YroeDNlYQdl6MjTz7VD9z"
-      },
-      "artists": [
-        {
-          "name": "LAMB CULTURE.",
-          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        },
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        }
-      ],
-      "duration_ms": 164830,
-      "name": "In My Heart",
-      "url": "https://open.spotify.com/track/29QgRF9T4wIRYZrSRECu6e"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "PAWA",
-        "url": "https://open.spotify.com/album/5JJfQHS7B70SvHPPdAWaqW"
-      },
-      "artists": [
-        {
-          "name": "Sam Jamz",
-          "url": "https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "PAWA",
-      "url": "https://open.spotify.com/track/3OLORCu80i3HVzBzpf9Sul"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1031,26 +1011,62 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "The Word",
-        "url": "https://open.spotify.com/album/4yntsBzEnFsAgRU5mektA9"
+        "name": "PAWA",
+        "url": "https://open.spotify.com/album/5JJfQHS7B70SvHPPdAWaqW"
       },
       "artists": [
         {
-          "name": "nina shezz",
-          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+          "name": "Sam Jamz",
+          "url": "https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd"
         },
         {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Aigbeh D'gong",
-          "url": "https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX"
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
         }
       ],
-      "duration_ms": 172208,
-      "name": "The Word",
-      "url": "https://open.spotify.com/track/0rCaRP8FF3heR6qE3g8Q13"
+      "duration_ms": 156000,
+      "name": "PAWA",
+      "url": "https://open.spotify.com/track/3OLORCu80i3HVzBzpf9Sul"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
+        "name": "In My Heart",
+        "url": "https://open.spotify.com/album/4YroeDNlYQdl6MjTz7VD9z"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        }
+      ],
+      "duration_ms": 164830,
+      "name": "In My Heart",
+      "url": "https://open.spotify.com/track/29QgRF9T4wIRYZrSRECu6e"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
+        "name": "Omni Do Do Do",
+        "url": "https://open.spotify.com/album/2gZ1DwzuZ8nko2Wp5s0of1"
+      },
+      "artists": [
+        {
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        }
+      ],
+      "duration_ms": 137678,
+      "name": "Omni Do Do Do",
+      "url": "https://open.spotify.com/track/16nUdK2loffWAo1xIlgGQ3"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1083,22 +1099,6 @@
       "duration_ms": 193596,
       "name": "REASON",
       "url": "https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "Omni Do Do Do",
-        "url": "https://open.spotify.com/album/2gZ1DwzuZ8nko2Wp5s0of1"
-      },
-      "artists": [
-        {
-          "name": "Ko'rale",
-          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
-        }
-      ],
-      "duration_ms": 137678,
-      "name": "Omni Do Do Do",
-      "url": "https://open.spotify.com/track/16nUdK2loffWAo1xIlgGQ3"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1271,6 +1271,30 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/586ECVJrS5DX9rQx7JRKrA"
+      },
+      "artists": [
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        },
+        {
+          "name": "Gospel hints",
+          "url": "https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc"
+        }
+      ],
+      "duration_ms": 144169,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/3WEQLxBq5hrEu7elq9xwSk"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
         "name": "Cover Me",
         "url": "https://open.spotify.com/album/1ulp36eMzjM82qIt6jh3rl"
       },
@@ -1375,26 +1399,22 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/586ECVJrS5DX9rQx7JRKrA"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
       },
       "artists": [
         {
-          "name": "Lilmizzy",
-          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+          "name": "Jermaine Edwards",
+          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
         },
         {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
-        },
-        {
-          "name": "Gospel hints",
-          "url": "https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc"
+          "name": "Rushawn",
+          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
         }
       ],
-      "duration_ms": 144169,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/3WEQLxBq5hrEu7elq9xwSk"
+      "duration_ms": 154218,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1423,62 +1443,6 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Edwards",
-          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
-        },
-        {
-          "name": "Rushawn",
-          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
-        }
-      ],
-      "duration_ms": 154218,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "Legacy (Remix)",
-        "url": "https://open.spotify.com/album/2h0tdeNppdVe1PajAQZX7M"
-      },
-      "artists": [
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
-        }
-      ],
-      "duration_ms": 179513,
-      "name": "Legacy - Remix",
-      "url": "https://open.spotify.com/track/0Zbcsc8fJEeabelPgUzx8T"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "NOMO (Never On My Own)",
-        "url": "https://open.spotify.com/album/6ce2fkYBmX7GizmHK007La"
-      },
-      "artists": [
-        {
-          "name": "Winter Amadin",
-          "url": "https://open.spotify.com/artist/0Lg4taC1hwg9FMfyPiwuBH"
-        },
-        {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        }
-      ],
-      "duration_ms": 134838,
-      "name": "NOMO (Never On My Own)",
-      "url": "https://open.spotify.com/track/7GR1NYT1L1iZFIEpubuOxw"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/6VQFhI9PQFcpzgkcH6bioA"
       },
@@ -1503,6 +1467,22 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
+        "name": "Legacy (Remix)",
+        "url": "https://open.spotify.com/album/2h0tdeNppdVe1PajAQZX7M"
+      },
+      "artists": [
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "duration_ms": 179513,
+      "name": "Legacy - Remix",
+      "url": "https://open.spotify.com/track/0Zbcsc8fJEeabelPgUzx8T"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
         "name": "Right Here (It Must Be)",
         "url": "https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 189382,
       "name": "Right Here (It Must Be)",
       "url": "https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
+        "name": "NOMO (Never On My Own)",
+        "url": "https://open.spotify.com/album/6ce2fkYBmX7GizmHK007La"
+      },
+      "artists": [
+        {
+          "name": "Winter Amadin",
+          "url": "https://open.spotify.com/artist/0Lg4taC1hwg9FMfyPiwuBH"
+        },
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        }
+      ],
+      "duration_ms": 134838,
+      "name": "NOMO (Never On My Own)",
+      "url": "https://open.spotify.com/track/7GR1NYT1L1iZFIEpubuOxw"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o"
+      },
+      "artists": [
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        },
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 165694,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
         "name": "Ah Ya Ya",
         "url": "https://open.spotify.com/album/3vzzQKuIn0WV58V4DKYZnN"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 222328,
       "name": "Ah Ya Ya",
       "url": "https://open.spotify.com/track/2up5Sc4s1sh7HhY5VkeAoI"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o"
-      },
-      "artists": [
-        {
-          "name": "Lilmizzy",
-          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
-        },
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 165694,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1743,6 +1743,30 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
+        "name": "Perfect Peace",
+        "url": "https://open.spotify.com/album/2Ft65MibXY2DrNy3aTxbCX"
+      },
+      "artists": [
+        {
+          "name": "Ealle",
+          "url": "https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5"
+        },
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        }
+      ],
+      "duration_ms": 193148,
+      "name": "Perfect Peace",
+      "url": "https://open.spotify.com/track/07bnH9ucRiSiSQsIhqE52B"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
         "name": "Keep it To Myself",
         "url": "https://open.spotify.com/album/1wcravxON0Ag9e3lset1gQ"
       },
@@ -1795,30 +1819,6 @@
       "duration_ms": 152878,
       "name": "less is more",
       "url": "https://open.spotify.com/track/6LtfBO4j0drKRguNyuIR5r"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "Perfect Peace",
-        "url": "https://open.spotify.com/album/2Ft65MibXY2DrNy3aTxbCX"
-      },
-      "artists": [
-        {
-          "name": "Ealle",
-          "url": "https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5"
-        },
-        {
-          "name": "Omojo",
-          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
-        },
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        }
-      ],
-      "duration_ms": 193148,
-      "name": "Perfect Peace",
-      "url": "https://open.spotify.com/track/07bnH9ucRiSiSQsIhqE52B"
     },
     {
       "added_at": "2024-02-02 05:46:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Danny Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,749 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,791 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 16 | [NOCHE DE MÁS](https://open.spotify.com/track/1l1pPdqaINEgZDE0nVV2ED) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [NOCHE DE MÁS](https://open.spotify.com/album/7KLwy8lR8NIK7VkUGpacU1) | 2:38 |
 | 17 | [Sugar Daddy](https://open.spotify.com/track/2GMod8qUwwOMpmY71Kfru3) | [Oya Baby](https://open.spotify.com/artist/2TmrRhHNxjVGvkwZ6SEhFJ), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Sugar Daddy](https://open.spotify.com/album/1sBKB1oooIYurz3LBmyH5H) | 3:47 |
 | 18 | [Amarte Improvisando](https://open.spotify.com/track/3HQ5YsRgZrbpOpyuuS6EhA) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Amarte Improvisando](https://open.spotify.com/album/7Ialb1tq3TJdyvP2YEwQNt) | 3:27 |
-| 19 | [Nueve Vidas](https://open.spotify.com/track/0Y57g6F3v8UPtAbhkXTIsu) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO), [Alex Ponce](https://open.spotify.com/artist/6pmk2YLMMc7UwykvvZbWGA) | [Nueve Vidas](https://open.spotify.com/album/2qJggZU59QzYLmIgr8h1mB) | 3:28 |
+| 19 | [Nueve Vidas](https://open.spotify.com/track/0Y57g6F3v8UPtAbhkXTIsu) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Nueve Vidas](https://open.spotify.com/album/2qJggZU59QzYLmIgr8h1mB) | 3:28 |
 | 20 | [Ánimo](https://open.spotify.com/track/7ze0MX6Gwoosk1QPia2GGZ) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Ánimo](https://open.spotify.com/album/4wVGGSFFjp7AhOs7LsdquC) | 2:37 |
 | 21 | [Bochinchero](https://open.spotify.com/track/5ju2uIITK3ZXXhF9e074iG) | [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Bochinchero](https://open.spotify.com/album/4QUSOz0vAbOGRAFAduJ6GY) | 3:19 |
 | 22 | [4TM](https://open.spotify.com/track/7xqNgkE64lj8UGxUudXjjk) | [J Rythm](https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm), [Gunder808](https://open.spotify.com/artist/5ntpIdhE7qFtTXXpAXXWgX), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w) | [4TM](https://open.spotify.com/album/35ar8BlPbfSCwhqQ583W52) | 3:21 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [Dile a tu Mama](https://open.spotify.com/track/1i8WflIBtMNow8IALzHYqL) | [787](https://open.spotify.com/artist/1u5hcjZmajeJpVbrU9wxXA), [Espano](https://open.spotify.com/artist/2nltuI3fbXK0RbX9PVcQT9), [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb) | [Dile a tu Mama](https://open.spotify.com/album/7lt4ZgwYHHsYYFIuaO4VoV) | 3:08 |
 | 51 | [mejor así](https://open.spotify.com/track/6hFJKEpYA77dLEdFDfnRqR) | [Mila La Morena](https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P) | [mejor así](https://open.spotify.com/album/1TpCN1cJgbvIeEpUglAjP4) | 3:26 |
 
-Snapshot ID: `MCw4MzBiODcyOGZmNzZlNDBkNGI2NDg1YzVmY2YwMjRjMzI2OWVmZThk`
+Snapshot ID: `MCw5OTE4OWY5N2Y2Yjc2MGY5NDI4YTZkNGNiNTllYjBiY2RkZTdiMzlk`

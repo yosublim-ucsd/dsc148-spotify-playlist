@@ -4,7 +4,7 @@
 
 > 
 
-1,139 songs - 2 day 15 hr 51 min
+1,140 songs - 2 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Break Your Neck](https://open.spotify.com/track/0GnxccHb4Ra3kzkXtNqpWK) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN), [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [Break Your Neck](https://open.spotify.com/album/5joXYWWwJfKNJbjqk1uEXZ) | 2:49 | 2023-07-29 |  |
 | [Breaking Free](https://open.spotify.com/track/2YL0oQgEUHwo7Bmwif1Wpt) | [Deadlock](https://open.spotify.com/artist/7hx1Yw0FIMONCsRbueIZrP) | [Breaking Free](https://open.spotify.com/album/5uDZ2IlatRnoz5wjEfIU5H) | 3:45 | 2022-11-29 |  |
 | [Breakthru](https://open.spotify.com/track/3ui6mnCTpwsMQeVaSqc9sd) | [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k) | [Breakthru](https://open.spotify.com/album/0koJyisQBTj4F88KUwHw5d) | 3:42 | 2022-02-22 |  |
+| [Breathe \- Radio Edit](https://open.spotify.com/track/2BuW3Ie1a2JxKcmiTgyX2S) | [KimSize](https://open.spotify.com/artist/0lx6sUv47x7B44muGCbVCY) | [Breathe \(Radio Edit\)](https://open.spotify.com/album/0M9GMif3wxDpqEFTRYCTGr) | 3:40 | 2024-02-10 |  |
 | [Bring It Back](https://open.spotify.com/track/4rKekt8iSrKDMawMa6nfuL) | [Kickdown](https://open.spotify.com/artist/4qUiWm8m64r7UAdlirKZS9) | [Bring It Back](https://open.spotify.com/album/7nUgWZSoQaBb9tNsFwpFbf) | 4:06 | 2023-12-30 |  |
 | [Bring It On \- Album Mix](https://open.spotify.com/track/5GdsuDciGlzu3lJTv94GIB) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [LXCPR](https://open.spotify.com/artist/58yZcRyk0FYMAbp12tLUPU) | [Empire](https://open.spotify.com/album/2mV8CES6Gepzkw1xBzZkG5) | 3:24 | 2022-04-28 |  |
 | [Bring Me](https://open.spotify.com/track/1YZpJDAtlfz84C58TEgYuh) | [Jakka\-B](https://open.spotify.com/artist/2jVj0crTzkmBmxsBXkQaM8) | [Bring Me](https://open.spotify.com/album/1gfukr4wDPAKu6065XlcJO) | 2:50 | 2023-07-29 |  |

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Del Water Gap & Holly Humberstone
 
-1,758 songs - 3 day 20 hr 41 min
+1,759 songs - 3 day 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1069,7 +1069,7 @@
 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 | 2022-03-18 | 2023-01-24 |
 | [my self](https://open.spotify.com/track/3Uz7KMfWOR2wAoUVYaZn1h) | [joey maxwell](https://open.spotify.com/artist/24HpqK3rYuuJgdh2WkNtTq) | [my self](https://open.spotify.com/album/1uWtFaLy6aEe2HuRV3Ud2l) | 3:49 | 2020-11-03 | 2021-01-15 |
 | [My Ways](https://open.spotify.com/track/5o3IfIHZBTQCJS2y1c13su) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [My Ways](https://open.spotify.com/album/0XUrFhOuZ1HOijwXToI0gM) | 3:01 | 2021-02-28 | 2021-05-28 |
-| [N.P.D](https://open.spotify.com/track/1eEIMkDqSr8jbnobIEBQz1) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [N.P.D](https://open.spotify.com/album/29hxvEZkaNi0quZsfpcp2U) | 5:31 | 2024-01-20 |  |
+| [N.P.D](https://open.spotify.com/track/1eEIMkDqSr8jbnobIEBQz1) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [N.P.D](https://open.spotify.com/album/29hxvEZkaNi0quZsfpcp2U) | 5:31 | 2024-01-20 | 2024-02-11 |
 | [n2o](https://open.spotify.com/track/2mPLs6IBClLRkRjgKoYBHi) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [n2o](https://open.spotify.com/album/0hNrShA8luMoMv9JQ0HZyy) | 2:59 | 2021-10-22 | 2022-04-16 |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-02-25 | 2022-08-06 |
 | [name everywhere](https://open.spotify.com/track/3mOd7FgLgWATxB0khHOSOk) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [name everywhere](https://open.spotify.com/album/3V9iuYMjGOFl3bp5BLxYNq) | 3:34 | 2023-05-12 | 2023-06-23 |
@@ -1618,6 +1618,7 @@
 | [TONIGHT](https://open.spotify.com/track/2lPmo9YAf3am3Y8IkN4QLJ) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [TONIGHT](https://open.spotify.com/album/5E8bNRJ8zfuiCLn5pKqwAX) | 2:34 | 2022-06-17 | 2022-07-26 |
 | [Too Fast](https://open.spotify.com/track/5MJ47IaaEMMKsgUqYEaCCv) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Too Fast](https://open.spotify.com/album/7xeKLRPVHhBn5WoJAAK8a8) | 2:33 | 2020-10-13\* | 2021-06-02 |
 | [Too Late](https://open.spotify.com/track/4YHuPWY3yxGo5eftu1Ixm8) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Too Late](https://open.spotify.com/album/4VhSINv5l9dJN1t781T6sX) | 4:12 | 2021-02-23 | 2021-05-28 |
+| [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-02-09 |  |
 | [Too Sensitive](https://open.spotify.com/track/29W6ddO7Tlm1BiSsIAFj01) | [Sean Kennedy](https://open.spotify.com/artist/6kY7DKDwm2bt996rMF4CLK) | [Too Sensitive](https://open.spotify.com/album/28CssaUwpNtHlcmKtF67fM) | 2:41 | 2020-10-16 | 2022-04-15 |
 | [Top Dog](https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [mini mix vol\. 3](https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM) | 2:17 | 2023-04-14 | 2023-09-23 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 |  |

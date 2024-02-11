@@ -1,7 +1,7 @@
 {
-  "2024-02-10": 222157,
+  "2024-02-11": 222176,
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Froid",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: NOG",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -8711,7 +8711,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 146086,
       "name": "N\u00e3o Me Esque\u00e7a Ao Amanhecer",
       "url": "https://open.spotify.com/track/1ZWSw6I6tY3nvVA95tz7cD"
@@ -12515,7 +12515,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 186454,
       "name": "TA\u00c7A",
       "url": "https://open.spotify.com/track/64BcBJ5my00gL91v6Dvgne"
@@ -12798,6 +12798,32 @@
     },
     {
       "album": {
+        "name": "Tinky Winky",
+        "url": "https://open.spotify.com/album/1wZUskef25Q6eL0uFAKv28"
+      },
+      "artists": [
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
+        },
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154513,
+      "name": "Tinky Winky",
+      "url": "https://open.spotify.com/track/3wua0ArgugXXWhURSFfJtI"
+    },
+    {
+      "album": {
         "name": "Tipo Breckboys",
         "url": "https://open.spotify.com/album/6eoqekxTbTrmKyfmNtndow"
       },
@@ -12965,6 +12991,28 @@
       "duration_ms": 121363,
       "name": "Towner",
       "url": "https://open.spotify.com/track/1aNyb2vXdCSS21ooeDatUI"
+    },
+    {
+      "album": {
+        "name": "Traumas",
+        "url": "https://open.spotify.com/album/5DUfZN8ezslU68PpJQ1Mk5"
+      },
+      "artists": [
+        {
+          "name": "Gyylo",
+          "url": "https://open.spotify.com/artist/0SU90Y0GlSJKkS3zelkgbS"
+        },
+        {
+          "name": "Tiizy",
+          "url": "https://open.spotify.com/artist/64XaUcPpRhoC17vz0Ph7bY"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176508,
+      "name": "Traumas",
+      "url": "https://open.spotify.com/track/4seTxURlJqYQteHw49rLn0"
     },
     {
       "album": {

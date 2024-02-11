@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 42630,
+  "num_followers": 42652,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGNlMTQ4ODdlYTZjOWQ1ZDZhNThmYmY2YWVhMzFmNTgxMWExYWI4",
+  "snapshot_id": "MCxmM2Y2MzZkZmEzOTQ2ODVmMWQ4MTY1ZjA5MWM3YjQ1NzViZTBhNjU4",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "The Sun Comes Up",
+        "url": "https://open.spotify.com/album/067DByB9MxpzzHb07ORR3P"
+      },
+      "artists": [
+        {
+          "name": "Mako Road",
+          "url": "https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz"
+        }
+      ],
+      "duration_ms": 254465,
+      "name": "The Sun Comes Up",
+      "url": "https://open.spotify.com/track/6aNVEIjxBi4gm0t1CFg7uk"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Simply Paradise",
         "url": "https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 155695,
       "name": "Simply Paradise",
       "url": "https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "The Sun Comes Up",
-        "url": "https://open.spotify.com/album/067DByB9MxpzzHb07ORR3P"
-      },
-      "artists": [
-        {
-          "name": "Mako Road",
-          "url": "https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz"
-        }
-      ],
-      "duration_ms": 254465,
-      "name": "The Sun Comes Up",
-      "url": "https://open.spotify.com/track/6aNVEIjxBi4gm0t1CFg7uk"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/6NPLTIUzyvIsn7r8cXycR9"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 272733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/7HjU833ZEDExWGm6XkNbXI"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Harlequin Dream",
         "url": "https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 244460,
       "name": "It's Been a Long Day",
       "url": "https://open.spotify.com/track/4oc0dMfgMj6cA7WCJneZrD"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/6NPLTIUzyvIsn7r8cXycR9"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 272733,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/7HjU833ZEDExWGm6XkNbXI"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Land & Sea",
+        "url": "https://open.spotify.com/album/2AlnrVJGAQQSYPs0wp1J9Q"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 214647,
+      "name": "Days in the Sun",
+      "url": "https://open.spotify.com/track/4y4MynI3ysiE6pc4XsSTYR"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Everything Is Easy",
         "url": "https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "14 Steps To A Better You",
-        "url": "https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 216636,
-      "name": "On Our Own",
-      "url": "https://open.spotify.com/track/5pLgio8GlWLCwaZkUTtboI"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Never Gonna Give You Up",
         "url": "https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd"
       },
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "14 Steps To A Better You",
+        "url": "https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 216636,
+      "name": "On Our Own",
+      "url": "https://open.spotify.com/track/5pLgio8GlWLCwaZkUTtboI"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "White Moth",
         "url": "https://open.spotify.com/album/2qUM67vpnB4wehzTRik1uc"
       },
@@ -1275,8 +1291,8 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Land & Sea",
-        "url": "https://open.spotify.com/album/2AlnrVJGAQQSYPs0wp1J9Q"
+        "name": "Laps Around The Sun",
+        "url": "https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O"
       },
       "artists": [
         {
@@ -1284,9 +1300,9 @@
           "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 214647,
-      "name": "Days in the Sun",
-      "url": "https://open.spotify.com/track/4y4MynI3ysiE6pc4XsSTYR"
+      "duration_ms": 206293,
+      "name": "Laps Around The Sun",
+      "url": "https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1371,22 +1387,6 @@
       "duration_ms": 353211,
       "name": "Every Day Is A Holiday (feat. Winston Surfshirt)",
       "url": "https://open.spotify.com/track/2FYPHlCcEzere9tj4vAouv"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "The Art of Escape",
-        "url": "https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn"
-      },
-      "artists": [
-        {
-          "name": "Hein Cooper",
-          "url": "https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0"
-        }
-      ],
-      "duration_ms": 198582,
-      "name": "Rusty",
-      "url": "https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC"
     }
   ],
   "unique_name": "Coast to Coast",

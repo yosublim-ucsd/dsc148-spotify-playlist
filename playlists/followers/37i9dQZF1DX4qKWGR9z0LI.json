@@ -1,7 +1,7 @@
 {
-  "2024-02-10": 1810024,
+  "2024-02-11": 1810073,
   "date_first_scraped": "2022-01-10",
-  "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Moa Rivera & Lenier",
+  "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Camilo & Evaluna Montaner",
   "name": "Salsa Nation",
   "tracks": [
     {
@@ -639,7 +639,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 341839,
       "name": "Charrupi",
       "url": "https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 269800,
       "name": "Comerte a Besos - Salsa Version",
       "url": "https://open.spotify.com/track/5CTj6t8M4n8ft81jN8o1S7"
@@ -1915,6 +1915,24 @@
       "duration_ms": 207423,
       "name": "Fue Culpa De Usted",
       "url": "https://open.spotify.com/track/38WoHatz30sMtk0JvZUIpO"
+    },
+    {
+      "album": {
+        "name": "un",
+        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220830,
+      "name": "Gordo",
+      "url": "https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv"
     },
     {
       "album": {
@@ -3303,6 +3321,28 @@
       "duration_ms": 307200,
       "name": "Peque\u00f1as Cosas",
       "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
+    },
+    {
+      "album": {
+        "name": "PLIS",
+        "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222800,
+      "name": "PLIS",
+      "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Mere Jeevan Saathi
 
-165 songs - 12 hr 35 min
+166 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Mere Piya Gaye Rangoon](https://open.spotify.com/track/3iQ28V36oRFljj8JzexQSI) | [Shamshad Begum](https://open.spotify.com/artist/0Ury0QIiBOlJmsdYUiCTfQ), [C\. Ramchandra](https://open.spotify.com/artist/4tuzg2QDbDF6ytPrszs4q1) | [Patanga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7yOI9YSpGl2vq5j7wV6kBV) | 4:25 | 2021-09-29 | 2023-02-22 |
 | [Mere Sapnon Ki Rani \(From "Aradhana"\)](https://open.spotify.com/track/3cWgUwwFeydGWc5vLjr5UC) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Krazy Kishore](https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx) | 5:00 | 2021-09-29 | 2023-02-22 |
 | [Na Jao Saiyan Chhuda Ke Baiyan](https://open.spotify.com/track/0ZuHdH0acs3EmaukBgzJQk) | [Geeta Dutt](https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO) | [Sahib Bibi Aur Ghulam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JtG7x9ZjQf6AZnOTsx0IQ) | 4:07 | 2021-09-29 | 2023-03-07 |
-| [Na Tum Hamen Jano \- Male Vocals](https://open.spotify.com/track/63duKTfcFc60adEHebFkD9) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Baat Ek Raat Ki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SMMj9xYoZSg6VpmQltOu1) | 3:21 | 2021-09-29 |  |
+| [Na Tum Hamen Jano](https://open.spotify.com/track/45DEAZR1wOR075Jgbf01b5) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Baarishein, Chai Aur Hemant Kumar](https://open.spotify.com/album/0Z4dnIU8RAr8hDEb8IKhko) | 3:21 | 2024-01-24 |  |
+| [Na Tum Hamen Jano \- Male Vocals](https://open.spotify.com/track/63duKTfcFc60adEHebFkD9) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Baat Ek Raat Ki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SMMj9xYoZSg6VpmQltOu1) | 3:21 | 2021-09-29 | 2024-02-11 |
 | [Nainon Mein Badra Chhaye \(From "Mera Saaya"\)](https://open.spotify.com/track/1qSRdYWUNNgsNq0B8eTCU6) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lag Ja Gale \- Best of Lata Mangeshkar and Madan Mohan](https://open.spotify.com/album/3KtIvdV7p791lZ2J5TSSow) | 3:33 | 2023-05-02 |  |
 | [Nindiya Se Jagi Bahar](https://open.spotify.com/track/0W7WqMBoEJLWJ46uZ0C08v) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Hero \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6yQsPqhpbIN49FGws6o2Dv) | 6:20 | 2023-05-02 | 2023-10-22 |
 | [Nindiya Se Jagi Bahar \(From "Hero"\)](https://open.spotify.com/track/2jdoLNzDogFP1Nzk8SKRIJ) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Rhythmical Duo Laxmikant \- Pyarelal](https://open.spotify.com/album/0oooRZxphPmlfhGjXSnitS) | 6:20 | 2023-10-10 |  |

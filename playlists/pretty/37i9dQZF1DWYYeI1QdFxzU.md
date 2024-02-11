@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,495 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,520 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 49 | [Everything \(feat\. Carmody\)](https://open.spotify.com/track/57YDcLOmB4sezbSAupAQuh) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp), [Carmody](https://open.spotify.com/artist/4wdK3zLMWPQK6CD0dpHh8F) | [Everything \(feat\. Carmody\)](https://open.spotify.com/album/25F05MXydPLvZLyWD2mG4V) | 3:29 |
 | 50 | [All Armed](https://open.spotify.com/track/4tA2fAzDdltaUtL0gtmvou) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Encores](https://open.spotify.com/album/5fHIn0grAPQdsjXe7KtSFj) | 11:39 |
 
-Snapshot ID: `MCxiOTUwOTAxMGUwYTFjMDVhM2FkZjRmYmExOTAyYmY5MTEyZWJiN2U1`
+Snapshot ID: `MCxmNmZhMDNkYzc2M2QyOGM0ZWY2YjFkMzdlYThlNTY2MjAwYzU1YTA0`

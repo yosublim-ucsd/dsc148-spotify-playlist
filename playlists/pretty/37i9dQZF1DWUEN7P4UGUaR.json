@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joyce Blessing ",
-  "num_followers": 8608,
+  "num_followers": 8619,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzQ1MjhiN2QzM2FkMTg0MmNlYjZlNWNiMzVlZmEzMTZjOGRkMzM0",
+  "snapshot_id": "MCxkYjdhZDU1MGNhYTkwMTY3MDBhMDA4ZDI4YTMxZDI4ZThhZjg4MjU5",
   "tracks": [
     {
       "added_at": "2024-02-08 16:31:21",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-02-08 16:31:21",
       "album": {
-        "name": "Guide Me",
-        "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
-      },
-      "artists": [
-        {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        }
-      ],
-      "duration_ms": 227258,
-      "name": "Guide Me",
-      "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
-    },
-    {
-      "added_at": "2024-02-08 16:31:21",
-      "album": {
         "name": "Ruach Hakodesh",
         "url": "https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 552000,
       "name": "Ruach Hakodesh",
       "url": "https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz"
+    },
+    {
+      "added_at": "2024-02-08 16:31:21",
+      "album": {
+        "name": "Guide Me",
+        "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        }
+      ],
+      "duration_ms": 227258,
+      "name": "Guide Me",
+      "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
     },
     {
       "added_at": "2024-02-08 16:31:21",
@@ -299,38 +299,6 @@
     {
       "added_at": "2024-02-08 16:31:21",
       "album": {
-        "name": "Hosanna (Live)",
-        "url": "https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8"
-      },
-      "artists": [
-        {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        }
-      ],
-      "duration_ms": 344862,
-      "name": "Hossana (Live)",
-      "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
-    },
-    {
-      "added_at": "2024-02-08 16:31:21",
-      "album": {
-        "name": "Victory Chant",
-        "url": "https://open.spotify.com/album/2DQxNMyBTK6uJ9hULpuMx1"
-      },
-      "artists": [
-        {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Victory Chant",
-      "url": "https://open.spotify.com/track/4ubQtD1YBCPCcM3swE129H"
-    },
-    {
-      "added_at": "2024-02-08 16:31:21",
-      "album": {
         "name": "Matwen 20",
         "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
       },
@@ -363,6 +331,22 @@
     {
       "added_at": "2024-02-08 16:31:21",
       "album": {
+        "name": "Hosanna (Live)",
+        "url": "https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        }
+      ],
+      "duration_ms": 344862,
+      "name": "Hossana (Live)",
+      "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
+    },
+    {
+      "added_at": "2024-02-08 16:31:21",
+      "album": {
         "name": "Okrokrohene",
         "url": "https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 366107,
       "name": "Okrokrohene",
       "url": "https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q"
+    },
+    {
+      "added_at": "2024-02-08 16:31:21",
+      "album": {
+        "name": "The Prodigal Son",
+        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 164396,
+      "name": "Chosen",
+      "url": "https://open.spotify.com/track/3D28L1BTQL3erWFIEamyBR"
     },
     {
       "added_at": "2024-02-08 16:31:21",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-02-08 16:31:21",
       "album": {
-        "name": "The Prodigal Son",
-        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
       },
       "artists": [
         {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
         }
       ],
-      "duration_ms": 164396,
-      "name": "Chosen",
-      "url": "https://open.spotify.com/track/3D28L1BTQL3erWFIEamyBR"
+      "duration_ms": 264788,
+      "name": "Awurade Ye",
+      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
     },
     {
       "added_at": "2024-02-08 16:31:21",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-02-08 16:31:21",
       "album": {
-        "name": "Lifted High",
-        "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
+        "name": "Live in Kumasi",
+        "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
       },
       "artists": [
         {
-          "name": "Kofi Karikari",
-          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
         }
       ],
-      "duration_ms": 203598,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa"
+      "duration_ms": 280000,
+      "name": "Nyame Tumfo (Live)",
+      "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
     },
     {
       "added_at": "2024-02-08 16:31:21",
@@ -475,34 +475,18 @@
     {
       "added_at": "2024-02-08 16:31:21",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
+        "name": "Lifted High",
+        "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
       },
       "artists": [
         {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+          "name": "Kofi Karikari",
+          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
         }
       ],
-      "duration_ms": 264788,
-      "name": "Awurade Ye",
-      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
-    },
-    {
-      "added_at": "2024-02-08 16:31:21",
-      "album": {
-        "name": "Live in Kumasi",
-        "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
-      },
-      "artists": [
-        {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Nyame Tumfo (Live)",
-      "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
+      "duration_ms": 203598,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa"
     },
     {
       "added_at": "2024-02-08 16:31:21",
@@ -527,22 +511,6 @@
     {
       "added_at": "2024-02-08 16:31:21",
       "album": {
-        "name": "The Prodigal Son",
-        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Man on a Mission",
-      "url": "https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL"
-    },
-    {
-      "added_at": "2024-02-08 16:31:21",
-      "album": {
         "name": "Golden Oil",
         "url": "https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm"
       },
@@ -555,6 +523,22 @@
       "duration_ms": 274599,
       "name": "Se Mekume Ho",
       "url": "https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH"
+    },
+    {
+      "added_at": "2024-02-08 16:31:21",
+      "album": {
+        "name": "The Prodigal Son",
+        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Man on a Mission",
+      "url": "https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL"
     },
     {
       "added_at": "2024-02-08 16:31:21",
@@ -643,6 +627,22 @@
     {
       "added_at": "2024-02-08 16:31:21",
       "album": {
+        "name": "Efiri Nyame",
+        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
+      },
+      "artists": [
+        {
+          "name": "Ceccy Twum",
+          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "Me Ko M'Anim",
+      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
+    },
+    {
+      "added_at": "2024-02-08 16:31:21",
+      "album": {
         "name": "Gye Wo Nkoaa",
         "url": "https://open.spotify.com/album/11X1SIyHGMDcVooFlbqIkv"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 267424,
       "name": "Okasa",
       "url": "https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc"
-    },
-    {
-      "added_at": "2024-02-08 16:31:21",
-      "album": {
-        "name": "Efiri Nyame",
-        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
-      },
-      "artists": [
-        {
-          "name": "Ceccy Twum",
-          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "Me Ko M'Anim",
-      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
     },
     {
       "added_at": "2024-02-08 16:31:21",
@@ -731,22 +715,6 @@
       "duration_ms": 513913,
       "name": "Onwanwani",
       "url": "https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3"
-    },
-    {
-      "added_at": "2024-02-08 16:31:21",
-      "album": {
-        "name": "Zamar Worship",
-        "url": "https://open.spotify.com/album/73FuSfnnWqkYFVQAS0fB3H"
-      },
-      "artists": [
-        {
-          "name": "Godee",
-          "url": "https://open.spotify.com/artist/53kO7BpR5sbrTFsz2SzqyB"
-        }
-      ],
-      "duration_ms": 751784,
-      "name": "Zamar Worship",
-      "url": "https://open.spotify.com/track/1VhRyTjflOVeTWCkpzWpRT"
     },
     {
       "added_at": "2024-02-08 16:31:21",
@@ -799,6 +767,22 @@
       "duration_ms": 518260,
       "name": "Mehyia Yesu",
       "url": "https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC"
+    },
+    {
+      "added_at": "2024-02-08 16:31:21",
+      "album": {
+        "name": "Zamar Worship",
+        "url": "https://open.spotify.com/album/73FuSfnnWqkYFVQAS0fB3H"
+      },
+      "artists": [
+        {
+          "name": "Godee",
+          "url": "https://open.spotify.com/artist/53kO7BpR5sbrTFsz2SzqyB"
+        }
+      ],
+      "duration_ms": 751784,
+      "name": "Zamar Worship",
+      "url": "https://open.spotify.com/track/1VhRyTjflOVeTWCkpzWpRT"
     },
     {
       "added_at": "2024-02-08 16:31:21",
@@ -871,6 +855,22 @@
       "duration_ms": 428307,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w"
+    },
+    {
+      "added_at": "2024-02-08 16:31:21",
+      "album": {
+        "name": "Testimony Therapy",
+        "url": "https://open.spotify.com/album/3Ke8XArGN62MmA4FYe2HH7"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        }
+      ],
+      "duration_ms": 219824,
+      "name": "Testimony - Acoustic",
+      "url": "https://open.spotify.com/track/1T2eUPRw51qAhPllM3Zgk7"
     }
   ],
   "unique_name": "Aseda",

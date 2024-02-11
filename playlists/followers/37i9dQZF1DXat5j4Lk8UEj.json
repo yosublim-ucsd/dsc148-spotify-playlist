@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 490534,
+  "2024-02-11": 490546,
   "date_first_scraped": "2021-12-21",
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
   "name": "Folk Rock Favorites",
@@ -421,6 +421,28 @@
       "duration_ms": 172324,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9"
+    },
+    {
+      "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/5jodqSew9785i4tEIRLase"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        },
+        {
+          "name": "James Mercer",
+          "url": "https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244773,
+      "name": "Burial Ground",
+      "url": "https://open.spotify.com/track/1Xzyo31tkXB53PaRnPziLR"
     },
     {
       "album": {
@@ -1509,7 +1531,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 197305,
       "name": "Hardlytown",
       "url": "https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6"
@@ -2079,6 +2101,24 @@
       "duration_ms": 200946,
       "name": "It Ain\u2019t Easy",
       "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
+    },
+    {
+      "album": {
+        "name": "It's Been a While",
+        "url": "https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246840,
+      "name": "It's Been a While",
+      "url": "https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t"
     },
     {
       "album": {
@@ -3621,7 +3661,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 284951,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/0Z68g80dKNa2Nrpa4Ir5yw"
@@ -4557,7 +4597,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 199413,
       "name": "Who Do You Think You're Talking To?",
       "url": "https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3"
@@ -4705,6 +4745,24 @@
       "duration_ms": 280573,
       "name": "Wired",
       "url": "https://open.spotify.com/track/4RjB5oKr2A1newpYSoweDd"
+    },
+    {
+      "album": {
+        "name": "Wish I Knew",
+        "url": "https://open.spotify.com/album/6yAdVVZIr56KZBUSNVHQsi"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192607,
+      "name": "Wish I Knew",
+      "url": "https://open.spotify.com/track/5Ey48y8f4IuIz80lclnkKT"
     },
     {
       "album": {

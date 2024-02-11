@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: NCT 127)",
-  "num_followers": 125114,
+  "num_followers": 125081,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmNkYTAxZDVhMjUxNGFhMThiMWI2NDhjN2I4Yjk1NGUxYTJhOGEx",
+  "snapshot_id": "MCxkYmE2ZTY2OWE3YTdhY2MwMjVhOTBmNmYzOTlhNWJlOWM0NjY0MmM0",
   "tracks": [
     {
       "added_at": "2024-01-08 08:05:07",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "MAD Winter Edition",
-        "url": "https://open.spotify.com/album/2CbU9JhqInjKPgsYdSAKAk"
-      },
-      "artists": [
-        {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
-        }
-      ],
-      "duration_ms": 212836,
-      "name": "Confession Song",
-      "url": "https://open.spotify.com/track/60uS4DyHMAdsNwJXn89C8R"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
         "name": "FIRST SNOW",
         "url": "https://open.spotify.com/album/7bCjHljEwZCOnIxd9ivIJK"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 195466,
       "name": "FIRST SNOW",
       "url": "https://open.spotify.com/track/2gAeC9cZY154LvRWhCck04"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "MAD Winter Edition",
+        "url": "https://open.spotify.com/album/2CbU9JhqInjKPgsYdSAKAk"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "duration_ms": 212836,
+      "name": "Confession Song",
+      "url": "https://open.spotify.com/track/60uS4DyHMAdsNwJXn89C8R"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "\uc138\uac00\uc9c0 \uc18c\uc6d0 Wish Tree - WINTER GARDEN",
-        "url": "https://open.spotify.com/album/69a7YNzhApHfLFwHvPkCso"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "\uc138\uac00\uc9c0 \uc18c\uc6d0 Wish Tree",
-      "url": "https://open.spotify.com/track/3wtDVPGUMTHgsVdpr9uYin"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
         "name": "Dear My Winter",
         "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 200933,
       "name": "Dear My Winter",
       "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "\uc138\uac00\uc9c0 \uc18c\uc6d0 Wish Tree - WINTER GARDEN",
+        "url": "https://open.spotify.com/album/69a7YNzhApHfLFwHvPkCso"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "\uc138\uac00\uc9c0 \uc18c\uc6d0 Wish Tree",
+      "url": "https://open.spotify.com/track/3wtDVPGUMTHgsVdpr9uYin"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
+        "name": "gr8",
+        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        }
+      ],
+      "duration_ms": 158468,
+      "name": "gr8",
+      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
         "name": "C9 Single Album '2022 C9 Christmas'",
         "url": "https://open.spotify.com/album/01q9YVreuTo2O0KrCgG9hr"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 207880,
       "name": "Merry Merry Christmas",
       "url": "https://open.spotify.com/track/4PrwSC5G3C9xZsmDBHV5FE"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
-        "name": "gr8",
-        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
-      },
-      "artists": [
-        {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
-        }
-      ],
-      "duration_ms": 158468,
-      "name": "gr8",
-      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
-        "url": "https://open.spotify.com/album/4a8IIN37HSD7SuDWuyNSs9"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 206439,
-      "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
-      "url": "https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
         "name": "FOCUS",
         "url": "https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 146962,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
+        "url": "https://open.spotify.com/album/4a8IIN37HSD7SuDWuyNSs9"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 206439,
+      "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
+      "url": "https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1571,42 +1571,6 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "2016 United Cube Project Part 1",
-        "url": "https://open.spotify.com/album/1AUL3Llf8BPOs385tPSVla"
-      },
-      "artists": [
-        {
-          "name": "HyunA",
-          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
-        },
-        {
-          "name": "ABLE",
-          "url": "https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV"
-        },
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        },
-        {
-          "name": "Roh Ji Hoon",
-          "url": "https://open.spotify.com/artist/1prPVJQczG7kTTKCHFE2Rw"
-        },
-        {
-          "name": "CLC",
-          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
-        },
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 228508,
-      "name": "Special Christmas",
-      "url": "https://open.spotify.com/track/4mu8VqXQ8RDTvKIm3tqrTw"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -1647,6 +1611,42 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
+        "name": "2016 United Cube Project Part 1",
+        "url": "https://open.spotify.com/album/1AUL3Llf8BPOs385tPSVla"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "ABLE",
+          "url": "https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV"
+        },
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        },
+        {
+          "name": "Roh Ji Hoon",
+          "url": "https://open.spotify.com/artist/1prPVJQczG7kTTKCHFE2Rw"
+        },
+        {
+          "name": "CLC",
+          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
+        },
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "duration_ms": 228508,
+      "name": "Special Christmas",
+      "url": "https://open.spotify.com/track/4mu8VqXQ8RDTvKIm3tqrTw"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
         "name": "I LOVE WINTER",
         "url": "https://open.spotify.com/album/3ExsqNiurr9UsQcuK1xG7k"
       },
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 269012,
+      "name": "Save Our Christmas",
+      "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
         "name": "Letters to Santa",
         "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
       },
@@ -1695,18 +1711,18 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
+        "name": "Will You Be My Home",
+        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
       },
       "artists": [
         {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         }
       ],
-      "duration_ms": 269012,
-      "name": "Save Our Christmas",
-      "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
+      "duration_ms": 210653,
+      "name": "Will You Be My Home",
+      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1727,22 +1743,6 @@
       "duration_ms": 170232,
       "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve (prod. Minit)",
       "url": "https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
-        "name": "Will You Be My Home",
-        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
-      },
-      "artists": [
-        {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "Will You Be My Home",
-      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
     },
     {
       "added_at": "2024-01-08 08:05:07",

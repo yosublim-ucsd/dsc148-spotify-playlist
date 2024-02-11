@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 64637,
+  "2024-02-11": 64655,
   "date_first_scraped": "2022-05-30",
   "description": "Tune into the finest of Tamil Indie music!\nCover : Ashwin Vinayagamoorthy",
   "name": "Tamil Indie",
@@ -3771,7 +3771,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 295455,
       "name": "Kalavani Kalavani",
       "url": "https://open.spotify.com/track/0z0hZnNZGwwgaml2wRO0Sk"
@@ -5053,7 +5053,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 161162,
       "name": "Manadhooram",
       "url": "https://open.spotify.com/track/6Zcz4HJ0b6f3t1iDaA3Erg"
@@ -8726,6 +8726,32 @@
     },
     {
       "album": {
+        "name": "Sempakame Senthamizhe",
+        "url": "https://open.spotify.com/album/5XWDuBAmcsNI4ypIQI71sB"
+      },
+      "artists": [
+        {
+          "name": "Govind Padmasoorya",
+          "url": "https://open.spotify.com/artist/7nraINNdmtvgbuyK7VcT07"
+        },
+        {
+          "name": "Sreenanda Sreekumar",
+          "url": "https://open.spotify.com/artist/5UyfRGmsSp7z7rO7TbFvWH"
+        },
+        {
+          "name": "Anooj Babu",
+          "url": "https://open.spotify.com/artist/5fT6CTXGDBgdzabq5MT7jz"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201946,
+      "name": "Sempakame Senthamizhe",
+      "url": "https://open.spotify.com/track/2oYRRmUs4BsapjrHdj6AYo"
+    },
+    {
+      "album": {
         "name": "Serithaana",
         "url": "https://open.spotify.com/album/3qUobbcOQKOPuzJBOiSGF6"
       },
@@ -10705,6 +10731,24 @@
       "duration_ms": 208695,
       "name": "What A Vadivu",
       "url": "https://open.spotify.com/track/5C6vxne9RiZSnIDP25rrqg"
+    },
+    {
+      "album": {
+        "name": "Why Penne",
+        "url": "https://open.spotify.com/album/2bccNae2mooe12VEbnh8hN"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sathu",
+          "url": "https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166242,
+      "name": "Why Penne",
+      "url": "https://open.spotify.com/track/1n6M3gie50BzLiCbvCnZoq"
     },
     {
       "album": {

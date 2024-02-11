@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,837 likes - 76 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,883 likes - 76 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Katchi Sera \- From "Think Indie"](https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Katchi Sera \(From "Think Indie"\)](https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F) | 3:01 |
 | 2 | [Pen Nilave](https://open.spotify.com/track/3AruoZeeOUr0cdtDz2pwuq) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Pen Nilave](https://open.spotify.com/album/1RtPUHI8LICX4dPGnuYG9l) | 3:18 |
-| 3 | [Idhai Yaar Solvaaro](https://open.spotify.com/track/4OfLGsdYdU2MgWAXyErZ2A) | [KENEESHAA](https://open.spotify.com/artist/4zZsaegDxBfhj2UbGqDIDe), [Stony Psycho](https://open.spotify.com/artist/2HvAr9I27Wz9PFOjRkq5xR) | [Idhai Yaar Solvaaro](https://open.spotify.com/album/2RxNgx7KUCHj5o3c1f0luA) | 3:37 |
+| 3 | [Idhai Yaar Solvaaro](https://open.spotify.com/track/4OfLGsdYdU2MgWAXyErZ2A) | [KENEESHAA](https://open.spotify.com/artist/4zZsaegDxBfhj2UbGqDIDe), [Stony Psyko](https://open.spotify.com/artist/39cUrSwXh9awPD0itfevhV) | [Idhai Yaar Solvaaro](https://open.spotify.com/album/2RxNgx7KUCHj5o3c1f0luA) | 3:37 |
 | 4 | [Un Vaarthai](https://open.spotify.com/track/0kcdwX7FLkKvfASTff9fyV) | [Prezanthi Shanmugavel](https://open.spotify.com/artist/3g7Jy7DBhczGb5HF5M8PKY), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Un Vaarthai](https://open.spotify.com/album/4biQlvQx4Fwb36eqK1Ge4F) | 2:13 |
 | 5 | [Puriya Vei](https://open.spotify.com/track/3FB7rvufG8aW4bDkEUMbx3) | [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [Puriya Vei](https://open.spotify.com/album/2uyiv7xioQOp84vEqlJNqs) | 2:06 |
 | 6 | [Show Time](https://open.spotify.com/track/3gLDF0FVNVcFQojbLdyFJs) | [Mrs Go](https://open.spotify.com/artist/1RRxqiZw0jqxLjQSUx4lZT), [Debbie Pari](https://open.spotify.com/artist/5EaGIUUHZvkivRGvlWkfpr), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [Show Time](https://open.spotify.com/album/0AjLHcwTPKpJRTChf9uazw) | 4:16 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 75 | [Kaatru Veesum Iravu](https://open.spotify.com/track/2N1mLYWZk93Tq9GnOCaHrU) | [Vijay Krishna](https://open.spotify.com/artist/5lEkeVdPIfR5GuqtfhpfyW), [Barath Veeraraghavan](https://open.spotify.com/artist/4ETiJc9RAbA86dY1xqbCcS) | [Kaatru Veesum Iravu](https://open.spotify.com/album/0cM7hKlToZ3bIYtKCU47xr) | 4:03 |
 | 76 | [Gang Hood](https://open.spotify.com/track/7D0R0Uvg629nn7oejhsMR2) | [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G), [Ice Roy](https://open.spotify.com/artist/6DQkxcm0dnMxOHybgePB7r), [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf) | [Gang Hood](https://open.spotify.com/album/36airy06GYpsfs4FStuLDI) | 3:00 |
 
-Snapshot ID: `MCw5ZmRkYWEyNzYzNDI0ZDU3YmI0NGMwYjZmM2RhY2Y5OTZlMjlkNGQ4`
+Snapshot ID: `MCwwMWM1MmM0ZmIyMzYwYTBiMzA3OTMyYzNkNzc0ZjllYTBkMjFiZWUz`

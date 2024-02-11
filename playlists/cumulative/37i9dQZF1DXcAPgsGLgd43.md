@@ -4,7 +4,7 @@
 
 > Introducing Alma — a soul born from Latin and house music.
 
-174 songs - 9 hr 38 min
+175 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Can't Have It](https://open.spotify.com/track/1TwJ9U24E9WtfUngEpadMf) | [SWAYLÓ](https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv) | [Can't Have It](https://open.spotify.com/album/65EAWbqxyp9658YllENyER) | 3:50 | 2021-10-08 | 2022-11-13 |
 | [Candela \- Original Mix](https://open.spotify.com/track/6bBOQ5FirB6p9FuIfRKHss) | [Simon Miceli](https://open.spotify.com/artist/7b7l6CspiIMoXFKY8MRGgv) | [Candela](https://open.spotify.com/album/73mhxwF0L5xnccgIWImNJZ) | 3:32 | 2023-11-17 |  |
 | [Canutito](https://open.spotify.com/track/2nHgZpG5MI2AmY83SnPEys) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Canutito](https://open.spotify.com/album/4g3RxEavuwvedsrhW1hevG) | 3:26 | 2023-12-15 |  |
-| [Carioca](https://open.spotify.com/track/3INCMRvvxcLpK5gdOqDBc1) | [Luca Rezza](https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Carioca](https://open.spotify.com/album/0agmk71GDKNKmghePG5gwJ) | 2:16 | 2023-11-10 |  |
+| [Carioca](https://open.spotify.com/track/3INCMRvvxcLpK5gdOqDBc1) | [Luca Rezza](https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Carioca](https://open.spotify.com/album/0agmk71GDKNKmghePG5gwJ) | 2:16 | 2023-11-10 | 2024-02-11 |
 | [CARNET \- Cloonee Remix](https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [CARNET \(Cloonee Remix\)](https://open.spotify.com/album/5gaFlogR1ipqBuLBKlDw3E) | 3:45 | 2024-01-26 |  |
 | [Catuca](https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Catuca](https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP) | 6:38 | 2023-12-01 |  |
 | [Chakachaka](https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Chakachaka](https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv) | 2:40 | 2023-11-10 |  |
@@ -98,6 +98,7 @@
 | [La Pasion](https://open.spotify.com/track/0jqLx0dV6PbjQ4iOsl7uYP) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [La Pasion](https://open.spotify.com/album/0XyRmtkGBQDBBFRtWFkECW) | 3:07 | 2021-10-08 | 2022-07-29 |
 | [La Pasion](https://open.spotify.com/track/5xRKvc3MJfOYh9M1E9Fnid) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [La Pasion](https://open.spotify.com/album/7t00C3OJQH7o8H4LOzseCb) | 3:07 | 2021-10-08 | 2023-11-11 |
 | [La Petronita](https://open.spotify.com/track/5w0OSwh9MmgIipn79aIz3R) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [La Petronita](https://open.spotify.com/album/5DABOax69Bnhi7H89iVM8a) | 3:23 | 2021-10-08 | 2023-09-22 |
+| [La Pista Es Mía \- Rony Seikaly Remix](https://open.spotify.com/track/5JDErC4ioBUoeVdFsslA94) | [Miguelle & Tons](https://open.spotify.com/artist/1U7nDI6jydkqHWaOtUdlkx), [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0), [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB) | [La Pista Es Mía](https://open.spotify.com/album/5uuTO37yWyGsXYEF6ZvqHp) | 6:55 | 2024-02-09 |  |
 | [La Remontada \(feat\. Totó La Momposina\)](https://open.spotify.com/track/1hllxtk5yhDY9PJF42iYGn) | [Michael Mendoza](https://open.spotify.com/artist/6BIhlaTDQjE12D2xHCxTZ2), [Steve Andreas](https://open.spotify.com/artist/5cgrJ6S2UcstdytAs5PQz6), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Remontada \(feat\. Totó La Momposina\)](https://open.spotify.com/album/6BFacrgHy3c6n1JJYDT0UH) | 2:52 | 2021-10-08 | 2023-11-11 |
 | [La Vida](https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [La Vida](https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg) | 3:15 | 2021-10-15 | 2023-11-11 |
 | [Labios \(La Noche\)](https://open.spotify.com/track/7IXMuwxUl31NmFfisypx7d) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Labios \(La Noche\)](https://open.spotify.com/album/3X8HllC0xAvaYMJ1TevzXG) | 2:41 | 2023-11-10 |  |

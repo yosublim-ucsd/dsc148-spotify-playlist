@@ -1,7 +1,7 @@
 {
-  "2024-02-10": 916368,
+  "2024-02-11": 916603,
   "date_first_scraped": "2021-12-21",
-  "description": "Metalcore at its finest. Cover: Polaris",
+  "description": "Metalcore at its finest. Cover: Alpha Wolf + ICE-T",
   "name": "The Core",
   "tracks": [
     {
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 217308,
       "name": "ANTAGONIST RETURNS",
       "url": "https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm"
@@ -1298,6 +1298,24 @@
     },
     {
       "album": {
+        "name": "backfire",
+        "url": "https://open.spotify.com/album/2KqvKZtVLgLolUw2AMMWB6"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120064,
+      "name": "backfire",
+      "url": "https://open.spotify.com/track/2Tt5CzJzz53tVCicnDwh2a"
+    },
+    {
+      "album": {
         "name": "Stand Defiant",
         "url": "https://open.spotify.com/album/7vA92vIHNCcJHyl4SY4sZc"
       },
@@ -1309,7 +1327,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 219638,
       "name": "Backs Against The Wall",
       "url": "https://open.spotify.com/track/6NYw02xyrpx1a1IrojCTjv"
@@ -1389,6 +1407,32 @@
       "duration_ms": 190530,
       "name": "Banshee",
       "url": "https://open.spotify.com/track/5zCf7x1mTeCOf4Uzxw2WWm"
+    },
+    {
+      "album": {
+        "name": "Barely Breathing (feat. Against The Current)",
+        "url": "https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        },
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        },
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "Barely Breathing (feat. Against The Current)",
+      "url": "https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE"
     },
     {
       "album": {
@@ -1667,6 +1711,28 @@
       "duration_ms": 199281,
       "name": "Better",
       "url": "https://open.spotify.com/track/1CNQI6EQwjJJi48OoMa8gw"
+    },
+    {
+      "album": {
+        "name": "Better Before",
+        "url": "https://open.spotify.com/album/7zIzmDLpew0751nFNaJnEV"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Better Before",
+      "url": "https://open.spotify.com/track/0VGj4p37gFb8UJNOGtpT13"
     },
     {
       "album": {
@@ -2319,7 +2385,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 130716,
       "name": "Bring Back The Noise",
       "url": "https://open.spotify.com/track/0yr5ueBWdLrLj7fGQArbnd"
@@ -2825,7 +2891,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 165303,
       "name": "CODE MISTAKE",
       "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
@@ -3100,6 +3166,24 @@
     },
     {
       "album": {
+        "name": "Cure",
+        "url": "https://open.spotify.com/album/6Ab9ahxlOgEur1mr1EpZH0"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225999,
+      "name": "Cure",
+      "url": "https://open.spotify.com/track/5zV1FnszuSKBo7EdUEQx3G"
+    },
+    {
+      "album": {
         "name": "Cursed",
         "url": "https://open.spotify.com/album/26qjo1q0NJ4y6lPnK9LGpI"
       },
@@ -3231,7 +3315,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 195133,
       "name": "D4MAGE DONE",
       "url": "https://open.spotify.com/track/7BnK1opiLlkxkBQ0TVKRYw"
@@ -3637,7 +3721,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 326835,
       "name": "Death by a Thousand Cuts",
       "url": "https://open.spotify.com/track/2QxuWBmDx8EJmSyyj1BzXv"
@@ -4283,7 +4367,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 190773,
       "name": "Doubt Me",
       "url": "https://open.spotify.com/track/2eagADnpxQacZXpQxlZ8n3"
@@ -4561,7 +4645,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 186333,
       "name": "Earn It",
       "url": "https://open.spotify.com/track/1dEDi8paa8WJCnt42Rkb8W"
@@ -4619,6 +4703,24 @@
       "duration_ms": 229819,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/0LrweVkIjYuXjtJYS8vaL4"
+    },
+    {
+      "album": {
+        "name": "Easily Erased",
+        "url": "https://open.spotify.com/album/5f068VFTZ649WSYKaXCUwQ"
+      },
+      "artists": [
+        {
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197161,
+      "name": "Easily Erased",
+      "url": "https://open.spotify.com/track/3a4hyzZpwzXclpN65pcLbP"
     },
     {
       "album": {
@@ -4749,6 +4851,24 @@
       "duration_ms": 240823,
       "name": "End Of Existence",
       "url": "https://open.spotify.com/track/07L1zD6CCZTaYKnbJn7O2q"
+    },
+    {
+      "album": {
+        "name": "Endless Hollow",
+        "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
+      },
+      "artists": [
+        {
+          "name": "Oceans Ate Alaska",
+          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "Endless Hollow",
+      "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
     },
     {
       "album": {
@@ -4901,6 +5021,24 @@
       "duration_ms": 222631,
       "name": "Everything but Faith",
       "url": "https://open.spotify.com/track/4ADgspuZLhlsiAijC9oDAR"
+    },
+    {
+      "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/7mrWYcglvi7cBGgebyJCY7"
+      },
+      "artists": [
+        {
+          "name": "If Not For Me",
+          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211846,
+      "name": "Everything You Wanted",
+      "url": "https://open.spotify.com/track/3BrT8IC9flGHw78gzPLifE"
     },
     {
       "album": {
@@ -5183,6 +5321,24 @@
       "duration_ms": 284173,
       "name": "Far from Heaven",
       "url": "https://open.spotify.com/track/2KQBhix4n2X6ZYF5L3yvX5"
+    },
+    {
+      "album": {
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/3rjMJ2WhDsDeZtGRDVf5gl"
+      },
+      "artists": [
+        {
+          "name": "Our Mirage",
+          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224347,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/2edDAzLyy0m1Yt7LWRad2e"
     },
     {
       "album": {
@@ -5660,6 +5816,24 @@
     },
     {
       "album": {
+        "name": "Fractured State Of Mind",
+        "url": "https://open.spotify.com/album/0HHsbTFhkLLocRvKsbs8zR"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224453,
+      "name": "Fractured State of Mind",
+      "url": "https://open.spotify.com/track/14cHOXg4CKdHdnX91mptNz"
+    },
+    {
+      "album": {
         "name": "From Nothing",
         "url": "https://open.spotify.com/album/04W2vQDW2m6KlJ0oFgudUz"
       },
@@ -5769,6 +5943,24 @@
       "duration_ms": 180000,
       "name": "Fuckin' Up",
       "url": "https://open.spotify.com/track/774PuvXYcdfGrw9mFrl27q"
+    },
+    {
+      "album": {
+        "name": "Future Proof",
+        "url": "https://open.spotify.com/album/2HOmKYLYnlz7SYVGDe8EUd"
+      },
+      "artists": [
+        {
+          "name": "Many Eyes",
+          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210973,
+      "name": "Future Proof",
+      "url": "https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3"
     },
     {
       "album": {
@@ -6431,7 +6623,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 247473,
       "name": "Heaven Shall Burn",
       "url": "https://open.spotify.com/track/0C8mZZLRaf2X8MKCVkbMbC"
@@ -6792,6 +6984,24 @@
     },
     {
       "album": {
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/1MqezT0MiTKKIsysfrYT8C"
+      },
+      "artists": [
+        {
+          "name": "Awaken I Am",
+          "url": "https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239934,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/5hV45IS5XiCf1HPhmss5wu"
+    },
+    {
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/5rj9JShh87F4I0rRDMisky"
       },
@@ -6875,10 +7085,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 237739,
       "name": "I Found The Dark Side of Heaven",
       "url": "https://open.spotify.com/track/2gOT76GIAA7tnrxgunCAZk"
+    },
+    {
+      "album": {
+        "name": "I Hope You Choke",
+        "url": "https://open.spotify.com/album/2cHzgepoOGSgCETJzyXPb6"
+      },
+      "artists": [
+        {
+          "name": "Harper",
+          "url": "https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207660,
+      "name": "I Hope You Choke",
+      "url": "https://open.spotify.com/track/5tzQBDvosYbVemX5GLFkmB"
     },
     {
       "album": {
@@ -6919,6 +7147,24 @@
       "duration_ms": 216579,
       "name": "I See Dead People",
       "url": "https://open.spotify.com/track/3UgZA53hNSPbwtNJ7x8Bd9"
+    },
+    {
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198521,
+      "name": "I Was Alive",
+      "url": "https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX"
     },
     {
       "album": {
@@ -8118,6 +8364,24 @@
     },
     {
       "album": {
+        "name": "Lockdown",
+        "url": "https://open.spotify.com/album/0S1HfNJJZeAQfLywooIxpT"
+      },
+      "artists": [
+        {
+          "name": "Defects",
+          "url": "https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221746,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/1sRlEiwjCS0swVrNVnPNd0"
+    },
+    {
+      "album": {
         "name": "Lonewolf",
         "url": "https://open.spotify.com/album/3tJkL5SWXHgmqyRcXhPR3n"
       },
@@ -8914,6 +9178,28 @@
     },
     {
       "album": {
+        "name": "DIGITAL PARANOIA 2052",
+        "url": "https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO"
+      },
+      "artists": [
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        },
+        {
+          "name": "Thousand Below",
+          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252136,
+      "name": "mutant.",
+      "url": "https://open.spotify.com/track/5tekqsI1eoUxmiX5OCPQ8O"
+    },
+    {
+      "album": {
         "name": "My Demon",
         "url": "https://open.spotify.com/album/0HY8gcdCCNbZnM5cQKnnJH"
       },
@@ -8997,7 +9283,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 181400,
       "name": "Mystic Cord",
       "url": "https://open.spotify.com/track/2gO2rwntCs0InXql4AOQTV"
@@ -9217,7 +9503,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 187835,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73"
@@ -9437,6 +9723,28 @@
       "duration_ms": 213733,
       "name": "No One's Above",
       "url": "https://open.spotify.com/track/1tL1eSbnVwjhttYr8ixETm"
+    },
+    {
+      "album": {
+        "name": "No Place",
+        "url": "https://open.spotify.com/album/1yeVyimts1V78yYwxLyyPt"
+      },
+      "artists": [
+        {
+          "name": "Patient Sixty-Seven",
+          "url": "https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226906,
+      "name": "No Place",
+      "url": "https://open.spotify.com/track/7KtrNVhBwDTyjXmajuy2CM"
     },
     {
       "album": {
@@ -9926,6 +10234,24 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/5K889aEPnh7CwnPoNIjepu"
+      },
+      "artists": [
+        {
+          "name": "Normandie",
+          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146663,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/3txPM4gTomDS4W74QjQJGb"
+    },
+    {
+      "album": {
         "name": "Overlord",
         "url": "https://open.spotify.com/album/4IYXhSQyH18f8kceUIHn9m"
       },
@@ -10045,7 +10371,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 263360,
       "name": "Pale Iris",
       "url": "https://open.spotify.com/track/5c3CJeTQO5oZqKdKRAqkg3"
@@ -10124,6 +10450,24 @@
     },
     {
       "album": {
+        "name": "Paradigm Trigger / Angels Weep",
+        "url": "https://open.spotify.com/album/1yESM99I8dgP2XBl6gTDkZ"
+      },
+      "artists": [
+        {
+          "name": "Like Moths To Flames",
+          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201696,
+      "name": "Paradigm Trigger",
+      "url": "https://open.spotify.com/track/5sHywETRouJFGWns4QKKlp"
+    },
+    {
+      "album": {
         "name": "Parasite",
         "url": "https://open.spotify.com/album/0Tr8yRpp0crtdCltwINpYP"
       },
@@ -10165,7 +10509,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 212802,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/0sBXPxWJpMlQBnVF2y78Rg"
@@ -11173,6 +11517,24 @@
       "duration_ms": 286735,
       "name": "Rot With Me",
       "url": "https://open.spotify.com/track/19yntuiQGoYkKvhPTEPDf1"
+    },
+    {
+      "album": {
+        "name": "DEATH 2",
+        "url": "https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ"
+      },
+      "artists": [
+        {
+          "name": "Banks Arcade",
+          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9"
     },
     {
       "album": {
@@ -12273,6 +12635,28 @@
       "duration_ms": 222187,
       "name": "Subsistence",
       "url": "https://open.spotify.com/track/6ifbaBmTWX9cjzuq9qGELQ"
+    },
+    {
+      "album": {
+        "name": "Sucks 2 Suck",
+        "url": "https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w"
+      },
+      "artists": [
+        {
+          "name": "Alpha Wolf",
+          "url": "https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc"
+        },
+        {
+          "name": "ICE-T",
+          "url": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233092,
+      "name": "Sucks 2 Suck",
+      "url": "https://open.spotify.com/track/256sFTOD01wutUbC7omH17"
     },
     {
       "album": {
@@ -13832,6 +14216,24 @@
     },
     {
       "album": {
+        "name": "Trying to Survive",
+        "url": "https://open.spotify.com/album/6Qzmtxrs3z6qrNBP6pBwZ2"
+      },
+      "artists": [
+        {
+          "name": "Alleviate",
+          "url": "https://open.spotify.com/artist/5dfB8okcJRsAoU0zlylZrm"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193424,
+      "name": "Trying to Survive",
+      "url": "https://open.spotify.com/track/0h5uhIvjec46Ggg8WOJCYQ"
+    },
+    {
+      "album": {
         "name": "Untitled",
         "url": "https://open.spotify.com/album/4tModRmtwGx1rjRVbfrhCz"
       },
@@ -14497,6 +14899,24 @@
       "duration_ms": 208000,
       "name": "Warpaint",
       "url": "https://open.spotify.com/track/0GzWj8bo5qMuBplDjOdLxH"
+    },
+    {
+      "album": {
+        "name": "Wash It Away",
+        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214710,
+      "name": "Wash It Away",
+      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
     },
     {
       "album": {

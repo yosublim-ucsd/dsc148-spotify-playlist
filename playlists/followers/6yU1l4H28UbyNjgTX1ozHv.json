@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 9093,
+  "2024-02-11": 9092,
   "date_first_scraped": "2022-06-10",
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
   "name": "Acoustic Driving Songs",
@@ -743,7 +743,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 176287,
       "name": "Dreams - Acoustic",
       "url": "https://open.spotify.com/track/7yR5WMFuIBqq3hHTWs1j3B"
@@ -930,6 +930,24 @@
     },
     {
       "album": {
+        "name": "For Once in My Life (Acoustic)",
+        "url": "https://open.spotify.com/album/0GcFzXpmOAoP8NsdcExPti"
+      },
+      "artists": [
+        {
+          "name": "Amber Leigh Irish",
+          "url": "https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162640,
+      "name": "For Once in My Life - Acoustic",
+      "url": "https://open.spotify.com/track/6x4DcYo8cg6HPwPORgMeWF"
+    },
+    {
+      "album": {
         "name": "Freedom (Acoustic)",
         "url": "https://open.spotify.com/album/1UvTMIIkqpPW96X0QmyaiN"
       },
@@ -1079,6 +1097,24 @@
       "duration_ms": 249535,
       "name": "Grenade - Acoustic",
       "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
+    },
+    {
+      "album": {
+        "name": "Halo (Acoustic)",
+        "url": "https://open.spotify.com/album/4l2YP0vLmML7jh34CvRzGn"
+      },
+      "artists": [
+        {
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204175,
+      "name": "Halo - Acoustic",
+      "url": "https://open.spotify.com/track/4TOYAE8zIoTnPGbgLiErwq"
     },
     {
       "album": {
@@ -1516,6 +1552,24 @@
     },
     {
       "album": {
+        "name": "I'd Do Anything for Love (But I Won't Do That) [Acoustic]",
+        "url": "https://open.spotify.com/album/3DQV1dLirs2pkNxp9brWjY"
+      },
+      "artists": [
+        {
+          "name": "Mateo Oxley",
+          "url": "https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178213,
+      "name": "I'd Do Anything for Love (But I Won't Do That) - Acoustic",
+      "url": "https://open.spotify.com/track/7n4gOElu13vwVqhmvTXgZR"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
       },
@@ -1567,7 +1621,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 148264,
       "name": "I'm Still Standing - Acoustic",
       "url": "https://open.spotify.com/track/58qyn3EztQitvZIOhE8u66"
@@ -2025,7 +2079,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 176346,
       "name": "Lovely Day - Acoustic",
       "url": "https://open.spotify.com/track/4EbymPiRoHnMoTmo23X9qK"
@@ -2653,7 +2707,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 165932,
       "name": "Save the Best for Last - Acoustic",
       "url": "https://open.spotify.com/track/2ZWFn3j8hz50G6bigMOLqj"
@@ -3068,6 +3122,24 @@
     },
     {
       "album": {
+        "name": "Thinking of You (Acoustic)",
+        "url": "https://open.spotify.com/album/1sTKlckv9fzXJxFfeB2bfm"
+      },
+      "artists": [
+        {
+          "name": "Franklyn Jay",
+          "url": "https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189815,
+      "name": "Thinking of You - Acoustic",
+      "url": "https://open.spotify.com/track/6tbmtGWZH2guWw6sbePI7i"
+    },
+    {
+      "album": {
         "name": "This Will Be (An Everlasting Love) [Acoustic]",
         "url": "https://open.spotify.com/album/4IVsduaa3eklnbjrxehKvp"
       },
@@ -3199,6 +3271,24 @@
       "duration_ms": 186687,
       "name": "True Colours - Acoustic",
       "url": "https://open.spotify.com/track/5Yx9ReP3EazFEfqrPAwIos"
+    },
+    {
+      "album": {
+        "name": "Unchained Melody (Acoustic)",
+        "url": "https://open.spotify.com/album/4dZF6uoT6U3OPIB23hh79S"
+      },
+      "artists": [
+        {
+          "name": "Allie Sherlock",
+          "url": "https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235977,
+      "name": "Unchained Melody - Acoustic",
+      "url": "https://open.spotify.com/track/3LfAycjUKSLw3mCzMXCpO1"
     },
     {
       "album": {

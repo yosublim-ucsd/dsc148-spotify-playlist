@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 300785,
+  "num_followers": 300803,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzU3OTJlOGMxODM1MDA3YWQyMDA5YTU1ODMyOTMzYWVmN2Q1ODZh",
+  "snapshot_id": "MCxlYjdhOGJiN2Y3NzkyYjc3NWI4YjNhNDA2YjU5YzI2ZmQ1ODFkNjc5",
   "tracks": [
     {
       "added_at": "2023-10-01 21:11:39",
@@ -364,8 +364,8 @@
       },
       "artists": [
         {
-          "name": "MGK",
-          "url": "https://open.spotify.com/artist/0jn47ZZH4HhX8JIGJUWSr0"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         },
         {
           "name": "Kid Rock",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Remember That You Will Die",
-        "url": "https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw"
-      },
-      "artists": [
-        {
-          "name": "Polyphia",
-          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
-        },
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 151318,
-      "name": "Fuck Around and Find Out (feat. $NOT)",
-      "url": "https://open.spotify.com/track/4d0ySS7ajnuH4FFPaf3EQK"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
         "name": "Built From Scratch",
         "url": "https://open.spotify.com/album/5kBmiH0tgepv6N0PROaEXv"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 248266,
       "name": "It's Goin' Down (feat. Mike Shinoda & Mr. Hahn)",
       "url": "https://open.spotify.com/track/7qFEFcjmSAtODGtLYqraCq"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "Remember That You Will Die",
+        "url": "https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 151318,
+      "name": "Fuck Around and Find Out (feat. $NOT)",
+      "url": "https://open.spotify.com/track/4d0ySS7ajnuH4FFPaf3EQK"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -1167,26 +1167,18 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Pegasus: Neon Shark vs Pegasus Presented By Travis Barker (Deluxe)",
-        "url": "https://open.spotify.com/album/4lLmkRmIW3GIb6UKjcqrDv"
+        "name": "King Of Rock (Expanded Edition)",
+        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        },
-        {
-          "name": "Chino Moreno",
-          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
         }
       ],
-      "duration_ms": 179201,
-      "name": "GERONIMO",
-      "url": "https://open.spotify.com/track/3fS7dRJWxgz1SCZJPXsymv"
+      "duration_ms": 314146,
+      "name": "King of Rock",
+      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
     }
   ],
   "unique_name": "Rap 'n' Roll",

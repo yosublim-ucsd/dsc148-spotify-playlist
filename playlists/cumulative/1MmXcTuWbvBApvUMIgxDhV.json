@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "Better Woman",
+        "url": "https://open.spotify.com/album/4sXdCuAvMKF9GNW9AhedLJ"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192207,
+      "name": "Better Woman",
+      "url": "https://open.spotify.com/track/46aDMK7hAAAlN5FJPRwJVV"
+    },
+    {
+      "album": {
         "name": "Who Knew It Would Be So Hard to Be Myself",
         "url": "https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh"
       },

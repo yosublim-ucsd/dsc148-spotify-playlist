@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: Zerb, Sofiya Nzau
 
-195 songs - 13 hr 1 min
+196 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [W Maak](https://open.spotify.com/track/2x4A8I4dHDoilUNfkcCT3V) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 9 \(Hassa Beek\)](https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz) | 3:41 | 2022-03-30 | 2022-11-26 |
 | [Wadina Baeid \(Bonus Track\)](https://open.spotify.com/track/16FIBzbTBwPvO35SFTG4ql) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 4:09 | 2022-09-12 | 2023-07-04 |
 | [Wake Me Up In Paris](https://open.spotify.com/track/4dq7XLDmFHNwc1yqL339qT) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [Wake Me Up In Paris](https://open.spotify.com/album/6TiAOruZ9SPA5FLsD7ACsN) | 2:16 | 2023-08-16 |  |
+| [Wala Ala Balo \( 2024 EDIT \)](https://open.spotify.com/track/58iXtKE26rsmRVVNp9nZzU) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Wala Ala Balo \( 2024 EDIT \)](https://open.spotify.com/album/10LnKFvEK65gpfLW7MxWya) | 2:31 | 2024-02-10 |  |
 | [Wala Ala Balo Edit](https://open.spotify.com/track/3YV7ImEdD2moA9ZALYFbu1) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Misty](https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6) | [Wala Ala Balo Edit](https://open.spotify.com/album/6HqYQvHSW2qBqk7jcwhFuW) | 6:17 | 2023-12-01 | 2024-01-27 |
 | [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 | 2023-11-17 |  |
 | [Waves & Wavs](https://open.spotify.com/track/1D7PE3dDyonJfUP6oSuaq7) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Anchor Point EP](https://open.spotify.com/album/1WmE8DAfRSq16Qre7SEV1V) | 5:28 | 2023-06-23 | 2023-08-17 |

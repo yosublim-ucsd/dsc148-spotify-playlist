@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > You can dance or chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,688 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,704 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 29 | [Sunlight](https://open.spotify.com/track/595M3e9mqepEd19NGVEABi) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sunlight](https://open.spotify.com/album/2P0ApHEYZEpv1qa6hzI7bM) | 3:49 |
 | 30 | [Holy](https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Holy](https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK) | 2:28 |
 | 31 | [That Kinda Love](https://open.spotify.com/track/1Mpo8ZIbEYMVQYZeEHlF15) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [JIMINI](https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn) | [That Kinda Love](https://open.spotify.com/album/55CLCdTPdK4EhfeHqeZ5Zc) | 2:44 |
-| 32 | [Here](https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Here](https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj) | 3:12 |
-| 33 | [Apologize](https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Apologize](https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR) | 2:39 |
+| 32 | [Apologize](https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Apologize](https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR) | 2:39 |
+| 33 | [Here](https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Here](https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj) | 3:12 |
 | 34 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 |
 | 35 | [I Blame You](https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [I Blame You](https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb) | 2:12 |
 | 36 | [Thousand Lullabies](https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [Thousand Lullabies](https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU) | 2:09 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 74 | [Afterglow](https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Afterglow](https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG) | 2:32 |
 | 75 | [My Darling](https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG) | [Junerule](https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y) | [My Darling](https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq) | 2:54 |
 | 76 | [Summer Stars](https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Summer Stars](https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3) | 2:30 |
-| 77 | [STAY](https://open.spotify.com/track/2t0wgon3zNi2rK5RmBI6PB) | [Ayko](https://open.spotify.com/artist/7DoGkyQETbcynITmyOlWJf), [George](https://open.spotify.com/artist/3sedn32ScoPV1uUo54el2E) | [STAY](https://open.spotify.com/album/013a6sw3mwlatsiiMDvoJV) | 2:42 |
-| 78 | [Don't Hide](https://open.spotify.com/track/51tISgVeWkKE3BhgGKQJ8w) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB), [Safe Wave](https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6) | [Don't Hide](https://open.spotify.com/album/2uY0MsQmoCLdCNcD7D9vkr) | 2:15 |
-| 79 | [Down from this High](https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6) | [kánji](https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U), [NØTALUVA](https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId), [CLGN](https://open.spotify.com/artist/0i4UreWPyWBNpKCQd0dme9) | [Down from this High](https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo) | 1:55 |
-| 80 | [Shatterproof \- Sebastian Davidson Remix](https://open.spotify.com/track/3jkyGmk58RSeyTnhHDam7v) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu), [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Shatterproof \(Sebastian Davidson Remix\)](https://open.spotify.com/album/74weVpLq86UNh1LlZjrcmu) | 2:46 |
+| 77 | [Don't Hide](https://open.spotify.com/track/51tISgVeWkKE3BhgGKQJ8w) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB), [Safe Wave](https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6) | [Don't Hide](https://open.spotify.com/album/2uY0MsQmoCLdCNcD7D9vkr) | 2:15 |
+| 78 | [STAY](https://open.spotify.com/track/2t0wgon3zNi2rK5RmBI6PB) | [Ayko](https://open.spotify.com/artist/7DoGkyQETbcynITmyOlWJf), [George](https://open.spotify.com/artist/3sedn32ScoPV1uUo54el2E) | [STAY](https://open.spotify.com/album/013a6sw3mwlatsiiMDvoJV) | 2:42 |
+| 79 | [Shatterproof \- Sebastian Davidson Remix](https://open.spotify.com/track/3jkyGmk58RSeyTnhHDam7v) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu), [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Shatterproof \(Sebastian Davidson Remix\)](https://open.spotify.com/album/74weVpLq86UNh1LlZjrcmu) | 2:46 |
+| 80 | [Down from this High](https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6) | [kánji](https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U), [NØTALUVA](https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId), [CLGN](https://open.spotify.com/artist/0i4UreWPyWBNpKCQd0dme9) | [Down from this High](https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo) | 1:55 |
 
-Snapshot ID: `MCxjZjljMzcxNDVlMWNhOTNiMzg1YWQzZDQwMTI1MDRlZDgyMWQ2M2E5`
+Snapshot ID: `MCwxMWY4NTYzM2ExY2JhZjhhY2JlM2U3NTZlOGQ3NWZkZWZmYzliMmQy`

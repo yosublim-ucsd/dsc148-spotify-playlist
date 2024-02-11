@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:1vSN1fsvrzpbttOYGsliDr">Tori Kelly</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,413 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,517 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 15 | [Precious Love \- Live](https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Sing! The Great Commission \- World Tour \(Live\)](https://open.spotify.com/album/1WsOwc3ZE7MvMzube1cPyF) | 5:02 |
 | 16 | [Because of Jesus \- Live](https://open.spotify.com/track/3zNDRUtDFSTheuLNrmwo0o) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [Because of Jesus \(Live\)](https://open.spotify.com/album/6Zc2H5ZUpzMU52g6TBsr7O) | 4:24 |
 | 17 | [Sing \- Live](https://open.spotify.com/track/3qcEDT85hn5vpNCxaBFHim) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Sing \(Live\)](https://open.spotify.com/album/5i1cLV9iU8NqU2PW4lssko) | 3:47 |
-| 18 | [Spirit Fall \(Dove\) \- Live At Citipointe Church, Brisbane, Australia/2023](https://open.spotify.com/track/726QdTEtmQIkafu0F9PdY2) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Jess Steer](https://open.spotify.com/artist/6nQhS19N2Vi3J3xAVgcgu4) | [Spirit Fall \(Dove\) \[Live At Citipointe Church, Brisbane, Australia/2023\]](https://open.spotify.com/album/3KTCaaf0LQU9E14mr57mPN) | 6:31 |
+| 18 | [Spirit Fall \(Dove\) \- Live](https://open.spotify.com/track/726QdTEtmQIkafu0F9PdY2) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Jess Steer](https://open.spotify.com/artist/6nQhS19N2Vi3J3xAVgcgu4) | [Spirit Fall \(Dove\) \[Live\]](https://open.spotify.com/album/3KTCaaf0LQU9E14mr57mPN) | 6:31 |
 | 19 | [Sacred Fire \- Live](https://open.spotify.com/track/3Rz4UDQAKNMVmc2V01IMYp) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Sacred Fire \(Live\)](https://open.spotify.com/album/2OPiufuGmjkIDr8OnBYmmO) | 6:36 |
 | 20 | [It Was You \- Live](https://open.spotify.com/track/4sVRFhcaY9RupVlLRdcBdM) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV), [Joe Hardy](https://open.spotify.com/artist/5Bd1iYjijYHHAHZWzV1Vi0) | [It Was You \(Live\)](https://open.spotify.com/album/3BWNqZkq4uC5EWGwhVaQyM) | 4:38 |
 | 21 | [Nobody Like Jesus \- Studio Sessions](https://open.spotify.com/track/4l3LTC8Ig2opxLPSPbvR9Q) | [Reach City Worship](https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5), [John Wesley](https://open.spotify.com/artist/5PQRezjw7uSnCQzNEgDBnq) | [Nobody Like Jesus](https://open.spotify.com/album/2KOfJvfZsUXZRmqxpsPW1U) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Balance](https://open.spotify.com/track/5sgsKNynu5ZyrstJeLdbaM) | [Rivers Crossing Worship](https://open.spotify.com/artist/7xuM274nFelfNPgItlKbUs) | [Balance](https://open.spotify.com/album/35qOCNMs1m6MPGK0ej5oFo) | 6:21 |
 | 100 | [Go With Me](https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Go With Me](https://open.spotify.com/album/4At1FoRpKILlQScRac9B65) | 4:25 |
 
-Snapshot ID: `MCxhNjc4ZTZiYTkxMDY5MTc3OTY4YTg3MDA5ZDU5ZjU3ZmUyNTVkODZk`
+Snapshot ID: `MCxlOTk2OGZlNzQ1OTIzNWM3ZjQyYjM1OWI0NWY0YWI0OTgzN2Q4N2Iz`

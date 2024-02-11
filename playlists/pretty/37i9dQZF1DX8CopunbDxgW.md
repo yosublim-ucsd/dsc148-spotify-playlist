@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Lemaitre
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,427 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,441 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Desire](https://open.spotify.com/track/4tyDTLhNhe5y0g53vrpv8e) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Desire](https://open.spotify.com/album/1KT4zt8tTkUTQlUWJKLjQW) | 3:12 |
 | 100 | [Si Te Portas Bonito \- Edit](https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 1:57 |
 
-Snapshot ID: `MCw4NzNlOWFjNDYyMTA4Mjc3YWY1ZTc5MTRjNGViODRhYTMwMzk4OTJl`
+Snapshot ID: `MCxmMzQzMGQ4NmFmODAyM2ZmNzIwMzc4MTIyNDU3ZWVkY2IzZmE4ZDc3`

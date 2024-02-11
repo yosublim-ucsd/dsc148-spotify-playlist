@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,201 songs - 6 day 4 hr 12 min
+2,202 songs - 6 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1846,7 +1846,8 @@
 | [Stone Fox Chase \(From "The Old Grey Whistle Test"\) \- Remastered](https://open.spotify.com/track/0mNw6yegJ3lCE2xqnwQfHQ) | [Area Code 615](https://open.spotify.com/artist/4BThcVD783ys8dvyGUQ5yq) | [Trip In The Country \(Remastered\)](https://open.spotify.com/album/5yOp6KHtg2KFwJ3Hf3flMr) | 3:25 | 2022-06-09 | 2022-07-29 |
 | [Stories??](https://open.spotify.com/track/0dXapcDIbXkH91ObjpXQqh) | [The Chakachas](https://open.spotify.com/artist/0dEvx7Y18jVslvbP4IksQl) | [Chakachas](https://open.spotify.com/album/7qgAAg9i0LChGEEK5a6OzM) | 2:47 | 2022-06-09 | 2022-07-29 |
 | [Stories??](https://open.spotify.com/track/2sQpHRF6hpyCYenzOjinr4) | [The Chakachas](https://open.spotify.com/artist/0dEvx7Y18jVslvbP4IksQl) | [Chakachas](https://open.spotify.com/album/2kRkDO5j2nwgq9jqlNCUNU) | 2:47 | 2022-07-27 |  |
-| [Sua Pele](https://open.spotify.com/track/0m0TazZcn82i5uRlesEW32) | [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Sua Pele](https://open.spotify.com/album/60HwSfREMsWDXK6wJthEj7) | 3:46 | 2023-11-29 |  |
+| [Sua Pele](https://open.spotify.com/track/0m0TazZcn82i5uRlesEW32) | [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Sua Pele](https://open.spotify.com/album/60HwSfREMsWDXK6wJthEj7) | 3:46 | 2023-11-29 | 2024-02-11 |
+| [Sua Pele](https://open.spotify.com/track/3tRZUuKPdoy359JyMwJaVz) | [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [in Ze early morning](https://open.spotify.com/album/5iz5kGjLKESgUKanW9Mhhl) | 3:46 | 2023-11-29 |  |
 | [Subhana](https://open.spotify.com/track/1UZ7xcA5TnMaIqNWBnf8P9) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 022\)](https://open.spotify.com/album/6JdKgweNlOU4Fjw1oRBj7W) | 4:58 | 2023-06-15 |  |
 | [Subhana](https://open.spotify.com/track/28pnHNZWzhn2HJ13zatziE) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 012\)](https://open.spotify.com/album/53dT1l75UAQQlqCRl2IZRY) | 5:00 | 2022-10-31 | 2023-06-19 |
 | [Subhana](https://open.spotify.com/track/6sDmNtyDHv4WModGvSiRSd) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 012\)](https://open.spotify.com/album/2ppquFRzC1KIUJC1Sjv2Eo) | 5:00 | 2022-07-12 | 2022-11-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Dead Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,702 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,690 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Me Ajude a Viver](https://open.spotify.com/track/7L6QuFxG9TlYxHpPHuMQ8x) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Invencível](https://open.spotify.com/album/189MgpvZ73UEJ7jHxtIYRM) | 3:36 |
 | 75 | [Último Clichê](https://open.spotify.com/track/3n3aZ903Y3TjQseFJTOFin) | [Cine](https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr) | [Último Clichê](https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE) | 2:49 |
 
-Snapshot ID: `MCxhMGZhNzc4YmRlODk0MmU5ZWNmYjIzY2Q3Y2NhMGRjZDRjNzdhMTYw`
+Snapshot ID: `MCxkMTM2NTc5OTdlMmQ2ODM1OTU1NTRlYzg0ODg1MGVmMTY3YjRmYjlk`

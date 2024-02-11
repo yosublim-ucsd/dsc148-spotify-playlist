@@ -1,12 +1,12 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Nathalie Joachim on cover. Artwork by Thami Nabil",
-  "num_followers": 152654,
+  "num_followers": 152691,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjJhMTIwOGFlMjgzNzZhN2ZmZWI3MmYyZDg3MzUxYTAwM2IzNjVj",
+  "snapshot_id": "MCxkYmIwYWUxYjE4Y2NiODIxMmU0ZTQwODhiNDY4ODg1NWMyNjE2YTlj",
   "tracks": [
     {
       "added_at": "2024-01-24 03:58:32",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Diaries Beneath Fragile Glass",
-        "url": "https://open.spotify.com/album/6NYmIzDYe3E2XWFmPkw3r4"
-      },
-      "artists": [
-        {
-          "name": "Martyna Basta",
-          "url": "https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/6DQxEmCC0BKGxMWEY0pRKJ"
-    },
-    {
       "added_at": "2023-08-02 14:55:57",
       "album": {
         "name": "Ulaan",
@@ -595,6 +579,22 @@
       "duration_ms": 210267,
       "name": "Ulaan",
       "url": "https://open.spotify.com/track/6L3tXaAI7sceFnhTA0wRFQ"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Diaries Beneath Fragile Glass",
+        "url": "https://open.spotify.com/album/6NYmIzDYe3E2XWFmPkw3r4"
+      },
+      "artists": [
+        {
+          "name": "Martyna Basta",
+          "url": "https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/6DQxEmCC0BKGxMWEY0pRKJ"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -849,6 +849,22 @@
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
     },
     {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Arcadian Daze",
+        "url": "https://open.spotify.com/album/5u97udfdEmIOR9xf5lW7pT"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 199894,
+      "name": "Echo Drift",
+      "url": "https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg"
+    },
+    {
       "added_at": "2023-08-16 06:00:00",
       "album": {
         "name": "MY BLACK CAT",
@@ -897,22 +913,6 @@
       "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Arcadian Daze",
-        "url": "https://open.spotify.com/album/5u97udfdEmIOR9xf5lW7pT"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 199894,
-      "name": "Echo Drift",
-      "url": "https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg"
-    },
-    {
       "added_at": "2023-09-15 05:54:20",
       "album": {
         "name": "Step Outside This Area",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/5O7IvPlQoTlxYLe76LNZYm"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Hit With The Most",
-        "url": "https://open.spotify.com/album/6xvzHDDnTzOROoE140BSbE"
-      },
-      "artists": [
-        {
-          "name": "RIBBON STAGE",
-          "url": "https://open.spotify.com/artist/4f7oDcY7sHQ69tiuRomYRZ"
-        }
-      ],
-      "duration_ms": 105739,
-      "name": "Sulfate",
-      "url": "https://open.spotify.com/track/0uhnXN1UiliphsVAcWKeCt"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "WOW",
@@ -975,6 +959,22 @@
       "duration_ms": 146680,
       "name": "meow chat",
       "url": "https://open.spotify.com/track/0PevRoduixzOwPe3Hgsheq"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Hit With The Most",
+        "url": "https://open.spotify.com/album/6xvzHDDnTzOROoE140BSbE"
+      },
+      "artists": [
+        {
+          "name": "RIBBON STAGE",
+          "url": "https://open.spotify.com/artist/4f7oDcY7sHQ69tiuRomYRZ"
+        }
+      ],
+      "duration_ms": 105739,
+      "name": "Sulfate",
+      "url": "https://open.spotify.com/track/0uhnXN1UiliphsVAcWKeCt"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/5dHVl3VXApP4q5WQ3lDLSh"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Latency at Villa Medici",
-        "url": "https://open.spotify.com/album/1vlmGQpA3TDWvkMXzPCjnL"
-      },
-      "artists": [
-        {
-          "name": "Damsel Elysium",
-          "url": "https://open.spotify.com/artist/6ry5d65fbavBIbowSQAFfS"
-        }
-      ],
-      "duration_ms": 706000,
-      "name": "27 Glass Ceilings",
-      "url": "https://open.spotify.com/track/1b12pTqgdXTuD4GRSRFAQj"
-    },
-    {
       "added_at": "2023-08-30 04:00:00",
       "album": {
         "name": "Pt. I",
@@ -1071,6 +1055,22 @@
       "duration_ms": 297017,
       "name": "The End of What?",
       "url": "https://open.spotify.com/track/52e028KD9UrxvpunBicff3"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Latency at Villa Medici",
+        "url": "https://open.spotify.com/album/1vlmGQpA3TDWvkMXzPCjnL"
+      },
+      "artists": [
+        {
+          "name": "Damsel Elysium",
+          "url": "https://open.spotify.com/artist/6ry5d65fbavBIbowSQAFfS"
+        }
+      ],
+      "duration_ms": 706000,
+      "name": "27 Glass Ceilings",
+      "url": "https://open.spotify.com/track/1b12pTqgdXTuD4GRSRFAQj"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1121,28 +1121,20 @@
       "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
+      "added_at": "2023-08-23 14:01:12",
       "album": {
-        "name": "\u00c9coute Au Loin",
-        "url": "https://open.spotify.com/album/0q9y44TMNzrIUylHjwCwrZ"
+        "name": "Couversets",
+        "url": "https://open.spotify.com/album/6pcASjKyhro68f8knhtocL"
       },
       "artists": [
         {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        },
-        {
-          "name": "Jeremiah Chiu",
-          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
-        },
-        {
-          "name": "Marta Sofia Honer",
-          "url": "https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv"
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
         }
       ],
-      "duration_ms": 362893,
-      "name": "\u00c9coute Au Loin",
-      "url": "https://open.spotify.com/track/0roPZdFgmpj7jFe7WstJBK"
+      "duration_ms": 220819,
+      "name": "Couversets",
+      "url": "https://open.spotify.com/track/5EFssJc6Liga3EDx3ZKyt2"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -1165,20 +1157,28 @@
       "url": "https://open.spotify.com/track/1izzRAv6eDzahDVryCP3dA"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
+      "added_at": "2024-01-10 04:24:05",
       "album": {
-        "name": "Penetraci\u00f3n",
-        "url": "https://open.spotify.com/album/5aF1l32Q5aeh4gZpzTTyYc"
+        "name": "\u00c9coute Au Loin",
+        "url": "https://open.spotify.com/album/0q9y44TMNzrIUylHjwCwrZ"
       },
       "artists": [
         {
-          "name": "Isabel Do Diego",
-          "url": "https://open.spotify.com/artist/76aOiLV9GaZi0muWfIkhmZ"
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        },
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        },
+        {
+          "name": "Marta Sofia Honer",
+          "url": "https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Penetraci\u00f3n",
-      "url": "https://open.spotify.com/track/5lx2oEML9ZXAuhAzATmHPT"
+      "duration_ms": 362893,
+      "name": "\u00c9coute Au Loin",
+      "url": "https://open.spotify.com/track/0roPZdFgmpj7jFe7WstJBK"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1213,20 +1213,20 @@
       "url": "https://open.spotify.com/track/56sdpPGIid7f1GkzibrJXV"
     },
     {
-      "added_at": "2023-08-23 14:01:12",
+      "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Couversets",
-        "url": "https://open.spotify.com/album/6pcASjKyhro68f8knhtocL"
+        "name": "Penetraci\u00f3n",
+        "url": "https://open.spotify.com/album/5aF1l32Q5aeh4gZpzTTyYc"
       },
       "artists": [
         {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+          "name": "Isabel Do Diego",
+          "url": "https://open.spotify.com/artist/76aOiLV9GaZi0muWfIkhmZ"
         }
       ],
-      "duration_ms": 220819,
-      "name": "Couversets",
-      "url": "https://open.spotify.com/track/5EFssJc6Liga3EDx3ZKyt2"
+      "duration_ms": 199000,
+      "name": "Penetraci\u00f3n",
+      "url": "https://open.spotify.com/track/5lx2oEML9ZXAuhAzATmHPT"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Cicada Lullaby",
-        "url": "https://open.spotify.com/album/3cRBLw9qVfwjz6jwNGkKDb"
-      },
-      "artists": [
-        {
-          "name": "Ans M",
-          "url": "https://open.spotify.com/artist/5JSQJFQcdMQIvt1iKnbOyF"
-        }
-      ],
-      "duration_ms": 219546,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/5LGOOykNx9oLF5mxysIyYa"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Systemic",
         "url": "https://open.spotify.com/album/0wKLTaJo6VxqhTXOgt9iFb"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 292573,
       "name": "Blood Quantum",
       "url": "https://open.spotify.com/track/63T2H0pQvsxyVD1ou9xJuz"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Cicada Lullaby",
+        "url": "https://open.spotify.com/album/3cRBLw9qVfwjz6jwNGkKDb"
+      },
+      "artists": [
+        {
+          "name": "Ans M",
+          "url": "https://open.spotify.com/artist/5JSQJFQcdMQIvt1iKnbOyF"
+        }
+      ],
+      "duration_ms": 219546,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5LGOOykNx9oLF5mxysIyYa"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/5YB4GUHEoX2rMwseiRpdkG"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Bath Philosophers",
-        "url": "https://open.spotify.com/album/6gzVvFf075ooAbRh38KamU"
-      },
-      "artists": [
-        {
-          "name": "Dali Muru & The Polyphonic Swarm",
-          "url": "https://open.spotify.com/artist/3jdK56VmMzHKXrAQpNKl9P"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Bath Philosophers",
-      "url": "https://open.spotify.com/track/4r4rFZELX0ELhZI6vdLIUS"
-    },
-    {
       "added_at": "2023-07-19 01:03:01",
       "album": {
         "name": "RPG",
@@ -1405,6 +1389,22 @@
       "url": "https://open.spotify.com/track/6OQoynBENCLciCInK8T3YH"
     },
     {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Bath Philosophers",
+        "url": "https://open.spotify.com/album/6gzVvFf075ooAbRh38KamU"
+      },
+      "artists": [
+        {
+          "name": "Dali Muru & The Polyphonic Swarm",
+          "url": "https://open.spotify.com/artist/3jdK56VmMzHKXrAQpNKl9P"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Bath Philosophers",
+      "url": "https://open.spotify.com/track/4r4rFZELX0ELhZI6vdLIUS"
+    },
+    {
       "added_at": "2024-01-10 04:24:05",
       "album": {
         "name": "Peeled",
@@ -1419,6 +1419,22 @@
       "duration_ms": 259838,
       "name": "Lily Pad",
       "url": "https://open.spotify.com/track/6LoCiGM9Evu2TT747tg3SU"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 452207,
+      "name": "500 ascended",
+      "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 452207,
-      "name": "500 ascended",
-      "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "The 22nd Floor (Live at Maison de la Radio et de la Musique, Paris)",
         "url": "https://open.spotify.com/album/3rPfu91ovZnR5M5JLpztA0"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "The Shuttle Bus",
-        "url": "https://open.spotify.com/album/1sZls3SUwE3dE7aLrRRHLe"
-      },
-      "artists": [
-        {
-          "name": "group O",
-          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
-        }
-      ],
-      "duration_ms": 215974,
-      "name": "The Shuttle Bus",
-      "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Conversations in Ritual",
         "url": "https://open.spotify.com/album/1NiKxZldfhyHtajtv1IoEf"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 313986,
       "name": "Rising",
       "url": "https://open.spotify.com/track/2Cq40mHbccRMKxlHaAmsVe"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "The Shuttle Bus",
+        "url": "https://open.spotify.com/album/1sZls3SUwE3dE7aLrRRHLe"
+      },
+      "artists": [
+        {
+          "name": "group O",
+          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
+        }
+      ],
+      "duration_ms": 215974,
+      "name": "The Shuttle Bus",
+      "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -1581,22 +1581,6 @@
       "url": "https://open.spotify.com/track/78J3e3c0GWy3Crw8jzaqwy"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 277273,
-      "name": "hit",
-      "url": "https://open.spotify.com/track/3hIaXXHvDNuc3CV5TPaMX4"
-    },
-    {
       "added_at": "2024-01-10 04:24:05",
       "album": {
         "name": "KAPITA\u0141KA",
@@ -1611,6 +1595,22 @@
       "duration_ms": 455384,
       "name": "KAPITA\u0141KA 8 (ODCHODZISZ OD NAS)",
       "url": "https://open.spotify.com/track/1UUewV1iQZRFfoHjSBPgTb"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 277273,
+      "name": "hit",
+      "url": "https://open.spotify.com/track/3hIaXXHvDNuc3CV5TPaMX4"
     },
     {
       "added_at": "2023-11-29 12:17:00",

@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Monaleo
 
-538 songs - 23 hr 2 min
+539 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Could Never \(Remix\) \[feat\. Moneybagg Yo\]](https://open.spotify.com/track/7nlH50E3IXShJtgb4gl3nz) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Could Never \(Remix\) \[feat\. Moneybagg Yo\]](https://open.spotify.com/album/65a4xOJ9i58wpUnqy2Pyyj) | 3:28 | 2021-11-05 | 2022-07-29 |
 | [Coulda Been](https://open.spotify.com/track/4ol33zicTUvhVeJHEJiM9c) | [Jourden](https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u) | [Coulda Been](https://open.spotify.com/album/5MFXnC0QhQ8yZPfwqILrBa) | 3:58 | 2023-09-22 | 2023-09-30 |
 | [Countdown](https://open.spotify.com/track/1iUBXA98sGpUkcFakDDo6k) | [Billy B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Countdown](https://open.spotify.com/album/51IzT7nGKdjOXPAogxrhyM) | 2:22 | 2023-06-30 | 2023-10-14 |
-| [Courtesy Of A Rich Nigga](https://open.spotify.com/track/0Wv28mbuNvGVRtRBbN1r5C) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Courtesy Of A Rich Nigga](https://open.spotify.com/album/52CR1FGtrOvY7OU71bHqSB) | 3:17 | 2023-10-27 | 2024-02-10 |
+| [Courtesy Of A Rich Nigga](https://open.spotify.com/track/0Wv28mbuNvGVRtRBbN1r5C) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Courtesy Of A Rich Nigga](https://open.spotify.com/album/52CR1FGtrOvY7OU71bHqSB) | 3:17 | 2023-10-27 |  |
 | [Crazy Girl](https://open.spotify.com/track/4T4On6DHXPfgo3lvB6sX98) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Crazy Girl](https://open.spotify.com/album/6MNPOurbkMv7THIlR1LlRO) | 2:35 | 2023-07-21 | 2023-09-16 |
 | [CRAZY GIRL P2 \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/1MoxBQxwPAiQKlRQ4BV9MB) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [CRAZY GIRL P2 \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0i6aioaKcPI1Nw9Jm3p8Yz) | 3:02 | 2023-08-25 | 2023-09-09 |
 | [Da Fuck](https://open.spotify.com/track/2PAj0RWVzQolTHLDEgpj4b) | [DonMonique](https://open.spotify.com/artist/2QcGQ2p4IU6Nyyg3gden98) | [Da Fuck](https://open.spotify.com/album/7lx5kDxQL1V4Rxa20nSYEB) | 2:22 | 2023-03-03 | 2023-04-09 |
@@ -280,7 +280,7 @@
 | [Like Dat \- Remix](https://open.spotify.com/track/5o7gax2i8xXhrJyk2TA5YJ) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Like Dat \(Remix\)](https://open.spotify.com/album/2uElhN7gFctTBwTmESMxcj) | 2:22 | 2023-07-28 | 2023-12-02 |
 | [Like That](https://open.spotify.com/track/0PC0xE49RsOT49PZmmxR0Z) | [Cuban Doll](https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc) | [Like That](https://open.spotify.com/album/4Z5vnVWtGBQM9ej7MEklrp) | 3:44 | 2023-04-28 | 2023-05-13 |
 | [Like You Should \(feat\. Symba\)](https://open.spotify.com/track/1uJnboxCR1HKn8k2L3Wygp) | [Bri Steves](https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [TBH](https://open.spotify.com/album/4U3RNjH7iKyqC0xwYtIUFk) | 2:44 | 2021-11-05 | 2022-03-02 |
-| [Locket](https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Locket](https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N) | 1:44 | 2023-08-25 |  |
+| [Locket](https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Locket](https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N) | 1:44 | 2023-08-25 | 2024-02-11 |
 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 | 2022-04-08 | 2022-10-01 |
 | [Looking For The Hoes \(Ain’t My Fault\)](https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:10 | 2023-07-28 |  |
 | [Love](https://open.spotify.com/track/18YgJkjcg5h1v9SyihrFCg) | [TeeCee Rou’Lette](https://open.spotify.com/artist/6CoZArC7g7pyLeYGoD8M0m), [The ATG](https://open.spotify.com/artist/1twmcEBMYuZFuO5E9Q4cdB) | [Love](https://open.spotify.com/album/7DmTWt5ltp6Ic8Wnv6rpOE) | 2:28 | 2023-07-28 | 2023-08-19 |
@@ -522,7 +522,8 @@
 | [Weird 2 Me](https://open.spotify.com/track/6OMsBEvyWUh45xLPBMDqHU) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR) | [Weird 2 Me](https://open.spotify.com/album/0QZQFEKQX785N7Dr9XNa3D) | 2:06 | 2021-11-05 | 2022-02-02 |
 | [Westside Baby \(Gutta\)](https://open.spotify.com/track/3djbJUX2x2ZVqeoH22tOyN) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Westside Baby \(Gutta\)](https://open.spotify.com/album/4EmV4t1h2uMFlyIkk3qiz6) | 1:49 | 2022-07-01 | 2022-07-23 |
 | [Wet](https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Wet](https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u) | 2:16 | 2022-08-19 | 2023-03-25 |
-| [WGFU](https://open.spotify.com/track/1C8hbP1bQK8G0DCfjXWBvv) | [Ocean x KungFu](https://open.spotify.com/artist/1WEXyd2RFcNvcHbCydwP78) | [WGFU](https://open.spotify.com/album/2z7LhPiHfogiCANcYlTArO) | 2:34 | 2024-01-19 |  |
+| [WGFU](https://open.spotify.com/track/1C8hbP1bQK8G0DCfjXWBvv) | [Ocean x KungFu](https://open.spotify.com/artist/1WEXyd2RFcNvcHbCydwP78) | [WGFU](https://open.spotify.com/album/2z7LhPiHfogiCANcYlTArO) | 2:34 | 2024-01-19 | 2024-02-11 |
+| [WGFU](https://open.spotify.com/track/3oavB16qEYpGP0yab3DJUu) | [Ocean x KungFu](https://open.spotify.com/artist/1WEXyd2RFcNvcHbCydwP78) | [WGFU](https://open.spotify.com/album/3CIcF1MB8lv9BsG11Sn6H6) | 2:34 | 2024-02-09 |  |
 | [What Else](https://open.spotify.com/track/5k6stJRSOD9F1jYivysx9d) | [Siya](https://open.spotify.com/artist/7vtukebvL7Is8L5JvgTLDR) | [Mixed Emotions](https://open.spotify.com/album/6GDawZmfq01NBqwK2eQHul) | 3:05 | 2023-01-27 | 2023-04-01 |
 | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih) | 3:43 | 2023-05-19 |  |
 | [What Kinda](https://open.spotify.com/track/6tK23xx5yhFkDKcw0qN66C) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [Lebra Jolie](https://open.spotify.com/album/28zSKv6y1iWehsGpxGbpW6) | 3:01 | 2022-10-07 | 2022-11-12 |

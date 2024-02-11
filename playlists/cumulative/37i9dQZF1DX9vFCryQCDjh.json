@@ -448,7 +448,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 241826,
       "name": "Fogetten Love",
       "url": "https://open.spotify.com/track/4EpwZakcikSrgDCqcLXAok"
@@ -1390,6 +1390,24 @@
       "duration_ms": 201866,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl"
+    },
+    {
+      "album": {
+        "name": "Kim Gun Mo 3",
+        "url": "https://open.spotify.com/album/7MC1rUuYaRivDt9xHwxyPO"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258160,
+      "name": "Wrongful Meeting",
+      "url": "https://open.spotify.com/track/3tWBKBa1l96An8KFfGo0Lx"
     },
     {
       "album": {

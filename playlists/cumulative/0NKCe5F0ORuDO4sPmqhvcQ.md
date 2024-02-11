@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-569 songs - 1 day 8 hr 0 min
+570 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Ahora](https://open.spotify.com/track/5pHrnkNt0Ikb8UE5HAcnIJ) | [Hotel Garuda](https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K), [Jackets](https://open.spotify.com/artist/2WE3lhdwcH8I20JFdhsV94) | [Ahora](https://open.spotify.com/album/4IAMj8Bki0Hb3nMQ7N4PLi) | 6:22 | 2023-03-24 | 2023-07-20 |
 | [Alive \- Edit](https://open.spotify.com/track/6zynDuNBoBD7AITlS2htjj) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Alive](https://open.spotify.com/album/51BR1e1klcWNZWsD5SbX4P) | 3:36 | 2023-10-05 |  |
 | [All About You](https://open.spotify.com/track/0Lc22wJyPHTKF8mEoOOGzT) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [All About You](https://open.spotify.com/album/0UPEviguYBkCVLWVTwXx2y) | 2:45 | 2023-10-20 |  |
+| [All Day, All Night](https://open.spotify.com/track/4PSq1vPPpzEpVfwLCadN9j) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [All Day, All Night](https://open.spotify.com/album/26O2GfKaDW9uGRkb0xdTV6) | 2:30 | 2024-02-10 |  |
 | [all i need](https://open.spotify.com/track/7vOjikQFRmxz1DISXsCQqG) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL), [Tony Velour](https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi), [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [all i need](https://open.spotify.com/album/766oNoOCHh5KNvykOsbWtd) | 3:17 | 2022-02-28 | 2022-03-31 |
 | [All I'd Ever Need](https://open.spotify.com/track/6IZNg0VEi6mYCozaqmN5kH) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [Digital Forest](https://open.spotify.com/album/1QKKd2KIRG4YEAysfwv3Y1) | 3:26 | 2022-01-28 | 2022-02-16 |
 | [All or Nothin](https://open.spotify.com/track/7LjHfW0OCBjYx01XkDA8QR) | [Chuck Sutton](https://open.spotify.com/artist/472LbYT0htG8bFXNXpEgRN) | [All or Nothin](https://open.spotify.com/album/4kxGHduVK7ms4hls6JvtYR) | 3:09 | 2021-11-19 | 2022-01-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > det største dk rap lige nu.\. <a href="spotify:artist:5IpqfN8Pqjy89nj1IfuOXC">Baloosh</a> har den 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,727 likes - 63 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,752 likes - 63 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 62 | [Rider](https://open.spotify.com/track/3OKI9yggHapQONX0k8xtlD) | [Lii Fuego](https://open.spotify.com/artist/5rZWktOlVarOV0j2AXkasF), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Rider](https://open.spotify.com/album/7rsFe7IgBjlh2TCd23lX4t) | 3:12 |
 | 63 | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/track/4ymwixcQXSHyAY5Af4bvr8) | [Emil Stabil](https://open.spotify.com/artist/2toxhc2iSbFHWgy3VMnqR7), [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/album/3YON54IWdqFWos7oNwoiiG) | 2:34 |
 
-Snapshot ID: `MCxjYTI4OTA2YTY0ZDJiOTQ2YmJlYzVmZWIyYTAxMTRiM2QyODYxNzdm`
+Snapshot ID: `MCxmZjVkOGMxOWM2MWE2NmNmZGU3MmI2ZWI1ZmI1YzUyYTBmN2Q0NzAy`

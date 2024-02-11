@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 156168,
+  "num_followers": 156287,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2Q4MjY1OGE2ZGQ5ZTA2OTE4YzBjMDZmMWExNGFhODlhOTc4NzVi",
+  "snapshot_id": "MCxjNzE2YTRkNzI1NDEwYWZhYzM1ODAyOWE3OWQ4ZjgxNWZkNjQ0Mzc5",
   "tracks": [
     {
       "added_at": "2024-02-09 07:01:34",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Powerbausa",
-        "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        }
-      ],
-      "duration_ms": 203630,
-      "name": "Was du Liebe nennst",
-      "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Wei\u00dfes Kleid",
         "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 147826,
       "name": "Wei\u00dfes Kleid",
       "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Powerbausa",
+        "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "duration_ms": 203630,
+      "name": "Was du Liebe nennst",
+      "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Es ist Abend und wir sitzen bei mir",
-        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Katharina",
-      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Nador",
         "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
       },
@@ -503,18 +487,18 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Wenn Du mich l\u00e4sst",
-        "url": "https://open.spotify.com/album/5vWFr4aJCRTNrHAkQIPlgn"
+        "name": "Es ist Abend und wir sitzen bei mir",
+        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
       },
       "artists": [
         {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
         }
       ],
-      "duration_ms": 182042,
-      "name": "Wenn Du mich l\u00e4sst",
-      "url": "https://open.spotify.com/track/6Ey7KSTV0Zx0fnxOw6bdK8"
+      "duration_ms": 180186,
+      "name": "Katharina",
+      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -531,6 +515,22 @@
       "duration_ms": 213666,
       "name": "Dein ist mein ganzes Herz",
       "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Wenn Du mich l\u00e4sst",
+        "url": "https://open.spotify.com/album/5vWFr4aJCRTNrHAkQIPlgn"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        }
+      ],
+      "duration_ms": 182042,
+      "name": "Wenn Du mich l\u00e4sst",
+      "url": "https://open.spotify.com/track/6Ey7KSTV0Zx0fnxOw6bdK8"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
+        "name": "Das gr\u00f6\u00dfte Kompliment",
+        "url": "https://open.spotify.com/album/31LCqXWk5U4kiPJa3sdmJ1"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        }
+      ],
+      "duration_ms": 148248,
+      "name": "Das gr\u00f6\u00dfte Kompliment",
+      "url": "https://open.spotify.com/track/79m5b3QJwIlnseSqGfJNo9"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
         "name": "dass liebe sch\u00f6n sein kann",
         "url": "https://open.spotify.com/album/47HTLFj9B6XTFSwaYyP1X9"
       },
@@ -807,18 +823,18 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Das gr\u00f6\u00dfte Kompliment",
-        "url": "https://open.spotify.com/album/31LCqXWk5U4kiPJa3sdmJ1"
+        "name": "Du Fehlst",
+        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
       },
       "artists": [
         {
-          "name": "Florian K\u00fcnstler",
-          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
         }
       ],
-      "duration_ms": 148248,
-      "name": "Das gr\u00f6\u00dfte Kompliment",
-      "url": "https://open.spotify.com/track/79m5b3QJwIlnseSqGfJNo9"
+      "duration_ms": 155597,
+      "name": "Du Fehlst",
+      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -843,22 +859,6 @@
       "duration_ms": 129587,
       "name": "MISS YOU",
       "url": "https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
-        "name": "Du Fehlst",
-        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
-      },
-      "artists": [
-        {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
-        }
-      ],
-      "duration_ms": 155597,
-      "name": "Du Fehlst",
-      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
+        "name": "F\u00fcr Immer",
+        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "F\u00fcr Immer",
+      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
         "name": "paris syndrom (dach session)",
         "url": "https://open.spotify.com/album/5FXulrsss6KsfQ7izfaTdP"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 170658,
       "name": "paris syndrom - dach session",
       "url": "https://open.spotify.com/track/4cvfB6n4wfSXIvND88VRc1"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
-        "name": "F\u00fcr Immer",
-        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
-      },
-      "artists": [
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "F\u00fcr Immer",
-      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -999,22 +999,18 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Hollywood (Akustik Version)",
-        "url": "https://open.spotify.com/album/5FyuGW8u3zdhTOdhNusU92"
+        "name": "Nichts war umsonst",
+        "url": "https://open.spotify.com/album/3YIttZS61vaggxDVnUAjiX"
       },
       "artists": [
         {
-          "name": "Benne",
-          "url": "https://open.spotify.com/artist/0eS2ZGOnJi5Cp4ASTy4aBc"
-        },
-        {
-          "name": "Revelle",
-          "url": "https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA"
+          "name": "Prinz Pi",
+          "url": "https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk"
         }
       ],
-      "duration_ms": 152378,
-      "name": "Hollywood - Akustik Version",
-      "url": "https://open.spotify.com/track/58B7uBTVteWmo0DOaouJXO"
+      "duration_ms": 214506,
+      "name": "Letzte Liebe",
+      "url": "https://open.spotify.com/track/7bYaYu0BpcZJKS7ytWYeZU"
     }
   ],
   "unique_name": "Liebeslieder",

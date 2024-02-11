@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-338 songs - 17 hr 47 min
+339 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Chance](https://open.spotify.com/track/4NM7miPEdR7T8WXehTlbsV) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Chance \(feat\. Vybz Kartel\)](https://open.spotify.com/album/30LPolWtP4efyRTAbNmALl) | 2:54 | 2023-12-13 |  |
 | [City Girls](https://open.spotify.com/track/5GivUdOngDAj8aaMszjy9S) | [Campaign Deezy](https://open.spotify.com/artist/6pJqjONZ7CZbvAyDxqkl7W), [Amari](https://open.spotify.com/artist/5604np7RxeJun4oRze309N) | [Hope](https://open.spotify.com/album/55IVGR00bd7cWBO8558HWi) | 3:21 | 2023-12-13 |  |
 | [Clicc Clacc](https://open.spotify.com/track/1kf1bFBZpcRpfvbay4smTD) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood](https://open.spotify.com/album/3pDWtiwshSUkWVkJ4rLkgq) | 1:53 | 2023-12-13 | 2024-02-05 |
-| [Clicc Clacc](https://open.spotify.com/track/7CYR6YkNuN46MgeETtnKSo) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood](https://open.spotify.com/album/1n3nKEfnBw5cTic37v12dt) | 1:53 | 2024-02-04 |  |
+| [Clicc Clacc](https://open.spotify.com/track/2odeWIBW5susyP8MOg10rm) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood](https://open.spotify.com/album/6li8kT6o9RM59IxRyZZJYh) | 1:53 | 2024-02-10 |  |
+| [Clicc Clacc](https://open.spotify.com/track/7CYR6YkNuN46MgeETtnKSo) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood](https://open.spotify.com/album/1n3nKEfnBw5cTic37v12dt) | 1:53 | 2024-02-04 | 2024-02-11 |
 | [Close to Me](https://open.spotify.com/track/1LXShQsFNYrYgqnleZLn4d) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:02 | 2023-12-13 |  |
 | [Come up \(feat\. Jon Boi & Winnin Team Re Up\)](https://open.spotify.com/track/16nMSyWXJBRd06OZLg5pQq) | [80's Baby](https://open.spotify.com/artist/5kd46m3RX2fWbVWMWwdWSZ), [Jon Boi](https://open.spotify.com/artist/0QD0svZ9OP0wPDWvkBiKMN), [Winnin Team Re Up](https://open.spotify.com/artist/60gGDTGfTs1GkaIFXdvrVn) | [Money Power Respect, Vol\. 1: Veracity](https://open.spotify.com/album/4LukCg8EUFDY6dHDwQpTBe) | 4:59 | 2023-12-13 |  |
 | [Come Wit It](https://open.spotify.com/track/4rBe7NOIF9luQSnJyPntAV) | [Prime Boys](https://open.spotify.com/artist/2Vwtx6d4E2wAj3ERVjLTZD) | [Koba World](https://open.spotify.com/album/7nQkpkUNXGOLcQeFnTrOmC) | 2:55 | 2023-12-23 |  |

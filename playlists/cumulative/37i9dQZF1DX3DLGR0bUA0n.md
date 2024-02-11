@@ -4,7 +4,7 @@
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-131 songs - 7 hr 21 min
+132 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [El Huizache](https://open.spotify.com/track/3jFYqAMAzNXU0Cn6PsgQyZ) | [El Cejas y Su Banda Fuego](https://open.spotify.com/artist/7dRwsxx0shzNa2PW47sqa2) | [Reyes Empresarios](https://open.spotify.com/album/70PQojBxoISRq1gOohSgRl) | 4:20 | 2023-10-12 |  |
 | [El Malo](https://open.spotify.com/track/6YjIfnOf74sUNqN5rDjPnl) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Gracias a la Vida](https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW) | 2:54 | 2023-10-12 |  |
 | [El Nike](https://open.spotify.com/track/4IFSVko2iMxAVvRAPVSWuu) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [El Nike](https://open.spotify.com/album/3eHn8E3n9ndGI2Zs3qiEWq) | 4:02 | 2023-10-12 |  |
-| [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/track/49QRiQXYwX2x9cwcdcx5rM) | [Arturo Leyva](https://open.spotify.com/artist/44z5ITF27h6kgj3pv6me2j), [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/album/5QoHmNxGNcMupzGDqm1lKR) | 2:25 | 2023-10-12 |  |
+| [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/track/49QRiQXYwX2x9cwcdcx5rM) | [Arturo Leyva](https://open.spotify.com/artist/44z5ITF27h6kgj3pv6me2j), [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/album/5QoHmNxGNcMupzGDqm1lKR) | 2:25 | 2023-10-12 | 2024-02-11 |
 | [El Oro Verde](https://open.spotify.com/track/7m3QSjfXFbYZzndQCJBwDR) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [El Oro Verde](https://open.spotify.com/album/4WKy8eNXEaCNI6UCWaOtaa) | 5:02 | 2023-10-12 |  |
 | [El Padrino](https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2) | [La Imponente Banda Inspiracion de Tierra Caliente](https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd) | [Al Mismo Nivel](https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD) | 2:43 | 2023-10-12 |  |
 | [El Pisto es Primero](https://open.spotify.com/track/5KRRfHOsVuiK8ZB9d9CLa9) | [Corazón Gitano](https://open.spotify.com/artist/2EXhLsjbYOxGiMh0pfRYhp) | [El Pisto es Primero](https://open.spotify.com/album/1qOHzqT4mFim7vPG6239yT) | 2:44 | 2023-10-12 |  |
@@ -136,6 +136,7 @@
 | [Tuve una Novia](https://open.spotify.com/track/2Bkpw6I25bUultWsqj3ZlG) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Tuve una Novia](https://open.spotify.com/album/6mki6ggST0ZCY5yOpiBDNq) | 3:33 | 2023-10-12 | 2024-01-14 |
 | [Tuve una Novia](https://open.spotify.com/track/2l36YOAn4r37S9wj3Q2nyO) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [20 Éxitos de Ley \(Serie de Colección\)](https://open.spotify.com/album/7wrf7tzBFiEyJwgX4R6cf3) | 3:33 | 2023-10-12 |  |
 | [Un Día de Rey Otro de Wey](https://open.spotify.com/track/1XgvlEvmIfyenmpYdlZ0J4) | [Banda Los Costeños de Zirandaro, Gro.](https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E) | [Monarcas 2018](https://open.spotify.com/album/6T7bhldD2jlBePRIaHh8n2) | 3:16 | 2023-10-12 | 2024-02-08 |
+| [Un Día De Rey Otro De Wey](https://open.spotify.com/track/4y4uSKStw3oFDdRyekS4QM) | [Banda Los Costeños de Zirandaro, Gro.](https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E) | [Monarcas 2018](https://open.spotify.com/album/0IqCo80fVf8UA7bp3XXD1m) | 3:16 | 2023-10-12 |  |
 | [Veinte Mujeres de Negro](https://open.spotify.com/track/0UP5BDqgYBhsSK8ZndGMM6) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [18 Kilates](https://open.spotify.com/album/42JRfQBP8DhodYhlN1396h) | 3:10 | 2023-10-12 |  |
 | [Vida de Rancho \(Zapateado\)](https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:54 | 2023-10-12 |  |
 | [Yo Soy de la Sierra](https://open.spotify.com/track/39atHdsK4HUVLjQzg8Zwvn) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Yo Soy de la Sierra](https://open.spotify.com/album/70MQXaxxkRlWUKcuYXgA9j) | 3:19 | 2023-10-12 |  |

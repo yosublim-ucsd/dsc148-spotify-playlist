@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 290813,
       "name": "El Tambo",
       "url": "https://open.spotify.com/track/3VlFOa5NaH3Mb8RtmSG6oj"
@@ -1238,6 +1238,24 @@
       "duration_ms": 306026,
       "name": "Violeta Ausente",
       "url": "https://open.spotify.com/track/2QrqeZRrMHhj8POCWHDYyQ"
+    },
+    {
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308960,
+      "name": "Virgen del Amor",
+      "url": "https://open.spotify.com/track/35RP7qnvpvftFj5N5y5dXQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-555 songs - 1 day 8 hr 53 min
+556 songs - 1 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Año Viejo](https://open.spotify.com/track/59kbsKYSbQmVOZDDBuDKAI) | [Cabeza Flotante](https://open.spotify.com/artist/0iF7OWW10dBklfM0Hsc0VH) | [Año Viejo](https://open.spotify.com/album/78aEkXgwwwoEY6764Saus9) | 5:10 | 2022-07-01 | 2022-07-29 |
 | [Bailando tristes](https://open.spotify.com/track/6ZMqp7LzIZ6u9D3I8ryWpi) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Parcialmente nublado](https://open.spotify.com/album/4ORofRFEKE8XdwPtseVnf4) | 3:04 | 2022-09-30 | 2023-10-27 |
 | [Bajo las Sombras](https://open.spotify.com/track/2GLwpugztC0QylwpvtIbnB) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/311nosRPXrVfCY5fg1TK5M) | 1:46 | 2022-07-01 | 2022-07-12 |
+| [Bar de Playa](https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r) | [Bar de Playa](https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU) | 2:09 | 2024-02-09 |  |
 | [Batalla Naval](https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Batalla Naval](https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh) | 3:23 | 2022-10-12 | 2023-03-03 |
 | [Baño de Sangre](https://open.spotify.com/track/3lLPcfcroqpDCZjdmJ4EBT) | [Erich Larsson](https://open.spotify.com/artist/0iD5zEeQslF2KjFvLReU2l) | [Baño de Sangre](https://open.spotify.com/album/3zPf7FxukN1hfrpa1m4Cdb) | 2:40 | 2022-07-01 | 2022-07-27 |
 | [Berlín](https://open.spotify.com/track/2dvEMEPUednUH9Fo01HcXT) | [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [Andyno Plex](https://open.spotify.com/artist/1v0Gf4vVNpD2tfOruHapzp) | [Berlín](https://open.spotify.com/album/4yajrPmBYJYZ4V2zpZVaVx) | 2:45 | 2022-06-03 | 2023-02-17 |
@@ -307,7 +308,7 @@
 | [Manos](https://open.spotify.com/track/4DeI38iEDWvVFK6c5ZgOc6) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Manos](https://open.spotify.com/album/78z4lZfzLSpj8jHXJTblCC) | 3:35 | 2022-07-01 | 2022-07-29 |
 | [Mantra](https://open.spotify.com/track/3MLndDZtxRXBdtzfdRLiKd) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Mantra](https://open.spotify.com/album/2L62ofrt1QOsE8dNSuRAxH) | 5:12 | 2022-06-03 | 2022-07-29 |
 | [MARCIANO ABANDONADO \- En Vivo](https://open.spotify.com/track/7LWvtra8fs2h5VpDIAVW5P) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [MARCIANO ABANDONADO \(En Vivo\)](https://open.spotify.com/album/0c7qoy59NJjLVAdMy9cl3h) | 4:22 | 2023-08-25 | 2023-09-16 |
-| [Mariposas](https://open.spotify.com/track/0sINp2DnE4lC3LXVP3U7OD) | [Echega](https://open.spotify.com/artist/2Li2QjHBJr15McMHdQSPJc), [Mariana Päraway](https://open.spotify.com/artist/7DmHW1m3QiSdZNUeytu3Fu) | [Mariposas](https://open.spotify.com/album/0jt2HG9su1FciUJ2BgBJ30) | 3:12 | 2024-02-09 |  |
+| [Mariposas](https://open.spotify.com/track/0sINp2DnE4lC3LXVP3U7OD) | [Echega](https://open.spotify.com/artist/2Li2QjHBJr15McMHdQSPJc), [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Mariposas](https://open.spotify.com/album/0jt2HG9su1FciUJ2BgBJ30) | 3:12 | 2024-02-09 |  |
 | [Mas o Menos Bien](https://open.spotify.com/track/5NY1Up0CdDRwKDlEmOsQ8X) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 4:13 | 2022-07-15 |  |
 | [Me Siento Que No](https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Valentina](https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld) | [Me Siento Que No](https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG) | 3:56 | 2023-02-03 | 2023-10-09 |
 | [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 | 2023-03-10 |
@@ -329,7 +330,7 @@
 | [Mi Vida Como Vacaciones](https://open.spotify.com/track/5ellJjhwC4gNOYRZGGt8vp) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [Vintage Futurista](https://open.spotify.com/album/6sMbgM4z01xWJSadT5evGq) | 3:47 | 2022-07-15 | 2023-06-10 |
 | [Miedos](https://open.spotify.com/track/6UXudjXSWptc6VpyYOYsmm) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Miedos](https://open.spotify.com/album/1QYyoy26hsRmLSTZWUAjgH) | 3:05 | 2022-07-01 | 2022-08-12 |
 | [Mientras Puedas](https://open.spotify.com/track/0KXSC27yO8M77WxGV4JC8l) | [Maurito](https://open.spotify.com/artist/5PMZb565NBrzfkLnHLgVqh) | [Mientras Puedas](https://open.spotify.com/album/0R2ApWvhBPLSn7vYOE3Gtf) | 4:11 | 2022-07-01 | 2022-07-24 |
-| [Mil Derrotas](https://open.spotify.com/track/1KWWN0v4gnwkSkLlSIJQze) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/4WmNsvvJMQC0Dnhnpu5Zzv) | 4:07 | 2023-11-10 |  |
+| [Mil Derrotas](https://open.spotify.com/track/1KWWN0v4gnwkSkLlSIJQze) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/4WmNsvvJMQC0Dnhnpu5Zzv) | 4:07 | 2023-11-10 | 2024-02-11 |
 | [Mil Derrotas](https://open.spotify.com/track/2adnmrCoDBRmnKx9RuugN5) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/311nosRPXrVfCY5fg1TK5M) | 4:07 | 2022-06-03 | 2022-07-29 |
 | [Mil Veces Maldito](https://open.spotify.com/track/45c5MqhQOlxOs3k9lsNhAL) | [Déjenme Dormir](https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ) | [Mil Veces Maldito](https://open.spotify.com/album/7M79nU1NV1QDi2XqgIk3LN) | 3:45 | 2022-06-03 | 2022-07-28 |
 | [Millionaire](https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Wandering Rebel](https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4) | 2:52 | 2023-06-02 | 2023-10-06 |

@@ -1,12 +1,12 @@
 {
   "description": "Guitarra c\u00e1lida e instrumental para un agradable inicio de d\u00eda.",
-  "num_followers": 12013,
+  "num_followers": 12016,
   "original_name": "wuen dia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGY4ODMyZThkNjk4Y2Y5Zjc5ZGY0YTU2OGVmOTkwYzcyNWM5MDdm",
+  "snapshot_id": "MCw5ZGQwZTAwNDdiZTgyYWI4NDJiMWNjYjkwYjM3NmE5NDhhMjFkYmRm",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Heaven and Heart",
-        "url": "https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk"
-      },
-      "artists": [
-        {
-          "name": "Cardboard Fort",
-          "url": "https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB"
-        }
-      ],
-      "duration_ms": 140412,
-      "name": "Heaven and Heart",
-      "url": "https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "D\u00e9dalo",
         "url": "https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 122275,
       "name": "D\u00e9dalo",
       "url": "https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Heaven and Heart",
+        "url": "https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk"
+      },
+      "artists": [
+        {
+          "name": "Cardboard Fort",
+          "url": "https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB"
+        }
+      ],
+      "duration_ms": 140412,
+      "name": "Heaven and Heart",
+      "url": "https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
-      },
-      "artists": [
-        {
-          "name": "Colin Reed",
-          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
-        }
-      ],
-      "duration_ms": 141504,
-      "name": "Rumors",
-      "url": "https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Tall Flowers",
         "url": "https://open.spotify.com/album/4wRJlTF2NBkJmmQQ7BTstw"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 126151,
       "name": "Tall Flowers",
       "url": "https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
+      },
+      "artists": [
+        {
+          "name": "Colin Reed",
+          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
+        }
+      ],
+      "duration_ms": 141504,
+      "name": "Rumors",
+      "url": "https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Estrella",
-        "url": "https://open.spotify.com/album/42ujA4hBAj6SU1MkGkgAKE"
-      },
-      "artists": [
-        {
-          "name": "Roy De Paz",
-          "url": "https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg"
-        }
-      ],
-      "duration_ms": 153473,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/0Q5dhHQXDR3JF4w2Q3JFRj"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Quite Comfy",
         "url": "https://open.spotify.com/album/3gf4STG2CwjdpqjqSJNKKw"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 214817,
       "name": "Quite Comfy",
       "url": "https://open.spotify.com/track/0oAZ7VXoIgk8Q8Izs0YkhO"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/42ujA4hBAj6SU1MkGkgAKE"
+      },
+      "artists": [
+        {
+          "name": "Roy De Paz",
+          "url": "https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg"
+        }
+      ],
+      "duration_ms": 153473,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/0Q5dhHQXDR3JF4w2Q3JFRj"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Seven Hills of Rome",
+        "url": "https://open.spotify.com/album/5oUkh52zA4MoZQ5G1Zw6y1"
+      },
+      "artists": [
+        {
+          "name": "Carol Maddox",
+          "url": "https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb"
+        }
+      ],
+      "duration_ms": 132281,
+      "name": "Seven Hills of Rome",
+      "url": "https://open.spotify.com/track/6X57NpjrTZmKqzT0tnJPF0"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "M\u00fasicas in\u00e9ditas en casas literarias: Casa-Museo Manuel Mar\u00eda",
         "url": "https://open.spotify.com/album/2lnaksOr1ISSNvxPgR4qtb"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 127357,
       "name": "Sarita",
       "url": "https://open.spotify.com/track/6bT8FxJe2Bh27j9ZSt9HnP"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Seven Hills of Rome",
-        "url": "https://open.spotify.com/album/5oUkh52zA4MoZQ5G1Zw6y1"
-      },
-      "artists": [
-        {
-          "name": "Carol Maddox",
-          "url": "https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb"
-        }
-      ],
-      "duration_ms": 132281,
-      "name": "Seven Hills of Rome",
-      "url": "https://open.spotify.com/track/6X57NpjrTZmKqzT0tnJPF0"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Something Special",
-        "url": "https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm"
-      },
-      "artists": [
-        {
-          "name": "Leo Krepper",
-          "url": "https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0"
-        }
-      ],
-      "duration_ms": 168610,
-      "name": "Something Special",
-      "url": "https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Reise um die Welt",
         "url": "https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK"
       },
@@ -1835,22 +1819,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Chiapas",
-        "url": "https://open.spotify.com/album/0mA1yo4p1ZO8t8mvQg63Gl"
-      },
-      "artists": [
-        {
-          "name": "Mario Cabrera",
-          "url": "https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh"
-        }
-      ],
-      "duration_ms": 185820,
-      "name": "Chiapas",
-      "url": "https://open.spotify.com/track/6deSg4veAk0NwTNF9bNry8"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Tulum",
         "url": "https://open.spotify.com/album/3tgYGZiPi1o1G0EII5V9lp"
       },
@@ -1863,6 +1831,38 @@
       "duration_ms": 176917,
       "name": "Tulum",
       "url": "https://open.spotify.com/track/4TrvStfO2EppTAYIebF5cL"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Something Special",
+        "url": "https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm"
+      },
+      "artists": [
+        {
+          "name": "Leo Krepper",
+          "url": "https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0"
+        }
+      ],
+      "duration_ms": 168610,
+      "name": "Something Special",
+      "url": "https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Chiapas",
+        "url": "https://open.spotify.com/album/0mA1yo4p1ZO8t8mvQg63Gl"
+      },
+      "artists": [
+        {
+          "name": "Mario Cabrera",
+          "url": "https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh"
+        }
+      ],
+      "duration_ms": 185820,
+      "name": "Chiapas",
+      "url": "https://open.spotify.com/track/6deSg4veAk0NwTNF9bNry8"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Jewel",
-        "url": "https://open.spotify.com/album/77qvXF79TZeKoavRQ4TfPw"
-      },
-      "artists": [
-        {
-          "name": "American Legion",
-          "url": "https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3"
-        }
-      ],
-      "duration_ms": 200011,
-      "name": "Jewel",
-      "url": "https://open.spotify.com/track/2faiBPE3tK6ZIaTQlJqryt"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Cradle Song",
         "url": "https://open.spotify.com/album/1tWkanvuRkPU6YpZ7zNmZV"
       },
@@ -1999,18 +1983,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Breakwater",
-        "url": "https://open.spotify.com/album/68E9Lnnt985nLpH08wu9Hr"
+        "name": "Jewel",
+        "url": "https://open.spotify.com/album/77qvXF79TZeKoavRQ4TfPw"
       },
       "artists": [
         {
-          "name": "Las Almas Nuevas",
-          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+          "name": "American Legion",
+          "url": "https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Breakwater",
-      "url": "https://open.spotify.com/track/4QfaiapQkaoDfudzWAwYcK"
+      "duration_ms": 200011,
+      "name": "Jewel",
+      "url": "https://open.spotify.com/track/2faiBPE3tK6ZIaTQlJqryt"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2027,6 +2011,38 @@
       "duration_ms": 128873,
       "name": "Stirling",
       "url": "https://open.spotify.com/track/1HDPEUzDPniGZpULtKa4q4"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Breakwater",
+        "url": "https://open.spotify.com/album/68E9Lnnt985nLpH08wu9Hr"
+      },
+      "artists": [
+        {
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Breakwater",
+      "url": "https://open.spotify.com/track/4QfaiapQkaoDfudzWAwYcK"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Romance Castellano",
+        "url": "https://open.spotify.com/album/3riMPqEcEtegXn7vGQ8KEm"
+      },
+      "artists": [
+        {
+          "name": "Manuel Gal\u00e1n",
+          "url": "https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM"
+        }
+      ],
+      "duration_ms": 135568,
+      "name": "Romance Castellano",
+      "url": "https://open.spotify.com/track/3pW3bF6TRv7bmeH8vw5Lkm"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2063,38 +2079,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Romance Castellano",
-        "url": "https://open.spotify.com/album/3riMPqEcEtegXn7vGQ8KEm"
-      },
-      "artists": [
-        {
-          "name": "Manuel Gal\u00e1n",
-          "url": "https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM"
-        }
-      ],
-      "duration_ms": 135568,
-      "name": "Romance Castellano",
-      "url": "https://open.spotify.com/track/3pW3bF6TRv7bmeH8vw5Lkm"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "A New Strange Feeling",
-        "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
-      },
-      "artists": [
-        {
-          "name": "Aurelia",
-          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
-        }
-      ],
-      "duration_ms": 199742,
-      "name": "A New Strange Feeling",
-      "url": "https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Beatriz (Arr. for Guitar by S\u00e9rgio Assad)",
         "url": "https://open.spotify.com/album/0UYrRuHrJcz2il0oww8zeW"
       },
@@ -2119,6 +2103,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "A New Strange Feeling",
+        "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
+      },
+      "artists": [
+        {
+          "name": "Aurelia",
+          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
+        }
+      ],
+      "duration_ms": 199742,
+      "name": "A New Strange Feeling",
+      "url": "https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7"
       },
@@ -2131,6 +2131,22 @@
       "duration_ms": 150592,
       "name": "Pelotas",
       "url": "https://open.spotify.com/track/00lpRj2l4gBL7aex8kneAg"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Camino Del Sol",
+        "url": "https://open.spotify.com/album/4fqXZ2DXJuIOpN1ZID0468"
+      },
+      "artists": [
+        {
+          "name": "Ceriumidis",
+          "url": "https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ"
+        }
+      ],
+      "duration_ms": 145635,
+      "name": "Camino Del Sol",
+      "url": "https://open.spotify.com/track/05tj0VFJS02yNTQd4GRy1C"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2163,22 +2179,6 @@
       "duration_ms": 136624,
       "name": "Solitaria",
       "url": "https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Camino Del Sol",
-        "url": "https://open.spotify.com/album/4fqXZ2DXJuIOpN1ZID0468"
-      },
-      "artists": [
-        {
-          "name": "Ceriumidis",
-          "url": "https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ"
-        }
-      ],
-      "duration_ms": 145635,
-      "name": "Camino Del Sol",
-      "url": "https://open.spotify.com/track/05tj0VFJS02yNTQd4GRy1C"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Mirabella",
-        "url": "https://open.spotify.com/album/1r9ghXZTQnM5TncbR8iCJU"
-      },
-      "artists": [
-        {
-          "name": "Oleks Rudenko",
-          "url": "https://open.spotify.com/artist/32r7SszS0EjJeiaeue1Fnc"
-        }
-      ],
-      "duration_ms": 199656,
-      "name": "Mirabella",
-      "url": "https://open.spotify.com/track/7aRXzPNyUh0hLLJJ3oA1ry"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Todo Es Mi Culpa",
         "url": "https://open.spotify.com/album/44eI4HIrozxOlv4KKa8DYf"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 171320,
       "name": "Todo Es",
       "url": "https://open.spotify.com/track/3kDWeQXbGzzeGVTvmLlpFy"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Mirabella",
+        "url": "https://open.spotify.com/album/1r9ghXZTQnM5TncbR8iCJU"
+      },
+      "artists": [
+        {
+          "name": "Oleks Rudenko",
+          "url": "https://open.spotify.com/artist/32r7SszS0EjJeiaeue1Fnc"
+        }
+      ],
+      "duration_ms": 199656,
+      "name": "Mirabella",
+      "url": "https://open.spotify.com/track/7aRXzPNyUh0hLLJJ3oA1ry"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "En Mis Brazos",
-        "url": "https://open.spotify.com/album/3wd6e9BvUxKEVZf0LCj56t"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gonsales",
-          "url": "https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D"
-        }
-      ],
-      "duration_ms": 122016,
-      "name": "En Mis Brazos",
-      "url": "https://open.spotify.com/track/5IRsN77ZPXy0YmY3cvVFuX"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Within You, Within Me",
         "url": "https://open.spotify.com/album/5oKe4TVgb8IRk347ZVxQmS"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 164390,
       "name": "Within You, Within Me",
       "url": "https://open.spotify.com/track/4d1mlzslIWzM9Ky1YJ2vpQ"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "En Mis Brazos",
+        "url": "https://open.spotify.com/album/3wd6e9BvUxKEVZf0LCj56t"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gonsales",
+          "url": "https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D"
+        }
+      ],
+      "duration_ms": 122016,
+      "name": "En Mis Brazos",
+      "url": "https://open.spotify.com/track/5IRsN77ZPXy0YmY3cvVFuX"
     },
     {
       "added_at": "2023-09-15 09:04:35",

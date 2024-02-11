@@ -120,8 +120,8 @@
       },
       "artists": [
         {
-          "name": "MGK",
-          "url": "https://open.spotify.com/artist/0jn47ZZH4HhX8JIGJUWSr0"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         },
         {
           "name": "Kid Rock",
@@ -772,7 +772,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 179201,
       "name": "GERONIMO",
       "url": "https://open.spotify.com/track/3fS7dRJWxgz1SCZJPXsymv"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 314146,
       "name": "King of Rock",
       "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"

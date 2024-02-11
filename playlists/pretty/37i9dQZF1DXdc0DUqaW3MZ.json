@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 328721,
+  "num_followers": 328817,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODk1ZTQzNWI0MjIyMWQxMTYyMGYzZGJjM2MyOWQ2YTVmM2ZmYjU0",
+  "snapshot_id": "MCw4MDE4YjFjOWM3ZGViZTIwNzlmZWY5ZGQ4NThjMGQ4N2MyMzMzZjI4",
   "tracks": [
     {
       "added_at": "2024-01-25 16:48:43",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-01-25 16:48:43",
       "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY"
-      },
-      "artists": [
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        }
-      ],
-      "duration_ms": 196441,
-      "name": "Deep Blue",
-      "url": "https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR"
-    },
-    {
-      "added_at": "2024-01-25 16:48:43",
-      "album": {
         "name": "You Could Be",
         "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
       },
@@ -1123,6 +1107,38 @@
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
+    },
+    {
+      "added_at": "2024-01-25 16:48:43",
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        }
+      ],
+      "duration_ms": 196441,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR"
+    },
+    {
+      "added_at": "2024-01-25 16:48:43",
+      "album": {
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 315608,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
     },
     {
       "added_at": "2024-01-25 16:48:43",
@@ -1147,22 +1163,6 @@
       "duration_ms": 208439,
       "name": "Believe (feat. Fredwave & Jeshi)",
       "url": "https://open.spotify.com/track/2DLxohwNmcbWktWGVG0dN7"
-    },
-    {
-      "added_at": "2024-01-25 16:48:43",
-      "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
-      },
-      "artists": [
-        {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
-        }
-      ],
-      "duration_ms": 315608,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
     },
     {
       "added_at": "2024-01-25 16:48:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:0sMAHzxguan2KpnKFZPW2d">Sadie Jean</a> with collaborators Rory Andrew, Victoria Zaro, and producer <a href="spotify:artist:3dIbvdQQd3HXfQcRjR6lb7">Griff Clawson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,519 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,580 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 49 | [3 Months](https://open.spotify.com/track/1aAm1mTO1kxTRH85OWuDB4) | [Zia Victoria](https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE) | [3 Months](https://open.spotify.com/album/7wPyjyowUucXtf9EY9ieUl) | 3:23 |
 | 50 | [Peace Sign](https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Peace Sign](https://open.spotify.com/album/1DQuGlBWg0HDXR6f6i9xdb) | 4:38 |
 
-Snapshot ID: `MCw0NGJjMTFjZTYwNzYxZWRmMGEyNTEyYTk1ZWM0ZTlkMGQzYmRjMzc4`
+Snapshot ID: `MCwwZjMyMjUwZjE0MTUwZjQ1YjQzOGNlOGFiMWViMDA0ZTExNGUyZTAz`

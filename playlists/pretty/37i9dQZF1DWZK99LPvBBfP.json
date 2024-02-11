@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 250268,
+  "num_followers": 250452,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDRlMzBmZmMxODQyODgxNDEzYWY3OTMyYmEyOWYyNjAyYWZhOTFm",
+  "snapshot_id": "MCw3NmU2YjJiZTJhMmJiZDk2NGUyOWU1Yzg3MmFmMDYyYzFjMTVjNWRm",
   "tracks": [
     {
       "added_at": "2023-08-11 15:42:20",
@@ -841,7 +841,7 @@
         }
       ],
       "duration_ms": 194760,
-      "name": "Chime - Edit",
+      "name": "Chime - Edit) [Remastered]",
       "url": "https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5"
     },
     {
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Innovator (Mayday)",
-        "url": "https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL"
-      },
-      "artists": [
-        {
-          "name": "Derrick May",
-          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
-        }
-      ],
-      "duration_ms": 362946,
-      "name": "Strings of Life",
-      "url": "https://open.spotify.com/track/7N3FfUFMud1rjI6Vgw71mm"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
         "name": "Don't You Want Me",
         "url": "https://open.spotify.com/album/5EsmJemSNDssD0hy9bJA3N"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 187053,
       "name": "Don't You Want Me - Hooj Mix Edit",
       "url": "https://open.spotify.com/track/5yccftMOR4DWGxpVyuqaKs"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
+        "name": "Innovator (Mayday)",
+        "url": "https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL"
+      },
+      "artists": [
+        {
+          "name": "Derrick May",
+          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
+        }
+      ],
+      "duration_ms": 362946,
+      "name": "Strings of Life",
+      "url": "https://open.spotify.com/track/7N3FfUFMud1rjI6Vgw71mm"
     },
     {
       "added_at": "2023-08-11 15:42:20",

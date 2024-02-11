@@ -1,7 +1,7 @@
 {
-  "2024-02-10": 765173,
+  "2024-02-11": 765211,
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Elohim",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Louis The Child",
   "name": "creamy",
   "tracks": [
     {
@@ -457,7 +457,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 159375,
       "name": "all you'll get from me is my company",
       "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
@@ -802,6 +802,24 @@
     },
     {
       "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/45IMBX928FqD50O0L0xICl"
+      },
+      "artists": [
+        {
+          "name": "AV AV AV",
+          "url": "https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287471,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6dqGLf0W6OcMTkO1lcL6Mg"
+    },
+    {
+      "album": {
         "name": "Back Now",
         "url": "https://open.spotify.com/album/6duea3hJJt63P5zYcoLThO"
       },
@@ -869,6 +887,28 @@
       "duration_ms": 198562,
       "name": "BACK TO YOU",
       "url": "https://open.spotify.com/track/1IfDTqoOrm5kABJcYBaxX7"
+    },
+    {
+      "album": {
+        "name": "Backfoot",
+        "url": "https://open.spotify.com/album/6KiTXmpSEETdiBl0UCrCoX"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "Pirra",
+          "url": "https://open.spotify.com/artist/3wPGh0biziAGs3SlOkgZ5M"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202394,
+      "name": "Backfoot",
+      "url": "https://open.spotify.com/track/1ZXVS31c6cqq9t7Ah6sLwz"
     },
     {
       "album": {
@@ -2414,6 +2454,28 @@
     },
     {
       "album": {
+        "name": "Counting (Sammy Virji Remix)",
+        "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214925,
+      "name": "Counting - Sammy Virji Remix",
+      "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
+    },
+    {
+      "album": {
         "name": "Crash (feat. Madalen Duke)",
         "url": "https://open.spotify.com/album/0tuQ95JwJSUnvY7W9mhBxW"
       },
@@ -2793,7 +2855,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 220875,
       "name": "Do or Die",
       "url": "https://open.spotify.com/track/7dysHvjVrHkpLhamDe1HJz"
@@ -3313,7 +3375,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 116800,
       "name": "Electronica",
       "url": "https://open.spotify.com/track/2dNLDlWXC9S1fWMy4rekFF"
@@ -4593,6 +4655,28 @@
       "duration_ms": 213600,
       "name": "Give Out - Feed Me Remix",
       "url": "https://open.spotify.com/track/13wy1r01jyHtvjgzuHyJPt"
+    },
+    {
+      "album": {
+        "name": "GLOW (feat. Au/Ra)",
+        "url": "https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/5N8fHHJVfI4a00nEoj9UyH"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150225,
+      "name": "GLOW (feat. Au/Ra)",
+      "url": "https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt"
     },
     {
       "album": {
@@ -5877,6 +5961,28 @@
       "duration_ms": 176680,
       "name": "i'm hurting ! (deja-vu..)",
       "url": "https://open.spotify.com/track/7x3YdsIvT6RPGgz18GEXkv"
+    },
+    {
+      "album": {
+        "name": "I'm Not Giving Up (with MEMBA)",
+        "url": "https://open.spotify.com/album/3qUJFohjpTS1AFCI1124Bd"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160964,
+      "name": "I'm Not Giving Up (with MEMBA)",
+      "url": "https://open.spotify.com/track/471OWwLdgRbmyRoWXKBXYk"
     },
     {
       "album": {
@@ -7853,7 +7959,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 287546,
       "name": "No Other 1.2.2 [2021 Export Wav]",
       "url": "https://open.spotify.com/track/60yc5ZwNjlZifPlqTntbLA"
@@ -10097,7 +10203,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 246420,
       "name": "SHINE (feat. Lizzy Land)",
       "url": "https://open.spotify.com/track/6InxYUzTX1kZFzBPipw3dH"

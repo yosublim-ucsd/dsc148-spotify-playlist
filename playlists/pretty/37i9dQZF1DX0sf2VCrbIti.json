@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGRjNjI0NjhmZGE2MGI5NTAxZDQ4YzFkN2MzMjRkMmI1NzU3MDY3",
+  "snapshot_id": "MCwzNTQ4M2VkNGU4OGFkNmNiNTRiMzQwYTc3NTcyOTFiNDJmOTc5NGFh",
   "tracks": [
     {
       "added_at": "2023-12-15 19:49:30",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u"
+        "name": "Siente El Amor",
+        "url": "https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R"
       },
       "artists": [
         {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
         }
       ],
-      "duration_ms": 286173,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf"
+      "duration_ms": 242973,
+      "name": "Es Mentiroso",
+      "url": "https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Siente El Amor",
-        "url": "https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R"
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u"
       },
       "artists": [
         {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 242973,
-      "name": "Es Mentiroso",
-      "url": "https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ"
+      "duration_ms": 286173,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Ring, Ring Villancicos Navide\u00f1os Con Rondalla Y Coro Infantil Suarez",
-        "url": "https://open.spotify.com/album/3F1y5I7WJzIlNpE6fr6Q19"
-      },
-      "artists": [
-        {
-          "name": "Rondalla Y Coro Infantil Suarez",
-          "url": "https://open.spotify.com/artist/49T57226vsQSeHWDLAdC6q"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "5 Pa\u00b4 Las 12",
-      "url": "https://open.spotify.com/track/5FmBAWbO9P6LL7BGzEhPGi"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 378373,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "Ring, Ring Villancicos Navide\u00f1os Con Rondalla Y Coro Infantil Suarez",
+        "url": "https://open.spotify.com/album/3F1y5I7WJzIlNpE6fr6Q19"
+      },
+      "artists": [
+        {
+          "name": "Rondalla Y Coro Infantil Suarez",
+          "url": "https://open.spotify.com/artist/49T57226vsQSeHWDLAdC6q"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "5 Pa\u00b4 Las 12",
+      "url": "https://open.spotify.com/track/5FmBAWbO9P6LL7BGzEhPGi"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Super \u00c9xitos Maracaibo 15",
-        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
-      },
-      "artists": [
-        {
-          "name": "Maracaibo 15",
-          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "Venga un Abrazo",
-      "url": "https://open.spotify.com/track/2G2ZMxJ7Fqoocm3jQTfm8P"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "La Orquesta de Siempre: Volume 1",
         "url": "https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 226373,
       "name": "Pasito Tun, Tun",
       "url": "https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "Super \u00c9xitos Maracaibo 15",
+        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
+      },
+      "artists": [
+        {
+          "name": "Maracaibo 15",
+          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "Venga un Abrazo",
+      "url": "https://open.spotify.com/track/2G2ZMxJ7Fqoocm3jQTfm8P"
     },
     {
       "added_at": "2023-12-15 19:49:30",

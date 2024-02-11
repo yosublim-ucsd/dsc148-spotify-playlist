@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from USHER, Kacey Musgraves, Noah Kahan, Little Simz, Forest Blakk and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,146 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,180 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 72 | [La promesse](https://open.spotify.com/track/4rirFm1iF6yvXk6SCvKXKV) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Du feu dans les lilas](https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V) | 4:53 |
 | 73 | [Better Care](https://open.spotify.com/track/0ObifqYUwrZOSDSkgJMGLf) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Better Care](https://open.spotify.com/album/7ESHyi4MorUD8bQ9qKcs6Y) | 3:26 |
 | 74 | [Saga](https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 3:14 |
-| 75 | [Pictures of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 |
+| 75 | [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 |
 | 76 | [The Wedding Song](https://open.spotify.com/track/2mwY1C4oCxPFy2A3UQIcEu) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Wedding Song](https://open.spotify.com/album/1k0rqhjZ18zvF6dKMoVnjj) | 3:16 |
 | 77 | [Sleep On The Floor](https://open.spotify.com/track/6jO31kwH5zGQeKrcrafpzB) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Sleep On The Floor](https://open.spotify.com/album/0ECbQKHkFCDw9knmGJt04j) | 3:43 |
 | 78 | [Movement](https://open.spotify.com/track/6cXZ5xkPNb9P5C6Z9564Cx) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [Movement](https://open.spotify.com/album/0bFMug20XZY4WlslsX3Gt4) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Bike Dream](https://open.spotify.com/track/0pg1rByVA1R5YFMMwCglVZ) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Bike Dream](https://open.spotify.com/album/3iKPE0lxcCIBfNACrZy04L) | 3:13 |
 | 100 | [Souvenirs d'hiver](https://open.spotify.com/track/1RA7rGvpb7IcxyIGA6Tbog) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [Souvenirs d'hiver](https://open.spotify.com/album/0H8eWhsR7YF42qoYxCj4tn) | 4:04 |
 
-Snapshot ID: `MCw3YTBmNmNmMGE3MTgyN2I4ZDVmMmI3YzkzOWEyNDMxMmUyNTlhODM5`
+Snapshot ID: `MCw0Y2VmZTljYzJkMTFjOGQ0MDhhM2Y1ZjMwMDc2N2ExMjY3OWIyMjUw`

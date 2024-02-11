@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: Loredana Bertè
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,062 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,053 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 |
-| 2 | [IL CIELO SOPRA BERLINO](https://open.spotify.com/track/35qn0z2w10fNbQCGEBgnh3) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [IL CIELO SOPRA BERLINO](https://open.spotify.com/album/305uGvWZt5p4kLoPD4rP5n) | 3:40 |
-| 3 | [Mare Forza 9oi](https://open.spotify.com/track/268q0mDTAs7O9ssY6KE1ZG) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Mare Forza 9oi](https://open.spotify.com/album/6wHu0paIJx1aiN3w3NyExG) | 2:43 |
+| 1 | [IL CIELO SOPRA BERLINO](https://open.spotify.com/track/35qn0z2w10fNbQCGEBgnh3) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [IL CIELO SOPRA BERLINO](https://open.spotify.com/album/305uGvWZt5p4kLoPD4rP5n) | 3:40 |
+| 2 | [Mare Forza 9oi](https://open.spotify.com/track/268q0mDTAs7O9ssY6KE1ZG) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Mare Forza 9oi](https://open.spotify.com/album/6wHu0paIJx1aiN3w3NyExG) | 2:43 |
+| 3 | [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 |
 | 4 | [Adiós](https://open.spotify.com/track/3dZKHkgCn7wI7q0Pdy8aXK) | [I Segreti](https://open.spotify.com/artist/3e70MTQQxvShEhc1UQcPbL) | [Adiós](https://open.spotify.com/album/0y6FkUdbWESSGbmcSIpf9n) | 2:50 |
-| 5 | [Ti Amerei](https://open.spotify.com/track/09EeLpRYDS8Qxk5Q7mOa1A) | [Tropea](https://open.spotify.com/artist/35EdAf21qKHNvALdF6loHX) | [Serole](https://open.spotify.com/album/4WrXBdup2TcNuo7eOLWGFG) | 3:25 |
-| 6 | [insecure](https://open.spotify.com/track/2o6MjJ3Ilwy6HATqI7IK0M) | [Voorpret](https://open.spotify.com/artist/1LvKEeM2ZLRbXA6TRgl1nI) | [insecure](https://open.spotify.com/album/31SuG69Dgv7qTN6cfAaYan) | 3:17 |
-| 7 | [Equidistanti](https://open.spotify.com/track/6QMfUsdaR9da70NUiLbuoM) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Equidistanti](https://open.spotify.com/album/3mjSTBj1BMm1naf1viNBRF) | 3:27 |
-| 8 | [Pinago](https://open.spotify.com/track/2Z26ptJ7v8ab8WHgc2Ndaz) | [Scumma do Mar](https://open.spotify.com/artist/6ebpYhUiGhoc4cXeEHTpjH) | [Gamba Tesa](https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG) | 3:29 |
-| 9 | [Nabucodonosor](https://open.spotify.com/track/5mA4Cos6BfYdAbstzE1Ood) | [I Cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP), [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi) | [I CANI BAUSTELLE](https://open.spotify.com/album/44WyneGoslmOdCMz1gavBO) | 4:19 |
+| 5 | [insecure](https://open.spotify.com/track/2o6MjJ3Ilwy6HATqI7IK0M) | [Voorpret](https://open.spotify.com/artist/1LvKEeM2ZLRbXA6TRgl1nI) | [insecure](https://open.spotify.com/album/31SuG69Dgv7qTN6cfAaYan) | 3:17 |
+| 6 | [Equidistanti](https://open.spotify.com/track/6QMfUsdaR9da70NUiLbuoM) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Equidistanti](https://open.spotify.com/album/3mjSTBj1BMm1naf1viNBRF) | 3:27 |
+| 7 | [Pinago](https://open.spotify.com/track/2Z26ptJ7v8ab8WHgc2Ndaz) | [Scumma do Mar](https://open.spotify.com/artist/6ebpYhUiGhoc4cXeEHTpjH) | [Gamba Tesa](https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG) | 3:29 |
+| 8 | [Nabucodonosor](https://open.spotify.com/track/5mA4Cos6BfYdAbstzE1Ood) | [I Cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP), [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi) | [I CANI BAUSTELLE](https://open.spotify.com/album/44WyneGoslmOdCMz1gavBO) | 4:19 |
+| 9 | [Ti Amerei](https://open.spotify.com/track/09EeLpRYDS8Qxk5Q7mOa1A) | [Tropea](https://open.spotify.com/artist/35EdAf21qKHNvALdF6loHX) | [Serole](https://open.spotify.com/album/4WrXBdup2TcNuo7eOLWGFG) | 3:25 |
 | 10 | [Universo](https://open.spotify.com/track/0IGiIKg6BCTlTBK2Y3OzAu) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Realtà Aumentata](https://open.spotify.com/album/3OZ8bUM61fzR33BnLT5vZ1) | 4:40 |
 | 11 | [Male Cane](https://open.spotify.com/track/2glgD5Pu1kYfAtLyfU6NoZ) | [Cara Calma](https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC) | [Male Cane](https://open.spotify.com/album/17snaUPkFYcJ81a6RVdGYT) | 3:09 |
 | 12 | [Il Silenzio Che C'è](https://open.spotify.com/track/59kYapbb4BzxuL9JvhKjJ2) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Il Silenzio Che C'è](https://open.spotify.com/album/0DWa2UqQb23ym0tqKU1Gy6) | 3:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 74 | [THE DRIVER](https://open.spotify.com/track/0sZHxhoBaK0YEvvMV8blr6) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:08 |
 | 75 | [LA FINE DI UN RAGAZZO](https://open.spotify.com/track/09AN0C4hAhXzbwTbM3K1fE) | [Appino](https://open.spotify.com/artist/4DZifQP0B5j53Hw4KuMOnH) | [HUMANIZE](https://open.spotify.com/album/0OkZmSBdLAVLDfKh6OWTRl) | 3:18 |
 
-Snapshot ID: `MCxiMThiNzRmMjUwMWU3YzU0MDBhZjMxM2YxZmM1OWNmZDlhOGQwMDYw`
+Snapshot ID: `MCwyMzk2ODc4MjQ0NjA3N2NmNDdlMGU0YmUxNzEwMTg3YjI0YTM4ZGUz`

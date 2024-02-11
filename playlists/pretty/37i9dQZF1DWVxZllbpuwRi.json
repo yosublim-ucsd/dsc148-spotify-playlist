@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 609814,
+  "num_followers": 609791,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjJkMmY0MGY0ZjkyMzJkYzExNTA4ZDg4MzEyMmZmYTVjYzU3ZDQx",
+  "snapshot_id": "MCxjM2FjMzlkOTA2YTJlY2NlY2YwZjg2MDNiZjczODZjNmJlMDM2ZWM4",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Blue Sky",
-        "url": "https://open.spotify.com/album/4LRZwEWDj6xdgFk8OBydmt"
-      },
-      "artists": [
-        {
-          "name": "Zabot",
-          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
-        },
-        {
-          "name": "Caelu",
-          "url": "https://open.spotify.com/artist/6C5HWD1ssI0SC0LR2yhJ1V"
-        }
-      ],
-      "duration_ms": 201707,
-      "name": "Blue Sky",
-      "url": "https://open.spotify.com/track/4uK2F0ZB7ac1C296tWxwu8"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Los Chulitos",
         "url": "https://open.spotify.com/album/61OuBz5Vh5z1n8z6Yu8rlN"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 177826,
       "name": "Sube La Music",
       "url": "https://open.spotify.com/track/2CIJusVSWZKH4XIXxipD0I"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Blue Sky",
+        "url": "https://open.spotify.com/album/4LRZwEWDj6xdgFk8OBydmt"
+      },
+      "artists": [
+        {
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
+        },
+        {
+          "name": "Caelu",
+          "url": "https://open.spotify.com/artist/6C5HWD1ssI0SC0LR2yhJ1V"
+        }
+      ],
+      "duration_ms": 201707,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/4uK2F0ZB7ac1C296tWxwu8"
     },
     {
       "added_at": "2023-02-17 03:00:00",

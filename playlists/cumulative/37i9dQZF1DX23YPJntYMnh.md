@@ -4,7 +4,7 @@
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-126 songs - 8 hr 39 min
+127 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [Changes](https://open.spotify.com/track/2o476V7Y8JVrwXpsOwrth6) | [Post Sex Nachos](https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP) | [Changes](https://open.spotify.com/album/16eZZtgTw8uqL8egLeO2zr) | 2:46 | 2023-04-14 |  |
 | [Clap For The Killers](https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 3:55 | 2020-01-08 |  |
 | [Come Original](https://open.spotify.com/track/7LG5qAX1r73gafhxvzu28K) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:42 | 2020-01-08 | 2023-10-21 |
-| [Conspiranoia](https://open.spotify.com/track/5WP538GVRBWRakIrVBWCSS) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Conspiranoia](https://open.spotify.com/album/0Q6d4EiADM8KBMo2tpY3f3) | 11:30 | 2022-04-08 |  |
+| [Conspiranoia](https://open.spotify.com/track/5WP538GVRBWRakIrVBWCSS) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Conspiranoia](https://open.spotify.com/album/0Q6d4EiADM8KBMo2tpY3f3) | 11:30 | 2022-04-08 | 2024-02-11 |
 | [Conspiranoia](https://open.spotify.com/track/6RUCtuvZNFyozWuVG3sxYs) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Conspiranoia](https://open.spotify.com/album/7EvP2T5AkYaStbwHFdiu7P) | 11:30 | 2022-04-08 | 2022-07-29 |
+| [Conspiranoia](https://open.spotify.com/track/7MPJD2TRVCCGZVR38ZVpsk) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Conspiranoid](https://open.spotify.com/album/6tvuIngm9XhD8mwncouN8G) | 11:30 | 2022-04-29 |  |
 | [Courage](https://open.spotify.com/track/7tlou9CjCXkaMfza2oq0GX) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:30 | 2020-01-08 | 2023-04-15 |
 | [Crack Killed Applejack \- Gravy Booty Mix](https://open.spotify.com/track/2SrJ0Quef9Lkv0aIKPWEBY) | [Stevie Salas](https://open.spotify.com/artist/6fb78HXq6cKqNjjwZP9dax) | [Back from the Living](https://open.spotify.com/album/6J5Lg92qtxOwyrLrn1Zqfv) | 4:01 | 2020-01-08 |  |
 | [Cult of Personality](https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Vivid \(Expanded Edition\)](https://open.spotify.com/album/532IlegHv3OfVGgyCFGBTs) | 4:54 | 2020-01-08 |  |

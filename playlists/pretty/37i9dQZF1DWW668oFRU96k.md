@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Guetta x Mason x Princess Superstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,375 likes - 98 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,381 likes - 98 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 97 | [Miroir Miroir \- Romain Garcia Remix](https://open.spotify.com/track/0Ysm1TAJq3jUFPHbOGN9lL) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM), [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Miroir Miroir \(Romain Garcia Remix\)](https://open.spotify.com/album/673Tkd2JZXQ0ZshjTK6S0e) | 3:29 |
 | 98 | [YIN & YANG](https://open.spotify.com/track/4oXrLiCY9XLYMEuZ1drI1t) | [MOKABY](https://open.spotify.com/artist/3AXI2Qfty5IVrmtQzi8weo), [ALY$HIA](https://open.spotify.com/artist/38sMetc66ave6OQSpl1BW3) | [YIN & YANG](https://open.spotify.com/album/2oaODUP1pNIc4babSl3ivd) | 2:08 |
 
-Snapshot ID: `MCw1YjkzNTg3OTAwMjlmZjc4MzU3YWIyMzY5MTE3YzkzODExNTVlNjY0`
+Snapshot ID: `MCxmMDBmNmQ4NjUxNjUxZDEzZWViMTRmNDE0ZjNiNmJkOTExYzgxNTIw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Jax Jones, Zoe Wees
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,194 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,370 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 2 | [Tsunami](https://open.spotify.com/track/7Datvb4oPN6dHpfIYWgJii) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Tsunami](https://open.spotify.com/album/4N5GXjk84sniBmSGfwwgzP) | 2:16 |
 | 3 | [Perfect \(Exceeder\)](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp) | 2:31 |
 | 4 | [Mirage](https://open.spotify.com/track/3YqK2VODMQdx7ttoeVpbUk) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Renee](https://open.spotify.com/artist/23I0nk07Q4tRYuScir99C1) | [Mirage](https://open.spotify.com/album/1tKQxxIewzHGWOdXgWCQV4) | 2:32 |
-| 5 | [Pictures of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 |
+| 5 | [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 |
 | 6 | [All Night](https://open.spotify.com/track/7LbdiDgAmMO8NskLtb43Yy) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [gritney](https://open.spotify.com/artist/4ffsVdOEMAqvXPPePkgP5d) | [All Night](https://open.spotify.com/album/7mlbnclHjUsHGkk0Ga8jIZ) | 3:15 |
 | 7 | [Nothing To Lose](https://open.spotify.com/track/0giznUU5R4yLZoLrTJu48q) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [Lucles](https://open.spotify.com/artist/1MY4qvzTbed3hyseWVdwOa) | [Nothing To Lose](https://open.spotify.com/album/6DkYekiOjDhbYvXsWTmEwT) | 2:48 |
-| 8 | [To Be Loved](https://open.spotify.com/track/42ZvplpNfg6z4tR4TQzz5t) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [To Be Loved](https://open.spotify.com/album/2oTgUa3kb3vxtBKpfU3vMw) | 2:12 |
+| 8 | [To Be Loved](https://open.spotify.com/track/2YoOGKgoiTHkvgjpWumBeH) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [To Be Loved](https://open.spotify.com/album/6MXQ6vuXFcZxGXkWYIV80u) | 2:12 |
 | 9 | [I Keep Hearing Bingo](https://open.spotify.com/track/4lU9giwUURnmv7d2CXYHdP) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [I Keep Hearing Bingo](https://open.spotify.com/album/1GsfO6jmqFMvjddVPi6pnm) | 2:25 |
 | 10 | [Heart On Fire](https://open.spotify.com/track/1PFjPduD2QvkadZ7BDwoLN) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Heart On Fire](https://open.spotify.com/album/05bYMx5Pygn9pnDUKZ9nI6) | 2:15 |
 | 11 | [POWER](https://open.spotify.com/track/2q9sIvOOZRx17WIOnIX78T) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Axel Cooper](https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI) | [POWER](https://open.spotify.com/album/7x7LJhOfzgaQxiy6cv4Ugj) | 2:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 79 | [Without You](https://open.spotify.com/track/4r9Tm3ABTBFzjrovK2AFgu) | [Roby Lion](https://open.spotify.com/artist/14YfOuWRymFfPPvKzhjesk), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3), [CLYFFTONE](https://open.spotify.com/artist/0LtKLowEG3pnjnV5ySr6Pn) | [Without You](https://open.spotify.com/album/669qK8kXrnlLnl5C6faHQh) | 2:59 |
 | 80 | [Next To You](https://open.spotify.com/track/6tVGbFF95Oz4F2pGK9RXXD) | [mood.wav](https://open.spotify.com/artist/31i6svYbJf8dvqCC8iP7UN), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Next To You](https://open.spotify.com/album/3T3akPqhq7T70mRDt6s2cK) | 2:10 |
 
-Snapshot ID: `MCwyNTc2N2VjNjgwMzc1YTAwZWU0MjI0N2Y5M2Y3OGFjMTk5Y2VhNGM5`
+Snapshot ID: `MCw2YTY2MTUzZjBhZDU4ZjVkMzRmMTY1ZGU0ZTQxZTVmOTkwMjI0M2Ez`

@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Jax Jones, Zoe Wees
 
-850 songs - 1 day 15 hr 11 min
+851 songs - 1 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -578,7 +578,7 @@
 | [Past Lives](https://open.spotify.com/track/6pPJAAEMeczRyC74w6ltBS) | [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [Past Lives](https://open.spotify.com/album/2Jq08vEaaRbd8m3av62Cwh) | 2:39 | 2023-08-31 | 2023-09-08 |
 | [Peace In Silence](https://open.spotify.com/track/1GsurkwM6YwfQ9rNr14Of8) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Peace In Silence](https://open.spotify.com/album/2HWW3aVU03g1T6cuHqs3kx) | 2:10 | 2023-12-08 | 2023-12-22 |
 | [Perfect \(Exceeder\)](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp) | 2:31 | 2024-02-08 |  |
-| [Pictures of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 | 2024-02-08 |  |
+| [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 | 2024-02-08 |  |
 | [Platinum](https://open.spotify.com/track/7HcDzBNFEz1xIXDsPBIFRm) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Teletech](https://open.spotify.com/artist/30tToHC6q3nB7Lious0MZW) | [Platinum](https://open.spotify.com/album/5StlYredRouWMFjuZgjjMW) | 4:19 | 2023-12-14 | 2023-12-22 |
 | [Plattenbau Hymn](https://open.spotify.com/track/1ulZwOBvcrHT1YA30SYSjp) | [Blondee](https://open.spotify.com/artist/6ymkSFIoNAvBkgokkzbUtC), [Marv](https://open.spotify.com/artist/64hJwJas2snPX2t0qGs1QK), [AlphaBeat](https://open.spotify.com/artist/04o0rPPYzJOXWvOb2Z41Y9) | [Plattenbau Hymn](https://open.spotify.com/album/4lj3sRIWmKw31pBOjxMwYF) | 4:41 | 2023-09-14 | 2023-09-26 |
 | [Play](https://open.spotify.com/track/6YoqG5R2uqq5MQBj4kbnz4) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2HpqpXC3OKIQ6zfnwJ9qIf) | 3:19 | 2023-09-07 | 2023-09-22 |
@@ -773,7 +773,8 @@
 | [Time After Time](https://open.spotify.com/track/1Nc4gon5Nu3hL4Ou6kvrgz) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Regi](https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd), [Marco Nobel](https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB) | [Time After Time](https://open.spotify.com/album/2RoPYkVsKMi5cPi079EkjR) | 2:36 | 2023-10-05 | 2023-10-24 |
 | [Time Machine](https://open.spotify.com/track/6qnXktpP5svTuwJJbpn5Rd) | [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r) | [Time Machine](https://open.spotify.com/album/29Pf1a2PvWoghSr9YsbCsM) | 2:31 | 2024-01-25 | 2024-02-02 |
 | [Time Travel](https://open.spotify.com/track/4ol1XBvP2Wh2kPhWcgCUAk) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [Time Travel](https://open.spotify.com/album/5DcSoQ1pMWTVvzn6jB4lBK) | 2:47 | 2024-01-18 | 2024-01-26 |
-| [To Be Loved](https://open.spotify.com/track/42ZvplpNfg6z4tR4TQzz5t) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [To Be Loved](https://open.spotify.com/album/2oTgUa3kb3vxtBKpfU3vMw) | 2:12 | 2024-02-08 |  |
+| [To Be Loved](https://open.spotify.com/track/2YoOGKgoiTHkvgjpWumBeH) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [To Be Loved](https://open.spotify.com/album/6MXQ6vuXFcZxGXkWYIV80u) | 2:12 | 2024-02-09 |  |
+| [To Be Loved](https://open.spotify.com/track/42ZvplpNfg6z4tR4TQzz5t) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [To Be Loved](https://open.spotify.com/album/2oTgUa3kb3vxtBKpfU3vMw) | 2:12 | 2024-02-08 | 2024-02-11 |
 | [To The Lonely](https://open.spotify.com/track/2wmvhQA5gU0SjAZqtSU2nL) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [To The Lonely](https://open.spotify.com/album/391yphNvGTzzWHgNS909qu) | 2:10 | 2023-09-22 | 2023-10-13 |
 | [Together](https://open.spotify.com/track/2XFQvXYnyoOCLZGsPP83oO) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Together](https://open.spotify.com/album/1qsMlMjS1pONCDjuYyQAQg) | 3:25 | 2024-01-04 | 2024-01-12 |
 | [Tom's Diner](https://open.spotify.com/track/00FuFY2DemyowcHwMabQ11) | [Groove Crackers](https://open.spotify.com/artist/0a68MOyqyR7N3HopSFgAo8), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Tom's Diner](https://open.spotify.com/album/2PSz5TRIXyGCsHRW3sYsQR) | 2:14 | 2023-12-21 | 2024-01-05 |

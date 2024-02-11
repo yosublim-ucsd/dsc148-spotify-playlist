@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 42708,
+  "num_followers": 42733,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTQ1Y2FkODk1ZWQ0ZDJmZDllY2UzMmEwMWY0NDVhMzE2MTAxYzBh",
+  "snapshot_id": "MCw0MDg2NTE3ODZmNmJmMjU1NDNlMTE4ZjE1MTZkZTBmOWE1ZTkyMzBi",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -155,18 +155,22 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Man Smart, Woman Smarter",
-        "url": "https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa"
+        "name": "A Guide to Calypso (1912 - 1940), Vol.1",
+        "url": "https://open.spotify.com/album/38slaOgROCHiVUk1kaS1zK"
       },
       "artists": [
         {
-          "name": "King Radio",
-          "url": "https://open.spotify.com/artist/68qRklewuFhi50agtf76un"
+          "name": "Roaring Lion",
+          "url": "https://open.spotify.com/artist/5hSF1JVkIaxGR4a3Ft5F9V"
+        },
+        {
+          "name": "Gerald Clark and his Caribbean Serenaders",
+          "url": "https://open.spotify.com/artist/3cAPjGaYEFZwtgtzpcvmMh"
         }
       ],
-      "duration_ms": 183480,
-      "name": "Man Smart, Woman Smarter",
-      "url": "https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg"
+      "duration_ms": 192933,
+      "name": "The Rumba Dance",
+      "url": "https://open.spotify.com/track/1JRVPBbouJbwli9SNoZkzx"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -203,22 +207,18 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "A Guide to Calypso (1912 - 1940), Vol.1",
-        "url": "https://open.spotify.com/album/38slaOgROCHiVUk1kaS1zK"
+        "name": "Man Smart, Woman Smarter",
+        "url": "https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa"
       },
       "artists": [
         {
-          "name": "Roaring Lion",
-          "url": "https://open.spotify.com/artist/5hSF1JVkIaxGR4a3Ft5F9V"
-        },
-        {
-          "name": "Gerald Clark and his Caribbean Serenaders",
-          "url": "https://open.spotify.com/artist/3cAPjGaYEFZwtgtzpcvmMh"
+          "name": "King Radio",
+          "url": "https://open.spotify.com/artist/68qRklewuFhi50agtf76un"
         }
       ],
-      "duration_ms": 192933,
-      "name": "The Rumba Dance",
-      "url": "https://open.spotify.com/track/1JRVPBbouJbwli9SNoZkzx"
+      "duration_ms": 183480,
+      "name": "Man Smart, Woman Smarter",
+      "url": "https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg"
     },
     {
       "added_at": "2021-04-23 15:05:50",

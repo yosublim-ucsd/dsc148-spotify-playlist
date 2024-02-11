@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 602923,
+  "2024-02-11": 602931,
   "date_first_scraped": "2022-12-28",
   "description": "Evadez-vous tout en douceur...",
   "name": "Electro Chill",
@@ -446,6 +446,28 @@
     },
     {
       "album": {
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
+    },
+    {
+      "album": {
         "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/5XWrAQqR08TOq4dl2Q4uOZ"
       },
@@ -571,6 +593,28 @@
       "duration_ms": 199497,
       "name": "DARLING DRIVE",
       "url": "https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2"
+    },
+    {
+      "album": {
+        "name": "DAWA",
+        "url": "https://open.spotify.com/album/750dh6IYWiE6R3oY9zFI7u"
+      },
+      "artists": [
+        {
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+        },
+        {
+          "name": "KOSE",
+          "url": "https://open.spotify.com/artist/1HSGRJxw8jvT82cfO1ye0q"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144285,
+      "name": "DAWA",
+      "url": "https://open.spotify.com/track/2wHPEYMnDmbMn6QcOwH5iH"
     },
     {
       "album": {
@@ -713,6 +757,28 @@
       "duration_ms": 153695,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/7nAeN4bX0kzrvftoG4jag6"
+    },
+    {
+      "album": {
+        "name": "Feel Less",
+        "url": "https://open.spotify.com/album/14AAzYmdbb8x9s3i4H3dL6"
+      },
+      "artists": [
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241951,
+      "name": "Feel Less",
+      "url": "https://open.spotify.com/track/0uEOOlUaUT2bC2a3anIVjG"
     },
     {
       "album": {
@@ -929,7 +995,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 260390,
       "name": "Guest - Jean Tonique Alternate Vision",
       "url": "https://open.spotify.com/track/2FmH31SujKkiJ6WaAWaAAN"
@@ -1071,7 +1137,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 154054,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/03SYZDqFwX6ectWRiCjnkk"
@@ -1272,6 +1338,32 @@
     },
     {
       "album": {
+        "name": "Lovely Day",
+        "url": "https://open.spotify.com/album/5GJ7UOeLP5BlV6mr3yTaLY"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "LAST CALL",
+          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
+        },
+        {
+          "name": "Sundays",
+          "url": "https://open.spotify.com/artist/0jqSF6PoAXOnolddmtAnr1"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149848,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/54wK86iwJI08XU17PuwxFW"
+    },
+    {
+      "album": {
         "name": "Lover/Friend",
         "url": "https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX"
       },
@@ -1323,7 +1415,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 163320,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/2tEIa5EvtfWnIbgePOkB3k"
@@ -1676,6 +1768,32 @@
     },
     {
       "album": {
+        "name": "Not Sorry",
+        "url": "https://open.spotify.com/album/4IMzpXZYFpJ5ECLjrcOLJn"
+      },
+      "artists": [
+        {
+          "name": "Lvne",
+          "url": "https://open.spotify.com/artist/4pw9tq7xIe5cZLPS7xivyL"
+        },
+        {
+          "name": "Myya",
+          "url": "https://open.spotify.com/artist/0EugsgAtTwcQ1ndtIruICI"
+        },
+        {
+          "name": "Kiki Rowe",
+          "url": "https://open.spotify.com/artist/3FHeKI9kIuqPffmhyrcHuP"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172266,
+      "name": "Not Sorry",
+      "url": "https://open.spotify.com/track/3p6de2nWixeFvk98ZAtl5d"
+    },
+    {
+      "album": {
         "name": "Now You Know",
         "url": "https://open.spotify.com/album/3P99SdLrd82kcVaB6XlRLw"
       },
@@ -1735,7 +1853,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 325706,
       "name": "Ordinary Love - Folamour Remix",
       "url": "https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW"
@@ -2164,6 +2282,32 @@
     },
     {
       "album": {
+        "name": "Something Beautiful (Montmartre Remix)",
+        "url": "https://open.spotify.com/album/7esdyxRkAxwT0EaPxPdMWB"
+      },
+      "artists": [
+        {
+          "name": "JUNG",
+          "url": "https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO"
+        },
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        },
+        {
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "Something Beautiful - Montmartre Remix",
+      "url": "https://open.spotify.com/track/1VKqsNsQvM0oCJKzUtWD2H"
+    },
+    {
+      "album": {
         "name": "Stripes",
         "url": "https://open.spotify.com/album/7b3lF7lWIKs3CzXUgf0p4s"
       },
@@ -2205,7 +2349,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 270720,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/3uvALUobqjZvTGAh6737Mb"
@@ -2329,7 +2473,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 257178,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/0XafrYWJ9cIiJW5klEDHAa"

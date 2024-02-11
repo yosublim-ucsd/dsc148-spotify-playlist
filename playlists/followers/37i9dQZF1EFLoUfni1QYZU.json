@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 667,
+  "2024-02-11": 667,
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et\">LP</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By LP",
@@ -711,6 +711,32 @@
       "duration_ms": 213185,
       "name": "I'll Do It (feat. iGodzilla)",
       "url": "https://open.spotify.com/track/7l5VYsDwOo3oWvUgVZOb9T"
+    },
+    {
+      "album": {
+        "name": "I'll Do It",
+        "url": "https://open.spotify.com/album/1aRgeeKy6eddP18FXgK2aK"
+      },
+      "artists": [
+        {
+          "name": "2kMay",
+          "url": "https://open.spotify.com/artist/5vC3PGGBIp1fPF0GOyanlt"
+        },
+        {
+          "name": "lilster",
+          "url": "https://open.spotify.com/artist/2nCL53xQ71uzEmr6pZWuNM"
+        },
+        {
+          "name": "iGodzilla",
+          "url": "https://open.spotify.com/artist/2AB1nrkYl5qrgFmbk45Lez"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213252,
+      "name": "I'll Do It (feat. iGodzillla)",
+      "url": "https://open.spotify.com/track/5Gy8YH9BWsmuwRejNvGOwo"
     },
     {
       "album": {

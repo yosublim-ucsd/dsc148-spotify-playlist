@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: <a href="spotify:artist:2jwmP4TgzTGqjCfcXMDayW">FRVRFRIDAY</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,492 likes - 99 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,531 likes - 99 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 25 | [Fly god manners](https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [LONERWRLD, vol 1](https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah) | 2:10 |
 | 26 | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/album/5yHCpPgd6ejBh3rHRZ5WSK) | 2:40 |
 | 27 | [Vardaat](https://open.spotify.com/track/6MhN6BPoZIQ050ZEQWZsvc) | [Big Boi Deep](https://open.spotify.com/artist/22xy6sNTr6YjtsoV9Mh6S6), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Vardaat](https://open.spotify.com/album/4TsDcSWdOmUUEdExgNNYzc) | 2:21 |
-| 28 | [CHINA TOWN \(with Lil B\)](https://open.spotify.com/track/4vViYyuQsqeg7WVcv7DoU4) | [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [CHINA TOWN \(with Lil B\)](https://open.spotify.com/album/1ABTRC3AQ41huRWDpblWZl) | 3:04 |
+| 28 | [CHINA TOWN](https://open.spotify.com/track/4vViYyuQsqeg7WVcv7DoU4) | [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [CHINA TOWN](https://open.spotify.com/album/1ABTRC3AQ41huRWDpblWZl) | 3:04 |
 | 29 | [NO EMOTION / ADRENALINE](https://open.spotify.com/track/6Kv0nSSKP1GxJsZCCh3DrM) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [NO EMOTION / ADRENALINE](https://open.spotify.com/album/0nBp7q8MwjEjqojkCznuJc) | 3:25 |
 | 30 | [Strictly](https://open.spotify.com/track/5ynWLIQkVwBsoBJrvYLUYH) | [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Strictly](https://open.spotify.com/album/0IQQFjjQ8dF8hEdOr3osJf) | 2:51 |
 | 31 | [On & On](https://open.spotify.com/track/1e7UBMdqcr3WqSBmDMk5YI) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [Lolly D](https://open.spotify.com/artist/5ktMdxOh53mFdQcTKGySsL) | [On & On](https://open.spotify.com/album/64ZYJwlXXQVNPlXEdteQdc) | 3:20 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 98 | [Beams Don't Lose Balance](https://open.spotify.com/track/4v2tggb0uijJLiRqgSD0RU) | [Zeuce](https://open.spotify.com/artist/1QIW19JeWy2vtQDvH3JXkj) | [Beams Don't Lose Balance](https://open.spotify.com/album/5vK5KcBpEAh6FGX5ZfITbv) | 1:51 |
 | 99 | [Eyes On Me](https://open.spotify.com/track/4nNwfJM1DixAKRqnLFz0GS) | [Che](https://open.spotify.com/artist/3E5ZrCLCq0HP63QQHF6ttp) | [Eyes On Me](https://open.spotify.com/album/5eUasOW00sfNnxnOALm9Vo) | 2:58 |
 
-Snapshot ID: `MCwxMzNlNzE1MGQ4NzRjOWY3MDhjNmFlOGQ1ZmU2YjI3NTc0YTk5YmY3`
+Snapshot ID: `MCxjZjk5OWY5MWE4M2VlNjZmOTE0MjE0MjZkNmJmZTQyNzlkM2MwNWEx`

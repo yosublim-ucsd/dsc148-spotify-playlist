@@ -5723,6 +5723,24 @@
     },
     {
       "album": {
+        "name": "Titanium (Nina Sofie Version)",
+        "url": "https://open.spotify.com/album/5KDJEzHwSvD9yi7f8XQ7z8"
+      },
+      "artists": [
+        {
+          "name": "Nina Sofie",
+          "url": "https://open.spotify.com/artist/3lJmsswS82rAa5qaOyrICa"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212443,
+      "name": "Titanium (Nina Sofie Version)",
+      "url": "https://open.spotify.com/track/6JVj1kLMutHGrDDP1vsdys"
+    },
+    {
+      "album": {
         "name": "Music Is The Weapon (Reloaded)",
         "url": "https://open.spotify.com/album/5pmiFuzEtKlwWQhy5irJIJ"
       },

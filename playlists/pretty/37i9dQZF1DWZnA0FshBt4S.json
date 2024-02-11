@@ -1,12 +1,12 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk",
-  "num_followers": 103106,
+  "num_followers": 103163,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTVlNzVmYzVmNjY3NWZkN2VlNDYyZGVmYzMzNGRhOWE4NDNmYjUz",
+  "snapshot_id": "MCxmMjMxZjkwZmNlYzg0NjhkZjI4OTczMDQ4MjE2NjUzYjBmOTA1OWMy",
   "tracks": [
     {
       "added_at": "2023-02-01 04:53:20",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Welcome To Diverse City",
-        "url": "https://open.spotify.com/album/08J3ZjZXN1J5qNbla71PYI"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 319053,
-      "name": "Phenomenon",
-      "url": "https://open.spotify.com/track/6qua1VkixdXsqWfxGBNf8d"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "Sixpence None the Richer: Greatest Hits",
         "url": "https://open.spotify.com/album/21KNgondk578mn6CS8AAKu"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 246066,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/7Gv5J3aHzvZ7ODLGUdfl6C"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Welcome To Diverse City",
+        "url": "https://open.spotify.com/album/08J3ZjZXN1J5qNbla71PYI"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 319053,
+      "name": "Phenomenon",
+      "url": "https://open.spotify.com/track/6qua1VkixdXsqWfxGBNf8d"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "# 1's Vol. 1",
-        "url": "https://open.spotify.com/album/0bYtirzI9EXXCcu3gz8FRP"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 306680,
-      "name": "Speechless",
-      "url": "https://open.spotify.com/track/6GhzOYfrReyXf19U4YuGXm"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "Anointed",
         "url": "https://open.spotify.com/album/2E9vqclDxqceNEMbYn6IxB"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 248400,
       "name": "Revive Us",
       "url": "https://open.spotify.com/track/3C6jSw9wdYUEdgtSMjLsZn"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "# 1's Vol. 1",
+        "url": "https://open.spotify.com/album/0bYtirzI9EXXCcu3gz8FRP"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 306680,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/6GhzOYfrReyXf19U4YuGXm"
     },
     {
       "added_at": "2023-02-01 04:53:20",

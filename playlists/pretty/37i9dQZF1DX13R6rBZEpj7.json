@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 203027,
+  "num_followers": 203113,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmNhNmRhZGVmOTEzMjA3MzEzNTI5ZGYwOGNkMGUwNTA2ZTM2ODgz",
+  "snapshot_id": "MCw1NjhhN2Y2MjQ0MTcxNjhlM2M4MzMwZjIyMzEzNGVjOGYwOTE5MzUy",
   "tracks": [
     {
       "added_at": "2024-01-26 00:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Ikebana - EP",
-        "url": "https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        },
-        {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
-        }
-      ],
-      "duration_ms": 226896,
-      "name": "Misfit",
-      "url": "https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "Skanker",
         "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 227189,
       "name": "Skanker",
       "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "Ikebana - EP",
+        "url": "https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        }
+      ],
+      "duration_ms": 226896,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1031,22 +1031,18 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Gully",
-        "url": "https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt"
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
       },
       "artists": [
         {
-          "name": "Solex",
-          "url": "https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G"
-        },
-        {
-          "name": "Fugzi",
-          "url": "https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc"
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
         }
       ],
-      "duration_ms": 210461,
-      "name": "Gully",
-      "url": "https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri"
+      "duration_ms": 166153,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1091,18 +1087,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
+        "name": "Gully",
+        "url": "https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt"
       },
       "artists": [
         {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+          "name": "Solex",
+          "url": "https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G"
+        },
+        {
+          "name": "Fugzi",
+          "url": "https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
+      "duration_ms": 210461,
+      "name": "Gully",
+      "url": "https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri"
     },
     {
       "added_at": "2024-01-26 00:00:00",

@@ -4,7 +4,7 @@
 
 > The amazing sounds of the tropics.
 
-350 songs - 1 day 4 hr 30 min
+351 songs - 1 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [La Llave](https://open.spotify.com/track/3SNdurYfD7XOxq6kwiisjA) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma) | [Su Estilo Y Su Ritmo](https://open.spotify.com/album/4NT8pitaK3jMeC1PCPu688) | 2:41 | 2021-12-24 |  |
 | [La Mala Hierba](https://open.spotify.com/track/7roXX6Vj5MdgScXZjR9lrf) | [Hernando Hernández](https://open.spotify.com/artist/7q48B9cH1dSsNVqjGY0Uye) | [Rey de Rocha: Super Éxitos](https://open.spotify.com/album/0ddhEW1eFe9bZUmCnREkr6) | 3:55 | 2021-12-24 |  |
 | [La Mala Maña](https://open.spotify.com/track/7cvUar0WXTK7cCYJzVCmfa) | [El Afinaito](https://open.spotify.com/artist/2n3i5T3VD5GwwjlQCnT51Z) | [Champetas de Mi Pueblo, Vol\. 3](https://open.spotify.com/album/0CBDDoybFqiMTUVwG3bxe8) | 4:02 | 2021-12-24 |  |
-| [La Mamba Te Invita](https://open.spotify.com/track/2i4TqpwXwchnpTQDtus4a6) | [La Mambanegra](https://open.spotify.com/artist/1TCrJDPaqtcTkAEcSl0kBZ) | [La Mamba Te Invita](https://open.spotify.com/album/0VyuMarOb6akgrVKyIV1jj) | 3:53 | 2021-12-24 |  |
+| [La Mamba Te Invita](https://open.spotify.com/track/1roAXVa9BZDaQcDYDoTlrt) | [La Mambanegra](https://open.spotify.com/artist/1TCrJDPaqtcTkAEcSl0kBZ) | [La Mamba Te Invita](https://open.spotify.com/album/2BV8ivuwdrTCZCRrg8Lyop) | 3:53 | 2021-12-24 |  |
+| [La Mamba Te Invita](https://open.spotify.com/track/2i4TqpwXwchnpTQDtus4a6) | [La Mambanegra](https://open.spotify.com/artist/1TCrJDPaqtcTkAEcSl0kBZ) | [La Mamba Te Invita](https://open.spotify.com/album/0VyuMarOb6akgrVKyIV1jj) | 3:53 | 2021-12-24 | 2024-02-11 |
 | [La Mentecata](https://open.spotify.com/track/5UgJ50OthYUiX7TBpRdFJn) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Ikaro del Amor](https://open.spotify.com/album/6Lh7dNpwKlQ64i07eFBbvA) | 7:27 | 2021-12-24 |  |
 | [La Mujer de Antonio](https://open.spotify.com/track/2vId9ZQMJNJhJiLuG4D47w) | [Trio Matamoros](https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW) | [Aquellos Tiempos del Trio Matamoros](https://open.spotify.com/album/3BHKao5ijqNQq4eCj8m6Ij) | 2:34 | 2021-12-24 |  |
 | [La Musica en vérité](https://open.spotify.com/track/6KG3uMvfPVb2dkU4hfMMiJ) | [Gnonnas Pedro et ses Dadjes](https://open.spotify.com/artist/102XE3OKVJ8ri01yWEjH1D) | [Legends of Benin \(Analog Africa No\. 5\)](https://open.spotify.com/album/2IwDFFtsvqq7FZheZ20bKC) | 7:11 | 2021-12-24 |  |

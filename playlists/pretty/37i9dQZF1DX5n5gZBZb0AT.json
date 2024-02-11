@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 368021,
+  "num_followers": 368630,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2MyYWI5MTgxMjY3NGM1M2NhZTdmNjAzOGRiMGQ1MDI5MjQ2ZmRi",
+  "snapshot_id": "MCxiZjUyYzI0NDk4Y2JmMzYxZDkxY2U0OTdjOWVhZmYzYWU5N2Q5NjVj",
   "tracks": [
     {
       "added_at": "2024-01-31 16:04:54",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-01-31 16:04:54",
       "album": {
+        "name": "BRODYAGA FUNK",
+        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "BRODYAGA FUNK",
+      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
+    },
+    {
+      "added_at": "2024-01-31 16:04:54",
+      "album": {
         "name": "Brazilian Phonk Mano",
         "url": "https://open.spotify.com/album/21IZMCIicxvkvHtuh0GTxj"
       },
@@ -523,22 +539,6 @@
     {
       "added_at": "2024-01-31 16:04:54",
       "album": {
-        "name": "Rotten",
-        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 139440,
-      "name": "HDMI",
-      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
-    },
-    {
-      "added_at": "2024-01-31 16:04:54",
-      "album": {
         "name": "WAKE UP!",
         "url": "https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l"
       },
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-01-31 16:04:54",
       "album": {
-        "name": "BRODYAGA FUNK",
-        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
+        "name": "Rotten",
+        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
       },
       "artists": [
         {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
         }
       ],
-      "duration_ms": 134785,
-      "name": "BRODYAGA FUNK",
-      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
+      "duration_ms": 139440,
+      "name": "HDMI",
+      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
     },
     {
       "added_at": "2024-01-31 16:04:54",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-01-31 16:04:54",
       "album": {
-        "name": "Disaster",
-        "url": "https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC"
-      },
-      "artists": [
-        {
-          "name": "KSLV Noh",
-          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
-        }
-      ],
-      "duration_ms": 84138,
-      "name": "Disaster",
-      "url": "https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW"
-    },
-    {
-      "added_at": "2024-01-31 16:04:54",
-      "album": {
         "name": "Hexada",
         "url": "https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 124538,
       "name": "Mercury: Retrograde",
       "url": "https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV"
+    },
+    {
+      "added_at": "2024-01-31 16:04:54",
+      "album": {
+        "name": "Disaster",
+        "url": "https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC"
+      },
+      "artists": [
+        {
+          "name": "KSLV Noh",
+          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
+        }
+      ],
+      "duration_ms": 84138,
+      "name": "Disaster",
+      "url": "https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW"
     },
     {
       "added_at": "2024-01-31 16:04:54",
@@ -719,26 +719,6 @@
     {
       "added_at": "2024-01-31 16:04:54",
       "album": {
-        "name": "DILATA\u00c7\u00c3O HIPN\u00d3TICA 6.0",
-        "url": "https://open.spotify.com/album/2bA0h58Fb6wT5ZgaP10sVs"
-      },
-      "artists": [
-        {
-          "name": "DJ FLG",
-          "url": "https://open.spotify.com/artist/6DlWUEM6Qr9z6p6YAOLBDh"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 150524,
-      "name": "DILATA\u00c7\u00c3O HIPN\u00d3TICA 6.0",
-      "url": "https://open.spotify.com/track/6WyOuugKx4QEZl4PmIyT9G"
-    },
-    {
-      "added_at": "2024-01-31 16:04:54",
-      "album": {
         "name": "WINTER ARC FUNK",
         "url": "https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT"
       },
@@ -751,6 +731,22 @@
       "duration_ms": 91875,
       "name": "WINTER ARC FUNK",
       "url": "https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW"
+    },
+    {
+      "added_at": "2024-01-31 16:04:54",
+      "album": {
+        "name": "Override",
+        "url": "https://open.spotify.com/album/3IivT4yfr3wvtbo1PTgzCP"
+      },
+      "artists": [
+        {
+          "name": "KSLV Noh",
+          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
+        }
+      ],
+      "duration_ms": 114624,
+      "name": "Override",
+      "url": "https://open.spotify.com/track/6O4oKV3btLiEtOgEuplIUn"
     }
   ],
   "unique_name": "gymcore",

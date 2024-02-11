@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-508 songs - 1 day 4 hr 37 min
+509 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Lit The Fire](https://open.spotify.com/track/1QC3Hy30xDloQAF8yVkPYR) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Ralph](https://open.spotify.com/album/7fvhLoXyMHDrob2ceCfytA) | 2:50 | 2019-06-01 | 2021-05-28 |
 | [Little White Lies](https://open.spotify.com/track/6XUscCqVIKxsRKtIQeDuts) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Little White Lies \- EP](https://open.spotify.com/album/1YnCZg48VNqJKeFhzcZXOA) | 3:03 | 2019-07-28 | 2019-08-10 |
 | [Lonely Beat](https://open.spotify.com/track/5mdgcqfSqwbQfzRCw9lO4j) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Lonely Beat](https://open.spotify.com/album/3yyy2ZGtSeVxP9nyw2TL9v) | 2:53 | 2021-12-17 | 2021-12-21 |
-| [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 | 2021-10-23 |  |
+| [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 | 2021-10-23 | 2024-02-11 |
 | [Losing Game \(feat\. ALY\)](https://open.spotify.com/track/70iVmItC1v32Wn1iosoXFx) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [ALY](https://open.spotify.com/artist/7zVXJ9gnmh8fr40va63ujD) | [Losing Game \(feat\. ALY\)](https://open.spotify.com/album/2tVg5YK9LEbT5xRJrzk8KG) | 2:38 | 2022-03-25 | 2022-04-21 |
 | [Losing You](https://open.spotify.com/track/1AY7xcMNSEoX1GQJcKb6kV) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/5zn3NnRE1Z547Hj3EIVODf) | 4:20 | 2019-07-27 | 2019-08-05 |
 | [Losing You \- Spotify Singles](https://open.spotify.com/track/76BUikFfXcbbOasPMbOCaZ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ), [Joe Cleere](https://open.spotify.com/artist/6P4CBsjZN4ZsBfMnBMYFCA) | [Losing You \- Spotify Singles](https://open.spotify.com/album/4mvTc8TXIbBjfruHuuwk4m) | 3:00 | 2023-12-08 |  |
@@ -466,6 +466,7 @@
 | [Thoughts](https://open.spotify.com/track/2jm0S3dMxpAz5H59z4lOJH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Thoughts](https://open.spotify.com/album/3XFWmmwiJR0i7WnHDvgten) | 3:05 | 2019-06-11 | 2021-10-27 |
 | [Tonight I'm Getting Over You](https://open.spotify.com/track/6aBlCSb7vQyx8yT8UThNx9) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/5PHSzXdbGLlS2EnTVKqjbI) | 3:39 | 2019-06-26 | 2019-08-10 |
 | [Too Much](https://open.spotify.com/track/7kG3DPhoPsltuT0vxENI6E) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 3:17 | 2022-03-25 | 2022-04-19 |
+| [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-02-09 |  |
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2022-11-11 |  |
 | [Tornado Warnings](https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:24 | 2022-07-21 |  |
 | [Trigger](https://open.spotify.com/track/0Z26mbSHJ1dkUu7g9DDgif) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Trigger](https://open.spotify.com/album/3Fcqa5sb0vVYEEDHzkiOA1) | 2:51 | 2019-11-18 | 2021-10-16 |

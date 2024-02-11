@@ -3926,7 +3926,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 315626,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/1ffTuRRrqqiDG0T1CPJse8"
@@ -5100,6 +5100,24 @@
       "duration_ms": 198600,
       "name": "Therion",
       "url": "https://open.spotify.com/track/6d6kRYVYXDD5MLE2iJK6i6"
+    },
+    {
+      "album": {
+        "name": "Thornwyck Hymn",
+        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
+      },
+      "artists": [
+        {
+          "name": "My Dying Bride",
+          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407783,
+      "name": "Thornwyck Hymn",
+      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
     },
     {
       "album": {

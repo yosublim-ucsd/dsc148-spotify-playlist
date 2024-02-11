@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 0,
+  "2024-02-11": 0,
   "date_first_scraped": "2023-02-13",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@ajcooke94)",
@@ -704,6 +704,28 @@
     },
     {
       "album": {
+        "name": "Ach Du scheisse (schon wieder besoffen)",
+        "url": "https://open.spotify.com/album/56hqDaPN7RTAUDK0tKWpCo"
+      },
+      "artists": [
+        {
+          "name": "Kings of G\u00fcnter",
+          "url": "https://open.spotify.com/artist/64Tp3pyyHag0ngw5SLchgY"
+        },
+        {
+          "name": "Die Letzte Reihe",
+          "url": "https://open.spotify.com/artist/4u37B6kmShdbLwG2eYlzHl"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211375,
+      "name": "Ach Du scheisse (Schon wieder besoffen)",
+      "url": "https://open.spotify.com/track/6AysI42rEUZvViOLNFgX6i"
+    },
+    {
+      "album": {
         "name": "Evenings At The Village Gate: John Coltrane with Eric Dolphy (Live)",
         "url": "https://open.spotify.com/album/7AleWm3WG8Ko8AJjfaa3oW"
       },
@@ -935,7 +957,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 189535,
       "name": "Ally's Song",
       "url": "https://open.spotify.com/track/7KHWN1YP0PY8deaq0IykBe"
@@ -2739,7 +2761,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 266125,
       "name": "Blue Monday (Metal Version)",
       "url": "https://open.spotify.com/track/3m2Qqez8qEUhVcf8pYGwD2"
@@ -5988,6 +6010,32 @@
     },
     {
       "album": {
+        "name": "Drums (Remix Package)",
+        "url": "https://open.spotify.com/album/2df9ySxIlwdbyRlajvjCnP"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Drums - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2yer5M0V6Dd0YkvYWKC666"
+    },
+    {
+      "album": {
         "name": "Drunken Sailor (Metal Version)",
         "url": "https://open.spotify.com/album/7qWqfEemHNdzUUA5R6eEP2"
       },
@@ -6380,6 +6428,32 @@
     },
     {
       "album": {
+        "name": "LOS ELEKTRONIKOS",
+        "url": "https://open.spotify.com/album/5F12ttnwZIdIro5ICLkRgG"
+      },
+      "artists": [
+        {
+          "name": "Muzik Junkies",
+          "url": "https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "AROCK",
+          "url": "https://open.spotify.com/artist/47pIWqTVLta4q0qlPELe3o"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121874,
+      "name": "ESE CULO",
+      "url": "https://open.spotify.com/track/55YfkRDAwabJHrZpAbOvj7"
+    },
+    {
+      "album": {
         "name": "Esta Vida",
         "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
       },
@@ -6725,7 +6799,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 200689,
       "name": "FACTS",
       "url": "https://open.spotify.com/track/2ue12T2b9JXlErJJ6NSs8W"
@@ -7187,7 +7261,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 184968,
       "name": "Flight 643 (FYH387) - KAAZE Remix",
       "url": "https://open.spotify.com/track/0E5RNXwHPuNNOuCusDDYAx"
@@ -7907,6 +7981,24 @@
       "duration_ms": 111990,
       "name": "Fuck Wit Y'All (Chopped & Screwed)",
       "url": "https://open.spotify.com/track/0Su4rQjztMYBGnLvDP4iO1"
+    },
+    {
+      "album": {
+        "name": "Funky Cold Medina (Metal Version)",
+        "url": "https://open.spotify.com/album/2QOMXFp43o5pGwm6xc4fq1"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266197,
+      "name": "Funky Cold Medina (Metal Version)",
+      "url": "https://open.spotify.com/track/36u0QeIsResYNo1SkcLQFG"
     },
     {
       "album": {
@@ -8813,7 +8905,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 139857,
       "name": "Heather On The Hill",
       "url": "https://open.spotify.com/track/5qp6ldowNjjJBz4jcs3Owm"
@@ -9091,7 +9183,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 192818,
       "name": "HISS",
       "url": "https://open.spotify.com/track/5DjC1aw5JXAzPKojrLiSID"
@@ -9189,7 +9281,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 226707,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/6qZOQKoGnQUpY5BHIOOtPB"
@@ -9531,6 +9623,24 @@
       "duration_ms": 237124,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/2GBTgnhUDZyweeg7mTwhOi"
+    },
+    {
+      "album": {
+        "name": "Her Thoughts",
+        "url": "https://open.spotify.com/album/6O0Yg7vMVL9txMkxXGwjtD"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168200,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5tBbxTvjJ2e1gc4vLnRzEF"
     },
     {
       "album": {
@@ -10379,6 +10489,24 @@
       "duration_ms": 214000,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
+    },
+    {
+      "album": {
+        "name": "Late Night Thelonious Monk",
+        "url": "https://open.spotify.com/album/2SUQ2KduYVwgJstPq2nz8s"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190948,
+      "name": "Introspection - Remastered 2013",
+      "url": "https://open.spotify.com/track/1whnVNKaYTdBatWkX8TX7T"
     },
     {
       "album": {
@@ -13837,7 +13965,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 180872,
       "name": "Murder on the Dance Floor - triple j Like A Version",
       "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
@@ -15959,7 +16087,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 258417,
       "name": "Popular (Slowed) (with Playboi Carti & Madonna)",
       "url": "https://open.spotify.com/track/2fTe41iso7GyCLuRu3UmJh"
@@ -16171,7 +16299,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 176500,
       "name": "Praise the Lord (feat. Thomas Rhett) - Live",
       "url": "https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1"
@@ -16978,6 +17106,52 @@
     },
     {
       "album": {
+        "name": "Roll Call",
+        "url": "https://open.spotify.com/album/0BlAYqNVSmgRtIL1pYPEcb"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne Collabos",
+          "url": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Rittz",
+          "url": "https://open.spotify.com/artist/5sRhscbWRXFbjXtSZyfaWY"
+        },
+        {
+          "name": "King Iso",
+          "url": "https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle"
+        },
+        {
+          "name": "Joey Cool",
+          "url": "https://open.spotify.com/artist/1A8NEJYo3VW9aIZ6l55Dgu"
+        },
+        {
+          "name": "JL",
+          "url": "https://open.spotify.com/artist/43Ni20kavBjsPjfQnJ78On"
+        },
+        {
+          "name": "Lex Bratcher",
+          "url": "https://open.spotify.com/artist/72bCjI953sBXUcEccj0SWf"
+        },
+        {
+          "name": "X-Raided",
+          "url": "https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365161,
+      "name": "Roll Call",
+      "url": "https://open.spotify.com/track/0RzetgoIPY1gVQPSRSGeXK"
+    },
+    {
+      "album": {
         "name": "Roll Up",
         "url": "https://open.spotify.com/album/6ebMagmjBXUAWtP4jwHnBs"
       },
@@ -17607,7 +17781,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 229331,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
@@ -18770,6 +18944,40 @@
     },
     {
       "album": {
+        "name": "hella (\u02c3\u0323\u0323\u0325\u256d\u256e\u02c2\u0323\u0323\u0325) \u2727 \u2661 \u2027\u00ba\u00b7\u02da",
+        "url": "https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211634,
+      "name": "SPIKY BOiz",
+      "url": "https://open.spotify.com/track/6VY0e7CeU2vb3hgU9X5eDR"
+    },
+    {
+      "album": {
         "name": "Spin You Around (1/24)",
         "url": "https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It"
       },
@@ -18781,7 +18989,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 209427,
       "name": "Spin You Around (1/24)",
       "url": "https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE"
@@ -20989,7 +21197,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 141639,
       "name": "Think U The Shit (Fart)",
       "url": "https://open.spotify.com/track/1A5MRadR3FEBVwiQY6OKNA"
@@ -21381,6 +21589,24 @@
       "duration_ms": 179085,
       "name": "TOUT SE TRANSFORME. - Bande originale du film \u00ab Transformers : Rise of the Beasts \u00bb",
       "url": "https://open.spotify.com/track/1gK32g6j6pjlGT6DLtsod4"
+    },
+    {
+      "album": {
+        "name": "Trail of Whispering Giants",
+        "url": "https://open.spotify.com/album/2CqpbiWGVxDERpA6mNVSqC"
+      },
+      "artists": [
+        {
+          "name": "If These Trees Could Talk",
+          "url": "https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479797,
+      "name": "Trail of Whispering Giants",
+      "url": "https://open.spotify.com/track/3xjgL34w9NvQu7qpbMX4Wk"
     },
     {
       "album": {
@@ -22683,7 +22909,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 209493,
       "name": "We sell weed - Remixed",
       "url": "https://open.spotify.com/track/7qNAcy7CI9m27UqOQmMDBO"
@@ -22813,7 +23039,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 168696,
       "name": "Wenn der Krankenwagen kommt (Ist die Party vorbei)",
       "url": "https://open.spotify.com/track/1Hn7O3FjyTAEeInraHc5z0"
@@ -23094,6 +23320,28 @@
     },
     {
       "album": {
+        "name": "A Grey Area (Live Sessions)",
+        "url": "https://open.spotify.com/album/4RTgnKqmdtb25iXJd35TBL"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312933,
+      "name": "When You Think Of Me (feat. Cory Henry) - Live with Cory Henry",
+      "url": "https://open.spotify.com/track/6iYIBGy2bUfw9LElbnamRT"
+    },
+    {
+      "album": {
         "name": "When You Wish Upon a Star (From \"Disney 100\")",
         "url": "https://open.spotify.com/album/5AGZKi74CsJrmJ7hJAFNrH"
       },
@@ -23200,6 +23448,36 @@
     },
     {
       "album": {
+        "name": "Why Does My Heart Feel So Bad? ft. Moby",
+        "url": "https://open.spotify.com/album/5OEFp39MoJbidxnJP0kWwJ"
+      },
+      "artists": [
+        {
+          "name": "AVALAN ROKSTON",
+          "url": "https://open.spotify.com/artist/3WqiBOiSB2FlD25EX9893G"
+        },
+        {
+          "name": "Avalan",
+          "url": "https://open.spotify.com/artist/13v2M5UZ3bbOCGmuvo7uFw"
+        },
+        {
+          "name": "Rokston",
+          "url": "https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194121,
+      "name": "Why Does My Heart Feel So Bad? ft. Moby",
+      "url": "https://open.spotify.com/track/32To9xdbuIG2QWqpRlcBHZ"
+    },
+    {
+      "album": {
         "name": "Blood Money Part Zer0",
         "url": "https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt"
       },
@@ -23276,6 +23554,24 @@
     },
     {
       "album": {
+        "name": "From The Capitol Vaults",
+        "url": "https://open.spotify.com/album/7ukWwALcdnZPMmvAx0AilR"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145083,
+      "name": "Wine, Women And Song",
+      "url": "https://open.spotify.com/track/4zOS0pvzKPLBqhrHiIOH5F"
+    },
+    {
+      "album": {
         "name": "Wings Of Time (From the Motion Picture Dungeons & Dragons: Honor Among Thieves)",
         "url": "https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ"
       },
@@ -23291,6 +23587,24 @@
       "duration_ms": 168786,
       "name": "Wings Of Time - From the Motion Picture Dungeons & Dragons: Honor Among Thieves",
       "url": "https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS"
+    },
+    {
+      "album": {
+        "name": "Winter Dreamin'",
+        "url": "https://open.spotify.com/album/2khbVKACHbQ4UxShCbB4Th"
+      },
+      "artists": [
+        {
+          "name": "Michael Reiss",
+          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219541,
+      "name": "Winter Dreamin'",
+      "url": "https://open.spotify.com/track/3EMWJCLAscSYAYlcBKEt65"
     },
     {
       "album": {

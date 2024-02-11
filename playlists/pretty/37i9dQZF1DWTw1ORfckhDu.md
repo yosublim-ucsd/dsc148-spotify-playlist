@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Turisti ja Cledos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,053 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,064 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Replay](https://open.spotify.com/track/34RoeRueCNRMA2pfyoufXc) | [Nisa](https://open.spotify.com/artist/5aWYRHbabsqvieG2TeQTtK) | [Replay](https://open.spotify.com/album/1z5Fnw13SHLxT8WYWWEpee) | 2:28 |
 | 60 | [SCARFACE](https://open.spotify.com/track/2cYvIhXWyxemWWRJuvVa1r) | [Eevil Stöö](https://open.spotify.com/artist/0hD2uZfgcwrRRMcPYQ45pf), [Paperi T](https://open.spotify.com/artist/3rOOythoKLiiyXJYh3XIMu) | [Advanced Dungeon & Dragon](https://open.spotify.com/album/0oY6Z98V9G8aOdl5RN8nBJ) | 2:58 |
 
-Snapshot ID: `MCwwNzlkMDM3MTEzNDdmZDg0YmEyM2EzNzc4YWZjNzI4MzExN2E2NjEz`
+Snapshot ID: `MCw3MjMwOTlkMmM3NmQwNzlhYmI1NDExMTllNDkzYWQzNzI3MTI2ZGIx`

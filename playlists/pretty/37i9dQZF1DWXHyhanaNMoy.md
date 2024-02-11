@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Oualid
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,891 likes - 56 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,931 likes - 56 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tuesday](https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Tuesday](https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn) | 2:54 |
 | 2 | [IK HAAT JE](https://open.spotify.com/track/4bTsUyzB9BG0uMeEJKmTvQ) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Nour](https://open.spotify.com/artist/6WTbF37PMzLOtx9yllkyDq) | [Nafsi \(Pt\. II\)](https://open.spotify.com/album/6rneBPWDNtU6TIUTVMehfq) | 2:56 |
-| 3 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 |
-| 4 | [Égalité](https://open.spotify.com/track/4vomlztZrN1nspKvzfCEJI) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Lost & Found](https://open.spotify.com/album/5cW90rGxu6denjf08pebZw) | 2:33 |
-| 5 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 |
-| 6 | [My Type](https://open.spotify.com/track/6OG7hyl1LZv2dq9QXX7WEv) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [My Type](https://open.spotify.com/album/5RrcjQOHU4p7Buzgkj1cvq) | 2:55 |
+| 3 | [My Type](https://open.spotify.com/track/6OG7hyl1LZv2dq9QXX7WEv) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [My Type](https://open.spotify.com/album/5RrcjQOHU4p7Buzgkj1cvq) | 2:55 |
+| 4 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 |
+| 5 | [Égalité](https://open.spotify.com/track/4vomlztZrN1nspKvzfCEJI) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Lost & Found](https://open.spotify.com/album/5cW90rGxu6denjf08pebZw) | 2:33 |
+| 6 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 |
 | 7 | [T’étais où ?](https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [T’étais où ?](https://open.spotify.com/album/4YzgzJggoHU1azpDoUMMf5) | 3:41 |
 | 8 | [Rare flex](https://open.spotify.com/track/6gIoKG5cvpoQBfdbNToMUQ) | [Cherr](https://open.spotify.com/artist/4zEBX90cszl8dwxFf0sU4R) | [Rare flex](https://open.spotify.com/album/2nZO4WRMXJwmj2vt1roMsj) | 1:48 |
 | 9 | [Tour](https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:52 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 55 | [Betta Guy](https://open.spotify.com/track/0GoMbFiHdaeI5iHiu2DjaD) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk) | [Betta Guy](https://open.spotify.com/album/1Q5PCsixXRAAof0kGQQemA) | 2:18 |
 | 56 | [Wine](https://open.spotify.com/track/7fkcuw6dSm4qj3qpQDcZBk) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [Wine](https://open.spotify.com/album/086H49iD9n9AmVmH0S3Gns) | 3:17 |
 
-Snapshot ID: `MCw5MmUxN2ZlNWFjYTc1ZmM3NDE1MDE0N2Y3OTkyMmY5NzE3N2U1NjJm`
+Snapshot ID: `MCxjMjI2ZTVkMWU5YjBlNWQ3MzY5YTkzOWEyODRkMjM0YmI3NWJlNDEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,541 likes - 129 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,654 likes - 129 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 | 37 | [Salvation Army](https://open.spotify.com/track/2WKH12vONrIi0NWdUsPM5y) | [Harrison Whitford](https://open.spotify.com/artist/2KAaIurA00NK4IAnbC6nB8) | [Afraid of Nothing](https://open.spotify.com/album/6dx3PkUd6rUBC5CaVShL0N) | 3:48 |
 | 38 | [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 |
 | 39 | [Goodbye \(with Soap & Skin\)](https://open.spotify.com/track/6BJXuY0lY0EUtSDCgkYnqE) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot), [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [The Devil's Walk](https://open.spotify.com/album/5EHvg6pPmS7wBzcCjXZIs3) | 4:29 |
-| 40 | [Heaven](https://open.spotify.com/track/5ZiigafDOtWnrNixa0ukEc) | [Grace Cummings](https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a) | [Heaven](https://open.spotify.com/album/76Tv0cocmSJNZXiS2tAOi3) | 4:45 |
+| 40 | [Heaven](https://open.spotify.com/track/0oHNSRx0qB7qyeuZ8Ld5xq) | [Grace Cummings](https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a) | [Storm Queen](https://open.spotify.com/album/0rztMoYDEwkHCBnyxKDu1n) | 4:45 |
 | 41 | [Mayonnaise](https://open.spotify.com/track/2lSAqPR6AjU2rmeB6VnszB) | [Shana Cleveland](https://open.spotify.com/artist/5E6dR5oDjhT39zr1YuXRq0) | [Manzanita](https://open.spotify.com/album/1U7BenRoyJVYOzEmt6o8uI) | 2:57 |
 | 42 | [Joey](https://open.spotify.com/track/4DpPrilNCDa86zvwI6BUcD) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [A Small Death](https://open.spotify.com/album/7veNlo53uwJjMtxwQUTNOx) | 4:40 |
 | 43 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 | 128 | [Nica Libres At Dusk](https://open.spotify.com/track/5eSH7Aubn6Ol80ynF4MV2L) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Noonday Dream](https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs) | 6:34 |
 | 129 | [Through a Glass \(Quartet Version\)](https://open.spotify.com/track/5WtvoPeSpp6pIp9bG6arVS) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds Quartets](https://open.spotify.com/album/3UAvR6CXIWN1rChkxlZ1OM) | 3:53 |
 
-Snapshot ID: `MCxmY2E5NGU2YzBhNjc2NGRhYWU2YmQzZTczMGZiOTExZTliYmVkMjI4`
+Snapshot ID: `MCwxNDdhMjMxZGRkZTZkZjM3MjdmYTE0ZjI4YTZlMzU0NWQ4ZWYzNjM0`

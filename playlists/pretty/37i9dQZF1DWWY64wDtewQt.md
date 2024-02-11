@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,520,201 likes - 100 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,526,682 likes - 100 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 58 | [Broken Trust](https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte) | [SAY3AM](https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Broken Trust](https://open.spotify.com/album/3Wm96XwUfNEfVCTYmyQmBH) | 2:03 |
 | 59 | [YUMMI](https://open.spotify.com/track/3RlfkOE0lXMec08I6CaakR) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [YOUK3IV](https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4) | [YUMMI](https://open.spotify.com/album/4J0FEQtbjPH1DA60p6bKe9) | 1:35 |
 | 60 | [THE AUTOTREM 1.0](https://open.spotify.com/track/1cOOhtwpwDFIjsuZkp2KYJ) | [DJ RICK 013](https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [THE AUTOTREM 1.0](https://open.spotify.com/album/3B6zpOLO07POn5FKcNwTKB) | 2:29 |
-| 61 | [AREAMATE MIZ](https://open.spotify.com/track/2xIwyvnngUMIicY5S878bw) | [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP) | [AREAMATE MIZ](https://open.spotify.com/album/5oK1imDovp9wQucztWuafS) | 1:16 |
+| 61 | [AREAMATE MIZ](https://open.spotify.com/track/2xIwyvnngUMIicY5S878bw) | [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP), [Polaris](https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs) | [AREAMATE MIZ](https://open.spotify.com/album/5oK1imDovp9wQucztWuafS) | 1:16 |
 | 62 | [PSYCHO CRUISE](https://open.spotify.com/track/1tkHHqMZaVoNtQvC32Om8X) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [STRAWANGLE](https://open.spotify.com/artist/4o5PswOvXGSq0y5BqZTR9n) | [PSYCHO CRUISE](https://open.spotify.com/album/2F3yPhrN0gUj5O5lORwMu6) | 2:31 |
 | 63 | [MURDER PLOT](https://open.spotify.com/track/62ZAFyVwbc9f2M8qCW1qJr) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MURDER PLOT](https://open.spotify.com/album/55fBYJVENoSR8pMOr7Cmhv) | 2:06 |
 | 64 | [ENOUGH!](https://open.spotify.com/track/3bVJS1FUUkx3RmmmOVoeK2) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [ENOUGH!](https://open.spotify.com/album/79JiT9zVDCmny1DRigOe9X) | 1:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [DEMONÍACO MANO](https://open.spotify.com/track/1Ucdq5ig5JvlNis649Q7GY) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [ENZYYYPHONK](https://open.spotify.com/artist/2Ku04T3w1OrFWsJ3ahbZNF) | [DEMONÍACO MANO](https://open.spotify.com/album/3dAc7764DFSY7BanqbUVOU) | 1:24 |
 | 100 | [Heavenly Key](https://open.spotify.com/track/09m40hbfqNwnF5w2CbqIqt) | [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [Heavenly Key](https://open.spotify.com/album/6hfG91cy4DWAarb2s8RAj0) | 2:05 |
 
-Snapshot ID: `MCxhMGJiNWU4NmQ5ZjA0ZTQ5OTA4OWU3MDYwZjVjMGY0ZDMxZDQ3Mjc1`
+Snapshot ID: `MCxlNmZlMGQzODllZGQ1OTE1ZGM3ZDI5MjRkOWQzZWIwNzAzYjhhM2Mz`

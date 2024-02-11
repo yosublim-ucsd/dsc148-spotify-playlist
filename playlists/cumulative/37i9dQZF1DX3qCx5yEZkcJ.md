@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-520 songs - 21 hr 22 min
+521 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [2GI NO NA2](https://open.spotify.com/track/0rPEJjMxTD7oB3YZgc0Zbw) | [M%O](https://open.spotify.com/artist/0eH8CnTyhcebjiCNUVC3kT), [MURO](https://open.spotify.com/artist/29PJtOTZvqWkikYC5Lvpej), [Olive Oil](https://open.spotify.com/artist/10wpBaBV9o6cEGr1FnmYIH) | [M%O](https://open.spotify.com/album/3w87AShsAbRv6SyIWJf2uG) | 2:19 | 2021-10-09 | 2022-07-28 |
 | [3:30pm \- Jam'addict Remix](https://open.spotify.com/track/2BrW5gipvs2hSQsQowp8Gy) | [rocomoco](https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu), [The Hidden](https://open.spotify.com/artist/04tAx7RyH6wL9gCnT9TuXH), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [3:30pm \(Jam'addict Remix\)](https://open.spotify.com/album/6bLaLpg4P6Ambn5GnIzGJE) | 2:26 | 2024-02-08 |  |
 | [3rd Times a Charm](https://open.spotify.com/track/1IE1sTE0Lbpz63ZMGTqMiH) | [soho](https://open.spotify.com/artist/5rCxM6JMlwyQ3tuds8DqPR), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Begin Again](https://open.spotify.com/album/0yRR6FavHThWUOlsGimzuG) | 1:14 | 2019-06-14 | 2024-02-01 |
+| [3rd Times a Charm](https://open.spotify.com/track/5vZ765J8ZmT05irwA9udHT) | [soho](https://open.spotify.com/artist/5rCxM6JMlwyQ3tuds8DqPR), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Begin Again](https://open.spotify.com/album/6KXQNOaRTvCbQxz96cbeRl) | 1:14 | 2024-02-08 |  |
 | [5k](https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [edbl & friends \- JPRK](https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G) | 2:41 | 2023-04-13 | 2023-12-22 |
 | [A Place of Dreams](https://open.spotify.com/track/07YC5rhb7EGK3fL2Ip70tj) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB) | [A Place of Dreams](https://open.spotify.com/album/3L0VmKE6wwyKRxWliEsHrq) | 2:18 | 2020-01-14 | 2020-03-27 |
 | [A Tribute To First Love](https://open.spotify.com/track/4qdhBJOBh4wVPsiTBp8tGx) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [A Tribute to First Love](https://open.spotify.com/album/5uAYIbzCtrDl31Wzw2xloM) | 4:13 | 2023-04-27 |  |
@@ -86,7 +87,7 @@
 | [Clout Chaser](https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB) | [Clout Chaser](https://open.spotify.com/album/6K53BqCNrtbrdYT4C39XzI) | 1:52 | 2023-04-27 |  |
 | [Clout Chaser](https://open.spotify.com/track/4JiMEB4RvSXODgSnuv12n7) | [Sorbet](https://open.spotify.com/artist/6qTV5zSs0XxRpVhb1ADE0H), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Sea Flap Flap](https://open.spotify.com/artist/4aPzws5w5zMmiRvcF4j9ZL) | [Clout Chaser](https://open.spotify.com/album/3z5CpWdWFgwbBkaBoSJDrf) | 1:52 | 2020-06-19 | 2022-07-06 |
 | [Coastal Drift](https://open.spotify.com/track/2VBmbnFWjxMsjHA4QTeU6o) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Coastal Drift](https://open.spotify.com/album/4VCAfD5ZkAdRplyNULBJKd) | 2:12 | 2020-06-29 | 2022-04-20 |
-| [Coffee Nap](https://open.spotify.com/track/2LZJaynuXZL9YWrsNkq1Yg) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [Old School](https://open.spotify.com/album/61kntO8ai8PRanFmxbto1m) | 1:48 | 2024-01-25 |  |
+| [Coffee Nap](https://open.spotify.com/track/2LZJaynuXZL9YWrsNkq1Yg) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [Old School](https://open.spotify.com/album/61kntO8ai8PRanFmxbto1m) | 1:48 | 2024-01-25 | 2024-02-11 |
 | [Coffee Nap](https://open.spotify.com/track/55LozwKlz0eZHLKYWIqzFL) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [Coffee Nap](https://open.spotify.com/album/2XkOmaC5Y8TeYRqo9cfGcJ) | 1:48 | 2020-01-14 | 2022-06-10 |
 | [Cold Concrete](https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Cold Concrete](https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV) | 3:11 | 2022-03-03 | 2022-12-04 |
 | [Come Back to You](https://open.spotify.com/track/5cDFp0nCi0hgQFdsPwFJMU) | [Beats by Egomi](https://open.spotify.com/artist/4l2nSjx7H4PJmARVKXM36S) | [The Jaded Beat, Vol\. 2](https://open.spotify.com/album/1UMbNkcCv2CtzgKEPeiPPF) | 2:52 | 2020-01-14 | 2021-10-24 |

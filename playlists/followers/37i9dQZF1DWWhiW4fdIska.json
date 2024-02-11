@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 25813,
+  "2024-02-11": 25828,
   "date_first_scraped": "2022-05-26",
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
   "name": "Classic Blues Guitar",
@@ -939,7 +939,7 @@
     {
       "album": {
         "name": "Rio Grande Mud",
-        "url": "https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM"
+        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
       },
       "artists": [
         {
@@ -950,6 +950,24 @@
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 440946,
+      "name": "Sure Got Cold After the Rain Fell",
+      "url": "https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45"
+    },
+    {
+      "album": {
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2020-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-10",
       "duration_ms": 440946,
       "name": "Sure Got Cold After the Rain Fell",
       "url": "https://open.spotify.com/track/30sJmjuLalNSzlRIml1PlJ"

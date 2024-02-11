@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: BOABOA
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,405 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,609 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 99 | [Kill For You](https://open.spotify.com/track/5RjqGGgHBZXycoyFrVGHQI) | [NEA EINI](https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S) | [Kill For You](https://open.spotify.com/album/5qAJkzutqWCoFPfJv5dr1r) | 2:13 |
 | 100 | [Love Me One More Time](https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v) | [Jonas Wallin](https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w) | [Love Me One More Time](https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA) | 3:09 |
 
-Snapshot ID: `MCw1NWM5ZWFmNTEzYWI2NmI3YmNmODZmNDE1YTE2ZGVjOWFhMzRlNzBl`
+Snapshot ID: `MCxmYTEwZWQyMGM5MzJkZmIwMjQ5MjkzNjhhNGJkMjhhNzNkNDc4NWQ4`

@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-444 songs - 1 day 0 hr 2 min
+445 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [H.O.L.Y\. \- Acoustic](https://open.spotify.com/track/3wH9KuHeuYHNRF2Yt6z0cc) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [The Acoustic Sessions](https://open.spotify.com/album/3GV2TdiVjl8E5XXBEuiiyX) | 3:13 | 2021-03-11 | 2022-11-12 |
 | [Habits \(Stay High\) \- Acoustic](https://open.spotify.com/track/51mEBRXAf292tpAVZ3HW8b) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Habits \(Stay High\) \[Acoustic\]](https://open.spotify.com/album/1cAXKf2868B8hajiiU0HYv) | 2:33 | 2022-11-11 | 2023-10-28 |
 | [Haloes \- Acoustic](https://open.spotify.com/track/10OPvmzW6Hq3E8L7cHDJ5u) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Haloes \(Acoustic\)](https://open.spotify.com/album/0zfZHVd16gHfXWnlBXrswq) | 3:02 | 2021-03-11 | 2022-11-12 |
+| [Hands To Myself](https://open.spotify.com/track/3pZmWRdZfUMGgxQrEhTRKG) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Hands To Myself](https://open.spotify.com/album/22F8uvXf7OYOoWxa2zKJdI) | 3:09 | 2024-02-02 |  |
 | [Hang with Me \(Acoustic\)](https://open.spotify.com/track/0E9tvw1y0ljz0N4SFDT8R3) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Hang with Me \(Acoustic\)](https://open.spotify.com/album/7iOJTKZWjgHxUzGVsxAzbn) | 3:04 | 2022-10-14 | 2023-03-31 |
 | [Head & Heart](https://open.spotify.com/track/27myNEFJ7BAeUStyFTHvuB) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [Head & Heart](https://open.spotify.com/album/5hfPG3jbnlrl5mu8KU7ZuG) | 2:47 | 2022-08-31 | 2023-02-18 |
 | [Heat Waves](https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Heat Waves](https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb) | 2:21 | 2022-08-31 |  |
@@ -318,7 +319,7 @@
 | [People](https://open.spotify.com/track/0uXTFIFDxA7Wxaq56rhN9C) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [People](https://open.spotify.com/album/3HF431lIPIv0IGcVUpmnxW) | 2:52 | 2023-06-08 |  |
 | [Photograph](https://open.spotify.com/track/6CgNoAbFJ4Q4Id4EjtbXlC) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 4](https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD) | 4:20 | 2022-11-25 | 2023-10-28 |
 | [Pillow Talk \(Acoustic\)](https://open.spotify.com/track/3u1RjvWGVcVWPUMMbhDaA7) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Pillow Talk \(Acoustic\)](https://open.spotify.com/album/3zmJKO6OA2iy1J2ml9nvGz) | 3:30 | 2022-10-26 | 2023-10-28 |
-| [Pillowtalk](https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Pillowtalk](https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz) | 2:33 | 2023-01-04 |  |
+| [Pillowtalk](https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Pillowtalk](https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz) | 2:33 | 2023-01-04 | 2024-02-11 |
 | [PILLOWTALK \- the living room session](https://open.spotify.com/track/3Tluzy27Qdbe8aRK2OCQf3) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [PILLOWTALK \(the living room session\)](https://open.spotify.com/album/7bWxyXxuT9LVzVkgDEWm5V) | 2:25 | 2022-10-14 | 2022-10-27 |
 | [Pulling Away \(acoustic\)](https://open.spotify.com/track/2Vu3quMGnCUE9UKmtzxYjj) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love \- Acoustic](https://open.spotify.com/album/7Brn5xksipm26z6uGJ7Dt2) | 3:28 | 2023-04-14 | 2023-10-28 |
 | [Pulling Away \(acoustic\)](https://open.spotify.com/track/5xif8DSxBw2sYROjNbXYVE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love \- Acoustic](https://open.spotify.com/album/1lV062Z85zZ8Euv2UFjCJR) | 3:28 | 2021-03-11 | 2023-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Eli & Fur.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,973,905 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,973,937 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 19 | [In Your Arms](https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ) | [In Your Arms](https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi) | 5:33 |
 | 20 | [Crazy Love](https://open.spotify.com/track/273cv9sESQzXxMqEkhXdm4) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Crazy Love](https://open.spotify.com/album/7nin9VgWvgxpibL3zxc5gR) | 3:51 |
 | 21 | [Hella Good](https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB) | [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X), [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY) | [Hella Good](https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn) | 2:55 |
-| 22 | [To The Beat](https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL), [Devin Duran Bolton](https://open.spotify.com/artist/6RFNuhnIGN20Gz5G1iOOFV) | [To The Beat](https://open.spotify.com/album/66mAWexL2lQqCsb2G3YqM4) | 3:56 |
+| 22 | [To The Beat](https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [To The Beat](https://open.spotify.com/album/66mAWexL2lQqCsb2G3YqM4) | 3:56 |
 | 23 | [Make U Sweat](https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Make U Sweat](https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o) | 2:28 |
 | 24 | [No Guest List](https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [No Guest List](https://open.spotify.com/album/6ca7Pb96E9hZh8QFCANfHs) | 2:38 |
 | 25 | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 74 | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 |
 | 75 | [okok](https://open.spotify.com/track/5cnzY2pz4gUFNGyhLJRvxh) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/23YHyxWe8nTsFFHvV2WFLZ) | 3:30 |
 
-Snapshot ID: `MCxiOGNlMTZmOTlmZWYyY2RiOTQxYTU0NzViODFjODJkODNkMTMzMjkz`
+Snapshot ID: `MCwxNDAzYThkMTQ5OTY4MzIyYThlZmRlYmVjZWFiNDMxMDI1Y2Y0YWNi`

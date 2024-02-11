@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-279 songs - 11 hr 18 min
+280 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Act I](https://open.spotify.com/track/56Q5Wdwc0zILGWfdBzPfao) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V), [Hush Child](https://open.spotify.com/artist/3r46iM1vaXubb5us8YCDPa) | [Act I](https://open.spotify.com/album/5Zkht2CtX4CWk2b1UCxKXO) | 2:28 | 2020-12-04 |  |
 | [adjustment](https://open.spotify.com/track/3a61DHhrJhe7jpgWrSW0ln) | [Ryder 003](https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz) | [adjustment](https://open.spotify.com/album/5P8KfJz3ZGTwTFUoR4J8Dz) | 2:13 | 2023-10-27 |  |
 | [after dark](https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [after dark](https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM) | 2:21 | 2023-10-27 |  |
+| [afterthought](https://open.spotify.com/track/2pyIsphe6DooZRSExreQEJ) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [afterthought](https://open.spotify.com/album/23QpEq74jS4B7MpJRT1CEv) | 2:50 | 2024-02-09 |  |
 | [arcade](https://open.spotify.com/track/4ZymE7jNv6VRPHdhL1OYIf) | [DupsU](https://open.spotify.com/artist/3exFwW4ib4gy068VQZYAgg) | [arcade](https://open.spotify.com/album/6ATjRptrFPrGkGsCn7CoT9) | 1:48 | 2023-10-27 |  |
 | [Are We Safe?](https://open.spotify.com/track/4li9SK4Cke0vSiJYBKgR3c) | [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy) | [The Adventures Of Masta Splinta](https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ) | 4:58 | 2020-11-12 | 2023-06-28 |
 | [Are We There Yet](https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV) | [Velvet Haven](https://open.spotify.com/artist/4jTDHfmofsM4W1Bc0m5L4F) | [Are We There Yet](https://open.spotify.com/album/4fFqmS7Kk1R2qcZmLVxSJQ) | 2:34 | 2023-10-27 |  |
@@ -186,7 +187,7 @@
 | [Open Sea](https://open.spotify.com/track/2U6agF4eXkclFkvVH6vipD) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Blocks EP](https://open.spotify.com/album/191XhtmTNCKVKH9qEgbhgx) | 2:33 | 2023-10-27 |  |
 | [Oracle Night](https://open.spotify.com/track/1tNpRWu5tHylrVuMAhzvNz) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2ZV5zCY2tJBRn0EtLOj3gr) | 2:30 | 2020-11-12 | 2022-07-28 |
 | [Oracle Night](https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM) | 2:30 | 2020-11-12 |  |
-| [over my head](https://open.spotify.com/track/1uX1mPdWxiACdx3QWOqbk6) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [over my head](https://open.spotify.com/album/2KpCazUYEmepSLcsL3fMeg) | 2:13 | 2024-02-02 |  |
+| [over my head](https://open.spotify.com/track/1uX1mPdWxiACdx3QWOqbk6) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [over my head](https://open.spotify.com/album/2KpCazUYEmepSLcsL3fMeg) | 2:13 | 2024-02-02 | 2024-02-11 |
 | [path of the wind](https://open.spotify.com/track/0ovVhnQz8l1HfVl94qxtuC) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 3:35 | 2020-11-12 | 2023-11-24 |
 | [peaceful](https://open.spotify.com/track/2I10CGsTmyf7Tr6CHPJSxe) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [peaceful](https://open.spotify.com/album/6qmArcn5bbGUpjGvqd2LH2) | 2:07 | 2023-12-15 |  |
 | [Pillow](https://open.spotify.com/track/5oCP76iSvjGdnMXJik0Cy3) | [Hickah](https://open.spotify.com/artist/16RKxwQxzkB7vEX6TdJz2V) | [Pillow](https://open.spotify.com/album/5hFTcd1iDgzTiXUli1lkCf) | 2:03 | 2023-12-15 |  |

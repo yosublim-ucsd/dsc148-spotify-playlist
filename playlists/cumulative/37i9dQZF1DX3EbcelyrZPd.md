@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Lava Lava
 
-353 songs - 20 hr 6 min
+354 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Bado](https://open.spotify.com/track/74buPdQW7Xy39ryorpOaWC) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Bado](https://open.spotify.com/album/2L9Ap65owutg0v7TKoOhIV) | 3:34 | 2024-02-01 |  |
 | [Bado Natafuta](https://open.spotify.com/track/4zXLZzQDLpPgNGCKd2ZTfZ) | [Nino Tz](https://open.spotify.com/artist/3LTyFY0h2skH9h7Us2kGEn) | [Bado Natafuta](https://open.spotify.com/album/3OPs7PQYNDanBf77wX9KxV) | 3:45 | 2022-04-07 | 2022-07-23 |
 | [Baila](https://open.spotify.com/track/1PVPgtJGaVtl3kjetobL9U) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [New Chui](https://open.spotify.com/album/5feWJ5nkGBvSd4AkdeAG8J) | 2:42 | 2021-11-11 | 2022-03-11 |
-| [BamBam](https://open.spotify.com/track/5WSou7in5PORzEBOO9hPxa) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Swahili Kid](https://open.spotify.com/album/7FqUoYptckmxC5frjcbQGo) | 3:32 | 2024-01-12 |  |
+| [BamBam](https://open.spotify.com/track/7qMekh8B1OLLtdVKMUi9Wc) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Swahili Kid](https://open.spotify.com/album/5GnGRXPzXC6DuzDuUzKtxr) | 3:30 | 2024-02-09 |  |
+| [BamBam](https://open.spotify.com/track/5WSou7in5PORzEBOO9hPxa) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Swahili Kid](https://open.spotify.com/album/7FqUoYptckmxC5frjcbQGo) | 3:32 | 2024-01-12 | 2024-02-11 |
 | [Banjuka Na Mi](https://open.spotify.com/track/5n6EouwPVmwNBtOwPM8tq4) | [Sonia Singh](https://open.spotify.com/artist/2htASUmjc0Vtw0M7w6JxLU), [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Banjuka Na Mi](https://open.spotify.com/album/7C1riYdY4WsBhvMtN2M5qF) | 3:21 | 2022-07-29 | 2022-09-24 |
 | [Baridi](https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Baridi](https://open.spotify.com/album/2w05Yz5dVlP41KH81ZGkDX) | 3:15 | 2024-01-12 |  |
 | [Basi Tu](https://open.spotify.com/track/6u9PnXag7PlwoosKq9NLFk) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Promise](https://open.spotify.com/album/41BrRZ2kg2mbflJaASkCFU) | 4:14 | 2021-08-26 | 2022-07-09 |

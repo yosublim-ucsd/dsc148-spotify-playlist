@@ -956,7 +956,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 189535,
       "name": "Ally's Song",
       "url": "https://open.spotify.com/track/7KHWN1YP0PY8deaq0IykBe"
@@ -6028,7 +6028,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 172500,
       "name": "Drums - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2yer5M0V6Dd0YkvYWKC666"
@@ -8849,6 +8849,36 @@
     },
     {
       "album": {
+        "name": "Haunting (Sped Up)",
+        "url": "https://open.spotify.com/album/5lrTWs2NcgNN20iT8NibIM"
+      },
+      "artists": [
+        {
+          "name": "NayCo",
+          "url": "https://open.spotify.com/artist/30HydAmFbNFmIIR0ieMO1A"
+        },
+        {
+          "name": "Morti-cole Records",
+          "url": "https://open.spotify.com/artist/3wsLvS4qGv9zI9Rd8ypk2Z"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136933,
+      "name": "Haunting - Sped Up",
+      "url": "https://open.spotify.com/track/5WPzudEN38q08NoWBPlRhR"
+    },
+    {
+      "album": {
         "name": "Have You Seen This Movie",
         "url": "https://open.spotify.com/album/4RCjDPhqY9W4JE0tVGtAvl"
       },
@@ -9204,7 +9234,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 104097,
       "name": "Hit Em Up - Slowed Version",
       "url": "https://open.spotify.com/track/0zJ2lrSdgF9STBy38FMsDG"
@@ -9280,7 +9310,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 226707,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/6qZOQKoGnQUpY5BHIOOtPB"
@@ -16298,7 +16328,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 176500,
       "name": "Praise the Lord (feat. Thomas Rhett) - Live",
       "url": "https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1"
@@ -19050,7 +19080,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 140468,
       "name": "Spit",
       "url": "https://open.spotify.com/track/1rubr0oXYT9I1Wl8Mgev0w"
@@ -21588,6 +21618,28 @@
       "duration_ms": 179085,
       "name": "TOUT SE TRANSFORME. - Bande originale du film \u00ab Transformers : Rise of the Beasts \u00bb",
       "url": "https://open.spotify.com/track/1gK32g6j6pjlGT6DLtsod4"
+    },
+    {
+      "album": {
+        "name": "ASOT 1159 - A State of Trance Episode 1159 [Including Live at Ultra Beijing 2018 (Highlights)]",
+        "url": "https://open.spotify.com/album/3wbhjIJgihU8GxkBrhF8ba"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155280,
+      "name": "Traffic (ASOT 1159) - Maddix Remix",
+      "url": "https://open.spotify.com/track/3dkagydLRrdcc2750u6wzs"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-02-10": 60797,
+  "2024-02-11": 60788,
   "date_first_scraped": "2022-05-14",
-  "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Allison Russell",
+  "description": "Fearless sounds at the crossroads of country and folk. Cover: Allison Russell",
   "name": "Renegades",
   "tracks": [
     {
@@ -425,6 +425,24 @@
       "duration_ms": 217281,
       "name": "Another Day Down",
       "url": "https://open.spotify.com/track/3Iuo5WhKzkaTTkOzVhg1Ei"
+    },
+    {
+      "album": {
+        "name": "Arkansas Diamond",
+        "url": "https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183477,
+      "name": "Arkansas Diamond",
+      "url": "https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8"
     },
     {
       "album": {
@@ -887,7 +905,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 212183,
       "name": "Bobtail Road",
       "url": "https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU"
@@ -1518,6 +1536,24 @@
     },
     {
       "album": {
+        "name": "Chains & Stakes",
+        "url": "https://open.spotify.com/album/7y1TBs8QPwekErm9r0YZy7"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231630,
+      "name": "Completely, Sweetly",
+      "url": "https://open.spotify.com/track/2mXVXW1UWO1m4hFuqg4sRO"
+    },
+    {
+      "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/64tEZ5dQGzLVV9pGkWnebY"
       },
@@ -1843,6 +1879,28 @@
       "duration_ms": 224584,
       "name": "Deadman",
       "url": "https://open.spotify.com/track/45saT9CynzZGwGkqsJkQGx"
+    },
+    {
+      "album": {
+        "name": "Death Valley Honeymoon (feat. Cat Clyde)",
+        "url": "https://open.spotify.com/album/2auQZXqoFzba9G30DCKCq1"
+      },
+      "artists": [
+        {
+          "name": "Dustin Kensrue",
+          "url": "https://open.spotify.com/artist/0SuWOa14KQ9jBIwvqFbzo5"
+        },
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216040,
+      "name": "Death Valley Honeymoon (feat. Cat Clyde)",
+      "url": "https://open.spotify.com/track/7DlI8czdypGakdmOp0Xv2S"
     },
     {
       "album": {
@@ -2431,7 +2489,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 175423,
       "name": "First Light",
       "url": "https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL"
@@ -3051,7 +3109,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 234248,
       "name": "Honest Love",
       "url": "https://open.spotify.com/track/4dIAlqPSxi5DiIEjOhzNV1"
@@ -5463,7 +5521,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 183785,
       "name": "River of Tears",
       "url": "https://open.spotify.com/track/2GLkz5Z49Y0nkYNNKaUQNn"
@@ -5889,7 +5947,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 213248,
       "name": "So Easy",
       "url": "https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf"

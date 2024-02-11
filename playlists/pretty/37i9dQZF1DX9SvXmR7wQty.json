@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Peter Peter",
-  "num_followers": 39609,
+  "num_followers": 39611,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmI2ZDExMTczOWVkMTAzYmI4ZTkxZGEzY2M2YTE2ZWQzMDUxMjRh",
+  "snapshot_id": "MCwwMTgwZjI5MDg5ZjAzM2UwMjEzNzZjMzQ0NmMyZWVhMDcyMGZhMzZl",
   "tracks": [
     {
       "added_at": "2024-02-09 05:01:00",
@@ -471,18 +471,22 @@
     {
       "added_at": "2024-02-09 05:01:00",
       "album": {
-        "name": "Chambre 140 (Part.2)",
-        "url": "https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ"
+        "name": "Chambre 140 (Part.3)",
+        "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
       },
       "artists": [
         {
           "name": "PLK",
           "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 144933,
-      "name": "Mignon tout plein",
-      "url": "https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC"
+      "duration_ms": 138933,
+      "name": "Faut pas",
+      "url": "https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts"
     },
     {
       "added_at": "2024-02-09 05:01:00",
@@ -543,18 +547,18 @@
     {
       "added_at": "2024-02-09 05:01:00",
       "album": {
-        "name": "Si t'es pas l\u00e0",
-        "url": "https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg"
+        "name": "AD VITAM \u00c6TERNAM",
+        "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Si t'es pas l\u00e0",
-      "url": "https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU"
+      "duration_ms": 194540,
+      "name": "Saga",
+      "url": "https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ"
     },
     {
       "added_at": "2024-02-09 05:01:00",
@@ -599,6 +603,22 @@
     {
       "added_at": "2024-02-09 05:01:00",
       "album": {
+        "name": "Si t'es pas l\u00e0",
+        "url": "https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Si t'es pas l\u00e0",
+      "url": "https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU"
+    },
+    {
+      "added_at": "2024-02-09 05:01:00",
+      "album": {
         "name": "Yebisa Bango / Bijou",
         "url": "https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6"
       },
@@ -639,38 +659,18 @@
     {
       "added_at": "2024-02-09 05:01:00",
       "album": {
-        "name": "Rome",
-        "url": "https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST"
-      },
-      "artists": [
-        {
-          "name": "Solann",
-          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
-        }
-      ],
-      "duration_ms": 161213,
-      "name": "Rome",
-      "url": "https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX"
-    },
-    {
-      "added_at": "2024-02-09 05:01:00",
-      "album": {
-        "name": "Chambre 140 (Part.3)",
-        "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
+        "name": "Chambre 140 (Part.2)",
+        "url": "https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ"
       },
       "artists": [
         {
           "name": "PLK",
           "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 138933,
-      "name": "Faut pas",
-      "url": "https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts"
+      "duration_ms": 144933,
+      "name": "Mignon tout plein",
+      "url": "https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC"
     },
     {
       "added_at": "2024-02-09 05:01:00",
@@ -691,6 +691,22 @@
       "duration_ms": 190813,
       "name": "La Cour des Miracles",
       "url": "https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ"
+    },
+    {
+      "added_at": "2024-02-09 05:01:00",
+      "album": {
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST"
+      },
+      "artists": [
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "duration_ms": 161213,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX"
     },
     {
       "added_at": "2024-02-09 05:01:00",
@@ -907,26 +923,6 @@
       "duration_ms": 188946,
       "name": "Fio Maravilha",
       "url": "https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh"
-    },
-    {
-      "added_at": "2024-02-09 05:01:00",
-      "album": {
-        "name": "POISON",
-        "url": "https://open.spotify.com/album/619vWtlvr2x1MopmkxmMvQ"
-      },
-      "artists": [
-        {
-          "name": "Dospunto",
-          "url": "https://open.spotify.com/artist/74I7IwjAcqaomlLrjNRqvD"
-        },
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 189626,
-      "name": "POISON",
-      "url": "https://open.spotify.com/track/3Z29095berlRpJ3R31ZXmD"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

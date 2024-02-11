@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 
 > Songs that make Paul Mescal feel something \- including some from his new film All Of Us Strangers\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,060 likes - 48 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,157 likes - 48 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 | 20 | [What Will We Do When We Have No Money?](https://open.spotify.com/track/7uRtBOvqokTBsNBjBhKOZx) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [Between the Earth and Sky](https://open.spotify.com/album/2Oxm3xpPQDDwrApEAWf3it) | 5:49 |
 | 21 | [Diner](https://open.spotify.com/track/5gkbwmhgrouxS1r0PDwfoo) | [Emilie Levienaise\-Farrouch](https://open.spotify.com/artist/4L9xhLgedQ5e9BwaVNunWf) | [All of Us Strangers \(Original Score\)](https://open.spotify.com/album/0zh47kNWMYt2qUObasMHnJ) | 4:22 |
 | 22 | [Elevator Song \(feat\. Ren Ford\)](https://open.spotify.com/track/0h6rEnfxJymGl3JO6V5X4u) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160), [Ren Ford](https://open.spotify.com/artist/1ek6WGaOTdM0xXnfEzaBGL) | [Romantic Works](https://open.spotify.com/album/6fCcif1h46nmpJD2XNBZ2S) | 3:50 |
-| 23 | [We The Drowned \- Live In Dublin](https://open.spotify.com/track/3YR5dkL60IL7SbrozAWTlZ) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt), [stargaze](https://open.spotify.com/artist/6ArmVuGn8UtsupvhL3suRy) | [Live in Dublin](https://open.spotify.com/album/4RZJRkuJDQti87QNDAypdM) | 6:34 |
+| 23 | [We The Drowned \- Live In Dublin](https://open.spotify.com/track/4WNcpkg5l4WSYBg4IyMhCm) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt), [stargaze](https://open.spotify.com/artist/6ArmVuGn8UtsupvhL3suRy) | [Live in Dublin](https://open.spotify.com/album/2MS3CxVbdtmwbzgJDYpiNw) | 6:34 |
 | 24 | [Accidental Babies](https://open.spotify.com/track/1fOvW60gaeWtUCgjneOxnS) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF) | 6:33 |
 | 25 | [Butchered Tongue](https://open.spotify.com/track/38U4hYYzUbydvJ4J5YZEy6) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 2:29 |
 | 26 | [The Power Of Love](https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Welcome To The Pleasuredome](https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m) | 5:32 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 | 47 | [Trucker Speed](https://open.spotify.com/track/46odp6vkKYlv0fPdRhdk1Y) | [Fred Eaglesmith](https://open.spotify.com/artist/0yv1W9HeASlBRyWrzRMhWh) | [6Volts](https://open.spotify.com/album/0N78nEVS8VFiJXdVxGOBB5) | 5:11 |
 | 48 | [For You](https://open.spotify.com/track/4439aAX3jNkNKx1ygUr9WC) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:57 |
 
-Snapshot ID: `MCxiYmIyMzMxNjAyNzc2YjkxMGRiZjc2NWU3ZGNjZTY4N2Q5Y2UwOWZj`
+Snapshot ID: `MCw4OTJiYmVmYTE3MGJkNjBlNjYzZDNiYjQ1NjExNzZkMmJmMDgxOTlm`

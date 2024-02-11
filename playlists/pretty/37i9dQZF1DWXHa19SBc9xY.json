@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 88664,
+  "num_followers": 88731,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDkxOGMyMTQ0MDE3NWViZWU0NTg2OGRlM2YwMTJiYTg4ZmVjOGZi",
+  "snapshot_id": "MCw0YWY1ZWNhY2ZiNzU2YzM4MGM3NzkyNmMwYWQ5MzdjZmJlMmU2ZjE4",
   "tracks": [
     {
       "added_at": "2023-11-24 08:42:40",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Samba",
-        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 160238,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "15b",
         "url": "https://open.spotify.com/album/0ZhVogkbSisiDQ5DMfNsRc"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 161000,
       "name": "15b",
       "url": "https://open.spotify.com/track/2w6VBGVuYOJe8oo4YXBEf4"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 160238,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Lua Nova",
-        "url": "https://open.spotify.com/album/14AZf0JZKJgmls9y59eA2c"
-      },
-      "artists": [
-        {
-          "name": "PH Moraes",
-          "url": "https://open.spotify.com/artist/71p4sNYcu8jEUqJ69tfrVU"
-        },
-        {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Lua Nova",
-      "url": "https://open.spotify.com/track/5uZDrsNXW8qUuP9pli1CO3"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Sem Filtro (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 184914,
       "name": "Louca - Ao Vivo",
       "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Lua Nova",
+        "url": "https://open.spotify.com/album/14AZf0JZKJgmls9y59eA2c"
+      },
+      "artists": [
+        {
+          "name": "PH Moraes",
+          "url": "https://open.spotify.com/artist/71p4sNYcu8jEUqJ69tfrVU"
+        },
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Lua Nova",
+      "url": "https://open.spotify.com/track/5uZDrsNXW8qUuP9pli1CO3"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Minha Preta",
-        "url": "https://open.spotify.com/album/6wvxib67l7wYhW7T27bnqu"
-      },
-      "artists": [
-        {
-          "name": "Bistro",
-          "url": "https://open.spotify.com/artist/4COVJI0Wq3XJNci3ySWQGx"
-        }
-      ],
-      "duration_ms": 175350,
-      "name": "Minha Preta",
-      "url": "https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "L\u00edrios S\u00e3o Deusas",
         "url": "https://open.spotify.com/album/4c8ud8o7JRoiKEgEHRctss"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 188160,
       "name": "Moradia",
       "url": "https://open.spotify.com/track/3q7Vt3TLkekBj4YhzIbjcD"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Minha Preta",
+        "url": "https://open.spotify.com/album/6wvxib67l7wYhW7T27bnqu"
+      },
+      "artists": [
+        {
+          "name": "Bistro",
+          "url": "https://open.spotify.com/artist/4COVJI0Wq3XJNci3ySWQGx"
+        }
+      ],
+      "duration_ms": 175350,
+      "name": "Minha Preta",
+      "url": "https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2"
     },
     {
       "added_at": "2023-11-24 08:42:40",

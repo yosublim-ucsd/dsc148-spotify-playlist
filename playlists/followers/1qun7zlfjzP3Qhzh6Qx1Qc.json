@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 34998,
+  "2024-02-11": 34998,
   "date_first_scraped": "2023-11-08",
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs",
   "name": "Country Smash Hits",
@@ -258,6 +258,24 @@
     },
     {
       "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183919,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J"
+    },
+    {
+      "album": {
         "name": "Bury Me in Georgia",
         "url": "https://open.spotify.com/album/5KiNzxNpSxplw7RxB9SSEo"
       },
@@ -331,6 +349,24 @@
       "duration_ms": 148160,
       "name": "Chattahoochee",
       "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
+    },
+    {
+      "album": {
+        "name": "Chains & Stakes",
+        "url": "https://open.spotify.com/album/7y1TBs8QPwekErm9r0YZy7"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231630,
+      "name": "Completely, Sweetly",
+      "url": "https://open.spotify.com/track/2mXVXW1UWO1m4hFuqg4sRO"
     },
     {
       "album": {
@@ -565,7 +601,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 199383,
       "name": "Fix You Too (feat. Kameron Marlowe)",
       "url": "https://open.spotify.com/track/4eIGig7wMD4iZfPKGinoGr"
@@ -879,6 +915,28 @@
       "duration_ms": 187988,
       "name": "Marlboro Reds",
       "url": "https://open.spotify.com/track/19TnlbG8jNMzZlxJXbEBbg"
+    },
+    {
+      "album": {
+        "name": "Narcissist (feat. Phix)",
+        "url": "https://open.spotify.com/album/7x3d4sBwFfaRZeXJXAY2k6"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        },
+        {
+          "name": "Phix",
+          "url": "https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "Narcissist (feat. Phix)",
+      "url": "https://open.spotify.com/track/5GZyD9MBTiovN2dDNeHOJr"
     },
     {
       "album": {
@@ -1251,7 +1309,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 199480,
       "name": "The Boy Who Cried Drunk (The Demo)",
       "url": "https://open.spotify.com/track/4wmN0vbj2BEyjOhEXVL0hA"
@@ -1341,7 +1399,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 247813,
       "name": "Tiny Wooden Box",
       "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"

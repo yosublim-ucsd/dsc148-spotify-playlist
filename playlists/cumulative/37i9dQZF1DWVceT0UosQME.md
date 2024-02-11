@@ -4,11 +4,11 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-511 songs - 19 hr 33 min
+513 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1989 at the bustop](https://open.spotify.com/track/4cWaEVuXUs1kRbfHhnlXmO) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [deconstruct](https://open.spotify.com/album/2nICjIzW2n6fMUaFPP4bnb) | 1:41 | 2024-01-05 |  |
+| [1989 at the bustop](https://open.spotify.com/track/4cWaEVuXUs1kRbfHhnlXmO) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [deconstruct](https://open.spotify.com/album/2nICjIzW2n6fMUaFPP4bnb) | 1:41 | 2024-01-05 | 2024-02-11 |
 | [4you to just love](https://open.spotify.com/track/2u7BaomZDkHMx1xfth3d5s) | [The Easy Breeze](https://open.spotify.com/artist/5MpwtWtFfapulpKEjAeU81) | [4you to just love](https://open.spotify.com/album/7yMLFLuzDknKgARBtrIQqq) | 2:34 | 2024-01-05 |  |
 | [6pm Freedom](https://open.spotify.com/track/78wa13XBguLAx0c5pzqZDI) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Easy Breathing & 6pm Freedom](https://open.spotify.com/album/3jO0ts2BPgfBWKms1D5H2x) | 3:00 | 2024-01-05 |  |
 | [A Good Evening](https://open.spotify.com/track/2JJG2VeY1SMNS9ZqVnVZoV) | [Secret Corner](https://open.spotify.com/artist/7a40ZaJBGkEnOqrZyBCwQU) | [A Good Evening](https://open.spotify.com/album/6euHSUaffo1PSTtmRF1lNx) | 2:12 | 2024-01-05 |  |
@@ -76,6 +76,7 @@
 | [Buttersweet](https://open.spotify.com/track/1d5pAGQRJ9ROCOuxK52uED) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Buttersweet](https://open.spotify.com/album/6GuzaGSiWBXbyRcOMAgsBJ) | 2:57 | 2024-01-05 |  |
 | [Bypass](https://open.spotify.com/track/2pbJqRWuDlzvKX6IbsFH1I) | [Woodly Fields](https://open.spotify.com/artist/3ur5AmVKeInQ8lGOP4kvBF) | [Bypass](https://open.spotify.com/album/7ybr6nw32PQYcLny6vXjh6) | 1:50 | 2024-01-05 |  |
 | [c ya soon](https://open.spotify.com/track/38cy4dQmnps3oMyiTcQNxY) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [c ya soon](https://open.spotify.com/album/19LWNsp8XImmOBygYPQXCS) | 2:07 | 2024-01-05 |  |
+| [cabin weather](https://open.spotify.com/track/0gDrjkBGC61kkPHJhKyctN) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [cabin weather](https://open.spotify.com/album/0O0oH4FTGiqwi3Z0PhD1KL) | 2:57 | 2024-02-09 |  |
 | [Call It A Day](https://open.spotify.com/track/6CY9Zcmxx1ejM8zLZ6zZt2) | [Mwuah](https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF) | [Call It A Day](https://open.spotify.com/album/2lHULC9ckQqgTD9SQki0yZ) | 2:19 | 2024-01-05 |  |
 | [Camden](https://open.spotify.com/track/0lqhcmKE55QRrNhiioofSU) | [PONY](https://open.spotify.com/artist/5CxY3qA1kVNN0MolYlkVAI) | [Camden](https://open.spotify.com/album/3VzmyFeQ23wtK1hSM3Fdlq) | 2:53 | 2024-01-05 |  |
 | [Campanuela](https://open.spotify.com/track/60tPYJtm2HlE9BMRB1buVY) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Campanuela](https://open.spotify.com/album/4PkcikpHhznpMaALaL1BLB) | 1:53 | 2024-01-05 |  |
@@ -341,7 +342,7 @@
 | [Pacific Coast](https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Pacific Coast](https://open.spotify.com/album/7GwG8Ph0VMTrhwV3vHNoP8) | 2:18 | 2024-01-05 |  |
 | [pan au chocolat + cappuccino](https://open.spotify.com/track/2YXVBCH7FV1tPJ8sqTzbIx) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [pan au chocolat + cappuccino](https://open.spotify.com/album/0MBNo9eQbqiFdy5Sp3hVnP) | 1:53 | 2024-01-05 |  |
 | [Paper Heart](https://open.spotify.com/track/1Hc3WJFNoEVScMuJ8ofDxB) | [Gael Rico](https://open.spotify.com/artist/7792K7G74q2ZpczQiXdvlX) | [Paper Heart](https://open.spotify.com/album/5cmzgPNKOMs9bWGWbullff) | 1:37 | 2024-01-05 |  |
-| [Pareidolia](https://open.spotify.com/track/6jhIjPKENwizw0sKmJNiUO) | [Alrik Lagom](https://open.spotify.com/artist/3hre26wvV7Cy00fDfbJBbn) | [Pareidolia](https://open.spotify.com/album/3CjKtpWA51sPu7tiir84nX) | 2:20 | 2024-01-05 |  |
+| [Pareidolia](https://open.spotify.com/track/6jhIjPKENwizw0sKmJNiUO) | [Alrik Lagom](https://open.spotify.com/artist/3hre26wvV7Cy00fDfbJBbn) | [Pareidolia](https://open.spotify.com/album/3CjKtpWA51sPu7tiir84nX) | 2:20 | 2024-01-05 | 2024-02-11 |
 | [Paris](https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Paris](https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41) | 2:04 | 2024-01-05 |  |
 | [Park Life](https://open.spotify.com/track/6TrmKrBHA1UcepoLAoCa7A) | [Mooseplant](https://open.spotify.com/artist/41f1LonnqCGklJb2ewxewh) | [Park Life](https://open.spotify.com/album/5bCGymt5IOhp1ankpc5K5l) | 2:18 | 2024-01-05 |  |
 | [Particles](https://open.spotify.com/track/5iutyPUPT8BD6NmUjMVVj2) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [Particles](https://open.spotify.com/album/0wVaLUlQyunU42SVFMlnj5) | 2:09 | 2024-02-09 |  |
@@ -457,6 +458,7 @@
 | [Tender Tales](https://open.spotify.com/track/2vDJwbZllSZlvrC5G9MfCO) | [Eazy Lotus](https://open.spotify.com/artist/6yA8bNfaBNdvoDuhna5xvk) | [Tender Tales](https://open.spotify.com/album/3N2jyy1OZY4bSNp9g9E50C) | 2:05 | 2024-01-05 |  |
 | [The City](https://open.spotify.com/track/4lZQn9ZVkTbzehDoj3SQin) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [The City](https://open.spotify.com/album/4mEfZGlxMcC0EioQfzvnyx) | 2:02 | 2024-01-05 |  |
 | [The Day Before Yesterday](https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J) | [merīkurisumasu!](https://open.spotify.com/artist/0YXdpycTC7il4RJ9lXmJv0) | [The Day Before Yesterday](https://open.spotify.com/album/4rJbIrWhBpge9CP2ULnDqS) | 2:02 | 2024-01-05 |  |
+| [The Jam](https://open.spotify.com/track/7xJqP2LZrVpJhUR6ZukE9q) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [The Jam](https://open.spotify.com/album/39V0x4k2jWjPuqF6mSC3AW) | 1:39 | 2024-02-09 |  |
 | [the neighborhood](https://open.spotify.com/track/6nZIx6Ck3oNPR1L5FblIY0) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [the neighborhood](https://open.spotify.com/album/4fvFegKW9QME1hmJVigINz) | 2:09 | 2024-01-05 |  |
 | [The Next Stop Is](https://open.spotify.com/track/476oazZv3c5b3I8vwJAGZ5) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [The Next Stop Is](https://open.spotify.com/album/0EFrr0p72DDQyWqxbnH26m) | 2:31 | 2024-01-05 |  |
 | [The Night Cruise](https://open.spotify.com/track/2464RLkS0S92lfmGQasZU7) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [The Night Cruise](https://open.spotify.com/album/44gBUyhILIO0PSsSmeHBGo) | 2:17 | 2024-01-18 |  |

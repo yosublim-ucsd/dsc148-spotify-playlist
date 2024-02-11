@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:1CFCsEqKrCyvAFKOATQHiW">Lecrae</a>
 
-945 songs - 1 day 22 hr 44 min
+946 songs - 1 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [EVERYTHING CHANGED](https://open.spotify.com/track/096lnFIbTd22SkRiOKyUDK) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [EVERYTHING CHANGED](https://open.spotify.com/album/3iEYomjh7GIlEK01GKGEWl) | 3:49 | 2021-12-11 | 2022-02-02 |
 | [Extra](https://open.spotify.com/track/6BDDuQ22E1mZ4AW3lDeQGO) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Extra](https://open.spotify.com/album/3fFRSxihlYY626RgMOrAMp) | 2:14 | 2023-08-25 | 2024-02-10 |
 | [EZ](https://open.spotify.com/track/05BVRn8zyr2xhLz2V4IdZV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [EZ](https://open.spotify.com/album/1sus1FubvrFW0FOg1F2YCZ) | 3:01 | 2023-03-25 | 2024-01-20 |
+| [F.O.F.](https://open.spotify.com/track/0Ljju4kXFaKeAsbSDbdKdS) | [E.i\. the King](https://open.spotify.com/artist/3dsm2Sbz5i18pXDTjWSzZO), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [F.O.F.](https://open.spotify.com/album/7f4AGyDNWYzWLRwTV2XCAh) | 2:28 | 2024-02-09 |  |
 | [Fair](https://open.spotify.com/track/6Q1UA2q17PA2I2wZCE2rMc) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Fair](https://open.spotify.com/album/25Nw3dLnevwTMfYUvetRQ1) | 2:37 | 2021-12-11 | 2022-02-02 |
 | [Faithful](https://open.spotify.com/track/766Qs72aW1J2A6LsSLwXRB) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Faithful](https://open.spotify.com/album/3IdrmlvkofXLqsk9RmArEu) | 2:41 | 2021-12-11 | 2022-04-29 |
 | [Father Abraham](https://open.spotify.com/track/2luFEc1iqWhF21bdcbXpTR) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [As I Am](https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr) | 1:59 | 2022-10-07 | 2023-08-26 |
@@ -433,7 +434,7 @@
 | [Jesus Called My Name](https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [The Stonebrook Project](https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU) | 4:20 | 2022-11-04 | 2023-08-26 |
 | [Jesus Called My Name](https://open.spotify.com/track/749CMDRkLnWFXTYGT123S4) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Jesus Called My Name](https://open.spotify.com/album/53KVcS6ZFxmvtXbNxamie3) | 4:20 | 2022-09-11 | 2022-11-05 |
 | [Jesus In The Ghetto](https://open.spotify.com/track/6IM4ZfTemJDpf1cH9fON1Y) | [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Jesus In The Ghetto](https://open.spotify.com/album/1WkhxYMrfBo4p7bPpmNKVp) | 2:54 | 2021-12-11 | 2022-02-05 |
-| [Jesus Saves](https://open.spotify.com/track/48xzr5gRIJIGHEKPCbqwmA) | [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS) | [Jesus Saves](https://open.spotify.com/album/6SOjKdL4QokqG6J62NGO5v) | 3:09 | 2023-11-17 |  |
+| [Jesus Saves](https://open.spotify.com/track/48xzr5gRIJIGHEKPCbqwmA) | [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS) | [Jesus Saves](https://open.spotify.com/album/6SOjKdL4QokqG6J62NGO5v) | 3:09 | 2023-11-17 | 2024-02-11 |
 | [JOHN 3:30](https://open.spotify.com/track/00uAaNg90rBBWU5vgkohUs) | [NXTMIKE](https://open.spotify.com/artist/2yMOYu5UEVMeoZmBczRR5g), [Kip Wolfe](https://open.spotify.com/artist/2HIuIgSR9YhmXZCfv0SVhS) | [FTLOG \(DELUXE\)](https://open.spotify.com/album/5oKd3jyns6sVMUbbfB8TcG) | 3:30 | 2021-12-11 | 2022-04-27 |
 | [Jonah](https://open.spotify.com/track/4cWDgGTClNmfdscTIjPUy8) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Jonah](https://open.spotify.com/album/3dymiggXTLt85VuUagBcjH) | 3:18 | 2022-05-28 | 2022-07-06 |
 | [josiah.](https://open.spotify.com/track/0g6UbSmO8by3ecCSNmS7ca) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [josiah.](https://open.spotify.com/album/0cm3YLe7A3sNtFPEqix58J) | 2:09 | 2022-10-01 | 2023-08-26 |

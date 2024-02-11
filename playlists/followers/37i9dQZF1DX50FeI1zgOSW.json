@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 6837,
+  "2024-02-11": 6883,
   "date_first_scraped": "2023-05-19",
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Abhyankar",
   "name": "RADAR Tamil",
@@ -681,7 +681,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 146493,
       "name": "E.P.K.",
       "url": "https://open.spotify.com/track/0KDtuvWZmi2kmaoKPT4b2c"
@@ -1067,10 +1067,32 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 221772,
       "name": "I SEE / LIGHT",
       "url": "https://open.spotify.com/track/3RmQl1DaiK7Tfkpqv8sQX9"
+    },
+    {
+      "album": {
+        "name": "Idhai Yaar Solvaaro",
+        "url": "https://open.spotify.com/album/2RxNgx7KUCHj5o3c1f0luA"
+      },
+      "artists": [
+        {
+          "name": "KENEESHAA",
+          "url": "https://open.spotify.com/artist/4zZsaegDxBfhj2UbGqDIDe"
+        },
+        {
+          "name": "Stony Psycho",
+          "url": "https://open.spotify.com/artist/2HvAr9I27Wz9PFOjRkq5xR"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217241,
+      "name": "Idhai Yaar Solvaaro",
+      "url": "https://open.spotify.com/track/4OfLGsdYdU2MgWAXyErZ2A"
     },
     {
       "album": {
@@ -1107,7 +1129,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 173113,
       "name": "Idhan Gaana",
       "url": "https://open.spotify.com/track/1naa4iFduSjQxX8b0lCpKs"
@@ -2357,7 +2379,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 169928,
       "name": "MLV",
       "url": "https://open.spotify.com/track/5hYFRT31q3X6CbJBqYmzCl"
@@ -2972,6 +2994,24 @@
     },
     {
       "album": {
+        "name": "Pen Nilave",
+        "url": "https://open.spotify.com/album/1RtPUHI8LICX4dPGnuYG9l"
+      },
+      "artists": [
+        {
+          "name": "Sanathan Shree Krishnan",
+          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198052,
+      "name": "Pen Nilave",
+      "url": "https://open.spotify.com/track/3AruoZeeOUr0cdtDz2pwuq"
+    },
+    {
+      "album": {
         "name": "Piriyaadhe",
         "url": "https://open.spotify.com/album/6kQd4SMnVuHWvQ0XMRFiWh"
       },
@@ -3398,6 +3438,32 @@
     },
     {
       "album": {
+        "name": "Show Time",
+        "url": "https://open.spotify.com/album/0AjLHcwTPKpJRTChf9uazw"
+      },
+      "artists": [
+        {
+          "name": "Mrs Go",
+          "url": "https://open.spotify.com/artist/1RRxqiZw0jqxLjQSUx4lZT"
+        },
+        {
+          "name": "Debbie Pari",
+          "url": "https://open.spotify.com/artist/5EaGIUUHZvkivRGvlWkfpr"
+        },
+        {
+          "name": "Kalla Sha",
+          "url": "https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256941,
+      "name": "Show Time",
+      "url": "https://open.spotify.com/track/3gLDF0FVNVcFQojbLdyFJs"
+    },
+    {
+      "album": {
         "name": "Shy Boi",
         "url": "https://open.spotify.com/album/2JA7ebasiQYXt9jaw5cNz2"
       },
@@ -3479,6 +3545,36 @@
       "duration_ms": 179483,
       "name": "Story Rewrite",
       "url": "https://open.spotify.com/track/7jQHimJTn5joGqtUXFnTvA"
+    },
+    {
+      "album": {
+        "name": "Teddy Bear",
+        "url": "https://open.spotify.com/album/4gW8stxvBopqm09xFm2v8k"
+      },
+      "artists": [
+        {
+          "name": "Raksheet Ramesh",
+          "url": "https://open.spotify.com/artist/1SQEW8b7rB9GPsCBg27YsI"
+        },
+        {
+          "name": "AVR",
+          "url": "https://open.spotify.com/artist/4SmaQj7noSrsSEXIqovJUe"
+        },
+        {
+          "name": "Kiruthika Aravindan",
+          "url": "https://open.spotify.com/artist/3KxMBuBqGhj267r0q7L1H8"
+        },
+        {
+          "name": "LRC",
+          "url": "https://open.spotify.com/artist/3AKzFn3aIfeUwbuVPZKrHa"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Teddy Bear",
+      "url": "https://open.spotify.com/track/1qmoyvEpWxEzwu7qMdMZ1U"
     },
     {
       "album": {
@@ -3979,6 +4075,28 @@
       "duration_ms": 224141,
       "name": "Un Kaadhalaal (From \"MM Originals\") (Original Soundtrack)",
       "url": "https://open.spotify.com/track/5jXXPxjxHz3jElEhThuf4h"
+    },
+    {
+      "album": {
+        "name": "Un Vaarthai",
+        "url": "https://open.spotify.com/album/4biQlvQx4Fwb36eqK1Ge4F"
+      },
+      "artists": [
+        {
+          "name": "Prezanthi Shanmugavel",
+          "url": "https://open.spotify.com/artist/3g7Jy7DBhczGb5HF5M8PKY"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133457,
+      "name": "Un Vaarthai",
+      "url": "https://open.spotify.com/track/0kcdwX7FLkKvfASTff9fyV"
     },
     {
       "album": {

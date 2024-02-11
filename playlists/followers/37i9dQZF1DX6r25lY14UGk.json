@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 17429,
+  "2024-02-11": 17446,
   "date_first_scraped": "2022-04-19",
   "description": "New releases for the kids. Cover: The Laurie Berkner Band",
   "name": "New Kids Music",
@@ -24,6 +24,24 @@
     },
     {
       "album": {
+        "name": "A Touch of Magic",
+        "url": "https://open.spotify.com/album/5G1reowuNfadIu0UcBuXgU"
+      },
+      "artists": [
+        {
+          "name": "Foozlebots",
+          "url": "https://open.spotify.com/artist/0A2GTbECNSK8qFQjyDB381"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116141,
+      "name": "A Touch of Magic",
+      "url": "https://open.spotify.com/track/5GCnPH7lJgry1K21ddHX7z"
+    },
+    {
+      "album": {
         "name": "AnceStars",
         "url": "https://open.spotify.com/album/64aREOj3hb0pCmJzTSxTXc"
       },
@@ -43,7 +61,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 113506,
       "name": "ABC You A G",
       "url": "https://open.spotify.com/track/0WJRF99Adva94LORA1Cyud"
@@ -72,6 +90,24 @@
     },
     {
       "album": {
+        "name": "Air Guitar",
+        "url": "https://open.spotify.com/album/7iMpiOlDVKX6e7YLvPqoMC"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165531,
+      "name": "Air Guitar",
+      "url": "https://open.spotify.com/track/0VxLC51fSALOrfaAoxVjHy"
+    },
+    {
+      "album": {
         "name": "All Bodies Are Good Bodies",
         "url": "https://open.spotify.com/album/09Ft6cb3sbDQjjPFFhJxlh"
       },
@@ -91,7 +127,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 120272,
       "name": "All Bodies Are Good Bodies",
       "url": "https://open.spotify.com/track/4ZTMfcW0Hw9OkHghCwUifX"
@@ -206,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Bark to the Beat",
+        "url": "https://open.spotify.com/album/5Yc4KGQL2aV0UXusxtAI4Z"
+      },
+      "artists": [
+        {
+          "name": "Imitator Tots",
+          "url": "https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126125,
+      "name": "Bark to the Beat",
+      "url": "https://open.spotify.com/track/5ihCjTGi93TjUl5KFgYs7E"
+    },
+    {
+      "album": {
         "name": "Bark to the Beat (with blackbear) [From PAW Patrol: The Mighty Movie]",
         "url": "https://open.spotify.com/album/3hu5KuXIyZSuK02jA80jVI"
       },
@@ -239,7 +293,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 114919,
       "name": "Bath Time Freeze Dance",
       "url": "https://open.spotify.com/track/0EYrMlMMxouVxPPsM2Al5O"
@@ -401,7 +455,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 153385,
       "name": "Bouncing Balls",
       "url": "https://open.spotify.com/track/23AkwIiWew8fwKZqPB0eU8"
@@ -506,6 +560,24 @@
     },
     {
       "album": {
+        "name": "Building Better for Everyone",
+        "url": "https://open.spotify.com/album/5GjSaIN3iOisxbi1j3pdi8"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102973,
+      "name": "Building Better for Everyone",
+      "url": "https://open.spotify.com/track/5cr8Uc3H8MCl8lfgsPv6Eg"
+    },
+    {
+      "album": {
         "name": "Bunnies in the Bath (Counting Song)",
         "url": "https://open.spotify.com/album/4frOI5V5l1BEO8OXAfj0bs"
       },
@@ -579,7 +651,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 101124,
       "name": "Clap your hands",
       "url": "https://open.spotify.com/track/34qOyRkeL1iCxBvPSOkRm8"
@@ -1145,7 +1217,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 205565,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/6dxDbTGOZjOyJ1kexvchyX"
@@ -1290,6 +1362,24 @@
     },
     {
       "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1pB5U2qhiGwYHLOpncYJH7"
+      },
+      "artists": [
+        {
+          "name": "The Happy Racers",
+          "url": "https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169525,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/5pdExwm51qWeFrP6WPmCyt"
+    },
+    {
+      "album": {
         "name": "Goin' To A Birthday",
         "url": "https://open.spotify.com/album/5IRiwsbsT3p0lj2GenF7q8"
       },
@@ -1388,6 +1478,24 @@
     },
     {
       "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/1DeAVIlDfXSfpPjvUuKks4"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129504,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/0iLxPWv05NhSpVJttYibEt"
+    },
+    {
+      "album": {
         "name": "Grocery Store",
         "url": "https://open.spotify.com/album/3TNnC4G3sJX5E3wORuluDB"
       },
@@ -1399,7 +1507,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 171760,
       "name": "Grocery Store",
       "url": "https://open.spotify.com/track/13efAAgED8Wmq7iYMv8bs8"
@@ -1451,7 +1559,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 133294,
       "name": "Hand To Hold (Road Safety Song)",
       "url": "https://open.spotify.com/track/7vGPAcgiQQClmZFeA4T4kL"
@@ -1863,7 +1971,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 159320,
       "name": "I Care Bear",
       "url": "https://open.spotify.com/track/0VnSdWDiOkBUesZl0NNX13"
@@ -2033,7 +2141,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 43202,
       "name": "It's Stariana!",
       "url": "https://open.spotify.com/track/0mI8clBGy1IIVDctrLA9fP"
@@ -2353,7 +2461,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 188927,
       "name": "Like, Magical - Live",
       "url": "https://open.spotify.com/track/2w8ggQUHKMQzNYI8g8bd1C"
@@ -2437,7 +2545,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 124639,
       "name": "Look Up! There's a Rainbow!",
       "url": "https://open.spotify.com/track/1kTHonKVw5MWy99W8shuIT"
@@ -2872,6 +2980,24 @@
     },
     {
       "album": {
+        "name": "Open Your Emotions",
+        "url": "https://open.spotify.com/album/0ZyeHeAYDAyg6BP9avGnvI"
+      },
+      "artists": [
+        {
+          "name": "The Little Mouse Production",
+          "url": "https://open.spotify.com/artist/6Kb3W2eeJN6YNriqvdLNNE"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Open Your Emotions",
+      "url": "https://open.spotify.com/track/0C4tARGdysyWgiJrwDd0g7"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/0DMdkUii6hbvBUPIVEP6XO"
       },
@@ -2937,7 +3063,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 119613,
       "name": "Peaceful Like A Panda",
       "url": "https://open.spotify.com/track/3jG4vgtODLrgLUdIJlD8Me"
@@ -3303,7 +3429,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 168000,
       "name": "Singalong",
       "url": "https://open.spotify.com/track/4tCXFAcshFVU8tJvlhsKMT"
@@ -3343,7 +3469,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 151853,
       "name": "So Glad You're My Friend",
       "url": "https://open.spotify.com/track/7BwMdal53Wp7XmnvzTjJ45"
@@ -3573,7 +3699,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 162618,
       "name": "Sun Safety",
       "url": "https://open.spotify.com/track/4mjJBfM3AbvdR3yATMYQQV"
@@ -3711,7 +3837,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 105349,
       "name": "Telephone - 25th Anniversary Remaster",
       "url": "https://open.spotify.com/track/2KLNR3Wrv45QryscGNnYhY"
@@ -3823,7 +3949,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 159087,
       "name": "The Floor is Slime",
       "url": "https://open.spotify.com/track/6ShV9H9dz8HAYClYvIQ5NT"
@@ -4131,7 +4257,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 126039,
       "name": "Train Is Coming",
       "url": "https://open.spotify.com/track/76sV3pmK4aaTb9tdwL2d0O"
@@ -4156,6 +4282,24 @@
     },
     {
       "album": {
+        "name": "Unicorn Song",
+        "url": "https://open.spotify.com/album/4jnak104rS4pKgYslMKHE2"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181101,
+      "name": "Unicorn Song",
+      "url": "https://open.spotify.com/track/09MxtSLQheOkxH84Kg132N"
+    },
+    {
+      "album": {
         "name": "Used To Be Young",
         "url": "https://open.spotify.com/album/53C3GboXZmNPObC7yOrX17"
       },
@@ -4174,6 +4318,24 @@
     },
     {
       "album": {
+        "name": "Wake Up Body",
+        "url": "https://open.spotify.com/album/7CgurGWicYjX5S0vcTj2T5"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109742,
+      "name": "Wake Up Body",
+      "url": "https://open.spotify.com/track/1rwCDTzDZcRP6JK0A74DaA"
+    },
+    {
+      "album": {
         "name": "Mr. Greg & Cass McCombs Sing and Play New Folk Songs for Children",
         "url": "https://open.spotify.com/album/5BRz8Ni0M0EeXFDfSnwZhh"
       },
@@ -4189,7 +4351,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 202520,
       "name": "Wave a Flag for Harvey Milk",
       "url": "https://open.spotify.com/track/278FrjHVBPFAE5oEktEkeL"
@@ -4373,7 +4535,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 140484,
       "name": "Wheels on the Bus",
       "url": "https://open.spotify.com/track/6Sxs3ZEBNOj0elHDWo5VDD"
@@ -4445,7 +4607,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 178266,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/3XIuHsf6ct8x5trcPEgzho"
@@ -4481,7 +4643,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 121881,
       "name": "you can fly",
       "url": "https://open.spotify.com/track/0zquapxRr9z4nFyC4eQ6CA"

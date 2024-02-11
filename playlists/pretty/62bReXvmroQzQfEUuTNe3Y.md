@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Chill tracks to vibe or dance for 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[Selected.](https://open.spotify.com/user/selectedbase) - 1,166,504 likes - 124 songs - 6 hr 48 min
+[Selected.](https://open.spotify.com/user/selectedbase) - 1,167,091 likes - 124 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 30 | [Remedy](https://open.spotify.com/track/11CnwxdRxrHNYDCVT6npaz) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Running Touch](https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE) | [Remedy](https://open.spotify.com/album/0kTUETKwjoj5x8iHJaOb4Y) | 3:45 |
 | 31 | [Lost in You](https://open.spotify.com/track/41JyJ75Wf7NOIP3lk3JaNH) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Lost in You](https://open.spotify.com/album/13gn0rNGUlOHhZbnG76PAW) | 3:01 |
 | 32 | [Heart Back](https://open.spotify.com/track/0OSgkdebxTRNXLwwzD2b8s) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Heart Back](https://open.spotify.com/album/1hPoZ0YpV7J1w1jmvF5vxg) | 2:44 |
-| 33 | [Chemicals](https://open.spotify.com/track/1nWydPjxaHwae1T4DMhOMf) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS) | [Chemicals](https://open.spotify.com/album/2IPq21A71Ap2s5noX13PkV) | 2:36 |
+| 33 | [Chemicals](https://open.spotify.com/track/1nWydPjxaHwae1T4DMhOMf) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Chemicals](https://open.spotify.com/album/2IPq21A71Ap2s5noX13PkV) | 2:36 |
 | 34 | [Dive](https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Rue More](https://open.spotify.com/artist/26bowrYXXcMtHgx8g7sPKa) | [Dive](https://open.spotify.com/album/6HM2HWm4h2WymgqHEtDNgU) | 3:17 |
 | 35 | [Better Days](https://open.spotify.com/track/5f9t61TRxZ3ancJadJyrHm) | [Oliver Cricket](https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr) | [Better Days](https://open.spotify.com/album/5aE3PTdZrFwfrDdg01GIjg) | 2:28 |
 | 36 | [Home](https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5) | [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Home](https://open.spotify.com/album/5w3vUnEpFqhgvTUmTwoBbR) | 3:45 |

@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: HYBS + SIRUP \(TH/JP\)
 
-1,158 songs - 2 day 21 hr 42 min
+1,159 songs - 2 day 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1041,6 +1041,7 @@
 | [YANG KAU HINDARI TERJADI](https://open.spotify.com/track/6Ua0cG9PcsN0NF4IkRUZkB) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [YANG KAU HINDARI TERJADI](https://open.spotify.com/album/4NMWT25Q26qQ8OCCbt0VoV) | 6:52 | 2023-06-08 | 2023-11-24 |
 | [Yang Kita Punya \(Our Love\)](https://open.spotify.com/track/2g8ofipg3zIptb8JDQ05Hi) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT) | [Nightvision \(Love Is God Edition\)](https://open.spotify.com/album/5uwlX45meAGA6nbxUwELJw) | 5:12 | 2023-12-08 | 2024-01-12 |
 | [Yearning](https://open.spotify.com/track/1bmiU7ALrg8TlYY71RAaBh) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Yearning](https://open.spotify.com/album/1JPJ2SDY9CshZ7m6bNcyE9) | 3:40 | 2023-07-27 | 2023-08-18 |
+| [Yellow Leaf](https://open.spotify.com/track/2umfwjHoIPrth4vs1fEQv4) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:34 | 2024-02-08 |  |
 | [Yellow Light](https://open.spotify.com/track/2xTthDrC8bvxrZUKWWks1O) | [diondjokoadi](https://open.spotify.com/artist/3whzsIqAkpNv0rxyARK82D) | [Yellow Light](https://open.spotify.com/album/3DIl4oQDEz5X1s19h1vRHZ) | 3:05 | 2022-03-24 | 2022-05-13 |
 | [YES \- vanguard mix](https://open.spotify.com/track/0RNmlHZm28K6l9yKAqhGS3) | [bonobos](https://open.spotify.com/artist/4TFfPbcLZFXw1C6zsJhoeX) | [YES \(vanguard mix\)](https://open.spotify.com/album/1ro49FQ5xgl9pIINxlRozK) | 4:29 | 2022-04-14 | 2022-05-27 |
 | [You and I \(feat\. Dandy Hendstyo\)](https://open.spotify.com/track/0WdVQ5vPvbXY10Joz6BJJ1) | [safiradinda](https://open.spotify.com/artist/2dptqJyVPAcFp771zi3IOP), [Dandy Hendstyo](https://open.spotify.com/artist/2szj8xBOp1sq9IJJWQTNhD) | [After Midnight](https://open.spotify.com/album/6KzcJFHZHqZ6D6CppQBQWY) | 4:08 | 2022-08-25 | 2022-09-09 |
@@ -1138,7 +1139,7 @@
 | [時の解決](https://open.spotify.com/track/7KmjtQirbhpj3aeLu3BA7l) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [景色一空](https://open.spotify.com/album/2XAZByUJaGLU5E60QB3zKb) | 6:16 | 2023-10-19 | 2023-11-10 |
 | [時をかける少女](https://open.spotify.com/track/7tKXX85MSaVD5ctgS8WelE) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [ToMoYo covers\~原田知世オフィシャル・カバー・アルバム](https://open.spotify.com/album/2jXG91MPq9hN7ZEpdY1w9n) | 3:22 | 2022-11-10 | 2022-12-09 |
 | [景美](https://open.spotify.com/track/3czww3w60fmC2JZnxSa0Z7) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [景美](https://open.spotify.com/album/6QNJgsgKDRWVr5umnDgOGC) | 3:35 | 2022-05-12 | 2022-06-17 |
-| [暗流](https://open.spotify.com/track/2k3JtZNj3VZkHdefEssZmO) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [暗流](https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW) | 4:22 | 2023-11-16 |  |
+| [暗流](https://open.spotify.com/track/2k3JtZNj3VZkHdefEssZmO) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [暗流](https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW) | 4:22 | 2023-11-16 | 2024-02-11 |
 | [死んでくれ](https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Bee and The Whales](https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs) | 3:27 | 2023-06-01 | 2023-09-12 |
 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 | 2023-03-02 | 2023-04-14 |
 | [沒關係 it’s okay!!](https://open.spotify.com/track/122EWWcqtd2vN1iiT560bO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [沒關係 it’s okay!!](https://open.spotify.com/album/5w3yXSuQASET0SIpfmH43X) | 3:11 | 2022-09-08 | 2022-10-14 |

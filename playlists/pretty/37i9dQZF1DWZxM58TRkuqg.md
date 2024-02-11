@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Nidji
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,467 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,670 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 59 | [Menanti](https://open.spotify.com/track/3cjNhOfNOY44Q4zVnAeXi8) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Menanti](https://open.spotify.com/album/0msDncEzlht2pXf7c1TMNq) | 3:47 |
 | 60 | [Dunia Yang Terlupa](https://open.spotify.com/track/1B4d9vrImt99bpCI5eHPe9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Hari Yang Cerah](https://open.spotify.com/album/7th82LGjGsDpfE52ZRPp4U) | 3:31 |
 
-Snapshot ID: `MCw5MTQ3MmU3Njg1YjNhODZmNzA1NzJjMDhhOGFlZDE0OTNjODAwZGY2`
+Snapshot ID: `MCw3YjhiOGRjZmQxNzk4NjRiYWFkNTNhMmRiYmQzNTllYWE5ZDg4MGRi`

@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 7520201,
+  "num_followers": 7526682,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGJiNWU4NmQ5ZjA0ZTQ5OTA4OWU3MDYwZjVjMGY0ZDMxZDQ3Mjc1",
+  "snapshot_id": "MCxlNmZlMGQzODllZGQ1OTE1ZGM3ZDI5MjRkOWQzZWIwNzAzYjhhM2Mz",
   "tracks": [
     {
       "added_at": "2023-10-20 10:30:53",
@@ -1166,6 +1166,10 @@
         {
           "name": "Anar",
           "url": "https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs"
         }
       ],
       "duration_ms": 76281,

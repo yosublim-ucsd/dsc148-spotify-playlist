@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Menor MC ",
-  "num_followers": 128375,
+  "num_followers": 128402,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjAwMzVlOTY4MjY0NzI3MjFjNjg3ZjczNDIwZTQ5YjdiNzU5Zjg1",
+  "snapshot_id": "MCxkOGNhZWRmNzYzODUzNzNiODM1MTliM2IyOGE1ZGMyZTVkN2JlYjE5",
   "tracks": [
     {
       "added_at": "2024-02-09 17:30:47",
@@ -83,30 +83,6 @@
     {
       "added_at": "2024-02-09 17:30:47",
       "album": {
-        "name": "Contradi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 104145,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"
-    },
-    {
-      "added_at": "2024-02-09 17:30:47",
-      "album": {
         "name": "Foto da Unha",
         "url": "https://open.spotify.com/album/2ch0bK9veGHOPlDQCYLAln"
       },
@@ -127,6 +103,30 @@
       "duration_ms": 199680,
       "name": "Foto da Unha",
       "url": "https://open.spotify.com/track/6CQWmtVuHcGGdWLfcpOpbp"
+    },
+    {
+      "added_at": "2024-02-09 17:30:47",
+      "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 104145,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"
     },
     {
       "added_at": "2024-02-09 17:30:47",
@@ -695,30 +695,6 @@
     {
       "added_at": "2024-02-09 17:30:47",
       "album": {
-        "name": "O Bagulho \u00c9 Trap II",
-        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
-        },
-        {
-          "name": "TrapHits",
-          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
-        },
-        {
-          "name": "Brocasito",
-          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bola Outro - Feat. Brocasito",
-      "url": "https://open.spotify.com/track/4ES3qh8IU3tQfe4ZmZvWdi"
-    },
-    {
-      "added_at": "2024-02-09 17:30:47",
-      "album": {
         "name": "Na Minha Blunt",
         "url": "https://open.spotify.com/album/57lNHVtrf0nAijRYg9KRdp"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 170322,
       "name": "Na Minha Blunt",
       "url": "https://open.spotify.com/track/22c34TVqA1nkCZrjtPLjmJ"
+    },
+    {
+      "added_at": "2024-02-09 17:30:47",
+      "album": {
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        },
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bola Outro - Feat. Brocasito",
+      "url": "https://open.spotify.com/track/4ES3qh8IU3tQfe4ZmZvWdi"
     },
     {
       "added_at": "2024-02-09 17:30:47",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2024-02-09 17:30:47",
       "album": {
+        "name": "Bem-vindo a Armadilha Brasileira",
+        "url": "https://open.spotify.com/album/6djuaxmB22F71KPU0A7CrU"
+      },
+      "artists": [
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF"
+        },
+        {
+          "name": "Bertoi",
+          "url": "https://open.spotify.com/artist/36UCsM7sdK6dOjTlcZnH8T"
+        }
+      ],
+      "duration_ms": 144003,
+      "name": "VALENTINO",
+      "url": "https://open.spotify.com/track/3GlI062UstXPkDZjSwAi4L"
+    },
+    {
+      "added_at": "2024-02-09 17:30:47",
+      "album": {
         "name": "Secretbox, Vol. 4",
         "url": "https://open.spotify.com/album/7yN4aGc9NRspnq0SfpI6BS"
       },
@@ -1211,6 +1231,46 @@
     {
       "added_at": "2024-02-09 17:30:47",
       "album": {
+        "name": "Cintura Covarde - RIMAR 9",
+        "url": "https://open.spotify.com/album/6KD35aUhvoVAzxcRhVlFzI"
+      },
+      "artists": [
+        {
+          "name": "Boca",
+          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        }
+      ],
+      "duration_ms": 229743,
+      "name": "Cintura Covarde - RIMAR 9",
+      "url": "https://open.spotify.com/track/11iqg0I2B90nZ8ujMNIs09"
+    },
+    {
+      "added_at": "2024-02-09 17:30:47",
+      "album": {
         "name": "Fontalis / N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
         "url": "https://open.spotify.com/album/1zdNrq0tgTQLNFohKDBXQl"
       },
@@ -1223,26 +1283,6 @@
       "duration_ms": 91890,
       "name": "N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
       "url": "https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr"
-    },
-    {
-      "added_at": "2024-02-09 17:30:47",
-      "album": {
-        "name": "Bem-vindo a Armadilha Brasileira",
-        "url": "https://open.spotify.com/album/6djuaxmB22F71KPU0A7CrU"
-      },
-      "artists": [
-        {
-          "name": "LX",
-          "url": "https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF"
-        },
-        {
-          "name": "Bertoi",
-          "url": "https://open.spotify.com/artist/36UCsM7sdK6dOjTlcZnH8T"
-        }
-      ],
-      "duration_ms": 144003,
-      "name": "VALENTINO",
-      "url": "https://open.spotify.com/track/3GlI062UstXPkDZjSwAi4L"
     },
     {
       "added_at": "2024-02-09 17:30:47",
@@ -1291,46 +1331,6 @@
       "duration_ms": 240000,
       "name": "Pela Manh\u00e3",
       "url": "https://open.spotify.com/track/59kwXEmcc52rvxweb6we9p"
-    },
-    {
-      "added_at": "2024-02-09 17:30:47",
-      "album": {
-        "name": "Cintura Covarde - RIMAR 9",
-        "url": "https://open.spotify.com/album/6KD35aUhvoVAzxcRhVlFzI"
-      },
-      "artists": [
-        {
-          "name": "Boca",
-          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Klisman",
-          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
-        },
-        {
-          "name": "Raflow",
-          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
-        }
-      ],
-      "duration_ms": 229743,
-      "name": "Cintura Covarde - RIMAR 9",
-      "url": "https://open.spotify.com/track/11iqg0I2B90nZ8ujMNIs09"
     },
     {
       "added_at": "2024-02-09 17:30:47",

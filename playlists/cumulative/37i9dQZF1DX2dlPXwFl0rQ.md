@@ -4,7 +4,7 @@
 
 > Estas son las indomables de la Música Mexicana\. Adriana Ríos en portada.
 
-356 songs - 19 hr 11 min
+357 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [No Voy A Llorar](https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Voy A Llorar](https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6) | 3:17 | 2021-12-17 | 2022-09-03 |
 | [Normal](https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Jupiter](https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K) | 3:02 | 2023-07-14 |  |
 | [Nos Equivocamos](https://open.spotify.com/track/3VWXZ8sDfUqviwRdK7NoBx) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Nos Equivocamos](https://open.spotify.com/album/6EgxLNfvLVKZQsOsvQDrqw) | 4:23 | 2021-12-17 | 2022-03-17 |
-| [Nos Ganó El Amor](https://open.spotify.com/track/3dEadsEMtM7MGeX7TsNPbj) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/3CfVWjyKYQPsyUANeNipd8) | 3:07 | 2024-01-12 |  |
+| [Nos Ganó El Amor](https://open.spotify.com/track/3dEadsEMtM7MGeX7TsNPbj) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/3CfVWjyKYQPsyUANeNipd8) | 3:07 | 2024-01-12 | 2024-02-11 |
+| [Nos Ganó El Amor](https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr) | 3:07 | 2024-02-09 |  |
 | [Ojalá Que No Puedas](https://open.spotify.com/track/2KtO9NfY8sY3gJyEKdUhFr) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [No Le Lloro A Cabrones](https://open.spotify.com/album/1yb6Tix7xyNRTrWOqEGgqc) | 3:06 | 2022-02-25 | 2022-09-03 |
 | [Ojitos Lindos](https://open.spotify.com/track/6JYE09qjRvxvGZBxPNOTw1) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Ojitos Lindos](https://open.spotify.com/album/5qcpDJhLdRHhLxoOhcFYE6) | 2:45 | 2023-06-16 | 2023-08-05 |
 | [Olvídalo](https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Olvídalo](https://open.spotify.com/album/7vWScpX8aLrr5XnGPH49Qt) | 3:16 | 2021-12-17 | 2022-09-24 |

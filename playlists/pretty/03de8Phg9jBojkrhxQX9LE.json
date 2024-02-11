@@ -1,6 +1,6 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 20096,
+  "num_followers": 20104,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
@@ -222,10 +222,6 @@
         {
           "name": "Dances",
           "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
-        },
-        {
-          "name": "Devin Duran Bolton",
-          "url": "https://open.spotify.com/artist/6RFNuhnIGN20Gz5G1iOOFV"
         }
       ],
       "duration_ms": 236987,

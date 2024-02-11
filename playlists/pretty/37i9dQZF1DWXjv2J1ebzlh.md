@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,975 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,991 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sua Pele](https://open.spotify.com/track/0m0TazZcn82i5uRlesEW32) | [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Sua Pele](https://open.spotify.com/album/60HwSfREMsWDXK6wJthEj7) | 3:46 |
+| 1 | [Sua Pele](https://open.spotify.com/track/3tRZUuKPdoy359JyMwJaVz) | [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [in Ze early morning](https://open.spotify.com/album/5iz5kGjLKESgUKanW9Mhhl) | 3:46 |
 | 2 | [There Goes My Man](https://open.spotify.com/track/4uuJ1IUsrMqUV06viXxvdH) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063), [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [The Fool](https://open.spotify.com/album/5PQsTMvwPh5SbNhteFxevk) | 3:53 |
 | 3 | [Joget Sambal](https://open.spotify.com/track/6dbLANcPqRdZXI0txxzbV2) | [Anak Anak Abu](https://open.spotify.com/artist/4067WVdzOyZpOFpK9EeQ0N) | [Joget Sambal](https://open.spotify.com/album/418TWSSLJM1Wk3maz10OtW) | 2:50 |
 | 4 | [Unconditional \(feat\. Rationale\)](https://open.spotify.com/track/3Lgb0uFGQ8SJVoqpq6bSif) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Unconditional \(feat\. Rationale\)](https://open.spotify.com/album/14vupgjqKCmYJ0eqMUr9px) | 3:15 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw3OGJlM2JlZTU0MjUzNjVlMzI1ZDg4YzFmNTZiM2Q3MzU1YTU4MzU1`
+Snapshot ID: `MCw2OWM0ZGY5MGYzMWEwNDFhZmQzZDAzZDVjZjFlNDIwMTcwY2Q3NzQz`

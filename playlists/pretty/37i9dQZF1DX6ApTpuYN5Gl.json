@@ -1,12 +1,12 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 68929,
+  "num_followers": 69000,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjZlYTYxZDI0ZGIwMGUzNGI4NzExMTcwZTZjMzM3Y2IzOTM3NjFl",
+  "snapshot_id": "MCw0ZGNlNjRmZWY2MmQ3ZjI3ODdhMDVjY2RmOGE2YTJjNDgyOTViNTQy",
   "tracks": [
     {
       "added_at": "2023-12-22 16:30:00",
@@ -943,26 +943,6 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
-        "name": "NO SKIN",
-        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
-        }
-      ],
-      "duration_ms": 278124,
-      "name": "NO SKIN",
-      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH"
       },
@@ -983,6 +963,26 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
+        "name": "NO SKIN",
+        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        }
+      ],
+      "duration_ms": 278124,
+      "name": "NO SKIN",
+      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
         "name": "Why Does My Heart",
         "url": "https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd"
       },
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
-        "name": "Confused 133",
-        "url": "https://open.spotify.com/album/318k5epPI1tchtYBglX5kM"
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F"
       },
       "artists": [
         {
-          "name": "Ninezz",
-          "url": "https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY"
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
         }
       ],
-      "duration_ms": 162410,
-      "name": "Confused 133",
-      "url": "https://open.spotify.com/track/2L5FCkyzwgpPMsgoTuB7qr"
+      "duration_ms": 153750,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK"
     }
   ],
   "unique_name": "melancholia",

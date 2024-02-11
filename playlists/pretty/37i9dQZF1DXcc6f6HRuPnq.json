@@ -1,29 +1,13 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 151304,
+  "num_followers": 151385,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTI0ZTczYTU1M2MyNzNhMmMxYjA3NDZhNzQyNDkwOTBhMmQwNzYz",
+  "snapshot_id": "MCwyYjZlMzQ3MjE4MWUwZGU4ODJmMGU1MDc4YThhYTRhNGI4ODMyN2Nk",
   "tracks": [
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
-    },
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 318840,
       "name": "Cold, Cold Feeling",
       "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Me and Mr. Johnson",
-        "url": "https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 246493,
-      "name": "Kind Hearted Woman Blues",
-      "url": "https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "For Blind Willie",
         "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 361970,
       "name": "Lord I Just Can't Keep from Crying",
       "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Me and Mr. Johnson",
+        "url": "https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 246493,
+      "name": "Kind Hearted Woman Blues",
+      "url": "https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -639,6 +639,22 @@
       "duration_ms": 268866,
       "name": "Help Me Through The Day",
       "url": "https://open.spotify.com/track/1k6zIr7FmCDWBlEGMjkwLb"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 279840,
+      "name": "Blue Jean Blues (2005 Remaster)",
+      "url": "https://open.spotify.com/track/2wXy7MhpWa1t4n86QzaCVL"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -707,22 +723,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Good Luck Man",
-        "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
-      },
-      "artists": [
-        {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
-        }
-      ],
-      "duration_ms": 428266,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Come to Find",
         "url": "https://open.spotify.com/album/0EiOsxtSUCiyOCiHU8kUF0"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 301733,
       "name": "Mystery Woman",
       "url": "https://open.spotify.com/track/4rEUWLQh9vofv3x9377uUR"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Good Luck Man",
+        "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
+      },
+      "artists": [
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        }
+      ],
+      "duration_ms": 428266,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -803,22 +819,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
-        "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "That Evening Train - Remastered 2022",
-      "url": "https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Hate To See You Go",
         "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 231333,
       "name": "Gee Baby Ain't I Good To You",
       "url": "https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
+        "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "That Evening Train - Remastered 2022",
+      "url": "https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1047,6 +1063,22 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
+        "name": "Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "duration_ms": 292520,
+      "name": "Empty Bed Blues - Mono",
+      "url": "https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
         "name": "Scream, Holler & Howl",
         "url": "https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ"
       },
@@ -1079,22 +1111,6 @@
       "duration_ms": 187524,
       "name": "I Know I've Been Changed",
       "url": "https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
-        "name": "Sings Bessie Smith",
-        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 292520,
-      "name": "Empty Bed Blues - Mono",
-      "url": "https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Ain't Giving Up",
-        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
-      },
-      "artists": [
-        {
-          "name": "Chris Duarte",
-          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
-        }
-      ],
-      "duration_ms": 420181,
-      "name": "Weak Days",
-      "url": "https://open.spotify.com/track/0ci4FY6foptsMwZZtVhYNw"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Aynsley Dunbar Retaliation",
         "url": "https://open.spotify.com/album/5x2oNDLg8c4wWHObs8fGYB"
       },
@@ -1231,6 +1231,22 @@
       "duration_ms": 229266,
       "name": "Double Lovin\u00b4",
       "url": "https://open.spotify.com/track/1TrvuBGqATex8EHajEHrqo"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Ain't Giving Up",
+        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
+      },
+      "artists": [
+        {
+          "name": "Chris Duarte",
+          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
+        }
+      ],
+      "duration_ms": 420181,
+      "name": "Weak Days",
+      "url": "https://open.spotify.com/track/0ci4FY6foptsMwZZtVhYNw"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1311,22 +1327,6 @@
       "duration_ms": 447520,
       "name": "Twenty-Four Hours - Digitally Remastered Version",
       "url": "https://open.spotify.com/track/1zdnfGx2EBPs6WBIAOqGjY"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
-        "name": "Nail Jumping",
-        "url": "https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 148003,
-      "name": "Blue Because Of You",
-      "url": "https://open.spotify.com/track/3sFYTjU3KA7bSHHui9Hp8X"
     }
   ],
   "unique_name": "Midnight Blues",

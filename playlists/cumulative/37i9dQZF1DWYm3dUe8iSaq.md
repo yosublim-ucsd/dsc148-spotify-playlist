@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-234 songs - 13 hr 29 min
+235 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [I'll Be Fine](https://open.spotify.com/track/6hx56UpTxacCNBHR2iDOwN) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [I'll Be Fine](https://open.spotify.com/album/72ngbBpDHcAAzFGXJKQ4DE) | 4:08 | 2022-04-08 | 2023-01-14 |
 | [If You Had a Long Day](https://open.spotify.com/track/0eCX3ptohLUY3vW4Ehh68L) | [Cayson Renshaw](https://open.spotify.com/artist/2hVHQSQmwraIZSyISHOWEf) | [If You Had a Long Day](https://open.spotify.com/album/4dYRT2ki2UXlEgs2X3R5Ky) | 2:21 | 2023-10-06 | 2024-02-10 |
 | [In The End](https://open.spotify.com/track/0EzrpH6IwHdPbZKHqtIS4Q) | [Fiona O' Connell](https://open.spotify.com/artist/0EycwYy6PGKtlZntaQThjr) | [In The End](https://open.spotify.com/album/2YhJJxFJUEh7yuRqOKHbAU) | 4:40 | 2023-11-17 | 2024-01-26 |
+| [In The Light](https://open.spotify.com/track/0DkZi0It78PGI6Nn7toKwR) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [American Romance](https://open.spotify.com/album/5YXocog13Ei8qItXxiQxsX) | 3:15 | 2024-02-09 |  |
 | [Inconvenient](https://open.spotify.com/track/05Wkpex2HSIKXopQ9MI582) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Inconvenient](https://open.spotify.com/album/7DQTWo1YTY0fT61EvzjOfB) | 2:20 | 2023-02-24 | 2023-10-07 |
 | [Islander](https://open.spotify.com/track/3TnYyFbfaei4RxMyoih7ev) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Coast Is Clear / Islander](https://open.spotify.com/album/4XENtFgFHtYQvZJjOFvkGM) | 2:41 | 2022-07-01 | 2022-10-08 |
 | [It Takes Time](https://open.spotify.com/track/28JzljSIIRvqJNdVNKu9hS) | [Fairhazel](https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn) | [It Takes Time](https://open.spotify.com/album/4Yc4BxP7CnSSyTkT9FMU3U) | 3:20 | 2023-08-11 |  |
@@ -158,7 +159,7 @@
 | [Normal](https://open.spotify.com/track/7ds2RsOBtrTTBZ4gc7P0er) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:11 | 2022-04-08 | 2022-10-08 |
 | [Old Friend Night](https://open.spotify.com/track/4XQ0jF6YJ1BF7y3kC6okq5) | [Maja Lena](https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0) | [The Keeper](https://open.spotify.com/album/6TVrNauoPcbsT5wYGE7YrW) | 3:40 | 2022-04-08 | 2022-07-02 |
 | [Old Times](https://open.spotify.com/track/2LpnnVITgcXV3vaQysj37V) | [Tamu Massif](https://open.spotify.com/artist/2kU7oX1Uxv4xalarIEjMpm) | [Old Times](https://open.spotify.com/album/6Ub6Ympxgyntxct4EgrpKw) | 4:34 | 2022-04-08 | 2024-01-20 |
-| [oMo \(Man\)](https://open.spotify.com/track/373XAEtCUiQCCHQZxOjihL) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [oMo \(Man\)](https://open.spotify.com/album/4HbYYzLD9gLtWOvUVjuBhI) | 3:08 | 2023-10-06 |  |
+| [oMo \(Man\)](https://open.spotify.com/track/373XAEtCUiQCCHQZxOjihL) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [oMo \(Man\)](https://open.spotify.com/album/4HbYYzLD9gLtWOvUVjuBhI) | 3:08 | 2023-10-06 | 2024-02-11 |
 | [Orange Juice](https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:57 | 2024-01-26 |  |
 | [Our Time](https://open.spotify.com/track/44cqu9aiiJarV1znSUY1YZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Our Time](https://open.spotify.com/album/7AvyzgmBfIOyRRBqY85puH) | 3:24 | 2023-01-13 |  |
 | [Paradise](https://open.spotify.com/track/4CTJbiUAJvHji7dEGU1Hv8) | [Carmody](https://open.spotify.com/artist/4wdK3zLMWPQK6CD0dpHh8F) | [Paradise](https://open.spotify.com/album/615Q0iOnYPozrqfza5ueCX) | 2:55 | 2022-04-08 | 2022-05-21 |

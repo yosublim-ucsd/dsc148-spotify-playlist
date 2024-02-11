@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 155748,
       "name": "Ayr\u0131 Gitme",
       "url": "https://open.spotify.com/track/6dqkb11C20YDLZNhNAzWxz"
@@ -3610,7 +3610,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 179617,
       "name": "Can\u0131n Sa\u011f Olsun",
       "url": "https://open.spotify.com/track/0mYqW8vhiw9rgwSwB21JQz"
@@ -4422,6 +4422,28 @@
       "duration_ms": 143169,
       "name": "Dondu Pu\u015ft",
       "url": "https://open.spotify.com/track/3bH14FqMe4LSmUVsaWgx9o"
+    },
+    {
+      "album": {
+        "name": "DOYAMADIM",
+        "url": "https://open.spotify.com/album/3ZcoGz1y8uuLK2TctffImK"
+      },
+      "artists": [
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        },
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157128,
+      "name": "DOYAMADIM",
+      "url": "https://open.spotify.com/track/4C9oMKq6WuLPVyLFncFMXR"
     },
     {
       "album": {
@@ -6755,6 +6777,24 @@
     },
     {
       "album": {
+        "name": "G\u00dcZEL VE \u0130DD\u0130ALI",
+        "url": "https://open.spotify.com/album/4KiKXZthJfVz0mKIkv7E2G"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175829,
+      "name": "G\u00dcZEL VE \u0130DD\u0130ALI",
+      "url": "https://open.spotify.com/track/3LUFeTIPLxgZYdBxG0eV5k"
+    },
+    {
+      "album": {
         "name": "CHORBA",
         "url": "https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg"
       },
@@ -7760,7 +7800,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 214059,
       "name": "\u0130lkbahar\u0131m K\u0131\u015fa D\u00f6nd\u00fc",
       "url": "https://open.spotify.com/track/3XqVExsAlVN7UDcEUjwqmy"
@@ -12920,7 +12960,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 146964,
       "name": "Salla Salla",
       "url": "https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze"

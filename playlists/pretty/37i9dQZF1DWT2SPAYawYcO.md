@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,829 likes - 74 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,875 likes - 74 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 65 | [Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 3:18 |
 | 66 | [Try Be Good](https://open.spotify.com/track/1Xlpdp1XOhwErqyU6MJJyC) | [Olympia](https://open.spotify.com/artist/4dxO8WyhmkXoF2gNAVgnay) | [Try Be Good](https://open.spotify.com/album/08kvJcuGVngMbkbP7tPeri) | 3:33 |
 | 67 | [freakshow](https://open.spotify.com/track/3qebmHGlpXxLeUgA8AMWnl) | [Little Guilt](https://open.spotify.com/artist/7poBjSledYHe5LE2LgOhrv) | [freakshow](https://open.spotify.com/album/2D5TJv0rUZAnFTNtVEbKn4) | 3:15 |
-| 68 | [1 in a Milli](https://open.spotify.com/track/3hqoVbOPF5Tst2TM7TxmHz) | [EDY](https://open.spotify.com/artist/23fD2AM3mNVBRhCteyxgdQ), [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Sione Toki](https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV), [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy), [Pieter T](https://open.spotify.com/artist/5Sr3QRGJOKL3r5NzKAbdX3) | [1 in a Milli](https://open.spotify.com/album/5YWSLaOzZxxo7YWcurYeAH) | 3:12 |
+| 68 | [1 in a Milli](https://open.spotify.com/track/3hqoVbOPF5Tst2TM7TxmHz) | [EDY](https://open.spotify.com/artist/23fD2AM3mNVBRhCteyxgdQ), [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Sione Toki](https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV), [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy), [Pieter T](https://open.spotify.com/artist/5Sr3QRGJOKL3r5NzKAbdX3), [Sailor Goon](https://open.spotify.com/artist/1FZj2HbeTP7F5xOqIrPKKZ) | [1 in a Milli](https://open.spotify.com/album/5YWSLaOzZxxo7YWcurYeAH) | 3:12 |
 | 69 | [silence](https://open.spotify.com/track/2h0Huf6OzSGaBjMrc1irwN) | [boler mani](https://open.spotify.com/artist/7uAzXw50IscCTZwLGTP2nc) | [silence](https://open.spotify.com/album/3oDoE52tWAVx3lWlFbyH23) | 2:15 |
 | 70 | [Could I Be](https://open.spotify.com/track/3ecY0y8i4XOeuFglFZKmtE) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj) | [Could I Be](https://open.spotify.com/album/5Hj5Y0cfgzouXuHUdMAtgU) | 3:11 |
 | 71 | [Sunny Hills](https://open.spotify.com/track/09KpQeXi5Z45DraS2JiSDu) | [Mia Dyson](https://open.spotify.com/artist/5QSZl73T85ZpZGAHSDIED6) | [Sunny Hills](https://open.spotify.com/album/08uatuuS7uGvs3eNrrumlb) | 3:47 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 73 | [Dirt on It](https://open.spotify.com/track/4wpoy10cFgeALXIePThKrT) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw) | [Dirt on It](https://open.spotify.com/album/5gAATvvuvNniooRxZo8fpa) | 3:06 |
 | 74 | [Anybody](https://open.spotify.com/track/5HzCLpuHUub2AvGaYWJiyk) | [Tom Snowdon](https://open.spotify.com/artist/1bUUZRE9BSdz7acIrPN6HY) | [Lonely Tree](https://open.spotify.com/album/0fLAyBSqCZVdcf9jfo7JQo) | 3:49 |
 
-Snapshot ID: `MCxlYTk5MGEzYWViNGM4Mzk5N2UxNTJkNjBiYzdiMThkOTA1M2VjZjY0`
+Snapshot ID: `MCw2MjNlNGEzYTM1NGVlNTFmODA4NTZiMTExYjNhOTUzMmQxNjAzMWFh`

@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-424 songs - 1 day 1 hr 17 min
+425 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,9 +109,10 @@
 | [Donde Estan las Gatas](https://open.spotify.com/track/0tIpUUbOYIWqvI50Ksf7D5) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Gargolas 3](https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob) | 2:50 | 2022-07-27 |  |
 | [Donde Estan Las Gatas \(feat\. Nicky Jam\)](https://open.spotify.com/track/3Kemg5QPEhEjOiWUFrTkXX) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Alex Gargolas Greatest Hits](https://open.spotify.com/album/6JmEk1yaNPn4LFx9YPcZXv) | 2:50 | 2021-12-17 | 2022-07-29 |
 | [Donde Hubo Fuego](https://open.spotify.com/track/5rhdmtFyYixhT2XZPjzcGb) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [12 Discipulos](https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w) | 3:25 | 2021-12-17 | 2022-07-29 |
-| [Dos Palgas](https://open.spotify.com/track/1ohrqIMhros7Gi7mX80WB6) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Casa De Leones](https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A) | 3:23 | 2022-07-27 |  |
+| [Dos Palgas](https://open.spotify.com/track/1ohrqIMhros7Gi7mX80WB6) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Casa De Leones](https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A) | 3:23 | 2022-07-27 | 2024-02-11 |
 | [Down](https://open.spotify.com/track/09QZbXkrHRww7Epv7qSnL0) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Reggaeton Simply The Best](https://open.spotify.com/album/77bdlkmKZ719XLIOnmftMP) | 3:45 | 2021-12-17 | 2022-07-29 |
 | [Down](https://open.spotify.com/track/0t0WIrjRcvgBAwLlby2gsZ) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:45 | 2022-07-27 |  |
+| [Déjale Caer To' El Peso \(feat\. Yomo\)](https://open.spotify.com/track/6W19gzjtJOUi2lykSByW9a) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [Goldstar Music La Familia Reggaeton Hits](https://open.spotify.com/album/69cVjPP0763yVDKiD0ZM49) | 4:08 | 2023-12-21 |  |
 | [Déjale Caer To' El Peso \(feat\. Yomo\)](https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [Goldstar Music La Familia Reggaeton Hits](https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk) | 4:08 | 2021-12-17 | 2023-11-04 |
 | [Eh Oh Eh Oh](https://open.spotify.com/track/6cMmRhuplhTj33YhLtfiQt) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Casa De Leones](https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A) | 3:34 | 2023-04-20 |  |
 | [El Bus](https://open.spotify.com/track/3phGZ5oFBLaEluf23rcvVJ) | [Yelsid](https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R) | [La Voz](https://open.spotify.com/album/6agMJk2h9mZIbOheTL9YQi) | 3:44 | 2021-12-17 |  |

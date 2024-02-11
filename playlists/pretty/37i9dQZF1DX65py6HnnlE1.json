@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 677286,
+  "num_followers": 677534,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWJjMTliNDVjMDM2ZTU3ZmFjMmJlNjY1YmU1MzY2NTRjNmY4YjE2",
+  "snapshot_id": "MCw4MDE0MmFlZDdmZWY2NzgyOTMzODVlOGRmMjU4NjJiZjk2MmUxODI3",
   "tracks": [
     {
       "added_at": "2023-03-17 00:44:12",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Toromania",
-        "url": "https://open.spotify.com/album/6W5cK4U5pzMMorZjI6pWgK"
+        "name": "Con Mas Amor",
+        "url": "https://open.spotify.com/album/3kjEIFFOJpVHbi9zLxIbhC"
       },
       "artists": [
         {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+          "name": "Joe Veras",
+          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
         }
       ],
-      "duration_ms": 240026,
-      "name": "Mi Ni\u00f1a - Bachata Version",
-      "url": "https://open.spotify.com/track/3Ed337L8k9XN4Cje0mr7p6"
+      "duration_ms": 293543,
+      "name": "El Hombre de Tu Vida",
+      "url": "https://open.spotify.com/track/0r55uL83PpPjKguZMRJ0Ly"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Con Mas Amor",
-        "url": "https://open.spotify.com/album/3kjEIFFOJpVHbi9zLxIbhC"
+        "name": "Toromania",
+        "url": "https://open.spotify.com/album/6W5cK4U5pzMMorZjI6pWgK"
       },
       "artists": [
         {
-          "name": "Joe Veras",
-          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
         }
       ],
-      "duration_ms": 293543,
-      "name": "El Hombre de Tu Vida",
-      "url": "https://open.spotify.com/track/0r55uL83PpPjKguZMRJ0Ly"
+      "duration_ms": 240026,
+      "name": "Mi Ni\u00f1a - Bachata Version",
+      "url": "https://open.spotify.com/track/3Ed337L8k9XN4Cje0mr7p6"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Recuentos De \u00c9xitos",
-        "url": "https://open.spotify.com/album/1XvALZGX2W9POnEoKmbEHq"
-      },
-      "artists": [
-        {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
-        }
-      ],
-      "duration_ms": 235996,
-      "name": "Cuando El Amor Se Va",
-      "url": "https://open.spotify.com/track/3hCzPmdh5AhxFYBZMfFOgP"
-    },
-    {
-      "added_at": "2023-03-17 00:44:12",
-      "album": {
         "name": "Con Mas Amor",
         "url": "https://open.spotify.com/album/7IXnhyZffZaa9QzAzazORB"
       },
@@ -907,18 +891,34 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "La Soga",
-        "url": "https://open.spotify.com/album/1gP8J1yTruazTsPOGozAG0"
+        "name": "Recuentos De \u00c9xitos",
+        "url": "https://open.spotify.com/album/1XvALZGX2W9POnEoKmbEHq"
       },
       "artists": [
         {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
         }
       ],
-      "duration_ms": 219866,
-      "name": "El Profesor",
-      "url": "https://open.spotify.com/track/4jUznRZO8FyJgkEAP6QDBx"
+      "duration_ms": 235996,
+      "name": "Cuando El Amor Se Va",
+      "url": "https://open.spotify.com/track/3hCzPmdh5AhxFYBZMfFOgP"
+    },
+    {
+      "added_at": "2023-03-17 00:44:12",
+      "album": {
+        "name": "Medicina De Amor",
+        "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 391466,
+      "name": "Que Vuelva",
+      "url": "https://open.spotify.com/track/4NfwBgmzmzx8WpyIy9C6p7"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Medicina De Amor",
-        "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
+        "name": "La Soga",
+        "url": "https://open.spotify.com/album/1gP8J1yTruazTsPOGozAG0"
       },
       "artists": [
         {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
         }
       ],
-      "duration_ms": 391466,
-      "name": "Que Vuelva",
-      "url": "https://open.spotify.com/track/4NfwBgmzmzx8WpyIy9C6p7"
+      "duration_ms": 219866,
+      "name": "El Profesor",
+      "url": "https://open.spotify.com/track/4jUznRZO8FyJgkEAP6QDBx"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "La Luz De Mis Ojos",
-        "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
+        "name": "Como Yo",
+        "url": "https://open.spotify.com/album/07J3NTX23uaG0HbXkRKNLI"
       },
       "artists": [
         {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+          "name": "Luis Segura",
+          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
         }
       ],
-      "duration_ms": 219666,
-      "name": "Laudano",
-      "url": "https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6"
+      "duration_ms": 220213,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/28evvLLtLeY1UHHFOFuqSR"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Como Yo",
-        "url": "https://open.spotify.com/album/07J3NTX23uaG0HbXkRKNLI"
+        "name": "La Luz De Mis Ojos",
+        "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
       },
       "artists": [
         {
-          "name": "Luis Segura",
-          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
         }
       ],
-      "duration_ms": 220213,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/28evvLLtLeY1UHHFOFuqSR"
+      "duration_ms": 219666,
+      "name": "Laudano",
+      "url": "https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6"
     },
     {
       "added_at": "2023-03-17 00:44:12",

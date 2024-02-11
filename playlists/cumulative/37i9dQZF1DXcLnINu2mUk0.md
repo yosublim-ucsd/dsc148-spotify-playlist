@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bluay e Julinho Ksd.
 
-526 songs - 1 day 4 hr 10 min
+527 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Brio](https://open.spotify.com/track/6DuYI9CWcb5tlBCft2Bp50) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW) | [Brio](https://open.spotify.com/album/26nGzK7VQ4i5APQW3BfApY) | 2:38 | 2023-07-06 | 2023-07-28 |
 | [Brutos Diamantes](https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Brutos Diamantes](https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan) | 2:56 | 2023-11-10 |  |
 | [BUNUNU](https://open.spotify.com/track/27RbLCNT9NqJFAqkCD2dEq) | [Remedy DON Dadda](https://open.spotify.com/artist/4Pk4SkoJXaM7GCpRHKK8yL), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [BUNUNU](https://open.spotify.com/album/7rPdVXdoU2IHD3h8fBlTI9) | 3:02 | 2023-11-10 | 2023-11-18 |
-| [C'La Perfecion](https://open.spotify.com/track/5aNyNvjhs3ieGT1b6geApO) | [Nello Fellirio](https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4) | [C'La Perfecion](https://open.spotify.com/album/5qDrbiudT2Cd8ZUfpNCfQl) | 3:00 | 2024-02-09 |  |
+| [C'La Perfecion](https://open.spotify.com/track/5aNyNvjhs3ieGT1b6geApO) | [Nello Fellirio](https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4) | [C'La Perfecion](https://open.spotify.com/album/5qDrbiudT2Cd8ZUfpNCfQl) | 3:00 | 2024-02-09 | 2024-02-11 |
 | [Cadáver](https://open.spotify.com/track/6zaozdqUEfE86imEE4mfue) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Cadáver](https://open.spotify.com/album/3kklO925aQsir4f7YPpWpG) | 4:00 | 2023-02-03 | 2023-03-02 |
 | [Caixa De Pandora](https://open.spotify.com/track/5kqqiREyjP4QA4u1VvlcWj) | [Zalo](https://open.spotify.com/artist/401NM4m2Jvdjk0jH0B9YgL) | [Caixa De Pandora](https://open.spotify.com/album/0XK0GP79Ygn7QrdcvehAK8) | 2:44 | 2022-11-11 | 2022-12-02 |
 | [Calcular \(feat\. MDO \(Menino de Ouro\)](https://open.spotify.com/track/1YrCvngT0xfPKxTb1ycb4j) | [Rumi](https://open.spotify.com/artist/3yWoOPJIjQxiJeGQbNaSrL), [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Calcular \(feat\. MDO \(Menino de Ouro\)](https://open.spotify.com/album/6u6Qf0tOGmLW8JLDH7pgoL) | 3:25 | 2022-12-23 | 2023-01-06 |
@@ -324,6 +324,7 @@
 | [NIKES](https://open.spotify.com/track/6X8jYXB1nCKWdwKqdzkT4D) | [Lukky Boy](https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF), [Dysae](https://open.spotify.com/artist/4tBin3wXRG4NDEbiHVpOLR) | [NIKES](https://open.spotify.com/album/2eoUv4LT4XjeD7a6voLFZ5) | 3:30 | 2023-02-17 | 2023-03-11 |
 | [Ninguém](https://open.spotify.com/track/2BoLPJf73XYyYExfYuOmRy) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Ninguém](https://open.spotify.com/album/06zv7JC49c7rEuqLxV4rW1) | 3:12 | 2023-11-10 | 2023-11-18 |
 | [NO MO Parties](https://open.spotify.com/track/0NDkqCKa5lLfz0yUfH4vCZ) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg) | [NO MO Parties](https://open.spotify.com/album/10ZSwv9JsEhXYfWsniwvEh) | 3:47 | 2023-03-03 | 2023-03-25 |
+| [No One](https://open.spotify.com/track/6wTAfWC8AfDl9EygNe95o2) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [Biox](https://open.spotify.com/artist/1gZL90jBtuW3kgeF8nVjcM) | [No One](https://open.spotify.com/album/19tUNod8E8GEUFfOH5Gk17) | 3:10 | 2024-02-09 |  |
 | [No Stress No Money](https://open.spotify.com/track/0RyfhIcs0AQwwXHoqrSjcg) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [No Stress No Money](https://open.spotify.com/album/21XZSV4v4PA8cDsaUyip0l) | 2:57 | 2022-08-04 | 2022-09-02 |
 | [Nossa História](https://open.spotify.com/track/0FMhIO3swGDiXrxEwX7JFh) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [Nossa História](https://open.spotify.com/album/6C9301eC7ZSUcIGJMUyOfu) | 3:33 | 2022-09-16 | 2022-10-07 |
 | [Nosso Som](https://open.spotify.com/track/3i9QW2ocovZ44yX2bsUfjQ) | [MAZ3R](https://open.spotify.com/artist/5MsvCh3d3tgS38ACW7DsWN), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Nosso Som](https://open.spotify.com/album/6sK5Lo6qAW5wqsegG2hTPK) | 3:40 | 2023-10-05 | 2023-11-11 |

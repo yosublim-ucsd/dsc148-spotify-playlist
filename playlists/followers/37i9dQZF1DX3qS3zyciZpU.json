@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 40535,
+  "2024-02-11": 40572,
   "date_first_scraped": "2022-01-02",
   "description": "The perfect songs for the perfect day.",
   "name": "Country Wedding",
@@ -3029,6 +3029,24 @@
       "duration_ms": 205746,
       "name": "Worship You",
       "url": "https://open.spotify.com/track/0nUGOvjXk6Vc9ecQanZXUQ"
+    },
+    {
+      "album": {
+        "name": "Worth the Wait",
+        "url": "https://open.spotify.com/album/0ibFF1l5VTiQxugbcjktAC"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189875,
+      "name": "Worth the Wait",
+      "url": "https://open.spotify.com/track/3nB1jprfn5Yo50qcWHvyWs"
     },
     {
       "album": {

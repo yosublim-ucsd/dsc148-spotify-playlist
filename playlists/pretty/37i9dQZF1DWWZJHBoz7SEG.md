@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Música recién salidita del horno para disfrutar del finde\. Fuer\-za Regida en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,096 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,396 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 31 | [Volví a Nacer](https://open.spotify.com/track/7cfssiXOL2hVTkHGtwjeJ9) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Volví a Nacer](https://open.spotify.com/album/3mZM9DPndY7FCsT4navL4s) | 3:47 |
 | 32 | [The Last Ninja](https://open.spotify.com/track/0pSwZXfhuvGHKsT8dpbT1J) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last Ninja](https://open.spotify.com/album/2o4kWMnrJxC9lksNceAnfg) | 3:37 |
 | 33 | [Tipo Cursi](https://open.spotify.com/track/2SAB7seKQm5GmOT0WU959i) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Todos a Bordo](https://open.spotify.com/album/7vS1i82hTHwZNMyjLB0hVa) | 3:05 |
-| 34 | [Nueve Vidas](https://open.spotify.com/track/0Y57g6F3v8UPtAbhkXTIsu) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO), [Alex Ponce](https://open.spotify.com/artist/6pmk2YLMMc7UwykvvZbWGA) | [Nueve Vidas](https://open.spotify.com/album/2qJggZU59QzYLmIgr8h1mB) | 3:28 |
+| 34 | [Nueve Vidas](https://open.spotify.com/track/0Y57g6F3v8UPtAbhkXTIsu) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Nueve Vidas](https://open.spotify.com/album/2qJggZU59QzYLmIgr8h1mB) | 3:28 |
 | 35 | [Ánimo](https://open.spotify.com/track/7ze0MX6Gwoosk1QPia2GGZ) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Ánimo](https://open.spotify.com/album/4wVGGSFFjp7AhOs7LsdquC) | 2:37 |
 | 36 | [No Me Falta Na'](https://open.spotify.com/track/3ORskcpezmhpJJNHeTrnHs) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [No Me Falta Na'](https://open.spotify.com/album/6JvcaaIXNkdXvPdOBLeTs3) | 2:54 |
 | 37 | [Bolero](https://open.spotify.com/track/1OVRnfZ5zSR0GwXcSYMGEg) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Esteman](https://open.spotify.com/artist/1Wa2BFXZT8sHOXEROLlAMK) | [Algo\-Ritmo : Mexican Institute of Sound Hits 2004\-2024](https://open.spotify.com/album/4SY8pI6k7ND7wWAPrWVQqE) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [I Forgot To Be Your Lover](https://open.spotify.com/track/756ziR2z4iXkK35qwBLUiY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [I Forgot To Be Your Lover](https://open.spotify.com/album/0QfT7WOAHM5CPZPL9ci2E1) | 2:27 |
 | 50 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 |
 
-Snapshot ID: `MCxmZDk4NmVkOWM1ZmVhOGMwMjg2YmJhMDM0ZTVlODIxYTI0YTBmM2Y3`
+Snapshot ID: `MCw3ZWNhMzUzNmE3YzQwMDdkYzIwYWE2NGMzOWQ0NjNjODFlZDA3YTZk`

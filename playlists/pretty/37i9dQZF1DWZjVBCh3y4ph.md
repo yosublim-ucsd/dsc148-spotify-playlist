@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Mik L
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,389 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,448 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 31 | [Tout donner](https://open.spotify.com/track/1WL8DMNBEMOmeNw2VuQYAq) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [Gtnn](https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk) | [Tout donner](https://open.spotify.com/album/2SOS58yEkmW75KNeialOPY) | 3:09 |
 | 32 | [Manipulé](https://open.spotify.com/track/6KvXJAHMZipMjJBjNKWMjB) | [Dj M'sy](https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c), [Dyrone](https://open.spotify.com/artist/5trdUVj6RsRdpcyCHaIiJa) | [Manipulé](https://open.spotify.com/album/6cDP1xGVhDtpdGn8nbuy64) | 2:57 |
 | 33 | [Bobo](https://open.spotify.com/track/4KGKnSCyp6XlbYtroVMBia) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Bobo](https://open.spotify.com/album/11fWEJUTNotTd01ZHOca08) | 3:53 |
-| 34 | [DOUX](https://open.spotify.com/track/2kxYhc00snAqzYVhQMOmFn) | [loana](https://open.spotify.com/artist/35clIIB5H2lf0Fp9tMpV0T) | [DOUX](https://open.spotify.com/album/27haWl4XrngKEoMiDP8yAY) | 3:31 |
+| 34 | [DOUX](https://open.spotify.com/track/2kxYhc00snAqzYVhQMOmFn) | [LOANA](https://open.spotify.com/artist/7v79OklJLpETja35YteNgT) | [DOUX](https://open.spotify.com/album/27haWl4XrngKEoMiDP8yAY) | 3:31 |
 | 35 | [Doucement](https://open.spotify.com/track/2488TlZqyBhCGguo7Vuufm) | [Kailyn](https://open.spotify.com/artist/4xErERAoqrxnCgLiSz4uV4), [Rohane](https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4) | [Doucement](https://open.spotify.com/album/4COlUkMnr9hAg2AoveGDId) | 4:01 |
 | 36 | [BB Attends](https://open.spotify.com/track/6P7BE1eaTQItkv8EJ0ciGd) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs) | [BB Attends](https://open.spotify.com/album/3td3goCEmojjxjA7p45X6a) | 2:40 |
 | 37 | [Dis\-moi](https://open.spotify.com/track/4NxvcmdBmR04g4nsfrhMsO) | [Kueena](https://open.spotify.com/artist/2N8ozOg61bquXNTapBfdm7), [Nayane](https://open.spotify.com/artist/2fphOBIhmkJp2O5Gqxlj4t) | [Dis\-moi](https://open.spotify.com/album/77QQGSVPna5U1nwnARigxr) | 3:28 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Faut doser](https://open.spotify.com/track/0x2VefZ4j8ruCDXjJQxZMm) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk), [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv) | [Faut doser](https://open.spotify.com/album/5XgOnjM0YeiEBXRPsrXkP6) | 3:56 |
 | 40 | [La Loupe](https://open.spotify.com/track/6LvIvRZh3SeWGKyzM8gYJO) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [La Loupe](https://open.spotify.com/album/4PLxr6mFMC4Uth8aJemKCF) | 2:35 |
 
-Snapshot ID: `MCw4ZjU4MWE0MThhMDFjZTU4ODE0ZTY1OTdhNmNhMWViNTU3YjBkZDdm`
+Snapshot ID: `MCw4ZmE0ZTM0NGE2ZWJjOWY4ODJiMzU3MDdkMmM1YzljODMzNjQ3ZjMw`

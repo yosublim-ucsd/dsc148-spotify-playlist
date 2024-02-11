@@ -189,6 +189,32 @@
     },
     {
       "album": {
+        "name": "Cena De Filme",
+        "url": "https://open.spotify.com/album/528WbC4aQg0ohpeOWv7Vld"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125730,
+      "name": "Cena De Filme",
+      "url": "https://open.spotify.com/track/56GCHT7NiS8pR6Bk7vUlfV"
+    },
+    {
+      "album": {
         "name": "Numanice #2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
       },

@@ -4,7 +4,7 @@
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Bellakath en portada
 
-457 songs - 22 hr 44 min
+458 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Descontrol](https://open.spotify.com/track/5394oF0lk2JieiFAC2aF85) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [Giselle Montes](https://open.spotify.com/artist/4IixieAZJremgQUJS0TseA) | [Descontrol](https://open.spotify.com/album/5WbNR3zOv7vn4HNYigstuZ) | 3:46 | 2023-04-21 | 2023-07-15 |
 | [Deseo](https://open.spotify.com/track/6wCO32LfCHz8AwXRFBvZsi) | [Maxx Gallo](https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2) | [Efecto](https://open.spotify.com/album/2OF7tGEjqPHPeC4ua5TfBM) | 3:23 | 2023-01-27 | 2023-07-15 |
 | [DESVESTIDA](https://open.spotify.com/track/4hWr76EZRvNeJmgcHTrfqf) | [Mike Castillo](https://open.spotify.com/artist/0KKwvsJId3Wsd7z7gRCfbn) | [DESVESTIDA](https://open.spotify.com/album/4x2UbmjdLPzsKuVFB3ODf8) | 2:18 | 2023-10-20 |  |
+| [Devora](https://open.spotify.com/track/5yZ8WMP3zUONfPyqfgKvmv) | [Kevin Santin](https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Devora](https://open.spotify.com/album/0rtvJzRbpJ0C7QOZrB3ITt) | 2:29 | 2024-02-09 |  |
 | [Diabla](https://open.spotify.com/track/3X3rgO6bRh9EbbI4mAs8gW) | [Giselle Montes](https://open.spotify.com/artist/4IixieAZJremgQUJS0TseA) | [Diabla](https://open.spotify.com/album/6tSrUca9EiClwBmu4U55cM) | 2:12 | 2023-09-08 |  |
 | [Diablito de Barrio](https://open.spotify.com/track/2ofuB1R1niYONCwd78T52O) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Dj Chekesito](https://open.spotify.com/artist/4S0i7CxFJybFWyCsB0vwil) | [Diablito de Barrio](https://open.spotify.com/album/4KOZGVfMT90YctD4Ijbmjn) | 3:12 | 2023-11-17 | 2024-01-13 |
 | [DIAMANTES](https://open.spotify.com/track/0VQlZB2RM67y5wUSqHsnI3) | [Luan](https://open.spotify.com/artist/33GE05uZTGDMenXT0StvhM) | [DIAMANTES](https://open.spotify.com/album/3FWcTBE082Glwf0XJMcjk6) | 2:49 | 2023-04-14 | 2023-04-22 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 97943,
+  "2024-02-11": 98189,
   "date_first_scraped": "2022-03-22",
   "description": "Bien alucin con el electro, perreo y el dembow belico. La nueva ola de la fiesta.",
   "name": "Electro Corridos",
@@ -5489,6 +5489,28 @@
       "duration_ms": 198486,
       "name": "Parien7e",
       "url": "https://open.spotify.com/track/5raDxXLPptaGfxMeCQdtHR"
+    },
+    {
+      "album": {
+        "name": "PARIS HILTON",
+        "url": "https://open.spotify.com/album/4UNnBbl3o8cF2IYYPY3hq7"
+      },
+      "artists": [
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        },
+        {
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185995,
+      "name": "PARIS HILTON",
+      "url": "https://open.spotify.com/track/7bBwukyxiobxT0Cel4P3Pp"
     },
     {
       "album": {

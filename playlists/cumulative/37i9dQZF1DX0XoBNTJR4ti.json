@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Peppa Pig: Imagination Stories",
+        "url": "https://open.spotify.com/album/7A4jxYLcB3VXv0FQtIHaur"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300216,
+      "name": "Pirate Treasure",
+      "url": "https://open.spotify.com/track/2B4VBcca18qHhF9ArKo2aK"
+    },
+    {
+      "album": {
         "name": "Pirate Treasure",
         "url": "https://open.spotify.com/album/2vJT3uAZWSWznH9bAqt6KW"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 300254,
       "name": "Pirate Treasure",
       "url": "https://open.spotify.com/track/0t6df87Lpjiz7o9XTn9fr7"
@@ -455,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Peppa Pig: Travel Stories",
+        "url": "https://open.spotify.com/album/5AZIuscdwnf6VP6RKjXPJe"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293183,
+      "name": "Sea, Sun And Snow",
+      "url": "https://open.spotify.com/track/3uLCuCAkeos0PRBXahY9ju"
+    },
+    {
+      "album": {
         "name": "Sea, Sun and Snow",
         "url": "https://open.spotify.com/album/4AUSwIjz6bTfeymU10SWY0"
       },
@@ -466,7 +502,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 293183,
       "name": "Sea, Sun and Snow",
       "url": "https://open.spotify.com/track/76TOAzxbJYS0IFSdxHqR7U"
@@ -599,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Peppa Pig: Food Stories",
+        "url": "https://open.spotify.com/album/2G46uIfpUWvAxhUOvYpN3v"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291183,
+      "name": "The Diner",
+      "url": "https://open.spotify.com/track/3IW7zplbXIDvZhZ5c246W3"
+    },
+    {
+      "album": {
         "name": "The Diner",
         "url": "https://open.spotify.com/album/0EEYcOitNRGDjQUXE9nu5J"
       },
@@ -610,7 +664,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 291183,
       "name": "The Diner",
       "url": "https://open.spotify.com/track/5SGAw4gBV1S7oS5rqsMFTG"

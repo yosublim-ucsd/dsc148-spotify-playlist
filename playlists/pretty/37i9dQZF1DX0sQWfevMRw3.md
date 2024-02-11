@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > I NORRLAND ÄR DET FEST!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,127 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,257 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Farväl](https://open.spotify.com/track/15vhsww4sVuzPOqN04DdBc) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Farväl](https://open.spotify.com/album/3OBYM95WFMy24ZiWK5vPHQ) | 2:38 |
 | 100 | [Häng med till klubben](https://open.spotify.com/track/7wzUo6qaFpbVzu8vmaXDVE) | [Mixkey](https://open.spotify.com/artist/3cVke0V72E6FQALgHI99He), [BJØRNES](https://open.spotify.com/artist/0oSU27mh8UZ25AbZ3eC7YB), [Kenneth Svensson](https://open.spotify.com/artist/4ChUBIVdqsR82ZDAjdUvy6) | [Häng med till klubben](https://open.spotify.com/album/5twT6CSYJzVzwgXJjBj6Xi) | 2:10 |
 
-Snapshot ID: `MCxhZDI0MjIzODUzNjMzY2MzMjBkZmY1YTZkZDZkMmNiYmE5ODI2M2I4`
+Snapshot ID: `MCw1YjVhOWI2ZDIxYjQ1ZjdiMzYzZDAwZGYzNjk4NWVlYjYzNTg3MmNh`

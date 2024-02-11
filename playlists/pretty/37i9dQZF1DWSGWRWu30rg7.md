@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Dodit Mulyanto
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,827 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,828 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 19 | [Fire Me](https://open.spotify.com/track/7n43PjojnpC4fSQcByjDQn) | [White Goose](https://open.spotify.com/artist/1f55yB69pSe2t2QQzyF5Wt) | [Fire Me](https://open.spotify.com/album/3SsXvwtZIgzDU2IWkKKARN) | 4:26 |
 | 20 | [Something To Lose](https://open.spotify.com/track/22CDHq1Z1jcRs6hkIY9w6u) | [BRIE](https://open.spotify.com/artist/47msIOxKx5K1glHoU4PDst) | [Something To Lose](https://open.spotify.com/album/5IJSpJa7DG8i9E5iLUD78Z) | 3:09 |
 | 21 | [Tetaplah Kau Disini](https://open.spotify.com/track/4exeWdHSjp735BRAhm8ejC) | [Rifqi FTR](https://open.spotify.com/artist/0E7e9JsNEXjJ608E1MJnvh) | [Tetaplah Kau Disini](https://open.spotify.com/album/3QkzcXHDWDGnWbsQgaZfll) | 3:56 |
-| 22 | [Anggur Asmara](https://open.spotify.com/track/3XbfjBKVVMWoHp2CUPY16z) | [bella fawzi](https://open.spotify.com/artist/3lBlkNIdBI29zhCK39HWJY) | [Anggur Asmara](https://open.spotify.com/album/0i17wKe8ZG8jJKYym6kwXY) | 3:01 |
+| 22 | [Anggur Asmara](https://open.spotify.com/track/3XbfjBKVVMWoHp2CUPY16z) | [Bella Fawzi](https://open.spotify.com/artist/3RnxeXxr5PwsplroB1Y081) | [Anggur Asmara](https://open.spotify.com/album/0i17wKe8ZG8jJKYym6kwXY) | 3:01 |
 | 23 | [Hapuskan Dia](https://open.spotify.com/track/0KQPNyjeX3Sft3fNFdZz1v) | [Atya Faudina](https://open.spotify.com/artist/4jSqElVUvCzDPWnJIgbDGj) | [Hapuskan Dia](https://open.spotify.com/album/29MjT2PYR5tC3SjF3g6RXM) | 3:22 |
 | 24 | [Miserable Man](https://open.spotify.com/track/5kgiF8oTvwLNZmQ0DtA0KR) | [L.Y.N.S](https://open.spotify.com/artist/3cthieN6X7Icr7RqBRALea) | [Miserable Man](https://open.spotify.com/album/03wjcL7UgTWTjT05u1OGPy) | 2:07 |
 | 25 | [The Jonah Complex](https://open.spotify.com/track/4Z9KMnYB52VurnZRxOZesL) | [Dimensia](https://open.spotify.com/artist/6o70ghyL8GEU2X1SNzLWSp) | [Malino II Accord](https://open.spotify.com/album/6pfXXCtCEq5K7DXpcxj21v) | 8:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 74 | [Bahagia Kini Ada](https://open.spotify.com/track/5W7CC8g5n5aTk8p6ZKA8kV) | [Verena](https://open.spotify.com/artist/1GNkIJqDGkR6UbADGEhrTQ) | [Bahagia Kini Ada](https://open.spotify.com/album/6mOcLK56kb8v9D9hPMcagt) | 3:13 |
 | 75 | [Aku, Kamu & Cerita](https://open.spotify.com/track/7hdGO8GVC8TqvjbfkWpA9F) | [Yosafat](https://open.spotify.com/artist/08EpRF0l4NfhHGv4GZiFhs) | [Aku, Kamu & Cerita](https://open.spotify.com/album/3z5aDyxuan7GySh6WHQB27) | 3:46 |
 
-Snapshot ID: `MCxkZWEzOTQzZWYwMDc2MmM4MTVhZDE3YTQ4NDUzMjRkZmYzN2ViNTll`
+Snapshot ID: `MCwzOWQ4MTZmYzgxYWI1YTlkMGQxMzkxODlmMDUzMDcyYmVlNTMzNzc0`

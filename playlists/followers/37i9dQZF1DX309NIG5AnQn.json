@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 9342,
+  "2024-02-11": 9352,
   "date_first_scraped": "2022-06-30",
   "description": "rock alternativo argentino. \n\ud83d\udcf7 Sakatumba",
   "name": "el under",
@@ -1013,6 +1013,24 @@
       "duration_ms": 187000,
       "name": "Culpable",
       "url": "https://open.spotify.com/track/7gCYnJTLrgYgfO6qU7gHIt"
+    },
+    {
+      "album": {
+        "name": "Chica Violeta (Deluxe)",
+        "url": "https://open.spotify.com/album/32qXrkxbLyo7lGqNeN2Oe0"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184557,
+      "name": "C\u00f3mo Conquistar la Ciudad",
+      "url": "https://open.spotify.com/track/0KQE1Mt4imKQKya2d0aPg3"
     },
     {
       "album": {
@@ -2821,6 +2839,24 @@
       "duration_ms": 147600,
       "name": "PITER - Versi\u00f3n Hardcore",
       "url": "https://open.spotify.com/track/74BsstrLSfPxh7xZ9a3kQL"
+    },
+    {
+      "album": {
+        "name": "Polic\u00eda",
+        "url": "https://open.spotify.com/album/5LalWac9RmUSyEpJiChsOd"
+      },
+      "artists": [
+        {
+          "name": "No Me Toques",
+          "url": "https://open.spotify.com/artist/31uqDrkWjG36pNZU0QSoqi"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188696,
+      "name": "Polic\u00eda",
+      "url": "https://open.spotify.com/track/24tXfp5lQntaiVWmXcT9W9"
     },
     {
       "album": {

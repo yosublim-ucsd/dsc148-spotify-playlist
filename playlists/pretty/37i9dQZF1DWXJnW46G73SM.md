@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: أصالة
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,563 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,727 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 2 | [الدهب](https://open.spotify.com/track/6Xw3zZd7uXObNVeDox4ZpT) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [الدهب](https://open.spotify.com/album/6LCL6l60ELVYSucbUDwL0P) | 3:09 |
 | 3 | [ARABI](https://open.spotify.com/track/1QBtiLpbw76bqO2h9fOdJQ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [ARABI](https://open.spotify.com/album/2wcsb8Ew4deFBMNGWDni2P) | 2:47 |
 | 4 | [موضوع رجوعنا](https://open.spotify.com/track/3n3qHIdb2dpQwaBpPEYKI2) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [موضوع رجوعنا](https://open.spotify.com/album/15k72PP3lUVocnlPRNjVZQ) | 4:26 |
-| 5 | [يا ساتر](https://open.spotify.com/track/2ohn9s2Wuv3XHS4OwOsZ4c) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [يا ساتر](https://open.spotify.com/album/1hzmp6AsJRcG7pz9eQko19) | 3:28 |
+| 5 | [يا ساتر](https://open.spotify.com/track/2ohn9s2Wuv3XHS4OwOsZ4c) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [يا ساتر](https://open.spotify.com/album/1hzmp6AsJRcG7pz9eQko19) | 3:28 |
 | 6 | [Afalet 3alena](https://open.spotify.com/track/4fU10htcH0puL8Nt8oGozE) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Afalet 3alena](https://open.spotify.com/album/67NWJliFwNCCuBlXrnYbqW) | 3:24 |
 | 7 | [مقسوم](https://open.spotify.com/track/3Ma9SyULAULbhUYkg4OCRg) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [مقسوم](https://open.spotify.com/album/2YPUNQgMOlmhaMRdNziZXu) | 3:20 |
 | 8 | [Nerga3 Le Awel Yom](https://open.spotify.com/track/4vvC2mzVHEpN5sif3H3uk5) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Red Bull Sika](https://open.spotify.com/album/4C2MYpwVnY9eI16REXuX66) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [أمانة ياقلبي](https://open.spotify.com/track/3FTEDGInbFF2kjecQsQZkb) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [أمانة ياقلبي](https://open.spotify.com/album/6OpGUC2jtawLCn4TWPV4Ny) | 3:40 |
 | 75 | [Da Kan Naseeb](https://open.spotify.com/track/26WuTSrvHJ31ucIbRLJAkj) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Fat Sam](https://open.spotify.com/artist/2nhUtgfFgXCQjEXXVmdxxU) | [Red Bull Sika](https://open.spotify.com/album/6DQhRP3LacBWt8T53Bbg3l) | 3:17 |
 
-Snapshot ID: `MCxlYmVmNDA4ZGM3ZTU5NTY2YjE1ZDliODEyZmFlNTc1ZmM1OGQxYTRh`
+Snapshot ID: `MCw4OTZjNmVhYjRjY2E4MzBjMTAyOTIwYjJkYzkzNjFlNWUyNzU0ZmNm`

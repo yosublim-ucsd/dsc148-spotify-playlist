@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 136516,
+  "2024-02-11": 136549,
   "date_first_scraped": "2022-01-01",
   "description": "Jazz voices of today. Cover: Samara Joy",
   "name": "Vocal Jazz",
@@ -7627,7 +7627,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 166413,
       "name": "Look For The Silver Lining",
       "url": "https://open.spotify.com/track/2aapQgacrjwufZErawCoWt"
@@ -8201,6 +8201,24 @@
       "duration_ms": 233284,
       "name": "Midnight, The Stars & You",
       "url": "https://open.spotify.com/track/0MZf8EhOc5Q6B7TIn69WnF"
+    },
+    {
+      "album": {
+        "name": "Oh Mother",
+        "url": "https://open.spotify.com/album/6pFI3ON2XDEthhuKvrvJtd"
+      },
+      "artists": [
+        {
+          "name": "Andrea Superstein",
+          "url": "https://open.spotify.com/artist/4BwtTvlrVEs9cjpEK8RmDm"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234986,
+      "name": "Mombo",
+      "url": "https://open.spotify.com/track/5hYBWheX6KjCSuQZoPrWi4"
     },
     {
       "album": {
@@ -10733,6 +10751,24 @@
       "duration_ms": 207895,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
+    },
+    {
+      "album": {
+        "name": "Somebody In Love",
+        "url": "https://open.spotify.com/album/4eysNEiltBk4ivO6j1UZgu"
+      },
+      "artists": [
+        {
+          "name": "Dana Masters",
+          "url": "https://open.spotify.com/artist/60Vsjzkpv3xyOYPtNnoNCh"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222461,
+      "name": "Somebody In Love",
+      "url": "https://open.spotify.com/track/1prgxQ2WwyuOzPSRVk37IL"
     },
     {
       "album": {
@@ -13709,7 +13745,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 304212,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/4MfeLFwaIAIAEJTV8qA8KU"

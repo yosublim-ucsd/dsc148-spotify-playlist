@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx?si=6mgCojNATqaSCBppszNY1g">Ampie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,637 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,689 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 29 | [Buffel Van Buffelsfontein](https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Buffel Van Buffelsfontein](https://open.spotify.com/album/1ymtneTgrVB8wGgrit6N3Z) | 2:56 |
 | 30 | [Country Girl Van Bloem](https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Country Girl Van Bloem](https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N) | 2:56 |
 | 31 | [Sjoe Sjoe](https://open.spotify.com/track/57uwZN7Nr5zoWmb9m2bsJ8) | [Groot Geraas](https://open.spotify.com/artist/22mvNtn2L9hIK5vyVKL9ZC) | [Sjoe Sjoe](https://open.spotify.com/album/2Z6K8G8mohkxnCiQDmZeUA) | 2:54 |
-| 32 | [Dashboard](https://open.spotify.com/track/3o16IFK6MF9bKoyL3yjnt8) | [Kayla](https://open.spotify.com/artist/2GETEeWhrM9wzx27ZCQRO0) | [Dashboard](https://open.spotify.com/album/3rMBEdUjH2YNDJCTS11MQu) | 3:27 |
+| 32 | [Dashboard](https://open.spotify.com/track/3o16IFK6MF9bKoyL3yjnt8) | [Kayla](https://open.spotify.com/artist/3A7PXuZHCyR6WUlgUaJyfm) | [Dashboard](https://open.spotify.com/album/3rMBEdUjH2YNDJCTS11MQu) | 3:27 |
 | 33 | [Meer as Liefde](https://open.spotify.com/track/1QcqjIDq9rDjDMEcytNDBr) | [Carlissa](https://open.spotify.com/artist/4DnxYe01g800MpVYYvN74l) | [Meer as Liefde](https://open.spotify.com/album/77xzTsUgh7awP9GUIOlQcx) | 3:04 |
 | 34 | [Hier en Nou](https://open.spotify.com/track/3ZxVtubv3I3qpZKXS3tNSU) | [Candy Benson](https://open.spotify.com/artist/4JEYWgS7PBMaLUFqG9MJ8c) | [Hier en Nou](https://open.spotify.com/album/2uB5WffmUyg3HyW1JMXFmV) | 3:08 |
 | 35 | [Alles Oor Jou](https://open.spotify.com/track/3bzHh4Drp1Gre8ef57JKad) | [Eastlynne](https://open.spotify.com/artist/32oIEWUJAdwgzgZRoxSr8M) | [Alles Oor Jou](https://open.spotify.com/album/53RASfDI3XOgpJzlEI9GLg) | 3:25 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 54 | [In My Oë](https://open.spotify.com/track/0mTqau9DRQi9w9hTZUqFrr) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Estetika](https://open.spotify.com/album/0F5JB3HCxOrNuB2mIQqKjS) | 2:30 |
 | 55 | [Ons Sal Jonk Bly](https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/4VT7eCzFTDo2iXaEDREPVP) | 4:25 |
 
-Snapshot ID: `MCwzOTFkZDZlODBjNWY0ZDhhODA5NDdmNmJkZDBmNmNjZTkyZjM4MzI0`
+Snapshot ID: `MCw3ZjViZTI2MzhmY2I3MTdmNTg2NTcyMTMwZjg2YzQ0YWFiZDQzODc5`

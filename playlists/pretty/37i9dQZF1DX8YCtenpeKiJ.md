@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YCtenpeKiJ.md) - [plain]
 
 > The most scary soundscapes to soundtrack your Halloween..
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,597 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,585 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YCtenpeKiJ.md) - [plain]
 | 124 | [Scary Sounds \(Horror Voices\)](https://open.spotify.com/track/25BpcpJyiiCFybp7IUdFsc) | [Halloween Masters](https://open.spotify.com/artist/5RB7kW5UrAcAd3UY3JCk7e) | [The Great Terror \- Halloween Music and Frightening Sounds: Zombie Effects, Vampire Music, Ghost Sounds](https://open.spotify.com/album/2oR2vaHf1wBcNN4wqpjZ1x) | 4:09 |
 | 125 | [Bubbling Voices](https://open.spotify.com/track/33B72NuM2GAsq6k09N1KyB) | [Spooky Halloween Sounds](https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y), [Horror Music Collection](https://open.spotify.com/artist/4PhTHcrcuHr6kihYKkYzxe) | [Halloween Hits – Vol\. 1, Spooktacular Hits Only!](https://open.spotify.com/album/7EtnX5JBfhzhGE6qBuv5t5) | 3:56 |
 
-Snapshot ID: `MCwzM2Q5MTI3NzI5YTMyYzFhOGNkZjFjMDg4Zjg1NWU0N2MwZTZhY2Ex`
+Snapshot ID: `MCw1MmIyOGM5MDE0NzdlYTc5YjQ3NWE3OGYzZTk0NjM1NTBhZWUzZmI1`

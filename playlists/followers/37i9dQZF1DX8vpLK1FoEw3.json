@@ -1,9 +1,35 @@
 {
-  "2024-02-10": 643238,
+  "2024-02-11": 643038,
   "date_first_scraped": "2023-12-31",
-  "description": "o q se passa na cabe\u00e7a dela....#MeuSpotify com Giselle Pinscher (e Lu\u00edsa Sonza)",
-  "name": "pensando meus pensamentos",
+  "description": "#MeuSpotify fervin de carnaval com LUD: malicioso gostoso praiano selvagem malandro!!!! vem pro fervooo",
+  "name": "FERVO DA LUD",
   "tracks": [
+    {
+      "album": {
+        "name": "Ai Preto",
+        "url": "https://open.spotify.com/album/5Sfg1gKAk7zW9BK91HkKhQ"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131583,
+      "name": "Ai Preto",
+      "url": "https://open.spotify.com/track/5vC8UAOHeG95ehRzZChniB"
+    },
     {
       "album": {
         "name": "MF No Rio, Vol. 1 (Ao Vivo)",
@@ -24,6 +50,24 @@
     },
     {
       "album": {
+        "name": "Ama Porra Nenhuma",
+        "url": "https://open.spotify.com/album/4amYuyLyghP6OTCqCdU1uv"
+      },
+      "artists": [
+        {
+          "name": "MC Durrony",
+          "url": "https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Ama Porra Nenhuma",
+      "url": "https://open.spotify.com/track/2wiFzIv7FevsAp1lPyIy6Z"
+    },
+    {
+      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/0deZTBaASnRuOxp2IcnTBN"
       },
@@ -35,7 +79,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 249973,
       "name": "Amado",
       "url": "https://open.spotify.com/track/1h0f2T0DT3EVYnURyV8Rtu"
@@ -104,6 +148,50 @@
     },
     {
       "album": {
+        "name": "No Clima das Dan\u00e7antes",
+        "url": "https://open.spotify.com/album/4w5tJk5K5teJ0SU76jXOFV"
+      },
+      "artists": [
+        {
+          "name": "DJ LK DE ITAPE",
+          "url": "https://open.spotify.com/artist/2bfr0zADK5w5poGkJDYXpO"
+        },
+        {
+          "name": "DJ LH DO CAVAL\u00c3O",
+          "url": "https://open.spotify.com/artist/65yJBo4weXFZtFY503t2h5"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201169,
+      "name": "Aquecimento das Dan\u00e7arinas (feat. DJ LH DO CAVAL\u00c3O)",
+      "url": "https://open.spotify.com/track/3zFSQldGlKmpydSzwLG66H"
+    },
+    {
+      "album": {
+        "name": "Tamborz\u00e3o Raiz",
+        "url": "https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "BUARQUE",
+          "url": "https://open.spotify.com/artist/20MbZeDJcbXxkcZWumh9rC"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152888,
+      "name": "Aquecimento Senta Senta Suave",
+      "url": "https://open.spotify.com/track/5WsM6qhZzRSD3oKbtorxzD"
+    },
+    {
+      "album": {
         "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
         "url": "https://open.spotify.com/album/0mTRjtWGKiGmfEDmzcpII6"
       },
@@ -115,7 +203,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 224773,
       "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
       "url": "https://open.spotify.com/track/52V2BPdhlhFrUZF7AOrQP9"
@@ -162,6 +250,74 @@
     },
     {
       "album": {
+        "name": "Baile do Bruxo",
+        "url": "https://open.spotify.com/album/4gTpoHQozYg3jI7KTbFsfx"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "DJ Ws da Igrejinha",
+          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
+        },
+        {
+          "name": "SMU",
+          "url": "https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c"
+        },
+        {
+          "name": "Triz",
+          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
+        },
+        {
+          "name": "Mc Menor Thalis",
+          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Baile do Bruxo",
+      "url": "https://open.spotify.com/track/00ZKeP47bZtswtANkvxz2j"
+    },
+    {
+      "album": {
+        "name": "Ballena",
+        "url": "https://open.spotify.com/album/6mAOToMxK4q1TfcJlqIJlz"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Ballena",
+      "url": "https://open.spotify.com/track/0NkOJBVzL0MaU3JgqJRtkv"
+    },
+    {
+      "album": {
         "name": "Escolhas, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z"
       },
@@ -191,7 +347,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 138360,
       "name": "Blackbird - 2018 Mix",
       "url": "https://open.spotify.com/track/2oMVSmJx1l2FVXjVbx5DTc"
@@ -256,6 +412,28 @@
     },
     {
       "album": {
+        "name": "Cai de vagarinho at\u00e9 embaixo",
+        "url": "https://open.spotify.com/album/0HximOntVcjaDrMQcPxUXq"
+      },
+      "artists": [
+        {
+          "name": "Mc Rennan",
+          "url": "https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS"
+        },
+        {
+          "name": "DJ Braga Oficial",
+          "url": "https://open.spotify.com/artist/5icwIVKIEdJwzeHjQ6XYJG"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133201,
+      "name": "Cai de vagarinho at\u00e9 embaixo",
+      "url": "https://open.spotify.com/track/2p04GXqx4j9sggMTFJpEBa"
+    },
+    {
+      "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
       },
@@ -289,7 +467,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 113998,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/61KfU2AHAjgdJOCNPkJejw"
@@ -329,7 +507,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 168106,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl"
@@ -355,7 +533,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 161426,
       "name": "Carta Ao Tom 74",
       "url": "https://open.spotify.com/track/3pemsJqLI0GXY9tlQDn8yS"
@@ -381,6 +559,24 @@
       "duration_ms": 141083,
       "name": "Casal De Solteiro - Ao Vivo",
       "url": "https://open.spotify.com/track/2U3yLPZDPL5xcbuLf9bz50"
+    },
+    {
+      "album": {
+        "name": "Cheia de Sintomas (Funk Remix)",
+        "url": "https://open.spotify.com/album/3oS0oies4U0ETDNpzIAcGX"
+      },
+      "artists": [
+        {
+          "name": "DJ Lukinha",
+          "url": "https://open.spotify.com/artist/5pFKShLBGyjp3D91ofQTgg"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116471,
+      "name": "Cheia de Sintomas - Funk Remix",
+      "url": "https://open.spotify.com/track/5BGSFyirj6PgNUxn1xOkix"
     },
     {
       "album": {
@@ -413,10 +609,36 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 260226,
       "name": "Crying in the Rain",
       "url": "https://open.spotify.com/track/6c9nkeetGbsoXa7d5E1wHa"
+    },
+    {
+      "album": {
+        "name": "FUTURO FLUXO",
+        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165111,
+      "name": "DA BRABA",
+      "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
     },
     {
       "album": {
@@ -439,6 +661,32 @@
       "duration_ms": 202644,
       "name": "Daqui pra Sempre",
       "url": "https://open.spotify.com/track/35D06z7kmwMmYYbyJ0BkSm"
+    },
+    {
+      "album": {
+        "name": "Deixa de Onda (Porra Nenhuma)",
+        "url": "https://open.spotify.com/album/1fjkJADMiiZWMDusZSMNix"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184999,
+      "name": "Deixa de Onda (Porra Nenhuma)",
+      "url": "https://open.spotify.com/track/0DlHQxrVijRqVUfuS6PKaY"
     },
     {
       "album": {
@@ -483,6 +731,88 @@
       "duration_ms": 186218,
       "name": "Depois de Me Usar - Ao Vivo",
       "url": "https://open.spotify.com/track/09iTY153PbEOvQlLEaK2qm"
+    },
+    {
+      "album": {
+        "name": "Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho)",
+        "url": "https://open.spotify.com/album/4aLn9qslaoycfYA4NzXLp4"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Os Hawaianos",
+          "url": "https://open.spotify.com/artist/6f6ccYxDNgsPCMemKceSY4"
+        },
+        {
+          "name": "DJ Bel da CDD",
+          "url": "https://open.spotify.com/artist/6cBgK7jLKrcynjD5E6mKNu"
+        },
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115846,
+      "name": "Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho)",
+      "url": "https://open.spotify.com/track/4SIBZgMomGFnrIWjmq7Np8"
+    },
+    {
+      "album": {
+        "name": "Deu Meia Noite, Eu Sumi, Geral Soltando Fogos",
+        "url": "https://open.spotify.com/album/1MYqvZ5GNYwU9aB3CDbUVY"
+      },
+      "artists": [
+        {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+        },
+        {
+          "name": "DJ MT7",
+          "url": "https://open.spotify.com/artist/5lomh7H0yuxEtZnvtSCHI1"
+        },
+        {
+          "name": "CLUB DA DZ7",
+          "url": "https://open.spotify.com/artist/0OYVtrqGQ97ub2QGLNbOql"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129306,
+      "name": "Deu Meia Noite, Eu Sumi, Geral Soltando Fogos",
+      "url": "https://open.spotify.com/track/7e5s6nhpC4oOfDqgdI2SQX"
+    },
+    {
+      "album": {
+        "name": "Dia de Fluxo",
+        "url": "https://open.spotify.com/album/58jzd3ALDliyTUI5Ke8jmS"
+      },
+      "artists": [
+        {
+          "name": "AgroPlay",
+          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133610,
+      "name": "Dia de Fluxo",
+      "url": "https://open.spotify.com/track/6GmyQws2xpUFIN5dXBNTrl"
     },
     {
       "album": {
@@ -552,6 +882,28 @@
     },
     {
       "album": {
+        "name": "Escolhe as Posi\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/16PdI883DRLp9bKLYjXUZ0"
+      },
+      "artists": [
+        {
+          "name": "MC Marley",
+          "url": "https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI"
+        },
+        {
+          "name": "Mc Larissa",
+          "url": "https://open.spotify.com/artist/6mTLUu4QRFZXFurxQyLzBX"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124055,
+      "name": "Escolhe as Posi\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2MNctwfUIFFhqkUDvNk70r"
+    },
+    {
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -567,7 +919,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
@@ -622,6 +974,54 @@
     },
     {
       "album": {
+        "name": "Eu Vou Machucar S\u00f3 um Pouquinho X Catucando Gostosinho",
+        "url": "https://open.spotify.com/album/1KfEJhSwMWfx4QpQLuK3IA"
+      },
+      "artists": [
+        {
+          "name": "JC NO BEAT",
+          "url": "https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U"
+        },
+        {
+          "name": "MC Teteu",
+          "url": "https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1"
+        },
+        {
+          "name": "DJ F7",
+          "url": "https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Eu Vou Machucar S\u00f3 um Pouquinho X Catucando Gostosinho",
+      "url": "https://open.spotify.com/track/78g5lnALTioTYBjkyxmvlJ"
+    },
+    {
+      "album": {
+        "name": "Evoluiu",
+        "url": "https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Sodr\u00e9",
+          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179644,
+      "name": "Evoluiu",
+      "url": "https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK"
+    },
+    {
+      "album": {
         "name": "Faz um Vuk Vuk (Teto Espelhado)",
         "url": "https://open.spotify.com/album/59qldBzRiQutEYO1hqxw7H"
       },
@@ -641,7 +1041,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 138461,
       "name": "Faz um Vuk Vuk (Teto Espelhado)",
       "url": "https://open.spotify.com/track/64CovjRwInpOJW4PiGMprY"
@@ -659,7 +1059,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -677,7 +1077,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 210000,
       "name": "Folhetim",
       "url": "https://open.spotify.com/track/7IsUsMa9T63GIg9Uv0dUX2"
@@ -702,6 +1102,28 @@
     },
     {
       "album": {
+        "name": "Gol Bolinha, Gol Quadrado 2",
+        "url": "https://open.spotify.com/album/4TYCCK3qrAyMY5soBMCNyO"
+      },
+      "artists": [
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "DJ 900",
+          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117293,
+      "name": "Gol Bolinha, Gol Quadrado 2",
+      "url": "https://open.spotify.com/track/0U9CZWq6umZsN432nh3WWT"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -713,10 +1135,62 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 298899,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
+    },
+    {
+      "album": {
+        "name": "Hit Contagiante",
+        "url": "https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh"
+      },
+      "artists": [
+        {
+          "name": "Felipe Original",
+          "url": "https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Sodr\u00e9",
+          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
+        },
+        {
+          "name": "JS o M\u00e3o de Ouro",
+          "url": "https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137125,
+      "name": "Hit Contagiante",
+      "url": "https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi"
+    },
+    {
+      "album": {
+        "name": "Hoje Eu Vou Parar Na Gaiola",
+        "url": "https://open.spotify.com/album/1OZEMraAZsiMYQGNZjOw8F"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Rennan da Penha",
+          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177093,
+      "name": "Hoje Eu Vou Parar Na Gaiola",
+      "url": "https://open.spotify.com/track/2u2T2sB5Geli45Wh7r4lhr"
     },
     {
       "album": {
@@ -731,7 +1205,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 191786,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/2jB9QaPJyVdz2Q0Va8rrnU"
@@ -771,7 +1245,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 222435,
       "name": "Iguaria",
       "url": "https://open.spotify.com/track/0xjlf07YcizDPmtLIGl5Og"
@@ -789,7 +1263,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 471160,
       "name": "L.A. Woman",
       "url": "https://open.spotify.com/track/6DmfWj5kOa1fX8AwN9byOn"
@@ -811,7 +1285,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 155454,
       "name": "La Muerte",
       "url": "https://open.spotify.com/track/1B7qwIcI3gbPS5Mm4CBLjD"
@@ -829,7 +1303,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 171280,
       "name": "La T\u00f3xica",
       "url": "https://open.spotify.com/track/5lwNIm2sP8ixUpCkeoO9G9"
@@ -858,6 +1332,32 @@
     },
     {
       "album": {
+        "name": "Latchika",
+        "url": "https://open.spotify.com/album/7cPMAuFm7PJ0due5HHS1M3"
+      },
+      "artists": [
+        {
+          "name": "Afinho do Fluxo",
+          "url": "https://open.spotify.com/artist/2Q5VrODXSCgdp1UxJWAZbc"
+        },
+        {
+          "name": "Vinny Malvadeza",
+          "url": "https://open.spotify.com/artist/0liNK1NH5Nr1VSGUhwLA4z"
+        },
+        {
+          "name": "Teeus",
+          "url": "https://open.spotify.com/artist/6eAy4nN6UvzDb34zjWd54q"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151858,
+      "name": "Latchika",
+      "url": "https://open.spotify.com/track/6qAuIo2EJnJbnaL8FEVaZ0"
+    },
+    {
+      "album": {
         "name": "Decretos Reais, Vol. 2",
         "url": "https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf"
       },
@@ -869,7 +1369,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 166774,
       "name": "Le\u00e3o",
       "url": "https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO"
@@ -887,7 +1387,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 429760,
       "name": "Light My Fire",
       "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
@@ -905,7 +1405,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 273306,
       "name": "Linha do Equador",
       "url": "https://open.spotify.com/track/51K301CKuavVEP7A9vsUaz"
@@ -971,7 +1471,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 217400,
       "name": "Love Of My Life - Remastered 2011",
       "url": "https://open.spotify.com/track/790YJcgHlN3SaosQCHlWzn"
@@ -997,10 +1497,50 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 133385,
       "name": "Love, Love",
       "url": "https://open.spotify.com/track/3P2ubMyuL9NQOVU67TVCXA"
+    },
+    {
+      "album": {
+        "name": "Macetando",
+        "url": "https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167786,
+      "name": "Macetando",
+      "url": "https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO"
+    },
+    {
+      "album": {
+        "name": "Maliciosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167027,
+      "name": "Maliciosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
     },
     {
       "album": {
@@ -1022,6 +1562,62 @@
     },
     {
       "album": {
+        "name": "Mel do Egito",
+        "url": "https://open.spotify.com/album/1K2DSlKbEWe1BYgbIzUck1"
+      },
+      "artists": [
+        {
+          "name": "Leandro e as Abusadas",
+          "url": "https://open.spotify.com/artist/6i76Njw7mW2TtsQIRVsqAG"
+        },
+        {
+          "name": "CABBRAU",
+          "url": "https://open.spotify.com/artist/7gF4lCtHJnQwZC24D8AaM5"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111500,
+      "name": "Mel do Egito",
+      "url": "https://open.spotify.com/track/58VUikMywNpRelwEx8khdh"
+    },
+    {
+      "album": {
+        "name": "A.Mago - Playlist do Mago",
+        "url": "https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So"
+      },
+      "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "MC Tigr\u00e3o",
+          "url": "https://open.spotify.com/artist/5ZN9qsKINzpikhHsCBvYpW"
+        },
+        {
+          "name": "Mc Luan",
+          "url": "https://open.spotify.com/artist/1RdD4CJBoJIEo0vOogJCCF"
+        },
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        },
+        {
+          "name": "Karol X",
+          "url": "https://open.spotify.com/artist/0ByBhGIqP8T6O0YZWnAMCR"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178080,
+      "name": "MONTAGEM ANOS 2000",
+      "url": "https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h"
+    },
+    {
+      "album": {
         "name": "Songs From The Analog Playground",
         "url": "https://open.spotify.com/album/2nzu90QhAEQaZgZacFVApI"
       },
@@ -1037,7 +1633,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 250666,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/2xb1HCvRkwY0vof2Z6VMe9"
@@ -1055,10 +1651,44 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 264786,
       "name": "Mutante",
       "url": "https://open.spotify.com/track/1a4Qg0u5M1STkg5jszMEvp"
+    },
+    {
+      "album": {
+        "name": "Na Rebolada",
+        "url": "https://open.spotify.com/album/5BFgoR7RFXpcH5pHQBPu7x"
+      },
+      "artists": [
+        {
+          "name": "Os Quebradeiras",
+          "url": "https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x"
+        },
+        {
+          "name": "DJ Zullu",
+          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
+        },
+        {
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        },
+        {
+          "name": "Thamirys",
+          "url": "https://open.spotify.com/artist/3P1msOpSX2q616eW8UewYU"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111968,
+      "name": "Na Rebolada",
+      "url": "https://open.spotify.com/track/7v3BTjWrmUYjaGiVHVVhCK"
     },
     {
       "album": {
@@ -1084,6 +1714,32 @@
     },
     {
       "album": {
+        "name": "Noite das Safadas",
+        "url": "https://open.spotify.com/album/2Etv0BH0QIWHzaYd3cdHC7"
+      },
+      "artists": [
+        {
+          "name": "Mc Byana",
+          "url": "https://open.spotify.com/artist/5PAKcGgjWmF0ktaUs4mp9n"
+        },
+        {
+          "name": "MC Fabinho da Osk",
+          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
+        },
+        {
+          "name": "MC Foca do Salgueiro",
+          "url": "https://open.spotify.com/artist/2OVYX7Z6QEeBYuzrDnCL3f"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115748,
+      "name": "Noite das Safadas",
+      "url": "https://open.spotify.com/track/7MzrIZwgEyxTR80QLrzqvm"
+    },
+    {
+      "album": {
         "name": "AgroPlay Ver\u00e3o Vol.1",
         "url": "https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i"
       },
@@ -1106,6 +1762,28 @@
     },
     {
       "album": {
+        "name": "Novidade na \u00c1rea",
+        "url": "https://open.spotify.com/album/1ehFLXfMUcEfTksKeFP0cl"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120014,
+      "name": "Novidade na \u00c1rea",
+      "url": "https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5"
+    },
+    {
+      "album": {
         "name": "Novinha do Onlyfans (Tchan Ran Tchan Tchan)",
         "url": "https://open.spotify.com/album/7vcEsYmKQdxArrMI7euRGw"
       },
@@ -1124,6 +1802,36 @@
     },
     {
       "album": {
+        "name": "Dos Pr\u00e9dios Deluxe",
+        "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Prod Malax",
+          "url": "https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140322,
+      "name": "Novo Balan\u00e7o",
+      "url": "https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed"
+    },
+    {
+      "album": {
         "name": "Now And Then",
         "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
       },
@@ -1135,7 +1843,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 248333,
       "name": "Now And Then",
       "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
@@ -1153,7 +1861,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 189666,
       "name": "N\u00e3o Me Deixe S\u00f3",
       "url": "https://open.spotify.com/track/2ukW9zOr51AYeLSmCtTVqW"
@@ -1223,10 +1931,36 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 209442,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/4SO47HbaWop3fHAKP7fwT4"
+    },
+    {
+      "album": {
+        "name": "Pagod\u00e3o do Birimbola (Tchubirabirom)",
+        "url": "https://open.spotify.com/album/2VQvcst1qXdFNY3HwfCM5H"
+      },
+      "artists": [
+        {
+          "name": "Os Quebradeiras",
+          "url": "https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        },
+        {
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125333,
+      "name": "Pagod\u00e3o do Birimbola (Tchubirabirom)",
+      "url": "https://open.spotify.com/track/24llggQslFoCamLMIg3Jka"
     },
     {
       "album": {
@@ -1241,7 +1975,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -1259,7 +1993,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 242054,
       "name": "Palavras No Corpo",
       "url": "https://open.spotify.com/track/4xeP4rHORzLbJlaJVHWybQ"
@@ -1277,10 +2011,32 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 232333,
       "name": "Palpite",
       "url": "https://open.spotify.com/track/0ZmvPa1tgXSwoHcFRBnDES"
+    },
+    {
+      "album": {
+        "name": "Tamborz\u00e3o Raiz",
+        "url": "https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "MC Caja",
+          "url": "https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122666,
+      "name": "Papin",
+      "url": "https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT"
     },
     {
       "album": {
@@ -1321,7 +2077,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 173228,
       "name": "Penhasco2",
       "url": "https://open.spotify.com/track/2x0niclb43zaGO1fcyNpLr"
@@ -1339,10 +2095,62 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 198000,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/7vvultYHYCuFk0AJWa5c9O"
+    },
+    {
+      "album": {
+        "name": "Pique BBB",
+        "url": "https://open.spotify.com/album/2BN8FsLuIyi2R69GgIzzo1"
+      },
+      "artists": [
+        {
+          "name": "Bero Costa DJ",
+          "url": "https://open.spotify.com/artist/4m3zOv7q3RCCDkEI506vxD"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "MC GN SHEIK",
+          "url": "https://open.spotify.com/artist/5ub6PfOMz0BpwKRNmQVcRJ"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169845,
+      "name": "Pique BBB",
+      "url": "https://open.spotify.com/track/2hFaeUi09ZZV5qJ1h9xuzM"
+    },
+    {
+      "album": {
+        "name": "Porradeiro Vs Marretada",
+        "url": "https://open.spotify.com/album/1uqu47jY40H0GB6JDrpmOF"
+      },
+      "artists": [
+        {
+          "name": "mc pl alves",
+          "url": "https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g"
+        },
+        {
+          "name": "MC FG",
+          "url": "https://open.spotify.com/artist/1kAJwKG8RJwXdA7qWNWwKI"
+        },
+        {
+          "name": "LC Santos",
+          "url": "https://open.spotify.com/artist/2V0Xb2QqVOlHN4yxDSGluP"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Porradeiro Vs Marretada",
+      "url": "https://open.spotify.com/track/5M7mAMgIjMRwECVLh6IUoZ"
     },
     {
       "album": {
@@ -1375,10 +2183,40 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 163348,
       "name": "Prada",
       "url": "https://open.spotify.com/track/6miahXSZE01l2lNDqNCfxQ"
+    },
+    {
+      "album": {
+        "name": "Pras Novinha (feat. DJ Pedrin)",
+        "url": "https://open.spotify.com/album/7Cp9HdYwzZ1fsS3f7K6K5U"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Dj LK da Esc\u00f3cia",
+          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
+        },
+        {
+          "name": "DJ Breno",
+          "url": "https://open.spotify.com/artist/0MU7bIngzZFJkLksK8Hh94"
+        },
+        {
+          "name": "DJ Pedrin",
+          "url": "https://open.spotify.com/artist/4anI4492Z1ogF7JJqCiI0i"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149032,
+      "name": "Pras Novinha (feat. DJ Pedrin)",
+      "url": "https://open.spotify.com/track/3qHN7TSBfVQPF9ojUVT9ZT"
     },
     {
       "album": {
@@ -1393,10 +2231,76 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 173725,
       "name": "Principalmente Me Sinto Arrasada",
       "url": "https://open.spotify.com/track/24LGL93o3wuVuYLCBhV3c5"
+    },
+    {
+      "album": {
+        "name": "Pumba La Pumba",
+        "url": "https://open.spotify.com/album/4n0PSKPn3qUD0S5kOOIawL"
+      },
+      "artists": [
+        {
+          "name": "Mc Magrinho",
+          "url": "https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181022,
+      "name": "Pumba La Pumba",
+      "url": "https://open.spotify.com/track/2wGe3nEkWrdZmhrprkxkm8"
+    },
+    {
+      "album": {
+        "name": "Som das Regi\u00f5es",
+        "url": "https://open.spotify.com/album/6DD55XfooWMQ3T2wT43dKF"
+      },
+      "artists": [
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "MC Menor MT",
+          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Mc Pel\u00e9",
+          "url": "https://open.spotify.com/artist/5kfgervAs5bJUOC0vbYB12"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Puta Mexicana",
+      "url": "https://open.spotify.com/track/4mD9hjoTckjeL1CrJCx0MT"
+    },
+    {
+      "album": {
+        "name": "Putariazinha",
+        "url": "https://open.spotify.com/album/0r8y7aLZgWn9jzxU82K0r5"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Putariazinha",
+      "url": "https://open.spotify.com/track/7JaxdBtSfqGGNyZEjGtSrg"
     },
     {
       "album": {
@@ -1433,7 +2337,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 305666,
       "name": "Quem de n\u00f3s Dois (La Mia Storia Tra Le Dita)",
       "url": "https://open.spotify.com/track/2yQMmtem48vOjB1OXAvbKD"
@@ -1451,10 +2355,36 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 434720,
       "name": "Riders on the Storm",
       "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
+    },
+    {
+      "album": {
+        "name": "Sarradeira da Ludmilla",
+        "url": "https://open.spotify.com/album/5NrUGK5jzIJF8shbyuS1Tx"
+      },
+      "artists": [
+        {
+          "name": "MC WL",
+          "url": "https://open.spotify.com/artist/0Zh3Hbkaa2mP11z0tpYryr"
+        },
+        {
+          "name": "Dj Secreto",
+          "url": "https://open.spotify.com/artist/5wdPoCiEtkyJJjSP0mut8h"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130063,
+      "name": "Sarradeira da Ludmilla",
+      "url": "https://open.spotify.com/track/50QFUN5Mn83GarGqV5k590"
     },
     {
       "album": {
@@ -1469,7 +2399,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 235503,
       "name": "SAUDADE DE VOC\u00ca",
       "url": "https://open.spotify.com/track/35GWqTSabXuqbfVxHeM8Or"
@@ -1509,10 +2439,40 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "album": {
+        "name": "sentaDONA (Remix) s2",
+        "url": "https://open.spotify.com/album/0hQnp9igXfBTQx0ykET3me"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Davi Kneip",
+          "url": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
+        },
+        {
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        },
+        {
+          "name": "Dj Gabriel do Borel",
+          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125245,
+      "name": "sentaDONA (Remix) s2",
+      "url": "https://open.spotify.com/track/6cS0vHihdIXy77v828qYwR"
     },
     {
       "album": {
@@ -1549,7 +2509,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 224211,
       "name": "Shades of Violet",
       "url": "https://open.spotify.com/track/5TPNjTj6tahXnfj3nXwE3d"
@@ -1600,6 +2560,32 @@
     },
     {
       "album": {
+        "name": "Nasci Pra Vencer / Sou M\u00e1",
+        "url": "https://open.spotify.com/album/7ad7erETGKaJg6q5i4bIXb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Sou M\u00e1",
+      "url": "https://open.spotify.com/track/34H4IXC9nFhmxYQlFm5PzJ"
+    },
+    {
+      "album": {
         "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
         "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
       },
@@ -1611,7 +2597,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
@@ -1629,7 +2615,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 191307,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz"
@@ -1647,7 +2633,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 247320,
       "name": "Strawberry Fields Forever - Remastered 2009",
       "url": "https://open.spotify.com/track/3Am0IbOxmvlSXro7N5iSfZ"
@@ -1677,7 +2663,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 179853,
       "name": "Tarde em itapu\u00e3",
       "url": "https://open.spotify.com/track/1Qwzw8hbVa28uXYxHeamaT"
@@ -1699,6 +2685,36 @@
       "duration_ms": 129692,
       "name": "Tengo",
       "url": "https://open.spotify.com/track/5WV6br0BPUzhJwyBty80s0"
+    },
+    {
+      "album": {
+        "name": "Tipo Hollywood",
+        "url": "https://open.spotify.com/album/53UeApvtDBARQWfKy8dtmx"
+      },
+      "artists": [
+        {
+          "name": "Triz",
+          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
+        },
+        {
+          "name": "Mc Ws da leste",
+          "url": "https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L"
+        },
+        {
+          "name": "MC Blindado SP",
+          "url": "https://open.spotify.com/artist/3oRUQ493fkBtERRUdL0bdo"
+        },
+        {
+          "name": "DJ MT7",
+          "url": "https://open.spotify.com/artist/5lomh7H0yuxEtZnvtSCHI1"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193913,
+      "name": "Tipo Hollywood",
+      "url": "https://open.spotify.com/track/1XqpohNsprDGymtJ6uPD3g"
     },
     {
       "album": {
@@ -1753,10 +2769,70 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 162368,
       "name": "Triste",
       "url": "https://open.spotify.com/track/0PHGV9pWYv91WCeCXhdWye"
+    },
+    {
+      "album": {
+        "name": "Tropa do Rob\u00f4",
+        "url": "https://open.spotify.com/album/2xKAgSxgenDQPtPeJEImIs"
+      },
+      "artists": [
+        {
+          "name": "DJ Yuri Chagas",
+          "url": "https://open.spotify.com/artist/57ViLnr0EklP5uxd2Hd67c"
+        },
+        {
+          "name": "Mc Alysson",
+          "url": "https://open.spotify.com/artist/6j2S2PjYFjQdge0HPc4IRK"
+        },
+        {
+          "name": "MC LEON",
+          "url": "https://open.spotify.com/artist/1knOHAH1uapqFXGgy6upjg"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115620,
+      "name": "Tropa do Rob\u00f4",
+      "url": "https://open.spotify.com/track/5MMeINLSxq28YwDpBd9WdC"
+    },
+    {
+      "album": {
+        "name": "Tubar\u00e3o Te Amo",
+        "url": "https://open.spotify.com/album/78FttDdgy6bH90nSjINf2E"
+      },
+      "artists": [
+        {
+          "name": "Dj LK da Esc\u00f3cia",
+          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
+        },
+        {
+          "name": "Tchakabum",
+          "url": "https://open.spotify.com/artist/7iJl63aJyNd8C6NZlMv6kp"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "mc jhenny",
+          "url": "https://open.spotify.com/artist/6Ka3TKKRqhWwbmuxjhrmo6"
+        },
+        {
+          "name": "Mc RF",
+          "url": "https://open.spotify.com/artist/7rnLNmWx3ibYo5uQcghVgQ"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149076,
+      "name": "Tubar\u00e3o Te Amo",
+      "url": "https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA"
     },
     {
       "album": {
@@ -1775,7 +2851,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 92093,
       "name": "T\u00e1 OK",
       "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
@@ -1845,10 +2921,84 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 123820,
       "name": "Vai Novinha Ah Ah Ah",
       "url": "https://open.spotify.com/track/3Nvzs0cJbLwhXPPlI8xzpC"
+    },
+    {
+      "album": {
+        "name": "Vem com a Tropa do Tubar\u00e3o Tu Tu Tu Tu Tubar\u00e3o",
+        "url": "https://open.spotify.com/album/29Xw6D60hwKPbOVyCU2N9h"
+      },
+      "artists": [
+        {
+          "name": "Dj LK da Esc\u00f3cia",
+          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC P\u00e2nico",
+          "url": "https://open.spotify.com/artist/21Pr1Vuj2NjgXiwKpuecrr"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154335,
+      "name": "Vem com a Tropa do Tubar\u00e3o Tu Tu Tu Tu Tubar\u00e3o",
+      "url": "https://open.spotify.com/track/42xHWxSRHKvu36efxZVP4P"
+    },
+    {
+      "album": {
+        "name": "Vem Morenin",
+        "url": "https://open.spotify.com/album/5xPNbtDedrWFO60aZpsBfK"
+      },
+      "artists": [
+        {
+          "name": "Neno No beat",
+          "url": "https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ"
+        },
+        {
+          "name": "MC Rica",
+          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159276,
+      "name": "Vem Morenin",
+      "url": "https://open.spotify.com/track/0j4YUzROiF5YFR8kkrysFx"
+    },
+    {
+      "album": {
+        "name": "Verdinha",
+        "url": "https://open.spotify.com/album/5LTk5zESurK61KmqqF7NsO"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Topo La Maskara",
+          "url": "https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP"
+        },
+        {
+          "name": "Walshy Fire",
+          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160395,
+      "name": "Verdinha",
+      "url": "https://open.spotify.com/track/2RMOwSvOGQyy985Vx4VSGQ"
     },
     {
       "album": {
@@ -1863,7 +3013,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 282773,
       "name": "Voc\u00ea Me Vira A Cabe\u00e7a (Me Tira Do S\u00e9rio)",
       "url": "https://open.spotify.com/track/4RGRfGjhTxsCkLaHFF90Bq"
@@ -1881,7 +3031,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 198895,
       "name": "Voltei Pra Mim",
       "url": "https://open.spotify.com/track/3aexu2VagwWh2r3pd3PAJW"
@@ -1903,7 +3053,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 362760,
       "name": "You Are So Beautiful",
       "url": "https://open.spotify.com/track/3aCuyrcGWCwNarmbp9sjas"
@@ -1921,7 +3071,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 228853,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/5SGGqrMHP2ZJ1xmaSFzUE0"
@@ -1939,7 +3089,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 156502,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5"
@@ -1961,7 +3111,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 214003,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
@@ -1979,7 +3129,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 141394,
       "name": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u0438\u0436\u0438\u0439)",
       "url": "https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO"

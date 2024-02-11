@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Zolita
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,697 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,701 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 5 | [Japanese Cafe](https://open.spotify.com/track/20cZPbzQ9wqxWfMDWn0vPo) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Japanese Cafe](https://open.spotify.com/album/1fXTNCdCXszXaKvPW1PhO4) | 2:40 |
 | 6 | [Not The 1975](https://open.spotify.com/track/4FjcgEhcOTostSAHQ0YYHj) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:18 |
 | 7 | [Suddenly Okay](https://open.spotify.com/track/4mjMpDvvweBIuxC2LpbeWB) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Suddenly Okay](https://open.spotify.com/album/7bezusYLfnlW1g7bz4t1Y7) | 3:03 |
-| 8 | [Love Me Better](https://open.spotify.com/track/60JBgHmNQ437PrKp0eWFDn) | [Corbyn Besson](https://open.spotify.com/artist/4M4swPo6YkmMZPA7Vrczyk) | [Love Me Better](https://open.spotify.com/album/5DQxMNtoUPlBMDrCMvasaO) | 2:31 |
+| 8 | [Love Me Better](https://open.spotify.com/track/60JBgHmNQ437PrKp0eWFDn) | [Corbyn Besson](https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj) | [Love Me Better](https://open.spotify.com/album/5DQxMNtoUPlBMDrCMvasaO) | 2:31 |
 | 9 | [Angel Face](https://open.spotify.com/track/005k50cKNdWjOitdP6Y6jz) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Angel Face](https://open.spotify.com/album/5hTm1YiaWDgGDJdGroOKqI) | 3:32 |
 | 10 | [somebody that's not me](https://open.spotify.com/track/3Mlg80bxJEe93UR0Z42XL6) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [somebody that's not me](https://open.spotify.com/album/6BjK75nxur486Ac1AZam3E) | 3:40 |
 | 11 | [Different Lives](https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Different Lives](https://open.spotify.com/album/2jnVMgIk877jRCQqJMuNfS) | 3:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 59 | [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 |
 | 60 | [I'm Not Crazy](https://open.spotify.com/track/3fiMmMyvoBGjfU9BWkTNWM) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I’m Not Crazy](https://open.spotify.com/album/193T8nOZCynXr5GHbC5UzO) | 2:41 |
 
-Snapshot ID: `MCxkNjU1ODNiNGI1ZjY2ZDcyZTBjOGIxMTU0OTUxY2MzOGZjNDRiMzJj`
+Snapshot ID: `MCw5NTRmNmE1NDIzY2M4ODhiMTRjZTJmYjBmMjhjMzEyZTgxYTA4ZWQ1`

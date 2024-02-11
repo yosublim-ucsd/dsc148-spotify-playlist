@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover\- Lucky Ali
 
-438 songs - 1 day 0 hr 11 min
+439 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Ab Tak Na](https://open.spotify.com/track/5TwJJ9D2lWMPkrhQMh96bd) | [Priyani Vani Panditt](https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8), [Ashish Pandit](https://open.spotify.com/artist/03veJpSIc7GAx0mPLcskjI) | [Ab Tak Na](https://open.spotify.com/album/4FBO6cvJVGrIHr9zHXsfhr) | 3:43 | 2023-07-14 | 2023-08-12 |
 | [Adhoore Hum](https://open.spotify.com/track/7HTB2kvarPgyGQfH9KjEg4) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Adhoore Hum](https://open.spotify.com/album/6XPmY7pMPwJmP6KstQkBFJ) | 3:35 | 2023-04-14 | 2023-06-30 |
 | [Adorable](https://open.spotify.com/track/5p0g3E7EWCS9ggqu4YEWCA) | [Pulkit Arora](https://open.spotify.com/artist/2z0yNxAp5m9eZDHARjHwhQ) | [Adorable](https://open.spotify.com/album/0tdXyZnhsGXDE6ZnAxB9PP) | 3:11 | 2023-07-28 | 2023-08-25 |
-| [Ae Bandey](https://open.spotify.com/track/0eVEI23kHZob5VL93Iy6cI) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Ae Bandey](https://open.spotify.com/album/2QvEclNhlVvllLkRhRr1LT) | 3:04 | 2024-01-05 |  |
+| [Ae Bandey](https://open.spotify.com/track/0eVEI23kHZob5VL93Iy6cI) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Ae Bandey](https://open.spotify.com/album/2QvEclNhlVvllLkRhRr1LT) | 3:04 | 2024-01-05 | 2024-02-11 |
 | [Aise Kaise](https://open.spotify.com/track/0Ug3KGOo5jybEXGhdkazWo) | [Dimple Saikia](https://open.spotify.com/artist/6xVlnKfRctFcRDOYhmkHFS), [Bily & Akarsh](https://open.spotify.com/artist/3MWboBp80iV9GpGCeGKs02) | [Aise Kaise](https://open.spotify.com/album/0vDEn6yEjp4AqUiQkab66W) | 3:08 | 2023-11-10 | 2023-12-02 |
 | [Akh Kashni](https://open.spotify.com/track/4fthu6zCZVWJJnPUPP0AJ2) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Akh Kashni](https://open.spotify.com/album/6w1nI9aKBoxgLOuzYP6Dfj) | 3:27 | 2023-10-27 | 2023-12-09 |
 | [Alone](https://open.spotify.com/track/5as5nPPMgQe8d6ckvsbam2) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Alone](https://open.spotify.com/album/2yChy4tPTlcy4cZ31dASyr) | 2:48 | 2023-10-20 | 2023-11-11 |
@@ -144,6 +144,7 @@
 | [Haule Haule](https://open.spotify.com/track/73ut9PgPkIFo2aNSdROBQ6) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Haule Haule](https://open.spotify.com/album/4YlD1ZFslLuVIhlcVF7sNf) | 3:51 | 2024-02-09 |  |
 | [Heart on My Sleeve](https://open.spotify.com/track/5AavL5ZT3GW4k73D6E9mkk) | [Shreya Sharma](https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5), [Diana Drill](https://open.spotify.com/artist/17hpfdY0Rhsv0burPPxOls) | [Heart on My Sleeve](https://open.spotify.com/album/43LPQ7hx6s59P9UCJHzMqz) | 2:24 | 2023-11-24 | 2023-12-09 |
 | [Heaven Made Ishq](https://open.spotify.com/track/1Hdb1FkpQG4gv4Y2lMGqqR) | [Vinay Katoch](https://open.spotify.com/artist/0X7ulxroScmdiJuVS2nAce) | [Heaven Made Ishq](https://open.spotify.com/album/7kCEhdHENF145d0HDSPiUU) | 3:44 | 2023-10-13 | 2023-11-18 |
+| [Ho Jo Tu Saamne Mere](https://open.spotify.com/track/2KUL4RwUKHRHnKJ8HnQi34) | [Mohit dogra](https://open.spotify.com/artist/0YhaFoYZeuu2Bnuf2EnjVH), [JUNAID AHMED](https://open.spotify.com/artist/1BvmJTLuPCi65qVZ3QsSih), [Shreya Bajpai](https://open.spotify.com/artist/5KseHb3FbamXt1d0P5SS4N) | [Ho Jo Tu Saamne Mere](https://open.spotify.com/album/1HZfKhqALlkOlGE6DxxDZd) | 3:17 | 2024-02-10 |  |
 | [Ho raha](https://open.spotify.com/track/31ly4mGE5iwjwtoJ4sqTkh) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ho raha](https://open.spotify.com/album/0ITkeSl11fKWoeC2wq8Rui) | 2:43 | 2023-08-25 | 2023-09-30 |
 | [Hold Me](https://open.spotify.com/track/0Ln54jTpgtQL7R1FeK70fP) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Hold Me](https://open.spotify.com/album/0Eg6kYUGniNTOb59oTofPO) | 4:41 | 2023-10-27 | 2023-11-25 |
 | [Hope this song finds you](https://open.spotify.com/track/6dNDbNSwF4gF3Cp8hDCnpQ) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Hope this song finds you](https://open.spotify.com/album/14chazI21bYizAAr0t2Mlr) | 2:18 | 2023-06-23 | 2023-07-29 |

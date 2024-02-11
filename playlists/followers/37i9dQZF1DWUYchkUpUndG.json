@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 18357,
+  "2024-02-11": 18393,
   "date_first_scraped": "2023-05-27",
   "description": "For all the new African Gospel Releases this week. Cover:   <a href=https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM?si=0sjVWfxTQe6yBJa9p0wMig>Abbey Ojomu</a> ",
   "name": "Fresh Gospel Africa",
@@ -11183,6 +11183,24 @@
       "duration_ms": 175585,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/5BUfxIyzH7CIcazL0mfvhe"
+    },
+    {
+      "album": {
+        "name": "Gimmie Love",
+        "url": "https://open.spotify.com/album/7yHDbsGs3rRpQqyQsL4JxR"
+      },
+      "artists": [
+        {
+          "name": "BUK",
+          "url": "https://open.spotify.com/artist/0lNueseF4lJoLU7ZbsQTAj"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145346,
+      "name": "Gimmie Love",
+      "url": "https://open.spotify.com/track/6ZVlEqtZHq7qWH3Xdbvyt9"
     },
     {
       "album": {
@@ -25827,6 +25845,28 @@
       "duration_ms": 128421,
       "name": "Oniduro Mi (My Guarantor) [Amapiano Gospel]",
       "url": "https://open.spotify.com/track/4SZwXX9YxqBoL7TsRfrLJ9"
+    },
+    {
+      "album": {
+        "name": "Onise Iyanu",
+        "url": "https://open.spotify.com/album/5AuVhKxPvgre8HS2GbCYxL"
+      },
+      "artists": [
+        {
+          "name": "Victoria Tunde",
+          "url": "https://open.spotify.com/artist/55ZRUXQccOx4UT3GFIFU1E"
+        },
+        {
+          "name": "Michael Oyo",
+          "url": "https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357139,
+      "name": "Onise Iyanu",
+      "url": "https://open.spotify.com/track/4beqtaxy0o1J1z7tz6y7bJ"
     },
     {
       "album": {

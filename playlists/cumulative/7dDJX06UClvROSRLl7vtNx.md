@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-245 songs - 10 hr 48 min
+246 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Back to Summer](https://open.spotify.com/track/4YdF8yF2eKomyElIdMD4Vr) | [Batu Onat](https://open.spotify.com/artist/7aOWtkVztALwRvuLWDPC0p) | [Back to Summer](https://open.spotify.com/album/585JNE5aaruJLObK5M6Srj) | 2:51 | 2023-09-22 | 2024-01-03 |
 | [Better](https://open.spotify.com/track/2rx0XEfF6UXhGI4CZ2a2PO) | [Daniel Santoro](https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz) | [Better](https://open.spotify.com/album/49XJB7Fpd7nLAJncEXMFOH) | 2:54 | 2023-11-26 | 2023-12-14 |
 | [Better Days](https://open.spotify.com/track/7D2HQUa4MBc6FlezpFpMss) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt), [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto) | [Better Days](https://open.spotify.com/album/6fFJfk7kZOPteOXME5CYpo) | 2:18 | 2023-10-27 |  |
-| [Better Place](https://open.spotify.com/track/2VKSzc1Zdjni8rQGFxvBm9) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz) | [Better Place](https://open.spotify.com/album/4VVdzcYTUo7UUy4DZgTV0P) | 2:14 | 2023-09-22 |  |
+| [Better Place](https://open.spotify.com/track/2VKSzc1Zdjni8rQGFxvBm9) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [ELIJAH](https://open.spotify.com/artist/3BKfCtHSgkQpLqX2n2191z) | [Better Place](https://open.spotify.com/album/4VVdzcYTUo7UUy4DZgTV0P) | 2:14 | 2023-09-22 |  |
 | [Better Than Me](https://open.spotify.com/track/221YfSBqhocIartpTjwhx0) | [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [phil's ok.](https://open.spotify.com/artist/5HdoLuXD0KtSA3gECZqkty) | [Better Than Me](https://open.spotify.com/album/6pm3dEBD5VZtGetJwvywWt) | 2:56 | 2023-12-03 |  |
 | [Blinding Lights](https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Blinding Lights](https://open.spotify.com/album/5K1nRHJ9JrwHAGXKc0yrZD) | 2:10 | 2023-09-22 |  |
 | [Blinding Lights](https://open.spotify.com/track/0wI0S42Cg41DVGqIIVimTM) | [Revelries](https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Blinding Lights](https://open.spotify.com/album/1RinMQThKCHcrk6hMf6QiN) | 2:56 | 2023-09-22 |  |
@@ -250,6 +250,7 @@
 | [With You](https://open.spotify.com/track/5Bh9yee1RRVyksKctBm0F6) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [With You](https://open.spotify.com/album/2iSoiCWE5fytEqicLRk3FS) | 2:16 | 2023-10-27 |  |
 | [Wondrous](https://open.spotify.com/track/6AZ2iSCR0pzqutaeBXXooi) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Holly](https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Wondrous](https://open.spotify.com/album/35eoDCF09R5E0R1t6YI5bL) | 2:43 | 2024-02-02 |  |
 | [Wondrous](https://open.spotify.com/track/7r6dJAxWNa2Y2gIKwpeiKl) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Holly](https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Wondrous](https://open.spotify.com/album/35Zw8yOhUDI7aYJ6payRNU) | 2:43 | 2023-11-10 | 2024-02-03 |
+| [You're Somebody Else](https://open.spotify.com/track/2wLIUEezoxZDKBtK3Qzmbk) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [You're Somebody Else](https://open.spotify.com/album/7rfuNg4YLJnnAOCni8HEfq) | 2:38 | 2024-02-10 |  |
 | [You've Got the Love](https://open.spotify.com/track/0VYbWQ55gP8h8WepmgJjHI) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Louise CS](https://open.spotify.com/artist/0dn1gA4vEmgPxarhdWcLCM) | [You've Got the Love](https://open.spotify.com/album/0qRHUIyo4izAh674KJrMe2) | 3:00 | 2023-09-22 |  |
 | [Your Eyes](https://open.spotify.com/track/2esaWj2n6a6u8lgJTHErlH) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF), [Fake ID](https://open.spotify.com/artist/3O6FybT51NR578KVOXe5b3) | [Your Eyes](https://open.spotify.com/album/337NON7xbqCxEQQiSHNyvO) | 2:33 | 2023-09-22 |  |
 | [Your Sky Is My Ocean](https://open.spotify.com/track/6WoEQQOcZXAV7brdz8VbD0) | [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM), [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS) | [Your Sky Is My Ocean](https://open.spotify.com/album/1cmjtpFF7L4OUdu2BsflKJ) | 3:18 | 2023-10-27 |  |

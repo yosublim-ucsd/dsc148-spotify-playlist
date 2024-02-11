@@ -1,7 +1,7 @@
 {
-  "2024-02-10": 286644,
+  "2024-02-11": 286685,
   "date_first_scraped": "2022-05-01",
-  "description": "Damn son, where'd ya find this? Discover more Black artists and their contributions <a href=\"spotify:genre:0JQ5DAqbMKFF9bY76LXmfI\">here.</a> Cover: <a href=\"spotify:artist:2AfU5LYBVCiCtuCCfM7uVX\">Kota the Friend</a>",
+  "description": "Damn son, where'd ya find this? Cover: <a href=\"spotify:artist:7zJL978NtANOysfGY21ty6\">Ghetts</a>",
   "name": "Raw & Uncut",
   "tracks": [
     {
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 132799,
       "name": "Barbie Dangerous",
       "url": "https://open.spotify.com/track/1fKT7RUtOf4xNEqctEFe5L"
@@ -3061,6 +3061,28 @@
       "duration_ms": 178000,
       "name": "Double RL (Instrumental)",
       "url": "https://open.spotify.com/track/0RTeYIMVC88Yv7Lw4RG0Kg"
+    },
+    {
+      "album": {
+        "name": "Double Standards (feat. Sampha)",
+        "url": "https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i"
+      },
+      "artists": [
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301800,
+      "name": "Double Standards (feat. Sampha)",
+      "url": "https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9"
     },
     {
       "album": {

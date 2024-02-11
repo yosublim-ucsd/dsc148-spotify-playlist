@@ -1,12 +1,12 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: Ivan Cornejo",
-  "num_followers": 6955,
+  "num_followers": 6963,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGI5MDZiZTlhYTlmMzg4YzZhZTcxMWZkYTNiMWQxOWVkMDAwZTI1",
+  "snapshot_id": "MCxjOTNmY2JkYjM1ZTJkZGFmMDA2MGNiOGI2Yzk2NGY0NDMwMWQxMTRi",
   "tracks": [
     {
       "added_at": "2024-01-29 17:19:17",
@@ -343,22 +343,18 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
-        "name": "Pececitos",
-        "url": "https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT"
+        "name": "Esperando",
+        "url": "https://open.spotify.com/album/0LalAUtAHroRqJZiF13axO"
       },
       "artists": [
         {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        },
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
         }
       ],
-      "duration_ms": 205842,
-      "name": "Pececitos",
-      "url": "https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0"
+      "duration_ms": 141200,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4"
     },
     {
       "added_at": "2024-01-29 17:19:17",
@@ -379,18 +375,22 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
-        "name": "Esperando",
-        "url": "https://open.spotify.com/album/0LalAUtAHroRqJZiF13axO"
+        "name": "Pececitos",
+        "url": "https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT"
       },
       "artists": [
         {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        },
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
         }
       ],
-      "duration_ms": 141200,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4"
+      "duration_ms": 205842,
+      "name": "Pececitos",
+      "url": "https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0"
     },
     {
       "added_at": "2024-01-29 17:19:17",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
-        "name": "LOBA Vol. I",
-        "url": "https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 173642,
-      "name": "Tengo Sed",
-      "url": "https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA"
-    },
-    {
-      "added_at": "2024-01-29 17:19:17",
-      "album": {
         "name": "Cu\u00e9ntame",
         "url": "https://open.spotify.com/album/1YElPMls8uTayRx3ubFRaS"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 176508,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/08XOjWbCPNQZ9QQmR8cvVM"
+    },
+    {
+      "added_at": "2024-01-29 17:19:17",
+      "album": {
+        "name": "LOBA Vol. I",
+        "url": "https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 173642,
+      "name": "Tengo Sed",
+      "url": "https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA"
     },
     {
       "added_at": "2024-01-29 17:19:17",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
-        "name": "HOLY WATER",
-        "url": "https://open.spotify.com/album/7ibXmW6H7m9ypNAlJXCO8y"
-      },
-      "artists": [
-        {
-          "name": "Yoandri",
-          "url": "https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d"
-        }
-      ],
-      "duration_ms": 207665,
-      "name": "HOLY WATER",
-      "url": "https://open.spotify.com/track/5Vu2AUQgliS6r2GxIplfUG"
-    },
-    {
-      "added_at": "2024-01-29 17:19:17",
-      "album": {
         "name": "NISSAN",
         "url": "https://open.spotify.com/album/66NvqSro6inz5pGKQnIxdK"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 116680,
       "name": "NISSAN",
       "url": "https://open.spotify.com/track/2UpUXtRKh1yaPW3p0UpEo3"
+    },
+    {
+      "added_at": "2024-01-29 17:19:17",
+      "album": {
+        "name": "HOLY WATER",
+        "url": "https://open.spotify.com/album/7ibXmW6H7m9ypNAlJXCO8y"
+      },
+      "artists": [
+        {
+          "name": "Yoandri",
+          "url": "https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d"
+        }
+      ],
+      "duration_ms": 207665,
+      "name": "HOLY WATER",
+      "url": "https://open.spotify.com/track/5Vu2AUQgliS6r2GxIplfUG"
     },
     {
       "added_at": "2024-01-29 17:19:17",

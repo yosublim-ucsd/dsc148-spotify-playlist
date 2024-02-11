@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Saiko, Lola Indigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 972,776 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 972,818 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 54 | [Estrellas y Fantasmas](https://open.spotify.com/track/1kSOnjrlR3JAuP2buX6d1I) | [David Otero](https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h) | [Estrellas y Fantasmas](https://open.spotify.com/album/5tYJy6FQJRHCwAn8Ul5l65) | 3:32 |
 | 55 | [Otra vez](https://open.spotify.com/track/2CxOABw2Ji81eLASxMbu0Y) | [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Otra Vez](https://open.spotify.com/album/0Ty8c2O11nvyGxSpoa8cFk) | 3:18 |
 
-Snapshot ID: `MCxiOTM4MTU4OTQ1N2Y2NWVlODNlMWYwNzcxZTRmMjBmOThhNjZjNTUx`
+Snapshot ID: `MCw1NWE2YzU5ZTlmMzFlMGM2YjM1ZTRjZGQ2M2ZkYzEzMzJlNjdjOWVj`

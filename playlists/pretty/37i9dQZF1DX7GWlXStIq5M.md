@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes pop dividindo o mesmo palco!  / Foto: DUDA BEAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,656 likes - 90 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,637 likes - 90 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 51 | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/track/597FnKApiz3TfkE8MB1wom) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/album/4d44mgau5zT5kYTcIvbHoj) | 3:12 |
 | 52 | [24 Horas](https://open.spotify.com/track/3Q0LWpLuhEcCCWjpfBRnzH) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Baile do Papato](https://open.spotify.com/album/2xReweSuwmZbdogHMILeek) | 3:01 |
 | 53 | [ne\-yo](https://open.spotify.com/track/5h2lBg0mULQ6s60TqebwT5) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 2:22 |
-| 54 | [Massagem](https://open.spotify.com/track/0rJvi7IQP6JLO5djPLvaZx) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Meu Tom](https://open.spotify.com/album/1scxBLyeF8CmbdErwhZgHj) | 3:23 |
-| 55 | [RADAR \- AO VIVO](https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 3:04 |
+| 54 | [RADAR \- AO VIVO](https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 3:04 |
+| 55 | [Massagem](https://open.spotify.com/track/0rJvi7IQP6JLO5djPLvaZx) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Meu Tom](https://open.spotify.com/album/1scxBLyeF8CmbdErwhZgHj) | 3:23 |
 | 56 | [se for pra ser](https://open.spotify.com/track/125V81LGC3wVXjRhnb6mXr) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [se for pra ser](https://open.spotify.com/album/4lgDyBawg2FC6h3Jl2AMJ2) | 3:19 |
 | 57 | [Dejavú](https://open.spotify.com/track/5dPKKScSdOpIQuUHVFU7HG) | [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Groove](https://open.spotify.com/album/77TVmhsrBT7AVvlqEajZrt) | 2:46 |
 | 58 | [Pecadinho](https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Duda Brack](https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab) | [Pecadinho](https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83) | 2:06 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 63 | [Deixe\-me Ir](https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Deixe\-me Ir](https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw) | 3:39 |
 | 64 | [Segredos da Vida](https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Segredos da Vida](https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u) | 2:22 |
 | 65 | [Veste a Camisa](https://open.spotify.com/track/5L5VOPrSvmYbjuOkYo7SoI) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Maikinho DJ](https://open.spotify.com/artist/4fjI8I30Qwk0hOKr8jNvEh) | [Veste a Camisa](https://open.spotify.com/album/1C9WFYgLHljkxsNd58byks) | 2:31 |
-| 66 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Desculpa por Eu Não Te Amar](https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z) | 3:06 |
-| 67 | [Nem Sei Fingir](https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Nem Sei Fingir](https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh) | 2:56 |
+| 66 | [Nem Sei Fingir](https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Nem Sei Fingir](https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh) | 2:56 |
+| 67 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Desculpa por Eu Não Te Amar](https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z) | 3:06 |
 | 68 | [Amorzin de Sacanage](https://open.spotify.com/track/4LxprXblggpW2WnQb0gUI9) | [Casa Comigo](https://open.spotify.com/artist/28YHM1DOOJIWBvPpXzRkp6), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Amorzin de Sacanage](https://open.spotify.com/album/0R5cf0gW93CE17TYRU9rJZ) | 3:09 |
 | 69 | [Oops!…I Did It Again](https://open.spotify.com/track/2kepUX44klRnnfcaYGqF0C) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Oops!...I did it again](https://open.spotify.com/album/461OzAXwOEkJizU1lbjePv) | 2:18 |
 | 70 | [Ai, Que Calor](https://open.spotify.com/track/32z2SmKSxh80H0LfnDpD1m) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Ai, Que Calor](https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ) | 2:24 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 89 | [Por Uma Noite Só](https://open.spotify.com/track/7fzCFGhCDzvn15HZWMDW3F) | [Marianna](https://open.spotify.com/artist/4cB54ned9TBsah6DMU8ALL) | [Por Uma Noite Só](https://open.spotify.com/album/6QkXH21EkvWLGFR67UlEqj) | 2:18 |
 | 90 | [Afropaty](https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Afropaty](https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7) | 2:22 |
 
-Snapshot ID: `MCw2OTlmNzZlODA2Y2FhM2U2NjBjZWY0OTE1NjQ4ZjExNWFiNDcyNjBi`
+Snapshot ID: `MCxlOTUyYWI2ZmZhODYwYzYzZmIwN2U2MzNiMDdhYzdiZmJkOWM0NmJl`

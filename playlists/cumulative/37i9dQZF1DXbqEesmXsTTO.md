@@ -2,13 +2,14 @@
 
 ### [퓨전 국악 \(Fusion Korean National\)](https://open.spotify.com/playlist/37i9dQZF1DXbqEesmXsTTO)
 
-> 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: 이희문&허송세월&놈놈\(OBSG\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
+> 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: 삼산\(SamSan\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
 
-60 songs - 3 hr 57 min
+61 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A dream that misses you](https://open.spotify.com/track/2TuCwj0qqQX5qBottrDLml) | [JIN JU](https://open.spotify.com/artist/6vmnjbKZsgDFzGJEYZ9YFI) | [A dream that misses you](https://open.spotify.com/album/5Vjqa7KWRyWuIEu4niXo2n) | 3:54 | 2023-09-26 |  |
+| [AcDaJi\-歌](https://open.spotify.com/track/4ms3ziNYCXCh6hXXcpNEs2) | [SamSan](https://open.spotify.com/artist/0Mqb4ZExEqQNOkEFSyZiql), [Han Woong Won](https://open.spotify.com/artist/6gYgsMseEMY6iYkUsL662N) | [AcDaJi\-歌](https://open.spotify.com/album/4zEPfoiIle9t6UAIN9u8sV) | 3:15 | 2024-02-10 |  |
 | [Acting Crazy](https://open.spotify.com/track/2X89NmA9AIp0m2EtwUiE6S) | [절대歌인](https://open.spotify.com/artist/3YaJoDao3oqcusy3N7MHYo) | [Acting Crazy](https://open.spotify.com/album/18yKiwtJRYdodXlX99RpmU) | 4:49 | 2023-09-26 |  |
 | [Anger](https://open.spotify.com/track/2xYTslSxL22pkihE4SDOOV) | [JUL Hz](https://open.spotify.com/artist/3q9MrWj0QcoFFN9oUk6X5p) | [Anger](https://open.spotify.com/album/5JcFyzYqkggCcE5T9ktt46) | 5:39 | 2023-09-26 |  |
 | [Another House](https://open.spotify.com/track/6NbXlwLTcU0KWkxVapRvkL) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [GANGNAM OASIS](https://open.spotify.com/album/6yqq2JbXTTpb4J3zeIyel7) | 3:34 | 2023-09-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1?si=FJadowUgS1eQ\-YJM\-bwJTw">Ch'cco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,151 likes - 60 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,030 likes - 60 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 59 | [Gangnam Style \(feat\. DJ Maphorisa & Kabza De Small\)](https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3) | [Mas Musiq](https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Gangnam Style \(feat\. DJ Maphorisa & Kabza De Small\)](https://open.spotify.com/album/0uNAWv8SfWOd9vIJ3QwzcH) | 5:50 |
 | 60 | [uLala Kanjani \(feat\. LeeMcKrazy & Skandisoul\)](https://open.spotify.com/track/1AVIL2s4vkE92Qupej37JR) | [Dj Jaivane](https://open.spotify.com/artist/4F8OilWxRKQzg1Lw9sJ4Pl), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Skandisoul](https://open.spotify.com/artist/5BylS0DlB7413vwmIlyrUr) | [uLala Kanjani \(feat\. LeeMcKrazy & Skandisoul\)](https://open.spotify.com/album/0T7467OKg5BLGHaL1XdqOk) | 5:47 |
 
-Snapshot ID: `MCxjZGYzMWJjNDI5YTU4NmNmYTcwYjYxMTYxOGExZTgxM2ViYTZkZTY0`
+Snapshot ID: `MCwzNmVjOGQzZDVkNTdiYTcxOGIxOWNmNWQyMmIzMWIyNjA1ZGFhNzg2`

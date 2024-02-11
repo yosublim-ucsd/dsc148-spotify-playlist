@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the week! Cover: Usher",
-  "num_followers": 369829,
+  "num_followers": 369875,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTk5MGEzYWViNGM4Mzk5N2UxNTJkNjBiYzdiMThkOTA1M2VjZjY0",
+  "snapshot_id": "MCw2MjNlNGEzYTM1NGVlNTFmODA4NTZiMTExYjNhOTUzMmQxNjAzMWFh",
   "tracks": [
     {
       "added_at": "2024-02-08 13:00:00",
@@ -1202,6 +1202,10 @@
         {
           "name": "Pieter T",
           "url": "https://open.spotify.com/artist/5Sr3QRGJOKL3r5NzKAbdX3"
+        },
+        {
+          "name": "Sailor Goon",
+          "url": "https://open.spotify.com/artist/1FZj2HbeTP7F5xOqIrPKKZ"
         }
       ],
       "duration_ms": 192500,

@@ -1,7 +1,7 @@
 {
-  "2024-02-10": 12961,
+  "2024-02-11": 12962,
   "date_first_scraped": "2023-06-15",
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Fntxy en portada. ",
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Milo J en portada. ",
   "name": "Rimas Frescas ",
   "tracks": [
     {
@@ -402,6 +402,24 @@
     },
     {
       "album": {
+        "name": "Ahora Me Llamas?",
+        "url": "https://open.spotify.com/album/5ADHbGU6bCmQFPclXYzEqN"
+      },
+      "artists": [
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Ahora Me Llamas?",
+      "url": "https://open.spotify.com/track/0TNizA9ajRISlMeOHuVarM"
+    },
+    {
+      "album": {
         "name": "Mirar Pa' Dentro",
         "url": "https://open.spotify.com/album/7zxtczgh8ys5vxrO6FpowQ"
       },
@@ -501,7 +519,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 184000,
       "name": "Alivio",
       "url": "https://open.spotify.com/track/0wE2VPG8nNCdQA9TztEN1r"
@@ -2119,7 +2137,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 234482,
       "name": "Cuervos",
       "url": "https://open.spotify.com/track/5AobkOUXrsRz0oQpMpkLDO"
@@ -2843,7 +2861,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 150000,
       "name": "El Fr\u00edo Ac\u00e1",
       "url": "https://open.spotify.com/track/4xi2La7fysov46A6T9CrHH"
@@ -3477,7 +3495,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 219130,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/13LnN7SHnxmugpaWLud14U"
@@ -4174,6 +4192,28 @@
     },
     {
       "album": {
+        "name": "Intento Tras Intento",
+        "url": "https://open.spotify.com/album/2LglQCv5q8IgsDCjEeADuZ"
+      },
+      "artists": [
+        {
+          "name": "El Muisca",
+          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Intento Tras Intento",
+      "url": "https://open.spotify.com/track/7L5mJIafA9H5p7HCQdpPPN"
+    },
+    {
+      "album": {
         "name": "JOSEAR",
         "url": "https://open.spotify.com/album/2agTC7zjgkT8yAxZ9F9ceG"
       },
@@ -4395,6 +4435,28 @@
       "duration_ms": 167000,
       "name": "La Cara de Loco",
       "url": "https://open.spotify.com/track/5NxgaP46I5vi1aJZW4oIsZ"
+    },
+    {
+      "album": {
+        "name": "La Carnita Asada",
+        "url": "https://open.spotify.com/album/5EJQ2gD174XrqCeC3b0xTH"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275647,
+      "name": "La Carnita Asada",
+      "url": "https://open.spotify.com/track/6OVOur8etLTboDdX6Q1tZF"
     },
     {
       "album": {
@@ -4845,7 +4907,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 181947,
       "name": "La \u00daltima Canci\u00f3n",
       "url": "https://open.spotify.com/track/6s6xMMFGXLntUYlgcKn0bD"
@@ -5360,6 +5422,24 @@
     },
     {
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283909,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
+    },
+    {
+      "album": {
         "name": "Luna y Sol",
         "url": "https://open.spotify.com/album/7qET75pgMFALPVExgEjjXK"
       },
@@ -5489,7 +5569,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 184799,
       "name": "Mala",
       "url": "https://open.spotify.com/track/6ddKkBixwvyJdr5OHG3vVx"
@@ -6862,6 +6942,28 @@
     },
     {
       "album": {
+        "name": "No Plastic",
+        "url": "https://open.spotify.com/album/69j4gGoZImXXdjSp4jEAsL"
+      },
+      "artists": [
+        {
+          "name": "Mamborap",
+          "url": "https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0"
+        },
+        {
+          "name": "Yoky Barrios",
+          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225919,
+      "name": "No Plastic",
+      "url": "https://open.spotify.com/track/1uqCdusN5nAO9MXU01KuxO"
+    },
+    {
+      "album": {
         "name": "NO SOMOS LOS MISMOS",
         "url": "https://open.spotify.com/album/6hXTIfIAEvZUPPEPcsHEes"
       },
@@ -7619,7 +7721,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 129375,
       "name": "PERO NAH!",
       "url": "https://open.spotify.com/track/1XGfXlXEggYgLHPFQIT1Aq"
@@ -9082,6 +9184,36 @@
     },
     {
       "album": {
+        "name": "Tensi\u00f3n",
+        "url": "https://open.spotify.com/album/3hCkYv6L9uhcXnoIqvJzSJ"
+      },
+      "artists": [
+        {
+          "name": "Never Die",
+          "url": "https://open.spotify.com/artist/4erhclLz9x7J1JOpNdEK2Z"
+        },
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        },
+        {
+          "name": "Bizor",
+          "url": "https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7"
+        },
+        {
+          "name": "Mike Diaz",
+          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175400,
+      "name": "Tensi\u00f3n",
+      "url": "https://open.spotify.com/track/1bfMxV2zzeFytzlW53xdCX"
+    },
+    {
+      "album": {
         "name": "terminamos en el peor de los casos",
         "url": "https://open.spotify.com/album/2CH684PROXeIxC0iYdHdAE"
       },
@@ -9820,6 +9952,24 @@
     },
     {
       "album": {
+        "name": "VITALICIO",
+        "url": "https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "VITALICIO",
+      "url": "https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy"
+    },
+    {
+      "album": {
         "name": "Ayer Mate a un Hombre",
         "url": "https://open.spotify.com/album/5aYLZmzE0fwzRET4dVF1vu"
       },
@@ -9879,7 +10029,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 174782,
       "name": "Wayne",
       "url": "https://open.spotify.com/track/1MwVDZxCMUeAEWqiulsIHa"
@@ -9967,7 +10117,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 229395,
       "name": "Ya Te Solt\u00e9",
       "url": "https://open.spotify.com/track/40cHXCflLI04RYm5WFbvLR"

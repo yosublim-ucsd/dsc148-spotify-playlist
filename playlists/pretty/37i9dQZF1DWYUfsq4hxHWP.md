@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Mike Parker, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,726 likes - 99 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,744 likes - 99 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 98 | [Run Girl Run](https://open.spotify.com/track/3JdC1sHodJSQKB6CeIhTFr) | [Jess Antonette](https://open.spotify.com/artist/5TSuYlF2Nq7kAiSQ8Qe20G) | [Run Girl Run](https://open.spotify.com/album/3Qff5lmanAuoqWVx86RTuZ) | 2:42 |
 | 99 | [All Night Longer](https://open.spotify.com/track/2ZyUI5u4aeGZKhOl8cqehj) | [Matt Lang](https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW) | [All Night Longer](https://open.spotify.com/album/5jKe6XfmMaepzDQlJMwRTN) | 2:55 |
 
-Snapshot ID: `MCw1MWM2ZTJhNjk4ODU3NWJkZTk5MzI0NGM0MzAyOWVmYmJlYWM3N2Ez`
+Snapshot ID: `MCwzNGM1YjhmZTNmZTk5MjVmMWRkOGZhNDJmZTJhNDI3ZTQyMWJlNjNm`

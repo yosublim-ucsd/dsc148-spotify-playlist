@@ -1,5 +1,5 @@
 {
-  "2024-02-10": 66054,
+  "2024-02-11": 66068,
   "date_first_scraped": "2021-12-28",
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
   "name": "Merengue T\u00edpico",
@@ -237,7 +237,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-10",
       "duration_ms": 187533,
       "name": "Aprietame Asi",
       "url": "https://open.spotify.com/track/6D23Vktrh77musjHydnFzX"
@@ -1666,7 +1666,7 @@
     },
     {
       "album": {
-        "name": "Los Numero 1",
+        "name": "Los Numero 1 Bachata y Merengue Tipico",
         "url": "https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI"
       },
       "artists": [
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-26",
+      "date_removed": null,
       "duration_ms": 300760,
       "name": "El Pompo",
       "url": "https://open.spotify.com/track/7HgiICdOqo0M8mliWTfqdx"

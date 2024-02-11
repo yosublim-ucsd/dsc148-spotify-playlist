@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,917 likes - 140 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,096 likes - 140 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 139 | [Matinaka](https://open.spotify.com/track/0fyvaevkqF24i9laNCyvgl) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Zanzou](https://open.spotify.com/album/7y23NtZPMebkQxHL8YY144) | 3:02 |
 | 140 | [Bohemian Paradise](https://open.spotify.com/track/6IdB80rkZp5uaKooVoxpjA) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In the Age of Aristrocracy \(2 Year Anniversary Extended Edition\)](https://open.spotify.com/album/0x6TBcRG1kyb1Rh5RvXfUL) | 4:54 |
 
-Snapshot ID: `MCxhN2FhY2M0NzExNjNhZDBlOGU3NzI1MDg2NTgyZTQzMGMxNGQyNTBj`
+Snapshot ID: `MCw4OGVlNDA5Y2ZjMzg4MjFlN2Q4ZGQxMTg4M2JmMjFkZDU5YzQ4MzBm`
